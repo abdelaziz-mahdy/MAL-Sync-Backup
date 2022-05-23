@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsunaga Takayuki"
-  ],
+  "createdAt": "2020-10-12T16:09:27.000Z",
+  "updatedAt": "2021-12-04T17:55:35.000Z",
+  "checkedAt": null,
+  "id": 15039,
   "identifier": "545ae8af-8afa-4b9e-841b-7ee3a6bb825d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96216,
   "aniId": 96777,
-  "createdAt": "2020-10-12T16:09:27.000Z",
-  "updatedAt": "2021-12-04T17:55:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsunaga Takayuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:24.000Z",
+    "updatedAt": "2022-02-22T01:47:50.000Z",
+    "checkedAt": null,
+    "id": 96216,
+    "type": "manga",
+    "title": "LIttLE 13",
+    "altTitle": [
+      "LIttLE13"
+    ],
+    "url": "https://myanimelist.net/manga/96216/LIttLE_13",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171489.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LIttLE13"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsunaga, Takayuki"
-    ],
-    "id": 96216,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:28.583Z",
+    "updatedAt": "2022-05-13T12:41:28.583Z",
+    "checkedAt": null,
+    "id": 96777,
     "type": "manga",
     "title": "LIttLE 13",
-    "url": "https://myanimelist.net/manga/96216/LIttLE_13",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171489.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:24.000Z",
-    "updatedAt": "2022-02-22T01:47:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "LIttLE13"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takayuki Matsunaga"
-    ],
-    "id": 96777,
-    "malId": 96216,
-    "type": "manga",
-    "title": "LIttLE 13",
     "url": "https://anilist.co/manga/96777",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96777-JR3zjOMSpnZa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:02.000Z",
-    "updatedAt": "2021-12-18T01:53:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96216/LIttLE_13"
+    "externalLinks": [],
+    "malId": 96216,
+    "deletedAt": null,
+    "authors": [
+      "Takayuki Matsunaga"
+    ]
+  }
 }

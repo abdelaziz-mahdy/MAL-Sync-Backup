@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Eto Mori",
-    "Ruzuru Akashiba"
-  ],
+  "createdAt": "2020-10-12T16:20:36.000Z",
+  "updatedAt": "2021-12-08T00:42:12.000Z",
+  "checkedAt": null,
+  "id": 37562,
   "identifier": "19bd133b-7381-4da9-a703-d56d41a664cb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 106848,
   "aniId": 99826,
-  "createdAt": "2020-10-12T16:20:36.000Z",
-  "updatedAt": "2021-12-08T00:42:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Eto Mori",
+    "Ruzuru Akashiba"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:04.000Z",
+    "updatedAt": "2021-11-19T06:14:57.000Z",
+    "checkedAt": null,
+    "id": 106848,
+    "type": "manga",
+    "title": "Dive!!",
+    "altTitle": [
+      "Dive!!",
+      "DIVE!!"
+    ],
+    "url": "https://myanimelist.net/manga/106848/Dive",
+    "image": "https://cdn.myanimelist.net/images/manga/2/198937.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +42,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dive!!",
-      "DIVE!!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mori, Eto",
       "Akashiba, Ruzuru"
-    ],
-    "id": 106848,
-    "type": "manga",
-    "title": "Dive!!",
-    "url": "https://myanimelist.net/manga/106848/Dive",
-    "image": "https://cdn.myanimelist.net/images/manga/2/198937.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:04.000Z",
-    "updatedAt": "2021-11-19T06:14:57.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:25.173Z",
+    "updatedAt": "2022-05-13T13:05:25.173Z",
+    "checkedAt": null,
+    "id": 99826,
+    "type": "manga",
+    "title": "DIVE!!",
     "altTitle": [
       "ダイブ!!",
       "Daibu",
       "Dive!!"
     ],
+    "url": "https://anilist.co/manga/99826",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99826-SNw0VR09qXj8.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 106848,
+    "deletedAt": null,
     "authors": [
       "Eto Mori",
       "Ruzuru Akashiba",
       "Christine Dashiell",
       "Suzuhito Yasuda",
       "Alexis Eckerman"
-    ],
-    "id": 99826,
-    "malId": 106848,
-    "type": "manga",
-    "title": "DIVE!!",
-    "url": "https://anilist.co/manga/99826",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99826-SNw0VR09qXj8.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:48.000Z",
-    "updatedAt": "2021-12-18T02:58:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/106848/Dive"
+    ]
+  }
 }

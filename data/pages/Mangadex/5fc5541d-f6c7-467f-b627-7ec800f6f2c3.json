@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Fujino Chiya",
-    "Shimura Takako"
-  ],
+  "createdAt": "2020-10-12T16:03:31.000Z",
+  "updatedAt": "2021-12-02T14:49:08.000Z",
+  "checkedAt": null,
+  "id": 2397,
   "identifier": "5fc5541d-f6c7-467f-b627-7ec800f6f2c3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9226,
   "aniId": 39226,
-  "createdAt": "2020-10-12T16:03:31.000Z",
-  "updatedAt": "2021-12-02T14:49:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujino Chiya",
+    "Shimura Takako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:23.000Z",
+    "updatedAt": "2022-03-30T12:35:40.000Z",
+    "checkedAt": null,
+    "id": 9226,
+    "type": "manga",
+    "title": "Route 225",
+    "altTitle": [
+      "Root 225",
+      "ルート225"
+    ],
+    "url": "https://myanimelist.net/manga/9226/Route_225",
+    "image": "https://cdn.myanimelist.net/images/manga/5/40367.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Root 225",
-      "ルート225"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shimura, Takako",
       "Fujino, Chiya"
-    ],
-    "id": 9226,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:32.329Z",
+    "updatedAt": "2022-05-13T12:46:32.329Z",
+    "checkedAt": null,
+    "id": 39226,
     "type": "manga",
     "title": "Route 225",
-    "url": "https://myanimelist.net/manga/9226/Route_225",
-    "image": "https://cdn.myanimelist.net/images/manga/5/40367.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:23.000Z",
-    "updatedAt": "2022-03-30T12:35:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ルート225",
       "Root 225"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takako Shimura",
-      "Chiya Fujino"
-    ],
-    "id": 39226,
-    "malId": 9226,
-    "type": "manga",
-    "title": "Route 225",
     "url": "https://anilist.co/manga/39226",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39226-lVPcSHn1pMM8.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:55.000Z",
-    "updatedAt": "2022-03-11T17:29:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9226/Route_225"
+    "externalLinks": [],
+    "malId": 9226,
+    "deletedAt": null,
+    "authors": [
+      "Takako Shimura",
+      "Chiya Fujino"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ryuryu Sink",
-    "Sakura"
-  ],
+  "createdAt": "2020-10-12T16:12:31.000Z",
+  "updatedAt": "2021-12-05T15:22:09.000Z",
+  "checkedAt": null,
+  "id": 21171,
   "identifier": "75fb2312-1a4d-4bc5-8034-9ad2802247be",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115273,
   "aniId": 102079,
-  "createdAt": "2020-10-12T16:12:31.000Z",
-  "updatedAt": "2021-12-05T15:22:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ryuryu Sink",
+    "Sakura"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-05-22T06:24:45.000Z",
+    "checkedAt": "2022-05-22T06:24:45.000Z",
+    "id": 115273,
+    "type": "manga",
+    "title": "Waga Itoshi no Wota Kanojo",
+    "altTitle": [
+      "我が愛しのヲタ彼女"
+    ],
+    "url": "https://myanimelist.net/manga/115273/Waga_Itoshi_no_Wota_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/221272.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "我が愛しのヲタ彼女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakura",
       "Ryuuryuu, Shinku"
-    ],
-    "id": 115273,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:50.112Z",
+    "updatedAt": "2022-05-22T06:24:43.000Z",
+    "checkedAt": "2022-05-22T06:24:43.000Z",
+    "id": 102079,
     "type": "manga",
     "title": "Waga Itoshi no Wota Kanojo",
-    "url": "https://myanimelist.net/manga/115273/Waga_Itoshi_no_Wota_Kanojo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/221272.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-02-23T23:18:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "我が愛しのヲタ彼女",
       "Boy meets \"Wota\" Girl. Don't think. Feel!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sakura",
-      "Shinku Ryuuryuu"
-    ],
-    "id": 102079,
-    "malId": 115273,
-    "type": "manga",
-    "title": "Waga Itoshi no Wota Kanojo",
     "url": "https://anilist.co/manga/102079",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102079-K1M0Mu8UoNfk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:14.000Z",
-    "updatedAt": "2021-12-18T04:19:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115273/Waga_Itoshi_no_Wota_Kanojo"
+    "externalLinks": [],
+    "malId": 115273,
+    "deletedAt": null,
+    "authors": [
+      "Sakura",
+      "Shinku Ryuuryuu"
+    ]
+  }
 }

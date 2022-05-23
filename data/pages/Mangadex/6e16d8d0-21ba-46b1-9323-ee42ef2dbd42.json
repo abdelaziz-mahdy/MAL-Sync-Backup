@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hashiguchi Takashi",
-    "Irie Kenzou"
-  ],
+  "createdAt": "2020-10-12T16:03:08.000Z",
+  "updatedAt": "2021-12-02T12:17:27.000Z",
+  "checkedAt": null,
+  "id": 1590,
   "identifier": "6e16d8d0-21ba-46b1-9323-ee42ef2dbd42",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7656,
   "aniId": 37656,
-  "createdAt": "2020-10-12T16:03:08.000Z",
-  "updatedAt": "2021-12-02T12:17:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hashiguchi Takashi",
+    "Irie Kenzou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:15.000Z",
+    "updatedAt": "2022-05-23T12:00:48.000Z",
+    "checkedAt": "2022-05-23T12:00:48.000Z",
+    "id": 7656,
+    "type": "manga",
+    "title": "Saijou no Meii",
+    "altTitle": [
+      "The Best Skilled Surgeon",
+      "最上の命医"
+    ],
+    "url": "https://myanimelist.net/manga/7656/Saijou_no_Meii",
+    "image": "https://cdn.myanimelist.net/images/manga/4/75577.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Best Skilled Surgeon",
-      "最上の命医"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hashiguchi, Takashi",
       "Irie, Kenzou"
-    ],
-    "id": 7656,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:11.867Z",
+    "updatedAt": "2022-05-23T12:00:47.000Z",
+    "checkedAt": "2022-05-23T12:00:47.000Z",
+    "id": 37656,
     "type": "manga",
     "title": "Saijou no Meii",
-    "url": "https://myanimelist.net/manga/7656/Saijou_no_Meii",
-    "image": "https://cdn.myanimelist.net/images/manga/4/75577.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:15.000Z",
-    "updatedAt": "2022-04-12T11:30:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "最上の命医",
       "The Best Skilled Surgeon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takashi Hashiguchi",
-      "Kenzou Irie"
-    ],
-    "id": 37656,
-    "malId": 7656,
-    "type": "manga",
-    "title": "Saijou no Meii",
     "url": "https://anilist.co/manga/37656",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37656-F6DrwHeK3jV6.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:53.000Z",
-    "updatedAt": "2021-12-17T13:12:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7656/Saijou_no_Meii"
+    "externalLinks": [],
+    "malId": 7656,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Hashiguchi",
+      "Kenzou Irie"
+    ]
+  }
 }

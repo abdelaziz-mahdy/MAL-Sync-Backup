@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Murata Kouji"
-  ],
+  "createdAt": "2020-10-12T16:19:23.000Z",
+  "updatedAt": "2022-02-11T18:09:38.000Z",
+  "checkedAt": null,
+  "id": 35098,
   "identifier": "8abb525b-c066-43ee-aeec-99ea0829b2b1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 131434,
   "aniId": 123823,
-  "createdAt": "2020-10-12T16:19:23.000Z",
-  "updatedAt": "2022-02-11T18:09:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murata Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-12-09T18:47:10.000Z",
+    "updatedAt": "2022-05-14T17:13:40.000Z",
+    "checkedAt": "2022-05-14T17:13:40.000Z",
+    "id": 131434,
+    "type": "manga",
+    "title": "Akai Ringo",
+    "altTitle": [
+      "アカイリンゴ"
+    ],
+    "url": "https://myanimelist.net/manga/131434/Akai_Ringo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/237642.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アカイリンゴ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murata, Kouji"
-    ],
-    "id": 131434,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:23.250Z",
+    "updatedAt": "2022-05-18T08:46:45.000Z",
+    "checkedAt": "2022-05-18T08:46:45.000Z",
+    "id": 123823,
     "type": "manga",
     "title": "Akai Ringo",
-    "url": "https://myanimelist.net/manga/131434/Akai_Ringo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/237642.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-09T18:47:10.000Z",
-    "updatedAt": "2022-01-10T10:42:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アカイリンゴ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Koji Murata"
-    ],
-    "id": 123823,
-    "malId": 131434,
-    "type": "manga",
-    "title": "Akai Ringo",
     "url": "https://anilist.co/manga/123823",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123823-UjQkPmyBtDNR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T19:18:58.000Z",
-    "updatedAt": "2021-12-18T10:52:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/131434/Akai_Ringo"
+    "externalLinks": [],
+    "malId": 131434,
+    "deletedAt": null,
+    "authors": [
+      "Koji Murata"
+    ]
+  }
 }

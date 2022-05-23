@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kento Terasaka"
-  ],
+  "createdAt": "2022-04-06T20:00:53.000Z",
+  "updatedAt": "2022-04-06T20:30:23.000Z",
+  "checkedAt": null,
+  "id": 100794,
   "identifier": "manga-ee981913",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120062,
   "aniId": 109173,
-  "createdAt": "2022-04-06T20:00:53.000Z",
-  "updatedAt": "2022-04-06T20:30:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kento Terasaka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:02.000Z",
+    "updatedAt": "2022-05-20T06:46:50.000Z",
+    "checkedAt": "2022-05-20T06:46:50.000Z",
+    "id": 120062,
+    "type": "manga",
+    "title": "Beast Children",
+    "altTitle": [
+      "Beast Children",
+      "ビーストチルドレン"
+    ],
+    "url": "https://myanimelist.net/manga/120062/Beast_Children",
+    "image": "https://cdn.myanimelist.net/images/manga/1/224193.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,55 +41,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Beast Children",
-      "ビーストチルドレン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Terasaka, Kento"
-    ],
-    "id": 120062,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:39.018Z",
+    "updatedAt": "2022-05-20T06:46:48.000Z",
+    "checkedAt": "2022-05-20T06:46:48.000Z",
+    "id": 109173,
     "type": "manga",
     "title": "Beast Children",
-    "url": "https://myanimelist.net/manga/120062/Beast_Children",
-    "image": "https://cdn.myanimelist.net/images/manga/1/224193.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:02.000Z",
-    "updatedAt": "2022-04-06T20:01:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Beast Children",
       "ビーストチルドレン"
     ],
-    "externalLinks": [
-      {
-        "site": "MangaPlus",
-        "url": "https://mangaplus.shueisha.co.jp/titles/100061"
-      },
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/shonenjump/chapters/beast-children"
-      }
-    ],
-    "authors": [
-      "Kento Terasaka",
-      "Christine Dashiell",
-      "Mark McMurray"
-    ],
-    "id": 109173,
-    "malId": 120062,
-    "type": "manga",
-    "title": "Beast Children",
     "url": "https://anilist.co/manga/109173",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109173-q9AFhbVI18ms.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:13.000Z",
-    "updatedAt": "2021-12-18T06:24:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120062/Beast_Children"
+    "externalLinks": [
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/100061"
+      }
+    ],
+    "malId": 120062,
+    "deletedAt": null,
+    "authors": [
+      "Kento Terasaka",
+      "Christine Dashiell",
+      "Mark McMurray"
+    ]
+  }
 }

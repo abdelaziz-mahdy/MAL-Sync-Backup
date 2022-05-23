@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:00:25.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17690,
   "identifier": "fragtime",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39545,
   "aniId": 108487,
-  "createdAt": "2020-10-12T16:00:25.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T17:50:53.000Z",
+    "checkedAt": "2022-05-14T17:50:53.000Z",
+    "id": 39545,
+    "type": "anime",
+    "title": "Fragtime",
+    "altTitle": [
+      "Flag Time",
+      "Flagtime",
+      "Frag Time",
+      "フラグタイム"
+    ],
+    "url": "https://myanimelist.net/anime/39545/Fragtime",
+    "image": "https://cdn.myanimelist.net/images/anime/1752/101373.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,45 +57,32 @@
         "url": "http://www.crunchyroll.com/series-281521"
       }
     ],
-    "altTitle": [
-      "Flag Time, Flagtime, Frag Time",
-      "フラグタイム"
-    ],
-    "id": 39545,
+    "deletedAt": null,
+    "anidbId": 14763
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:56.000Z",
+    "updatedAt": "2022-05-15T14:40:11.000Z",
+    "checkedAt": "2022-05-15T14:40:11.000Z",
+    "id": 108487,
     "type": "anime",
     "title": "Fragtime",
-    "url": "https://myanimelist.net/anime/39545/Fragtime",
-    "image": "https://cdn.myanimelist.net/images/anime/1752/101373.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 14763,
-    "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2022-04-06T06:01:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fragtime",
       "フラグタイム",
       "Frag Time"
     ],
+    "url": "https://anilist.co/anime/108487",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108487-yooQBdxG21pV.jpg",
+    "category": "movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
         "url": "https://www.hidive.com/movies/fragtime"
       }
     ],
-    "id": 108487,
     "malId": 39545,
-    "type": "anime",
-    "title": "Fragtime",
-    "url": "https://anilist.co/anime/108487",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108487-yooQBdxG21pV.jpg",
-    "category": "movie",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:56.000Z",
-    "updatedAt": "2021-12-17T17:22:58.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/39545/Fragtime"
+  }
 }

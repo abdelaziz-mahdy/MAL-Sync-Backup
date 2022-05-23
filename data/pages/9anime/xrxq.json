@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:32.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10383,
   "identifier": "xrxq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28221,
   "aniId": 20930,
-  "createdAt": "2020-10-12T15:56:32.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:31.000Z",
+    "updatedAt": "2022-05-14T18:08:53.000Z",
+    "checkedAt": "2022-05-14T18:08:53.000Z",
+    "id": 28221,
+    "type": "anime",
+    "title": "Etotama",
+    "altTitle": [
+      "Eto Tamashii",
+      "Etotama",
+      "えとたま（干支魂）"
+    ],
+    "url": "https://myanimelist.net/anime/28221/Etotama",
+    "image": "https://cdn.myanimelist.net/images/anime/7/73586.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +56,23 @@
         "url": "http://www.crunchyroll.com/series-265665"
       }
     ],
-    "altTitle": [
-      "Eto Tamashii",
-      "Etotama",
-      "えとたま（干支魂）"
-    ],
-    "id": 28221,
+    "deletedAt": null,
+    "anidbId": 10904
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:43.000Z",
+    "updatedAt": "2022-05-15T10:43:11.000Z",
+    "checkedAt": "2022-05-15T10:43:11.000Z",
+    "id": 20930,
     "type": "anime",
     "title": "Etotama",
-    "url": "https://myanimelist.net/anime/28221/Etotama",
-    "image": "https://cdn.myanimelist.net/images/anime/7/73586.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10904,
-    "createdAt": "2020-10-12T15:39:31.000Z",
-    "updatedAt": "2022-03-04T17:33:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "えとたま"
     ],
+    "url": "https://anilist.co/anime/20930",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20930-ThOVT9nTMetT.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/G6Q4Q41ZR/ETOTAMA"
       }
     ],
-    "id": 20930,
     "malId": 28221,
-    "type": "anime",
-    "title": "Etotama",
-    "url": "https://anilist.co/anime/20930",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20930-ThOVT9nTMetT.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:43.000Z",
-    "updatedAt": "2022-02-04T03:36:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/28221/Etotama"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sandrovich Yabako",
-    "Daromeon"
-  ],
+  "createdAt": "2021-06-03T03:01:46.000Z",
+  "updatedAt": "2021-12-03T03:46:37.000Z",
+  "checkedAt": null,
+  "id": 76018,
   "identifier": "manga-pu952929",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72025,
   "aniId": 86265,
-  "createdAt": "2021-06-03T03:01:46.000Z",
-  "updatedAt": "2021-12-03T03:46:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sandrovich Yabako",
+    "Daromeon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-05-14T16:55:14.000Z",
+    "checkedAt": "2022-05-14T16:55:14.000Z",
+    "id": 72025,
+    "type": "manga",
+    "title": "Kengan Ashura",
+    "altTitle": [
+      "Kengan Ashura",
+      "ケンガンアシュラ"
+    ],
+    "url": "https://myanimelist.net/manga/72025/Kengan_Ashura",
+    "image": "https://cdn.myanimelist.net/images/manga/1/210808.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kengan Ashura",
-      "ケンガンアシュラ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Daromeon",
       "Sandrovich, Yabako"
-    ],
-    "id": 72025,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:01.451Z",
+    "updatedAt": "2022-05-15T19:39:35.000Z",
+    "checkedAt": "2022-05-15T19:39:35.000Z",
+    "id": 86265,
     "type": "manga",
     "title": "Kengan Ashura",
-    "url": "https://myanimelist.net/manga/72025/Kengan_Ashura",
-    "image": "https://cdn.myanimelist.net/images/manga/1/210808.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-04-08T00:00:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ケンガンアシュラ",
       "Kengan Asura"
     ],
+    "url": "https://anilist.co/manga/86265",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86265-TyETC1VA9qWd.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 72025,
+    "deletedAt": null,
     "authors": [
       "Daromeon",
       "Yabako Sandrovich",
       "Ji-Yeon Jang",
       "Remi Buquet",
       "Hajime Musashino"
-    ],
-    "id": 86265,
-    "malId": 72025,
-    "type": "manga",
-    "title": "Kengan Ashura",
-    "url": "https://anilist.co/manga/86265",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86265-TyETC1VA9qWd.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:35.000Z",
-    "updatedAt": "2022-01-13T03:43:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72025/Kengan_Ashura"
+    ]
+  }
 }

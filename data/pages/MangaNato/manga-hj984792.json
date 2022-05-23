@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakano Anri",
-    "Asagiri Kafka"
-  ],
+  "createdAt": "2021-05-29T03:45:38.000Z",
+  "updatedAt": "2022-02-05T20:36:03.000Z",
+  "checkedAt": null,
+  "id": 73304,
   "identifier": "manga-hj984792",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130207,
   "aniId": 117950,
-  "createdAt": "2021-05-29T03:45:38.000Z",
-  "updatedAt": "2022-02-05T20:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakano Anri",
+    "Asagiri Kafka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:24.000Z",
+    "updatedAt": "2021-11-29T04:06:54.000Z",
+    "checkedAt": null,
+    "id": 130207,
+    "type": "manga",
+    "title": "Guildre",
+    "altTitle": [
+      "Guilty Children",
+      "ギルドレ"
+    ],
+    "url": "https://myanimelist.net/manga/130207/Guildre",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235122.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Guilty Children",
-      "ギルドレ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakano, Anri",
       "Asagiri, Kafka"
-    ],
-    "id": 130207,
-    "type": "manga",
-    "title": "Guildre",
-    "url": "https://myanimelist.net/manga/130207/Guildre",
-    "image": "https://cdn.myanimelist.net/images/manga/1/235122.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:24.000Z",
-    "updatedAt": "2021-11-29T04:06:54.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:45.753Z",
+    "updatedAt": "2022-05-13T13:00:45.753Z",
+    "checkedAt": null,
+    "id": 117950,
+    "type": "manga",
+    "title": "Gildre",
     "altTitle": [
       "ギルドレ",
       "Girudore",
       "Guilty Children"
     ],
+    "url": "https://anilist.co/manga/117950",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117950-KBvaysuXMdeW.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 130207,
+    "deletedAt": null,
     "authors": [
       "Anri Sakano",
       "Kafka Asagiri",
       "Ame Karasuba",
       "Ryuuichi Sadamatsu"
-    ],
-    "id": 117950,
-    "malId": 130207,
-    "type": "manga",
-    "title": "Gildre",
-    "url": "https://anilist.co/manga/117950",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117950-KBvaysuXMdeW.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:30.000Z",
-    "updatedAt": "2021-12-18T09:20:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130207/Guildre"
+    ]
+  }
 }

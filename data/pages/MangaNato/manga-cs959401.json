@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kanzaka Hajime"
-  ],
+  "createdAt": "2021-07-03T15:04:06.000Z",
+  "updatedAt": "2022-01-03T15:54:23.000Z",
+  "checkedAt": null,
+  "id": 80715,
   "identifier": "manga-cs959401",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 723,
   "aniId": 30723,
-  "createdAt": "2021-07-03T15:04:06.000Z",
-  "updatedAt": "2022-01-03T15:54:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanzaka Hajime"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Slayers#Manga"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-01-03T15:23:42.000Z",
+    "checkedAt": null,
+    "id": 723,
+    "type": "manga",
+    "title": "Slayers: Super Explosive Demon Story",
     "altTitle": [
       "Choubaku Mahouden Slayers",
       "Mega-Explosive Magical Legend SLAYERS",
@@ -32,22 +33,30 @@
       "Slayers: Super Explosive Demon Story",
       "超爆魔道伝スレイヤーズ"
     ],
-    "authors": [
-      "Kanzaka, Hajime",
-      "Yoshinaka, Shouko"
-    ],
-    "id": 723,
-    "type": "manga",
-    "title": "Slayers: Super Explosive Demon Story",
     "url": "https://myanimelist.net/manga/723/Slayers__Super_Explosive_Demon_Story",
     "image": "https://cdn.myanimelist.net/images/manga/4/155337.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-01-03T15:23:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Slayers#Manga"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kanzaka, Hajime",
+      "Yoshinaka, Shouko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:40.037Z",
+    "updatedAt": "2022-05-13T12:40:40.037Z",
+    "checkedAt": null,
+    "id": 30723,
+    "type": "manga",
+    "title": "Choubaku Madouden Slayers",
     "altTitle": [
       "Slayers: Super Explosive Demon Story",
       "超爆魔道伝スレイヤーズ",
@@ -55,22 +64,16 @@
       "Mega-Explosive Magical Legend SLAYERS",
       "Slayers RETURN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Kanzaka",
-      "Shoko Yoshinaka"
-    ],
-    "id": 30723,
-    "malId": 723,
-    "type": "manga",
-    "title": "Choubaku Madouden Slayers",
     "url": "https://anilist.co/manga/30723",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30723-eMtKsAD89DNT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-25T20:27:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/723/Slayers__Super_Explosive_Demon_Story"
+    "externalLinks": [],
+    "malId": 723,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Kanzaka",
+      "Shoko Yoshinaka"
+    ]
+  }
 }

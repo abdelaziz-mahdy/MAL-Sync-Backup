@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takenaka Hideo"
-  ],
+  "createdAt": "2021-07-09T06:13:49.000Z",
+  "updatedAt": "2022-01-09T06:49:10.000Z",
+  "checkedAt": null,
+  "id": 81371,
   "identifier": "manga-vr972900",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99733,
   "aniId": 97433,
-  "createdAt": "2021-07-09T06:13:49.000Z",
-  "updatedAt": "2022-01-09T06:49:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takenaka Hideo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:33.000Z",
+    "updatedAt": "2022-01-09T06:18:00.000Z",
+    "checkedAt": null,
+    "id": 99733,
+    "type": "manga",
+    "title": "Kuhime",
+    "altTitle": [
+      "喰姫―クヒメ―"
+    ],
+    "url": "https://myanimelist.net/manga/99733/Kuhime",
+    "image": "https://cdn.myanimelist.net/images/manga/2/180796.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "喰姫―クヒメ―"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takenaka, Hideo"
-    ],
-    "id": 99733,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:23.004Z",
+    "updatedAt": "2022-05-13T12:57:23.004Z",
+    "checkedAt": null,
+    "id": 97433,
     "type": "manga",
     "title": "Kuhime",
-    "url": "https://myanimelist.net/manga/99733/Kuhime",
-    "image": "https://cdn.myanimelist.net/images/manga/2/180796.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:33.000Z",
-    "updatedAt": "2022-01-09T06:18:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "喰姫―クヒメ―"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideo Takenaka"
-    ],
-    "id": 97433,
-    "malId": 99733,
-    "type": "manga",
-    "title": "Kuhime",
     "url": "https://anilist.co/manga/97433",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97433-zXcCwlBlB3CH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:44.000Z",
-    "updatedAt": "2021-12-18T01:59:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99733/Kuhime"
+    "externalLinks": [],
+    "malId": 99733,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Takenaka"
+    ]
+  }
 }

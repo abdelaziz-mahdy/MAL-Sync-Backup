@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oumi Noko"
-  ],
+  "createdAt": "2020-10-12T16:10:42.000Z",
+  "updatedAt": "2021-12-05T02:51:44.000Z",
+  "checkedAt": null,
+  "id": 17702,
   "identifier": "29b8c90a-4e8e-4da6-a002-e74d2a3de2d4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100778,
   "aniId": 111111,
-  "createdAt": "2020-10-12T16:10:42.000Z",
-  "updatedAt": "2021-12-05T02:51:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oumi Noko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:42.000Z",
+    "updatedAt": "2022-05-20T22:24:52.000Z",
+    "checkedAt": "2022-05-20T22:24:52.000Z",
+    "id": 100778,
+    "type": "manga",
+    "title": "S Rare Soubi no Niau Kanojo",
+    "altTitle": [
+      "Sレア装備の似合う彼女"
+    ],
+    "url": "https://myanimelist.net/manga/100778/S_Rare_Soubi_no_Niau_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/190608.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sレア装備の似合う彼女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oumi, Noko"
-    ],
-    "id": 100778,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:14.740Z",
+    "updatedAt": "2022-05-20T22:24:51.000Z",
+    "checkedAt": "2022-05-20T22:24:51.000Z",
+    "id": 111111,
     "type": "manga",
     "title": "S Rare Soubi no Niau Kanojo",
-    "url": "https://myanimelist.net/manga/100778/S_Rare_Soubi_no_Niau_Kanojo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/190608.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:42.000Z",
-    "updatedAt": "2022-01-09T15:48:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sレア装備の似合う彼女",
       "The Girl in the S Rare Gear",
       "S RARE ไขกาฉะยังไงให้ได้เธอ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Noko Oumi"
-    ],
-    "id": 111111,
-    "malId": 100778,
-    "type": "manga",
-    "title": "S Rare Soubi no Niau Kanojo",
     "url": "https://anilist.co/manga/111111",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111111-bvkLBJNC9Sld.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:51.000Z",
-    "updatedAt": "2022-01-22T21:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100778/S_Rare_Soubi_no_Niau_Kanojo"
+    "externalLinks": [],
+    "malId": 100778,
+    "deletedAt": null,
+    "authors": [
+      "Noko Oumi"
+    ]
+  }
 }

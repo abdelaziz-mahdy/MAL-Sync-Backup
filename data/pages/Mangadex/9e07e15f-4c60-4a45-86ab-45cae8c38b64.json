@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ando Yuki"
-  ],
+  "createdAt": "2020-10-12T16:09:14.000Z",
+  "updatedAt": "2021-12-04T16:24:32.000Z",
+  "checkedAt": null,
+  "id": 14569,
   "identifier": "9e07e15f-4c60-4a45-86ab-45cae8c38b64",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58141,
   "aniId": 97701,
-  "createdAt": "2020-10-12T16:09:14.000Z",
-  "updatedAt": "2021-12-04T16:24:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ando Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-15T13:17:05.000Z",
+    "checkedAt": "2022-05-15T13:17:05.000Z",
+    "id": 58141,
+    "type": "manga",
+    "title": "Machida-kun no Sekai",
+    "altTitle": [
+      "Kyou no Machida-kun",
+      "Ai, Aru Seikatsu",
+      "The world of Machida-kun",
+      "町田くんの世界"
+    ],
+    "url": "https://myanimelist.net/manga/58141/Machida-kun_no_Sekai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/168062.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kyou no Machida-kun",
-      "Ai, Aru Seikatsu",
-      "The world of Machida-kun",
-      "町田くんの世界"
-    ],
+    "deletedAt": null,
     "authors": [
       "Andou, Yuki"
-    ],
-    "id": 58141,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:27.600Z",
+    "updatedAt": "2022-05-15T17:34:47.000Z",
+    "checkedAt": "2022-05-15T17:34:47.000Z",
+    "id": 97701,
     "type": "manga",
     "title": "Machida-kun no Sekai",
-    "url": "https://myanimelist.net/manga/58141/Machida-kun_no_Sekai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/168062.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2022-03-11T07:00:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The World of Machida-kun",
       "町田くんの世界",
       "Kyou no Machida-kun"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Andou"
-    ],
-    "id": 97701,
-    "malId": 58141,
-    "type": "manga",
-    "title": "Machida-kun no Sekai",
     "url": "https://anilist.co/manga/97701",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97701-riOfVFOVLKCk.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:32.000Z",
-    "updatedAt": "2021-12-18T02:02:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58141/Machida-kun_no_Sekai"
+    "externalLinks": [],
+    "malId": 58141,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Andou"
+    ]
+  }
 }

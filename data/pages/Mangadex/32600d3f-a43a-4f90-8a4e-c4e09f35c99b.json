@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Shinobu"
-  ],
+  "createdAt": "2020-10-12T16:04:17.000Z",
+  "updatedAt": "2021-12-02T20:17:48.000Z",
+  "checkedAt": null,
+  "id": 4040,
   "identifier": "32600d3f-a43a-4f90-8a4e-c4e09f35c99b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30315,
   "aniId": 60315,
-  "createdAt": "2020-10-12T16:04:17.000Z",
-  "updatedAt": "2021-12-02T20:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Shinobu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0_%28%E6%BC%AB%E7%94%BB%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2022-05-14T23:05:53.000Z",
+    "checkedAt": "2022-05-14T23:05:53.000Z",
+    "id": 30315,
+    "type": "manga",
+    "title": "Last Game",
     "altTitle": [
       "Kimi to, Shiawase.",
       "Hidamari no Niwa",
@@ -32,39 +33,42 @@
       "Ninkoi",
       "ラストゲーム"
     ],
-    "authors": [
-      "Amano, Shinobu"
-    ],
-    "id": 30315,
-    "type": "manga",
-    "title": "Last Game",
     "url": "https://myanimelist.net/manga/30315/Last_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/5/65713.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258207.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2022-04-03T11:01:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
-    "altTitle": [
-      "ラストゲーム"
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0_%28%E6%BC%AB%E7%94%BB%29"
+      }
     ],
-    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
-      "Shinobu Amano"
-    ],
+      "Amano, Shinobu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:37.228Z",
+    "updatedAt": "2022-05-15T20:10:47.000Z",
+    "checkedAt": "2022-05-15T20:10:47.000Z",
     "id": 60315,
-    "malId": 30315,
     "type": "manga",
     "title": "Last Game",
+    "altTitle": [
+      "Last Game",
+      "ラストゲーム"
+    ],
     "url": "https://anilist.co/manga/60315",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60315-JwXfYi3kfpwe.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:06:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30315/Last_Game"
+    "externalLinks": [],
+    "malId": 30315,
+    "deletedAt": null,
+    "authors": [
+      "Shinobu Amano"
+    ]
+  }
 }

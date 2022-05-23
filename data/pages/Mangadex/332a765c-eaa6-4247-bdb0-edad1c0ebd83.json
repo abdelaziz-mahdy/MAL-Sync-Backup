@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Souryuu"
-  ],
+  "createdAt": "2020-10-12T16:15:20.000Z",
+  "updatedAt": "2021-12-06T12:49:29.000Z",
+  "checkedAt": null,
+  "id": 26791,
   "identifier": "332a765c-eaa6-4247-bdb0-edad1c0ebd83",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123939,
   "aniId": 118170,
-  "createdAt": "2020-10-12T16:15:20.000Z",
-  "updatedAt": "2021-12-06T12:49:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Souryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2022-05-16T19:16:28.000Z",
+    "checkedAt": "2022-05-16T19:16:28.000Z",
+    "id": 123939,
+    "type": "manga",
+    "title": "Bishoujo Senshi 04R1",
+    "altTitle": [
+      "美少女戦士04R1"
+    ],
+    "url": "https://myanimelist.net/manga/123939/Bishoujo_Senshi_04R1",
+    "image": "https://cdn.myanimelist.net/images/manga/1/225958.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "美少女戦士04R1"
-    ],
+    "deletedAt": null,
     "authors": [
       "Souryuu"
-    ],
-    "id": 123939,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:30.833Z",
+    "updatedAt": "2022-05-16T19:16:27.000Z",
+    "checkedAt": "2022-05-16T19:16:27.000Z",
+    "id": 118170,
     "type": "manga",
     "title": "Bishoujo Senshi 04R1",
-    "url": "https://myanimelist.net/manga/123939/Bishoujo_Senshi_04R1",
-    "image": "https://cdn.myanimelist.net/images/manga/1/225958.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2022-04-04T23:30:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "美少女戦士04R1"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Souryu"
-    ],
-    "id": 118170,
-    "malId": 123939,
-    "type": "manga",
-    "title": "Bishoujo Senshi 04R1",
     "url": "https://anilist.co/manga/118170",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118170-GA9DyfaAHHiT.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T09:21:13.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123939/Bishoujo_Senshi_04R1"
+    "externalLinks": [],
+    "malId": 123939,
+    "deletedAt": null,
+    "authors": [
+      "Souryu"
+    ]
+  }
 }

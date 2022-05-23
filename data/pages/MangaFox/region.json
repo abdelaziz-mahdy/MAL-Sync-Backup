@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "FUJISAWA Yuki"
-  ],
+  "createdAt": "2022-05-08T22:01:26.000Z",
+  "updatedAt": "2022-05-13T15:21:23.000Z",
+  "checkedAt": "2022-05-13T15:18:48.000Z",
+  "id": 103321,
   "identifier": "region",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,54 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/8777/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T22:01:26.000Z",
-  "updatedAt": "2022-05-08T22:01:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 24648,
+  "aniId": 54648,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "FUJISAWA Yuki"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:14.000Z",
+    "updatedAt": "2022-05-13T15:18:49.000Z",
+    "checkedAt": "2022-05-13T15:18:49.000Z",
+    "id": 24648,
+    "type": "manga",
+    "title": "Region",
+    "altTitle": [
+      "レギオン"
+    ],
+    "url": "https://myanimelist.net/manga/24648/Region",
+    "image": "https://cdn.myanimelist.net/images/manga/3/39666.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fujisawa, Yuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:24.058Z",
+    "updatedAt": "2022-05-13T12:54:24.058Z",
+    "checkedAt": null,
+    "id": 54648,
+    "type": "manga",
+    "title": "Region",
+    "altTitle": [
+      "レギオン"
+    ],
+    "url": "https://anilist.co/manga/54648",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24648.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 24648,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Fujisawa"
+    ]
+  }
 }

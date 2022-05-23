@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikada Kai"
-  ],
+  "createdAt": "2020-10-12T16:18:20.000Z",
+  "updatedAt": "2021-12-07T16:48:53.000Z",
+  "checkedAt": null,
+  "id": 32955,
   "identifier": "7e4c526b-814b-4005-9bbd-85274215ae4b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 133003,
   "aniId": 116064,
-  "createdAt": "2020-10-12T16:18:20.000Z",
-  "updatedAt": "2021-12-07T16:48:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikada Kai"
+  ],
   "Mal": {
+    "createdAt": "2021-01-24T14:13:12.000Z",
+    "updatedAt": "2022-05-16T19:50:01.000Z",
+    "checkedAt": "2022-05-16T19:50:01.000Z",
+    "id": 133003,
+    "type": "manga",
+    "title": "Kanojo wa Mizumizushii",
+    "altTitle": [
+      "My Girlfriend is Dripping with Passion",
+      "彼女はみずみずしい"
+    ],
+    "url": "https://myanimelist.net/manga/133003/Kanojo_wa_Mizumizushii",
+    "image": "https://cdn.myanimelist.net/images/manga/3/240110.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Girlfriend is Dripping with Passion",
-      "彼女はみずみずしい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikada, Kai"
-    ],
-    "id": 133003,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:14.063Z",
+    "updatedAt": "2022-05-16T19:50:00.000Z",
+    "checkedAt": "2022-05-16T19:50:00.000Z",
+    "id": 116064,
     "type": "manga",
     "title": "Kanojo wa Mizumizushii",
-    "url": "https://myanimelist.net/manga/133003/Kanojo_wa_Mizumizushii",
-    "image": "https://cdn.myanimelist.net/images/manga/3/240110.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2021-01-24T14:13:12.000Z",
-    "updatedAt": "2022-04-28T12:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼女はみずみずしい"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kai Ikada"
-    ],
-    "id": 116064,
-    "malId": 133003,
-    "type": "manga",
-    "title": "Kanojo wa Mizumizushii",
     "url": "https://anilist.co/manga/116064",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116064-gZIW3hTHDb4g.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-06-07T16:04:57.000Z",
-    "updatedAt": "2021-12-18T08:27:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/133003/Kanojo_wa_Mizumizushii"
+    "externalLinks": [],
+    "malId": 133003,
+    "deletedAt": null,
+    "authors": [
+      "Kai Ikada"
+    ]
+  }
 }

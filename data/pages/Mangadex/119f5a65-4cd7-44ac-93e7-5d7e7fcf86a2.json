@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Wakai Ken"
-  ],
+  "createdAt": "2020-10-12T16:06:51.000Z",
+  "updatedAt": "2021-12-03T22:50:19.000Z",
+  "checkedAt": null,
+  "id": 9370,
   "identifier": "119f5a65-4cd7-44ac-93e7-5d7e7fcf86a2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60815,
   "aniId": 85178,
-  "createdAt": "2020-10-12T16:06:51.000Z",
-  "updatedAt": "2021-12-03T22:50:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wakai Ken"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:56.000Z",
+    "updatedAt": "2022-05-14T09:56:01.000Z",
+    "checkedAt": "2022-05-14T09:56:01.000Z",
+    "id": 60815,
+    "type": "manga",
+    "title": "Joshikausei",
+    "altTitle": [
+      "Jyoshi Kausei",
+      "Joshi Kausei",
+      "女子かう生"
+    ],
+    "url": "https://myanimelist.net/manga/60815/Joshikausei",
+    "image": "https://cdn.myanimelist.net/images/manga/1/121107.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jyoshi Kausei",
-      "Joshi Kausei",
-      "女子かう生"
-    ],
+    "deletedAt": null,
     "authors": [
       "Wakai, Ken"
-    ],
-    "id": 60815,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.666Z",
+    "updatedAt": "2022-05-16T20:31:56.000Z",
+    "checkedAt": "2022-05-16T20:31:56.000Z",
+    "id": 85178,
     "type": "manga",
     "title": "Joshikausei",
-    "url": "https://myanimelist.net/manga/60815/Joshikausei",
-    "image": "https://cdn.myanimelist.net/images/manga/1/121107.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:56.000Z",
-    "updatedAt": "2022-04-10T03:00:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Joshi Kausei",
       "女子かう生",
@@ -53,27 +62,21 @@
       "Dumb High School Girl",
       "여자고등학생"
     ],
+    "url": "https://anilist.co/manga/85178",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85178-5M6Of8m1X99S.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/joshi-kausei/volumes"
       }
     ],
+    "malId": 60815,
+    "deletedAt": null,
     "authors": [
       "Ken Wakai",
       "Matt Del Giudice"
-    ],
-    "id": 85178,
-    "malId": 60815,
-    "type": "manga",
-    "title": "Joshikausei",
-    "url": "https://anilist.co/manga/85178",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85178-5M6Of8m1X99S.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2022-03-28T07:34:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60815/Joshikausei"
+    ]
+  }
 }

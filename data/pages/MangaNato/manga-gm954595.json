@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takagi Satoshi"
-  ],
+  "createdAt": "2021-07-10T19:43:41.000Z",
+  "updatedAt": "2022-01-10T20:43:10.000Z",
+  "checkedAt": null,
+  "id": 81553,
   "identifier": "manga-gm954595",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7403,
   "aniId": 37403,
-  "createdAt": "2021-07-10T19:43:41.000Z",
-  "updatedAt": "2022-01-10T20:43:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takagi Satoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:14.000Z",
+    "updatedAt": "2022-05-17T16:34:16.000Z",
+    "checkedAt": "2022-05-17T16:34:16.000Z",
+    "id": 7403,
+    "type": "manga",
+    "title": "Kitsune no Yomeiri",
+    "altTitle": [
+      "Fox's Wedding",
+      "きつねのよめいり"
+    ],
+    "url": "https://myanimelist.net/manga/7403/Kitsune_no_Yomeiri",
+    "image": "https://cdn.myanimelist.net/images/manga/1/24962.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fox's Wedding",
-      "きつねのよめいり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takagi, Satoshi"
-    ],
-    "id": 7403,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:28.808Z",
+    "updatedAt": "2022-05-17T16:34:15.000Z",
+    "checkedAt": "2022-05-17T16:34:15.000Z",
+    "id": 37403,
     "type": "manga",
     "title": "Kitsune no Yomeiri",
-    "url": "https://myanimelist.net/manga/7403/Kitsune_no_Yomeiri",
-    "image": "https://cdn.myanimelist.net/images/manga/1/24962.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:14.000Z",
-    "updatedAt": "2022-01-24T22:30:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "きつねのよめいり",
       "Fox's Wedding"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoshi Takagi"
-    ],
-    "id": 37403,
-    "malId": 7403,
-    "type": "manga",
-    "title": "Kitsune no Yomeiri",
     "url": "https://anilist.co/manga/37403",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37403-YYXwiCm1eQ1K.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:52.000Z",
-    "updatedAt": "2021-12-17T13:10:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7403/Kitsune_no_Yomeiri"
+    "externalLinks": [],
+    "malId": 7403,
+    "deletedAt": null,
+    "authors": [
+      "Satoshi Takagi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mori Kouji"
-  ],
+  "createdAt": "2021-06-03T06:01:23.000Z",
+  "updatedAt": "2021-12-03T06:46:28.000Z",
+  "checkedAt": null,
+  "id": 76044,
   "identifier": "manga-bn978848",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105390,
   "aniId": 99300,
-  "createdAt": "2021-06-03T06:01:23.000Z",
-  "updatedAt": "2021-12-03T06:46:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mori Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2022-04-09T04:33:45.000Z",
+    "checkedAt": null,
+    "id": 105390,
+    "type": "manga",
+    "title": "Sousei no Taiga",
+    "altTitle": [
+      "Taiga of Genesis",
+      "創世のタイガ"
+    ],
+    "url": "https://myanimelist.net/manga/105390/Sousei_no_Taiga",
+    "image": "https://cdn.myanimelist.net/images/manga/1/199770.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Taiga of Genesis",
-      "創世のタイガ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mori, Kouji"
-    ],
-    "id": 105390,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:12.376Z",
+    "updatedAt": "2022-05-13T13:04:12.376Z",
+    "checkedAt": null,
+    "id": 99300,
     "type": "manga",
     "title": "Sousei no Taiga",
-    "url": "https://myanimelist.net/manga/105390/Sousei_no_Taiga",
-    "image": "https://cdn.myanimelist.net/images/manga/1/199770.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2022-04-09T04:33:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "創世のタイガ",
       "Taiga of Genesis"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Mori"
-    ],
-    "id": 99300,
-    "malId": 105390,
-    "type": "manga",
-    "title": "Sousei no Taiga",
     "url": "https://anilist.co/manga/99300",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99300-VczCyTBjK9y2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:15.000Z",
-    "updatedAt": "2021-12-18T02:52:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105390/Sousei_no_Taiga"
+    "externalLinks": [],
+    "malId": 105390,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Mori"
+    ]
+  }
 }

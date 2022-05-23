@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nakashima Kazuki",
-    "Trigger"
-  ],
+  "createdAt": "2022-04-07T18:02:37.000Z",
+  "updatedAt": "2022-04-07T18:30:23.000Z",
+  "checkedAt": null,
+  "id": 100842,
   "identifier": "manga-ks961653",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58391,
   "aniId": 88609,
-  "createdAt": "2022-04-07T18:02:37.000Z",
-  "updatedAt": "2022-04-07T18:30:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakashima Kazuki",
+    "Trigger"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-15T17:21:13.000Z",
+    "checkedAt": "2022-05-15T17:21:13.000Z",
+    "id": 58391,
+    "type": "manga",
+    "title": "Kill la Kill",
+    "altTitle": [
+      "KLK",
+      "KILL la KILL",
+      "キルラキル"
+    ],
+    "url": "https://myanimelist.net/manga/58391/Kill_la_Kill",
+    "image": "https://cdn.myanimelist.net/images/manga/1/108467.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,51 +43,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "KLK",
-      "KILL la KILL",
-      "キルラキル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akizuki, Ryou",
       "Nakashima, Kazuki"
-    ],
-    "id": 58391,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:01.817Z",
+    "updatedAt": "2022-05-15T20:09:47.000Z",
+    "checkedAt": "2022-05-15T20:09:47.000Z",
+    "id": 88609,
     "type": "manga",
     "title": "Kill la Kill",
-    "url": "https://myanimelist.net/manga/58391/Kill_la_Kill",
-    "image": "https://cdn.myanimelist.net/images/manga/1/108467.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2022-04-26T08:34:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "KILL la KILL",
       "キルラキル",
       "KLK"
     ],
+    "url": "https://anilist.co/manga/88609",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88609-Y5q7eQkRPJxx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 58391,
+    "deletedAt": null,
     "authors": [
       "Kazuki Nakashima",
       "Ryou Akizuki",
       "Thibaud Desbief",
       "José Carlos Assumpção",
       "Karen Hayashida"
-    ],
-    "id": 88609,
-    "malId": 58391,
-    "type": "manga",
-    "title": "Kill la Kill",
-    "url": "https://anilist.co/manga/88609",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88609-Y5q7eQkRPJxx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T23:48:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58391/Kill_la_Kill"
+    ]
+  }
 }

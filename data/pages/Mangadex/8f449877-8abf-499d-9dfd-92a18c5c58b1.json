@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ichimura Tetsunosuke",
-    "Yasuumi"
-  ],
+  "createdAt": "2021-01-11T19:20:40.000Z",
+  "updatedAt": "2022-01-25T18:00:11.000Z",
+  "checkedAt": null,
+  "id": 58223,
   "identifier": "8f449877-8abf-499d-9dfd-92a18c5c58b1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 137774,
   "aniId": 140392,
-  "createdAt": "2021-01-11T19:20:40.000Z",
-  "updatedAt": "2022-01-25T18:00:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ichimura Tetsunosuke",
+    "Yasuumi"
+  ],
   "Mal": {
+    "createdAt": "2021-08-27T12:37:04.000Z",
+    "updatedAt": "2022-05-20T16:18:55.000Z",
+    "checkedAt": "2022-05-20T16:18:55.000Z",
+    "id": 137774,
+    "type": "manga",
+    "title": "Suteishi Yuusha, Maou no Shita de Restart",
+    "altTitle": [
+      "The Another World Demon King's Successor",
+      "捨て石勇者、魔王の下でリスタート"
+    ],
+    "url": "https://myanimelist.net/manga/137774/Suteishi_Yuusha_Maou_no_Shita_de_Restart",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256664.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Another World Demon King's Successor",
-      "捨て石勇者、魔王の下でリスタート"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shiroie, Mika",
       "Ichimura, Tetsunosuke"
-    ],
-    "id": 137774,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:54.337Z",
+    "updatedAt": "2022-05-20T16:18:54.000Z",
+    "checkedAt": "2022-05-20T16:18:54.000Z",
+    "id": 140392,
     "type": "manga",
     "title": "Suteishi Yuusha, Maou no Shita de Restart",
-    "url": "https://myanimelist.net/manga/137774/Suteishi_Yuusha_Maou_no_Shita_de_Restart",
-    "image": "https://cdn.myanimelist.net/images/manga/3/246697.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-08-27T12:37:04.000Z",
-    "updatedAt": "2022-01-25T17:30:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "捨て石勇者、魔王の下でリスタート",
       "The Another World Demon King's Successor"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mika Shiroie",
-      "Eisei Iida",
-      "218"
-    ],
-    "id": 140392,
-    "malId": 137774,
-    "type": "manga",
-    "title": "Suteishi Yuusha, Maou no Shita de Restart",
     "url": "https://anilist.co/manga/140392",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140392-QaWjrcjLdsF8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-17T21:28:46.000Z",
-    "updatedAt": "2022-04-01T23:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/137774/Suteishi_Yuusha_Maou_no_Shita_de_Restart"
+    "externalLinks": [],
+    "malId": 137774,
+    "deletedAt": null,
+    "authors": [
+      "Mika Shiroie",
+      "Eisei Iida",
+      "218"
+    ]
+  }
 }

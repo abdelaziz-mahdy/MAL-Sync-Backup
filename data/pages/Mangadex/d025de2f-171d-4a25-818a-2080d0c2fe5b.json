@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Takashi Hoshi",
-    "Zekuu Tooru",
-    "Hino Hiroma"
-  ],
+  "createdAt": "2020-10-12T16:08:35.000Z",
+  "updatedAt": "2021-12-04T11:22:19.000Z",
+  "checkedAt": null,
+  "id": 13107,
   "identifier": "d025de2f-171d-4a25-818a-2080d0c2fe5b",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 82011,
   "aniId": 86946,
-  "createdAt": "2020-10-12T16:08:35.000Z",
-  "updatedAt": "2021-12-04T11:22:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takashi Hoshi",
+    "Zekuu Tooru",
+    "Hino Hiroma"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:37.000Z",
+    "updatedAt": "2022-05-16T23:36:30.000Z",
+    "checkedAt": "2022-05-16T23:36:30.000Z",
+    "id": 82011,
+    "type": "manga",
+    "title": "Etotama",
+    "altTitle": [
+      "Eto Tamashii",
+      "えとたま（干支魂）"
+    ],
+    "url": "https://myanimelist.net/manga/82011/Etotama",
+    "image": "https://cdn.myanimelist.net/images/manga/1/149277.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,48 +47,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eto Tamashii",
-      "えとたま（干支魂）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Zekuu, Tooru",
       "Hoshi, Takashi",
       "Hino, Hiroma"
-    ],
-    "id": 82011,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:11.374Z",
+    "updatedAt": "2022-05-16T23:36:29.000Z",
+    "checkedAt": "2022-05-16T23:36:29.000Z",
+    "id": 86946,
     "type": "manga",
     "title": "Etotama",
-    "url": "https://myanimelist.net/manga/82011/Etotama",
-    "image": "https://cdn.myanimelist.net/images/manga/1/149277.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:37.000Z",
-    "updatedAt": "2022-02-19T00:16:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "えとたま",
       "干支魂"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooru Zekuu",
-      "Takashi Hoshi",
-      "Hiroma Hino"
-    ],
-    "id": 86946,
-    "malId": 82011,
-    "type": "manga",
-    "title": "Etotama",
     "url": "https://anilist.co/manga/86946",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56946-DfD1frF2RmRs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:04.000Z",
-    "updatedAt": "2021-12-17T09:15:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/82011/Etotama"
+    "externalLinks": [],
+    "malId": 82011,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Zekuu",
+      "Takashi Hoshi",
+      "Hiroma Hino"
+    ]
+  }
 }

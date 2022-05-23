@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Taguchi Shouichi",
-    "Miaki Sugaru"
-  ],
+  "createdAt": "2020-10-12T16:11:03.000Z",
+  "updatedAt": "2021-12-05T05:49:37.000Z",
+  "checkedAt": null,
+  "id": 18454,
   "identifier": "9e03b2ca-5191-44a6-88b6-c0cd49d06b51",
   "type": "manga",
   "page": "Mangadex",
@@ -12,37 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100448,
   "aniId": 97553,
-  "createdAt": "2020-10-12T16:11:03.000Z",
-  "updatedAt": "2021-12-05T05:49:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Taguchi Shouichi",
+    "Miaki Sugaru"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:41.000Z",
+    "updatedAt": "2022-05-14T09:22:56.000Z",
+    "checkedAt": "2022-05-14T09:22:56.000Z",
+    "id": 100448,
+    "type": "manga",
+    "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
     "altTitle": [
       "Mikkakan no Koufuku",
       "Three Days of Happiness",
       "I sold my life for ten thousand yen per year.",
       "寿命を買い取ってもらった。一年につき、一万円で。"
     ],
-    "authors": [
-      "Taguchi, Shouichi",
-      "Miaki, Sugaru"
-    ],
-    "id": 100448,
-    "type": "manga",
-    "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
     "url": "https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de",
     "image": "https://cdn.myanimelist.net/images/manga/3/197880.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:41.000Z",
-    "updatedAt": "2022-04-29T02:01:33.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Taguchi, Shouichi",
+      "Miaki, Sugaru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:28.036Z",
+    "updatedAt": "2022-05-15T13:01:11.000Z",
+    "checkedAt": "2022-05-15T13:01:11.000Z",
+    "id": 97553,
+    "type": "manga",
+    "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
     "altTitle": [
       "寿命を買い取ってもらった。一年につき、一万円で。",
       "Mikkakan no Koufuku",
@@ -55,25 +64,19 @@
       "Ba ngày hạnh phúc",
       "Le prix du reste de ma vie"
     ],
+    "url": "https://anilist.co/manga/97553",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97553-vqJj5DFS8v2p.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 100448,
+    "deletedAt": null,
     "authors": [
       "Shouichi Taguchi",
       "Sugaru Miaki",
       "E9L",
       "Shouichi Taguchi",
       "Minh"
-    ],
-    "id": 97553,
-    "malId": 100448,
-    "type": "manga",
-    "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
-    "url": "https://anilist.co/manga/97553",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97553-vqJj5DFS8v2p.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:49.000Z",
-    "updatedAt": "2022-04-08T01:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ooishi Hiroto",
-    "Osada Tohiki"
-  ],
+  "createdAt": "2021-06-11T12:10:12.000Z",
+  "updatedAt": "2021-12-11T13:03:42.000Z",
+  "checkedAt": null,
+  "id": 77736,
   "identifier": "manga-hy985207",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120473,
   "aniId": 117616,
-  "createdAt": "2021-06-11T12:10:12.000Z",
-  "updatedAt": "2021-12-11T13:03:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ooishi Hiroto",
+    "Osada Tohiki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:03.000Z",
+    "updatedAt": "2021-12-11T12:33:52.000Z",
+    "checkedAt": null,
+    "id": 120473,
+    "type": "manga",
+    "title": "Narikawari",
+    "altTitle": [
+      "Impersonation",
+      "ナリカワリ"
+    ],
+    "url": "https://myanimelist.net/manga/120473/Narikawari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/219560.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Impersonation",
-      "ナリカワリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooishi, Hiroto",
       "Osada, Tohiki"
-    ],
-    "id": 120473,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:39.886Z",
+    "updatedAt": "2022-05-13T12:53:39.886Z",
+    "checkedAt": null,
+    "id": 117616,
     "type": "manga",
     "title": "Narikawari",
-    "url": "https://myanimelist.net/manga/120473/Narikawari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/219560.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2021-12-11T12:33:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ナリカワリ",
       "Impersonation"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroto  Ooishi",
-      "Tohiki Osada"
-    ],
-    "id": 117616,
-    "malId": 120473,
-    "type": "manga",
-    "title": "Narikawari",
     "url": "https://anilist.co/manga/117616",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117616-9il9JzoP6Qn0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:15.000Z",
-    "updatedAt": "2021-12-18T08:55:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120473/Narikawari"
+    "externalLinks": [],
+    "malId": 120473,
+    "deletedAt": null,
+    "authors": [
+      "Hiroto  Ooishi",
+      "Tohiki Osada"
+    ]
+  }
 }

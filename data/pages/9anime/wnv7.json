@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:11.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9841,
   "identifier": "wnv7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34028,
   "aniId": 97618,
-  "createdAt": "2020-10-12T15:56:11.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:48.000Z",
+    "updatedAt": "2022-05-14T20:31:17.000Z",
+    "checkedAt": "2022-05-14T20:31:17.000Z",
+    "id": 34028,
+    "type": "anime",
+    "title": "Idol Jihen",
+    "altTitle": [
+      "Idol Incidents",
+      "アイドル事変"
+    ],
+    "url": "https://myanimelist.net/anime/34028/Idol_Jihen",
+    "image": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-272189"
       }
     ],
-    "altTitle": [
-      "Idol Incidents",
-      "アイドル事変"
-    ],
-    "id": 34028,
+    "deletedAt": null,
+    "anidbId": 12400
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:13.000Z",
+    "updatedAt": "2022-05-15T12:05:47.000Z",
+    "checkedAt": "2022-05-15T12:05:47.000Z",
+    "id": 97618,
     "type": "anime",
     "title": "Idol Jihen",
-    "url": "https://myanimelist.net/anime/34028/Idol_Jihen",
-    "image": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12400,
-    "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2022-03-19T09:50:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Idol Incidents",
       "アイドル事変"
     ],
+    "url": "https://anilist.co/anime/97618",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97618-mznHLtdp6A25.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/idol-incidents"
       }
     ],
-    "id": 97618,
     "malId": 34028,
-    "type": "anime",
-    "title": "Idol Jihen",
-    "url": "https://anilist.co/anime/97618",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97618-mznHLtdp6A25.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:13.000Z",
-    "updatedAt": "2021-12-17T15:27:25.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34028/Idol_Jihen"
+  }
 }

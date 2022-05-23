@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tekkotsu Saro",
-    "Toumori Miyoshi"
-  ],
+  "createdAt": "2020-10-12T16:06:59.000Z",
+  "updatedAt": "2021-12-03T23:46:47.000Z",
+  "checkedAt": null,
+  "id": 9635,
   "identifier": "480389e2-279b-4900-902c-fe7d4ff5f47b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63725,
   "aniId": 85305,
-  "createdAt": "2020-10-12T16:06:59.000Z",
-  "updatedAt": "2021-12-03T23:46:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tekkotsu Saro",
+    "Toumori Miyoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2022-05-15T15:44:24.000Z",
+    "checkedAt": "2022-05-15T15:44:24.000Z",
+    "id": 63725,
+    "type": "manga",
+    "title": "Nanoka no Kare",
+    "altTitle": [
+      "Na no Hana no Kare",
+      "菜の花の彼－ナノカノカレ－"
+    ],
+    "url": "https://myanimelist.net/manga/63725/Nanoka_no_Kare",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162757.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,26 +46,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Na no Hana no Kare",
-      "菜の花の彼－ナノカノカレ－"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toumori, Miyoshi",
       "Tekkotsu, Saro"
-    ],
-    "id": 63725,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:18.736Z",
+    "updatedAt": "2022-05-15T19:05:35.000Z",
+    "checkedAt": "2022-05-15T19:05:35.000Z",
+    "id": 85305,
     "type": "manga",
     "title": "Nanoka no Kare",
-    "url": "https://myanimelist.net/manga/63725/Nanoka_no_Kare",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162757.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2022-04-18T22:30:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "菜の花の彼 －ナノカノカレ－",
       "Na no Hana no Kare",
@@ -57,22 +66,18 @@
       "나노카의 그이",
       "Ein Freund für Nanoka"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miyoshi Toumori",
-      "Saro Tekkotsu"
-    ],
-    "id": 85305,
-    "malId": 63725,
-    "type": "manga",
-    "title": "Nanoka no Kare",
     "url": "https://anilist.co/manga/85305",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85305-YgSGgNbOznQe.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:49.000Z",
-    "updatedAt": "2021-12-17T21:57:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63725/Nanoka_no_Kare"
+    "externalLinks": [],
+    "malId": 63725,
+    "deletedAt": null,
+    "authors": [
+      "Miyoshi Toumori",
+      "Saro Tekkotsu",
+      "Alexandra Keerl",
+      "Jan-Cristoph Müller"
+    ]
+  }
 }

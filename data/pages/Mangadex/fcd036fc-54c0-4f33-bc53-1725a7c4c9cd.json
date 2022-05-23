@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshino Satsuki"
-  ],
+  "createdAt": "2020-10-12T16:07:47.000Z",
+  "updatedAt": "2021-12-04T05:22:03.000Z",
+  "checkedAt": null,
+  "id": 11347,
   "identifier": "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60801,
   "aniId": 85811,
-  "createdAt": "2020-10-12T16:07:47.000Z",
-  "updatedAt": "2021-12-04T05:22:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshino Satsuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:56.000Z",
+    "updatedAt": "2022-05-14T23:46:59.000Z",
+    "checkedAt": "2022-05-14T23:46:59.000Z",
+    "id": 60801,
+    "type": "manga",
+    "title": "Handa-kun",
+    "altTitle": [
+      "Handa-kun",
+      "はんだくん"
+    ],
+    "url": "https://myanimelist.net/manga/60801/Handa-kun",
+    "image": "https://cdn.myanimelist.net/images/manga/1/137793.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Handa-kun",
-      "はんだくん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshino, Satsuki"
-    ],
-    "id": 60801,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:43.709Z",
+    "updatedAt": "2022-05-15T19:39:35.000Z",
+    "checkedAt": "2022-05-15T19:39:35.000Z",
+    "id": 85811,
     "type": "manga",
     "title": "Handa-kun",
-    "url": "https://myanimelist.net/manga/60801/Handa-kun",
-    "image": "https://cdn.myanimelist.net/images/manga/1/137793.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:56.000Z",
-    "updatedAt": "2022-03-21T17:27:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "はんだくん",
       "ฮันดะคุง"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satsuki Yoshino"
-    ],
-    "id": 85811,
-    "malId": 60801,
-    "type": "manga",
-    "title": "Handa-kun",
     "url": "https://anilist.co/manga/85811",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55811-QkH1jrVwq0w5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2022-01-13T23:11:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60801/Handa-kun"
+    "externalLinks": [],
+    "malId": 60801,
+    "deletedAt": null,
+    "authors": [
+      "Satsuki Yoshino"
+    ]
+  }
 }

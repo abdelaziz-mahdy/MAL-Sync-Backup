@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sandrovich Yabako",
-    "Daromeon"
-  ],
+  "createdAt": "2021-05-31T09:11:16.000Z",
+  "updatedAt": "2021-12-07T03:17:23.000Z",
+  "checkedAt": null,
+  "id": 74381,
   "identifier": "manga-cp979550",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 115098,
   "aniId": 108982,
-  "createdAt": "2021-05-31T09:11:16.000Z",
-  "updatedAt": "2021-12-07T03:17:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sandrovich Yabako",
+    "Daromeon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:37.000Z",
+    "updatedAt": "2022-05-14T23:34:59.000Z",
+    "checkedAt": "2022-05-14T23:34:59.000Z",
+    "id": 115098,
+    "type": "manga",
+    "title": "Kengan Ashura 0",
+    "altTitle": [
+      "ケンガンアシュラ0"
+    ],
+    "url": "https://myanimelist.net/manga/115098/Kengan_Ashura_0",
+    "image": "https://cdn.myanimelist.net/images/manga/3/225037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ケンガンアシュラ0"
-    ],
+    "deletedAt": null,
     "authors": [
       "Daromeon",
       "Sandrovich, Yabako"
-    ],
-    "id": 115098,
-    "type": "manga",
-    "title": "Kengan Ashura 0",
-    "url": "https://myanimelist.net/manga/115098/Kengan_Ashura_0",
-    "image": "https://cdn.myanimelist.net/images/manga/3/225037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:37.000Z",
-    "updatedAt": "2022-04-08T00:01:06.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:00.204Z",
+    "updatedAt": "2022-05-15T20:55:11.000Z",
+    "checkedAt": "2022-05-15T20:55:11.000Z",
+    "id": 108982,
+    "type": "manga",
+    "title": "Kengan Ashura Zero",
     "altTitle": [
       "ケンガンアシュラゼロ",
       "Kengan Asura Zero"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yabako Sandrovich",
-      "Daromeon"
-    ],
-    "id": 108982,
-    "malId": 115098,
-    "type": "manga",
-    "title": "Kengan Ashura Zero",
     "url": "https://anilist.co/manga/108982",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108982-0uWZ3ZBR14UM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T02:18:58.000Z",
-    "updatedAt": "2021-12-18T06:23:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115098/Kengan_Ashura_0"
+    "externalLinks": [],
+    "malId": 115098,
+    "deletedAt": null,
+    "authors": [
+      "Yabako Sandrovich",
+      "Daromeon"
+    ]
+  }
 }

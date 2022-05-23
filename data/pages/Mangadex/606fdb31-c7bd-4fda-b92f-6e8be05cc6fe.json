@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sega",
-    "Dennou Ouwaddan"
-  ],
+  "createdAt": "2020-10-12T16:04:29.000Z",
+  "updatedAt": "2021-12-02T21:49:28.000Z",
+  "checkedAt": null,
+  "id": 4436,
   "identifier": "606fdb31-c7bd-4fda-b92f-6e8be05cc6fe",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35031,
   "aniId": 65031,
-  "createdAt": "2020-10-12T16:04:29.000Z",
-  "updatedAt": "2021-12-02T21:49:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sega",
+    "Dennou Ouwaddan"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:56.000Z",
+    "updatedAt": "2021-11-29T18:06:25.000Z",
+    "checkedAt": null,
+    "id": 35031,
+    "type": "manga",
+    "title": "7th Dragon the Comic",
+    "altTitle": [
+      "Seventh Dragon",
+      "7TH DRAGON -セブンスドラゴン- The COMIC"
+    ],
+    "url": "https://myanimelist.net/manga/35031/7th_Dragon_the_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/2/121185.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seventh Dragon",
-      "7TH DRAGON -セブンスドラゴン- The COMIC"
-    ],
+    "deletedAt": null,
     "authors": [
       "Dennou, Ouwadan"
-    ],
-    "id": 35031,
-    "type": "manga",
-    "title": "7th Dragon the Comic",
-    "url": "https://myanimelist.net/manga/35031/7th_Dragon_the_Comic",
-    "image": "https://cdn.myanimelist.net/images/manga/2/121185.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:56.000Z",
-    "updatedAt": "2021-11-29T18:06:25.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:17.440Z",
+    "updatedAt": "2022-05-13T12:41:17.440Z",
+    "checkedAt": null,
+    "id": 65031,
+    "type": "manga",
+    "title": "7th Dragon",
     "altTitle": [
       "セブンスドラゴン",
       "7th Dragon the Comic",
       "Seventh Dragon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ouwadan Dennou"
-    ],
-    "id": 65031,
-    "malId": 35031,
-    "type": "manga",
-    "title": "7th Dragon",
     "url": "https://anilist.co/manga/65031",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35031.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:00.000Z",
-    "updatedAt": "2021-12-17T19:34:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35031/7th_Dragon_the_Comic"
+    "externalLinks": [],
+    "malId": 35031,
+    "deletedAt": null,
+    "authors": [
+      "Ouwadan Dennou"
+    ]
+  }
 }

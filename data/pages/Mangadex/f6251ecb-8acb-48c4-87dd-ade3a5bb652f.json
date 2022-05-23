@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Otousan",
-    "Hagiwara Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:10:00.000Z",
+  "updatedAt": "2022-05-16T15:29:09.000Z",
+  "checkedAt": "2022-05-16T15:29:06.000Z",
+  "id": 16200,
   "identifier": "f6251ecb-8acb-48c4-87dd-ade3a5bb652f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99931,
   "aniId": 87408,
-  "createdAt": "2020-10-12T16:10:00.000Z",
-  "updatedAt": "2021-12-04T21:52:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Otousan",
+    "Hagiwara Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:37.000Z",
+    "updatedAt": "2022-05-15T00:36:11.000Z",
+    "checkedAt": "2022-05-15T00:36:11.000Z",
+    "id": 99931,
+    "type": "manga",
+    "title": "Ne Ne Ne",
+    "altTitle": [
+      "Nen Ne no Ne",
+      "Nenene",
+      "Ne Ne Ne",
+      "ねねね"
+    ],
+    "url": "https://myanimelist.net/manga/99931/Ne_Ne_Ne",
+    "image": "https://cdn.myanimelist.net/images/manga/3/199830.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,50 +44,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nen Ne no Ne",
-      "Nenene",
-      "ねねね"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hagiwara, Daisuke",
       "Otousan"
-    ],
-    "id": 99931,
-    "type": "manga",
-    "title": "Ne Ne Ne",
-    "url": "https://myanimelist.net/manga/99931/Ne_Ne_Ne",
-    "image": "https://cdn.myanimelist.net/images/manga/3/199830.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:37.000Z",
-    "updatedAt": "2021-12-02T18:16:57.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:37.327Z",
+    "updatedAt": "2022-05-15T18:08:23.000Z",
+    "checkedAt": "2022-05-15T18:08:23.000Z",
+    "id": 87408,
+    "type": "manga",
+    "title": "Nenene",
     "altTitle": [
       "Ne Ne Ne",
       "ねねね",
       "Nen Ne no Ne",
       "Nie odpychaj mnie"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Hagiwara",
-      "Otousan",
-      "Taylor Engel"
-    ],
-    "id": 87408,
-    "malId": 99931,
-    "type": "manga",
-    "title": "Nenene",
     "url": "https://anilist.co/manga/87408",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87408-yqt7109vh2Ut.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2021-12-17T23:26:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99931/Ne_Ne_Ne"
+    "externalLinks": [],
+    "malId": 99931,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Hagiwara",
+      "Otousan",
+      "Taylor Engel"
+    ]
+  }
 }

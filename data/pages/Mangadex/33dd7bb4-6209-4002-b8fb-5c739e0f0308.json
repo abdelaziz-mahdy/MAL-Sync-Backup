@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Danaan",
-    "Ananas"
-  ],
+  "createdAt": "2020-10-12T16:19:46.000Z",
+  "updatedAt": "2021-12-08T01:09:53.000Z",
+  "checkedAt": null,
+  "id": 35817,
   "identifier": "33dd7bb4-6209-4002-b8fb-5c739e0f0308",
   "type": "manga",
   "page": "Mangadex",
@@ -12,36 +12,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123565,
-  "createdAt": "2020-10-12T16:19:46.000Z",
-  "updatedAt": "2021-12-08T01:09:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Danaan",
+    "Ananas"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:12.667Z",
+    "updatedAt": "2022-05-13T12:59:12.667Z",
+    "checkedAt": null,
+    "id": 123565,
+    "type": "manga",
+    "title": "Kkaeeonaseyo, Yongsayeo",
     "altTitle": [
       "Wake Up, Warrior",
       "깨어나세요, 용사여",
       "Wake Up, Hero"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Danaan",
-      "Ananas",
-      "Geon-ugeonjo"
-    ],
-    "id": 123565,
-    "malId": null,
-    "type": "manga",
-    "title": "Kkaeeonaseyo, Yongsayeo",
     "url": "https://anilist.co/manga/123565",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123565-skPlMXhD3dnW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-22T02:12:58.000Z",
-    "updatedAt": "2022-04-27T16:31:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Danaan",
+      "Ananas",
+      "Geon-ugeonjo"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sasakura Ayato"
-  ],
+  "createdAt": "2021-10-19T04:58:52.000Z",
+  "updatedAt": "2022-02-11T18:22:39.000Z",
+  "checkedAt": null,
+  "id": 89024,
   "identifier": "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 143339,
   "aniId": 120675,
-  "createdAt": "2021-10-19T04:58:52.000Z",
-  "updatedAt": "2022-02-11T18:22:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sasakura Ayato"
+  ],
   "Mal": {
+    "createdAt": "2022-02-11T15:40:38.000Z",
+    "updatedAt": "2022-05-22T13:47:59.000Z",
+    "checkedAt": "2022-05-22T13:47:59.000Z",
+    "id": 143339,
+    "type": "manga",
+    "title": "Aekanaru",
+    "altTitle": [
+      "アエカナル"
+    ],
+    "url": "https://myanimelist.net/manga/143339/Aekanaru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254641.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アエカナル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sasakura, Ayato"
-    ],
-    "id": 143339,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:30.970Z",
+    "updatedAt": "2022-05-22T13:47:58.000Z",
+    "checkedAt": "2022-05-22T13:47:58.000Z",
+    "id": 120675,
     "type": "manga",
     "title": "Aekanaru",
-    "url": "https://myanimelist.net/manga/143339/Aekanaru",
-    "image": "https://cdn.myanimelist.net/images/manga/3/254641.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-02-11T15:40:38.000Z",
-    "updatedAt": "2022-03-27T03:29:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アエカナル",
       "Gentle"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ayato Sasakura"
-    ],
-    "id": 120675,
-    "malId": 143339,
-    "type": "manga",
-    "title": "Aekanaru",
     "url": "https://anilist.co/manga/120675",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120675-rIcaZO3V73bP.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-19T10:10:42.000Z",
-    "updatedAt": "2022-01-20T10:34:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143339/Aekanaru"
+    "externalLinks": [],
+    "malId": 143339,
+    "deletedAt": null,
+    "authors": [
+      "Ayato Sasakura"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AIMOTO Shou"
-  ],
+  "createdAt": "2021-12-20T03:48:43.000Z",
+  "updatedAt": "2021-12-20T04:18:36.000Z",
+  "checkedAt": null,
+  "id": 93402,
   "identifier": "muddy",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3729,
   "aniId": 33729,
-  "createdAt": "2021-12-20T03:48:43.000Z",
-  "updatedAt": "2021-12-20T04:18:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "AIMOTO Shou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-05-19T20:07:50.000Z",
+    "checkedAt": "2022-05-19T20:07:50.000Z",
+    "id": 3729,
+    "type": "manga",
+    "title": "Muddy",
+    "altTitle": [
+      "MUDDY"
+    ],
+    "url": "https://myanimelist.net/manga/3729/Muddy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/190912.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MUDDY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aimoto, Shou"
-    ],
-    "id": 3729,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:00.607Z",
+    "updatedAt": "2022-05-19T20:07:49.000Z",
+    "checkedAt": "2022-05-19T20:07:49.000Z",
+    "id": 33729,
     "type": "manga",
     "title": "Muddy",
-    "url": "https://myanimelist.net/manga/3729/Muddy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/190912.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2021-12-20T03:48:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マデイ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shou Aimoto"
-    ],
-    "id": 33729,
-    "malId": 3729,
-    "type": "manga",
-    "title": "Muddy",
     "url": "https://anilist.co/manga/33729",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33729-r2czD95M6Vf4.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:16.000Z",
-    "updatedAt": "2021-12-17T11:35:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3729/Muddy"
+    "externalLinks": [],
+    "malId": 3729,
+    "deletedAt": null,
+    "authors": [
+      "Shou Aimoto"
+    ]
+  }
 }

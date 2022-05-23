@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Akira",
-    "Tsugano Gaku"
-  ],
+  "createdAt": "2020-10-12T16:16:09.000Z",
+  "updatedAt": "2022-03-16T21:49:22.000Z",
+  "checkedAt": null,
+  "id": 28496,
   "identifier": "b3be023f-6d8a-41ac-ae40-d1c7167e463e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114910,
   "aniId": 139327,
-  "createdAt": "2020-10-12T16:16:09.000Z",
-  "updatedAt": "2022-03-16T21:49:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akira",
+    "Tsugano Gaku"
+  ],
   "Mal": {
+    "createdAt": "2021-06-06T20:19:39.000Z",
+    "updatedAt": "2021-12-06T20:46:40.000Z",
+    "checkedAt": null,
+    "id": 114910,
+    "type": "manga",
+    "title": "Kanojo ni Kubittake",
+    "altTitle": [
+      "彼女に首ったけ"
+    ],
+    "url": "https://myanimelist.net/manga/114910/Kanojo_ni_Kubittake",
+    "image": "https://cdn.myanimelist.net/images/manga/2/222737.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "彼女に首ったけ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsugano, Gaku",
       "Akira"
-    ],
-    "id": 114910,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:16.950Z",
+    "updatedAt": "2022-05-13T12:47:16.950Z",
+    "checkedAt": null,
+    "id": 139327,
     "type": "manga",
     "title": "Kanojo ni Kubittake",
-    "url": "https://myanimelist.net/manga/114910/Kanojo_ni_Kubittake",
-    "image": "https://cdn.myanimelist.net/images/manga/2/222737.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-06T20:19:39.000Z",
-    "updatedAt": "2021-12-06T20:46:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼女に首ったけ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira",
-      "Tsuganogaku"
-    ],
-    "id": 139327,
-    "malId": 114910,
-    "type": "manga",
-    "title": "Kanojo ni Kubittake",
     "url": "https://anilist.co/manga/139327",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139327-WmV0xAjDgRK9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-16T21:10:42.000Z",
-    "updatedAt": "2022-03-16T21:19:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114910/Kanojo_ni_Kubittake"
+    "externalLinks": [],
+    "malId": 114910,
+    "deletedAt": null,
+    "authors": [
+      "Akira",
+      "Tsuganogaku"
+    ]
+  }
 }

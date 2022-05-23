@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koda Momoko"
-  ],
+  "createdAt": "2020-10-12T16:11:12.000Z",
+  "updatedAt": "2021-12-05T06:49:30.000Z",
+  "checkedAt": null,
+  "id": 18780,
   "identifier": "c720d167-f5a5-40be-ad44-4416e45d5467",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 109573,
   "aniId": 101602,
-  "createdAt": "2020-10-12T16:11:12.000Z",
-  "updatedAt": "2021-12-05T06:49:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koda Momoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:16.000Z",
+    "updatedAt": "2021-11-20T05:44:34.000Z",
+    "checkedAt": null,
+    "id": 109573,
+    "type": "manga",
+    "title": "Atashi no!",
+    "altTitle": [
+      "あたしの！"
+    ],
+    "url": "https://myanimelist.net/manga/109573/Atashi_no",
+    "image": "https://cdn.myanimelist.net/images/manga/2/206062.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あたしの！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koda, Momoko"
-    ],
-    "id": 109573,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:01.326Z",
+    "updatedAt": "2022-05-13T13:04:01.326Z",
+    "checkedAt": null,
+    "id": 101602,
     "type": "manga",
     "title": "Atashi no!",
-    "url": "https://myanimelist.net/manga/109573/Atashi_no",
-    "image": "https://cdn.myanimelist.net/images/manga/2/206062.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:16.000Z",
-    "updatedAt": "2021-11-20T05:44:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あたしの！",
       "내거야!",
       "学长是我的",
       "Он мой!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Momoko Kouda"
-    ],
-    "id": 101602,
-    "malId": 109573,
-    "type": "manga",
-    "title": "Atashi no!",
     "url": "https://anilist.co/manga/101602",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101602-uVSuXIbM2uGk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:07.000Z",
-    "updatedAt": "2021-12-18T03:55:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/109573/Atashi_no"
+    "externalLinks": [],
+    "malId": 109573,
+    "deletedAt": null,
+    "authors": [
+      "Momoko Kouda"
+    ]
+  }
 }

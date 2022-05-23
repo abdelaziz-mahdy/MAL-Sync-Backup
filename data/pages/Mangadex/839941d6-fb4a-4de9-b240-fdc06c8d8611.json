@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishizawa Umi"
-  ],
+  "createdAt": "2020-10-12T16:09:54.000Z",
+  "updatedAt": "2021-12-04T21:22:29.000Z",
+  "checkedAt": null,
+  "id": 15984,
   "identifier": "839941d6-fb4a-4de9-b240-fdc06c8d8611",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101121,
   "aniId": 101533,
-  "createdAt": "2020-10-12T16:09:54.000Z",
-  "updatedAt": "2021-12-04T21:22:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishizawa Umi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:42.000Z",
+    "updatedAt": "2022-05-16T22:10:06.000Z",
+    "checkedAt": "2022-05-16T22:10:06.000Z",
+    "id": 101121,
+    "type": "manga",
+    "title": "1 cm yori mo Chikaku",
+    "altTitle": [
+      "Warui Koto Shimasho.",
+      "Closer Than One Centimeter",
+      "1センチよりも近く"
+    ],
+    "url": "https://myanimelist.net/manga/101121/1_cm_yori_mo_Chikaku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/190424.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Warui Koto Shimasho.",
-      "Closer Than One Centimeter",
-      "1センチよりも近く"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishizawa, Umi"
-    ],
-    "id": 101121,
-    "type": "manga",
-    "title": "1 cm yori mo Chikaku",
-    "url": "https://myanimelist.net/manga/101121/1_cm_yori_mo_Chikaku",
-    "image": "https://cdn.myanimelist.net/images/manga/2/190424.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:42.000Z",
-    "updatedAt": "2021-12-31T00:59:30.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:46.006Z",
+    "updatedAt": "2022-05-16T22:10:05.000Z",
+    "checkedAt": "2022-05-16T22:10:05.000Z",
+    "id": 101533,
+    "type": "manga",
+    "title": "1-Senchi Yori Mo Chikaku",
     "altTitle": [
       "1センチよりも近く",
       "Closer than 1 centimeter",
       "比一厘米更近"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Umi Ishizawa"
-    ],
-    "id": 101533,
-    "malId": 101121,
-    "type": "manga",
-    "title": "1-Senchi Yori Mo Chikaku",
     "url": "https://anilist.co/manga/101533",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101533-hEecFEICWYdQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:52.000Z",
-    "updatedAt": "2021-12-18T03:54:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/101121/1_cm_yori_mo_Chikaku"
+    "externalLinks": [],
+    "malId": 101121,
+    "deletedAt": null,
+    "authors": [
+      "Umi Ishizawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SHINKAI Hideo"
-  ],
+  "createdAt": "2021-06-29T23:20:08.000Z",
+  "updatedAt": "2021-12-29T23:53:49.000Z",
+  "checkedAt": null,
+  "id": 80469,
   "identifier": "soul-catchers",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 51563,
   "aniId": 81563,
-  "createdAt": "2021-06-29T23:20:08.000Z",
-  "updatedAt": "2021-12-29T23:53:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "SHINKAI Hideo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:41.000Z",
+    "updatedAt": "2022-05-18T13:54:09.000Z",
+    "checkedAt": "2022-05-18T13:54:08.000Z",
+    "id": 51563,
+    "type": "manga",
+    "title": "Soul Catcher(S)",
+    "altTitle": [
+      "Soul Catchers",
+      "SOUL CATCHER（S）"
+    ],
+    "url": "https://myanimelist.net/manga/51563/Soul_CatcherS",
+    "image": "https://cdn.myanimelist.net/images/manga/2/156895.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Soul Catchers",
-      "SOUL CATCHER（S）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinkai, Hideo"
-    ],
-    "id": 51563,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:33.406Z",
+    "updatedAt": "2022-05-18T13:54:07.000Z",
+    "checkedAt": "2022-05-18T13:54:07.000Z",
+    "id": 81563,
     "type": "manga",
     "title": "Soul Catcher(S)",
-    "url": "https://myanimelist.net/manga/51563/Soul_CatcherS",
-    "image": "https://cdn.myanimelist.net/images/manga/2/156895.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:41.000Z",
-    "updatedAt": "2022-02-19T14:17:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "SOUL CATCHER（S)",
       "ソウルキャッチャーズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideo Shinkai",
-      "Ippei Gotou"
-    ],
-    "id": 81563,
-    "malId": 51563,
-    "type": "manga",
-    "title": "Soul Catcher(S)",
     "url": "https://anilist.co/manga/81563",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81563-OmZ3YjBbNMkS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:51.000Z",
-    "updatedAt": "2021-12-17T21:29:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/51563/Soul_CatcherS"
+    "externalLinks": [],
+    "malId": 51563,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Shinkai",
+      "Ippei Gotou"
+    ]
+  }
 }

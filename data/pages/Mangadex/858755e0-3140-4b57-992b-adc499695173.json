@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakanishi Hiroshi"
-  ],
+  "createdAt": "2020-10-12T16:15:43.000Z",
+  "updatedAt": "2021-12-30T06:53:59.000Z",
+  "checkedAt": null,
+  "id": 27606,
   "identifier": "858755e0-3140-4b57-992b-adc499695173",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123148,
   "aniId": 104844,
-  "createdAt": "2020-10-12T16:15:43.000Z",
-  "updatedAt": "2021-12-30T06:53:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakanishi Hiroshi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-06T16:20:19.000Z",
+    "updatedAt": "2022-04-18T12:00:26.000Z",
+    "checkedAt": null,
+    "id": 123148,
+    "type": "manga",
+    "title": "Fukujuu Toshi",
+    "altTitle": [
+      "服従都市"
+    ],
+    "url": "https://myanimelist.net/manga/123148/Fukujuu_Toshi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/227802.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "服従都市"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakanishi, Hiroshi"
-    ],
-    "id": 123148,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:12.001Z",
+    "updatedAt": "2022-05-13T12:56:12.001Z",
+    "checkedAt": null,
+    "id": 104844,
     "type": "manga",
     "title": "Fukujuu Toshi",
-    "url": "https://myanimelist.net/manga/123148/Fukujuu_Toshi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/227802.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-06T16:20:19.000Z",
-    "updatedAt": "2022-04-18T12:00:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "服従都市"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Nakanishi"
-    ],
-    "id": 104844,
-    "malId": 123148,
-    "type": "manga",
-    "title": "Fukujuu Toshi",
     "url": "https://anilist.co/manga/104844",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104844-VMWuou9Oj4yF.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-30T06:20:01.000Z",
-    "updatedAt": "2021-12-30T06:23:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123148/Fukujuu_Toshi"
+    "externalLinks": [],
+    "malId": 123148,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Nakanishi"
+    ]
+  }
 }

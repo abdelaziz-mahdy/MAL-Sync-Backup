@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kariya Tetsu",
-    "Shimamoto Kazuhiko"
-  ],
+  "createdAt": "2020-10-12T16:09:51.000Z",
+  "updatedAt": "2021-12-04T20:51:13.000Z",
+  "checkedAt": null,
+  "id": 15874,
   "identifier": "5a371d62-f10a-4caf-8158-dcfdb6954368",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99273,
   "aniId": 127837,
-  "createdAt": "2020-10-12T16:09:51.000Z",
-  "updatedAt": "2021-12-04T20:51:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kariya Tetsu",
+    "Shimamoto Kazuhiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:32.000Z",
+    "updatedAt": "2021-11-16T15:57:54.000Z",
+    "checkedAt": null,
+    "id": 99273,
+    "type": "manga",
+    "title": "Kaze no Senshi Dan",
+    "altTitle": [
+      "Super Ninja Dan",
+      "風の戦士ダン"
+    ],
+    "url": "https://myanimelist.net/manga/99273/Kaze_no_Senshi_Dan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188202.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Super Ninja Dan",
-      "風の戦士ダン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shimamoto, Kazuhiko",
       "Kariya, Tetsu"
-    ],
-    "id": 99273,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:58.701Z",
+    "updatedAt": "2022-05-13T12:51:58.701Z",
+    "checkedAt": null,
+    "id": 127837,
     "type": "manga",
     "title": "Kaze no Senshi Dan",
-    "url": "https://myanimelist.net/manga/99273/Kaze_no_Senshi_Dan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188202.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:32.000Z",
-    "updatedAt": "2021-11-16T15:57:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "風の戦士ダン",
       "Super Ninja Dan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsu Kariya",
-      "Kazuhiko Shimamoto"
-    ],
-    "id": 127837,
-    "malId": 99273,
-    "type": "manga",
-    "title": "Kaze no Senshi Dan",
     "url": "https://anilist.co/manga/127837",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127837-O8licCTQKuYN.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:41.000Z",
-    "updatedAt": "2021-12-18T11:49:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99273/Kaze_no_Senshi_Dan"
+    "externalLinks": [],
+    "malId": 99273,
+    "deletedAt": null,
+    "authors": [
+      "Tetsu Kariya",
+      "Kazuhiko Shimamoto"
+    ]
+  }
 }

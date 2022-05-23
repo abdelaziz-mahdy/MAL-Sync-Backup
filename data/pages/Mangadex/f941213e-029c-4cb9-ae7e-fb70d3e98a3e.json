@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Harada Shigemitsu",
-    "Seguchi Takahiro"
-  ],
+  "createdAt": "2020-10-12T16:06:53.000Z",
+  "updatedAt": "2021-12-03T23:23:11.000Z",
+  "checkedAt": null,
+  "id": 9426,
   "identifier": "f941213e-029c-4cb9-ae7e-fb70d3e98a3e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58711,
   "aniId": 85377,
-  "createdAt": "2020-10-12T16:06:53.000Z",
-  "updatedAt": "2021-12-03T23:23:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harada Shigemitsu",
+    "Seguchi Takahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-15T00:29:29.000Z",
+    "checkedAt": "2022-05-15T00:29:29.000Z",
+    "id": 58711,
+    "type": "manga",
+    "title": "Re:Marina",
+    "altTitle": [
+      "Re: Marina",
+      "Re：まりな"
+    ],
+    "url": "https://myanimelist.net/manga/58711/Re_Marina",
+    "image": "https://cdn.myanimelist.net/images/manga/3/113773.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Re: Marina",
-      "Re：まりな"
-    ],
+    "deletedAt": null,
     "authors": [
       "Harada, Shigemitsu",
       "Seguchi, Takahiro"
-    ],
-    "id": 58711,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:09.888Z",
+    "updatedAt": "2022-05-15T20:38:35.000Z",
+    "checkedAt": "2022-05-15T20:38:35.000Z",
+    "id": 85377,
     "type": "manga",
     "title": "Re:Marina",
-    "url": "https://myanimelist.net/manga/58711/Re_Marina",
-    "image": "https://cdn.myanimelist.net/images/manga/3/113773.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2022-03-01T00:51:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Re:まりな"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigemitsu Harada",
-      "Takahiro Seguchi"
-    ],
-    "id": 85377,
-    "malId": 58711,
-    "type": "manga",
-    "title": "Re:Marina",
     "url": "https://anilist.co/manga/85377",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85377-MLZXGkvOnrGg.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T21:59:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58711/Re_Marina"
+    "externalLinks": [],
+    "malId": 58711,
+    "deletedAt": null,
+    "authors": [
+      "Shigemitsu Harada",
+      "Takahiro Seguchi"
+    ]
+  }
 }

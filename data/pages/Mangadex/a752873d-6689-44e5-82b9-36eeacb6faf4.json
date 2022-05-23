@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shindo Fuyuki",
-    "Tohzai"
-  ],
+  "createdAt": "2020-10-12T16:14:21.000Z",
+  "updatedAt": "2021-12-06T10:49:30.000Z",
+  "checkedAt": null,
+  "id": 24722,
   "identifier": "a752873d-6689-44e5-82b9-36eeacb6faf4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 118726,
-  "createdAt": "2020-10-12T16:14:21.000Z",
-  "updatedAt": "2021-12-06T10:49:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shindo Fuyuki",
+    "Tohzai"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.955Z",
+    "updatedAt": "2022-05-13T13:01:29.955Z",
+    "checkedAt": null,
+    "id": 118726,
+    "type": "manga",
+    "title": "ASK",
     "altTitle": [
       "アスク ",
       "ASKアスク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tohzai",
-      "Fuyuki Shindou"
-    ],
-    "id": 118726,
-    "malId": null,
-    "type": "manga",
-    "title": "ASK",
     "url": "https://anilist.co/manga/118726",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118726-siz3da3tysBA.png",
     "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-06-06T04:49:29.000Z",
-    "updatedAt": "2022-05-21T05:30:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Tohzai",
+      "Fuyuki Shindou"
+    ]
+  }
 }

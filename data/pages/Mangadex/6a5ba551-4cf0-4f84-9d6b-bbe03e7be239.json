@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakagawa Yuri"
-  ],
+  "createdAt": "2021-11-30T21:36:53.000Z",
+  "updatedAt": "2021-11-30T22:05:34.000Z",
+  "checkedAt": null,
+  "id": 92129,
   "identifier": "6a5ba551-4cf0-4f84-9d6b-bbe03e7be239",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140160,
   "aniId": 135428,
-  "createdAt": "2021-11-30T21:36:53.000Z",
-  "updatedAt": "2021-11-30T22:05:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakagawa Yuri"
+  ],
   "Mal": {
+    "createdAt": "2021-10-24T19:31:14.000Z",
+    "updatedAt": "2022-05-16T20:55:20.000Z",
+    "checkedAt": "2022-05-16T20:55:20.000Z",
+    "id": 140160,
+    "type": "manga",
+    "title": "Tenshi Dattara Yokatta",
+    "altTitle": [
+      "天使だったらよかった"
+    ],
+    "url": "https://myanimelist.net/manga/140160/Tenshi_Dattara_Yokatta",
+    "image": "https://cdn.myanimelist.net/images/manga/2/254869.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "天使だったらよかった"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakagawa, Yuri"
-    ],
-    "id": 140160,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:45.298Z",
+    "updatedAt": "2022-05-16T20:55:20.000Z",
+    "checkedAt": "2022-05-16T20:55:20.000Z",
+    "id": 135428,
     "type": "manga",
     "title": "Tenshi Dattara Yokatta",
-    "url": "https://myanimelist.net/manga/140160/Tenshi_Dattara_Yokatta",
-    "image": "https://cdn.myanimelist.net/images/manga/3/250020.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-24T19:31:14.000Z",
-    "updatedAt": "2021-11-30T20:05:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天使だったらよかった"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuri Nakagawa"
-    ],
-    "id": 135428,
-    "malId": 140160,
-    "type": "manga",
-    "title": "Tenshi Dattara Yokatta",
     "url": "https://anilist.co/manga/135428",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135428-mIhJbFUek4cg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-12T01:38:19.000Z",
-    "updatedAt": "2021-11-23T00:35:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140160/Tenshi_Dattara_Yokatta"
+    "externalLinks": [],
+    "malId": 140160,
+    "deletedAt": null,
+    "authors": [
+      "Yuri Nakagawa"
+    ]
+  }
 }

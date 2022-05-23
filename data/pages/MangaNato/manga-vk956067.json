@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hamazaki Tatsuya",
-    "Hongou Akiyoshi"
-  ],
+  "createdAt": "2022-04-21T03:31:26.000Z",
+  "updatedAt": "2022-04-21T04:00:26.000Z",
+  "checkedAt": null,
+  "id": 101948,
   "identifier": "manga-vk956067",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1749,
   "aniId": 31749,
-  "createdAt": "2022-04-21T03:31:26.000Z",
-  "updatedAt": "2022-04-21T04:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hamazaki Tatsuya",
+    "Hongou Akiyoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:37.000Z",
+    "updatedAt": "2022-04-21T03:31:27.000Z",
+    "checkedAt": null,
+    "id": 1749,
+    "type": "manga",
+    "title": "Digimon Next",
+    "altTitle": [
+      "デジモンネクスト"
+    ],
+    "url": "https://myanimelist.net/manga/1749/Digimon_Next",
+    "image": "https://cdn.myanimelist.net/images/manga/3/174388.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "デジモンネクスト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hamazaki, Tatsuya",
       "Okano, Takeshi"
-    ],
-    "id": 1749,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:56.210Z",
+    "updatedAt": "2022-05-13T12:40:56.210Z",
+    "checkedAt": null,
+    "id": 31749,
     "type": "manga",
     "title": "Digimon Next",
-    "url": "https://myanimelist.net/manga/1749/Digimon_Next",
-    "image": "https://cdn.myanimelist.net/images/manga/3/174388.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2022-04-21T03:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Digimon Next",
       "デジモンネクスト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tatsuya Hamazaki",
-      "Takeshi Okano",
-      "Akiyoshi Hongou"
-    ],
-    "id": 31749,
-    "malId": 1749,
-    "type": "manga",
-    "title": "Digimon Next",
     "url": "https://anilist.co/manga/31749",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1749.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:53.000Z",
-    "updatedAt": "2021-12-17T10:13:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1749/Digimon_Next"
+    "externalLinks": [],
+    "malId": 1749,
+    "deletedAt": null,
+    "authors": [
+      "Tatsuya Hamazaki",
+      "Takeshi Okano",
+      "Akiyoshi Hongou"
+    ]
+  }
 }

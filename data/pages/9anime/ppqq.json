@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:50.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8069,
   "identifier": "ppqq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 384,
   "aniId": 384,
-  "createdAt": "2020-10-12T15:54:50.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T16:45:35.000Z",
+    "checkedAt": "2022-05-14T16:45:35.000Z",
+    "id": 384,
+    "type": "anime",
+    "title": "Gantz",
+    "altTitle": [
+      "GANTZ",
+      "Gantz",
+      "ガンツ"
+    ],
+    "url": "https://myanimelist.net/anime/384/Gantz",
+    "image": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +60,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "GANTZ",
-      "Gantz",
-      "ガンツ"
-    ],
+    "deletedAt": null,
+    "anidbId": 2400
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T09:35:59.000Z",
+    "checkedAt": "2022-05-15T09:35:59.000Z",
     "id": 384,
     "type": "anime",
-    "title": "Gantz",
-    "url": "https://myanimelist.net/anime/384/Gantz",
-    "image": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2400,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-04-25T19:03:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "GANTZ",
     "altTitle": [
       "Gantz",
       "GANTZ",
       "ガンツ"
     ],
+    "url": "https://anilist.co/anime/384",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx384-lQAVKHazrxDc.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -76,17 +89,7 @@
         "url": "https://www.netflix.com/title/80133769"
       }
     ],
-    "id": 384,
     "malId": 384,
-    "type": "anime",
-    "title": "GANTZ",
-    "url": "https://anilist.co/anime/384",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx384-lQAVKHazrxDc.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:39.000Z",
-    "updatedAt": "2022-03-15T23:59:41.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/384/Gantz"
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:54.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8197,
   "identifier": "pyvq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 53,
   "aniId": 53,
-  "createdAt": "2020-10-12T15:54:54.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:58.000Z",
+    "updatedAt": "2022-05-14T18:16:29.000Z",
+    "checkedAt": "2022-05-14T18:16:29.000Z",
+    "id": 53,
+    "type": "anime",
+    "title": "Ai Yori Aoshi",
+    "altTitle": [
+      "Bluer Than Indigo",
+      "Ai Yori Aoshi",
+      "藍より青し"
+    ],
+    "url": "https://myanimelist.net/anime/53/Ai_Yori_Aoshi",
+    "image": "https://cdn.myanimelist.net/images/anime/7/10172.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,46 +60,32 @@
         "url": "https://www.funimation.com/shows/ai-yori-aoshi"
       }
     ],
-    "altTitle": [
-      "Bluer Than Indigo",
-      "Ai Yori Aoshi",
-      "藍より青し"
-    ],
+    "deletedAt": null,
+    "anidbId": 74
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T13:34:35.000Z",
+    "checkedAt": "2022-05-15T13:34:35.000Z",
     "id": 53,
     "type": "anime",
     "title": "Ai Yori Aoshi",
-    "url": "https://myanimelist.net/anime/53/Ai_Yori_Aoshi",
-    "image": "https://cdn.myanimelist.net/images/anime/7/10172.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 74,
-    "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2022-03-30T10:32:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ai Yori Aoshi",
       "藍より青し",
       "Bluer Than Indigo"
     ],
+    "url": "https://anilist.co/anime/53",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx53-GPDXGvbhg4w5.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/ai-yori-aoshi/"
       }
     ],
-    "id": 53,
     "malId": 53,
-    "type": "anime",
-    "title": "Ai Yori Aoshi",
-    "url": "https://anilist.co/anime/53",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx53-GPDXGvbhg4w5.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2021-12-11T11:03:41.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/53/Ai_Yori_Aoshi"
+  }
 }

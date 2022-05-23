@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ozawa Yuki"
-  ],
+  "createdAt": "2020-10-12T16:13:44.000Z",
+  "updatedAt": "2021-12-05T23:49:50.000Z",
+  "checkedAt": null,
+  "id": 23506,
   "identifier": "d579c665-7cdb-4c5f-9370-942231fd35bc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111365,
   "aniId": 104012,
-  "createdAt": "2020-10-12T16:13:44.000Z",
-  "updatedAt": "2021-12-05T23:49:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ozawa Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:22.000Z",
+    "updatedAt": "2022-05-15T05:19:17.000Z",
+    "checkedAt": "2022-05-15T05:19:17.000Z",
+    "id": 111365,
+    "type": "manga",
+    "title": "Sanju Mariko",
+    "altTitle": [
+      "傘寿まり子"
+    ],
+    "url": "https://myanimelist.net/manga/111365/Sanju_Mariko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/205525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "傘寿まり子"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ozawa, Yuki"
-    ],
-    "id": 111365,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:21.111Z",
+    "updatedAt": "2022-05-13T12:49:21.111Z",
+    "checkedAt": null,
+    "id": 104012,
     "type": "manga",
     "title": "Sanju Mariko",
-    "url": "https://myanimelist.net/manga/111365/Sanju_Mariko",
-    "image": "https://cdn.myanimelist.net/images/manga/3/205525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2022-04-29T05:32:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "傘寿まり子",
       "Mariko at 80"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Ozawa"
-    ],
-    "id": 104012,
-    "malId": 111365,
-    "type": "manga",
-    "title": "Sanju Mariko",
     "url": "https://anilist.co/manga/104012",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104012-oN2bwUmcC0nB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:20.000Z",
-    "updatedAt": "2021-12-18T04:50:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111365/Sanju_Mariko"
+    "externalLinks": [],
+    "malId": 111365,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Ozawa"
+    ]
+  }
 }

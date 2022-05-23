@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaneko Masaru"
-  ],
+  "createdAt": "2020-10-12T16:07:49.000Z",
+  "updatedAt": "2021-12-04T05:53:10.000Z",
+  "checkedAt": null,
+  "id": 11417,
   "identifier": "58d52623-f72f-4fc5-aba2-4853b95bd944",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113934,
   "aniId": 101545,
-  "createdAt": "2020-10-12T16:07:49.000Z",
-  "updatedAt": "2021-12-04T05:53:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaneko Masaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:34.000Z",
+    "updatedAt": "2022-05-15T18:52:46.000Z",
+    "checkedAt": "2022-05-15T18:52:46.000Z",
+    "id": 113934,
+    "type": "manga",
+    "title": "Hyakka no Shirushi",
+    "altTitle": [
+      "百花のしるし"
+    ],
+    "url": "https://myanimelist.net/manga/113934/Hyakka_no_Shirushi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/220682.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "百花のしるし"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaneko, Masaru"
-    ],
-    "id": 113934,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:48.611Z",
+    "updatedAt": "2022-05-15T20:50:47.000Z",
+    "checkedAt": "2022-05-15T20:50:47.000Z",
+    "id": 101545,
     "type": "manga",
     "title": "Hyakka no Shirushi",
-    "url": "https://myanimelist.net/manga/113934/Hyakka_no_Shirushi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/220682.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:34.000Z",
-    "updatedAt": "2021-11-21T23:13:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "百花のしるし"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaru Kaneko"
-    ],
-    "id": 101545,
-    "malId": 113934,
-    "type": "manga",
-    "title": "Hyakka no Shirushi",
     "url": "https://anilist.co/manga/101545",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101545-joGGKwYpZbDE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:04.000Z",
-    "updatedAt": "2021-12-18T03:54:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113934/Hyakka_no_Shirushi"
+    "externalLinks": [],
+    "malId": 113934,
+    "deletedAt": null,
+    "authors": [
+      "Masaru Kaneko"
+    ]
+  }
 }

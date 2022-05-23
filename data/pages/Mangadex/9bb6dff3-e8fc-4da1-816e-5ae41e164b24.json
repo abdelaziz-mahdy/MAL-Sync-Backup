@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takao Shigeru"
-  ],
+  "createdAt": "2020-10-12T16:10:09.000Z",
+  "updatedAt": "2021-12-04T22:49:20.000Z",
+  "checkedAt": null,
+  "id": 16525,
   "identifier": "9bb6dff3-e8fc-4da1-816e-5ae41e164b24",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8222,
   "aniId": 38222,
-  "createdAt": "2020-10-12T16:10:09.000Z",
-  "updatedAt": "2021-12-04T22:49:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takao Shigeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:18.000Z",
+    "updatedAt": "2022-04-30T06:01:03.000Z",
+    "checkedAt": null,
+    "id": 8222,
+    "type": "manga",
+    "title": "Ningyou Shibai",
+    "altTitle": [
+      "Puppet Show",
+      "Yukigatari Harumachi",
+      "人形芝居"
+    ],
+    "url": "https://myanimelist.net/manga/8222/Ningyou_Shibai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/183094.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Puppet Show",
-      "Yukigatari Harumachi",
-      "人形芝居"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takao, Shigeru"
-    ],
-    "id": 8222,
-    "type": "manga",
-    "title": "Ningyou Shibai",
-    "url": "https://myanimelist.net/manga/8222/Ningyou_Shibai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/183094.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:18.000Z",
-    "updatedAt": "2022-04-30T06:01:03.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:39.566Z",
+    "updatedAt": "2022-05-13T12:49:39.566Z",
+    "checkedAt": null,
+    "id": 38222,
+    "type": "manga",
+    "title": "Ningyoushibai",
     "altTitle": [
       "人形芝居"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigeru Takao"
-    ],
-    "id": 38222,
-    "malId": 8222,
-    "type": "manga",
-    "title": "Ningyoushibai",
     "url": "https://anilist.co/manga/38222",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38222-yCsorMiTDnEk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:45.000Z",
-    "updatedAt": "2022-04-23T01:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8222/Ningyou_Shibai"
+    "externalLinks": [],
+    "malId": 8222,
+    "deletedAt": null,
+    "authors": [
+      "Shigeru Takao"
+    ]
+  }
 }

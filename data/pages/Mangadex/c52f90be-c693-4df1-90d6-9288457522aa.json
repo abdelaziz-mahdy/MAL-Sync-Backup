@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Numa Shozo",
-    "Egawa Tatsuya"
-  ],
+  "createdAt": "2021-07-11T21:15:22.000Z",
+  "updatedAt": "2022-01-11T21:42:09.000Z",
+  "checkedAt": null,
+  "id": 81667,
   "identifier": "c52f90be-c693-4df1-90d6-9288457522aa",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9420,
   "aniId": 39420,
-  "createdAt": "2021-07-11T21:15:22.000Z",
-  "updatedAt": "2022-01-11T21:42:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Numa Shozo",
+    "Egawa Tatsuya"
+  ],
   "Mal": {
+    "createdAt": "2021-07-11T21:15:31.000Z",
+    "updatedAt": "2022-01-11T21:41:49.000Z",
+    "checkedAt": null,
+    "id": 9420,
+    "type": "manga",
+    "title": "Kachikujin Yapoo",
+    "altTitle": [
+      "Yapoo, the Human Cattle",
+      "家畜人ヤプー"
+    ],
+    "url": "https://myanimelist.net/manga/9420/Kachikujin_Yapoo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/177693.jpg",
+    "category": "Manga",
+    "hentai": true,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yapoo, the Human Cattle",
-      "家畜人ヤプー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Egawa, Tatsuya",
       "Numa, Shozo"
-    ],
-    "id": 9420,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:18.210Z",
+    "updatedAt": "2022-05-13T13:06:18.210Z",
+    "checkedAt": null,
+    "id": 39420,
     "type": "manga",
     "title": "Kachikujin Yapoo",
-    "url": "https://myanimelist.net/manga/9420/Kachikujin_Yapoo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177693.jpg",
-    "category": "Manga",
-    "hentai": true,
-    "createdAt": "2021-07-11T21:15:31.000Z",
-    "updatedAt": "2022-01-11T21:41:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "家畜人ヤプー",
       "Yapoo, the Human Cattle"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tatsuya Egawa",
-      "Shouzou Numa"
-    ],
-    "id": 39420,
-    "malId": 9420,
-    "type": "manga",
-    "title": "Kachikujin Yapoo",
     "url": "https://anilist.co/manga/39420",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39420-ThrSLjbFptA2.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-07-11T21:15:31.000Z",
-    "updatedAt": "2022-01-11T21:42:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9420/Kachikujin_Yapoo"
+    "externalLinks": [],
+    "malId": 9420,
+    "deletedAt": null,
+    "authors": [
+      "Tatsuya Egawa",
+      "Shouzou Numa"
+    ]
+  }
 }

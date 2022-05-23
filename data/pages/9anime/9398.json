@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:35.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 303,
   "identifier": "9398",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29325,
   "aniId": 21056,
-  "createdAt": "2020-10-12T15:48:35.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:33.000Z",
+    "updatedAt": "2022-05-13T23:39:43.000Z",
+    "checkedAt": "2022-05-13T23:39:43.000Z",
+    "id": 29325,
+    "type": "anime",
+    "title": "Koukaku Kidoutai Arise: Alternative Architecture",
+    "altTitle": [
+      "Koukaku Kidoutai: Arise (TV)",
+      "Ghost in the Shell: Arise - Alternative Architecture",
+      "攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE"
+    ],
+    "url": "https://myanimelist.net/anime/29325/Koukaku_Kidoutai_Arise__Alternative_Architecture",
+    "image": "https://cdn.myanimelist.net/images/anime/5/72037.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -37,48 +54,38 @@
       {
         "site": "crunchyroll",
         "url": "http://www.crunchyroll.com/series-276343"
+      },
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Koukaku Kidoutai: Arise (TV)",
-      "Ghost in the Shell: Arise - Alternative Architecture",
-      "攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE"
-    ],
-    "id": 29325,
-    "type": "anime",
-    "title": "Koukaku Kidoutai Arise: Alternative Architecture",
-    "url": "https://myanimelist.net/anime/29325/Koukaku_Kidoutai_Arise__Alternative_Architecture",
-    "image": "https://cdn.myanimelist.net/images/anime/5/72037.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11023,
-    "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2022-04-03T03:35:55.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11023
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:47.000Z",
+    "updatedAt": "2022-05-15T09:29:35.000Z",
+    "checkedAt": "2022-05-15T09:29:35.000Z",
+    "id": 21056,
+    "type": "anime",
+    "title": "Koukaku Kidoutai ARISE: ALTERNATIVE ARCHITECTURE",
     "altTitle": [
       "Ghost in the Shell Arise: Alternative Architecture",
       "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
       "Koukaku Kidoutai: AAA"
     ],
+    "url": "https://anilist.co/anime/21056",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21056-Lv2scuQyXusc.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/ghost-in-the-shell-arise"
       }
     ],
-    "id": 21056,
     "malId": 29325,
-    "type": "anime",
-    "title": "Koukaku Kidoutai ARISE: ALTERNATIVE ARCHITECTURE",
-    "url": "https://anilist.co/anime/21056",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21056-Lv2scuQyXusc.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:47.000Z",
-    "updatedAt": "2021-12-17T14:53:36.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/29325/Koukaku_Kidoutai_Arise__Alternative_Architecture"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ragawa Marimo"
-  ],
+  "createdAt": "2020-10-12T16:03:02.000Z",
+  "updatedAt": "2021-12-02T11:18:55.000Z",
+  "checkedAt": null,
+  "id": 1392,
   "identifier": "1c109752-50a1-40f0-9125-f33091bf550a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4011,
   "aniId": 34011,
-  "createdAt": "2020-10-12T16:03:02.000Z",
-  "updatedAt": "2021-12-02T11:18:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ragawa Marimo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:56.000Z",
+    "updatedAt": "2022-03-20T21:53:05.000Z",
+    "checkedAt": null,
+    "id": 4011,
+    "type": "manga",
+    "title": "New York New York",
+    "altTitle": [
+      "New York, New York",
+      "ニューヨーク・ニューヨーク"
+    ],
+    "url": "https://myanimelist.net/manga/4011/New_York_New_York",
+    "image": "https://cdn.myanimelist.net/images/manga/3/256827.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "New York, New York",
-      "ニューヨーク・ニューヨーク"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ragawa, Marimo"
-    ],
-    "id": 4011,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:23.215Z",
+    "updatedAt": "2022-05-13T13:03:23.215Z",
+    "checkedAt": null,
+    "id": 34011,
     "type": "manga",
     "title": "New York New York",
-    "url": "https://myanimelist.net/manga/4011/New_York_New_York",
-    "image": "https://cdn.myanimelist.net/images/manga/3/256827.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:56.000Z",
-    "updatedAt": "2022-03-20T21:53:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "New York, New York",
       "ニューヨーク・ニューヨーク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Marimo Ragawa"
-    ],
-    "id": 34011,
-    "malId": 4011,
-    "type": "manga",
-    "title": "New York New York",
     "url": "https://anilist.co/manga/34011",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4011.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:23.000Z",
-    "updatedAt": "2021-12-17T11:40:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4011/New_York_New_York"
+    "externalLinks": [],
+    "malId": 4011,
+    "deletedAt": null,
+    "authors": [
+      "Marimo Ragawa"
+    ]
+  }
 }

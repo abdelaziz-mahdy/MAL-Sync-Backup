@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kyou Machiko"
-  ],
+  "createdAt": "2020-10-12T16:09:35.000Z",
+  "updatedAt": "2021-12-04T18:53:48.000Z",
+  "checkedAt": null,
+  "id": 15319,
   "identifier": "fde2059c-34bc-4ec7-8488-5d9f91497ac6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69827,
   "aniId": 86830,
-  "createdAt": "2020-10-12T16:09:35.000Z",
-  "updatedAt": "2021-12-04T18:53:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kyou Machiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:16.000Z",
+    "updatedAt": "2022-05-15T14:23:53.000Z",
+    "checkedAt": "2022-05-15T14:23:53.000Z",
+    "id": 69827,
+    "type": "manga",
+    "title": "Mitsuami no Kamisama",
+    "altTitle": [
+      "God with the Braided Hair",
+      "みつあみの神様"
+    ],
+    "url": "https://myanimelist.net/manga/69827/Mitsuami_no_Kamisama",
+    "image": "https://cdn.myanimelist.net/images/manga/3/123041.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "God with the Braided Hair",
-      "みつあみの神様"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kyou, Machiko"
-    ],
-    "id": 69827,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:15.624Z",
+    "updatedAt": "2022-05-15T18:14:23.000Z",
+    "checkedAt": "2022-05-15T18:14:23.000Z",
+    "id": 86830,
     "type": "manga",
     "title": "Mitsuami no Kamisama",
-    "url": "https://myanimelist.net/manga/69827/Mitsuami_no_Kamisama",
-    "image": "https://cdn.myanimelist.net/images/manga/3/123041.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:16.000Z",
-    "updatedAt": "2021-11-10T05:44:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "みつあみの神様",
       "Mitsuami no Kami-sama"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Machiko Kyou"
-    ],
-    "id": 86830,
-    "malId": 69827,
-    "type": "manga",
-    "title": "Mitsuami no Kamisama",
     "url": "https://anilist.co/manga/86830",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86830-AMUzrvIBiyYp.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:29.000Z",
-    "updatedAt": "2021-12-17T22:59:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69827/Mitsuami_no_Kamisama"
+    "externalLinks": [],
+    "malId": 69827,
+    "deletedAt": null,
+    "authors": [
+      "Machiko Kyou"
+    ]
+  }
 }

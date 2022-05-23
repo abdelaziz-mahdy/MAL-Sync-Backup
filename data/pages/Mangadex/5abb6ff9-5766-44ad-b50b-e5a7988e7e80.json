@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nakamura Satsuki",
-    "Batako"
-  ],
+  "createdAt": "2020-10-12T16:20:07.000Z",
+  "updatedAt": "2021-12-07T23:39:00.000Z",
+  "checkedAt": null,
+  "id": 36543,
   "identifier": "5abb6ff9-5766-44ad-b50b-e5a7988e7e80",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117911,
   "aniId": 108424,
-  "createdAt": "2020-10-12T16:20:07.000Z",
-  "updatedAt": "2021-12-07T23:39:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakamura Satsuki",
+    "Batako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:51.000Z",
+    "updatedAt": "2022-05-21T07:55:03.000Z",
+    "checkedAt": "2022-05-21T07:55:03.000Z",
+    "id": 117911,
+    "type": "manga",
+    "title": "Shaba no \"Futsuu\" wa Muzukashii",
+    "altTitle": [
+      "シャバの「普通」は難しい"
+    ],
+    "url": "https://myanimelist.net/manga/117911/Shaba_no_Futsuu_wa_Muzukashii",
+    "image": "https://cdn.myanimelist.net/images/manga/1/215213.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "シャバの「普通」は難しい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Batako",
       "Nakamura, Satsuki"
-    ],
-    "id": 117911,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:50.864Z",
+    "updatedAt": "2022-05-21T07:55:02.000Z",
+    "checkedAt": "2022-05-21T07:55:02.000Z",
+    "id": 108424,
     "type": "manga",
     "title": "Shaba no \"Futsuu\" wa Muzukashii",
-    "url": "https://myanimelist.net/manga/117911/Shaba_no_Futsuu_wa_Muzukashii",
-    "image": "https://cdn.myanimelist.net/images/manga/1/215213.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:51.000Z",
-    "updatedAt": "2022-03-22T21:59:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "シャバの「普通」は難しい"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Karuki Mura",
-      "Batako",
-      "Satsuki Nakamura"
-    ],
-    "id": 108424,
-    "malId": 117911,
-    "type": "manga",
-    "title": "Shaba no \"Futsuu\" wa Muzukashii",
     "url": "https://anilist.co/manga/108424",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108424-99ptHm9iK42q.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:58.000Z",
-    "updatedAt": "2021-12-18T06:20:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117911/Shaba_no_Futsuu_wa_Muzukashii"
+    "externalLinks": [],
+    "malId": 117911,
+    "deletedAt": null,
+    "authors": [
+      "Karuki Mura",
+      "Batako",
+      "Satsuki Nakamura"
+    ]
+  }
 }

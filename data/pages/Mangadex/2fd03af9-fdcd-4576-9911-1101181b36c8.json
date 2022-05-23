@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kakinouchi Narumi"
-  ],
+  "createdAt": "2020-10-12T16:06:13.000Z",
+  "updatedAt": "2021-12-03T18:19:09.000Z",
+  "checkedAt": null,
+  "id": 8000,
   "identifier": "2fd03af9-fdcd-4576-9911-1101181b36c8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8678,
   "aniId": 38678,
-  "createdAt": "2020-10-12T16:06:13.000Z",
-  "updatedAt": "2021-12-03T18:19:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kakinouchi Narumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:20.000Z",
+    "updatedAt": "2022-04-30T09:32:54.000Z",
+    "checkedAt": null,
+    "id": 8678,
+    "type": "manga",
+    "title": "Vampire Yui",
+    "altTitle": [
+      "Vampire Princess Yui",
+      "Kyuuketsuhime Yui",
+      "Vampire Yui",
+      "吸血姫夕維"
+    ],
+    "url": "https://myanimelist.net/manga/8678/Vampire_Yui",
+    "image": "https://cdn.myanimelist.net/images/manga/1/156938.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +43,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Vampire Princess Yui",
-      "Kyuuketsuhime Yui",
-      "Vampire Yui",
-      "吸血姫夕維"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kakinouchi, Narumi"
-    ],
-    "id": 8678,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:00.108Z",
+    "updatedAt": "2022-05-13T12:43:00.108Z",
+    "checkedAt": null,
+    "id": 38678,
     "type": "manga",
     "title": "Vampire Yui",
-    "url": "https://myanimelist.net/manga/8678/Vampire_Yui",
-    "image": "https://cdn.myanimelist.net/images/manga/1/156938.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2022-04-30T09:32:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "吸血姫夕維",
       "Vampire Princess Yui"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Narumi Kakinouchi"
-    ],
-    "id": 38678,
-    "malId": 8678,
-    "type": "manga",
-    "title": "Vampire Yui",
     "url": "https://anilist.co/manga/38678",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38678-eLjtNMGGDuS0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:49.000Z",
-    "updatedAt": "2021-12-17T13:36:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8678/Vampire_Yui"
+    "externalLinks": [],
+    "malId": 8678,
+    "deletedAt": null,
+    "authors": [
+      "Narumi Kakinouchi"
+    ]
+  }
 }

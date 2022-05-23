@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:19.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8667,
   "identifier": "qzmw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5945,
   "aniId": 5945,
-  "createdAt": "2020-10-12T15:55:19.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:49.000Z",
+    "updatedAt": "2022-05-14T19:55:53.000Z",
+    "checkedAt": "2022-05-14T19:55:53.000Z",
+    "id": 5945,
+    "type": "anime",
+    "title": "Element Hunters",
+    "altTitle": [
+      "Elementhunters",
+      "Element Hunter",
+      "エレメントハンター"
+    ],
+    "url": "https://myanimelist.net/anime/5945/Element_Hunters",
+    "image": "https://cdn.myanimelist.net/images/anime/9/21172.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Elementhunters",
-      "Element Hunter",
-      "エレメントハンター"
-    ],
+    "deletedAt": null,
+    "anidbId": 6335
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:53.000Z",
+    "updatedAt": "2022-05-15T12:25:35.000Z",
+    "checkedAt": "2022-05-15T12:25:35.000Z",
     "id": 5945,
     "type": "anime",
     "title": "Element Hunters",
-    "url": "https://myanimelist.net/anime/5945/Element_Hunters",
-    "image": "https://cdn.myanimelist.net/images/anime/9/21172.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 6335,
-    "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2022-03-12T08:01:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エレメントハンター",
       "Elementhunters",
       "Element Hunter"
     ],
-    "externalLinks": [],
-    "id": 5945,
-    "malId": 5945,
-    "type": "anime",
-    "title": "Element Hunters",
     "url": "https://anilist.co/anime/5945",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5945-uUfPaLuNDk6F.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:53.000Z",
-    "updatedAt": "2021-12-17T11:53:59.000Z",
+    "externalLinks": [],
+    "malId": 5945,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/5945/Element_Hunters"
+  }
 }

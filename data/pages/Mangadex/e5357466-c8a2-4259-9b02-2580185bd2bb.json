@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Urasawa Naoki",
-    "Nagasaki Takashi"
-  ],
+  "createdAt": "2020-10-12T16:02:43.000Z",
+  "updatedAt": "2021-12-02T09:17:29.000Z",
+  "checkedAt": null,
+  "id": 730,
   "identifier": "e5357466-c8a2-4259-9b02-2580185bd2bb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11054,
   "aniId": 41054,
-  "createdAt": "2020-10-12T16:02:43.000Z",
-  "updatedAt": "2021-12-02T09:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urasawa Naoki",
+    "Nagasaki Takashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:31.000Z",
+    "updatedAt": "2022-05-14T23:48:17.000Z",
+    "checkedAt": "2022-05-14T23:48:17.000Z",
+    "id": 11054,
+    "type": "manga",
+    "title": "Billy Bat",
+    "altTitle": [
+      "BILLY BAT"
+    ],
+    "url": "https://myanimelist.net/manga/11054/Billy_Bat",
+    "image": "https://cdn.myanimelist.net/images/manga/3/181197.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BILLY BAT"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki",
       "Nagasaki, Takashi"
-    ],
-    "id": 11054,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:02.773Z",
+    "updatedAt": "2022-05-15T19:42:35.000Z",
+    "checkedAt": "2022-05-15T19:42:35.000Z",
+    "id": 41054,
     "type": "manga",
     "title": "Billy Bat",
-    "url": "https://myanimelist.net/manga/11054/Billy_Bat",
-    "image": "https://cdn.myanimelist.net/images/manga/3/181197.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:31.000Z",
-    "updatedAt": "2022-04-25T14:01:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ビリーバット"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Urasawa",
-      "Takashi Nagasaki"
-    ],
-    "id": 41054,
-    "malId": 11054,
-    "type": "manga",
-    "title": "Billy Bat",
     "url": "https://anilist.co/manga/41054",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41054-rJCWCGiWYKqK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:15.000Z",
-    "updatedAt": "2021-12-17T14:14:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11054/Billy_Bat"
+    "externalLinks": [],
+    "malId": 11054,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Urasawa",
+      "Takashi Nagasaki",
+      "Sylvain Chollet"
+    ]
+  }
 }

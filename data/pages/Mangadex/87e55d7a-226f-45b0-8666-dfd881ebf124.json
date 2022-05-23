@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takano Masayuki"
-  ],
+  "createdAt": "2020-10-12T16:13:29.000Z",
+  "updatedAt": "2021-12-05T21:50:09.000Z",
+  "checkedAt": null,
+  "id": 23007,
   "identifier": "87e55d7a-226f-45b0-8666-dfd881ebf124",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78351,
   "aniId": 92645,
-  "createdAt": "2020-10-12T16:13:29.000Z",
-  "updatedAt": "2021-12-05T21:50:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takano Masayuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2021-12-19T09:19:06.000Z",
+    "checkedAt": null,
+    "id": 78351,
+    "type": "manga",
+    "title": "Cronos Haze (2014)",
+    "altTitle": [
+      "Cronos Haze",
+      "クロノスヘイズ"
+    ],
+    "url": "https://myanimelist.net/manga/78351/Cronos_Haze_2014",
+    "image": "https://cdn.myanimelist.net/images/manga/3/153549.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,52 +41,39 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cronos Haze",
-      "クロノスヘイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takano, Masayuki"
-    ],
-    "id": 78351,
-    "type": "manga",
-    "title": "Cronos Haze (2014)",
-    "url": "https://myanimelist.net/manga/78351/Cronos_Haze_2014",
-    "image": "https://cdn.myanimelist.net/images/manga/3/153549.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2021-12-19T09:19:06.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.190Z",
+    "updatedAt": "2022-05-13T13:06:36.190Z",
+    "checkedAt": null,
+    "id": 92645,
+    "type": "manga",
+    "title": "Cronos Haze",
     "altTitle": [
       "Cronos Haze",
       "クロノスヘイズ",
       "Cronos Haze (2014)"
     ],
+    "url": "https://anilist.co/manga/92645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92645-bQGh9dzlfeov.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/cronos-haze/volumes"
       }
     ],
+    "malId": 78351,
+    "deletedAt": null,
     "authors": [
       "Masayuki Takano",
       "Matt Del Giudice",
       "Sai Higashi"
-    ],
-    "id": 92645,
-    "malId": 78351,
-    "type": "manga",
-    "title": "Cronos Haze",
-    "url": "https://anilist.co/manga/92645",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92645-bQGh9dzlfeov.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:52.000Z",
-    "updatedAt": "2022-03-16T09:17:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78351/Cronos_Haze_2014"
+    ]
+  }
 }

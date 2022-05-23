@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyazaki Maya"
-  ],
+  "createdAt": "2021-08-16T04:37:02.000Z",
+  "updatedAt": "2022-02-16T05:16:50.000Z",
+  "checkedAt": null,
+  "id": 85383,
   "identifier": "manga-mn964322",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56461,
   "aniId": 88221,
-  "createdAt": "2021-08-16T04:37:02.000Z",
-  "updatedAt": "2022-02-16T05:16:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyazaki Maya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-05-18T08:08:57.000Z",
+    "checkedAt": "2022-05-18T08:08:57.000Z",
+    "id": 56461,
+    "type": "manga",
+    "title": "Genocider",
+    "altTitle": [
+      "ジェノサイダー"
+    ],
+    "url": "https://myanimelist.net/manga/56461/Genocider",
+    "image": "https://cdn.myanimelist.net/images/manga/3/167795.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ジェノサイダー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyazaki, Maya",
       "Akiyoshi, Takahiro"
-    ],
-    "id": 56461,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:44.861Z",
+    "updatedAt": "2022-05-18T08:08:56.000Z",
+    "checkedAt": "2022-05-18T08:08:56.000Z",
+    "id": 88221,
     "type": "manga",
     "title": "Genocider",
-    "url": "https://myanimelist.net/manga/56461/Genocider",
-    "image": "https://cdn.myanimelist.net/images/manga/3/167795.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:48.000Z",
-    "updatedAt": "2022-02-16T04:47:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ジェノサイダー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maya Miyazaki",
-      "Takahiro Akiyoshi"
-    ],
-    "id": 88221,
-    "malId": 56461,
-    "type": "manga",
-    "title": "Genocider",
     "url": "https://anilist.co/manga/88221",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx88221-X8BlmBEXHn8U.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:29.000Z",
-    "updatedAt": "2021-12-17T23:30:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56461/Genocider"
+    "externalLinks": [],
+    "malId": 56461,
+    "deletedAt": null,
+    "authors": [
+      "Maya Miyazaki",
+      "Takahiro Akiyoshi"
+    ]
+  }
 }

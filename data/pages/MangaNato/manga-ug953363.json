@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ara Tatsuya",
-    "[Add]"
-  ],
+  "createdAt": "2022-01-15T18:11:56.000Z",
+  "updatedAt": "2022-01-15T18:41:45.000Z",
+  "checkedAt": null,
+  "id": 94727,
   "identifier": "manga-ug953363",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 76835,
   "aniId": 86260,
-  "createdAt": "2022-01-15T18:11:56.000Z",
-  "updatedAt": "2022-01-15T18:41:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ara Tatsuya",
+    "[Add]"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:25.000Z",
+    "updatedAt": "2022-01-15T18:12:15.000Z",
+    "checkedAt": null,
+    "id": 76835,
+    "type": "manga",
+    "title": "Harigane Service",
+    "altTitle": [
+      "ハリガネサービス"
+    ],
+    "url": "https://myanimelist.net/manga/76835/Harigane_Service",
+    "image": "https://cdn.myanimelist.net/images/manga/1/136647.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハリガネサービス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ara, Tatsuya"
-    ],
-    "id": 76835,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:34.545Z",
+    "updatedAt": "2022-05-13T13:05:34.545Z",
+    "checkedAt": null,
+    "id": 86260,
     "type": "manga",
     "title": "Harigane Service",
-    "url": "https://myanimelist.net/manga/76835/Harigane_Service",
-    "image": "https://cdn.myanimelist.net/images/manga/1/136647.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:25.000Z",
-    "updatedAt": "2022-01-15T18:12:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ハリガネサービス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tatsuya Ara"
-    ],
-    "id": 86260,
-    "malId": 76835,
-    "type": "manga",
-    "title": "Harigane Service",
     "url": "https://anilist.co/manga/86260",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86260-cSTFyMdCSVDq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2021-12-17T22:48:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/76835/Harigane_Service"
+    "externalLinks": [],
+    "malId": 76835,
+    "deletedAt": null,
+    "authors": [
+      "Tatsuya Ara"
+    ]
+  }
 }

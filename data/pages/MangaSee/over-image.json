@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Chibimaru",
-    "YUSA Mahiro"
-  ],
+  "createdAt": "2021-05-25T02:09:18.000Z",
+  "updatedAt": "2021-11-25T03:05:53.000Z",
+  "checkedAt": null,
+  "id": 72610,
   "identifier": "over-image",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43545,
   "aniId": 73545,
-  "createdAt": "2021-05-25T02:09:18.000Z",
-  "updatedAt": "2021-11-25T03:05:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chibimaru",
+    "YUSA Mahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:17.000Z",
+    "updatedAt": "2021-11-25T02:35:43.000Z",
+    "checkedAt": null,
+    "id": 43545,
+    "type": "manga",
+    "title": "Over Image",
+    "altTitle": [
+      "オーバーイメージ"
+    ],
+    "url": "https://myanimelist.net/manga/43545/Over_Image",
+    "image": "https://cdn.myanimelist.net/images/manga/1/94795.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "オーバーイメージ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yusa, Mahiro",
       "Chibimaru"
-    ],
-    "id": 43545,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:52.460Z",
+    "updatedAt": "2022-05-13T12:48:52.460Z",
+    "checkedAt": null,
+    "id": 73545,
     "type": "manga",
     "title": "Over Image",
-    "url": "https://myanimelist.net/manga/43545/Over_Image",
-    "image": "https://cdn.myanimelist.net/images/manga/1/94795.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:17.000Z",
-    "updatedAt": "2021-11-25T02:35:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "オーバーイメージ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mahiro Yusa",
-      "Chibimaru",
-      "Matsuri Santa"
-    ],
-    "id": 73545,
-    "malId": 43545,
-    "type": "manga",
-    "title": "Over Image",
     "url": "https://anilist.co/manga/73545",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b73545-PqPIKTQ2CXlb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:57.000Z",
-    "updatedAt": "2021-12-17T20:33:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/43545/Over_Image"
+    "externalLinks": [],
+    "malId": 43545,
+    "deletedAt": null,
+    "authors": [
+      "Mahiro Yusa",
+      "Chibimaru",
+      "Matsuri Santa"
+    ]
+  }
 }

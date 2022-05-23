@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugito Akira"
-  ],
+  "createdAt": "2020-10-12T16:07:00.000Z",
+  "updatedAt": "2022-05-23T16:00:11.000Z",
+  "checkedAt": "2022-05-23T16:00:11.000Z",
+  "id": 9669,
   "identifier": "5927e373-f024-42ad-9307-6f4c05ea3fc4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63781,
   "aniId": 85213,
-  "createdAt": "2020-10-12T16:07:00.000Z",
-  "updatedAt": "2021-12-03T23:47:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugito Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2022-05-14T23:22:41.000Z",
+    "checkedAt": "2022-05-14T23:22:41.000Z",
+    "id": 63781,
+    "type": "manga",
+    "title": "Boku Girl",
+    "altTitle": [
+      "ボクガール"
+    ],
+    "url": "https://myanimelist.net/manga/63781/Boku_Girl",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188806.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ボクガール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugito, Akira"
-    ],
-    "id": 63781,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:32.830Z",
+    "updatedAt": "2022-05-16T15:54:00.000Z",
+    "checkedAt": "2022-05-16T15:54:00.000Z",
+    "id": 85213,
     "type": "manga",
     "title": "Boku Girl",
-    "url": "https://myanimelist.net/manga/63781/Boku_Girl",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188806.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2022-03-19T17:19:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ボクガール",
       "Bokugirl",
       "仆少女"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Sugito"
-    ],
-    "id": 85213,
-    "malId": 63781,
-    "type": "manga",
-    "title": "Boku Girl",
     "url": "https://anilist.co/manga/85213",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85213-1JQMA6rjsRt3.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:49.000Z",
-    "updatedAt": "2021-12-17T21:55:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63781/Boku_Girl"
+    "externalLinks": [],
+    "malId": 63781,
+    "deletedAt": null,
+    "authors": [
+      "Akira Sugito"
+    ]
+  }
 }

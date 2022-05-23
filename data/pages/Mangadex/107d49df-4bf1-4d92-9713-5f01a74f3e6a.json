@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Inabe Kazu"
-  ],
+  "createdAt": "2020-10-12T16:07:53.000Z",
+  "updatedAt": "2021-12-04T06:22:08.000Z",
+  "checkedAt": null,
+  "id": 11558,
   "identifier": "107d49df-4bf1-4d92-9713-5f01a74f3e6a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80157,
   "aniId": 85571,
-  "createdAt": "2020-10-12T16:07:53.000Z",
-  "updatedAt": "2021-12-04T06:22:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inabe Kazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2021-12-24T04:22:26.000Z",
+    "checkedAt": null,
+    "id": 80157,
+    "type": "manga",
+    "title": "Rock Me Amadeus",
+    "altTitle": [
+      "ロックミー アマデウス"
+    ],
+    "url": "https://myanimelist.net/manga/80157/Rock_Me_Amadeus",
+    "image": "https://cdn.myanimelist.net/images/manga/3/151716.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ロックミー アマデウス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inabe, Kazu"
-    ],
-    "id": 80157,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:59.792Z",
+    "updatedAt": "2022-05-13T12:47:59.792Z",
+    "checkedAt": null,
+    "id": 85571,
     "type": "manga",
     "title": "Rock Me Amadeus",
-    "url": "https://myanimelist.net/manga/80157/Rock_Me_Amadeus",
-    "image": "https://cdn.myanimelist.net/images/manga/3/151716.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2021-12-24T04:22:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rock Me Amadeus",
       "ロックミー アマデウス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazu Inabe"
-    ],
-    "id": 85571,
-    "malId": 80157,
-    "type": "manga",
-    "title": "Rock Me Amadeus",
     "url": "https://anilist.co/manga/85571",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85571-tc7MInrKyjaW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-17T22:18:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80157/Rock_Me_Amadeus"
+    "externalLinks": [],
+    "malId": 80157,
+    "deletedAt": null,
+    "authors": [
+      "Kazu Inabe"
+    ]
+  }
 }

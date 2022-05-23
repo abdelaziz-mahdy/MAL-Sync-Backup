@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nagai Go",
-    "Karasuyama Eiji"
-  ],
+  "createdAt": "2020-10-12T16:07:44.000Z",
+  "updatedAt": "2021-12-04T05:21:31.000Z",
+  "checkedAt": null,
+  "id": 11266,
   "identifier": "8b4e3c9a-4d3a-48cb-b8df-f7e37761d731",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8714,
   "aniId": 38714,
-  "createdAt": "2020-10-12T16:07:44.000Z",
-  "updatedAt": "2021-12-04T05:21:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Go",
+    "Karasuyama Eiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:20.000Z",
+    "updatedAt": "2022-04-30T10:00:34.000Z",
+    "checkedAt": null,
+    "id": 8714,
+    "type": "manga",
+    "title": "Satanikus Enma Kerberos",
+    "altTitle": [
+      "Satanikus Enma Cerberos",
+      "Satanikus ENMA ケルベロス"
+    ],
+    "url": "https://myanimelist.net/manga/8714/Satanikus_Enma_Kerberos",
+    "image": "https://cdn.myanimelist.net/images/manga/1/32632.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Satanikus Enma Cerberos",
-      "Satanikus ENMA ケルベロス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagai, Go",
       "Toriyama, Eiji"
-    ],
-    "id": 8714,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:32.193Z",
+    "updatedAt": "2022-05-13T12:46:32.193Z",
+    "checkedAt": null,
+    "id": 38714,
     "type": "manga",
     "title": "Satanikus Enma Kerberos",
-    "url": "https://myanimelist.net/manga/8714/Satanikus_Enma_Kerberos",
-    "image": "https://cdn.myanimelist.net/images/manga/1/32632.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2022-04-30T10:00:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Satanikus ENMA ケルベロス",
       "Satanikus Enma Cerberos"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Nagai",
-      "Eiji Karasuyama"
-    ],
-    "id": 38714,
-    "malId": 8714,
-    "type": "manga",
-    "title": "Satanikus Enma Kerberos",
     "url": "https://anilist.co/manga/38714",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8714.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:50.000Z",
-    "updatedAt": "2021-12-17T13:37:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8714/Satanikus_Enma_Kerberos"
+    "externalLinks": [],
+    "malId": 8714,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai",
+      "Eiji Karasuyama"
+    ]
+  }
 }

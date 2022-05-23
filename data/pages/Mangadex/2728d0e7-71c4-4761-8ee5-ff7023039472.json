@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakurazawa Erica"
-  ],
+  "createdAt": "2020-10-12T16:09:29.000Z",
+  "updatedAt": "2021-12-04T18:25:40.000Z",
+  "checkedAt": null,
+  "id": 15086,
   "identifier": "2728d0e7-71c4-4761-8ee5-ff7023039472",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123,
   "aniId": 30123,
-  "createdAt": "2020-10-12T16:09:29.000Z",
-  "updatedAt": "2021-12-04T18:25:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakurazawa Erica"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.tokyopop.com/shop/1138/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-15T00:01:47.000Z",
+    "checkedAt": "2022-05-15T00:01:47.000Z",
+    "id": 123,
+    "type": "manga",
+    "title": "Tenshi no Su",
     "altTitle": [
       "God Knows Everything",
       "Tea Time",
@@ -33,21 +34,29 @@
       "Angel Nest",
       "天使の巣"
     ],
-    "authors": [
-      "Sakurazawa, Erica"
-    ],
-    "id": 123,
-    "type": "manga",
-    "title": "Tenshi no Su",
     "url": "https://myanimelist.net/manga/123/Tenshi_no_Su",
     "image": "https://cdn.myanimelist.net/images/manga/1/114665.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-26T00:30:38.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tokyopop.com/shop/1138/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakurazawa, Erica"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:58.694Z",
+    "updatedAt": "2022-05-13T12:58:58.694Z",
+    "checkedAt": null,
+    "id": 30123,
+    "type": "manga",
+    "title": "Tenshi no Su",
     "altTitle": [
       "Angel Nest",
       "天使の巣",
@@ -55,21 +64,15 @@
       "Tea Time",
       "Dispensation of Heaven"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Erica Sakurazawa"
-    ],
-    "id": 30123,
-    "malId": 123,
-    "type": "manga",
-    "title": "Tenshi no Su",
     "url": "https://anilist.co/manga/30123",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30123-P3MenlNTjP22.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-12-17T09:03:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123/Tenshi_no_Su"
+    "externalLinks": [],
+    "malId": 123,
+    "deletedAt": null,
+    "authors": [
+      "Erica Sakurazawa"
+    ]
+  }
 }

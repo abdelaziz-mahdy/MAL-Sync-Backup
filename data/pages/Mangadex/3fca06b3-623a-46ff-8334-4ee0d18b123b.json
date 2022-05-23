@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "alt."
-  ],
+  "createdAt": "2020-10-12T16:16:09.000Z",
+  "updatedAt": "2021-12-06T20:17:53.000Z",
+  "checkedAt": null,
+  "id": 28492,
   "identifier": "3fca06b3-623a-46ff-8334-4ee0d18b123b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 51493,
   "aniId": 81493,
-  "createdAt": "2020-10-12T16:16:09.000Z",
-  "updatedAt": "2021-12-06T20:17:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "alt."
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:41.000Z",
+    "updatedAt": "2022-05-16T06:06:46.000Z",
+    "checkedAt": "2022-05-16T06:06:46.000Z",
+    "id": 51493,
+    "type": "manga",
+    "title": "Murasakiiro no Qualia",
+    "altTitle": [
+      "Qualia the Purple",
+      "紫色のクオリア"
+    ],
+    "url": "https://myanimelist.net/manga/51493/Murasakiiro_no_Qualia",
+    "image": "https://cdn.myanimelist.net/images/manga/3/130549.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Qualia the Purple",
-      "紫色のクオリア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueo, Hisamitsu",
       "Tsunashima, Shirou"
-    ],
-    "id": 51493,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:39.562Z",
+    "updatedAt": "2022-05-16T06:06:46.000Z",
+    "checkedAt": "2022-05-16T06:06:46.000Z",
+    "id": 81493,
     "type": "manga",
     "title": "Murasakiiro no Qualia",
-    "url": "https://myanimelist.net/manga/51493/Murasakiiro_no_Qualia",
-    "image": "https://cdn.myanimelist.net/images/manga/3/130549.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:41.000Z",
-    "updatedAt": "2022-03-10T18:00:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Qualia the Purple",
       "紫色のクオリア",
       "Purple Qualia"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hisamitsu Ueo",
-      "Shirou Tsunashima"
-    ],
-    "id": 81493,
-    "malId": 51493,
-    "type": "manga",
-    "title": "Murasakiiro no Qualia",
     "url": "https://anilist.co/manga/81493",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81493-ggDdC85kzXyK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:51.000Z",
-    "updatedAt": "2022-02-09T21:39:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/51493/Murasakiiro_no_Qualia"
+    "externalLinks": [],
+    "malId": 51493,
+    "deletedAt": null,
+    "authors": [
+      "Hisamitsu Ueo",
+      "Shirou Tsunashima"
+    ]
+  }
 }

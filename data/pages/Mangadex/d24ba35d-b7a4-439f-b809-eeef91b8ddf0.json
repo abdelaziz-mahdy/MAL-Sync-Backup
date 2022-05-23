@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okabe Takashi",
-    "Tsuru Yumika"
-  ],
+  "createdAt": "2020-10-12T16:06:43.000Z",
+  "updatedAt": "2021-12-03T21:51:50.000Z",
+  "checkedAt": null,
+  "id": 9071,
   "identifier": "d24ba35d-b7a4-439f-b809-eeef91b8ddf0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58149,
   "aniId": 86278,
-  "createdAt": "2020-10-12T16:06:43.000Z",
-  "updatedAt": "2021-12-03T21:51:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okabe Takashi",
+    "Tsuru Yumika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-04-25T14:01:38.000Z",
+    "checkedAt": null,
+    "id": 58149,
+    "type": "manga",
+    "title": "Hero Mask",
+    "altTitle": [
+      "ヒーローマスク"
+    ],
+    "url": "https://myanimelist.net/manga/58149/Hero_Mask",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175237.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヒーローマスク"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuru, Yumika",
       "Okabe, Takashi"
-    ],
-    "id": 58149,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:03.138Z",
+    "updatedAt": "2022-05-13T12:41:03.138Z",
+    "checkedAt": null,
+    "id": 86278,
     "type": "manga",
     "title": "Hero Mask",
-    "url": "https://myanimelist.net/manga/58149/Hero_Mask",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175237.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2022-04-25T14:01:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヒーローマスク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yumika Tsuru",
-      "Takashi Okabe"
-    ],
-    "id": 86278,
-    "malId": 58149,
-    "type": "manga",
-    "title": "Hero Mask",
     "url": "https://anilist.co/manga/86278",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56278-kvMp7U1tkhbD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T22:49:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58149/Hero_Mask"
+    "externalLinks": [],
+    "malId": 58149,
+    "deletedAt": null,
+    "authors": [
+      "Yumika Tsuru",
+      "Takashi Okabe"
+    ]
+  }
 }

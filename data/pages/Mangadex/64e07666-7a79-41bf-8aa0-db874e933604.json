@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Murata Shinya",
-    "Hayami Tokisada"
-  ],
+  "createdAt": "2020-10-12T16:18:19.000Z",
+  "updatedAt": "2021-12-07T16:17:25.000Z",
+  "checkedAt": null,
+  "id": 32947,
   "identifier": "64e07666-7a79-41bf-8aa0-db874e933604",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125396,
   "aniId": 115056,
-  "createdAt": "2020-10-12T16:18:19.000Z",
-  "updatedAt": "2021-12-07T16:17:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murata Shinya",
+    "Hayami Tokisada"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:20.000Z",
+    "updatedAt": "2022-05-16T18:33:12.000Z",
+    "checkedAt": "2022-05-16T18:33:12.000Z",
+    "id": 125396,
+    "type": "manga",
+    "title": "Blattodea",
+    "altTitle": [
+      "ブラトデア"
+    ],
+    "url": "https://myanimelist.net/manga/125396/Blattodea",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245062.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ブラトデア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murata, Shinya",
       "Hayami, Tokisada"
-    ],
-    "id": 125396,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:39.710Z",
+    "updatedAt": "2022-05-16T18:33:11.000Z",
+    "checkedAt": "2022-05-16T18:33:11.000Z",
+    "id": 115056,
     "type": "manga",
     "title": "Blattodea",
-    "url": "https://myanimelist.net/manga/125396/Blattodea",
-    "image": "https://cdn.myanimelist.net/images/manga/1/245062.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:20.000Z",
-    "updatedAt": "2021-11-27T20:06:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ブラトデア -BLATTODEA-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Murata Shinya",
-      "Tokisada Hayami"
-    ],
-    "id": 115056,
-    "malId": 125396,
-    "type": "manga",
-    "title": "Blattodea",
     "url": "https://anilist.co/manga/115056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115056-takXBsuycoFw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:10.000Z",
-    "updatedAt": "2021-12-18T08:22:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125396/Blattodea"
+    "externalLinks": [],
+    "malId": 125396,
+    "deletedAt": null,
+    "authors": [
+      "Murata Shinya",
+      "Tokisada Hayami"
+    ]
+  }
 }

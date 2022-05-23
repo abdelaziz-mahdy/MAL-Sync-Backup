@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Obata Yuuki"
-  ],
+  "createdAt": "2021-06-02T16:31:19.000Z",
+  "updatedAt": "2021-12-02T17:20:19.000Z",
+  "checkedAt": null,
+  "id": 75862,
   "identifier": "manga-wb956210",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1031,
   "aniId": 31031,
-  "createdAt": "2021-06-02T16:31:19.000Z",
-  "updatedAt": "2021-12-02T17:20:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Obata Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-15T15:19:01.000Z",
+    "checkedAt": "2022-05-15T15:19:00.000Z",
+    "id": 1031,
+    "type": "manga",
+    "title": "Bokura ga Ita",
+    "altTitle": [
+      "Run Baby, Run.",
+      "We Were There",
+      "僕等がいた"
+    ],
+    "url": "https://myanimelist.net/manga/1031/Bokura_ga_Ita",
+    "image": "https://cdn.myanimelist.net/images/manga/2/244302.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Run Baby, Run.",
-      "We Were There",
-      "僕等がいた"
-    ],
+    "deletedAt": null,
     "authors": [
       "Obata, Yuuki"
-    ],
-    "id": 1031,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:07.175Z",
+    "updatedAt": "2022-05-15T18:46:47.000Z",
+    "checkedAt": "2022-05-15T18:46:47.000Z",
+    "id": 31031,
     "type": "manga",
     "title": "Bokura ga Ita",
-    "url": "https://myanimelist.net/manga/1031/Bokura_ga_Ita",
-    "image": "https://cdn.myanimelist.net/images/manga/2/244302.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-05-02T21:01:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "We Were There",
       "僕等がいた",
@@ -53,21 +62,15 @@
       "Érase una vez nosotros",
       "우리들이 있었다"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki Obata"
-    ],
-    "id": 31031,
-    "malId": 1031,
-    "type": "manga",
-    "title": "Bokura ga Ita",
     "url": "https://anilist.co/manga/31031",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31031-2eOpCSSpI7DM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2022-03-15T20:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1031/Bokura_ga_Ita"
+    "externalLinks": [],
+    "malId": 1031,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Obata"
+    ]
+  }
 }

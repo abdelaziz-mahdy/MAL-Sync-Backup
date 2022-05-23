@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-07-16T18:32:22.000Z",
+  "updatedAt": "2021-07-16T19:02:20.000Z",
+  "checkedAt": null,
+  "id": 37893,
   "identifier": "obey-me",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48641,
   "aniId": 131880,
-  "createdAt": "2021-07-16T18:32:22.000Z",
-  "updatedAt": "2021-07-16T19:02:20.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-07-15T00:51:11.000Z",
+    "updatedAt": "2022-05-14T16:52:11.000Z",
+    "checkedAt": "2022-05-14T16:52:11.000Z",
+    "id": 48641,
+    "type": "anime",
+    "title": "Obey Me!",
+    "altTitle": [
+      "Obey Me!",
+      "Obey Me!"
+    ],
+    "url": "https://myanimelist.net/anime/48641/Obey_Me",
+    "image": "https://cdn.myanimelist.net/images/anime/1416/113986.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,31 +51,33 @@
     ],
     "legalLinks": [
       {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282511"
+      },
+      {
         "site": "funimation",
         "url": "https://www.funimation.com/shows/obey-me"
       }
     ],
-    "altTitle": [
-      "Obey Me!"
-    ],
-    "id": 48641,
+    "deletedAt": null,
+    "anidbId": 16185
+  },
+  "Ani": {
+    "createdAt": "2021-05-21T18:12:56.000Z",
+    "updatedAt": "2022-05-15T11:19:35.000Z",
+    "checkedAt": "2022-05-15T11:19:35.000Z",
+    "id": 131880,
     "type": "anime",
     "title": "Obey Me!",
-    "url": "https://myanimelist.net/anime/48641/Obey_Me",
-    "image": "https://cdn.myanimelist.net/images/anime/1416/113986.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 16185,
-    "createdAt": "2021-07-15T00:51:11.000Z",
-    "updatedAt": "2022-04-16T03:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Obey Me!",
       "Obey Me!",
       "おべいみー"
     ],
+    "url": "https://anilist.co/anime/131880",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131880-LVei71RpRj7i.jpg",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -70,17 +88,7 @@
         "url": "https://www.crunchyroll.com/obey-me"
       }
     ],
-    "id": 131880,
     "malId": 48641,
-    "type": "anime",
-    "title": "Obey Me!",
-    "url": "https://anilist.co/anime/131880",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131880-LVei71RpRj7i.jpg",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-21T18:12:56.000Z",
-    "updatedAt": "2022-04-04T11:30:21.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/48641/Obey_Me"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Touno Mamare",
-    "Ishida Akira"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:47:46.000Z",
+  "checkedAt": null,
+  "id": 605,
   "identifier": "ead008ec-98cf-434b-a86b-f3945b329d9d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26441,
   "aniId": 56441,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:47:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Touno Mamare",
+    "Ishida Akira"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%8A%E3%82%86%E3%81%86%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:26.000Z",
+    "updatedAt": "2022-05-15T00:24:47.000Z",
+    "checkedAt": "2022-05-15T00:24:47.000Z",
+    "id": 26441,
+    "type": "manga",
+    "title": "Maoyuu Maou Yuusha: 'Kono Ware no Mono to Nare, Yuusha yo' 'Kotowaru!'",
     "altTitle": [
       "Maoyu Maou Yusha",
       "Maoyuu Maou Yuusha - 'Be mine, Hero' 'I refuse!'",
@@ -33,22 +34,30 @@
       "MAOYU: Archenemy and Hero \"Become mine, Hero\" \"I refuse!\"",
       "まおゆう魔王勇者 「この我のものとなれ、勇者よ」「断る!」"
     ],
-    "authors": [
-      "Ishida, Akira",
-      "Touno, Mamare"
-    ],
-    "id": 26441,
-    "type": "manga",
-    "title": "Maoyuu Maou Yuusha: 'Kono Ware no Mono to Nare, Yuusha yo' 'Kotowaru!'",
     "url": "https://myanimelist.net/manga/26441/Maoyuu_Maou_Yuusha__Kono_Ware_no_Mono_to_Nare_Yuusha_yo_Kotowaru",
     "image": "https://cdn.myanimelist.net/images/manga/1/119227.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:26.000Z",
-    "updatedAt": "2022-04-26T09:01:58.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%8A%E3%82%86%E3%81%86%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ishida, Akira",
+      "Touno, Mamare"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:29.539Z",
+    "updatedAt": "2022-05-18T06:15:04.000Z",
+    "checkedAt": "2022-05-18T06:15:04.000Z",
+    "id": 56441,
+    "type": "manga",
+    "title": "Maoyuu Maou Yuusha: 'Kono Watashi no Mono Tonare, Yuusha yo' 'Kotowaru!'",
     "altTitle": [
       "MAOYU: Archenemy and Hero \"Be Mine, Hero!\" \"I Refuse!\"",
       "まおゆう魔王勇者「この我のものとなれ、勇者よ」「断る!」",
@@ -57,23 +66,17 @@
       "Archenemy and Hero",
       "Maoyuu Maou Yuusha 'Be mine"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Ishida",
-      "Mamare Touno",
-      "Toi8"
-    ],
-    "id": 56441,
-    "malId": 26441,
-    "type": "manga",
-    "title": "Maoyuu Maou Yuusha: 'Kono Watashi no Mono Tonare, Yuusha yo' 'Kotowaru!'",
     "url": "https://anilist.co/manga/56441",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56441-zWJGuQYqZBYL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:02.000Z",
-    "updatedAt": "2021-12-17T18:43:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26441/Maoyuu_Maou_Yuusha__Kono_Ware_no_Mono_to_Nare_Yuusha_yo_Kotowaru"
+    "externalLinks": [],
+    "malId": 26441,
+    "deletedAt": null,
+    "authors": [
+      "Akira Ishida",
+      "Mamare Touno",
+      "Toi8"
+    ]
+  }
 }

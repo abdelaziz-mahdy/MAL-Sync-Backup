@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aida Iro"
-  ],
+  "createdAt": "2020-10-12T16:10:39.000Z",
+  "updatedAt": "2021-12-05T02:50:51.000Z",
+  "checkedAt": null,
+  "id": 17608,
   "identifier": "a4b39b6e-a448-4644-a540-64ceff1d8305",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105084,
   "aniId": 98842,
-  "createdAt": "2020-10-12T16:10:39.000Z",
-  "updatedAt": "2021-12-05T02:50:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aida Iro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2022-05-14T09:32:12.000Z",
+    "checkedAt": "2022-05-14T09:32:12.000Z",
+    "id": 105084,
+    "type": "manga",
+    "title": "Jibaku Shounen Hanako-kun",
+    "altTitle": [
+      "Toilet-Bound Hanako-kun",
+      "地縛少年 花子くん"
+    ],
+    "url": "https://myanimelist.net/manga/105084/Jibaku_Shounen_Hanako-kun",
+    "image": "https://cdn.myanimelist.net/images/manga/3/192551.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,25 +45,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Toilet-Bound Hanako-kun",
-      "地縛少年 花子くん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aida, Iro"
-    ],
-    "id": 105084,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:22.798Z",
+    "updatedAt": "2022-05-15T14:21:59.000Z",
+    "checkedAt": "2022-05-15T14:21:59.000Z",
+    "id": 98842,
     "type": "manga",
     "title": "Jibaku Shounen Hanako-kun",
-    "url": "https://myanimelist.net/manga/105084/Jibaku_Shounen_Hanako-kun",
-    "image": "https://cdn.myanimelist.net/images/manga/3/192551.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2022-03-29T12:01:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Toilet-Bound Hanako-kun",
       "地縛少年 花子くん",
@@ -60,7 +69,13 @@
       "Hanako kun - I sette misteri dell'Accademia Kamome",
       "\"Cậu\" ma nhà xí Hanako"
     ],
+    "url": "https://anilist.co/manga/98842",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98842-Ji0v423UZ4er.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 105084,
+    "deletedAt": null,
     "authors": [
       "AidaIro",
       "Athena Nibley",
@@ -74,18 +89,6 @@
       "Luciane Yasawa",
       "Selene Kanagawa",
       "Độc giả"
-    ],
-    "id": 98842,
-    "malId": 105084,
-    "type": "manga",
-    "title": "Jibaku Shounen Hanako-kun",
-    "url": "https://anilist.co/manga/98842",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98842-Ji0v423UZ4er.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:14.000Z",
-    "updatedAt": "2022-03-21T10:58:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105084/Jibaku_Shounen_Hanako-kun"
+    ]
+  }
 }

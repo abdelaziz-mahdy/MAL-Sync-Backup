@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SAKO Toshio"
-  ],
+  "createdAt": "2022-01-01T21:53:37.000Z",
+  "updatedAt": "2022-01-01T22:23:32.000Z",
+  "checkedAt": null,
+  "id": 94061,
   "identifier": "usogui",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9982,
   "aniId": 39982,
-  "createdAt": "2022-01-01T21:53:37.000Z",
-  "updatedAt": "2022-01-01T22:23:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "SAKO Toshio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-05-14T22:13:05.000Z",
+    "checkedAt": "2022-05-14T22:13:05.000Z",
+    "id": 9982,
+    "type": "manga",
+    "title": "Usogui",
+    "altTitle": [
+      "The Lie Eater",
+      "Igyou Tobakusha Usokui",
+      "Yakou-san",
+      "嘘喰い"
+    ],
+    "url": "https://myanimelist.net/manga/9982/Usogui",
+    "image": "https://cdn.myanimelist.net/images/manga/1/147323.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Lie Eater",
-      "Igyou Tobakusha Usokui",
-      "Yakou-san",
-      "嘘喰い"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sako, Toshio"
-    ],
-    "id": 9982,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:17.341Z",
+    "updatedAt": "2022-05-15T14:35:11.000Z",
+    "checkedAt": "2022-05-15T14:35:11.000Z",
+    "id": 39982,
     "type": "manga",
     "title": "Usogui",
-    "url": "https://myanimelist.net/manga/9982/Usogui",
-    "image": "https://cdn.myanimelist.net/images/manga/1/147323.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2022-03-19T23:22:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "嘘喰い",
       "The Lie Eater",
       "บาคุ ลับ ลวง หลอก"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshio Sako"
-    ],
-    "id": 39982,
-    "malId": 9982,
-    "type": "manga",
-    "title": "Usogui",
     "url": "https://anilist.co/manga/39982",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39982-GL5KP3WieVKb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:59.000Z",
-    "updatedAt": "2022-03-10T19:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9982/Usogui"
+    "externalLinks": [],
+    "malId": 9982,
+    "deletedAt": null,
+    "authors": [
+      "Toshio Sako"
+    ]
+  }
 }

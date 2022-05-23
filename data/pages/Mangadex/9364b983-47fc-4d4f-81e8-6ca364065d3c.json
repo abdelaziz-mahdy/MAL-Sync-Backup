@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akimoto Osamu"
-  ],
+  "createdAt": "2020-10-12T16:10:27.000Z",
+  "updatedAt": "2021-12-05T01:20:20.000Z",
+  "checkedAt": null,
+  "id": 17154,
   "identifier": "9364b983-47fc-4d4f-81e8-6ca364065d3c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19743,
   "aniId": 49743,
-  "createdAt": "2020-10-12T16:10:27.000Z",
-  "updatedAt": "2021-12-05T01:20:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akimoto Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:45.000Z",
+    "updatedAt": "2022-05-17T15:19:16.000Z",
+    "checkedAt": "2022-05-17T15:19:16.000Z",
+    "id": 19743,
+    "type": "manga",
+    "title": "Mr. Clice",
+    "altTitle": [
+      "Mr.Clice"
+    ],
+    "url": "https://myanimelist.net/manga/19743/Mr_Clice",
+    "image": "https://cdn.myanimelist.net/images/manga/2/202604.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mr.Clice"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akimoto, Osamu"
-    ],
-    "id": 19743,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:50.565Z",
+    "updatedAt": "2022-05-17T15:19:15.000Z",
+    "checkedAt": "2022-05-17T15:19:15.000Z",
+    "id": 49743,
     "type": "manga",
     "title": "Mr. Clice",
-    "url": "https://myanimelist.net/manga/19743/Mr_Clice",
-    "image": "https://cdn.myanimelist.net/images/manga/2/202604.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:45.000Z",
-    "updatedAt": "2021-12-01T01:12:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミスタークリス",
       "Mister Clice"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Akimoto"
-    ],
-    "id": 49743,
-    "malId": 19743,
-    "type": "manga",
-    "title": "Mr. Clice",
     "url": "https://anilist.co/manga/49743",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx49743-k3GqGICZjHOY.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:23.000Z",
-    "updatedAt": "2021-12-17T17:09:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19743/Mr_Clice"
+    "externalLinks": [],
+    "malId": 19743,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Akimoto"
+    ]
+  }
 }

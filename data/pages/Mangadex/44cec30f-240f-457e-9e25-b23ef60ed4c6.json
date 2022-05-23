@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hashimoto Kanari",
-    "Kajiyama Mika"
-  ],
+  "createdAt": "2020-10-12T16:03:49.000Z",
+  "updatedAt": "2021-12-02T16:48:07.000Z",
+  "checkedAt": null,
+  "id": 3033,
   "identifier": "44cec30f-240f-457e-9e25-b23ef60ed4c6",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21541,
   "aniId": 51541,
-  "createdAt": "2020-10-12T16:03:49.000Z",
-  "updatedAt": "2021-12-02T16:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hashimoto Kanari",
+    "Kajiyama Mika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:57.000Z",
+    "updatedAt": "2022-03-30T13:05:39.000Z",
+    "checkedAt": null,
+    "id": 21541,
+    "type": "manga",
+    "title": "Ayahatori Shoukanchou",
+    "altTitle": [
+      "Aya wa Tori Shoukanjou",
+      "Ayahatori Shoukanjou",
+      "Aya wa Tori Shokanjou",
+      "あやはとり召喚帖"
+    ],
+    "url": "https://myanimelist.net/manga/21541/Ayahatori_Shoukanchou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/110699.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,50 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Aya wa Tori Shoukanjou",
-      "Ayahatori Shoukanjou",
-      "Aya wa Tori Shokanjou",
-      "あやはとり召喚帖"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kajiyama, Mika",
       "Hashimoto, Kanari"
-    ],
-    "id": 21541,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:44.923Z",
+    "updatedAt": "2022-05-13T12:50:44.923Z",
+    "checkedAt": null,
+    "id": 51541,
     "type": "manga",
     "title": "Ayahatori Shoukanchou",
-    "url": "https://myanimelist.net/manga/21541/Ayahatori_Shoukanchou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/110699.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2022-03-30T13:05:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あやはとり召喚帖",
       "Aya wa Tori Shoukanjou",
       "Ayahatori Shoukanjou",
       "Aya wa Tori Shokanjou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mika Kajiyama",
-      "Kanari Hashimoto"
-    ],
-    "id": 51541,
-    "malId": 21541,
-    "type": "manga",
-    "title": "Ayahatori Shoukanchou",
     "url": "https://anilist.co/manga/51541",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21541.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:43.000Z",
-    "updatedAt": "2021-12-17T17:40:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21541/Ayahatori_Shoukanchou"
+    "externalLinks": [],
+    "malId": 21541,
+    "deletedAt": null,
+    "authors": [
+      "Mika Kajiyama",
+      "Kanari Hashimoto"
+    ]
+  }
 }

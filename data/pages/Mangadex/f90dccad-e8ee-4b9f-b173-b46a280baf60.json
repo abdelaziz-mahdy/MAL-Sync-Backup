@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ittomaru",
-    "Iwami Shouko"
-  ],
+  "createdAt": "2021-01-15T23:01:54.000Z",
+  "updatedAt": "2021-12-08T10:09:59.000Z",
+  "checkedAt": null,
+  "id": 58748,
   "identifier": "f90dccad-e8ee-4b9f-b173-b46a280baf60",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86943,
   "aniId": 94199,
-  "createdAt": "2021-01-15T23:01:54.000Z",
-  "updatedAt": "2021-12-08T10:09:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ittomaru",
+    "Iwami Shouko"
+  ],
   "Mal": {
+    "createdAt": "2021-01-15T23:01:51.000Z",
+    "updatedAt": "2022-05-13T16:47:42.000Z",
+    "checkedAt": "2022-05-13T16:47:42.000Z",
+    "id": 86943,
+    "type": "manga",
+    "title": "Senbonzakura",
+    "altTitle": [
+      "千本桜"
+    ],
+    "url": "https://myanimelist.net/manga/86943/Senbonzakura",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176855.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "千本桜"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwami, Shouko",
       "Ittomaru"
-    ],
-    "id": 86943,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.656Z",
+    "updatedAt": "2022-05-19T01:26:19.000Z",
+    "checkedAt": "2022-05-19T01:26:19.000Z",
+    "id": 94199,
     "type": "manga",
     "title": "Senbonzakura",
-    "url": "https://myanimelist.net/manga/86943/Senbonzakura",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176855.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-15T23:01:51.000Z",
-    "updatedAt": "2022-01-15T23:11:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "千本桜"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoko Iwami",
-      "Ittomaru"
-    ],
-    "id": 94199,
-    "malId": 86943,
-    "type": "manga",
-    "title": "Senbonzakura",
     "url": "https://anilist.co/manga/94199",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94199-hA3Xq9e1raeZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:45.000Z",
-    "updatedAt": "2021-12-18T00:59:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86943/Senbonzakura"
+    "externalLinks": [],
+    "malId": 86943,
+    "deletedAt": null,
+    "authors": [
+      "Shoko Iwami",
+      "Ittomaru"
+    ]
+  }
 }

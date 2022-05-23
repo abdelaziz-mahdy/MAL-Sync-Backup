@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Uma Aguri"
-  ],
+  "createdAt": "2022-03-12T19:06:10.000Z",
+  "updatedAt": "2022-03-12T19:06:10.000Z",
+  "checkedAt": null,
+  "id": 98648,
   "identifier": "75732fed-087c-4fa0-bae8-7eec7286ba08",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 141337,
   "aniId": 138847,
-  "createdAt": "2022-03-12T19:06:10.000Z",
-  "updatedAt": "2022-03-12T19:06:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Uma Aguri"
+  ],
   "Mal": {
+    "createdAt": "2021-10-24T20:02:37.000Z",
+    "updatedAt": "2022-03-11T02:30:26.000Z",
+    "checkedAt": null,
+    "id": 141337,
+    "type": "manga",
+    "title": "Studio Cabana",
+    "altTitle": [
+      "スタジオカバナ"
+    ],
+    "url": "https://myanimelist.net/manga/141337/Studio_Cabana",
+    "image": "https://cdn.myanimelist.net/images/manga/1/251546.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スタジオカバナ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Uma, Aguri"
-    ],
-    "id": 141337,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:05.561Z",
+    "updatedAt": "2022-05-13T12:52:05.561Z",
+    "checkedAt": null,
+    "id": 138847,
     "type": "manga",
     "title": "Studio Cabana",
-    "url": "https://myanimelist.net/manga/141337/Studio_Cabana",
-    "image": "https://cdn.myanimelist.net/images/manga/1/251546.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-24T20:02:37.000Z",
-    "updatedAt": "2022-03-11T02:30:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スタジオカバナ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Agri Uma"
-    ],
-    "id": 138847,
-    "malId": 141337,
-    "type": "manga",
-    "title": "Studio Cabana",
     "url": "https://anilist.co/manga/138847",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138847-IuKHdfe0HZQc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-08T00:34:30.000Z",
-    "updatedAt": "2022-04-24T07:01:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/141337/Studio_Cabana"
+    "externalLinks": [],
+    "malId": 141337,
+    "deletedAt": null,
+    "authors": [
+      "Agri Uma"
+    ]
+  }
 }

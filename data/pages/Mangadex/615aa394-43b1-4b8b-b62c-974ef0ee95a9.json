@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shimizu Eiichi",
-    "Shimoguchi Tomohiro"
-  ],
+  "createdAt": "2020-10-12T16:03:04.000Z",
+  "updatedAt": "2021-12-02T11:48:49.000Z",
+  "checkedAt": null,
+  "id": 1464,
   "identifier": "615aa394-43b1-4b8b-b62c-974ef0ee95a9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3638,
   "aniId": 33638,
-  "createdAt": "2020-10-12T16:03:04.000Z",
-  "updatedAt": "2021-12-02T11:48:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shimizu Eiichi",
+    "Shimoguchi Tomohiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-05-19T23:08:19.000Z",
+    "checkedAt": "2022-05-19T23:08:19.000Z",
+    "id": 3638,
+    "type": "manga",
+    "title": "Kurogane no Linebarrel",
+    "altTitle": [
+      "Linebarrels of Iron",
+      "鉄のラインバレル"
+    ],
+    "url": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188887.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Linebarrels of Iron",
-      "鉄のラインバレル"
-    ],
+    "deletedAt": null,
     "authors": [
-      "Shimizu, Eichi",
+      "Shimizu, Eiichi",
       "Shimoguchi, Tomohiro"
-    ],
-    "id": 3638,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:45.377Z",
+    "updatedAt": "2022-05-19T23:08:18.000Z",
+    "checkedAt": "2022-05-19T23:08:18.000Z",
+    "id": 33638,
     "type": "manga",
     "title": "Kurogane no Linebarrel",
-    "url": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188887.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2022-04-14T03:01:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "鉄のラインバレル",
       "Linebarrels of Iron",
       "Kousetsu no Hana",
       "Android Musume"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiichi Shimizu",
-      "Tomohiro Shimoguchi"
-    ],
-    "id": 33638,
-    "malId": 3638,
-    "type": "manga",
-    "title": "Kurogane no Linebarrel",
     "url": "https://anilist.co/manga/33638",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33638-3F5KJB0xZjNn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:15.000Z",
-    "updatedAt": "2021-12-17T11:34:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel"
+    "externalLinks": [],
+    "malId": 3638,
+    "deletedAt": null,
+    "authors": [
+      "Eiichi Shimizu",
+      "Tomohiro Shimoguchi"
+    ]
+  }
 }

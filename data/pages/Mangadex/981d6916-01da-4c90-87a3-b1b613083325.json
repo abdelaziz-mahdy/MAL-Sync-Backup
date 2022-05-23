@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Im Dal-Young",
-    "Yoon Jae-Ho"
-  ],
+  "createdAt": "2020-10-12T16:03:10.000Z",
+  "updatedAt": "2021-12-02T12:18:28.000Z",
+  "checkedAt": null,
+  "id": 1686,
   "identifier": "981d6916-01da-4c90-87a3-b1b613083325",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30125,
   "aniId": 60125,
-  "createdAt": "2020-10-12T16:03:10.000Z",
-  "updatedAt": "2021-12-02T12:18:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Im Dal-Young",
+    "Yoon Jae-Ho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2022-05-15T03:55:12.000Z",
+    "checkedAt": "2022-05-15T03:55:12.000Z",
+    "id": 30125,
+    "type": "manga",
+    "title": "Freezing: First Chronicle",
+    "altTitle": [
+      "フリージング　ファーストクロニクル"
+    ],
+    "url": "https://myanimelist.net/manga/30125/Freezing__First_Chronicle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/64943.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "フリージング　ファーストクロニクル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoon, Jae Ho",
       "Im, Dal Young"
-    ],
-    "id": 30125,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:36.475Z",
+    "updatedAt": "2022-05-15T21:38:23.000Z",
+    "checkedAt": "2022-05-15T21:38:23.000Z",
+    "id": 60125,
     "type": "manga",
     "title": "Freezing: First Chronicle",
-    "url": "https://myanimelist.net/manga/30125/Freezing__First_Chronicle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/64943.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2022-03-24T20:27:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フリージング　ファーストクロニクル",
       "프리징 퍼스트크로니클"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jae-Ho Yoon",
-      "Dal-Young Im"
-    ],
-    "id": 60125,
-    "malId": 30125,
-    "type": "manga",
-    "title": "Freezing: First Chronicle",
     "url": "https://anilist.co/manga/60125",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30125.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2021-12-17T19:05:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30125/Freezing__First_Chronicle"
+    "externalLinks": [],
+    "malId": 30125,
+    "deletedAt": null,
+    "authors": [
+      "Jae-Ho Yoon",
+      "Dal-Young Im"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Moriki Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:06:31.000Z",
+  "updatedAt": "2021-12-03T20:18:37.000Z",
+  "checkedAt": null,
+  "id": 8648,
   "identifier": "b1c1ea54-4241-4e3c-b80b-63abd945e29b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 45053,
   "aniId": 75053,
-  "createdAt": "2020-10-12T16:06:31.000Z",
-  "updatedAt": "2021-12-03T20:18:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Moriki Takeshi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E9%A1%98%E3%81%84%E7%A5%9E%E3%82%B5%E3%83%9E!"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:20.000Z",
+    "updatedAt": "2022-02-19T23:47:42.000Z",
+    "checkedAt": null,
+    "id": 45053,
+    "type": "manga",
+    "title": "Onegai Kamisama!",
     "altTitle": [
       "Please Help, God!",
       "Onegai Kami-sama!",
@@ -32,21 +33,29 @@
       "Please my God, Please...",
       "お願い神サマ!"
     ],
-    "authors": [
-      "Moriki, Takeshi"
-    ],
-    "id": 45053,
-    "type": "manga",
-    "title": "Onegai Kamisama!",
     "url": "https://myanimelist.net/manga/45053/Onegai_Kamisama",
     "image": "https://cdn.myanimelist.net/images/manga/2/162699.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:20.000Z",
-    "updatedAt": "2022-02-19T23:47:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E9%A1%98%E3%81%84%E7%A5%9E%E3%82%B5%E3%83%9E!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Moriki, Takeshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:09.316Z",
+    "updatedAt": "2022-05-13T12:45:09.316Z",
+    "checkedAt": null,
+    "id": 75053,
+    "type": "manga",
+    "title": "Onegai Kamisama!",
     "altTitle": [
       "お願い神サマ!",
       "Onegai Kamisama!",
@@ -54,21 +63,15 @@
       "God!",
       "Onegai Kami-sama!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Moriki"
-    ],
-    "id": 75053,
-    "malId": 45053,
-    "type": "manga",
-    "title": "Onegai Kamisama!",
     "url": "https://anilist.co/manga/75053",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75053-hMRV8ZnI7FSK.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:26.000Z",
-    "updatedAt": "2021-12-17T20:51:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/45053/Onegai_Kamisama"
+    "externalLinks": [],
+    "malId": 45053,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Moriki"
+    ]
+  }
 }

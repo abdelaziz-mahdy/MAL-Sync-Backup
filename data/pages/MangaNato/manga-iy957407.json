@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohkawa Ageha",
-    "Clamp"
-  ],
+  "createdAt": "2021-06-18T19:21:10.000Z",
+  "updatedAt": "2021-12-18T20:20:21.000Z",
+  "checkedAt": null,
+  "id": 78882,
   "identifier": "manga-iy957407",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10,
   "aniId": 30010,
-  "createdAt": "2021-06-18T19:21:10.000Z",
-  "updatedAt": "2021-12-18T20:20:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohkawa Ageha",
+    "Clamp"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-13T16:31:00.000Z",
+    "checkedAt": "2022-05-13T16:31:00.000Z",
+    "id": 10,
+    "type": "manga",
+    "title": "xxxHOLiC",
+    "altTitle": [
+      "xxxHolic Rou",
+      "xxxHolic Cage",
+      "xxxHOLiC",
+      "xxxHOLiC"
+    ],
+    "url": "https://myanimelist.net/manga/10/xxxHOLiC",
+    "image": "https://cdn.myanimelist.net/images/manga/3/217533.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +44,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "xxxHolic Rou",
-      "xxxHolic Cage",
-      "xxxHOLiC",
-      "xxxHOLiC"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 10,
-    "type": "manga",
-    "title": "xxxHOLiC",
-    "url": "https://myanimelist.net/manga/10/xxxHOLiC",
-    "image": "https://cdn.myanimelist.net/images/manga/3/217533.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-14T12:32:24.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:28.065Z",
+    "updatedAt": "2022-05-15T20:35:35.000Z",
+    "checkedAt": "2022-05-15T20:35:35.000Z",
+    "id": 30010,
+    "type": "manga",
+    "title": "xxxHolic",
     "altTitle": [
       "xxxHOLiC",
       "×××ホリック",
@@ -56,25 +65,19 @@
       "xxxHolic Cage",
       "Holic"
     ],
+    "url": "https://anilist.co/manga/30010",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30010-NEPm8nwp7e0M.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 10,
+    "deletedAt": null,
     "authors": [
       "CLAMP",
       "William Flanagan",
       "Suzuka Asaoka",
       "Fédoua Lamodière",
       "Alex Pilot"
-    ],
-    "id": 30010,
-    "malId": 10,
-    "type": "manga",
-    "title": "xxxHolic",
-    "url": "https://anilist.co/manga/30010",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30010-NEPm8nwp7e0M.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:31:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10/xxxHOLiC"
+    ]
+  }
 }

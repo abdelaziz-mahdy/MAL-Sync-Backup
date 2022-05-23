@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ran Maru"
-  ],
+  "createdAt": "2020-10-12T16:12:03.000Z",
+  "updatedAt": "2021-12-05T14:18:41.000Z",
+  "checkedAt": null,
+  "id": 20613,
   "identifier": "1237e237-a597-42c2-bd68-fcd5e5e57604",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101360,
   "aniId": 127530,
-  "createdAt": "2020-10-12T16:12:03.000Z",
-  "updatedAt": "2021-12-05T14:18:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ran Maru"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T13:20:11.000Z",
+    "updatedAt": "2021-12-05T13:47:49.000Z",
+    "checkedAt": null,
+    "id": 101360,
+    "type": "manga",
+    "title": "Zelda no Densetsu",
+    "altTitle": [
+      "The Legend of Zelda",
+      "ゼルダの伝説"
+    ],
+    "url": "https://myanimelist.net/manga/101360/Zelda_no_Densetsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/203993.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Legend of Zelda",
-      "ゼルダの伝説"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ranmaru"
-    ],
-    "id": 101360,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:56.784Z",
+    "updatedAt": "2022-05-13T12:44:56.784Z",
+    "checkedAt": null,
+    "id": 127530,
     "type": "manga",
     "title": "Zelda no Densetsu",
-    "url": "https://myanimelist.net/manga/101360/Zelda_no_Densetsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/203993.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T13:20:11.000Z",
-    "updatedAt": "2021-12-05T13:47:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ゼルダの伝説",
       "The Legend of Zelda: The Hyrule Fantasy",
       "Zelda no Densetsu (Ran Maru)",
       "ゼルダの伝説 わんぱっくコミックス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ran Maru"
-    ],
-    "id": 127530,
-    "malId": 101360,
-    "type": "manga",
-    "title": "Zelda no Densetsu",
     "url": "https://anilist.co/manga/127530",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127530-iA8fIfgp6ugg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T13:20:11.000Z",
-    "updatedAt": "2021-12-18T11:48:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/101360/Zelda_no_Densetsu"
+    "externalLinks": [],
+    "malId": 101360,
+    "deletedAt": null,
+    "authors": [
+      "Ran Maru"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tachibana Koushi",
-    "Oniyazu Kakashi"
-  ],
+  "createdAt": "2021-08-04T17:20:26.000Z",
+  "updatedAt": "2022-02-04T18:06:44.000Z",
+  "checkedAt": null,
+  "id": 83969,
   "identifier": "manga-mz964234",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50931,
   "aniId": 80931,
-  "createdAt": "2021-08-04T17:20:26.000Z",
-  "updatedAt": "2022-02-04T18:06:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tachibana Koushi",
+    "Oniyazu Kakashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:37.000Z",
+    "updatedAt": "2022-05-19T02:43:59.000Z",
+    "checkedAt": "2022-05-19T02:43:59.000Z",
+    "id": 50931,
+    "type": "manga",
+    "title": "Date Ast Like",
+    "altTitle": [
+      "Date A Strike",
+      "デート・ア・ストライク"
+    ],
+    "url": "https://myanimelist.net/manga/50931/Date_Ast_Like",
+    "image": "https://cdn.myanimelist.net/images/manga/3/113577.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Date A Strike",
-      "デート・ア・ストライク"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oniyazu, Kakashi",
       "Tachibana, Koushi"
-    ],
-    "id": 50931,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:12.493Z",
+    "updatedAt": "2022-05-19T02:43:58.000Z",
+    "checkedAt": "2022-05-19T02:43:58.000Z",
+    "id": 80931,
     "type": "manga",
     "title": "Date Ast Like",
-    "url": "https://myanimelist.net/manga/50931/Date_Ast_Like",
-    "image": "https://cdn.myanimelist.net/images/manga/3/113577.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:37.000Z",
-    "updatedAt": "2022-02-04T17:36:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "デート・ア・ストライク",
       "Date A Strike"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kakashi Oniyazu",
-      "Koushi Tachibana"
-    ],
-    "id": 80931,
-    "malId": 50931,
-    "type": "manga",
-    "title": "Date Ast Like",
     "url": "https://anilist.co/manga/80931",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80931-qgM5vrn2p0Qq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:49.000Z",
-    "updatedAt": "2021-12-17T21:27:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50931/Date_Ast_Like"
+    "externalLinks": [],
+    "malId": 50931,
+    "deletedAt": null,
+    "authors": [
+      "Kakashi Oniyazu",
+      "Koushi Tachibana"
+    ]
+  }
 }

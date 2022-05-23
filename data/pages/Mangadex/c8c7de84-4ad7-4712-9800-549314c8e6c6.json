@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tanabe Seiko",
-    "Emoto Nao"
-  ],
+  "createdAt": "2020-12-07T13:10:13.000Z",
+  "updatedAt": "2021-12-08T08:37:20.000Z",
+  "checkedAt": null,
+  "id": 53686,
   "identifier": "c8c7de84-4ad7-4712-9800-549314c8e6c6",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130661,
   "aniId": 125025,
-  "createdAt": "2020-12-07T13:10:13.000Z",
-  "updatedAt": "2021-12-08T08:37:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanabe Seiko",
+    "Emoto Nao"
+  ],
   "Mal": {
+    "createdAt": "2020-12-07T13:10:11.000Z",
+    "updatedAt": "2022-05-14T23:41:11.000Z",
+    "checkedAt": "2022-05-14T23:41:11.000Z",
+    "id": 130661,
+    "type": "manga",
+    "title": "Josee to Tora to Sakana-tachi",
+    "altTitle": [
+      "Josee, the Tiger and the Fish",
+      "ジョゼと虎と魚たち"
+    ],
+    "url": "https://myanimelist.net/manga/130661/Josee_to_Tora_to_Sakana-tachi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/236094.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Josee, the Tiger and the Fish",
-      "ジョゼと虎と魚たち"
-    ],
+    "deletedAt": null,
     "authors": [
       "Emoto, Nao",
       "Tanabe, Seiko"
-    ],
-    "id": 130661,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:20.364Z",
+    "updatedAt": "2022-05-15T17:38:59.000Z",
+    "checkedAt": "2022-05-15T17:38:59.000Z",
+    "id": 125025,
     "type": "manga",
     "title": "Josee to Tora to Sakana-tachi",
-    "url": "https://myanimelist.net/manga/130661/Josee_to_Tora_to_Sakana-tachi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/236094.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-07T13:10:11.000Z",
-    "updatedAt": "2022-04-15T16:01:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Josee, the Tiger and the Fish",
       "ジョゼと虎と魚たち",
       "Josie, der Tiger und die Fische"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Seiko Tanabe",
-      "Nao Emoto"
-    ],
-    "id": 125025,
-    "malId": 130661,
-    "type": "manga",
-    "title": "Josee to Tora to Sakana-tachi",
     "url": "https://anilist.co/manga/125025",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125025-LDtfMwr15lNX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:32.000Z",
-    "updatedAt": "2022-04-18T20:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130661/Josee_to_Tora_to_Sakana-tachi"
+    "externalLinks": [],
+    "malId": 130661,
+    "deletedAt": null,
+    "authors": [
+      "Seiko Tanabe",
+      "Nao Emoto"
+    ]
+  }
 }

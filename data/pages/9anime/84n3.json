@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:20.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3773,
   "identifier": "84n3",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2609,
   "aniId": 2609,
-  "createdAt": "2020-10-12T15:51:20.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:31.000Z",
+    "updatedAt": "2022-05-14T19:26:41.000Z",
+    "checkedAt": "2022-05-14T19:26:41.000Z",
+    "id": 2609,
+    "type": "anime",
+    "title": "Kakyuusei (TV)",
+    "altTitle": [
+      "A Girl in a Lower Grade",
+      "下級生"
+    ],
+    "url": "https://myanimelist.net/anime/2609/Kakyuusei_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/8/84837.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A Girl in a Lower Grade",
-      "下級生"
-    ],
+    "deletedAt": null,
+    "anidbId": 1090
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:23.000Z",
+    "updatedAt": "2022-05-15T14:07:59.000Z",
+    "checkedAt": "2022-05-15T14:07:59.000Z",
     "id": 2609,
     "type": "anime",
     "title": "Kakyuusei (TV)",
-    "url": "https://myanimelist.net/anime/2609/Kakyuusei_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/8/84837.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1090,
-    "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2022-03-31T08:06:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "下級生 (TV)",
       "A Girl in a Lower Grade"
     ],
-    "externalLinks": [],
-    "id": 2609,
-    "malId": 2609,
-    "type": "anime",
-    "title": "Kakyuusei (TV)",
     "url": "https://anilist.co/anime/2609",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2609-EppvBPqSfTMc.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:23.000Z",
-    "updatedAt": "2022-02-22T22:17:39.000Z",
+    "externalLinks": [],
+    "malId": 2609,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2609/Kakyuusei_TV"
+  }
 }

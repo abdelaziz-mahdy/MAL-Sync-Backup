@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ogawa Chise"
-  ],
+  "createdAt": "2020-10-12T16:10:01.000Z",
+  "updatedAt": "2021-12-04T21:53:12.000Z",
+  "checkedAt": null,
+  "id": 16228,
   "identifier": "a48b928b-51c2-4e1f-9fde-241418bf9aba",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99914,
   "aniId": 98065,
-  "createdAt": "2020-10-12T16:10:01.000Z",
-  "updatedAt": "2021-12-04T21:53:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ogawa Chise"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:36.000Z",
+    "updatedAt": "2022-04-05T21:32:02.000Z",
+    "checkedAt": null,
+    "id": 99914,
+    "type": "manga",
+    "title": "Aka no Theatre",
+    "altTitle": [
+      "Red Theatre",
+      "赤のテアトル"
+    ],
+    "url": "https://myanimelist.net/manga/99914/Aka_no_Theatre",
+    "image": "https://cdn.myanimelist.net/images/manga/2/195468.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Red Theatre",
-      "赤のテアトル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takagi, Shigeyoshi"
-    ],
-    "id": 99914,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:28.087Z",
+    "updatedAt": "2022-05-13T12:42:28.087Z",
+    "checkedAt": null,
+    "id": 98065,
     "type": "manga",
     "title": "Aka no Theatre",
-    "url": "https://myanimelist.net/manga/99914/Aka_no_Theatre",
-    "image": "https://cdn.myanimelist.net/images/manga/2/195468.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:36.000Z",
-    "updatedAt": "2022-04-05T21:32:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Red Theatre",
       "赤のテアトル",
       "Czerwony Teatr"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigeyoshi Takagi"
-    ],
-    "id": 98065,
-    "malId": 99914,
-    "type": "manga",
-    "title": "Aka no Theatre",
     "url": "https://anilist.co/manga/98065",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98065-Ylyyf2zvFpZb.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:54:44.000Z",
-    "updatedAt": "2021-12-18T02:22:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99914/Aka_no_Theatre"
+    "externalLinks": [],
+    "malId": 99914,
+    "deletedAt": null,
+    "authors": [
+      "Shigeyoshi Takagi"
+    ]
+  }
 }

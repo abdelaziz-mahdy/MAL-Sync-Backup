@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saenagi Ryo"
-  ],
+  "createdAt": "2020-10-12T16:12:55.000Z",
+  "updatedAt": "2021-12-05T17:52:36.000Z",
+  "checkedAt": null,
+  "id": 21812,
   "identifier": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3850,
   "aniId": 33850,
-  "createdAt": "2020-10-12T16:12:55.000Z",
-  "updatedAt": "2021-12-05T17:52:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saenagi Ryo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:54.000Z",
+    "updatedAt": "2021-11-20T23:46:46.000Z",
+    "checkedAt": null,
+    "id": 3850,
+    "type": "manga",
+    "title": "Sensei no Susume",
+    "altTitle": [
+      "Raising Moe",
+      "先生のススメ"
+    ],
+    "url": "https://myanimelist.net/manga/3850/Sensei_no_Susume",
+    "image": "https://cdn.myanimelist.net/images/manga/2/4303.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Raising Moe",
-      "先生のススメ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saenagi, Ryou"
-    ],
-    "id": 3850,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:30.568Z",
+    "updatedAt": "2022-05-13T12:46:30.568Z",
+    "checkedAt": null,
+    "id": 33850,
     "type": "manga",
     "title": "Sensei no Susume",
-    "url": "https://myanimelist.net/manga/3850/Sensei_no_Susume",
-    "image": "https://cdn.myanimelist.net/images/manga/2/4303.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:54.000Z",
-    "updatedAt": "2021-11-20T23:46:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "先生のススメ",
       "Raising Moe"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryou Saenagi"
-    ],
-    "id": 33850,
-    "malId": 3850,
-    "type": "manga",
-    "title": "Sensei no Susume",
     "url": "https://anilist.co/manga/33850",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3850.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:18.000Z",
-    "updatedAt": "2021-12-17T11:37:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3850/Sensei_no_Susume"
+    "externalLinks": [],
+    "malId": 3850,
+    "deletedAt": null,
+    "authors": [
+      "Ryou Saenagi"
+    ]
+  }
 }

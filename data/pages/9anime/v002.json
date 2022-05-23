@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:45.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9122,
   "identifier": "v002",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 887,
   "aniId": 887,
-  "createdAt": "2020-10-12T15:55:45.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T23:32:05.000Z",
+    "checkedAt": "2022-05-14T23:32:05.000Z",
+    "id": 887,
+    "type": "anime",
+    "title": "Megami Kouhosei Special Curriculum",
+    "altTitle": [
+      "Candidate for Goddess OVA",
+      "女神候補生 スペシャルカリキュラム"
+    ],
+    "url": "https://myanimelist.net/anime/887/Megami_Kouhosei_Special_Curriculum",
+    "image": "https://cdn.myanimelist.net/images/anime/10/2609.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Candidate for Goddess OVA",
-      "女神候補生 スペシャルカリキュラム"
-    ],
+    "deletedAt": null,
+    "anidbId": 263
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T13:32:35.000Z",
+    "checkedAt": "2022-05-15T13:32:35.000Z",
     "id": 887,
     "type": "anime",
     "title": "Megami Kouhosei Special Curriculum",
-    "url": "https://myanimelist.net/anime/887/Megami_Kouhosei_Special_Curriculum",
-    "image": "https://cdn.myanimelist.net/images/anime/10/2609.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 263,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-04-20T05:32:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "女神候補生 スペシャルカリキュラム",
       "Candidate for Goddess OVA"
     ],
-    "externalLinks": [],
-    "id": 887,
-    "malId": 887,
-    "type": "anime",
-    "title": "Megami Kouhosei Special Curriculum",
     "url": "https://anilist.co/anime/887",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/887.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:47.000Z",
-    "updatedAt": "2021-12-17T08:57:07.000Z",
+    "externalLinks": [],
+    "malId": 887,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/887/Megami_Kouhosei_Special_Curriculum"
+  }
 }

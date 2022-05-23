@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Minekura Kazuya"
-  ],
+  "createdAt": "2020-10-12T16:04:52.000Z",
+  "updatedAt": "2021-12-03T00:16:59.000Z",
+  "checkedAt": null,
+  "id": 5206,
   "identifier": "cc8643f2-5ede-4b0a-9bcd-8994a201b45b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 509,
   "aniId": 30509,
-  "createdAt": "2020-10-12T16:04:52.000Z",
-  "updatedAt": "2021-12-03T00:16:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minekura Kazuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-22T16:26:33.000Z",
+    "checkedAt": "2022-05-22T16:26:33.000Z",
+    "id": 509,
+    "type": "manga",
+    "title": "Saiyuuki",
+    "altTitle": [
+      "Gensomaden Saiyuki",
+      "Saiyuki",
+      "最遊記"
+    ],
+    "url": "https://myanimelist.net/manga/509/Saiyuuki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/181067.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Saiyuki",
-      "Gensomaden Saiyuki",
-      "最遊記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minekura, Kazuya"
-    ],
-    "id": 509,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:10.971Z",
+    "updatedAt": "2022-05-22T16:26:32.000Z",
+    "checkedAt": "2022-05-22T16:26:32.000Z",
+    "id": 30509,
     "type": "manga",
     "title": "Saiyuuki",
-    "url": "https://myanimelist.net/manga/509/Saiyuuki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/181067.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2021-11-21T01:53:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Saiyuki",
       "最遊記",
       "Gensomaden Saiyuki"
     ],
+    "url": "https://anilist.co/manga/30509",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30509-dyDz0HuHxtpZ.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 509,
+    "deletedAt": null,
     "authors": [
       "Kazuya Minekura",
       "Alethea Nibley",
       "Athena Nibley",
       "Yuzu Mizutani",
       "Tooru Kaede"
-    ],
-    "id": 30509,
-    "malId": 509,
-    "type": "manga",
-    "title": "Saiyuuki",
-    "url": "https://anilist.co/manga/30509",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30509-dyDz0HuHxtpZ.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2022-04-03T15:05:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/509/Saiyuuki"
+    ]
+  }
 }

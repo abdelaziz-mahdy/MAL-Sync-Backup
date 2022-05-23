@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kago Shintaro"
-  ],
+  "createdAt": "2020-10-12T16:17:19.000Z",
+  "updatedAt": "2022-03-10T17:04:15.000Z",
+  "checkedAt": null,
+  "id": 30917,
   "identifier": "f689ffd5-9fa3-45b8-b3fc-aa244bebef2c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 79865,
-  "createdAt": "2020-10-12T16:17:19.000Z",
-  "updatedAt": "2022-03-10T17:04:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kago Shintaro"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.013Z",
+    "updatedAt": "2022-05-15T17:09:59.000Z",
+    "checkedAt": "2022-05-15T17:09:59.000Z",
+    "id": 79865,
+    "type": "manga",
+    "title": "Ajin",
     "altTitle": [
       "Ajin: Demi-Human",
       "亜人",
@@ -28,29 +36,27 @@
       "Нелюдь",
       "Ajin: สายพันธุ์อมนุษย์"
     ],
+    "url": "https://anilist.co/manga/79865",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx79865-FxoPRCaW1iao.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/ajin-demi-human/volumes"
       }
     ],
+    "malId": 49865,
+    "deletedAt": null,
     "authors": [
       "Gamon Sakurai",
       "Tsuina Miura",
       "Ko Ransom",
-      "Jae Hw"
-    ],
-    "id": 79865,
-    "malId": 49865,
-    "type": "manga",
-    "title": "Ajin",
-    "url": "https://anilist.co/manga/79865",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx79865-FxoPRCaW1iao.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:49:46.000Z",
-    "updatedAt": "2022-03-14T11:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+      "Jae Hw",
+      "Alp İlkkurşun",
+      "İlke Güntan",
+      "Hilal Kartal",
+      "Muhammet Tekin"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "HiRock",
-    "Komi Shinya"
-  ],
+  "createdAt": "2021-01-06T15:35:23.000Z",
+  "updatedAt": "2021-12-09T16:20:52.000Z",
+  "checkedAt": null,
+  "id": 57531,
   "identifier": "6ca30e11-a79d-40f4-994e-5b659de00016",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 121599,
   "aniId": 110215,
-  "createdAt": "2021-01-06T15:35:23.000Z",
-  "updatedAt": "2021-12-09T16:20:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "HiRock",
+    "Komi Shinya"
+  ],
   "Mal": {
+    "createdAt": "2021-12-09T09:05:15.000Z",
+    "updatedAt": "2022-05-17T04:00:46.000Z",
+    "checkedAt": "2022-05-17T04:00:46.000Z",
+    "id": 121599,
+    "type": "manga",
+    "title": "Ex-Arm Exa",
+    "altTitle": [
+      "EX-ARM EXA エクスアームエクサ"
+    ],
+    "url": "https://myanimelist.net/manga/121599/Ex-Arm_Exa",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246673.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "EX-ARM EXA エクスアームエクサ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Komi, Shinya",
       "HiRock"
-    ],
-    "id": 121599,
-    "type": "manga",
-    "title": "Ex-Arm Exa",
-    "url": "https://myanimelist.net/manga/121599/Ex-Arm_Exa",
-    "image": "https://cdn.myanimelist.net/images/manga/3/246673.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-09T09:05:15.000Z",
-    "updatedAt": "2021-12-09T09:05:15.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:45.606Z",
+    "updatedAt": "2022-05-17T04:00:44.000Z",
+    "checkedAt": "2022-05-17T04:00:44.000Z",
+    "id": 110215,
+    "type": "manga",
+    "title": "EX-ARM EXA",
     "altTitle": [
       "EX-ARM EXA",
       "エクスアーム エクサ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "HiRock",
-      "Shinya Komi"
-    ],
-    "id": 110215,
-    "malId": 121599,
-    "type": "manga",
-    "title": "EX-ARM EXA",
     "url": "https://anilist.co/manga/110215",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110215-m49J2yBuR7aQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T09:56:55.000Z",
-    "updatedAt": "2021-12-14T11:48:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121599/Ex-Arm_Exa"
+    "externalLinks": [],
+    "malId": 121599,
+    "deletedAt": null,
+    "authors": [
+      "HiRock",
+      "Shinya Komi"
+    ]
+  }
 }

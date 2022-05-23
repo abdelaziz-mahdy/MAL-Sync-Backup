@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Komi Naoshi",
-    "Kawahara Kazune",
-    "Aruko"
-  ],
+  "createdAt": "2020-10-12T16:06:43.000Z",
+  "updatedAt": "2021-12-03T21:51:50.000Z",
+  "checkedAt": null,
+  "id": 9069,
   "identifier": "04c06d4a-7601-4221-b9f7-5ecbb71b6e56",
   "type": "manga",
   "page": "Mangadex",
@@ -13,38 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58193,
   "aniId": 85194,
-  "createdAt": "2020-10-12T16:06:43.000Z",
-  "updatedAt": "2021-12-03T21:51:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komi Naoshi",
+    "Kawahara Kazune",
+    "Aruko"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-15T17:41:08.000Z",
+    "checkedAt": "2022-05-15T17:41:08.000Z",
+    "id": 58193,
+    "type": "manga",
+    "title": "Ore Koi!!",
     "altTitle": [
       "Ore x Koi!!",
       "Ore Monogatari x Nisekoi Crossover",
       "Orekoi!!",
       "俺コイ!! 俺物語×ニセコイ!!"
     ],
-    "authors": [
-      "Kawahara, Kazune",
-      "Aruko",
-      "Komi, Naoshi"
-    ],
-    "id": 58193,
-    "type": "manga",
-    "title": "Ore Koi!!",
     "url": "https://myanimelist.net/manga/58193/Ore_Koi",
     "image": "https://cdn.myanimelist.net/images/manga/3/100739.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2021-12-21T11:51:56.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kawahara, Kazune",
+      "Aruko",
+      "Komi, Naoshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:49.202Z",
+    "updatedAt": "2022-05-15T20:17:35.000Z",
+    "checkedAt": "2022-05-15T20:17:35.000Z",
+    "id": 85194,
+    "type": "manga",
+    "title": "Ore Koi!!",
     "altTitle": [
       "俺コイ!! 俺物語×ニセコイ!!",
       "Ore x Koi!!",
@@ -53,23 +62,17 @@
       "Oremonogatari x Nisekoi~Boys Side",
       "Oremonogatari x Nisekoi~Girls Side"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazune Kawahara",
-      "Aruko",
-      "Naoshi Komi"
-    ],
-    "id": 85194,
-    "malId": 58193,
-    "type": "manga",
-    "title": "Ore Koi!!",
     "url": "https://anilist.co/manga/85194",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55194.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T21:55:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58193/Ore_Koi"
+    "externalLinks": [],
+    "malId": 58193,
+    "deletedAt": null,
+    "authors": [
+      "Kazune Kawahara",
+      "Aruko",
+      "Naoshi Komi"
+    ]
+  }
 }

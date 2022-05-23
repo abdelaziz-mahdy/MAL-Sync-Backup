@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:05.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7304,
   "identifier": "nyol",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38787,
   "aniId": 106051,
-  "createdAt": "2020-10-12T15:54:05.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:07.000Z",
+    "updatedAt": "2022-05-14T09:33:52.000Z",
+    "checkedAt": "2022-05-14T09:33:52.000Z",
+    "id": 38787,
+    "type": "anime",
+    "title": "Senryuu Shoujo",
+    "altTitle": [
+      "Senryuu Girl",
+      "Senryu Girl",
+      "川柳少女"
+    ],
+    "url": "https://myanimelist.net/anime/38787/Senryuu_Shoujo",
+    "image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,28 +60,24 @@
         "url": "https://www.hidive.com/tv/senryu-girl"
       }
     ],
-    "altTitle": [
-      "Senryuu Girl",
-      "Senryu Girl",
-      "川柳少女"
-    ],
-    "id": 38787,
+    "deletedAt": null,
+    "anidbId": 14522
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:52.000Z",
+    "updatedAt": "2022-05-15T09:44:47.000Z",
+    "checkedAt": "2022-05-15T09:44:47.000Z",
+    "id": 106051,
     "type": "anime",
     "title": "Senryuu Shoujo",
-    "url": "https://myanimelist.net/anime/38787/Senryuu_Shoujo",
-    "image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14522,
-    "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2022-04-14T09:30:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Senryu Girl",
       "川柳少女"
     ],
+    "url": "https://anilist.co/anime/106051",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106051-GanZefWWhRLa.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -79,17 +92,7 @@
         "url": "https://vrv.co/series/G61XE70G6/Senryu-Girl"
       }
     ],
-    "id": 106051,
     "malId": 38787,
-    "type": "anime",
-    "title": "Senryuu Shoujo",
-    "url": "https://anilist.co/anime/106051",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106051-GanZefWWhRLa.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:52.000Z",
-    "updatedAt": "2022-04-11T11:38:35.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38787/Senryuu_Shoujo"
+  }
 }

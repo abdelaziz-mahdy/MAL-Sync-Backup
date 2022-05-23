@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kyougoku Natsuhiko",
-    "Shimizu Aki"
-  ],
+  "createdAt": "2020-10-12T16:07:50.000Z",
+  "updatedAt": "2021-12-04T05:53:29.000Z",
+  "checkedAt": null,
+  "id": 11443,
   "identifier": "acb333bb-1dca-41e8-9c85-6dceca558f5c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20567,
   "aniId": 50567,
-  "createdAt": "2020-10-12T16:07:50.000Z",
-  "updatedAt": "2021-12-04T05:53:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kyougoku Natsuhiko",
+    "Shimizu Aki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:52.000Z",
+    "updatedAt": "2022-03-09T20:00:06.000Z",
+    "checkedAt": null,
+    "id": 20567,
+    "type": "manga",
+    "title": "Kyoukotsu no Yume",
+    "altTitle": [
+      "Crazy Bone Dreams",
+      "Dreams of Mad Bones",
+      "狂骨の夢"
+    ],
+    "url": "https://myanimelist.net/manga/20567/Kyoukotsu_no_Yume",
+    "image": "https://cdn.myanimelist.net/images/manga/1/120953.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Crazy Bone Dreams",
-      "Dreams of Mad Bones",
-      "狂骨の夢"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shimizu, Aki",
       "Kyougoku, Natsuhiko"
-    ],
-    "id": 20567,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:46.213Z",
+    "updatedAt": "2022-05-13T12:55:46.213Z",
+    "checkedAt": null,
+    "id": 50567,
     "type": "manga",
     "title": "Kyoukotsu no Yume",
-    "url": "https://myanimelist.net/manga/20567/Kyoukotsu_no_Yume",
-    "image": "https://cdn.myanimelist.net/images/manga/1/120953.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:52.000Z",
-    "updatedAt": "2022-03-09T20:00:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "狂骨の夢",
       "Crazy Bone Dreams",
@@ -54,22 +63,16 @@
       "Hyakki Yakou Series 3",
       "Kyougokudou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aki Shimizu",
-      "Natsuhiko Kyougoku"
-    ],
-    "id": 50567,
-    "malId": 20567,
-    "type": "manga",
-    "title": "Kyoukotsu no Yume",
     "url": "https://anilist.co/manga/50567",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx50567-1FqGE71pPbzw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:33.000Z",
-    "updatedAt": "2021-12-17T17:17:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20567/Kyoukotsu_no_Yume"
+    "externalLinks": [],
+    "malId": 20567,
+    "deletedAt": null,
+    "authors": [
+      "Aki Shimizu",
+      "Natsuhiko Kyougoku"
+    ]
+  }
 }

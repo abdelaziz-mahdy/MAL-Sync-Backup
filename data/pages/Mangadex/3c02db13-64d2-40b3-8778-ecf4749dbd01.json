@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Key",
-    "Anagura Mogura"
-  ],
+  "createdAt": "2020-10-12T16:05:18.000Z",
+  "updatedAt": "2021-12-03T11:48:47.000Z",
+  "checkedAt": null,
+  "id": 6111,
   "identifier": "3c02db13-64d2-40b3-8778-ecf4749dbd01",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8677,
   "aniId": 38677,
-  "createdAt": "2020-10-12T16:05:18.000Z",
-  "updatedAt": "2021-12-03T11:48:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Key",
+    "Anagura Mogura"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:20.000Z",
+    "updatedAt": "2022-05-22T23:27:32.000Z",
+    "checkedAt": "2022-05-22T23:27:32.000Z",
+    "id": 8677,
+    "type": "manga",
+    "title": "Little Busters!",
+    "altTitle": [
+      "Official Little Busters! Comic",
+      "リトルバスターズ!"
+    ],
+    "url": "https://myanimelist.net/manga/8677/Little_Busters",
+    "image": "https://cdn.myanimelist.net/images/manga/5/88437.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Official Little Busters! Comic",
-      "リトルバスターズ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Key",
       "Anagura, Mogura"
-    ],
-    "id": 8677,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:54.217Z",
+    "updatedAt": "2022-05-22T23:27:31.000Z",
+    "checkedAt": "2022-05-22T23:27:31.000Z",
+    "id": 38677,
     "type": "manga",
     "title": "Little Busters!",
-    "url": "https://myanimelist.net/manga/8677/Little_Busters",
-    "image": "https://cdn.myanimelist.net/images/manga/5/88437.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2022-04-30T09:32:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Little Busters!",
       "リトルバスターズ!",
       "Official Little Busters! comic"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Key",
-      "Mogura Anagura"
-    ],
-    "id": 38677,
-    "malId": 8677,
-    "type": "manga",
-    "title": "Little Busters!",
     "url": "https://anilist.co/manga/38677",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38677-9QvFtVe6eEAG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:49.000Z",
-    "updatedAt": "2021-12-17T13:36:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8677/Little_Busters"
+    "externalLinks": [],
+    "malId": 8677,
+    "deletedAt": null,
+    "authors": [
+      "Key",
+      "Mogura Anagura"
+    ]
+  }
 }

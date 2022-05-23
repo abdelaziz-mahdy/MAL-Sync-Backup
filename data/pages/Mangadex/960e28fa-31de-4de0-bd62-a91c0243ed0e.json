@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Narita Ryohgo",
-    "Fujimoto Shinta"
-  ],
+  "createdAt": "2020-10-12T16:11:04.000Z",
+  "updatedAt": "2021-12-05T05:50:08.000Z",
+  "checkedAt": null,
+  "id": 18513,
   "identifier": "960e28fa-31de-4de0-bd62-a91c0243ed0e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,56 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110301,
   "aniId": 100868,
-  "createdAt": "2020-10-12T16:11:04.000Z",
-  "updatedAt": "2021-12-05T05:50:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Narita Ryohgo",
+    "Fujimoto Shinta"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:18.000Z",
+    "updatedAt": "2022-05-15T00:42:35.000Z",
+    "checkedAt": "2022-05-15T00:42:35.000Z",
+    "id": 110301,
+    "type": "manga",
+    "title": "Dead Mount Death Play",
     "altTitle": [
       "Dead Mount Death Play",
       "デッドマウント・デスプレイ"
     ],
-    "authors": [
-      "Narita, Ryohgo",
-      "Fujimoto, Shinta"
-    ],
-    "id": 110301,
-    "type": "manga",
-    "title": "Dead Mount Death Play",
     "url": "https://myanimelist.net/manga/110301/Dead_Mount_Death_Play",
     "image": "https://cdn.myanimelist.net/images/manga/3/209112.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:18.000Z",
-    "updatedAt": "2021-12-21T05:52:37.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Narita, Ryohgo",
+      "Fujimoto, Shinta"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:48.424Z",
+    "updatedAt": "2022-05-15T21:28:59.000Z",
+    "checkedAt": "2022-05-15T21:28:59.000Z",
+    "id": 100868,
+    "type": "manga",
+    "title": "Dead Mount Death Play",
     "altTitle": [
       "デッドマウント・デスプレイ"
     ],
+    "url": "https://anilist.co/manga/100868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100868-0xKZvKkdXZyO.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 110301,
+    "deletedAt": null,
     "authors": [
       "Ryougo Narita",
       "Shinta Fujimoto",
       "Christine Dashiell",
       "Abigail Blackman"
-    ],
-    "id": 100868,
-    "malId": 110301,
-    "type": "manga",
-    "title": "Dead Mount Death Play",
-    "url": "https://anilist.co/manga/100868",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100868-0xKZvKkdXZyO.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:56:10.000Z",
-    "updatedAt": "2021-12-18T03:28:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110301/Dead_Mount_Death_Play"
+    ]
+  }
 }

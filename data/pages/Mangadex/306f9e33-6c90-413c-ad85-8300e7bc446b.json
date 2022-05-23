@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Aurora",
-    "Yimulian"
-  ],
+  "createdAt": "2020-10-12T16:16:38.000Z",
+  "updatedAt": "2021-12-07T00:47:34.000Z",
+  "checkedAt": null,
+  "id": 29489,
   "identifier": "306f9e33-6c90-413c-ad85-8300e7bc446b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3077,
   "aniId": 33077,
-  "createdAt": "2020-10-12T16:16:38.000Z",
-  "updatedAt": "2021-12-07T00:47:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aurora",
+    "Yimulian"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-04-27T11:03:19.000Z",
+    "checkedAt": null,
+    "id": 3077,
+    "type": "manga",
+    "title": "Brilliant na Mahou",
+    "altTitle": [
+      "Brilliant Magic",
+      "ブリリアントな魔法"
+    ],
+    "url": "https://myanimelist.net/manga/3077/Brilliant_na_Mahou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/164442.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Brilliant Magic",
-      "ブリリアントな魔法"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyawaki, Yukino"
-    ],
-    "id": 3077,
-    "type": "manga",
-    "title": "Brilliant na Mahou",
-    "url": "https://myanimelist.net/manga/3077/Brilliant_na_Mahou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/164442.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-04-27T11:03:19.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:56.187Z",
+    "updatedAt": "2022-05-13T12:45:56.187Z",
+    "checkedAt": null,
+    "id": 33077,
+    "type": "manga",
+    "title": "Brilliant Magic",
     "altTitle": [
       "ブリリアントな魔法",
       "Brilliant na Mahou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukino Miyawaki"
-    ],
-    "id": 33077,
-    "malId": 3077,
-    "type": "manga",
-    "title": "Brilliant Magic",
     "url": "https://anilist.co/manga/33077",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3077.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:02.000Z",
-    "updatedAt": "2021-12-17T11:08:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3077/Brilliant_na_Mahou"
+    "externalLinks": [],
+    "malId": 3077,
+    "deletedAt": null,
+    "authors": [
+      "Yukino Miyawaki"
+    ]
+  }
 }

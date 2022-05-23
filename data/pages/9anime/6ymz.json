@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:55.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3261,
   "identifier": "6ymz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34008,
   "aniId": 97607,
-  "createdAt": "2020-10-12T15:50:55.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:48.000Z",
+    "updatedAt": "2022-05-15T00:22:23.000Z",
+    "checkedAt": "2022-05-15T00:22:23.000Z",
+    "id": 34008,
+    "type": "anime",
+    "title": "Days (TV) OVA",
+    "altTitle": [
+      "DAYS"
+    ],
+    "url": "https://myanimelist.net/anime/34008/Days_TV_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/1752/96673.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,38 +45,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DAYS"
-    ],
-    "id": 34008,
-    "type": "anime",
-    "title": "Days (TV) OVA",
-    "url": "https://myanimelist.net/anime/34008/Days_TV_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/1752/96673.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 12381,
-    "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2022-04-03T14:00:55.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 12381
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:13.000Z",
+    "updatedAt": "2022-05-15T23:09:37.000Z",
+    "checkedAt": "2022-05-15T23:09:37.000Z",
+    "id": 97607,
+    "type": "anime",
+    "title": "DAYS OVA",
     "altTitle": [
       "DAYS OVA",
       "デイズ OVA"
     ],
-    "externalLinks": [],
-    "id": 97607,
-    "malId": 34008,
-    "type": "anime",
-    "title": "DAYS OVA",
     "url": "https://anilist.co/anime/97607",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97607-lg92XfIvtARq.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:13.000Z",
-    "updatedAt": "2021-12-17T15:27:15.000Z",
+    "externalLinks": [],
+    "malId": 34008,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34008/Days_TV_OVA"
+  }
 }

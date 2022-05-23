@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:41.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1623,
   "identifier": "2zyl",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25045,
   "aniId": 20782,
-  "createdAt": "2020-10-12T15:49:41.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T22:02:35.000Z",
+    "checkedAt": "2022-05-14T22:02:35.000Z",
+    "id": 25045,
+    "type": "anime",
+    "title": "Mijikamon",
+    "altTitle": [
+      "Barakamon Specials",
+      "みじかもん"
+    ],
+    "url": "https://myanimelist.net/anime/25045/Mijikamon",
+    "image": "https://cdn.myanimelist.net/images/anime/11/75964.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,40 +42,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Barakamon Specials",
-      "みじかもん"
-    ],
-    "id": 25045,
-    "type": "anime",
-    "title": "Mijikamon",
-    "url": "https://myanimelist.net/anime/25045/Mijikamon",
-    "image": "https://cdn.myanimelist.net/images/anime/11/75964.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 10111,
-    "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2022-04-13T19:30:52.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 10111
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:37.000Z",
+    "updatedAt": "2022-05-15T14:07:47.000Z",
+    "checkedAt": "2022-05-15T14:07:47.000Z",
+    "id": 20782,
+    "type": "anime",
+    "title": "Barakamon: Mijikamon",
     "altTitle": [
       "みじかもん",
       "Barakamon Specials",
       "Barakamon Episode 0"
     ],
-    "externalLinks": [],
-    "id": 20782,
-    "malId": 25045,
-    "type": "anime",
-    "title": "Barakamon: Mijikamon",
     "url": "https://anilist.co/anime/20782",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20782-rDaQwqxE7UCJ.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:37.000Z",
-    "updatedAt": "2021-12-17T14:30:18.000Z",
+    "externalLinks": [],
+    "malId": 25045,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/25045/Mijikamon"
+  }
 }

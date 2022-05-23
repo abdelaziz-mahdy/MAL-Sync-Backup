@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:41.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2946,
   "identifier": "64x4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2067,
   "aniId": 2067,
-  "createdAt": "2020-10-12T15:50:41.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-14T18:58:29.000Z",
+    "checkedAt": "2022-05-14T18:58:29.000Z",
+    "id": 2067,
+    "type": "anime",
+    "title": "Gekiganger 3: The Movie",
+    "altTitle": [
+      "Gekiganger 3: Nekketsu Daikessen",
+      "Nadesico OVA",
+      "Gekiganger 3",
+      "ゲキ・ガンガー３　熱血大決戦"
+    ],
+    "url": "https://myanimelist.net/anime/2067/Gekiganger_3__The_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1343/94110.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -35,31 +53,26 @@
         "url": "http://www.crunchyroll.com/series-274883"
       }
     ],
-    "altTitle": [
-      "Gekiganger 3: Nekketsu Daikessen",
-      "Nadesico OVA",
-      "Gekiganger 3",
-      "ゲキ・ガンガー３　熱血大決戦"
-    ],
+    "deletedAt": null,
+    "anidbId": 666
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-16T08:23:24.000Z",
+    "checkedAt": "2022-05-16T08:23:24.000Z",
     "id": 2067,
     "type": "anime",
     "title": "Gekiganger 3: The Movie",
-    "url": "https://myanimelist.net/anime/2067/Gekiganger_3__The_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1343/94110.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 666,
-    "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2022-03-31T04:06:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Gekiganger 3",
       "ゲキ・ガンガー３　熱血大決戦",
       "Gekiganger 3: Nekketsu Daikessen",
       "Nadesico OVA"
     ],
+    "url": "https://anilist.co/anime/2067",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Vrv",
@@ -70,17 +83,7 @@
         "url": "https://www.crunchyroll.com/martian-successor-nadesico"
       }
     ],
-    "id": 2067,
     "malId": 2067,
-    "type": "anime",
-    "title": "Gekiganger 3: The Movie",
-    "url": "https://anilist.co/anime/2067",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:08.000Z",
-    "updatedAt": "2021-12-17T09:56:18.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2067/Gekiganger_3__The_Movie"
+  }
 }

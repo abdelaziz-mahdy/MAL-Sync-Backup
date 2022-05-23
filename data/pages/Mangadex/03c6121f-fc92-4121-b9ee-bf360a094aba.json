@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Wada Shinji"
-  ],
+  "createdAt": "2020-10-12T16:03:41.000Z",
+  "updatedAt": "2021-12-02T16:16:35.000Z",
+  "checkedAt": null,
+  "id": 2773,
   "identifier": "03c6121f-fc92-4121-b9ee-bf360a094aba",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7448,
   "aniId": 37448,
-  "createdAt": "2020-10-12T16:03:41.000Z",
-  "updatedAt": "2021-12-02T16:16:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wada Shinji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:14.000Z",
+    "updatedAt": "2022-05-20T14:57:47.000Z",
+    "checkedAt": "2022-05-20T14:57:47.000Z",
+    "id": 7448,
+    "type": "manga",
+    "title": "Pygmalio",
+    "altTitle": [
+      "Pygmalion",
+      "ピグマリオ"
+    ],
+    "url": "https://myanimelist.net/manga/7448/Pygmalio",
+    "image": "https://cdn.myanimelist.net/images/manga/2/189390.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pygmalion",
-      "ピグマリオ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Wada, Shinji"
-    ],
-    "id": 7448,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:47.148Z",
+    "updatedAt": "2022-05-20T14:57:38.000Z",
+    "checkedAt": "2022-05-20T14:57:38.000Z",
+    "id": 37448,
     "type": "manga",
     "title": "Pygmalio",
-    "url": "https://myanimelist.net/manga/7448/Pygmalio",
-    "image": "https://cdn.myanimelist.net/images/manga/2/189390.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:14.000Z",
-    "updatedAt": "2021-12-07T22:04:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ピグマリオ",
       "Pygmalion",
       "Pigumario"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinji Wada"
-    ],
-    "id": 37448,
-    "malId": 7448,
-    "type": "manga",
-    "title": "Pygmalio",
     "url": "https://anilist.co/manga/37448",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37448-ECKH7VpBU2dn.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:52.000Z",
-    "updatedAt": "2022-01-27T07:30:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7448/Pygmalio"
+    "externalLinks": [],
+    "malId": 7448,
+    "deletedAt": null,
+    "authors": [
+      "Shinji Wada"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okamoto Kentarou",
-    "Sagara Riri"
-  ],
+  "createdAt": "2020-10-12T16:11:31.000Z",
+  "updatedAt": "2021-12-05T09:24:21.000Z",
+  "checkedAt": null,
+  "id": 19504,
   "identifier": "9b4b3140-7c1c-4583-aa1c-1bbbe240a8fa",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103710,
   "aniId": 99738,
-  "createdAt": "2020-10-12T16:11:31.000Z",
-  "updatedAt": "2021-12-05T09:24:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okamoto Kentarou",
+    "Sagara Riri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:50.000Z",
+    "updatedAt": "2022-05-15T21:06:37.000Z",
+    "checkedAt": "2022-05-15T21:06:37.000Z",
+    "id": 103710,
+    "type": "manga",
+    "title": "Sounan desu ka?",
+    "altTitle": [
+      "Are You Lost?",
+      "ソウナンですか？"
+    ],
+    "url": "https://myanimelist.net/manga/103710/Sounan_desu_ka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/198933.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +46,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Are You Lost?",
-      "ソウナンですか？"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sagara, Riri",
       "Okamoto, Kentarou"
-    ],
-    "id": 103710,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:28.934Z",
+    "updatedAt": "2022-05-15T22:08:47.000Z",
+    "checkedAt": "2022-05-15T22:08:47.000Z",
+    "id": 99738,
     "type": "manga",
     "title": "Sounan desu ka?",
-    "url": "https://myanimelist.net/manga/103710/Sounan_desu_ka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/198933.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:50.000Z",
-    "updatedAt": "2022-04-08T11:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Are You Lost?",
       "ソウナンですか？",
       "ช่วยที She ติดเกาะ?"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kentarou Okamoto",
-      "Riri Sagara",
-      "Steven LeCroy"
-    ],
-    "id": 99738,
-    "malId": 103710,
-    "type": "manga",
-    "title": "Sounan desu ka?",
     "url": "https://anilist.co/manga/99738",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99738-pl3h39adRJtL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:04.000Z",
-    "updatedAt": "2022-02-14T14:47:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103710/Sounan_desu_ka"
+    "externalLinks": [],
+    "malId": 103710,
+    "deletedAt": null,
+    "authors": [
+      "Kentarou Okamoto",
+      "Riri Sagara",
+      "Steven LeCroy"
+    ]
+  }
 }

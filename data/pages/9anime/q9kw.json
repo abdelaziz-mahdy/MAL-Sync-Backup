@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:06.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8379,
   "identifier": "q9kw",
   "type": "anime",
   "page": "9anime",
@@ -8,20 +12,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20909,
   "aniId": 20531,
-  "createdAt": "2020-10-12T15:55:06.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://anime-kyokai.com/product/package01/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-13T23:31:06.000Z",
+    "checkedAt": "2022-05-13T23:31:06.000Z",
+    "id": 20909,
+    "type": "anime",
+    "title": "Kyoukai no Kanata: Mini Gekijou",
     "altTitle": [
       "Kyoukai no Kanata: Mini Theater",
       "Kyoukai no Kanata Specials",
@@ -29,37 +30,39 @@
       "Beyond the Boundary Specials",
       "境界の彼方 ミニ劇場"
     ],
-    "id": 20909,
-    "type": "anime",
-    "title": "Kyoukai no Kanata: Mini Gekijou",
     "url": "https://myanimelist.net/anime/20909/Kyoukai_no_Kanata__Mini_Gekijou",
     "image": "https://cdn.myanimelist.net/images/anime/10/72218.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-04-16T22:32:53.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime-kyokai.com/product/package01/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:27.000Z",
+    "updatedAt": "2022-05-15T15:00:47.000Z",
+    "checkedAt": "2022-05-15T15:00:47.000Z",
+    "id": 20531,
+    "type": "anime",
+    "title": "Kyoukai no Kanata: Mini Gekijou",
     "altTitle": [
       "Beyond the Boundary: Mini Theater",
       "境界の彼方 ミニ劇場",
       "Kyokai no Kanata Specials",
       "Beyond the Boundary Specials"
     ],
-    "externalLinks": [],
-    "id": 20531,
-    "malId": 20909,
-    "type": "anime",
-    "title": "Kyoukai no Kanata: Mini Gekijou",
     "url": "https://anilist.co/anime/20531",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20531.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:27.000Z",
-    "updatedAt": "2021-12-17T14:24:55.000Z",
+    "externalLinks": [],
+    "malId": 20909,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/20909/Kyoukai_no_Kanata__Mini_Gekijou"
+  }
 }

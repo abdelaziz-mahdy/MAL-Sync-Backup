@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:51.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3131,
   "identifier": "6pl9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9455,
   "aniId": 9455,
-  "createdAt": "2020-10-12T15:50:51.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:02.000Z",
+    "updatedAt": "2022-05-15T14:52:21.000Z",
+    "checkedAt": "2022-05-15T14:52:21.000Z",
+    "id": 9455,
+    "type": "anime",
+    "title": "Ninpen Manmaru",
+    "altTitle": [
+      "Manmaru the Ninja Penguin",
+      "忍ペンまん丸"
+    ],
+    "url": "https://myanimelist.net/anime/9455/Ninpen_Manmaru",
+    "image": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Manmaru the Ninja Penguin",
-      "忍ペンまん丸"
-    ],
+    "deletedAt": null,
+    "anidbId": 4701
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:04.000Z",
+    "updatedAt": "2022-05-15T18:30:47.000Z",
+    "checkedAt": "2022-05-15T18:30:47.000Z",
     "id": 9455,
     "type": "anime",
     "title": "Ninpen Manmaru",
-    "url": "https://myanimelist.net/anime/9455/Ninpen_Manmaru",
-    "image": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 4701,
-    "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2022-04-02T06:31:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "忍ペンまん丸",
       "Manmaru the Ninja Penguin"
     ],
-    "externalLinks": [],
-    "id": 9455,
-    "malId": 9455,
-    "type": "anime",
-    "title": "Ninpen Manmaru",
     "url": "https://anilist.co/anime/9455",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9455-rsN58GtFc92X.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:04.000Z",
-    "updatedAt": "2021-12-17T12:54:26.000Z",
+    "externalLinks": [],
+    "malId": 9455,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/9455/Ninpen_Manmaru"
+  }
 }

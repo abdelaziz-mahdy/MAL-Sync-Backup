@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oni-noboru"
-  ],
+  "createdAt": "2020-10-12T16:19:47.000Z",
+  "updatedAt": "2021-12-07T23:06:12.000Z",
+  "checkedAt": null,
+  "id": 35862,
   "identifier": "371c2736-3379-4501-aa8c-cc0a3ba410e7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3523,
   "aniId": 33523,
-  "createdAt": "2020-10-12T16:19:47.000Z",
-  "updatedAt": "2021-12-07T23:06:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oni-noboru"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%E3%81%AAKiss"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:51.000Z",
+    "updatedAt": "2022-05-15T14:42:35.000Z",
+    "checkedAt": "2022-05-15T14:42:35.000Z",
+    "id": 3523,
+    "type": "manga",
+    "title": "Itazura na Kiss",
     "altTitle": [
       "It Started With a Kiss",
       "Teasing Kiss",
@@ -34,21 +35,29 @@
       "Itazura na Kiss",
       "イタズラなKiss"
     ],
-    "authors": [
-      "Tada, Kaoru"
-    ],
-    "id": 3523,
-    "type": "manga",
-    "title": "Itazura na Kiss",
     "url": "https://myanimelist.net/manga/3523/Itazura_na_Kiss",
     "image": "https://cdn.myanimelist.net/images/manga/3/112363.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:51.000Z",
-    "updatedAt": "2022-03-14T20:31:35.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9%E3%81%AAKiss"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tada, Kaoru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:30.323Z",
+    "updatedAt": "2022-05-15T18:24:11.000Z",
+    "checkedAt": "2022-05-15T18:24:11.000Z",
+    "id": 33523,
+    "type": "manga",
+    "title": "Itazura na Kiss",
     "altTitle": [
       "Itazura na Kiss",
       "イタズラなKiss",
@@ -56,21 +65,15 @@
       "Teasing Kiss",
       "Mischievous Kiss"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaoru Tada"
-    ],
-    "id": 33523,
-    "malId": 3523,
-    "type": "manga",
-    "title": "Itazura na Kiss",
     "url": "https://anilist.co/manga/33523",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33523-oY1sNJ1k34DC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:12.000Z",
-    "updatedAt": "2021-12-17T11:16:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3523/Itazura_na_Kiss"
+    "externalLinks": [],
+    "malId": 3523,
+    "deletedAt": null,
+    "authors": [
+      "Kaoru Tada"
+    ]
+  }
 }

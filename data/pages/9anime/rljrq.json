@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-02-22T14:48:52.000Z",
+  "updatedAt": "2022-02-22T15:17:39.000Z",
+  "checkedAt": null,
+  "id": 40260,
   "identifier": "rljrq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1075,
   "aniId": 1075,
-  "createdAt": "2022-02-22T14:48:52.000Z",
-  "updatedAt": "2022-02-22T15:17:39.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2022-02-22T14:48:53.000Z",
+    "updatedAt": "2022-05-15T01:53:42.000Z",
+    "checkedAt": "2022-05-15T01:53:42.000Z",
+    "id": 1075,
+    "type": "anime",
+    "title": "Netrun-mon the Movie",
+    "altTitle": [
+      "Netrunmon The Movie",
+      "NetRunner",
+      "ねとらん者 THE MOVIE"
+    ],
+    "url": "https://myanimelist.net/anime/1075/Netrun-mon_the_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/9/27246.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,41 +43,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Netrunmon The Movie",
-      "NetRunner",
-      "ねとらん者 THE MOVIE"
-    ],
+    "deletedAt": null,
+    "anidbId": 2771
+  },
+  "Ani": {
+    "createdAt": "2021-07-11T20:15:01.000Z",
+    "updatedAt": "2022-05-15T16:48:47.000Z",
+    "checkedAt": "2022-05-15T16:48:47.000Z",
     "id": 1075,
     "type": "anime",
     "title": "Netrun-mon the Movie",
-    "url": "https://myanimelist.net/anime/1075/Netrun-mon_the_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/9/27246.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2771,
-    "createdAt": "2022-02-22T14:48:53.000Z",
-    "updatedAt": "2022-02-22T14:48:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ねとらん者 THE MOVIE",
       "Netrunmon The Movie",
       "NetRunner"
     ],
-    "externalLinks": [],
-    "id": 1075,
-    "malId": 1075,
-    "type": "anime",
-    "title": "Netrun-mon the Movie",
     "url": "https://anilist.co/anime/1075",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1075.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-07-11T20:15:01.000Z",
-    "updatedAt": "2022-01-11T20:43:02.000Z",
+    "externalLinks": [],
+    "malId": 1075,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1075/Netrun-mon_the_Movie"
+  }
 }

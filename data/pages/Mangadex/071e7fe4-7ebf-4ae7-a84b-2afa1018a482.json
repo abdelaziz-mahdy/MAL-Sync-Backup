@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Madoromi Tarou"
-  ],
+  "createdAt": "2020-10-12T16:11:18.000Z",
+  "updatedAt": "2021-12-05T07:48:31.000Z",
+  "checkedAt": null,
+  "id": 19038,
   "identifier": "071e7fe4-7ebf-4ae7-a84b-2afa1018a482",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112510,
   "aniId": 101645,
-  "createdAt": "2020-10-12T16:11:18.000Z",
-  "updatedAt": "2021-12-05T07:48:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Madoromi Tarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:26.000Z",
+    "updatedAt": "2022-05-16T18:05:46.000Z",
+    "checkedAt": "2022-05-16T18:05:46.000Z",
+    "id": 112510,
+    "type": "manga",
+    "title": "Ojiichan Shinanai",
+    "altTitle": [
+      "This Old Man Won't Die",
+      "Old man never die.",
+      "おじいちゃんしなない"
+    ],
+    "url": "https://myanimelist.net/manga/112510/Ojiichan_Shinanai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/217375.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "This Old Man Won't Die",
-      "Old man never die.",
-      "おじいちゃんしなない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Madoromi, Tarou"
-    ],
-    "id": 112510,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:59.982Z",
+    "updatedAt": "2022-05-16T18:05:45.000Z",
+    "checkedAt": "2022-05-16T18:05:45.000Z",
+    "id": 101645,
     "type": "manga",
     "title": "Ojiichan Shinanai",
-    "url": "https://myanimelist.net/manga/112510/Ojiichan_Shinanai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/217375.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:26.000Z",
-    "updatedAt": "2022-03-06T19:29:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おじいちゃんしなない",
       "This Old Man Won't Die"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tarou Madoromi"
-    ],
-    "id": 101645,
-    "malId": 112510,
-    "type": "manga",
-    "title": "Ojiichan Shinanai",
     "url": "https://anilist.co/manga/101645",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101645-Q3o7OKt5nLZt.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:55.000Z",
-    "updatedAt": "2021-12-18T03:55:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112510/Ojiichan_Shinanai"
+    "externalLinks": [],
+    "malId": 112510,
+    "deletedAt": null,
+    "authors": [
+      "Tarou Madoromi"
+    ]
+  }
 }

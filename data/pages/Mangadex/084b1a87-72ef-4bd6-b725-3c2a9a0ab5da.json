@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kimino Sakurako",
-    "Tokita Arumi"
-  ],
+  "createdAt": "2020-10-12T16:07:35.000Z",
+  "updatedAt": "2022-05-16T15:29:30.000Z",
+  "checkedAt": "2022-05-16T15:29:22.000Z",
+  "id": 10935,
   "identifier": "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48251,
   "aniId": 78251,
-  "createdAt": "2020-10-12T16:07:35.000Z",
-  "updatedAt": "2021-12-04T04:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kimino Sakurako",
+    "Tokita Arumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:30.000Z",
+    "updatedAt": "2022-05-13T15:25:51.000Z",
+    "checkedAt": "2022-05-13T15:25:51.000Z",
+    "id": 48251,
+    "type": "manga",
+    "title": "Love Live!",
+    "altTitle": [
+      "School Idol Project",
+      "ラブライブ！"
+    ],
+    "url": "https://myanimelist.net/manga/48251/Love_Live",
+    "image": "https://cdn.myanimelist.net/images/manga/2/104927.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "School Idol Project",
-      "ラブライブ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kimino, Sakurako",
       "Tokita, Arumi"
-    ],
-    "id": 48251,
-    "type": "manga",
-    "title": "Love Live!",
-    "url": "https://myanimelist.net/manga/48251/Love_Live",
-    "image": "https://cdn.myanimelist.net/images/manga/2/104927.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:30.000Z",
-    "updatedAt": "2022-01-07T10:48:43.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:57.544Z",
+    "updatedAt": "2022-05-15T17:00:47.000Z",
+    "checkedAt": "2022-05-15T17:00:47.000Z",
+    "id": 78251,
+    "type": "manga",
+    "title": "Love Live! School idol project",
     "altTitle": [
       "Love Live!",
       "ラブライブ! School idol project"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sakurako Kimino",
-      "Arumi Tokita",
-      "Yuuhei Murota"
-    ],
-    "id": 78251,
-    "malId": 48251,
-    "type": "manga",
-    "title": "Love Live! School idol project",
     "url": "https://anilist.co/manga/78251",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78251-FUS1yv6838Dm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:37.000Z",
-    "updatedAt": "2022-02-11T00:09:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/48251/Love_Live"
+    "externalLinks": [],
+    "malId": 48251,
+    "deletedAt": null,
+    "authors": [
+      "Sakurako Kimino",
+      "Arumi Tokita",
+      "Yuuhei Murota"
+    ]
+  }
 }

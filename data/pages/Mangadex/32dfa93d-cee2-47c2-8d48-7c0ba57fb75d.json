@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takeda Eri"
-  ],
+  "createdAt": "2020-10-12T16:05:52.000Z",
+  "updatedAt": "2021-12-03T15:50:09.000Z",
+  "checkedAt": null,
+  "id": 7263,
   "identifier": "32dfa93d-cee2-47c2-8d48-7c0ba57fb75d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41857,
   "aniId": 71857,
-  "createdAt": "2020-10-12T16:05:52.000Z",
-  "updatedAt": "2021-12-03T15:50:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeda Eri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:14.000Z",
+    "updatedAt": "2021-11-06T14:04:51.000Z",
+    "checkedAt": null,
+    "id": 41857,
+    "type": "manga",
+    "title": "Merry-chan to Hitsuji",
+    "altTitle": [
+      "Merry and Sheep",
+      "メリーちゃんと羊"
+    ],
+    "url": "https://myanimelist.net/manga/41857/Merry-chan_to_Hitsuji",
+    "image": "https://cdn.myanimelist.net/images/manga/1/73209.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Merry and Sheep",
-      "メリーちゃんと羊"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takeda, Eri"
-    ],
-    "id": 41857,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:29.915Z",
+    "updatedAt": "2022-05-13T12:59:29.915Z",
+    "checkedAt": null,
+    "id": 71857,
     "type": "manga",
     "title": "Merry-chan to Hitsuji",
-    "url": "https://myanimelist.net/manga/41857/Merry-chan_to_Hitsuji",
-    "image": "https://cdn.myanimelist.net/images/manga/1/73209.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:14.000Z",
-    "updatedAt": "2021-11-06T14:04:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "メリーちゃんと羊",
       "Merry and Sheep"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eri Takeda"
-    ],
-    "id": 71857,
-    "malId": 41857,
-    "type": "manga",
-    "title": "Merry-chan to Hitsuji",
     "url": "https://anilist.co/manga/71857",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41857.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:50.000Z",
-    "updatedAt": "2021-12-17T20:27:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41857/Merry-chan_to_Hitsuji"
+    "externalLinks": [],
+    "malId": 41857,
+    "deletedAt": null,
+    "authors": [
+      "Eri Takeda"
+    ]
+  }
 }

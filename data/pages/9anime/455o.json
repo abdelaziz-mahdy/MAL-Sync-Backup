@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:01.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2128,
   "identifier": "455o",
   "type": "anime",
   "page": "9anime",
@@ -8,24 +12,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2910,
   "aniId": 2910,
-  "createdAt": "2020-10-12T15:50:01.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "animedb",
-        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2831"
-      },
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Koi_Koi_Seven#Anime"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:38:33.000Z",
+    "updatedAt": "2022-05-15T08:11:14.000Z",
+    "checkedAt": "2022-05-15T08:11:14.000Z",
+    "id": 2910,
+    "type": "anime",
+    "title": "Koi Koi 7 Specials",
     "altTitle": [
       "KK7",
       "Koikoi7",
@@ -37,19 +34,31 @@
       "Love Love 7 DVD Specials",
       "こいこい7"
     ],
-    "id": 2910,
-    "type": "anime",
-    "title": "Koi Koi 7 Specials",
     "url": "https://myanimelist.net/anime/2910/Koi_Koi_7_Specials",
     "image": "https://cdn.myanimelist.net/images/anime/3/59829.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": 2831,
-    "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2022-03-31T10:03:53.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2831"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Koi_Koi_Seven#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2831
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:31.000Z",
+    "updatedAt": "2022-05-16T08:36:35.000Z",
+    "checkedAt": "2022-05-16T08:36:35.000Z",
+    "id": 2910,
+    "type": "anime",
+    "title": "Koi Koi 7 Specials",
     "altTitle": [
       "Love Love Seven Specials",
       "こいこい7 Specials",
@@ -58,18 +67,12 @@
       "Koi Koi 7",
       "Koikoi Seven"
     ],
-    "externalLinks": [],
-    "id": 2910,
-    "malId": 2910,
-    "type": "anime",
-    "title": "Koi Koi 7 Specials",
     "url": "https://anilist.co/anime/2910",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2910.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:31.000Z",
-    "updatedAt": "2021-12-17T10:31:08.000Z",
+    "externalLinks": [],
+    "malId": 2910,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2910/Koi_Koi_7_Specials"
+  }
 }

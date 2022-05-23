@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mukai Natsumi"
-  ],
+  "createdAt": "2020-10-12T16:04:57.000Z",
+  "updatedAt": "2021-12-03T00:49:48.000Z",
+  "checkedAt": null,
+  "id": 5405,
   "identifier": "f7813136-75c7-43ac-9354-93e464716b0b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38,
   "aniId": 30038,
-  "createdAt": "2020-10-12T16:04:57.000Z",
-  "updatedAt": "2021-12-03T00:49:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mukai Natsumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T23:55:35.000Z",
+    "checkedAt": "2022-05-14T23:55:35.000Z",
+    "id": 38,
+    "type": "manga",
+    "title": "+Anima",
+    "altTitle": [
+      "Plus Anima",
+      "Parallel +Anima",
+      "+Anima",
+      "+ANIMA"
+    ],
+    "url": "https://myanimelist.net/manga/38/_Anima",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178178.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,51 +43,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "+Anima",
-      "Plus Anima",
-      "Parallel +Anima",
-      "+ANIMA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mukai, Natsumi"
-    ],
-    "id": 38,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:49.633Z",
+    "updatedAt": "2022-05-19T23:44:31.000Z",
+    "checkedAt": "2022-05-19T23:44:31.000Z",
+    "id": 30038,
     "type": "manga",
     "title": "+Anima",
-    "url": "https://myanimelist.net/manga/38/_Anima",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178178.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-12-01T00:05:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "+Anima",
       "プラス・アニマ",
       "Plus Anima",
       "Parallel +Anima"
     ],
+    "url": "https://anilist.co/manga/30038",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30038-7C8FTYWe8AAD.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 38,
+    "deletedAt": null,
     "authors": [
       "Natsumi Mukai",
       "Alethea Nibley",
       "Fédoua Lamodière",
       "Athena Nibley"
-    ],
-    "id": 30038,
-    "malId": 38,
-    "type": "manga",
-    "title": "+Anima",
-    "url": "https://anilist.co/manga/30038",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30038-7C8FTYWe8AAD.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:31:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/38/_Anima"
+    ]
+  }
 }

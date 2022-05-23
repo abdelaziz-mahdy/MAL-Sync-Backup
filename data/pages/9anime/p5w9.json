@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:29.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7869,
   "identifier": "p5w9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2070,
   "aniId": 2070,
-  "createdAt": "2020-10-12T15:54:29.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-15T01:50:23.000Z",
+    "checkedAt": "2022-05-15T01:50:23.000Z",
+    "id": 2070,
+    "type": "anime",
+    "title": "Guy: Youma Kakusei",
+    "altTitle": [
+      "Guy: Double Target",
+      "ガイ 妖魔覚醒"
+    ],
+    "url": "https://myanimelist.net/anime/2070/Guy__Youma_Kakusei",
+    "image": "https://cdn.myanimelist.net/images/anime/1265/96984.jpg",
+    "category": "OVA",
+    "hentai": true,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,23 +46,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Guy: Double Target",
-      "ガイ 妖魔覚醒"
-    ],
+    "deletedAt": null,
+    "anidbId": 2505
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-16T15:01:37.000Z",
+    "checkedAt": "2022-05-16T15:01:37.000Z",
     "id": 2070,
     "type": "anime",
-    "title": "Guy: Youma Kakusei",
-    "url": "https://myanimelist.net/anime/2070/Guy__Youma_Kakusei",
-    "image": "https://cdn.myanimelist.net/images/anime/1265/96984.jpg",
-    "category": "OVA",
-    "hentai": true,
-    "anidbId": 2505,
-    "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2022-03-31T04:07:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Guy",
     "altTitle": [
       "Guy: Double Target",
       "ガイ",
@@ -56,18 +65,12 @@
       "Guy: Youma Kakusei",
       "Guy -Youma Awakening-"
     ],
-    "externalLinks": [],
-    "id": 2070,
-    "malId": 2070,
-    "type": "anime",
-    "title": "Guy",
     "url": "https://anilist.co/anime/2070",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2070-Zmk0e2kGV3V5.jpg",
     "category": "ova",
     "hentai": true,
-    "createdAt": "2021-05-20T14:36:08.000Z",
-    "updatedAt": "2022-03-22T12:56:57.000Z",
+    "externalLinks": [],
+    "malId": 2070,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2070/Guy__Youma_Kakusei"
+  }
 }

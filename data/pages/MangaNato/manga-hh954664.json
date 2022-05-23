@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takei Touka"
-  ],
+  "createdAt": "2021-06-01T15:37:30.000Z",
+  "updatedAt": "2021-12-01T16:24:17.000Z",
+  "checkedAt": null,
+  "id": 75296,
   "identifier": "manga-hh954664",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56515,
   "aniId": 85187,
-  "createdAt": "2021-06-01T15:37:30.000Z",
-  "updatedAt": "2021-12-01T16:24:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takei Touka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2021-12-01T15:51:47.000Z",
+    "checkedAt": null,
+    "id": 56515,
+    "type": "manga",
+    "title": "Mousugu Shinu Hito",
+    "altTitle": [
+      "Seeking for Death",
+      "Mou sugu Shinu Hito",
+      "もうすぐ死ぬひと"
+    ],
+    "url": "https://myanimelist.net/manga/56515/Mousugu_Shinu_Hito",
+    "image": "https://cdn.myanimelist.net/images/manga/2/114985.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,27 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seeking for Death",
-      "Mou sugu Shinu Hito",
-      "もうすぐ死ぬひと"
-    ],
+    "deletedAt": null,
     "authors": [
       "Haruse, Hiroki",
       "Takei, Touka"
-    ],
-    "id": 56515,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:10.476Z",
+    "updatedAt": "2022-05-13T13:01:10.476Z",
+    "checkedAt": null,
+    "id": 85187,
     "type": "manga",
     "title": "Mousugu Shinu Hito",
-    "url": "https://myanimelist.net/manga/56515/Mousugu_Shinu_Hito",
-    "image": "https://cdn.myanimelist.net/images/manga/2/114985.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:48.000Z",
-    "updatedAt": "2021-12-01T15:51:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "もうすぐ死ぬひと",
       "Mou sugu Shinu Hito",
@@ -53,22 +62,16 @@
       "将死之人",
       "Seeking for Death"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroki Haruse",
-      "Touka Takei"
-    ],
-    "id": 85187,
-    "malId": 56515,
-    "type": "manga",
-    "title": "Mousugu Shinu Hito",
     "url": "https://anilist.co/manga/85187",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85187-RhElHlgCFO9F.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:29.000Z",
-    "updatedAt": "2021-12-17T21:55:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56515/Mousugu_Shinu_Hito"
+    "externalLinks": [],
+    "malId": 56515,
+    "deletedAt": null,
+    "authors": [
+      "Hiroki Haruse",
+      "Touka Takei"
+    ]
+  }
 }

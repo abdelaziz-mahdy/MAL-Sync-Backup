@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Itagaki Keisuke",
-    "Miyatani Kengo"
-  ],
+  "createdAt": "2020-10-12T16:10:03.000Z",
+  "updatedAt": "2021-12-04T22:18:48.000Z",
+  "checkedAt": null,
+  "id": 16315,
   "identifier": "4a2012d6-97b8-4bcb-8e48-9ba2510b688c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72787,
   "aniId": 107154,
-  "createdAt": "2020-10-12T16:10:03.000Z",
-  "updatedAt": "2021-12-04T22:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itagaki Keisuke",
+    "Miyatani Kengo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2022-05-15T14:57:53.000Z",
+    "checkedAt": "2022-05-15T14:57:53.000Z",
+    "id": 72787,
+    "type": "manga",
+    "title": "Baki Gaiden: Kenjin",
+    "altTitle": [
+      "バキ外伝 拳刃"
+    ],
+    "url": "https://myanimelist.net/manga/72787/Baki_Gaiden__Kenjin",
+    "image": "https://cdn.myanimelist.net/images/manga/3/126057.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "バキ外伝 拳刃"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itagaki, Keisuke",
       "Miyatani, Kengo"
-    ],
-    "id": 72787,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:46.048Z",
+    "updatedAt": "2022-05-15T18:33:11.000Z",
+    "checkedAt": "2022-05-15T18:33:11.000Z",
+    "id": 107154,
     "type": "manga",
     "title": "Baki Gaiden: Kenjin",
-    "url": "https://myanimelist.net/manga/72787/Baki_Gaiden__Kenjin",
-    "image": "https://cdn.myanimelist.net/images/manga/3/126057.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2021-12-23T12:22:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Baki Gaiden: Kenjin",
       "バキ外伝 拳刃"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keisuke Itagaki",
-      "Kengo Miyatani"
-    ],
-    "id": 107154,
-    "malId": 72787,
-    "type": "manga",
-    "title": "Baki Gaiden: Kenjin",
     "url": "https://anilist.co/manga/107154",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107154-0G8cE4XDcuiW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2021-12-18T05:50:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72787/Baki_Gaiden__Kenjin"
+    "externalLinks": [],
+    "malId": 72787,
+    "deletedAt": null,
+    "authors": [
+      "Keisuke Itagaki",
+      "Kengo Miyatani"
+    ]
+  }
 }

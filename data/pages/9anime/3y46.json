@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:57.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1987,
   "identifier": "3y46",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 377,
   "aniId": 377,
-  "createdAt": "2020-10-12T15:49:57.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T21:46:17.000Z",
+    "checkedAt": "2022-05-14T21:46:17.000Z",
+    "id": 377,
+    "type": "anime",
+    "title": "eX-Driver",
+    "altTitle": [
+      "エクスドライバー"
+    ],
+    "url": "https://myanimelist.net/anime/377/eX-Driver",
+    "image": "https://cdn.myanimelist.net/images/anime/8/26197.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,38 +45,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "エクスドライバー"
-    ],
+    "deletedAt": null,
+    "anidbId": 55
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T16:41:47.000Z",
+    "checkedAt": "2022-05-15T16:41:47.000Z",
     "id": 377,
     "type": "anime",
     "title": "eX-Driver",
-    "url": "https://myanimelist.net/anime/377/eX-Driver",
-    "image": "https://cdn.myanimelist.net/images/anime/8/26197.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 55,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-04-12T10:01:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "éX-Driver",
       "エクスドライバー"
     ],
-    "externalLinks": [],
-    "id": 377,
-    "malId": 377,
-    "type": "anime",
-    "title": "eX-Driver",
     "url": "https://anilist.co/anime/377",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx377-fGzxXHUxQtwV.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:39.000Z",
-    "updatedAt": "2021-12-17T08:26:45.000Z",
+    "externalLinks": [],
+    "malId": 377,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/377/eX-Driver"
+  }
 }

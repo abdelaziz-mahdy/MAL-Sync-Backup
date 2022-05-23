@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikeyamada Go"
-  ],
+  "createdAt": "2020-10-12T16:09:50.000Z",
+  "updatedAt": "2021-12-04T20:51:03.000Z",
+  "checkedAt": null,
+  "id": 15843,
   "identifier": "b12ed781-ed15-4e91-9285-cc0ca461890f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95499,
   "aniId": 96664,
-  "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-12-04T20:51:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikeyamada Go"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:22.000Z",
+    "updatedAt": "2022-03-24T17:27:23.000Z",
+    "checkedAt": null,
+    "id": 95499,
+    "type": "manga",
+    "title": "Sekai wa Nakajima ni Koi wo Suru!!",
+    "altTitle": [
+      "The World Loves Nakajima!!",
+      "世界は中島に恋をする!!"
+    ],
+    "url": "https://myanimelist.net/manga/95499/Sekai_wa_Nakajima_ni_Koi_wo_Suru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179272.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The World Loves Nakajima!!",
-      "世界は中島に恋をする!!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikeyamada, Go"
-    ],
-    "id": 95499,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:17.496Z",
+    "updatedAt": "2022-05-13T12:57:17.496Z",
+    "checkedAt": null,
+    "id": 96664,
     "type": "manga",
     "title": "Sekai wa Nakajima ni Koi wo Suru!!",
-    "url": "https://myanimelist.net/manga/95499/Sekai_wa_Nakajima_ni_Koi_wo_Suru",
-    "image": "https://cdn.myanimelist.net/images/manga/3/179272.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:22.000Z",
-    "updatedAt": "2022-03-24T17:27:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "世界は中島に恋をする!!",
       "The World Loves Nakajima!!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Go Ikeyamada"
-    ],
-    "id": 96664,
-    "malId": 95499,
-    "type": "manga",
-    "title": "Sekai wa Nakajima ni Koi wo Suru!!",
     "url": "https://anilist.co/manga/96664",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96664-clrVo7MmYZZq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:59.000Z",
-    "updatedAt": "2021-12-18T01:51:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95499/Sekai_wa_Nakajima_ni_Koi_wo_Suru"
+    "externalLinks": [],
+    "malId": 95499,
+    "deletedAt": null,
+    "authors": [
+      "Go Ikeyamada"
+    ]
+  }
 }

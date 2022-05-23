@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takanaga Hinako"
-  ],
+  "createdAt": "2020-10-12T16:07:37.000Z",
+  "updatedAt": "2021-12-04T09:18:41.000Z",
+  "checkedAt": null,
+  "id": 11003,
   "identifier": "2e90d449-072d-4ecf-94f3-115a24349341",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 284,
   "aniId": 30284,
-  "createdAt": "2020-10-12T16:07:37.000Z",
-  "updatedAt": "2021-12-04T09:18:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takanaga Hinako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2021-12-04T04:46:16.000Z",
+    "checkedAt": null,
+    "id": 284,
+    "type": "manga",
+    "title": "Little Butterfly",
+    "altTitle": [
+      "Little Butterfly",
+      "リトル・バタフライ"
+    ],
+    "url": "https://myanimelist.net/manga/284/Little_Butterfly",
+    "image": "https://cdn.myanimelist.net/images/manga/4/25450.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Little Butterfly",
-      "リトル・バタフライ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takanaga, Hinako"
-    ],
-    "id": 284,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:19.467Z",
+    "updatedAt": "2022-05-13T12:49:19.467Z",
+    "checkedAt": null,
+    "id": 30284,
     "type": "manga",
     "title": "Little Butterfly",
-    "url": "https://myanimelist.net/manga/284/Little_Butterfly",
-    "image": "https://cdn.myanimelist.net/images/manga/4/25450.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-12-04T04:46:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Little Butterfly",
       "リトル・バタフライ",
@@ -51,21 +60,15 @@
       "リトル・バタフライ SPECIAL EDITION",
       "Kleiner Schmetterling"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hinako Takanaga"
-    ],
-    "id": 30284,
-    "malId": 284,
-    "type": "manga",
-    "title": "Little Butterfly",
     "url": "https://anilist.co/manga/30284",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30284-clA4tiOqQfQF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/284/Little_Butterfly"
+    "externalLinks": [],
+    "malId": 284,
+    "deletedAt": null,
+    "authors": [
+      "Hinako Takanaga"
+    ]
+  }
 }

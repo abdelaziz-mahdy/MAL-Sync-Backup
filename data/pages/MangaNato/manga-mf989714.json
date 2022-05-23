@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugawara Keita"
-  ],
+  "createdAt": "2021-10-04T19:03:08.000Z",
+  "updatedAt": "2022-04-04T20:01:12.000Z",
+  "checkedAt": null,
+  "id": 88024,
   "identifier": "manga-mf989714",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83123,
   "aniId": 93359,
-  "createdAt": "2021-10-04T19:03:08.000Z",
-  "updatedAt": "2022-04-04T20:01:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugawara Keita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:38.000Z",
+    "updatedAt": "2021-11-05T23:34:51.000Z",
+    "checkedAt": null,
+    "id": 83123,
+    "type": "manga",
+    "title": "Soumatou Kabushikigaisha",
+    "altTitle": [
+      "Revolving Lantern Corporation",
+      "走馬灯株式会社"
+    ],
+    "url": "https://myanimelist.net/manga/83123/Soumatou_Kabushikigaisha",
+    "image": "https://cdn.myanimelist.net/images/manga/3/144029.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Revolving Lantern Corporation",
-      "走馬灯株式会社"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugahara, Keita"
-    ],
-    "id": 83123,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:20.455Z",
+    "updatedAt": "2022-05-13T12:59:20.455Z",
+    "checkedAt": null,
+    "id": 93359,
     "type": "manga",
     "title": "Soumatou Kabushikigaisha",
-    "url": "https://myanimelist.net/manga/83123/Soumatou_Kabushikigaisha",
-    "image": "https://cdn.myanimelist.net/images/manga/3/144029.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:38.000Z",
-    "updatedAt": "2021-11-05T23:34:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "走馬灯株式会社",
       "Revolving Lantern Corporation"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keita Sugahara"
-    ],
-    "id": 93359,
-    "malId": 83123,
-    "type": "manga",
-    "title": "Soumatou Kabushikigaisha",
     "url": "https://anilist.co/manga/93359",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93359-tTHOTDUzA5Je.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:32.000Z",
-    "updatedAt": "2022-02-17T22:46:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83123/Soumatou_Kabushikigaisha"
+    "externalLinks": [],
+    "malId": 83123,
+    "deletedAt": null,
+    "authors": [
+      "Keita Sugahara"
+    ]
+  }
 }

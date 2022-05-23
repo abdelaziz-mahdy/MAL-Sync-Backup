@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hayakawa Nojiko"
-  ],
+  "createdAt": "2020-10-12T16:13:50.000Z",
+  "updatedAt": "2022-02-09T06:09:37.000Z",
+  "checkedAt": null,
+  "id": 23683,
   "identifier": "0d083d63-7751-4f40-b5ae-552d2de55ed6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86338,
   "aniId": 137703,
-  "createdAt": "2020-10-12T16:13:50.000Z",
-  "updatedAt": "2022-02-09T06:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hayakawa Nojiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:47.000Z",
+    "updatedAt": "2021-11-12T17:14:08.000Z",
+    "checkedAt": null,
+    "id": 86338,
+    "type": "manga",
+    "title": "Yuubae Sakusen",
+    "altTitle": [
+      "夕ばえ作戦"
+    ],
+    "url": "https://myanimelist.net/manga/86338/Yuubae_Sakusen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/151641.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +40,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "夕ばえ作戦"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mitsuse, Ryu",
       "Oshii, Mamoru",
       "Oono, Tsutomu"
-    ],
-    "id": 86338,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:26.134Z",
+    "updatedAt": "2022-05-13T13:04:26.134Z",
+    "checkedAt": null,
+    "id": 137703,
     "type": "manga",
     "title": "Yuubae Sakusen",
-    "url": "https://myanimelist.net/manga/86338/Yuubae_Sakusen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/151641.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:47.000Z",
-    "updatedAt": "2021-11-12T17:14:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "夕ばえ作戦"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryuu Mitsuse",
-      "Tsutomu Oono",
-      "Mamoru Oshii"
-    ],
-    "id": 137703,
-    "malId": 86338,
-    "type": "manga",
-    "title": "Yuubae Sakusen",
     "url": "https://anilist.co/manga/137703",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137703-efxxq2dtNZXV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-08-09T05:09:16.000Z",
-    "updatedAt": "2022-02-09T05:39:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86338/Yuubae_Sakusen"
+    "externalLinks": [],
+    "malId": 86338,
+    "deletedAt": null,
+    "authors": [
+      "Ryuu Mitsuse",
+      "Tsutomu Oono",
+      "Mamoru Oshii"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Agasa Reiji"
-  ],
+  "createdAt": "2021-12-26T09:27:55.000Z",
+  "updatedAt": "2021-12-27T11:30:19.000Z",
+  "checkedAt": null,
+  "id": 93667,
   "identifier": "dc22d3e5-96fe-4f3f-b8ed-a4e61fa62006",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 139762,
   "aniId": 137266,
-  "createdAt": "2021-12-26T09:27:55.000Z",
-  "updatedAt": "2021-12-27T11:30:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Agasa Reiji"
+  ],
   "Mal": {
+    "createdAt": "2021-10-13T00:00:25.000Z",
+    "updatedAt": "2022-05-15T03:47:46.000Z",
+    "checkedAt": "2022-05-15T03:47:46.000Z",
+    "id": 139762,
+    "type": "manga",
+    "title": "Kami no Manimani",
+    "altTitle": [
+      "神のまにまに"
+    ],
+    "url": "https://myanimelist.net/manga/139762/Kami_no_Manimani",
+    "image": "https://cdn.myanimelist.net/images/manga/3/250751.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "神のまにまに"
-    ],
+    "deletedAt": null,
     "authors": [
       "Agasa, Reiji"
-    ],
-    "id": 139762,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:36.683Z",
+    "updatedAt": "2022-05-21T23:09:34.000Z",
+    "checkedAt": "2022-05-21T23:09:34.000Z",
+    "id": 137266,
     "type": "manga",
     "title": "Kami no Manimani",
-    "url": "https://myanimelist.net/manga/139762/Kami_no_Manimani",
-    "image": "https://cdn.myanimelist.net/images/manga/3/250751.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-13T00:00:25.000Z",
-    "updatedAt": "2021-12-27T11:30:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神のまにまに"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Reiji Agasa",
-      "Yuuji Kimura"
-    ],
-    "id": 137266,
-    "malId": 139762,
-    "type": "manga",
-    "title": "Kami no Manimani",
     "url": "https://anilist.co/manga/137266",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137266-gxOKm7ribqcY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-30T20:52:02.000Z",
-    "updatedAt": "2022-04-02T04:07:13.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/139762/Kami_no_Manimani"
+    "externalLinks": [],
+    "malId": 139762,
+    "deletedAt": null,
+    "authors": [
+      "Reiji Agasa",
+      "Yuuji Kimura"
+    ]
+  }
 }

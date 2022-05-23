@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamai Nanami",
-    "Kimura Takashi"
-  ],
+  "createdAt": "2020-10-12T16:18:09.000Z",
+  "updatedAt": "2022-01-20T21:00:41.000Z",
+  "checkedAt": null,
+  "id": 32590,
   "identifier": "ed72b650-d33c-46e2-9496-c59e18eaf305",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123143,
   "aniId": 113165,
-  "createdAt": "2020-10-12T16:18:09.000Z",
-  "updatedAt": "2022-01-20T21:00:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamai Nanami",
+    "Kimura Takashi"
+  ],
   "Mal": {
+    "createdAt": "2021-03-23T18:45:51.000Z",
+    "updatedAt": "2022-05-18T01:19:56.000Z",
+    "checkedAt": "2022-05-18T01:19:56.000Z",
+    "id": 123143,
+    "type": "manga",
+    "title": "Dorei Yuugi Guren",
+    "altTitle": [
+      "奴隷遊戯GUREN"
+    ],
+    "url": "https://myanimelist.net/manga/123143/Dorei_Yuugi_Guren",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239195.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "奴隷遊戯GUREN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kimura, Takashi",
       "Ibuka, Mitsu"
-    ],
-    "id": 123143,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:01.656Z",
+    "updatedAt": "2022-05-18T01:19:55.000Z",
+    "checkedAt": "2022-05-18T01:19:55.000Z",
+    "id": 113165,
     "type": "manga",
     "title": "Dorei Yuugi Guren",
-    "url": "https://myanimelist.net/manga/123143/Dorei_Yuugi_Guren",
-    "image": "https://cdn.myanimelist.net/images/manga/3/239195.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-03-23T18:45:51.000Z",
-    "updatedAt": "2021-12-07T14:46:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "奴隷遊戯GUREN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nanami Yamai",
-      "Takashi Kimura"
-    ],
-    "id": 113165,
-    "malId": 123143,
-    "type": "manga",
-    "title": "Dorei Yuugi Guren",
     "url": "https://anilist.co/manga/113165",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113165-VEGwIaZpViIH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-17T07:32:21.000Z",
-    "updatedAt": "2022-01-17T07:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123143/Dorei_Yuugi_Guren"
+    "externalLinks": [],
+    "malId": 123143,
+    "deletedAt": null,
+    "authors": [
+      "Nanami Yamai",
+      "Takashi Kimura"
+    ]
+  }
 }

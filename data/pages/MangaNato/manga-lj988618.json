@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yukiru Sugisaki",
-    "Sugisaki Yukiru"
-  ],
+  "createdAt": "2021-06-29T08:20:31.000Z",
+  "updatedAt": "2021-12-29T09:02:39.000Z",
+  "checkedAt": null,
+  "id": 80101,
   "identifier": "manga-lj988618",
   "type": "manga",
   "page": "MangaNato",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 94,
   "aniId": 30094,
-  "createdAt": "2021-06-29T08:20:31.000Z",
-  "updatedAt": "2021-12-29T09:02:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yukiru Sugisaki",
+    "Sugisaki Yukiru"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/D・N・ANGEL"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-14T21:50:30.000Z",
+    "checkedAt": "2022-05-14T21:50:30.000Z",
+    "id": 94,
+    "type": "manga",
+    "title": "D.N.Angel",
     "altTitle": [
       "DN Angel",
       "DNAngel",
@@ -37,21 +38,29 @@
       "D.N. Angel",
       "D・N・ANGEL"
     ],
-    "authors": [
-      "Sugisaki, Yukiru"
-    ],
-    "id": 94,
-    "type": "manga",
-    "title": "D.N.Angel",
     "url": "https://myanimelist.net/manga/94/DNAngel",
     "image": "https://cdn.myanimelist.net/images/manga/2/145023.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-21T18:31:35.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/D・N・ANGEL"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sugisaki, Yukiru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:42.393Z",
+    "updatedAt": "2022-05-15T18:23:59.000Z",
+    "checkedAt": "2022-05-15T18:23:59.000Z",
+    "id": 30094,
+    "type": "manga",
+    "title": "D.N.Angel",
     "altTitle": [
       "D.N. Angel",
       "ディー・エヌ・エンジェル",
@@ -61,28 +70,17 @@
       "Ou Magake Again",
       "OumagaAGAIN"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/d-n-angel"
-      }
-    ],
-    "authors": [
-      "Yukiru Sugisaki",
-      "Alethea Nibley",
-      "Athena Nibley"
-    ],
-    "id": 30094,
-    "malId": 94,
-    "type": "manga",
-    "title": "D.N.Angel",
     "url": "https://anilist.co/manga/30094",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94-yLwmkOmyGJX0.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:33:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94/DNAngel"
+    "externalLinks": [],
+    "malId": 94,
+    "deletedAt": null,
+    "authors": [
+      "Yukiru Sugisaki",
+      "Alethea Nibley",
+      "Athena Nibley"
+    ]
+  }
 }

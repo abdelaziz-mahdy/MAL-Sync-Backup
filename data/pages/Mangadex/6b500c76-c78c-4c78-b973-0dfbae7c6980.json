@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saitoh Sakae"
-  ],
+  "createdAt": "2020-10-12T16:11:07.000Z",
+  "updatedAt": "2021-12-05T06:17:45.000Z",
+  "checkedAt": null,
+  "id": 18627,
   "identifier": "6b500c76-c78c-4c78-b973-0dfbae7c6980",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108865,
   "aniId": 100571,
-  "createdAt": "2020-10-12T16:11:07.000Z",
-  "updatedAt": "2021-12-05T06:17:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saitoh Sakae"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:10.000Z",
+    "updatedAt": "2022-05-17T15:23:11.000Z",
+    "checkedAt": "2022-05-17T15:23:11.000Z",
+    "id": 108865,
+    "type": "manga",
+    "title": "Toji no Miko",
+    "altTitle": [
+      "The Shrine Maiden Swordwielders",
+      "刀使ノ巫女"
+    ],
+    "url": "https://myanimelist.net/manga/108865/Toji_no_Miko",
+    "image": "https://cdn.myanimelist.net/images/manga/2/204840.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Shrine Maiden Swordwielders",
-      "刀使ノ巫女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saitou, Sakae"
-    ],
-    "id": 108865,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:23.390Z",
+    "updatedAt": "2022-05-17T15:23:10.000Z",
+    "checkedAt": "2022-05-17T15:23:10.000Z",
+    "id": 100571,
     "type": "manga",
     "title": "Toji no Miko",
-    "url": "https://myanimelist.net/manga/108865/Toji_no_Miko",
-    "image": "https://cdn.myanimelist.net/images/manga/2/204840.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:10.000Z",
-    "updatedAt": "2022-01-12T02:11:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "刀使ノ巫女",
       "The Shrine Maiden Swordwielders"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sakae Saito",
-      "Yoshinori Shizuma"
-    ],
-    "id": 100571,
-    "malId": 108865,
-    "type": "manga",
-    "title": "Toji no Miko",
     "url": "https://anilist.co/manga/100571",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100571-sDuqPNoMT03V.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:04.000Z",
-    "updatedAt": "2021-12-18T03:25:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108865/Toji_no_Miko"
+    "externalLinks": [],
+    "malId": 108865,
+    "deletedAt": null,
+    "authors": [
+      "Sakae Saito",
+      "Yoshinori Shizuma"
+    ]
+  }
 }

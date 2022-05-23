@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohta Akiyoshi",
-    "Matsuda98"
-  ],
+  "createdAt": "2020-10-12T16:04:52.000Z",
+  "updatedAt": "2021-12-03T00:17:10.000Z",
+  "checkedAt": null,
+  "id": 5224,
   "identifier": "fbcd7f77-64c1-4844-a0e1-83ddbfccd1c2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12567,
   "aniId": 42567,
-  "createdAt": "2020-10-12T16:04:52.000Z",
-  "updatedAt": "2021-12-03T00:17:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohta Akiyoshi",
+    "Matsuda98"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:46.000Z",
+    "updatedAt": "2021-12-06T06:16:59.000Z",
+    "checkedAt": null,
+    "id": 12567,
+    "type": "manga",
+    "title": "Honoka Lv. Up!",
+    "altTitle": [
+      "Honoka Lv. Up!",
+      "Honoka Level Up!",
+      "ほのかLv.アップ!"
+    ],
+    "url": "https://myanimelist.net/manga/12567/Honoka_Lv_Up",
+    "image": "https://cdn.myanimelist.net/images/manga/3/17444.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Honoka Lv. Up!",
-      "Honoka Level Up!",
-      "ほのかLv.アップ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ohta, Akiyoshi",
       "MATSUDA98"
-    ],
-    "id": 12567,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:39.804Z",
+    "updatedAt": "2022-05-13T12:48:39.804Z",
+    "checkedAt": null,
+    "id": 42567,
     "type": "manga",
     "title": "Honoka Lv. Up!",
-    "url": "https://myanimelist.net/manga/12567/Honoka_Lv_Up",
-    "image": "https://cdn.myanimelist.net/images/manga/3/17444.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:46.000Z",
-    "updatedAt": "2021-12-06T06:16:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ほのかLv.アップ!",
       "Honoka Level Up!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akiyoshi Ohta",
-      "Matsuda98"
-    ],
-    "id": 42567,
-    "malId": 12567,
-    "type": "manga",
-    "title": "Honoka Lv. Up!",
     "url": "https://anilist.co/manga/42567",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12567.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:23.000Z",
-    "updatedAt": "2021-12-17T14:46:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12567/Honoka_Lv_Up"
+    "externalLinks": [],
+    "malId": 12567,
+    "deletedAt": null,
+    "authors": [
+      "Akiyoshi Ohta",
+      "Matsuda98"
+    ]
+  }
 }

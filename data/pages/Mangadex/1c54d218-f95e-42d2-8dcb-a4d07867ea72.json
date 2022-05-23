@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Suzuki Akira",
-    "Iwasaki Junichi"
-  ],
+  "createdAt": "2020-10-12T16:07:32.000Z",
+  "updatedAt": "2021-12-04T03:50:49.000Z",
+  "checkedAt": null,
+  "id": 10835,
   "identifier": "1c54d218-f95e-42d2-8dcb-a4d07867ea72",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26789,
   "aniId": 56789,
-  "createdAt": "2020-10-12T16:07:32.000Z",
-  "updatedAt": "2021-12-04T03:50:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Akira",
+    "Iwasaki Junichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:27.000Z",
+    "updatedAt": "2021-11-04T11:36:00.000Z",
+    "checkedAt": null,
+    "id": 26789,
+    "type": "manga",
+    "title": "Hyakka Ryouran: Samurai Girls",
+    "altTitle": [
+      "Samurai Girls",
+      "Hyakka Ryouran: Samurai Girls",
+      "百花繚乱サムライガールズ"
+    ],
+    "url": "https://myanimelist.net/manga/26789/Hyakka_Ryouran__Samurai_Girls",
+    "image": "https://cdn.myanimelist.net/images/manga/1/74187.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Samurai Girls",
-      "Hyakka Ryouran: Samurai Girls",
-      "百花繚乱サムライガールズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Akira",
       "Iwasaki, Junichi"
-    ],
-    "id": 26789,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:52.113Z",
+    "updatedAt": "2022-05-13T13:02:52.113Z",
+    "checkedAt": null,
+    "id": 56789,
     "type": "manga",
     "title": "Hyakka Ryouran: Samurai Girls",
-    "url": "https://myanimelist.net/manga/26789/Hyakka_Ryouran__Samurai_Girls",
-    "image": "https://cdn.myanimelist.net/images/manga/1/74187.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:27.000Z",
-    "updatedAt": "2021-11-04T11:36:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "百花繚乱サムライガールズ",
       "Samurai Girls",
       "Hyakka Ryouran: Samurai Girls"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Suzuki",
-      "Junichi Iwasaki"
-    ],
-    "id": 56789,
-    "malId": 26789,
-    "type": "manga",
-    "title": "Hyakka Ryouran: Samurai Girls",
     "url": "https://anilist.co/manga/56789",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26789.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:04.000Z",
-    "updatedAt": "2021-12-17T18:52:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26789/Hyakka_Ryouran__Samurai_Girls"
+    "externalLinks": [],
+    "malId": 26789,
+    "deletedAt": null,
+    "authors": [
+      "Akira Suzuki",
+      "Junichi Iwasaki"
+    ]
+  }
 }

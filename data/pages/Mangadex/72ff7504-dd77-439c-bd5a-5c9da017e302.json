@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kube Toshihisa"
-  ],
+  "createdAt": "2021-07-14T17:21:13.000Z",
+  "updatedAt": "2022-01-14T18:12:16.000Z",
+  "checkedAt": null,
+  "id": 81909,
   "identifier": "72ff7504-dd77-439c-bd5a-5c9da017e302",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111079,
   "aniId": 102269,
-  "createdAt": "2021-07-14T17:21:13.000Z",
-  "updatedAt": "2022-01-14T18:12:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kube Toshihisa"
+  ],
   "Mal": {
+    "createdAt": "2021-07-14T17:21:22.000Z",
+    "updatedAt": "2022-01-14T17:42:36.000Z",
+    "checkedAt": null,
+    "id": 111079,
+    "type": "manga",
+    "title": "Magnum Lily",
+    "altTitle": [
+      "マグナムリリィ"
+    ],
+    "url": "https://myanimelist.net/manga/111079/Magnum_Lily",
+    "image": "https://cdn.myanimelist.net/images/manga/2/203935.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "マグナムリリィ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kube, Toshihisa"
-    ],
-    "id": 111079,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:48.596Z",
+    "updatedAt": "2022-05-13T12:54:48.596Z",
+    "checkedAt": null,
+    "id": 102269,
     "type": "manga",
     "title": "Magnum Lily",
-    "url": "https://myanimelist.net/manga/111079/Magnum_Lily",
-    "image": "https://cdn.myanimelist.net/images/manga/2/203935.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-07-14T17:21:22.000Z",
-    "updatedAt": "2022-01-14T17:42:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magnum Lily",
       "マグナムリリィ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshihisa Kube"
-    ],
-    "id": 102269,
-    "malId": 111079,
-    "type": "manga",
-    "title": "Magnum Lily",
     "url": "https://anilist.co/manga/102269",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102269-hU3GW1Hx7P5U.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T19:25:21.000Z",
-    "updatedAt": "2021-12-18T04:21:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111079/Magnum_Lily"
+    "externalLinks": [],
+    "malId": 111079,
+    "deletedAt": null,
+    "authors": [
+      "Toshihisa Kube"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lucy Maud Montgomery",
-    "Hara Chieko"
-  ],
+  "createdAt": "2020-10-12T16:12:25.000Z",
+  "updatedAt": "2021-12-05T16:18:58.000Z",
+  "checkedAt": null,
+  "id": 21039,
   "identifier": "6c4207cf-ddf9-401d-b3de-a1a06ff791a7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86376,
   "aniId": 121261,
-  "createdAt": "2020-10-12T16:12:25.000Z",
-  "updatedAt": "2021-12-05T16:18:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lucy Maud Montgomery",
+    "Hara Chieko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:48.000Z",
+    "updatedAt": "2022-05-15T17:57:47.000Z",
+    "checkedAt": "2022-05-15T17:57:47.000Z",
+    "id": 86376,
+    "type": "manga",
+    "title": "Niji no Tani no Anne",
+    "altTitle": [
+      "Anne in Rainbow Valley",
+      "Rainbow Valley",
+      "虹の谷のアン"
+    ],
+    "url": "https://myanimelist.net/manga/86376/Niji_no_Tani_no_Anne",
+    "image": "https://cdn.myanimelist.net/images/manga/2/183078.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anne in Rainbow Valley",
-      "Rainbow Valley",
-      "虹の谷のアン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hara, Chieko",
       "Montgomery, Lucy Maud"
-    ],
-    "id": 86376,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:12.435Z",
+    "updatedAt": "2022-05-15T20:23:23.000Z",
+    "checkedAt": "2022-05-15T20:23:23.000Z",
+    "id": 121261,
     "type": "manga",
     "title": "Niji no Tani no Anne",
-    "url": "https://myanimelist.net/manga/86376/Niji_no_Tani_no_Anne",
-    "image": "https://cdn.myanimelist.net/images/manga/2/183078.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:48.000Z",
-    "updatedAt": "2021-12-05T15:17:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "虹の谷のアン",
       "Anne in Rainbow Valley",
       "Rainbow Valley"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Lucy Maud Montgomery",
-      "Chieko Hara"
-    ],
-    "id": 121261,
-    "malId": 86376,
-    "type": "manga",
-    "title": "Niji no Tani no Anne",
     "url": "https://anilist.co/manga/121261",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121261-ZtG1rFCoczZx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:44.000Z",
-    "updatedAt": "2021-12-18T09:54:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86376/Niji_no_Tani_no_Anne"
+    "externalLinks": [],
+    "malId": 86376,
+    "deletedAt": null,
+    "authors": [
+      "Lucy Maud Montgomery",
+      "Chieko Hara"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Abe Yoshitoshi"
-  ],
+  "createdAt": "2020-10-12T16:05:05.000Z",
+  "updatedAt": "2021-12-03T10:17:59.000Z",
+  "checkedAt": null,
+  "id": 5658,
   "identifier": "bb6ac747-3c94-4fd9-8900-9c7ce2ed2e8e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4342,
   "aniId": 34342,
-  "createdAt": "2020-10-12T16:05:05.000Z",
-  "updatedAt": "2021-12-03T10:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abe Yoshitoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:59.000Z",
+    "updatedAt": "2022-05-18T03:44:28.000Z",
+    "checkedAt": "2022-05-18T03:44:28.000Z",
+    "id": 4342,
+    "type": "manga",
+    "title": "NieA Under 7",
+    "altTitle": [
+      "NieA_7",
+      "ニア アンダーセブン"
+    ],
+    "url": "https://myanimelist.net/manga/4342/NieA_Under_7",
+    "image": "https://cdn.myanimelist.net/images/manga/3/5082.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "NieA_7",
-      "ニア アンダーセブン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abe, Yoshitoshi"
-    ],
-    "id": 4342,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:30.655Z",
+    "updatedAt": "2022-05-18T03:44:27.000Z",
+    "checkedAt": "2022-05-18T03:44:27.000Z",
+    "id": 34342,
     "type": "manga",
     "title": "NieA Under 7",
-    "url": "https://myanimelist.net/manga/4342/NieA_Under_7",
-    "image": "https://cdn.myanimelist.net/images/manga/3/5082.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:59.000Z",
-    "updatedAt": "2022-04-28T19:00:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "NieA Under 7",
       "ニア アンダーセブン",
       "NieA_7",
       "NieA"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshitoshi ABe"
-    ],
-    "id": 34342,
-    "malId": 4342,
-    "type": "manga",
-    "title": "NieA Under 7",
     "url": "https://anilist.co/manga/34342",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4342.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:28.000Z",
-    "updatedAt": "2021-12-17T11:46:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4342/NieA_Under_7"
+    "externalLinks": [],
+    "malId": 4342,
+    "deletedAt": null,
+    "authors": [
+      "Yoshitoshi ABe"
+    ]
+  }
 }

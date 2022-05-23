@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Natsumi Ando"
-  ],
+  "createdAt": "2021-10-14T16:58:56.000Z",
+  "updatedAt": "2022-04-14T17:30:24.000Z",
+  "checkedAt": null,
+  "id": 88761,
   "identifier": "manga-fw983331",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103003,
   "aniId": 110429,
-  "createdAt": "2021-10-14T16:58:56.000Z",
-  "updatedAt": "2022-04-14T17:30:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Natsumi Ando"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:46.000Z",
+    "updatedAt": "2022-05-15T05:17:19.000Z",
+    "checkedAt": "2022-05-15T05:17:19.000Z",
+    "id": 103003,
+    "type": "manga",
+    "title": "Watashitachi wa Douka shiteiru",
+    "altTitle": [
+      "There's Something Wrong With Us",
+      "We Are Not Ourselves Today",
+      "Something's Wrong With Us",
+      "私たちはどうかしている"
+    ],
+    "url": "https://myanimelist.net/manga/103003/Watashitachi_wa_Douka_shiteiru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/194771.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "There's Something Wrong With Us",
-      "We Are Not Ourselves Today",
-      "Something's Wrong With Us",
-      "私たちはどうかしている"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ando, Natsumi"
-    ],
-    "id": 103003,
-    "type": "manga",
-    "title": "Watashitachi wa Douka shiteiru",
-    "url": "https://myanimelist.net/manga/103003/Watashitachi_wa_Douka_shiteiru",
-    "image": "https://cdn.myanimelist.net/images/manga/2/194771.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:46.000Z",
-    "updatedAt": "2022-03-12T12:30:50.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:55.709Z",
+    "updatedAt": "2022-05-15T19:03:35.000Z",
+    "checkedAt": "2022-05-15T19:03:35.000Z",
+    "id": 110429,
+    "type": "manga",
+    "title": "Watashitachi wa Douka Shiteiru",
     "altTitle": [
       "Something's Wrong With Us",
       "私たちはどうかしている",
@@ -57,21 +66,15 @@
       "우리들은 미쳤다",
       "รักพิศวง ปมพิศวาส "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsumi Andou"
-    ],
-    "id": 110429,
-    "malId": 103003,
-    "type": "manga",
-    "title": "Watashitachi wa Douka Shiteiru",
     "url": "https://anilist.co/manga/110429",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110429-wEypdsx6NbNv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2022-02-17T09:16:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103003/Watashitachi_wa_Douka_shiteiru"
+    "externalLinks": [],
+    "malId": 103003,
+    "deletedAt": null,
+    "authors": [
+      "Natsumi Andou"
+    ]
+  }
 }

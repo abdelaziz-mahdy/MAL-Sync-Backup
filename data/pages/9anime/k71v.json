@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:33.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5336,
   "identifier": "k71v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34321,
   "aniId": 97815,
-  "createdAt": "2020-10-12T15:52:33.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T10:15:37.000Z",
+    "checkedAt": "2022-05-14T10:15:37.000Z",
+    "id": 34321,
+    "type": "anime",
+    "title": "Fate/Grand Order: First Order",
+    "altTitle": [
+      "Fate/Grand Order -First Order-",
+      "Fate/Grand Order -First Order-"
+    ],
+    "url": "https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order",
+    "image": "https://cdn.myanimelist.net/images/anime/6/82651.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -47,28 +63,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Fate/Grand Order -First Order-",
-      "Fate/Grand Order -First Order-"
-    ],
-    "id": 34321,
+    "deletedAt": null,
+    "anidbId": 12519
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:16.000Z",
+    "updatedAt": "2022-05-15T12:24:11.000Z",
+    "checkedAt": "2022-05-15T12:24:11.000Z",
+    "id": 97815,
     "type": "anime",
     "title": "Fate/Grand Order: First Order",
-    "url": "https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order",
-    "image": "https://cdn.myanimelist.net/images/anime/6/82651.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 12519,
-    "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2022-04-03T18:04:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/Grand Order: First Order",
       "Fate/Grand Order -First Order-",
       "פייט/המסדר העליון: הפקודה הראשונה"
     ],
+    "url": "https://anilist.co/anime/97815",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97815-NnWheNnaKCmS.png",
+    "category": "special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -87,17 +100,7 @@
         "url": "https://vrv.co/series/GYNQ3N8ZY/FateGrand-Order-First-Order"
       }
     ],
-    "id": 97815,
     "malId": 34321,
-    "type": "anime",
-    "title": "Fate/Grand Order: First Order",
-    "url": "https://anilist.co/anime/97815",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97815-NnWheNnaKCmS.png",
-    "category": "special",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:16.000Z",
-    "updatedAt": "2022-02-04T11:06:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order"
+  }
 }

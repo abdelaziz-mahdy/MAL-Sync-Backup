@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Keita Yatera"
-  ],
+  "createdAt": "2020-10-12T16:10:00.000Z",
+  "updatedAt": "2021-12-04T21:53:02.000Z",
+  "checkedAt": null,
+  "id": 16208,
   "identifier": "5ad442d7-83f3-4b32-b7b3-8d9331f02852",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100919,
   "aniId": 99039,
-  "createdAt": "2020-10-12T16:10:00.000Z",
-  "updatedAt": "2021-12-04T21:53:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Keita Yatera"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:42.000Z",
+    "updatedAt": "2022-05-22T02:07:39.000Z",
+    "checkedAt": "2022-05-22T02:07:39.000Z",
+    "id": 100919,
+    "type": "manga",
+    "title": "Oni-Deka!",
+    "altTitle": [
+      "おにでか！"
+    ],
+    "url": "https://myanimelist.net/manga/100919/Oni-Deka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/186231.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "おにでか！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yatera, Keita"
-    ],
-    "id": 100919,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:44.730Z",
+    "updatedAt": "2022-05-22T02:07:46.000Z",
+    "checkedAt": "2022-05-22T02:07:46.000Z",
+    "id": 99039,
     "type": "manga",
     "title": "Oni-Deka!",
-    "url": "https://myanimelist.net/manga/100919/Oni-Deka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/186231.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:42.000Z",
-    "updatedAt": "2022-02-15T08:47:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おにでか！",
       "Onideka!",
       "ONDK!",
       "巨大的她"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keita Yatera"
-    ],
-    "id": 99039,
-    "malId": 100919,
-    "type": "manga",
-    "title": "Oni-Deka!",
     "url": "https://anilist.co/manga/99039",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99039-ad1EwpGBxOXN.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:51.000Z",
-    "updatedAt": "2021-12-18T02:49:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100919/Oni-Deka"
+    "externalLinks": [],
+    "malId": 100919,
+    "deletedAt": null,
+    "authors": [
+      "Keita Yatera"
+    ]
+  }
 }

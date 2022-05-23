@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:00.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 786,
   "identifier": "115x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3512,
   "aniId": 3512,
-  "createdAt": "2020-10-12T15:49:00.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T22:58:35.000Z",
+    "checkedAt": "2022-05-14T22:58:35.000Z",
+    "id": 3512,
+    "type": "anime",
+    "title": "Tenshi Nanka ja Nai",
+    "altTitle": [
+      "I'm Not an Angel",
+      "天使なんかじゃない"
+    ],
+    "url": "https://myanimelist.net/anime/3512/Tenshi_Nanka_ja_Nai",
+    "image": "https://cdn.myanimelist.net/images/anime/2/5868.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I'm Not an Angel",
-      "天使なんかじゃない"
-    ],
+    "deletedAt": null,
+    "anidbId": 4086
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T22:05:59.000Z",
+    "checkedAt": "2022-05-15T22:05:59.000Z",
     "id": 3512,
     "type": "anime",
     "title": "Tenshi Nanka ja Nai",
-    "url": "https://myanimelist.net/anime/3512/Tenshi_Nanka_ja_Nai",
-    "image": "https://cdn.myanimelist.net/images/anime/2/5868.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 4086,
-    "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2022-02-06T14:36:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天使なんかじゃない",
       "I'm Not an Angel"
     ],
-    "externalLinks": [],
-    "id": 3512,
-    "malId": 3512,
-    "type": "anime",
-    "title": "Tenshi Nanka ja Nai",
     "url": "https://anilist.co/anime/3512",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3512.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:25.000Z",
-    "updatedAt": "2021-12-17T10:57:44.000Z",
+    "externalLinks": [],
+    "malId": 3512,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3512/Tenshi_Nanka_ja_Nai"
+  }
 }

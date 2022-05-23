@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kubo Tite"
-  ],
+  "createdAt": "2021-05-29T12:12:34.000Z",
+  "updatedAt": "2021-11-29T13:06:04.000Z",
+  "checkedAt": null,
+  "id": 73783,
   "identifier": "manga-qq951425",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12,
   "aniId": 30012,
-  "createdAt": "2021-05-29T12:12:34.000Z",
-  "updatedAt": "2021-11-29T13:06:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kubo Tite"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-13T23:38:40.000Z",
+    "checkedAt": "2022-05-13T23:38:40.000Z",
+    "id": 12,
+    "type": "manga",
+    "title": "Bleach",
+    "altTitle": [
+      "Bleach",
+      "BLEACH"
+    ],
+    "url": "https://myanimelist.net/manga/12/Bleach",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180031.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,36 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bleach",
-      "BLEACH"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kubo, Tite"
-    ],
-    "id": 12,
-    "type": "manga",
-    "title": "Bleach",
-    "url": "https://myanimelist.net/manga/12/Bleach",
-    "image": "https://cdn.myanimelist.net/images/manga/2/180089.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-06T11:30:23.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.869Z",
+    "updatedAt": "2022-05-15T11:00:12.000Z",
+    "checkedAt": "2022-05-15T11:00:12.000Z",
+    "id": 30012,
+    "type": "manga",
+    "title": "BLEACH",
     "altTitle": [
       "Bleach",
       "BLEACH",
       "ブリーチ"
     ],
+    "url": "https://anilist.co/manga/30012",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30012-z7U138mUaPdN.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100004"
       }
     ],
+    "malId": 12,
+    "deletedAt": null,
     "authors": [
       "Tite Kubo",
       "Ricardo Cruz",
@@ -78,18 +93,6 @@
       "Anne-Sophie Thevenon",
       "Shou Shiromoto",
       "Tayfun Nitahara Haksöyliyen"
-    ],
-    "id": 30012,
-    "malId": 12,
-    "type": "manga",
-    "title": "BLEACH",
-    "url": "https://anilist.co/manga/30012",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30012-z7U138mUaPdN.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-05-17T10:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12/Bleach"
+    ]
+  }
 }

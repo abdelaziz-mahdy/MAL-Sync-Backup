@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Inaba Minori"
-  ],
+  "createdAt": "2021-05-29T10:13:26.000Z",
+  "updatedAt": "2021-11-29T11:06:55.000Z",
+  "checkedAt": null,
+  "id": 73674,
   "identifier": "manga-ez952182",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30123,
   "aniId": 60123,
-  "createdAt": "2021-05-29T10:13:26.000Z",
-  "updatedAt": "2021-11-29T11:06:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inaba Minori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2022-05-15T00:30:11.000Z",
+    "checkedAt": "2022-05-15T00:30:11.000Z",
+    "id": 30123,
+    "type": "manga",
+    "title": "Minamoto-kun Monogatari",
+    "altTitle": [
+      "Minamoto's Story",
+      "源君物語"
+    ],
+    "url": "https://myanimelist.net/manga/30123/Minamoto-kun_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/124721.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Minamoto's Story",
-      "源君物語"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inaba, Minori"
-    ],
-    "id": 30123,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:25.724Z",
+    "updatedAt": "2022-05-15T20:11:35.000Z",
+    "checkedAt": "2022-05-15T20:11:35.000Z",
+    "id": 60123,
     "type": "manga",
     "title": "Minamoto-kun Monogatari",
-    "url": "https://myanimelist.net/manga/30123/Minamoto-kun_Monogatari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/124721.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2021-11-29T10:36:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "源君物語",
       "Minamotokun Monogatari",
       "Minamoto's Story"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Minori Inaba"
-    ],
-    "id": 60123,
-    "malId": 30123,
-    "type": "manga",
-    "title": "Minamoto-kun Monogatari",
     "url": "https://anilist.co/manga/60123",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60123-ioiMPaFNBB31.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2021-12-17T19:05:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30123/Minamoto-kun_Monogatari"
+    "externalLinks": [],
+    "malId": 30123,
+    "deletedAt": null,
+    "authors": [
+      "Minori Inaba"
+    ]
+  }
 }

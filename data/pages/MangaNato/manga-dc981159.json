@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suzumoto Kou"
-  ],
+  "createdAt": "2021-07-11T04:44:49.000Z",
+  "updatedAt": "2022-01-11T05:41:49.000Z",
+  "checkedAt": null,
+  "id": 81582,
   "identifier": "manga-dc981159",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118096,
   "aniId": 103080,
-  "createdAt": "2021-07-11T04:44:49.000Z",
-  "updatedAt": "2022-01-11T05:41:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzumoto Kou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:52.000Z",
+    "updatedAt": "2022-05-15T17:52:29.000Z",
+    "checkedAt": "2022-05-15T17:52:29.000Z",
+    "id": 118096,
+    "type": "manga",
+    "title": "Youko-san, Sugariyoru.",
+    "altTitle": [
+      "陽子さん、すがりよる。"
+    ],
+    "url": "https://myanimelist.net/manga/118096/Youko-san_Sugariyoru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/217500.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "陽子さん、すがりよる。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzumoto, Kou"
-    ],
-    "id": 118096,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:43.883Z",
+    "updatedAt": "2022-05-15T20:21:59.000Z",
+    "checkedAt": "2022-05-15T20:21:59.000Z",
+    "id": 103080,
     "type": "manga",
     "title": "Youko-san, Sugariyoru.",
-    "url": "https://myanimelist.net/manga/118096/Youko-san_Sugariyoru",
-    "image": "https://cdn.myanimelist.net/images/manga/2/217500.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:52.000Z",
-    "updatedAt": "2021-12-15T16:48:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "陽子さん、すがりよる。",
       "Yoko-san, Sugari Yoru."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kou Suzumoto"
-    ],
-    "id": 103080,
-    "malId": 118096,
-    "type": "manga",
-    "title": "Youko-san, Sugariyoru.",
     "url": "https://anilist.co/manga/103080",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103080-3cQSrVRqxljS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:59.000Z",
-    "updatedAt": "2021-12-18T02:02:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118096/Youko-san_Sugariyoru"
+    "externalLinks": [],
+    "malId": 118096,
+    "deletedAt": null,
+    "authors": [
+      "Kou Suzumoto"
+    ]
+  }
 }

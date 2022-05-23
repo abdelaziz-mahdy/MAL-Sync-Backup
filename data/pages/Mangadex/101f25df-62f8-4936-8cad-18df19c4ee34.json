@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Kawamori Shoji",
-    "Hajime Yatate",
-    "Katsu Aki"
-  ],
+  "createdAt": "2020-10-12T16:06:25.000Z",
+  "updatedAt": "2021-12-03T19:47:39.000Z",
+  "checkedAt": null,
+  "id": 8468,
   "identifier": "101f25df-62f8-4936-8cad-18df19c4ee34",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 565,
   "aniId": 30565,
-  "createdAt": "2020-10-12T16:06:25.000Z",
-  "updatedAt": "2021-12-03T19:47:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawamori Shoji",
+    "Hajime Yatate",
+    "Katsu Aki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-15T18:14:41.000Z",
+    "checkedAt": "2022-05-15T18:14:41.000Z",
+    "id": 565,
+    "type": "manga",
+    "title": "Tenkuu no Escaflowne",
+    "altTitle": [
+      "Vision of Escaflowne",
+      "天空のエスカフローネ"
+    ],
+    "url": "https://myanimelist.net/manga/565/Tenkuu_no_Escaflowne",
+    "image": "https://cdn.myanimelist.net/images/manga/3/1407.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,47 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Vision of Escaflowne",
-      "天空のエスカフローネ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katsu, Aki"
-    ],
-    "id": 565,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:39.625Z",
+    "updatedAt": "2022-05-15T20:32:47.000Z",
+    "checkedAt": "2022-05-15T20:32:47.000Z",
+    "id": 30565,
     "type": "manga",
     "title": "Tenkuu no Escaflowne",
-    "url": "https://myanimelist.net/manga/565/Tenkuu_no_Escaflowne",
-    "image": "https://cdn.myanimelist.net/images/manga/3/1407.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-26T08:31:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Vision of Escaflowne",
       "天空のエスカフローネ",
       "Tenku no Escaflowne"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Katsu Aki",
-      "Hajime Yatate",
-      "Shouji Kawamori"
-    ],
-    "id": 30565,
-    "malId": 565,
-    "type": "manga",
-    "title": "Tenkuu no Escaflowne",
     "url": "https://anilist.co/manga/30565",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30565-ERLbIjnrTyQ6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-17T09:13:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/565/Tenkuu_no_Escaflowne"
+    "externalLinks": [],
+    "malId": 565,
+    "deletedAt": null,
+    "authors": [
+      "Katsu Aki",
+      "Hajime Yatate",
+      "Shouji Kawamori"
+    ]
+  }
 }

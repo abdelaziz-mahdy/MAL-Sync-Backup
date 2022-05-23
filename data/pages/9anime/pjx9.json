@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:44.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7961,
   "identifier": "pjx9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21033,
   "aniId": 20592,
-  "createdAt": "2020-10-12T15:54:44.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-14T10:10:14.000Z",
+    "checkedAt": "2022-05-14T10:10:14.000Z",
+    "id": 21033,
+    "type": "anime",
+    "title": "Seikoku no Dragonar",
+    "altTitle": [
+      "Seikoku no Ryuukishi",
+      "Dragonar Academy",
+      "星刻の竜騎士"
+    ],
+    "url": "https://myanimelist.net/anime/21033/Seikoku_no_Dragonar",
+    "image": "https://cdn.myanimelist.net/images/anime/13/56419.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,29 +56,25 @@
         "url": "https://www.funimation.com/shows/dragonar-academy"
       }
     ],
-    "altTitle": [
-      "Seikoku no Ryuukishi",
-      "Dragonar Academy",
-      "星刻の竜騎士"
-    ],
-    "id": 21033,
+    "deletedAt": null,
+    "anidbId": 9996
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:27.000Z",
+    "updatedAt": "2022-05-15T10:54:47.000Z",
+    "checkedAt": "2022-05-15T10:54:47.000Z",
+    "id": 20592,
     "type": "anime",
     "title": "Seikoku no Dragonar",
-    "url": "https://myanimelist.net/anime/21033/Seikoku_no_Dragonar",
-    "image": "https://cdn.myanimelist.net/images/anime/13/56419.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 9996,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-04-15T08:00:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragonar Academy",
       "星刻の竜騎士",
       "อัศวินมือใหม่มังกรป้ายแดง"
     ],
+    "url": "https://anilist.co/anime/20592",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20592-73cVDt2rjmfq.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -72,17 +85,7 @@
         "url": "https://www.funimation.com/shows/dragonar-academy/"
       }
     ],
-    "id": 20592,
     "malId": 21033,
-    "type": "anime",
-    "title": "Seikoku no Dragonar",
-    "url": "https://anilist.co/anime/20592",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20592-73cVDt2rjmfq.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:27.000Z",
-    "updatedAt": "2021-12-22T11:21:46.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/21033/Seikoku_no_Dragonar"
+  }
 }

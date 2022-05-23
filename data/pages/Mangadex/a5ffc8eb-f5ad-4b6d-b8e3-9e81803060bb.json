@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikebe Aoi"
-  ],
+  "createdAt": "2020-10-12T16:08:12.000Z",
+  "updatedAt": "2021-12-04T08:48:17.000Z",
+  "checkedAt": null,
+  "id": 12283,
   "identifier": "a5ffc8eb-f5ad-4b6d-b8e3-9e81803060bb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 84623,
   "aniId": 86906,
-  "createdAt": "2020-10-12T16:08:12.000Z",
-  "updatedAt": "2021-12-04T08:48:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikebe Aoi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2021-11-12T08:45:07.000Z",
+    "checkedAt": null,
+    "id": 84623,
+    "type": "manga",
+    "title": "Kagome Kagome",
+    "altTitle": [
+      "かごめかごめ"
+    ],
+    "url": "https://myanimelist.net/manga/84623/Kagome_Kagome",
+    "image": "https://cdn.myanimelist.net/images/manga/3/146573.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "かごめかごめ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikebe, Aoi"
-    ],
-    "id": 84623,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:31.703Z",
+    "updatedAt": "2022-05-13T12:54:31.703Z",
+    "checkedAt": null,
+    "id": 86906,
     "type": "manga",
     "title": "Kagome Kagome",
-    "url": "https://myanimelist.net/manga/84623/Kagome_Kagome",
-    "image": "https://cdn.myanimelist.net/images/manga/3/146573.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2021-11-12T08:45:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "かごめかごめ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aoi Ikebe"
-    ],
-    "id": 86906,
-    "malId": 84623,
-    "type": "manga",
-    "title": "Kagome Kagome",
     "url": "https://anilist.co/manga/86906",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56906-nN7WhQbtVrbG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:35.000Z",
-    "updatedAt": "2021-12-17T23:00:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/84623/Kagome_Kagome"
+    "externalLinks": [],
+    "malId": 84623,
+    "deletedAt": null,
+    "authors": [
+      "Aoi Ikebe"
+    ]
+  }
 }

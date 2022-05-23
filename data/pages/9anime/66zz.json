@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:41.000Z",
+  "updatedAt": "2021-11-29T11:05:32.000Z",
+  "checkedAt": null,
+  "id": 2972,
   "identifier": "66zz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 19581,
   "aniId": 19581,
-  "createdAt": "2020-10-12T15:50:41.000Z",
-  "updatedAt": "2021-11-29T11:05:32.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:21.000Z",
+    "updatedAt": "2022-05-14T17:47:05.000Z",
+    "checkedAt": "2022-05-14T17:47:05.000Z",
+    "id": 19581,
+    "type": "anime",
+    "title": "Houseki no Kuni",
+    "altTitle": [
+      "Land of the Lustrous",
+      "Country of Jewels",
+      "宝石の国"
+    ],
+    "url": "https://myanimelist.net/anime/19581/Houseki_no_Kuni",
+    "image": "https://cdn.myanimelist.net/images/anime/2/52443.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,39 +43,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Country of Jewels",
-      "宝石の国"
-    ],
+    "deletedAt": null,
+    "anidbId": 9983
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:35.000Z",
+    "updatedAt": "2022-05-15T13:43:11.000Z",
+    "checkedAt": "2022-05-15T13:43:11.000Z",
     "id": 19581,
     "type": "anime",
-    "title": "Houseki no Kuni",
-    "url": "https://myanimelist.net/anime/19581/Houseki_no_Kuni",
-    "image": "https://cdn.myanimelist.net/images/anime/2/52443.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 9983,
-    "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2022-01-26T03:31:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Houseki no Kuni PV",
     "altTitle": [
       "宝石の国PV",
       "Land of the Lustrous PV"
     ],
-    "externalLinks": [],
-    "id": 19581,
-    "malId": 19581,
-    "type": "anime",
-    "title": "Houseki no Kuni PV",
     "url": "https://anilist.co/anime/19581",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19581-AoWPt2UjPwFF.png",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:35.000Z",
-    "updatedAt": "2021-12-17T14:20:35.000Z",
+    "externalLinks": [],
+    "malId": 19581,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/19581/Houseki_no_Kuni"
+  }
 }

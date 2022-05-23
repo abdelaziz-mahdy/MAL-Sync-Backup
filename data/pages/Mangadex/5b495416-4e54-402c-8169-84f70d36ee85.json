@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugiura Shiho"
-  ],
+  "createdAt": "2020-10-12T16:06:38.000Z",
+  "updatedAt": "2021-12-03T21:18:17.000Z",
+  "checkedAt": null,
+  "id": 8914,
   "identifier": "5b495416-4e54-402c-8169-84f70d36ee85",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50895,
   "aniId": 80895,
-  "createdAt": "2020-10-12T16:06:38.000Z",
-  "updatedAt": "2021-12-03T21:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugiura Shiho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:37.000Z",
+    "updatedAt": "2022-02-21T11:47:32.000Z",
+    "checkedAt": null,
+    "id": 50895,
+    "type": "manga",
+    "title": "Shuuten Unknown",
+    "altTitle": [
+      "終点unknown"
+    ],
+    "url": "https://myanimelist.net/manga/50895/Shuuten_Unknown",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171024.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "終点unknown"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugiura, Shiho"
-    ],
-    "id": 50895,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:32.118Z",
+    "updatedAt": "2022-05-13T13:06:32.118Z",
+    "checkedAt": null,
+    "id": 80895,
     "type": "manga",
     "title": "Shuuten Unknown",
-    "url": "https://myanimelist.net/manga/50895/Shuuten_Unknown",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171024.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:37.000Z",
-    "updatedAt": "2022-02-21T11:47:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "終点unknown",
       "Destination Unknown",
       "Last Stop Unknown",
       "Shuten Unknown"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shiho Sugiura"
-    ],
-    "id": 80895,
-    "malId": 50895,
-    "type": "manga",
-    "title": "Shuuten Unknown",
     "url": "https://anilist.co/manga/80895",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80895-QmauvZXTAPrx.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:49.000Z",
-    "updatedAt": "2021-12-17T21:27:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50895/Shuuten_Unknown"
+    "externalLinks": [],
+    "malId": 50895,
+    "deletedAt": null,
+    "authors": [
+      "Shiho Sugiura"
+    ]
+  }
 }

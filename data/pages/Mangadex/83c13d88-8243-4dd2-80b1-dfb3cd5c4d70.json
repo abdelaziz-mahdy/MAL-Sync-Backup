@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ai Eishi",
-    "Satomi Kei"
-  ],
+  "createdAt": "2020-10-12T16:10:25.000Z",
+  "updatedAt": "2021-12-05T00:53:51.000Z",
+  "checkedAt": null,
+  "id": 17086,
   "identifier": "83c13d88-8243-4dd2-80b1-dfb3cd5c4d70",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34231,
   "aniId": 64231,
-  "createdAt": "2020-10-12T16:10:25.000Z",
-  "updatedAt": "2021-12-05T00:53:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ai Eishi",
+    "Satomi Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:49.000Z",
+    "updatedAt": "2022-05-15T11:42:16.000Z",
+    "checkedAt": "2022-05-15T11:42:16.000Z",
+    "id": 34231,
+    "type": "manga",
+    "title": "Zero: The Man of the Creation",
+    "altTitle": [
+      "ゼロ THE MAN OF THE CREATION"
+    ],
+    "url": "https://myanimelist.net/manga/34231/Zero__The_Man_of_the_Creation",
+    "image": "https://cdn.myanimelist.net/images/manga/2/62325.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ゼロ THE MAN OF THE CREATION"
-    ],
+    "deletedAt": null,
     "authors": [
       "Satomi, Kei",
       "Toozaki, Shirou"
-    ],
-    "id": 34231,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:31.037Z",
+    "updatedAt": "2022-05-15T16:26:35.000Z",
+    "checkedAt": "2022-05-15T16:26:35.000Z",
+    "id": 64231,
     "type": "manga",
     "title": "Zero: The Man of the Creation",
-    "url": "https://myanimelist.net/manga/34231/Zero__The_Man_of_the_Creation",
-    "image": "https://cdn.myanimelist.net/images/manga/2/62325.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:49.000Z",
-    "updatedAt": "2022-02-12T12:09:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ゼロ THE MAN OF THE CREATION"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kei Satomi",
-      "Joe Shitsuki"
-    ],
-    "id": 64231,
-    "malId": 34231,
-    "type": "manga",
-    "title": "Zero: The Man of the Creation",
     "url": "https://anilist.co/manga/64231",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64231-U0Nuuq1Inumn.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:57.000Z",
-    "updatedAt": "2021-12-17T19:31:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/34231/Zero__The_Man_of_the_Creation"
+    "externalLinks": [],
+    "malId": 34231,
+    "deletedAt": null,
+    "authors": [
+      "Kei Satomi",
+      "Joe Shitsuki"
+    ]
+  }
 }

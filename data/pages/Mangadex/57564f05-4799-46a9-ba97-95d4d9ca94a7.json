@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shimizu Akane",
-    "Sugimoto Moe"
-  ],
+  "createdAt": "2020-10-12T16:13:35.000Z",
+  "updatedAt": "2021-12-05T22:49:29.000Z",
+  "checkedAt": null,
+  "id": 23201,
   "identifier": "57564f05-4799-46a9-ba97-95d4d9ca94a7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115448,
   "aniId": 104145,
-  "createdAt": "2020-10-12T16:13:35.000Z",
-  "updatedAt": "2021-12-05T22:49:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shimizu Akane",
+    "Sugimoto Moe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-05-18T08:21:19.000Z",
+    "checkedAt": "2022-05-18T08:21:19.000Z",
+    "id": 115448,
+    "type": "manga",
+    "title": "Hatarakanai Saibou",
+    "altTitle": [
+      "Cells that Don't Work",
+      "Cells NOT at Work!",
+      "はたらかない細胞"
+    ],
+    "url": "https://myanimelist.net/manga/115448/Hatarakanai_Saibou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/211408.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cells that Don't Work",
-      "Cells NOT at Work!",
-      "はたらかない細胞"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugimoto, Moe"
-    ],
-    "id": 115448,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:28.123Z",
+    "updatedAt": "2022-05-18T08:21:19.000Z",
+    "checkedAt": "2022-05-18T08:21:19.000Z",
+    "id": 104145,
     "type": "manga",
     "title": "Hatarakanai Saibou",
-    "url": "https://myanimelist.net/manga/115448/Hatarakanai_Saibou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/211408.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-03-07T14:59:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cells NOT at Work!",
       "はたらかない細胞",
       "Cells That Don't Work"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akane Shimizu",
-      "Moe Sugimoto"
-    ],
-    "id": 104145,
-    "malId": 115448,
-    "type": "manga",
-    "title": "Hatarakanai Saibou",
     "url": "https://anilist.co/manga/104145",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104145-6zEBZuqBmhK8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:14.000Z",
-    "updatedAt": "2021-12-18T04:51:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115448/Hatarakanai_Saibou"
+    "externalLinks": [],
+    "malId": 115448,
+    "deletedAt": null,
+    "authors": [
+      "Akane Shimizu",
+      "Moe Sugimoto"
+    ]
+  }
 }

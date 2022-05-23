@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Gosho Aoyama",
-    "Yasushi Akimoto",
-    "Gotou Masaki"
-  ],
+  "createdAt": "2020-10-12T16:07:03.000Z",
+  "updatedAt": "2021-12-04T00:17:08.000Z",
+  "checkedAt": null,
+  "id": 9789,
   "identifier": "9c3a1519-a17c-4e3e-a24b-3d90eead9647",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41205,
   "aniId": 71205,
-  "createdAt": "2020-10-12T16:07:03.000Z",
-  "updatedAt": "2021-12-04T00:17:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gosho Aoyama",
+    "Yasushi Akimoto",
+    "Gotou Masaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:09.000Z",
+    "updatedAt": "2022-05-16T15:38:48.000Z",
+    "checkedAt": "2022-05-16T15:38:48.000Z",
+    "id": 41205,
+    "type": "manga",
+    "title": "AKB48 Satsujin Jiken",
+    "altTitle": [
+      "Detective AKB48",
+      "AKB48 Murder Case",
+      "AKB48殺人事件"
+    ],
+    "url": "https://myanimelist.net/manga/41205/AKB48_Satsujin_Jiken",
+    "image": "https://cdn.myanimelist.net/images/manga/3/129451.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,48 +44,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Detective AKB48",
-      "AKB48 Murder Case",
-      "AKB48殺人事件"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoyama, Gosho",
       "Gotou, Masaki"
-    ],
-    "id": 41205,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:22.805Z",
+    "updatedAt": "2022-05-16T15:38:47.000Z",
+    "checkedAt": "2022-05-16T15:38:47.000Z",
+    "id": 71205,
     "type": "manga",
     "title": "AKB48 Satsujin Jiken",
-    "url": "https://myanimelist.net/manga/41205/AKB48_Satsujin_Jiken",
-    "image": "https://cdn.myanimelist.net/images/manga/3/129451.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:09.000Z",
-    "updatedAt": "2021-11-06T11:04:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "AKB48殺人事件",
       "Detective AKB48",
       "AKB48 Murder Case"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gosho Aoyama",
-      "Masaki Gotou"
-    ],
-    "id": 71205,
-    "malId": 41205,
-    "type": "manga",
-    "title": "AKB48 Satsujin Jiken",
     "url": "https://anilist.co/manga/71205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41205.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:47.000Z",
-    "updatedAt": "2021-12-17T20:24:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41205/AKB48_Satsujin_Jiken"
+    "externalLinks": [],
+    "malId": 41205,
+    "deletedAt": null,
+    "authors": [
+      "Gosho Aoyama",
+      "Masaki Gotou"
+    ]
+  }
 }

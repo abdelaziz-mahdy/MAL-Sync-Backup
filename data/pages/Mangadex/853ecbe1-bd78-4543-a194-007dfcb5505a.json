@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tani Kikuhide",
-    "Kuroiwa Yoshihiro"
-  ],
+  "createdAt": "2020-10-12T16:05:38.000Z",
+  "updatedAt": "2021-12-03T14:19:19.000Z",
+  "checkedAt": null,
+  "id": 6794,
   "identifier": "853ecbe1-bd78-4543-a194-007dfcb5505a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5625,
   "aniId": 35625,
-  "createdAt": "2020-10-12T16:05:38.000Z",
-  "updatedAt": "2021-12-03T14:19:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tani Kikuhide",
+    "Kuroiwa Yoshihiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:06.000Z",
+    "updatedAt": "2022-05-17T10:07:38.000Z",
+    "checkedAt": "2022-05-17T10:07:38.000Z",
+    "id": 5625,
+    "type": "manga",
+    "title": "Kishin Douji Zenki",
+    "altTitle": [
+      "Demon Prince Zenki",
+      "鬼神童子ZENKI"
+    ],
+    "url": "https://myanimelist.net/manga/5625/Kishin_Douji_Zenki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/7192.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Demon Prince Zenki",
-      "鬼神童子ZENKI"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tani, Kikuhide",
       "Kuroiwa, Yoshihiro"
-    ],
-    "id": 5625,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:48.525Z",
+    "updatedAt": "2022-05-17T10:07:37.000Z",
+    "checkedAt": "2022-05-17T10:07:37.000Z",
+    "id": 35625,
     "type": "manga",
     "title": "Kishin Douji Zenki",
-    "url": "https://myanimelist.net/manga/5625/Kishin_Douji_Zenki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/7192.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:06.000Z",
-    "updatedAt": "2022-04-29T10:30:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Zenki",
       "鬼神童子ＺＥＮＫＩ",
       "Demon Prince Zenki",
       "Kishin Dōji Zenki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kikuhide Tani",
-      "Yoshihiro Kuroiwa"
-    ],
-    "id": 35625,
-    "malId": 5625,
-    "type": "manga",
-    "title": "Kishin Douji Zenki",
     "url": "https://anilist.co/manga/35625",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35625-3wEIWoxZ7QpM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:32.000Z",
-    "updatedAt": "2021-12-17T12:36:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5625/Kishin_Douji_Zenki"
+    "externalLinks": [],
+    "malId": 5625,
+    "deletedAt": null,
+    "authors": [
+      "Kikuhide Tani",
+      "Yoshihiro Kuroiwa"
+    ]
+  }
 }

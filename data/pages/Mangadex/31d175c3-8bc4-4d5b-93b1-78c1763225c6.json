@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nagai Go",
-    "Ishikawa Ken"
-  ],
+  "createdAt": "2020-10-12T16:09:13.000Z",
+  "updatedAt": "2021-12-04T16:24:13.000Z",
+  "checkedAt": null,
+  "id": 14517,
   "identifier": "31d175c3-8bc4-4d5b-93b1-78c1763225c6",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7756,
   "aniId": 37756,
-  "createdAt": "2020-10-12T16:09:13.000Z",
-  "updatedAt": "2021-12-04T16:24:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Go",
+    "Ishikawa Ken"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:16.000Z",
+    "updatedAt": "2022-04-30T03:00:43.000Z",
+    "checkedAt": null,
+    "id": 7756,
+    "type": "manga",
+    "title": "Abashiri Ikka",
+    "altTitle": [
+      "The Abashiri Family",
+      "あばしり一家"
+    ],
+    "url": "https://myanimelist.net/manga/7756/Abashiri_Ikka",
+    "image": "https://cdn.myanimelist.net/images/manga/4/176261.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Abashiri Family",
-      "あばしり一家"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagai, Go"
-    ],
-    "id": 7756,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:43.592Z",
+    "updatedAt": "2022-05-13T12:54:43.592Z",
+    "checkedAt": null,
+    "id": 37756,
     "type": "manga",
     "title": "Abashiri Ikka",
-    "url": "https://myanimelist.net/manga/7756/Abashiri_Ikka",
-    "image": "https://cdn.myanimelist.net/images/manga/4/176261.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:16.000Z",
-    "updatedAt": "2022-04-30T03:00:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あばしり一家"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Nagai"
-    ],
-    "id": 37756,
-    "malId": 7756,
-    "type": "manga",
-    "title": "Abashiri Ikka",
     "url": "https://anilist.co/manga/37756",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37756-JrPGiFMVmuHp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:55.000Z",
-    "updatedAt": "2021-12-15T09:48:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7756/Abashiri_Ikka"
+    "externalLinks": [],
+    "malId": 7756,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai"
+    ]
+  }
 }

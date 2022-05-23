@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Poncocchan"
-  ],
+  "createdAt": "2020-11-29T12:52:16.000Z",
+  "updatedAt": "2022-05-16T06:15:56.000Z",
+  "checkedAt": "2022-05-15T21:01:12.000Z",
+  "id": 53194,
   "identifier": "990f7a2e-122b-4742-b4b8-40d2e0ae19c0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,58 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2020-11-29T12:52:16.000Z",
-  "updatedAt": "2021-12-08T08:07:20.000Z",
+  "actorId": 1,
+  "malId": 137798,
+  "aniId": 131211,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Poncocchan"
+  ],
+  "Mal": {
+    "createdAt": "2022-05-15T21:01:02.828Z",
+    "updatedAt": "2022-05-15T21:01:02.828Z",
+    "checkedAt": "2022-05-15T21:01:02.000Z",
+    "id": 137798,
+    "type": "manga",
+    "title": "Nodohame",
+    "altTitle": [
+      "Imouto Swappi",
+      "Zoku Dutch",
+      "Mekakushi",
+      "Candy☆Lesson",
+      "Kagi wo Aketara",
+      "ノドハメ"
+    ],
+    "url": "https://myanimelist.net/manga/137798/Nodohame",
+    "image": "https://cdn.myanimelist.net/images/manga/2/246694.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ponkocchan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:03.080Z",
+    "updatedAt": "2022-05-15T21:01:23.000Z",
+    "checkedAt": "2022-05-15T21:01:23.000Z",
+    "id": 131211,
+    "type": "manga",
+    "title": "Nodohame",
+    "altTitle": [
+      "ノドハメ"
+    ],
+    "url": "https://anilist.co/manga/131211",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131211-xy7rVzqKrymM.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 137798,
+    "deletedAt": null,
+    "authors": [
+      "Ponkocchan"
+    ]
+  }
 }

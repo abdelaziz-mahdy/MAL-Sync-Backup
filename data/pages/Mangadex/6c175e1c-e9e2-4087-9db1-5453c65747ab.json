@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ito Ikuko",
-    "Shinonome Mizuo"
-  ],
+  "createdAt": "2020-10-12T16:04:55.000Z",
+  "updatedAt": "2021-12-03T00:48:48.000Z",
+  "checkedAt": null,
+  "id": 5309,
   "identifier": "6c175e1c-e9e2-4087-9db1-5453c65747ab",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1581,
   "aniId": 31581,
-  "createdAt": "2020-10-12T16:04:55.000Z",
-  "updatedAt": "2021-12-03T00:48:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ito Ikuko",
+    "Shinonome Mizuo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:35.000Z",
+    "updatedAt": "2022-05-15T17:36:55.000Z",
+    "checkedAt": "2022-05-15T17:36:55.000Z",
+    "id": 1581,
+    "type": "manga",
+    "title": "Princess Tutu",
+    "altTitle": [
+      "Princess Tutu",
+      "プリンセスチュチュ"
+    ],
+    "url": "https://myanimelist.net/manga/1581/Princess_Tutu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/211192.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Princess Tutu",
-      "プリンセスチュチュ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinonome, Mizuo",
       "Satou, Junichi",
       "Itou, Ikuko"
-    ],
-    "id": 1581,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:53.372Z",
+    "updatedAt": "2022-05-15T20:16:35.000Z",
+    "checkedAt": "2022-05-15T20:16:35.000Z",
+    "id": 31581,
     "type": "manga",
     "title": "Princess Tutu",
-    "url": "https://myanimelist.net/manga/1581/Princess_Tutu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/211192.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:35.000Z",
-    "updatedAt": "2021-12-21T17:21:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Princess Tutu",
       "プリンセスチュチュ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mizuo Shinonome",
-      "Junichi Satou"
-    ],
-    "id": 31581,
-    "malId": 1581,
-    "type": "manga",
-    "title": "Princess Tutu",
     "url": "https://anilist.co/manga/31581",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1581-wyKxLcmcIwry.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:47.000Z",
-    "updatedAt": "2021-12-17T10:10:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1581/Princess_Tutu"
+    "externalLinks": [],
+    "malId": 1581,
+    "deletedAt": null,
+    "authors": [
+      "Mizuo Shinonome",
+      "Junichi Satou"
+    ]
+  }
 }

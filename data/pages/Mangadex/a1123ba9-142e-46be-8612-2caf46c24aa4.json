@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Murasakino"
-  ],
+  "createdAt": "2020-10-12T16:20:41.000Z",
+  "updatedAt": "2022-01-21T15:50:18.000Z",
+  "checkedAt": null,
+  "id": 37723,
   "identifier": "a1123ba9-142e-46be-8612-2caf46c24aa4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 134480,
-  "createdAt": "2020-10-12T16:20:41.000Z",
-  "updatedAt": "2022-01-21T15:50:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murasakino"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:52.873Z",
+    "updatedAt": "2022-05-16T04:21:46.000Z",
+    "checkedAt": "2022-05-16T04:21:46.000Z",
+    "id": 134480,
+    "type": "manga",
+    "title": "Watashi no Angela",
     "altTitle": [
       "わたしのアンジェラ",
       "You Are My Angela"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinoa"
-    ],
-    "id": 134480,
-    "malId": null,
-    "type": "manga",
-    "title": "Watashi no Angela",
     "url": "https://anilist.co/manga/134480",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134480-egt9vSvZN32t.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T18:38:17.000Z",
-    "updatedAt": "2022-01-21T12:30:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Shinoa"
+    ]
+  }
 }

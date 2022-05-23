@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ueda Rinko"
-  ],
+  "createdAt": "2020-10-12T16:08:02.000Z",
+  "updatedAt": "2021-12-04T07:21:29.000Z",
+  "checkedAt": null,
+  "id": 11888,
   "identifier": "258d2434-5eba-459e-828a-4f1d04b19d2b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88408,
   "aniId": 94671,
-  "createdAt": "2020-10-12T16:08:02.000Z",
-  "updatedAt": "2021-12-04T07:21:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ueda Rinko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:57.000Z",
+    "updatedAt": "2021-11-13T07:44:28.000Z",
+    "checkedAt": null,
+    "id": 88408,
+    "type": "manga",
+    "title": "Maria no Shiro",
+    "altTitle": [
+      "Maria's Castle",
+      "マリアの城"
+    ],
+    "url": "https://myanimelist.net/manga/88408/Maria_no_Shiro",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154278.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Maria's Castle",
-      "マリアの城"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueda, Rinko"
-    ],
-    "id": 88408,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:16.774Z",
+    "updatedAt": "2022-05-13T13:02:16.774Z",
+    "checkedAt": null,
+    "id": 94671,
     "type": "manga",
     "title": "Maria no Shiro",
-    "url": "https://myanimelist.net/manga/88408/Maria_no_Shiro",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154278.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:57.000Z",
-    "updatedAt": "2021-11-13T07:44:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マリアの城",
       "Maria's Castle"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rinko Ueda"
-    ],
-    "id": 94671,
-    "malId": 88408,
-    "type": "manga",
-    "title": "Maria no Shiro",
     "url": "https://anilist.co/manga/94671",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94671-psRmLeSFDvcI.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:54.000Z",
-    "updatedAt": "2021-12-18T01:03:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88408/Maria_no_Shiro"
+    "externalLinks": [],
+    "malId": 88408,
+    "deletedAt": null,
+    "authors": [
+      "Rinko Ueda"
+    ]
+  }
 }

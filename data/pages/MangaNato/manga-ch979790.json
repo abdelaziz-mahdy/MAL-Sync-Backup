@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Unknown",
-    "Bandai Namco"
-  ],
+  "createdAt": "2021-07-26T15:24:21.000Z",
+  "updatedAt": "2021-11-30T15:55:45.000Z",
+  "checkedAt": null,
+  "id": 83051,
   "identifier": "manga-ch979790",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 123353,
   "aniId": 108415,
-  "createdAt": "2021-07-26T15:24:21.000Z",
-  "updatedAt": "2021-11-30T15:55:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Unknown",
+    "Bandai Namco"
+  ],
   "Mal": {
+    "createdAt": "2020-12-10T19:16:52.000Z",
+    "updatedAt": "2021-11-30T15:54:46.000Z",
+    "checkedAt": null,
+    "id": 123353,
+    "type": "manga",
+    "title": "The iDOLM@STER: Shiny Colors",
+    "altTitle": [
+      "アイドルマスター シャイニーカラーズ"
+    ],
+    "url": "https://myanimelist.net/manga/123353/The_iDOLMSTER__Shiny_Colors",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235231.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アイドルマスター シャイニーカラーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinozaki, Akira"
-    ],
-    "id": 123353,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:00.743Z",
+    "updatedAt": "2022-05-13T12:55:00.743Z",
+    "checkedAt": null,
+    "id": 108415,
     "type": "manga",
     "title": "The iDOLM@STER: Shiny Colors",
-    "url": "https://myanimelist.net/manga/123353/The_iDOLMSTER__Shiny_Colors",
-    "image": "https://cdn.myanimelist.net/images/manga/1/235231.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-10T19:16:52.000Z",
-    "updatedAt": "2021-11-30T15:54:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アイドルマスター シャイニーカラーズ",
       "ShinyIM@S"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira  Shinozaki ",
-      "Bandai-Namco Entertainment"
-    ],
-    "id": 108415,
-    "malId": 123353,
-    "type": "manga",
-    "title": "The iDOLM@STER: Shiny Colors",
     "url": "https://anilist.co/manga/108415",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108415-Viasy2f2DsJA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-11-30T11:05:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123353/The_iDOLMSTER__Shiny_Colors"
+    "externalLinks": [],
+    "malId": 123353,
+    "deletedAt": null,
+    "authors": [
+      "Akira  Shinozaki ",
+      "Bandai-Namco Entertainment"
+    ]
+  }
 }

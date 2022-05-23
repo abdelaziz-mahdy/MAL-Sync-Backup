@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsukumizu"
-  ],
+  "createdAt": "2020-10-12T16:07:29.000Z",
+  "updatedAt": "2021-12-04T03:21:39.000Z",
+  "checkedAt": null,
+  "id": 10717,
   "identifier": "5b93fa0f-0640-49b8-974e-954b9959929b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72467,
   "aniId": 85412,
-  "createdAt": "2020-10-12T16:07:29.000Z",
-  "updatedAt": "2021-12-04T03:21:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsukumizu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-05-14T21:29:58.000Z",
+    "checkedAt": "2022-05-14T21:29:58.000Z",
+    "id": 72467,
+    "type": "manga",
+    "title": "Shoujo Shuumatsu Ryokou",
+    "altTitle": [
+      "The End Girl Trip",
+      "Girls' Last Tour",
+      "少女終末旅行"
+    ],
+    "url": "https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/185918.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The End Girl Trip",
-      "Girls' Last Tour",
-      "少女終末旅行"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsukumizu"
-    ],
-    "id": 72467,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:21.515Z",
+    "updatedAt": "2022-05-15T17:14:47.000Z",
+    "checkedAt": "2022-05-15T17:14:47.000Z",
+    "id": 85412,
     "type": "manga",
     "title": "Shoujo Shuumatsu Ryokou",
-    "url": "https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/185918.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-05-03T05:07:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Girls' Last Tour",
       "少女終末旅行",
@@ -52,23 +61,17 @@
       "GLT",
       "Последнее путешествие девочек"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsukumizu",
-      "Amanda Haley",
-      "Abigail Blackman"
-    ],
-    "id": 85412,
-    "malId": 72467,
-    "type": "manga",
-    "title": "Shoujo Shuumatsu Ryokou",
     "url": "https://anilist.co/manga/85412",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85412-3kJSfIV9pji2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2022-02-21T14:48:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou"
+    "externalLinks": [],
+    "malId": 72467,
+    "deletedAt": null,
+    "authors": [
+      "Tsukumizu",
+      "Amanda Haley",
+      "Abigail Blackman"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hironobu Katou"
-  ],
+  "createdAt": "2020-10-12T16:08:43.000Z",
+  "updatedAt": "2021-12-04T12:22:12.000Z",
+  "checkedAt": null,
+  "id": 13401,
   "identifier": "0f67364d-52c0-4ab8-be6c-a36730043f7f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92330,
   "aniId": 95831,
-  "createdAt": "2020-10-12T16:08:43.000Z",
-  "updatedAt": "2021-12-04T12:22:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hironobu Katou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2021-11-14T10:45:41.000Z",
+    "checkedAt": null,
+    "id": 92330,
+    "type": "manga",
+    "title": "Daikousha Nagi",
+    "altTitle": [
+      "Giant Warrior Nagi",
+      "大攻者ナギ"
+    ],
+    "url": "https://myanimelist.net/manga/92330/Daikousha_Nagi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/169101.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Giant Warrior Nagi",
-      "大攻者ナギ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hironobu, Katoh"
-    ],
-    "id": 92330,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:58.366Z",
+    "updatedAt": "2022-05-13T12:50:58.366Z",
+    "checkedAt": null,
+    "id": 95831,
     "type": "manga",
     "title": "Daikousha Nagi",
-    "url": "https://myanimelist.net/manga/92330/Daikousha_Nagi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/169101.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:09.000Z",
-    "updatedAt": "2021-11-14T10:45:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "大攻者ナギ",
       "Giant Warrior Nagi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Katoh Hironobu"
-    ],
-    "id": 95831,
-    "malId": 92330,
-    "type": "manga",
-    "title": "Daikousha Nagi",
     "url": "https://anilist.co/manga/95831",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95831-rApb2dezf7Jd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:38.000Z",
-    "updatedAt": "2021-12-18T01:28:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92330/Daikousha_Nagi"
+    "externalLinks": [],
+    "malId": 92330,
+    "deletedAt": null,
+    "authors": [
+      "Katoh Hironobu"
+    ]
+  }
 }

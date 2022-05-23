@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "UESHIBA Riichi"
-  ],
+  "createdAt": "2022-05-08T22:01:53.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T16:43:49.000Z",
+  "id": 103333,
   "identifier": "nazo_no_kanojo_x",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,63 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/39649/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T22:01:53.000Z",
-  "updatedAt": "2022-05-08T22:01:53.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 1926,
+  "aniId": 31926,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "UESHIBA Riichi"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:39.000Z",
+    "updatedAt": "2022-05-13T16:43:51.000Z",
+    "checkedAt": "2022-05-13T16:43:51.000Z",
+    "id": 1926,
+    "type": "manga",
+    "title": "Nazo no Kanojo X",
+    "altTitle": [
+      "Mysterious Girlfriend X",
+      "謎の彼女Ｘ"
+    ],
+    "url": "https://myanimelist.net/manga/1926/Nazo_no_Kanojo_X",
+    "image": "https://cdn.myanimelist.net/images/manga/3/50697.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/謎の彼女X"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ueshiba, Riichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:58.843Z",
+    "updatedAt": "2022-05-15T15:46:11.000Z",
+    "checkedAt": "2022-05-15T15:46:11.000Z",
+    "id": 31926,
+    "type": "manga",
+    "title": "Nazo no Kanojo X",
+    "altTitle": [
+      "Mysterious Girlfriend X",
+      "謎の彼女Ｘ",
+      "MGX",
+      "NazoKanoX"
+    ],
+    "url": "https://anilist.co/manga/31926",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31926-OIw9CUgaD2Hj.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1926,
+    "deletedAt": null,
+    "authors": [
+      "Riichi Ueshiba"
+    ]
+  }
 }

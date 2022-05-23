@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MTJJ"
-  ],
+  "createdAt": "2020-10-12T16:17:49.000Z",
+  "updatedAt": "2021-12-07T11:47:12.000Z",
+  "checkedAt": null,
+  "id": 31915,
   "identifier": "f2980126-6be7-4b5e-88a7-eb2038dfe247",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9541,
   "aniId": 39541,
-  "createdAt": "2020-10-12T16:17:49.000Z",
-  "updatedAt": "2021-12-07T11:47:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "MTJJ"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:24.000Z",
+    "updatedAt": "2022-05-17T02:12:48.000Z",
+    "checkedAt": "2022-05-17T02:12:48.000Z",
+    "id": 9541,
+    "type": "manga",
+    "title": "The Legend of Maian",
+    "altTitle": [
+      "Mayan Chronicles",
+      "마이언 전기"
+    ],
+    "url": "https://myanimelist.net/manga/9541/The_Legend_of_Maian",
+    "image": "https://cdn.myanimelist.net/images/manga/3/54967.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mayan Chronicles",
-      "마이언 전기"
-    ],
+    "deletedAt": null,
     "authors": [
       "Im, Dal Young",
       "Jeong, Soo Cheol"
-    ],
-    "id": 9541,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:05.284Z",
+    "updatedAt": "2022-05-17T02:12:47.000Z",
+    "checkedAt": "2022-05-17T02:12:47.000Z",
+    "id": 39541,
     "type": "manga",
     "title": "The Legend of Maian",
-    "url": "https://myanimelist.net/manga/9541/The_Legend_of_Maian",
-    "image": "https://cdn.myanimelist.net/images/manga/3/54967.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:24.000Z",
-    "updatedAt": "2022-02-24T17:47:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "마이언 전기",
       "Mayan Chronicles"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dal-Young Im",
-      "Soo Cheol Jeong"
-    ],
-    "id": 39541,
-    "malId": 9541,
-    "type": "manga",
-    "title": "The Legend of Maian",
     "url": "https://anilist.co/manga/39541",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx39541-4VN67gC8HKAr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:56.000Z",
-    "updatedAt": "2021-12-17T13:44:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9541/The_Legend_of_Maian"
+    "externalLinks": [],
+    "malId": 9541,
+    "deletedAt": null,
+    "authors": [
+      "Dal-Young Im",
+      "Soo Cheol Jeong"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:24.000Z",
+  "updatedAt": "2021-07-09T08:13:16.000Z",
+  "checkedAt": null,
+  "id": 1291,
   "identifier": "25rl",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 20707,
   "aniId": 102416,
-  "createdAt": "2020-10-12T15:49:24.000Z",
-  "updatedAt": "2021-07-09T08:13:16.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-16T09:14:24.000Z",
+    "checkedAt": "2022-05-16T09:14:24.000Z",
+    "id": 20707,
+    "type": "anime",
+    "title": "\"0\"",
+    "altTitle": [
+      "\"Zero\"",
+      "「0」"
+    ],
+    "url": "https://myanimelist.net/anime/20707/0",
+    "image": "https://cdn.myanimelist.net/images/anime/12/81160.jpg",
+    "category": "Music",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,38 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "「0」"
-    ],
-    "id": 20707,
+    "deletedAt": null,
+    "anidbId": 10143
+  },
+  "Ani": {
+    "createdAt": "2021-06-11T10:08:18.000Z",
+    "updatedAt": "2022-05-16T09:14:22.000Z",
+    "checkedAt": "2022-05-16T09:14:22.000Z",
+    "id": 102416,
     "type": "anime",
     "title": "\"0\"",
-    "url": "https://myanimelist.net/anime/20707/0",
-    "image": "https://cdn.myanimelist.net/images/anime/12/81160.jpg",
-    "category": "Music",
-    "hentai": false,
-    "anidbId": 10143,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-04-02T20:35:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "「0」",
       "Chiaki Kuriyama: 「0」"
     ],
-    "externalLinks": [],
-    "id": 102416,
-    "malId": 20707,
-    "type": "anime",
-    "title": "\"0\"",
     "url": "https://anilist.co/anime/102416",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102416-xe2lJ2ec8MSd.jpg",
     "category": "music",
     "hentai": false,
-    "createdAt": "2021-06-11T10:08:18.000Z",
-    "updatedAt": "2021-12-17T16:27:26.000Z",
+    "externalLinks": [],
+    "malId": 20707,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/20707/0"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Jyura"
-  ],
+  "createdAt": "2022-05-09T17:01:35.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T19:56:01.000Z",
+  "id": 103501,
   "identifier": "a91898b7-2952-406e-8fad-44009666a4e2",
   "type": "manga",
   "page": "Mangadex",
@@ -10,14 +11,56 @@
   "image": "https://uploads.mangadex.org/covers/a91898b7-2952-406e-8fad-44009666a4e2/260bfa5c-83b0-4e82-8c9e-be3fb3112fd9.jpg",
   "hentai": true,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T17:01:35.000Z",
-  "updatedAt": "2022-05-09T17:01:35.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 115721,
+  "aniId": 106734,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Jyura"
+  ],
+  "Mal": {
+    "createdAt": "2022-05-13T19:56:06.312Z",
+    "updatedAt": "2022-05-13T19:56:06.312Z",
+    "checkedAt": "2022-05-13T19:56:06.000Z",
+    "id": 115721,
+    "type": "manga",
+    "title": "Tomodachi no Onna",
+    "altTitle": [
+      "My 'Best' Friend's Mother",
+      "友達の義母"
+    ],
+    "url": "https://myanimelist.net/manga/115721/Tomodachi_no_Onna",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239861.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jyura"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:04.481Z",
+    "updatedAt": "2022-05-13T13:05:04.481Z",
+    "checkedAt": null,
+    "id": 106734,
+    "type": "manga",
+    "title": "Tomodachi no Onna",
+    "altTitle": [
+      "友達の義母",
+      " My 'Best' Friend's Mother"
+    ],
+    "url": "https://anilist.co/manga/106734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106734-Gc6DYcdxr5bo.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 115721,
+    "deletedAt": null,
+    "authors": [
+      "Jyura"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Murasaki Yukiya",
-    "Mizoguchi Keiji",
-    "Kamelie"
-  ],
+  "createdAt": "2020-10-12T16:13:02.000Z",
+  "updatedAt": "2021-12-05T19:17:58.000Z",
+  "checkedAt": null,
+  "id": 22066,
   "identifier": "77fe723a-5b06-4362-8e6b-3a9e5a7b26bd",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111265,
   "aniId": 107366,
-  "createdAt": "2020-10-12T16:13:02.000Z",
-  "updatedAt": "2021-12-05T19:17:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murasaki Yukiya",
+    "Mizoguchi Keiji",
+    "Kamelie"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:22.000Z",
+    "updatedAt": "2022-05-23T09:52:59.000Z",
+    "checkedAt": "2022-05-23T09:52:59.000Z",
+    "id": 111265,
+    "type": "manga",
+    "title": "14-sai to Illustrator",
+    "altTitle": [
+      "A fourteen and an illustrator.",
+      "14歳とイラストレーター"
+    ],
+    "url": "https://myanimelist.net/manga/111265/14-sai_to_Illustrator",
+    "image": "https://cdn.myanimelist.net/images/manga/1/215048.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,46 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A fourteen and an illustrator.",
-      "14歳とイラストレーター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murasaki, Yukiya",
       "Kamelie"
-    ],
-    "id": 111265,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:46.167Z",
+    "updatedAt": "2022-05-23T09:52:57.000Z",
+    "checkedAt": "2022-05-23T09:52:57.000Z",
+    "id": 107366,
     "type": "manga",
     "title": "14-sai to Illustrator",
-    "url": "https://myanimelist.net/manga/111265/14-sai_to_Illustrator",
-    "image": "https://cdn.myanimelist.net/images/manga/1/215048.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2021-12-05T19:17:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "14歳とイラストレーター"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukiya Murasaki",
-      "Kamelie",
-      "Keiji Mizoguchi"
-    ],
-    "id": 107366,
-    "malId": 111265,
-    "type": "manga",
-    "title": "14-sai to Illustrator",
     "url": "https://anilist.co/manga/107366",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107366-tl7PSFEnUWGc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:20.000Z",
-    "updatedAt": "2021-12-18T05:52:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111265/14-sai_to_Illustrator"
+    "externalLinks": [],
+    "malId": 111265,
+    "deletedAt": null,
+    "authors": [
+      "Yukiya Murasaki",
+      "Kamelie",
+      "Keiji Mizoguchi"
+    ]
+  }
 }

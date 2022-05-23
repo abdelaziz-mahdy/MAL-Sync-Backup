@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Banjo Azusa"
-  ],
+  "createdAt": "2020-10-12T16:14:11.000Z",
+  "updatedAt": "2022-01-07T16:18:04.000Z",
+  "checkedAt": null,
+  "id": 24415,
   "identifier": "3bcc56f0-1b71-4542-b7b1-74db4fab2d72",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125746,
   "aniId": 114898,
-  "createdAt": "2020-10-12T16:14:11.000Z",
-  "updatedAt": "2022-01-07T16:18:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Banjo Azusa"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://comic.pixiv.net/works/6403"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:21.000Z",
+    "updatedAt": "2022-05-14T19:57:41.000Z",
+    "checkedAt": "2022-05-14T19:57:41.000Z",
+    "id": 125746,
+    "type": "manga",
+    "title": "Koisuru (Otome) no Tsukurikata",
     "altTitle": [
       "How to Make a \"Girl\" Fall in Love",
       "Osananajimi (♂) wo Onnanoko ni Shiteshimatta Hanashi",
@@ -33,21 +34,29 @@
       "I Think I Turned My Childhood Friend Into a Girl",
       "恋する（おとめ）の作り方"
     ],
-    "authors": [
-      "Banjou, Azusa"
-    ],
-    "id": 125746,
-    "type": "manga",
-    "title": "Koisuru (Otome) no Tsukurikata",
     "url": "https://myanimelist.net/manga/125746/Koisuru_Otome_no_Tsukurikata",
     "image": "https://cdn.myanimelist.net/images/manga/2/234259.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:21.000Z",
-    "updatedAt": "2022-01-04T00:48:24.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/6403"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Banjou, Azusa"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:34.821Z",
+    "updatedAt": "2022-05-15T22:02:23.000Z",
+    "checkedAt": "2022-05-15T22:02:23.000Z",
+    "id": 114898,
+    "type": "manga",
+    "title": "Koisuru (Otome) no Tsukurikata",
     "altTitle": [
       "I Think I Turned My Childhood Friend Into a Girl",
       "恋する（おとめ）の作り方",
@@ -58,21 +67,15 @@
       "How to Make (a otome) in Love",
       "เมคอัปรักเสกนายให้สวยปิ๊ง"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Azusa Banjou"
-    ],
-    "id": 114898,
-    "malId": 125746,
-    "type": "manga",
-    "title": "Koisuru (Otome) no Tsukurikata",
     "url": "https://anilist.co/manga/114898",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114898-quAtt09RdK2J.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:12.000Z",
-    "updatedAt": "2022-02-02T10:20:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125746/Koisuru_Otome_no_Tsukurikata"
+    "externalLinks": [],
+    "malId": 125746,
+    "deletedAt": null,
+    "authors": [
+      "Azusa Banjou"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Harada Masafumi",
-    "Park Sung-Woo",
-    "Jang Sung-Rak (REDICE Studio)"
-  ],
+  "createdAt": "2020-10-12T16:07:44.000Z",
+  "updatedAt": "2021-12-04T09:19:21.000Z",
+  "checkedAt": null,
+  "id": 11258,
   "identifier": "80e056a2-f921-442c-a0ad-a7faa41b6721",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64217,
   "aniId": 85537,
-  "createdAt": "2020-10-12T16:07:44.000Z",
-  "updatedAt": "2021-12-04T09:19:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harada Masafumi",
+    "Park Sung-Woo",
+    "Jang Sung-Rak (REDICE Studio)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2022-05-22T16:28:38.000Z",
+    "checkedAt": "2022-05-22T16:28:38.000Z",
+    "id": 64217,
+    "type": "manga",
+    "title": "Space☆Dandy",
+    "altTitle": [
+      "Space Dandy",
+      "スペース☆ダンディ"
+    ],
+    "url": "https://myanimelist.net/manga/64217/Space☆Dandy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/129627.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,32 +43,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Space Dandy",
-      "スペース☆ダンディ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Park, Sung-Woo",
       "Harada, Masafumi",
       "REDICE"
-    ],
-    "id": 64217,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:01.605Z",
+    "updatedAt": "2022-05-22T16:28:37.000Z",
+    "checkedAt": "2022-05-22T16:28:37.000Z",
+    "id": 85537,
     "type": "manga",
     "title": "Space☆Dandy",
-    "url": "https://myanimelist.net/manga/64217/Space☆Dandy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/129627.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2021-12-04T05:49:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スペース☆ダンディ",
       "Space Dandy"
     ],
+    "url": "https://anilist.co/manga/85537",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85537-dd9PCzYk3o3h.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 64217,
+    "deletedAt": null,
     "authors": [
       "Sung-Woo Park",
       "Masafumi Harada",
@@ -61,18 +76,6 @@
       "Shinichirou Watanabe",
       "Christine Dashiell",
       "Anthony Quintessenza"
-    ],
-    "id": 85537,
-    "malId": 64217,
-    "type": "manga",
-    "title": "Space☆Dandy",
-    "url": "https://anilist.co/manga/85537",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85537-dd9PCzYk3o3h.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T05:21:33.000Z",
-    "updatedAt": "2021-12-17T22:02:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64217/Space☆Dandy"
+    ]
+  }
 }

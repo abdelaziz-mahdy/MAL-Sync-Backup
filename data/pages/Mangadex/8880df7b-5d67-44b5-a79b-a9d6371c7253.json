@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sound Horizon",
-    "Soga Shina"
-  ],
+  "createdAt": "2020-10-12T16:09:03.000Z",
+  "updatedAt": "2021-12-04T14:56:11.000Z",
+  "checkedAt": null,
+  "id": 14156,
   "identifier": "8880df7b-5d67-44b5-a79b-a9d6371c7253",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88706,
   "aniId": 94759,
-  "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-12-04T14:56:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sound Horizon",
+    "Soga Shina"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://shonen-sirius.com/sr/ky-marchen"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2021-12-14T20:19:37.000Z",
+    "checkedAt": null,
+    "id": 88706,
+    "type": "manga",
+    "title": "Kyuuyaku Märchen",
     "altTitle": [
       "Old Testament Marchen",
       "7th Story",
@@ -33,21 +34,29 @@
       "Kyuuyaku Marchen",
       "旧約Märchen"
     ],
-    "authors": [
-      "Soga, Shina"
-    ],
-    "id": 88706,
-    "type": "manga",
-    "title": "Kyuuyaku Märchen",
     "url": "https://myanimelist.net/manga/88706/Kyuuyaku_Märchen",
     "image": "https://cdn.myanimelist.net/images/manga/2/180310.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:58.000Z",
-    "updatedAt": "2021-12-14T20:19:37.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shonen-sirius.com/sr/ky-marchen"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Soga, Shina"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:35.857Z",
+    "updatedAt": "2022-05-13T12:44:35.857Z",
+    "checkedAt": null,
+    "id": 94759,
+    "type": "manga",
+    "title": "Kyuuyaku Märchen",
     "altTitle": [
       "旧約Märchen",
       "Old Testament Marchen",
@@ -55,22 +64,16 @@
       "Seventh Story Märchen",
       "Kyuuyaku Marchen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sound Horizon",
-      "Shina Soga"
-    ],
-    "id": 94759,
-    "malId": 88706,
-    "type": "manga",
-    "title": "Kyuuyaku Märchen",
     "url": "https://anilist.co/manga/94759",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94759-oazhjF8vhGZp.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:55.000Z",
-    "updatedAt": "2021-12-18T01:19:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88706/Kyuuyaku_Märchen"
+    "externalLinks": [],
+    "malId": 88706,
+    "deletedAt": null,
+    "authors": [
+      "Sound Horizon",
+      "Shina Soga"
+    ]
+  }
 }

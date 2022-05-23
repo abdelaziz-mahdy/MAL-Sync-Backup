@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuchii"
-  ],
+  "createdAt": "2020-10-12T16:14:09.000Z",
+  "updatedAt": "2021-12-06T03:18:29.000Z",
+  "checkedAt": null,
+  "id": 24328,
   "identifier": "d52a2ce5-5ea1-4bef-9a0e-58519caaecd8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115616,
   "aniId": 104971,
-  "createdAt": "2020-10-12T16:14:09.000Z",
-  "updatedAt": "2021-12-06T03:18:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsuchii"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-05-23T14:46:15.000Z",
+    "checkedAt": "2022-05-23T14:46:15.000Z",
+    "id": 115616,
+    "type": "manga",
+    "title": "Azur Lane: Queen's Orders",
+    "altTitle": [
+      "アズールレーン Queen's Orders"
+    ],
+    "url": "https://myanimelist.net/manga/115616/Azur_Lane__Queens_Orders",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220961.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アズールレーン Queen's Orders"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuchii"
-    ],
-    "id": 115616,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:44.555Z",
+    "updatedAt": "2022-05-23T14:46:14.000Z",
+    "checkedAt": "2022-05-23T14:46:14.000Z",
+    "id": 104971,
     "type": "manga",
     "title": "Azur Lane: Queen's Orders",
-    "url": "https://myanimelist.net/manga/115616/Azur_Lane__Queens_Orders",
-    "image": "https://cdn.myanimelist.net/images/manga/1/220961.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-03-28T16:24:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アズールレーン Queen’s Orders",
       "Azur Lane Queen's Orders  "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuchii"
-    ],
-    "id": 104971,
-    "malId": 115616,
-    "type": "manga",
-    "title": "Azur Lane: Queen's Orders",
     "url": "https://anilist.co/manga/104971",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104971-PdcjKE6qCGYK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-18T04:57:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115616/Azur_Lane__Queens_Orders"
+    "externalLinks": [],
+    "malId": 115616,
+    "deletedAt": null,
+    "authors": [
+      "Tsuchii"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yokoyama Masahiko",
-    "Ooshiba Ken"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:47:57.000Z",
+  "checkedAt": null,
+  "id": 630,
   "identifier": "98020b17-39ac-4831-80cc-61b5ede291fc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16604,
   "aniId": 46604,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:47:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yokoyama Masahiko",
+    "Ooshiba Ken"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:22.000Z",
+    "updatedAt": "2022-05-02T08:31:17.000Z",
+    "checkedAt": null,
+    "id": 16604,
+    "type": "manga",
+    "title": "Tiji-kun!",
     "altTitle": [
       "Tijikun",
       "Teiji-kun!",
@@ -28,22 +34,25 @@
       "Tijikun!",
       "ティジクン！"
     ],
-    "authors": [
-      "Yokoyama, Masahiko",
-      "Oojiba, Ken"
-    ],
-    "id": 16604,
-    "type": "manga",
-    "title": "Tiji-kun!",
     "url": "https://myanimelist.net/manga/16604/Tiji-kun",
     "image": "https://cdn.myanimelist.net/images/manga/2/31595.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:22.000Z",
-    "updatedAt": "2022-05-02T08:31:17.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yokoyama, Masahiko",
+      "Oojiba, Ken"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:53.239Z",
+    "updatedAt": "2022-05-13T12:41:53.239Z",
+    "checkedAt": null,
+    "id": 46604,
+    "type": "manga",
+    "title": "Tiji-kun!",
     "altTitle": [
       "ティジクン！",
       "Tijikun",
@@ -51,22 +60,16 @@
       "Teijikun!",
       "Tijikun!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masahiko Yokoyama",
-      "Ken Ooshiba"
-    ],
-    "id": 46604,
-    "malId": 16604,
-    "type": "manga",
-    "title": "Tiji-kun!",
     "url": "https://anilist.co/manga/46604",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16604.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2021-12-17T16:11:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16604/Tiji-kun"
+    "externalLinks": [],
+    "malId": 16604,
+    "deletedAt": null,
+    "authors": [
+      "Masahiko Yokoyama",
+      "Ken Ooshiba"
+    ]
+  }
 }

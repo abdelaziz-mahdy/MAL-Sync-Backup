@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NAKAMURA Shungiku"
-  ],
+  "createdAt": "2022-04-15T21:32:12.000Z",
+  "updatedAt": "2022-04-15T22:00:26.000Z",
+  "checkedAt": null,
+  "id": 101541,
   "identifier": "root_wpb",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59,
   "aniId": 30059,
-  "createdAt": "2022-04-15T21:32:12.000Z",
-  "updatedAt": "2022-04-15T22:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "NAKAMURA Shungiku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-04-15T21:32:21.000Z",
+    "checkedAt": null,
+    "id": 59,
+    "type": "manga",
+    "title": "√W.P.B.",
+    "altTitle": [
+      "Root W.P.B.",
+      "Root WPB",
+      "√W.P.B."
+    ],
+    "url": "https://myanimelist.net/manga/59/√WPB",
+    "image": "https://cdn.myanimelist.net/images/manga/2/169856.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Root W.P.B.",
-      "Root WPB",
-      "√W.P.B."
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakamura, Shungiku"
-    ],
-    "id": 59,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:11.719Z",
+    "updatedAt": "2022-05-13T12:53:11.719Z",
+    "checkedAt": null,
+    "id": 30059,
     "type": "manga",
     "title": "√W.P.B.",
-    "url": "https://myanimelist.net/manga/59/√WPB",
-    "image": "https://cdn.myanimelist.net/images/manga/2/169856.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-15T21:32:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ルートＷ．Ｐ．Ｂ．",
       "Root W.P.B.",
       "Root WPB"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shungiku Nakamura"
-    ],
-    "id": 30059,
-    "malId": 59,
-    "type": "manga",
-    "title": "√W.P.B.",
     "url": "https://anilist.co/manga/30059",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30059-gfNBnF4AQ8sJ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:32:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59/√WPB"
+    "externalLinks": [],
+    "malId": 59,
+    "deletedAt": null,
+    "authors": [
+      "Shungiku Nakamura"
+    ]
+  }
 }

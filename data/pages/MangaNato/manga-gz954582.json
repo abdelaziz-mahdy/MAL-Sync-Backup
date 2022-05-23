@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Monkey Punch"
-  ],
+  "createdAt": "2021-08-27T16:37:37.000Z",
+  "updatedAt": "2022-02-27T17:17:41.000Z",
+  "checkedAt": null,
+  "id": 86330,
   "identifier": "manga-gz954582",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 438,
   "aniId": 30438,
-  "createdAt": "2021-08-27T16:37:37.000Z",
-  "updatedAt": "2022-02-27T17:17:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Monkey Punch"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-15T07:03:20.000Z",
+    "checkedAt": "2022-05-15T07:03:20.000Z",
+    "id": 438,
+    "type": "manga",
+    "title": "Lupin III",
+    "altTitle": [
+      "Lupin Sansei",
+      "Lupin the 3rd",
+      "ルパン三世"
+    ],
+    "url": "https://myanimelist.net/manga/438/Lupin_III",
+    "image": "https://cdn.myanimelist.net/images/manga/4/162889.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lupin Sansei",
-      "Lupin the 3rd",
-      "ルパン三世"
-    ],
+    "deletedAt": null,
     "authors": [
       "Monkey Punch"
-    ],
-    "id": 438,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:22.204Z",
+    "updatedAt": "2022-05-15T20:40:23.000Z",
+    "checkedAt": "2022-05-15T20:40:23.000Z",
+    "id": 30438,
     "type": "manga",
     "title": "Lupin III",
-    "url": "https://myanimelist.net/manga/438/Lupin_III",
-    "image": "https://cdn.myanimelist.net/images/manga/4/162889.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-04-06T18:01:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lupin the 3rd",
       "ルパン三世",
       "Lupin III New Adventures",
       "Lupin Sansei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Monkey Punch",
-      "Maurice Leblanc"
-    ],
-    "id": 30438,
-    "malId": 438,
-    "type": "manga",
-    "title": "Lupin III",
     "url": "https://anilist.co/manga/30438",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30438-DC5EbNFjtVUr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2022-04-14T03:00:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/438/Lupin_III"
+    "externalLinks": [],
+    "malId": 438,
+    "deletedAt": null,
+    "authors": [
+      "Monkey Punch",
+      "Maurice Leblanc"
+    ]
+  }
 }

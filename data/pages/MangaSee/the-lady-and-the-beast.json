@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hongseul",
-    "The Maginot LIne"
-  ],
+  "createdAt": "2021-01-06T15:07:24.000Z",
+  "updatedAt": "2021-12-21T21:21:46.000Z",
+  "checkedAt": null,
+  "id": 57518,
   "identifier": "the-lady-and-the-beast",
   "type": "manga",
   "page": "MangaSee",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123995,
-  "createdAt": "2021-01-06T15:07:24.000Z",
-  "updatedAt": "2021-12-21T21:21:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hongseul",
+    "The Maginot LIne"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:39.131Z",
+    "updatedAt": "2022-05-15T18:05:23.000Z",
+    "checkedAt": "2022-05-15T18:05:23.000Z",
+    "id": 123995,
+    "type": "manga",
+    "title": "Geunyowa Yasu",
     "altTitle": [
       "The Lady and the Beast",
       "그녀와 야수",
@@ -30,22 +38,16 @@
       "Kız ve Canavar",
       "她与野兽"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maginot Seon",
-      "Seul Hong"
-    ],
-    "id": 123995,
-    "malId": null,
-    "type": "manga",
-    "title": "Geunyowa Yasu",
     "url": "https://anilist.co/manga/123995",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123995-9OVJ0vQdnOld.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T02:12:57.000Z",
-    "updatedAt": "2022-04-19T13:33:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Maginot Seon",
+      "Seul Hong"
+    ]
+  }
 }

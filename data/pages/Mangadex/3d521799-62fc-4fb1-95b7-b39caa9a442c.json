@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shiro"
-  ],
+  "createdAt": "2020-10-12T16:09:35.000Z",
+  "updatedAt": "2021-12-04T18:53:38.000Z",
+  "checkedAt": null,
+  "id": 15304,
   "identifier": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41049,
   "aniId": 71049,
-  "createdAt": "2020-10-12T16:09:35.000Z",
-  "updatedAt": "2021-12-04T18:53:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:08.000Z",
+    "updatedAt": "2022-05-17T01:03:34.000Z",
+    "checkedAt": "2022-05-17T01:03:34.000Z",
+    "id": 41049,
+    "type": "manga",
+    "title": "Yama no Susume",
+    "altTitle": [
+      "Encouragement of climb.",
+      "ヤマノススメ"
+    ],
+    "url": "https://myanimelist.net/manga/41049/Yama_no_Susume",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171537.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Encouragement of climb.",
-      "ヤマノススメ"
-    ],
+    "deletedAt": null,
     "authors": [
       "siro"
-    ],
-    "id": 41049,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:53.252Z",
+    "updatedAt": "2022-05-17T01:03:33.000Z",
+    "checkedAt": "2022-05-17T01:03:33.000Z",
+    "id": 71049,
     "type": "manga",
     "title": "Yama no Susume",
-    "url": "https://myanimelist.net/manga/41049/Yama_no_Susume",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171537.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:08.000Z",
-    "updatedAt": "2022-03-28T15:53:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヤマノススメ",
       "Encouragement of Climb",
       "Siro's Encouragement of Climb"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Siro"
-    ],
-    "id": 71049,
-    "malId": 41049,
-    "type": "manga",
-    "title": "Yama no Susume",
     "url": "https://anilist.co/manga/71049",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71049-FrpQWq0U8QZP.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:47.000Z",
-    "updatedAt": "2021-11-21T12:42:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41049/Yama_no_Susume"
+    "externalLinks": [],
+    "malId": 41049,
+    "deletedAt": null,
+    "authors": [
+      "Siro"
+    ]
+  }
 }

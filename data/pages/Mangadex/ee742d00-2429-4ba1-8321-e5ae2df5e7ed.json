@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Makura Shou",
-    "Okano Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:09:42.000Z",
+  "updatedAt": "2021-12-04T19:49:52.000Z",
+  "checkedAt": null,
+  "id": 15518,
   "identifier": "ee742d00-2429-4ba1-8321-e5ae2df5e7ed",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69963,
   "aniId": 91092,
-  "createdAt": "2020-10-12T16:09:42.000Z",
-  "updatedAt": "2021-12-04T19:49:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Makura Shou",
+    "Okano Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:16.000Z",
+    "updatedAt": "2021-11-10T06:13:35.000Z",
+    "checkedAt": null,
+    "id": 69963,
+    "type": "manga",
+    "title": "Jigoku Sensei Nube Neo",
+    "altTitle": [
+      "Hell Teacher Nube Neo",
+      "地獄先生ぬ～べ～NEO"
+    ],
+    "url": "https://myanimelist.net/manga/69963/Jigoku_Sensei_Nube_Neo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/139909.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hell Teacher Nube Neo",
-      "地獄先生ぬ～べ～NEO"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okano, Takeshi",
       "Makura, Shou"
-    ],
-    "id": 69963,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:43.376Z",
+    "updatedAt": "2022-05-13T13:02:43.376Z",
+    "checkedAt": null,
+    "id": 91092,
     "type": "manga",
     "title": "Jigoku Sensei Nube Neo",
-    "url": "https://myanimelist.net/manga/69963/Jigoku_Sensei_Nube_Neo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/139909.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:16.000Z",
-    "updatedAt": "2021-11-10T06:13:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "地獄先生ぬ～べ～NEO"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Okano",
-      "Shou Makura"
-    ],
-    "id": 91092,
-    "malId": 69963,
-    "type": "manga",
-    "title": "Jigoku Sensei Nube Neo",
     "url": "https://anilist.co/manga/91092",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91092-ibsy4ybCH6Cf.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:29.000Z",
-    "updatedAt": "2021-12-18T00:20:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69963/Jigoku_Sensei_Nube_Neo"
+    "externalLinks": [],
+    "malId": 69963,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Okano",
+      "Shou Makura"
+    ]
+  }
 }

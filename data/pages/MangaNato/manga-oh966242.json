@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukuda Hiroshi"
-  ],
+  "createdAt": "2021-09-28T21:03:12.000Z",
+  "updatedAt": "2022-03-28T21:53:41.000Z",
+  "checkedAt": null,
+  "id": 87787,
   "identifier": "manga-oh966242",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15848,
   "aniId": 45848,
-  "createdAt": "2021-09-28T21:03:12.000Z",
-  "updatedAt": "2022-03-28T21:53:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukuda Hiroshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:14.000Z",
+    "updatedAt": "2022-05-20T23:38:35.000Z",
+    "checkedAt": "2022-05-20T23:38:35.000Z",
+    "id": 15848,
+    "type": "manga",
+    "title": "Mushibugyou",
+    "altTitle": [
+      "Mushibu-gyo",
+      "ムシブギョー（蟲奉行）"
+    ],
+    "url": "https://myanimelist.net/manga/15848/Mushibugyou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/169920.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mushibu-gyo",
-      "ムシブギョー（蟲奉行）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukuda, Hiroshi"
-    ],
-    "id": 15848,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:12.773Z",
+    "updatedAt": "2022-05-20T23:38:34.000Z",
+    "checkedAt": "2022-05-20T23:38:34.000Z",
+    "id": 45848,
     "type": "manga",
     "title": "Mushibugyou",
-    "url": "https://myanimelist.net/manga/15848/Mushibugyou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/169920.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:14.000Z",
-    "updatedAt": "2022-03-28T21:23:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ムシブギョ",
       "Mushi Bugyo",
       "Mushibu-gyo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Fukuda"
-    ],
-    "id": 45848,
-    "malId": 15848,
-    "type": "manga",
-    "title": "Mushibugyou",
     "url": "https://anilist.co/manga/45848",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15848.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:49.000Z",
-    "updatedAt": "2021-12-17T16:04:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15848/Mushibugyou"
+    "externalLinks": [],
+    "malId": 15848,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Fukuda"
+    ]
+  }
 }

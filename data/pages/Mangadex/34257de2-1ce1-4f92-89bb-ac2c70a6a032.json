@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koge Donbo"
-  ],
+  "createdAt": "2020-10-12T16:05:01.000Z",
+  "updatedAt": "2021-12-03T09:48:16.000Z",
+  "checkedAt": null,
+  "id": 5546,
   "identifier": "34257de2-1ce1-4f92-89bb-ac2c70a6a032",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35,
   "aniId": 30035,
-  "createdAt": "2020-10-12T16:05:01.000Z",
-  "updatedAt": "2021-12-03T09:48:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koge Donbo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T15:45:05.000Z",
+    "checkedAt": "2022-05-15T15:45:05.000Z",
+    "id": 35,
+    "type": "manga",
+    "title": "Kamichama Karin",
+    "altTitle": [
+      "Little Goddess Karin",
+      "Kamichama Karin",
+      "かみちゃまかりん"
+    ],
+    "url": "https://myanimelist.net/manga/35/Kamichama_Karin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/2074.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Little Goddess Karin",
-      "Kamichama Karin",
-      "かみちゃまかりん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koge-Donbo*"
-    ],
-    "id": 35,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:23.590Z",
+    "updatedAt": "2022-05-15T19:06:11.000Z",
+    "checkedAt": "2022-05-15T19:06:11.000Z",
+    "id": 30035,
     "type": "manga",
     "title": "Kamichama Karin",
-    "url": "https://myanimelist.net/manga/35/Kamichama_Karin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/2074.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-25T22:30:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kamichama Karin",
       "かみちゃまかりん",
       "Little Goddess Karin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Koge-Donbo*"
-    ],
-    "id": 30035,
-    "malId": 35,
-    "type": "manga",
-    "title": "Kamichama Karin",
     "url": "https://anilist.co/manga/30035",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30035-U21aSHNfT9x3.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:31:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35/Kamichama_Karin"
+    "externalLinks": [],
+    "malId": 35,
+    "deletedAt": null,
+    "authors": [
+      "Koge-Donbo*"
+    ]
+  }
 }

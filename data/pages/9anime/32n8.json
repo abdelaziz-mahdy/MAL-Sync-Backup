@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:42.000Z",
+  "updatedAt": "2022-02-03T14:48:13.000Z",
+  "checkedAt": null,
+  "id": 1663,
   "identifier": "32n8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40748,
   "aniId": 113415,
-  "createdAt": "2020-10-12T15:49:42.000Z",
-  "updatedAt": "2022-02-03T14:48:13.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:13.000Z",
+    "updatedAt": "2022-05-13T20:05:56.000Z",
+    "checkedAt": "2022-05-13T20:05:56.000Z",
+    "id": 40748,
+    "type": "anime",
+    "title": "Jujutsu Kaisen (TV)",
+    "altTitle": [
+      "Sorcery Fight",
+      "JJK",
+      "Jujutsu Kaisen",
+      "呪術廻戦"
+    ],
+    "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,24 +61,16 @@
         "url": "https://www.funimation.com/shows/jujutsu-kaisen/"
       }
     ],
-    "altTitle": [
-      "Sorcery Fight",
-      "JJK",
-      "呪術廻戦"
-    ],
-    "id": 40748,
-    "type": "anime",
-    "title": "Jujutsu Kaisen (TV)",
-    "url": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15275,
-    "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2022-04-26T10:01:38.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 15275
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:00.000Z",
+    "updatedAt": "2022-05-15T09:41:23.000Z",
+    "checkedAt": "2022-05-15T09:41:23.000Z",
+    "id": 113415,
+    "type": "anime",
+    "title": "Jujutsu Kaisen",
     "altTitle": [
       "JUJUTSU KAISEN",
       "呪術廻戦",
@@ -71,6 +81,10 @@
       "มหาเวทย์ผนึกมาร",
       "جوجوتسو كايسن"
     ],
+    "url": "https://anilist.co/anime/113415",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-bbBWj4pEFseh.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -89,17 +103,7 @@
         "url": "https://www.funimation.com/shows/jujutsu-kaisen/"
       }
     ],
-    "id": 113415,
     "malId": 40748,
-    "type": "anime",
-    "title": "Jujutsu Kaisen",
-    "url": "https://anilist.co/anime/113415",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-979nF8TZP2xC.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:00.000Z",
-    "updatedAt": "2022-03-31T03:30:18.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
+  }
 }

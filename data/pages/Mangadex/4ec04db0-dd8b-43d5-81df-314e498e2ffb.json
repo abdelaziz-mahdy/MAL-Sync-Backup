@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aono Nachi"
-  ],
+  "createdAt": "2020-10-12T16:11:14.000Z",
+  "updatedAt": "2021-12-05T09:23:22.000Z",
+  "checkedAt": null,
+  "id": 18856,
   "identifier": "4ec04db0-dd8b-43d5-81df-314e498e2ffb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111760,
   "aniId": 101489,
-  "createdAt": "2020-10-12T16:11:14.000Z",
-  "updatedAt": "2021-12-05T09:23:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aono Nachi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:23.000Z",
+    "updatedAt": "2022-05-23T18:19:12.000Z",
+    "checkedAt": "2022-05-23T18:19:12.000Z",
+    "id": 111760,
+    "type": "manga",
+    "title": "Theo",
+    "altTitle": [
+      "テオ-THEO-"
+    ],
+    "url": "https://myanimelist.net/manga/111760/Theo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/220905.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "テオ-THEO-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aono, Nachi"
-    ],
-    "id": 111760,
-    "type": "manga",
-    "title": "Theo",
-    "url": "https://myanimelist.net/manga/111760/Theo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/220905.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:23.000Z",
-    "updatedAt": "2021-12-05T07:17:18.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:43.624Z",
+    "updatedAt": "2022-05-23T18:19:11.000Z",
+    "checkedAt": "2022-05-23T18:19:11.000Z",
+    "id": 101489,
+    "type": "manga",
+    "title": "THEO",
     "altTitle": [
       "テオ-THEO-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nachi Aono"
-    ],
-    "id": 101489,
-    "malId": 111760,
-    "type": "manga",
-    "title": "THEO",
     "url": "https://anilist.co/manga/101489",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101489-kaKIyR8lG9E4.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2021-12-18T03:53:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111760/Theo"
+    "externalLinks": [],
+    "malId": 111760,
+    "deletedAt": null,
+    "authors": [
+      "Nachi Aono"
+    ]
+  }
 }

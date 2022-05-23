@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Ryu Keiichiro",
-    "Aso Mio",
-    "Hara Tetsuo"
-  ],
+  "createdAt": "2020-10-12T16:04:06.000Z",
+  "updatedAt": "2021-12-02T18:48:17.000Z",
+  "checkedAt": null,
+  "id": 3619,
   "identifier": "ea300699-3f4e-480e-bea9-62548668ec49",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14281,
   "aniId": 44281,
-  "createdAt": "2020-10-12T16:04:06.000Z",
-  "updatedAt": "2021-12-02T18:48:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ryu Keiichiro",
+    "Aso Mio",
+    "Hara Tetsuo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:03.000Z",
+    "updatedAt": "2022-05-19T13:56:35.000Z",
+    "checkedAt": "2022-05-19T13:56:35.000Z",
+    "id": 14281,
+    "type": "manga",
+    "title": "Hana no Keiji: Kumo no Kanata ni",
+    "altTitle": [
+      "Flowers of Keiji",
+      "Keiji's Flowers",
+      "花の慶次 ―雲のかなたに―"
+    ],
+    "url": "https://myanimelist.net/manga/14281/Hana_no_Keiji__Kumo_no_Kanata_ni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/187156.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,27 +44,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Flowers of Keiji",
-      "Keiji's Flowers",
-      "花の慶次 ―雲のかなたに―"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hara, Tetsuo",
       "Ryu, Keiichiro"
-    ],
-    "id": 14281,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:03.310Z",
+    "updatedAt": "2022-05-19T13:56:34.000Z",
+    "checkedAt": "2022-05-19T13:56:34.000Z",
+    "id": 44281,
     "type": "manga",
     "title": "Hana no Keiji: Kumo no Kanata ni",
-    "url": "https://myanimelist.net/manga/14281/Hana_no_Keiji__Kumo_no_Kanata_ni",
-    "image": "https://cdn.myanimelist.net/images/manga/1/187156.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:03.000Z",
-    "updatedAt": "2022-04-29T17:32:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Keiji",
       "花の慶次 ―雲のかなたに―",
@@ -57,23 +66,17 @@
       "Flowers of Keiji",
       "花の慶次 -雲の彼方に-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuo Hara",
-      "Ryuu Keiichirou",
-      "Mio Asou"
-    ],
-    "id": 44281,
-    "malId": 14281,
-    "type": "manga",
-    "title": "Hana no Keiji: Kumo no Kanata ni",
     "url": "https://anilist.co/manga/44281",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44281-V4v26gyG8wIS.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:45.000Z",
-    "updatedAt": "2021-12-22T15:52:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14281/Hana_no_Keiji__Kumo_no_Kanata_ni"
+    "externalLinks": [],
+    "malId": 14281,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuo Hara",
+      "Ryuu Keiichirou",
+      "Mio Asou"
+    ]
+  }
 }

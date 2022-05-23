@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okano Yuu",
-    "Suzuki Izo"
-  ],
+  "createdAt": "2020-10-12T16:10:03.000Z",
+  "updatedAt": "2021-12-04T22:18:29.000Z",
+  "checkedAt": null,
+  "id": 16290,
   "identifier": "c18c7dbe-6805-4669-b541-67e143e1ab6d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98712,
   "aniId": 97277,
-  "createdAt": "2020-10-12T16:10:03.000Z",
-  "updatedAt": "2021-12-04T22:18:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okano Yuu",
+    "Suzuki Izo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:31.000Z",
+    "updatedAt": "2022-05-16T05:21:24.000Z",
+    "checkedAt": "2022-05-16T05:21:24.000Z",
+    "id": 98712,
+    "type": "manga",
+    "title": "Hiraheishi wa Kako wo Yumemiru",
+    "altTitle": [
+      "The Ordinary Soldier's Dream to Return to the Past",
+      "The Soldier Sees a Dream About the Past",
+      "Ordinary Soldier Dreams of the Past",
+      "平兵士は過去を夢見る"
+    ],
+    "url": "https://myanimelist.net/manga/98712/Hiraheishi_wa_Kako_wo_Yumemiru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191228.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +44,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "平兵士は過去を夢見る"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Izo",
       "Okano, Yuu"
-    ],
-    "id": 98712,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:23.027Z",
+    "updatedAt": "2022-05-16T05:21:23.000Z",
+    "checkedAt": "2022-05-16T05:21:23.000Z",
+    "id": 97277,
     "type": "manga",
     "title": "Hiraheishi wa Kako wo Yumemiru",
-    "url": "https://myanimelist.net/manga/98712/Hiraheishi_wa_Kako_wo_Yumemiru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/191228.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:31.000Z",
-    "updatedAt": "2022-02-13T06:41:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "平兵士は過去を夢見る"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Okano",
-      "Izo Suzuki",
-      "Toku Kusugi"
-    ],
-    "id": 97277,
-    "malId": 98712,
-    "type": "manga",
-    "title": "Hiraheishi wa Kako wo Yumemiru",
     "url": "https://anilist.co/manga/97277",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97277-tG9DkVShfxNC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:39.000Z",
-    "updatedAt": "2021-12-18T01:57:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98712/Hiraheishi_wa_Kako_wo_Yumemiru"
+    "externalLinks": [],
+    "malId": 98712,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Okano",
+      "Izo Suzuki",
+      "Toku Kusugi"
+    ]
+  }
 }

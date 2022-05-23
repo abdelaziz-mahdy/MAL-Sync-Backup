@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Souryo Fuyumi"
-  ],
+  "createdAt": "2020-10-12T16:03:06.000Z",
+  "updatedAt": "2021-12-02T11:49:20.000Z",
+  "checkedAt": null,
+  "id": 1528,
   "identifier": "777f9015-84af-4117-aa58-299c09ccf684",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 851,
   "aniId": 30851,
-  "createdAt": "2020-10-12T16:03:06.000Z",
-  "updatedAt": "2021-12-02T11:49:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Souryo Fuyumi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/MARS_(%E6%BC%AB%E7%94%BB)"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2021-12-06T05:16:07.000Z",
+    "checkedAt": null,
+    "id": 851,
+    "type": "manga",
+    "title": "Mars Gaiden: Namae no Nai Uma",
     "altTitle": [
       "Mars: A Horse with No Name",
       "1 karat no Kajitsu",
@@ -32,21 +33,29 @@
       "Sleeping Lion",
       "MARS外伝 名前のない馬"
     ],
-    "authors": [
-      "Souryo, Fuyumi"
-    ],
-    "id": 851,
-    "type": "manga",
-    "title": "Mars Gaiden: Namae no Nai Uma",
     "url": "https://myanimelist.net/manga/851/Mars_Gaiden__Namae_no_Nai_Uma",
     "image": "https://cdn.myanimelist.net/images/manga/3/191264.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2021-12-06T05:16:07.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/MARS_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Souryo, Fuyumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:21.245Z",
+    "updatedAt": "2022-05-13T12:55:21.245Z",
+    "checkedAt": null,
+    "id": 30851,
+    "type": "manga",
+    "title": "MARS Gaiden: Namae no Nai Uma",
     "altTitle": [
       "A Horse with No Name",
       "ＭＡＲＳ外伝 「名前のない馬」",
@@ -56,21 +65,15 @@
       "ＭＡＲＳ外伝 ",
       "名前のない馬"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fuyumi Souryou"
-    ],
-    "id": 30851,
-    "malId": 851,
-    "type": "manga",
-    "title": "MARS Gaiden: Namae no Nai Uma",
     "url": "https://anilist.co/manga/30851",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30851-z9R8HJCtleTb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2022-01-24T05:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/851/Mars_Gaiden__Namae_no_Nai_Uma"
+    "externalLinks": [],
+    "malId": 851,
+    "deletedAt": null,
+    "authors": [
+      "Fuyumi Souryou"
+    ]
+  }
 }

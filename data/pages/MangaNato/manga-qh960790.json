@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kiyota Ukiko"
-  ],
+  "createdAt": "2022-05-07T23:01:24.000Z",
+  "updatedAt": "2022-05-13T15:21:23.000Z",
+  "checkedAt": "2022-05-13T14:59:18.000Z",
+  "id": 103117,
   "identifier": "manga-qh960790",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,63 @@
   "image": "https://avt.mkklcdnv6temp.com/14/v/7-1583476838.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T23:01:24.000Z",
-  "updatedAt": "2022-05-07T23:01:24.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 3132,
+  "aniId": 33132,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Kiyota Ukiko"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:48.000Z",
+    "updatedAt": "2022-05-13T14:59:22.000Z",
+    "checkedAt": "2022-05-13T14:59:22.000Z",
+    "id": 3132,
+    "type": "manga",
+    "title": "Oshioki yo!",
+    "altTitle": [
+      "The Servant's Master",
+      "Convincing Boss",
+      "Aka no Ori",
+      "おしおきよ!"
+    ],
+    "url": "https://myanimelist.net/manga/3132/Oshioki_yo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/169347.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ukiko, Kiyota",
+      "Kaen",
+      "Matsumoto, Inaki",
+      "Hinata, Seika",
+      "Kougami, Eri",
+      "Dr. Ten"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:17.046Z",
+    "updatedAt": "2022-05-18T10:42:16.000Z",
+    "checkedAt": "2022-05-18T10:42:16.000Z",
+    "id": 33132,
+    "type": "manga",
+    "title": "Servant's Master",
+    "altTitle": [
+      "The Servant's Master",
+      "Convincing Boss"
+    ],
+    "url": "https://anilist.co/manga/33132",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3132.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3132,
+    "deletedAt": null,
+    "authors": [
+      "Ukiko Kiyota"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Zenoside (Circle)",
-    "Zeno"
-  ],
+  "createdAt": "2020-10-12T16:19:51.000Z",
+  "updatedAt": "2022-04-24T16:31:23.000Z",
+  "checkedAt": null,
+  "id": 36001,
   "identifier": "5a95bbf7-0f25-400b-bdb9-c6187d9e1efb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 108556,
-  "createdAt": "2020-10-12T16:19:51.000Z",
-  "updatedAt": "2022-04-24T16:31:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zenoside (Circle)",
+    "Zeno"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.937Z",
+    "updatedAt": "2022-05-15T10:54:59.000Z",
+    "checkedAt": "2022-05-15T10:54:59.000Z",
+    "id": 108556,
+    "type": "manga",
+    "title": "SPY×FAMILY",
     "altTitle": [
       "SPY x FAMILY",
       "SPY×FAMILY",
@@ -28,6 +36,10 @@
       "SPY×FAMILY: WJ Special Extra Mission!!",
       "间谍过家家"
     ],
+    "url": "https://anilist.co/manga/108556",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108556-NHjkz0BNJhLx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
@@ -38,6 +50,8 @@
         "url": "https://mangaplus.shueisha.co.jp/titles/200031"
       }
     ],
+    "malId": 119161,
+    "deletedAt": null,
     "authors": [
       "Tatsuya Endou",
       "Casey Loe",
@@ -52,18 +66,6 @@
       "Nathalie Bougon",
       "Sylvie Naddeo-Deloche",
       "Itsuchi Yosuga"
-    ],
-    "id": 108556,
-    "malId": 119161,
-    "type": "manga",
-    "title": "SPY×FAMILY",
-    "url": "https://anilist.co/manga/108556",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108556-NHjkz0BNJhLx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:58:06.000Z",
-    "updatedAt": "2022-05-02T13:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

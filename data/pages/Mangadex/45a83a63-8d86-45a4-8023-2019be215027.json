@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tana Kanoka"
-  ],
+  "createdAt": "2020-11-19T08:49:35.000Z",
+  "updatedAt": "2021-12-08T07:41:01.000Z",
+  "checkedAt": null,
+  "id": 52611,
   "identifier": "45a83a63-8d86-45a4-8023-2019be215027",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105913,
   "aniId": 106052,
-  "createdAt": "2020-11-19T08:49:35.000Z",
-  "updatedAt": "2021-12-08T07:41:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tana Kanoka"
+  ],
   "Mal": {
+    "createdAt": "2020-11-19T08:51:01.000Z",
+    "updatedAt": "2021-11-19T09:14:55.000Z",
+    "checkedAt": null,
+    "id": 105913,
+    "type": "manga",
+    "title": "Koi no Torikata",
+    "altTitle": [
+      "Photographing Love",
+      "恋の撮りかた"
+    ],
+    "url": "https://myanimelist.net/manga/105913/Koi_no_Torikata",
+    "image": "https://cdn.myanimelist.net/images/manga/2/247768.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Photographing Love",
-      "恋の撮りかた"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tana, Kanoka"
-    ],
-    "id": 105913,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:13.117Z",
+    "updatedAt": "2022-05-13T12:48:13.117Z",
+    "checkedAt": null,
+    "id": 106052,
     "type": "manga",
     "title": "Koi no Torikata",
-    "url": "https://myanimelist.net/manga/105913/Koi_no_Torikata",
-    "image": "https://cdn.myanimelist.net/images/manga/2/247768.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-19T08:51:01.000Z",
-    "updatedAt": "2021-11-19T09:14:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋の撮り方"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kanoka Tana"
-    ],
-    "id": 106052,
-    "malId": 105913,
-    "type": "manga",
-    "title": "Koi no Torikata",
     "url": "https://anilist.co/manga/106052",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n106052-kBQNQjwAhWjy.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:44.000Z",
-    "updatedAt": "2022-03-30T18:05:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105913/Koi_no_Torikata"
+    "externalLinks": [],
+    "malId": 105913,
+    "deletedAt": null,
+    "authors": [
+      "Kanoka Tana"
+    ]
+  }
 }

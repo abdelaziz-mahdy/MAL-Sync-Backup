@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koike Kazuo"
-  ],
+  "createdAt": "2022-05-11T10:01:56.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T17:00:08.000Z",
+  "id": 103765,
   "identifier": "manga-hh959890",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,61 @@
   "image": "https://avt.mkklcdnv6temp.com/30/s/6-1583475370.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-11T10:01:56.000Z",
-  "updatedAt": "2022-05-11T10:01:56.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 8962,
+  "aniId": 38962,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Koike Kazuo"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:41:21.000Z",
+    "updatedAt": "2022-05-13T17:00:10.000Z",
+    "checkedAt": "2022-05-13T17:00:10.000Z",
+    "id": 8962,
+    "type": "manga",
+    "title": "Colored",
+    "altTitle": [
+      "Naki no Ishimatsu",
+      "Crybaby Ishimatsu",
+      "Color of Rage",
+      "からぁ怒"
+    ],
+    "url": "https://myanimelist.net/manga/8962/Colored",
+    "image": "https://cdn.myanimelist.net/images/manga/2/12218.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Koike, Kazuo",
+      "Kanou, Seisaku"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:39.278Z",
+    "updatedAt": "2022-05-13T12:45:39.278Z",
+    "checkedAt": null,
+    "id": 38962,
+    "type": "manga",
+    "title": "Colored",
+    "altTitle": [
+      "Color of Rage",
+      "からぁ怒"
+    ],
+    "url": "https://anilist.co/manga/38962",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38962-JZlttEmdUDl7.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8962,
+    "deletedAt": null,
+    "authors": [
+      "Kazuo Koike",
+      "Seisaku Kanou",
+      "Naomi Kokubo"
+    ]
+  }
 }

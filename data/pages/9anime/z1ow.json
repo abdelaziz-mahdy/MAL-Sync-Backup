@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:57:02.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10949,
   "identifier": "z1ow",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 536,
   "aniId": 536,
-  "createdAt": "2020-10-12T15:57:02.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:05.000Z",
+    "updatedAt": "2022-05-15T01:32:35.000Z",
+    "checkedAt": "2022-05-15T01:32:35.000Z",
+    "id": 536,
+    "type": "anime",
+    "title": "Slayers: The Motion Picture",
+    "altTitle": [
+      "Slayers Perfect",
+      "Gekijouban Slayers",
+      "Slayers Movie 1",
+      "Slayers: The Motion Picture",
+      "劇場版スレイヤーズ"
+    ],
+    "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
+    "image": "https://cdn.myanimelist.net/images/anime/10/2644.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,26 +49,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Slayers Perfect",
-      "Gekijouban Slayers",
-      "Slayers Movie 1",
-      "Slayers: The Motion Picture",
-      "劇場版スレイヤーズ"
-    ],
+    "deletedAt": null,
+    "anidbId": 349
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:46.000Z",
+    "updatedAt": "2022-05-16T02:25:16.000Z",
+    "checkedAt": "2022-05-16T02:25:16.000Z",
     "id": 536,
     "type": "anime",
-    "title": "Slayers: The Motion Picture",
-    "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
-    "image": "https://cdn.myanimelist.net/images/anime/10/2644.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 349,
-    "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2022-03-30T15:04:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Slayers Movie",
     "altTitle": [
       "Slayers: The Motion Picture",
       "劇場版 スレイヤーズ",
@@ -57,18 +66,12 @@
       "Gekijouban Slayers",
       "Slayers Movie 1"
     ],
-    "externalLinks": [],
-    "id": 536,
-    "malId": 536,
-    "type": "anime",
-    "title": "Slayers Movie",
     "url": "https://anilist.co/anime/536",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx536-j3i5b9EgIA1a.png",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:46.000Z",
-    "updatedAt": "2022-05-06T03:30:58.000Z",
+    "externalLinks": [],
+    "malId": 536,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture"
+  }
 }

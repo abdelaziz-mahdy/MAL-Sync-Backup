@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hongo Akiyoshi",
-    "Yu Yuen Wong"
-  ],
+  "createdAt": "2020-10-12T16:11:41.000Z",
+  "updatedAt": "2021-12-05T10:20:08.000Z",
+  "checkedAt": null,
+  "id": 19850,
   "identifier": "49ae6f0a-a2b0-4cae-93c4-0d377a10163d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1750,
   "aniId": 31750,
-  "createdAt": "2020-10-12T16:11:41.000Z",
-  "updatedAt": "2021-12-05T10:20:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hongo Akiyoshi",
+    "Yu Yuen Wong"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:37.000Z",
+    "updatedAt": "2021-12-10T10:03:39.000Z",
+    "checkedAt": null,
+    "id": 1750,
+    "type": "manga",
+    "title": "Digimon D-Cyber",
+    "altTitle": [
+      "數碼暴龍D-CYBER"
+    ],
+    "url": "https://myanimelist.net/manga/1750/Digimon_D-Cyber",
+    "image": "https://cdn.myanimelist.net/images/manga/1/22023.jpg",
+    "category": "Manhua",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "數碼暴龍D-CYBER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yu, Yuen Wong"
-    ],
-    "id": 1750,
-    "type": "manga",
-    "title": "Digimon D-Cyber",
-    "url": "https://myanimelist.net/manga/1750/Digimon_D-Cyber",
-    "image": "https://cdn.myanimelist.net/images/manga/1/22023.jpg",
-    "category": "Manhua",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2021-12-10T10:03:39.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:04.274Z",
+    "updatedAt": "2022-05-13T12:41:04.274Z",
+    "checkedAt": null,
+    "id": 31750,
+    "type": "manga",
+    "title": "Shuma Baolong D-Cyber: Chao Jinhua Long Hun Zhan Ji",
     "altTitle": [
       "數碼暴龍D-CYBER 超進化龍魂戰記",
       "Digimon D-Cyber: Super Evolution Dragon Soul Wars"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuen Wong Yu"
-    ],
-    "id": 31750,
-    "malId": 1750,
-    "type": "manga",
-    "title": "Shuma Baolong D-Cyber: Chao Jinhua Long Hun Zhan Ji",
     "url": "https://anilist.co/manga/31750",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31750-QL6HRpFxlId6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:53.000Z",
-    "updatedAt": "2021-12-17T10:13:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1750/Digimon_D-Cyber"
+    "externalLinks": [],
+    "malId": 1750,
+    "deletedAt": null,
+    "authors": [
+      "Yuen Wong Yu"
+    ]
+  }
 }

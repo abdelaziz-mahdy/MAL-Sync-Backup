@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakaki Ichirou",
-    "Minase Seri"
-  ],
+  "createdAt": "2020-10-12T16:08:30.000Z",
+  "updatedAt": "2021-12-04T10:52:29.000Z",
+  "checkedAt": null,
+  "id": 12929,
   "identifier": "da37ff5c-559f-430b-8c7d-0b2f1e23efbb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78897,
   "aniId": 109515,
-  "createdAt": "2020-10-12T16:08:30.000Z",
-  "updatedAt": "2021-12-04T10:52:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakaki Ichirou",
+    "Minase Seri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2021-11-11T10:44:06.000Z",
+    "checkedAt": null,
+    "id": 78897,
+    "type": "manga",
+    "title": "Gakuen Chaika!",
+    "altTitle": [
+      "学園チャイカ!"
+    ],
+    "url": "https://myanimelist.net/manga/78897/Gakuen_Chaika",
+    "image": "https://cdn.myanimelist.net/images/manga/3/136513.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "学園チャイカ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minase, Seri"
-    ],
-    "id": 78897,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:56.740Z",
+    "updatedAt": "2022-05-13T13:01:56.740Z",
+    "checkedAt": null,
+    "id": 109515,
     "type": "manga",
     "title": "Gakuen Chaika!",
-    "url": "https://myanimelist.net/manga/78897/Gakuen_Chaika",
-    "image": "https://cdn.myanimelist.net/images/manga/3/136513.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2021-11-11T10:44:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "学園チャイカ!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichirou Sakaki",
-      "Seri Minase",
-      "Namaniku ATK"
-    ],
-    "id": 109515,
-    "malId": 78897,
-    "type": "manga",
-    "title": "Gakuen Chaika!",
     "url": "https://anilist.co/manga/109515",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109515-u6nU89A4a7Mo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2021-12-18T06:27:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78897/Gakuen_Chaika"
+    "externalLinks": [],
+    "malId": 78897,
+    "deletedAt": null,
+    "authors": [
+      "Ichirou Sakaki",
+      "Seri Minase",
+      "Namaniku ATK"
+    ]
+  }
 }

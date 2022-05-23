@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Clamp"
-  ],
+  "createdAt": "2020-10-12T16:11:55.000Z",
+  "updatedAt": "2021-12-05T12:18:19.000Z",
+  "checkedAt": null,
+  "id": 20346,
   "identifier": "f8bb9b41-d4a3-4851-a958-8c22cf6b752e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 697,
   "aniId": 30697,
-  "createdAt": "2020-10-12T16:11:55.000Z",
-  "updatedAt": "2021-12-05T12:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T08:59:44.000Z",
+    "checkedAt": "2022-05-15T08:59:44.000Z",
+    "id": 697,
+    "type": "manga",
+    "title": "Magic Knight Rayearth 2",
+    "altTitle": [
+      "Mahou Kishi Rayearth 2",
+      "Magic Knight Rayearth II",
+      "魔法騎士レイアース2"
+    ],
+    "url": "https://myanimelist.net/manga/697/Magic_Knight_Rayearth_2",
+    "image": "https://cdn.myanimelist.net/images/manga/5/157705.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mahou Kishi Rayearth 2",
-      "Magic Knight Rayearth II",
-      "魔法騎士レイアース2"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 697,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:37.737Z",
+    "updatedAt": "2022-05-21T17:15:12.000Z",
+    "checkedAt": "2022-05-21T17:15:12.000Z",
+    "id": 30697,
     "type": "manga",
     "title": "Magic Knight Rayearth 2",
-    "url": "https://myanimelist.net/manga/697/Magic_Knight_Rayearth_2",
-    "image": "https://cdn.myanimelist.net/images/manga/5/157705.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-01-23T09:00:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magic Knight Rayearth 2",
       "魔法騎士レイアース2",
@@ -52,21 +61,16 @@
       "Guerreiras Mágicas de Rayearth Fase 2",
       "Luchadoras de leyenda 2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "CLAMP"
-    ],
-    "id": 30697,
-    "malId": 697,
-    "type": "manga",
-    "title": "Magic Knight Rayearth 2",
     "url": "https://anilist.co/manga/30697",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30697-RvNgBfVQ0WuU.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2022-01-27T07:00:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/697/Magic_Knight_Rayearth_2"
+    "externalLinks": [],
+    "malId": 697,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP",
+      "Anita Sengupta"
+    ]
+  }
 }

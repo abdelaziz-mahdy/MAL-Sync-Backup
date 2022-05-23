@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Rumiko"
-  ],
+  "createdAt": "2021-06-07T23:54:38.000Z",
+  "updatedAt": "2021-12-08T00:43:12.000Z",
+  "checkedAt": null,
+  "id": 77139,
   "identifier": "manga-is957453",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23,
   "aniId": 30023,
-  "createdAt": "2021-06-07T23:54:38.000Z",
-  "updatedAt": "2021-12-08T00:43:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Rumiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T14:36:17.000Z",
+    "checkedAt": "2022-05-15T14:36:17.000Z",
+    "id": 23,
+    "type": "manga",
+    "title": "Ranma ½",
+    "altTitle": [
+      "Ranma 1/2",
+      "らんま½"
+    ],
+    "url": "https://myanimelist.net/manga/23/Ranma_½",
+    "image": "https://cdn.myanimelist.net/images/manga/1/156534.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ranma 1/2",
-      "らんま½"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Rumiko"
-    ],
-    "id": 23,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:37.187Z",
+    "updatedAt": "2022-05-15T18:21:47.000Z",
+    "checkedAt": "2022-05-15T18:21:47.000Z",
+    "id": 30023,
     "type": "manga",
     "title": "Ranma ½",
-    "url": "https://myanimelist.net/manga/23/Ranma_½",
-    "image": "https://cdn.myanimelist.net/images/manga/1/156534.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-17T09:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ranma ½",
       "らんま½",
       "Ranma 1/2",
       "รันม่า1/2 ไอ้หนุ่มกังฟู "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rumiko Takahashi"
-    ],
-    "id": 30023,
-    "malId": 23,
-    "type": "manga",
-    "title": "Ranma ½",
     "url": "https://anilist.co/manga/30023",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30023-7tPKGeDenzsa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23/Ranma_½"
+    "externalLinks": [],
+    "malId": 23,
+    "deletedAt": null,
+    "authors": [
+      "Rumiko Takahashi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aisora Manta"
-  ],
+  "createdAt": "2021-08-18T04:38:02.000Z",
+  "updatedAt": "2022-02-18T05:16:50.000Z",
+  "checkedAt": null,
+  "id": 85624,
   "identifier": "manga-ls962775",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40275,
   "aniId": 70275,
-  "createdAt": "2021-08-18T04:38:02.000Z",
-  "updatedAt": "2022-02-18T05:16:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aisora Manta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:06.000Z",
+    "updatedAt": "2022-02-18T04:47:43.000Z",
+    "checkedAt": null,
+    "id": 40275,
+    "type": "manga",
+    "title": "Haiyore! Nyaruko-san",
+    "altTitle": [
+      "這いよれ！ニャル子さん"
+    ],
+    "url": "https://myanimelist.net/manga/40275/Haiyore_Nyaruko-san",
+    "image": "https://cdn.myanimelist.net/images/manga/1/92439.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "這いよれ！ニャル子さん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aisora, Manta",
       "Okazaki, Kei"
-    ],
-    "id": 40275,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:18.843Z",
+    "updatedAt": "2022-05-13T12:55:18.843Z",
+    "checkedAt": null,
+    "id": 70275,
     "type": "manga",
     "title": "Haiyore! Nyaruko-san",
-    "url": "https://myanimelist.net/manga/40275/Haiyore_Nyaruko-san",
-    "image": "https://cdn.myanimelist.net/images/manga/1/92439.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:06.000Z",
-    "updatedAt": "2022-02-18T04:47:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "這いよれ! ニャル子さん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Manta Aisora",
-      "Okazaki Kei",
-      "Koin"
-    ],
-    "id": 70275,
-    "malId": 40275,
-    "type": "manga",
-    "title": "Haiyore! Nyaruko-san",
     "url": "https://anilist.co/manga/70275",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70275-wOSoaD7zltmY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:41.000Z",
-    "updatedAt": "2021-12-17T20:20:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/40275/Haiyore_Nyaruko-san"
+    "externalLinks": [],
+    "malId": 40275,
+    "deletedAt": null,
+    "authors": [
+      "Manta Aisora",
+      "Okazaki Kei",
+      "Koin"
+    ]
+  }
 }

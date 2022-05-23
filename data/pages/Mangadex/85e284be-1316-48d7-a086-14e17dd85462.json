@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asou Kai"
-  ],
+  "createdAt": "2020-10-12T16:18:02.000Z",
+  "updatedAt": "2021-12-07T13:47:22.000Z",
+  "checkedAt": null,
+  "id": 32372,
   "identifier": "85e284be-1316-48d7-a086-14e17dd85462",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120946,
   "aniId": 111628,
-  "createdAt": "2020-10-12T16:18:02.000Z",
-  "updatedAt": "2021-12-07T13:47:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asou Kai"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-16T10:14:03.000Z",
+    "checkedAt": "2022-05-16T10:14:03.000Z",
+    "id": 120946,
+    "type": "manga",
+    "title": "No, Youna.",
+    "altTitle": [
+      "の、ような。"
+    ],
+    "url": "https://myanimelist.net/manga/120946/No_Youna",
+    "image": "https://cdn.myanimelist.net/images/manga/3/221530.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "の、ような。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asou, Kai"
-    ],
-    "id": 120946,
-    "type": "manga",
-    "title": "No, Youna.",
-    "url": "https://myanimelist.net/manga/120946/No_Youna",
-    "image": "https://cdn.myanimelist.net/images/manga/3/221530.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2021-12-10T02:33:59.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:53.213Z",
+    "updatedAt": "2022-05-16T10:14:01.000Z",
+    "checkedAt": "2022-05-16T10:14:01.000Z",
+    "id": 111628,
+    "type": "manga",
+    "title": "No, You na.",
     "altTitle": [
       "Or Something Like It",
       "の、ような。"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kai Asou"
-    ],
-    "id": 111628,
-    "malId": 120946,
-    "type": "manga",
-    "title": "No, You na.",
     "url": "https://anilist.co/manga/111628",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111628-Vqs1Lx72R0H3.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2022-03-03T05:10:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120946/No_Youna"
+    "externalLinks": [],
+    "malId": 120946,
+    "deletedAt": null,
+    "authors": [
+      "Kai Asou"
+    ]
+  }
 }

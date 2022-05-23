@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ojiro Makoto"
-  ],
+  "createdAt": "2020-10-12T16:16:02.000Z",
+  "updatedAt": "2021-12-06T19:18:02.000Z",
+  "checkedAt": null,
+  "id": 28251,
   "identifier": "99af94f5-04c2-424b-8438-0c8386b0ec5f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121213,
   "aniId": 110473,
-  "createdAt": "2020-10-12T16:16:02.000Z",
-  "updatedAt": "2021-12-06T19:18:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ojiro Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:06.000Z",
+    "updatedAt": "2022-05-14T21:53:42.000Z",
+    "checkedAt": "2022-05-14T21:53:42.000Z",
+    "id": 121213,
+    "type": "manga",
+    "title": "Kimi wa Houkago Insomnia",
+    "altTitle": [
+      "Insomniacs After School",
+      "君は放課後インソムニア"
+    ],
+    "url": "https://myanimelist.net/manga/121213/Kimi_wa_Houkago_Insomnia",
+    "image": "https://cdn.myanimelist.net/images/manga/2/221335.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +45,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Insomniacs After School",
-      "君は放課後インソムニア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ojiro, Makoto"
-    ],
-    "id": 121213,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:56.257Z",
+    "updatedAt": "2022-05-15T16:54:11.000Z",
+    "checkedAt": "2022-05-15T16:54:11.000Z",
+    "id": 110473,
     "type": "manga",
     "title": "Kimi wa Houkago Insomnia",
-    "url": "https://myanimelist.net/manga/121213/Kimi_wa_Houkago_Insomnia",
-    "image": "https://cdn.myanimelist.net/images/manga/2/221335.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:06.000Z",
-    "updatedAt": "2022-05-02T21:03:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "君は放課後インソムニア",
       "Insomniacs After School",
       "Insomniaques",
       "ถ้านอนไม่หลับไปนับดาวกันไหม"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Ojiro",
-      "Óscar Tejero",
-      "Florent Gorges"
-    ],
-    "id": 110473,
-    "malId": 121213,
-    "type": "manga",
-    "title": "Kimi wa Houkago Insomnia",
     "url": "https://anilist.co/manga/110473",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110473-igM02JDDzQXM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:19.000Z",
-    "updatedAt": "2022-02-17T09:16:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121213/Kimi_wa_Houkago_Insomnia"
+    "externalLinks": [],
+    "malId": 121213,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Ojiro",
+      "Óscar Tejero",
+      "Florent Gorges"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:44.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 424,
   "identifier": "03l5",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1000,
   "aniId": 1000,
-  "createdAt": "2020-10-12T15:48:44.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:11.000Z",
+    "updatedAt": "2022-05-14T10:15:49.000Z",
+    "checkedAt": "2022-05-14T10:15:49.000Z",
+    "id": 1000,
+    "type": "anime",
+    "title": "Uchuu Kaizoku Captain Herlock",
+    "altTitle": [
+      "Harlock TV",
+      "Albator 78",
+      "Space Pirate Captain Harlock",
+      "宇宙海賊・キャプテンハーロック"
+    ],
+    "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock",
+    "image": "https://cdn.myanimelist.net/images/anime/1362/90305.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,25 +53,16 @@
         "url": "http://www.crunchyroll.com/series-49950"
       }
     ],
-    "altTitle": [
-      "Harlock TV",
-      "Albator 78",
-      "Space Pirate Captain Harlock",
-      "宇宙海賊・キャプテンハーロック"
-    ],
+    "deletedAt": null,
+    "anidbId": 725
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:53.000Z",
+    "updatedAt": "2022-05-15T12:35:47.000Z",
+    "checkedAt": "2022-05-15T12:35:47.000Z",
     "id": 1000,
     "type": "anime",
-    "title": "Uchuu Kaizoku Captain Herlock",
-    "url": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock",
-    "image": "https://cdn.myanimelist.net/images/anime/1362/90305.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 725,
-    "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2022-04-17T07:02:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Uchuu Kaizoku Captain Harlock",
     "altTitle": [
       "Space Pirate Captain Harlock",
       "宇宙海賊キャプテンハーロック",
@@ -61,6 +70,10 @@
       "Albator 78",
       "El Capità Harlock"
     ],
+    "url": "https://anilist.co/anime/1000",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1000-dxR1NyPZXVbm.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -71,17 +84,7 @@
         "url": "https://vrv.co/series/GYGGPD73Y/Captain-Harlock"
       }
     ],
-    "id": 1000,
     "malId": 1000,
-    "type": "anime",
-    "title": "Uchuu Kaizoku Captain Harlock",
-    "url": "https://anilist.co/anime/1000",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1000-dxR1NyPZXVbm.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:53.000Z",
-    "updatedAt": "2021-12-17T08:59:28.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock"
+  }
 }

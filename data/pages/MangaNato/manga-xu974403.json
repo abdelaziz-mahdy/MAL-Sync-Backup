@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takayama Liz",
-    "[Add]"
-  ],
+  "createdAt": "2021-05-28T20:25:03.000Z",
+  "updatedAt": "2021-11-28T21:08:16.000Z",
+  "checkedAt": null,
+  "id": 72995,
   "identifier": "manga-xu974403",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103320,
   "aniId": 99024,
-  "createdAt": "2021-05-28T20:25:03.000Z",
-  "updatedAt": "2021-11-28T21:08:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takayama Liz",
+    "[Add]"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:48.000Z",
+    "updatedAt": "2022-05-18T03:22:34.000Z",
+    "checkedAt": "2022-05-18T03:22:34.000Z",
+    "id": 103320,
+    "type": "manga",
+    "title": "Isekai Yakkyoku",
+    "altTitle": [
+      "異世界薬局"
+    ],
+    "url": "https://myanimelist.net/manga/103320/Isekai_Yakkyoku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/193111.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "異世界薬局"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takano, Sei",
       "Takayama, Liz"
-    ],
-    "id": 103320,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:22.072Z",
+    "updatedAt": "2022-05-18T03:22:33.000Z",
+    "checkedAt": "2022-05-18T03:22:33.000Z",
+    "id": 99024,
     "type": "manga",
     "title": "Isekai Yakkyoku",
-    "url": "https://myanimelist.net/manga/103320/Isekai_Yakkyoku",
-    "image": "https://cdn.myanimelist.net/images/manga/2/193111.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:48.000Z",
-    "updatedAt": "2022-02-08T08:39:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "異世界薬局",
       "Parallel World Pharmacy",
       "เภสัชกรเทพสองโลก"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Liz Takayama",
-      "Sei Takano",
-      "keepout"
-    ],
-    "id": 99024,
-    "malId": 103320,
-    "type": "manga",
-    "title": "Isekai Yakkyoku",
     "url": "https://anilist.co/manga/99024",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99024-2510GaSvmyXK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:02.000Z",
-    "updatedAt": "2021-11-25T01:05:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103320/Isekai_Yakkyoku"
+    "externalLinks": [],
+    "malId": 103320,
+    "deletedAt": null,
+    "authors": [
+      "Liz Takayama",
+      "Sei Takano",
+      "keepout"
+    ]
+  }
 }

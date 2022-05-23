@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sejima Haruki",
-    "Sakura Yuki"
-  ],
+  "createdAt": "2020-10-12T16:13:50.000Z",
+  "updatedAt": "2021-12-06T10:48:31.000Z",
+  "checkedAt": null,
+  "id": 23701,
   "identifier": "74a13cde-aa53-47c9-bec4-69e1e5370ada",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115421,
   "aniId": 107101,
-  "createdAt": "2020-10-12T16:13:50.000Z",
-  "updatedAt": "2021-12-06T10:48:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sejima Haruki",
+    "Sakura Yuki"
+  ],
   "Mal": {
+    "createdAt": "2021-02-27T18:14:04.000Z",
+    "updatedAt": "2022-01-29T09:23:19.000Z",
+    "checkedAt": null,
+    "id": 115421,
+    "type": "manga",
+    "title": "LiveRevolt",
+    "altTitle": [
+      "Live Revolt",
+      "ライブレボルト"
+    ],
+    "url": "https://myanimelist.net/manga/115421/LiveRevolt",
+    "image": "https://cdn.myanimelist.net/images/manga/2/220965.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Live Revolt",
-      "ライブレボルト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakura, Yuki",
       "Sejima, Haruki"
-    ],
-    "id": 115421,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:55.181Z",
+    "updatedAt": "2022-05-13T12:51:55.181Z",
+    "checkedAt": null,
+    "id": 107101,
     "type": "manga",
     "title": "LiveRevolt",
-    "url": "https://myanimelist.net/manga/115421/LiveRevolt",
-    "image": "https://cdn.myanimelist.net/images/manga/2/220965.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-27T18:14:04.000Z",
-    "updatedAt": "2022-01-29T09:23:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ライブレボルト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruki Sejima",
-      "Yuki Sakura"
-    ],
-    "id": 107101,
-    "malId": 115421,
-    "type": "manga",
-    "title": "LiveRevolt",
     "url": "https://anilist.co/manga/107101",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107101-UIUfcKOl8bkd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:14.000Z",
-    "updatedAt": "2021-12-18T05:50:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115421/LiveRevolt"
+    "externalLinks": [],
+    "malId": 115421,
+    "deletedAt": null,
+    "authors": [
+      "Haruki Sejima",
+      "Yuki Sakura"
+    ]
+  }
 }

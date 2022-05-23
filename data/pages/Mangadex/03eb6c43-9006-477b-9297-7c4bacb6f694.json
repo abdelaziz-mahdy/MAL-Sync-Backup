@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "miHoYo",
-    "Mihoyo Comic"
-  ],
+  "createdAt": "2020-10-12T16:15:51.000Z",
+  "updatedAt": "2022-02-12T11:09:48.000Z",
+  "checkedAt": null,
+  "id": 27869,
   "identifier": "03eb6c43-9006-477b-9297-7c4bacb6f694",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 111434,
-  "createdAt": "2020-10-12T16:15:51.000Z",
-  "updatedAt": "2022-02-12T11:09:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "miHoYo",
+    "Mihoyo Comic"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.425Z",
+    "updatedAt": "2022-05-16T10:05:25.000Z",
+    "checkedAt": "2022-05-16T10:05:25.000Z",
+    "id": 111434,
+    "type": "manga",
+    "title": "Yuanshen PROJECT",
     "altTitle": [
       "Genshin Impact",
       "原神PROJECT",
@@ -29,26 +37,20 @@
       "原神セレベンツ",
       "Genshin Selevents"
     ],
+    "url": "https://anilist.co/manga/111434",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111434-RTiHLXeDb2un.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/genshin-impact/volumes"
       }
     ],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "miHoYo"
-    ],
-    "id": 111434,
-    "malId": null,
-    "type": "manga",
-    "title": "Yuanshen PROJECT",
-    "url": "https://anilist.co/manga/111434",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111434-RTiHLXeDb2un.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-21T16:12:57.000Z",
-    "updatedAt": "2022-04-04T09:00:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

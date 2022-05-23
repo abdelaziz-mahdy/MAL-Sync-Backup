@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Namikiri Atsushi"
-  ],
+  "createdAt": "2020-10-12T16:13:46.000Z",
+  "updatedAt": "2021-12-06T00:48:21.000Z",
+  "checkedAt": null,
+  "id": 23567,
   "identifier": "c0c5af02-a3cd-468a-883e-46bda50853d0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116607,
   "aniId": 105355,
-  "createdAt": "2020-10-12T16:13:46.000Z",
-  "updatedAt": "2021-12-06T00:48:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Namikiri Atsushi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-06T00:19:38.000Z",
+    "updatedAt": "2022-05-20T02:32:56.000Z",
+    "checkedAt": "2022-05-20T02:32:56.000Z",
+    "id": 116607,
+    "type": "manga",
+    "title": "Switch",
+    "altTitle": [
+      "Trick Shot",
+      "switch"
+    ],
+    "url": "https://myanimelist.net/manga/116607/Switch",
+    "image": "https://cdn.myanimelist.net/images/manga/3/215912.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Trick Shot",
-      "switch"
-    ],
+    "deletedAt": null,
     "authors": [
       "Namikiri, Atsushi"
-    ],
-    "id": 116607,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:06.639Z",
+    "updatedAt": "2022-05-20T02:32:55.000Z",
+    "checkedAt": "2022-05-20T02:32:55.000Z",
+    "id": 105355,
     "type": "manga",
     "title": "Switch",
-    "url": "https://myanimelist.net/manga/116607/Switch",
-    "image": "https://cdn.myanimelist.net/images/manga/3/215912.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-06T00:19:38.000Z",
-    "updatedAt": "2021-12-06T00:47:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スイッチ",
       "Trick Shot"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Atsushi Namikiri"
-    ],
-    "id": 105355,
-    "malId": 116607,
-    "type": "manga",
-    "title": "Switch",
     "url": "https://anilist.co/manga/105355",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105355-vSN1KWSlzxfP.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T00:19:38.000Z",
-    "updatedAt": "2022-01-19T19:04:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116607/Switch"
+    "externalLinks": [],
+    "malId": 116607,
+    "deletedAt": null,
+    "authors": [
+      "Atsushi Namikiri"
+    ]
+  }
 }

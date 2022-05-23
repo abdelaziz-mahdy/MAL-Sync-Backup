@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "JUNG Pil-won"
-  ],
+  "createdAt": "2020-10-12T16:03:30.000Z",
+  "updatedAt": "2021-12-02T14:48:57.000Z",
+  "checkedAt": null,
+  "id": 2370,
   "identifier": "8c2909ad-63bd-464d-9ebd-882349e83912",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35585,
   "aniId": 65585,
-  "createdAt": "2020-10-12T16:03:30.000Z",
-  "updatedAt": "2021-12-02T14:48:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "JUNG Pil-won"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2022-05-16T15:09:10.000Z",
+    "checkedAt": "2022-05-16T15:09:10.000Z",
+    "id": 35585,
+    "type": "manga",
+    "title": "Familyman",
+    "altTitle": [
+      "Family man",
+      "패밀리맨"
+    ],
+    "url": "https://myanimelist.net/manga/35585/Familyman",
+    "image": "https://cdn.myanimelist.net/images/manga/3/106127.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Family man",
-      "패밀리맨"
-    ],
+    "deletedAt": null,
     "authors": [
       "Jung, Pil Won"
-    ],
-    "id": 35585,
-    "type": "manga",
-    "title": "Familyman",
-    "url": "https://myanimelist.net/manga/35585/Familyman",
-    "image": "https://cdn.myanimelist.net/images/manga/3/106127.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2021-11-05T16:35:41.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:30.389Z",
+    "updatedAt": "2022-05-16T15:09:08.000Z",
+    "checkedAt": "2022-05-16T15:09:08.000Z",
+    "id": 65585,
+    "type": "manga",
+    "title": "Family Man",
     "altTitle": [
       "FAMILY MAN",
       "패밀리맨",
       "Family man"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Pil-Won Jung"
-    ],
-    "id": 65585,
-    "malId": 35585,
-    "type": "manga",
-    "title": "Family Man",
     "url": "https://anilist.co/manga/65585",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65585-r2WmeK9zNFyC.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2021-12-17T19:51:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35585/Familyman"
+    "externalLinks": [],
+    "malId": 35585,
+    "deletedAt": null,
+    "authors": [
+      "Pil-Won Jung"
+    ]
+  }
 }

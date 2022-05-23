@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Yoko"
-  ],
+  "createdAt": "2020-10-12T16:05:47.000Z",
+  "updatedAt": "2021-12-03T15:22:01.000Z",
+  "checkedAt": null,
+  "id": 7104,
   "identifier": "b705bab3-c180-4ff9-883a-d1ae3dab1f6f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16760,
   "aniId": 46760,
-  "createdAt": "2020-10-12T16:05:47.000Z",
-  "updatedAt": "2021-12-03T15:22:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Yoko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E6%AD%BB%E3%82%92%E5%94%84%E3%81%86%E6%98%9F%E5%BA%A7"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-05-02T09:02:56.000Z",
+    "checkedAt": null,
+    "id": 16760,
+    "type": "manga",
+    "title": "Shi wo Utau Seiza",
     "altTitle": [
       "Constellation that Sings Death",
       "Kiri to Honoo to Satsujin to",
@@ -33,21 +34,29 @@
       "The Castle",
       "死を唄う星座"
     ],
-    "authors": [
-      "Matsumoto, Yoko"
-    ],
-    "id": 16760,
-    "type": "manga",
-    "title": "Shi wo Utau Seiza",
     "url": "https://myanimelist.net/manga/16760/Shi_wo_Utau_Seiza",
     "image": "https://cdn.myanimelist.net/images/manga/1/24825.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:23.000Z",
-    "updatedAt": "2022-05-02T09:02:56.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%AD%BB%E3%82%92%E5%94%84%E3%81%86%E6%98%9F%E5%BA%A7"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Matsumoto, Yoko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:44.668Z",
+    "updatedAt": "2022-05-13T12:58:44.668Z",
+    "checkedAt": null,
+    "id": 46760,
+    "type": "manga",
+    "title": "Shi wo Utau Seiza",
     "altTitle": [
       "死を唄う星座",
       "Constellation that Sings Death",
@@ -62,21 +71,15 @@
       "Shiver of Flames",
       "The Mansion of Time"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoko Matsumoto"
-    ],
-    "id": 46760,
-    "malId": 16760,
-    "type": "manga",
-    "title": "Shi wo Utau Seiza",
     "url": "https://anilist.co/manga/46760",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16760.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2021-12-17T16:12:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16760/Shi_wo_Utau_Seiza"
+    "externalLinks": [],
+    "malId": 16760,
+    "deletedAt": null,
+    "authors": [
+      "Yoko Matsumoto"
+    ]
+  }
 }

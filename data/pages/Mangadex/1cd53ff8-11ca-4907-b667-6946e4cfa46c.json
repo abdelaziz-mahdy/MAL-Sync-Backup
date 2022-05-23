@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yang Yeong-soon"
-  ],
+  "createdAt": "2020-10-12T16:04:07.000Z",
+  "updatedAt": "2021-12-02T19:17:58.000Z",
+  "checkedAt": null,
+  "id": 3661,
   "identifier": "1cd53ff8-11ca-4907-b667-6946e4cfa46c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94490,
   "aniId": 97711,
-  "createdAt": "2020-10-12T16:04:07.000Z",
-  "updatedAt": "2021-12-02T19:17:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yang Yeong-soon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-20T12:50:25.000Z",
+    "checkedAt": "2022-05-20T12:50:25.000Z",
+    "id": 94490,
+    "type": "manga",
+    "title": "Denma",
+    "altTitle": [
+      "Denma",
+      "덴마"
+    ],
+    "url": "https://myanimelist.net/manga/94490/Denma",
+    "image": "https://cdn.myanimelist.net/images/manga/1/174115.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Denma",
-      "덴마"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yang, Youngsoon"
-    ],
-    "id": 94490,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:20.978Z",
+    "updatedAt": "2022-05-20T12:50:23.000Z",
+    "checkedAt": "2022-05-20T12:50:23.000Z",
+    "id": 97711,
     "type": "manga",
     "title": "Denma",
-    "url": "https://myanimelist.net/manga/94490/Denma",
-    "image": "https://cdn.myanimelist.net/images/manga/1/174115.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2021-12-04T00:47:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Denma",
       "덴마"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Young-soon Yang"
-    ],
-    "id": 97711,
-    "malId": 94490,
-    "type": "manga",
-    "title": "Denma",
     "url": "https://anilist.co/manga/97711",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97711-cYuvlyWwsHh5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2021-12-18T02:02:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94490/Denma"
+    "externalLinks": [],
+    "malId": 94490,
+    "deletedAt": null,
+    "authors": [
+      "Young-soon Yang"
+    ]
+  }
 }

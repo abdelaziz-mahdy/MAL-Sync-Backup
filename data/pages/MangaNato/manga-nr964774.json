@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuruta Kenji"
-  ],
+  "createdAt": "2022-05-11T03:31:54.000Z",
+  "updatedAt": "2022-05-13T16:32:28.000Z",
+  "checkedAt": "2022-05-13T16:25:52.000Z",
+  "id": 103683,
   "identifier": "manga-nr964774",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,63 @@
   "image": "https://avt.mkklcdnv6temp.com/39/t/9-1583481723.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-11T03:31:54.000Z",
-  "updatedAt": "2022-05-11T03:31:54.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 864,
+  "aniId": 30864,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Tsuruta Kenji"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-13T16:25:54.000Z",
+    "checkedAt": "2022-05-13T16:25:54.000Z",
+    "id": 864,
+    "type": "manga",
+    "title": "Spirit of Wonder",
+    "altTitle": [
+      "Spirit of Wonder",
+      "Spirit of Wonder"
+    ],
+    "url": "https://myanimelist.net/manga/864/Spirit_of_Wonder",
+    "image": "https://cdn.myanimelist.net/images/manga/1/184496.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Spirit_of_Wonder"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsuruta, Kenji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:33.206Z",
+    "updatedAt": "2022-05-15T15:51:23.000Z",
+    "checkedAt": "2022-05-15T15:51:23.000Z",
+    "id": 30864,
+    "type": "manga",
+    "title": "Spirit of Wonder",
+    "altTitle": [
+      "Spirit of Wonder",
+      "スピリット オブ ワンダー",
+      "Supiritto Obu Wandaa",
+      "The Spirit of Wonder"
+    ],
+    "url": "https://anilist.co/manga/30864",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30864-DUxDkAURc4jK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 864,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Tsuruta"
+    ]
+  }
 }

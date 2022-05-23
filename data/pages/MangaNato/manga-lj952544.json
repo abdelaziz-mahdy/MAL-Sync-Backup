@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Suzuki Daisuke",
-    "Abara Heiki"
-  ],
+  "createdAt": "2021-07-07T15:30:44.000Z",
+  "updatedAt": "2022-01-07T17:48:43.000Z",
+  "checkedAt": null,
+  "id": 81143,
   "identifier": "manga-lj952544",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 85059,
   "aniId": 85867,
-  "createdAt": "2021-07-07T15:30:44.000Z",
-  "updatedAt": "2022-01-07T17:48:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Daisuke",
+    "Abara Heiki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-16T18:04:22.000Z",
+    "checkedAt": "2022-05-16T18:04:22.000Z",
+    "id": 85059,
+    "type": "manga",
+    "title": "Monku no Tsukeyou ga Nai Love Comedy",
+    "altTitle": [
+      "Never Ending Story",
+      "文句の付けようがないラブコメ"
+    ],
+    "url": "https://myanimelist.net/manga/85059/Monku_no_Tsukeyou_ga_Nai_Love_Comedy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188961.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Never Ending Story",
-      "文句の付けようがないラブコメ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Daisuke",
       "Abara, Heiki"
-    ],
-    "id": 85059,
-    "type": "manga",
-    "title": "Monku no Tsukeyou ga Nai Love Comedy",
-    "url": "https://myanimelist.net/manga/85059/Monku_no_Tsukeyou_ga_Nai_Love_Comedy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188961.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2022-01-07T15:47:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:11.381Z",
+    "updatedAt": "2022-05-16T18:04:21.000Z",
+    "checkedAt": "2022-05-16T18:04:21.000Z",
+    "id": 85867,
+    "type": "manga",
+    "title": "Monku no Tsukeyou ga Nai Love Come",
     "altTitle": [
       "文句の付けようがないラブコメ",
       "Monku no Tsukeyou ga Nai Love Comedy",
       "Monku no Tsukeyou ga nai Rabukome",
       "Never Ending Story"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Suzuki",
-      "Heiki Abara"
-    ],
-    "id": 85867,
-    "malId": 85059,
-    "type": "manga",
-    "title": "Monku no Tsukeyou ga Nai Love Come",
     "url": "https://anilist.co/manga/85867",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85867-f5lIM2W7zVcT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-17T22:24:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85059/Monku_no_Tsukeyou_ga_Nai_Love_Comedy"
+    "externalLinks": [],
+    "malId": 85059,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Suzuki",
+      "Heiki Abara"
+    ]
+  }
 }

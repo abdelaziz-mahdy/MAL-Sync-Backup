@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T18:57:37.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23846,
   "identifier": "4kvj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13769,
   "aniId": 13769,
-  "createdAt": "2020-10-12T18:57:37.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:13.000Z",
+    "updatedAt": "2022-05-14T18:43:53.000Z",
+    "checkedAt": "2022-05-14T18:43:53.000Z",
+    "id": 13769,
+    "type": "anime",
+    "title": "Kamen no Ninja Akakage",
+    "altTitle": [
+      "Red Shadow",
+      "仮面の忍者赤影"
+    ],
+    "url": "https://myanimelist.net/anime/13769/Kamen_no_Ninja_Akakage",
+    "image": "https://cdn.myanimelist.net/images/anime/1969/96438.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Red Shadow",
-      "仮面の忍者赤影"
-    ],
+    "deletedAt": null,
+    "anidbId": 2073
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:16.000Z",
+    "updatedAt": "2021-12-17T13:32:43.000Z",
+    "checkedAt": null,
     "id": 13769,
     "type": "anime",
     "title": "Kamen no Ninja Akakage",
-    "url": "https://myanimelist.net/anime/13769/Kamen_no_Ninja_Akakage",
-    "image": "https://cdn.myanimelist.net/images/anime/1969/96438.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2073,
-    "createdAt": "2020-10-12T15:39:13.000Z",
-    "updatedAt": "2022-04-02T14:06:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "仮面の忍者赤影",
       "Red Shadow"
     ],
-    "externalLinks": [],
-    "id": 13769,
-    "malId": 13769,
-    "type": "anime",
-    "title": "Kamen no Ninja Akakage",
     "url": "https://anilist.co/anime/13769",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13769.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:16.000Z",
-    "updatedAt": "2021-12-17T13:32:43.000Z",
+    "externalLinks": [],
+    "malId": 13769,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/13769/Kamen_no_Ninja_Akakage"
+  }
 }

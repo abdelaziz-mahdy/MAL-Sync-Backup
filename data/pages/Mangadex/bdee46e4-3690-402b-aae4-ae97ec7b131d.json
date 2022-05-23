@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kitakawa Touta"
-  ],
+  "createdAt": "2020-10-12T16:02:34.000Z",
+  "updatedAt": "2021-12-02T08:18:00.000Z",
+  "checkedAt": null,
+  "id": 426,
   "identifier": "bdee46e4-3690-402b-aae4-ae97ec7b131d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15189,
   "aniId": 45189,
-  "createdAt": "2020-10-12T16:02:34.000Z",
-  "updatedAt": "2021-12-02T08:18:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kitakawa Touta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:10.000Z",
+    "updatedAt": "2022-05-16T00:51:24.000Z",
+    "checkedAt": "2022-05-16T00:51:24.000Z",
+    "id": 15189,
+    "type": "manga",
+    "title": "Seishun Pop!",
+    "altTitle": [
+      "青春ポップ！"
+    ],
+    "url": "https://myanimelist.net/manga/15189/Seishun_Pop",
+    "image": "https://cdn.myanimelist.net/images/manga/1/65831.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "青春ポップ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitakawa, Touta"
-    ],
-    "id": 15189,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:34.268Z",
+    "updatedAt": "2022-05-16T00:51:24.000Z",
+    "checkedAt": "2022-05-16T00:51:24.000Z",
+    "id": 45189,
     "type": "manga",
     "title": "Seishun Pop!",
-    "url": "https://myanimelist.net/manga/15189/Seishun_Pop",
-    "image": "https://cdn.myanimelist.net/images/manga/1/65831.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:10.000Z",
-    "updatedAt": "2022-01-30T19:52:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "青春ポップ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Touta Kitakawa"
-    ],
-    "id": 45189,
-    "malId": 15189,
-    "type": "manga",
-    "title": "Seishun Pop!",
     "url": "https://anilist.co/manga/45189",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45189-56MYzo9ZY05u.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:44.000Z",
-    "updatedAt": "2021-12-17T15:43:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15189/Seishun_Pop"
+    "externalLinks": [],
+    "malId": 15189,
+    "deletedAt": null,
+    "authors": [
+      "Touta Kitakawa"
+    ]
+  }
 }

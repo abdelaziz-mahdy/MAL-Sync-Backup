@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Kozue"
-  ],
+  "createdAt": "2020-10-12T16:03:11.000Z",
+  "updatedAt": "2021-12-02T12:46:16.000Z",
+  "checkedAt": null,
+  "id": 1719,
   "identifier": "da294b4f-bf0e-49e8-88ff-b25ad70583f1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124,
   "aniId": 30124,
-  "createdAt": "2020-10-12T16:03:11.000Z",
-  "updatedAt": "2021-12-02T12:46:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Kozue"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-15T06:47:10.000Z",
+    "checkedAt": "2022-05-15T06:47:10.000Z",
+    "id": 124,
+    "type": "manga",
+    "title": "Aqua",
+    "altTitle": [
+      "Othello Game",
+      "Ebony & Ivory",
+      "Aqua",
+      "AQUA"
+    ],
+    "url": "https://myanimelist.net/manga/124/Aqua",
+    "image": "https://cdn.myanimelist.net/images/manga/1/153102.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Othello Game",
-      "Ebony & Ivory",
-      "Aqua",
-      "AQUA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Kozue"
-    ],
-    "id": 124,
-    "type": "manga",
-    "title": "Aqua",
-    "url": "https://myanimelist.net/manga/124/Aqua",
-    "image": "https://cdn.myanimelist.net/images/manga/1/153102.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-03-19T10:50:23.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:04.137Z",
+    "updatedAt": "2022-05-15T14:53:23.000Z",
+    "checkedAt": "2022-05-15T14:53:23.000Z",
+    "id": 30124,
+    "type": "manga",
+    "title": "AQUA",
     "altTitle": [
       "Aqua",
       "AQUA",
       "アクア",
       "Othello Game: Ebony & Ivory"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kozue Amano",
-      "Alethea Nibley",
-      "Athena Nibley"
-    ],
-    "id": 30124,
-    "malId": 124,
-    "type": "manga",
-    "title": "AQUA",
     "url": "https://anilist.co/manga/30124",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30124-GgVKXu3km7MH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-12-17T09:03:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124/Aqua"
+    "externalLinks": [],
+    "malId": 124,
+    "deletedAt": null,
+    "authors": [
+      "Kozue Amano",
+      "Alethea Nibley",
+      "Athena Nibley"
+    ]
+  }
 }

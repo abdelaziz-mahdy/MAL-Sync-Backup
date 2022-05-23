@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iwaaki Hitoshi"
-  ],
+  "createdAt": "2020-10-24T11:58:56.000Z",
+  "updatedAt": "2021-12-08T05:37:10.000Z",
+  "checkedAt": null,
+  "id": 50507,
   "identifier": "6ee67785-4fd5-4f84-8be9-f448314777d0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 401,
   "aniId": 30401,
-  "createdAt": "2020-10-24T11:58:56.000Z",
-  "updatedAt": "2021-12-08T05:37:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iwaaki Hitoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-15T01:42:48.000Z",
+    "checkedAt": "2022-05-15T01:42:48.000Z",
+    "id": 401,
+    "type": "manga",
+    "title": "Kiseijuu",
+    "altTitle": [
+      "Parasite",
+      "Parasitic Beasts",
+      "Parasyte",
+      "寄生獣"
+    ],
+    "url": "https://myanimelist.net/manga/401/Kiseijuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188928.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Parasite",
-      "Parasitic Beasts",
-      "Parasyte",
-      "寄生獣"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwaaki, Hitoshi"
-    ],
-    "id": 401,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:00.243Z",
+    "updatedAt": "2022-05-15T17:57:59.000Z",
+    "checkedAt": "2022-05-15T17:57:59.000Z",
+    "id": 30401,
     "type": "manga",
     "title": "Kiseijuu",
-    "url": "https://myanimelist.net/manga/401/Kiseijuu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188928.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-04-22T21:31:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Parasyte",
       "寄生獣",
@@ -56,23 +65,18 @@
       "Kiseiju - L'ospite indesiderato",
       "Pasożyt"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hitoshi Iwaaki",
-      "Andrew Cunningham",
-      "Drik Sada"
-    ],
-    "id": 30401,
-    "malId": 401,
-    "type": "manga",
-    "title": "Kiseijuu",
     "url": "https://anilist.co/manga/30401",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30401-siY6wmwnHFi6.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-11-08T18:43:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/401/Kiseijuu"
+    "externalLinks": [],
+    "malId": 401,
+    "deletedAt": null,
+    "authors": [
+      "Hitoshi Iwaaki",
+      "Andrew Cunningham",
+      "Drik Sada",
+      "AnHD"
+    ]
+  }
 }

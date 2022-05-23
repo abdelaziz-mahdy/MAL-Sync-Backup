@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gamu"
-  ],
+  "createdAt": "2020-10-12T16:09:04.000Z",
+  "updatedAt": "2021-12-04T15:51:39.000Z",
+  "checkedAt": null,
+  "id": 14182,
   "identifier": "46c6bd7b-26f5-47f0-8b6e-f0b79242978c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90036,
   "aniId": 95180,
-  "createdAt": "2020-10-12T16:09:04.000Z",
-  "updatedAt": "2021-12-04T15:51:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:02.000Z",
+    "updatedAt": "2021-12-04T15:49:18.000Z",
+    "checkedAt": null,
+    "id": 90036,
+    "type": "manga",
+    "title": "Africa no Salaryman",
+    "altTitle": [
+      "African Office Worker",
+      "Businessman in Africa",
+      "アフリカのサラリーマン"
+    ],
+    "url": "https://myanimelist.net/manga/90036/Africa_no_Salaryman",
+    "image": "https://cdn.myanimelist.net/images/manga/1/157545.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "African Office Worker",
-      "Businessman in Africa",
-      "アフリカのサラリーマン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gum"
-    ],
-    "id": 90036,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:00.593Z",
+    "updatedAt": "2022-05-13T13:02:00.593Z",
+    "checkedAt": null,
+    "id": 95180,
     "type": "manga",
     "title": "Africa no Salaryman",
-    "url": "https://myanimelist.net/manga/90036/Africa_no_Salaryman",
-    "image": "https://cdn.myanimelist.net/images/manga/1/157545.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:02.000Z",
-    "updatedAt": "2021-12-04T15:49:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アフリカのサラリーマン",
       "Businessman in Africa",
       "African Office Worker"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gum"
-    ],
-    "id": 95180,
-    "malId": 90036,
-    "type": "manga",
-    "title": "Africa no Salaryman",
     "url": "https://anilist.co/manga/95180",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95180-8rkcXJvpth6T.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T15:20:19.000Z",
-    "updatedAt": "2021-12-18T01:22:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90036/Africa_no_Salaryman"
+    "externalLinks": [],
+    "malId": 90036,
+    "deletedAt": null,
+    "authors": [
+      "Gum"
+    ]
+  }
 }

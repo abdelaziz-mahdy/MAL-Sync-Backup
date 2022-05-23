@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Comic Jackson"
-  ],
+  "createdAt": "2020-10-12T16:18:29.000Z",
+  "updatedAt": "2021-12-07T19:50:17.000Z",
+  "checkedAt": null,
+  "id": 33237,
   "identifier": "72f057b3-3987-4a3c-a757-a6092c99182b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125420,
   "aniId": 115871,
-  "createdAt": "2020-10-12T16:18:29.000Z",
-  "updatedAt": "2021-12-07T19:50:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Comic Jackson"
+  ],
   "Mal": {
+    "createdAt": "2021-06-07T19:19:33.000Z",
+    "updatedAt": "2021-12-07T19:48:14.000Z",
+    "checkedAt": null,
+    "id": 125420,
+    "type": "manga",
+    "title": "Ping Kong",
+    "altTitle": [
+      "PINGKONG"
+    ],
+    "url": "https://myanimelist.net/manga/125420/Ping_Kong",
+    "image": "https://cdn.myanimelist.net/images/manga/1/228466.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "PINGKONG"
-    ],
+    "deletedAt": null,
     "authors": [
       "Comic Jackson"
-    ],
-    "id": 125420,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:57.926Z",
+    "updatedAt": "2022-05-13T12:57:57.926Z",
+    "checkedAt": null,
+    "id": 115871,
     "type": "manga",
     "title": "Ping Kong",
-    "url": "https://myanimelist.net/manga/125420/Ping_Kong",
-    "image": "https://cdn.myanimelist.net/images/manga/1/228466.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-07T19:19:33.000Z",
-    "updatedAt": "2021-12-07T19:48:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "PINGKONG",
       "ピングコング"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Comic Jackson"
-    ],
-    "id": 115871,
-    "malId": 125420,
-    "type": "manga",
-    "title": "Ping Kong",
     "url": "https://anilist.co/manga/115871",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115871-NHo64ki1CxGw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T17:36:09.000Z",
-    "updatedAt": "2021-12-18T08:26:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125420/Ping_Kong"
+    "externalLinks": [],
+    "malId": 125420,
+    "deletedAt": null,
+    "authors": [
+      "Comic Jackson"
+    ]
+  }
 }

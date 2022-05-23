@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Watari Wataru",
-    "Doumoto Yuuki"
-  ],
+  "createdAt": "2020-10-12T16:10:03.000Z",
+  "updatedAt": "2022-05-16T15:30:30.000Z",
+  "checkedAt": "2022-05-16T15:30:13.000Z",
+  "id": 16291,
   "identifier": "63184bb3-cce4-442b-aea7-5427460c9883",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96522,
   "aniId": 87011,
-  "createdAt": "2020-10-12T16:10:03.000Z",
-  "updatedAt": "2021-12-04T22:18:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watari Wataru",
+    "Doumoto Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:25.000Z",
+    "updatedAt": "2022-05-18T23:49:37.000Z",
+    "checkedAt": "2022-05-18T23:49:37.000Z",
+    "id": 96522,
+    "type": "manga",
+    "title": "Gi(a)rlish Number",
+    "altTitle": [
+      "ガーリッシュ ナンバー"
+    ],
+    "url": "https://myanimelist.net/manga/96522/Giarlish_Number",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180908.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ガーリッシュ ナンバー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Doumoto, Yuuki",
       "Watari, Wataru"
-    ],
-    "id": 96522,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:06.029Z",
+    "updatedAt": "2022-05-18T23:49:36.000Z",
+    "checkedAt": "2022-05-18T23:49:36.000Z",
+    "id": 87011,
     "type": "manga",
     "title": "Gi(a)rlish Number",
-    "url": "https://myanimelist.net/manga/96522/Giarlish_Number",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180908.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:25.000Z",
-    "updatedAt": "2022-05-01T06:38:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Girlish Number",
       "ガーリッシュ ナンバー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Wataru Watari",
-      "Yuuki Doumoto",
-      "QP:flapper"
-    ],
-    "id": 87011,
-    "malId": 96522,
-    "type": "manga",
-    "title": "Gi(a)rlish Number",
     "url": "https://anilist.co/manga/87011",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87011-NQXPgo3dajco.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:06.000Z",
-    "updatedAt": "2022-05-07T07:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96522/Giarlish_Number"
+    "externalLinks": [],
+    "malId": 96522,
+    "deletedAt": null,
+    "authors": [
+      "Wataru Watari",
+      "Yuuki Doumoto",
+      "QP:flapper"
+    ]
+  }
 }

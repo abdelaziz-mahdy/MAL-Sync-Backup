@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Naitou Kinosuke",
-    "Yasuyuki Tsurugi"
-  ],
+  "createdAt": "2020-10-12T16:11:05.000Z",
+  "updatedAt": "2021-12-05T05:50:17.000Z",
+  "checkedAt": null,
+  "id": 18525,
   "identifier": "879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110460,
   "aniId": 100456,
-  "createdAt": "2020-10-12T16:11:05.000Z",
-  "updatedAt": "2021-12-05T05:50:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Naitou Kinosuke",
+    "Yasuyuki Tsurugi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:19.000Z",
+    "updatedAt": "2022-05-14T09:27:17.000Z",
+    "checkedAt": "2022-05-14T09:27:17.000Z",
+    "id": 110460,
+    "type": "manga",
+    "title": "Isekai Nonbiri Nouka",
+    "altTitle": [
+      "Farming Life in Another World",
+      "異世界のんびり農家"
+    ],
+    "url": "https://myanimelist.net/manga/110460/Isekai_Nonbiri_Nouka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/207454.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Farming Life in Another World",
-      "異世界のんびり農家"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsurugi, Yasuyuki",
       "Naitou, Kinosuke"
-    ],
-    "id": 110460,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:56.248Z",
+    "updatedAt": "2022-05-15T17:44:59.000Z",
+    "checkedAt": "2022-05-15T17:44:59.000Z",
+    "id": 100456,
     "type": "manga",
     "title": "Isekai Nonbiri Nouka",
-    "url": "https://myanimelist.net/manga/110460/Isekai_Nonbiri_Nouka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/207454.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:19.000Z",
-    "updatedAt": "2022-03-31T14:32:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Farming Life in Another World",
       "異世界のんびり農家"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kinosuke Naitou",
-      "Yasayuki Tsurugi",
-      "Yasumo"
-    ],
-    "id": 100456,
-    "malId": 110460,
-    "type": "manga",
-    "title": "Isekai Nonbiri Nouka",
     "url": "https://anilist.co/manga/100456",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100456-8RMZfz4Tqjln.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:14.000Z",
-    "updatedAt": "2021-12-17T14:17:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110460/Isekai_Nonbiri_Nouka"
+    "externalLinks": [],
+    "malId": 110460,
+    "deletedAt": null,
+    "authors": [
+      "Kinosuke Naitou",
+      "Yasayuki Tsurugi",
+      "Yasumo"
+    ]
+  }
 }

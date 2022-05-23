@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takei Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:09:19.000Z",
+  "updatedAt": "2021-12-04T16:55:09.000Z",
+  "checkedAt": null,
+  "id": 14752,
   "identifier": "1c2716c8-d87f-480f-891e-9285e2183c48",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91486,
   "aniId": 95579,
-  "createdAt": "2020-10-12T16:09:19.000Z",
-  "updatedAt": "2021-12-04T16:55:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takei Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:07.000Z",
+    "updatedAt": "2022-05-21T09:42:05.000Z",
+    "checkedAt": "2022-05-21T09:42:05.000Z",
+    "id": 91486,
+    "type": "manga",
+    "title": "Nekogahara",
+    "altTitle": [
+      "Nekogahara: Stray Cat Samurai",
+      "猫ヶ原"
+    ],
+    "url": "https://myanimelist.net/manga/91486/Nekogahara",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175772.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nekogahara: Stray Cat Samurai",
-      "猫ヶ原"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takei, Hiroyuki"
-    ],
-    "id": 91486,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:34.144Z",
+    "updatedAt": "2022-05-21T09:42:03.000Z",
+    "checkedAt": "2022-05-21T09:42:03.000Z",
+    "id": 95579,
     "type": "manga",
     "title": "Nekogahara",
-    "url": "https://myanimelist.net/manga/91486/Nekogahara",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175772.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:07.000Z",
-    "updatedAt": "2022-01-06T05:18:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Nekogahara: Stray Cat Samurai",
       "猫ヶ原"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroyuki Takei"
-    ],
-    "id": 95579,
-    "malId": 91486,
-    "type": "manga",
-    "title": "Nekogahara",
     "url": "https://anilist.co/manga/95579",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx95579-ue2ex1hEsLTY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:36.000Z",
-    "updatedAt": "2021-12-18T01:26:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91486/Nekogahara"
+    "externalLinks": [],
+    "malId": 91486,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Takei"
+    ]
+  }
 }

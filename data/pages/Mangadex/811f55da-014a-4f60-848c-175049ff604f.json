@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "설이",
-    "Yoon Seong-Won"
-  ],
+  "createdAt": "2020-10-12T16:12:07.000Z",
+  "updatedAt": "2021-12-05T14:18:50.000Z",
+  "checkedAt": null,
+  "id": 20749,
   "identifier": "811f55da-014a-4f60-848c-175049ff604f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 119608,
   "aniId": 97714,
-  "createdAt": "2020-10-12T16:12:07.000Z",
-  "updatedAt": "2021-12-05T14:18:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "설이",
+    "Yoon Seong-Won"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:56.000Z",
+    "updatedAt": "2022-03-01T01:20:44.000Z",
+    "checkedAt": null,
+    "id": 119608,
+    "type": "manga",
+    "title": "Beautiful Gunbari",
+    "altTitle": [
+      "Beautiful Soldier",
+      "뷰티풀 군바리"
+    ],
+    "url": "https://myanimelist.net/manga/119608/Beautiful_Gunbari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/228271.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Beautiful Soldier",
-      "뷰티풀 군바리"
-    ],
+    "deletedAt": null,
     "authors": [
       "Seoli",
       "Yoon, Sung-Won"
-    ],
-    "id": 119608,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:37.040Z",
+    "updatedAt": "2022-05-13T12:59:37.040Z",
+    "checkedAt": null,
+    "id": 97714,
     "type": "manga",
     "title": "Beautiful Gunbari",
-    "url": "https://myanimelist.net/manga/119608/Beautiful_Gunbari",
-    "image": "https://cdn.myanimelist.net/images/manga/1/228271.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:56.000Z",
-    "updatedAt": "2022-03-01T01:20:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "뷰티풀 군바리"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Seongwon Yun",
-      "Seori"
-    ],
-    "id": 97714,
-    "malId": 119608,
-    "type": "manga",
-    "title": "Beautiful Gunbari",
     "url": "https://anilist.co/manga/97714",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97714-2NDTS6Yb3So6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T13:49:58.000Z",
-    "updatedAt": "2021-12-18T02:02:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119608/Beautiful_Gunbari"
+    "externalLinks": [],
+    "malId": 119608,
+    "deletedAt": null,
+    "authors": [
+      "Seongwon Yun",
+      "Seori"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "DoYa"
-  ],
+  "createdAt": "2020-10-12T16:17:53.000Z",
+  "updatedAt": "2021-12-07T12:17:05.000Z",
+  "checkedAt": null,
+  "id": 32075,
   "identifier": "d4d68d49-a475-4679-a070-38ed2876090e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4608,
   "aniId": 34608,
-  "createdAt": "2020-10-12T16:17:53.000Z",
-  "updatedAt": "2021-12-07T12:17:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "DoYa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-15T17:05:47.000Z",
+    "checkedAt": "2022-05-15T17:05:47.000Z",
+    "id": 4608,
+    "type": "manga",
+    "title": "Break Blade",
+    "altTitle": [
+      "Broken Blade",
+      "ブレイクブレイド"
+    ],
+    "url": "https://myanimelist.net/manga/4608/Break_Blade",
+    "image": "https://cdn.myanimelist.net/images/manga/3/160213.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Broken Blade",
-      "ブレイクブレイド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshinaga, Yunosuke"
-    ],
-    "id": 4608,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:27.445Z",
+    "updatedAt": "2022-05-15T20:03:23.000Z",
+    "checkedAt": "2022-05-15T20:03:23.000Z",
+    "id": 34608,
     "type": "manga",
     "title": "Break Blade",
-    "url": "https://myanimelist.net/manga/4608/Break_Blade",
-    "image": "https://cdn.myanimelist.net/images/manga/3/160213.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-04-29T07:02:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Broken Blade",
       "ブレイクブレイド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yunosuke Yoshinaga"
-    ],
-    "id": 34608,
-    "malId": 4608,
-    "type": "manga",
-    "title": "Break Blade",
     "url": "https://anilist.co/manga/34608",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34608-hCb6DaK2EqWE.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2021-12-17T12:08:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4608/Break_Blade"
+    "externalLinks": [],
+    "malId": 4608,
+    "deletedAt": null,
+    "authors": [
+      "Yunosuke Yoshinaga"
+    ]
+  }
 }

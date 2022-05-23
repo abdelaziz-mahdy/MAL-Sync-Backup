@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "RiosiZashiki",
-    "Auteur(s)RiosiZashiki"
-  ],
+  "createdAt": "2020-10-12T16:13:49.000Z",
+  "updatedAt": "2022-01-28T09:33:37.000Z",
+  "checkedAt": null,
+  "id": 23679,
   "identifier": "ef68c7c7-bb29-4ce7-a083-494077575bb1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 38950,
-  "createdAt": "2020-10-12T16:13:49.000Z",
-  "updatedAt": "2022-01-28T09:33:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "RiosiZashiki",
+    "Auteur(s)RiosiZashiki"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:31.187Z",
+    "updatedAt": "2022-05-19T03:09:12.000Z",
+    "checkedAt": "2022-05-19T03:09:12.000Z",
+    "id": 38950,
+    "type": "manga",
+    "title": "Hanamaru Youchien",
     "altTitle": [
       "Hanamaru Kindergarten",
       "はなまる幼稚園",
       "Hanamaru Yōchien"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuto"
-    ],
-    "id": 38950,
-    "malId": 8950,
-    "type": "manga",
-    "title": "Hanamaru Youchien",
     "url": "https://anilist.co/manga/38950",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8950.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:52.000Z",
-    "updatedAt": "2021-12-17T13:39:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 8950,
+    "deletedAt": null,
+    "authors": [
+      "Yuuto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ichijo Yukari"
-  ],
+  "createdAt": "2020-10-12T16:04:02.000Z",
+  "updatedAt": "2021-12-02T18:18:27.000Z",
+  "checkedAt": null,
+  "id": 3480,
   "identifier": "7a49b808-09bd-43cc-b5f1-bb58f619b502",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4243,
   "aniId": 34243,
-  "createdAt": "2020-10-12T16:04:02.000Z",
-  "updatedAt": "2021-12-02T18:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ichijo Yukari"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:58.000Z",
+    "updatedAt": "2022-04-28T17:30:33.000Z",
+    "checkedAt": null,
+    "id": 4243,
+    "type": "manga",
+    "title": "Pride",
+    "altTitle": [
+      "プライド"
+    ],
+    "url": "https://myanimelist.net/manga/4243/Pride",
+    "image": "https://cdn.myanimelist.net/images/manga/1/77417.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "プライド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ichijo, Yukari"
-    ],
-    "id": 4243,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:11.672Z",
+    "updatedAt": "2022-05-13T13:01:11.672Z",
+    "checkedAt": null,
+    "id": 34243,
     "type": "manga",
     "title": "Pride",
-    "url": "https://myanimelist.net/manga/4243/Pride",
-    "image": "https://cdn.myanimelist.net/images/manga/1/77417.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:58.000Z",
-    "updatedAt": "2022-04-28T17:30:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "プライド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukari Ichijo"
-    ],
-    "id": 34243,
-    "malId": 4243,
-    "type": "manga",
-    "title": "Pride",
     "url": "https://anilist.co/manga/34243",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34243-PgYm9ndIvncw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:45:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4243/Pride"
+    "externalLinks": [],
+    "malId": 4243,
+    "deletedAt": null,
+    "authors": [
+      "Yukari Ichijo"
+    ]
+  }
 }

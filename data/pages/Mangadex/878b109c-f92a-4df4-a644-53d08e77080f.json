@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kakinouchi Narumi"
-  ],
+  "createdAt": "2020-10-12T16:06:13.000Z",
+  "updatedAt": "2021-12-03T18:19:09.000Z",
+  "checkedAt": null,
+  "id": 8001,
   "identifier": "878b109c-f92a-4df4-a644-53d08e77080f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1223,
   "aniId": 31223,
-  "createdAt": "2020-10-12T16:06:13.000Z",
-  "updatedAt": "2021-12-03T18:19:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kakinouchi Narumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-19T04:30:03.000Z",
+    "checkedAt": "2022-05-19T04:30:03.000Z",
+    "id": 1223,
+    "type": "manga",
+    "title": "Vampire Miyu",
+    "altTitle": [
+      "Kyuuketsuhime Miyu",
+      "Vampire Princess Miyu",
+      "吸血姫 美夕"
+    ],
+    "url": "https://myanimelist.net/manga/1223/Vampire_Miyu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/142499.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kyuuketsuhime Miyu",
-      "Vampire Princess Miyu",
-      "吸血姫 美夕"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kakinouchi, Narumi"
-    ],
-    "id": 1223,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.806Z",
+    "updatedAt": "2022-05-19T04:30:02.000Z",
+    "checkedAt": "2022-05-19T04:30:02.000Z",
+    "id": 31223,
     "type": "manga",
     "title": "Vampire Miyu",
-    "url": "https://myanimelist.net/manga/1223/Vampire_Miyu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/142499.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-04-24T09:31:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "吸血姫美夕",
       "Kyuuketsu-hime Miyu",
@@ -52,21 +61,15 @@
       "Vampire Princess Miyu",
       "Kyuuketsuhime Miyu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Narumi Kakinouchi"
-    ],
-    "id": 31223,
-    "malId": 1223,
-    "type": "manga",
-    "title": "Vampire Miyu",
     "url": "https://anilist.co/manga/31223",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31223-Bg62yYaF7Pwn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2021-12-17T09:44:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1223/Vampire_Miyu"
+    "externalLinks": [],
+    "malId": 1223,
+    "deletedAt": null,
+    "authors": [
+      "Narumi Kakinouchi"
+    ]
+  }
 }

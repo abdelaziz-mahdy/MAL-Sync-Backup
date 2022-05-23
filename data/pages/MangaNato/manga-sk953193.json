@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lim Dall-Young",
-    "Kim Kwang Hyun"
-  ],
+  "createdAt": "2021-06-09T15:34:14.000Z",
+  "updatedAt": "2021-12-09T16:33:50.000Z",
+  "checkedAt": null,
+  "id": 77456,
   "identifier": "manga-sk953193",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5911,
   "aniId": 35911,
-  "createdAt": "2021-06-09T15:34:14.000Z",
-  "updatedAt": "2021-12-09T16:33:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lim Dall-Young",
+    "Kim Kwang Hyun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:08.000Z",
+    "updatedAt": "2022-05-15T03:55:07.000Z",
+    "checkedAt": "2022-05-15T03:55:07.000Z",
+    "id": 5911,
+    "type": "manga",
+    "title": "Freezing",
+    "altTitle": [
+      "Freezing Second Season",
+      "Freezing",
+      "フリージング"
+    ],
+    "url": "https://myanimelist.net/manga/5911/Freezing",
+    "image": "https://cdn.myanimelist.net/images/manga/3/51021.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Freezing Second Season",
-      "Freezing",
-      "フリージング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Im, Dal Young",
       "Kim, Kwang Hyun"
-    ],
-    "id": 5911,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:38.492Z",
+    "updatedAt": "2022-05-15T21:37:23.000Z",
+    "checkedAt": "2022-05-15T21:37:23.000Z",
+    "id": 35911,
     "type": "manga",
     "title": "Freezing",
-    "url": "https://myanimelist.net/manga/5911/Freezing",
-    "image": "https://cdn.myanimelist.net/images/manga/3/51021.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:08.000Z",
-    "updatedAt": "2022-04-30T05:32:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フリージング",
       "프리징"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dal-Young Im",
-      "Kwang-Hyun Kim"
-    ],
-    "id": 35911,
-    "malId": 5911,
-    "type": "manga",
-    "title": "Freezing",
     "url": "https://anilist.co/manga/35911",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx35911-kdz8D5Rtmwyq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:35.000Z",
-    "updatedAt": "2022-03-29T21:30:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5911/Freezing"
+    "externalLinks": [],
+    "malId": 5911,
+    "deletedAt": null,
+    "authors": [
+      "Dal-Young Im",
+      "Kwang-Hyun Kim"
+    ]
+  }
 }

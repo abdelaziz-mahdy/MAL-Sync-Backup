@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "卡斯特动漫"
-  ],
+  "createdAt": "2020-10-12T16:21:05.000Z",
+  "updatedAt": "2021-12-08T07:11:01.000Z",
+  "checkedAt": null,
+  "id": 38603,
   "identifier": "5fc0a643-9178-46aa-b983-5324d8001724",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123266,
-  "createdAt": "2020-10-12T16:21:05.000Z",
-  "updatedAt": "2021-12-08T07:11:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "卡斯特动漫"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:17.922Z",
+    "updatedAt": "2022-05-21T02:32:16.000Z",
+    "checkedAt": "2022-05-21T02:32:16.000Z",
+    "id": 123266,
+    "type": "manga",
+    "title": "Baieji",
     "altTitle": [
       "白垩纪",
       "Cretaceous Period"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Caster Dongman"
-    ],
-    "id": 123266,
-    "malId": null,
-    "type": "manga",
-    "title": "Baieji",
     "url": "https://anilist.co/manga/123266",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123266-4uhWfl811n6z.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T01:51:19.000Z",
-    "updatedAt": "2021-12-21T16:31:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Caster Dongman"
+    ]
+  }
 }

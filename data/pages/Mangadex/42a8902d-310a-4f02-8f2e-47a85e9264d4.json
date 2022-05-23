@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugata Uri"
-  ],
+  "createdAt": "2020-10-12T16:10:20.000Z",
+  "updatedAt": "2021-12-05T08:47:38.000Z",
+  "checkedAt": null,
+  "id": 16893,
   "identifier": "42a8902d-310a-4f02-8f2e-47a85e9264d4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 107331,
   "aniId": 99689,
-  "createdAt": "2020-10-12T16:10:20.000Z",
-  "updatedAt": "2021-12-05T08:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugata Uri"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T00:18:57.000Z",
+    "updatedAt": "2021-12-05T00:52:21.000Z",
+    "checkedAt": null,
+    "id": 107331,
+    "type": "manga",
+    "title": "Konna Watashi wo Kawaii, Nante",
+    "altTitle": [
+      "こんなわたしをかわいい、なんて"
+    ],
+    "url": "https://myanimelist.net/manga/107331/Konna_Watashi_wo_Kawaii_Nante",
+    "image": "https://cdn.myanimelist.net/images/manga/2/196501.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こんなわたしをかわいい、なんて"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugata, Uri"
-    ],
-    "id": 107331,
-    "type": "manga",
-    "title": "Konna Watashi wo Kawaii, Nante",
-    "url": "https://myanimelist.net/manga/107331/Konna_Watashi_wo_Kawaii_Nante",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196501.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T00:18:57.000Z",
-    "updatedAt": "2021-12-05T00:52:21.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:01.737Z",
+    "updatedAt": "2022-05-13T12:53:01.737Z",
+    "checkedAt": null,
+    "id": 99689,
+    "type": "manga",
+    "title": "Konna Watashi o Kawaii, Nante",
     "altTitle": [
       "こんなわたしをかわいい、なんて",
       "I am a sentimental girl when he says \"Kawaii.\"",
       "Konna Watashi wo Kawaii Nante"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Uri Sugata"
-    ],
-    "id": 99689,
-    "malId": 107331,
-    "type": "manga",
-    "title": "Konna Watashi o Kawaii, Nante",
     "url": "https://anilist.co/manga/99689",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99689-thX5h0ws5X7r.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T00:18:58.000Z",
-    "updatedAt": "2021-12-18T02:56:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/107331/Konna_Watashi_wo_Kawaii_Nante"
+    "externalLinks": [],
+    "malId": 107331,
+    "deletedAt": null,
+    "authors": [
+      "Uri Sugata"
+    ]
+  }
 }

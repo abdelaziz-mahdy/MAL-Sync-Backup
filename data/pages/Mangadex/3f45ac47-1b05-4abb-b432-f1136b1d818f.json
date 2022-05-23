@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katou Setsuko"
-  ],
+  "createdAt": "2020-10-12T16:08:25.000Z",
+  "updatedAt": "2021-12-04T10:20:18.000Z",
+  "checkedAt": null,
+  "id": 12758,
   "identifier": "3f45ac47-1b05-4abb-b432-f1136b1d818f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 68231,
   "aniId": 90811,
-  "createdAt": "2020-10-12T16:08:25.000Z",
-  "updatedAt": "2021-12-04T10:20:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katou Setsuko"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:14.000Z",
+    "updatedAt": "2021-11-10T00:14:56.000Z",
+    "checkedAt": null,
+    "id": 68231,
+    "type": "manga",
+    "title": "Over Take",
     "altTitle": [
       "Overtake",
       "Imitator",
@@ -27,21 +33,24 @@
       "Kumo no Ami",
       "オーバーテイク"
     ],
-    "authors": [
-      "Katou, Setsuko"
-    ],
-    "id": 68231,
-    "type": "manga",
-    "title": "Over Take",
     "url": "https://myanimelist.net/manga/68231/Over_Take",
     "image": "https://cdn.myanimelist.net/images/manga/3/120021.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:14.000Z",
-    "updatedAt": "2021-11-10T00:14:56.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Katou, Setsuko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:26.920Z",
+    "updatedAt": "2022-05-13T13:00:26.920Z",
+    "checkedAt": null,
+    "id": 90811,
+    "type": "manga",
+    "title": "Over Take",
     "altTitle": [
       "オーバーテイク",
       "Overtake",
@@ -49,21 +58,15 @@
       "Mimic",
       "Kumo no Ami"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Setsuko Katou"
-    ],
-    "id": 90811,
-    "malId": 68231,
-    "type": "manga",
-    "title": "Over Take",
     "url": "https://anilist.co/manga/90811",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90811-DMOeUL0YYoXM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:02.000Z",
-    "updatedAt": "2021-12-18T00:02:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/68231/Over_Take"
+    "externalLinks": [],
+    "malId": 68231,
+    "deletedAt": null,
+    "authors": [
+      "Setsuko Katou"
+    ]
+  }
 }

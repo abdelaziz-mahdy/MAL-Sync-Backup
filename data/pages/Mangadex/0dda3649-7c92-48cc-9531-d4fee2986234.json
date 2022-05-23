@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakama Asaki"
-  ],
+  "createdAt": "2020-10-12T16:07:33.000Z",
+  "updatedAt": "2021-12-04T03:51:20.000Z",
+  "checkedAt": null,
+  "id": 10889,
   "identifier": "0dda3649-7c92-48cc-9531-d4fee2986234",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64535,
   "aniId": 89996,
-  "createdAt": "2020-10-12T16:07:33.000Z",
-  "updatedAt": "2021-12-04T03:51:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakama Asaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2022-05-20T00:27:04.000Z",
+    "checkedAt": "2022-05-20T00:27:04.000Z",
+    "id": 64535,
+    "type": "manga",
+    "title": "Kenzen Robo Daimidaler",
+    "altTitle": [
+      "Daimidaler the Sound Robot",
+      "Daimidaier: Prince v.s. Penguin Empire",
+      "健全ロボ ダイミダラー"
+    ],
+    "url": "https://myanimelist.net/manga/64535/Kenzen_Robo_Daimidaler",
+    "image": "https://cdn.myanimelist.net/images/manga/2/110393.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Daimidaler the Sound Robot",
-      "Daimidaier: Prince v.s. Penguin Empire",
-      "健全ロボ ダイミダラー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakama, Asaki"
-    ],
-    "id": 64535,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:10.599Z",
+    "updatedAt": "2022-05-20T00:27:03.000Z",
+    "checkedAt": "2022-05-20T00:27:03.000Z",
+    "id": 89996,
     "type": "manga",
     "title": "Kenzen Robo Daimidaler",
-    "url": "https://myanimelist.net/manga/64535/Kenzen_Robo_Daimidaler",
-    "image": "https://cdn.myanimelist.net/images/manga/2/110393.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2021-11-09T12:14:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "健全ロボ ダイミダラー",
       "Daimidaler the Sound Robot",
       "Daimidaier: Prince v.s. Penguin Empire"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asaki Nakama"
-    ],
-    "id": 89996,
-    "malId": 64535,
-    "type": "manga",
-    "title": "Kenzen Robo Daimidaler",
     "url": "https://anilist.co/manga/89996",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89996-uzdYK3ZhC5Nz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:50.000Z",
-    "updatedAt": "2021-12-17T23:57:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64535/Kenzen_Robo_Daimidaler"
+    "externalLinks": [],
+    "malId": 64535,
+    "deletedAt": null,
+    "authors": [
+      "Asaki Nakama"
+    ]
+  }
 }

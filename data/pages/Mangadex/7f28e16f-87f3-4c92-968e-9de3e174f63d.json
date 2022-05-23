@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matoh Sanami"
-  ],
+  "createdAt": "2020-10-12T16:12:56.000Z",
+  "updatedAt": "2021-12-05T18:20:29.000Z",
+  "checkedAt": null,
+  "id": 21873,
   "identifier": "7f28e16f-87f3-4c92-968e-9de3e174f63d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1197,
   "aniId": 31197,
-  "createdAt": "2020-10-12T16:12:56.000Z",
-  "updatedAt": "2021-12-05T18:20:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matoh Sanami"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/By_the_Sword_%28manga%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-02-04T00:36:15.000Z",
+    "checkedAt": null,
+    "id": 1197,
+    "type": "manga",
+    "title": "By The Sword",
     "altTitle": [
       "Yo-u",
       "Yô",
@@ -33,21 +34,29 @@
       "By The Sword",
       "妖"
     ],
-    "authors": [
-      "Matoh, Sanami"
-    ],
-    "id": 1197,
-    "type": "manga",
-    "title": "By The Sword",
     "url": "https://myanimelist.net/manga/1197/By_The_Sword",
     "image": "https://cdn.myanimelist.net/images/manga/3/929.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-02-04T00:36:15.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/By_the_Sword_%28manga%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Matoh, Sanami"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:33.589Z",
+    "updatedAt": "2022-05-13T13:03:33.589Z",
+    "checkedAt": null,
+    "id": 31197,
+    "type": "manga",
+    "title": "By The Sword",
     "altTitle": [
       "By The Sword",
       "妖",
@@ -56,21 +65,15 @@
       "Yo-u - The Moegi",
       "妖 -YO U-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sanami Matou"
-    ],
-    "id": 31197,
-    "malId": 1197,
-    "type": "manga",
-    "title": "By The Sword",
     "url": "https://anilist.co/manga/31197",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31197-Qs0clNAbLQo7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2022-04-27T21:00:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1197/By_The_Sword"
+    "externalLinks": [],
+    "malId": 1197,
+    "deletedAt": null,
+    "authors": [
+      "Sanami Matou"
+    ]
+  }
 }

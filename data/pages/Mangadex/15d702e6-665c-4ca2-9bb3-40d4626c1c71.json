@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Tsutomu"
-  ],
+  "createdAt": "2020-10-12T16:02:56.000Z",
+  "updatedAt": "2021-12-02T10:47:49.000Z",
+  "checkedAt": null,
+  "id": 1188,
   "identifier": "15d702e6-665c-4ca2-9bb3-40d4626c1c71",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 379,
   "aniId": 30379,
-  "createdAt": "2020-10-12T16:02:56.000Z",
-  "updatedAt": "2021-12-02T10:47:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Tsutomu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-15T16:59:55.000Z",
+    "checkedAt": "2022-05-15T16:59:55.000Z",
+    "id": 379,
+    "type": "manga",
+    "title": "Jiraishin",
+    "altTitle": [
+      "Ice Blade",
+      "Ice Blade",
+      "地雷震"
+    ],
+    "url": "https://myanimelist.net/manga/379/Jiraishin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/22609.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ice Blade",
-      "Ice Blade",
-      "地雷震"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Tsutomu"
-    ],
-    "id": 379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:58.770Z",
+    "updatedAt": "2022-05-15T19:59:47.000Z",
+    "checkedAt": "2022-05-15T19:59:47.000Z",
+    "id": 30379,
     "type": "manga",
     "title": "Jiraishin",
-    "url": "https://myanimelist.net/manga/379/Jiraishin",
-    "image": "https://cdn.myanimelist.net/images/manga/1/22609.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-01-20T08:04:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ice Blade",
       "地雷震"
     ],
+    "url": "https://anilist.co/manga/30379",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30379-Nqw5NfRSNIHe.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 379,
+    "deletedAt": null,
     "authors": [
       "Tsutomu Takahashi",
       "Tsutomu Nihei",
       "Shuuhou Sato",
       "Shouhei Manabe"
-    ],
-    "id": 30379,
-    "malId": 379,
-    "type": "manga",
-    "title": "Jiraishin",
-    "url": "https://anilist.co/manga/30379",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30379-Nqw5NfRSNIHe.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2022-02-05T05:37:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/379/Jiraishin"
+    ]
+  }
 }

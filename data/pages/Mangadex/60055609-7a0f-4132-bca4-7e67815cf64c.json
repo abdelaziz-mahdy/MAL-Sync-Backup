@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toumasu"
-  ],
+  "createdAt": "2020-10-12T16:08:28.000Z",
+  "updatedAt": "2021-12-04T10:52:08.000Z",
+  "checkedAt": null,
+  "id": 12869,
   "identifier": "60055609-7a0f-4132-bca4-7e67815cf64c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88030,
   "aniId": 86220,
-  "createdAt": "2020-10-12T16:08:28.000Z",
-  "updatedAt": "2021-12-04T10:52:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toumasu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:56.000Z",
+    "updatedAt": "2021-11-14T13:44:40.000Z",
+    "checkedAt": null,
+    "id": 88030,
+    "type": "manga",
+    "title": "Gion no Tsugai",
+    "altTitle": [
+      "ギオンのツガイ"
+    ],
+    "url": "https://myanimelist.net/manga/88030/Gion_no_Tsugai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/167985.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ギオンのツガイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Thomas"
-    ],
-    "id": 88030,
-    "type": "manga",
-    "title": "Gion no Tsugai",
-    "url": "https://myanimelist.net/manga/88030/Gion_no_Tsugai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/167985.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:56.000Z",
-    "updatedAt": "2021-11-14T13:44:40.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:00.232Z",
+    "updatedAt": "2022-05-13T13:02:00.232Z",
+    "checkedAt": null,
+    "id": 86220,
+    "type": "manga",
+    "title": "Gion no Tsugai",
     "altTitle": [
       "ギオンのツガイ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Thomas"
-    ],
-    "id": 86220,
-    "malId": 88030,
-    "type": "manga",
-    "title": "Gion no Tsugai",
     "url": "https://anilist.co/manga/86220",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56220-K2gs7T6ksrnn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2021-12-17T22:32:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88030/Gion_no_Tsugai"
+    "externalLinks": [],
+    "malId": 88030,
+    "deletedAt": null,
+    "authors": [
+      "Thomas"
+    ]
+  }
 }

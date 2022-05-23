@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asano Inio"
-  ],
+  "createdAt": "2020-10-12T16:07:35.000Z",
+  "updatedAt": "2021-12-04T04:18:00.000Z",
+  "checkedAt": null,
+  "id": 10940,
   "identifier": "a42db50d-20df-4f33-bddc-fe990df9c231",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3731,
   "aniId": 33731,
-  "createdAt": "2020-10-12T16:07:35.000Z",
-  "updatedAt": "2021-12-04T04:18:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asano Inio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-05-14T10:00:54.000Z",
+    "checkedAt": "2022-05-14T10:00:54.000Z",
+    "id": 3731,
+    "type": "manga",
+    "title": "Solanin",
+    "altTitle": [
+      "Solanin",
+      "ソラニン"
+    ],
+    "url": "https://myanimelist.net/manga/3731/Solanin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/179699.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,31 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Solanin",
-      "ソラニン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asano, Inio"
-    ],
-    "id": 3731,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:11.502Z",
+    "updatedAt": "2022-05-15T22:33:23.000Z",
+    "checkedAt": "2022-05-15T22:33:23.000Z",
+    "id": 33731,
     "type": "manga",
     "title": "Solanin",
-    "url": "https://myanimelist.net/manga/3731/Solanin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/179699.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2022-04-30T10:01:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Solanin",
       "ソラニン",
       "Soranin"
     ],
+    "url": "https://anilist.co/manga/33731",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33731-PveBsdpQppy0.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 3731,
+    "deletedAt": null,
     "authors": [
       "Inio Asano",
       "Thibaud Desbief",
@@ -57,18 +72,6 @@
       "Drik Sada",
       "Pablo Tschopp",
       "Hernán Dillie"
-    ],
-    "id": 33731,
-    "malId": 3731,
-    "type": "manga",
-    "title": "Solanin",
-    "url": "https://anilist.co/manga/33731",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33731-PveBsdpQppy0.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:38:16.000Z",
-    "updatedAt": "2022-04-21T11:30:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3731/Solanin"
+    ]
+  }
 }

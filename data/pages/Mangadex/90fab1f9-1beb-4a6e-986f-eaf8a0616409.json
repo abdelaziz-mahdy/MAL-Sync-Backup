@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shioya Teruko"
-  ],
+  "createdAt": "2020-10-12T16:07:00.000Z",
+  "updatedAt": "2021-12-03T23:47:07.000Z",
+  "checkedAt": null,
+  "id": 9666,
   "identifier": "90fab1f9-1beb-4a6e-986f-eaf8a0616409",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64477,
   "aniId": 85228,
-  "createdAt": "2020-10-12T16:07:00.000Z",
-  "updatedAt": "2021-12-03T23:47:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shioya Teruko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2021-11-09T11:44:25.000Z",
+    "checkedAt": null,
+    "id": 64477,
+    "type": "manga",
+    "title": "Lemonade",
+    "altTitle": [
+      "レモネード"
+    ],
+    "url": "https://myanimelist.net/manga/64477/Lemonade",
+    "image": "https://cdn.myanimelist.net/images/manga/1/110265.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "レモネード"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shioya, Teruko"
-    ],
-    "id": 64477,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:52.264Z",
+    "updatedAt": "2022-05-13T13:04:52.264Z",
+    "checkedAt": null,
+    "id": 85228,
     "type": "manga",
     "title": "Lemonade",
-    "url": "https://myanimelist.net/manga/64477/Lemonade",
-    "image": "https://cdn.myanimelist.net/images/manga/1/110265.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2021-11-09T11:44:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lemonade",
       "レモネード",
       "Lemon ade"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Teruko Shioya"
-    ],
-    "id": 85228,
-    "malId": 64477,
-    "type": "manga",
-    "title": "Lemonade",
     "url": "https://anilist.co/manga/85228",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55228.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:50.000Z",
-    "updatedAt": "2021-12-17T21:56:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64477/Lemonade"
+    "externalLinks": [],
+    "malId": 64477,
+    "deletedAt": null,
+    "authors": [
+      "Teruko Shioya"
+    ]
+  }
 }

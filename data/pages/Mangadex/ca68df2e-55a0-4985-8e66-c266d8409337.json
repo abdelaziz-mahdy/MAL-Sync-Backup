@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyamoto Kano"
-  ],
+  "createdAt": "2020-10-12T16:08:06.000Z",
+  "updatedAt": "2021-12-04T07:51:01.000Z",
+  "checkedAt": null,
+  "id": 12045,
   "identifier": "ca68df2e-55a0-4985-8e66-c266d8409337",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83689,
   "aniId": 93437,
-  "createdAt": "2020-10-12T16:08:06.000Z",
-  "updatedAt": "2021-12-04T07:51:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyamoto Kano"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:40.000Z",
+    "updatedAt": "2022-05-01T06:37:37.000Z",
+    "checkedAt": null,
+    "id": 83689,
+    "type": "manga",
+    "title": "Natsu no Aza",
     "altTitle": [
       "Natsu no Aza",
       "Summer Birthmark",
@@ -31,21 +37,24 @@
       "Spring Cicada",
       "夏の痣"
     ],
-    "authors": [
-      "Miyamoto, Kano"
-    ],
-    "id": 83689,
-    "type": "manga",
-    "title": "Natsu no Aza",
     "url": "https://myanimelist.net/manga/83689/Natsu_no_Aza",
     "image": "https://cdn.myanimelist.net/images/manga/2/145405.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:40.000Z",
-    "updatedAt": "2022-05-01T06:37:37.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyamoto, Kano"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:22.635Z",
+    "updatedAt": "2022-05-13T13:06:22.635Z",
+    "checkedAt": null,
+    "id": 93437,
+    "type": "manga",
+    "title": "Natsu no Aza",
     "altTitle": [
       "夏の痣",
       "Natsu no Aza",
@@ -57,21 +66,15 @@
       "Haru no Semi",
       "Spring Cicada"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kano Miyamoto"
-    ],
-    "id": 93437,
-    "malId": 83689,
-    "type": "manga",
-    "title": "Natsu no Aza",
     "url": "https://anilist.co/manga/93437",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93437-7VY77p82Emmc.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2021-12-18T00:53:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83689/Natsu_no_Aza"
+    "externalLinks": [],
+    "malId": 83689,
+    "deletedAt": null,
+    "authors": [
+      "Kano Miyamoto"
+    ]
+  }
 }

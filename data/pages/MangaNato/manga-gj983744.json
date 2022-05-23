@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Yoko Taro",
-    "Aoki Tact",
-    "Himiko",
-    "Jino"
-  ],
+  "createdAt": "2021-07-28T17:22:28.000Z",
+  "updatedAt": "2022-01-28T18:20:39.000Z",
+  "checkedAt": null,
+  "id": 83216,
   "identifier": "manga-gj983744",
   "type": "manga",
   "page": "MangaNato",
@@ -14,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125679,
   "aniId": 110267,
-  "createdAt": "2021-07-28T17:22:28.000Z",
-  "updatedAt": "2022-01-28T18:20:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoko Taro",
+    "Aoki Tact",
+    "Himiko",
+    "Jino"
+  ],
   "Mal": {
+    "createdAt": "2021-01-13T00:51:50.000Z",
+    "updatedAt": "2022-05-22T14:05:26.000Z",
+    "checkedAt": "2022-05-22T14:05:26.000Z",
+    "id": 125679,
+    "type": "manga",
+    "title": "SINoALICE",
+    "altTitle": [
+      "SINoALICE -シノアリス-"
+    ],
+    "url": "https://myanimelist.net/manga/125679/SINoALICE",
+    "image": "https://cdn.myanimelist.net/images/manga/4/244251.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -28,49 +43,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "SINoALICE -シノアリス-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoki, Tact",
       "Yoko, Taro",
       "Himiko"
-    ],
-    "id": 125679,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:28.781Z",
+    "updatedAt": "2022-05-22T14:05:25.000Z",
+    "checkedAt": "2022-05-22T14:05:25.000Z",
+    "id": 110267,
     "type": "manga",
     "title": "SINoALICE",
-    "url": "https://myanimelist.net/manga/125679/SINoALICE",
-    "image": "https://cdn.myanimelist.net/images/manga/4/244251.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-13T00:51:50.000Z",
-    "updatedAt": "2022-01-28T17:51:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "SINoALICE",
       "シノアリス",
       "อลิซตะลุยแดนมหัศจรรย์"
     ],
+    "url": "https://anilist.co/manga/110267",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110267-qzxm18ZbglUk.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 125679,
+    "deletedAt": null,
     "authors": [
       "Taro Yoko",
       "Himiko",
       "Gino",
       "Tact Aoki"
-    ],
-    "id": 110267,
-    "malId": 125679,
-    "type": "manga",
-    "title": "SINoALICE",
-    "url": "https://anilist.co/manga/110267",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110267-qzxm18ZbglUk.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:12.000Z",
-    "updatedAt": "2021-11-09T10:13:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125679/SINoALICE"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakota Yasuyuki",
-    "Kosuzume"
-  ],
+  "createdAt": "2021-06-10T07:34:24.000Z",
+  "updatedAt": "2021-12-10T08:33:38.000Z",
+  "checkedAt": null,
+  "id": 77574,
   "identifier": "manga-yi975491",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105403,
   "aniId": 98750,
-  "createdAt": "2021-06-10T07:34:24.000Z",
-  "updatedAt": "2021-12-10T08:33:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakota Yasuyuki",
+    "Kosuzume"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2022-05-18T20:12:11.000Z",
+    "checkedAt": "2022-05-18T20:12:11.000Z",
+    "id": 105403,
+    "type": "manga",
+    "title": "Circle Crash!",
+    "altTitle": [
+      "サークルクラッシュ！"
+    ],
+    "url": "https://myanimelist.net/manga/105403/Circle_Crash",
+    "image": "https://cdn.myanimelist.net/images/manga/3/193249.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "サークルクラッシュ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kosuzume",
       "Yasuyuki, Sakota"
-    ],
-    "id": 105403,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:43.620Z",
+    "updatedAt": "2022-05-18T20:12:09.000Z",
+    "checkedAt": "2022-05-18T20:12:09.000Z",
+    "id": 98750,
     "type": "manga",
     "title": "Circle Crash!",
-    "url": "https://myanimelist.net/manga/105403/Circle_Crash",
-    "image": "https://cdn.myanimelist.net/images/manga/3/193249.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2021-12-10T08:04:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Circle Crash!",
       "サークルクラッシュ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kosuzume",
-      "Yasuyuki Sakota"
-    ],
-    "id": 98750,
-    "malId": 105403,
-    "type": "manga",
-    "title": "Circle Crash!",
     "url": "https://anilist.co/manga/98750",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98750-sbfiY4aPS5wV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:15.000Z",
-    "updatedAt": "2021-12-18T02:30:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105403/Circle_Crash"
+    "externalLinks": [],
+    "malId": 105403,
+    "deletedAt": null,
+    "authors": [
+      "Kosuzume",
+      "Yasuyuki Sakota"
+    ]
+  }
 }

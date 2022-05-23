@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:02:10.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21265,
   "identifier": "two-car",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36009,
   "aniId": 99672,
-  "createdAt": "2020-10-12T16:02:10.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:55.000Z",
+    "updatedAt": "2022-05-14T21:00:09.000Z",
+    "checkedAt": "2022-05-14T21:00:09.000Z",
+    "id": 36009,
+    "type": "anime",
+    "title": "Two Car",
+    "altTitle": [
+      "Two Car: Racing Sidecar",
+      "TWOCAR",
+      "つうかあ"
+    ],
+    "url": "https://myanimelist.net/anime/36009/Two_Car",
+    "image": "https://cdn.myanimelist.net/images/anime/3/88291.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,46 +56,32 @@
         "url": "http://www.crunchyroll.com/series-274457"
       }
     ],
-    "altTitle": [
-      "Two Car: Racing Sidecar",
-      "TWOCAR",
-      "つうかあ"
-    ],
-    "id": 36009,
+    "deletedAt": null,
+    "anidbId": 13322
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-15T13:41:59.000Z",
+    "checkedAt": "2022-05-15T13:41:59.000Z",
+    "id": 99672,
     "type": "anime",
     "title": "Two Car",
-    "url": "https://myanimelist.net/anime/36009/Two_Car",
-    "image": "https://cdn.myanimelist.net/images/anime/3/88291.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13322,
-    "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2022-04-03T18:33:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "TWOCAR",
       "つうかあ",
       "Tsuuka"
     ],
+    "url": "https://anilist.co/anime/99672",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99672-Z2aXOeOG8xHd.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/twocar"
       }
     ],
-    "id": 99672,
     "malId": 36009,
-    "type": "anime",
-    "title": "Two Car",
-    "url": "https://anilist.co/anime/99672",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99672-Z2aXOeOG8xHd.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:25.000Z",
-    "updatedAt": "2021-12-17T15:56:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/36009/Two_Car"
+  }
 }

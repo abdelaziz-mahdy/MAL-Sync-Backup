@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takizawa Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:18:33.000Z",
+  "updatedAt": "2021-12-07T19:35:27.000Z",
+  "checkedAt": null,
+  "id": 33358,
   "identifier": "9d751491-a72d-41ae-8d95-3cb420a9d582",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 127596,
   "aniId": 122640,
-  "createdAt": "2020-10-12T16:18:33.000Z",
-  "updatedAt": "2021-12-07T19:35:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takizawa Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2021-12-07T19:35:24.000Z",
+    "updatedAt": "2021-12-07T19:35:24.000Z",
+    "checkedAt": null,
+    "id": 127596,
+    "type": "manga",
+    "title": "Dragon Quest e no Michi",
+    "altTitle": [
+      "Making of Dragon Quest",
+      "Road to Dragon Quest",
+      "ドラゴンクエストへの道"
+    ],
+    "url": "https://myanimelist.net/manga/127596/Dragon_Quest_e_no_Michi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239901.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Making of Dragon Quest",
-      "Road to Dragon Quest",
-      "ドラゴンクエストへの道"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou",
       "Takizawa, Hiroyuki"
-    ],
-    "id": 127596,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:24.017Z",
+    "updatedAt": "2022-05-13T12:42:24.017Z",
+    "checkedAt": null,
+    "id": 122640,
     "type": "manga",
     "title": "Dragon Quest e no Michi",
-    "url": "https://myanimelist.net/manga/127596/Dragon_Quest_e_no_Michi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/239901.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-07T19:35:24.000Z",
-    "updatedAt": "2021-12-07T19:35:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラゴンクエストへの道",
       "Making of Dragon Quest",
       "Road to Dragon Quest"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jirou Chiba"
-    ],
-    "id": 122640,
-    "malId": 127596,
-    "type": "manga",
-    "title": "Dragon Quest e no Michi",
     "url": "https://anilist.co/manga/122640",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122640-QyZKJgHDIZEP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-01T10:15:46.000Z",
-    "updatedAt": "2021-12-07T18:47:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127596/Dragon_Quest_e_no_Michi"
+    "externalLinks": [],
+    "malId": 127596,
+    "deletedAt": null,
+    "authors": [
+      "Jirou Chiba"
+    ]
+  }
 }

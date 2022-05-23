@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Jeong Ji-Hoon"
-  ],
+  "createdAt": "2020-10-12T16:19:15.000Z",
+  "updatedAt": "2022-05-16T15:30:28.000Z",
+  "checkedAt": "2022-05-16T15:30:11.000Z",
+  "id": 34817,
   "identifier": "67bd081f-1c40-4ae2-95a2-6af29de4fc01",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125036,
   "aniId": 100568,
-  "createdAt": "2020-10-12T16:19:15.000Z",
-  "updatedAt": "2021-12-07T21:41:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jeong Ji-Hoon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:16.000Z",
+    "updatedAt": "2022-05-15T00:28:41.000Z",
+    "checkedAt": "2022-05-15T00:28:41.000Z",
+    "id": 125036,
+    "type": "manga",
+    "title": "The Horizon",
+    "altTitle": [
+      "The Horizon",
+      "수평선"
+    ],
+    "url": "https://myanimelist.net/manga/125036/The_Horizon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/229331.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Horizon",
-      "수평선"
-    ],
+    "deletedAt": null,
     "authors": [
       "Jeong, Ji-Hoon"
-    ],
-    "id": 125036,
-    "type": "manga",
-    "title": "The Horizon",
-    "url": "https://myanimelist.net/manga/125036/The_Horizon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/229331.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:16.000Z",
-    "updatedAt": "2022-04-21T17:01:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:06.613Z",
+    "updatedAt": "2022-05-15T15:47:11.000Z",
+    "checkedAt": "2022-05-15T15:47:11.000Z",
+    "id": 100568,
+    "type": "manga",
+    "title": "Supyeongseon",
     "altTitle": [
       "The Horizon",
       "수평선",
       "Горизонт",
       "El horizonte"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ji-Hun Jeong"
-    ],
-    "id": 100568,
-    "malId": 125036,
-    "type": "manga",
-    "title": "Supyeongseon",
     "url": "https://anilist.co/manga/100568",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100568-4BC0PsdwU4bL.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2022-04-24T23:30:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125036/The_Horizon"
+    "externalLinks": [],
+    "malId": 125036,
+    "deletedAt": null,
+    "authors": [
+      "Ji-Hun Jeong"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nisioisin",
-    "Akatsuki Akira"
-  ],
+  "createdAt": "2020-10-12T16:11:05.000Z",
+  "updatedAt": "2021-12-05T05:50:17.000Z",
+  "checkedAt": null,
+  "id": 18519,
   "identifier": "3decf5fa-efaa-4b7a-bdb8-d34eaf5567f9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108873,
   "aniId": 100128,
-  "createdAt": "2020-10-12T16:11:05.000Z",
-  "updatedAt": "2021-12-05T05:50:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nisioisin",
+    "Akatsuki Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:10.000Z",
+    "updatedAt": "2022-05-14T23:42:17.000Z",
+    "checkedAt": "2022-05-14T23:42:17.000Z",
+    "id": 108873,
+    "type": "manga",
+    "title": "Juuni Taisen",
+    "altTitle": [
+      "12 Taisen",
+      "12 Wars",
+      "Juni Taisen: Zodiac War",
+      "十二大戦"
+    ],
+    "url": "https://myanimelist.net/manga/108873/Juuni_Taisen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/202583.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,55 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "12 Taisen",
-      "12 Wars",
-      "Juni Taisen: Zodiac War",
-      "十二大戦"
-    ],
+    "deletedAt": null,
     "authors": [
       "NISIO, ISIN",
       "Akatsuki, Akira"
-    ],
-    "id": 108873,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:43.943Z",
+    "updatedAt": "2022-05-18T08:25:36.000Z",
+    "checkedAt": "2022-05-18T08:25:36.000Z",
+    "id": 100128,
     "type": "manga",
     "title": "Juuni Taisen",
-    "url": "https://myanimelist.net/manga/108873/Juuni_Taisen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/202583.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:10.000Z",
-    "updatedAt": "2022-04-27T20:02:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Juni Taisen: Zodiac War",
       "十二大戦",
       "Wielka Wojna Zodiaku"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/juni-taisen-zodiac-war"
-      }
-    ],
-    "authors": [
-      "Hikaru Nakamura",
-      "NISIOISIN",
-      "Akira Akatsuki"
-    ],
-    "id": 100128,
-    "malId": 108873,
-    "type": "manga",
-    "title": "Juuni Taisen",
     "url": "https://anilist.co/manga/100128",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100128-Yxigjft9yJGn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:04.000Z",
-    "updatedAt": "2022-01-31T11:20:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108873/Juuni_Taisen"
+    "externalLinks": [],
+    "malId": 108873,
+    "deletedAt": null,
+    "authors": [
+      "Hikaru Nakamura",
+      "NISIOISIN",
+      "Akira Akatsuki"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hirama Kaname"
-  ],
+  "createdAt": "2021-08-18T20:39:13.000Z",
+  "updatedAt": "2022-02-18T21:19:33.000Z",
+  "checkedAt": null,
+  "id": 85695,
   "identifier": "manga-tn953322",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39731,
   "aniId": 69731,
-  "createdAt": "2021-08-18T20:39:13.000Z",
-  "updatedAt": "2022-02-18T21:19:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hirama Kaname"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:05.000Z",
+    "updatedAt": "2022-05-13T23:32:38.000Z",
+    "checkedAt": "2022-05-13T23:32:38.000Z",
+    "id": 39731,
+    "type": "manga",
+    "title": "Pochama ni",
+    "altTitle": [
+      "Anata Jikan",
+      "ぽちゃまに"
+    ],
+    "url": "https://myanimelist.net/manga/39731/Pochama_ni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/195236.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anata Jikan",
-      "ぽちゃまに"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirama, Kaname"
-    ],
-    "id": 39731,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:26.003Z",
+    "updatedAt": "2022-05-19T17:17:04.000Z",
+    "checkedAt": "2022-05-19T17:17:04.000Z",
+    "id": 69731,
     "type": "manga",
     "title": "Pochama ni",
-    "url": "https://myanimelist.net/manga/39731/Pochama_ni",
-    "image": "https://cdn.myanimelist.net/images/manga/1/195236.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:05.000Z",
-    "updatedAt": "2022-02-18T20:47:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ぽちゃまに",
       "Pochamani"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaname Hirama"
-    ],
-    "id": 69731,
-    "malId": 39731,
-    "type": "manga",
-    "title": "Pochama ni",
     "url": "https://anilist.co/manga/69731",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx69731-6SEkaX4iPGdu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:40.000Z",
-    "updatedAt": "2021-12-17T20:05:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/39731/Pochama_ni"
+    "externalLinks": [],
+    "malId": 39731,
+    "deletedAt": null,
+    "authors": [
+      "Kaname Hirama"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yanagino Kanata",
-    "Okubashi Mutsumi"
-  ],
+  "createdAt": "2021-05-30T00:42:44.000Z",
+  "updatedAt": "2021-11-30T01:35:45.000Z",
+  "checkedAt": null,
+  "id": 74124,
   "identifier": "manga-bg978841",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 109339,
   "aniId": 101521,
-  "createdAt": "2021-05-30T00:42:44.000Z",
-  "updatedAt": "2021-11-30T01:35:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yanagino Kanata",
+    "Okubashi Mutsumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:14.000Z",
+    "updatedAt": "2022-05-15T10:35:56.000Z",
+    "checkedAt": "2022-05-15T10:35:56.000Z",
+    "id": 109339,
+    "type": "manga",
+    "title": "Saihate no Paladin",
+    "altTitle": [
+      "Paladin of the End",
+      "Ultimate Paladin",
+      "The Faraway Paladin",
+      "最果てのパラディン"
+    ],
+    "url": "https://myanimelist.net/manga/109339/Saihate_no_Paladin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/208057.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,28 +48,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Paladin of the End",
-      "Ultimate Paladin",
-      "The Faraway Paladin",
-      "最果てのパラディン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okuhashi, Mutsumi",
       "Yanagino, Kanata"
-    ],
-    "id": 109339,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:39.864Z",
+    "updatedAt": "2022-05-15T15:25:47.000Z",
+    "checkedAt": "2022-05-15T15:25:47.000Z",
+    "id": 101521,
     "type": "manga",
     "title": "Saihate no Paladin",
-    "url": "https://myanimelist.net/manga/109339/Saihate_no_Paladin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/208057.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:14.000Z",
-    "updatedAt": "2022-03-06T09:00:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Faraway Paladin",
       "最果てのパラディン",
@@ -59,23 +68,17 @@
       " Ultimate Paladin",
       " The Faraway Paladin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mutsumi Okubashi",
-      "Kanata Yanagino",
-      "Kususaga Rin"
-    ],
-    "id": 101521,
-    "malId": 109339,
-    "type": "manga",
-    "title": "Saihate no Paladin",
     "url": "https://anilist.co/manga/101521",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101521-UXm6PvCGo1Vh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:05.000Z",
-    "updatedAt": "2021-12-18T03:54:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/109339/Saihate_no_Paladin"
+    "externalLinks": [],
+    "malId": 109339,
+    "deletedAt": null,
+    "authors": [
+      "Mutsumi Okubashi",
+      "Kanata Yanagino",
+      "Kususaga Rin"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kubo Tite"
-  ],
+  "createdAt": "2021-08-11T22:39:23.000Z",
+  "updatedAt": "2022-02-11T23:09:48.000Z",
+  "checkedAt": null,
+  "id": 85081,
   "identifier": "manga-yq959025",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39,
   "aniId": 30039,
-  "createdAt": "2021-08-11T22:39:23.000Z",
-  "updatedAt": "2022-02-11T23:09:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kubo Tite"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/ZOMBIEPOWDER."
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T00:54:17.000Z",
+    "checkedAt": "2022-05-15T00:54:17.000Z",
+    "id": 39,
+    "type": "manga",
+    "title": "Zombie Powder.",
     "altTitle": [
       "Ultra Unholy Hearted Machine",
       "Rune Master Urara",
@@ -33,21 +34,29 @@
       "Zombiepowder.",
       "ZOMBIEPOWDER."
     ],
-    "authors": [
-      "Kubo, Tite"
-    ],
-    "id": 39,
-    "type": "manga",
-    "title": "Zombie Powder.",
     "url": "https://myanimelist.net/manga/39/Zombie_Powder",
     "image": "https://cdn.myanimelist.net/images/manga/3/180035.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-03-09T15:00:25.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ZOMBIEPOWDER."
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kubo, Tite"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:58.254Z",
+    "updatedAt": "2022-05-15T20:28:47.000Z",
+    "checkedAt": "2022-05-15T20:28:47.000Z",
+    "id": 30039,
+    "type": "manga",
+    "title": "ZOMBIE POWDER.",
     "altTitle": [
       "ZOMBIEPOWDER.",
       "ZOMBIE POWDER.",
@@ -56,21 +65,15 @@
       "Rune Master Urara",
       "Bad Shield United"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tite Kubo"
-    ],
-    "id": 30039,
-    "malId": 39,
-    "type": "manga",
-    "title": "ZOMBIE POWDER.",
     "url": "https://anilist.co/manga/30039",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30039-j0AbPbvbSGMG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/39/Zombie_Powder"
+    "externalLinks": [],
+    "malId": 39,
+    "deletedAt": null,
+    "authors": [
+      "Tite Kubo"
+    ]
+  }
 }

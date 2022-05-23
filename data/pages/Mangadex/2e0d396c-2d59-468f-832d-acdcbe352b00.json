@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawashita Mizuki"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:47:47.000Z",
+  "checkedAt": null,
+  "id": 617,
   "identifier": "2e0d396c-2d59-468f-832d-acdcbe352b00",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 45,
   "aniId": 30045,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawashita Mizuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T07:44:28.000Z",
+    "checkedAt": "2022-05-15T07:44:28.000Z",
+    "id": 45,
+    "type": "manga",
+    "title": "Ichigo 100%",
+    "altTitle": [
+      "Strawberry 100%",
+      "いちご100%"
+    ],
+    "url": "https://myanimelist.net/manga/45/Ichigo_100",
+    "image": "https://cdn.myanimelist.net/images/manga/2/51695.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Strawberry 100%",
-      "いちご100%"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawashita, Mizuki"
-    ],
-    "id": 45,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:53.031Z",
+    "updatedAt": "2022-05-15T14:34:59.000Z",
+    "checkedAt": "2022-05-15T14:34:59.000Z",
+    "id": 30045,
     "type": "manga",
     "title": "Ichigo 100%",
-    "url": "https://myanimelist.net/manga/45/Ichigo_100",
-    "image": "https://cdn.myanimelist.net/images/manga/2/51695.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-25T14:32:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Strawberry 100%",
       "いちご100%",
       "100% Morango"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mizuki Kawashita",
-      "Youichirou Tanabe"
-    ],
-    "id": 30045,
-    "malId": 45,
-    "type": "manga",
-    "title": "Ichigo 100%",
     "url": "https://anilist.co/manga/30045",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30045-st6WbT6tk1iO.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:32:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/45/Ichigo_100"
+    "externalLinks": [],
+    "malId": 45,
+    "deletedAt": null,
+    "authors": [
+      "Mizuki Kawashita",
+      "Youichirou Tanabe"
+    ]
+  }
 }

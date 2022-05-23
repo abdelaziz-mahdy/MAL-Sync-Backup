@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Gora",
-    "Rairaku Rei",
-    "Gohands",
-    "Yui Kuroe"
-  ],
+  "createdAt": "2020-10-12T16:08:07.000Z",
+  "updatedAt": "2021-12-04T07:51:31.000Z",
+  "checkedAt": null,
+  "id": 12090,
   "identifier": "909e7d2d-330d-4ad2-8879-9fbedd925bf1",
   "type": "manga",
   "page": "Mangadex",
@@ -14,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 82091,
   "aniId": 85798,
-  "createdAt": "2020-10-12T16:08:07.000Z",
-  "updatedAt": "2021-12-04T07:51:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gora",
+    "Rairaku Rei",
+    "Gohands",
+    "Yui Kuroe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:37.000Z",
+    "updatedAt": "2022-05-16T18:16:07.000Z",
+    "checkedAt": "2022-05-16T18:16:07.000Z",
+    "id": 82091,
+    "type": "manga",
+    "title": "K: Countdown",
+    "altTitle": [
+      "K‐カウントダウン‐"
+    ],
+    "url": "https://myanimelist.net/manga/82091/K__Countdown",
+    "image": "https://cdn.myanimelist.net/images/manga/3/163579.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -32,45 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "K‐カウントダウン‐"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kuroe, Yui",
       "GoRA"
-    ],
-    "id": 82091,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:29.730Z",
+    "updatedAt": "2022-05-16T18:16:05.000Z",
+    "checkedAt": "2022-05-16T18:16:05.000Z",
+    "id": 85798,
     "type": "manga",
     "title": "K: Countdown",
-    "url": "https://myanimelist.net/manga/82091/K__Countdown",
-    "image": "https://cdn.myanimelist.net/images/manga/3/163579.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:37.000Z",
-    "updatedAt": "2022-04-13T03:30:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "K -カウントダウン-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "GoRA",
-      "Yui Kuroe",
-      "Rei Rairaku"
-    ],
-    "id": 85798,
-    "malId": 82091,
-    "type": "manga",
-    "title": "K: Countdown",
     "url": "https://anilist.co/manga/85798",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85798-GGbweZObfcWc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:04.000Z",
-    "updatedAt": "2021-11-09T19:13:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/82091/K__Countdown"
+    "externalLinks": [],
+    "malId": 82091,
+    "deletedAt": null,
+    "authors": [
+      "GoRA",
+      "Yui Kuroe",
+      "Rei Rairaku"
+    ]
+  }
 }

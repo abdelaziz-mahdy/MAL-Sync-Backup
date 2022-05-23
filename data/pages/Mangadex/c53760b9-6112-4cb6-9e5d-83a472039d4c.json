@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oda Hideji"
-  ],
+  "createdAt": "2020-10-12T16:03:56.000Z",
+  "updatedAt": "2021-12-02T17:50:49.000Z",
+  "checkedAt": null,
+  "id": 3284,
   "identifier": "c53760b9-6112-4cb6-9e5d-83a472039d4c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20776,
   "aniId": 50776,
-  "createdAt": "2020-10-12T16:03:56.000Z",
-  "updatedAt": "2021-12-02T17:50:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oda Hideji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:53.000Z",
+    "updatedAt": "2022-05-15T05:39:33.000Z",
+    "checkedAt": "2022-05-15T05:39:33.000Z",
+    "id": 20776,
+    "type": "manga",
+    "title": "Miyori no Mori",
+    "altTitle": [
+      "Miyori's Forest",
+      "La Forêt de Miyori",
+      "Miyori's Wood",
+      "Miyori no Mori no Shiki",
+      "Zoku Miyori no Mori no Shiki",
+      "ミヨリの森"
+    ],
+    "url": "https://myanimelist.net/manga/20776/Miyori_no_Mori",
+    "image": "https://cdn.myanimelist.net/images/manga/5/39239.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,29 +49,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Miyori's Forest",
-      "La Forêt de Miyori",
-      "Miyori's Wood",
-      "Miyori no Mori no Shiki",
-      "Zoku Miyori no Mori no Shiki",
-      "ミヨリの森"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oda, Hideji"
-    ],
-    "id": 20776,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:09.913Z",
+    "updatedAt": "2022-05-19T19:01:27.000Z",
+    "checkedAt": "2022-05-19T19:01:27.000Z",
+    "id": 50776,
     "type": "manga",
     "title": "Miyori no Mori",
-    "url": "https://myanimelist.net/manga/20776/Miyori_no_Mori",
-    "image": "https://cdn.myanimelist.net/images/manga/5/39239.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:53.000Z",
-    "updatedAt": "2022-03-15T12:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミヨリの森",
       "Miyori's Forest",
@@ -59,21 +68,15 @@
       "Miyori's Wood",
       "Miyori no Mori no Shiki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideji Oda"
-    ],
-    "id": 50776,
-    "malId": 20776,
-    "type": "manga",
-    "title": "Miyori no Mori",
     "url": "https://anilist.co/manga/50776",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20776.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:35.000Z",
-    "updatedAt": "2021-12-17T17:33:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20776/Miyori_no_Mori"
+    "externalLinks": [],
+    "malId": 20776,
+    "deletedAt": null,
+    "authors": [
+      "Hideji Oda"
+    ]
+  }
 }

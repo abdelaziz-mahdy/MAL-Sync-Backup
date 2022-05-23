@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yuchi Jinze",
-    "Yu Chi Jin Ze"
-  ],
+  "createdAt": "2020-10-12T16:17:07.000Z",
+  "updatedAt": "2021-12-07T07:53:15.000Z",
+  "checkedAt": null,
+  "id": 30525,
   "identifier": "688aa431-5daa-4c94-b8c2-7cfe5a675776",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123105,
-  "createdAt": "2020-10-12T16:17:07.000Z",
-  "updatedAt": "2021-12-07T07:53:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuchi Jinze",
+    "Yu Chi Jin Ze"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:58.156Z",
+    "updatedAt": "2022-05-13T13:03:58.156Z",
+    "checkedAt": null,
+    "id": 123105,
+    "type": "manga",
+    "title": "Chenni Yu Ni De Guangmang",
     "altTitle": [
       "Shining Star",
       "沉溺于你的光芒",
@@ -28,21 +36,15 @@
       "Indulged in Your Radiance",
       "Enraptured by Your Radiance"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jinze Yuchi"
-    ],
-    "id": 123105,
-    "malId": null,
-    "type": "manga",
-    "title": "Chenni Yu Ni De Guangmang",
     "url": "https://anilist.co/manga/123105",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123105-79NObDAtsYEn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-28T19:23:33.000Z",
-    "updatedAt": "2021-11-22T16:42:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Jinze Yuchi"
+    ]
+  }
 }

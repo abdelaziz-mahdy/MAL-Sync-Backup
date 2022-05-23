@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shirow Masamune"
-  ],
+  "createdAt": "2022-02-22T17:48:20.000Z",
+  "updatedAt": "2022-02-22T18:17:39.000Z",
+  "checkedAt": null,
+  "id": 96618,
   "identifier": "manga-re955739",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 47250,
   "aniId": 77250,
-  "createdAt": "2022-02-22T17:48:20.000Z",
-  "updatedAt": "2022-02-22T18:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirow Masamune"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:29.000Z",
+    "updatedAt": "2022-05-15T17:45:54.000Z",
+    "checkedAt": "2022-05-15T17:45:54.000Z",
+    "id": 47250,
+    "type": "manga",
+    "title": "Koukaku no Pandora",
+    "altTitle": [
+      "Pandora of the Crimson Shell: Ghost Urn",
+      "紅殻のパンドラ"
+    ],
+    "url": "https://myanimelist.net/manga/47250/Koukaku_no_Pandora",
+    "image": "https://cdn.myanimelist.net/images/manga/1/100773.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pandora of the Crimson Shell: Ghost Urn",
-      "紅殻のパンドラ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shirow, Masamune",
       "Rikudou, Koushi"
-    ],
-    "id": 47250,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:04.366Z",
+    "updatedAt": "2022-05-15T20:18:59.000Z",
+    "checkedAt": "2022-05-15T20:18:59.000Z",
+    "id": 77250,
     "type": "manga",
     "title": "Koukaku no Pandora",
-    "url": "https://myanimelist.net/manga/47250/Koukaku_no_Pandora",
-    "image": "https://cdn.myanimelist.net/images/manga/1/100773.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:29.000Z",
-    "updatedAt": "2022-02-22T17:48:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Pandora In The Crimson Shell: Ghost Urn",
       "紅殻のパンドラ -GHOST URN-",
       "Benigara no Pandora",
       "紅殻のパンドラ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masamune Shirow",
-      "Koshi Rikudo"
-    ],
-    "id": 77250,
-    "malId": 47250,
-    "type": "manga",
-    "title": "Koukaku no Pandora",
     "url": "https://anilist.co/manga/77250",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47250.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:32.000Z",
-    "updatedAt": "2022-03-17T15:19:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/47250/Koukaku_no_Pandora"
+    "externalLinks": [],
+    "malId": 47250,
+    "deletedAt": null,
+    "authors": [
+      "Masamune Shirow",
+      "Koshi Rikudo"
+    ]
+  }
 }

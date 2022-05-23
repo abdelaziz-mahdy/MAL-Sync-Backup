@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Noboru Rokuda"
-  ],
+  "createdAt": "2021-01-20T22:34:18.000Z",
+  "updatedAt": "2021-12-08T10:36:49.000Z",
+  "checkedAt": null,
+  "id": 59339,
   "identifier": "3f9ea9f6-c1d6-4c6d-acef-f8dc7bf14e77",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12523,
   "aniId": 42523,
-  "createdAt": "2021-01-20T22:34:18.000Z",
-  "updatedAt": "2021-12-08T10:36:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Noboru Rokuda"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/F_%28%E6%BC%AB%E7%94%BB%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:46.000Z",
+    "updatedAt": "2022-05-15T11:50:07.000Z",
+    "checkedAt": "2022-05-15T11:50:07.000Z",
+    "id": 12523,
+    "type": "manga",
+    "title": "F",
     "altTitle": [
       "F Motori in Pista",
       "F A Todo Gas",
@@ -32,21 +33,29 @@
       "F",
       "F"
     ],
-    "authors": [
-      "Rokuda, Noboru"
-    ],
-    "id": 12523,
-    "type": "manga",
-    "title": "F",
     "url": "https://myanimelist.net/manga/12523/F",
     "image": "https://cdn.myanimelist.net/images/manga/1/204736.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:46.000Z",
-    "updatedAt": "2022-01-19T05:04:05.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/F_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rokuda, Noboru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:29.398Z",
+    "updatedAt": "2022-05-15T16:39:47.000Z",
+    "checkedAt": "2022-05-15T16:39:47.000Z",
+    "id": 42523,
+    "type": "manga",
+    "title": "F",
     "altTitle": [
       "F",
       "F",
@@ -54,21 +63,15 @@
       "F A Todo Gas",
       "エフ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Noboru Rokuda"
-    ],
-    "id": 42523,
-    "malId": 12523,
-    "type": "manga",
-    "title": "F",
     "url": "https://anilist.co/manga/42523",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42523-7b7jWn4tywqh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:23.000Z",
-    "updatedAt": "2021-12-17T14:46:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12523/F"
+    "externalLinks": [],
+    "malId": 12523,
+    "deletedAt": null,
+    "authors": [
+      "Noboru Rokuda"
+    ]
+  }
 }

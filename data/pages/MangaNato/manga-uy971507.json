@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukami Makoto"
-  ],
+  "createdAt": "2021-09-21T00:11:14.000Z",
+  "updatedAt": "2022-03-21T00:54:25.000Z",
+  "checkedAt": null,
+  "id": 87389,
   "identifier": "manga-uy971507",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94235,
   "aniId": 100674,
-  "createdAt": "2021-09-21T00:11:14.000Z",
-  "updatedAt": "2022-03-21T00:54:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukami Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-05-15T18:43:26.000Z",
+    "checkedAt": "2022-05-15T18:43:26.000Z",
+    "id": 94235,
+    "type": "manga",
+    "title": "Mahou Shoujo Tokushusen Asuka",
+    "altTitle": [
+      "Magical Girl Special Ops Asuka",
+      "魔法少女特殊戦あすか"
+    ],
+    "url": "https://myanimelist.net/manga/94235/Mahou_Shoujo_Tokushusen_Asuka",
+    "image": "https://cdn.myanimelist.net/images/manga/1/167025.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,50 +45,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Girl Special Ops Asuka",
-      "魔法少女特殊戦あすか"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukami, Makoto",
       "Tokiya, Seigo"
-    ],
-    "id": 94235,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:50.355Z",
+    "updatedAt": "2022-05-15T20:46:23.000Z",
+    "checkedAt": "2022-05-15T20:46:23.000Z",
+    "id": 100674,
     "type": "manga",
     "title": "Mahou Shoujo Tokushusen Asuka",
-    "url": "https://myanimelist.net/manga/94235/Mahou_Shoujo_Tokushusen_Asuka",
-    "image": "https://cdn.myanimelist.net/images/manga/1/167025.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2022-03-15T23:30:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magical Girl Spec-Ops Asuka",
       "魔法少女特殊戦あすか",
-      "Magical Girl Special Ops Asuka"
+      "Magical Girl Special Ops Asuka",
+      "หน่วยปฏิบัติการพิเศษสาวน้อยเวทมนตร์ อาสึกะ"
     ],
+    "url": "https://anilist.co/manga/100674",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100674-em8JQLYFsqRu.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 94235,
+    "deletedAt": null,
     "authors": [
       "Seigo Tokiya",
       "Makoto Fukami",
       "Christine Dashiell",
       "Valerio Pinos",
       "James Adams"
-    ],
-    "id": 100674,
-    "malId": 94235,
-    "type": "manga",
-    "title": "Mahou Shoujo Tokushusen Asuka",
-    "url": "https://anilist.co/manga/100674",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100674-em8JQLYFsqRu.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2021-12-18T03:26:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94235/Mahou_Shoujo_Tokushusen_Asuka"
+    ]
+  }
 }

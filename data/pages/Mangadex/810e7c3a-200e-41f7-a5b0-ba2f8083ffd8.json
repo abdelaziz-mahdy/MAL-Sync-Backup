@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ainan Zero"
-  ],
+  "createdAt": "2021-03-01T11:44:21.000Z",
+  "updatedAt": "2022-01-12T09:41:39.000Z",
+  "checkedAt": null,
+  "id": 64210,
   "identifier": "810e7c3a-200e-41f7-a5b0-ba2f8083ffd8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130464,
   "aniId": 136553,
-  "createdAt": "2021-03-01T11:44:21.000Z",
-  "updatedAt": "2022-01-12T09:41:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ainan Zero"
+  ],
   "Mal": {
+    "createdAt": "2021-03-01T11:44:21.000Z",
+    "updatedAt": "2022-05-17T01:07:50.000Z",
+    "checkedAt": "2022-05-17T01:07:50.000Z",
+    "id": 130464,
+    "type": "manga",
+    "title": "Sayonara Eden",
+    "altTitle": [
+      "Goodbye, Eden",
+      "さよならエデン"
+    ],
+    "url": "https://myanimelist.net/manga/130464/Sayonara_Eden",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235719.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Goodbye, Eden",
-      "さよならエデン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ainan, Zero"
-    ],
-    "id": 130464,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:59.321Z",
+    "updatedAt": "2022-05-17T01:07:49.000Z",
+    "checkedAt": "2022-05-17T01:07:49.000Z",
+    "id": 136553,
     "type": "manga",
     "title": "Sayonara Eden",
-    "url": "https://myanimelist.net/manga/130464/Sayonara_Eden",
-    "image": "https://cdn.myanimelist.net/images/manga/2/235719.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-03-01T11:44:21.000Z",
-    "updatedAt": "2022-04-30T18:31:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Goodbye, Eden",
       "さよならエデン",
       "Goodbye Eden"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Zero Ainan"
-    ],
-    "id": 136553,
-    "malId": 130464,
-    "type": "manga",
-    "title": "Sayonara Eden",
     "url": "https://anilist.co/manga/136553",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136553-xEwLYkP0sqXp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-11T14:43:17.000Z",
-    "updatedAt": "2022-01-12T09:12:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130464/Sayonara_Eden"
+    "externalLinks": [],
+    "malId": 130464,
+    "deletedAt": null,
+    "authors": [
+      "Zero Ainan"
+    ]
+  }
 }

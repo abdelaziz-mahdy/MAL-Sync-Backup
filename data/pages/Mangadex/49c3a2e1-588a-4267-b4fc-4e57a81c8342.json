@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saruwatari Tetsuya"
-  ],
+  "createdAt": "2020-10-12T16:07:42.000Z",
+  "updatedAt": "2021-12-04T04:52:09.000Z",
+  "checkedAt": null,
+  "id": 11198,
   "identifier": "49c3a2e1-588a-4267-b4fc-4e57a81c8342",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 76927,
   "aniId": 98230,
-  "createdAt": "2020-10-12T16:07:42.000Z",
-  "updatedAt": "2021-12-04T04:52:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saruwatari Tetsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:25.000Z",
+    "updatedAt": "2022-05-18T21:17:30.000Z",
+    "checkedAt": "2022-05-18T21:17:30.000Z",
+    "id": 76927,
+    "type": "manga",
+    "title": "Dog Soldier",
+    "altTitle": [
+      "ドッグソルジャー"
+    ],
+    "url": "https://myanimelist.net/manga/76927/Dog_Soldier",
+    "image": "https://cdn.myanimelist.net/images/manga/3/133035.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ドッグソルジャー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saruwatari, Tetsuya"
-    ],
-    "id": 76927,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:58.973Z",
+    "updatedAt": "2022-05-18T21:17:29.000Z",
+    "checkedAt": "2022-05-18T21:17:29.000Z",
+    "id": 98230,
     "type": "manga",
     "title": "Dog Soldier",
-    "url": "https://myanimelist.net/manga/76927/Dog_Soldier",
-    "image": "https://cdn.myanimelist.net/images/manga/3/133035.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:25.000Z",
-    "updatedAt": "2022-03-23T00:58:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "DOG SOLDIER",
       "ドッグソルジャー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuya Saruwatari"
-    ],
-    "id": 98230,
-    "malId": 76927,
-    "type": "manga",
-    "title": "Dog Soldier",
     "url": "https://anilist.co/manga/98230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98230-lgr4oPSfPm3R.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2021-12-15T22:48:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/76927/Dog_Soldier"
+    "externalLinks": [],
+    "malId": 76927,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuya Saruwatari"
+    ]
+  }
 }

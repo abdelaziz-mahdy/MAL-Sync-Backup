@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sumida Moto",
-    "Broccoli"
-  ],
+  "createdAt": "2020-10-12T16:07:30.000Z",
+  "updatedAt": "2021-12-04T03:21:58.000Z",
+  "checkedAt": null,
+  "id": 10742,
   "identifier": "0a6a965d-3cc3-445d-beed-310ded6c3edc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 73145,
   "aniId": 87523,
-  "createdAt": "2020-10-12T16:07:30.000Z",
-  "updatedAt": "2021-12-04T03:21:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sumida Moto",
+    "Broccoli"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2022-05-21T14:59:17.000Z",
+    "checkedAt": "2022-05-21T14:59:17.000Z",
+    "id": 73145,
+    "type": "manga",
+    "title": "Kamigami no Asobi",
+    "altTitle": [
+      "Ludere deorum",
+      "Kamigami no Akugi",
+      "Kamigami no Itazura",
+      "神々の悪戯"
+    ],
+    "url": "https://myanimelist.net/manga/73145/Kamigami_no_Asobi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/129173.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +44,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ludere deorum",
-      "Kamigami no Akugi",
-      "Kamigami no Itazura",
-      "神々の悪戯"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sumida, Moto"
-    ],
-    "id": 73145,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:06.053Z",
+    "updatedAt": "2022-05-21T14:59:16.000Z",
+    "checkedAt": "2022-05-21T14:59:16.000Z",
+    "id": 87523,
     "type": "manga",
     "title": "Kamigami no Asobi",
-    "url": "https://myanimelist.net/manga/73145/Kamigami_no_Asobi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/129173.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2021-11-10T17:44:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神々の悪戯",
       "Ludere deorum",
       "Kamigami no Akugi",
       "Kamigami no Itazura"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Broccoli",
-      "Moto Sumida"
-    ],
-    "id": 87523,
-    "malId": 73145,
-    "type": "manga",
-    "title": "Kamigami no Asobi",
     "url": "https://anilist.co/manga/87523",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87523-gtdwNM0xgeyv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2021-12-17T23:27:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/73145/Kamigami_no_Asobi"
+    "externalLinks": [],
+    "malId": 73145,
+    "deletedAt": null,
+    "authors": [
+      "Broccoli",
+      "Moto Sumida"
+    ]
+  }
 }

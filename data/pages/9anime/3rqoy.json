@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-09-09T18:05:03.000Z",
+  "updatedAt": "2021-09-09T18:34:29.000Z",
+  "checkedAt": null,
+  "id": 38587,
   "identifier": "3rqoy",
   "type": "anime",
   "page": "9anime",
@@ -8,20 +12,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22695,
   "aniId": 138864,
-  "createdAt": "2021-09-09T18:05:03.000Z",
-  "updatedAt": "2021-09-09T18:34:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "animedb",
-        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=548"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-01-25T04:13:52.000Z",
+    "updatedAt": "2022-05-15T00:39:05.000Z",
+    "checkedAt": "2022-05-15T00:39:05.000Z",
+    "id": 22695,
+    "type": "anime",
+    "title": "Dragon Ball Z: Summer Vacation Special",
     "altTitle": [
       "Kyokugen Batoru!! San Dai Sūpā Saiya-jin　Supesharu",
       "Kyokugen Batoru! ! San Dai Chō Saiyahito Supesharu",
@@ -29,37 +30,39 @@
       "Dragon Ball Z: Movie Overview Special",
       "極限バトル!!三大超サイヤ人　スペシャル"
     ],
-    "id": 22695,
-    "type": "anime",
-    "title": "Dragon Ball Z: Summer Vacation Special",
     "url": "https://myanimelist.net/anime/22695/Dragon_Ball_Z__Summer_Vacation_Special",
     "image": "https://cdn.myanimelist.net/images/anime/7/60343.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": 548,
-    "createdAt": "2021-01-25T04:13:52.000Z",
-    "updatedAt": "2022-04-02T22:35:04.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=548"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 548
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-09-07T16:34:29.000Z",
+    "updatedAt": "2022-05-15T21:34:35.000Z",
+    "checkedAt": "2022-05-15T21:34:35.000Z",
+    "id": 138864,
+    "type": "anime",
+    "title": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
     "altTitle": [
       "ドラゴンボールＺ　極限バトル！！三大超サイヤ人　スペシャル",
       "Dragon Ball Z: Extreme Battle!! The Three Great Super Saiyans – Special",
       "Dragon Ball Z: Summer Vacation Special",
       "Dragon Ball Z: Movie Overview Special"
     ],
-    "externalLinks": [],
-    "id": 138864,
-    "malId": 22695,
-    "type": "anime",
-    "title": "Dragon Ball Z: Kyokugen Battle!! Sandai Super Saiyajin Special",
     "url": "https://anilist.co/anime/138864",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138864-46d7SxpKqiGe.png",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-09-07T16:34:29.000Z",
-    "updatedAt": "2022-03-16T09:02:38.000Z",
+    "externalLinks": [],
+    "malId": 22695,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/22695/Dragon_Ball_Z__Summer_Vacation_Special"
+  }
 }

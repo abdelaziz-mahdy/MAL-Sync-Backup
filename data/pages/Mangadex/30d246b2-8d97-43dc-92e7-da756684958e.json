@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nemu Youko"
-  ],
+  "createdAt": "2020-10-12T16:17:06.000Z",
+  "updatedAt": "2021-12-07T07:53:06.000Z",
+  "checkedAt": null,
+  "id": 30489,
   "identifier": "30d246b2-8d97-43dc-92e7-da756684958e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 66909,
   "aniId": 90505,
-  "createdAt": "2020-10-12T16:17:06.000Z",
-  "updatedAt": "2021-12-07T07:53:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nemu Youko"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-07T04:51:40.000Z",
+    "updatedAt": "2021-12-07T05:17:23.000Z",
+    "checkedAt": null,
+    "id": 66909,
+    "type": "manga",
+    "title": "Shounen Shoujo",
     "altTitle": [
       "Boys and Girls",
       "Shounen Shoujo",
@@ -30,21 +36,24 @@
       "Aka-Coat no Selma",
       "少年少女"
     ],
-    "authors": [
-      "Nemu, Youko"
-    ],
-    "id": 66909,
-    "type": "manga",
-    "title": "Shounen Shoujo",
     "url": "https://myanimelist.net/manga/66909/Shounen_Shoujo",
     "image": "https://cdn.myanimelist.net/images/manga/1/114715.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-07T04:51:40.000Z",
-    "updatedAt": "2021-12-07T05:17:23.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nemu, Youko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:54.725Z",
+    "updatedAt": "2022-05-13T12:55:54.725Z",
+    "checkedAt": null,
+    "id": 90505,
+    "type": "manga",
+    "title": "Shounen Shoujo",
     "altTitle": [
       "少年少女",
       "Boys and Girls",
@@ -55,21 +64,15 @@
       "Treasure Room",
       "Aka-Coat no Selma"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youko Nemu"
-    ],
-    "id": 90505,
-    "malId": 66909,
-    "type": "manga",
-    "title": "Shounen Shoujo",
     "url": "https://anilist.co/manga/90505",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90505-AoI9no68s4x0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T04:51:40.000Z",
-    "updatedAt": "2021-12-18T00:00:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/66909/Shounen_Shoujo"
+    "externalLinks": [],
+    "malId": 66909,
+    "deletedAt": null,
+    "authors": [
+      "Youko Nemu"
+    ]
+  }
 }

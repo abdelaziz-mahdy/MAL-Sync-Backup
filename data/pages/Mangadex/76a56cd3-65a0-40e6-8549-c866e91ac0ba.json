@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Furuya Usamaru"
-  ],
+  "createdAt": "2020-10-12T16:04:35.000Z",
+  "updatedAt": "2021-12-02T22:18:47.000Z",
+  "checkedAt": null,
+  "id": 4639,
   "identifier": "76a56cd3-65a0-40e6-8549-c866e91ac0ba",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1702,
   "aniId": 31702,
-  "createdAt": "2020-10-12T16:04:35.000Z",
-  "updatedAt": "2021-12-02T22:18:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Furuya Usamaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-15T00:09:17.000Z",
+    "checkedAt": "2022-05-15T00:09:17.000Z",
+    "id": 1702,
+    "type": "manga",
+    "title": "Jisatsu Circle",
+    "altTitle": [
+      "Suicide Circle",
+      "自殺サークル"
+    ],
+    "url": "https://myanimelist.net/manga/1702/Jisatsu_Circle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/128469.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Suicide Circle",
-      "自殺サークル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Furuya, Usamaru"
-    ],
-    "id": 1702,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:54.997Z",
+    "updatedAt": "2022-05-15T20:34:47.000Z",
+    "checkedAt": "2022-05-15T20:34:47.000Z",
+    "id": 31702,
     "type": "manga",
     "title": "Jisatsu Circle",
-    "url": "https://myanimelist.net/manga/1702/Jisatsu_Circle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/128469.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-01-25T01:00:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "自殺サークル",
       "Jisatsu Saakuru",
@@ -52,21 +61,15 @@
       "Cercle du Suicide",
       "Suicide Club"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Usamaru Furuya"
-    ],
-    "id": 31702,
-    "malId": 1702,
-    "type": "manga",
-    "title": "Jisatsu Circle",
     "url": "https://anilist.co/manga/31702",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31702-zFWGrQoHv5Hj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2021-12-17T10:12:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1702/Jisatsu_Circle"
+    "externalLinks": [],
+    "malId": 1702,
+    "deletedAt": null,
+    "authors": [
+      "Usamaru Furuya"
+    ]
+  }
 }

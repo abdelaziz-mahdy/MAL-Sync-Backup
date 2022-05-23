@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takayama Toshinori"
-  ],
+  "createdAt": "2021-09-15T04:50:26.000Z",
+  "updatedAt": "2022-03-15T05:30:15.000Z",
+  "checkedAt": null,
+  "id": 87181,
   "identifier": "manga-xc953737",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67139,
   "aniId": 85320,
-  "createdAt": "2021-09-15T04:50:26.000Z",
-  "updatedAt": "2022-03-15T05:30:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takayama Toshinori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:12.000Z",
+    "updatedAt": "2022-05-15T11:44:49.000Z",
+    "checkedAt": "2022-05-15T11:44:49.000Z",
+    "id": 67139,
+    "type": "manga",
+    "title": "iShoujo",
+    "altTitle": [
+      "Ai Shoujo",
+      "i-Shoujo",
+      "iShojo",
+      "Ketai Shoujo",
+      "Keitai Shoujo",
+      "i ・ショウジョ"
+    ],
+    "url": "https://myanimelist.net/manga/67139/iShoujo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/131607.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +49,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ai Shoujo",
-      "i-Shoujo",
-      "iShojo",
-      "Ketai Shoujo",
-      "Keitai Shoujo",
-      "i ・ショウジョ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takayama, Toshinori"
-    ],
-    "id": 67139,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:44.994Z",
+    "updatedAt": "2022-05-15T16:25:59.000Z",
+    "checkedAt": "2022-05-15T16:25:59.000Z",
+    "id": 85320,
     "type": "manga",
     "title": "iShoujo",
-    "url": "https://myanimelist.net/manga/67139/iShoujo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/131607.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:12.000Z",
-    "updatedAt": "2022-03-15T04:59:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "iShoujo",
       "i ・ショウジョ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshinori Takayama"
-    ],
-    "id": 85320,
-    "malId": 67139,
-    "type": "manga",
-    "title": "iShoujo",
     "url": "https://anilist.co/manga/85320",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55320-F1p7rjykQuvX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:59.000Z",
-    "updatedAt": "2021-12-17T21:57:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67139/iShoujo"
+    "externalLinks": [],
+    "malId": 67139,
+    "deletedAt": null,
+    "authors": [
+      "Toshinori Takayama"
+    ]
+  }
 }

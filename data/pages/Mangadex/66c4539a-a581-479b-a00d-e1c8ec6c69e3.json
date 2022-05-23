@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takahashi Yashichirou",
-    "Sasakura Ayato"
-  ],
+  "createdAt": "2020-10-12T16:03:25.000Z",
+  "updatedAt": "2021-12-02T14:18:58.000Z",
+  "checkedAt": null,
+  "id": 2201,
   "identifier": "66c4539a-a581-479b-a00d-e1c8ec6c69e3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 783,
   "aniId": 30783,
-  "createdAt": "2020-10-12T16:03:25.000Z",
-  "updatedAt": "2021-12-02T14:18:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Yashichirou",
+    "Sasakura Ayato"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:26.000Z",
+    "updatedAt": "2022-05-23T15:10:31.000Z",
+    "checkedAt": "2022-05-23T15:10:31.000Z",
+    "id": 783,
+    "type": "manga",
+    "title": "Shakugan no Shana",
+    "altTitle": [
+      "Shana of the Burning Eyes",
+      "Shakugan no Shana",
+      "灼眼のシャナ"
+    ],
+    "url": "https://myanimelist.net/manga/783/Shakugan_no_Shana",
+    "image": "https://cdn.myanimelist.net/images/manga/1/133569.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shana of the Burning Eyes",
-      "Shakugan no Shana",
-      "灼眼のシャナ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sasakura, Ayato",
       "Takahashi, Yashichiro"
-    ],
-    "id": 783,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:20.352Z",
+    "updatedAt": "2022-05-23T15:10:30.000Z",
+    "checkedAt": "2022-05-23T15:10:30.000Z",
+    "id": 30783,
     "type": "manga",
     "title": "Shakugan no Shana",
-    "url": "https://myanimelist.net/manga/783/Shakugan_no_Shana",
-    "image": "https://cdn.myanimelist.net/images/manga/1/133569.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:26.000Z",
-    "updatedAt": "2022-03-23T22:28:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shakugan no Shana",
       "灼眼のシャナ",
       "Shana of the Burning Eyes"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ayato Sasakura",
-      "Yashichiro Takahashi"
-    ],
-    "id": 30783,
-    "malId": 783,
-    "type": "manga",
-    "title": "Shakugan no Shana",
     "url": "https://anilist.co/manga/30783",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30783-zOATFSfew4ap.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:44.000Z",
-    "updatedAt": "2021-12-17T09:34:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/783/Shakugan_no_Shana"
+    "externalLinks": [],
+    "malId": 783,
+    "deletedAt": null,
+    "authors": [
+      "Ayato Sasakura",
+      "Yashichiro Takahashi"
+    ]
+  }
 }

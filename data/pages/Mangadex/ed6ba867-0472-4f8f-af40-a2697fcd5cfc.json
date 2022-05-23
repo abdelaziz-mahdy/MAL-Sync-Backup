@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kano Yasuhiro"
-  ],
+  "createdAt": "2020-10-12T16:19:46.000Z",
+  "updatedAt": "2021-12-07T23:05:53.000Z",
+  "checkedAt": null,
+  "id": 35831,
   "identifier": "ed6ba867-0472-4f8f-af40-a2697fcd5cfc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125043,
   "aniId": 117004,
-  "createdAt": "2020-10-12T16:19:46.000Z",
-  "updatedAt": "2021-12-07T23:05:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kano Yasuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:16.000Z",
+    "updatedAt": "2022-05-15T20:28:06.000Z",
+    "checkedAt": "2022-05-15T20:28:06.000Z",
+    "id": 125043,
+    "type": "manga",
+    "title": "Kiruru Kill Me",
+    "altTitle": [
+      "Kiruru Kill Me",
+      "きるる KILL ME"
+    ],
+    "url": "https://myanimelist.net/manga/125043/Kiruru_Kill_Me",
+    "image": "https://cdn.myanimelist.net/images/manga/2/242292.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,52 +41,39 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kiruru Kill Me",
-      "きるる KILL ME"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kano, Yasuhiro"
-    ],
-    "id": 125043,
-    "type": "manga",
-    "title": "Kiruru Kill Me",
-    "url": "https://myanimelist.net/manga/125043/Kiruru_Kill_Me",
-    "image": "https://cdn.myanimelist.net/images/manga/2/242292.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:16.000Z",
-    "updatedAt": "2022-04-04T02:30:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.197Z",
+    "updatedAt": "2022-05-15T21:42:11.000Z",
+    "checkedAt": "2022-05-15T21:42:11.000Z",
+    "id": 117004,
+    "type": "manga",
+    "title": "Kiruru KILL ME",
     "altTitle": [
       "Kiruru Kill Me",
       "きるる KILL ME",
       "KILL ME "
     ],
+    "url": "https://anilist.co/manga/117004",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117004-AlgAiGqfE7jK.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/200046"
       }
     ],
+    "malId": 125043,
+    "deletedAt": null,
     "authors": [
       "Yasuhiro Kanou",
       "Andrea Bernal Asensio",
       "Kevin Yuan"
-    ],
-    "id": 117004,
-    "malId": 125043,
-    "type": "manga",
-    "title": "Kiruru KILL ME",
-    "url": "https://anilist.co/manga/117004",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117004-AlgAiGqfE7jK.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2022-04-27T19:33:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125043/Kiruru_Kill_Me"
+    ]
+  }
 }

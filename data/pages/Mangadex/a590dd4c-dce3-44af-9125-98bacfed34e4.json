@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Otsuichi",
-    "Kiyohara Hiro"
-  ],
+  "createdAt": "2020-10-12T16:03:46.000Z",
+  "updatedAt": "2021-12-02T16:47:08.000Z",
+  "checkedAt": null,
+  "id": 2944,
   "identifier": "a590dd4c-dce3-44af-9125-98bacfed34e4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8101,
   "aniId": 38101,
-  "createdAt": "2020-10-12T16:03:46.000Z",
-  "updatedAt": "2021-12-02T16:47:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Otsuichi",
+    "Kiyohara Hiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:17.000Z",
+    "updatedAt": "2021-12-28T16:26:08.000Z",
+    "checkedAt": null,
+    "id": 8101,
+    "type": "manga",
+    "title": "Shissou Holiday",
+    "altTitle": [
+      "Missing Holiday",
+      "Shissou Holiday",
+      "失踪HOLIDAY"
+    ],
+    "url": "https://myanimelist.net/manga/8101/Shissou_Holiday",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162344.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Missing Holiday",
-      "Shissou Holiday",
-      "失踪HOLIDAY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Otsuichi",
       "Kiyohara, Hiro"
-    ],
-    "id": 8101,
-    "type": "manga",
-    "title": "Shissou Holiday",
-    "url": "https://myanimelist.net/manga/8101/Shissou_Holiday",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162344.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:17.000Z",
-    "updatedAt": "2021-12-28T16:26:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:50.100Z",
+    "updatedAt": "2022-05-13T13:02:50.100Z",
+    "checkedAt": null,
+    "id": 38101,
+    "type": "manga",
+    "title": "Shissou HOLIDAY",
     "altTitle": [
       "Missing Holiday",
       "失踪HOLIDAY",
       "Shisso Holiday",
       "Shissho Holiday"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Otsuichi",
-      "Hiro Kiyohara"
-    ],
-    "id": 38101,
-    "malId": 8101,
-    "type": "manga",
-    "title": "Shissou HOLIDAY",
     "url": "https://anilist.co/manga/38101",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b38101-29oJOY7jLFPM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:58.000Z",
-    "updatedAt": "2022-02-24T14:47:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8101/Shissou_Holiday"
+    "externalLinks": [],
+    "malId": 8101,
+    "deletedAt": null,
+    "authors": [
+      "Otsuichi",
+      "Hiro Kiyohara"
+    ]
+  }
 }

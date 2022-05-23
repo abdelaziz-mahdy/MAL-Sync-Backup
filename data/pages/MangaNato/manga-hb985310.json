@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Torikai Akane"
-  ],
+  "createdAt": "2021-08-30T11:36:55.000Z",
+  "updatedAt": "2022-03-01T00:28:44.000Z",
+  "checkedAt": null,
+  "id": 86457,
   "identifier": "manga-hb985310",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 126748,
   "aniId": 106073,
-  "createdAt": "2021-08-30T11:36:55.000Z",
-  "updatedAt": "2022-03-01T00:28:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Torikai Akane"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2022-05-19T13:22:55.000Z",
+    "checkedAt": "2022-05-19T13:22:55.000Z",
+    "id": 126748,
+    "type": "manga",
+    "title": "Saturn Return",
+    "altTitle": [
+      "サターンリターン"
+    ],
+    "url": "https://myanimelist.net/manga/126748/Saturn_Return",
+    "image": "https://cdn.myanimelist.net/images/manga/1/232376.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "サターンリターン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Torikai, Akane"
-    ],
-    "id": 126748,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:17.932Z",
+    "updatedAt": "2022-05-19T13:22:54.000Z",
+    "checkedAt": "2022-05-19T13:22:54.000Z",
+    "id": 106073,
     "type": "manga",
     "title": "Saturn Return",
-    "url": "https://myanimelist.net/manga/126748/Saturn_Return",
-    "image": "https://cdn.myanimelist.net/images/manga/1/232376.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2022-04-09T20:01:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "サターンリターン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akane Torikai"
-    ],
-    "id": 106073,
-    "malId": 126748,
-    "type": "manga",
-    "title": "Saturn Return",
     "url": "https://anilist.co/manga/106073",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106073-9p9lPCmeQ8zV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:15.000Z",
-    "updatedAt": "2021-12-18T05:26:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126748/Saturn_Return"
+    "externalLinks": [],
+    "malId": 126748,
+    "deletedAt": null,
+    "authors": [
+      "Akane Torikai"
+    ]
+  }
 }

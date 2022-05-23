@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tatsuya Hamazaki",
-    "Izumi Rei"
-  ],
+  "createdAt": "2020-10-12T16:04:58.000Z",
+  "updatedAt": "2021-12-03T09:46:57.000Z",
+  "checkedAt": null,
+  "id": 5430,
   "identifier": "d56676c2-61be-4ff3-a66e-eb138707369d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117,
   "aniId": 30117,
-  "createdAt": "2020-10-12T16:04:58.000Z",
-  "updatedAt": "2021-12-03T09:46:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tatsuya Hamazaki",
+    "Izumi Rei"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/.hack//%E9%BB%84%E6%98%8F%E3%81%AE%E8%85%95%E8%BC%AA%E4%BC%9D%E8%AA%AC"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-19T02:46:13.000Z",
+    "checkedAt": "2022-05-19T02:46:13.000Z",
+    "id": 117,
+    "type": "manga",
+    "title": ".hack//Tasogare no Udewa Densetsu",
     "altTitle": [
       ".hack//DUSK",
       ".hack//UdeDen",
@@ -33,22 +34,30 @@
       ".hack//Legend of the Twilight",
       ".hack//黄昏の腕輪伝説"
     ],
-    "authors": [
-      "Hamazaki, Tatsuya",
-      "Izumi, Rei"
-    ],
-    "id": 117,
-    "type": "manga",
-    "title": ".hack//Tasogare no Udewa Densetsu",
     "url": "https://myanimelist.net/manga/117/hack__Tasogare_no_Udewa_Densetsu",
     "image": "https://cdn.myanimelist.net/images/manga/2/191726.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-03T07:35:16.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/.hack//%E9%BB%84%E6%98%8F%E3%81%AE%E8%85%95%E8%BC%AA%E4%BC%9D%E8%AA%AC"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hamazaki, Tatsuya",
+      "Izumi, Rei"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:27.334Z",
+    "updatedAt": "2022-05-19T02:46:12.000Z",
+    "checkedAt": "2022-05-19T02:46:12.000Z",
+    "id": 30117,
+    "type": "manga",
+    "title": ".hack//Tasogare no Udewa Densetsu",
     "altTitle": [
       ".hack//Legend of the Twilight",
       ".hack//黄昏の腕輪伝説",
@@ -63,24 +72,18 @@
       ".hack//ดอทแฮ็ค ตำนานแห่งกำไลแสงอาทิตย์อัสดง",
       ".hack//Taru iltahämärän rannerenkaasta"
     ],
+    "url": "https://anilist.co/manga/30117",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30117-VCEwNTubXpQy.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 117,
+    "deletedAt": null,
     "authors": [
       "Tatsuya Hamazaki",
       "Rei Izumi",
       "Karen Hayashida",
       "José Carlos Assumpção"
-    ],
-    "id": 30117,
-    "malId": 117,
-    "type": "manga",
-    "title": ".hack//Tasogare no Udewa Densetsu",
-    "url": "https://anilist.co/manga/30117",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30117-VCEwNTubXpQy.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-12-17T09:03:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117/hack__Tasogare_no_Udewa_Densetsu"
+    ]
+  }
 }

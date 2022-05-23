@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Fuugetsu Makoto",
-    "Cygames",
-    "cocho"
-  ],
+  "createdAt": "2020-10-12T16:09:50.000Z",
+  "updatedAt": "2021-12-04T20:50:44.000Z",
+  "checkedAt": null,
+  "id": 15819,
   "identifier": "9c39faf7-83f2-4050-8c98-5e3048ac0f06",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 106800,
   "aniId": 103102,
-  "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-12-04T20:50:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fuugetsu Makoto",
+    "Cygames",
+    "cocho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:04.000Z",
+    "updatedAt": "2022-04-26T00:32:10.000Z",
+    "checkedAt": null,
+    "id": 106800,
+    "type": "manga",
+    "title": "Granblue Fantasy",
+    "altTitle": [
+      "Granblue Fantasy",
+      "グランブルーファンタジー"
+    ],
+    "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198694.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,46 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Granblue Fantasy",
-      "グランブルーファンタジー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fuugetsu, Makoto",
       "cocho"
-    ],
-    "id": 106800,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:44.159Z",
+    "updatedAt": "2022-05-13T13:00:44.159Z",
+    "checkedAt": null,
+    "id": 103102,
     "type": "manga",
     "title": "Granblue Fantasy",
-    "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198694.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:04.000Z",
-    "updatedAt": "2022-04-26T00:32:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Granblue Fantasy",
       "グランブルーファンタジー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Fuugetsu",
-      "Kenji Ooiwa"
-    ],
-    "id": 103102,
-    "malId": 106800,
-    "type": "manga",
-    "title": "Granblue Fantasy",
     "url": "https://anilist.co/manga/103102",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103102-W8e0qCV8Wsbo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:48.000Z",
-    "updatedAt": "2021-12-18T04:26:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/106800/Granblue_Fantasy"
+    "externalLinks": [],
+    "malId": 106800,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Fuugetsu",
+      "Kenji Ooiwa"
+    ]
+  }
 }

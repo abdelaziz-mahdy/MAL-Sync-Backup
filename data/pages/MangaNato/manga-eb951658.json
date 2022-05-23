@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Motoazabu Factory",
-    "Miyajima Reiji"
-  ],
+  "createdAt": "2021-05-29T09:13:04.000Z",
+  "updatedAt": "2021-11-29T10:06:53.000Z",
+  "checkedAt": null,
+  "id": 73604,
   "identifier": "manga-eb951658",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23052,
   "aniId": 53052,
-  "createdAt": "2021-05-29T09:13:04.000Z",
-  "updatedAt": "2021-11-29T10:06:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Motoazabu FactorIdy",
+    "Miyajima Reiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:08.000Z",
+    "updatedAt": "2022-05-16T14:26:46.000Z",
+    "checkedAt": "2022-05-16T14:26:46.000Z",
+    "id": 23052,
+    "type": "manga",
+    "title": "AKB49: Renai Kinshi Jourei",
+    "altTitle": [
+      "AKB49: The Rules Against Love",
+      "AKB49〜恋愛禁止条例〜"
+    ],
+    "url": "https://myanimelist.net/manga/23052/AKB49__Renai_Kinshi_Jourei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/167252.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "AKB49: The Rules Against Love",
-      "AKB49〜恋愛禁止条例〜"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyajima, Reiji"
-    ],
-    "id": 23052,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:56.865Z",
+    "updatedAt": "2022-05-16T14:26:44.000Z",
+    "checkedAt": "2022-05-16T14:26:44.000Z",
+    "id": 53052,
     "type": "manga",
     "title": "AKB49: Renai Kinshi Jourei",
-    "url": "https://myanimelist.net/manga/23052/AKB49__Renai_Kinshi_Jourei",
-    "image": "https://cdn.myanimelist.net/images/manga/2/167252.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2021-11-29T09:36:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "AKB49〜恋愛禁止条例〜",
       "AKB49 - Renai Kinshi Jouretsu",
       "AKB49 - The Rules Against Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Reiji Miyajima"
-    ],
-    "id": 53052,
-    "malId": 23052,
-    "type": "manga",
-    "title": "AKB49: Renai Kinshi Jourei",
     "url": "https://anilist.co/manga/53052",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx53052-rzm7BHmgAt4e.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2021-12-17T18:04:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23052/AKB49__Renai_Kinshi_Jourei"
+    "externalLinks": [],
+    "malId": 23052,
+    "deletedAt": null,
+    "authors": [
+      "Reiji Miyajima"
+    ]
+  }
 }

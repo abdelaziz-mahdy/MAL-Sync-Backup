@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kisaragi Miyu"
-  ],
+  "createdAt": "2020-10-12T16:16:04.000Z",
+  "updatedAt": "2021-12-06T19:18:32.000Z",
+  "checkedAt": null,
+  "id": 28313,
   "identifier": "7b8d85b9-2de6-4c1b-a87e-c15c963e5b27",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33017,
   "aniId": 63017,
-  "createdAt": "2020-10-12T16:16:04.000Z",
-  "updatedAt": "2021-12-06T19:18:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kisaragi Miyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:46.000Z",
+    "updatedAt": "2021-11-05T07:35:23.000Z",
+    "checkedAt": null,
+    "id": 33017,
+    "type": "manga",
+    "title": "Locomoco",
+    "altTitle": [
+      "Rokomoko",
+      "Loco Moco",
+      "ロコモコ"
+    ],
+    "url": "https://myanimelist.net/manga/33017/Locomoco",
+    "image": "https://cdn.myanimelist.net/images/manga/2/98771.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rokomoko",
-      "Loco Moco",
-      "ロコモコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueda, Miwa"
-    ],
-    "id": 33017,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:51.234Z",
+    "updatedAt": "2022-05-13T12:44:51.234Z",
+    "checkedAt": null,
+    "id": 63017,
     "type": "manga",
     "title": "Locomoco",
-    "url": "https://myanimelist.net/manga/33017/Locomoco",
-    "image": "https://cdn.myanimelist.net/images/manga/2/98771.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:46.000Z",
-    "updatedAt": "2021-11-05T07:35:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロコモコ",
       "Rokomoko"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miwa Ueda"
-    ],
-    "id": 63017,
-    "malId": 33017,
-    "type": "manga",
-    "title": "Locomoco",
     "url": "https://anilist.co/manga/63017",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33017.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:54.000Z",
-    "updatedAt": "2021-12-17T19:27:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33017/Locomoco"
+    "externalLinks": [],
+    "malId": 33017,
+    "deletedAt": null,
+    "authors": [
+      "Miwa Ueda"
+    ]
+  }
 }

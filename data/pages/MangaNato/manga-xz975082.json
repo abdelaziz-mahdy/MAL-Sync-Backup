@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Maeda Jirou",
-    "Fukumoto Nobuyuki"
-  ],
+  "createdAt": "2022-04-04T19:00:33.000Z",
+  "updatedAt": "2022-04-04T19:30:22.000Z",
+  "checkedAt": null,
+  "id": 100674,
   "identifier": "manga-xz975082",
   "type": "manga",
   "page": "MangaNato",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16197,
   "aniId": 46197,
-  "createdAt": "2022-04-04T19:00:33.000Z",
-  "updatedAt": "2022-04-04T19:30:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maeda Jirou",
+    "Fukumoto Nobuyuki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/HERO_-%E9%80%86%E5%A2%83%E3%81%AE%E9%97%98%E7%89%8C-"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:19.000Z",
+    "updatedAt": "2022-05-14T21:55:22.000Z",
+    "checkedAt": "2022-05-14T21:55:22.000Z",
+    "id": 16197,
+    "type": "manga",
+    "title": "Hero",
     "altTitle": [
       "Hero: Gyakkyou no Toupai",
       "Gyakkyou no Touhai",
@@ -33,43 +34,45 @@
       "Hero: A man who succeeds dying wishes of Akagi",
       "HERO"
     ],
-    "authors": [
-      "Fukumoto, Nobuyuki",
-      "Maeda, Jirou"
-    ],
-    "id": 16197,
-    "type": "manga",
-    "title": "Hero",
     "url": "https://myanimelist.net/manga/16197/Hero",
     "image": "https://cdn.myanimelist.net/images/manga/2/156261.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:19.000Z",
-    "updatedAt": "2022-04-04T19:00:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/HERO_-%E9%80%86%E5%A2%83%E3%81%AE%E9%97%98%E7%89%8C-"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fukumoto, Nobuyuki",
+      "Maeda, Jirou"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:05.833Z",
+    "updatedAt": "2022-05-17T09:59:18.000Z",
+    "checkedAt": "2022-05-17T09:59:18.000Z",
+    "id": 46197,
+    "type": "manga",
+    "title": "HERO: Akagi no Ishi wo Tsugu Otoko",
     "altTitle": [
       "HERO - アカギの遺志を継ぐ男",
       "HERO: Gyakkyou no Touhai",
       "HERO: A Man who Succeeds the Dying Wishes of Akagi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nobuyuki Fukumoto",
-      "Jirou Maeda"
-    ],
-    "id": 46197,
-    "malId": 16197,
-    "type": "manga",
-    "title": "HERO: Akagi no Ishi wo Tsugu Otoko",
     "url": "https://anilist.co/manga/46197",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46197-GxQqDXLYChcB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:53.000Z",
-    "updatedAt": "2021-12-17T16:07:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16197/Hero"
+    "externalLinks": [],
+    "malId": 16197,
+    "deletedAt": null,
+    "authors": [
+      "Nobuyuki Fukumoto",
+      "Jirou Maeda"
+    ]
+  }
 }

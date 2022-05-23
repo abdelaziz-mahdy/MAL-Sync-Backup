@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ichikawa Masa"
-  ],
+  "createdAt": "2021-07-08T09:13:16.000Z",
+  "updatedAt": "2022-01-08T09:49:15.000Z",
+  "checkedAt": null,
+  "id": 81230,
   "identifier": "manga-we951839",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22115,
   "aniId": 52115,
-  "createdAt": "2021-07-08T09:13:16.000Z",
-  "updatedAt": "2022-01-08T09:49:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ichikawa Masa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:00.000Z",
+    "updatedAt": "2022-05-19T21:19:53.000Z",
+    "checkedAt": "2022-05-19T21:19:53.000Z",
+    "id": 22115,
+    "type": "manga",
+    "title": "A-bout!",
+    "altTitle": [
+      "About!",
+      "アバウト"
+    ],
+    "url": "https://myanimelist.net/manga/22115/A-bout",
+    "image": "https://cdn.myanimelist.net/images/manga/4/74997.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "About!",
-      "アバウト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ichikawa, Masa"
-    ],
-    "id": 22115,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:52.687Z",
+    "updatedAt": "2022-05-19T21:19:51.000Z",
+    "checkedAt": "2022-05-19T21:19:51.000Z",
+    "id": 52115,
     "type": "manga",
     "title": "A-bout!",
-    "url": "https://myanimelist.net/manga/22115/A-bout",
-    "image": "https://cdn.myanimelist.net/images/manga/4/74997.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:00.000Z",
-    "updatedAt": "2022-04-18T13:32:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アバウト",
       "About!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masa Ichikawa"
-    ],
-    "id": 52115,
-    "malId": 22115,
-    "type": "manga",
-    "title": "A-bout!",
     "url": "https://anilist.co/manga/52115",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52115-AB4ZKxe6UKXg.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:29.000Z",
-    "updatedAt": "2021-12-17T17:44:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22115/A-bout"
+    "externalLinks": [],
+    "malId": 22115,
+    "deletedAt": null,
+    "authors": [
+      "Masa Ichikawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sato Zakuri"
-  ],
+  "createdAt": "2020-10-12T16:09:37.000Z",
+  "updatedAt": "2021-12-04T19:23:08.000Z",
+  "checkedAt": null,
+  "id": 15375,
   "identifier": "a2cae001-a83a-4b00-b74b-acb958bec356",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96829,
   "aniId": 96889,
-  "createdAt": "2020-10-12T16:09:37.000Z",
-  "updatedAt": "2021-12-04T19:23:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sato Zakuri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:25.000Z",
+    "updatedAt": "2021-11-15T23:27:43.000Z",
+    "checkedAt": null,
+    "id": 96829,
+    "type": "manga",
+    "title": "Anagura Amélie",
+    "altTitle": [
+      "Anagram Ameri",
+      "Anagura Amelie",
+      "アナグラアメリ"
+    ],
+    "url": "https://myanimelist.net/manga/96829/Anagura_Amélie",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179109.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anagram Ameri",
-      "Anagura Amelie",
-      "アナグラアメリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sato, Zakuri"
-    ],
-    "id": 96829,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:27.288Z",
+    "updatedAt": "2022-05-13T12:54:27.288Z",
+    "checkedAt": null,
+    "id": 96889,
     "type": "manga",
     "title": "Anagura Amélie",
-    "url": "https://myanimelist.net/manga/96829/Anagura_Amélie",
-    "image": "https://cdn.myanimelist.net/images/manga/3/179109.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:25.000Z",
-    "updatedAt": "2021-11-15T23:27:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アナグラアメリ",
       "Anagram Ameri",
       "Anagura Amelie"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Zakuri Sato"
-    ],
-    "id": 96889,
-    "malId": 96829,
-    "type": "manga",
-    "title": "Anagura Amélie",
     "url": "https://anilist.co/manga/96889",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96889-KLVeRXuhjLlO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:07.000Z",
-    "updatedAt": "2021-12-18T01:54:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96829/Anagura_Amélie"
+    "externalLinks": [],
+    "malId": 96829,
+    "deletedAt": null,
+    "authors": [
+      "Zakuri Sato"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shirafiya",
-    "Xugarnal"
-  ],
+  "createdAt": "2020-10-12T16:16:44.000Z",
+  "updatedAt": "2021-12-07T01:48:03.000Z",
+  "checkedAt": null,
+  "id": 29720,
   "identifier": "b44e1b57-c61e-487b-a6b5-4bdbed7bf05d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8826,
   "aniId": 102011,
-  "createdAt": "2020-10-12T16:16:44.000Z",
-  "updatedAt": "2021-12-07T01:48:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirafiya",
+    "Xugarnal"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:21.000Z",
+    "updatedAt": "2022-05-15T20:42:19.000Z",
+    "checkedAt": "2022-05-15T20:42:19.000Z",
+    "id": 8826,
+    "type": "manga",
+    "title": "Kanojo no Omoide...",
+    "altTitle": [
+      "Her Memories...",
+      "Memories of Her...",
+      "彼女の想いで・・・"
+    ],
+    "url": "https://myanimelist.net/manga/8826/Kanojo_no_Omoide",
+    "image": "https://cdn.myanimelist.net/images/manga/1/88703.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Her Memories...",
-      "Memories of Her...",
-      "彼女の想いで・・・"
-    ],
+    "deletedAt": null,
     "authors": [
       "Otomo, Katsuhiro"
-    ],
-    "id": 8826,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:38.343Z",
+    "updatedAt": "2022-05-15T21:46:47.000Z",
+    "checkedAt": "2022-05-15T21:46:47.000Z",
+    "id": 102011,
     "type": "manga",
     "title": "Kanojo no Omoide...",
-    "url": "https://myanimelist.net/manga/8826/Kanojo_no_Omoide",
-    "image": "https://cdn.myanimelist.net/images/manga/1/88703.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:21.000Z",
-    "updatedAt": "2022-04-03T15:02:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Memories",
       "彼女の想いで・・・",
       "Her Memories...",
       "Memories of Her..."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Katsuhiro Ootomo",
-      "Yoko Umezawa",
-      "Anthony Kehoe"
-    ],
-    "id": 102011,
-    "malId": 8826,
-    "type": "manga",
-    "title": "Kanojo no Omoide...",
     "url": "https://anilist.co/manga/102011",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102011-2vRHoLUf0Fhg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:50.000Z",
-    "updatedAt": "2022-05-08T09:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8826/Kanojo_no_Omoide"
+    "externalLinks": [],
+    "malId": 8826,
+    "deletedAt": null,
+    "authors": [
+      "Katsuhiro Ootomo",
+      "Yoko Umezawa",
+      "Anthony Kehoe"
+    ]
+  }
 }

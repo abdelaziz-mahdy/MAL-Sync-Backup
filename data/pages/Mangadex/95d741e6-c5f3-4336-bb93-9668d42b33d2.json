@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyamoto Kano"
-  ],
+  "createdAt": "2020-10-12T16:07:05.000Z",
+  "updatedAt": "2021-12-04T00:17:48.000Z",
+  "checkedAt": null,
+  "id": 9853,
   "identifier": "95d741e6-c5f3-4336-bb93-9668d42b33d2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20364,
   "aniId": 50364,
-  "createdAt": "2020-10-12T16:07:05.000Z",
-  "updatedAt": "2021-12-04T00:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyamoto Kano"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:50.000Z",
+    "updatedAt": "2022-04-10T06:02:02.000Z",
+    "checkedAt": null,
+    "id": 20364,
+    "type": "manga",
+    "title": "Sweet Tale",
     "altTitle": [
       "Boy Next Door",
       "One Heart",
@@ -28,21 +34,24 @@
       "Long Way Home",
       "SWEET TALE"
     ],
-    "authors": [
-      "Miyamoto, Kano"
-    ],
-    "id": 20364,
-    "type": "manga",
-    "title": "Sweet Tale",
     "url": "https://myanimelist.net/manga/20364/Sweet_Tale",
     "image": "https://cdn.myanimelist.net/images/manga/2/82076.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:50.000Z",
-    "updatedAt": "2022-04-10T06:02:02.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyamoto, Kano"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:34.500Z",
+    "updatedAt": "2022-05-13T13:00:34.500Z",
+    "checkedAt": null,
+    "id": 50364,
+    "type": "manga",
+    "title": "Sweet Tale",
     "altTitle": [
       "SWEET TALE",
       "Boy Next Door",
@@ -50,21 +59,15 @@
       "Otoshimono",
       "Lost Property"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kano Miyamoto"
-    ],
-    "id": 50364,
-    "malId": 20364,
-    "type": "manga",
-    "title": "Sweet Tale",
     "url": "https://anilist.co/manga/50364",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50364-KbpNwdtRAbP0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:32.000Z",
-    "updatedAt": "2021-12-17T17:15:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20364/Sweet_Tale"
+    "externalLinks": [],
+    "malId": 20364,
+    "deletedAt": null,
+    "authors": [
+      "Kano Miyamoto"
+    ]
+  }
 }

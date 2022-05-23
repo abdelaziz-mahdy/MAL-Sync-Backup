@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakatani"
-  ],
+  "createdAt": "2021-05-31T09:44:43.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
+  "checkedAt": null,
+  "id": 74768,
   "identifier": "manga-tc970511",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88660,
   "aniId": 86218,
-  "createdAt": "2021-05-31T09:44:43.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakatani"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2022-05-14T20:00:53.000Z",
+    "checkedAt": "2022-05-14T20:00:53.000Z",
+    "id": 88660,
+    "type": "manga",
+    "title": "Yagate Kimi ni Naru",
+    "altTitle": [
+      "YagaKimi",
+      "Eventually, I Will Become You",
+      "Bloom Into You",
+      "やがて君になる"
+    ],
+    "url": "https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/232311.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "YagaKimi",
-      "Eventually, I Will Become You",
-      "Bloom Into You",
-      "やがて君になる"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakatani, Nio"
-    ],
-    "id": 88660,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:49.308Z",
+    "updatedAt": "2022-05-15T12:00:35.000Z",
+    "checkedAt": "2022-05-15T12:00:35.000Z",
+    "id": 86218,
     "type": "manga",
     "title": "Yagate Kimi ni Naru",
-    "url": "https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/232311.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:58.000Z",
-    "updatedAt": "2022-04-02T22:31:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bloom Into You",
       "やがて君になる",
@@ -55,24 +64,19 @@
       "終將成為妳",
       "สุดท้ายก็คือเธอ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nio Nakatani",
-      "Jenny McKeon",
-      "Aline Kukor",
-      "Agnès Pérez Massegú"
-    ],
-    "id": 86218,
-    "malId": 88660,
-    "type": "manga",
-    "title": "Yagate Kimi ni Naru",
     "url": "https://anilist.co/manga/86218",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86218-k8GHlUk2U1v6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:55.000Z",
-    "updatedAt": "2022-01-10T21:11:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru"
+    "externalLinks": [],
+    "malId": 88660,
+    "deletedAt": null,
+    "authors": [
+      "Nio Nakatani",
+      "Jenny McKeon",
+      "Aline Kukor",
+      "Agnès Pérez Massegú",
+      "Lasse Christiansen"
+    ]
+  }
 }

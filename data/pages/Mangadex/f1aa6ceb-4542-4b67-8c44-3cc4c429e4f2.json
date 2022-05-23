@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Matsuki Tatsuya",
-    "Usazaki Shiro"
-  ],
+  "createdAt": "2020-10-12T16:11:17.000Z",
+  "updatedAt": "2021-12-05T07:20:09.000Z",
+  "checkedAt": null,
+  "id": 19007,
   "identifier": "f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112115,
   "aniId": 100991,
-  "createdAt": "2020-10-12T16:11:17.000Z",
-  "updatedAt": "2021-12-05T07:20:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsuki Tatsuya",
+    "Usazaki Shiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2022-05-15T00:13:53.000Z",
+    "checkedAt": "2022-05-15T00:13:53.000Z",
+    "id": 112115,
+    "type": "manga",
+    "title": "Act-age",
+    "altTitle": [
+      "Act-age",
+      "アクタージュ act-age"
+    ],
+    "url": "https://myanimelist.net/manga/112115/Act-age",
+    "image": "https://cdn.myanimelist.net/images/manga/2/209753.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Act-age",
-      "アクタージュ act-age"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsuki, Tatsuya",
       "Usazaki, Shiro"
-    ],
-    "id": 112115,
-    "type": "manga",
-    "title": "Act-age",
-    "url": "https://myanimelist.net/manga/112115/Act-age",
-    "image": "https://cdn.myanimelist.net/images/manga/2/209753.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2022-04-24T00:01:56.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:59.876Z",
+    "updatedAt": "2022-05-15T16:58:11.000Z",
+    "checkedAt": "2022-05-15T16:58:11.000Z",
+    "id": 100991,
+    "type": "manga",
+    "title": "act-age",
     "altTitle": [
       "ACT-AGE",
       "アクタージュ act-age",
       "ดารายอดอัจฉริยะ"
     ],
+    "url": "https://anilist.co/manga/100991",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100991-iAa5tfGjInDf.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 112115,
+    "deletedAt": null,
     "authors": [
       "Tatsuya Matsuki",
       "Shiro Usazaki",
       "Camellia Nieh",
       "Eve Grandt"
-    ],
-    "id": 100991,
-    "malId": 112115,
-    "type": "manga",
-    "title": "act-age",
-    "url": "https://anilist.co/manga/100991",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100991-iAa5tfGjInDf.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:56:52.000Z",
-    "updatedAt": "2022-03-11T07:29:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112115/Act-age"
+    ]
+  }
 }

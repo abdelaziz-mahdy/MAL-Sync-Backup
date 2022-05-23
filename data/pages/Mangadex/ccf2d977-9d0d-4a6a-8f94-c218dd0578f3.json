@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hokazono Masaya",
-    "Satomi Yuu"
-  ],
+  "createdAt": "2020-10-12T16:17:04.000Z",
+  "updatedAt": "2021-12-07T04:47:24.000Z",
+  "checkedAt": null,
+  "id": 30437,
   "identifier": "ccf2d977-9d0d-4a6a-8f94-c218dd0578f3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91946,
   "aniId": 95719,
-  "createdAt": "2020-10-12T16:17:04.000Z",
-  "updatedAt": "2021-12-07T04:47:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hokazono Masaya",
+    "Satomi Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-05-15T04:33:57.000Z",
+    "checkedAt": "2022-05-15T04:33:57.000Z",
+    "id": 91946,
+    "type": "manga",
+    "title": "Mushihime",
+    "altTitle": [
+      "Mushi-hime",
+      "Insect Princess",
+      "蟲姫"
+    ],
+    "url": "https://myanimelist.net/manga/91946/Mushihime",
+    "image": "https://cdn.myanimelist.net/images/manga/2/166267.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mushi-hime",
-      "Insect Princess",
-      "蟲姫"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hokazono, Masaya",
       "Satomi, Yuu"
-    ],
-    "id": 91946,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:27.814Z",
+    "updatedAt": "2022-05-15T20:59:47.000Z",
+    "checkedAt": "2022-05-15T20:59:47.000Z",
+    "id": 95719,
     "type": "manga",
     "title": "Mushihime",
-    "url": "https://myanimelist.net/manga/91946/Mushihime",
-    "image": "https://cdn.myanimelist.net/images/manga/2/166267.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2021-12-27T21:24:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "蟲姫",
       "Mushi-hime",
@@ -54,22 +63,16 @@
       "Insect Princess",
       "Nuisible"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaya Hokazono",
-      "Yuu Satomi"
-    ],
-    "id": 95719,
-    "malId": 91946,
-    "type": "manga",
-    "title": "Mushihime",
     "url": "https://anilist.co/manga/95719",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95719-bDO5mESqNoec.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:37.000Z",
-    "updatedAt": "2021-12-18T01:27:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91946/Mushihime"
+    "externalLinks": [],
+    "malId": 91946,
+    "deletedAt": null,
+    "authors": [
+      "Masaya Hokazono",
+      "Yuu Satomi"
+    ]
+  }
 }

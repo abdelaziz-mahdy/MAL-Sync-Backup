@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SANBE Kei"
-  ],
+  "createdAt": "2022-05-06T21:01:26.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T16:41:19.000Z",
+  "id": 102926,
   "identifier": "mizutamari_ni_ukabu_shima",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,63 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/33663/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-06T21:01:26.000Z",
-  "updatedAt": "2022-05-06T21:01:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 122949,
+  "aniId": 113249,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "SANBE Kei"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-13T16:41:21.000Z",
+    "checkedAt": "2022-05-13T16:41:21.000Z",
+    "id": 122949,
+    "type": "manga",
+    "title": "Mizutamari ni Ukabu Shima",
+    "altTitle": [
+      "The Island Where Puddles Float",
+      "Island in a Puddle",
+      "水溜まりに浮かぶ島"
+    ],
+    "url": "https://myanimelist.net/manga/122949/Mizutamari_ni_Ukabu_Shima",
+    "image": "https://cdn.myanimelist.net/images/manga/1/234462.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://evening.kodansha.co.jp/c/mizutamariniukabushima/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sanbe, Kei"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:19.486Z",
+    "updatedAt": "2022-05-13T12:52:19.486Z",
+    "checkedAt": null,
+    "id": 113249,
+    "type": "manga",
+    "title": "Mizutamari ni Ukabu Shima",
+    "altTitle": [
+      "Island in a Puddle",
+      "水溜まりに浮かぶ島",
+      "The Island Where Puddles Float"
+    ],
+    "url": "https://anilist.co/manga/113249",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113249-ldeMTTxsrUUP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 122949,
+    "deletedAt": null,
+    "authors": [
+      "Kei Sanbe"
+    ]
+  }
 }

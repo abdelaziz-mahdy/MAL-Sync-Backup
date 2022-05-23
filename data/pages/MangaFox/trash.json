@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "YAMAMOTO Kenji"
-  ],
+  "createdAt": "2021-07-18T04:32:34.000Z",
+  "updatedAt": "2022-01-18T05:04:03.000Z",
+  "checkedAt": null,
+  "id": 82260,
   "identifier": "trash",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 61683,
   "aniId": 85865,
-  "createdAt": "2021-07-18T04:32:34.000Z",
-  "updatedAt": "2022-01-18T05:04:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "YAMAMOTO Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:03.000Z",
+    "updatedAt": "2022-05-18T05:09:02.000Z",
+    "checkedAt": "2022-05-18T05:09:02.000Z",
+    "id": 61683,
+    "type": "manga",
+    "title": "Trash.",
+    "altTitle": [
+      "trash."
+    ],
+    "url": "https://myanimelist.net/manga/61683/Trash",
+    "image": "https://cdn.myanimelist.net/images/manga/1/106257.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "trash."
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamoto, Kenji",
       "D.P"
-    ],
-    "id": 61683,
-    "type": "manga",
-    "title": "Trash.",
-    "url": "https://myanimelist.net/manga/61683/Trash",
-    "image": "https://cdn.myanimelist.net/images/manga/1/106257.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:03.000Z",
-    "updatedAt": "2022-04-20T18:31:38.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:00.754Z",
+    "updatedAt": "2022-05-18T05:09:01.000Z",
+    "checkedAt": "2022-05-18T05:09:01.000Z",
+    "id": 85865,
+    "type": "manga",
+    "title": "trash.",
     "altTitle": [
       "trash. トラッシュ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Yamamoto",
-      "D.P"
-    ],
-    "id": 85865,
-    "malId": 61683,
-    "type": "manga",
-    "title": "trash.",
     "url": "https://anilist.co/manga/85865",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55865-byaDgh1auDIr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:42.000Z",
-    "updatedAt": "2021-12-17T22:24:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/61683/Trash"
+    "externalLinks": [],
+    "malId": 61683,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Yamamoto",
+      "D.P"
+    ]
+  }
 }

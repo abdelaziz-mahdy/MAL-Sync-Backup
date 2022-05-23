@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hero"
-  ],
+  "createdAt": "2020-10-12T16:06:35.000Z",
+  "updatedAt": "2021-12-03T20:48:39.000Z",
+  "checkedAt": null,
+  "id": 8802,
   "identifier": "4ec3e6b3-18bf-4964-9c87-1f287d3398f4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36615,
   "aniId": 66615,
-  "createdAt": "2020-10-12T16:06:35.000Z",
-  "updatedAt": "2021-12-03T20:48:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hero"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:01.000Z",
+    "updatedAt": "2022-05-14T22:19:11.000Z",
+    "checkedAt": "2022-05-14T22:19:11.000Z",
+    "id": 36615,
+    "type": "manga",
+    "title": "Hori-san to Miyamura-kun",
+    "altTitle": [
+      "堀さんと宮村くん"
+    ],
+    "url": "https://myanimelist.net/manga/36615/Hori-san_to_Miyamura-kun",
+    "image": "https://cdn.myanimelist.net/images/manga/2/173355.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "堀さんと宮村くん"
-    ],
+    "deletedAt": null,
     "authors": [
       "HERO"
-    ],
-    "id": 36615,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:04.538Z",
+    "updatedAt": "2022-05-15T18:35:11.000Z",
+    "checkedAt": "2022-05-15T18:35:11.000Z",
+    "id": 66615,
     "type": "manga",
     "title": "Hori-san to Miyamura-kun",
-    "url": "https://myanimelist.net/manga/36615/Hori-san_to_Miyamura-kun",
-    "image": "https://cdn.myanimelist.net/images/manga/2/173355.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:01.000Z",
-    "updatedAt": "2021-12-18T14:19:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "堀さんと宮村くん",
       "Horisan to Miyamurakun"
     ],
-    "externalLinks": [],
-    "authors": [
-      "HERO"
-    ],
-    "id": 66615,
-    "malId": 36615,
-    "type": "manga",
-    "title": "Hori-san to Miyamura-kun",
     "url": "https://anilist.co/manga/66615",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36615.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2021-11-25T06:05:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/36615/Hori-san_to_Miyamura-kun"
+    "externalLinks": [],
+    "malId": 36615,
+    "deletedAt": null,
+    "authors": [
+      "HERO"
+    ]
+  }
 }

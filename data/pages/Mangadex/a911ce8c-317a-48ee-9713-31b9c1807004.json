@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Imai Yuu"
-  ],
+  "createdAt": "2020-10-12T16:08:48.000Z",
+  "updatedAt": "2021-12-04T13:21:57.000Z",
+  "checkedAt": null,
+  "id": 13602,
   "identifier": "a911ce8c-317a-48ee-9713-31b9c1807004",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92194,
   "aniId": 99773,
-  "createdAt": "2020-10-12T16:08:48.000Z",
-  "updatedAt": "2021-12-04T13:21:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Imai Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2022-05-15T18:44:02.000Z",
+    "checkedAt": "2022-05-15T18:44:02.000Z",
+    "id": 92194,
+    "type": "manga",
+    "title": "Chikotan, Kowareru",
+    "altTitle": [
+      "ちこたん、こわれる"
+    ],
+    "url": "https://myanimelist.net/manga/92194/Chikotan_Kowareru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188828.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ちこたん、こわれる"
-    ],
+    "deletedAt": null,
     "authors": [
       "Imai, Yuu"
-    ],
-    "id": 92194,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:38.305Z",
+    "updatedAt": "2022-05-15T20:46:23.000Z",
+    "checkedAt": "2022-05-15T20:46:23.000Z",
+    "id": 99773,
     "type": "manga",
     "title": "Chikotan, Kowareru",
-    "url": "https://myanimelist.net/manga/92194/Chikotan_Kowareru",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188828.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:09.000Z",
-    "updatedAt": "2022-02-25T03:49:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ちこたん、こわれる"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Imai"
-    ],
-    "id": 99773,
-    "malId": 92194,
-    "type": "manga",
-    "title": "Chikotan, Kowareru",
     "url": "https://anilist.co/manga/99773",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99773-3pYPo8NMzeTP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:38.000Z",
-    "updatedAt": "2021-12-18T02:57:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92194/Chikotan_Kowareru"
+    "externalLinks": [],
+    "malId": 92194,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Imai"
+    ]
+  }
 }

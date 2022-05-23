@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morikawa George"
-  ],
+  "createdAt": "2020-10-12T16:03:15.000Z",
+  "updatedAt": "2022-02-05T14:36:03.000Z",
+  "checkedAt": null,
+  "id": 1838,
   "identifier": "f7888782-0727-49b0-95ec-a3530c70f83b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7,
   "aniId": 30007,
-  "createdAt": "2020-10-12T16:03:15.000Z",
-  "updatedAt": "2022-02-05T14:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morikawa George"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-14T20:53:35.000Z",
+    "checkedAt": "2022-05-14T20:53:35.000Z",
+    "id": 7,
+    "type": "manga",
+    "title": "Hajime no Ippo",
+    "altTitle": [
+      "The Fighting!",
+      "Fighting Spirit",
+      "The Fighting! Ippo",
+      "Hajime no Ippo Gaiden: Naniwa Tiger",
+      "はじめの一歩"
+    ],
+    "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250313.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,28 +48,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Fighting!",
-      "Fighting Spirit",
-      "The Fighting! Ippo",
-      "Hajime no Ippo Gaiden: Naniwa Tiger",
-      "はじめの一歩"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morikawa, George"
-    ],
-    "id": 7,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:07.021Z",
+    "updatedAt": "2022-05-15T15:17:59.000Z",
+    "checkedAt": "2022-05-15T15:17:59.000Z",
+    "id": 30007,
     "type": "manga",
     "title": "Hajime no Ippo",
-    "url": "https://myanimelist.net/manga/7/Hajime_no_Ippo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/250313.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-11T21:08:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "はじめの一歩",
       "The Fighting!",
@@ -58,23 +67,17 @@
       "The Fighting! Ippo",
       "Hajime no Ippo Gaiden: Naniwa Tiger"
     ],
-    "externalLinks": [],
-    "authors": [
-      "George Morikawa",
-      "Kentarou Miura",
-      "Yuuji Ninomiya"
-    ],
-    "id": 30007,
-    "malId": 7,
-    "type": "manga",
-    "title": "Hajime no Ippo",
     "url": "https://anilist.co/manga/30007",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30007-jVUNk721L0Uz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:31:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7/Hajime_no_Ippo"
+    "externalLinks": [],
+    "malId": 7,
+    "deletedAt": null,
+    "authors": [
+      "George Morikawa",
+      "Kentarou Miura",
+      "Yuuji Ninomiya"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Min (민)",
-    "Baek Seung Hoon"
-  ],
+  "createdAt": "2020-10-12T16:11:12.000Z",
+  "updatedAt": "2021-12-05T09:23:21.000Z",
+  "checkedAt": null,
+  "id": 18782,
   "identifier": "3e1751e6-5664-4824-97a8-950f07b2fde1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118907,
   "aniId": 101720,
-  "createdAt": "2020-10-12T16:11:12.000Z",
-  "updatedAt": "2021-12-05T09:23:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Min (민)",
+    "Baek Seung Hoon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2022-05-14T20:24:41.000Z",
+    "checkedAt": "2022-05-14T20:24:41.000Z",
+    "id": 118907,
+    "type": "manga",
+    "title": "Dokgo 2",
+    "altTitle": [
+      "독고2"
+    ],
+    "url": "https://myanimelist.net/manga/118907/Dokgo_2",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222167.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "독고2"
-    ],
+    "deletedAt": null,
     "authors": [
       "Baek, Seung Hoon",
       "Meen"
-    ],
-    "id": 118907,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:07.552Z",
+    "updatedAt": "2022-05-13T12:51:07.552Z",
+    "checkedAt": null,
+    "id": 101720,
     "type": "manga",
     "title": "Dokgo 2",
-    "url": "https://myanimelist.net/manga/118907/Dokgo_2",
-    "image": "https://cdn.myanimelist.net/images/manga/3/222167.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:54.000Z",
-    "updatedAt": "2021-11-23T18:06:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "독고2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Seung-Hoon Baek",
-      "Meen"
-    ],
-    "id": 101720,
-    "malId": 118907,
-    "type": "manga",
-    "title": "Dokgo 2",
     "url": "https://anilist.co/manga/101720",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101720-Z15I0TyQsZlv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:06.000Z",
-    "updatedAt": "2021-12-18T03:56:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118907/Dokgo_2"
+    "externalLinks": [],
+    "malId": 118907,
+    "deletedAt": null,
+    "authors": [
+      "Seung-Hoon Baek",
+      "Meen"
+    ]
+  }
 }

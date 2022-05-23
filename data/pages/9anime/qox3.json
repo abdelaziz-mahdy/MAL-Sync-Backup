@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:11.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8490,
   "identifier": "qox3",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38080,
   "aniId": 103302,
-  "createdAt": "2020-10-12T15:55:11.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:04.000Z",
+    "updatedAt": "2022-05-14T09:39:45.000Z",
+    "checkedAt": "2022-05-14T09:39:45.000Z",
+    "id": 38080,
+    "type": "anime",
+    "title": "Kono Oto Tomare!",
+    "altTitle": [
+      "Stop This Sound!",
+      "Kono Oto Tomare!: Sounds of Life",
+      "この音とまれ！"
+    ],
+    "url": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare",
+    "image": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -47,30 +64,26 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Stop This Sound!",
-      "Kono Oto Tomare!: Sounds of Life",
-      "この音とまれ！"
-    ],
-    "id": 38080,
+    "deletedAt": null,
+    "anidbId": 14234
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:45.000Z",
+    "updatedAt": "2022-05-15T12:38:59.000Z",
+    "checkedAt": "2022-05-15T12:38:59.000Z",
+    "id": 103302,
     "type": "anime",
     "title": "Kono Oto Tomare!",
-    "url": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare",
-    "image": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14234,
-    "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2022-04-12T18:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kono Oto Tomare!: Sounds of Life",
       "この音とまれ！",
       "Stop at this Sound!",
       "ฝากฝันไว้ที่เสียงโคโตะ!"
     ],
+    "url": "https://anilist.co/anime/103302",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103302-RVGwGRDGdMQq.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -89,17 +102,7 @@
         "url": "https://www.netflix.com/title/81328604"
       }
     ],
-    "id": 103302,
     "malId": 38080,
-    "type": "anime",
-    "title": "Kono Oto Tomare!",
-    "url": "https://anilist.co/anime/103302",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103302-RVGwGRDGdMQq.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:45.000Z",
-    "updatedAt": "2021-12-14T11:18:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare"
+  }
 }

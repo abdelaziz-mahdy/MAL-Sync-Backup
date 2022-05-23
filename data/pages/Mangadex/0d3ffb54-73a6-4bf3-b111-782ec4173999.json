@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ichikawa Ichi"
-  ],
+  "createdAt": "2020-10-12T16:09:50.000Z",
+  "updatedAt": "2021-12-04T20:50:43.000Z",
+  "checkedAt": null,
+  "id": 15813,
   "identifier": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103063,
   "aniId": 99516,
-  "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-12-04T20:50:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ichikawa Ichi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:47.000Z",
+    "updatedAt": "2021-11-17T21:15:15.000Z",
+    "checkedAt": null,
+    "id": 103063,
+    "type": "manga",
+    "title": "Tadaima, Okaeri",
     "altTitle": [
       "I'm Home, Welcome Back",
       "Tadaima, Okaeri: Kagayaku Hi",
@@ -27,21 +33,24 @@
       "Tadaima, Okaeri: Hitoyasumi",
       "ただいま、おかえり"
     ],
-    "authors": [
-      "Ichikawa, Ichi"
-    ],
-    "id": 103063,
-    "type": "manga",
-    "title": "Tadaima, Okaeri",
     "url": "https://myanimelist.net/manga/103063/Tadaima_Okaeri",
     "image": "https://cdn.myanimelist.net/images/manga/2/189551.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:47.000Z",
-    "updatedAt": "2021-11-17T21:15:15.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ichikawa, Ichi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:32.961Z",
+    "updatedAt": "2022-05-13T13:00:32.961Z",
+    "checkedAt": null,
+    "id": 99516,
+    "type": "manga",
+    "title": "Tadaima, Okaeri",
     "altTitle": [
       "Welcome Home",
       "ただいま、おかえり",
@@ -54,21 +63,15 @@
       "ただいま、おかえり－かがやくひ－",
       "ただいま、おかえりーひとやすみー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichi Ichikawa"
-    ],
-    "id": 99516,
-    "malId": 103063,
-    "type": "manga",
-    "title": "Tadaima, Okaeri",
     "url": "https://anilist.co/manga/99516",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99516-OUtAN5fFEUtL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2021-12-18T02:54:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103063/Tadaima_Okaeri"
+    "externalLinks": [],
+    "malId": 103063,
+    "deletedAt": null,
+    "authors": [
+      "Ichi Ichikawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amaichi Esora"
-  ],
+  "createdAt": "2020-10-12T16:12:49.000Z",
+  "updatedAt": "2021-12-05T16:52:30.000Z",
+  "checkedAt": null,
+  "id": 21608,
   "identifier": "6dbc8581-3fc1-4734-8160-d09faa252ae8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112224,
   "aniId": 102056,
-  "createdAt": "2020-10-12T16:12:49.000Z",
-  "updatedAt": "2021-12-05T16:52:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amaichi Esora"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:25.000Z",
+    "updatedAt": "2022-05-17T18:25:13.000Z",
+    "checkedAt": "2022-05-17T18:25:13.000Z",
+    "id": 112224,
+    "type": "manga",
+    "title": "Oukyuu no Trinity",
+    "altTitle": [
+      "Trinity of the Royal Palace",
+      "王宮のトリニティ"
+    ],
+    "url": "https://myanimelist.net/manga/112224/Oukyuu_no_Trinity",
+    "image": "https://cdn.myanimelist.net/images/manga/1/209890.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Trinity of the Royal Palace",
-      "王宮のトリニティ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amaichi, Esora"
-    ],
-    "id": 112224,
-    "type": "manga",
-    "title": "Oukyuu no Trinity",
-    "url": "https://myanimelist.net/manga/112224/Oukyuu_no_Trinity",
-    "image": "https://cdn.myanimelist.net/images/manga/1/209890.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:25.000Z",
-    "updatedAt": "2021-12-23T04:22:17.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:43.856Z",
+    "updatedAt": "2022-05-17T18:25:13.000Z",
+    "checkedAt": "2022-05-17T18:25:13.000Z",
+    "id": 102056,
+    "type": "manga",
+    "title": "Okyu no Trinity",
     "altTitle": [
       "王宮のトリニティ",
       "Trinity of the Royal Palace",
       "Ouukyu no Trinity"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Esora Amaichi"
-    ],
-    "id": 102056,
-    "malId": 112224,
-    "type": "manga",
-    "title": "Okyu no Trinity",
     "url": "https://anilist.co/manga/102056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102056-gAo0i9cr2drq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:53.000Z",
-    "updatedAt": "2021-12-18T04:18:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112224/Oukyuu_no_Trinity"
+    "externalLinks": [],
+    "malId": 112224,
+    "deletedAt": null,
+    "authors": [
+      "Esora Amaichi"
+    ]
+  }
 }

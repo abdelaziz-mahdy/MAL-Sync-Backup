@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-12-31T15:00:55.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32017,
   "identifier": "tenchi-in-tokyo-",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 538,
   "aniId": 538,
-  "createdAt": "2020-12-31T15:00:55.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:05.000Z",
+    "updatedAt": "2022-05-14T09:39:23.000Z",
+    "checkedAt": "2022-05-14T09:39:23.000Z",
+    "id": 538,
+    "type": "anime",
+    "title": "Shin Tenchi Muyou!",
+    "altTitle": [
+      "New Tenchi Muyo",
+      "Tenchi in Tokyo",
+      "新・天地無用!"
+    ],
+    "url": "https://myanimelist.net/anime/538/Shin_Tenchi_Muyou",
+    "image": "https://cdn.myanimelist.net/images/anime/4/61149.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +60,25 @@
         "url": "https://www.funimation.com/shows/tenchi-muyo-tenchi-in-tokyo"
       }
     ],
-    "altTitle": [
-      "New Tenchi Muyo",
-      "Tenchi in Tokyo",
-      "新・天地無用!"
-    ],
+    "deletedAt": null,
+    "anidbId": 337
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:46.000Z",
+    "updatedAt": "2022-05-15T14:15:23.000Z",
+    "checkedAt": "2022-05-15T14:15:23.000Z",
     "id": 538,
     "type": "anime",
     "title": "Shin Tenchi Muyou!",
-    "url": "https://myanimelist.net/anime/538/Shin_Tenchi_Muyou",
-    "image": "https://cdn.myanimelist.net/images/anime/4/61149.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 337,
-    "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2022-04-15T09:01:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tenchi in Tokyo",
       "新・天地無用!",
       "New Tenchi Muyo"
     ],
+    "url": "https://anilist.co/anime/538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/538.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -76,17 +89,7 @@
         "url": "http://www.hulu.com/tenchi-in-tokyo"
       }
     ],
-    "id": 538,
     "malId": 538,
-    "type": "anime",
-    "title": "Shin Tenchi Muyou!",
-    "url": "https://anilist.co/anime/538",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/538.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:46.000Z",
-    "updatedAt": "2021-12-17T08:29:55.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/538/Shin_Tenchi_Muyou"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Dowman Sayman"
-  ],
+  "createdAt": "2020-10-12T16:04:16.000Z",
+  "updatedAt": "2021-12-02T20:17:37.000Z",
+  "checkedAt": null,
+  "id": 4013,
   "identifier": "a64dd18b-2760-4a47-83a3-38119264fa1e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35673,
   "aniId": 65673,
-  "createdAt": "2020-10-12T16:04:16.000Z",
-  "updatedAt": "2021-12-02T20:17:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Dowman Sayman"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://web.archive.org/web/20150319100439/www.ikki-para.com/comix/nickelodeon.html"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2022-05-14T21:50:53.000Z",
+    "checkedAt": "2022-05-14T21:50:53.000Z",
+    "id": 35673,
+    "type": "manga",
+    "title": "Nickelodeon",
     "altTitle": [
       "Heart Food",
       "Kopi Kopi Luwak",
@@ -40,21 +41,29 @@
       "Paracelsus' Beloved Desciples",
       "ニッケルオデオン"
     ],
-    "authors": [
-      "Dowman, Sayman"
-    ],
-    "id": 35673,
-    "type": "manga",
-    "title": "Nickelodeon",
     "url": "https://myanimelist.net/manga/35673/Nickelodeon",
     "image": "https://cdn.myanimelist.net/images/manga/1/64959.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2022-02-07T21:10:07.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://web.archive.org/web/20150319100439/www.ikki-para.com/comix/nickelodeon.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dowman, Sayman"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:52.629Z",
+    "updatedAt": "2022-05-19T22:42:51.000Z",
+    "checkedAt": "2022-05-19T22:42:51.000Z",
+    "id": 65673,
+    "type": "manga",
+    "title": "Nickelodeon",
     "altTitle": [
       "ニッケルオデオン",
       "Nickelodeon Red",
@@ -81,21 +90,15 @@
       "God Legacy",
       "Hikki and Gakki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sayman Dowman"
-    ],
-    "id": 65673,
-    "malId": 35673,
-    "type": "manga",
-    "title": "Nickelodeon",
     "url": "https://anilist.co/manga/65673",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65673-rMaTwc8pbQgc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2022-04-08T04:01:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35673/Nickelodeon"
+    "externalLinks": [],
+    "malId": 35673,
+    "deletedAt": null,
+    "authors": [
+      "Sayman Dowman"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishizuka Shinichi"
-  ],
+  "createdAt": "2021-06-03T18:19:38.000Z",
+  "updatedAt": "2021-12-03T19:19:28.000Z",
+  "checkedAt": null,
+  "id": 76193,
   "identifier": "manga-se970261",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85719,
   "aniId": 86890,
-  "createdAt": "2021-06-03T18:19:38.000Z",
-  "updatedAt": "2021-12-03T19:19:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishizuka Shinichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-14T22:22:06.000Z",
+    "checkedAt": "2022-05-14T22:22:06.000Z",
+    "id": 85719,
+    "type": "manga",
+    "title": "Blue Giant",
+    "altTitle": [
+      "BLUE GIANT"
+    ],
+    "url": "https://myanimelist.net/manga/85719/Blue_Giant",
+    "image": "https://cdn.myanimelist.net/images/manga/1/148869.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,24 +44,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BLUE GIANT"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishizuka, Shinichi"
-    ],
-    "id": 85719,
-    "type": "manga",
-    "title": "Blue Giant",
-    "url": "https://myanimelist.net/manga/85719/Blue_Giant",
-    "image": "https://cdn.myanimelist.net/images/manga/1/148869.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2022-03-27T22:38:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:06.002Z",
+    "updatedAt": "2022-05-15T18:46:47.000Z",
+    "checkedAt": "2022-05-15T18:46:47.000Z",
+    "id": 86890,
+    "type": "manga",
+    "title": "BLUE GIANT",
     "altTitle": [
       "Blue Giant",
       "BLUE GIANT",
@@ -57,22 +66,16 @@
       "BLUE GIANT 特別編",
       "ブルージャイント"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinichi Ishizuka",
-      "Daniel Komen"
-    ],
-    "id": 86890,
-    "malId": 85719,
-    "type": "manga",
-    "title": "BLUE GIANT",
     "url": "https://anilist.co/manga/86890",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86890-imDlSIZ9XAlG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:38.000Z",
-    "updatedAt": "2021-12-17T23:00:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85719/Blue_Giant"
+    "externalLinks": [],
+    "malId": 85719,
+    "deletedAt": null,
+    "authors": [
+      "Shinichi Ishizuka",
+      "Daniel Komen"
+    ]
+  }
 }

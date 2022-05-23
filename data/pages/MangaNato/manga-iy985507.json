@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kamimura Kazuo"
-  ],
+  "createdAt": "2022-02-22T00:17:50.000Z",
+  "updatedAt": "2022-02-22T09:17:39.000Z",
+  "checkedAt": null,
+  "id": 96580,
   "identifier": "manga-iy985507",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 17462,
   "aniId": 47462,
-  "createdAt": "2022-02-22T00:17:50.000Z",
-  "updatedAt": "2022-02-22T09:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kamimura Kazuo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:27.000Z",
+    "updatedAt": "2022-05-14T23:41:53.000Z",
+    "checkedAt": "2022-05-14T23:41:53.000Z",
+    "id": 17462,
+    "type": "manga",
+    "title": "Dousei Jidai",
+    "altTitle": [
+      "同棲時代"
+    ],
+    "url": "https://myanimelist.net/manga/17462/Dousei_Jidai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173375.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "同棲時代"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kamimura, Kazuo"
-    ],
-    "id": 17462,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:46.496Z",
+    "updatedAt": "2022-05-15T17:16:35.000Z",
+    "checkedAt": "2022-05-15T17:16:35.000Z",
+    "id": 47462,
     "type": "manga",
     "title": "Dousei Jidai",
-    "url": "https://myanimelist.net/manga/17462/Dousei_Jidai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/173375.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:27.000Z",
-    "updatedAt": "2022-02-22T00:18:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "同棲時代",
       "Lorsque nous vivions ensemble"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuo Kamimura",
-      "Thibaud Desbief"
-    ],
-    "id": 47462,
-    "malId": 17462,
-    "type": "manga",
-    "title": "Dousei Jidai",
     "url": "https://anilist.co/manga/47462",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47462-v4757Ny6TEmF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:06.000Z",
-    "updatedAt": "2021-12-17T16:34:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17462/Dousei_Jidai"
+    "externalLinks": [],
+    "malId": 17462,
+    "deletedAt": null,
+    "authors": [
+      "Kazuo Kamimura",
+      "Thibaud Desbief"
+    ]
+  }
 }

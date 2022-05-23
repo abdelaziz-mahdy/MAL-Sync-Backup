@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hajime Suaru"
-  ],
+  "createdAt": "2021-06-02T15:02:13.000Z",
+  "updatedAt": "2021-12-02T15:50:02.000Z",
+  "checkedAt": null,
+  "id": 75824,
   "identifier": "manga-fv983330",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 120296,
   "aniId": 111036,
-  "createdAt": "2021-06-02T15:02:13.000Z",
-  "updatedAt": "2021-12-02T15:50:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hajime Suaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:03.000Z",
+    "updatedAt": "2022-05-16T17:15:53.000Z",
+    "checkedAt": "2022-05-16T17:15:53.000Z",
+    "id": 120296,
+    "type": "manga",
+    "title": "Sokuochi Mayuri-chan",
+    "altTitle": [
+      "Mayuri-chan Who Quickly Gives Up",
+      "そくオチまゆりちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/120296/Sokuochi_Mayuri-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244013.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mayuri-chan Who Quickly Gives Up",
-      "そくオチまゆりちゃん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suaru, Hajime"
-    ],
-    "id": 120296,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:34.065Z",
+    "updatedAt": "2022-05-16T17:15:52.000Z",
+    "checkedAt": "2022-05-16T17:15:52.000Z",
+    "id": 111036,
     "type": "manga",
     "title": "Sokuochi Mayuri-chan",
-    "url": "https://myanimelist.net/manga/120296/Sokuochi_Mayuri-chan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/244013.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2022-01-29T17:51:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "そくオチまゆりちゃん",
       "Mayuri-chan Who Quickly Gives Up"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sarupin"
-    ],
-    "id": 111036,
-    "malId": 120296,
-    "type": "manga",
-    "title": "Sokuochi Mayuri-chan",
     "url": "https://anilist.co/manga/111036",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111036-9mSPTnn28uVU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:15.000Z",
-    "updatedAt": "2021-12-16T09:18:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120296/Sokuochi_Mayuri-chan"
+    "externalLinks": [],
+    "malId": 120296,
+    "deletedAt": null,
+    "authors": [
+      "Sarupin"
+    ]
+  }
 }

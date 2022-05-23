@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chiba Tetsuya"
-  ],
+  "createdAt": "2020-10-21T07:09:01.000Z",
+  "updatedAt": "2021-12-08T05:35:21.000Z",
+  "checkedAt": null,
+  "id": 50251,
   "identifier": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118016,
   "aniId": 109038,
-  "createdAt": "2020-10-21T07:09:01.000Z",
-  "updatedAt": "2021-12-08T05:35:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chiba Tetsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-21T07:08:59.000Z",
+    "updatedAt": "2022-05-15T20:17:56.000Z",
+    "checkedAt": "2022-05-15T20:17:56.000Z",
+    "id": 118016,
+    "type": "manga",
+    "title": "Hinemosu Notari Nikki",
+    "altTitle": [
+      "ひねもすのたり日記"
+    ],
+    "url": "https://myanimelist.net/manga/118016/Hinemosu_Notari_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/225322.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ひねもすのたり日記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chiba, Tetsuya"
-    ],
-    "id": 118016,
-    "type": "manga",
-    "title": "Hinemosu Notari Nikki",
-    "url": "https://myanimelist.net/manga/118016/Hinemosu_Notari_Nikki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/225322.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-21T07:08:59.000Z",
-    "updatedAt": "2022-02-16T05:47:00.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:04.674Z",
+    "updatedAt": "2022-05-15T21:37:35.000Z",
+    "checkedAt": "2022-05-15T21:37:35.000Z",
+    "id": 109038,
+    "type": "manga",
+    "title": "Hinemosu no Tari Nikki",
     "altTitle": [
       "ひねもすのたり日記"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuya Chiba"
-    ],
-    "id": 109038,
-    "malId": 118016,
-    "type": "manga",
-    "title": "Hinemosu no Tari Nikki",
     "url": "https://anilist.co/manga/109038",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109038-W9FnFsWtghfZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:58.000Z",
-    "updatedAt": "2022-04-05T04:01:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118016/Hinemosu_Notari_Nikki"
+    "externalLinks": [],
+    "malId": 118016,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuya Chiba"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akiman"
-  ],
+  "createdAt": "2020-10-12T16:10:20.000Z",
+  "updatedAt": "2021-12-05T00:20:40.000Z",
+  "checkedAt": null,
+  "id": 16892,
   "identifier": "49c033b0-621b-43bf-b478-45725ea0d47f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85033,
   "aniId": 130818,
-  "createdAt": "2020-10-12T16:10:20.000Z",
-  "updatedAt": "2021-12-05T00:20:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akiman"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2021-11-12T10:44:07.000Z",
+    "checkedAt": null,
+    "id": 85033,
+    "type": "manga",
+    "title": "Kidou Senshi Gundam: The Anthology",
     "altTitle": [
       "Mobile Suit Gundam: The Anthology",
       "Itsuka Kitto",
@@ -27,6 +33,13 @@
       "Gundam-san",
       "機動戦士ガンダム THE ANTHOLOGY"
     ],
+    "url": "https://myanimelist.net/manga/85033/Kidou_Senshi_Gundam__The_Anthology",
+    "image": "https://cdn.myanimelist.net/images/manga/3/147401.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Yoshizaki, Mine",
       "Kondo, Kazuhisa",
@@ -45,24 +58,26 @@
       "Kitazume, Hiroyuki",
       "Satou, Gen",
       "Houjou, Akira"
-    ],
-    "id": 85033,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:36.247Z",
+    "updatedAt": "2022-05-13T12:40:36.247Z",
+    "checkedAt": null,
+    "id": 130818,
     "type": "manga",
     "title": "Kidou Senshi Gundam: The Anthology",
-    "url": "https://myanimelist.net/manga/85033/Kidou_Senshi_Gundam__The_Anthology",
-    "image": "https://cdn.myanimelist.net/images/manga/3/147401.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2021-11-12T10:44:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "機動戦士ガンダム THE ANTHOLOGY",
       "Mobile Suit Gundam: The Anthology"
     ],
+    "url": "https://anilist.co/manga/130818",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130818-T3xQ9JIW0WrN.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 85033,
+    "deletedAt": null,
     "authors": [
       "Yoshitoo Asari",
       "Akira Houjou",
@@ -81,18 +96,6 @@
       "Katsuya Terada",
       "Akira Yasuda",
       "Yoshikazu Yasuhiko"
-    ],
-    "id": 130818,
-    "malId": 85033,
-    "type": "manga",
-    "title": "Kidou Senshi Gundam: The Anthology",
-    "url": "https://anilist.co/manga/130818",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130818-T3xQ9JIW0WrN.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-18T12:21:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85033/Kidou_Senshi_Gundam__The_Anthology"
+    ]
+  }
 }

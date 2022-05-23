@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gold Kiwi Bird"
-  ],
+  "createdAt": "2020-10-12T16:19:58.000Z",
+  "updatedAt": "2021-12-07T23:09:02.000Z",
+  "checkedAt": null,
+  "id": 36230,
   "identifier": "9b76bd04-f6f0-4800-8ad4-08ca37b11435",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 54843,
   "aniId": 84843,
-  "createdAt": "2020-10-12T16:19:58.000Z",
-  "updatedAt": "2021-12-07T23:09:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gold Kiwi Bird"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:46.000Z",
+    "updatedAt": "2021-11-08T10:13:47.000Z",
+    "checkedAt": null,
+    "id": 54843,
+    "type": "manga",
+    "title": "Dr. DMAT: Gareki no Shita no Hippocrates",
+    "altTitle": [
+      "Dr. Disaster Medical Assistance Team",
+      "Dr.DMAT～瓦礫の下のヒポクラテス～"
+    ],
+    "url": "https://myanimelist.net/manga/54843/Dr_DMAT__Gareki_no_Shita_no_Hippocrates",
+    "image": "https://cdn.myanimelist.net/images/manga/1/173076.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dr. Disaster Medical Assistance Team",
-      "Dr.DMAT～瓦礫の下のヒポクラテス～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takano, Hiroshi",
       "Kikuchi, Akio"
-    ],
-    "id": 54843,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:11.307Z",
+    "updatedAt": "2022-05-13T12:53:11.307Z",
+    "checkedAt": null,
+    "id": 84843,
     "type": "manga",
     "title": "Dr. DMAT: Gareki no Shita no Hippocrates",
-    "url": "https://myanimelist.net/manga/54843/Dr_DMAT__Gareki_no_Shita_no_Hippocrates",
-    "image": "https://cdn.myanimelist.net/images/manga/1/173076.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:46.000Z",
-    "updatedAt": "2021-11-08T10:13:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dr. DMAT～瓦礫の下のヒポクラテス～"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Takano",
-      "Akio Kikuchi"
-    ],
-    "id": 84843,
-    "malId": 54843,
-    "type": "manga",
-    "title": "Dr. DMAT: Gareki no Shita no Hippocrates",
     "url": "https://anilist.co/manga/84843",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54843-gsSm1ziHEfXc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:01.000Z",
-    "updatedAt": "2021-12-17T21:53:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/54843/Dr_DMAT__Gareki_no_Shita_no_Hippocrates"
+    "externalLinks": [],
+    "malId": 54843,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Takano",
+      "Akio Kikuchi"
+    ]
+  }
 }

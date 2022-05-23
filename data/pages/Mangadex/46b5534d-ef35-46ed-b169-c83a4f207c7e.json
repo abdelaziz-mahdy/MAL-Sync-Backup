@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "303 Planet",
-    "Coyo"
-  ],
+  "createdAt": "2020-10-12T16:14:43.000Z",
+  "updatedAt": "2021-12-06T10:19:11.000Z",
+  "checkedAt": null,
+  "id": 25509,
   "identifier": "46b5534d-ef35-46ed-b169-c83a4f207c7e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 108423,
-  "createdAt": "2020-10-12T16:14:43.000Z",
-  "updatedAt": "2021-12-06T10:19:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "303 Planet",
+    "Coyo"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:45.440Z",
+    "updatedAt": "2022-05-13T12:55:45.440Z",
+    "checkedAt": null,
+    "id": 108423,
+    "type": "manga",
+    "title": "Kalgwa Deuleseu",
     "altTitle": [
       "칼과 드레스",
       "Wild Girl",
@@ -27,22 +35,16 @@
       "The Sword And The Dress",
       "这个小姐有点野"
     ],
-    "externalLinks": [],
-    "authors": [
-      "303 Planet",
-      "Koyo"
-    ],
-    "id": 108423,
-    "malId": null,
-    "type": "manga",
-    "title": "Kalgwa Deuleseu",
     "url": "https://anilist.co/manga/108423",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108423-5O9ShNqMq0BA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-03-02T15:11:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "303 Planet",
+      "Koyo"
+    ]
+  }
 }

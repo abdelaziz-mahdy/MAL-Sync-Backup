@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mitsu Hashimoto"
-  ],
+  "createdAt": "2020-10-12T16:16:28.000Z",
+  "updatedAt": "2021-12-06T23:17:04.000Z",
+  "checkedAt": null,
+  "id": 29166,
   "identifier": "95ba5fff-7470-4aed-964f-f6d0452f4a91",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16688,
   "aniId": 46688,
-  "createdAt": "2020-10-12T16:16:28.000Z",
-  "updatedAt": "2021-12-06T23:17:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mitsu Hashimoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-05-15T20:45:42.000Z",
+    "checkedAt": "2022-05-15T20:45:42.000Z",
+    "id": 16688,
+    "type": "manga",
+    "title": "Ibitsu",
+    "altTitle": [
+      "Ibitsu",
+      "イビツ"
+    ],
+    "url": "https://myanimelist.net/manga/16688/Ibitsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/157933.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ibitsu",
-      "イビツ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ryou, Haruto"
-    ],
-    "id": 16688,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:13.735Z",
+    "updatedAt": "2022-05-15T21:47:59.000Z",
+    "checkedAt": "2022-05-15T21:47:59.000Z",
+    "id": 46688,
     "type": "manga",
     "title": "Ibitsu",
-    "url": "https://myanimelist.net/manga/16688/Ibitsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/157933.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:23.000Z",
-    "updatedAt": "2022-04-07T12:01:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イビツ",
       "Zvrácená"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruto Ryou",
-      "Paul Starr",
-      "Rochelle Gancio"
-    ],
-    "id": 46688,
-    "malId": 16688,
-    "type": "manga",
-    "title": "Ibitsu",
     "url": "https://anilist.co/manga/46688",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n46688-yjEROWpqlwQw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2022-03-16T09:09:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16688/Ibitsu"
+    "externalLinks": [],
+    "malId": 16688,
+    "deletedAt": null,
+    "authors": [
+      "Haruto Ryou",
+      "Paul Starr",
+      "Rochelle Gancio"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaitei Shuujin"
-  ],
+  "createdAt": "2022-05-10T18:01:31.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T16:23:03.000Z",
+  "id": 103651,
   "identifier": "manga-vz973008",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,56 @@
   "image": "https://avt.mkklcdnv6temp.com/25/o/14-1583490653.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-10T18:01:31.000Z",
-  "updatedAt": "2022-05-10T18:01:31.000Z",
+  "active": true,
+  "actorId": 1,
+  "malId": 92364,
+  "aniId": 99541,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Kaitei Shuujin"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2022-05-13T16:23:04.000Z",
+    "checkedAt": "2022-05-13T16:23:04.000Z",
+    "id": 92364,
+    "type": "manga",
+    "title": "Oounabara to Wadanohara",
+    "altTitle": [
+      "Wadanohara and the Great Blue Sea",
+      "大海原と大海原"
+    ],
+    "url": "https://myanimelist.net/manga/92364/Oounabara_to_Wadanohara",
+    "image": "https://cdn.myanimelist.net/images/manga/2/170675.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kaitei, Shuujin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:49.798Z",
+    "updatedAt": "2022-05-20T21:29:16.000Z",
+    "checkedAt": "2022-05-20T21:29:16.000Z",
+    "id": 99541,
+    "type": "manga",
+    "title": "Oounabara to Wadanohara",
+    "altTitle": [
+      "Wadanohara and the Great Blue Sea",
+      "大海原と大海原"
+    ],
+    "url": "https://anilist.co/manga/99541",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99541-cV1h8qWB9AkU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 92364,
+    "deletedAt": null,
+    "authors": [
+      "Shuujin Kaitei"
+    ]
+  }
 }

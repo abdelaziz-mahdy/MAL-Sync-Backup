@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamagata Ishio",
-    "Toru Kei"
-  ],
+  "createdAt": "2020-10-12T16:07:26.000Z",
+  "updatedAt": "2021-12-04T02:52:00.000Z",
+  "checkedAt": null,
+  "id": 10597,
   "identifier": "e9b9e6d0-bf39-4ad0-936e-6a627adcb6da",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55863,
   "aniId": 86038,
-  "createdAt": "2020-10-12T16:07:26.000Z",
-  "updatedAt": "2021-12-04T02:52:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamagata Ishio",
+    "Toru Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2022-05-19T14:30:03.000Z",
+    "checkedAt": "2022-05-19T14:30:03.000Z",
+    "id": 55863,
+    "type": "manga",
+    "title": "Rokka no Yuusha",
+    "altTitle": [
+      "Heroes of the Six Flowers",
+      "Rokka: Braves of the Six Flowers",
+      "六花の勇者"
+    ],
+    "url": "https://myanimelist.net/manga/55863/Rokka_no_Yuusha",
+    "image": "https://cdn.myanimelist.net/images/manga/2/161314.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,33 +47,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Heroes of the Six Flowers",
-      "Rokka: Braves of the Six Flowers",
-      "六花の勇者"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toru, Kei",
       "Yamagata, Ishio"
-    ],
-    "id": 55863,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:58.451Z",
+    "updatedAt": "2022-05-19T15:36:41.000Z",
+    "checkedAt": "2022-05-19T15:36:41.000Z",
+    "id": 86038,
     "type": "manga",
     "title": "Rokka no Yuusha",
-    "url": "https://myanimelist.net/manga/55863/Rokka_no_Yuusha",
-    "image": "https://cdn.myanimelist.net/images/manga/2/161314.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2022-04-05T03:30:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rokka: Braves of the Six Flowers",
       "六花の勇者",
       "Heroes of the Six Flowers"
     ],
+    "url": "https://anilist.co/manga/86038",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86038-cAx7I8G1AFY9.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 55863,
+    "deletedAt": null,
     "authors": [
       "Ishio Yamagata",
       "Kei Toru",
@@ -64,18 +79,6 @@
       "Nicole Wilder",
       "Rochelle Gancio",
       "Jennifer Ward"
-    ],
-    "id": 86038,
-    "malId": 55863,
-    "type": "manga",
-    "title": "Rokka no Yuusha",
-    "url": "https://anilist.co/manga/86038",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86038-cAx7I8G1AFY9.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:27.000Z",
-    "updatedAt": "2021-12-17T22:28:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55863/Rokka_no_Yuusha"
+    ]
+  }
 }

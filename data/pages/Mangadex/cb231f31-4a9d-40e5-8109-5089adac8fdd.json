@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mochizuki Minetaro"
-  ],
+  "createdAt": "2020-10-12T16:09:34.000Z",
+  "updatedAt": "2021-12-04T18:53:18.000Z",
+  "checkedAt": null,
+  "id": 15261,
   "identifier": "cb231f31-4a9d-40e5-8109-5089adac8fdd",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77047,
   "aniId": 86865,
-  "createdAt": "2020-10-12T16:09:34.000Z",
-  "updatedAt": "2021-12-04T18:53:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mochizuki Minetaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:25.000Z",
+    "updatedAt": "2022-03-05T18:31:27.000Z",
+    "checkedAt": null,
+    "id": 77047,
+    "type": "manga",
+    "title": "Chiisakobee",
+    "altTitle": [
+      "ちいさこべえ"
+    ],
+    "url": "https://myanimelist.net/manga/77047/Chiisakobee",
+    "image": "https://cdn.myanimelist.net/images/manga/3/133413.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,30 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ちいさこべえ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mochizuki, Minetaro",
       "Yamamoto, Shuugorou"
-    ],
-    "id": 77047,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:04.455Z",
+    "updatedAt": "2022-05-13T12:50:04.455Z",
+    "checkedAt": null,
+    "id": 86865,
     "type": "manga",
     "title": "Chiisakobee",
-    "url": "https://myanimelist.net/manga/77047/Chiisakobee",
-    "image": "https://cdn.myanimelist.net/images/manga/3/133413.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:25.000Z",
-    "updatedAt": "2022-03-05T18:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ちいさこべえ",
       "Chiisakobé"
     ],
+    "url": "https://anilist.co/manga/86865",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86865-8ot7vZhqlbji.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 77047,
+    "deletedAt": null,
     "authors": [
       "Minetarou Mochizuki",
       "Shuugorou Yamamoto",
@@ -56,18 +71,6 @@
       "Roberta Tiberi",
       "Olinda Cordukes Salleras",
       "Cordelia Suzuki"
-    ],
-    "id": 86865,
-    "malId": 77047,
-    "type": "manga",
-    "title": "Chiisakobee",
-    "url": "https://anilist.co/manga/86865",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86865-8ot7vZhqlbji.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2021-12-27T16:53:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77047/Chiisakobee"
+    ]
+  }
 }

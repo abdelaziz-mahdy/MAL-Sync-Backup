@@ -1,4 +1,21 @@
 {
+  "createdAt": "2020-10-12T16:07:23.000Z",
+  "updatedAt": "2021-12-04T02:51:21.000Z",
+  "checkedAt": null,
+  "id": 10518,
+  "identifier": "f5d241ad-f847-41e1-8e76-db6763d23605",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Yami BL (Anthology)",
+  "url": "https://mangadex.org/title/f5d241ad-f847-41e1-8e76-db6763d23605",
+  "image": "https://uploads.mangadex.org/covers/f5d241ad-f847-41e1-8e76-db6763d23605/d8c7c63f-82d2-4590-922a-10048669098d.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 71049,
+  "aniId": 85839,
+  "deletedAt": null,
   "authors": [
     "Asou Mitsuaki",
     "Takumi You",
@@ -13,24 +30,13 @@
     "Kizuki Jin",
     "Yamamoto Kotetsuko"
   ],
-  "identifier": "f5d241ad-f847-41e1-8e76-db6763d23605",
-  "type": "manga",
-  "page": "Mangadex",
-  "title": "Yami BL (Anthology)",
-  "url": "https://mangadex.org/title/f5d241ad-f847-41e1-8e76-db6763d23605",
-  "image": "https://uploads.mangadex.org/covers/f5d241ad-f847-41e1-8e76-db6763d23605/d8c7c63f-82d2-4590-922a-10048669098d.jpg",
-  "hentai": false,
-  "sticky": false,
-  "active": true,
-  "actor": null,
-  "malId": 71049,
-  "aniId": 85839,
-  "createdAt": "2020-10-12T16:07:23.000Z",
-  "updatedAt": "2021-12-04T02:51:21.000Z",
-  "deletedAt": null,
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:18.000Z",
+    "updatedAt": "2021-11-10T10:44:16.000Z",
+    "checkedAt": null,
+    "id": 71049,
+    "type": "manga",
+    "title": "Yami BL",
     "altTitle": [
       "Sayonara Bye-bye Mata Au Hi made",
       "I Will Be With You Forever",
@@ -44,6 +50,13 @@
       "Aoi Karte",
       "病みBL"
     ],
+    "url": "https://myanimelist.net/manga/71049/Yami_BL",
+    "image": "https://cdn.myanimelist.net/images/manga/4/130165.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Mako",
       "Takumi, You",
@@ -56,23 +69,25 @@
       "Kizuki, Jin",
       "Kuroda, Kuz",
       "Rokusei, Mitsumi"
-    ],
-    "id": 71049,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:46.390Z",
+    "updatedAt": "2022-05-13T12:49:46.390Z",
+    "checkedAt": null,
+    "id": 85839,
     "type": "manga",
     "title": "Yami BL",
-    "url": "https://myanimelist.net/manga/71049/Yami_BL",
-    "image": "https://cdn.myanimelist.net/images/manga/4/130165.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:18.000Z",
-    "updatedAt": "2021-11-10T10:44:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "病みBL"
     ],
+    "url": "https://anilist.co/manga/85839",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85839-3XgKKhrSDdIp.png",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 71049,
+    "deletedAt": null,
     "authors": [
       "Mitsuaki Asou",
       "Jin Kizuki",
@@ -85,18 +100,6 @@
       "SHOOWA",
       "Pariko London",
       "Mitsumi Rokusei"
-    ],
-    "id": 85839,
-    "malId": 71049,
-    "type": "manga",
-    "title": "Yami BL",
-    "url": "https://anilist.co/manga/85839",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85839-3XgKKhrSDdIp.png",
-    "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:51:32.000Z",
-    "updatedAt": "2021-12-17T22:24:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/71049/Yami_BL"
+    ]
+  }
 }

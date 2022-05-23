@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Piro Shiki",
-    "Hotaru Takana"
-  ],
+  "createdAt": "2020-10-12T16:02:24.000Z",
+  "updatedAt": "2021-12-02T06:47:18.000Z",
+  "checkedAt": null,
+  "id": 43,
   "identifier": "786ff721-8fd3-413d-8e50-938d8b06f917",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22044,
   "aniId": 52044,
-  "createdAt": "2020-10-12T16:02:24.000Z",
-  "updatedAt": "2021-12-02T06:47:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Piro Shiki",
+    "Hotaru Takana"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:59.000Z",
+    "updatedAt": "2022-05-18T01:56:07.000Z",
+    "checkedAt": "2022-05-18T01:56:07.000Z",
+    "id": 22044,
+    "type": "manga",
+    "title": "Iris Zero",
+    "altTitle": [
+      "Iris Zero",
+      "アイリスzero"
+    ],
+    "url": "https://myanimelist.net/manga/22044/Iris_Zero",
+    "image": "https://cdn.myanimelist.net/images/manga/2/35739.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +46,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Iris Zero",
-      "アイリスzero"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hotaru, Takana",
       "Piro, Shiki"
-    ],
-    "id": 22044,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:23.396Z",
+    "updatedAt": "2022-05-18T01:56:05.000Z",
+    "checkedAt": "2022-05-18T01:56:05.000Z",
+    "id": 52044,
     "type": "manga",
     "title": "Iris Zero",
-    "url": "https://myanimelist.net/manga/22044/Iris_Zero",
-    "image": "https://cdn.myanimelist.net/images/manga/2/35739.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:59.000Z",
-    "updatedAt": "2021-12-05T10:49:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Iris Zero",
       "アイリス・ゼロ",
       "Airisu Zero"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takana Hotaru",
-      "Piro Shiki"
-    ],
-    "id": 52044,
-    "malId": 22044,
-    "type": "manga",
-    "title": "Iris Zero",
     "url": "https://anilist.co/manga/52044",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52044-n1BuOGMxaXVK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:29.000Z",
-    "updatedAt": "2021-12-02T11:16:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22044/Iris_Zero"
+    "externalLinks": [],
+    "malId": 22044,
+    "deletedAt": null,
+    "authors": [
+      "Takana Hotaru",
+      "Piro Shiki"
+    ]
+  }
 }

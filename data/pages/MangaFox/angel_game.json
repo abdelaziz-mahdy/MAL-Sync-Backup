@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "HARUHARA Robinson"
-  ],
+  "createdAt": "2022-05-08T22:31:24.000Z",
+  "updatedAt": "2022-05-13T16:21:41.000Z",
+  "checkedAt": "2022-05-13T15:25:37.000Z",
+  "id": 103347,
   "identifier": "angel_game",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,61 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/14338/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T22:31:24.000Z",
-  "updatedAt": "2022-05-08T22:31:24.000Z",
+  "active": true,
+  "actorId": 1,
+  "malId": 80269,
+  "aniId": 85806,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "HARUHARA Robinson"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-13T15:42:56.000Z",
+    "checkedAt": "2022-05-13T15:42:56.000Z",
+    "id": 80269,
+    "type": "manga",
+    "title": "Angel Game: Sayonara to Mirai no Kakera",
+    "altTitle": [
+      "エンゼルゲーム さよならと未来のカケラ"
+    ],
+    "url": "https://myanimelist.net/manga/80269/Angel_Game__Sayonara_to_Mirai_no_Kakera",
+    "image": "https://cdn.myanimelist.net/images/manga/3/139405.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://seiga.nicovideo.jp/comic/24"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Machida, Toshiko",
+      "Haruhara, Robinson"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:15.545Z",
+    "updatedAt": "2022-05-13T12:45:15.545Z",
+    "checkedAt": null,
+    "id": 85806,
+    "type": "manga",
+    "title": "Angel Game - Sayonara to Mirai no Kakera",
+    "altTitle": [
+      "エンゼルゲーム さよならと未来のカケラ"
+    ],
+    "url": "https://anilist.co/manga/85806",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85806-2YT1na4qQL9S.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 80269,
+    "deletedAt": null,
+    "authors": [
+      "Toshiko Machida",
+      "Robinson Haruhara"
+    ]
+  }
 }

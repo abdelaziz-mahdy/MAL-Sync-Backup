@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-03-30T08:31:22.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36064,
   "identifier": "alice-in-deadly-school",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33839,
   "aniId": 21569,
-  "createdAt": "2021-03-30T08:31:22.000Z",
-  "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-01-01T17:21:25.000Z",
+    "updatedAt": "2022-05-14T19:01:41.000Z",
+    "checkedAt": "2022-05-14T19:01:41.000Z",
+    "id": 33839,
+    "type": "anime",
+    "title": "Alice in Deadly School",
+    "altTitle": [
+      "アリスインデッドリースクール"
+    ],
+    "url": "https://myanimelist.net/anime/33839/Alice_in_Deadly_School",
+    "image": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,45 +50,33 @@
         "url": "https://www.funimation.com/"
       }
     ],
-    "altTitle": [
-      "アリスインデッドリースクール"
-    ],
-    "id": 33839,
+    "deletedAt": null,
+    "anidbId": 12330
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:13.000Z",
+    "updatedAt": "2022-05-15T16:12:11.000Z",
+    "checkedAt": "2022-05-15T16:12:11.000Z",
+    "id": 21569,
     "type": "anime",
     "title": "Alice in Deadly School",
-    "url": "https://myanimelist.net/anime/33839/Alice_in_Deadly_School",
-    "image": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 12330,
-    "createdAt": "2021-01-01T17:21:25.000Z",
-    "updatedAt": "2022-02-15T09:46:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Alice in Deadly School",
       "アリスインデッドリースクール",
       "ゲキドル",
       "Gekidol"
     ],
+    "url": "https://anilist.co/anime/21569",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21569-WBJkaNY2pgTB.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/gekidol/"
       }
     ],
-    "id": 21569,
     "malId": 33839,
-    "type": "anime",
-    "title": "Alice in Deadly School",
-    "url": "https://anilist.co/anime/21569",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21569-WBJkaNY2pgTB.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:13.000Z",
-    "updatedAt": "2021-12-16T23:18:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/33839/Alice_in_Deadly_School"
+  }
 }

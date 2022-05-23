@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Paula Marshall",
-    "Hara Chieko"
-  ],
+  "createdAt": "2020-10-12T16:03:08.000Z",
+  "updatedAt": "2021-12-02T12:17:37.000Z",
+  "checkedAt": null,
+  "id": 1605,
   "identifier": "eda575ad-ea63-49c6-9c03-71ac3158910a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30431,
   "aniId": 60431,
-  "createdAt": "2020-10-12T16:03:08.000Z",
-  "updatedAt": "2021-12-02T12:17:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Paula Marshall",
+    "Hara Chieko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-11-04T23:05:10.000Z",
+    "checkedAt": null,
+    "id": 30431,
+    "type": "manga",
+    "title": "Emma to Hakushaku",
+    "altTitle": [
+      "Emma and the Earl",
+      "エマと伯爵"
+    ],
+    "url": "https://myanimelist.net/manga/30431/Emma_to_Hakushaku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/52419.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Emma and the Earl",
-      "エマと伯爵"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hara, Chieko",
       "Marshall, Paula"
-    ],
-    "id": 30431,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:18.146Z",
+    "updatedAt": "2022-05-13T12:42:18.146Z",
+    "checkedAt": null,
+    "id": 60431,
     "type": "manga",
     "title": "Emma to Hakushaku",
-    "url": "https://myanimelist.net/manga/30431/Emma_to_Hakushaku",
-    "image": "https://cdn.myanimelist.net/images/manga/3/52419.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-11-04T23:05:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エマと伯爵",
       "Emma and the Earl"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chieko Hara",
-      "Paula Marshall"
-    ],
-    "id": 60431,
-    "malId": 30431,
-    "type": "manga",
-    "title": "Emma to Hakushaku",
     "url": "https://anilist.co/manga/60431",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b60431-CJElwxFcSc7F.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:07:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30431/Emma_to_Hakushaku"
+    "externalLinks": [],
+    "malId": 30431,
+    "deletedAt": null,
+    "authors": [
+      "Chieko Hara",
+      "Paula Marshall"
+    ]
+  }
 }

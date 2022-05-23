@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hosokawa Shoya"
-  ],
+  "createdAt": "2021-12-29T10:54:08.000Z",
+  "updatedAt": "2021-12-29T10:54:08.000Z",
+  "checkedAt": null,
+  "id": 93903,
   "identifier": "c8eeba12-a4b2-4ff9-b974-8178ef3232f7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 141146,
   "aniId": 140210,
-  "createdAt": "2021-12-29T10:54:08.000Z",
-  "updatedAt": "2021-12-29T10:54:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hosokawa Shoya"
+  ],
   "Mal": {
+    "createdAt": "2021-11-11T15:45:09.000Z",
+    "updatedAt": "2022-05-16T07:54:39.000Z",
+    "checkedAt": "2022-05-16T07:54:39.000Z",
+    "id": 141146,
+    "type": "manga",
+    "title": "Little Hands",
+    "altTitle": [
+      "リトルハンズ"
+    ],
+    "url": "https://myanimelist.net/manga/141146/Little_Hands",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252480.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "リトルハンズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hosokawa, Shouya"
-    ],
-    "id": 141146,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:35.499Z",
+    "updatedAt": "2022-05-16T07:54:37.000Z",
+    "checkedAt": "2022-05-16T07:54:37.000Z",
+    "id": 140210,
     "type": "manga",
     "title": "Little Hands",
-    "url": "https://myanimelist.net/manga/141146/Little_Hands",
-    "image": "https://cdn.myanimelist.net/images/manga/3/252480.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-11-11T15:45:09.000Z",
-    "updatedAt": "2021-12-28T11:53:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リトルハンズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouya Hosokawa"
-    ],
-    "id": 140210,
-    "malId": 141146,
-    "type": "manga",
-    "title": "Little Hands",
     "url": "https://anilist.co/manga/140210",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140210-y0C79GBr34QR.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-11T12:08:03.000Z",
-    "updatedAt": "2022-05-03T04:33:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/141146/Little_Hands"
+    "externalLinks": [],
+    "malId": 141146,
+    "deletedAt": null,
+    "authors": [
+      "Shouya Hosokawa"
+    ]
+  }
 }

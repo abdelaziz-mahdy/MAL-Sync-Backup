@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sato Hiromi"
-  ],
+  "createdAt": "2020-10-12T16:13:56.000Z",
+  "updatedAt": "2021-12-06T01:18:48.000Z",
+  "checkedAt": null,
+  "id": 23906,
   "identifier": "6b0161dc-2086-4d3e-9952-f351035c8d7d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115701,
   "aniId": 102089,
-  "createdAt": "2020-10-12T16:13:56.000Z",
-  "updatedAt": "2021-12-06T01:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sato Hiromi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2021-11-22T14:42:48.000Z",
+    "checkedAt": null,
+    "id": 115701,
+    "type": "manga",
+    "title": "Iso Asobi",
+    "altTitle": [
+      "いそあそび"
+    ],
+    "url": "https://myanimelist.net/manga/115701/Iso_Asobi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/223165.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "いそあそび"
-    ],
+    "deletedAt": null,
     "authors": [
       "Satou, Hiromi"
-    ],
-    "id": 115701,
-    "type": "manga",
-    "title": "Iso Asobi",
-    "url": "https://myanimelist.net/manga/115701/Iso_Asobi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/223165.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2021-11-22T14:42:48.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:45.308Z",
+    "updatedAt": "2022-05-13T13:01:45.308Z",
+    "checkedAt": null,
+    "id": 102089,
+    "type": "manga",
+    "title": "Isoasobi",
     "altTitle": [
       "いそあそび"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiromi Sato"
-    ],
-    "id": 102089,
-    "malId": 115701,
-    "type": "manga",
-    "title": "Isoasobi",
     "url": "https://anilist.co/manga/102089",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102089-RGnnZ5mdIabd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-18T04:19:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115701/Iso_Asobi"
+    "externalLinks": [],
+    "malId": 115701,
+    "deletedAt": null,
+    "authors": [
+      "Hiromi Sato"
+    ]
+  }
 }

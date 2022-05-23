@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Masuda Eiji"
-  ],
+  "createdAt": "2021-10-15T08:58:45.000Z",
+  "updatedAt": "2022-04-15T09:30:25.000Z",
+  "checkedAt": null,
+  "id": 88795,
   "identifier": "manga-ll951368",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85793,
   "aniId": 86772,
-  "createdAt": "2021-10-15T08:58:45.000Z",
-  "updatedAt": "2022-04-15T09:30:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Masuda Eiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-17T15:12:37.000Z",
+    "checkedAt": "2022-05-17T15:12:37.000Z",
+    "id": 85793,
+    "type": "manga",
+    "title": "Sakura Discord",
+    "altTitle": [
+      "さくらDISCORD"
+    ],
+    "url": "https://myanimelist.net/manga/85793/Sakura_Discord",
+    "image": "https://cdn.myanimelist.net/images/manga/1/149067.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "さくらDISCORD"
-    ],
+    "deletedAt": null,
     "authors": [
       "Masuda, Eiji"
-    ],
-    "id": 85793,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:34.598Z",
+    "updatedAt": "2022-05-17T15:12:36.000Z",
+    "checkedAt": "2022-05-17T15:12:36.000Z",
+    "id": 86772,
     "type": "manga",
     "title": "Sakura Discord",
-    "url": "https://myanimelist.net/manga/85793/Sakura_Discord",
-    "image": "https://cdn.myanimelist.net/images/manga/1/149067.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2022-04-15T09:01:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sakura Discord",
       "さくらDISCORD"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiji Masuda"
-    ],
-    "id": 86772,
-    "malId": 85793,
-    "type": "manga",
-    "title": "Sakura Discord",
     "url": "https://anilist.co/manga/86772",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56772-mIh0DidFRCpb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:38.000Z",
-    "updatedAt": "2021-12-17T22:57:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85793/Sakura_Discord"
+    "externalLinks": [],
+    "malId": 85793,
+    "deletedAt": null,
+    "authors": [
+      "Eiji Masuda"
+    ]
+  }
 }

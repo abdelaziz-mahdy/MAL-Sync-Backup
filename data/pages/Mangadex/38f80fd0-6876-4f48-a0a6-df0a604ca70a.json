@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aruga Rie"
-  ],
+  "createdAt": "2020-10-12T16:08:20.000Z",
+  "updatedAt": "2021-12-04T09:47:28.000Z",
+  "checkedAt": null,
+  "id": 12572,
   "identifier": "38f80fd0-6876-4f48-a0a6-df0a604ca70a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83655,
   "aniId": 93433,
-  "createdAt": "2020-10-12T16:08:20.000Z",
-  "updatedAt": "2021-12-04T09:47:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aruga Rie"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:40.000Z",
+    "updatedAt": "2022-05-15T00:31:29.000Z",
+    "checkedAt": "2022-05-15T00:31:29.000Z",
+    "id": 83655,
+    "type": "manga",
+    "title": "Perfect World",
+    "altTitle": [
+      "Perfect World",
+      "パーフェクトワールド"
+    ],
+    "url": "https://myanimelist.net/manga/83655/Perfect_World",
+    "image": "https://cdn.myanimelist.net/images/manga/1/175525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Perfect World",
-      "パーフェクトワールド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aruga, Rie"
-    ],
-    "id": 83655,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:01.654Z",
+    "updatedAt": "2022-05-15T22:21:23.000Z",
+    "checkedAt": "2022-05-15T22:21:23.000Z",
+    "id": 93433,
     "type": "manga",
     "title": "Perfect World",
-    "url": "https://myanimelist.net/manga/83655/Perfect_World",
-    "image": "https://cdn.myanimelist.net/images/manga/1/175525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:40.000Z",
-    "updatedAt": "2021-12-05T17:17:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Perfect World",
       "パーフェクトワールド",
       "โลกทั้งใบมีเพียงเธอ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rie Aruga"
-    ],
-    "id": 93433,
-    "malId": 83655,
-    "type": "manga",
-    "title": "Perfect World",
     "url": "https://anilist.co/manga/93433",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93433-m98G6v1DRvtH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2022-01-28T16:50:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83655/Perfect_World"
+    "externalLinks": [],
+    "malId": 83655,
+    "deletedAt": null,
+    "authors": [
+      "Rie Aruga",
+      "Nathalie Bougon",
+      "Erwan Charlès",
+      "Chiharu Chuujo"
+    ]
+  }
 }

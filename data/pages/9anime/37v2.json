@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:44.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1747,
   "identifier": "37v2",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121,
   "aniId": 121,
-  "createdAt": "2020-10-12T15:49:44.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T16:55:47.000Z",
+    "checkedAt": "2022-05-14T16:55:47.000Z",
+    "id": 121,
+    "type": "anime",
+    "title": "Fullmetal Alchemist",
+    "altTitle": [
+      "Hagane no Renkinjutsushi",
+      "FMA",
+      "Full Metal Alchemist",
+      "Fullmetal Alchemist",
+      "鋼の錬金術師"
+    ],
+    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+    "image": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,26 +58,16 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Hagane no Renkinjutsushi",
-      "FMA",
-      "Full Metal Alchemist",
-      "Fullmetal Alchemist",
-      "鋼の錬金術師"
-    ],
+    "deletedAt": null,
+    "anidbId": 979
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:27.000Z",
+    "updatedAt": "2022-05-15T10:25:35.000Z",
+    "checkedAt": "2022-05-15T10:25:35.000Z",
     "id": 121,
     "type": "anime",
-    "title": "Fullmetal Alchemist",
-    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
-    "image": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 979,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-05-02T13:03:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Hagane no Renkinjutsushi",
     "altTitle": [
       "Fullmetal Alchemist",
       "鋼の錬金術師",
@@ -70,23 +79,17 @@
       "Stalowy Alchemik",
       "강철의 연금술사"
     ],
+    "url": "https://anilist.co/anime/121",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-JUlbsyhTUNkk.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/70204980"
       }
     ],
-    "id": 121,
     "malId": 121,
-    "type": "anime",
-    "title": "Hagane no Renkinjutsushi",
-    "url": "https://anilist.co/anime/121",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-JUlbsyhTUNkk.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:27.000Z",
-    "updatedAt": "2022-02-11T08:09:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+  }
 }

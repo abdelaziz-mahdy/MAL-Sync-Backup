@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Hiroi Ouji",
-    "Masa Ikku",
-    "Fujishima Kosuke"
-  ],
+  "createdAt": "2020-10-12T16:04:44.000Z",
+  "updatedAt": "2021-12-02T23:19:21.000Z",
+  "checkedAt": null,
+  "id": 4921,
   "identifier": "fdb20618-c5b4-4117-8e51-55992a6c9d7b",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 511,
   "aniId": 30511,
-  "createdAt": "2020-10-12T16:04:44.000Z",
-  "updatedAt": "2021-12-02T23:19:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiroi Ouji",
+    "Masa Ikku",
+    "Fujishima Kosuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-04-26T07:31:28.000Z",
+    "checkedAt": null,
+    "id": 511,
+    "type": "manga",
+    "title": "Sakura Taisen",
+    "altTitle": [
+      "Sakura Wars",
+      "Sakura Wars",
+      "サクラ大戦"
+    ],
+    "url": "https://myanimelist.net/manga/511/Sakura_Taisen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,51 +48,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sakura Wars",
-      "Sakura Wars",
-      "サクラ大戦"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiroi, Ouji",
       "Masa, Ikkyu",
       "Fujishima, Kousuke",
       "Masa, Ikku"
-    ],
-    "id": 511,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:21.582Z",
+    "updatedAt": "2022-05-13T12:45:21.582Z",
+    "checkedAt": null,
+    "id": 30511,
     "type": "manga",
     "title": "Sakura Taisen",
-    "url": "https://myanimelist.net/manga/511/Sakura_Taisen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-26T07:31:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sakura Wars",
       "サクラ大戦"
     ],
+    "url": "https://anilist.co/manga/30511",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30511-U0HQ0JtbQJxR.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 511,
+    "deletedAt": null,
     "authors": [
       "Ouji Hiroi",
       "Kousuke Fujishima",
       "Ikku Masa",
       "Fernando Mucioli"
-    ],
-    "id": 30511,
-    "malId": 511,
-    "type": "manga",
-    "title": "Sakura Taisen",
-    "url": "https://anilist.co/manga/30511",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30511-U0HQ0JtbQJxR.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2021-12-03T23:16:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/511/Sakura_Taisen"
+    ]
+  }
 }

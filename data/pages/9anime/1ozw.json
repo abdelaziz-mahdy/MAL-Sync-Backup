@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:16.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1068,
   "identifier": "1ozw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 205,
   "aniId": 205,
-  "createdAt": "2020-10-12T15:49:16.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T07:04:17.000Z",
+    "checkedAt": "2022-05-14T07:04:17.000Z",
+    "id": 205,
+    "type": "anime",
+    "title": "Samurai Champloo",
+    "altTitle": [
+      "SAMURAI CHAMPLOO",
+      "Samurai Champloo",
+      "サムライチャンプルー"
+    ],
+    "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+    "image": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +60,25 @@
         "url": "https://www.funimation.com/shows/samurai-champloo"
       }
     ],
-    "altTitle": [
-      "SAMURAI CHAMPLOO",
-      "Samurai Champloo",
-      "サムライチャンプルー"
-    ],
+    "deletedAt": null,
+    "anidbId": 1543
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T09:40:35.000Z",
+    "checkedAt": "2022-05-15T09:40:35.000Z",
     "id": 205,
     "type": "anime",
     "title": "Samurai Champloo",
-    "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
-    "image": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1543,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-05-01T02:05:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Samurai Champloo",
       "サムライチャンプルー",
       "ساموراي تشامبلو"
     ],
+    "url": "https://anilist.co/anime/205",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205-xxonQKyJtVcw.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
@@ -78,19 +91,13 @@
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/samurai-champloo"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://crunchyroll.com/series/G6WEK0026/samurai-champloo"
       }
     ],
-    "id": 205,
     "malId": 205,
-    "type": "anime",
-    "title": "Samurai Champloo",
-    "url": "https://anilist.co/anime/205",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205-xxonQKyJtVcw.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2021-12-17T08:22:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/205/Samurai_Champloo"
+  }
 }

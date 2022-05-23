@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:00:32.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17930,
   "identifier": "gleipnir",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39463,
   "aniId": 108241,
-  "createdAt": "2020-10-12T16:00:32.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T07:03:38.000Z",
+    "checkedAt": "2022-05-14T07:03:38.000Z",
+    "id": 39463,
+    "type": "anime",
+    "title": "Gleipnir",
+    "altTitle": [
+      "Gleipnir",
+      "グレイプニル"
+    ],
+    "url": "https://myanimelist.net/anime/39463/Gleipnir",
+    "image": "https://cdn.myanimelist.net/images/anime/1808/111697.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,6 +51,10 @@
     ],
     "legalLinks": [
       {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282444"
+      },
+      {
         "site": "funimation",
         "url": "https://www.funimation.com/shows/gleipnir"
       },
@@ -43,28 +63,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Gleipnir",
-      "グレイプニル"
-    ],
-    "id": 39463,
+    "deletedAt": null,
+    "anidbId": 14721
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:56.000Z",
+    "updatedAt": "2022-05-15T09:32:35.000Z",
+    "checkedAt": "2022-05-15T09:32:35.000Z",
+    "id": 108241,
     "type": "anime",
     "title": "Gleipnir",
-    "url": "https://myanimelist.net/anime/39463/Gleipnir",
-    "image": "https://cdn.myanimelist.net/images/anime/1808/111697.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14721,
-    "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2022-04-10T14:01:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Gleipnir",
       "グレイプニル",
       "格莱普尼尔"
     ],
+    "url": "https://anilist.co/anime/108241",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108241-CZemOTbuE0Oj.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -73,19 +90,13 @@
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/81263648"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/gleipnir"
       }
     ],
-    "id": 108241,
     "malId": 39463,
-    "type": "anime",
-    "title": "Gleipnir",
-    "url": "https://anilist.co/anime/108241",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108241-CZemOTbuE0Oj.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:56.000Z",
-    "updatedAt": "2021-12-24T09:21:46.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/39463/Gleipnir"
+  }
 }

@@ -1,23 +1,40 @@
 {
-  "authors": [
-    "Togashi Yoshihiro"
-  ],
+  "createdAt": "2020-10-12T16:02:48.000Z",
+  "updatedAt": "2022-05-16T15:14:21.000Z",
+  "checkedAt": "2022-05-16T15:14:13.000Z",
+  "id": 885,
   "identifier": "db692d58-4b13-4174-ae8c-30c515c0689c",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hunter x Hunter",
   "url": "https://mangadex.org/title/db692d58-4b13-4174-ae8c-30c515c0689c",
-  "image": "https://uploads.mangadex.org/covers/db692d58-4b13-4174-ae8c-30c515c0689c/baab767a-4a90-42b2-9451-927ab5c431ae.jpg",
+  "image": "https://uploads.mangadex.org/covers/db692d58-4b13-4174-ae8c-30c515c0689c/f9dcc8ec-2921-4088-aa95-d8ecfe85c37e.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26,
   "aniId": 30026,
-  "createdAt": "2020-10-12T16:02:48.000Z",
-  "updatedAt": "2021-12-02T09:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Togashi Yoshihiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-13T19:32:37.000Z",
+    "checkedAt": "2022-05-13T19:32:37.000Z",
+    "id": 26,
+    "type": "manga",
+    "title": "Hunter x Hunter",
+    "altTitle": [
+      "HxH",
+      "Hunter x Hunter",
+      "HUNTER×HUNTER"
+    ],
+    "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253119.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "HxH",
-      "Hunter x Hunter",
-      "HUNTER×HUNTER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Togashi, Yoshihiro"
-    ],
-    "id": 26,
-    "type": "manga",
-    "title": "Hunter x Hunter",
-    "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter",
-    "image": "https://cdn.myanimelist.net/images/manga/2/253119.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-21T00:01:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.213Z",
+    "updatedAt": "2022-05-15T15:58:11.000Z",
+    "checkedAt": "2022-05-15T15:58:11.000Z",
+    "id": 30026,
+    "type": "manga",
+    "title": "HUNTER×HUNTER",
     "altTitle": [
       "Hunter x Hunter",
       "HUNTER×HUNTER",
@@ -57,12 +66,18 @@
       "헌터×헌터",
       "القناص"
     ],
+    "url": "https://anilist.co/manga/30026",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30026-uCvXMudMzmwI.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100015"
       }
     ],
+    "malId": 26,
+    "deletedAt": null,
     "authors": [
       "Yoshihiro Togashi",
       "Naoko Takeuchi",
@@ -70,18 +85,6 @@
       "Thibaud Desbief",
       "Ayako Koike",
       "Eric Montesinos"
-    ],
-    "id": 30026,
-    "malId": 26,
-    "type": "manga",
-    "title": "HUNTER×HUNTER",
-    "url": "https://anilist.co/manga/30026",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30026-uCvXMudMzmwI.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshitomi Akihito"
-  ],
+  "createdAt": "2020-10-12T16:11:55.000Z",
+  "updatedAt": "2021-12-05T12:18:00.000Z",
+  "checkedAt": null,
+  "id": 20320,
   "identifier": "a7642dac-5a6f-4223-9bb7-0ea5a2261173",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2913,
   "aniId": 32913,
-  "createdAt": "2020-10-12T16:11:55.000Z",
-  "updatedAt": "2021-12-05T12:18:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshitomi Akihito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:46.000Z",
+    "updatedAt": "2022-05-16T17:42:49.000Z",
+    "checkedAt": "2022-05-16T17:42:49.000Z",
+    "id": 2913,
+    "type": "manga",
+    "title": "Ray",
+    "altTitle": [
+      "Ray: The Other Side",
+      "Ray+",
+      "Ray",
+      "レイ"
+    ],
+    "url": "https://myanimelist.net/manga/2913/Ray",
+    "image": "https://cdn.myanimelist.net/images/manga/1/3127.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ray: The Other Side",
-      "Ray+",
-      "Ray",
-      "レイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshitomi, Akihito"
-    ],
-    "id": 2913,
-    "type": "manga",
-    "title": "Ray",
-    "url": "https://myanimelist.net/manga/2913/Ray",
-    "image": "https://cdn.myanimelist.net/images/manga/1/3127.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:46.000Z",
-    "updatedAt": "2022-04-04T00:30:35.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:39.499Z",
+    "updatedAt": "2022-05-16T17:42:47.000Z",
+    "checkedAt": "2022-05-16T17:42:47.000Z",
+    "id": 32913,
+    "type": "manga",
+    "title": "RAY",
     "altTitle": [
       "Ray",
       "ＲＡＹ－レイ－",
@@ -54,21 +63,15 @@
       "レイ",
       "레이"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akihito Yoshitomi"
-    ],
-    "id": 32913,
-    "malId": 2913,
-    "type": "manga",
-    "title": "RAY",
     "url": "https://anilist.co/manga/32913",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32913-GJSx3vCMvc5G.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:16.000Z",
-    "updatedAt": "2022-02-08T02:39:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2913/Ray"
+    "externalLinks": [],
+    "malId": 2913,
+    "deletedAt": null,
+    "authors": [
+      "Akihito Yoshitomi"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Katsutoshi Murase",
-    "Daisuke Oikawa"
-  ],
+  "createdAt": "2021-08-01T13:17:51.000Z",
+  "updatedAt": "2022-02-01T13:51:33.000Z",
+  "checkedAt": null,
+  "id": 83485,
   "identifier": "manga-ep981398",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118156,
   "aniId": 107750,
-  "createdAt": "2021-08-01T13:17:51.000Z",
-  "updatedAt": "2022-02-01T13:51:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katsutoshi Murase",
+    "Daisuke Oikawa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:52.000Z",
+    "updatedAt": "2022-05-14T19:48:41.000Z",
+    "checkedAt": "2022-05-14T19:48:41.000Z",
+    "id": 118156,
+    "type": "manga",
+    "title": "Arata Primal",
+    "altTitle": [
+      "Arata Primal: The New Primitive",
+      "アラタプライマル"
+    ],
+    "url": "https://myanimelist.net/manga/118156/Arata_Primal",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220252.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,51 +42,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Arata Primal: The New Primitive",
-      "アラタプライマル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murase, Katsutoshi",
       "Oikawa, Daisuke"
-    ],
-    "id": 118156,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.856Z",
+    "updatedAt": "2022-05-13T13:06:38.856Z",
+    "checkedAt": null,
+    "id": 107750,
     "type": "manga",
     "title": "Arata Primal",
-    "url": "https://myanimelist.net/manga/118156/Arata_Primal",
-    "image": "https://cdn.myanimelist.net/images/manga/1/220252.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:52.000Z",
-    "updatedAt": "2022-02-01T13:20:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Arata Primal: The New Primitive",
       "アラタプライマル"
     ],
+    "url": "https://anilist.co/manga/107750",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107750-sdm5GaEmh4JC.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100053"
       }
     ],
+    "malId": 118156,
+    "deletedAt": null,
     "authors": [
       "Katsutoshi Murase",
       "Daisuke Oikawa"
-    ],
-    "id": 107750,
-    "malId": 118156,
-    "type": "manga",
-    "title": "Arata Primal",
-    "url": "https://anilist.co/manga/107750",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107750-sdm5GaEmh4JC.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:59.000Z",
-    "updatedAt": "2021-12-18T05:55:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118156/Arata_Primal"
+    ]
+  }
 }

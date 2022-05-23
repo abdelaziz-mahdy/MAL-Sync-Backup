@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takei Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:17:02.000Z",
+  "updatedAt": "2021-12-07T04:17:22.000Z",
+  "checkedAt": null,
+  "id": 30361,
   "identifier": "3411fa5a-60e8-4dc3-bade-f8887df2cb7f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 47551,
   "aniId": 77551,
-  "createdAt": "2020-10-12T16:17:02.000Z",
-  "updatedAt": "2021-12-07T04:17:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takei Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:29.000Z",
+    "updatedAt": "2021-11-07T10:48:16.000Z",
+    "checkedAt": null,
+    "id": 47551,
+    "type": "manga",
+    "title": "Danball Senki",
+    "altTitle": [
+      "LBX: Little Battlers Experience",
+      "Danbooru Senki",
+      "ダンボール戦機"
+    ],
+    "url": "https://myanimelist.net/manga/47551/Danball_Senki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/109525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,51 +42,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LBX: Little Battlers Experience",
-      "Danbooru Senki",
-      "ダンボール戦機"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujii, Hideaki"
-    ],
-    "id": 47551,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.268Z",
+    "updatedAt": "2022-05-13T13:06:44.268Z",
+    "checkedAt": null,
+    "id": 77551,
     "type": "manga",
     "title": "Danball Senki",
-    "url": "https://myanimelist.net/manga/47551/Danball_Senki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/109525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:29.000Z",
-    "updatedAt": "2021-11-07T10:48:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "LBX: Little Battlers eXperience",
       "ダンボール戦機",
       "Danbooru Senki"
     ],
+    "url": "https://anilist.co/manga/77551",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx77551-aHkYV5NpP0jj.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "VIZ",
         "url": "https://www.viz.com/lbx"
       }
     ],
+    "malId": 47551,
+    "deletedAt": null,
     "authors": [
       "Hideaki Fujii"
-    ],
-    "id": 77551,
-    "malId": 47551,
-    "type": "manga",
-    "title": "Danball Senki",
-    "url": "https://anilist.co/manga/77551",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx77551-aHkYV5NpP0jj.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:49:36.000Z",
-    "updatedAt": "2021-12-17T21:00:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/47551/Danball_Senki"
+    ]
+  }
 }

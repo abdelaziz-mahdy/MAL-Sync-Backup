@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "OOIMA Yoshitoki"
-  ],
+  "createdAt": "2020-12-23T08:56:13.000Z",
+  "updatedAt": "2022-05-16T15:15:10.000Z",
+  "checkedAt": "2022-05-16T15:14:56.000Z",
+  "id": 55427,
   "identifier": "to-you-the-immortal",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102343,
   "aniId": 97830,
-  "createdAt": "2020-12-23T08:56:13.000Z",
-  "updatedAt": "2022-03-01T23:40:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "OOIMA Yoshitoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:45.000Z",
+    "updatedAt": "2022-05-14T09:55:53.000Z",
+    "checkedAt": "2022-05-14T09:55:53.000Z",
+    "id": 102343,
+    "type": "manga",
+    "title": "Fumetsu no Anata e",
+    "altTitle": [
+      "To You, the Immortal",
+      "To Your Eternity",
+      "不滅のあなたへ"
+    ],
+    "url": "https://myanimelist.net/manga/102343/Fumetsu_no_Anata_e",
+    "image": "https://cdn.myanimelist.net/images/manga/3/189781.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "To You, the Immortal",
-      "To Your Eternity",
-      "不滅のあなたへ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooima, Yoshitoki"
-    ],
-    "id": 102343,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.383Z",
+    "updatedAt": "2022-05-15T15:24:11.000Z",
+    "checkedAt": "2022-05-15T15:24:11.000Z",
+    "id": 97830,
     "type": "manga",
     "title": "Fumetsu no Anata e",
-    "url": "https://myanimelist.net/manga/102343/Fumetsu_no_Anata_e",
-    "image": "https://cdn.myanimelist.net/images/manga/3/189781.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:45.000Z",
-    "updatedAt": "2022-04-13T15:01:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "To Your Eternity",
       "不滅のあなたへ",
@@ -60,29 +69,23 @@
       "Gửi em, người bất tử",
       "แด่เธอผู้เป็นนิรันดร์"
     ],
+    "url": "https://anilist.co/manga/97830",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97830-Xl76R9pzLWOE.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/to-your-eternity/volumes"
       }
     ],
+    "malId": 102343,
+    "deletedAt": null,
     "authors": [
       "Yoshitoki Ooima",
       "Thibaud Desbief",
       "Jesús Espí",
       "Cát Tường"
-    ],
-    "id": 97830,
-    "malId": 102343,
-    "type": "manga",
-    "title": "Fumetsu no Anata e",
-    "url": "https://anilist.co/manga/97830",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97830-Xl76R9pzLWOE.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:55.000Z",
-    "updatedAt": "2022-05-16T09:42:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102343/Fumetsu_no_Anata_e"
+    ]
+  }
 }

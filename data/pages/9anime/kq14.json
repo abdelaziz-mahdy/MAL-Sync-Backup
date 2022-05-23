@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-02T03:31:52.000Z",
+  "updatedAt": "2022-04-02T04:00:20.000Z",
+  "checkedAt": null,
+  "id": 40593,
   "identifier": "kq14",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48171,
   "aniId": 130050,
-  "createdAt": "2022-04-02T03:31:52.000Z",
-  "updatedAt": "2022-04-02T04:00:20.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-07-08T04:44:51.000Z",
+    "updatedAt": "2022-05-14T09:26:17.000Z",
+    "checkedAt": "2022-05-14T09:26:17.000Z",
+    "id": 48171,
+    "type": "anime",
+    "title": "Summer Ghost",
+    "altTitle": [
+      "Project Common",
+      "サマーゴースト"
+    ],
+    "url": "https://myanimelist.net/anime/48171/Summer_Ghost",
+    "image": "https://cdn.myanimelist.net/images/anime/1651/117943.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Project Common",
-      "サマーゴースト"
-    ],
-    "id": 48171,
+    "deletedAt": null,
+    "anidbId": 16064
+  },
+  "Ani": {
+    "createdAt": "2021-05-21T22:42:56.000Z",
+    "updatedAt": "2022-05-15T12:31:11.000Z",
+    "checkedAt": "2022-05-15T12:31:11.000Z",
+    "id": 130050,
     "type": "anime",
     "title": "Summer Ghost",
-    "url": "https://myanimelist.net/anime/48171/Summer_Ghost",
-    "image": "https://cdn.myanimelist.net/images/anime/1651/117943.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 16064,
-    "createdAt": "2021-07-08T04:44:51.000Z",
-    "updatedAt": "2022-04-28T07:02:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Summer Ghost",
       "サマーゴースト"
     ],
-    "externalLinks": [],
-    "id": 130050,
-    "malId": 48171,
-    "type": "anime",
-    "title": "Summer Ghost",
     "url": "https://anilist.co/anime/130050",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-7tcgvLV2w3xH.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-21T22:42:56.000Z",
-    "updatedAt": "2022-04-07T17:30:23.000Z",
+    "externalLinks": [],
+    "malId": 48171,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/48171/Summer_Ghost"
+  }
 }

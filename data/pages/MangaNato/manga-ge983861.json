@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kujira"
-  ],
+  "createdAt": "2021-07-21T00:03:47.000Z",
+  "updatedAt": "2022-01-21T01:01:12.000Z",
+  "checkedAt": null,
+  "id": 82643,
   "identifier": "manga-ge983861",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123347,
   "aniId": 104878,
-  "createdAt": "2021-07-21T00:03:47.000Z",
-  "updatedAt": "2022-01-21T01:01:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kujira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-15T23:13:57.000Z",
+    "checkedAt": "2022-05-15T23:13:57.000Z",
+    "id": 123347,
+    "type": "manga",
+    "title": "Sekai no Owari to Majo no Koi",
+    "altTitle": [
+      "The End of the World and a Witch's Love",
+      "A Witch's Love at the End of the World",
+      "世界の終わりと魔女の恋"
+    ],
+    "url": "https://myanimelist.net/manga/123347/Sekai_no_Owari_to_Majo_no_Koi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226437.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The End of the World and a Witch's Love",
-      "A Witch's Love at the End of the World",
-      "世界の終わりと魔女の恋"
-    ],
+    "deletedAt": null,
     "authors": [
       "KUJIRA"
-    ],
-    "id": 123347,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:16.029Z",
+    "updatedAt": "2022-05-15T23:13:55.000Z",
+    "checkedAt": "2022-05-15T23:13:55.000Z",
+    "id": 104878,
     "type": "manga",
     "title": "Sekai no Owari to Majo no Koi",
-    "url": "https://myanimelist.net/manga/123347/Sekai_no_Owari_to_Majo_no_Koi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/226437.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-01-21T00:30:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Witch’s Love at the End of the World",
       "世界の終わりと魔女の恋",
@@ -52,22 +61,17 @@
       "Sekamajo",
       "Les Sorcières de la fin du monde"
     ],
-    "externalLinks": [],
-    "authors": [
-      "KUJIRA",
-      "Claire Olivier"
-    ],
-    "id": 104878,
-    "malId": 123347,
-    "type": "manga",
-    "title": "Sekai no Owari to Majo no Koi",
     "url": "https://anilist.co/manga/104878",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104878-kyMPcRYig30r.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-12-18T04:57:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123347/Sekai_no_Owari_to_Majo_no_Koi"
+    "externalLinks": [],
+    "malId": 123347,
+    "deletedAt": null,
+    "authors": [
+      "KUJIRA",
+      "Claire Olivier",
+      "Tom Bertrand"
+    ]
+  }
 }

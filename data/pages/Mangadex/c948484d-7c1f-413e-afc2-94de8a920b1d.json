@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Seno Salt"
-  ],
+  "createdAt": "2020-10-12T16:10:12.000Z",
+  "updatedAt": "2021-12-04T23:17:31.000Z",
+  "checkedAt": null,
+  "id": 16628,
   "identifier": "c948484d-7c1f-413e-afc2-94de8a920b1d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102217,
   "aniId": 86696,
-  "createdAt": "2020-10-12T16:10:12.000Z",
-  "updatedAt": "2021-12-04T23:17:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Seno Salt"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:44.000Z",
+    "updatedAt": "2021-11-10T21:45:17.000Z",
+    "checkedAt": null,
+    "id": 102217,
+    "type": "manga",
+    "title": "Obaachan to Game",
+    "altTitle": [
+      "おばあちゃんとゲーム"
+    ],
+    "url": "https://myanimelist.net/manga/102217/Obaachan_to_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/3/201804.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "おばあちゃんとゲーム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Seno, Salt"
-    ],
-    "id": 102217,
-    "type": "manga",
-    "title": "Obaachan to Game",
-    "url": "https://myanimelist.net/manga/102217/Obaachan_to_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/3/201804.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2021-11-10T21:45:17.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:42.832Z",
+    "updatedAt": "2022-05-13T12:58:42.832Z",
+    "checkedAt": null,
+    "id": 86696,
+    "type": "manga",
+    "title": "Obaa-chan to Game",
     "altTitle": [
       "おばあちゃんとゲーム",
       "Obagame",
       "Game with my Grandma!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Salt Seno"
-    ],
-    "id": 86696,
-    "malId": 102217,
-    "type": "manga",
-    "title": "Obaa-chan to Game",
     "url": "https://anilist.co/manga/86696",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/86696-RgKUve1cYh7B.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:55.000Z",
-    "updatedAt": "2021-12-17T22:56:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102217/Obaachan_to_Game"
+    "externalLinks": [],
+    "malId": 102217,
+    "deletedAt": null,
+    "authors": [
+      "Salt Seno"
+    ]
+  }
 }

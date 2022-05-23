@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shiratori Shirow"
-  ],
+  "createdAt": "2022-04-22T04:31:34.000Z",
+  "updatedAt": "2022-04-22T05:00:23.000Z",
+  "checkedAt": null,
+  "id": 101986,
   "identifier": "manga-ks961627",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48719,
   "aniId": 78719,
-  "createdAt": "2022-04-22T04:31:34.000Z",
-  "updatedAt": "2022-04-22T05:00:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shiratori Shirow"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:31.000Z",
+    "updatedAt": "2022-05-15T18:49:37.000Z",
+    "checkedAt": "2022-05-15T18:49:37.000Z",
+    "id": 48719,
+    "type": "manga",
+    "title": "Nourin",
+    "altTitle": [
+      "No-Rin",
+      "のうりん"
+    ],
+    "url": "https://myanimelist.net/manga/48719/Nourin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/147675.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "No-Rin",
-      "のうりん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asakura, Maru",
       "Shiratori, Shirow"
-    ],
-    "id": 48719,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:58.058Z",
+    "updatedAt": "2022-05-15T20:49:23.000Z",
+    "checkedAt": "2022-05-15T20:49:23.000Z",
+    "id": 78719,
     "type": "manga",
     "title": "Nourin",
-    "url": "https://myanimelist.net/manga/48719/Nourin",
-    "image": "https://cdn.myanimelist.net/images/manga/1/147675.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:31.000Z",
-    "updatedAt": "2022-04-22T04:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "のうりん",
       "No-Rin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maru Asakura",
-      "Shirow Shiratori"
-    ],
-    "id": 78719,
-    "malId": 48719,
-    "type": "manga",
-    "title": "Nourin",
     "url": "https://anilist.co/manga/78719",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78719-sqXfVNKxvKYb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:39.000Z",
-    "updatedAt": "2022-05-05T19:30:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/48719/Nourin"
+    "externalLinks": [],
+    "malId": 48719,
+    "deletedAt": null,
+    "authors": [
+      "Maru Asakura",
+      "Shirow Shiratori"
+    ]
+  }
 }

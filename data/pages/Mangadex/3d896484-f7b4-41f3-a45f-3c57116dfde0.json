@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morino Mizu"
-  ],
+  "createdAt": "2020-10-12T16:10:13.000Z",
+  "updatedAt": "2021-12-04T23:17:40.000Z",
+  "checkedAt": null,
+  "id": 16638,
   "identifier": "3d896484-f7b4-41f3-a45f-3c57116dfde0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98184,
   "aniId": 97157,
-  "createdAt": "2020-10-12T16:10:13.000Z",
-  "updatedAt": "2021-12-04T23:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morino Mizu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2021-11-16T08:27:42.000Z",
+    "checkedAt": null,
+    "id": 98184,
+    "type": "manga",
+    "title": "B-Project: Mousou*Scandal",
+    "altTitle": [
+      "B-PROJECT 妄想＊スキャンダル"
+    ],
+    "url": "https://myanimelist.net/manga/98184/B-Project__MousouScandal",
+    "image": "https://cdn.myanimelist.net/images/manga/3/175895.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "B-PROJECT 妄想＊スキャンダル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morino, Mizu"
-    ],
-    "id": 98184,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:33.047Z",
+    "updatedAt": "2022-05-13T12:55:33.047Z",
+    "checkedAt": null,
+    "id": 97157,
     "type": "manga",
     "title": "B-Project: Mousou*Scandal",
-    "url": "https://myanimelist.net/manga/98184/B-Project__MousouScandal",
-    "image": "https://cdn.myanimelist.net/images/manga/3/175895.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2021-11-16T08:27:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "B-PROJECT 妄想＊スキャンダル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mizu Morino",
-      "MAGES."
-    ],
-    "id": 97157,
-    "malId": 98184,
-    "type": "manga",
-    "title": "B-Project: Mousou*Scandal",
     "url": "https://anilist.co/manga/97157",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97157-UtThexGtYvHs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:11.000Z",
-    "updatedAt": "2021-11-10T02:13:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98184/B-Project__MousouScandal"
+    "externalLinks": [],
+    "malId": 98184,
+    "deletedAt": null,
+    "authors": [
+      "Mizu Morino",
+      "MAGES."
+    ]
+  }
 }

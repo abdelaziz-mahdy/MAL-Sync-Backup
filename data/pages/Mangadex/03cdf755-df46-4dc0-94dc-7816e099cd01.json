@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Kim Yoon-Kyung",
-    "Yoon Ji-Sun",
-    "Cloud-Light",
-    "Yeo-Ul"
-  ],
+  "createdAt": "2021-01-02T15:19:33.000Z",
+  "updatedAt": "2021-12-08T11:07:30.000Z",
+  "checkedAt": null,
+  "id": 56901,
   "identifier": "03cdf755-df46-4dc0-94dc-7816e099cd01",
   "type": "manga",
   "page": "Mangadex",
@@ -14,37 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 128945,
-  "createdAt": "2021-01-02T15:19:33.000Z",
-  "updatedAt": "2021-12-08T11:07:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kim Yoon-Kyung",
+    "Yoon Ji-Sun",
+    "Cloud-Light",
+    "Yeo-Ul"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:34.614Z",
+    "updatedAt": "2022-05-17T14:46:10.000Z",
+    "checkedAt": "2022-05-17T14:46:10.000Z",
+    "id": 128945,
+    "type": "manga",
+    "title": "Majogui Gyeyak",
     "altTitle": [
       "The Demonic Contract",
       "마족의 계약",
       "Asmodian's Contract  "
     ],
+    "url": "https://anilist.co/manga/128945",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128945-UIGHSY4JVsdm.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 139677,
+    "deletedAt": null,
     "authors": [
       "Yun-Gyeong Kim",
       "Yeo-Ul",
       "Gureumbit",
       "Ji-Seon Yun"
-    ],
-    "id": 128945,
-    "malId": 139677,
-    "type": "manga",
-    "title": "Majogui Gyeyak",
-    "url": "https://anilist.co/manga/128945",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128945-UIGHSY4JVsdm.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-21T10:13:07.000Z",
-    "updatedAt": "2022-04-26T22:31:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

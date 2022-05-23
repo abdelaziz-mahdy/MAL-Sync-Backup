@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Kentaro Katayama",
-    "Furuya Daisuke",
-    "Yamamoto Yamato",
-    "Hiroshi Hiraoka"
-  ],
+  "createdAt": "2020-10-12T16:20:19.000Z",
+  "updatedAt": "2021-12-08T01:11:03.000Z",
+  "checkedAt": null,
+  "id": 36937,
   "identifier": "58cd1587-0b2f-4a43-ac8c-587a46640a59",
   "type": "manga",
   "page": "Mangadex",
@@ -14,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 132118,
   "aniId": 118818,
-  "createdAt": "2020-10-12T16:20:19.000Z",
-  "updatedAt": "2021-12-08T01:11:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kentaro Katayama",
+    "Furuya Daisuke",
+    "Yamamoto Yamato",
+    "Hiroshi Hiraoka"
+  ],
   "Mal": {
+    "createdAt": "2021-06-08T00:24:33.000Z",
+    "updatedAt": "2022-05-15T13:22:23.000Z",
+    "checkedAt": "2022-05-15T13:22:23.000Z",
+    "id": 132118,
+    "type": "manga",
+    "title": "Denpa-teki na Kanojo",
+    "altTitle": [
+      "電波的な彼女"
+    ],
+    "url": "https://myanimelist.net/manga/132118/Denpa-teki_na_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -32,48 +47,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "電波的な彼女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katayama, Kentarou",
       "Hiraoka, Koushi"
-    ],
-    "id": 132118,
-    "type": "manga",
-    "title": "Denpa-teki na Kanojo",
-    "url": "https://myanimelist.net/manga/132118/Denpa-teki_na_Kanojo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/239931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-08T00:24:33.000Z",
-    "updatedAt": "2021-12-08T00:37:41.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:10.197Z",
+    "updatedAt": "2022-05-15T17:38:11.000Z",
+    "checkedAt": "2022-05-15T17:38:11.000Z",
+    "id": 118818,
+    "type": "manga",
+    "title": "Denpa Teki na Kanojo",
     "altTitle": [
       "電波的な彼女",
       "Electromagnetic Girlfriend",
       "Electromagnetic-like Girlfriend"
     ],
+    "url": "https://anilist.co/manga/118818",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118818-Xb9YGIngs5Lz.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 132118,
+    "deletedAt": null,
     "authors": [
       "Yamato Yamamoto",
       "Daisuke Furuya",
       "Kentarou Katayama",
       "Hiroshi  Hiraoka"
-    ],
-    "id": 118818,
-    "malId": 132118,
-    "type": "manga",
-    "title": "Denpa Teki na Kanojo",
-    "url": "https://anilist.co/manga/118818",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118818-Xb9YGIngs5Lz.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-08T00:24:33.000Z",
-    "updatedAt": "2021-12-18T09:23:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/132118/Denpa-teki_na_Kanojo"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Smith Felipe"
-  ],
+  "createdAt": "2020-10-30T04:14:35.000Z",
+  "updatedAt": "2021-12-08T06:38:12.000Z",
+  "checkedAt": null,
+  "id": 51045,
   "identifier": "ba894fb1-a3a3-46a0-8223-b85aecfb0f74",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12313,
   "aniId": 42313,
-  "createdAt": "2020-10-30T04:14:35.000Z",
-  "updatedAt": "2021-12-08T06:38:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Smith Felipe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:45.000Z",
+    "updatedAt": "2022-05-17T19:52:54.000Z",
+    "checkedAt": "2022-05-17T19:52:54.000Z",
+    "id": 12313,
+    "type": "manga",
+    "title": "Peepo Choo",
+    "altTitle": [
+      "Pee Po Choo",
+      "Peepochoo",
+      "Peepo Choo",
+      "PEEPO CHOO ピポチュー"
+    ],
+    "url": "https://myanimelist.net/manga/12313/Peepo_Choo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/33834.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pee Po Choo",
-      "Peepochoo",
-      "Peepo Choo",
-      "PEEPO CHOO ピポチュー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Smith, Felipe"
-    ],
-    "id": 12313,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:56.948Z",
+    "updatedAt": "2022-05-17T19:52:53.000Z",
+    "checkedAt": "2022-05-17T19:52:53.000Z",
+    "id": 42313,
     "type": "manga",
     "title": "Peepo Choo",
-    "url": "https://myanimelist.net/manga/12313/Peepo_Choo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/33834.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:45.000Z",
-    "updatedAt": "2022-02-13T18:39:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Peepo Choo",
       "PEEPO CHOO ピポチュー",
@@ -57,21 +66,15 @@
       "Peepochoo",
       "PEEPOCHOO"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Felipe Smith"
-    ],
-    "id": 42313,
-    "malId": 12313,
-    "type": "manga",
-    "title": "Peepo Choo",
     "url": "https://anilist.co/manga/42313",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42313-QTBebDYtUf5l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:18.000Z",
-    "updatedAt": "2021-12-17T14:44:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12313/Peepo_Choo"
+    "externalLinks": [],
+    "malId": 12313,
+    "deletedAt": null,
+    "authors": [
+      "Felipe Smith"
+    ]
+  }
 }

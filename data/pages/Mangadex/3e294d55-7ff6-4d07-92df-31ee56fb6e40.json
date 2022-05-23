@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "GoDo",
-    "Tagro"
-  ],
+  "createdAt": "2020-10-26T20:12:45.000Z",
+  "updatedAt": "2021-12-08T06:08:23.000Z",
+  "checkedAt": null,
+  "id": 50725,
   "identifier": "3e294d55-7ff6-4d07-92df-31ee56fb6e40",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12771,
   "aniId": 42771,
-  "createdAt": "2020-10-26T20:12:45.000Z",
-  "updatedAt": "2021-12-08T06:08:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "GoDo",
+    "Tagro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:48.000Z",
+    "updatedAt": "2022-04-26T21:02:16.000Z",
+    "checkedAt": null,
+    "id": 12771,
+    "type": "manga",
+    "title": "Himawari Den!",
+    "altTitle": [
+      "Himawari Tsute!",
+      "Himawariden",
+      "ひまわり伝っ！"
+    ],
+    "url": "https://myanimelist.net/manga/12771/Himawari_Den",
+    "image": "https://cdn.myanimelist.net/images/manga/3/112347.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Himawari Tsute!",
-      "Himawariden",
-      "ひまわり伝っ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "TAGRO",
       "GoDo"
-    ],
-    "id": 12771,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:42.530Z",
+    "updatedAt": "2022-05-13T12:42:42.530Z",
+    "checkedAt": null,
+    "id": 42771,
     "type": "manga",
     "title": "Himawari Den!",
-    "url": "https://myanimelist.net/manga/12771/Himawari_Den",
-    "image": "https://cdn.myanimelist.net/images/manga/3/112347.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:48.000Z",
-    "updatedAt": "2022-04-26T21:02:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ひまわり伝っ！",
       "Himawari Tsute!",
       "Himawariden"
     ],
-    "externalLinks": [],
-    "authors": [
-      "GoDo",
-      "TAGRO"
-    ],
-    "id": 42771,
-    "malId": 12771,
-    "type": "manga",
-    "title": "Himawari Den!",
     "url": "https://anilist.co/manga/42771",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12771.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:25.000Z",
-    "updatedAt": "2021-12-17T15:03:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12771/Himawari_Den"
+    "externalLinks": [],
+    "malId": 12771,
+    "deletedAt": null,
+    "authors": [
+      "GoDo",
+      "TAGRO"
+    ]
+  }
 }

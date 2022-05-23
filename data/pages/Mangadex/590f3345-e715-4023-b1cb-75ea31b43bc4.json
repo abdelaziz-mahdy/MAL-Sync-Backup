@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Esuno Sakae"
-  ],
+  "createdAt": "2020-10-12T16:03:08.000Z",
+  "updatedAt": "2021-12-02T12:17:38.000Z",
+  "checkedAt": null,
+  "id": 1606,
   "identifier": "590f3345-e715-4023-b1cb-75ea31b43bc4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28697,
   "aniId": 58697,
-  "createdAt": "2020-10-12T16:03:08.000Z",
-  "updatedAt": "2021-12-02T12:17:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Esuno Sakae"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:31.000Z",
+    "updatedAt": "2022-05-16T20:51:43.000Z",
+    "checkedAt": "2022-05-16T20:51:43.000Z",
+    "id": 28697,
+    "type": "manga",
+    "title": "Big Order",
+    "altTitle": [
+      "Big Order",
+      "ビッグオーダー"
+    ],
+    "url": "https://myanimelist.net/manga/28697/Big_Order",
+    "image": "https://cdn.myanimelist.net/images/manga/2/179733.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Big Order",
-      "ビッグオーダー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Esuno, Sakae"
-    ],
-    "id": 28697,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:58.959Z",
+    "updatedAt": "2022-05-16T20:51:42.000Z",
+    "checkedAt": "2022-05-16T20:51:42.000Z",
+    "id": 58697,
     "type": "manga",
     "title": "Big Order",
-    "url": "https://myanimelist.net/manga/28697/Big_Order",
-    "image": "https://cdn.myanimelist.net/images/manga/2/179733.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:31.000Z",
-    "updatedAt": "2022-01-26T03:30:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Big Order",
       "ビッグオーダー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sakae Esuno",
-      "Patrick Alfonsi"
-    ],
-    "id": 58697,
-    "malId": 28697,
-    "type": "manga",
-    "title": "Big Order",
     "url": "https://anilist.co/manga/58697",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28697.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:32.000Z",
-    "updatedAt": "2022-04-05T20:02:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/28697/Big_Order"
+    "externalLinks": [],
+    "malId": 28697,
+    "deletedAt": null,
+    "authors": [
+      "Sakae Esuno",
+      "Patrick Alfonsi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamato Waki"
-  ],
+  "createdAt": "2020-10-12T16:11:33.000Z",
+  "updatedAt": "2021-12-05T10:18:59.000Z",
+  "checkedAt": null,
+  "id": 19571,
   "identifier": "d0ef501f-af2e-48c0-ba9c-aa2c6610c27e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1568,
   "aniId": 31568,
-  "createdAt": "2020-10-12T16:11:33.000Z",
-  "updatedAt": "2021-12-05T10:18:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamato Waki"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T09:18:58.000Z",
+    "updatedAt": "2022-05-23T16:47:00.000Z",
+    "checkedAt": "2022-05-23T16:47:00.000Z",
+    "id": 1568,
+    "type": "manga",
+    "title": "Asaki Yumemishi: Genji Monogatari",
+    "altTitle": [
+      "The Tale of Genji",
+      "Asakiyumemishi",
+      "あさきゆめみし 源氏物語"
+    ],
+    "url": "https://myanimelist.net/manga/1568/Asaki_Yumemishi__Genji_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/242885.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Tale of Genji",
-      "Asakiyumemishi",
-      "あさきゆめみし 源氏物語"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamato, Waki",
       "Shikibu, Murasaki"
-    ],
-    "id": 1568,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:55.460Z",
+    "updatedAt": "2022-05-23T16:46:58.000Z",
+    "checkedAt": "2022-05-23T16:46:58.000Z",
+    "id": 31568,
     "type": "manga",
     "title": "Asaki Yumemishi: Genji Monogatari",
-    "url": "https://myanimelist.net/manga/1568/Asaki_Yumemishi__Genji_Monogatari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/242885.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T09:18:58.000Z",
-    "updatedAt": "2022-03-12T13:00:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Tale of Genji: Dreams At Dawn",
       "あさきゆめみし 源氏物語",
@@ -53,22 +62,16 @@
       "The Tale of Genji",
       "Asakiyumemishi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Waki Yamato",
-      "Murasaki Shikibu"
-    ],
-    "id": 31568,
-    "malId": 1568,
-    "type": "manga",
-    "title": "Asaki Yumemishi: Genji Monogatari",
     "url": "https://anilist.co/manga/31568",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31568-EyXl72zHYlnF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T09:18:58.000Z",
-    "updatedAt": "2022-02-26T13:17:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1568/Asaki_Yumemishi__Genji_Monogatari"
+    "externalLinks": [],
+    "malId": 1568,
+    "deletedAt": null,
+    "authors": [
+      "Waki Yamato",
+      "Murasaki Shikibu"
+    ]
+  }
 }

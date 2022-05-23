@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakura Iro",
-    "Chatani Ami"
-  ],
+  "createdAt": "2020-10-12T16:03:47.000Z",
+  "updatedAt": "2021-12-02T16:47:18.000Z",
+  "checkedAt": null,
+  "id": 2958,
   "identifier": "62984994-35e8-4d64-a519-22815715f447",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17963,
   "aniId": 47963,
-  "createdAt": "2020-10-12T16:03:47.000Z",
-  "updatedAt": "2021-12-02T16:47:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakura Iro",
+    "Chatani Ami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:30.000Z",
+    "updatedAt": "2022-05-19T09:41:35.000Z",
+    "checkedAt": "2022-05-19T09:41:35.000Z",
+    "id": 17963,
+    "type": "manga",
+    "title": "Kimi no Sei",
+    "altTitle": [
+      "君のせい"
+    ],
+    "url": "https://myanimelist.net/manga/17963/Kimi_no_Sei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/28300.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "君のせい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chatani, Ami",
       "Sakurairo"
-    ],
-    "id": 17963,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:37.743Z",
+    "updatedAt": "2022-05-19T09:41:34.000Z",
+    "checkedAt": "2022-05-19T09:41:34.000Z",
+    "id": 47963,
     "type": "manga",
     "title": "Kimi no Sei",
-    "url": "https://myanimelist.net/manga/17963/Kimi_no_Sei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/28300.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:30.000Z",
-    "updatedAt": "2022-01-07T05:49:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "君のせい"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ami Chatani",
-      "Iro Sakura"
-    ],
-    "id": 47963,
-    "malId": 17963,
-    "type": "manga",
-    "title": "Kimi no Sei",
     "url": "https://anilist.co/manga/47963",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47963-uC7QsOaMkrHy.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:14.000Z",
-    "updatedAt": "2021-12-17T16:39:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17963/Kimi_no_Sei"
+    "externalLinks": [],
+    "malId": 17963,
+    "deletedAt": null,
+    "authors": [
+      "Ami Chatani",
+      "Iro Sakura"
+    ]
+  }
 }

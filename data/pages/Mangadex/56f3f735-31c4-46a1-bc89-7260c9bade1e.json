@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishinomori Shotaro"
-  ],
+  "createdAt": "2020-10-12T16:06:08.000Z",
+  "updatedAt": "2021-12-03T17:49:20.000Z",
+  "checkedAt": null,
+  "id": 7832,
   "identifier": "56f3f735-31c4-46a1-bc89-7260c9bade1e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4751,
   "aniId": 34751,
-  "createdAt": "2020-10-12T16:06:08.000Z",
-  "updatedAt": "2021-12-03T17:49:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishinomori Shotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-15T15:48:05.000Z",
+    "checkedAt": "2022-05-15T15:48:05.000Z",
+    "id": 4751,
+    "type": "manga",
+    "title": "Kamen Rider",
+    "altTitle": [
+      "Masked Rider",
+      "仮面ライダー"
+    ],
+    "url": "https://myanimelist.net/manga/4751/Kamen_Rider",
+    "image": "https://cdn.myanimelist.net/images/manga/1/5853.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Masked Rider",
-      "仮面ライダー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou"
-    ],
-    "id": 4751,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:49.909Z",
+    "updatedAt": "2022-05-15T19:08:59.000Z",
+    "checkedAt": "2022-05-15T19:08:59.000Z",
+    "id": 34751,
     "type": "manga",
     "title": "Kamen Rider",
-    "url": "https://myanimelist.net/manga/4751/Kamen_Rider",
-    "image": "https://cdn.myanimelist.net/images/manga/1/5853.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-03-10T03:30:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kamen Rider",
       "仮面ライダー",
       "Masked Rider"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoutarou Ishinomori",
-      "Marc Bernabé",
-      "Marc Bernabé"
-    ],
-    "id": 34751,
-    "malId": 4751,
-    "type": "manga",
-    "title": "Kamen Rider",
     "url": "https://anilist.co/manga/34751",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34751-nidQJ7LwOsyQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:36.000Z",
-    "updatedAt": "2021-12-17T12:09:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4751/Kamen_Rider"
+    "externalLinks": [],
+    "malId": 4751,
+    "deletedAt": null,
+    "authors": [
+      "Shoutarou Ishinomori",
+      "Marc Bernabé",
+      "Marc Bernabé"
+    ]
+  }
 }

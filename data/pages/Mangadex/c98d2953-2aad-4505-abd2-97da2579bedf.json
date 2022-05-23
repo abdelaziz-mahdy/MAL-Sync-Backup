@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maita Nao"
-  ],
+  "createdAt": "2020-10-12T16:08:14.000Z",
+  "updatedAt": "2021-12-04T08:48:38.000Z",
+  "checkedAt": null,
+  "id": 12328,
   "identifier": "c98d2953-2aad-4505-abd2-97da2579bedf",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63183,
   "aniId": 85338,
-  "createdAt": "2020-10-12T16:08:14.000Z",
-  "updatedAt": "2021-12-04T08:48:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maita Nao"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/12%E6%AD%B3%E3%80%82"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:04.000Z",
+    "updatedAt": "2021-11-09T07:44:06.000Z",
+    "checkedAt": null,
+    "id": 63183,
+    "type": "manga",
+    "title": "12-sai.",
     "altTitle": [
       "Juunisai",
       "Age 12",
@@ -32,21 +33,29 @@
       "Junjou Girlfriend",
       "12歳。"
     ],
-    "authors": [
-      "Maita, Nao"
-    ],
-    "id": 63183,
-    "type": "manga",
-    "title": "12-sai.",
     "url": "https://myanimelist.net/manga/63183/12-sai",
     "image": "https://cdn.myanimelist.net/images/manga/3/108301.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2021-11-09T07:44:06.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/12%E6%AD%B3%E3%80%82"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maita, Nao"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:24.010Z",
+    "updatedAt": "2022-05-13T12:51:24.010Z",
+    "checkedAt": null,
+    "id": 85338,
+    "type": "manga",
+    "title": "12-sai.",
     "altTitle": [
       "12歳。",
       "Juunisai",
@@ -54,21 +63,15 @@
       "12-sai. - Kokuhaku",
       "12-sai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nao Maita"
-    ],
-    "id": 85338,
-    "malId": 63183,
-    "type": "manga",
-    "title": "12-sai.",
     "url": "https://anilist.co/manga/85338",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85338-oINgzmH6WpUT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:47.000Z",
-    "updatedAt": "2021-12-17T21:58:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63183/12-sai"
+    "externalLinks": [],
+    "malId": 63183,
+    "deletedAt": null,
+    "authors": [
+      "Nao Maita"
+    ]
+  }
 }

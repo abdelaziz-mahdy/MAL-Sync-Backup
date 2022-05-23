@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:30.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 131,
   "identifier": "3932",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 382,
   "aniId": 382,
-  "createdAt": "2020-10-12T15:48:30.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T18:54:11.000Z",
+    "checkedAt": "2022-05-14T18:54:11.000Z",
+    "id": 382,
+    "type": "anime",
+    "title": "Futari Ecchi",
+    "altTitle": [
+      "Futari H",
+      "Step Up Love Story",
+      "ふたりエッチ"
+    ],
+    "url": "https://myanimelist.net/anime/382/Futari_Ecchi",
+    "image": "https://cdn.myanimelist.net/images/anime/10/20029.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Futari H",
-      "Step Up Love Story",
-      "ふたりエッチ"
-    ],
+    "deletedAt": null,
+    "anidbId": 242
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T10:45:59.000Z",
+    "checkedAt": "2022-05-15T10:45:59.000Z",
     "id": 382,
     "type": "anime",
     "title": "Futari Ecchi",
-    "url": "https://myanimelist.net/anime/382/Futari_Ecchi",
-    "image": "https://cdn.myanimelist.net/images/anime/10/20029.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 242,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-03-30T13:36:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Step Up Love Story",
       "ふたりエッチ",
       "Futari H"
     ],
-    "externalLinks": [],
-    "id": 382,
-    "malId": 382,
-    "type": "anime",
-    "title": "Futari Ecchi",
     "url": "https://anilist.co/anime/382",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/382.jpg",
     "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:39.000Z",
-    "updatedAt": "2021-12-17T08:26:55.000Z",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 382,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/382/Futari_Ecchi"
+  }
 }

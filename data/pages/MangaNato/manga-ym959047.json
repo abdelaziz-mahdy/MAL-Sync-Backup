@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Taiyo"
-  ],
+  "createdAt": "2021-07-10T14:13:41.000Z",
+  "updatedAt": "2022-01-10T15:12:41.000Z",
+  "checkedAt": null,
+  "id": 81532,
   "identifier": "manga-ym959047",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5744,
   "aniId": 35744,
-  "createdAt": "2021-07-10T14:13:41.000Z",
-  "updatedAt": "2022-01-10T15:12:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Taiyo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:07.000Z",
+    "updatedAt": "2022-05-14T23:47:47.000Z",
+    "checkedAt": "2022-05-14T23:47:47.000Z",
+    "id": 5744,
+    "type": "manga",
+    "title": "Ping Pong",
+    "altTitle": [
+      "ピンポン"
+    ],
+    "url": "https://myanimelist.net/manga/5744/Ping_Pong",
+    "image": "https://cdn.myanimelist.net/images/manga/2/151416.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,34 +40,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ピンポン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Taiyou"
-    ],
-    "id": 5744,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:45.282Z",
+    "updatedAt": "2022-05-15T22:27:11.000Z",
+    "checkedAt": "2022-05-15T22:27:11.000Z",
+    "id": 35744,
     "type": "manga",
     "title": "Ping Pong",
-    "url": "https://myanimelist.net/manga/5744/Ping_Pong",
-    "image": "https://cdn.myanimelist.net/images/manga/2/151416.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:07.000Z",
-    "updatedAt": "2022-04-19T12:31:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ping Pong",
       "ピンポン"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/ping-pong"
-      }
-    ],
+    "url": "https://anilist.co/manga/35744",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35744-vHOqO5WbElXa.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5744,
+    "deletedAt": null,
     "authors": [
       "Taiyou Matsumoto",
       "Michael Arias",
@@ -61,18 +71,6 @@
       "Julie Naruse",
       "Yoshiaki Naruse",
       "Juan Scassa"
-    ],
-    "id": 35744,
-    "malId": 5744,
-    "type": "manga",
-    "title": "Ping Pong",
-    "url": "https://anilist.co/manga/35744",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35744-vHOqO5WbElXa.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:39:33.000Z",
-    "updatedAt": "2021-12-17T12:38:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5744/Ping_Pong"
+    ]
+  }
 }

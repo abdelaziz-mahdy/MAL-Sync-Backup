@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Harusono Syou"
-  ],
+  "createdAt": "2021-06-05T19:19:09.000Z",
+  "updatedAt": "2021-12-05T20:19:48.000Z",
+  "checkedAt": null,
+  "id": 76748,
   "identifier": "manga-wj974044",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101396,
   "aniId": 98370,
-  "createdAt": "2021-06-05T19:19:09.000Z",
-  "updatedAt": "2021-12-05T20:19:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harusono Syou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:43.000Z",
+    "updatedAt": "2022-05-14T18:32:47.000Z",
+    "checkedAt": "2022-05-14T18:32:47.000Z",
+    "id": 101396,
+    "type": "manga",
+    "title": "Sasaki to Miyano",
+    "altTitle": [
+      "Sasaki and Miyano",
+      "佐々木と宮野"
+    ],
+    "url": "https://myanimelist.net/manga/101396/Sasaki_to_Miyano",
+    "image": "https://cdn.myanimelist.net/images/manga/3/187122.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,25 +45,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sasaki and Miyano",
-      "佐々木と宮野"
-    ],
+    "deletedAt": null,
     "authors": [
       "Harusono, Shou"
-    ],
-    "id": 101396,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:49.763Z",
+    "updatedAt": "2022-05-15T18:51:47.000Z",
+    "checkedAt": "2022-05-15T18:51:47.000Z",
+    "id": 98370,
     "type": "manga",
     "title": "Sasaki to Miyano",
-    "url": "https://myanimelist.net/manga/101396/Sasaki_to_Miyano",
-    "image": "https://cdn.myanimelist.net/images/manga/3/187122.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:43.000Z",
-    "updatedAt": "2022-04-29T03:02:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sasaki and Miyano",
       "佐々木と宮野",
@@ -56,21 +65,15 @@
       "Sasaki i Miyano",
       "Sasaki y Miyano"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shou Harusono"
-    ],
-    "id": 98370,
-    "malId": 101396,
-    "type": "manga",
-    "title": "Sasaki to Miyano",
     "url": "https://anilist.co/manga/98370",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98370-kbWNfSGsNYzH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:52.000Z",
-    "updatedAt": "2022-05-01T15:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/101396/Sasaki_to_Miyano"
+    "externalLinks": [],
+    "malId": 101396,
+    "deletedAt": null,
+    "authors": [
+      "Shou Harusono"
+    ]
+  }
 }

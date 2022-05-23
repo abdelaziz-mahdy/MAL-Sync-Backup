@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tokumi Yuiko"
-  ],
+  "createdAt": "2020-10-12T16:07:55.000Z",
+  "updatedAt": "2021-12-04T06:22:50.000Z",
+  "checkedAt": null,
+  "id": 11642,
   "identifier": "c9bb51b3-0e97-43ff-a64a-1c16d0de5d50",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 89972,
   "aniId": 95161,
-  "createdAt": "2020-10-12T16:07:55.000Z",
-  "updatedAt": "2021-12-04T06:22:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tokumi Yuiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:01.000Z",
+    "updatedAt": "2022-05-19T08:27:45.000Z",
+    "checkedAt": "2022-05-19T08:27:45.000Z",
+    "id": 89972,
+    "type": "manga",
+    "title": "Slow Start",
+    "altTitle": [
+      "スロウスタート"
+    ],
+    "url": "https://myanimelist.net/manga/89972/Slow_Start",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157435.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スロウスタート"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tokumi, Yuiko"
-    ],
-    "id": 89972,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:16.124Z",
+    "updatedAt": "2022-05-19T08:27:43.000Z",
+    "checkedAt": "2022-05-19T08:27:43.000Z",
+    "id": 95161,
     "type": "manga",
     "title": "Slow Start",
-    "url": "https://myanimelist.net/manga/89972/Slow_Start",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157435.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:01.000Z",
-    "updatedAt": "2022-02-23T05:48:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スロウスタート"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuiko Tokumi"
-    ],
-    "id": 95161,
-    "malId": 89972,
-    "type": "manga",
-    "title": "Slow Start",
     "url": "https://anilist.co/manga/95161",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx95161-kJxHb7pdAfnt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:02.000Z",
-    "updatedAt": "2021-12-18T01:22:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/89972/Slow_Start"
+    "externalLinks": [],
+    "malId": 89972,
+    "deletedAt": null,
+    "authors": [
+      "Yuiko Tokumi"
+    ]
+  }
 }

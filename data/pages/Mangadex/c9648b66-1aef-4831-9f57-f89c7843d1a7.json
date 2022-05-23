@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takayama Shinobu"
-  ],
+  "createdAt": "2020-10-12T16:03:56.000Z",
+  "updatedAt": "2021-12-02T17:50:39.000Z",
+  "checkedAt": null,
+  "id": 3260,
   "identifier": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33493,
   "aniId": 63493,
-  "createdAt": "2020-10-12T16:03:56.000Z",
-  "updatedAt": "2021-12-02T17:50:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takayama Shinobu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:47.000Z",
+    "updatedAt": "2022-02-17T19:16:51.000Z",
+    "checkedAt": null,
+    "id": 33493,
+    "type": "manga",
+    "title": "Mr. Applicant",
+    "altTitle": [
+      "MR.APPLICANT"
+    ],
+    "url": "https://myanimelist.net/manga/33493/Mr_Applicant",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198462.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MR.APPLICANT"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takayama, Shinobu"
-    ],
-    "id": 33493,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:00.924Z",
+    "updatedAt": "2022-05-13T12:41:00.924Z",
+    "checkedAt": null,
+    "id": 63493,
     "type": "manga",
     "title": "Mr. Applicant",
-    "url": "https://myanimelist.net/manga/33493/Mr_Applicant",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198462.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:47.000Z",
-    "updatedAt": "2022-02-17T19:16:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "MR.APPLICANT"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinobu Takayama"
-    ],
-    "id": 63493,
-    "malId": 33493,
-    "type": "manga",
-    "title": "Mr. Applicant",
     "url": "https://anilist.co/manga/63493",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63493-YmwIElBfJbPZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:56.000Z",
-    "updatedAt": "2021-12-17T19:29:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33493/Mr_Applicant"
+    "externalLinks": [],
+    "malId": 33493,
+    "deletedAt": null,
+    "authors": [
+      "Shinobu Takayama"
+    ]
+  }
 }

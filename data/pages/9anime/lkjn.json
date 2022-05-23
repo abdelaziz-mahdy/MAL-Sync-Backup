@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:04.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 6028,
   "identifier": "lkjn",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34549,
   "aniId": 87539,
-  "createdAt": "2020-10-12T15:53:04.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:50.000Z",
+    "updatedAt": "2022-05-14T18:04:59.000Z",
+    "checkedAt": "2022-05-14T18:04:59.000Z",
+    "id": 34549,
+    "type": "anime",
+    "title": "Ryuu no Haisha",
+    "altTitle": [
+      "The Dragon Dentist",
+      "龍の歯医者"
+    ],
+    "url": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+    "image": "https://cdn.myanimelist.net/images/anime/13/83336.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -47,28 +63,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "The Dragon Dentist",
-      "龍の歯医者"
-    ],
-    "id": 34549,
+    "deletedAt": null,
+    "anidbId": 12359
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:17.000Z",
+    "updatedAt": "2022-05-15T10:26:11.000Z",
+    "checkedAt": "2022-05-15T10:26:11.000Z",
+    "id": 87539,
     "type": "anime",
     "title": "Ryuu no Haisha",
-    "url": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
-    "image": "https://cdn.myanimelist.net/images/anime/13/83336.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 12359,
-    "createdAt": "2020-10-12T15:39:50.000Z",
-    "updatedAt": "2022-05-03T00:02:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Dragon Dentist",
       "龍の歯医者",
       "龙的牙医"
     ],
+    "url": "https://anilist.co/anime/87539",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87539-TF4agdQizKrh.jpg",
+    "category": "special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -79,17 +92,7 @@
         "url": "https://www.crunchyroll.com/the-dragon-dentist"
       }
     ],
-    "id": 87539,
     "malId": 34549,
-    "type": "anime",
-    "title": "Ryuu no Haisha",
-    "url": "https://anilist.co/anime/87539",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87539-TF4agdQizKrh.jpg",
-    "category": "special",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:17.000Z",
-    "updatedAt": "2021-12-17T15:27:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha"
+  }
 }

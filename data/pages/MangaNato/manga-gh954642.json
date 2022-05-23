@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suzuki Dai"
-  ],
+  "createdAt": "2021-08-08T10:09:37.000Z",
+  "updatedAt": "2022-02-08T10:39:37.000Z",
+  "checkedAt": null,
+  "id": 84839,
   "identifier": "manga-gh954642",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 74379,
   "aniId": 92001,
-  "createdAt": "2021-08-08T10:09:37.000Z",
-  "updatedAt": "2022-02-08T10:39:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Dai"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2022-04-06T13:30:33.000Z",
+    "checkedAt": null,
+    "id": 74379,
+    "type": "manga",
+    "title": "Crows Ladies",
+    "altTitle": [
+      "クローズLADIES"
+    ],
+    "url": "https://myanimelist.net/manga/74379/Crows_Ladies",
+    "image": "https://cdn.myanimelist.net/images/manga/1/128975.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クローズLADIES"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Dai"
-    ],
-    "id": 74379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:17.529Z",
+    "updatedAt": "2022-05-13T12:52:17.529Z",
+    "checkedAt": null,
+    "id": 92001,
     "type": "manga",
     "title": "Crows Ladies",
-    "url": "https://myanimelist.net/manga/74379/Crows_Ladies",
-    "image": "https://cdn.myanimelist.net/images/manga/1/128975.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2022-04-06T13:30:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クローズLADIES"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dai Suzuki"
-    ],
-    "id": 92001,
-    "malId": 74379,
-    "type": "manga",
-    "title": "Crows Ladies",
     "url": "https://anilist.co/manga/92001",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92001-eO172TiW1Y9x.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:42.000Z",
-    "updatedAt": "2021-12-18T00:28:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/74379/Crows_Ladies"
+    "externalLinks": [],
+    "malId": 74379,
+    "deletedAt": null,
+    "authors": [
+      "Dai Suzuki"
+    ]
+  }
 }

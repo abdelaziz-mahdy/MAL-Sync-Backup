@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsukizuki Yoshi"
-  ],
+  "createdAt": "2020-10-12T16:16:09.000Z",
+  "updatedAt": "2021-12-06T20:18:02.000Z",
+  "checkedAt": null,
+  "id": 28495,
   "identifier": "a3f2c3a4-92ed-42e0-b380-301c135be2d5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87921,
   "aniId": 107629,
-  "createdAt": "2020-10-12T16:16:09.000Z",
-  "updatedAt": "2021-12-06T20:18:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsukizuki Yoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:56.000Z",
+    "updatedAt": "2022-04-19T13:35:57.000Z",
+    "checkedAt": null,
+    "id": 87921,
+    "type": "manga",
+    "title": "Bakemono no Ko",
+    "altTitle": [
+      "The Boy and The Beast",
+      "バケモノの子"
+    ],
+    "url": "https://myanimelist.net/manga/87921/Bakemono_no_Ko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/186224.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +41,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Boy and The Beast",
-      "バケモノの子"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hosoda, Mamoru",
       "Asai, Renji"
-    ],
-    "id": 87921,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:23.313Z",
+    "updatedAt": "2022-05-13T12:53:23.313Z",
+    "checkedAt": null,
+    "id": 107629,
     "type": "manga",
     "title": "Bakemono no Ko",
-    "url": "https://myanimelist.net/manga/87921/Bakemono_no_Ko",
-    "image": "https://cdn.myanimelist.net/images/manga/3/186224.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:56.000Z",
-    "updatedAt": "2022-04-19T13:35:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Boy and The Beast",
       "バケモノの子",
@@ -52,22 +61,16 @@
       "El Niño y la Bestia",
       "Cậu bé & Quái vật"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mamoru Hosoda",
-      "Renji Asai"
-    ],
-    "id": 107629,
-    "malId": 87921,
-    "type": "manga",
-    "title": "Bakemono no Ko",
     "url": "https://anilist.co/manga/107629",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107629-lhMWrKCOKokh.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2022-03-13T22:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87921/Bakemono_no_Ko"
+    "externalLinks": [],
+    "malId": 87921,
+    "deletedAt": null,
+    "authors": [
+      "Mamoru Hosoda",
+      "Renji Asai"
+    ]
+  }
 }

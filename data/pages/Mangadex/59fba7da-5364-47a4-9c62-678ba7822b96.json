@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "KOEI",
-    "Mizuno Toko"
-  ],
+  "createdAt": "2020-10-12T16:05:03.000Z",
+  "updatedAt": "2021-12-03T10:17:38.000Z",
+  "checkedAt": null,
+  "id": 5616,
   "identifier": "59fba7da-5364-47a4-9c62-678ba7822b96",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1146,
   "aniId": 31146,
-  "createdAt": "2020-10-12T16:05:03.000Z",
-  "updatedAt": "2021-12-03T10:17:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "KOEI",
+    "Mizuno Toko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E9%81%99%E3%81%8B%E3%81%AA%E3%82%8B%E6%99%82%E7%A9%BA%E3%81%AE%E4%B8%AD%E3%81%A7"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:30.000Z",
+    "updatedAt": "2022-05-01T00:02:23.000Z",
+    "checkedAt": null,
+    "id": 1146,
+    "type": "manga",
+    "title": "Harukanaru Toki no Naka de",
     "altTitle": [
       "Harukanaru Jikuu no Naka de",
       "From a Distant Time",
@@ -35,21 +36,29 @@
       "Haruka: Beyond the Stream of Time",
       "遙かなる時空〈とき〉の中で"
     ],
-    "authors": [
-      "Mizuno, Tooko"
-    ],
-    "id": 1146,
-    "type": "manga",
-    "title": "Harukanaru Toki no Naka de",
     "url": "https://myanimelist.net/manga/1146/Harukanaru_Toki_no_Naka_de",
     "image": "https://cdn.myanimelist.net/images/manga/1/186105.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2022-05-01T00:02:23.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%81%99%E3%81%8B%E3%81%AA%E3%82%8B%E6%99%82%E7%A9%BA%E3%81%AE%E4%B8%AD%E3%81%A7"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mizuno, Tooko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:53.490Z",
+    "updatedAt": "2022-05-13T12:58:53.490Z",
+    "checkedAt": null,
+    "id": 31146,
+    "type": "manga",
+    "title": "Harukanaru Toki no Naka de",
     "altTitle": [
       "Haruka: Beyond the Stream of Time",
       "遙かなる時空の中で",
@@ -61,21 +70,15 @@
       "Harukanaru Toki no Naka de 2",
       "Harukanaru Toki no Naka de 3"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooko Mizuno"
-    ],
-    "id": 31146,
-    "malId": 1146,
-    "type": "manga",
-    "title": "Harukanaru Toki no Naka de",
     "url": "https://anilist.co/manga/31146",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31146-GZ9mIVMVASoP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:54.000Z",
-    "updatedAt": "2021-12-17T09:42:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1146/Harukanaru_Toki_no_Naka_de"
+    "externalLinks": [],
+    "malId": 1146,
+    "deletedAt": null,
+    "authors": [
+      "Tooko Mizuno"
+    ]
+  }
 }

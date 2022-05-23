@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Shiro"
-  ],
+  "createdAt": "2020-10-12T16:06:02.000Z",
+  "updatedAt": "2021-12-03T16:51:19.000Z",
+  "checkedAt": null,
+  "id": 7618,
   "identifier": "7c3abdf7-902e-4cf6-8037-26eac2d606a8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1305,
   "aniId": 31305,
-  "createdAt": "2020-10-12T16:06:02.000Z",
-  "updatedAt": "2021-12-03T16:51:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Shiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-05-13T21:35:56.000Z",
+    "checkedAt": "2022-05-13T21:35:56.000Z",
+    "id": 1305,
+    "type": "manga",
+    "title": "Seiken Densetsu: Legend of Mana",
+    "altTitle": [
+      "聖剣伝説レジェンドオブマナ"
+    ],
+    "url": "https://myanimelist.net/manga/1305/Seiken_Densetsu__Legend_of_Mana",
+    "image": "https://cdn.myanimelist.net/images/manga/3/5612.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "聖剣伝説レジェンドオブマナ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Shiro"
-    ],
-    "id": 1305,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:55.329Z",
+    "updatedAt": "2022-05-13T12:48:55.329Z",
+    "checkedAt": null,
+    "id": 31305,
     "type": "manga",
     "title": "Seiken Densetsu: Legend of Mana",
-    "url": "https://myanimelist.net/manga/1305/Seiken_Densetsu__Legend_of_Mana",
-    "image": "https://cdn.myanimelist.net/images/manga/3/5612.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-04-26T22:00:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "聖剣伝説レジェンドオブマナ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shiro Amano"
-    ],
-    "id": 31305,
-    "malId": 1305,
-    "type": "manga",
-    "title": "Seiken Densetsu: Legend of Mana",
     "url": "https://anilist.co/manga/31305",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1305.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2021-12-17T10:04:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1305/Seiken_Densetsu__Legend_of_Mana"
+    "externalLinks": [],
+    "malId": 1305,
+    "deletedAt": null,
+    "authors": [
+      "Shiro Amano"
+    ]
+  }
 }

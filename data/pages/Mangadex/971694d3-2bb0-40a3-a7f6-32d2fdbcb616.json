@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "태선",
-    "제브"
-  ],
+  "createdAt": "2020-10-12T16:16:20.000Z",
+  "updatedAt": "2021-12-07T07:51:34.000Z",
+  "checkedAt": null,
+  "id": 28876,
   "identifier": "971694d3-2bb0-40a3-a7f6-32d2fdbcb616",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 111100,
-  "createdAt": "2020-10-12T16:16:20.000Z",
-  "updatedAt": "2021-12-07T07:51:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "태선",
+    "제브"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:18.731Z",
+    "updatedAt": "2022-05-13T13:06:18.731Z",
+    "checkedAt": null,
+    "id": 111100,
+    "type": "manga",
+    "title": "Sinsuui Juin",
     "altTitle": [
       "신수의 주인",
       "Fortune Master  ",
       "Master of the Divine Beasts"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tae-sun",
-      "Zev"
-    ],
-    "id": 111100,
-    "malId": null,
-    "type": "manga",
-    "title": "Sinsuui Juin",
     "url": "https://anilist.co/manga/111100",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111100-CWdb1si103QA.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T21:49:51.000Z",
-    "updatedAt": "2021-12-21T14:55:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Tae-sun",
+      "Zev"
+    ]
+  }
 }

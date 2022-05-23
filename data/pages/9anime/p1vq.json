@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:27.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7799,
   "identifier": "p1vq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32878,
   "aniId": 21677,
-  "createdAt": "2020-10-12T15:54:27.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:43.000Z",
+    "updatedAt": "2022-05-14T21:13:17.000Z",
+    "checkedAt": "2022-05-14T21:13:17.000Z",
+    "id": 32878,
+    "type": "anime",
+    "title": "ēlDLIVE",
+    "altTitle": [
+      "elDLIVE",
+      "エルドライブ 【ēlDLIVE】"
+    ],
+    "url": "https://myanimelist.net/anime/32878/ēlDLIVE",
+    "image": "https://cdn.myanimelist.net/images/anime/8/82348.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,27 +59,24 @@
         "url": "https://www.funimation.com/shows/eldlive"
       }
     ],
-    "altTitle": [
-      "elDLIVE",
-      "エルドライブ 【ēlDLIVE】"
-    ],
-    "id": 32878,
+    "deletedAt": null,
+    "anidbId": 11970
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:03.000Z",
+    "updatedAt": "2022-05-15T10:46:35.000Z",
+    "checkedAt": "2022-05-15T10:46:35.000Z",
+    "id": 21677,
     "type": "anime",
     "title": "ēlDLIVE",
-    "url": "https://myanimelist.net/anime/32878/ēlDLIVE",
-    "image": "https://cdn.myanimelist.net/images/anime/8/82348.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11970,
-    "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2022-03-14T20:29:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "elDLIVE",
       "エルドライブ 【ēlDLIVE】"
     ],
+    "url": "https://anilist.co/anime/21677",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21677-jVe7bGD1x1dJ.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -78,17 +91,7 @@
         "url": "https://vrv.co/series/GYP83KPJY/elDLIVE"
       }
     ],
-    "id": 21677,
     "malId": 32878,
-    "type": "anime",
-    "title": "ēlDLIVE",
-    "url": "https://anilist.co/anime/21677",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21677-jVe7bGD1x1dJ.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:03.000Z",
-    "updatedAt": "2022-01-11T10:11:39.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32878/ēlDLIVE"
+  }
 }

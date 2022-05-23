@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ishinomori",
-    "Shotaro"
-  ],
+  "createdAt": "2022-03-02T08:11:53.000Z",
+  "updatedAt": "2022-03-02T08:40:28.000Z",
+  "checkedAt": null,
+  "id": 97010,
   "identifier": "manga-cm954169",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22897,
   "aniId": 52897,
-  "createdAt": "2022-03-02T08:11:53.000Z",
-  "updatedAt": "2022-03-02T08:40:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishinomori",
+    "Shotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:07.000Z",
+    "updatedAt": "2022-05-20T02:52:56.000Z",
+    "checkedAt": "2022-05-20T02:52:56.000Z",
+    "id": 22897,
+    "type": "manga",
+    "title": "Gilgamesh",
+    "altTitle": [
+      "ギルガメッシュ"
+    ],
+    "url": "https://myanimelist.net/manga/22897/Gilgamesh",
+    "image": "https://cdn.myanimelist.net/images/manga/1/37075.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ギルガメッシュ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou"
-    ],
-    "id": 22897,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:08.829Z",
+    "updatedAt": "2022-05-20T02:52:54.000Z",
+    "checkedAt": "2022-05-20T02:52:54.000Z",
+    "id": 52897,
     "type": "manga",
     "title": "Gilgamesh",
-    "url": "https://myanimelist.net/manga/22897/Gilgamesh",
-    "image": "https://cdn.myanimelist.net/images/manga/1/37075.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:07.000Z",
-    "updatedAt": "2022-03-02T08:12:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ギルガメッシュ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoutarou Ishinomori"
-    ],
-    "id": 52897,
-    "malId": 22897,
-    "type": "manga",
-    "title": "Gilgamesh",
     "url": "https://anilist.co/manga/52897",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22897.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:34.000Z",
-    "updatedAt": "2021-12-17T18:03:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22897/Gilgamesh"
+    "externalLinks": [],
+    "malId": 22897,
+    "deletedAt": null,
+    "authors": [
+      "Shoutarou Ishinomori"
+    ]
+  }
 }

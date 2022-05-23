@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:34.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5372,
   "identifier": "k879",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 330,
   "aniId": 330,
-  "createdAt": "2020-10-12T15:52:34.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-14T16:39:02.000Z",
+    "checkedAt": "2022-05-14T16:39:02.000Z",
+    "id": 330,
+    "type": "anime",
+    "title": "Midori no Hibi",
+    "altTitle": [
+      "My Days With Midori",
+      "Midori Days",
+      "美鳥の日々"
+    ],
+    "url": "https://myanimelist.net/anime/330/Midori_no_Hibi",
+    "image": "https://cdn.myanimelist.net/images/anime/13/56961.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Days With Midori",
-      "Midori Days",
-      "美鳥の日々"
-    ],
+    "deletedAt": null,
+    "anidbId": 1327
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-15T11:34:35.000Z",
+    "checkedAt": "2022-05-15T11:34:35.000Z",
     "id": 330,
     "type": "anime",
     "title": "Midori no Hibi",
-    "url": "https://myanimelist.net/anime/330/Midori_no_Hibi",
-    "image": "https://cdn.myanimelist.net/images/anime/13/56961.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1327,
-    "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2022-04-14T05:32:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Midori Days",
       "美鳥の日々",
       "My Days With Midori"
     ],
-    "externalLinks": [],
-    "id": 330,
-    "malId": 330,
-    "type": "anime",
-    "title": "Midori no Hibi",
     "url": "https://anilist.co/anime/330",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx330-iGtLhouVrApP.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:37.000Z",
-    "updatedAt": "2021-12-17T08:25:26.000Z",
+    "externalLinks": [],
+    "malId": 330,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/330/Midori_no_Hibi"
+  }
 }

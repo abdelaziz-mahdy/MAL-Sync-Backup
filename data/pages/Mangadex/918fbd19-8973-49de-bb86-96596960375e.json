@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hanamura Yaso"
-  ],
+  "createdAt": "2020-10-12T16:14:46.000Z",
+  "updatedAt": "2021-12-06T08:18:12.000Z",
+  "checkedAt": null,
+  "id": 25631,
   "identifier": "918fbd19-8973-49de-bb86-96596960375e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99347,
   "aniId": 103245,
-  "createdAt": "2020-10-12T16:14:46.000Z",
-  "updatedAt": "2021-12-06T08:18:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanamura Yaso"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:32.000Z",
+    "updatedAt": "2022-05-15T16:15:48.000Z",
+    "checkedAt": "2022-05-15T16:15:48.000Z",
+    "id": 99347,
+    "type": "manga",
+    "title": "Animeta!",
+    "altTitle": [
+      "Animator!",
+      "Animeta!",
+      "アニメタ!"
+    ],
+    "url": "https://myanimelist.net/manga/99347/Animeta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179107.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Animator!",
-      "アニメタ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanamura, Yaso"
-    ],
-    "id": 99347,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:30.417Z",
+    "updatedAt": "2022-05-15T19:33:47.000Z",
+    "checkedAt": "2022-05-15T19:33:47.000Z",
+    "id": 103245,
     "type": "manga",
     "title": "Animeta!",
-    "url": "https://myanimelist.net/manga/99347/Animeta",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179107.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:32.000Z",
-    "updatedAt": "2022-01-28T19:51:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Animeta!",
       "アニメタ!",
       "Animator!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yaso Hanamura",
-      "Kai Kyou",
-      "T. Emerson"
-    ],
-    "id": 103245,
-    "malId": 99347,
-    "type": "manga",
-    "title": "Animeta!",
     "url": "https://anilist.co/manga/103245",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103245-1dqhQ6N43sFd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:41.000Z",
-    "updatedAt": "2021-12-18T04:28:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99347/Animeta"
+    "externalLinks": [],
+    "malId": 99347,
+    "deletedAt": null,
+    "authors": [
+      "Yaso Hanamura",
+      "Kai Kyou",
+      "T. Emerson"
+    ]
+  }
 }

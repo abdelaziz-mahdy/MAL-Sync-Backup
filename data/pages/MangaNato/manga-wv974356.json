@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kobashiko"
-  ],
+  "createdAt": "2021-06-29T10:14:03.000Z",
+  "updatedAt": "2021-12-29T10:32:50.000Z",
+  "checkedAt": null,
+  "id": 80379,
   "identifier": "manga-wv974356",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98035,
   "aniId": 97128,
-  "createdAt": "2021-06-29T10:14:03.000Z",
-  "updatedAt": "2021-12-29T10:32:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kobashiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:29.000Z",
+    "updatedAt": "2022-05-15T20:51:41.000Z",
+    "checkedAt": "2022-05-15T20:51:41.000Z",
+    "id": 98035,
+    "type": "manga",
+    "title": "Kabe ni Mary.com",
+    "altTitle": [
+      "Kabe ni Merikomu",
+      "壁にメリー.com"
+    ],
+    "url": "https://myanimelist.net/manga/98035/Kabe_ni_Marycom",
+    "image": "https://cdn.myanimelist.net/images/manga/3/175571.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kabe ni Merikomu",
-      "壁にメリー.com"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kobashiko"
-    ],
-    "id": 98035,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:55.732Z",
+    "updatedAt": "2022-05-15T21:49:47.000Z",
+    "checkedAt": "2022-05-15T21:49:47.000Z",
+    "id": 97128,
     "type": "manga",
     "title": "Kabe ni Mary.com",
-    "url": "https://myanimelist.net/manga/98035/Kabe_ni_Marycom",
-    "image": "https://cdn.myanimelist.net/images/manga/3/175571.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:29.000Z",
-    "updatedAt": "2021-12-29T10:30:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "壁にメリー.com",
       "Kabe ni Merikomu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kobashiko"
-    ],
-    "id": 97128,
-    "malId": 98035,
-    "type": "manga",
-    "title": "Kabe ni Mary.com",
     "url": "https://anilist.co/manga/97128",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97128-g0EVewxqJdZp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:10.000Z",
-    "updatedAt": "2021-12-18T01:56:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98035/Kabe_ni_Marycom"
+    "externalLinks": [],
+    "malId": 98035,
+    "deletedAt": null,
+    "authors": [
+      "Kobashiko"
+    ]
+  }
 }

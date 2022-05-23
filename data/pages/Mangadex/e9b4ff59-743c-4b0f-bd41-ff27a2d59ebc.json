@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kimura Shinichi",
-    "Sacchi"
-  ],
+  "createdAt": "2020-10-12T16:02:26.000Z",
+  "updatedAt": "2021-12-02T07:16:28.000Z",
+  "checkedAt": null,
+  "id": 116,
   "identifier": "e9b4ff59-743c-4b0f-bd41-ff27a2d59ebc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21410,
   "aniId": 51410,
-  "createdAt": "2020-10-12T16:02:26.000Z",
-  "updatedAt": "2021-12-02T07:16:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kimura Shinichi",
+    "Sacchi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BE%E3%83%B3%E3%83%93%E3%81%A7%E3%81%99%E3%81%8B%3F"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:57.000Z",
+    "updatedAt": "2022-05-22T04:45:19.000Z",
+    "checkedAt": "2022-05-22T04:45:19.000Z",
+    "id": 21410,
+    "type": "manga",
+    "title": "Kore wa Zombie desu ka?",
     "altTitle": [
       "Kore wa Zonbi desu ka?",
       "Kore wa Zombie desuka?",
@@ -33,47 +34,49 @@
       "Is this a Zombie?",
       "これはゾンビですか?"
     ],
-    "authors": [
-      "Sacchi",
-      "Kimura, Shinichi"
-    ],
-    "id": 21410,
-    "type": "manga",
-    "title": "Kore wa Zombie desu ka?",
     "url": "https://myanimelist.net/manga/21410/Kore_wa_Zombie_desu_ka",
     "image": "https://cdn.myanimelist.net/images/manga/2/132833.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2021-12-30T00:24:19.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BE%E3%83%B3%E3%83%93%E3%81%A7%E3%81%99%E3%81%8B%3F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sacchi",
+      "Kimura, Shinichi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:35.045Z",
+    "updatedAt": "2022-05-22T04:45:10.000Z",
+    "checkedAt": "2022-05-22T04:45:10.000Z",
+    "id": 51410,
+    "type": "manga",
+    "title": "Kore wa Zombie desu ka?",
     "altTitle": [
       "Is This a Zombie?",
       "これはゾンビですか?",
       "Kore wa Zonbi desu ka?",
       "Kore wa Zonbi desuka?"
     ],
+    "url": "https://anilist.co/manga/51410",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51410-X0eo4ZP0VHAg.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 21410,
+    "deletedAt": null,
     "authors": [
       "Sacchi",
       "Shinichi Kimura",
       "Kobuichi",
       "Christine Dashiell",
       "Muririn"
-    ],
-    "id": 51410,
-    "malId": 21410,
-    "type": "manga",
-    "title": "Kore wa Zombie desu ka?",
-    "url": "https://anilist.co/manga/51410",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51410-X0eo4ZP0VHAg.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:42.000Z",
-    "updatedAt": "2021-12-17T17:38:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21410/Kore_wa_Zombie_desu_ka"
+    ]
+  }
 }

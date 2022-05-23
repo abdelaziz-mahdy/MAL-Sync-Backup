@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nisio Isin"
-  ],
+  "createdAt": "2021-09-01T23:17:07.000Z",
+  "updatedAt": "2022-03-02T00:10:28.000Z",
+  "checkedAt": null,
+  "id": 86595,
   "identifier": "manga-ub961184",
   "type": "manga",
   "page": "MangaNato",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88354,
   "aniId": 94659,
-  "createdAt": "2021-09-01T23:17:07.000Z",
-  "updatedAt": "2022-03-02T00:10:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nisio Isin"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:57.000Z",
+    "updatedAt": "2022-05-23T20:36:21.000Z",
+    "checkedAt": "2022-05-23T20:36:21.000Z",
+    "id": 88354,
+    "type": "manga",
+    "title": "Oogiri",
     "altTitle": [
       "Musume-iri Hako",
       "RKD-EK9",
@@ -33,6 +39,13 @@
       "Tomodachi In",
       "大斬―オオギリ― 西尾維新原作読切集"
     ],
+    "url": "https://myanimelist.net/manga/88354/Oogiri",
+    "image": "https://cdn.myanimelist.net/images/manga/1/153917.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Obata, Takeshi",
       "Kawashita, Mizuki",
@@ -44,24 +57,26 @@
       "Akatsuki, Akira",
       "Yamakawa, Aiji",
       "Nakayama, Atsushi"
-    ],
-    "id": 88354,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:10.853Z",
+    "updatedAt": "2022-05-23T20:36:20.000Z",
+    "checkedAt": "2022-05-23T20:36:20.000Z",
+    "id": 94659,
     "type": "manga",
     "title": "Oogiri",
-    "url": "https://myanimelist.net/manga/88354/Oogiri",
-    "image": "https://cdn.myanimelist.net/images/manga/1/153917.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:57.000Z",
-    "updatedAt": "2022-03-01T23:40:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "大斬―オオギリ―",
       "大斬―オオギリ― 西尾維新原作読切集"
     ],
+    "url": "https://anilist.co/manga/94659",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94659-QhMoV5n2pM7w.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 88354,
+    "deletedAt": null,
     "authors": [
       "NISIOISIN",
       "Akira Akatsuki",
@@ -73,18 +88,6 @@
       "Hikaru Nakamura",
       "Mizuki Kawashita",
       "Renjuro Kindaichi"
-    ],
-    "id": 94659,
-    "malId": 88354,
-    "type": "manga",
-    "title": "Oogiri",
-    "url": "https://anilist.co/manga/94659",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94659-QhMoV5n2pM7w.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:54.000Z",
-    "updatedAt": "2021-12-18T01:03:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88354/Oogiri"
+    ]
+  }
 }

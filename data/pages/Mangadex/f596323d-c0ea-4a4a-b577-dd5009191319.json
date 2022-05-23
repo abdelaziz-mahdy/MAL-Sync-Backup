@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Moriyama Ena",
-    "Alexandre Dumas"
-  ],
+  "createdAt": "2020-10-12T16:19:36.000Z",
+  "updatedAt": "2021-12-07T22:36:31.000Z",
+  "checkedAt": null,
+  "id": 35513,
   "identifier": "f596323d-c0ea-4a4a-b577-dd5009191319",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4519,
   "aniId": 34519,
-  "createdAt": "2020-10-12T16:19:36.000Z",
-  "updatedAt": "2021-12-07T22:36:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Moriyama Ena",
+    "Alexandre Dumas"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:00.000Z",
+    "updatedAt": "2022-05-15T22:19:26.000Z",
+    "checkedAt": "2022-05-15T22:19:26.000Z",
+    "id": 4519,
+    "type": "manga",
+    "title": "Gankutsuou",
+    "altTitle": [
+      "Le Comte de Monte Cristo",
+      "Gankutsuou: The Count of Monte Cristo",
+      "巌窟王"
+    ],
+    "url": "https://myanimelist.net/manga/4519/Gankutsuou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/138607.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,52 +43,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Le Comte de Monte Cristo",
-      "Gankutsuou: The Count of Monte Cristo",
-      "巌窟王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gonzo",
       "Maeda, Mahiro",
       "Dumas, Alexandre",
       "Ariwara, Yura"
-    ],
-    "id": 4519,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:01.094Z",
+    "updatedAt": "2022-05-15T22:32:11.000Z",
+    "checkedAt": "2022-05-15T22:32:11.000Z",
+    "id": 34519,
     "type": "manga",
     "title": "Gankutsuou",
-    "url": "https://myanimelist.net/manga/4519/Gankutsuou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/138607.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:00.000Z",
-    "updatedAt": "2022-03-26T15:57:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Count of Monte Cristo",
       "巌窟王",
       "Le Comte de Monte Cristo",
       "Le Comte de Monte-Cristo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mahiro Maeda",
-      "Kotarou Mori",
-      "Alexandre Dumas"
-    ],
-    "id": 34519,
-    "malId": 4519,
-    "type": "manga",
-    "title": "Gankutsuou",
     "url": "https://anilist.co/manga/34519",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34519-rbjyBK2mRIPk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:32.000Z",
-    "updatedAt": "2021-12-17T12:06:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4519/Gankutsuou"
+    "externalLinks": [],
+    "malId": 4519,
+    "deletedAt": null,
+    "authors": [
+      "Mahiro Maeda",
+      "Kotarou Mori",
+      "Alexandre Dumas"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Natsume Yoshinori"
-  ],
+  "createdAt": "2020-10-12T16:11:11.000Z",
+  "updatedAt": "2021-12-05T06:49:20.000Z",
+  "checkedAt": null,
+  "id": 18755,
   "identifier": "10930fe6-9cb0-4629-a0fb-cf9c231a67c3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111083,
   "aniId": 102204,
-  "createdAt": "2020-10-12T16:11:11.000Z",
-  "updatedAt": "2021-12-05T06:49:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Natsume Yoshinori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-04-07T07:00:24.000Z",
+    "checkedAt": null,
+    "id": 111083,
+    "type": "manga",
+    "title": "B-Trash!!",
+    "altTitle": [
+      "B-TRASH!!"
+    ],
+    "url": "https://myanimelist.net/manga/111083/B-Trash",
+    "image": "https://cdn.myanimelist.net/images/manga/1/210329.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "B-TRASH!!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Natsume, Yoshinori"
-    ],
-    "id": 111083,
-    "type": "manga",
-    "title": "B-Trash!!",
-    "url": "https://myanimelist.net/manga/111083/B-Trash",
-    "image": "https://cdn.myanimelist.net/images/manga/1/210329.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2022-04-07T07:00:24.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:54.468Z",
+    "updatedAt": "2022-05-13T12:46:54.468Z",
+    "checkedAt": null,
+    "id": 102204,
+    "type": "manga",
+    "title": "B-TRASH!!",
     "altTitle": [
       "B-TRASH!!",
       "ビートラッシュ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshinori Natsume"
-    ],
-    "id": 102204,
-    "malId": 111083,
-    "type": "manga",
-    "title": "B-TRASH!!",
     "url": "https://anilist.co/manga/102204",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102204-regATu2ARO1i.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:18.000Z",
-    "updatedAt": "2021-12-18T04:20:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111083/B-Trash"
+    "externalLinks": [],
+    "malId": 111083,
+    "deletedAt": null,
+    "authors": [
+      "Yoshinori Natsume"
+    ]
+  }
 }

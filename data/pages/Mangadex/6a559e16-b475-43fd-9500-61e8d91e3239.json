@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanaka Yasuki"
-  ],
+  "createdAt": "2020-10-12T16:05:38.000Z",
+  "updatedAt": "2021-12-03T14:19:29.000Z",
+  "checkedAt": null,
+  "id": 6810,
   "identifier": "6a559e16-b475-43fd-9500-61e8d91e3239",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 588,
   "aniId": 30588,
-  "createdAt": "2020-10-12T16:05:38.000Z",
-  "updatedAt": "2021-12-03T14:19:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanaka Yasuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-16T23:04:56.000Z",
+    "checkedAt": "2022-05-16T23:04:56.000Z",
+    "id": 588,
+    "type": "manga",
+    "title": "Hitomi no Catoblepas",
+    "altTitle": [
+      "瞳のカトブレパス"
+    ],
+    "url": "https://myanimelist.net/manga/588/Hitomi_no_Catoblepas",
+    "image": "https://cdn.myanimelist.net/images/manga/1/255334.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "瞳のカトブレパス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Yasunori"
-    ],
-    "id": 588,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:42.756Z",
+    "updatedAt": "2022-05-16T23:04:55.000Z",
+    "checkedAt": "2022-05-16T23:04:55.000Z",
+    "id": 30588,
     "type": "manga",
     "title": "Hitomi no Catoblepas",
-    "url": "https://myanimelist.net/manga/588/Hitomi_no_Catoblepas",
-    "image": "https://cdn.myanimelist.net/images/manga/1/255334.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-26T09:00:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "瞳のカトブレパス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasuki Tanaka"
-    ],
-    "id": 30588,
-    "malId": 588,
-    "type": "manga",
-    "title": "Hitomi no Catoblepas",
     "url": "https://anilist.co/manga/30588",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30588-S6HRL5T9Dn4G.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2022-03-13T02:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/588/Hitomi_no_Catoblepas"
+    "externalLinks": [],
+    "malId": 588,
+    "deletedAt": null,
+    "authors": [
+      "Yasuki Tanaka"
+    ]
+  }
 }

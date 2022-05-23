@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "운(雲)",
-    "배민기"
-  ],
+  "createdAt": "2020-10-23T01:28:50.000Z",
+  "updatedAt": "2021-12-08T07:12:50.000Z",
+  "checkedAt": null,
+  "id": 50413,
   "identifier": "e9c6ba84-e78a-4fa5-99f8-087ab6d31a7d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 122082,
-  "createdAt": "2020-10-23T01:28:50.000Z",
-  "updatedAt": "2021-12-08T07:12:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "운(雲)",
+    "배민기"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:03.640Z",
+    "updatedAt": "2022-05-15T19:02:35.000Z",
+    "checkedAt": "2022-05-15T19:02:35.000Z",
+    "id": 122082,
+    "type": "manga",
+    "title": "Musa Mallihaeng",
     "altTitle": [
       "무사만리행",
       "Musamanlihaeng",
@@ -27,22 +35,16 @@
       "Dolgii Put Viona",
       "Musa Manrihaeng"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mingi Bae",
-      "Un"
-    ],
-    "id": 122082,
-    "malId": null,
-    "type": "manga",
-    "title": "Musa Mallihaeng",
     "url": "https://anilist.co/manga/122082",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122082-8E814vgaKiDH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T05:52:30.000Z",
-    "updatedAt": "2022-04-07T12:01:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Mingi Bae",
+      "Un"
+    ]
+  }
 }

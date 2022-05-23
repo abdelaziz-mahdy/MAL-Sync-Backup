@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ubakata Tou",
-    "Itou Mami"
-  ],
+  "createdAt": "2020-10-12T16:08:25.000Z",
+  "updatedAt": "2021-12-04T10:20:28.000Z",
+  "checkedAt": null,
+  "id": 12764,
   "identifier": "2964c73a-5ab4-4517-80b7-86bc2872e3ed",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2111,
   "aniId": 32111,
-  "createdAt": "2020-10-12T16:08:25.000Z",
-  "updatedAt": "2021-12-04T10:20:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ubakata Tou",
+    "Itou Mami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:41.000Z",
+    "updatedAt": "2021-12-07T05:17:03.000Z",
+    "checkedAt": null,
+    "id": 2111,
+    "type": "manga",
+    "title": "Pilgrim Jager",
+    "altTitle": [
+      "Pilgrim Jäger",
+      "Pilgrim J",
+      "Pilgrim Joger",
+      "ピルグリム・イェーガー"
+    ],
+    "url": "https://myanimelist.net/manga/2111/Pilgrim_Jager",
+    "image": "https://cdn.myanimelist.net/images/manga/3/9102.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pilgrim Jäger",
-      "Pilgrim J",
-      "Pilgrim Joger",
-      "ピルグリム・イェーガー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ubukata, Tow",
       "Itoh, Mami"
-    ],
-    "id": 2111,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:32.939Z",
+    "updatedAt": "2022-05-13T12:53:32.939Z",
+    "checkedAt": null,
+    "id": 32111,
     "type": "manga",
     "title": "Pilgrim Jager",
-    "url": "https://myanimelist.net/manga/2111/Pilgrim_Jager",
-    "image": "https://cdn.myanimelist.net/images/manga/3/9102.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:41.000Z",
-    "updatedAt": "2021-12-07T05:17:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Pilgrim Jäger",
       "ピルグリム・イェーガー",
       "Pilgrim J",
       "Pilgrim Joger"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tow Ubukata",
-      "Mami Itoh"
-    ],
-    "id": 32111,
-    "malId": 2111,
-    "type": "manga",
-    "title": "Pilgrim Jager",
     "url": "https://anilist.co/manga/32111",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32111-jyD5OtWgZ0is.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:03.000Z",
-    "updatedAt": "2021-12-17T10:35:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2111/Pilgrim_Jager"
+    "externalLinks": [],
+    "malId": 2111,
+    "deletedAt": null,
+    "authors": [
+      "Tow Ubukata",
+      "Mami Itoh"
+    ]
+  }
 }

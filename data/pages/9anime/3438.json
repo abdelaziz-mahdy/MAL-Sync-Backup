@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:30.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 100,
   "identifier": "3438",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11661,
   "aniId": 11661,
-  "createdAt": "2020-10-12T15:48:30.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:09.000Z",
+    "updatedAt": "2022-05-15T01:38:18.000Z",
+    "checkedAt": "2022-05-15T01:38:18.000Z",
+    "id": 11661,
+    "type": "anime",
+    "title": "Robo to Shoujo (Kari)",
+    "altTitle": [
+      "100-Second Cinema Robo to Shoujo (Kari)",
+      "100 Byou Cinema: Robo to Shoujo (Kari)",
+      "Bomahead",
+      "ロボと少女（仮）"
+    ],
+    "url": "https://myanimelist.net/anime/11661/Robo_to_Shoujo_Kari",
+    "image": "https://cdn.myanimelist.net/images/anime/3/34269.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,43 +44,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "100-Second Cinema Robo to Shoujo (Kari)",
-      "100 Byou Cinema: Robo to Shoujo (Kari)",
-      "Bomahead",
-      "ロボと少女（仮）"
-    ],
+    "deletedAt": null,
+    "anidbId": 8766
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:07.000Z",
+    "updatedAt": "2022-05-15T19:36:23.000Z",
+    "checkedAt": "2022-05-15T19:36:23.000Z",
     "id": 11661,
     "type": "anime",
     "title": "Robo to Shoujo (Kari)",
-    "url": "https://myanimelist.net/anime/11661/Robo_to_Shoujo_Kari",
-    "image": "https://cdn.myanimelist.net/images/anime/3/34269.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 8766,
-    "createdAt": "2020-10-12T15:39:09.000Z",
-    "updatedAt": "2022-04-02T11:31:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロボと少女（仮）",
       "100-Second Cinema Robo to Shoujo (Kari)",
       "100 Byou Cinema: Robo to Shoujo (Kari)",
       "Bomahead"
     ],
-    "externalLinks": [],
-    "id": 11661,
-    "malId": 11661,
-    "type": "anime",
-    "title": "Robo to Shoujo (Kari)",
     "url": "https://anilist.co/anime/11661",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11661.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:07.000Z",
-    "updatedAt": "2021-12-17T13:24:01.000Z",
+    "externalLinks": [],
+    "malId": 11661,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/11661/Robo_to_Shoujo_Kari"
+  }
 }

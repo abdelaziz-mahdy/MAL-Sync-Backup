@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kitoh Mohiro"
-  ],
+  "createdAt": "2020-10-12T16:11:12.000Z",
+  "updatedAt": "2021-12-05T09:23:21.000Z",
+  "checkedAt": null,
+  "id": 18795,
   "identifier": "ad1cd3ef-ec52-4cde-8595-a036af482099",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103799,
   "aniId": 107180,
-  "createdAt": "2020-10-12T16:11:12.000Z",
-  "updatedAt": "2021-12-05T09:23:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kitoh Mohiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:51.000Z",
+    "updatedAt": "2021-12-05T07:16:38.000Z",
+    "checkedAt": null,
+    "id": 103799,
+    "type": "manga",
+    "title": "Hayabusa-chan mo Tondemasu",
+    "altTitle": [
+      "Hayabusa-chan is Also Flying",
+      "隼ちゃんもとんでます"
+    ],
+    "url": "https://myanimelist.net/manga/103799/Hayabusa-chan_mo_Tondemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/190065.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hayabusa-chan is Also Flying",
-      "隼ちゃんもとんでます"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitoh, Mohiro"
-    ],
-    "id": 103799,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:05.463Z",
+    "updatedAt": "2022-05-13T12:59:05.463Z",
+    "checkedAt": null,
+    "id": 107180,
     "type": "manga",
     "title": "Hayabusa-chan mo Tondemasu",
-    "url": "https://myanimelist.net/manga/103799/Hayabusa-chan_mo_Tondemasu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/190065.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:51.000Z",
-    "updatedAt": "2021-12-05T07:16:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "隼ちゃんもとんでます"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mohiro Kitou"
-    ],
-    "id": 107180,
-    "malId": 103799,
-    "type": "manga",
-    "title": "Hayabusa-chan mo Tondemasu",
     "url": "https://anilist.co/manga/107180",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107180-xftGBKKzh4gL.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T06:50:18.000Z",
-    "updatedAt": "2021-12-18T05:50:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103799/Hayabusa-chan_mo_Tondemasu"
+    "externalLinks": [],
+    "malId": 103799,
+    "deletedAt": null,
+    "authors": [
+      "Mohiro Kitou"
+    ]
+  }
 }

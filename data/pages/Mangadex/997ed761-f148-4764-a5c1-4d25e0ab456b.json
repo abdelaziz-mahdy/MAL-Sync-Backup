@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lee Halin",
-    "Jiya"
-  ],
+  "createdAt": "2021-06-07T20:04:28.000Z",
+  "updatedAt": "2022-01-14T22:12:16.000Z",
+  "checkedAt": null,
+  "id": 77113,
   "identifier": "997ed761-f148-4764-a5c1-4d25e0ab456b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 131366,
-  "createdAt": "2021-06-07T20:04:28.000Z",
-  "updatedAt": "2022-01-14T22:12:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Halin",
+    "Jiya"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:28.061Z",
+    "updatedAt": "2022-05-13T15:24:32.000Z",
+    "checkedAt": "2022-05-13T15:24:32.000Z",
+    "id": 131366,
+    "type": "manga",
+    "title": "Doraon Yeogisa",
     "altTitle": [
       "The Return of Elena the Knight",
       "돌아온 여기사",
@@ -27,22 +35,16 @@
       "ROTFK",
       "This Company Returned"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ha-Rin Lee",
-      "Chen-Yong"
-    ],
-    "id": 131366,
-    "malId": null,
-    "type": "manga",
-    "title": "Doraon Yeogisa",
     "url": "https://anilist.co/manga/131366",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131366-TP1tWDaEOPoD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T21:08:18.000Z",
-    "updatedAt": "2022-04-14T23:30:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ha-Rin Lee",
+      "Chen-Yong"
+    ]
+  }
 }

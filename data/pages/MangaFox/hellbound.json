@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yeon Sang-ho"
-  ],
+  "createdAt": "2021-12-05T13:46:10.000Z",
+  "updatedAt": "2022-04-25T20:00:27.000Z",
+  "checkedAt": null,
+  "id": 92500,
   "identifier": "hellbound",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140567,
   "aniId": 129523,
-  "createdAt": "2021-12-05T13:46:10.000Z",
-  "updatedAt": "2022-04-25T20:00:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yeon Sang-ho"
+  ],
   "Mal": {
+    "createdAt": "2021-12-01T11:07:20.000Z",
+    "updatedAt": "2022-05-17T12:39:23.000Z",
+    "checkedAt": "2022-05-17T12:39:23.000Z",
+    "id": 140567,
+    "type": "manga",
+    "title": "The Hellbound",
+    "altTitle": [
+      "Jiok",
+      "Hell",
+      "The Hellbound",
+      "지옥"
+    ],
+    "url": "https://myanimelist.net/manga/140567/The_Hellbound",
+    "image": "https://cdn.myanimelist.net/images/manga/2/252637.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,28 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jiok",
-      "Hell",
-      "The Hellbound",
-      "지옥"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yeon, Sang-ho",
       "Choi, Gyu-seok"
-    ],
-    "id": 140567,
-    "type": "manga",
-    "title": "The Hellbound",
-    "url": "https://myanimelist.net/manga/140567/The_Hellbound",
-    "image": "https://cdn.myanimelist.net/images/manga/2/252637.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-12-01T11:07:20.000Z",
-    "updatedAt": "2022-04-23T20:31:56.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:33.023Z",
+    "updatedAt": "2022-05-17T12:39:22.000Z",
+    "checkedAt": "2022-05-17T12:39:22.000Z",
+    "id": 129523,
+    "type": "manga",
+    "title": "Jiok",
     "altTitle": [
       "Hellbound",
       "지옥",
@@ -54,22 +63,16 @@
       "The Hell Bound",
       "Rumbo al infierno"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sang-Ho Yeon",
-      "Gyu-Seok Choi"
-    ],
-    "id": 129523,
-    "malId": 140567,
-    "type": "manga",
-    "title": "Jiok",
     "url": "https://anilist.co/manga/129523",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129523-hGVhokAs5GOu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-11-16T14:27:02.000Z",
-    "updatedAt": "2022-04-25T19:30:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140567/The_Hellbound"
+    "externalLinks": [],
+    "malId": 140567,
+    "deletedAt": null,
+    "authors": [
+      "Sang-Ho Yeon",
+      "Gyu-Seok Choi"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:36.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2790,
   "identifier": "5vov",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 181,
   "aniId": 181,
-  "createdAt": "2020-10-12T15:50:36.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T20:11:35.000Z",
+    "checkedAt": "2022-05-14T20:11:35.000Z",
+    "id": 181,
+    "type": "anime",
+    "title": "Vandread: The Second Stage",
+    "altTitle": [
+      "Vandread: The Second Stage",
+      "ヴァンドレッド the second stage"
+    ],
+    "url": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage",
+    "image": "https://cdn.myanimelist.net/images/anime/4/75447.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,25 +55,23 @@
         "url": "http://www.crunchyroll.com/series-274183"
       }
     ],
-    "altTitle": [
-      "ヴァンドレッド the second stage"
-    ],
+    "deletedAt": null,
+    "anidbId": 178
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T20:35:35.000Z",
+    "checkedAt": "2022-05-15T20:35:35.000Z",
     "id": 181,
     "type": "anime",
-    "title": "Vandread: The Second Stage",
-    "url": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage",
-    "image": "https://cdn.myanimelist.net/images/anime/4/75447.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 178,
-    "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2022-02-25T16:48:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Vandread: the second stage",
     "altTitle": [
       "ヴァンドレッド the second stage"
     ],
+    "url": "https://anilist.co/anime/181",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181-MSG4LgXhyRhA.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -68,17 +82,7 @@
         "url": "http://www.hulu.com/vandread"
       }
     ],
-    "id": 181,
     "malId": 181,
-    "type": "anime",
-    "title": "Vandread: the second stage",
-    "url": "https://anilist.co/anime/181",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181-MSG4LgXhyRhA.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2022-04-30T19:31:55.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage"
+  }
 }

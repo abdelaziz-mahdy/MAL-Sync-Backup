@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:00.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3365,
   "identifier": "75z8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34863,
   "aniId": 98520,
-  "createdAt": "2020-10-12T15:51:00.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:51.000Z",
+    "updatedAt": "2022-05-14T23:15:41.000Z",
+    "checkedAt": "2022-05-14T23:15:41.000Z",
+    "id": 34863,
+    "type": "anime",
+    "title": "Zoku Touken Ranbu: Hanamaru",
+    "altTitle": [
+      "Touken Ranbu: Hanamaru Second Season",
+      "続 刀剣乱舞-花丸-"
+    ],
+    "url": "https://myanimelist.net/anime/34863/Zoku_Touken_Ranbu__Hanamaru",
+    "image": "https://cdn.myanimelist.net/images/anime/5/89579.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "http://www.crunchyroll.com/series-271531"
       }
     ],
-    "altTitle": [
-      "Touken Ranbu: Hanamaru Second Season",
-      "続 刀剣乱舞-花丸-"
-    ],
-    "id": 34863,
+    "deletedAt": null,
+    "anidbId": 12790
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:23.000Z",
+    "updatedAt": "2022-05-15T12:14:59.000Z",
+    "checkedAt": "2022-05-15T12:14:59.000Z",
+    "id": 98520,
     "type": "anime",
     "title": "Zoku Touken Ranbu: Hanamaru",
-    "url": "https://myanimelist.net/anime/34863/Zoku_Touken_Ranbu__Hanamaru",
-    "image": "https://cdn.myanimelist.net/images/anime/5/89579.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12790,
-    "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2022-04-26T21:32:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Touken Ranbu: Hanamaru 2",
       "続刀剣乱舞-花丸-"
     ],
+    "url": "https://anilist.co/anime/98520",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98520-R33zIZW34dnm.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -70,17 +83,7 @@
         "url": "https://www.funimation.com/shows/touken-ranbu-hanamaru/"
       }
     ],
-    "id": 98520,
     "malId": 34863,
-    "type": "anime",
-    "title": "Zoku Touken Ranbu: Hanamaru",
-    "url": "https://anilist.co/anime/98520",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98520-R33zIZW34dnm.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:23.000Z",
-    "updatedAt": "2022-01-10T09:41:39.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34863/Zoku_Touken_Ranbu__Hanamaru"
+  }
 }

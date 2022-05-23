@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "USUNE Masatoshi"
-  ],
+  "createdAt": "2020-12-31T12:40:48.000Z",
+  "updatedAt": "2022-03-01T00:28:43.000Z",
+  "checkedAt": null,
+  "id": 56398,
   "identifier": "desert-punk",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 10016,
   "aniId": 40016,
-  "createdAt": "2020-12-31T12:40:48.000Z",
-  "updatedAt": "2022-03-01T00:28:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "USUNE Masatoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-05-15T12:54:02.000Z",
+    "checkedAt": "2022-05-15T12:54:02.000Z",
+    "id": 10016,
+    "type": "manga",
+    "title": "Sunabouzu",
+    "altTitle": [
+      "Sunabozu",
+      "Sand Boy",
+      "Desert Punk",
+      "砂ぼうず"
+    ],
+    "url": "https://myanimelist.net/manga/10016/Sunabouzu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/51325.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sunabozu",
-      "Sand Boy",
-      "Desert Punk",
-      "砂ぼうず"
-    ],
+    "deletedAt": null,
     "authors": [
       "Usune, Masatoshi"
-    ],
-    "id": 10016,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:56.679Z",
+    "updatedAt": "2022-05-15T17:25:47.000Z",
+    "checkedAt": "2022-05-15T17:25:47.000Z",
+    "id": 40016,
     "type": "manga",
     "title": "Sunabouzu",
-    "url": "https://myanimelist.net/manga/10016/Sunabouzu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/51325.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2022-03-02T15:11:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "砂ぼうず",
       "Sunabozu",
       "Sand Boy",
       "Desert Punk"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masatoshi Usune"
-    ],
-    "id": 40016,
-    "malId": 10016,
-    "type": "manga",
-    "title": "Sunabouzu",
     "url": "https://anilist.co/manga/40016",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx40016-pw2ze8XbF9oD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2022-03-01T00:33:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10016/Sunabouzu"
+    "externalLinks": [],
+    "malId": 10016,
+    "deletedAt": null,
+    "authors": [
+      "Masatoshi Usune"
+    ]
+  }
 }

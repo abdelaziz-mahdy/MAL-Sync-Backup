@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kouno Fumiyo"
-  ],
+  "createdAt": "2020-10-12T16:08:28.000Z",
+  "updatedAt": "2021-12-04T10:51:58.000Z",
+  "checkedAt": null,
+  "id": 12852,
   "identifier": "afa174ba-4095-46ea-901e-8e7ca686a10d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11243,
   "aniId": 41243,
-  "createdAt": "2020-10-12T16:08:28.000Z",
-  "updatedAt": "2021-12-04T10:51:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kouno Fumiyo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:32.000Z",
+    "updatedAt": "2022-05-15T15:25:11.000Z",
+    "checkedAt": "2022-05-15T15:25:11.000Z",
+    "id": 11243,
+    "type": "manga",
+    "title": "Kono Sekai no Katasumi ni",
+    "altTitle": [
+      "To All the Corners of the World",
+      "In This Corner of the World",
+      "この世界の片隅に"
+    ],
+    "url": "https://myanimelist.net/manga/11243/Kono_Sekai_no_Katasumi_ni",
+    "image": "https://cdn.myanimelist.net/images/manga/3/45441.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "In This Corner of the World",
-      "To All the Corners of the World",
-      "この世界の片隅に"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kouno, Fumiyo"
-    ],
-    "id": 11243,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:29.199Z",
+    "updatedAt": "2022-05-15T18:51:23.000Z",
+    "checkedAt": "2022-05-15T18:51:23.000Z",
+    "id": 41243,
     "type": "manga",
     "title": "Kono Sekai no Katasumi ni",
-    "url": "https://myanimelist.net/manga/11243/Kono_Sekai_no_Katasumi_ni",
-    "image": "https://cdn.myanimelist.net/images/manga/3/45441.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:32.000Z",
-    "updatedAt": "2021-12-19T05:48:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "In This Corner of the World",
       "この世界の片隅に",
@@ -52,25 +61,19 @@
       "Dans un recoin de ce monde",
       "Ở một góc nhân gian"
     ],
+    "url": "https://anilist.co/manga/41243",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41243-adYxm7V2tJK7.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 11243,
+    "deletedAt": null,
     "authors": [
       "Fumiyo Kouno",
       "Pascale Simon",
       "Cynthia Thiery",
       "Eric Montesinos",
       "Cordelia Suzuki"
-    ],
-    "id": 41243,
-    "malId": 11243,
-    "type": "manga",
-    "title": "Kono Sekai no Katasumi ni",
-    "url": "https://anilist.co/manga/41243",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41243-adYxm7V2tJK7.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:16.000Z",
-    "updatedAt": "2022-01-06T23:17:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11243/Kono_Sekai_no_Katasumi_ni"
+    ]
+  }
 }

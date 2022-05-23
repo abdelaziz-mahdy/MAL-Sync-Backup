@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Komori Yoichi",
-    "Sugie Tasuku"
-  ],
+  "createdAt": "2020-10-12T16:09:35.000Z",
+  "updatedAt": "2021-12-04T18:53:38.000Z",
+  "checkedAt": null,
+  "id": 15303,
   "identifier": "aeca902a-33a2-40de-b0ed-7581d42bcd22",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93379,
   "aniId": 96092,
-  "createdAt": "2020-10-12T16:09:35.000Z",
-  "updatedAt": "2021-12-04T18:53:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komori Yoichi",
+    "Sugie Tasuku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:13.000Z",
+    "updatedAt": "2022-05-23T03:00:03.000Z",
+    "checkedAt": "2022-05-23T03:00:03.000Z",
+    "id": 93379,
+    "type": "manga",
+    "title": "Tenjin",
+    "altTitle": [
+      "Sky God",
+      "天神-TENJIN-"
+    ],
+    "url": "https://myanimelist.net/manga/93379/Tenjin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/168686.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +46,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sky God",
-      "天神-TENJIN-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Komori, Yoichi",
       "Sugie, Tsubasa",
       "Taoka, Muneaki"
-    ],
-    "id": 93379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:43.657Z",
+    "updatedAt": "2022-05-13T12:51:43.657Z",
+    "checkedAt": null,
+    "id": 96092,
     "type": "manga",
     "title": "Tenjin",
-    "url": "https://myanimelist.net/manga/93379/Tenjin",
-    "image": "https://cdn.myanimelist.net/images/manga/1/168686.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:13.000Z",
-    "updatedAt": "2022-03-07T01:00:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天神-TENJIN-",
       "Sky God"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youichi Komori",
-      "Tasuku Sugie",
-      "Muneaki Taoka"
-    ],
-    "id": 96092,
-    "malId": 93379,
-    "type": "manga",
-    "title": "Tenjin",
     "url": "https://anilist.co/manga/96092",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96092-PFbiPNMyoUI5.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:46.000Z",
-    "updatedAt": "2022-02-06T05:06:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93379/Tenjin"
+    "externalLinks": [],
+    "malId": 93379,
+    "deletedAt": null,
+    "authors": [
+      "Youichi Komori",
+      "Tasuku Sugie",
+      "Muneaki Taoka"
+    ]
+  }
 }

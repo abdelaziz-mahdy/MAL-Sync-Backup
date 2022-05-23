@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:31.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10342,
   "identifier": "xox8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32287,
   "aniId": 21657,
-  "createdAt": "2020-10-12T15:56:31.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-15T04:53:11.000Z",
+    "checkedAt": "2022-05-15T04:53:11.000Z",
+    "id": 32287,
+    "type": "anime",
+    "title": "Kanamewo",
+    "altTitle": [
+      "A linchpin",
+      "カナメヲ"
+    ],
+    "url": "https://myanimelist.net/anime/32287/Kanamewo",
+    "image": "https://cdn.myanimelist.net/images/anime/7/83455.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,38 +42,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A linchpin",
-      "カナメヲ"
-    ],
-    "id": 32287,
-    "type": "anime",
-    "title": "Kanamewo",
-    "url": "https://myanimelist.net/anime/32287/Kanamewo",
-    "image": "https://cdn.myanimelist.net/images/anime/7/83455.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 11820,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-03-24T20:58:05.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11820
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:00.000Z",
+    "updatedAt": "2022-05-15T17:02:23.000Z",
+    "checkedAt": "2022-05-15T17:02:23.000Z",
+    "id": 21657,
+    "type": "anime",
+    "title": "Kanamewo",
     "altTitle": [
       "カナメヲ"
     ],
-    "externalLinks": [],
-    "id": 21657,
-    "malId": 32287,
-    "type": "anime",
-    "title": "Kanamewo",
     "url": "https://anilist.co/anime/21657",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21657-hN5pcIhsTjlN.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:00.000Z",
-    "updatedAt": "2021-12-17T15:22:04.000Z",
+    "externalLinks": [],
+    "malId": 32287,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32287/Kanamewo"
+  }
 }

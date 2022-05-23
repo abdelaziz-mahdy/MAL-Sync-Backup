@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takaya Natsuki"
-  ],
+  "createdAt": "2020-10-12T16:03:07.000Z",
+  "updatedAt": "2021-12-02T12:17:07.000Z",
+  "checkedAt": null,
+  "id": 1559,
   "identifier": "d5fc7365-f202-44c6-a029-08ea04896dcc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25389,
   "aniId": 55389,
-  "createdAt": "2020-10-12T16:03:07.000Z",
-  "updatedAt": "2021-12-02T12:17:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takaya Natsuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:17.000Z",
+    "updatedAt": "2022-05-15T15:52:06.000Z",
+    "checkedAt": "2022-05-15T15:52:06.000Z",
+    "id": 25389,
+    "type": "manga",
+    "title": "Liselotte to Majo no Mori",
+    "altTitle": [
+      "Liselotte & the Witch's Forest",
+      "リーゼロッテと魔女の森"
+    ],
+    "url": "https://myanimelist.net/manga/25389/Liselotte_to_Majo_no_Mori",
+    "image": "https://cdn.myanimelist.net/images/manga/1/65885.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Liselotte & the Witch's Forest",
-      "リーゼロッテと魔女の森"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takaya, Natsuki"
-    ],
-    "id": 25389,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:57.334Z",
+    "updatedAt": "2022-05-15T19:11:11.000Z",
+    "checkedAt": "2022-05-15T19:11:11.000Z",
+    "id": 55389,
     "type": "manga",
     "title": "Liselotte to Majo no Mori",
-    "url": "https://myanimelist.net/manga/25389/Liselotte_to_Majo_no_Mori",
-    "image": "https://cdn.myanimelist.net/images/manga/1/65885.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:17.000Z",
-    "updatedAt": "2022-02-13T15:09:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Liselotte & Witch's Forest",
       "リーセロッテと魔女の森",
@@ -52,22 +61,16 @@
       "Liselotte & the Witch's Forest",
       "Liselotte et la forêt des sorcières"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsuki Takaya",
-      "Fédoua Lamodière"
-    ],
-    "id": 55389,
-    "malId": 25389,
-    "type": "manga",
-    "title": "Liselotte to Majo no Mori",
     "url": "https://anilist.co/manga/55389",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25389.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:53.000Z",
-    "updatedAt": "2022-03-17T19:49:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25389/Liselotte_to_Majo_no_Mori"
+    "externalLinks": [],
+    "malId": 25389,
+    "deletedAt": null,
+    "authors": [
+      "Natsuki Takaya",
+      "Fédoua Lamodière"
+    ]
+  }
 }

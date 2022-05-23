@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Type-Moon"
-  ],
+  "createdAt": "2021-08-08T17:09:34.000Z",
+  "updatedAt": "2022-02-08T17:39:37.000Z",
+  "checkedAt": null,
+  "id": 84861,
   "identifier": "manga-hd954686",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 51987,
   "aniId": 81987,
-  "createdAt": "2021-08-08T17:09:34.000Z",
-  "updatedAt": "2022-02-08T17:39:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Type-Moon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:42.000Z",
+    "updatedAt": "2022-05-15T17:36:26.000Z",
+    "checkedAt": "2022-05-15T17:36:26.000Z",
+    "id": 51987,
+    "type": "manga",
+    "title": "Fate/hollow ataraxia",
+    "altTitle": [
+      "Fate/hollow ataraxia"
+    ],
+    "url": "https://myanimelist.net/manga/51987/Fate_hollow_ataraxia",
+    "image": "https://cdn.myanimelist.net/images/manga/3/115043.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fate/hollow ataraxia"
-    ],
+    "deletedAt": null,
     "authors": [
       "Type-Moon",
       "Medori"
-    ],
-    "id": 51987,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:59.586Z",
+    "updatedAt": "2022-05-15T20:15:47.000Z",
+    "checkedAt": "2022-05-15T20:15:47.000Z",
+    "id": 81987,
     "type": "manga",
     "title": "Fate/hollow ataraxia",
-    "url": "https://myanimelist.net/manga/51987/Fate_hollow_ataraxia",
-    "image": "https://cdn.myanimelist.net/images/manga/3/115043.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:42.000Z",
-    "updatedAt": "2022-03-23T14:27:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/hollow ataraxia",
       "フェイト/ホロウアタラクシア"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Type-Moon",
-      "Medori"
-    ],
-    "id": 81987,
-    "malId": 51987,
-    "type": "manga",
-    "title": "Fate/hollow ataraxia",
     "url": "https://anilist.co/manga/81987",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81987-4RlLPQf5Ytk3.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:52.000Z",
-    "updatedAt": "2021-12-17T21:30:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/51987/Fate_hollow_ataraxia"
+    "externalLinks": [],
+    "malId": 51987,
+    "deletedAt": null,
+    "authors": [
+      "Type-Moon",
+      "Medori"
+    ]
+  }
 }

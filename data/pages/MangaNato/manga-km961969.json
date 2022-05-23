@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Satou Nanki"
-  ],
+  "createdAt": "2022-04-16T02:01:39.000Z",
+  "updatedAt": "2022-04-16T02:30:26.000Z",
+  "checkedAt": null,
+  "id": 101550,
   "identifier": "manga-km961969",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77173,
   "aniId": 85844,
-  "createdAt": "2022-04-16T02:01:39.000Z",
-  "updatedAt": "2022-04-16T02:30:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Nanki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:26.000Z",
+    "updatedAt": "2022-05-13T15:15:50.000Z",
+    "checkedAt": "2022-05-13T15:15:50.000Z",
+    "id": 77173,
+    "type": "manga",
+    "title": "Kyou kara Yonshimai",
+    "altTitle": [
+      "Four Sisters Starting Today",
+      "きょうから四姉妹"
+    ],
+    "url": "https://myanimelist.net/manga/77173/Kyou_kara_Yonshimai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/133523.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Four Sisters Starting Today",
-      "きょうから四姉妹"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kizuki, Akira",
       "Satou, Nanki"
-    ],
-    "id": 77173,
-    "type": "manga",
-    "title": "Kyou kara Yonshimai",
-    "url": "https://myanimelist.net/manga/77173/Kyou_kara_Yonshimai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/133523.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:26.000Z",
-    "updatedAt": "2022-03-26T17:04:20.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:31.165Z",
+    "updatedAt": "2022-05-13T12:50:31.165Z",
+    "checkedAt": null,
+    "id": 85844,
+    "type": "manga",
+    "title": "Kyou Kara Yonshimai",
     "altTitle": [
       "きょうから四姉妹",
       "Four Sisters Starting Today"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Kizuki",
-      "Nanki Satou"
-    ],
-    "id": 85844,
-    "malId": 77173,
-    "type": "manga",
-    "title": "Kyou Kara Yonshimai",
     "url": "https://anilist.co/manga/85844",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85844-LXQj7qmacjb6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2021-12-17T22:24:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77173/Kyou_kara_Yonshimai"
+    "externalLinks": [],
+    "malId": 77173,
+    "deletedAt": null,
+    "authors": [
+      "Akira Kizuki",
+      "Nanki Satou"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Pierre Taki",
-    "Man Gatarou"
-  ],
+  "createdAt": "2020-10-12T16:08:06.000Z",
+  "updatedAt": "2021-12-04T07:51:01.000Z",
+  "checkedAt": null,
+  "id": 12043,
   "identifier": "f24a77be-ac65-4088-85da-30468d976619",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58707,
   "aniId": 88663,
-  "createdAt": "2020-10-12T16:08:06.000Z",
-  "updatedAt": "2021-12-04T07:51:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Pierre Taki",
+    "Man Gatarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-19T05:02:47.000Z",
+    "checkedAt": "2022-05-19T05:02:47.000Z",
+    "id": 58707,
+    "type": "manga",
+    "title": "Jukai Shounen ZOO1",
+    "altTitle": [
+      "Nature Boy Zoo-Ichi, Jukai Shounen Zu-ichi",
+      "Jukai Shounen Zoo 1",
+      "Jukai Shounen Juuichi",
+      "樹海少年ZOO1〈ずーいち〉"
+    ],
+    "url": "https://myanimelist.net/manga/58707/Jukai_Shounen_ZOO1",
+    "image": "https://cdn.myanimelist.net/images/manga/2/104253.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,28 +44,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nature Boy Zoo-Ichi, Jukai Shounen Zu-ichi",
-      "Jukai Shounen Zoo 1",
-      "Jukai Shounen Juuichi",
-      "樹海少年ZOO1〈ずーいち〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Man☆Gatarou",
       "Taki, Pierre"
-    ],
-    "id": 58707,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:58.047Z",
+    "updatedAt": "2022-05-19T05:02:46.000Z",
+    "checkedAt": "2022-05-19T05:02:46.000Z",
+    "id": 88663,
     "type": "manga",
     "title": "Jukai Shounen ZOO1",
-    "url": "https://myanimelist.net/manga/58707/Jukai_Shounen_ZOO1",
-    "image": "https://cdn.myanimelist.net/images/manga/2/104253.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2021-11-08T21:14:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "樹海少年ZOO1〈ずーいち〉",
       "Nature Boy Zoo-Ichi",
@@ -55,19 +64,13 @@
       "Jukai Shounen Zoo 1",
       "Jukai Shounen Juuichi"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 88663,
-    "malId": 58707,
-    "type": "manga",
-    "title": "Jukai Shounen ZOO1",
     "url": "https://anilist.co/manga/88663",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88663-Y6fjFI3SC31t.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T23:49:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58707/Jukai_Shounen_ZOO1"
+    "externalLinks": [],
+    "malId": 58707,
+    "deletedAt": null,
+    "authors": []
+  }
 }

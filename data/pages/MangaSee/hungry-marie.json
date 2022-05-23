@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TAMURA Ryuuhei"
-  ],
+  "createdAt": "2021-06-03T13:49:49.000Z",
+  "updatedAt": "2021-12-03T15:22:51.000Z",
+  "checkedAt": null,
+  "id": 76125,
   "identifier": "hungry-marie",
   "type": "manga",
   "page": "MangaSee",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 103902,
   "aniId": 98346,
-  "createdAt": "2021-06-03T13:49:49.000Z",
-  "updatedAt": "2021-12-03T15:22:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "TAMURA Ryuuhei"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:55.000Z",
+    "updatedAt": "2022-05-15T02:30:56.000Z",
+    "checkedAt": "2022-05-15T02:30:56.000Z",
+    "id": 103902,
+    "type": "manga",
+    "title": "Harapeko no Marie",
     "altTitle": [
       "Tiger-ani to Dragon",
       "Tiger Dragon Brothers",
@@ -27,21 +33,24 @@
       "Marie the Hungry",
       "腹ペコのマリー"
     ],
-    "authors": [
-      "Tamura, Ryuuhei"
-    ],
-    "id": 103902,
-    "type": "manga",
-    "title": "Harapeko no Marie",
     "url": "https://myanimelist.net/manga/103902/Harapeko_no_Marie",
     "image": "https://cdn.myanimelist.net/images/manga/2/197881.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:55.000Z",
-    "updatedAt": "2022-05-01T10:30:26.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tamura, Ryuuhei"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:53.900Z",
+    "updatedAt": "2022-05-15T16:55:35.000Z",
+    "checkedAt": "2022-05-15T16:55:35.000Z",
+    "id": 98346,
+    "type": "manga",
+    "title": "Harapeko no Marie",
     "altTitle": [
       "Hungry Marie",
       "腹ペコのマリー",
@@ -50,22 +59,16 @@
       "Tiger Dragon Brothers",
       "PekoMarie"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryuuhei Tamura",
-      "Thibaud Desbief"
-    ],
-    "id": 98346,
-    "malId": 103902,
-    "type": "manga",
-    "title": "Harapeko no Marie",
     "url": "https://anilist.co/manga/98346",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98346-3rBbunwdH7Cz.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:05.000Z",
-    "updatedAt": "2021-12-18T02:26:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103902/Harapeko_no_Marie"
+    "externalLinks": [],
+    "malId": 103902,
+    "deletedAt": null,
+    "authors": [
+      "Ryuuhei Tamura",
+      "Thibaud Desbief"
+    ]
+  }
 }

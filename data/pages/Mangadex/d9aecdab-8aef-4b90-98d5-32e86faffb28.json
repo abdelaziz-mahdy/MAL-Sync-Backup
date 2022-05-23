@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Haruhara Robinson",
-    "Kokikuji You"
-  ],
+  "createdAt": "2020-10-12T16:13:30.000Z",
+  "updatedAt": "2021-12-05T22:17:59.000Z",
+  "checkedAt": null,
+  "id": 23017,
   "identifier": "d9aecdab-8aef-4b90-98d5-32e86faffb28",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114627,
   "aniId": 103214,
-  "createdAt": "2020-10-12T16:13:30.000Z",
-  "updatedAt": "2021-12-05T22:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Haruhara Robinson",
+    "Kokikuji You"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:35.000Z",
+    "updatedAt": "2022-05-14T18:51:59.000Z",
+    "checkedAt": "2022-05-14T18:51:59.000Z",
+    "id": 114627,
+    "type": "manga",
+    "title": "Saeki-san wa Nemutteru",
     "altTitle": [
       "Dignified asleep Saeki",
       "佐伯さんは眠ってる"
     ],
-    "authors": [
-      "Haruhara, Robinson",
-      "Kokikuji, You"
-    ],
-    "id": 114627,
-    "type": "manga",
-    "title": "Saeki-san wa Nemutteru",
     "url": "https://myanimelist.net/manga/114627/Saeki-san_wa_Nemutteru",
     "image": "https://cdn.myanimelist.net/images/manga/2/217795.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:35.000Z",
-    "updatedAt": "2022-01-23T06:30:12.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Haruhara, Robinson",
+      "Kokikuji, You"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:17.127Z",
+    "updatedAt": "2022-05-15T22:33:59.000Z",
+    "checkedAt": "2022-05-15T22:33:59.000Z",
+    "id": 103214,
+    "type": "manga",
+    "title": "Saeki-san wa Nemutteru",
     "altTitle": [
       "佐伯さんは眠ってる",
       "Dignified asleep Saeki",
@@ -49,22 +58,16 @@
       "Сейчас Саэки-сан спит",
       "佐伯同学睡著了"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Robinson Haruhara",
-      "You Kokikuji"
-    ],
-    "id": 103214,
-    "malId": 114627,
-    "type": "manga",
-    "title": "Saeki-san wa Nemutteru",
     "url": "https://anilist.co/manga/103214",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103214-ceBV2vrr4tpb.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:10.000Z",
-    "updatedAt": "2021-12-18T04:27:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114627/Saeki-san_wa_Nemutteru"
+    "externalLinks": [],
+    "malId": 114627,
+    "deletedAt": null,
+    "authors": [
+      "Robinson Haruhara",
+      "You Kokikuji"
+    ]
+  }
 }

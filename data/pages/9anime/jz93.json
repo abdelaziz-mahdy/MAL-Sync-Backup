@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:21.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5122,
   "identifier": "jz93",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2525,
   "aniId": 2525,
-  "createdAt": "2020-10-12T15:52:21.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-05-14T22:15:06.000Z",
+    "checkedAt": "2022-05-14T22:15:06.000Z",
+    "id": 2525,
+    "type": "anime",
+    "title": "Kekkou Kamen",
+    "altTitle": [
+      "Delicious Mask",
+      "Splendid Mask",
+      "Kekko Kamen",
+      "けっこう仮面"
+    ],
+    "url": "https://myanimelist.net/anime/2525/Kekkou_Kamen",
+    "image": "https://cdn.myanimelist.net/images/anime/10/60049.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,25 +48,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Delicious Mask",
-      "Splendid Mask",
-      "Kekko Kamen",
-      "けっこう仮面"
-    ],
+    "deletedAt": null,
+    "anidbId": 1867
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:21.000Z",
+    "updatedAt": "2022-05-15T12:14:11.000Z",
+    "checkedAt": "2022-05-15T12:14:11.000Z",
     "id": 2525,
     "type": "anime",
-    "title": "Kekkou Kamen",
-    "url": "https://myanimelist.net/anime/2525/Kekkou_Kamen",
-    "image": "https://cdn.myanimelist.net/images/anime/10/60049.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1867,
-    "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2022-03-31T07:33:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Kekko Kamen",
     "altTitle": [
       "けっこう仮面",
       "Delicious Mask",
@@ -56,18 +65,12 @@
       "Kekkou Kamen",
       "Kekko Kamen - La maschera libidinosa"
     ],
-    "externalLinks": [],
-    "id": 2525,
-    "malId": 2525,
-    "type": "anime",
-    "title": "Kekko Kamen",
     "url": "https://anilist.co/anime/2525",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2525.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:21.000Z",
-    "updatedAt": "2022-01-18T16:34:15.000Z",
+    "externalLinks": [],
+    "malId": 2525,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2525/Kekkou_Kamen"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsuri"
-  ],
+  "createdAt": "2020-10-12T16:18:05.000Z",
+  "updatedAt": "2021-12-07T14:18:14.000Z",
+  "checkedAt": null,
+  "id": 32461,
   "identifier": "0d1382d0-4113-4a51-a68a-47843f6aeb72",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112129,
   "aniId": 105594,
-  "createdAt": "2020-10-12T16:18:05.000Z",
-  "updatedAt": "2021-12-07T14:18:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsuri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2021-11-21T08:44:10.000Z",
+    "checkedAt": null,
+    "id": 112129,
+    "type": "manga",
+    "title": "Humint",
+    "altTitle": [
+      "Human Intelligence",
+      "HUMINT"
+    ],
+    "url": "https://myanimelist.net/manga/112129/Humint",
+    "image": "https://cdn.myanimelist.net/images/manga/1/205771.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Human Intelligence",
-      "HUMINT"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsuri"
-    ],
-    "id": 112129,
-    "type": "manga",
-    "title": "Humint",
-    "url": "https://myanimelist.net/manga/112129/Humint",
-    "image": "https://cdn.myanimelist.net/images/manga/1/205771.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2021-11-21T08:44:10.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:33.136Z",
+    "updatedAt": "2022-05-13T12:54:33.136Z",
+    "checkedAt": null,
+    "id": 105594,
+    "type": "manga",
+    "title": "HUMINT",
     "altTitle": [
       "ヒューミント",
       "Tale of the human intelligence"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Matsuri"
-    ],
-    "id": 105594,
-    "malId": 112129,
-    "type": "manga",
-    "title": "HUMINT",
     "url": "https://anilist.co/manga/105594",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105594-N9bcfNpf7KS4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:52.000Z",
-    "updatedAt": "2021-12-18T05:21:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112129/Humint"
+    "externalLinks": [],
+    "malId": 112129,
+    "deletedAt": null,
+    "authors": [
+      "Matsuri"
+    ]
+  }
 }

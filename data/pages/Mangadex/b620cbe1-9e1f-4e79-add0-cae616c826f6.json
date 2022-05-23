@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toto Nemigi"
-  ],
+  "createdAt": "2020-10-12T16:11:32.000Z",
+  "updatedAt": "2021-12-05T09:24:42.000Z",
+  "checkedAt": null,
+  "id": 19538,
   "identifier": "b620cbe1-9e1f-4e79-add0-cae616c826f6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6722,
   "aniId": 36722,
-  "createdAt": "2020-10-12T16:11:32.000Z",
-  "updatedAt": "2021-12-05T09:24:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toto Nemigi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:11.000Z",
+    "updatedAt": "2022-04-29T18:31:03.000Z",
+    "checkedAt": null,
+    "id": 6722,
+    "type": "manga",
+    "title": "Neko Kissa",
+    "altTitle": [
+      "Cat Cafe",
+      "ねこきっさ"
+    ],
+    "url": "https://myanimelist.net/manga/6722/Neko_Kissa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217924.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cat Cafe",
-      "ねこきっさ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toto, Nemigi"
-    ],
-    "id": 6722,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:49.185Z",
+    "updatedAt": "2022-05-13T12:53:49.185Z",
+    "checkedAt": null,
+    "id": 36722,
     "type": "manga",
     "title": "Neko Kissa",
-    "url": "https://myanimelist.net/manga/6722/Neko_Kissa",
-    "image": "https://cdn.myanimelist.net/images/manga/1/217924.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:11.000Z",
-    "updatedAt": "2022-04-29T18:31:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cat Cafe",
       "ねこきっさ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nemigi Toto"
-    ],
-    "id": 36722,
-    "malId": 6722,
-    "type": "manga",
-    "title": "Neko Kissa",
     "url": "https://anilist.co/manga/36722",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6722.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:42.000Z",
-    "updatedAt": "2021-12-17T12:46:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6722/Neko_Kissa"
+    "externalLinks": [],
+    "malId": 6722,
+    "deletedAt": null,
+    "authors": [
+      "Nemigi Toto"
+    ]
+  }
 }

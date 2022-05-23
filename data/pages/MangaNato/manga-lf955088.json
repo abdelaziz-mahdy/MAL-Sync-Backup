@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sagara Riri"
-  ],
+  "createdAt": "2022-01-28T09:50:39.000Z",
+  "updatedAt": "2022-01-28T10:20:39.000Z",
+  "checkedAt": null,
+  "id": 95472,
   "identifier": "manga-lf955088",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57161,
   "aniId": 88360,
-  "createdAt": "2022-01-28T09:50:39.000Z",
-  "updatedAt": "2022-01-28T10:20:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sagara Riri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:49.000Z",
+    "updatedAt": "2022-01-28T09:50:50.000Z",
+    "checkedAt": null,
+    "id": 57161,
+    "type": "manga",
+    "title": "Queen's Blade Rebellion: Zero",
+    "altTitle": [
+      "クイーンズブレイド リベリオン ZERO"
+    ],
+    "url": "https://myanimelist.net/manga/57161/Queens_Blade_Rebellion__Zero",
+    "image": "https://cdn.myanimelist.net/images/manga/2/101317.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クイーンズブレイド リベリオン ZERO"
-    ],
+    "deletedAt": null,
     "authors": [
       "Souda, Tomo",
       "Sagara, Riri"
-    ],
-    "id": 57161,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:41.517Z",
+    "updatedAt": "2022-05-13T12:44:41.517Z",
+    "checkedAt": null,
+    "id": 88360,
     "type": "manga",
     "title": "Queen's Blade Rebellion: Zero",
-    "url": "https://myanimelist.net/manga/57161/Queens_Blade_Rebellion__Zero",
-    "image": "https://cdn.myanimelist.net/images/manga/2/101317.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:49.000Z",
-    "updatedAt": "2022-01-28T09:50:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クイーンズブレイド リベリオン ZERO"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Riri Sagara",
-      "Tomo Souda"
-    ],
-    "id": 88360,
-    "malId": 57161,
-    "type": "manga",
-    "title": "Queen's Blade Rebellion: Zero",
     "url": "https://anilist.co/manga/88360",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88360-Frs3kBxKmT7H.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:30.000Z",
-    "updatedAt": "2021-12-17T23:31:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57161/Queens_Blade_Rebellion__Zero"
+    "externalLinks": [],
+    "malId": 57161,
+    "deletedAt": null,
+    "authors": [
+      "Riri Sagara",
+      "Tomo Souda"
+    ]
+  }
 }

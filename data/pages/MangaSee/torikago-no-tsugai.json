@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MINAMI Toutarou"
-  ],
+  "createdAt": "2021-07-05T19:30:04.000Z",
+  "updatedAt": "2022-01-05T20:17:53.000Z",
+  "checkedAt": null,
+  "id": 81002,
   "identifier": "torikago-no-tsugai",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42005,
   "aniId": 72005,
-  "createdAt": "2021-07-05T19:30:04.000Z",
-  "updatedAt": "2022-01-05T20:17:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "MINAMI Toutarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:14.000Z",
+    "updatedAt": "2022-05-16T17:36:16.000Z",
+    "checkedAt": "2022-05-16T17:36:16.000Z",
+    "id": 42005,
+    "type": "manga",
+    "title": "Torikago no Tsugai",
+    "altTitle": [
+      "鳥籠ノ番"
+    ],
+    "url": "https://myanimelist.net/manga/42005/Torikago_no_Tsugai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/119177.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "鳥籠ノ番"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minami, Toutarou"
-    ],
-    "id": 42005,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:17.196Z",
+    "updatedAt": "2022-05-16T17:36:14.000Z",
+    "checkedAt": "2022-05-16T17:36:14.000Z",
+    "id": 72005,
     "type": "manga",
     "title": "Torikago no Tsugai",
-    "url": "https://myanimelist.net/manga/42005/Torikago_no_Tsugai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/119177.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:14.000Z",
-    "updatedAt": "2022-01-05T19:48:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "鳥籠ノ番",
       "Zamek ptasiej klatki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toutarou Minami"
-    ],
-    "id": 72005,
-    "malId": 42005,
-    "type": "manga",
-    "title": "Torikago no Tsugai",
     "url": "https://anilist.co/manga/72005",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72005-KBRWWVVHQgvc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:50.000Z",
-    "updatedAt": "2021-12-17T20:27:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/42005/Torikago_no_Tsugai"
+    "externalLinks": [],
+    "malId": 42005,
+    "deletedAt": null,
+    "authors": [
+      "Toutarou Minami"
+    ]
+  }
 }

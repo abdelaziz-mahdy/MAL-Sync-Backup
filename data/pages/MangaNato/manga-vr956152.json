@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Zappa Go"
-  ],
+  "createdAt": "2021-07-27T09:22:31.000Z",
+  "updatedAt": "2022-01-27T10:01:25.000Z",
+  "checkedAt": null,
+  "id": 83114,
   "identifier": "manga-vr956152",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 176,
   "aniId": 30176,
-  "createdAt": "2021-07-27T09:22:31.000Z",
-  "updatedAt": "2022-01-27T10:01:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zappa Go"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-05-18T22:37:03.000Z",
+    "checkedAt": "2022-05-18T22:37:03.000Z",
+    "id": 176,
+    "type": "manga",
+    "title": "Chocotto Sister",
+    "altTitle": [
+      "Chokotto Sister",
+      "Chocosis",
+      "Chocotto Sister",
+      "ちょこッとSister"
+    ],
+    "url": "https://myanimelist.net/manga/176/Chocotto_Sister",
+    "image": "https://cdn.myanimelist.net/images/manga/2/752.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,50 +47,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Chokotto Sister",
-      "Chocosis",
-      "Chocotto Sister",
-      "ちょこッとSister"
-    ],
+    "deletedAt": null,
     "authors": [
       "Zappa, Gou",
       "Takeuchi, Sakura"
-    ],
-    "id": 176,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:49.675Z",
+    "updatedAt": "2022-05-18T22:37:02.000Z",
+    "checkedAt": "2022-05-18T22:37:02.000Z",
+    "id": 30176,
     "type": "manga",
     "title": "Chocotto Sister",
-    "url": "https://myanimelist.net/manga/176/Chocotto_Sister",
-    "image": "https://cdn.myanimelist.net/images/manga/2/752.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-01-27T09:30:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Chocotto Sister",
       "ちょこッとSister",
       "Chokotto Sister",
       "Chocosis"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Zappa",
-      "Sakura Takeuchi"
-    ],
-    "id": 30176,
-    "malId": 176,
-    "type": "manga",
-    "title": "Chocotto Sister",
     "url": "https://anilist.co/manga/30176",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30176-vPYVh6QybynF.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2021-12-17T09:04:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/176/Chocotto_Sister"
+    "externalLinks": [],
+    "malId": 176,
+    "deletedAt": null,
+    "authors": [
+      "Gou Zappa",
+      "Sakura Takeuchi"
+    ]
+  }
 }

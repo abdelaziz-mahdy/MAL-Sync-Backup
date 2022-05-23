@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakamoto Tsugirou",
-    "Miura Tadahiro"
-  ],
+  "createdAt": "2020-10-12T16:05:34.000Z",
+  "updatedAt": "2021-12-03T15:21:20.000Z",
+  "checkedAt": null,
+  "id": 6683,
   "identifier": "f41f81fe-a973-45da-8a56-71bf3860f72e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37013,
   "aniId": 67013,
-  "createdAt": "2020-10-12T16:05:34.000Z",
-  "updatedAt": "2021-12-03T15:21:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakamoto Tsugirou",
+    "Miura Tadahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:01.000Z",
+    "updatedAt": "2022-05-16T20:00:03.000Z",
+    "checkedAt": "2022-05-16T20:00:03.000Z",
+    "id": 37013,
+    "type": "manga",
+    "title": "Koisome Momiji",
+    "altTitle": [
+      "FamiDol!",
+      "恋染紅葉"
+    ],
+    "url": "https://myanimelist.net/manga/37013/Koisome_Momiji",
+    "image": "https://cdn.myanimelist.net/images/manga/1/120937.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FamiDol!",
-      "恋染紅葉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakamoto, Tsugirou",
       "Miura, Tadahiro"
-    ],
-    "id": 37013,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:19.579Z",
+    "updatedAt": "2022-05-20T04:02:57.000Z",
+    "checkedAt": "2022-05-20T04:02:57.000Z",
+    "id": 67013,
     "type": "manga",
     "title": "Koisome Momiji",
-    "url": "https://myanimelist.net/manga/37013/Koisome_Momiji",
-    "image": "https://cdn.myanimelist.net/images/manga/1/120937.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:01.000Z",
-    "updatedAt": "2022-03-09T18:29:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋染紅葉",
       "FamiDol!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tadahiro Miura",
-      "Tsugirou Sakamoto"
-    ],
-    "id": 67013,
-    "malId": 37013,
-    "type": "manga",
-    "title": "Koisome Momiji",
     "url": "https://anilist.co/manga/67013",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx67013-XTbg1nejPb2i.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:30.000Z",
-    "updatedAt": "2021-12-17T19:56:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/37013/Koisome_Momiji"
+    "externalLinks": [],
+    "malId": 37013,
+    "deletedAt": null,
+    "authors": [
+      "Tadahiro Miura",
+      "Tsugirou Sakamoto"
+    ]
+  }
 }

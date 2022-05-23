@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:24.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2530,
   "identifier": "54yv",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40506,
   "aniId": 112325,
-  "createdAt": "2020-10-12T15:50:24.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:12.000Z",
+    "updatedAt": "2022-05-14T15:54:58.000Z",
+    "checkedAt": "2022-05-14T15:54:58.000Z",
+    "id": 40506,
+    "type": "anime",
+    "title": "Shadowverse (TV)",
+    "altTitle": [
+      "シャドウバース"
+    ],
+    "url": "https://myanimelist.net/anime/40506/Shadowverse_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,26 +54,24 @@
         "url": "http://www.crunchyroll.com/series-279220"
       }
     ],
-    "altTitle": [
-      "シャドウバース"
-    ],
-    "id": 40506,
-    "type": "anime",
-    "title": "Shadowverse (TV)",
-    "url": "https://myanimelist.net/anime/40506/Shadowverse_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15134,
-    "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2022-04-09T16:00:59.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 15134
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:59.000Z",
+    "updatedAt": "2022-05-15T10:15:11.000Z",
+    "checkedAt": "2022-05-15T10:15:11.000Z",
+    "id": 112325,
+    "type": "anime",
+    "title": "Shadowverse",
     "altTitle": [
       "Shadowverse",
       "シャドウバース"
     ],
+    "url": "https://anilist.co/anime/112325",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112325-NXi6RerKkbi6.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Vrv",
@@ -69,17 +82,7 @@
         "url": "https://www.crunchyroll.com/shadowverse"
       }
     ],
-    "id": 112325,
     "malId": 40506,
-    "type": "anime",
-    "title": "Shadowverse",
-    "url": "https://anilist.co/anime/112325",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112325-NXi6RerKkbi6.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:59.000Z",
-    "updatedAt": "2021-12-17T17:30:10.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40506/Shadowverse_TV"
+  }
 }

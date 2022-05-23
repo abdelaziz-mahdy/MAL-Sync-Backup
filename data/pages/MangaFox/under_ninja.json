@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "HANAZAWA Kengo"
-  ],
+  "createdAt": "2021-07-20T18:34:51.000Z",
+  "updatedAt": "2022-01-20T19:04:16.000Z",
+  "checkedAt": null,
+  "id": 82595,
   "identifier": "under_ninja",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114939,
   "aniId": 103890,
-  "createdAt": "2021-07-20T18:34:51.000Z",
-  "updatedAt": "2022-01-20T19:04:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "HANAZAWA Kengo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:37.000Z",
+    "updatedAt": "2022-05-20T03:19:05.000Z",
+    "checkedAt": "2022-05-20T03:19:05.000Z",
+    "id": 114939,
+    "type": "manga",
+    "title": "Under Ninja",
+    "altTitle": [
+      "Under Ninja",
+      "アンダーニンジャ"
+    ],
+    "url": "https://myanimelist.net/manga/114939/Under_Ninja",
+    "image": "https://cdn.myanimelist.net/images/manga/3/220916.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Under Ninja",
-      "アンダーニンジャ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanazawa, Kengo"
-    ],
-    "id": 114939,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:33.491Z",
+    "updatedAt": "2022-05-20T03:19:04.000Z",
+    "checkedAt": "2022-05-20T03:19:04.000Z",
+    "id": 103890,
     "type": "manga",
     "title": "Under Ninja",
-    "url": "https://myanimelist.net/manga/114939/Under_Ninja",
-    "image": "https://cdn.myanimelist.net/images/manga/3/220916.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:37.000Z",
-    "updatedAt": "2022-04-10T19:02:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Under Ninja",
       "アンダーニンジャ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kengo Hanazawa",
-      "Marc Bernabé"
-    ],
-    "id": 103890,
-    "malId": 114939,
-    "type": "manga",
-    "title": "Under Ninja",
     "url": "https://anilist.co/manga/103890",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103890-jUpMZluhZceu.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:13.000Z",
-    "updatedAt": "2021-12-18T04:49:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114939/Under_Ninja"
+    "externalLinks": [],
+    "malId": 114939,
+    "deletedAt": null,
+    "authors": [
+      "Kengo Hanazawa",
+      "Marc Bernabé"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamashita Kazumi"
-  ],
+  "createdAt": "2020-10-12T16:09:52.000Z",
+  "updatedAt": "2021-12-04T20:51:23.000Z",
+  "checkedAt": null,
+  "id": 15904,
   "identifier": "d844d406-7926-4b5f-8767-2a425faefe1e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90182,
   "aniId": 95224,
-  "createdAt": "2020-10-12T16:09:52.000Z",
-  "updatedAt": "2021-12-04T20:51:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamashita Kazumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:03.000Z",
+    "updatedAt": "2022-05-15T12:58:53.000Z",
+    "checkedAt": "2022-05-15T12:58:53.000Z",
+    "id": 90182,
+    "type": "manga",
+    "title": "Land",
+    "altTitle": [
+      "ランド"
+    ],
+    "url": "https://myanimelist.net/manga/90182/Land",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157998.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ランド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamashita, Kazumi"
-    ],
-    "id": 90182,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:56.017Z",
+    "updatedAt": "2022-05-15T17:28:59.000Z",
+    "checkedAt": "2022-05-15T17:28:59.000Z",
+    "id": 95224,
     "type": "manga",
     "title": "Land",
-    "url": "https://myanimelist.net/manga/90182/Land",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157998.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:03.000Z",
-    "updatedAt": "2021-11-13T20:45:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ランド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazumi Yamashita"
-    ],
-    "id": 95224,
-    "malId": 90182,
-    "type": "manga",
-    "title": "Land",
     "url": "https://anilist.co/manga/95224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95224-2SrAP3nPkCQq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:03.000Z",
-    "updatedAt": "2021-12-18T01:23:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90182/Land"
+    "externalLinks": [],
+    "malId": 90182,
+    "deletedAt": null,
+    "authors": [
+      "Kazumi Yamashita"
+    ]
+  }
 }

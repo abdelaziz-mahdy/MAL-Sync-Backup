@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Various",
-    "Aoki Ume"
-  ],
+  "createdAt": "2020-10-12T16:08:24.000Z",
+  "updatedAt": "2021-12-04T13:19:58.000Z",
+  "checkedAt": null,
+  "id": 12715,
   "identifier": "39ac0dc6-d945-4ba2-823b-00a452e8f68a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,18 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87213,
   "aniId": 104219,
-  "createdAt": "2020-10-12T16:08:24.000Z",
-  "updatedAt": "2021-12-04T13:19:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Various",
+    "Aoki Ume"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-04T10:21:29.000Z",
+    "updatedAt": "2022-05-15T20:30:03.000Z",
+    "checkedAt": "2022-05-15T20:30:03.000Z",
+    "id": 87213,
+    "type": "manga",
+    "title": "Hidamari Sketch Anthology Comic",
     "altTitle": [
       "ひだまりスケッチアンソロジーコミック"
     ],
+    "url": "https://myanimelist.net/manga/87213/Hidamari_Sketch_Anthology_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151706.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Hakamada, Mera",
       "Iwami, Shouko",
@@ -71,23 +84,25 @@
       "Nonohara, Chiki",
       "Watanabe, Sumiko",
       "Aota, Mei"
-    ],
-    "id": 87213,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:28.890Z",
+    "updatedAt": "2022-05-15T21:41:59.000Z",
+    "checkedAt": "2022-05-15T21:41:59.000Z",
+    "id": 104219,
     "type": "manga",
     "title": "Hidamari Sketch Anthology Comic",
-    "url": "https://myanimelist.net/manga/87213/Hidamari_Sketch_Anthology_Comic",
-    "image": "https://cdn.myanimelist.net/images/manga/1/151706.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T10:21:29.000Z",
-    "updatedAt": "2021-12-04T10:49:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ひだまりスケッチアンソロジーコミック"
     ],
+    "url": "https://anilist.co/manga/104219",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104219-ODpzI9diryBY.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 87213,
+    "deletedAt": null,
     "authors": [
       "Eretto",
       "Shoko Iwami",
@@ -114,18 +129,6 @@
       "Purapa",
       "Rui Tamachi",
       "Mook"
-    ],
-    "id": 104219,
-    "malId": 87213,
-    "type": "manga",
-    "title": "Hidamari Sketch Anthology Comic",
-    "url": "https://anilist.co/manga/104219",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104219-ODpzI9diryBY.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T10:21:29.000Z",
-    "updatedAt": "2021-12-18T04:51:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87213/Hidamari_Sketch_Anthology_Comic"
+    ]
+  }
 }

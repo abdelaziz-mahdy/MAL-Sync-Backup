@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Park Tae Joon"
-  ],
+  "createdAt": "2020-10-12T16:08:16.000Z",
+  "updatedAt": "2021-12-04T09:21:00.000Z",
+  "checkedAt": null,
+  "id": 12423,
   "identifier": "596191eb-69ee-4401-983e-cc07e277fa17",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111202,
   "aniId": 86848,
-  "createdAt": "2020-10-12T16:08:16.000Z",
-  "updatedAt": "2021-12-04T09:21:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Park Tae Joon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-05-14T10:33:03.000Z",
+    "checkedAt": "2022-05-14T10:33:03.000Z",
+    "id": 111202,
+    "type": "manga",
+    "title": "Lookism",
+    "altTitle": [
+      "Lookism",
+      "외모지상주의"
+    ],
+    "url": "https://myanimelist.net/manga/111202/Lookism",
+    "image": "https://cdn.myanimelist.net/images/manga/2/208866.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lookism",
-      "외모지상주의"
-    ],
+    "deletedAt": null,
     "authors": [
       "Park, Tae-Jun"
-    ],
-    "id": 111202,
-    "type": "manga",
-    "title": "Lookism",
-    "url": "https://myanimelist.net/manga/111202/Lookism",
-    "image": "https://cdn.myanimelist.net/images/manga/2/208866.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2022-04-04T15:01:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:28.748Z",
+    "updatedAt": "2022-05-15T16:10:23.000Z",
+    "checkedAt": "2022-05-15T16:10:23.000Z",
+    "id": 86848,
+    "type": "manga",
+    "title": "Oemojisangjuui",
     "altTitle": [
       "Lookism",
       "외모지상주의",
       "外見至上主義",
       "APARI3NCIAS"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tae-Jun Park"
-    ],
-    "id": 86848,
-    "malId": 111202,
-    "type": "manga",
-    "title": "Oemojisangjuui",
     "url": "https://anilist.co/manga/86848",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86848-Fo5gj5fmh3WD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:18.000Z",
-    "updatedAt": "2022-04-24T23:30:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111202/Lookism"
+    "externalLinks": [],
+    "malId": 111202,
+    "deletedAt": null,
+    "authors": [
+      "Tae-Jun Park"
+    ]
+  }
 }

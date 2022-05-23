@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:49.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1919,
   "identifier": "3r69",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 31229,
   "aniId": 21269,
-  "createdAt": "2020-10-12T15:49:49.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:38.000Z",
+    "updatedAt": "2022-05-14T11:30:52.000Z",
+    "checkedAt": "2022-05-14T11:30:52.000Z",
+    "id": 31229,
+    "type": "anime",
+    "title": "Servamp",
+    "altTitle": [
+      "SERVAMP",
+      "SERVAMP（サーヴァンプ）"
+    ],
+    "url": "https://myanimelist.net/anime/31229/Servamp",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80953.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,43 +59,30 @@
         "url": "https://www.funimation.com/shows/servamp"
       }
     ],
-    "altTitle": [
-      "SERVAMP",
-      "SERVAMP（サーヴァンプ）"
-    ],
-    "id": 31229,
+    "deletedAt": null,
+    "anidbId": 11366
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:57.000Z",
+    "updatedAt": "2022-05-15T11:39:59.000Z",
+    "checkedAt": "2022-05-15T11:39:59.000Z",
+    "id": 21269,
     "type": "anime",
     "title": "Servamp",
-    "url": "https://myanimelist.net/anime/31229/Servamp",
-    "image": "https://cdn.myanimelist.net/images/anime/8/80953.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11366,
-    "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2022-05-02T05:32:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "SERVAMP -サーヴァンプ-"
     ],
+    "url": "https://anilist.co/anime/21269",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21269-NU0MR6HcefqO.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/servamp"
       }
     ],
-    "id": 21269,
     "malId": 31229,
-    "type": "anime",
-    "title": "Servamp",
-    "url": "https://anilist.co/anime/21269",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21269-NU0MR6HcefqO.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:57.000Z",
-    "updatedAt": "2021-12-11T07:33:41.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/31229/Servamp"
+  }
 }

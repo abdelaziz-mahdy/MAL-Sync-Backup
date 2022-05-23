@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kawamoto Homura",
-    "Hiiragi Yuuichi"
-  ],
+  "createdAt": "2020-10-12T16:10:52.000Z",
+  "updatedAt": "2021-12-05T04:19:40.000Z",
+  "checkedAt": null,
+  "id": 18058,
   "identifier": "0c2edcbb-f596-4efc-9aff-38c72b93b367",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104547,
   "aniId": 106174,
-  "createdAt": "2020-10-12T16:10:52.000Z",
-  "updatedAt": "2021-12-05T04:19:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawamoto Homura",
+    "Hiiragi Yuuichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2022-05-14T18:04:23.000Z",
+    "checkedAt": "2022-05-14T18:04:23.000Z",
+    "id": 104547,
+    "type": "manga",
+    "title": "Kakegurui Midari",
+    "altTitle": [
+      "賭ケグルイ 妄"
+    ],
+    "url": "https://myanimelist.net/manga/104547/Kakegurui_Midari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198486.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "賭ケグルイ 妄"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiiragi, Yuuichi",
       "Kawamoto, Homura"
-    ],
-    "id": 104547,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:44.544Z",
+    "updatedAt": "2022-05-16T16:45:26.000Z",
+    "checkedAt": "2022-05-16T16:45:26.000Z",
+    "id": 106174,
     "type": "manga",
     "title": "Kakegurui Midari",
-    "url": "https://myanimelist.net/manga/104547/Kakegurui_Midari",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198486.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2021-12-06T04:47:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "賭ケグルイ妄"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuichi Hiiragi",
-      "Homura Kawamoto"
-    ],
-    "id": 106174,
-    "malId": 104547,
-    "type": "manga",
-    "title": "Kakegurui Midari",
     "url": "https://anilist.co/manga/106174",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106174-SCjlpyZXFzvJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2021-12-25T04:28:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104547/Kakegurui_Midari"
+    "externalLinks": [],
+    "malId": 104547,
+    "deletedAt": null,
+    "authors": [
+      "Yuuichi Hiiragi",
+      "Homura Kawamoto"
+    ]
+  }
 }

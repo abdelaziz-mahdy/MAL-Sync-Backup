@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gatou Shouji",
-    "Yoshioka Kimitake"
-  ],
+  "createdAt": "2020-10-12T16:07:11.000Z",
+  "updatedAt": "2021-12-04T01:17:48.000Z",
+  "checkedAt": null,
+  "id": 10078,
   "identifier": "8f22b5ff-2d76-4f5d-9b35-7969de2dc66d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67845,
   "aniId": 85217,
-  "createdAt": "2020-10-12T16:07:11.000Z",
-  "updatedAt": "2021-12-04T01:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gatou Shouji",
+    "Yoshioka Kimitake"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2022-05-17T05:00:28.000Z",
+    "checkedAt": "2022-05-17T05:00:28.000Z",
+    "id": 67845,
+    "type": "manga",
+    "title": "Amagi Brilliant Park",
+    "altTitle": [
+      "甘城ブリリアントパーク"
+    ],
+    "url": "https://myanimelist.net/manga/67845/Amagi_Brilliant_Park",
+    "image": "https://cdn.myanimelist.net/images/manga/1/132665.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "甘城ブリリアントパーク"
-    ],
+    "deletedAt": null,
     "authors": [
-      "Gatoh, Shoji",
+      "Gatou, Shouji",
       "Yoshioka, Kimitake"
-    ],
-    "id": 67845,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:54.948Z",
+    "updatedAt": "2022-05-17T05:00:27.000Z",
+    "checkedAt": "2022-05-17T05:00:27.000Z",
+    "id": 85217,
     "type": "manga",
     "title": "Amagi Brilliant Park",
-    "url": "https://myanimelist.net/manga/67845/Amagi_Brilliant_Park",
-    "image": "https://cdn.myanimelist.net/images/manga/1/132665.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:13.000Z",
-    "updatedAt": "2021-11-12T16:44:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "甘城ブリリアントパーク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouji Gatou",
-      "Kimitake Yoshioka",
-      "Yuka Nakajima"
-    ],
-    "id": 85217,
-    "malId": 67845,
-    "type": "manga",
-    "title": "Amagi Brilliant Park",
     "url": "https://anilist.co/manga/85217",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85217-l9iDQyLqT4Tu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:00.000Z",
-    "updatedAt": "2022-05-13T03:30:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67845/Amagi_Brilliant_Park"
+    "externalLinks": [],
+    "malId": 67845,
+    "deletedAt": null,
+    "authors": [
+      "Shouji Gatou",
+      "Kimitake Yoshioka",
+      "Yuka Nakajima"
+    ]
+  }
 }

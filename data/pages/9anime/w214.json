@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:05.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9609,
   "identifier": "w214",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32936,
   "aniId": 21662,
-  "createdAt": "2020-10-12T15:56:05.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:44.000Z",
+    "updatedAt": "2022-05-14T16:13:20.000Z",
+    "checkedAt": "2022-05-14T16:13:20.000Z",
+    "id": 32936,
+    "type": "anime",
+    "title": "Gin no Guardian",
+    "altTitle": [
+      "Gin no Hakamori",
+      "The Silver Guardian",
+      "銀の墓守り〈ガーディアン〉"
+    ],
+    "url": "https://myanimelist.net/anime/32936/Gin_no_Guardian",
+    "image": "https://cdn.myanimelist.net/images/anime/8/86525.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,30 +60,26 @@
         "url": "https://www.funimation.com/shows/the-silver-guardian"
       }
     ],
-    "altTitle": [
-      "Gin no Hakamori",
-      "The Silver Guardian",
-      "銀の墓守り〈ガーディアン〉"
-    ],
-    "id": 32936,
+    "deletedAt": null,
+    "anidbId": 11840
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:04.000Z",
+    "updatedAt": "2022-05-15T11:12:47.000Z",
+    "checkedAt": "2022-05-15T11:12:47.000Z",
+    "id": 21662,
     "type": "anime",
     "title": "Gin no Guardian",
-    "url": "https://myanimelist.net/anime/32936/Gin_no_Guardian",
-    "image": "https://cdn.myanimelist.net/images/anime/8/86525.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11840,
-    "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2022-04-25T03:01:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Silver Guardian",
       "銀の墓守り",
       "Shirogane no Guardian",
       "银之守墓人"
     ],
+    "url": "https://anilist.co/anime/21662",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21662-pTpbHTs0xqsG.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -81,17 +94,7 @@
         "url": "https://vrv.co/series/G6NQ5NJ36/The-Silver-Guardian"
       }
     ],
-    "id": 21662,
     "malId": 32936,
-    "type": "anime",
-    "title": "Gin no Guardian",
-    "url": "https://anilist.co/anime/21662",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21662-pTpbHTs0xqsG.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:04.000Z",
-    "updatedAt": "2022-05-05T10:00:25.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32936/Gin_no_Guardian"
+  }
 }

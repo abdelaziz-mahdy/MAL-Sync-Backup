@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Zaki Mitsunori"
-  ],
+  "createdAt": "2020-10-12T16:04:15.000Z",
+  "updatedAt": "2021-12-02T20:16:47.000Z",
+  "checkedAt": null,
+  "id": 3950,
   "identifier": "ea42844f-bfef-486a-b29e-c0552306203a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35635,
   "aniId": 65635,
-  "createdAt": "2020-10-12T16:04:15.000Z",
-  "updatedAt": "2021-12-02T20:16:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zaki Mitsunori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2021-11-05T17:06:03.000Z",
+    "checkedAt": null,
+    "id": 35635,
+    "type": "manga",
+    "title": "It Vorspiel",
+    "altTitle": [
+      "Itto Vorspiel",
+      "イット Vorspiel ～フォアシュピール～"
+    ],
+    "url": "https://myanimelist.net/manga/35635/It_Vorspiel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/64613.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Itto Vorspiel",
-      "イット Vorspiel ～フォアシュピール～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Zaki, Mitsunori"
-    ],
-    "id": 35635,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:25.575Z",
+    "updatedAt": "2022-05-13T12:52:25.575Z",
+    "checkedAt": null,
+    "id": 65635,
     "type": "manga",
     "title": "It Vorspiel",
-    "url": "https://myanimelist.net/manga/35635/It_Vorspiel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/64613.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2021-11-05T17:06:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イット Vorspiel ～フォアシュピール～",
       "Itto Vorspiel"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsunori Zaki"
-    ],
-    "id": 65635,
-    "malId": 35635,
-    "type": "manga",
-    "title": "It Vorspiel",
     "url": "https://anilist.co/manga/65635",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35635.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2021-12-17T19:51:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35635/It_Vorspiel"
+    "externalLinks": [],
+    "malId": 35635,
+    "deletedAt": null,
+    "authors": [
+      "Mitsunori Zaki"
+    ]
+  }
 }

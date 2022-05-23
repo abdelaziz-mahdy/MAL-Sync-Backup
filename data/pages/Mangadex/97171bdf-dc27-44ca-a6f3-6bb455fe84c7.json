@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lee Kyung-Min",
-    "Song Joon-Hyuk"
-  ],
+  "createdAt": "2020-10-12T16:18:50.000Z",
+  "updatedAt": "2021-12-10T09:54:21.000Z",
+  "checkedAt": null,
+  "id": 33942,
   "identifier": "97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,33 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 122195,
-  "createdAt": "2020-10-12T16:18:50.000Z",
-  "updatedAt": "2021-12-10T09:54:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Kyung-Min",
+    "Song Joon-Hyuk"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:28.034Z",
+    "updatedAt": "2022-05-23T02:52:48.000Z",
+    "checkedAt": "2022-05-23T02:52:48.000Z",
+    "id": 122195,
+    "type": "manga",
+    "title": "Gangnam Dokkaebi",
     "altTitle": [
       "강남도깨비"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kyung-Min Lee",
-      "Jun-Hyeok Song"
-    ],
-    "id": 122195,
-    "malId": null,
-    "type": "manga",
-    "title": "Gangnam Dokkaebi",
     "url": "https://anilist.co/manga/122195",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122195-v4OyyPdVhoyn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T20:12:57.000Z",
-    "updatedAt": "2021-11-29T15:05:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Kyung-Min Lee",
+      "Jun-Hyeok Song"
+    ]
+  }
 }

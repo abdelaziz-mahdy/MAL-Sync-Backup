@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanabe Yellow"
-  ],
+  "createdAt": "2020-10-12T16:03:11.000Z",
+  "updatedAt": "2021-12-02T12:46:16.000Z",
+  "checkedAt": null,
+  "id": 1715,
   "identifier": "cc3eac46-e0d6-423d-bf0b-73e1ad59fe06",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105,
   "aniId": 30105,
-  "createdAt": "2020-10-12T16:03:11.000Z",
-  "updatedAt": "2021-12-02T12:46:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanabe Yellow"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2021-12-03T23:46:06.000Z",
+    "checkedAt": null,
+    "id": 105,
+    "type": "manga",
+    "title": "Kekkaishi",
+    "altTitle": [
+      "Kekkaishi",
+      "Kekkaishi Ayakashi Hojinden",
+      "結界師"
+    ],
+    "url": "https://myanimelist.net/manga/105/Kekkaishi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/62941.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,51 +42,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kekkaishi",
-      "Kekkaishi Ayakashi Hojinden",
-      "結界師"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanabe, Yellow"
-    ],
-    "id": 105,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.077Z",
+    "updatedAt": "2022-05-13T13:06:44.077Z",
+    "checkedAt": null,
+    "id": 30105,
     "type": "manga",
     "title": "Kekkaishi",
-    "url": "https://myanimelist.net/manga/105/Kekkaishi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/62941.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2021-12-03T23:46:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kekkaishi",
       "結界師",
       "Kekkaishi Ayakashi Hojinden"
     ],
+    "url": "https://anilist.co/manga/30105",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30105-OWIRmv3niW9c.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "VIZ",
         "url": "https://www.viz.com/kekkaishi"
       }
     ],
+    "malId": 105,
+    "deletedAt": null,
     "authors": [
       "Yellow Tanabe"
-    ],
-    "id": 30105,
-    "malId": 105,
-    "type": "manga",
-    "title": "Kekkaishi",
-    "url": "https://anilist.co/manga/30105",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30105-OWIRmv3niW9c.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:33:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105/Kekkaishi"
+    ]
+  }
 }

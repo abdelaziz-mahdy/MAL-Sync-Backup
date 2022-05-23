@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "TEZUKA Osamu",
-    "URASAWA Naoki"
-  ],
+  "createdAt": "2021-01-28T18:22:43.000Z",
+  "updatedAt": "2022-02-10T04:40:11.000Z",
+  "checkedAt": null,
+  "id": 60395,
   "identifier": "pluto",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 745,
   "aniId": 30745,
-  "createdAt": "2021-01-28T18:22:43.000Z",
-  "updatedAt": "2022-02-10T04:40:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "TEZUKA Osamu",
+    "URASAWA Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-13T23:51:58.000Z",
+    "checkedAt": "2022-05-13T23:51:58.000Z",
+    "id": 745,
+    "type": "manga",
+    "title": "Pluto",
+    "altTitle": [
+      "Pluto: Urasawa x Tezuka",
+      "PLUTO"
+    ],
+    "url": "https://myanimelist.net/manga/745/Pluto",
+    "image": "https://cdn.myanimelist.net/images/manga/2/56177.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,33 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pluto: Urasawa x Tezuka",
-      "PLUTO"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki",
       "Tezuka, Osamu"
-    ],
-    "id": 745,
-    "type": "manga",
-    "title": "Pluto",
-    "url": "https://myanimelist.net/manga/745/Pluto",
-    "image": "https://cdn.myanimelist.net/images/manga/2/56177.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-04-25T14:02:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:17.019Z",
+    "updatedAt": "2022-05-15T17:25:11.000Z",
+    "checkedAt": "2022-05-15T17:25:11.000Z",
+    "id": 30745,
+    "type": "manga",
+    "title": "PLUTO",
     "altTitle": [
       "Pluto",
       "PLUTO",
       "プルートウ",
       "Pluto: Urasawa x Tezuka"
     ],
+    "url": "https://anilist.co/manga/30745",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30745-ul1SWtQ3gK6E.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 745,
+    "deletedAt": null,
     "authors": [
       "Naoki Urasawa",
       "Osamu Tezuka",
@@ -60,18 +75,6 @@
       "Thibaud Desbief",
       "Frederik Schodt",
       "Jared Cook"
-    ],
-    "id": 30745,
-    "malId": 745,
-    "type": "manga",
-    "title": "PLUTO",
-    "url": "https://anilist.co/manga/30745",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30745-ul1SWtQ3gK6E.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2022-03-08T23:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/745/Pluto"
+    ]
+  }
 }

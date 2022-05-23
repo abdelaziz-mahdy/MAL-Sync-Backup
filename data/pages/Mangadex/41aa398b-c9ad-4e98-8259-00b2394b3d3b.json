@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanabe Yellow"
-  ],
+  "createdAt": "2020-10-12T16:06:37.000Z",
+  "updatedAt": "2021-12-03T21:17:57.000Z",
+  "checkedAt": null,
+  "id": 8870,
   "identifier": "41aa398b-c9ad-4e98-8259-00b2394b3d3b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55455,
   "aniId": 85201,
-  "createdAt": "2020-10-12T16:06:37.000Z",
-  "updatedAt": "2021-12-03T21:17:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanabe Yellow"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2021-12-08T12:04:08.000Z",
+    "checkedAt": null,
+    "id": 55455,
+    "type": "manga",
+    "title": "Birdmen",
+    "altTitle": [
+      "Bird Men",
+      "BIRDMEN"
+    ],
+    "url": "https://myanimelist.net/manga/55455/Birdmen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/105747.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bird Men",
-      "BIRDMEN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanabe, Yellow"
-    ],
-    "id": 55455,
-    "type": "manga",
-    "title": "Birdmen",
-    "url": "https://myanimelist.net/manga/55455/Birdmen",
-    "image": "https://cdn.myanimelist.net/images/manga/1/105747.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2021-12-08T12:04:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:26.681Z",
+    "updatedAt": "2022-05-13T13:02:26.681Z",
+    "checkedAt": null,
+    "id": 85201,
+    "type": "manga",
+    "title": "BIRDMEN",
     "altTitle": [
       "BIRDMEN -バードメン-",
       "Bird Men"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yellow Tanabe"
-    ],
-    "id": 85201,
-    "malId": 55455,
-    "type": "manga",
-    "title": "BIRDMEN",
     "url": "https://anilist.co/manga/85201",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85201-ngFJV08YTBxL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2022-02-21T17:49:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55455/Birdmen"
+    "externalLinks": [],
+    "malId": 55455,
+    "deletedAt": null,
+    "authors": [
+      "Yellow Tanabe"
+    ]
+  }
 }

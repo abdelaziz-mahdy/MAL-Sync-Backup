@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ayuko"
-  ],
+  "createdAt": "2020-10-12T16:09:30.000Z",
+  "updatedAt": "2021-12-04T18:26:11.000Z",
+  "checkedAt": null,
+  "id": 15140,
   "identifier": "465cc38b-83a5-4893-b1b0-5bd9238be890",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93550,
   "aniId": 96159,
-  "createdAt": "2020-10-12T16:09:30.000Z",
-  "updatedAt": "2021-12-04T18:26:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ayuko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:14.000Z",
+    "updatedAt": "2021-11-14T21:14:37.000Z",
+    "checkedAt": null,
+    "id": 93550,
+    "type": "manga",
+    "title": "Kimi to Eureka",
+    "altTitle": [
+      "Eureka Moment with You",
+      "Kimi to Yuriika",
+      "きみとユリイカ"
+    ],
+    "url": "https://myanimelist.net/manga/93550/Kimi_to_Eureka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/174497.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eureka Moment with You",
-      "Kimi to Yuriika",
-      "きみとユリイカ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ayuko"
-    ],
-    "id": 93550,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:56.277Z",
+    "updatedAt": "2022-05-13T12:57:56.277Z",
+    "checkedAt": null,
+    "id": 96159,
     "type": "manga",
     "title": "Kimi to Eureka",
-    "url": "https://myanimelist.net/manga/93550/Kimi_to_Eureka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/174497.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:14.000Z",
-    "updatedAt": "2021-11-14T21:14:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "きみとユリイカ",
       "Kimi to Yuriika",
       "Eureka Moment with You",
       "你和尤里卡"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ayuko"
-    ],
-    "id": 96159,
-    "malId": 93550,
-    "type": "manga",
-    "title": "Kimi to Eureka",
     "url": "https://anilist.co/manga/96159",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx96159-Q38MBz67hZ0z.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:47.000Z",
-    "updatedAt": "2021-12-18T01:31:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93550/Kimi_to_Eureka"
+    "externalLinks": [],
+    "malId": 93550,
+    "deletedAt": null,
+    "authors": [
+      "Ayuko"
+    ]
+  }
 }

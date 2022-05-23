@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanaka Ai"
-  ],
+  "createdAt": "2020-10-12T16:12:44.000Z",
+  "updatedAt": "2022-04-30T00:01:23.000Z",
+  "checkedAt": null,
+  "id": 21445,
   "identifier": "bb47ac84-665c-4717-ab67-a470c0d2a7f2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111345,
   "aniId": 113424,
-  "createdAt": "2020-10-12T16:12:44.000Z",
-  "updatedAt": "2022-04-30T00:01:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanaka Ai"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:22.000Z",
+    "updatedAt": "2022-04-08T21:00:44.000Z",
+    "checkedAt": null,
+    "id": 111345,
+    "type": "manga",
+    "title": "Limbo the King",
+    "altTitle": [
+      "LIMBO THE KING"
+    ],
+    "url": "https://myanimelist.net/manga/111345/Limbo_the_King",
+    "image": "https://cdn.myanimelist.net/images/manga/2/204233.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LIMBO THE KING"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Ai"
-    ],
-    "id": 111345,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:23.175Z",
+    "updatedAt": "2022-05-13T12:42:23.175Z",
+    "checkedAt": null,
+    "id": 113424,
     "type": "manga",
     "title": "Limbo the King",
-    "url": "https://myanimelist.net/manga/111345/Limbo_the_King",
-    "image": "https://cdn.myanimelist.net/images/manga/2/204233.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2022-04-08T21:00:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リンボ・ザ・キング",
       "Rinbo za Kingu",
       "リンボ ザ キング"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ai Tanaka"
-    ],
-    "id": 113424,
-    "malId": 111345,
-    "type": "manga",
-    "title": "Limbo the King",
     "url": "https://anilist.co/manga/113424",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113424-GBiue3nhr9nW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-29T23:16:08.000Z",
-    "updatedAt": "2022-04-29T23:32:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111345/Limbo_the_King"
+    "externalLinks": [],
+    "malId": 111345,
+    "deletedAt": null,
+    "authors": [
+      "Ai Tanaka"
+    ]
+  }
 }

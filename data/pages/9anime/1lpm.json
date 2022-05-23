@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:13.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 999,
   "identifier": "1lpm",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1283,
   "aniId": 1283,
-  "createdAt": "2020-10-12T15:49:13.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:15.000Z",
+    "updatedAt": "2022-05-17T16:26:27.000Z",
+    "checkedAt": "2022-05-17T16:26:27.000Z",
+    "id": 1283,
+    "type": "anime",
+    "title": "Choujuu Densetsu Gestalt",
+    "altTitle": [
+      "Gestalt",
+      "超獣伝説ゲシュタルト"
+    ],
+    "url": "https://myanimelist.net/anime/1283/Choujuu_Densetsu_Gestalt",
+    "image": "https://cdn.myanimelist.net/images/anime/1491/96516.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gestalt",
-      "超獣伝説ゲシュタルト"
-    ],
+    "deletedAt": null,
+    "anidbId": 597
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:03.000Z",
+    "updatedAt": "2022-05-17T16:26:26.000Z",
+    "checkedAt": "2022-05-17T16:26:26.000Z",
     "id": 1283,
     "type": "anime",
     "title": "Choujuu Densetsu Gestalt",
-    "url": "https://myanimelist.net/anime/1283/Choujuu_Densetsu_Gestalt",
-    "image": "https://cdn.myanimelist.net/images/anime/1491/96516.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 597,
-    "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2022-03-30T21:35:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "超獣伝説ゲシュタルト",
       "Choujuu Densetsu Gestalt"
     ],
-    "externalLinks": [],
-    "id": 1283,
-    "malId": 1283,
-    "type": "anime",
-    "title": "Choujuu Densetsu Gestalt",
     "url": "https://anilist.co/anime/1283",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1283.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:03.000Z",
-    "updatedAt": "2022-05-13T15:30:23.000Z",
+    "externalLinks": [],
+    "malId": 1283,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1283/Choujuu_Densetsu_Gestalt"
+  }
 }

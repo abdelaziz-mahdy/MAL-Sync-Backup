@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Byeonduck"
-  ],
+  "createdAt": "2021-09-07T00:34:44.000Z",
+  "updatedAt": "2022-03-07T07:59:39.000Z",
+  "checkedAt": null,
+  "id": 86810,
   "identifier": "yahwacheop",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 139429,
   "aniId": 111621,
-  "createdAt": "2021-09-07T00:34:44.000Z",
-  "updatedAt": "2022-03-07T07:59:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Byeonduck"
+  ],
   "Mal": {
+    "createdAt": "2021-09-07T00:35:35.000Z",
+    "updatedAt": "2022-05-16T23:37:47.000Z",
+    "checkedAt": "2022-05-16T23:37:47.000Z",
+    "id": 139429,
+    "type": "manga",
+    "title": "Painter of the Night",
+    "altTitle": [
+      "Ya-hwa-cheop",
+      "Painter of the Night",
+      "야화첩"
+    ],
+    "url": "https://myanimelist.net/manga/139429/Painter_of_the_Night",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249147.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ya-hwa-cheop",
-      "Painter of the Night",
-      "야화첩"
-    ],
+    "deletedAt": null,
     "authors": [
       "Byeonduck"
-    ],
-    "id": 139429,
-    "type": "manga",
-    "title": "Painter of the Night",
-    "url": "https://myanimelist.net/manga/139429/Painter_of_the_Night",
-    "image": "https://cdn.myanimelist.net/images/manga/3/249147.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-09-07T00:35:35.000Z",
-    "updatedAt": "2022-01-04T18:49:32.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:58.332Z",
+    "updatedAt": "2022-05-16T23:37:45.000Z",
+    "checkedAt": "2022-05-16T23:37:45.000Z",
+    "id": 111621,
+    "type": "manga",
+    "title": "Yahwacheop",
     "altTitle": [
       "Painter of the Night",
       "야화첩",
@@ -52,21 +61,15 @@
       "Scène de Nuit",
       "Pintor Nocturno"
     ],
-    "externalLinks": [],
-    "authors": [
-      "ByeonDuck"
-    ],
-    "id": 111621,
-    "malId": 139429,
-    "type": "manga",
-    "title": "Yahwacheop",
     "url": "https://anilist.co/manga/111621",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111621-3JDuK3u66Szj.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T22:42:58.000Z",
-    "updatedAt": "2022-02-03T06:51:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/139429/Painter_of_the_Night"
+    "externalLinks": [],
+    "malId": 139429,
+    "deletedAt": null,
+    "authors": [
+      "ByeonDuck"
+    ]
+  }
 }

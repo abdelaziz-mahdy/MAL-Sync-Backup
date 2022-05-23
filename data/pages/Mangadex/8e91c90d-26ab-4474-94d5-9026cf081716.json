@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hoshino Lily"
-  ],
+  "createdAt": "2020-10-12T16:07:29.000Z",
+  "updatedAt": "2021-12-04T03:21:58.000Z",
+  "checkedAt": null,
+  "id": 10738,
   "identifier": "8e91c90d-26ab-4474-94d5-9026cf081716",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63281,
   "aniId": 85741,
-  "createdAt": "2020-10-12T16:07:29.000Z",
-  "updatedAt": "2021-12-04T03:21:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hoshino Lily"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2022-05-16T20:53:39.000Z",
+    "checkedAt": "2022-05-16T20:53:39.000Z",
+    "id": 63281,
+    "type": "manga",
+    "title": "Kigurumi Guardians",
+    "altTitle": [
+      "Kigurumi Boueitai",
+      "Kigurumi Guardians",
+      "きぐるみ防衛隊〈ガーディアンズ〉"
+    ],
+    "url": "https://myanimelist.net/manga/63281/Kigurumi_Guardians",
+    "image": "https://cdn.myanimelist.net/images/manga/3/108381.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kigurumi Guardians",
-      "Kigurumi Boueitai",
-      "きぐるみ防衛隊〈ガーディアンズ〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hoshino, Lily"
-    ],
-    "id": 63281,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:57.597Z",
+    "updatedAt": "2022-05-16T20:53:37.000Z",
+    "checkedAt": "2022-05-16T20:53:37.000Z",
+    "id": 85741,
     "type": "manga",
     "title": "Kigurumi Guardians",
-    "url": "https://myanimelist.net/manga/63281/Kigurumi_Guardians",
-    "image": "https://cdn.myanimelist.net/images/manga/3/108381.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2021-11-28T08:35:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kigurumi Guardians",
       "きぐるみ防衛隊",
@@ -52,21 +61,15 @@
       "きぐるみ防衛隊〈ガーディアンズ〉",
       "Kigurumi Mascots"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Lily Hoshino"
-    ],
-    "id": 85741,
-    "malId": 63281,
-    "type": "manga",
-    "title": "Kigurumi Guardians",
     "url": "https://anilist.co/manga/85741",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85741-ZLIkePpX71yQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:47.000Z",
-    "updatedAt": "2021-12-17T22:22:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63281/Kigurumi_Guardians"
+    "externalLinks": [],
+    "malId": 63281,
+    "deletedAt": null,
+    "authors": [
+      "Lily Hoshino"
+    ]
+  }
 }

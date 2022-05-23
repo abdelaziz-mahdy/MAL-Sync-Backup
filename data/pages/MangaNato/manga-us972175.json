@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kumota Haruko"
-  ],
+  "createdAt": "2022-03-10T13:31:25.000Z",
+  "updatedAt": "2022-03-10T13:59:44.000Z",
+  "checkedAt": null,
+  "id": 98197,
   "identifier": "manga-us972175",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26704,
   "aniId": 56704,
-  "createdAt": "2022-03-10T13:31:25.000Z",
-  "updatedAt": "2022-03-10T13:59:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kumota Haruko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:26.000Z",
+    "updatedAt": "2022-05-14T20:48:41.000Z",
+    "checkedAt": "2022-05-14T20:48:41.000Z",
+    "id": 26704,
+    "type": "manga",
+    "title": "Shouwa Genroku Rakugo Shinjuu",
+    "altTitle": [
+      "Descending Stories: Showa Genroku Rakugo Shinju",
+      "昭和元禄落語心中"
+    ],
+    "url": "https://myanimelist.net/manga/26704/Shouwa_Genroku_Rakugo_Shinjuu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/149738.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Descending Stories: Showa Genroku Rakugo Shinju",
-      "昭和元禄落語心中"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kumota, Haruko"
-    ],
-    "id": 26704,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:07.334Z",
+    "updatedAt": "2022-05-15T21:29:23.000Z",
+    "checkedAt": "2022-05-15T21:29:23.000Z",
+    "id": 56704,
     "type": "manga",
     "title": "Shouwa Genroku Rakugo Shinjuu",
-    "url": "https://myanimelist.net/manga/26704/Shouwa_Genroku_Rakugo_Shinjuu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/149738.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:26.000Z",
-    "updatedAt": "2022-03-10T13:31:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Descending Stories: Showa Genroku Rakugo Shinju",
       "昭和元禄落語心中",
       "Le Rakugo, À la Vie, À la Mort"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruko Kumota",
-      "Cyril Coppini"
-    ],
-    "id": 56704,
-    "malId": 26704,
-    "type": "manga",
-    "title": "Shouwa Genroku Rakugo Shinjuu",
     "url": "https://anilist.co/manga/56704",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56704-ZofbsbuLTByN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:04.000Z",
-    "updatedAt": "2021-11-28T05:05:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26704/Shouwa_Genroku_Rakugo_Shinjuu"
+    "externalLinks": [],
+    "malId": 26704,
+    "deletedAt": null,
+    "authors": [
+      "Haruko Kumota",
+      "Cyril Coppini"
+    ]
+  }
 }

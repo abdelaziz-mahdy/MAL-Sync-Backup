@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Aramata Hiroshi",
-    "Takahashi Yousuke"
-  ],
+  "createdAt": "2020-10-12T16:09:33.000Z",
+  "updatedAt": "2021-12-04T19:49:20.000Z",
+  "checkedAt": null,
+  "id": 15234,
   "identifier": "94179f73-32cd-442f-8c28-dca671af0fdd",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67341,
   "aniId": 90615,
-  "createdAt": "2020-10-12T16:09:33.000Z",
-  "updatedAt": "2021-12-04T19:49:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aramata Hiroshi",
+    "Takahashi Yousuke"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T18:50:18.000Z",
+    "updatedAt": "2021-12-04T19:20:27.000Z",
+    "checkedAt": null,
+    "id": 67341,
+    "type": "manga",
+    "title": "Teito Monogatari",
+    "altTitle": [
+      "Teito Monogatari - Babylon Tokyo",
+      "Teito Monogatari - Touketsu",
+      "帝都物語"
+    ],
+    "url": "https://myanimelist.net/manga/67341/Teito_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/212602.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Teito Monogatari - Babylon Tokyo",
-      "Teito Monogatari - Touketsu",
-      "帝都物語"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujiwara, Kamui",
       "Aramata, Hiroshi"
-    ],
-    "id": 67341,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.439Z",
+    "updatedAt": "2022-05-13T13:05:50.439Z",
+    "checkedAt": null,
+    "id": 90615,
     "type": "manga",
     "title": "Teito Monogatari",
-    "url": "https://myanimelist.net/manga/67341/Teito_Monogatari",
-    "image": "https://cdn.myanimelist.net/images/manga/1/212602.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T18:50:18.000Z",
-    "updatedAt": "2021-12-04T19:20:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "帝都物語",
       "Teito Monogatari - Babylon Tokyo",
       "Teito Monogatari - Touketsu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kamui Fujiwara",
-      "Hiroshi Aramata"
-    ],
-    "id": 90615,
-    "malId": 67341,
-    "type": "manga",
-    "title": "Teito Monogatari",
     "url": "https://anilist.co/manga/90615",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b90615-yTkrBv14ona2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T18:50:18.000Z",
-    "updatedAt": "2021-12-18T00:01:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67341/Teito_Monogatari"
+    "externalLinks": [],
+    "malId": 67341,
+    "deletedAt": null,
+    "authors": [
+      "Kamui Fujiwara",
+      "Hiroshi Aramata"
+    ]
+  }
 }

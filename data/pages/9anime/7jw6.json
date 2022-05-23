@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:04.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3439,
   "identifier": "7jw6",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65,
   "aniId": 65,
-  "createdAt": "2020-10-12T15:51:04.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T18:38:05.000Z",
+    "checkedAt": "2022-05-14T18:38:05.000Z",
+    "id": 65,
+    "type": "anime",
+    "title": "Rozen Maiden: Träumend",
+    "altTitle": [
+      "Rozen Maiden 2",
+      "Rozen Maiden: Träumend",
+      "ローゼンメイデン トロイメント"
+    ],
+    "url": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend",
+    "image": "https://cdn.myanimelist.net/images/anime/4/10242.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,30 +56,26 @@
         "url": "https://www.hidive.com/tv/rozen-maiden-trumend"
       }
     ],
-    "altTitle": [
-      "Rozen Maiden 2",
-      "Rozen Maiden: Träumend",
-      "ローゼンメイデン トロイメント"
-    ],
+    "deletedAt": null,
+    "anidbId": 3169
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T17:30:35.000Z",
+    "checkedAt": "2022-05-15T17:30:35.000Z",
     "id": 65,
     "type": "anime",
     "title": "Rozen Maiden: Träumend",
-    "url": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend",
-    "image": "https://cdn.myanimelist.net/images/anime/4/10242.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3169,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-04-11T19:39:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rozen Maiden: Dreaming",
       "ローゼンメイデン ~ トロイメント",
       "Rozen Maiden: Traumend",
       "Rozen Maiden 2"
     ],
+    "url": "https://anilist.co/anime/65",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx65-SnVu0Txb00nV.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -73,17 +86,7 @@
         "url": "https://www.hidive.com/tv/rozen-maiden-trumend"
       }
     ],
-    "id": 65,
     "malId": 65,
-    "type": "anime",
-    "title": "Rozen Maiden: Träumend",
-    "url": "https://anilist.co/anime/65",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx65-SnVu0Txb00nV.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-02-14T10:47:01.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend"
+  }
 }

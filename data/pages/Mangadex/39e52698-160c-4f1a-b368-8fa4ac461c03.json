@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Jyura"
-  ],
+  "createdAt": "2021-10-13T19:58:44.000Z",
+  "updatedAt": "2022-04-14T10:26:13.000Z",
+  "checkedAt": null,
+  "id": 88700,
   "identifier": "39e52698-160c-4f1a-b368-8fa4ac461c03",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 136522,
   "aniId": 133932,
-  "createdAt": "2021-10-13T19:58:44.000Z",
-  "updatedAt": "2022-04-14T10:26:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jyura"
+  ],
   "Mal": {
+    "createdAt": "2021-10-13T03:58:55.000Z",
+    "updatedAt": "2022-05-16T03:55:41.000Z",
+    "checkedAt": "2022-05-16T03:55:41.000Z",
+    "id": 136522,
+    "type": "manga",
+    "title": "Kanojo no Tomodachi",
+    "altTitle": [
+      "My Girlfriend's Friend",
+      "彼女の友達"
+    ],
+    "url": "https://myanimelist.net/manga/136522/Kanojo_no_Tomodachi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/254816.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Girlfriend's Friend",
-      "彼女の友達"
-    ],
+    "deletedAt": null,
     "authors": [
       "Jyura"
-    ],
-    "id": 136522,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:03.509Z",
+    "updatedAt": "2022-05-16T03:55:40.000Z",
+    "checkedAt": "2022-05-16T03:55:40.000Z",
+    "id": 133932,
     "type": "manga",
     "title": "Kanojo no Tomodachi",
-    "url": "https://myanimelist.net/manga/136522/Kanojo_no_Tomodachi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/254816.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-13T03:58:55.000Z",
-    "updatedAt": "2022-04-09T07:31:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼女の友達",
       "Her Friend",
@@ -52,21 +61,15 @@
       "Kanojo no Tomodachi (JYURA)",
       "여친의 친구"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jyura"
-    ],
-    "id": 133932,
-    "malId": 136522,
-    "type": "manga",
-    "title": "Kanojo no Tomodachi",
     "url": "https://anilist.co/manga/133932",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133932-IGj479z13nGK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-29T21:12:13.000Z",
-    "updatedAt": "2022-01-20T16:04:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/136522/Kanojo_no_Tomodachi"
+    "externalLinks": [],
+    "malId": 136522,
+    "deletedAt": null,
+    "authors": [
+      "Jyura"
+    ]
+  }
 }

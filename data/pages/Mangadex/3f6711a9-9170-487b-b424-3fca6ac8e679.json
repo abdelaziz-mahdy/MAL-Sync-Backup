@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takahashi Katsuhiko",
-    "Hara Tetsuo"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:17.000Z",
+  "checkedAt": null,
+  "id": 3530,
   "identifier": "3f6711a9-9170-487b-b424-3fca6ac8e679",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34839,
   "aniId": 64839,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Katsuhiko",
+    "Hara Tetsuo"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/阿弖流為II世"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:53.000Z",
+    "updatedAt": "2022-01-28T02:20:50.000Z",
+    "checkedAt": null,
+    "id": 34839,
+    "type": "manga",
+    "title": "Aterui II-sei",
     "altTitle": [
       "Aterui The Second",
       "Aterui 2-sei",
@@ -33,22 +34,30 @@
       "Aterui II",
       "阿弖流為2世"
     ],
-    "authors": [
-      "Hara, Tetsuo",
-      "Takahashi, Katsuhiko"
-    ],
-    "id": 34839,
-    "type": "manga",
-    "title": "Aterui II-sei",
     "url": "https://myanimelist.net/manga/34839/Aterui_II-sei",
     "image": "https://cdn.myanimelist.net/images/manga/1/150446.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:53.000Z",
-    "updatedAt": "2022-01-28T02:20:50.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/阿弖流為II世"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hara, Tetsuo",
+      "Takahashi, Katsuhiko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:42.637Z",
+    "updatedAt": "2022-05-13T12:48:42.637Z",
+    "checkedAt": null,
+    "id": 64839,
+    "type": "manga",
+    "title": "Aterui II-sei",
     "altTitle": [
       "阿弖流為2世",
       "Aterui The Second",
@@ -56,22 +65,16 @@
       "Aterui Ni-Sei",
       "Aterui II"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuo Hara",
-      "Katsuhiko Takahashi"
-    ],
-    "id": 64839,
-    "malId": 34839,
-    "type": "manga",
-    "title": "Aterui II-sei",
     "url": "https://anilist.co/manga/64839",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64839-sYTKevIPr3Tj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:00.000Z",
-    "updatedAt": "2021-11-15T22:27:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/34839/Aterui_II-sei"
+    "externalLinks": [],
+    "malId": 34839,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuo Hara",
+      "Katsuhiko Takahashi"
+    ]
+  }
 }

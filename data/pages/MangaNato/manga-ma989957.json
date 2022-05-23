@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshioka Tsuyoshi"
-  ],
+  "createdAt": "2021-11-04T06:34:20.000Z",
+  "updatedAt": "2021-12-06T09:43:30.000Z",
+  "checkedAt": null,
+  "id": 90213,
   "identifier": "manga-ma989957",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 128496,
   "aniId": 121390,
-  "createdAt": "2021-11-04T06:34:20.000Z",
-  "updatedAt": "2021-12-06T09:43:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshioka Tsuyoshi"
+  ],
   "Mal": {
+    "createdAt": "2021-12-05T15:16:49.000Z",
+    "updatedAt": "2022-01-05T17:18:13.000Z",
+    "checkedAt": null,
+    "id": 128496,
+    "type": "manga",
+    "title": "Kenja no Mago SS",
+    "altTitle": [
+      "Kenja no Mago Side Stories",
+      "賢者の孫SS"
+    ],
+    "url": "https://myanimelist.net/manga/128496/Kenja_no_Mago_SS",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252925.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kenja no Mago Side Stories",
-      "賢者の孫SS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishii, Takuma"
-    ],
-    "id": 128496,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:18.694Z",
+    "updatedAt": "2022-05-13T12:45:18.694Z",
+    "checkedAt": null,
+    "id": 121390,
     "type": "manga",
     "title": "Kenja no Mago SS",
-    "url": "https://myanimelist.net/manga/128496/Kenja_no_Mago_SS",
-    "image": "https://cdn.myanimelist.net/images/manga/3/252925.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-05T15:16:49.000Z",
-    "updatedAt": "2022-01-05T17:18:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "賢者の孫SS"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuyoshi Yoshioka",
-      "Takuma Ishii",
-      "Seiji Kikuchi"
-    ],
-    "id": 121390,
-    "malId": 128496,
-    "type": "manga",
-    "title": "Kenja no Mago SS",
     "url": "https://anilist.co/manga/121390",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121390-sSKKHoV1fTkv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-21T13:14:52.000Z",
-    "updatedAt": "2021-12-02T07:46:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/128496/Kenja_no_Mago_SS"
+    "externalLinks": [],
+    "malId": 128496,
+    "deletedAt": null,
+    "authors": [
+      "Tsuyoshi Yoshioka",
+      "Takuma Ishii",
+      "Seiji Kikuchi"
+    ]
+  }
 }

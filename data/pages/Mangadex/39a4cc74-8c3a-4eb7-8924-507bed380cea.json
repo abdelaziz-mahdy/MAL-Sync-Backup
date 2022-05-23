@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Higuchi Tatsuhito",
-    "Yoshino Hiroyuki",
-    "Satou Kenetsu"
-  ],
+  "createdAt": "2020-10-12T16:04:45.000Z",
+  "updatedAt": "2021-12-02T23:19:42.000Z",
+  "checkedAt": null,
+  "id": 4947,
   "identifier": "39a4cc74-8c3a-4eb7-8924-507bed380cea",
   "type": "manga",
   "page": "Mangadex",
@@ -13,20 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1069,
   "aniId": 31069,
-  "createdAt": "2020-10-12T16:04:45.000Z",
-  "updatedAt": "2021-12-02T23:19:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higuchi Tatsuhito",
+    "Yoshino Hiroyuki",
+    "Satou Kenetsu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/My-Otome_%28manga%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2021-11-05T05:05:41.000Z",
+    "checkedAt": null,
+    "id": 1069,
+    "type": "manga",
+    "title": "Mai-Otome",
     "altTitle": [
       "My-Otome",
       "Mai Otome",
@@ -36,22 +37,30 @@
       "My~ZHiME",
       "舞-乙HiME"
     ],
-    "authors": [
-      "Satou, Kenetsu",
-      "Yoshino, Hiroyuki"
-    ],
-    "id": 1069,
-    "type": "manga",
-    "title": "Mai-Otome",
     "url": "https://myanimelist.net/manga/1069/Mai-Otome",
     "image": "https://cdn.myanimelist.net/images/manga/1/648.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2021-11-05T05:05:41.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/My-Otome_%28manga%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Satou, Kenetsu",
+      "Yoshino, Hiroyuki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:53.260Z",
+    "updatedAt": "2022-05-13T12:51:53.260Z",
+    "checkedAt": null,
+    "id": 31069,
+    "type": "manga",
+    "title": "Mai-Otome",
     "altTitle": [
       "My-Otome",
       "舞-乙HiME",
@@ -59,24 +68,18 @@
       "Mai Z-HiME",
       "Mai~Otsu Hime"
     ],
+    "url": "https://anilist.co/manga/31069",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1069.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 1069,
+    "deletedAt": null,
     "authors": [
       "Kenetsu Satou",
       "Hiroyuki Yoshino",
       "Hajime Yatate",
       "Tatsuto Higuchi"
-    ],
-    "id": 31069,
-    "malId": 1069,
-    "type": "manga",
-    "title": "Mai-Otome",
-    "url": "https://anilist.co/manga/31069",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1069.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1069/Mai-Otome"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suzuki Sanami"
-  ],
+  "createdAt": "2020-10-12T16:10:53.000Z",
+  "updatedAt": "2021-12-05T04:20:10.000Z",
+  "checkedAt": null,
+  "id": 18104,
   "identifier": "d3055d5e-47bf-4fd2-a6f1-8761d00be223",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88603,
   "aniId": 99762,
-  "createdAt": "2020-10-12T16:10:53.000Z",
-  "updatedAt": "2021-12-05T04:20:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Sanami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2021-11-13T09:13:58.000Z",
+    "checkedAt": null,
+    "id": 88603,
+    "type": "manga",
+    "title": "Hokusai to Meshi sae Areba",
+    "altTitle": [
+      "The Meal with Hokusai",
+      "ホクサイと飯さえあれば"
+    ],
+    "url": "https://myanimelist.net/manga/88603/Hokusai_to_Meshi_sae_Areba",
+    "image": "https://cdn.myanimelist.net/images/manga/3/154550.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Meal with Hokusai",
-      "ホクサイと飯さえあれば"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Sanami"
-    ],
-    "id": 88603,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:37.347Z",
+    "updatedAt": "2022-05-13T12:59:37.347Z",
+    "checkedAt": null,
+    "id": 99762,
     "type": "manga",
     "title": "Hokusai to Meshi sae Areba",
-    "url": "https://myanimelist.net/manga/88603/Hokusai_to_Meshi_sae_Areba",
-    "image": "https://cdn.myanimelist.net/images/manga/3/154550.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:58.000Z",
-    "updatedAt": "2021-11-13T09:13:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ホクサイと飯さえあれば",
       "All I Need Are Meals with Hokusai",
@@ -51,21 +60,15 @@
       "Hokusai to Meshi Saeareba",
       "As Long as I Have Hokusai & Food"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sanami Suzuki"
-    ],
-    "id": 99762,
-    "malId": 88603,
-    "type": "manga",
-    "title": "Hokusai to Meshi sae Areba",
     "url": "https://anilist.co/manga/99762",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99762-AGs53CDYw5m9.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:55.000Z",
-    "updatedAt": "2021-12-18T02:57:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88603/Hokusai_to_Meshi_sae_Areba"
+    "externalLinks": [],
+    "malId": 88603,
+    "deletedAt": null,
+    "authors": [
+      "Sanami Suzuki"
+    ]
+  }
 }

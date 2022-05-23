@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-12-25T19:56:36.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 31120,
   "identifier": "pita-ten",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 162,
   "aniId": 162,
-  "createdAt": "2020-12-25T19:56:36.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T20:36:17.000Z",
+    "checkedAt": "2022-05-14T20:36:17.000Z",
+    "id": 162,
+    "type": "anime",
+    "title": "Pita Ten",
+    "altTitle": [
+      "Pita-ten",
+      "Pitaten",
+      "Pita-Ten",
+      "ぴたテン"
+    ],
+    "url": "https://myanimelist.net/anime/162/Pita_Ten",
+    "image": "https://cdn.myanimelist.net/images/anime/7/25205.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +61,24 @@
         "url": "https://www.funimation.com/shows/pita-ten"
       }
     ],
-    "altTitle": [
-      "Pita-ten",
-      "Pitaten",
-      "Pita-Ten",
-      "ぴたテン"
-    ],
+    "deletedAt": null,
+    "anidbId": 323
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:27.000Z",
+    "updatedAt": "2022-05-15T10:56:11.000Z",
+    "checkedAt": "2022-05-15T10:56:11.000Z",
     "id": 162,
     "type": "anime",
-    "title": "Pita Ten",
-    "url": "https://myanimelist.net/anime/162/Pita_Ten",
-    "image": "https://cdn.myanimelist.net/images/anime/7/25205.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 323,
-    "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2022-03-30T11:34:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Pitaten",
     "altTitle": [
       "Pita-Ten",
       "ぴたテン"
     ],
+    "url": "https://anilist.co/anime/162",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/162.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -80,17 +93,7 @@
         "url": "https://www.funimation.com/shows/pita-ten/"
       }
     ],
-    "id": 162,
     "malId": 162,
-    "type": "anime",
-    "title": "Pitaten",
-    "url": "https://anilist.co/anime/162",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/162.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:27.000Z",
-    "updatedAt": "2022-04-03T12:35:06.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/162/Pita_Ten"
+  }
 }

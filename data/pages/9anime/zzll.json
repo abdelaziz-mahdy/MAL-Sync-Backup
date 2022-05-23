@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:57:18.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 11374,
   "identifier": "zzll",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 679,
   "aniId": 679,
-  "createdAt": "2020-10-12T15:57:18.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T23:16:35.000Z",
+    "checkedAt": "2022-05-14T23:16:35.000Z",
+    "id": 679,
+    "type": "anime",
+    "title": "Shadow Skill (1996)",
+    "altTitle": [
+      "Shadow Skill OVA",
+      "Shadow Skill 2",
+      "Shadow Skill: The Movie",
+      "影技 SHADOW SKILL"
+    ],
+    "url": "https://myanimelist.net/anime/679/Shadow_Skill_1996",
+    "image": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,43 +48,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shadow Skill OVA",
-      "Shadow Skill 2",
-      "Shadow Skill: The Movie",
-      "影技 SHADOW SKILL"
-    ],
+    "deletedAt": null,
+    "anidbId": 348
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T22:50:20.000Z",
+    "checkedAt": "2022-05-15T22:50:20.000Z",
     "id": 679,
     "type": "anime",
     "title": "Shadow Skill (1996)",
-    "url": "https://myanimelist.net/anime/679/Shadow_Skill_1996",
-    "image": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 348,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-03-30T16:32:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shadow Skill: The Movie",
       "影技 SHADOW SKILL",
       "Shadow Skill OVA",
       "Shadow Skill 2"
     ],
-    "externalLinks": [],
-    "id": 679,
-    "malId": 679,
-    "type": "anime",
-    "title": "Shadow Skill (1996)",
     "url": "https://anilist.co/anime/679",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/679.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2021-12-17T08:52:48.000Z",
+    "externalLinks": [],
+    "malId": 679,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/679/Shadow_Skill_1996"
+  }
 }

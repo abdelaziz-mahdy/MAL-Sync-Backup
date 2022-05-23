@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urasawa Naoki"
-  ],
+  "createdAt": "2021-05-31T09:11:20.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74382,
   "identifier": "manga-pm960669",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3,
   "aniId": 30003,
-  "createdAt": "2021-05-31T09:11:20.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urasawa Naoki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-13T23:33:14.000Z",
+    "checkedAt": "2022-05-13T23:33:14.000Z",
+    "id": 3,
+    "type": "manga",
+    "title": "20th Century Boys",
     "altTitle": [
       "20 Seiki Shounen",
       "Nijuu Seiki Shounen",
@@ -33,21 +34,29 @@
       "20th Century Boys",
       "20世紀少年"
     ],
-    "authors": [
-      "Urasawa, Naoki"
-    ],
-    "id": 3,
-    "type": "manga",
-    "title": "20th Century Boys",
     "url": "https://myanimelist.net/manga/3/20th_Century_Boys",
     "image": "https://cdn.myanimelist.net/images/manga/2/157513.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-08T13:01:13.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Urasawa, Naoki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:44.205Z",
+    "updatedAt": "2022-05-15T14:39:00.000Z",
+    "checkedAt": "2022-05-15T14:39:00.000Z",
+    "id": 30003,
+    "type": "manga",
+    "title": "20th Century Boys",
     "altTitle": [
       "20th Century Boys",
       "20世紀少年",
@@ -58,7 +67,13 @@
       "20th Century Boys - Chłopaki z dwudziestego wieku",
       "فتيان القرن 20"
     ],
+    "url": "https://anilist.co/manga/30003",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30003-leMRPLXK0yLr.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 3,
+    "deletedAt": null,
     "authors": [
       "Naoki Urasawa",
       "Freeman Wong",
@@ -74,18 +89,6 @@
       "Eduardo Solé",
       "Ram One",
       "Elza Keiko"
-    ],
-    "id": 30003,
-    "malId": 3,
-    "type": "manga",
-    "title": "20th Century Boys",
-    "url": "https://anilist.co/manga/30003",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30003-leMRPLXK0yLr.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3/20th_Century_Boys"
+    ]
+  }
 }

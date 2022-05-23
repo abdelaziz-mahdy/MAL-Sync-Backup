@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Carlo Zen",
-    "Toujou Chika"
-  ],
+  "createdAt": "2021-05-29T00:12:23.000Z",
+  "updatedAt": "2021-11-29T01:07:06.000Z",
+  "checkedAt": null,
+  "id": 73185,
   "identifier": "manga-um971369",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98436,
   "aniId": 97216,
-  "createdAt": "2021-05-29T00:12:23.000Z",
-  "updatedAt": "2021-11-29T01:07:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Carlo Zen",
+    "Toujou Chika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2022-05-15T00:13:53.000Z",
+    "checkedAt": "2022-05-15T00:13:53.000Z",
+    "id": 98436,
+    "type": "manga",
+    "title": "Youjo Senki",
+    "altTitle": [
+      "The Military Chronicles of a Little Girl",
+      "The Saga of Tanya the Evil",
+      "幼女戦記"
+    ],
+    "url": "https://myanimelist.net/manga/98436/Youjo_Senki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/186468.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Military Chronicles of a Little Girl",
-      "The Saga of Tanya the Evil",
-      "幼女戦記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toujou, Chika",
       "Zen, Carlo"
-    ],
-    "id": 98436,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:54.748Z",
+    "updatedAt": "2022-05-15T21:17:59.000Z",
+    "checkedAt": "2022-05-15T21:17:59.000Z",
+    "id": 97216,
     "type": "manga",
     "title": "Youjo Senki",
-    "url": "https://myanimelist.net/manga/98436/Youjo_Senki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/186468.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2022-03-05T07:01:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Saga of Tanya the Evil",
       "幼女戦記",
@@ -55,7 +64,13 @@
       "Diario De Guerra: Saga Of Tanya The Evil",
       "บันทึกสงครามของยัยเผด็จการ"
     ],
+    "url": "https://anilist.co/manga/97216",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97216-hleh4PmFoUgr.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 98436,
+    "deletedAt": null,
     "authors": [
       "Carlo Zen",
       "Chika Toujou",
@@ -65,19 +80,9 @@
       "Emily Balistrieri",
       "Bianca Pistillo",
       "Rochelle Gancio",
-      "Erika Abreu"
-    ],
-    "id": 97216,
-    "malId": 98436,
-    "type": "manga",
-    "title": "Youjo Senki",
-    "url": "https://anilist.co/manga/97216",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97216-hleh4PmFoUgr.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:12.000Z",
-    "updatedAt": "2021-11-28T04:05:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98436/Youjo_Senki"
+      "Erika Abreu",
+      "Chaiyapruh Wutiboonwatana",
+      "Bodin Phonwilawan"
+    ]
+  }
 }

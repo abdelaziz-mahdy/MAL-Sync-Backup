@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hayakawa Nojiko"
-  ],
+  "createdAt": "2020-10-12T16:15:56.000Z",
+  "updatedAt": "2022-01-24T09:08:49.000Z",
+  "checkedAt": null,
+  "id": 28051,
   "identifier": "0878ecf4-3e97-4891-94bb-f8d710d18adb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 34632,
-  "createdAt": "2020-10-12T16:15:56.000Z",
-  "updatedAt": "2022-01-24T09:08:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hayakawa Nojiko"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:46.602Z",
+    "updatedAt": "2022-05-15T11:43:11.000Z",
+    "checkedAt": "2022-05-15T11:43:11.000Z",
+    "id": 34632,
+    "type": "manga",
+    "title": "Oyasumi Punpun",
     "altTitle": [
       "Goodnight Punpun",
       "おやすみプンプン",
@@ -35,7 +43,13 @@
       "İyi Geceler, Punpun",
       "ฝันดีนะปุนปุน"
     ],
+    "url": "https://anilist.co/manga/34632",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx34632-14deknANZitb.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 4632,
+    "deletedAt": null,
     "authors": [
       "Inio Asano",
       "Thibaud Desbief",
@@ -44,18 +58,6 @@
       "JN Productions",
       "Sakura Ilgert",
       "Hiro Kashiwaba"
-    ],
-    "id": 34632,
-    "malId": 4632,
-    "type": "manga",
-    "title": "Oyasumi Punpun",
-    "url": "https://anilist.co/manga/34632",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx34632-14deknANZitb.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2022-04-25T04:00:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

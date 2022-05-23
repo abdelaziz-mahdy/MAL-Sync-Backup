@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tamura Yumi"
-  ],
+  "createdAt": "2021-06-29T08:05:48.000Z",
+  "updatedAt": "2021-12-29T08:25:28.000Z",
+  "checkedAt": null,
+  "id": 80087,
   "identifier": "manga-kp960250",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 974,
   "aniId": 30974,
-  "createdAt": "2021-06-29T08:05:48.000Z",
-  "updatedAt": "2021-12-29T08:25:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tamura Yumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-05-15T07:19:16.000Z",
+    "checkedAt": "2022-05-15T07:19:16.000Z",
+    "id": 974,
+    "type": "manga",
+    "title": "Basara",
+    "altTitle": [
+      "Legend of Basara",
+      "Basara",
+      "BASARA"
+    ],
+    "url": "https://myanimelist.net/manga/974/Basara",
+    "image": "https://cdn.myanimelist.net/images/manga/1/185359.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,52 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Legend of Basara",
-      "Basara",
-      "BASARA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tamura, Yumi"
-    ],
-    "id": 974,
-    "type": "manga",
-    "title": "Basara",
-    "url": "https://myanimelist.net/manga/974/Basara",
-    "image": "https://cdn.myanimelist.net/images/manga/1/185359.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2022-03-06T23:33:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.699Z",
+    "updatedAt": "2022-05-15T19:40:23.000Z",
+    "checkedAt": "2022-05-15T19:40:23.000Z",
+    "id": 30974,
+    "type": "manga",
+    "title": "BASARA",
     "altTitle": [
       "Basara",
       "BASARA",
       "Legend of Basara",
       "バサラ"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/basara"
-      }
-    ],
-    "authors": [
-      "Yumi Tamura"
-    ],
-    "id": 30974,
-    "malId": 974,
-    "type": "manga",
-    "title": "BASARA",
     "url": "https://anilist.co/manga/30974",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30974-Ck0pncZ7LEnW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-29T05:53:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/974/Basara"
+    "externalLinks": [],
+    "malId": 974,
+    "deletedAt": null,
+    "authors": [
+      "Yumi Tamura"
+    ]
+  }
 }

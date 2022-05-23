@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kita Yasuaki"
-  ],
+  "createdAt": "2020-10-12T16:13:13.000Z",
+  "updatedAt": "2021-12-05T19:48:28.000Z",
+  "checkedAt": null,
+  "id": 22427,
   "identifier": "63957b54-1531-43a4-b04f-1e27f4eeffab",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8643,
   "aniId": 38643,
-  "createdAt": "2020-10-12T16:13:13.000Z",
-  "updatedAt": "2021-12-05T19:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kita Yasuaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:20.000Z",
+    "updatedAt": "2022-04-30T09:32:13.000Z",
+    "checkedAt": null,
+    "id": 8643,
+    "type": "manga",
+    "title": "Makuhari",
+    "altTitle": [
+      "幕張"
+    ],
+    "url": "https://myanimelist.net/manga/8643/Makuhari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/72757.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "幕張"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kita, Yasuaki"
-    ],
-    "id": 8643,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:30.920Z",
+    "updatedAt": "2022-05-13T13:05:30.920Z",
+    "checkedAt": null,
+    "id": 38643,
     "type": "manga",
     "title": "Makuhari",
-    "url": "https://myanimelist.net/manga/8643/Makuhari",
-    "image": "https://cdn.myanimelist.net/images/manga/3/72757.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2022-04-30T09:32:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "幕張"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasuaki Kita"
-    ],
-    "id": 38643,
-    "malId": 8643,
-    "type": "manga",
-    "title": "Makuhari",
     "url": "https://anilist.co/manga/38643",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8643.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:49.000Z",
-    "updatedAt": "2021-12-17T13:36:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8643/Makuhari"
+    "externalLinks": [],
+    "malId": 8643,
+    "deletedAt": null,
+    "authors": [
+      "Yasuaki Kita"
+    ]
+  }
 }

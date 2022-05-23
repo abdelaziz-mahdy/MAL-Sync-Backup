@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yagi Norihiro"
-  ],
+  "createdAt": "2020-10-12T16:02:31.000Z",
+  "updatedAt": "2021-12-02T07:46:57.000Z",
+  "checkedAt": null,
+  "id": 295,
   "identifier": "be8fe64b-37da-4fba-b14d-603aba19be1f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 583,
   "aniId": 30583,
-  "createdAt": "2020-10-12T16:02:31.000Z",
-  "updatedAt": "2021-12-02T07:46:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yagi Norihiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-14T09:31:46.000Z",
+    "checkedAt": "2022-05-14T09:31:46.000Z",
+    "id": 583,
+    "type": "manga",
+    "title": "Claymore",
+    "altTitle": [
+      "Claymore",
+      "CLAYMORE"
+    ],
+    "url": "https://myanimelist.net/manga/583/Claymore",
+    "image": "https://cdn.myanimelist.net/images/manga/2/255378.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,51 +45,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Claymore",
-      "CLAYMORE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yagi, Norihiro"
-    ],
-    "id": 583,
-    "type": "manga",
-    "title": "Claymore",
-    "url": "https://myanimelist.net/manga/583/Claymore",
-    "image": "https://cdn.myanimelist.net/images/manga/2/255378.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-02T11:02:32.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.950Z",
+    "updatedAt": "2022-05-15T16:57:47.000Z",
+    "checkedAt": "2022-05-15T16:57:47.000Z",
+    "id": 30583,
+    "type": "manga",
+    "title": "CLAYMORE",
     "altTitle": [
       "Claymore",
       "CLAYMORE",
       "クレイモア"
     ],
+    "url": "https://anilist.co/manga/30583",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30583-Ysqwu8uryIUX.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100007"
       }
     ],
+    "malId": 583,
+    "deletedAt": null,
     "authors": [
       "Norihiro Yagi",
       "Drik Sada"
-    ],
-    "id": 30583,
-    "malId": 583,
-    "type": "manga",
-    "title": "CLAYMORE",
-    "url": "https://anilist.co/manga/30583",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30583-Ysqwu8uryIUX.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2022-04-23T18:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/583/Claymore"
+    ]
+  }
 }

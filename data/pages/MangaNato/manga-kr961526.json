@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urasawa Naoki"
-  ],
+  "createdAt": "2021-05-28T18:24:44.000Z",
+  "updatedAt": "2021-11-28T19:07:25.000Z",
+  "checkedAt": null,
+  "id": 72863,
   "identifier": "manga-kr961526",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1,
   "aniId": 30001,
-  "createdAt": "2021-05-28T18:24:44.000Z",
-  "updatedAt": "2021-11-28T19:07:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urasawa Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-14T09:27:22.000Z",
+    "checkedAt": "2022-05-14T09:27:22.000Z",
+    "id": 1,
+    "type": "manga",
+    "title": "Monster",
+    "altTitle": [
+      "Monster",
+      "MONSTER"
+    ],
+    "url": "https://myanimelist.net/manga/1/Monster",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258224.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,30 +41,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Monster",
-      "MONSTER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki"
-    ],
-    "id": 1,
-    "type": "manga",
-    "title": "Monster",
-    "url": "https://myanimelist.net/manga/1/Monster",
-    "image": "https://cdn.myanimelist.net/images/manga/3/258224.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-23T03:01:26.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:32.772Z",
+    "updatedAt": "2022-05-15T17:50:11.000Z",
+    "checkedAt": "2022-05-15T17:50:11.000Z",
+    "id": 30001,
+    "type": "manga",
+    "title": "MONSTER",
     "altTitle": [
       "Monster",
       "MONSTER"
     ],
+    "url": "https://anilist.co/manga/30001",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30001-Vft5PAKPrY1W.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 1,
+    "deletedAt": null,
     "authors": [
       "Naoki Urasawa",
       "Thibaud Desbief",
@@ -56,18 +71,6 @@
       "Yasushi Hoshino",
       "Anne Bidault",
       "Les Travaux d'Hercule"
-    ],
-    "id": 30001,
-    "malId": 1,
-    "type": "manga",
-    "title": "MONSTER",
-    "url": "https://anilist.co/manga/30001",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30001-Vft5PAKPrY1W.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-11T09:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1/Monster"
+    ]
+  }
 }

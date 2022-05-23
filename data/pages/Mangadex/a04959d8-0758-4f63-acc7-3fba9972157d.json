@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Souryo Fuyumi"
-  ],
+  "createdAt": "2020-10-12T16:02:32.000Z",
+  "updatedAt": "2021-12-02T07:47:17.000Z",
+  "checkedAt": null,
+  "id": 326,
   "identifier": "a04959d8-0758-4f63-acc7-3fba9972157d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 344,
   "aniId": 30344,
-  "createdAt": "2020-10-12T16:02:32.000Z",
-  "updatedAt": "2021-12-02T07:47:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Souryo Fuyumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-21T08:25:12.000Z",
+    "checkedAt": "2022-05-21T08:25:12.000Z",
+    "id": 344,
+    "type": "manga",
+    "title": "ES: Eternal Sabbath",
+    "altTitle": [
+      "ES: Eternal Sabbath",
+      "エス -Eternal Sabbath-"
+    ],
+    "url": "https://myanimelist.net/manga/344/ES__Eternal_Sabbath",
+    "image": "https://cdn.myanimelist.net/images/manga/2/174740.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ES: Eternal Sabbath",
-      "エス -Eternal Sabbath-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Souryo, Fuyumi"
-    ],
-    "id": 344,
-    "type": "manga",
-    "title": "ES: Eternal Sabbath",
-    "url": "https://myanimelist.net/manga/344/ES__Eternal_Sabbath",
-    "image": "https://cdn.myanimelist.net/images/manga/2/174740.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-02-03T03:21:17.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:49.332Z",
+    "updatedAt": "2022-05-21T08:25:10.000Z",
+    "checkedAt": "2022-05-21T08:25:10.000Z",
+    "id": 30344,
+    "type": "manga",
+    "title": "ES",
     "altTitle": [
       "ES: Eternal Sabbath",
       "ES -Eternal Sabbath-",
@@ -52,21 +61,15 @@
       "入侵",
       "Вечный покой"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fuyumi Souryou"
-    ],
-    "id": 30344,
-    "malId": 344,
-    "type": "manga",
-    "title": "ES",
     "url": "https://anilist.co/manga/30344",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30344-encdN7amezBn.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2021-12-17T09:08:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/344/ES__Eternal_Sabbath"
+    "externalLinks": [],
+    "malId": 344,
+    "deletedAt": null,
+    "authors": [
+      "Fuyumi Souryou"
+    ]
+  }
 }

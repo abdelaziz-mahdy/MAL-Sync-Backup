@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Woon Soo-yeon"
-  ],
+  "createdAt": "2020-10-12T16:02:28.000Z",
+  "updatedAt": "2021-12-02T07:17:28.000Z",
+  "checkedAt": null,
+  "id": 206,
   "identifier": "12e173b1-e7ce-47a9-9198-ffb1681944ed",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23923,
   "aniId": 53923,
-  "createdAt": "2020-10-12T16:02:28.000Z",
-  "updatedAt": "2021-12-02T07:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Woon Soo-yeon"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Mary_Stayed_Out_All_Night"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:12.000Z",
+    "updatedAt": "2021-11-03T20:35:11.000Z",
+    "checkedAt": null,
+    "id": 23923,
+    "type": "manga",
+    "title": "Maerineun Oebakjung",
     "altTitle": [
       "Maerineun Uibakjoong",
       "Maerineun Oebakjoong",
@@ -32,41 +33,43 @@
       "Marry Me, Mary!",
       "매리는 외박중"
     ],
-    "authors": [
-      "Won, Soo-yeon"
-    ],
-    "id": 23923,
-    "type": "manga",
-    "title": "Maerineun Oebakjung",
     "url": "https://myanimelist.net/manga/23923/Maerineun_Oebakjung",
     "image": "https://cdn.myanimelist.net/images/manga/2/38670.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:12.000Z",
-    "updatedAt": "2021-11-03T20:35:11.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mary_Stayed_Out_All_Night"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Won, Soo-yeon"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:18.816Z",
+    "updatedAt": "2022-05-13T12:58:18.816Z",
+    "checkedAt": null,
+    "id": 53923,
+    "type": "manga",
+    "title": "Mary-neun Oebakjung",
     "altTitle": [
       "매리는 외박중",
       "Mary Stayed Out All Night",
       "Marry Me"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Su-Yeon Won"
-    ],
-    "id": 53923,
-    "malId": 23923,
-    "type": "manga",
-    "title": "Mary-neun Oebakjung",
     "url": "https://anilist.co/manga/53923",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53923-sh0S5XtauO70.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:42.000Z",
-    "updatedAt": "2021-12-17T18:11:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23923/Maerineun_Oebakjung"
+    "externalLinks": [],
+    "malId": 23923,
+    "deletedAt": null,
+    "authors": [
+      "Su-Yeon Won"
+    ]
+  }
 }

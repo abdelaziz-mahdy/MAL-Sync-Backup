@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Honna Wakou"
-  ],
+  "createdAt": "2022-05-04T14:32:26.000Z",
+  "updatedAt": "2022-05-14T10:20:01.000Z",
+  "checkedAt": "2022-05-14T09:43:28.000Z",
+  "id": 102663,
   "identifier": "manga-kq962251",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,68 @@
   "image": "https://avt.mkklcdnv6temp.com/13/n/8-1583478694.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T14:32:26.000Z",
-  "updatedAt": "2022-05-04T14:32:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 24698,
+  "aniId": 54698,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Honna Wakou"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:14.000Z",
+    "updatedAt": "2022-05-14T09:43:35.000Z",
+    "checkedAt": "2022-05-14T09:43:35.000Z",
+    "id": 24698,
+    "type": "manga",
+    "title": "Nozo x Kimi",
+    "altTitle": [
+      "Nozomi x Kimio",
+      "Nozomi to Kimio",
+      "Nozomi and Kimio",
+      "NozoKimi",
+      "Nozo x Kimi: 2-nensei-hen",
+      "ノゾ×キミ"
+    ],
+    "url": "https://myanimelist.net/manga/24698/Nozo_x_Kimi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/78073.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%BE%C3%97%E3%82%AD%E3%83%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Honna, Wakou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:55.398Z",
+    "updatedAt": "2022-05-15T19:03:59.000Z",
+    "checkedAt": "2022-05-15T19:03:59.000Z",
+    "id": 54698,
+    "type": "manga",
+    "title": "Nozo x Kimi",
+    "altTitle": [
+      "Nozo x Kimi",
+      "ノゾ×キミ",
+      "Nozomi to Kimio",
+      "Nozomi and Kimio",
+      "NozoKimi"
+    ],
+    "url": "https://anilist.co/manga/54698",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24698.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 24698,
+    "deletedAt": null,
+    "authors": [
+      "Wakou Honna"
+    ]
+  }
 }

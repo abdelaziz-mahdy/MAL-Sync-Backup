@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Penguin"
-  ],
+  "createdAt": "2020-10-12T16:14:44.000Z",
+  "updatedAt": "2021-12-06T07:48:27.000Z",
+  "checkedAt": null,
+  "id": 25536,
   "identifier": "153a87d3-7c9c-4d3e-8855-ddc53d101f8c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22928,
   "aniId": 52928,
-  "createdAt": "2020-10-12T16:14:44.000Z",
-  "updatedAt": "2021-12-06T07:48:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Penguin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:07.000Z",
+    "updatedAt": "2022-05-21T22:10:08.000Z",
+    "checkedAt": "2022-05-21T22:10:08.000Z",
+    "id": 22928,
+    "type": "manga",
+    "title": "07-Ghost Children",
+    "altTitle": [
+      "Seven Ghost Children",
+      "07-GHOST CHILDREN"
+    ],
+    "url": "https://myanimelist.net/manga/22928/07-Ghost_Children",
+    "image": "https://cdn.myanimelist.net/images/manga/1/172746.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +41,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seven Ghost Children",
-      "07-GHOST CHILDREN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amemiya, Yuki",
       "Ichihara, Yukino"
-    ],
-    "id": 22928,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:57.007Z",
+    "updatedAt": "2022-05-21T22:10:07.000Z",
+    "checkedAt": "2022-05-21T22:10:07.000Z",
+    "id": 52928,
     "type": "manga",
     "title": "07-Ghost Children",
-    "url": "https://myanimelist.net/manga/22928/07-Ghost_Children",
-    "image": "https://cdn.myanimelist.net/images/manga/1/172746.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:07.000Z",
-    "updatedAt": "2022-03-18T20:50:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "セブンゴーストチルドレン",
       "Seven Ghost Children",
@@ -52,22 +61,16 @@
       "Begleiter",
       "One Day"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Amemiya",
-      "Yukino Ichihara"
-    ],
-    "id": 52928,
-    "malId": 22928,
-    "type": "manga",
-    "title": "07-Ghost Children",
     "url": "https://anilist.co/manga/52928",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22928.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:34.000Z",
-    "updatedAt": "2021-12-17T18:04:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22928/07-Ghost_Children"
+    "externalLinks": [],
+    "malId": 22928,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Amemiya",
+      "Yukino Ichihara"
+    ]
+  }
 }

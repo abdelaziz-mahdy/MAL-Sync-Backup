@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:02.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3423,
   "identifier": "7j06",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10389,
   "aniId": 10389,
-  "createdAt": "2020-10-12T15:51:02.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:06.000Z",
+    "updatedAt": "2022-05-14T10:34:21.000Z",
+    "checkedAt": "2022-05-14T10:34:21.000Z",
+    "id": 10389,
+    "type": "anime",
+    "title": "Momo e no Tegami",
+    "altTitle": [
+      "Momo e no Tegami",
+      "A Letter to Momo",
+      "ももへの手紙"
+    ],
+    "url": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami",
+    "image": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,41 +60,27 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Momo e no Tegami",
-      "A Letter to Momo",
-      "ももへの手紙"
-    ],
+    "deletedAt": null,
+    "anidbId": 8270
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:15.000Z",
+    "updatedAt": "2022-05-15T14:24:59.000Z",
+    "checkedAt": "2022-05-15T14:24:59.000Z",
     "id": 10389,
     "type": "anime",
     "title": "Momo e no Tegami",
-    "url": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami",
-    "image": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 8270,
-    "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2022-03-26T10:57:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Letter to Momo",
       "ももへの手紙",
       "Una Carta para Momo"
     ],
-    "externalLinks": [],
-    "id": 10389,
-    "malId": 10389,
-    "type": "anime",
-    "title": "Momo e no Tegami",
     "url": "https://anilist.co/anime/10389",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10389-NMYFKRxI1WwJ.png",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:15.000Z",
-    "updatedAt": "2021-12-17T12:03:50.000Z",
+    "externalLinks": [],
+    "malId": 10389,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami"
+  }
 }

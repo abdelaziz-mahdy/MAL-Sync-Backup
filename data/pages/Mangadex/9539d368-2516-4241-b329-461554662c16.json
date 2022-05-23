@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Oosawa Yuusuke",
-    "Kinoshita Shigeru"
-  ],
+  "createdAt": "2020-10-12T16:06:40.000Z",
+  "updatedAt": "2021-12-03T21:18:38.000Z",
+  "checkedAt": null,
+  "id": 8959,
   "identifier": "9539d368-2516-4241-b329-461554662c16",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57135,
   "aniId": 85238,
-  "createdAt": "2020-10-12T16:06:40.000Z",
-  "updatedAt": "2021-12-03T21:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oosawa Yuusuke",
+    "Kinoshita Shigeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:49.000Z",
+    "updatedAt": "2021-11-08T17:14:35.000Z",
+    "checkedAt": null,
+    "id": 57135,
+    "type": "manga",
+    "title": "Dr. Duo",
+    "altTitle": [
+      "Doctor Duo",
+      "Dr.デュオ"
+    ],
+    "url": "https://myanimelist.net/manga/57135/Dr_Duo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/99283.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Doctor Duo",
-      "Dr.デュオ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oosawa, Yuusuke",
       "Kinoshita, Shigeru"
-    ],
-    "id": 57135,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:44.684Z",
+    "updatedAt": "2022-05-13T13:05:44.684Z",
+    "checkedAt": null,
+    "id": 85238,
     "type": "manga",
     "title": "Dr. Duo",
-    "url": "https://myanimelist.net/manga/57135/Dr_Duo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/99283.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:49.000Z",
-    "updatedAt": "2021-11-08T17:14:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dr. Duo",
       "Dr.デュオ",
       "Doctor Duo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuusuke Oosawa"
-    ],
-    "id": 85238,
-    "malId": 57135,
-    "type": "manga",
-    "title": "Dr. Duo",
     "url": "https://anilist.co/manga/85238",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55238.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:30.000Z",
-    "updatedAt": "2021-12-17T21:56:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57135/Dr_Duo"
+    "externalLinks": [],
+    "malId": 57135,
+    "deletedAt": null,
+    "authors": [
+      "Yuusuke Oosawa"
+    ]
+  }
 }

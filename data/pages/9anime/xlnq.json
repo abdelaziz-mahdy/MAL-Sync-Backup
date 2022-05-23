@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:29.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10287,
   "identifier": "xlnq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1550,
   "aniId": 1550,
-  "createdAt": "2020-10-12T15:56:29.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:18.000Z",
+    "updatedAt": "2022-05-14T21:01:05.000Z",
+    "checkedAt": "2022-05-14T21:01:05.000Z",
+    "id": 1550,
+    "type": "anime",
+    "title": "Attack No.1",
+    "altTitle": [
+      "Mila Superstar",
+      "Attack Number One",
+      "アタックNo.1"
+    ],
+    "url": "https://myanimelist.net/anime/1550/Attack_No1",
+    "image": "https://cdn.myanimelist.net/images/anime/13/59517.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,24 +47,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mila Superstar",
-      "Attack Number One",
-      "アタックNo.1"
-    ],
+    "deletedAt": null,
+    "anidbId": 757
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:11.000Z",
+    "updatedAt": "2022-05-15T17:50:23.000Z",
+    "checkedAt": "2022-05-15T17:50:23.000Z",
     "id": 1550,
     "type": "anime",
     "title": "Attack No.1",
-    "url": "https://myanimelist.net/anime/1550/Attack_No1",
-    "image": "https://cdn.myanimelist.net/images/anime/13/59517.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 757,
-    "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2022-04-17T16:33:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アタックNo.1",
       "Mila Superstar",
@@ -57,18 +66,12 @@
       "Mimì e la nazionale di pallavolo",
       "Quella magnifica dozzina "
     ],
-    "externalLinks": [],
-    "id": 1550,
-    "malId": 1550,
-    "type": "anime",
-    "title": "Attack No.1",
     "url": "https://anilist.co/anime/1550",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1550-bhaPXtT9dk2h.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:11.000Z",
-    "updatedAt": "2021-12-17T09:27:05.000Z",
+    "externalLinks": [],
+    "malId": 1550,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1550/Attack_No1"
+  }
 }

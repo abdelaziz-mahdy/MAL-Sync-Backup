@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TARATSUMI John"
-  ],
+  "createdAt": "2022-05-10T17:31:23.000Z",
+  "updatedAt": "2022-05-13T15:21:24.000Z",
+  "checkedAt": "2022-05-13T15:18:52.000Z",
+  "id": 103647,
   "identifier": "azami_no_shiro_no_majo",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,61 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/30979/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-10T17:31:23.000Z",
-  "updatedAt": "2022-05-10T17:31:23.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 121996,
+  "aniId": 106775,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "TARATSUMI John"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:08.000Z",
+    "updatedAt": "2022-05-13T15:18:53.000Z",
+    "checkedAt": "2022-05-13T15:18:53.000Z",
+    "id": 121996,
+    "type": "manga",
+    "title": "Azami no Shiro no Majo",
+    "altTitle": [
+      "Witch of Thistle Castle",
+      "アザミの城の魔女"
+    ],
+    "url": "https://myanimelist.net/manga/121996/Azami_no_Shiro_no_Majo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222623.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.tatan.jp/lib/top.php?id=144"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tarachine, John"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:06.396Z",
+    "updatedAt": "2022-05-22T06:00:00.000Z",
+    "checkedAt": "2022-05-22T06:00:00.000Z",
+    "id": 106775,
+    "type": "manga",
+    "title": "Azami no Shiro no Majo",
+    "altTitle": [
+      "アザミの城の魔女",
+      "Witch of Thistle Castle"
+    ],
+    "url": "https://anilist.co/manga/106775",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106775-KMT0NBlPZLHT.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 121996,
+    "deletedAt": null,
+    "authors": [
+      "John Tarachine"
+    ]
+  }
 }

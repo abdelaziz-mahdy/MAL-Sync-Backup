@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagai Yoshio"
-  ],
+  "createdAt": "2022-02-09T03:40:08.000Z",
+  "updatedAt": "2022-02-09T04:09:37.000Z",
+  "checkedAt": null,
+  "id": 95937,
   "identifier": "manga-nt990476",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98569,
   "aniId": 98386,
-  "createdAt": "2022-02-09T03:40:08.000Z",
-  "updatedAt": "2022-02-09T04:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Yoshio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2022-05-16T23:10:11.000Z",
+    "checkedAt": "2022-05-16T23:10:11.000Z",
+    "id": 98569,
+    "type": "manga",
+    "title": "Ichigeki",
+    "altTitle": [
+      "Blow",
+      "Inu no Seikatsu",
+      "A Dog's Life",
+      "いちげき"
+    ],
+    "url": "https://myanimelist.net/manga/98569/Ichigeki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/189702.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,28 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Blow",
-      "Inu no Seikatsu",
-      "A Dog's Life",
-      "いちげき"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Jiro",
       "Nagai, Yoshio"
-    ],
-    "id": 98569,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:15.418Z",
+    "updatedAt": "2022-05-16T23:10:10.000Z",
+    "checkedAt": "2022-05-16T23:10:10.000Z",
+    "id": 98386,
     "type": "manga",
     "title": "Ichigeki",
-    "url": "https://myanimelist.net/manga/98569/Ichigeki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/189702.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2022-02-09T03:40:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "いちげき",
       "Blow",
@@ -54,22 +63,16 @@
       "A Dog's Life",
       "One-hit kill"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jiro Matsumoto",
-      "Yoshio Nagai"
-    ],
-    "id": 98386,
-    "malId": 98569,
-    "type": "manga",
-    "title": "Ichigeki",
     "url": "https://anilist.co/manga/98386",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98386-7kzJBM2HdUSS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:39.000Z",
-    "updatedAt": "2021-12-18T02:26:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98569/Ichigeki"
+    "externalLinks": [],
+    "malId": 98569,
+    "deletedAt": null,
+    "authors": [
+      "Jiro Matsumoto",
+      "Yoshio Nagai"
+    ]
+  }
 }

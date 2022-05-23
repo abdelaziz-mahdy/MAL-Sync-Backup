@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:10.000Z",
+  "updatedAt": "2022-03-12T15:00:20.000Z",
+  "checkedAt": null,
+  "id": 882,
   "identifier": "179m",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30,
   "aniId": 30,
-  "createdAt": "2020-10-12T15:49:10.000Z",
-  "updatedAt": "2022-03-12T15:00:20.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:58.000Z",
+    "updatedAt": "2022-05-13T21:31:40.000Z",
+    "checkedAt": "2022-05-13T21:31:40.000Z",
+    "id": 30,
+    "type": "anime",
+    "title": "Neon Genesis Evangelion",
+    "altTitle": [
+      "Shinseiki Evangelion",
+      "Neon Genesis Evangelion",
+      "新世紀エヴァンゲリオン"
+    ],
+    "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+    "image": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,24 +56,16 @@
         "url": "https://www.netflix.com/title/81033445"
       }
     ],
-    "altTitle": [
-      "Shinseiki Evangelion",
-      "Neon Genesis Evangelion",
-      "新世紀エヴァンゲリオン"
-    ],
+    "deletedAt": null,
+    "anidbId": 22
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T10:02:47.000Z",
+    "checkedAt": "2022-05-15T10:02:47.000Z",
     "id": 30,
     "type": "anime",
-    "title": "Neon Genesis Evangelion",
-    "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
-    "image": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 22,
-    "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2022-04-25T19:01:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Shin Seiki Evangelion",
     "altTitle": [
       "Neon Genesis Evangelion",
       "新世紀エヴァンゲリオン",
@@ -65,23 +74,17 @@
       "ניאון ג'נסיס אוונגליון",
       "อีวานเกเลียน มหาสงครามวันพิพากษา"
     ],
+    "url": "https://anilist.co/anime/30",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-1Ro1NFFg28bu.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/81033445"
       }
     ],
-    "id": 30,
     "malId": 30,
-    "type": "anime",
-    "title": "Shin Seiki Evangelion",
-    "url": "https://anilist.co/anime/30",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-1Ro1NFFg28bu.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-05-08T11:00:26.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion"
+  }
 }

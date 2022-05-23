@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kishiro Yukito"
-  ],
+  "createdAt": "2020-10-12T16:11:30.000Z",
+  "updatedAt": "2021-12-05T09:24:00.000Z",
+  "checkedAt": null,
+  "id": 19458,
   "identifier": "c76adaaa-6f40-46d0-8a88-04f9458c5bd5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 847,
   "aniId": 30847,
-  "createdAt": "2020-10-12T16:11:30.000Z",
-  "updatedAt": "2021-12-05T09:24:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kishiro Yukito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-23T08:59:18.000Z",
+    "checkedAt": "2022-05-23T08:59:18.000Z",
+    "id": 847,
+    "type": "manga",
+    "title": "Aqua Knight",
+    "altTitle": [
+      "Leviathan Saga Aqua Knight",
+      "Suichuu Kishi",
+      "Aqua Knight",
+      "水中騎士"
+    ],
+    "url": "https://myanimelist.net/manga/847/Aqua_Knight",
+    "image": "https://cdn.myanimelist.net/images/manga/5/606.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +47,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Leviathan Saga Aqua Knight",
-      "Suichuu Kishi",
-      "Aqua Knight",
-      "水中騎士"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kishiro, Yukito"
-    ],
-    "id": 847,
-    "type": "manga",
-    "title": "Aqua Knight",
-    "url": "https://myanimelist.net/manga/847/Aqua_Knight",
-    "image": "https://cdn.myanimelist.net/images/manga/5/606.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-01-11T05:14:49.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:59.282Z",
+    "updatedAt": "2022-05-23T08:59:17.000Z",
+    "checkedAt": "2022-05-23T08:59:17.000Z",
+    "id": 30847,
+    "type": "manga",
+    "title": "Suichuu Kishi",
     "altTitle": [
       "Aqua Knight",
       "水中騎士",
       "Leviathan Saga Aqua Knight"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukito Kishiro"
-    ],
-    "id": 30847,
-    "malId": 847,
-    "type": "manga",
-    "title": "Suichuu Kishi",
     "url": "https://anilist.co/manga/30847",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30847-omD1JBaLuVtU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:44.000Z",
-    "updatedAt": "2021-11-23T17:35:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/847/Aqua_Knight"
+    "externalLinks": [],
+    "malId": 847,
+    "deletedAt": null,
+    "authors": [
+      "Yukito Kishiro"
+    ]
+  }
 }

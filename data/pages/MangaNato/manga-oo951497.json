@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sato"
-  ],
+  "createdAt": "2021-06-04T21:20:19.000Z",
+  "updatedAt": "2021-12-04T22:19:38.000Z",
+  "checkedAt": null,
+  "id": 76574,
   "identifier": "manga-oo951497",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57401,
   "aniId": 85402,
-  "createdAt": "2021-06-04T21:20:19.000Z",
-  "updatedAt": "2021-12-04T22:19:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sato"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:50.000Z",
+    "updatedAt": "2022-05-15T12:23:00.000Z",
+    "checkedAt": "2022-05-15T12:23:00.000Z",
+    "id": 57401,
+    "type": "manga",
+    "title": "Fragtime",
+    "altTitle": [
+      "Flag Time",
+      "Flagtime",
+      "Frag Time",
+      "フラグタイム"
+    ],
+    "url": "https://myanimelist.net/manga/57401/Fragtime",
+    "image": "https://cdn.myanimelist.net/images/manga/3/118505.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Flag Time",
-      "Flagtime",
-      "Frag Time",
-      "フラグタイム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sato"
-    ],
-    "id": 57401,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:27.820Z",
+    "updatedAt": "2022-05-15T17:10:35.000Z",
+    "checkedAt": "2022-05-15T17:10:35.000Z",
+    "id": 85402,
     "type": "manga",
     "title": "Fragtime",
-    "url": "https://myanimelist.net/manga/57401/Fragtime",
-    "image": "https://cdn.myanimelist.net/images/manga/3/118505.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:50.000Z",
-    "updatedAt": "2022-01-24T17:00:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fragtime",
       "フラグタイム",
@@ -58,21 +67,15 @@
       "Flagtime",
       "Flag Time"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sato"
-    ],
-    "id": 85402,
-    "malId": 57401,
-    "type": "manga",
-    "title": "Fragtime",
     "url": "https://anilist.co/manga/85402",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85402-ai6gMXN0D3TG.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:30.000Z",
-    "updatedAt": "2021-12-17T22:00:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57401/Fragtime"
+    "externalLinks": [],
+    "malId": 57401,
+    "deletedAt": null,
+    "authors": [
+      "Sato"
+    ]
+  }
 }

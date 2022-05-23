@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Joh Araki",
-    "Nagamoto Kenji"
-  ],
+  "createdAt": "2021-06-12T21:38:21.000Z",
+  "updatedAt": "2021-12-12T22:34:02.000Z",
+  "checkedAt": null,
+  "id": 77987,
   "identifier": "manga-ts953275",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3713,
   "aniId": 33713,
-  "createdAt": "2021-06-12T21:38:21.000Z",
-  "updatedAt": "2021-12-12T22:34:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Joh Araki",
+    "Nagamoto Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-05-15T16:30:07.000Z",
+    "checkedAt": "2022-05-15T16:30:07.000Z",
+    "id": 3713,
+    "type": "manga",
+    "title": "Bartender",
+    "altTitle": [
+      "Bartender",
+      "バーテンダ"
+    ],
+    "url": "https://myanimelist.net/manga/3713/Bartender",
+    "image": "https://cdn.myanimelist.net/images/manga/5/5866.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bartender",
-      "バーテンダ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagatomo, Kenji",
       "Joh, Araki"
-    ],
-    "id": 3713,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:31.793Z",
+    "updatedAt": "2022-05-15T19:40:11.000Z",
+    "checkedAt": "2022-05-15T19:40:11.000Z",
+    "id": 33713,
     "type": "manga",
     "title": "Bartender",
-    "url": "https://myanimelist.net/manga/3713/Bartender",
-    "image": "https://cdn.myanimelist.net/images/manga/5/5866.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2021-11-08T16:14:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bartender",
       "バーテンダ",
@@ -55,22 +64,16 @@
       "调酒师",
       "바텐더"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Nagatomo",
-      "Araki Joh"
-    ],
-    "id": 33713,
-    "malId": 3713,
-    "type": "manga",
-    "title": "Bartender",
     "url": "https://anilist.co/manga/33713",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3713.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:16.000Z",
-    "updatedAt": "2021-12-17T11:35:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3713/Bartender"
+    "externalLinks": [],
+    "malId": 3713,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Nagatomo",
+      "Araki Joh"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ohtagaki Yasuo"
-  ],
+  "createdAt": "2020-10-12T16:03:32.000Z",
+  "updatedAt": "2021-12-02T14:49:38.000Z",
+  "checkedAt": null,
+  "id": 2434,
   "identifier": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 681,
   "aniId": 30681,
-  "createdAt": "2020-10-12T16:03:32.000Z",
-  "updatedAt": "2021-12-02T14:49:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohtagaki Yasuo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-13T23:18:56.000Z",
+    "checkedAt": "2022-05-13T23:18:56.000Z",
+    "id": 681,
+    "type": "manga",
+    "title": "Moonlight Mile",
+    "altTitle": [
+      "MOONLIGHT MILE"
+    ],
+    "url": "https://myanimelist.net/manga/681/Moonlight_Mile",
+    "image": "https://cdn.myanimelist.net/images/manga/3/49427.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MOONLIGHT MILE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ootagaki, Yasuo"
-    ],
-    "id": 681,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:11.353Z",
+    "updatedAt": "2022-05-16T01:43:24.000Z",
+    "checkedAt": "2022-05-16T01:43:24.000Z",
+    "id": 30681,
     "type": "manga",
     "title": "Moonlight Mile",
-    "url": "https://myanimelist.net/manga/681/Moonlight_Mile",
-    "image": "https://cdn.myanimelist.net/images/manga/3/49427.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-02-08T08:10:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "MOONLIGHT MILE",
       "ムーンライトマイル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasuo Ootagaki"
-    ],
-    "id": 30681,
-    "malId": 681,
-    "type": "manga",
-    "title": "Moonlight Mile",
     "url": "https://anilist.co/manga/30681",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30681-ZJzw6obTc2uw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2021-12-17T09:32:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/681/Moonlight_Mile"
+    "externalLinks": [],
+    "malId": 681,
+    "deletedAt": null,
+    "authors": [
+      "Yasuo Ootagaki"
+    ]
+  }
 }

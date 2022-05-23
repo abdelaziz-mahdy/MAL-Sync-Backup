@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Imai Kami"
-  ],
+  "createdAt": "2020-10-12T16:17:09.000Z",
+  "updatedAt": "2021-12-07T07:53:16.000Z",
+  "checkedAt": null,
+  "id": 30597,
   "identifier": "2f5d6690-1087-4199-bbe3-72ed0e35f739",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121072,
   "aniId": 110980,
-  "createdAt": "2020-10-12T16:17:09.000Z",
-  "updatedAt": "2021-12-07T07:53:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Imai Kami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-15T09:23:37.000Z",
+    "checkedAt": "2022-05-15T09:23:37.000Z",
+    "id": 121072,
+    "type": "manga",
+    "title": "Magaimono",
+    "altTitle": [
+      "Magaimono: Super Magic Action Entertainment",
+      "マガイモノ"
+    ],
+    "url": "https://myanimelist.net/manga/121072/Magaimono",
+    "image": "https://cdn.myanimelist.net/images/manga/1/229217.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magaimono: Super Magic Action Entertainment",
-      "マガイモノ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Imai, Kami"
-    ],
-    "id": 121072,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:28.531Z",
+    "updatedAt": "2022-05-15T10:00:35.000Z",
+    "checkedAt": "2022-05-15T10:00:35.000Z",
+    "id": 110980,
     "type": "manga",
     "title": "Magaimono",
-    "url": "https://myanimelist.net/manga/121072/Magaimono",
-    "image": "https://cdn.myanimelist.net/images/manga/1/229217.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2021-11-24T10:06:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magaimono: Super Magic Action Entertainment",
       "マガイモノ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kami Imai"
-    ],
-    "id": 110980,
-    "malId": 121072,
-    "type": "manga",
-    "title": "Magaimono",
     "url": "https://anilist.co/manga/110980",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110980-HmrHUl2npEJa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T05:20:49.000Z",
-    "updatedAt": "2021-12-18T06:56:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121072/Magaimono"
+    "externalLinks": [],
+    "malId": 121072,
+    "deletedAt": null,
+    "authors": [
+      "Kami Imai"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamada Fuutarou",
-    "Ishikawa Ken"
-  ],
+  "createdAt": "2020-10-12T16:08:07.000Z",
+  "updatedAt": "2021-12-04T07:51:21.000Z",
+  "checkedAt": null,
+  "id": 12086,
   "identifier": "36cf3ba9-6f0e-430f-9eef-20f4ed26739f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 89799,
   "aniId": 95124,
-  "createdAt": "2020-10-12T16:08:07.000Z",
-  "updatedAt": "2021-12-04T07:51:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Fuutarou",
+    "Ishikawa Ken"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:01.000Z",
+    "updatedAt": "2022-05-21T04:43:38.000Z",
+    "checkedAt": "2022-05-21T04:43:38.000Z",
+    "id": 89799,
+    "type": "manga",
+    "title": "Makai Tenshou",
+    "altTitle": [
+      "Demonic Resurrection",
+      "魔界転生"
+    ],
+    "url": "https://myanimelist.net/manga/89799/Makai_Tenshou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157739.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Demonic Resurrection",
-      "魔界転生"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Fuutarou",
       "Ishikawa, Ken"
-    ],
-    "id": 89799,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:55.729Z",
+    "updatedAt": "2022-05-21T04:43:37.000Z",
+    "checkedAt": "2022-05-21T04:43:37.000Z",
+    "id": 95124,
     "type": "manga",
     "title": "Makai Tenshou",
-    "url": "https://myanimelist.net/manga/89799/Makai_Tenshou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/157739.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:01.000Z",
-    "updatedAt": "2022-03-23T07:28:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔界転生",
       "Demonic Resurrection"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ken Ishikawa",
-      "Fuutarou Yamada"
-    ],
-    "id": 95124,
-    "malId": 89799,
-    "type": "manga",
-    "title": "Makai Tenshou",
     "url": "https://anilist.co/manga/95124",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95124-eCD8xVCljwtf.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:02.000Z",
-    "updatedAt": "2021-12-18T01:22:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/89799/Makai_Tenshou"
+    "externalLinks": [],
+    "malId": 89799,
+    "deletedAt": null,
+    "authors": [
+      "Ken Ishikawa",
+      "Fuutarou Yamada"
+    ]
+  }
 }

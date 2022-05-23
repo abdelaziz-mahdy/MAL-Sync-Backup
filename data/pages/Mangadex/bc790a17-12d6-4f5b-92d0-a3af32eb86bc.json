@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Joh Araki",
-    "Nagatomo Kenji"
-  ],
+  "createdAt": "2021-12-28T06:23:27.000Z",
+  "updatedAt": "2021-12-28T06:53:27.000Z",
+  "checkedAt": null,
+  "id": 93786,
   "identifier": "bc790a17-12d6-4f5b-92d0-a3af32eb86bc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113959,
   "aniId": 113603,
-  "createdAt": "2021-12-28T06:23:27.000Z",
-  "updatedAt": "2021-12-28T06:53:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Joh Araki",
+    "Nagatomo Kenji"
+  ],
   "Mal": {
+    "createdAt": "2021-10-12T07:08:20.000Z",
+    "updatedAt": "2022-05-02T16:31:36.000Z",
+    "checkedAt": null,
+    "id": 113959,
+    "type": "manga",
+    "title": "Champagne",
+    "altTitle": [
+      "シャンパーニュ"
+    ],
+    "url": "https://myanimelist.net/manga/113959/Champagne",
+    "image": "https://cdn.myanimelist.net/images/manga/1/226845.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "シャンパーニュ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagatomo, Kenji",
       "Joh, Araki"
-    ],
-    "id": 113959,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:12.885Z",
+    "updatedAt": "2022-05-13T13:01:12.885Z",
+    "checkedAt": null,
+    "id": 113603,
     "type": "manga",
     "title": "Champagne",
-    "url": "https://myanimelist.net/manga/113959/Champagne",
-    "image": "https://cdn.myanimelist.net/images/manga/1/226845.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-12T07:08:20.000Z",
-    "updatedAt": "2022-05-02T16:31:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "シャンパーニュ",
       "ด้วยมนตราแห่งชองปาญ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Nagatomo",
-      "Araki Joh"
-    ],
-    "id": 113603,
-    "malId": 113959,
-    "type": "manga",
-    "title": "Champagne",
     "url": "https://anilist.co/manga/113603",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113603-GlEf8Jf0NV67.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-06T20:32:19.000Z",
-    "updatedAt": "2021-12-11T14:33:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113959/Champagne"
+    "externalLinks": [],
+    "malId": 113959,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Nagatomo",
+      "Araki Joh"
+    ]
+  }
 }

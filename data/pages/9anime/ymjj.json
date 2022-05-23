@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:54.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10749,
   "identifier": "ymjj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9600,
   "aniId": 9600,
-  "createdAt": "2020-10-12T15:56:54.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:02.000Z",
+    "updatedAt": "2022-05-15T03:55:35.000Z",
+    "checkedAt": "2022-05-15T03:55:35.000Z",
+    "id": 9600,
+    "type": "anime",
+    "title": "G-Taste (2010)",
+    "altTitle": [
+      "G-Best",
+      "G-Best －G-tasteベストセレクション－"
+    ],
+    "url": "https://myanimelist.net/anime/9600/G-Taste_2010",
+    "image": "https://cdn.myanimelist.net/images/anime/10/61779.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,36 +50,23 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "G-Best",
-      "G-Best －G-tasteベストセレクション－"
-    ],
-    "id": 9600,
-    "type": "anime",
-    "title": "G-Taste (2010)",
-    "url": "https://myanimelist.net/anime/9600/G-Taste_2010",
-    "image": "https://cdn.myanimelist.net/images/anime/10/61779.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 7668,
-    "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2022-01-10T00:49:10.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 7668
   },
-  "Anilist": {
-    "altTitle": [],
-    "externalLinks": [],
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:06.000Z",
+    "updatedAt": "2022-05-15T13:26:47.000Z",
+    "checkedAt": "2022-05-15T13:26:47.000Z",
     "id": 9600,
-    "malId": 9600,
     "type": "anime",
     "title": "G-Taste (2010)",
+    "altTitle": [],
     "url": "https://anilist.co/anime/9600",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9600-K9euGXyjdOua.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:06.000Z",
-    "updatedAt": "2021-12-17T12:55:26.000Z",
+    "externalLinks": [],
+    "malId": 9600,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/9600/G-Taste_2010"
+  }
 }

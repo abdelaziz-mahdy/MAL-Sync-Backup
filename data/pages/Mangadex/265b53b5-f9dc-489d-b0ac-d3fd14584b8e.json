@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Baku Yumemakura",
-    "Noguchi Takashi"
-  ],
+  "createdAt": "2020-10-12T16:04:27.000Z",
+  "updatedAt": "2021-12-02T21:17:57.000Z",
+  "checkedAt": null,
+  "id": 4352,
   "identifier": "265b53b5-f9dc-489d-b0ac-d3fd14584b8e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 967,
   "aniId": 30967,
-  "createdAt": "2020-10-12T16:04:27.000Z",
-  "updatedAt": "2021-12-02T21:17:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Baku Yumemakura",
+    "Noguchi Takashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-05-15T21:11:19.000Z",
+    "checkedAt": "2022-05-15T21:11:19.000Z",
+    "id": 967,
+    "type": "manga",
+    "title": "Kurozuka",
+    "altTitle": [
+      "KUROZUKA-黒塚-"
+    ],
+    "url": "https://myanimelist.net/manga/967/Kurozuka",
+    "image": "https://cdn.myanimelist.net/images/manga/2/156364.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "KUROZUKA-黒塚-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yumemakura, Baku",
       "Noguchi, Takashi"
-    ],
-    "id": 967,
-    "type": "manga",
-    "title": "Kurozuka",
-    "url": "https://myanimelist.net/manga/967/Kurozuka",
-    "image": "https://cdn.myanimelist.net/images/manga/2/156364.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2021-12-01T17:17:06.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.753Z",
+    "updatedAt": "2022-05-15T22:08:47.000Z",
+    "checkedAt": "2022-05-15T22:08:47.000Z",
+    "id": 30967,
+    "type": "manga",
+    "title": "KUROZUKA",
     "altTitle": [
       "KUROZUKA―黒塚―"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Baku Yumemakura",
-      "Takashi Noguchi"
-    ],
-    "id": 30967,
-    "malId": 967,
-    "type": "manga",
-    "title": "KUROZUKA",
     "url": "https://anilist.co/manga/30967",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30967-rRCM5a79en7r.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2022-02-23T22:48:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/967/Kurozuka"
+    "externalLinks": [],
+    "malId": 967,
+    "deletedAt": null,
+    "authors": [
+      "Baku Yumemakura",
+      "Takashi Noguchi"
+    ]
+  }
 }

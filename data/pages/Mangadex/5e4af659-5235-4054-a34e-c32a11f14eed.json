@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujisawa Tohru"
-  ],
+  "createdAt": "2020-10-12T16:04:44.000Z",
+  "updatedAt": "2021-12-02T23:19:30.000Z",
+  "checkedAt": null,
+  "id": 4926,
   "identifier": "5e4af659-5235-4054-a34e-c32a11f14eed",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 502,
   "aniId": 30502,
-  "createdAt": "2020-10-12T16:04:44.000Z",
-  "updatedAt": "2021-12-02T23:19:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujisawa Tohru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-03-12T19:00:56.000Z",
+    "checkedAt": null,
+    "id": 502,
+    "type": "manga",
+    "title": "Rose Hip Rose",
+    "altTitle": [
+      "Magnum Rose Hip",
+      "Rose Hip Rose",
+      "Rose Hip Rose"
+    ],
+    "url": "https://myanimelist.net/manga/502/Rose_Hip_Rose",
+    "image": "https://cdn.myanimelist.net/images/manga/1/177185.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magnum Rose Hip",
-      "Rose Hip Rose",
-      "Rose Hip Rose"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujisawa, Tohru"
-    ],
-    "id": 502,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:30.277Z",
+    "updatedAt": "2022-05-13T12:44:30.277Z",
+    "checkedAt": null,
+    "id": 30502,
     "type": "manga",
     "title": "Rose Hip Rose",
-    "url": "https://myanimelist.net/manga/502/Rose_Hip_Rose",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177185.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-03-12T19:00:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rose Hip Rose",
       "ロズ ヒップ ロズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooru Fujisawa"
-    ],
-    "id": 30502,
-    "malId": 502,
-    "type": "manga",
-    "title": "Rose Hip Rose",
     "url": "https://anilist.co/manga/30502",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/502.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2021-12-17T09:11:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/502/Rose_Hip_Rose"
+    "externalLinks": [],
+    "malId": 502,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Fujisawa"
+    ]
+  }
 }

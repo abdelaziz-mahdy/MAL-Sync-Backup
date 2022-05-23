@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:41.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4168,
   "identifier": "92kn",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1520,
   "aniId": 1520,
-  "createdAt": "2020-10-12T15:51:41.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:18.000Z",
+    "updatedAt": "2022-05-14T17:40:53.000Z",
+    "checkedAt": "2022-05-14T17:40:53.000Z",
+    "id": 1520,
+    "type": "anime",
+    "title": "Black Jack",
+    "altTitle": [
+      "Black Jack OVA",
+      "Black Jack Final",
+      "Black Jack",
+      "ブラック・ジャック"
+    ],
+    "url": "https://myanimelist.net/anime/1520/Black_Jack",
+    "image": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,25 +52,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Black Jack OVA",
-      "Black Jack Final",
-      "Black Jack",
-      "ブラック・ジャック"
-    ],
+    "deletedAt": null,
+    "anidbId": 2544
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:11.000Z",
+    "updatedAt": "2022-05-15T09:54:59.000Z",
+    "checkedAt": "2022-05-15T09:54:59.000Z",
     "id": 1520,
     "type": "anime",
     "title": "Black Jack",
-    "url": "https://myanimelist.net/anime/1520/Black_Jack",
-    "image": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2544,
-    "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2022-03-30T23:34:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Black Jack",
       "ブラック・ジャック",
@@ -60,18 +69,12 @@
       "Black Jack Final",
       "Black Jack (1993)"
     ],
-    "externalLinks": [],
-    "id": 1520,
-    "malId": 1520,
-    "type": "anime",
-    "title": "Black Jack",
     "url": "https://anilist.co/anime/1520",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1520-4AFl8cpVoRQU.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:11.000Z",
-    "updatedAt": "2021-12-17T09:26:35.000Z",
+    "externalLinks": [],
+    "malId": 1520,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1520/Black_Jack"
+  }
 }

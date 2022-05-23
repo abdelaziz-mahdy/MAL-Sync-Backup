@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fuyume Saya"
-  ],
+  "createdAt": "2020-10-12T16:18:14.000Z",
+  "updatedAt": "2021-12-07T15:18:48.000Z",
+  "checkedAt": null,
+  "id": 32746,
   "identifier": "7875975e-b88e-4629-9ea2-feb495b73793",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122869,
   "aniId": 109651,
-  "createdAt": "2020-10-12T16:18:14.000Z",
-  "updatedAt": "2021-12-07T15:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fuyume Saya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-20T06:52:12.000Z",
+    "checkedAt": "2022-05-20T06:52:12.000Z",
+    "id": 122869,
+    "type": "manga",
+    "title": "Kanojo no Idea",
+    "altTitle": [
+      "Your True Color",
+      "彼女のイデア"
+    ],
+    "url": "https://myanimelist.net/manga/122869/Kanojo_no_Idea",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226052.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "彼女のイデア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fuyume, Saya"
-    ],
-    "id": 122869,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:26.088Z",
+    "updatedAt": "2022-05-20T06:52:11.000Z",
+    "checkedAt": "2022-05-20T06:52:11.000Z",
+    "id": 109651,
     "type": "manga",
     "title": "Kanojo no Idea",
-    "url": "https://myanimelist.net/manga/122869/Kanojo_no_Idea",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226052.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-03-20T16:23:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼女のイデア",
       "Your True Color"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Saya Fuyume"
-    ],
-    "id": 109651,
-    "malId": 122869,
-    "type": "manga",
-    "title": "Kanojo no Idea",
     "url": "https://anilist.co/manga/109651",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109651-EpYghqJJImpy.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:29.000Z",
-    "updatedAt": "2021-12-18T06:28:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122869/Kanojo_no_Idea"
+    "externalLinks": [],
+    "malId": 122869,
+    "deletedAt": null,
+    "authors": [
+      "Saya Fuyume"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sunrise",
-    "Osaji"
-  ],
+  "createdAt": "2020-10-12T16:08:13.000Z",
+  "updatedAt": "2021-12-04T08:48:18.000Z",
+  "checkedAt": null,
+  "id": 12293,
   "identifier": "694d93ec-17e4-43af-8290-be0d959acfdb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 84775,
   "aniId": 85856,
-  "createdAt": "2020-10-12T16:08:13.000Z",
-  "updatedAt": "2021-12-04T08:48:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sunrise",
+    "Osaji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-15T02:21:50.000Z",
+    "checkedAt": "2022-05-15T02:21:50.000Z",
+    "id": 84775,
+    "type": "manga",
+    "title": "Cross Ange: Tenshi to Ryuu no École",
+    "altTitle": [
+      "Cross Ange: Tenshi to Ryuu no Gakuen",
+      "Cross Ange: Academy of Angels and Dragons",
+      "クロスアンジュ 天使と竜の学園〈エコール〉"
+    ],
+    "url": "https://myanimelist.net/manga/84775/Cross_Ange__Tenshi_to_Ryuu_no_École",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151713.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +47,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cross Ange: Tenshi to Ryuu no Gakuen",
-      "Cross Ange: Academy of Angels and Dragons",
-      "クロスアンジュ 天使と竜の学園〈エコール〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Osaji"
-    ],
-    "id": 84775,
-    "type": "manga",
-    "title": "Cross Ange: Tenshi to Ryuu no École",
-    "url": "https://myanimelist.net/manga/84775/Cross_Ange__Tenshi_to_Ryuu_no_École",
-    "image": "https://cdn.myanimelist.net/images/manga/1/151713.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2022-03-23T23:57:23.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:11.706Z",
+    "updatedAt": "2022-05-13T12:52:11.706Z",
+    "checkedAt": null,
+    "id": 85856,
+    "type": "manga",
+    "title": "Cross Ange - Tenshi to Ryuu no Gakuen",
     "altTitle": [
       "クロスアンジュ 天使と竜の学園",
       "Cross Ange: Tenshi to Ryuu no École"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osaji"
-    ],
-    "id": 85856,
-    "malId": 84775,
-    "type": "manga",
-    "title": "Cross Ange - Tenshi to Ryuu no Gakuen",
     "url": "https://anilist.co/manga/85856",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55856-dKI05TjnQP0B.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:35.000Z",
-    "updatedAt": "2021-12-17T22:24:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/84775/Cross_Ange__Tenshi_to_Ryuu_no_École"
+    "externalLinks": [],
+    "malId": 84775,
+    "deletedAt": null,
+    "authors": [
+      "Osaji"
+    ]
+  }
 }

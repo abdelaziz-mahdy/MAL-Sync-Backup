@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kizu Natsuki"
-  ],
+  "createdAt": "2021-08-22T23:46:17.000Z",
+  "updatedAt": "2022-02-23T00:18:41.000Z",
+  "checkedAt": null,
+  "id": 86032,
   "identifier": "manga-rw953131",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 79085,
   "aniId": 87347,
-  "createdAt": "2021-08-22T23:46:17.000Z",
-  "updatedAt": "2022-02-23T00:18:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kizu Natsuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-05-14T17:58:47.000Z",
+    "checkedAt": "2022-05-14T17:58:47.000Z",
+    "id": 79085,
+    "type": "manga",
+    "title": "Given",
+    "altTitle": [
+      "Given",
+      "ギヴン"
+    ],
+    "url": "https://myanimelist.net/manga/79085/Given",
+    "image": "https://cdn.myanimelist.net/images/manga/1/172497.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Given",
-      "ギヴン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kizu, Natsuki"
-    ],
-    "id": 79085,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:43.845Z",
+    "updatedAt": "2022-05-15T18:26:35.000Z",
+    "checkedAt": "2022-05-15T18:26:35.000Z",
+    "id": 87347,
     "type": "manga",
     "title": "Given",
-    "url": "https://myanimelist.net/manga/79085/Given",
-    "image": "https://cdn.myanimelist.net/images/manga/1/172497.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-04-19T01:30:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Given",
       "ギヴン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsuki Kizu",
-      "Judit Moreno",
-      "Thiago Nojiri"
-    ],
-    "id": 87347,
-    "malId": 79085,
-    "type": "manga",
-    "title": "Given",
     "url": "https://anilist.co/manga/87347",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87347-GOCU76cl37dK.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2022-02-09T11:09:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79085/Given"
+    "externalLinks": [],
+    "malId": 79085,
+    "deletedAt": null,
+    "authors": [
+      "Natsuki Kizu",
+      "Judit Moreno",
+      "Thiago Nojiri"
+    ]
+  }
 }

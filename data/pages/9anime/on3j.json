@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:19.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7556,
   "identifier": "on3j",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 664,
   "aniId": 664,
-  "createdAt": "2020-10-12T15:54:19.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T23:03:41.000Z",
+    "checkedAt": "2022-05-14T23:03:41.000Z",
+    "id": 664,
+    "type": "anime",
+    "title": "Fullmetal Alchemist: Reflections",
+    "altTitle": [
+      "FMA: Reflections",
+      "鋼の錬金術師"
+    ],
+    "url": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections",
+    "image": "https://cdn.myanimelist.net/images/anime/2/18690.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -22,39 +38,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FMA: Reflections",
-      "鋼の錬金術師"
-    ],
+    "deletedAt": null,
+    "anidbId": 979
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T17:08:35.000Z",
+    "checkedAt": "2022-05-15T17:08:35.000Z",
     "id": 664,
     "type": "anime",
-    "title": "Fullmetal Alchemist: Reflections",
-    "url": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections",
-    "image": "https://cdn.myanimelist.net/images/anime/2/18690.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 979,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-05-02T02:00:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Hagane no Renkinjutsushi: Reflections",
     "altTitle": [
       "Fullmetal Alchemist: Reflections",
       "鋼の錬金術師 Reflections"
     ],
-    "externalLinks": [],
-    "id": 664,
-    "malId": 664,
-    "type": "anime",
-    "title": "Hagane no Renkinjutsushi: Reflections",
     "url": "https://anilist.co/anime/664",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2021-12-17T08:52:27.000Z",
+    "externalLinks": [],
+    "malId": 664,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections"
+  }
 }

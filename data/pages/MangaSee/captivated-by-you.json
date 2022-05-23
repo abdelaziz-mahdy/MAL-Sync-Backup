@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "WAYAMA Yama"
-  ],
+  "createdAt": "2021-08-16T19:08:55.000Z",
+  "updatedAt": "2022-02-16T19:47:52.000Z",
+  "checkedAt": null,
+  "id": 85427,
   "identifier": "captivated-by-you",
   "type": "manga",
   "page": "MangaSee",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123921,
   "aniId": 111743,
-  "createdAt": "2021-08-16T19:08:55.000Z",
-  "updatedAt": "2022-02-16T19:47:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "WAYAMA Yama"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A2%E4%B8%AD%E3%81%95%E3%80%81%E3%81%8D%E3%81%BF%E3%81%AB%E3%80%82"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2022-05-18T04:06:42.000Z",
+    "checkedAt": "2022-05-18T04:06:42.000Z",
+    "id": 123921,
+    "type": "manga",
+    "title": "Muchuu sa, Kimi ni.",
     "altTitle": [
       "There is no other.",
       "Kawaii Hito",
@@ -37,42 +38,44 @@
       "Captivated, by You",
       "夢中さ、きみに。"
     ],
-    "authors": [
-      "Wayama, Yama"
-    ],
-    "id": 123921,
-    "type": "manga",
-    "title": "Muchuu sa, Kimi ni.",
     "url": "https://myanimelist.net/manga/123921/Muchuu_sa_Kimi_ni",
     "image": "https://cdn.myanimelist.net/images/manga/2/226117.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2022-04-20T11:33:38.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A2%E4%B8%AD%E3%81%95%E3%80%81%E3%81%8D%E3%81%BF%E3%81%AB%E3%80%82"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Wayama, Yama"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:01.105Z",
+    "updatedAt": "2022-05-18T04:06:41.000Z",
+    "checkedAt": "2022-05-18T04:06:41.000Z",
+    "id": 111743,
+    "type": "manga",
+    "title": "Muchuu sa, Kimi ni.",
     "altTitle": [
       "Captivated, By You",
       "夢中さ、きみに。",
       "There is no other.",
       "Ushiro no Nikaidou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yama Wayama"
-    ],
-    "id": 111743,
-    "malId": 123921,
-    "type": "manga",
-    "title": "Muchuu sa, Kimi ni.",
     "url": "https://anilist.co/manga/111743",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111743-wYJMZ4CQXeEK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T07:23:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123921/Muchuu_sa_Kimi_ni"
+    "externalLinks": [],
+    "malId": 123921,
+    "deletedAt": null,
+    "authors": [
+      "Yama Wayama"
+    ]
+  }
 }

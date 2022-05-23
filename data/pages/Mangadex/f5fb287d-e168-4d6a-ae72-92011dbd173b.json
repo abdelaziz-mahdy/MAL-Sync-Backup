@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Touno Mamare",
-    "Haruse Hiroki"
-  ],
+  "createdAt": "2020-10-12T16:04:31.000Z",
+  "updatedAt": "2022-02-03T10:13:05.000Z",
+  "checkedAt": null,
+  "id": 4488,
   "identifier": "f5fb287d-e168-4d6a-ae72-92011dbd173b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,33 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 67591,
-  "createdAt": "2020-10-12T16:04:31.000Z",
-  "updatedAt": "2022-02-03T10:13:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Touno Mamare",
+    "Haruse Hiroki"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:09.272Z",
+    "updatedAt": "2022-05-13T12:41:09.272Z",
+    "checkedAt": null,
+    "id": 67591,
+    "type": "manga",
+    "title": "Maou-sama Genryou Keikaku",
     "altTitle": [
       "魔王様減量計画",
       "The Demon Queen Weight Loss Plan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroki Haruse"
-    ],
-    "id": 67591,
-    "malId": null,
-    "type": "manga",
-    "title": "Maou-sama Genryou Keikaku",
     "url": "https://anilist.co/manga/67591",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37591.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2022-02-02T16:20:54.000Z",
-    "updatedAt": "2022-02-02T16:20:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Hiroki Haruse"
+    ]
+  }
 }

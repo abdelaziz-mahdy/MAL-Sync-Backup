@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:05:01.000Z",
+  "updatedAt": "2021-12-03T09:48:07.000Z",
+  "checkedAt": null,
+  "id": 5527,
   "identifier": "309271ba-e616-488b-9591-41ee30c49e95",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6488,
   "aniId": 36488,
-  "createdAt": "2020-10-12T16:05:01.000Z",
-  "updatedAt": "2021-12-03T09:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:10.000Z",
+    "updatedAt": "2022-03-24T18:58:34.000Z",
+    "checkedAt": null,
+    "id": 6488,
+    "type": "manga",
+    "title": "Atomcat",
     "altTitle": [
       "Atom Cat",
       "Atomu Cat",
@@ -33,21 +34,29 @@
       "Atomcat",
       "アトムキャット"
     ],
-    "authors": [
-      "Tezuka, Osamu"
-    ],
-    "id": 6488,
-    "type": "manga",
-    "title": "Atomcat",
     "url": "https://myanimelist.net/manga/6488/Atomcat",
     "image": "https://cdn.myanimelist.net/images/manga/2/8698.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:10.000Z",
-    "updatedAt": "2022-03-24T18:58:34.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tezuka, Osamu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:50.184Z",
+    "updatedAt": "2022-05-13T12:55:50.184Z",
+    "checkedAt": null,
+    "id": 36488,
+    "type": "manga",
+    "title": "Atom Cat",
     "altTitle": [
       "Atom Cat",
       "アトムキャット",
@@ -55,21 +64,15 @@
       "Atomcat",
       "Astro Cat"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka"
-    ],
-    "id": 36488,
-    "malId": 6488,
-    "type": "manga",
-    "title": "Atom Cat",
     "url": "https://anilist.co/manga/36488",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36488-DhV3GXxz85o0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:42.000Z",
-    "updatedAt": "2021-12-17T12:45:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6488/Atomcat"
+    "externalLinks": [],
+    "malId": 6488,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikuya Daikokudoh"
-  ],
+  "createdAt": "2021-06-08T10:56:42.000Z",
+  "updatedAt": "2021-12-08T11:41:50.000Z",
+  "checkedAt": null,
+  "id": 77229,
   "identifier": "manga-ko961897",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80101,
   "aniId": 85800,
-  "createdAt": "2021-06-08T10:56:42.000Z",
-  "updatedAt": "2021-12-08T11:41:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikuya Daikokudoh"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-02-18T03:47:11.000Z",
+    "checkedAt": null,
+    "id": 80101,
+    "type": "manga",
+    "title": "Kyoukai no Nai Sekai",
+    "altTitle": [
+      "Borderless",
+      "A World Without Boundaries",
+      "境界のないセカイ"
+    ],
+    "url": "https://myanimelist.net/manga/80101/Kyoukai_no_Nai_Sekai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/155672.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Borderless",
-      "A World Without Boundaries",
-      "境界のないセカイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikuya, Daikokudou"
-    ],
-    "id": 80101,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:41.272Z",
+    "updatedAt": "2022-05-13T12:44:41.272Z",
+    "checkedAt": null,
+    "id": 85800,
     "type": "manga",
     "title": "Kyoukai no Nai Sekai",
-    "url": "https://myanimelist.net/manga/80101/Kyoukai_no_Nai_Sekai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/155672.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-02-18T03:47:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A World Without Boundaries",
       "境界のないセカイ",
       "沒有境界的世界",
       "Borderless"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daikokudou Ikuya"
-    ],
-    "id": 85800,
-    "malId": 80101,
-    "type": "manga",
-    "title": "Kyoukai no Nai Sekai",
     "url": "https://anilist.co/manga/85800",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85800-B1zf0dzpwDtC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-17T22:23:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80101/Kyoukai_no_Nai_Sekai"
+    "externalLinks": [],
+    "malId": 80101,
+    "deletedAt": null,
+    "authors": [
+      "Daikokudou Ikuya"
+    ]
+  }
 }

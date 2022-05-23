@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:22.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1229,
   "identifier": "20p4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55,
   "aniId": 55,
-  "createdAt": "2020-10-12T15:49:22.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:58.000Z",
+    "updatedAt": "2022-05-14T16:40:38.000Z",
+    "checkedAt": "2022-05-14T16:40:38.000Z",
+    "id": 55,
+    "type": "anime",
+    "title": "Arc the Lad",
+    "altTitle": [
+      "Arc",
+      "アークザラッド"
+    ],
+    "url": "https://myanimelist.net/anime/55/Arc_the_Lad",
+    "image": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Arc",
-      "アークザラッド"
-    ],
+    "deletedAt": null,
+    "anidbId": 433
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T18:28:59.000Z",
+    "checkedAt": "2022-05-15T18:28:59.000Z",
     "id": 55,
     "type": "anime",
     "title": "Arc the Lad",
-    "url": "https://myanimelist.net/anime/55/Arc_the_Lad",
-    "image": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 433,
-    "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2022-03-30T10:32:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アークザラッド",
       "Arc"
     ],
-    "externalLinks": [],
-    "id": 55,
-    "malId": 55,
-    "type": "anime",
-    "title": "Arc the Lad",
     "url": "https://anilist.co/anime/55",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx55-uG26UwIxEJkJ.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2021-12-17T08:19:04.000Z",
+    "externalLinks": [],
+    "malId": 55,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/55/Arc_the_Lad"
+  }
 }

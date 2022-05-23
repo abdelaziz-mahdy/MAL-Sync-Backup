@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mikabe Sesuna"
-  ],
+  "createdAt": "2020-10-12T16:10:44.000Z",
+  "updatedAt": "2021-12-05T03:18:32.000Z",
+  "checkedAt": null,
+  "id": 17773,
   "identifier": "e16a980c-22c9-412f-b369-7d50ac37917a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65045,
   "aniId": 90094,
-  "createdAt": "2020-10-12T16:10:44.000Z",
-  "updatedAt": "2021-12-05T03:18:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mikabe Sesuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:07.000Z",
+    "updatedAt": "2022-03-04T15:30:28.000Z",
+    "checkedAt": null,
+    "id": 65045,
+    "type": "manga",
+    "title": "Kalyx",
+    "altTitle": [
+      "カリュクス"
+    ],
+    "url": "https://myanimelist.net/manga/65045/Kalyx",
+    "image": "https://cdn.myanimelist.net/images/manga/2/116145.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "カリュクス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mikabe, Sesuna"
-    ],
-    "id": 65045,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:02.873Z",
+    "updatedAt": "2022-05-13T13:05:02.873Z",
+    "checkedAt": null,
+    "id": 90094,
     "type": "manga",
     "title": "Kalyx",
-    "url": "https://myanimelist.net/manga/65045/Kalyx",
-    "image": "https://cdn.myanimelist.net/images/manga/2/116145.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:07.000Z",
-    "updatedAt": "2022-03-04T15:30:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "カリュクス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sesuna Mikabe"
-    ],
-    "id": 90094,
-    "malId": 65045,
-    "type": "manga",
-    "title": "Kalyx",
     "url": "https://anilist.co/manga/90094",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90094-FV4LRgK992NG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:52.000Z",
-    "updatedAt": "2021-12-17T23:57:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/65045/Kalyx"
+    "externalLinks": [],
+    "malId": 65045,
+    "deletedAt": null,
+    "authors": [
+      "Sesuna Mikabe"
+    ]
+  }
 }

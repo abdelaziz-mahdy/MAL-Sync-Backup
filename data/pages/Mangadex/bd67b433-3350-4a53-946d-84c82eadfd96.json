@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Baku Yumemakura",
-    "Taniguchi Jiro"
-  ],
+  "createdAt": "2020-10-12T16:05:12.000Z",
+  "updatedAt": "2021-12-03T11:17:19.000Z",
+  "checkedAt": null,
+  "id": 5908,
   "identifier": "bd67b433-3350-4a53-946d-84c82eadfd96",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20649,
   "aniId": 50649,
-  "createdAt": "2020-10-12T16:05:12.000Z",
-  "updatedAt": "2021-12-03T11:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Baku Yumemakura",
+    "Taniguchi Jiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:52.000Z",
+    "updatedAt": "2022-05-03T04:32:08.000Z",
+    "checkedAt": null,
+    "id": 20649,
+    "type": "manga",
+    "title": "Garouden",
+    "altTitle": [
+      "餓狼伝"
+    ],
+    "url": "https://myanimelist.net/manga/20649/Garouden",
+    "image": "https://cdn.myanimelist.net/images/manga/2/32858.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "餓狼伝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yumemakura, Baku",
       "Taniguchi, Jiro"
-    ],
-    "id": 20649,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:13.408Z",
+    "updatedAt": "2022-05-13T13:03:13.408Z",
+    "checkedAt": null,
+    "id": 50649,
     "type": "manga",
     "title": "Garouden",
-    "url": "https://myanimelist.net/manga/20649/Garouden",
-    "image": "https://cdn.myanimelist.net/images/manga/2/32858.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:52.000Z",
-    "updatedAt": "2022-05-03T04:32:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "餓狼伝"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Baku Yumemakura",
-      "Jirou Taniguchi"
-    ],
-    "id": 50649,
-    "malId": 20649,
-    "type": "manga",
-    "title": "Garouden",
     "url": "https://anilist.co/manga/50649",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50649-0sGoj0fQ5f6N.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:33.000Z",
-    "updatedAt": "2021-12-17T17:17:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20649/Garouden"
+    "externalLinks": [],
+    "malId": 20649,
+    "deletedAt": null,
+    "authors": [
+      "Baku Yumemakura",
+      "Jirou Taniguchi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Geni Yuu"
-  ],
+  "createdAt": "2020-10-12T16:07:51.000Z",
+  "updatedAt": "2021-12-04T06:21:28.000Z",
+  "checkedAt": null,
+  "id": 11502,
   "identifier": "671faecc-deac-4aa5-8ed8-000bc961ef61",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72113,
   "aniId": 86754,
-  "createdAt": "2020-10-12T16:07:51.000Z",
-  "updatedAt": "2021-12-04T06:21:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Geni Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-02-14T00:39:49.000Z",
+    "checkedAt": null,
+    "id": 72113,
+    "type": "manga",
+    "title": "+α no Tachiichi",
+    "altTitle": [
+      "+a no Tachi Iichi",
+      "Plus Alpha no Tachiichi",
+      "+αの立ち位置"
+    ],
+    "url": "https://myanimelist.net/manga/72113/_α_no_Tachiichi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/159784.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "+a no Tachi Iichi",
-      "Plus Alpha no Tachiichi",
-      "+αの立ち位置"
-    ],
+    "deletedAt": null,
     "authors": [
       "Geni, Yuu"
-    ],
-    "id": 72113,
-    "type": "manga",
-    "title": "+α no Tachiichi",
-    "url": "https://myanimelist.net/manga/72113/_α_no_Tachiichi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/159784.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-02-14T00:39:49.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:00.335Z",
+    "updatedAt": "2022-05-13T13:04:00.335Z",
+    "checkedAt": null,
+    "id": 86754,
+    "type": "manga",
+    "title": "+a no Tachiichi",
     "altTitle": [
       "+αの立ち位置"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Geni"
-    ],
-    "id": 86754,
-    "malId": 72113,
-    "type": "manga",
-    "title": "+a no Tachiichi",
     "url": "https://anilist.co/manga/86754",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56754-m0IHLAAz119V.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:35.000Z",
-    "updatedAt": "2021-12-17T22:57:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72113/_α_no_Tachiichi"
+    "externalLinks": [],
+    "malId": 72113,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Geni"
+    ]
+  }
 }

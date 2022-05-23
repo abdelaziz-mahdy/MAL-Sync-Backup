@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morishige Takuma"
-  ],
+  "createdAt": "2020-10-12T16:20:50.000Z",
+  "updatedAt": "2021-12-08T01:35:49.000Z",
+  "checkedAt": null,
+  "id": 38024,
   "identifier": "daa29882-e5c4-4d24-8dc9-efb407a9e84b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130001,
   "aniId": 119485,
-  "createdAt": "2020-10-12T16:20:50.000Z",
-  "updatedAt": "2021-12-08T01:35:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morishige Takuma"
+  ],
   "Mal": {
+    "createdAt": "2020-12-06T07:41:15.000Z",
+    "updatedAt": "2022-04-30T09:31:44.000Z",
+    "checkedAt": null,
+    "id": 130001,
+    "type": "manga",
+    "title": "Tonari no Seki-kun Junior",
+    "altTitle": [
+      "となりの関くん じゅにあ"
+    ],
+    "url": "https://myanimelist.net/manga/130001/Tonari_no_Seki-kun_Junior",
+    "image": "https://cdn.myanimelist.net/images/manga/3/247172.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "となりの関くん じゅにあ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morishige, Takuma"
-    ],
-    "id": 130001,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:40.110Z",
+    "updatedAt": "2022-05-13T13:00:40.110Z",
+    "checkedAt": null,
+    "id": 119485,
     "type": "manga",
     "title": "Tonari no Seki-kun Junior",
-    "url": "https://myanimelist.net/manga/130001/Tonari_no_Seki-kun_Junior",
-    "image": "https://cdn.myanimelist.net/images/manga/3/247172.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-06T07:41:15.000Z",
-    "updatedAt": "2022-04-30T09:31:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "となりの関くんじゅにあ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takuma Morishige"
-    ],
-    "id": 119485,
-    "malId": 130001,
-    "type": "manga",
-    "title": "Tonari no Seki-kun Junior",
     "url": "https://anilist.co/manga/119485",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119485-OCuJKuCIWXjt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2022-04-24T22:00:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130001/Tonari_no_Seki-kun_Junior"
+    "externalLinks": [],
+    "malId": 130001,
+    "deletedAt": null,
+    "authors": [
+      "Takuma Morishige"
+    ]
+  }
 }

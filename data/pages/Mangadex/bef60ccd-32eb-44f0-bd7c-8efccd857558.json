@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hamano Ringo"
-  ],
+  "createdAt": "2020-10-12T16:11:07.000Z",
+  "updatedAt": "2021-12-05T06:17:54.000Z",
+  "checkedAt": null,
+  "id": 18630,
   "identifier": "bef60ccd-32eb-44f0-bd7c-8efccd857558",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112390,
   "aniId": 116950,
-  "createdAt": "2020-10-12T16:11:07.000Z",
-  "updatedAt": "2021-12-05T06:17:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hamano Ringo"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:25.000Z",
+    "updatedAt": "2022-01-24T05:31:02.000Z",
+    "checkedAt": null,
+    "id": 112390,
+    "type": "manga",
+    "title": "Cotton Candy",
     "altTitle": [
       "Bitter or Sweet?",
       "Haru to Miniskirt",
@@ -29,21 +35,24 @@
       "Countdown",
       "CottonCandy"
     ],
-    "authors": [
-      "Hamano, Ringo"
-    ],
-    "id": 112390,
-    "type": "manga",
-    "title": "Cotton Candy",
     "url": "https://myanimelist.net/manga/112390/Cotton_Candy",
     "image": "https://cdn.myanimelist.net/images/manga/2/217821.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:25.000Z",
-    "updatedAt": "2022-01-24T05:31:02.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hamano, Ringo"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:57.321Z",
+    "updatedAt": "2022-05-13T13:02:57.321Z",
+    "checkedAt": null,
+    "id": 116950,
+    "type": "manga",
+    "title": "CottonCandy",
     "altTitle": [
       "CottonCandy",
       "Bitter or Sweet?",
@@ -55,21 +64,15 @@
       "Cotton Candy 1.2.3",
       "Cotton Candy"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ringo Hamano"
-    ],
-    "id": 116950,
-    "malId": 112390,
-    "type": "manga",
-    "title": "CottonCandy",
     "url": "https://anilist.co/manga/116950",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116950-HvhdRSPm8MnQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:53.000Z",
-    "updatedAt": "2022-02-21T17:49:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112390/Cotton_Candy"
+    "externalLinks": [],
+    "malId": 112390,
+    "deletedAt": null,
+    "authors": [
+      "Ringo Hamano"
+    ]
+  }
 }

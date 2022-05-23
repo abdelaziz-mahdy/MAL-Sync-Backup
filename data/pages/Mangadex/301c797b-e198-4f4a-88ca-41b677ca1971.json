@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kozaki Ai"
-  ],
+  "createdAt": "2022-03-27T08:59:06.000Z",
+  "updatedAt": "2022-03-27T09:27:14.000Z",
+  "checkedAt": null,
+  "id": 100038,
   "identifier": "301c797b-e198-4f4a-88ca-41b677ca1971",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 141269,
   "aniId": 138149,
-  "createdAt": "2022-03-27T08:59:06.000Z",
-  "updatedAt": "2022-03-27T09:27:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kozaki Ai"
+  ],
   "Mal": {
+    "createdAt": "2021-10-21T15:18:21.000Z",
+    "updatedAt": "2022-05-22T08:46:06.000Z",
+    "checkedAt": "2022-05-22T08:46:06.000Z",
+    "id": 141269,
+    "type": "manga",
+    "title": "Cecil no Joou",
+    "altTitle": [
+      "Cecil's Queen",
+      "セシルの女王"
+    ],
+    "url": "https://myanimelist.net/manga/141269/Cecil_no_Joou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257770.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cecil's Queen",
-      "セシルの女王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kozaki, Ai"
-    ],
-    "id": 141269,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:25.518Z",
+    "updatedAt": "2022-05-22T08:46:06.000Z",
+    "checkedAt": "2022-05-22T08:46:06.000Z",
+    "id": 138149,
     "type": "manga",
     "title": "Cecil no Joou",
-    "url": "https://myanimelist.net/manga/141269/Cecil_no_Joou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/251410.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-21T15:18:21.000Z",
-    "updatedAt": "2022-03-18T00:50:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "セシルの女王",
       "Cecil's Queen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ai Kozaki"
-    ],
-    "id": 138149,
-    "malId": 141269,
-    "type": "manga",
-    "title": "Cecil no Joou",
     "url": "https://anilist.co/manga/138149",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138149-o40Lfj8qSoRO.jpg",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138149-WOr0k1MC1AA8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-08-20T21:16:16.000Z",
-    "updatedAt": "2021-11-19T07:44:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/141269/Cecil_no_Joou"
+    "externalLinks": [],
+    "malId": 141269,
+    "deletedAt": null,
+    "authors": [
+      "Ai Kozaki"
+    ]
+  }
 }

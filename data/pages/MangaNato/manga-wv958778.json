@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lim Dall-Young"
-  ],
+  "createdAt": "2021-08-29T13:06:55.000Z",
+  "updatedAt": "2022-03-01T00:28:43.000Z",
+  "checkedAt": null,
+  "id": 86405,
   "identifier": "manga-wv958778",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 24275,
   "aniId": 54275,
-  "createdAt": "2021-08-29T13:06:55.000Z",
-  "updatedAt": "2022-03-01T00:28:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lim Dall-Young"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:13.000Z",
+    "updatedAt": "2022-05-19T01:04:51.000Z",
+    "checkedAt": "2022-05-19T01:04:51.000Z",
+    "id": 24275,
+    "type": "manga",
+    "title": "Koimoku",
+    "altTitle": [
+      "こいもく"
+    ],
+    "url": "https://myanimelist.net/manga/24275/Koimoku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/48997.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こいもく"
-    ],
+    "deletedAt": null,
     "authors": [
       "Im, Dal Young",
       "Lee, Hae Won"
-    ],
-    "id": 24275,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:43.410Z",
+    "updatedAt": "2022-05-19T01:04:50.000Z",
+    "checkedAt": "2022-05-19T01:04:50.000Z",
+    "id": 54275,
     "type": "manga",
     "title": "Koimoku",
-    "url": "https://myanimelist.net/manga/24275/Koimoku",
-    "image": "https://cdn.myanimelist.net/images/manga/3/48997.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:13.000Z",
-    "updatedAt": "2022-03-01T00:27:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "こいもく"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dal-Young Im",
-      "Hae Won Lee"
-    ],
-    "id": 54275,
-    "malId": 24275,
-    "type": "manga",
-    "title": "Koimoku",
     "url": "https://anilist.co/manga/54275",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24275.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:43.000Z",
-    "updatedAt": "2022-03-28T18:53:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/24275/Koimoku"
+    "externalLinks": [],
+    "malId": 24275,
+    "deletedAt": null,
+    "authors": [
+      "Dal-Young Im",
+      "Hae Won Lee"
+    ]
+  }
 }

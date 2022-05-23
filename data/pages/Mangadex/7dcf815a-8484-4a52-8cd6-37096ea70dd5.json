@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujiko F. Fujio"
-  ],
+  "createdAt": "2020-10-12T16:19:23.000Z",
+  "updatedAt": "2021-12-07T22:10:42.000Z",
+  "checkedAt": null,
+  "id": 35103,
   "identifier": "7dcf815a-8484-4a52-8cd6-37096ea70dd5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11454,
   "aniId": 41454,
-  "createdAt": "2020-10-12T16:19:23.000Z",
-  "updatedAt": "2021-12-07T22:10:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujiko F. Fujio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:33.000Z",
+    "updatedAt": "2022-05-19T21:49:54.000Z",
+    "checkedAt": "2022-05-19T21:49:54.000Z",
+    "id": 11454,
+    "type": "manga",
+    "title": "Doraemon Plus",
+    "altTitle": [
+      "Doraemon+",
+      "ドラえもん プラス"
+    ],
+    "url": "https://myanimelist.net/manga/11454/Doraemon_Plus",
+    "image": "https://cdn.myanimelist.net/images/manga/1/149315.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Doraemon+",
-      "ドラえもん プラス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujiko, Fujio F."
-    ],
-    "id": 11454,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:04.508Z",
+    "updatedAt": "2022-05-19T21:49:53.000Z",
+    "checkedAt": "2022-05-19T21:49:53.000Z",
+    "id": 41454,
     "type": "manga",
     "title": "Doraemon Plus",
-    "url": "https://myanimelist.net/manga/11454/Doraemon_Plus",
-    "image": "https://cdn.myanimelist.net/images/manga/1/149315.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:33.000Z",
-    "updatedAt": "2022-04-05T12:31:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラえもんプラス",
       "Doraemon+"
     ],
-    "externalLinks": [],
-    "authors": [
-      "F. Fujio Fujiko"
-    ],
-    "id": 41454,
-    "malId": 11454,
-    "type": "manga",
-    "title": "Doraemon Plus",
     "url": "https://anilist.co/manga/41454",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11454.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:18.000Z",
-    "updatedAt": "2021-12-17T14:33:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11454/Doraemon_Plus"
+    "externalLinks": [],
+    "malId": 11454,
+    "deletedAt": null,
+    "authors": [
+      "F. Fujio Fujiko"
+    ]
+  }
 }

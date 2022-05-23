@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "김양수",
-    "도가도"
-  ],
+  "createdAt": "2020-10-12T16:13:02.000Z",
+  "updatedAt": "2021-12-05T18:21:39.000Z",
+  "checkedAt": null,
+  "id": 22052,
   "identifier": "3a67f9ac-fbbe-414b-999b-55721c03c908",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94493,
   "aniId": 85620,
-  "createdAt": "2020-10-12T16:13:02.000Z",
-  "updatedAt": "2021-12-05T18:21:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "김양수",
+    "도가도"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-21T02:29:22.000Z",
+    "checkedAt": "2022-05-21T02:29:22.000Z",
+    "id": 94493,
+    "type": "manga",
+    "title": "Aisopos",
+    "altTitle": [
+      "Aisopos",
+      "아이소포스"
+    ],
+    "url": "https://myanimelist.net/manga/94493/Aisopos",
+    "image": "https://cdn.myanimelist.net/images/manga/3/182690.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Aisopos",
-      "아이소포스"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Yangsoo",
       "Dogado"
-    ],
-    "id": 94493,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:57.985Z",
+    "updatedAt": "2022-05-21T02:29:22.000Z",
+    "checkedAt": "2022-05-21T02:29:22.000Z",
+    "id": 85620,
     "type": "manga",
     "title": "Aisopos",
-    "url": "https://myanimelist.net/manga/94493/Aisopos",
-    "image": "https://cdn.myanimelist.net/images/manga/3/182690.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2022-04-07T20:30:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Aisopos",
       "아이소포스"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yangsoo Kim",
-      "DOGADO"
-    ],
-    "id": 85620,
-    "malId": 94493,
-    "type": "manga",
-    "title": "Aisopos",
     "url": "https://anilist.co/manga/85620",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85620-aEQZlYJLEjD7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2021-12-17T22:19:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94493/Aisopos"
+    "externalLinks": [],
+    "malId": 94493,
+    "deletedAt": null,
+    "authors": [
+      "Yangsoo Kim",
+      "DOGADO"
+    ]
+  }
 }

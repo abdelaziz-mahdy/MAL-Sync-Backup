@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azuma Yuki"
-  ],
+  "createdAt": "2021-06-21T07:50:59.000Z",
+  "updatedAt": "2021-12-21T08:26:27.000Z",
+  "checkedAt": null,
+  "id": 79245,
   "identifier": "manga-pt952954",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30353,
   "aniId": 60353,
-  "createdAt": "2021-06-21T07:50:59.000Z",
-  "updatedAt": "2021-12-21T08:26:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Azuma Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2022-05-20T16:05:27.000Z",
+    "checkedAt": "2022-05-20T16:05:27.000Z",
+    "id": 30353,
+    "type": "manga",
+    "title": "Mousou Megane",
+    "altTitle": [
+      "Glasses Delusion",
+      "Girls in my Glasses",
+      "妄想メガネ"
+    ],
+    "url": "https://myanimelist.net/manga/30353/Mousou_Megane",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180371.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Glasses Delusion",
-      "Girls in my Glasses",
-      "妄想メガネ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Azuma, Yuki"
-    ],
-    "id": 30353,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:03.209Z",
+    "updatedAt": "2022-05-20T16:05:27.000Z",
+    "checkedAt": "2022-05-20T16:05:27.000Z",
+    "id": 60353,
     "type": "manga",
     "title": "Mousou Megane",
-    "url": "https://myanimelist.net/manga/30353/Mousou_Megane",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180371.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2022-04-23T09:30:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "妄想メガネ",
       "Glasses Delusion"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Azuma"
-    ],
-    "id": 60353,
-    "malId": 30353,
-    "type": "manga",
-    "title": "Mousou Megane",
     "url": "https://anilist.co/manga/60353",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60353-FsW88crRMsv6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:06:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30353/Mousou_Megane"
+    "externalLinks": [],
+    "malId": 30353,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Azuma"
+    ]
+  }
 }

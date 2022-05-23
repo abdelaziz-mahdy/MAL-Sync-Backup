@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Komori Yoichi",
-    "Kubo Mitsurou"
-  ],
+  "createdAt": "2020-10-12T16:03:36.000Z",
+  "updatedAt": "2021-12-02T15:18:58.000Z",
+  "checkedAt": null,
+  "id": 2599,
   "identifier": "414fd0ba-83c1-4aa2-ba4c-388481288150",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12855,
   "aniId": 42855,
-  "createdAt": "2020-10-12T16:03:36.000Z",
-  "updatedAt": "2021-12-02T15:18:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komori Yoichi",
+    "Kubo Mitsurou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:48.000Z",
+    "updatedAt": "2022-04-10T01:30:47.000Z",
+    "checkedAt": null,
+    "id": 12855,
+    "type": "manga",
+    "title": "Tokkyuu!!",
+    "altTitle": [
+      "Tokkyu!",
+      "TOQ",
+      "トッキュー！！"
+    ],
+    "url": "https://myanimelist.net/manga/12855/Tokkyuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/184452.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +47,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tokkyu!",
-      "TOQ",
-      "トッキュー！！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kubo, Mitsurou",
       "Komori, Yoichi"
-    ],
-    "id": 12855,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:51.654Z",
+    "updatedAt": "2022-05-13T12:52:51.654Z",
+    "checkedAt": null,
+    "id": 42855,
     "type": "manga",
     "title": "Tokkyuu!!",
-    "url": "https://myanimelist.net/manga/12855/Tokkyuu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/184452.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:48.000Z",
-    "updatedAt": "2022-04-10T01:30:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "トッキュー!!",
       "TOQ",
       "Tokkyuu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsurou Kubo",
-      "Youichi Komori"
-    ],
-    "id": 42855,
-    "malId": 12855,
-    "type": "manga",
-    "title": "Tokkyuu!!",
     "url": "https://anilist.co/manga/42855",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42855-S5YAN7lCC5zX.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:26.000Z",
-    "updatedAt": "2021-12-17T15:04:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12855/Tokkyuu"
+    "externalLinks": [],
+    "malId": 12855,
+    "deletedAt": null,
+    "authors": [
+      "Mitsurou Kubo",
+      "Youichi Komori"
+    ]
+  }
 }

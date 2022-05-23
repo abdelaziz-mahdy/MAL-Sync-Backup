@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mori Motoko"
-  ],
+  "createdAt": "2020-10-12T16:04:35.000Z",
+  "updatedAt": "2021-12-02T22:18:46.000Z",
+  "checkedAt": null,
+  "id": 4633,
   "identifier": "44f1297a-0ed7-4d0a-a083-7cf5edaaf17a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10351,
   "aniId": 40351,
-  "createdAt": "2020-10-12T16:04:35.000Z",
-  "updatedAt": "2021-12-02T22:18:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mori Motoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:27.000Z",
+    "updatedAt": "2022-04-30T20:31:25.000Z",
+    "checkedAt": null,
+    "id": 10351,
+    "type": "manga",
+    "title": "Stone Cold",
+    "altTitle": [
+      "Stone Cold"
+    ],
+    "url": "https://myanimelist.net/manga/10351/Stone_Cold",
+    "image": "https://cdn.myanimelist.net/images/manga/2/13903.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Stone Cold"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mori, Motoko"
-    ],
-    "id": 10351,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:57.100Z",
+    "updatedAt": "2022-05-13T12:57:57.100Z",
+    "checkedAt": null,
+    "id": 40351,
     "type": "manga",
     "title": "Stone Cold",
-    "url": "https://myanimelist.net/manga/10351/Stone_Cold",
-    "image": "https://cdn.myanimelist.net/images/manga/2/13903.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:27.000Z",
-    "updatedAt": "2022-04-30T20:31:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ＳＴＯＮＥ ＣＯＬＤ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Motoko Mori"
-    ],
-    "id": 40351,
-    "malId": 10351,
-    "type": "manga",
-    "title": "Stone Cold",
     "url": "https://anilist.co/manga/40351",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40351-eKRGnsbJ9CVw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:03.000Z",
-    "updatedAt": "2021-12-17T14:06:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10351/Stone_Cold"
+    "externalLinks": [],
+    "malId": 10351,
+    "deletedAt": null,
+    "authors": [
+      "Motoko Mori"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urase Shioji"
-  ],
+  "createdAt": "2020-10-12T16:07:30.000Z",
+  "updatedAt": "2021-12-04T03:21:59.000Z",
+  "checkedAt": null,
+  "id": 10746,
   "identifier": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72555,
   "aniId": 91638,
-  "createdAt": "2020-10-12T16:07:30.000Z",
-  "updatedAt": "2021-12-04T03:21:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urase Shioji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2021-12-03T14:18:48.000Z",
+    "checkedAt": null,
+    "id": 72555,
+    "type": "manga",
+    "title": "Rose x Marie",
+    "altTitle": [
+      "ローズ×マリー"
+    ],
+    "url": "https://myanimelist.net/manga/72555/Rose_x_Marie",
+    "image": "https://cdn.myanimelist.net/images/manga/3/126633.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ローズ×マリー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urase, Shioji"
-    ],
-    "id": 72555,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:45.015Z",
+    "updatedAt": "2022-05-13T13:05:45.015Z",
+    "checkedAt": null,
+    "id": 91638,
     "type": "manga",
     "title": "Rose x Marie",
-    "url": "https://myanimelist.net/manga/72555/Rose_x_Marie",
-    "image": "https://cdn.myanimelist.net/images/manga/3/126633.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2021-12-03T14:18:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ローズ×マリー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shioji Urase"
-    ],
-    "id": 91638,
-    "malId": 72555,
-    "type": "manga",
-    "title": "Rose x Marie",
     "url": "https://anilist.co/manga/91638",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b91638-5srJu0S1oEY7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2021-12-18T00:24:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72555/Rose_x_Marie"
+    "externalLinks": [],
+    "malId": 72555,
+    "deletedAt": null,
+    "authors": [
+      "Shioji Urase"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Oku Hiroya",
-    "Iijika Keita"
-  ],
+  "createdAt": "2020-10-12T16:09:12.000Z",
+  "updatedAt": "2021-12-04T16:23:52.000Z",
+  "checkedAt": null,
+  "id": 14475,
   "identifier": "7fdca30e-26ef-442e-8157-d81a1fedd5df",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93677,
   "aniId": 86637,
-  "createdAt": "2020-10-12T16:09:12.000Z",
-  "updatedAt": "2021-12-04T16:23:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oku Hiroya",
+    "Iijika Keita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:15.000Z",
+    "updatedAt": "2022-05-15T18:06:56.000Z",
+    "checkedAt": "2022-05-15T18:06:56.000Z",
+    "id": 93677,
+    "type": "manga",
+    "title": "Gantz:G",
+    "altTitle": [
+      "Gantz G",
+      "GANTZ：G"
+    ],
+    "url": "https://myanimelist.net/manga/93677/Gantz_G",
+    "image": "https://cdn.myanimelist.net/images/manga/3/192968.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gantz G",
-      "GANTZ：G"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oku, Hiroya",
       "Iizuka, Keita"
-    ],
-    "id": 93677,
-    "type": "manga",
-    "title": "Gantz:G",
-    "url": "https://myanimelist.net/manga/93677/Gantz_G",
-    "image": "https://cdn.myanimelist.net/images/manga/3/192968.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:15.000Z",
-    "updatedAt": "2021-12-17T21:49:35.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:21.756Z",
+    "updatedAt": "2022-05-15T20:28:35.000Z",
+    "checkedAt": "2022-05-15T20:28:35.000Z",
+    "id": 86637,
+    "type": "manga",
+    "title": "GANTZ:G",
     "altTitle": [
-      "GANTZ：G",
+      "GANTZ:G",
       "G-Gantz",
       "Gantz G",
       "Gantz"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroya Oku",
-      "Keita Iizuka"
-    ],
-    "id": 86637,
-    "malId": 93677,
-    "type": "manga",
-    "title": "Gantz:G",
     "url": "https://anilist.co/manga/86637",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86637-5XQ0UIBapRKX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-12-17T22:55:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93677/Gantz_G"
+    "externalLinks": [],
+    "malId": 93677,
+    "deletedAt": null,
+    "authors": [
+      "Hiroya Oku",
+      "Keita Iizuka"
+    ]
+  }
 }

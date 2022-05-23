@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tamura Yumi"
-  ],
+  "createdAt": "2020-10-12T16:02:33.000Z",
+  "updatedAt": "2021-12-02T08:17:39.000Z",
+  "checkedAt": null,
+  "id": 384,
   "identifier": "ce47b821-988c-4abf-a8dd-864cef84585a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1075,
   "aniId": 31075,
-  "createdAt": "2020-10-12T16:02:33.000Z",
-  "updatedAt": "2021-12-02T08:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tamura Yumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-15T01:14:42.000Z",
+    "checkedAt": "2022-05-15T01:14:42.000Z",
+    "id": 1075,
+    "type": "manga",
+    "title": "7 Seeds",
+    "altTitle": [
+      "Seven Seeds",
+      "7SEEDS"
+    ],
+    "url": "https://myanimelist.net/manga/1075/7_Seeds",
+    "image": "https://cdn.myanimelist.net/images/manga/3/196607.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seven Seeds",
-      "7SEEDS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tamura, Yumi"
-    ],
-    "id": 1075,
-    "type": "manga",
-    "title": "7 Seeds",
-    "url": "https://myanimelist.net/manga/1075/7_Seeds",
-    "image": "https://cdn.myanimelist.net/images/manga/3/196607.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-03-18T14:19:33.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:28.476Z",
+    "updatedAt": "2022-05-15T19:03:59.000Z",
+    "checkedAt": "2022-05-15T19:03:59.000Z",
+    "id": 31075,
+    "type": "manga",
+    "title": "7SEEDS",
     "altTitle": [
       "７ＳＥＥＤＳ",
       "Seven Seeds",
       "7 Seeds"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yumi Tamura"
-    ],
-    "id": 31075,
-    "malId": 1075,
-    "type": "manga",
-    "title": "7SEEDS",
     "url": "https://anilist.co/manga/31075",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31075-0sTogC04TmSi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1075/7_Seeds"
+    "externalLinks": [],
+    "malId": 1075,
+    "deletedAt": null,
+    "authors": [
+      "Yumi Tamura"
+    ]
+  }
 }

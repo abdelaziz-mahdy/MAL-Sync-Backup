@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kinoshita Hanta",
-    "Inoue Noriyoshi"
-  ],
+  "createdAt": "2020-10-12T16:09:22.000Z",
+  "updatedAt": "2021-12-04T17:27:20.000Z",
+  "checkedAt": null,
+  "id": 14855,
   "identifier": "f4474f69-71a2-4f49-aff5-bf5c72cebd67",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95189,
   "aniId": 96575,
-  "createdAt": "2020-10-12T16:09:22.000Z",
-  "updatedAt": "2021-12-04T17:27:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kinoshita Hanta",
+    "Inoue Noriyoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-05-13T16:36:30.000Z",
+    "checkedAt": "2022-05-13T16:36:30.000Z",
+    "id": 95189,
+    "type": "manga",
+    "title": "Babel",
+    "altTitle": [
+      "BABEL"
+    ],
+    "url": "https://myanimelist.net/manga/95189/Babel",
+    "image": "https://cdn.myanimelist.net/images/manga/1/181291.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BABEL"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inoue, Noriyoshi",
       "Kinoshita, Hanta"
-    ],
-    "id": 95189,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:20.451Z",
+    "updatedAt": "2022-05-18T19:08:45.000Z",
+    "checkedAt": "2022-05-18T19:08:45.000Z",
+    "id": 96575,
     "type": "manga",
     "title": "Babel",
-    "url": "https://myanimelist.net/manga/95189/Babel",
-    "image": "https://cdn.myanimelist.net/images/manga/1/181291.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2022-01-06T05:22:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BABEL"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hanta Kinoshita",
-      "Noriyoshi Inoue"
-    ],
-    "id": 96575,
-    "malId": 95189,
-    "type": "manga",
-    "title": "Babel",
     "url": "https://anilist.co/manga/96575",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx96575-0YInDEG1rBKe.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:57.000Z",
-    "updatedAt": "2021-12-18T01:50:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95189/Babel"
+    "externalLinks": [],
+    "malId": 95189,
+    "deletedAt": null,
+    "authors": [
+      "Hanta Kinoshita",
+      "Noriyoshi Inoue"
+    ]
+  }
 }

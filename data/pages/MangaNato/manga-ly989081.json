@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kim Jane (김자네)",
-    "Wasakbasak (Redice Studio)"
-  ],
+  "createdAt": "2021-05-29T07:43:55.000Z",
+  "updatedAt": "2022-02-22T17:47:40.000Z",
+  "checkedAt": null,
+  "id": 73543,
   "identifier": "manga-ly989081",
   "type": "manga",
   "page": "MangaNato",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 125229,
-  "createdAt": "2021-05-29T07:43:55.000Z",
-  "updatedAt": "2022-02-22T17:47:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kim Jane (김자네)",
+    "Wasakbasak (Redice Studio)"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:13.757Z",
+    "updatedAt": "2022-05-20T00:52:06.000Z",
+    "checkedAt": "2022-05-20T00:52:06.000Z",
+    "id": 125229,
+    "type": "manga",
+    "title": "Office Nuna Iyagi",
     "altTitle": [
       "The Nuna at Our Office",
       "오피스 누나 이야기",
@@ -27,22 +35,16 @@
       "My Office Noona's Story",
       "Opiseu Nuna Iyagi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Wasakbasak",
-      "Jane Kim"
-    ],
-    "id": 125229,
-    "malId": null,
-    "type": "manga",
-    "title": "Office Nuna Iyagi",
     "url": "https://anilist.co/manga/125229",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125229-zkOg3ElI35Jl.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T13:13:17.000Z",
-    "updatedAt": "2022-03-19T20:19:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Wasakbasak",
+      "Jane Kim"
+    ]
+  }
 }

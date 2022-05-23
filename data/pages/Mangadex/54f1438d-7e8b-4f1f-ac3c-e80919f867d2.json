@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ito Kyosuke"
-  ],
+  "createdAt": "2021-10-12T11:46:58.000Z",
+  "updatedAt": "2022-04-12T13:21:15.000Z",
+  "checkedAt": null,
+  "id": 88528,
   "identifier": "54f1438d-7e8b-4f1f-ac3c-e80919f867d2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 136913,
   "aniId": 133379,
-  "createdAt": "2021-10-12T11:46:58.000Z",
-  "updatedAt": "2022-04-12T13:21:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ito Kyosuke"
+  ],
   "Mal": {
+    "createdAt": "2021-10-10T03:32:34.000Z",
+    "updatedAt": "2022-05-23T03:34:53.000Z",
+    "checkedAt": "2022-05-23T03:34:53.000Z",
+    "id": 136913,
+    "type": "manga",
+    "title": "Boku no Adelia",
+    "altTitle": [
+      "My Adelia",
+      "ぼくのアデリア"
+    ],
+    "url": "https://myanimelist.net/manga/136913/Boku_no_Adelia",
+    "image": "https://cdn.myanimelist.net/images/manga/3/253348.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Adelia",
-      "ぼくのアデリア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itou, Kyousuke"
-    ],
-    "id": 136913,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:36.647Z",
+    "updatedAt": "2022-05-23T03:34:52.000Z",
+    "checkedAt": "2022-05-23T03:34:52.000Z",
+    "id": 133379,
     "type": "manga",
     "title": "Boku no Adelia",
-    "url": "https://myanimelist.net/manga/136913/Boku_no_Adelia",
-    "image": "https://cdn.myanimelist.net/images/manga/3/253348.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-10T03:32:34.000Z",
-    "updatedAt": "2022-04-23T08:31:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ぼくのアデリア"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kyousuke Itou"
-    ],
-    "id": 133379,
-    "malId": 136913,
-    "type": "manga",
-    "title": "Boku no Adelia",
     "url": "https://anilist.co/manga/133379",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133379-RVav40H4Q7N6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-24T07:08:17.000Z",
-    "updatedAt": "2022-04-23T05:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/136913/Boku_no_Adelia"
+    "externalLinks": [],
+    "malId": 136913,
+    "deletedAt": null,
+    "authors": [
+      "Kyousuke Itou"
+    ]
+  }
 }

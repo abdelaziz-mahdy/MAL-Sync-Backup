@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Wes Anderson",
-    "Mochizuki Minetaro"
-  ],
+  "createdAt": "2020-10-12T16:13:46.000Z",
+  "updatedAt": "2022-05-07T10:00:45.000Z",
+  "checkedAt": null,
+  "id": 23581,
   "identifier": "fcd725b5-6f94-459d-aa6f-56b95070a1da",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122350,
   "aniId": 110008,
-  "createdAt": "2020-10-12T16:13:46.000Z",
-  "updatedAt": "2022-05-07T10:00:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wes Anderson",
+    "Mochizuki Minetaro"
+  ],
   "Mal": {
+    "createdAt": "2021-06-06T00:19:59.000Z",
+    "updatedAt": "2022-05-22T18:51:11.000Z",
+    "checkedAt": "2022-05-22T18:51:11.000Z",
+    "id": 122350,
+    "type": "manga",
+    "title": "Inugashima",
+    "altTitle": [
+      "Isle of Dogs",
+      "犬ヶ島"
+    ],
+    "url": "https://myanimelist.net/manga/122350/Inugashima",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224750.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,50 +46,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Isle of Dogs",
-      "犬ヶ島"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mochizuki, Minetaro",
       "Anderson, Wes"
-    ],
-    "id": 122350,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:12.324Z",
+    "updatedAt": "2022-05-22T18:51:10.000Z",
+    "checkedAt": "2022-05-22T18:51:10.000Z",
+    "id": 110008,
     "type": "manga",
     "title": "Inugashima",
-    "url": "https://myanimelist.net/manga/122350/Inugashima",
-    "image": "https://cdn.myanimelist.net/images/manga/2/224750.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-06T00:19:59.000Z",
-    "updatedAt": "2021-12-06T00:47:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "犬ヶ島",
       "Isle of Dogs",
       "L'Ile aux chiens",
       "Ilha dos Cachorros"
     ],
+    "url": "https://anilist.co/manga/110008",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110008-aD2SQic8XD3m.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 122350,
+    "deletedAt": null,
     "authors": [
       "Minetarou Mochizuki",
       "Wes Anderson",
       "Miyako Slocombe",
       "Thiago Nojiri"
-    ],
-    "id": 110008,
-    "malId": 122350,
-    "type": "manga",
-    "title": "Inugashima",
-    "url": "https://anilist.co/manga/110008",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110008-aD2SQic8XD3m.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-11-07T09:17:46.000Z",
-    "updatedAt": "2021-11-25T01:35:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122350/Inugashima"
+    ]
+  }
 }

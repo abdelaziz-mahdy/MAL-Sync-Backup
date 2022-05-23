@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Project Leviathan",
-    "Shuu Hirose"
-  ],
+  "createdAt": "2020-10-12T16:08:57.000Z",
+  "updatedAt": "2021-12-04T14:21:49.000Z",
+  "checkedAt": null,
+  "id": 13919,
   "identifier": "8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3716,
   "aniId": 33716,
-  "createdAt": "2020-10-12T16:08:57.000Z",
-  "updatedAt": "2021-12-04T14:21:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Project Leviathan",
+    "Shuu Hirose"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-05-23T12:43:44.000Z",
+    "checkedAt": "2022-05-23T12:43:44.000Z",
+    "id": 3716,
+    "type": "manga",
+    "title": "El Cazador",
+    "altTitle": [
+      "El Cazador de la Bruja",
+      "The Witch Hunter",
+      "エル・カザド"
+    ],
+    "url": "https://myanimelist.net/manga/3716/El_Cazador",
+    "image": "https://cdn.myanimelist.net/images/manga/1/167606.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "El Cazador de la Bruja",
-      "The Witch Hunter",
-      "エル・カザド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirose, Shuu"
-    ],
-    "id": 3716,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:48.127Z",
+    "updatedAt": "2022-05-23T12:43:42.000Z",
+    "checkedAt": "2022-05-23T12:43:42.000Z",
+    "id": 33716,
     "type": "manga",
     "title": "El Cazador",
-    "url": "https://myanimelist.net/manga/3716/El_Cazador",
-    "image": "https://cdn.myanimelist.net/images/manga/1/167606.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2021-12-31T19:53:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Witch Hunter",
       "エル・カザド",
       "El Cazador de la Bruja"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouichi Mashimo",
-      "Shuu Hirose",
-      "Kenichi Kanemaki"
-    ],
-    "id": 33716,
-    "malId": 3716,
-    "type": "manga",
-    "title": "El Cazador",
     "url": "https://anilist.co/manga/33716",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33716-7IKMKO04k4mQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:16.000Z",
-    "updatedAt": "2021-12-17T11:35:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3716/El_Cazador"
+    "externalLinks": [],
+    "malId": 3716,
+    "deletedAt": null,
+    "authors": [
+      "Kouichi Mashimo",
+      "Shuu Hirose",
+      "Kenichi Kanemaki"
+    ]
+  }
 }

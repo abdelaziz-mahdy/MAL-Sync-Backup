@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NastyCat"
-  ],
+  "createdAt": "2021-01-28T18:57:41.000Z",
+  "updatedAt": "2021-12-29T10:54:38.000Z",
+  "checkedAt": null,
+  "id": 60461,
   "identifier": "trace",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 16791,
   "aniId": 46791,
-  "createdAt": "2021-01-28T18:57:41.000Z",
-  "updatedAt": "2021-12-29T10:54:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "NastyCat"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-05-16T06:07:12.000Z",
+    "checkedAt": "2022-05-16T06:07:12.000Z",
+    "id": 16791,
+    "type": "manga",
+    "title": "Trace",
+    "altTitle": [
+      "트레이스"
+    ],
+    "url": "https://myanimelist.net/manga/16791/Trace",
+    "image": "https://cdn.myanimelist.net/images/manga/3/144971.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "트레이스"
-    ],
+    "deletedAt": null,
     "authors": [
       "Go, Yeong-Hun"
-    ],
-    "id": 16791,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:35.225Z",
+    "updatedAt": "2022-05-16T06:07:17.000Z",
+    "checkedAt": "2022-05-16T06:07:17.000Z",
+    "id": 46791,
     "type": "manga",
     "title": "Trace",
-    "url": "https://myanimelist.net/manga/16791/Trace",
-    "image": "https://cdn.myanimelist.net/images/manga/3/144971.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:23.000Z",
-    "updatedAt": "2022-01-15T11:42:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "트레이스"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yeong-Hun Go"
-    ],
-    "id": 46791,
-    "malId": 16791,
-    "type": "manga",
-    "title": "Trace",
     "url": "https://anilist.co/manga/46791",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46791-WIoMxT1mRVtm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:58.000Z",
-    "updatedAt": "2022-01-16T11:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16791/Trace"
+    "externalLinks": [],
+    "malId": 16791,
+    "deletedAt": null,
+    "authors": [
+      "Yeong-Hun Go"
+    ]
+  }
 }

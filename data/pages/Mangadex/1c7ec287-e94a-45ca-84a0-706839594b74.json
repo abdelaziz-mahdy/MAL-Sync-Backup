@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kanzaki Takashi"
-  ],
+  "createdAt": "2021-02-18T16:35:09.000Z",
+  "updatedAt": "2021-12-08T11:41:20.000Z",
+  "checkedAt": null,
+  "id": 62968,
   "identifier": "1c7ec287-e94a-45ca-84a0-706839594b74",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2604,
   "aniId": 32604,
-  "createdAt": "2021-02-18T16:35:09.000Z",
-  "updatedAt": "2021-12-08T11:41:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanzaki Takashi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-02-18T16:35:09.000Z",
+    "updatedAt": "2022-05-16T08:55:49.000Z",
+    "checkedAt": "2022-05-16T08:55:49.000Z",
+    "id": 2604,
+    "type": "manga",
+    "title": "Hishoshitsu no Himitsu",
     "altTitle": [
       "For Tomorrow",
       "For the Two of Us",
@@ -30,21 +36,24 @@
       "The Secret of a Secretariat",
       "秘書室の秘密"
     ],
-    "authors": [
-      "Kanzaki, Takashi"
-    ],
-    "id": 2604,
-    "type": "manga",
-    "title": "Hishoshitsu no Himitsu",
     "url": "https://myanimelist.net/manga/2604/Hishoshitsu_no_Himitsu",
     "image": "https://cdn.myanimelist.net/images/manga/3/2799.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-02-18T16:35:09.000Z",
-    "updatedAt": "2022-02-18T16:46:51.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kanzaki, Takashi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:44.094Z",
+    "updatedAt": "2022-05-16T08:55:47.000Z",
+    "checkedAt": "2022-05-16T08:55:47.000Z",
+    "id": 32604,
+    "type": "manga",
+    "title": "Hishoshitsu no Himitsu",
     "altTitle": [
       "秘書室の秘密",
       "For Tomorrow",
@@ -52,21 +61,15 @@
       "The Secret of a Secretary",
       "The Boss’s Secret"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takashi Kanzaki"
-    ],
-    "id": 32604,
-    "malId": 2604,
-    "type": "manga",
-    "title": "Hishoshitsu no Himitsu",
     "url": "https://anilist.co/manga/32604",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2604.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:12.000Z",
-    "updatedAt": "2021-12-17T10:44:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2604/Hishoshitsu_no_Himitsu"
+    "externalLinks": [],
+    "malId": 2604,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Kanzaki"
+    ]
+  }
 }

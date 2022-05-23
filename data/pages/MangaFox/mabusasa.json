@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nanase (ななせ)"
-  ],
+  "createdAt": "2021-10-02T16:31:22.000Z",
+  "updatedAt": "2022-04-02T17:36:45.000Z",
+  "checkedAt": null,
+  "id": 87926,
   "identifier": "mabusasa",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123765,
   "aniId": 114796,
-  "createdAt": "2021-10-02T16:31:22.000Z",
-  "updatedAt": "2022-04-02T17:36:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nanase (ななせ)"
+  ],
   "Mal": {
+    "createdAt": "2021-03-05T05:21:34.000Z",
+    "updatedAt": "2022-05-20T20:56:28.000Z",
+    "checkedAt": "2022-05-20T20:56:28.000Z",
+    "id": 123765,
+    "type": "manga",
+    "title": "MabuSasa",
+    "altTitle": [
+      "Mabuchi-kun to Sasagawa-san",
+      "MabuSasa",
+      "まぶささ"
+    ],
+    "url": "https://myanimelist.net/manga/123765/MabuSasa",
+    "image": "https://cdn.myanimelist.net/images/manga/3/225652.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mabuchi-kun to Sasagawa-san",
-      "MabuSasa",
-      "まぶささ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nanase"
-    ],
-    "id": 123765,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:18.548Z",
+    "updatedAt": "2022-05-20T20:56:27.000Z",
+    "checkedAt": "2022-05-20T20:56:27.000Z",
+    "id": 114796,
     "type": "manga",
     "title": "MabuSasa",
-    "url": "https://myanimelist.net/manga/123765/MabuSasa",
-    "image": "https://cdn.myanimelist.net/images/manga/3/225652.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-03-05T05:21:34.000Z",
-    "updatedAt": "2022-03-05T06:00:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "MabuSasa",
       "まぶささ",
       "Mabuchi-kun to Sasagawa-san"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nanase"
-    ],
-    "id": 114796,
-    "malId": 123765,
-    "type": "manga",
-    "title": "MabuSasa",
     "url": "https://anilist.co/manga/114796",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114796-AiZqjrp1h8JF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T08:20:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123765/MabuSasa"
+    "externalLinks": [],
+    "malId": 123765,
+    "deletedAt": null,
+    "authors": [
+      "Nanase"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-01-03T17:54:24.000Z",
+  "updatedAt": "2022-01-03T18:23:32.000Z",
+  "checkedAt": null,
+  "id": 39675,
   "identifier": "2oomq",
   "type": "anime",
   "page": "9anime",
@@ -8,20 +12,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22661,
   "aniId": 107110,
-  "createdAt": "2022-01-03T17:54:24.000Z",
-  "updatedAt": "2022-01-03T18:23:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "animedb",
-        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11448"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-07-17T17:32:56.000Z",
+    "updatedAt": "2022-05-14T15:49:38.000Z",
+    "checkedAt": "2022-05-14T15:49:38.000Z",
+    "id": 22661,
+    "type": "anime",
+    "title": "One Piece: Cry Heart",
     "altTitle": [
       "One Piece: Banpresto's \"Cry Heart\" Short",
       "Fuyujima ni Furu Sakura",
@@ -29,19 +30,27 @@
       "Ace no Saigo",
       "ワンピース Cry heart～冬島に降る桜～"
     ],
-    "id": 22661,
-    "type": "anime",
-    "title": "One Piece: Cry Heart",
     "url": "https://myanimelist.net/anime/22661/One_Piece__Cry_Heart",
     "image": "https://cdn.myanimelist.net/images/anime/13/60173.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": 11448,
-    "createdAt": "2021-07-17T17:32:56.000Z",
-    "updatedAt": "2022-01-03T17:54:25.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11448"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11448
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-23T05:12:59.000Z",
+    "updatedAt": "2022-05-15T21:39:35.000Z",
+    "checkedAt": "2022-05-15T21:39:35.000Z",
+    "id": 107110,
+    "type": "anime",
+    "title": "ONE PIECE: Cry Heart",
     "altTitle": [
       "ワンピース Cry heart",
       "One Piece: Banpresto's \"Cry Heart\" Short",
@@ -49,18 +58,12 @@
       "Children's Dream",
       "Ace no Saigo "
     ],
-    "externalLinks": [],
-    "id": 107110,
-    "malId": 22661,
-    "type": "anime",
-    "title": "ONE PIECE: Cry Heart",
     "url": "https://anilist.co/anime/107110",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107110-pF0sMxDe3aLi.png",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-23T05:12:59.000Z",
-    "updatedAt": "2021-12-28T22:53:28.000Z",
+    "externalLinks": [],
+    "malId": 22661,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/22661/One_Piece__Cry_Heart"
+  }
 }

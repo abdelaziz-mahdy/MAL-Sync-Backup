@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "David Füleki"
-  ],
+  "createdAt": "2020-10-12T16:18:50.000Z",
+  "updatedAt": "2021-12-07T21:07:40.000Z",
+  "checkedAt": null,
+  "id": 33961,
   "identifier": "26c145b9-c02f-45b9-ac51-2afd64b60543",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1802,
   "aniId": 31802,
-  "createdAt": "2020-10-12T16:18:50.000Z",
-  "updatedAt": "2021-12-07T21:07:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "David Füleki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:37.000Z",
+    "updatedAt": "2022-05-15T15:20:59.000Z",
+    "checkedAt": "2022-05-15T15:20:59.000Z",
+    "id": 1802,
+    "type": "manga",
+    "title": "Cat Street",
+    "altTitle": [
+      "Ribbon Road",
+      "キャットストリート"
+    ],
+    "url": "https://myanimelist.net/manga/1802/Cat_Street",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176481.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ribbon Road",
-      "キャットストリート"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kamio, Yoko"
-    ],
-    "id": 1802,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:29.613Z",
+    "updatedAt": "2022-05-15T18:48:11.000Z",
+    "checkedAt": "2022-05-15T18:48:11.000Z",
+    "id": 31802,
     "type": "manga",
     "title": "Cat Street",
-    "url": "https://myanimelist.net/manga/1802/Cat_Street",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176481.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2022-04-01T18:02:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "キャットストリート",
       "Ribbon Road"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoko Kamio"
-    ],
-    "id": 31802,
-    "malId": 1802,
-    "type": "manga",
-    "title": "Cat Street",
     "url": "https://anilist.co/manga/31802",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1802-5zZrSc1pL924.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:54.000Z",
-    "updatedAt": "2021-12-17T10:14:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1802/Cat_Street"
+    "externalLinks": [],
+    "malId": 1802,
+    "deletedAt": null,
+    "authors": [
+      "Yoko Kamio"
+    ]
+  }
 }

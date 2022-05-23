@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hanzawa Kaori"
-  ],
+  "createdAt": "2021-08-17T06:37:10.000Z",
+  "updatedAt": "2022-02-17T07:17:31.000Z",
+  "checkedAt": null,
+  "id": 85492,
   "identifier": "manga-sp970098",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96240,
   "aniId": 87369,
-  "createdAt": "2021-08-17T06:37:10.000Z",
-  "updatedAt": "2022-02-17T07:17:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanzawa Kaori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:24.000Z",
+    "updatedAt": "2022-05-16T12:26:57.000Z",
+    "checkedAt": "2022-05-16T12:26:57.000Z",
+    "id": 96240,
+    "type": "manga",
+    "title": "Comic Girls",
+    "altTitle": [
+      "こみっくがーるず"
+    ],
+    "url": "https://myanimelist.net/manga/96240/Comic_Girls",
+    "image": "https://cdn.myanimelist.net/images/manga/1/172062.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こみっくがーるず"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanzawa, Kaori"
-    ],
-    "id": 96240,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:54.576Z",
+    "updatedAt": "2022-05-16T12:26:56.000Z",
+    "checkedAt": "2022-05-16T12:26:56.000Z",
+    "id": 87369,
     "type": "manga",
     "title": "Comic Girls",
-    "url": "https://myanimelist.net/manga/96240/Comic_Girls",
-    "image": "https://cdn.myanimelist.net/images/manga/1/172062.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:24.000Z",
-    "updatedAt": "2022-02-17T06:47:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Comic Girls",
       "こみっくがーるず"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaori Hanzawa"
-    ],
-    "id": 87369,
-    "malId": 96240,
-    "type": "manga",
-    "title": "Comic Girls",
     "url": "https://anilist.co/manga/87369",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87369-WrIB8AV9lWaY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:02.000Z",
-    "updatedAt": "2021-12-17T23:26:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96240/Comic_Girls"
+    "externalLinks": [],
+    "malId": 96240,
+    "deletedAt": null,
+    "authors": [
+      "Kaori Hanzawa"
+    ]
+  }
 }

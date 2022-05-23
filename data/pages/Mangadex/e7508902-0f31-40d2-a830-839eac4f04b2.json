@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Takahashi Shin",
-    "Trend-Pro Co. Ltd.",
-    "Inoue Iroha"
-  ],
+  "createdAt": "2020-10-12T16:19:01.000Z",
+  "updatedAt": "2021-12-07T21:37:31.000Z",
+  "checkedAt": null,
+  "id": 34349,
   "identifier": "e7508902-0f31-40d2-a830-839eac4f04b2",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21385,
   "aniId": 51385,
-  "createdAt": "2020-10-12T16:19:01.000Z",
-  "updatedAt": "2021-12-07T21:37:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Shin",
+    "Trend-Pro Co. Ltd.",
+    "Inoue Iroha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:56.000Z",
+    "updatedAt": "2022-03-10T08:29:55.000Z",
+    "checkedAt": null,
+    "id": 21385,
+    "type": "manga",
+    "title": "GDGD-DOGS",
+    "altTitle": [
+      "Manga Dogs",
+      "グダグダドッグス"
+    ],
+    "url": "https://myanimelist.net/manga/21385/GDGD-DOGS",
+    "image": "https://cdn.myanimelist.net/images/manga/1/34544.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,25 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Manga Dogs",
-      "グダグダドッグス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tooyama, Ema"
-    ],
-    "id": 21385,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:18.734Z",
+    "updatedAt": "2022-05-13T13:00:18.734Z",
+    "checkedAt": null,
+    "id": 51385,
     "type": "manga",
     "title": "GDGD-DOGS",
-    "url": "https://myanimelist.net/manga/21385/GDGD-DOGS",
-    "image": "https://cdn.myanimelist.net/images/manga/1/34544.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:56.000Z",
-    "updatedAt": "2022-03-10T08:29:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Manga Dogs",
       "GDGD-DOGS",
@@ -55,21 +64,15 @@
       "グダグダドッグス",
       "Gdgd Dogs"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ema Tooyama"
-    ],
-    "id": 51385,
-    "malId": 21385,
-    "type": "manga",
-    "title": "GDGD-DOGS",
     "url": "https://anilist.co/manga/51385",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51385-PIS2kVZIEQnr.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:42.000Z",
-    "updatedAt": "2021-12-17T17:38:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21385/GDGD-DOGS"
+    "externalLinks": [],
+    "malId": 21385,
+    "deletedAt": null,
+    "authors": [
+      "Ema Tooyama"
+    ]
+  }
 }

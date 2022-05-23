@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hatopopoko"
-  ],
+  "createdAt": "2020-10-12T16:07:12.000Z",
+  "updatedAt": "2021-12-04T01:17:58.000Z",
+  "checkedAt": null,
+  "id": 10099,
   "identifier": "ed5b7dbf-f586-468a-b243-b61b8d3932b0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104444,
   "aniId": 99096,
-  "createdAt": "2020-10-12T16:07:12.000Z",
-  "updatedAt": "2021-12-04T01:17:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hatopopoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2021-11-18T11:14:56.000Z",
+    "checkedAt": null,
+    "id": 104444,
+    "type": "manga",
+    "title": "Biotop",
+    "altTitle": [
+      "ビオトープ"
+    ],
+    "url": "https://myanimelist.net/manga/104444/Biotop",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191477.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ビオトープ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hatopopoko"
-    ],
-    "id": 104444,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:11.416Z",
+    "updatedAt": "2022-05-13T12:43:11.416Z",
+    "checkedAt": null,
+    "id": 99096,
     "type": "manga",
     "title": "Biotop",
-    "url": "https://myanimelist.net/manga/104444/Biotop",
-    "image": "https://cdn.myanimelist.net/images/manga/2/191477.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2021-11-18T11:14:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Biotop",
       "ビオトープ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hatopopoko"
-    ],
-    "id": 99096,
-    "malId": 104444,
-    "type": "manga",
-    "title": "Biotop",
     "url": "https://anilist.co/manga/99096",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99096-knyQwhw42JuT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2021-12-18T02:50:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104444/Biotop"
+    "externalLinks": [],
+    "malId": 104444,
+    "deletedAt": null,
+    "authors": [
+      "Hatopopoko"
+    ]
+  }
 }

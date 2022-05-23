@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MATSUMOTO Leiji"
-  ],
+  "createdAt": "2022-03-28T14:54:21.000Z",
+  "updatedAt": "2022-03-28T15:23:39.000Z",
+  "checkedAt": null,
+  "id": 100169,
   "identifier": "otoko_oidon",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10197,
   "aniId": 40197,
-  "createdAt": "2022-03-28T14:54:21.000Z",
-  "updatedAt": "2022-03-28T15:23:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "MATSUMOTO Leiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:26.000Z",
+    "updatedAt": "2022-05-15T22:01:11.000Z",
+    "checkedAt": "2022-05-15T22:01:11.000Z",
+    "id": 10197,
+    "type": "manga",
+    "title": "Otoko Oidon",
+    "altTitle": [
+      "I Am A Man",
+      "男おいどん"
+    ],
+    "url": "https://myanimelist.net/manga/10197/Otoko_Oidon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/62865.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I Am A Man",
-      "男おいどん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Leiji"
-    ],
-    "id": 10197,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:57.362Z",
+    "updatedAt": "2022-05-15T22:26:35.000Z",
+    "checkedAt": "2022-05-15T22:26:35.000Z",
+    "id": 40197,
     "type": "manga",
     "title": "Otoko Oidon",
-    "url": "https://myanimelist.net/manga/10197/Otoko_Oidon",
-    "image": "https://cdn.myanimelist.net/images/manga/2/62865.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:26.000Z",
-    "updatedAt": "2022-03-28T14:54:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "男おいどん",
       "I Am A Man"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Leiji Matsumoto"
-    ],
-    "id": 40197,
-    "malId": 10197,
-    "type": "manga",
-    "title": "Otoko Oidon",
     "url": "https://anilist.co/manga/40197",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10197.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2021-12-17T14:04:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10197/Otoko_Oidon"
+    "externalLinks": [],
+    "malId": 10197,
+    "deletedAt": null,
+    "authors": [
+      "Leiji Matsumoto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "OSHIMI Shuzo"
-  ],
+  "createdAt": "2021-06-19T08:50:51.000Z",
+  "updatedAt": "2021-12-19T09:48:35.000Z",
+  "checkedAt": null,
+  "id": 78982,
   "identifier": "happiness_oshimi_shuzo",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85173,
   "aniId": 86136,
-  "createdAt": "2021-06-19T08:50:51.000Z",
-  "updatedAt": "2021-12-19T09:48:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "OSHIMI Shuzo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-14T21:18:41.000Z",
+    "checkedAt": "2022-05-14T21:18:41.000Z",
+    "id": 85173,
+    "type": "manga",
+    "title": "Happiness",
+    "altTitle": [
+      "Happiness",
+      "ハピネス"
+    ],
+    "url": "https://myanimelist.net/manga/85173/Happiness",
+    "image": "https://cdn.myanimelist.net/images/manga/2/161562.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Happiness",
-      "ハピネス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oshimi, Shuuzou"
-    ],
-    "id": 85173,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:20.957Z",
+    "updatedAt": "2022-05-15T21:39:23.000Z",
+    "checkedAt": "2022-05-15T21:39:23.000Z",
+    "id": 86136,
     "type": "manga",
     "title": "Happiness",
-    "url": "https://myanimelist.net/manga/85173/Happiness",
-    "image": "https://cdn.myanimelist.net/images/manga/2/161562.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2022-04-26T17:01:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Happiness",
       "ハピネス"
     ],
+    "url": "https://anilist.co/manga/86136",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86136-NKn5H8cLsHX7.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 85173,
+    "deletedAt": null,
     "authors": [
       "Shuuzou Oshimi",
       "Thibaud Desbief",
       "Kevin Gifford",
       "David Yoo",
       "Denis Kimura"
-    ],
-    "id": 86136,
-    "malId": 85173,
-    "type": "manga",
-    "title": "Happiness",
-    "url": "https://anilist.co/manga/86136",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86136-NKn5H8cLsHX7.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2022-02-01T17:20:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85173/Happiness"
+    ]
+  }
 }

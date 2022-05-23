@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Jiro"
-  ],
+  "createdAt": "2021-09-01T05:16:16.000Z",
+  "updatedAt": "2022-03-01T05:48:06.000Z",
+  "checkedAt": null,
+  "id": 86547,
   "identifier": "manga-np955324",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21665,
   "aniId": 51665,
-  "createdAt": "2021-09-01T05:16:16.000Z",
-  "updatedAt": "2022-03-01T05:48:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Jiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:58.000Z",
+    "updatedAt": "2022-05-17T18:10:44.000Z",
+    "checkedAt": "2022-05-17T18:10:44.000Z",
+    "id": 21665,
+    "type": "manga",
+    "title": "Jigoku no Alice",
+    "altTitle": [
+      "Alice in Hell",
+      "地獄のアリス"
+    ],
+    "url": "https://myanimelist.net/manga/21665/Jigoku_no_Alice",
+    "image": "https://cdn.myanimelist.net/images/manga/1/76575.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Alice in Hell",
-      "地獄のアリス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Jiro"
-    ],
-    "id": 21665,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:29.440Z",
+    "updatedAt": "2022-05-17T18:10:43.000Z",
+    "checkedAt": "2022-05-17T18:10:43.000Z",
+    "id": 51665,
     "type": "manga",
     "title": "Jigoku no Alice",
-    "url": "https://myanimelist.net/manga/21665/Jigoku_no_Alice",
-    "image": "https://cdn.myanimelist.net/images/manga/1/76575.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:58.000Z",
-    "updatedAt": "2022-03-01T05:17:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "地獄のアリス",
       "Alice in Hell"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jiro Matsumoto"
-    ],
-    "id": 51665,
-    "malId": 21665,
-    "type": "manga",
-    "title": "Jigoku no Alice",
     "url": "https://anilist.co/manga/51665",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx51665-5VHWeNOMjB6p.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:43.000Z",
-    "updatedAt": "2021-12-17T17:41:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21665/Jigoku_no_Alice"
+    "externalLinks": [],
+    "malId": 21665,
+    "deletedAt": null,
+    "authors": [
+      "Jiro Matsumoto"
+    ]
+  }
 }

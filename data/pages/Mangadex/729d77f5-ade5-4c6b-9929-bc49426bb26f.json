@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "R-one"
-  ],
+  "createdAt": "2020-10-12T16:18:14.000Z",
+  "updatedAt": "2021-12-07T15:18:57.000Z",
+  "checkedAt": null,
+  "id": 32755,
   "identifier": "729d77f5-ade5-4c6b-9929-bc49426bb26f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123940,
   "aniId": 119135,
-  "createdAt": "2020-10-12T16:18:14.000Z",
-  "updatedAt": "2021-12-07T15:18:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "R-one"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2021-11-25T02:36:33.000Z",
+    "checkedAt": null,
+    "id": 123940,
+    "type": "manga",
+    "title": "An-Andoro-Doro",
+    "altTitle": [
+      "あんアンドロどろ"
+    ],
+    "url": "https://myanimelist.net/manga/123940/An-Andoro-Doro",
+    "image": "https://cdn.myanimelist.net/images/manga/2/227459.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あんアンドロどろ"
-    ],
+    "deletedAt": null,
     "authors": [
       "R-one"
-    ],
-    "id": 123940,
-    "type": "manga",
-    "title": "An-Andoro-Doro",
-    "url": "https://myanimelist.net/manga/123940/An-Andoro-Doro",
-    "image": "https://cdn.myanimelist.net/images/manga/2/227459.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2021-11-25T02:36:33.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:09.413Z",
+    "updatedAt": "2022-05-13T12:52:09.413Z",
+    "checkedAt": null,
+    "id": 119135,
+    "type": "manga",
+    "title": "An Andro Doro",
     "altTitle": [
       "あんアンドロどろ",
       "An Andoro Doro"
     ],
-    "externalLinks": [],
-    "authors": [
-      "R-one"
-    ],
-    "id": 119135,
-    "malId": 123940,
-    "type": "manga",
-    "title": "An Andro Doro",
     "url": "https://anilist.co/manga/119135",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119135-zIPls5mbngs6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T09:24:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123940/An-Andoro-Doro"
+    "externalLinks": [],
+    "malId": 123940,
+    "deletedAt": null,
+    "authors": [
+      "R-one"
+    ]
+  }
 }

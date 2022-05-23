@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:03.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2210,
   "identifier": "49lo",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1954,
   "aniId": 1954,
-  "createdAt": "2020-10-12T15:50:03.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:23.000Z",
+    "updatedAt": "2022-05-14T21:51:35.000Z",
+    "checkedAt": "2022-05-14T21:51:35.000Z",
+    "id": 1954,
+    "type": "anime",
+    "title": "Rayearth",
+    "altTitle": [
+      "Rayearth OVA",
+      "Magic Knight Rayearth OVA",
+      "レイアース"
+    ],
+    "url": "https://myanimelist.net/anime/1954/Rayearth",
+    "image": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rayearth OVA",
-      "Magic Knight Rayearth OVA",
-      "レイアース"
-    ],
+    "deletedAt": null,
+    "anidbId": 423
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:05.000Z",
+    "updatedAt": "2022-05-15T15:02:47.000Z",
+    "checkedAt": "2022-05-15T15:02:47.000Z",
     "id": 1954,
     "type": "anime",
-    "title": "Rayearth",
-    "url": "https://myanimelist.net/anime/1954/Rayearth",
-    "image": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 423,
-    "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2022-03-31T03:05:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Magic Knight Rayearth OVA",
     "altTitle": [
       "Magic Knight Rayearth OVA",
       "レイアース",
       "Rayearth OVA"
     ],
-    "externalLinks": [],
-    "id": 1954,
-    "malId": 1954,
-    "type": "anime",
-    "title": "Magic Knight Rayearth OVA",
     "url": "https://anilist.co/anime/1954",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1954-TMATUw0dInbZ.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:05.000Z",
-    "updatedAt": "2021-12-17T08:30:15.000Z",
+    "externalLinks": [],
+    "malId": 1954,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1954/Rayearth"
+  }
 }

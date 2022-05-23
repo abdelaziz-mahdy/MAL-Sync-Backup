@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Naoe"
-  ],
+  "createdAt": "2020-10-12T16:03:29.000Z",
+  "updatedAt": "2021-12-02T14:48:37.000Z",
+  "checkedAt": null,
+  "id": 2342,
   "identifier": "16b4668b-ef24-46fa-9631-c594026c6249",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59961,
   "aniId": 86229,
-  "createdAt": "2020-10-12T16:03:29.000Z",
-  "updatedAt": "2021-12-02T14:48:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Naoe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:55.000Z",
+    "updatedAt": "2022-05-17T01:00:27.000Z",
+    "checkedAt": "2022-05-17T01:00:27.000Z",
+    "id": 59961,
+    "type": "manga",
+    "title": "Aoharu x Kikanjuu",
+    "altTitle": [
+      "Seishun x Kikanjuu",
+      "Blue Spring x Machine Gun",
+      "Aoharu x Machine Gun",
+      "青春×機関銃"
+    ],
+    "url": "https://myanimelist.net/manga/59961/Aoharu_x_Kikanjuu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/106519.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seishun x Kikanjuu",
-      "Blue Spring x Machine Gun",
-      "Aoharu x Machine Gun",
-      "青春×機関銃"
-    ],
+    "deletedAt": null,
     "authors": [
       "NAOE"
-    ],
-    "id": 59961,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:48.790Z",
+    "updatedAt": "2022-05-17T01:00:18.000Z",
+    "checkedAt": "2022-05-17T01:00:18.000Z",
+    "id": 86229,
     "type": "manga",
     "title": "Aoharu x Kikanjuu",
-    "url": "https://myanimelist.net/manga/59961/Aoharu_x_Kikanjuu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/106519.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2022-04-07T01:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Aoharu X Machinegun",
       "青春×機関銃",
@@ -58,21 +67,15 @@
       "Youth x Machine Gun",
       "ศึกปืนกล คนผ่าเหล่า"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoe"
-    ],
-    "id": 86229,
-    "malId": 59961,
-    "type": "manga",
-    "title": "Aoharu x Kikanjuu",
     "url": "https://anilist.co/manga/86229",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86229-smgfPJg9iuDO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:39.000Z",
-    "updatedAt": "2022-03-11T06:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59961/Aoharu_x_Kikanjuu"
+    "externalLinks": [],
+    "malId": 59961,
+    "deletedAt": null,
+    "authors": [
+      "Naoe"
+    ]
+  }
 }

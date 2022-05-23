@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Mizutani Osamu",
-    "Tsuchida Seiki"
-  ],
+  "createdAt": "2021-08-22T08:16:07.000Z",
+  "updatedAt": "2022-02-22T08:47:39.000Z",
+  "checkedAt": null,
+  "id": 86008,
   "identifier": "manga-tv971230",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17910,
   "aniId": 47910,
-  "createdAt": "2021-08-22T08:16:07.000Z",
-  "updatedAt": "2022-02-22T08:47:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizutani Osamu",
+    "Tsuchida Seiki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:29.000Z",
+    "updatedAt": "2022-05-15T18:38:54.000Z",
+    "checkedAt": "2022-05-15T18:38:54.000Z",
+    "id": 17910,
+    "type": "manga",
+    "title": "Yomawari Sensei",
+    "altTitle": [
+      "Nightwatch Teacher",
+      "夜回り先生"
+    ],
+    "url": "https://myanimelist.net/manga/17910/Yomawari_Sensei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/185367.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nightwatch Teacher",
-      "夜回り先生"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizutani, Osamu",
       "Tsuchida, Seiki"
-    ],
-    "id": 17910,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:32.053Z",
+    "updatedAt": "2022-05-15T20:40:59.000Z",
+    "checkedAt": "2022-05-15T20:40:59.000Z",
+    "id": 47910,
     "type": "manga",
     "title": "Yomawari Sensei",
-    "url": "https://myanimelist.net/manga/17910/Yomawari_Sensei",
-    "image": "https://cdn.myanimelist.net/images/manga/2/185367.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:29.000Z",
-    "updatedAt": "2022-02-24T02:19:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "夜回り先生",
       "Nightwatch Teacher"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Mizutani",
-      "Seiki Tsuchida"
-    ],
-    "id": 47910,
-    "malId": 17910,
-    "type": "manga",
-    "title": "Yomawari Sensei",
     "url": "https://anilist.co/manga/47910",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47910-AbjEJsv4Gps9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:14.000Z",
-    "updatedAt": "2021-12-17T16:39:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17910/Yomawari_Sensei"
+    "externalLinks": [],
+    "malId": 17910,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Mizutani",
+      "Seiki Tsuchida"
+    ]
+  }
 }

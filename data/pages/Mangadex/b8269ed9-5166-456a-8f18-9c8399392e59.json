@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Speakeasy",
-    "Risou Maeda"
-  ],
+  "createdAt": "2020-10-12T16:10:17.000Z",
+  "updatedAt": "2021-12-04T23:49:11.000Z",
+  "checkedAt": null,
+  "id": 16807,
   "identifier": "b8269ed9-5166-456a-8f18-9c8399392e59",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100302,
   "aniId": 97522,
-  "createdAt": "2020-10-12T16:10:17.000Z",
-  "updatedAt": "2021-12-04T23:49:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Speakeasy",
+    "Risou Maeda"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:40.000Z",
+    "updatedAt": "2021-11-17T01:58:13.000Z",
+    "checkedAt": null,
+    "id": 100302,
+    "type": "manga",
+    "title": "Qualidea Code",
+    "altTitle": [
+      "クオリディア・コード"
+    ],
+    "url": "https://myanimelist.net/manga/100302/Qualidea_Code",
+    "image": "https://cdn.myanimelist.net/images/manga/3/195587.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クオリディア・コード"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maeda, Risou",
       "Speakeasy"
-    ],
-    "id": 100302,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:24.773Z",
+    "updatedAt": "2022-05-13T13:05:24.773Z",
+    "checkedAt": null,
+    "id": 97522,
     "type": "manga",
     "title": "Qualidea Code",
-    "url": "https://myanimelist.net/manga/100302/Qualidea_Code",
-    "image": "https://cdn.myanimelist.net/images/manga/3/195587.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:40.000Z",
-    "updatedAt": "2021-11-17T01:58:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クオリディア・コード"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Risou Maeda"
-    ],
-    "id": 97522,
-    "malId": 100302,
-    "type": "manga",
-    "title": "Qualidea Code",
     "url": "https://anilist.co/manga/97522",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97522-CWH3YY92pRVO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:49.000Z",
-    "updatedAt": "2021-12-18T02:00:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100302/Qualidea_Code"
+    "externalLinks": [],
+    "malId": 100302,
+    "deletedAt": null,
+    "authors": [
+      "Risou Maeda"
+    ]
+  }
 }

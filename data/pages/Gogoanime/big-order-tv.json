@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:59:58.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 16803,
   "identifier": "big-order-tv",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 31904,
   "aniId": 21445,
-  "createdAt": "2020-10-12T15:59:58.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:41.000Z",
+    "updatedAt": "2022-05-14T18:22:41.000Z",
+    "checkedAt": "2022-05-14T18:22:41.000Z",
+    "id": 31904,
+    "type": "anime",
+    "title": "Big Order (TV)",
+    "altTitle": [
+      "Big Order",
+      "ビッグオーダー"
+    ],
+    "url": "https://myanimelist.net/anime/31904/Big_Order_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/3/79913.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "http://www.crunchyroll.com/series-269811"
       }
     ],
-    "altTitle": [
-      "Big Order",
-      "ビッグオーダー"
-    ],
-    "id": 31904,
-    "type": "anime",
-    "title": "Big Order (TV)",
-    "url": "https://myanimelist.net/anime/31904/Big_Order_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/3/79913.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11724,
-    "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2022-04-05T17:02:09.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11724
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:42:57.000Z",
+    "updatedAt": "2022-05-15T11:36:11.000Z",
+    "checkedAt": "2022-05-15T11:36:11.000Z",
+    "id": 21445,
+    "type": "anime",
+    "title": "Big Order",
     "altTitle": [
       "Big Order",
       "ビッグオーダー"
     ],
+    "url": "https://anilist.co/anime/21445",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21445-dwVB8jetRygo.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/G6VNEV0QR/BIG-ORDER"
       }
     ],
-    "id": 21445,
     "malId": 31904,
-    "type": "anime",
-    "title": "Big Order",
-    "url": "https://anilist.co/anime/21445",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21445-dwVB8jetRygo.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:42:57.000Z",
-    "updatedAt": "2021-12-17T15:00:36.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/31904/Big_Order_TV"
+  }
 }

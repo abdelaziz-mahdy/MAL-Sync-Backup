@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Okano Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:18:34.000Z",
+  "updatedAt": "2021-12-07T18:16:53.000Z",
+  "checkedAt": null,
+  "id": 33384,
   "identifier": "140740c6-d7ce-4e90-8da1-fd7210d68db6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7205,
   "aniId": 37205,
-  "createdAt": "2020-10-12T16:18:34.000Z",
-  "updatedAt": "2021-12-07T18:16:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okano Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:13.000Z",
+    "updatedAt": "2022-04-29T22:01:23.000Z",
+    "checkedAt": null,
+    "id": 7205,
+    "type": "manga",
+    "title": "Mikakunin Shounen Gedou",
+    "altTitle": [
+      "Mikakunin Shounen Gedoh",
+      "Gedou the Unidentified Mysterious Boy",
+      "未確認少年ゲドー"
+    ],
+    "url": "https://myanimelist.net/manga/7205/Mikakunin_Shounen_Gedou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/178826.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mikakunin Shounen Gedoh",
-      "Gedou the Unidentified Mysterious Boy",
-      "未確認少年ゲドー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okano, Takeshi"
-    ],
-    "id": 7205,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:42.504Z",
+    "updatedAt": "2022-05-13T12:50:42.504Z",
+    "checkedAt": null,
+    "id": 37205,
     "type": "manga",
     "title": "Mikakunin Shounen Gedou",
-    "url": "https://myanimelist.net/manga/7205/Mikakunin_Shounen_Gedou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/178826.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:13.000Z",
-    "updatedAt": "2022-04-29T22:01:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "未確認少年ゲドー",
       "Gedou the Unidentified Mysterious Boy",
       "Mikakunin Shounen Gedoh"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Okano"
-    ],
-    "id": 37205,
-    "malId": 7205,
-    "type": "manga",
-    "title": "Mikakunin Shounen Gedou",
     "url": "https://anilist.co/manga/37205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37205-AfFdRdPTPIYM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:46.000Z",
-    "updatedAt": "2021-12-17T13:07:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7205/Mikakunin_Shounen_Gedou"
+    "externalLinks": [],
+    "malId": 7205,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Okano"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kawatsu Ryuichi",
-    "Tsuruoka Nobuhisa"
-  ],
+  "createdAt": "2020-10-12T16:11:30.000Z",
+  "updatedAt": "2021-12-05T09:24:01.000Z",
+  "checkedAt": null,
+  "id": 19468,
   "identifier": "61cb55bb-03e1-4496-9bd4-460c2c7143b4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113577,
   "aniId": 108781,
-  "createdAt": "2020-10-12T16:11:30.000Z",
-  "updatedAt": "2021-12-05T09:24:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawatsu Ryuichi",
+    "Tsuruoka Nobuhisa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:33.000Z",
+    "updatedAt": "2022-01-03T03:54:35.000Z",
+    "checkedAt": null,
+    "id": 113577,
+    "type": "manga",
+    "title": "Eden",
+    "altTitle": [
+      "EDEN"
+    ],
+    "url": "https://myanimelist.net/manga/113577/Eden",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219789.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "EDEN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawatsu, Ryuuichi",
       "Tsuruoka, Nobuhisa"
-    ],
-    "id": 113577,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:59.489Z",
+    "updatedAt": "2022-05-13T13:04:59.489Z",
+    "checkedAt": null,
+    "id": 108781,
     "type": "manga",
     "title": "Eden",
-    "url": "https://myanimelist.net/manga/113577/Eden",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219789.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:33.000Z",
-    "updatedAt": "2022-01-03T03:54:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エデン",
       "EDEN",
       "エデン (鶴岡伸寿)"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nobuhisa Tsuruoka",
-      "Ryuichi Kawatsu"
-    ],
-    "id": 108781,
-    "malId": 113577,
-    "type": "manga",
-    "title": "Eden",
     "url": "https://anilist.co/manga/108781",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108781-QtrNjPkt7ZRj.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:01.000Z",
-    "updatedAt": "2021-12-18T06:21:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113577/Eden"
+    "externalLinks": [],
+    "malId": 113577,
+    "deletedAt": null,
+    "authors": [
+      "Nobuhisa Tsuruoka",
+      "Ryuichi Kawatsu"
+    ]
+  }
 }

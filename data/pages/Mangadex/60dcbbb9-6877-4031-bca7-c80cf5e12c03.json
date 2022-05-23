@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hayakawa Nojiko"
-  ],
+  "createdAt": "2020-10-12T16:17:07.000Z",
+  "updatedAt": "2021-12-07T05:18:26.000Z",
+  "checkedAt": null,
+  "id": 30532,
   "identifier": "60dcbbb9-6877-4031-bca7-c80cf5e12c03",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30545,
   "aniId": 60545,
-  "createdAt": "2020-10-12T16:17:07.000Z",
-  "updatedAt": "2021-12-07T05:18:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hayakawa Nojiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2022-05-20T22:41:35.000Z",
+    "checkedAt": "2022-05-20T22:41:35.000Z",
+    "id": 30545,
+    "type": "manga",
+    "title": "Endou-kun no Kansatsu Nikki",
+    "altTitle": [
+      "Tsuda Note",
+      "Tsuda Memo",
+      "えんどうくんの観察日記"
+    ],
+    "url": "https://myanimelist.net/manga/30545/Endou-kun_no_Kansatsu_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/196127.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tsuda Note",
-      "Tsuda Memo",
-      "えんどうくんの観察日記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hayakawa, Nojiko"
-    ],
-    "id": 30545,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:13.196Z",
+    "updatedAt": "2022-05-20T22:41:33.000Z",
+    "checkedAt": "2022-05-20T22:41:33.000Z",
+    "id": 60545,
     "type": "manga",
     "title": "Endou-kun no Kansatsu Nikki",
-    "url": "https://myanimelist.net/manga/30545/Endou-kun_no_Kansatsu_Nikki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196127.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2022-03-25T14:58:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "えんどうくんの観察日記",
       "El diario de observaciones de Endou",
@@ -52,21 +61,15 @@
       "Observation Of Endou's Diary",
       "The Endou Observation Diary"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nojiko Hayakawa"
-    ],
-    "id": 60545,
-    "malId": 30545,
-    "type": "manga",
-    "title": "Endou-kun no Kansatsu Nikki",
     "url": "https://anilist.co/manga/60545",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60545-Ytb78PwbUeo9.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:07:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30545/Endou-kun_no_Kansatsu_Nikki"
+    "externalLinks": [],
+    "malId": 30545,
+    "deletedAt": null,
+    "authors": [
+      "Nojiko Hayakawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kumano Kyu"
-  ],
+  "createdAt": "2020-10-12T16:15:57.000Z",
+  "updatedAt": "2021-12-06T18:18:24.000Z",
+  "checkedAt": null,
+  "id": 28085,
   "identifier": "eb668d75-86ec-47e3-84ba-f41382f779b1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 119965,
   "aniId": 109713,
-  "createdAt": "2020-10-12T16:15:57.000Z",
-  "updatedAt": "2021-12-06T18:18:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kumano Kyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:01.000Z",
+    "updatedAt": "2022-05-18T15:01:57.000Z",
+    "checkedAt": "2022-05-18T15:01:57.000Z",
+    "id": 119965,
+    "type": "manga",
+    "title": "Nukenai Seiken-chan",
+    "altTitle": [
+      "ヌけない聖剣ちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/119965/Nukenai_Seiken-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/219619.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヌけない聖剣ちゃん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kumagai, Yuuki"
-    ],
-    "id": 119965,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:40.625Z",
+    "updatedAt": "2022-05-18T15:01:56.000Z",
+    "checkedAt": "2022-05-18T15:01:56.000Z",
+    "id": 109713,
     "type": "manga",
     "title": "Nukenai Seiken-chan",
-    "url": "https://myanimelist.net/manga/119965/Nukenai_Seiken-chan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/219619.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:01.000Z",
-    "updatedAt": "2022-04-19T01:31:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヌけない聖剣ちゃん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki Kumagai"
-    ],
-    "id": 109713,
-    "malId": 119965,
-    "type": "manga",
-    "title": "Nukenai Seiken-chan",
     "url": "https://anilist.co/manga/109713",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109713-2wQaFsFsim6n.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:13.000Z",
-    "updatedAt": "2021-12-18T06:48:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119965/Nukenai_Seiken-chan"
+    "externalLinks": [],
+    "malId": 119965,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Kumagai"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Dagabi",
-    "JIN Soye"
-  ],
+  "createdAt": "2021-10-12T00:07:55.000Z",
+  "updatedAt": "2022-04-12T00:37:24.000Z",
+  "checkedAt": null,
+  "id": 88440,
   "identifier": "faking_it_in_style",
   "type": "manga",
   "page": "MangaFox",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 128170,
-  "createdAt": "2021-10-12T00:07:55.000Z",
-  "updatedAt": "2022-04-12T00:37:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Dagabi",
+    "JIN Soye"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:55.889Z",
+    "updatedAt": "2022-05-13T20:10:22.000Z",
+    "checkedAt": "2022-05-13T20:10:22.000Z",
+    "id": 128170,
+    "type": "manga",
+    "title": "Syowindoui Pumgyeok",
     "altTitle": [
       "Faking It In Style",
       "쇼윈도의 품격"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kkot J",
-      "Dagabi"
-    ],
-    "id": 128170,
-    "malId": null,
-    "type": "manga",
-    "title": "Syowindoui Pumgyeok",
     "url": "https://anilist.co/manga/128170",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128170-IKncOeLX5eqG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T02:12:59.000Z",
-    "updatedAt": "2022-01-26T06:30:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Kkot J",
+      "Dagabi"
+    ]
+  }
 }

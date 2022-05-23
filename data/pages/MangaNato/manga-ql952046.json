@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itagaki Keisuke"
-  ],
+  "createdAt": "2021-05-29T01:12:33.000Z",
+  "updatedAt": "2021-11-29T02:07:16.000Z",
+  "checkedAt": null,
+  "id": 73229,
   "identifier": "manga-ql952046",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11425,
   "aniId": 41425,
-  "createdAt": "2021-05-29T01:12:33.000Z",
-  "updatedAt": "2021-11-29T02:07:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itagaki Keisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:33.000Z",
+    "updatedAt": "2022-05-15T07:27:38.000Z",
+    "checkedAt": "2022-05-15T07:27:38.000Z",
+    "id": 11425,
+    "type": "manga",
+    "title": "Grappler Baki",
+    "altTitle": [
+      "Baki the Grappler",
+      "グラップラー刃牙"
+    ],
+    "url": "https://myanimelist.net/manga/11425/Grappler_Baki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/76249.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Baki the Grappler",
-      "グラップラー刃牙"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itagaki, Keisuke"
-    ],
-    "id": 11425,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:28.418Z",
+    "updatedAt": "2022-05-15T17:39:23.000Z",
+    "checkedAt": "2022-05-15T17:39:23.000Z",
+    "id": 41425,
     "type": "manga",
     "title": "Grappler Baki",
-    "url": "https://myanimelist.net/manga/11425/Grappler_Baki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/76249.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:33.000Z",
-    "updatedAt": "2022-05-03T07:02:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "グラップラー刃牙",
       "Baki the Grappler"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keisuke Itagaki"
-    ],
-    "id": 41425,
-    "malId": 11425,
-    "type": "manga",
-    "title": "Grappler Baki",
     "url": "https://anilist.co/manga/41425",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41425-h4goOXcXI7yY.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:18.000Z",
-    "updatedAt": "2021-12-17T14:33:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11425/Grappler_Baki"
+    "externalLinks": [],
+    "malId": 11425,
+    "deletedAt": null,
+    "authors": [
+      "Keisuke Itagaki"
+    ]
+  }
 }

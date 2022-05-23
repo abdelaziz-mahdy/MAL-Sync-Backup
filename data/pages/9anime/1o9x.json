@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:15.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1056,
   "identifier": "1o9x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101,
   "aniId": 101,
-  "createdAt": "2020-10-12T15:49:15.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T17:08:16.000Z",
+    "checkedAt": "2022-05-14T17:08:16.000Z",
+    "id": 101,
+    "type": "anime",
+    "title": "Air",
+    "altTitle": [
+      "Air",
+      "AIR"
+    ],
+    "url": "https://myanimelist.net/anime/101/Air",
+    "image": "https://cdn.myanimelist.net/images/anime/8/22059.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,40 +50,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Air",
-      "AIR"
-    ],
+    "deletedAt": null,
+    "anidbId": 2002
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T10:55:35.000Z",
+    "checkedAt": "2022-05-15T10:55:35.000Z",
     "id": 101,
     "type": "anime",
-    "title": "Air",
-    "url": "https://myanimelist.net/anime/101/Air",
-    "image": "https://cdn.myanimelist.net/images/anime/8/22059.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2002,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-04-10T21:02:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "AIR",
     "altTitle": [
       "Air",
       "AIR",
       "Air TV"
     ],
-    "externalLinks": [],
-    "id": 101,
-    "malId": 101,
-    "type": "anime",
-    "title": "AIR",
     "url": "https://anilist.co/anime/101",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101-x3YmfrzYZ9kM.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:26.000Z",
-    "updatedAt": "2021-12-17T08:20:05.000Z",
+    "externalLinks": [],
+    "malId": 101,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/101/Air"
+  }
 }

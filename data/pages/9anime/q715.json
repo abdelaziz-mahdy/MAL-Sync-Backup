@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:04.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8327,
   "identifier": "q715",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28817,
   "aniId": 20983,
-  "createdAt": "2020-10-12T15:55:04.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:32.000Z",
+    "updatedAt": "2022-05-14T19:43:29.000Z",
+    "checkedAt": "2022-05-14T19:43:29.000Z",
+    "id": 28817,
+    "type": "anime",
+    "title": "Mikagura Gakuen Kumikyoku (TV)",
+    "altTitle": [
+      "Mikagura School Suite",
+      "ミカグラ学園組曲"
+    ],
+    "url": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/6/73590.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,27 +59,24 @@
         "url": "https://www.funimation.com/shows/mikagura-school-suite"
       }
     ],
-    "altTitle": [
-      "Mikagura School Suite",
-      "ミカグラ学園組曲"
-    ],
-    "id": 28817,
-    "type": "anime",
-    "title": "Mikagura Gakuen Kumikyoku (TV)",
-    "url": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/6/73590.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10969,
-    "createdAt": "2020-10-12T15:39:32.000Z",
-    "updatedAt": "2022-04-03T03:04:52.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 10969
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:46.000Z",
+    "updatedAt": "2022-05-15T13:40:23.000Z",
+    "checkedAt": "2022-05-15T13:40:23.000Z",
+    "id": 20983,
+    "type": "anime",
+    "title": "Mikagura Gakuen Kumikyoku",
     "altTitle": [
       "Mikagura School Suite",
       "ミカグラ学園組曲"
     ],
+    "url": "https://anilist.co/anime/20983",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20983-azC9eGcifwRL.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -74,17 +87,7 @@
         "url": "http://www.hulu.com/mikagura-school-suite"
       }
     ],
-    "id": 20983,
     "malId": 28817,
-    "type": "anime",
-    "title": "Mikagura Gakuen Kumikyoku",
-    "url": "https://anilist.co/anime/20983",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20983-azC9eGcifwRL.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:46.000Z",
-    "updatedAt": "2021-12-17T10:18:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV"
+  }
 }

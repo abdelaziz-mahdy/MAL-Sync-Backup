@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shisito Karari"
-  ],
+  "createdAt": "2020-10-12T16:10:03.000Z",
+  "updatedAt": "2021-12-04T22:18:38.000Z",
+  "checkedAt": null,
+  "id": 16304,
   "identifier": "46825de0-3a26-4976-8daa-3f29cf3d780a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100831,
   "aniId": 100441,
-  "createdAt": "2020-10-12T16:10:03.000Z",
-  "updatedAt": "2021-12-04T22:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shisito Karari"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:42.000Z",
+    "updatedAt": "2021-11-17T05:57:02.000Z",
+    "checkedAt": null,
+    "id": 100831,
+    "type": "manga",
+    "title": "Koiike",
     "altTitle": [
       "Love Pond",
       "Katakoi",
@@ -31,40 +37,37 @@
       "Far Away Love",
       "コイイケ"
     ],
-    "authors": [
-      "Shishito, Karari"
-    ],
-    "id": 100831,
-    "type": "manga",
-    "title": "Koiike",
     "url": "https://myanimelist.net/manga/100831/Koiike",
     "image": "https://cdn.myanimelist.net/images/manga/1/183273.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:42.000Z",
-    "updatedAt": "2021-11-17T05:57:02.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shishito, Karari"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:17.026Z",
+    "updatedAt": "2022-05-13T12:51:17.026Z",
+    "checkedAt": null,
+    "id": 100441,
+    "type": "manga",
+    "title": "Koiike",
     "altTitle": [
       "コイイケ",
       "Love Pond"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Karari Shishito"
-    ],
-    "id": 100441,
-    "malId": 100831,
-    "type": "manga",
-    "title": "Koiike",
     "url": "https://anilist.co/manga/100441",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100441-AqAvUo3duesr.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:51.000Z",
-    "updatedAt": "2022-02-08T16:39:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100831/Koiike"
+    "externalLinks": [],
+    "malId": 100831,
+    "deletedAt": null,
+    "authors": [
+      "Karari Shishito"
+    ]
+  }
 }

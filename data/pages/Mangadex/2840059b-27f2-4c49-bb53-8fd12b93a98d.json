@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ricotta",
-    "No.Gomesu"
-  ],
+  "createdAt": "2020-10-12T16:06:03.000Z",
+  "updatedAt": "2021-12-03T16:51:19.000Z",
+  "checkedAt": null,
+  "id": 7622,
   "identifier": "2840059b-27f2-4c49-bb53-8fd12b93a98d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50363,
   "aniId": 80363,
-  "createdAt": "2020-10-12T16:06:03.000Z",
-  "updatedAt": "2021-12-03T16:51:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ricotta",
+    "No.Gomesu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:35.000Z",
+    "updatedAt": "2021-11-07T21:17:57.000Z",
+    "checkedAt": null,
+    "id": 50363,
+    "type": "manga",
+    "title": "Walkure Romanze: Shoujo Kishi Monogatari",
+    "altTitle": [
+      "Valkyrie Romanze",
+      "ワルキューレロマンツェ 少女騎士物語"
+    ],
+    "url": "https://myanimelist.net/manga/50363/Walkure_Romanze__Shoujo_Kishi_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/120451.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Valkyrie Romanze",
-      "ワルキューレロマンツェ 少女騎士物語"
-    ],
+    "deletedAt": null,
     "authors": [
       "NO.Gomes",
       "Ricotta"
-    ],
-    "id": 50363,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:46.317Z",
+    "updatedAt": "2022-05-13T13:04:46.317Z",
+    "checkedAt": null,
+    "id": 80363,
     "type": "manga",
     "title": "Walkure Romanze: Shoujo Kishi Monogatari",
-    "url": "https://myanimelist.net/manga/50363/Walkure_Romanze__Shoujo_Kishi_Monogatari",
-    "image": "https://cdn.myanimelist.net/images/manga/3/120451.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:35.000Z",
-    "updatedAt": "2021-11-07T21:17:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ワルキューレロマンツェ 少女騎士物語",
       "Valkyrie Romanze"
     ],
-    "externalLinks": [],
-    "authors": [
-      "NO.Gomesu",
-      "Ricotta"
-    ],
-    "id": 80363,
-    "malId": 50363,
-    "type": "manga",
-    "title": "Walkure Romanze: Shoujo Kishi Monogatari",
     "url": "https://anilist.co/manga/80363",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50363-ZC3eXcpnhe7m.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:47.000Z",
-    "updatedAt": "2021-12-17T21:25:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50363/Walkure_Romanze__Shoujo_Kishi_Monogatari"
+    "externalLinks": [],
+    "malId": 50363,
+    "deletedAt": null,
+    "authors": [
+      "NO.Gomesu",
+      "Ricotta"
+    ]
+  }
 }

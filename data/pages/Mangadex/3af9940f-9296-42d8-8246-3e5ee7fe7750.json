@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takeoka Hazuki",
-    "Okazaki Oka"
-  ],
+  "createdAt": "2020-10-27T19:39:09.000Z",
+  "updatedAt": "2021-12-08T06:08:53.000Z",
+  "checkedAt": null,
+  "id": 50816,
   "identifier": "3af9940f-9296-42d8-8246-3e5ee7fe7750",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113141,
   "aniId": 112223,
-  "createdAt": "2020-10-27T19:39:09.000Z",
-  "updatedAt": "2021-12-08T06:08:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeoka Hazuki",
+    "Okazaki Oka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-27T19:40:50.000Z",
+    "updatedAt": "2022-04-27T20:31:57.000Z",
+    "checkedAt": null,
+    "id": 113141,
+    "type": "manga",
+    "title": "Oishii Verandah.",
+    "altTitle": [
+      "おいしいベランダ。"
+    ],
+    "url": "https://myanimelist.net/manga/113141/Oishii_Verandah",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222349.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "おいしいベランダ。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takeoka, Hazuki",
       "Okazaki, Oka"
-    ],
-    "id": 113141,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:08.822Z",
+    "updatedAt": "2022-05-13T12:52:08.822Z",
+    "checkedAt": null,
+    "id": 112223,
     "type": "manga",
     "title": "Oishii Verandah.",
-    "url": "https://myanimelist.net/manga/113141/Oishii_Verandah",
-    "image": "https://cdn.myanimelist.net/images/manga/3/222349.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-27T19:40:50.000Z",
-    "updatedAt": "2022-04-27T20:31:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おいしいベランダ。",
       "Oishii Veranda."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Oka Okazaki",
-      "Hazuki Takeoka"
-    ],
-    "id": 112223,
-    "malId": 113141,
-    "type": "manga",
-    "title": "Oishii Verandah.",
     "url": "https://anilist.co/manga/112223",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112223-oINeUsHT9vAh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:00.000Z",
-    "updatedAt": "2022-01-28T08:20:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113141/Oishii_Verandah"
+    "externalLinks": [],
+    "malId": 113141,
+    "deletedAt": null,
+    "authors": [
+      "Oka Okazaki",
+      "Hazuki Takeoka"
+    ]
+  }
 }

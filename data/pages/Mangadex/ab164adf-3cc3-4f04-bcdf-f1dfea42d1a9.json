@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Urobuchi Gen",
-    "Kurahashi Youth"
-  ],
+  "createdAt": "2021-01-29T08:49:03.000Z",
+  "updatedAt": "2021-12-08T11:08:50.000Z",
+  "checkedAt": null,
+  "id": 60545,
   "identifier": "ab164adf-3cc3-4f04-bcdf-f1dfea42d1a9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120850,
   "aniId": 111625,
-  "createdAt": "2021-01-29T08:49:03.000Z",
-  "updatedAt": "2021-12-08T11:08:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urobuchi Gen",
+    "Kurahashi Youth"
+  ],
   "Mal": {
+    "createdAt": "2021-01-29T08:49:02.000Z",
+    "updatedAt": "2022-01-29T09:23:30.000Z",
+    "checkedAt": null,
+    "id": 120850,
+    "type": "manga",
+    "title": "Godzilla: Kaijuu Wakusei",
+    "altTitle": [
+      "Godzilla: Planet of the Monsters",
+      "GODZILLA 怪獣惑星"
+    ],
+    "url": "https://myanimelist.net/manga/120850/Godzilla__Kaijuu_Wakusei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/221575.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +46,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Godzilla: Planet of the Monsters",
-      "GODZILLA 怪獣惑星"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurahashi, Youth"
-    ],
-    "id": 120850,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:30.499Z",
+    "updatedAt": "2022-05-13T12:41:30.499Z",
+    "checkedAt": null,
+    "id": 111625,
     "type": "manga",
     "title": "Godzilla: Kaijuu Wakusei",
-    "url": "https://myanimelist.net/manga/120850/Godzilla__Kaijuu_Wakusei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/221575.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-29T08:49:02.000Z",
-    "updatedAt": "2022-01-29T09:23:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "GODZILLA 怪獣惑星",
       "Godzilla: Planet of the Monsters"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youth Kurahashi"
-    ],
-    "id": 111625,
-    "malId": 120850,
-    "type": "manga",
-    "title": "Godzilla: Kaijuu Wakusei",
     "url": "https://anilist.co/manga/111625",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111625-kvrYnB1S36qc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2021-12-18T07:22:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120850/Godzilla__Kaijuu_Wakusei"
+    "externalLinks": [],
+    "malId": 120850,
+    "deletedAt": null,
+    "authors": [
+      "Youth Kurahashi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamada Hitsuji"
-  ],
+  "createdAt": "2022-04-07T13:30:53.000Z",
+  "updatedAt": "2022-04-07T14:00:24.000Z",
+  "checkedAt": null,
+  "id": 100822,
   "identifier": "manga-fk954545",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34303,
   "aniId": 64303,
-  "createdAt": "2022-04-07T13:30:53.000Z",
-  "updatedAt": "2022-04-07T14:00:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Hitsuji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:49.000Z",
+    "updatedAt": "2022-05-18T20:58:11.000Z",
+    "checkedAt": "2022-05-18T20:58:11.000Z",
+    "id": 34303,
+    "type": "manga",
+    "title": "Boku no Ushiro ni Majo ga Iru",
+    "altTitle": [
+      "There is a Witch Behind Me",
+      "僕の後ろに魔女がいる"
+    ],
+    "url": "https://myanimelist.net/manga/34303/Boku_no_Ushiro_ni_Majo_ga_Iru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188804.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "There is a Witch Behind Me",
-      "僕の後ろに魔女がいる"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Hitsuji"
-    ],
-    "id": 34303,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:24.747Z",
+    "updatedAt": "2022-05-18T20:58:10.000Z",
+    "checkedAt": "2022-05-18T20:58:10.000Z",
+    "id": 64303,
     "type": "manga",
     "title": "Boku no Ushiro ni Majo ga Iru",
-    "url": "https://myanimelist.net/manga/34303/Boku_no_Ushiro_ni_Majo_ga_Iru",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188804.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:49.000Z",
-    "updatedAt": "2022-03-28T01:37:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "僕の後ろに魔女がいる",
       "There is a Witch Behind Me"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hitsuji Yamada"
-    ],
-    "id": 64303,
-    "malId": 34303,
-    "type": "manga",
-    "title": "Boku no Ushiro ni Majo ga Iru",
     "url": "https://anilist.co/manga/64303",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34303.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:59.000Z",
-    "updatedAt": "2021-12-17T19:32:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/34303/Boku_no_Ushiro_ni_Majo_ga_Iru"
+    "externalLinks": [],
+    "malId": 34303,
+    "deletedAt": null,
+    "authors": [
+      "Hitsuji Yamada"
+    ]
+  }
 }

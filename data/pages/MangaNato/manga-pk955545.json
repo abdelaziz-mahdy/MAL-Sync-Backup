@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akino Matsuri"
-  ],
+  "createdAt": "2021-05-29T18:13:34.000Z",
+  "updatedAt": "2021-11-29T19:07:13.000Z",
+  "checkedAt": null,
+  "id": 74009,
   "identifier": "manga-pk955545",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 322,
   "aniId": 30322,
-  "createdAt": "2021-05-29T18:13:34.000Z",
-  "updatedAt": "2021-11-29T19:07:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akino Matsuri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-02-21T11:18:06.000Z",
+    "checkedAt": null,
+    "id": 322,
+    "type": "manga",
+    "title": "Genjuu no Seiza",
+    "altTitle": [
+      "Genju no Seiza",
+      "幻獣の星座"
+    ],
+    "url": "https://myanimelist.net/manga/322/Genjuu_no_Seiza",
+    "image": "https://cdn.myanimelist.net/images/manga/1/126579.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Genju no Seiza",
-      "幻獣の星座"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akino, Matsuri"
-    ],
-    "id": 322,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:48.342Z",
+    "updatedAt": "2022-05-13T12:53:48.342Z",
+    "checkedAt": null,
+    "id": 30322,
     "type": "manga",
     "title": "Genjuu no Seiza",
-    "url": "https://myanimelist.net/manga/322/Genjuu_no_Seiza",
-    "image": "https://cdn.myanimelist.net/images/manga/1/126579.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-02-21T11:18:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Genju no Seiza",
       "幻獣の星座",
@@ -51,21 +60,15 @@
       "Созвездие воображаемых зверей",
       "Chòm sao linh thú"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Matsuri Akino"
-    ],
-    "id": 30322,
-    "malId": 322,
-    "type": "manga",
-    "title": "Genjuu no Seiza",
     "url": "https://anilist.co/manga/30322",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30322-t7KyWRqsmQkL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2022-03-01T00:32:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/322/Genjuu_no_Seiza"
+    "externalLinks": [],
+    "malId": 322,
+    "deletedAt": null,
+    "authors": [
+      "Matsuri Akino"
+    ]
+  }
 }

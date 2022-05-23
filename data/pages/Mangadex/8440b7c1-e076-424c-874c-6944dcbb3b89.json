@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aikawa Yu"
-  ],
+  "createdAt": "2020-10-12T16:11:43.000Z",
+  "updatedAt": "2021-12-05T10:51:20.000Z",
+  "checkedAt": null,
+  "id": 19926,
   "identifier": "8440b7c1-e076-424c-874c-6944dcbb3b89",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1481,
   "aniId": 31481,
-  "createdAt": "2020-10-12T16:11:43.000Z",
-  "updatedAt": "2021-12-05T10:51:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aikawa Yu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:34.000Z",
+    "updatedAt": "2022-04-27T01:00:27.000Z",
+    "checkedAt": null,
+    "id": 1481,
+    "type": "manga",
+    "title": "Dark Edge",
+    "altTitle": [
+      "Dark Edge",
+      "다크엣지"
+    ],
+    "url": "https://myanimelist.net/manga/1481/Dark_Edge",
+    "image": "https://cdn.myanimelist.net/images/manga/3/1439.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dark Edge",
-      "다크엣지"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aikawa, Yu"
-    ],
-    "id": 1481,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:01.865Z",
+    "updatedAt": "2022-05-13T13:06:01.865Z",
+    "checkedAt": null,
+    "id": 31481,
     "type": "manga",
     "title": "Dark Edge",
-    "url": "https://myanimelist.net/manga/1481/Dark_Edge",
-    "image": "https://cdn.myanimelist.net/images/manga/3/1439.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:34.000Z",
-    "updatedAt": "2022-04-27T01:00:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ダーク・エッジ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yu Aikawa"
-    ],
-    "id": 31481,
-    "malId": 1481,
-    "type": "manga",
-    "title": "Dark Edge",
     "url": "https://anilist.co/manga/31481",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1481.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:46.000Z",
-    "updatedAt": "2021-12-17T10:07:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1481/Dark_Edge"
+    "externalLinks": [],
+    "malId": 1481,
+    "deletedAt": null,
+    "authors": [
+      "Yu Aikawa"
+    ]
+  }
 }

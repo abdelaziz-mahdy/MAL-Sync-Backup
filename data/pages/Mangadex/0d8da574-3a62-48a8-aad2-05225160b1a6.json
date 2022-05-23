@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "IHARA Daiki"
-  ],
+  "createdAt": "2021-12-14T01:18:24.000Z",
+  "updatedAt": "2021-12-14T11:09:00.000Z",
+  "checkedAt": null,
+  "id": 93060,
   "identifier": "0d8da574-3a62-48a8-aad2-05225160b1a6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 120401,
   "aniId": 110233,
-  "createdAt": "2021-12-14T01:18:24.000Z",
-  "updatedAt": "2021-12-14T11:09:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "IHARA Daiki"
+  ],
   "Mal": {
+    "createdAt": "2021-12-14T00:48:25.000Z",
+    "updatedAt": "2022-05-19T10:39:38.000Z",
+    "checkedAt": "2022-05-19T10:39:38.000Z",
+    "id": 120401,
+    "type": "manga",
+    "title": "Koisuru One Piece",
+    "altTitle": [
+      "Loving One Piece",
+      "恋するワンピース"
+    ],
+    "url": "https://myanimelist.net/manga/120401/Koisuru_One_Piece",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222841.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Loving One Piece",
-      "恋するワンピース"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ihara, Daiki"
-    ],
-    "id": 120401,
-    "type": "manga",
-    "title": "Koisuru One Piece",
-    "url": "https://myanimelist.net/manga/120401/Koisuru_One_Piece",
-    "image": "https://cdn.myanimelist.net/images/manga/1/222841.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-14T00:48:25.000Z",
-    "updatedAt": "2022-02-03T14:18:02.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:24.199Z",
+    "updatedAt": "2022-05-19T10:39:37.000Z",
+    "checkedAt": "2022-05-19T10:39:37.000Z",
+    "id": 110233,
+    "type": "manga",
+    "title": "Koisuru ONE PIECE",
     "altTitle": [
       "恋するワンピース",
       "航海王谈恋爱",
       "航海王談戀愛"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daiki Ihara",
-      "Eiichirou Oda"
-    ],
-    "id": 110233,
-    "malId": 120401,
-    "type": "manga",
-    "title": "Koisuru ONE PIECE",
     "url": "https://anilist.co/manga/110233",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110233-7Z79ZksUA043.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-30T20:20:03.000Z",
-    "updatedAt": "2022-03-16T09:27:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120401/Koisuru_One_Piece"
+    "externalLinks": [],
+    "malId": 120401,
+    "deletedAt": null,
+    "authors": [
+      "Daiki Ihara",
+      "Eiichirou Oda"
+    ]
+  }
 }

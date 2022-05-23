@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AMIDA Muku"
-  ],
+  "createdAt": "2021-03-30T14:00:50.000Z",
+  "updatedAt": "2022-03-10T07:59:44.000Z",
+  "checkedAt": null,
+  "id": 67882,
   "identifier": "messiahs-hammer",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 126912,
   "aniId": 107480,
-  "createdAt": "2021-03-30T14:00:50.000Z",
-  "updatedAt": "2022-03-10T07:59:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "AMIDA Muku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2021-12-01T21:48:01.000Z",
+    "checkedAt": null,
+    "id": 126912,
+    "type": "manga",
+    "title": "Messiah no Tettsui",
+    "altTitle": [
+      "Messiah's Hammer",
+      "メシアの鉄槌"
+    ],
+    "url": "https://myanimelist.net/manga/126912/Messiah_no_Tettsui",
+    "image": "https://cdn.myanimelist.net/images/manga/2/230654.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Messiah's Hammer",
-      "メシアの鉄槌"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amidamuku"
-    ],
-    "id": 126912,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:07.202Z",
+    "updatedAt": "2022-05-13T13:03:07.202Z",
+    "checkedAt": null,
+    "id": 107480,
     "type": "manga",
     "title": "Messiah no Tettsui",
-    "url": "https://myanimelist.net/manga/126912/Messiah_no_Tettsui",
-    "image": "https://cdn.myanimelist.net/images/manga/2/230654.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2021-12-01T21:48:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "メシアの鉄槌",
       "弥赛亚的铁锤",
       "彌賽亞的鐵錘"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Muku Amida"
-    ],
-    "id": 107480,
-    "malId": 126912,
-    "type": "manga",
-    "title": "Messiah no Tettsui",
     "url": "https://anilist.co/manga/107480",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107480-bgPXIfygFEjM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:15.000Z",
-    "updatedAt": "2021-12-18T05:53:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126912/Messiah_no_Tettsui"
+    "externalLinks": [],
+    "malId": 126912,
+    "deletedAt": null,
+    "authors": [
+      "Muku Amida"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Liaran",
-    "Minjack"
-  ],
+  "createdAt": "2021-02-07T05:50:03.000Z",
+  "updatedAt": "2022-03-27T15:09:04.000Z",
+  "checkedAt": null,
+  "id": 61621,
   "identifier": "the-monster-duchess-and-contract-princess",
   "type": "manga",
   "page": "MangaSee",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 140136,
   "aniId": 109436,
-  "createdAt": "2021-02-07T05:50:03.000Z",
-  "updatedAt": "2022-03-27T15:09:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Liaran",
+    "Minjack"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://page.kakao.com/home?seriesId=52792529"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-10-10T16:02:59.000Z",
+    "updatedAt": "2022-05-16T04:45:16.000Z",
+    "checkedAt": "2022-05-16T04:45:16.000Z",
+    "id": 140136,
+    "type": "manga",
+    "title": "The Monstrous Duke's Adopted Daughter",
     "altTitle": [
       "The Monster Duchess and Contract Princess",
       "The Monster Duchess and the Contract Lady",
@@ -33,22 +34,30 @@
       "The Monstrous Duke's Adopted Daughter",
       "괴물 공작가의 계약 공녀"
     ],
-    "authors": [
-      "Liaran",
-      "MinJakk"
-    ],
-    "id": 140136,
-    "type": "manga",
-    "title": "The Monstrous Duke's Adopted Daughter",
     "url": "https://myanimelist.net/manga/140136/The_Monstrous_Dukes_Adopted_Daughter",
     "image": "https://cdn.myanimelist.net/images/manga/1/249936.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2021-10-10T16:02:59.000Z",
-    "updatedAt": "2022-04-29T23:02:14.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=52792529"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Liaran",
+      "MinJakk"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:44.215Z",
+    "updatedAt": "2022-05-16T04:45:15.000Z",
+    "checkedAt": "2022-05-16T04:45:15.000Z",
+    "id": 109436,
+    "type": "manga",
+    "title": "Goemul Gongjagui Gyeyang Gongnyeo",
     "altTitle": [
       "The Monstrous Duke's Adopted Daughter",
       "괴물 공작가의 계약 공녀",
@@ -59,23 +68,17 @@
       "Witch's Counterattack",
       "魔女的逆袭"
     ],
-    "externalLinks": [],
-    "authors": [
-      "MinJakk",
-      "Liaran",
-      "cocorip"
-    ],
-    "id": 109436,
-    "malId": 140136,
-    "type": "manga",
-    "title": "Goemul Gongjagui Gyeyang Gongnyeo",
     "url": "https://anilist.co/manga/109436",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109436-eq1XhOPUFZ7l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T20:12:57.000Z",
-    "updatedAt": "2022-01-11T13:41:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140136/The_Monstrous_Dukes_Adopted_Daughter"
+    "externalLinks": [],
+    "malId": 140136,
+    "deletedAt": null,
+    "authors": [
+      "MinJakk",
+      "Liaran",
+      "cocorip"
+    ]
+  }
 }

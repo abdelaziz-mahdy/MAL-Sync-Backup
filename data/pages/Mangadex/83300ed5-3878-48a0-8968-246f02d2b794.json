@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hattori Mitsuru"
-  ],
+  "createdAt": "2020-10-12T16:02:41.000Z",
+  "updatedAt": "2021-12-02T09:16:38.000Z",
+  "checkedAt": null,
+  "id": 655,
   "identifier": "83300ed5-3878-48a0-8968-246f02d2b794",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 978,
   "aniId": 30978,
-  "createdAt": "2020-10-12T16:02:41.000Z",
-  "updatedAt": "2021-12-02T09:16:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hattori Mitsuru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-04-10T06:01:14.000Z",
+    "checkedAt": null,
+    "id": 978,
+    "type": "manga",
+    "title": "Inu Neko Jump!",
+    "altTitle": [
+      "Dog Cat Jump!",
+      "Korekara mo Tsuzuku Ongaku",
+      "イヌっネコっジャンプ！"
+    ],
+    "url": "https://myanimelist.net/manga/978/Inu_Neko_Jump",
+    "image": "https://cdn.myanimelist.net/images/manga/3/76839.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dog Cat Jump!",
-      "Korekara mo Tsuzuku Ongaku",
-      "イヌっネコっジャンプ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hattori, Mitsuru"
-    ],
-    "id": 978,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:31.524Z",
+    "updatedAt": "2022-05-13T12:40:31.524Z",
+    "checkedAt": null,
+    "id": 30978,
     "type": "manga",
     "title": "Inu Neko Jump!",
-    "url": "https://myanimelist.net/manga/978/Inu_Neko_Jump",
-    "image": "https://cdn.myanimelist.net/images/manga/3/76839.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2022-04-10T06:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イヌっネコっジャンプ!",
       "Dog Cat Jump!",
       "Korekara mo Tsuzuku Ongaku"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuru Hattori"
-    ],
-    "id": 30978,
-    "malId": 978,
-    "type": "manga",
-    "title": "Inu Neko Jump!",
     "url": "https://anilist.co/manga/30978",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30978-maIdTH0hE2EQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:38:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/978/Inu_Neko_Jump"
+    "externalLinks": [],
+    "malId": 978,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuru Hattori"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kuroda Bb"
-  ],
+  "createdAt": "2021-07-05T16:00:11.000Z",
+  "updatedAt": "2022-01-05T16:48:02.000Z",
+  "checkedAt": null,
+  "id": 80989,
   "identifier": "manga-cy954233",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20855,
   "aniId": 50855,
-  "createdAt": "2021-07-05T16:00:11.000Z",
-  "updatedAt": "2022-01-05T16:48:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuroda Bb"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:53.000Z",
+    "updatedAt": "2022-05-15T03:29:25.000Z",
+    "checkedAt": "2022-05-15T03:29:25.000Z",
+    "id": 20855,
+    "type": "manga",
+    "title": "A-Channel",
+    "altTitle": [
+      "Aチャンネル"
+    ],
+    "url": "https://myanimelist.net/manga/20855/A-Channel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/57067.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Aチャンネル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kuroda bb"
-    ],
-    "id": 20855,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:40.168Z",
+    "updatedAt": "2022-05-23T00:40:21.000Z",
+    "checkedAt": "2022-05-23T00:40:21.000Z",
+    "id": 50855,
     "type": "manga",
     "title": "A-Channel",
-    "url": "https://myanimelist.net/manga/20855/A-Channel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/57067.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:53.000Z",
-    "updatedAt": "2022-03-05T16:59:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Aチャンネル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "bb Kuroda"
-    ],
-    "id": 50855,
-    "malId": 20855,
-    "type": "manga",
-    "title": "A-Channel",
     "url": "https://anilist.co/manga/50855",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50855-kSC8JswiExpD.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:35.000Z",
-    "updatedAt": "2021-12-17T17:34:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20855/A-Channel"
+    "externalLinks": [],
+    "malId": 20855,
+    "deletedAt": null,
+    "authors": [
+      "bb Kuroda"
+    ]
+  }
 }

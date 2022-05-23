@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Misu Shinya"
-  ],
+  "createdAt": "2022-03-24T08:27:23.000Z",
+  "updatedAt": "2022-03-31T07:51:01.000Z",
+  "checkedAt": null,
+  "id": 99918,
   "identifier": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 145320,
   "aniId": 146858,
-  "createdAt": "2022-03-24T08:27:23.000Z",
-  "updatedAt": "2022-03-31T07:51:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Misu Shinya"
+  ],
   "Mal": {
+    "createdAt": "2022-03-31T07:50:59.000Z",
+    "updatedAt": "2022-05-14T23:54:05.000Z",
+    "checkedAt": "2022-05-14T23:54:05.000Z",
+    "id": 145320,
+    "type": "manga",
+    "title": "Osananajimi to wa Love Comedy ni Naranai",
+    "altTitle": [
+      "No More Love With the Girls.",
+      "幼馴染とはラブコメにならない"
+    ],
+    "url": "https://myanimelist.net/manga/145320/Osananajimi_to_wa_Love_Comedy_ni_Naranai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/257712.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "No More Love With the Girls.",
-      "幼馴染とはラブコメにならない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Misu, Shinya"
-    ],
-    "id": 145320,
-    "type": "manga",
-    "title": "Osananajimi to wa Love Comedy ni Naranai",
-    "url": "https://myanimelist.net/manga/145320/Osananajimi_to_wa_Love_Comedy_ni_Naranai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/257712.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-03-31T07:50:59.000Z",
-    "updatedAt": "2022-03-31T07:50:59.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:52.531Z",
+    "updatedAt": "2022-05-17T13:41:06.000Z",
+    "checkedAt": "2022-05-17T13:41:06.000Z",
+    "id": 146858,
+    "type": "manga",
+    "title": "Osananajimi to wa LoveCome ni Naranai",
     "altTitle": [
       "幼馴染とはラブコメにならない",
       "No more love with the girls"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinya Misu"
-    ],
-    "id": 146858,
-    "malId": 145320,
-    "type": "manga",
-    "title": "Osananajimi to wa LoveCome ni Naranai",
     "url": "https://anilist.co/manga/146858",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146858-0qsAPGFtnmA8.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-03-29T15:00:20.000Z",
-    "updatedAt": "2022-03-30T04:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/145320/Osananajimi_to_wa_Love_Comedy_ni_Naranai"
+    "externalLinks": [],
+    "malId": 145320,
+    "deletedAt": null,
+    "authors": [
+      "Shinya Misu"
+    ]
+  }
 }

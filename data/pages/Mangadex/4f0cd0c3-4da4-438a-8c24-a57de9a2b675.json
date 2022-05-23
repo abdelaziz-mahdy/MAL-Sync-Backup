@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shigeru Miyamoto",
-    "Hijioka Makoto"
-  ],
+  "createdAt": "2020-10-12T16:13:37.000Z",
+  "updatedAt": "2021-12-07T19:34:46.000Z",
+  "checkedAt": null,
+  "id": 23280,
   "identifier": "4f0cd0c3-4da4-438a-8c24-a57de9a2b675",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 116678,
-  "createdAt": "2020-10-12T16:13:37.000Z",
-  "updatedAt": "2021-12-07T19:34:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shigeru Miyamoto",
+    "Hijioka Makoto"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.773Z",
+    "updatedAt": "2022-05-13T13:01:29.773Z",
+    "checkedAt": null,
+    "id": 116678,
+    "type": "manga",
+    "title": "Donkey Kong",
     "altTitle": [
       "ドンキーコング",
       "ドンキーコング ―ウホウホ大自然ギャグ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Hijioka",
-      "Shigeru Miyamoto"
-    ],
-    "id": 116678,
-    "malId": null,
-    "type": "manga",
-    "title": "Donkey Kong",
     "url": "https://anilist.co/manga/116678",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116678-RyEADC5krNua.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T23:19:50.000Z",
-    "updatedAt": "2021-12-05T23:46:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Hijioka",
+      "Shigeru Miyamoto"
+    ]
+  }
 }

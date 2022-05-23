@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katou Daiki"
-  ],
+  "createdAt": "2020-10-12T16:03:07.000Z",
+  "updatedAt": "2021-12-02T13:18:08.000Z",
+  "checkedAt": null,
+  "id": 1577,
   "identifier": "3aaa7cf1-b330-4355-9d33-d936d9a28d46",
   "type": "manga",
   "page": "Mangadex",
@@ -11,53 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30101,
   "aniId": 60101,
-  "createdAt": "2020-10-12T16:03:07.000Z",
-  "updatedAt": "2021-12-02T13:18:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katou Daiki"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2021-12-02T12:16:46.000Z",
+    "checkedAt": null,
+    "id": 30101,
+    "type": "manga",
+    "title": "Manken.",
     "altTitle": [
       "Man-ken.",
       "マンけん。"
     ],
-    "authors": [
-      "Katou, Daiki"
-    ],
-    "id": 30101,
-    "type": "manga",
-    "title": "Manken.",
     "url": "https://myanimelist.net/manga/30101/Manken",
     "image": "https://cdn.myanimelist.net/images/manga/3/64969.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2021-12-02T12:16:46.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Katou, Daiki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:25.141Z",
+    "updatedAt": "2022-05-13T13:01:25.141Z",
+    "checkedAt": null,
+    "id": 60101,
+    "type": "manga",
+    "title": "Manken.",
     "altTitle": [
       "マンけん。",
       "Man-ken"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daiki Kase"
-    ],
-    "id": 60101,
-    "malId": 30101,
-    "type": "manga",
-    "title": "Manken.",
     "url": "https://anilist.co/manga/60101",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30101.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-02T12:01:22.000Z",
-    "updatedAt": "2021-12-17T19:05:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30101/Manken"
+    "externalLinks": [],
+    "malId": 30101,
+    "deletedAt": null,
+    "authors": [
+      "Daiki Kase"
+    ]
+  }
 }

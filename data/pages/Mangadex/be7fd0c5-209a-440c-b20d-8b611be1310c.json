@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oshimi Shuzo"
-  ],
+  "createdAt": "2020-10-12T16:06:09.000Z",
+  "updatedAt": "2021-12-03T17:49:59.000Z",
+  "checkedAt": null,
+  "id": 7878,
   "identifier": "be7fd0c5-209a-440c-b20d-8b611be1310c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49017,
   "aniId": 79017,
-  "createdAt": "2020-10-12T16:06:09.000Z",
-  "updatedAt": "2021-12-03T17:49:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oshimi Shuzo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:32.000Z",
+    "updatedAt": "2022-05-14T23:07:53.000Z",
+    "checkedAt": "2022-05-14T23:07:53.000Z",
+    "id": 49017,
+    "type": "manga",
+    "title": "Shino-chan wa Jibun no Namae ga Ienai",
+    "altTitle": [
+      "Shino-chan Cannot Say Her Own Name",
+      "Shino Can't Say Her Name",
+      "志乃ちゃんは自分の名前が言えない"
+    ],
+    "url": "https://myanimelist.net/manga/49017/Shino-chan_wa_Jibun_no_Namae_ga_Ienai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/181384.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,25 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shino-chan Cannot Say Her Own Name",
-      "志乃ちゃんは自分の名前が言えない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oshimi, Shuuzou"
-    ],
-    "id": 49017,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:46.805Z",
+    "updatedAt": "2022-05-18T12:35:27.000Z",
+    "checkedAt": "2022-05-18T12:35:27.000Z",
+    "id": 79017,
     "type": "manga",
     "title": "Shino-chan wa Jibun no Namae ga Ienai",
-    "url": "https://myanimelist.net/manga/49017/Shino-chan_wa_Jibun_no_Namae_ga_Ienai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/181384.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:32.000Z",
-    "updatedAt": "2022-02-26T01:18:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shino Can't Say Her Name",
       "志乃ちゃんは自分の名前が言えない",
@@ -55,22 +65,16 @@
       "Shino no es Capaz de Decir su Nombre",
       "Shino-chan não consegue dizer o próprio nome"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuuzou Oshimi",
-      "Molly Rabbitt"
-    ],
-    "id": 79017,
-    "malId": 49017,
-    "type": "manga",
-    "title": "Shino-chan wa Jibun no Namae ga Ienai",
     "url": "https://anilist.co/manga/79017",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79017-TWySyvxKzm8f.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:40.000Z",
-    "updatedAt": "2021-12-17T21:20:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49017/Shino-chan_wa_Jibun_no_Namae_ga_Ienai"
+    "externalLinks": [],
+    "malId": 49017,
+    "deletedAt": null,
+    "authors": [
+      "Shuuzou Oshimi",
+      "Molly Rabbitt"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Robert Lovato",
-    "Bill Charles"
-  ],
+  "createdAt": "2020-10-12T16:14:11.000Z",
+  "updatedAt": "2021-12-06T03:19:09.000Z",
+  "checkedAt": null,
+  "id": 24399,
   "identifier": "d5e29e4a-6b1c-4b09-86d6-a06457aff898",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21755,
   "aniId": 51755,
-  "createdAt": "2020-10-12T16:14:11.000Z",
-  "updatedAt": "2021-12-06T03:19:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Robert Lovato",
+    "Bill Charles"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/CROSS_and_CRIME"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:58.000Z",
+    "updatedAt": "2022-04-08T17:31:14.000Z",
+    "checkedAt": null,
+    "id": 21755,
+    "type": "manga",
+    "title": "Cross and Crime",
     "altTitle": [
       "Saiyaku Honey",
       "Takaragai",
@@ -33,40 +34,42 @@
       "Go! Go! G-bukken",
       "CROSS and CRIME"
     ],
-    "authors": [
-      "Hatsuki, Kyou"
-    ],
-    "id": 21755,
-    "type": "manga",
-    "title": "Cross and Crime",
     "url": "https://myanimelist.net/manga/21755/Cross_and_Crime",
     "image": "https://cdn.myanimelist.net/images/manga/3/188831.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:58.000Z",
-    "updatedAt": "2022-04-08T17:31:14.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/CROSS_and_CRIME"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hatsuki, Kyou"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:02.209Z",
+    "updatedAt": "2022-05-13T12:45:02.209Z",
+    "checkedAt": null,
+    "id": 51755,
+    "type": "manga",
+    "title": "Cross and Crime",
     "altTitle": [
       "クロスアンドクライム",
       "Cross & Crime"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kyou Hatsuki"
-    ],
-    "id": 51755,
-    "malId": 21755,
-    "type": "manga",
-    "title": "Cross and Crime",
     "url": "https://anilist.co/manga/51755",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21755.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:45:45.000Z",
-    "updatedAt": "2022-04-21T00:00:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21755/Cross_and_Crime"
+    "externalLinks": [],
+    "malId": 21755,
+    "deletedAt": null,
+    "authors": [
+      "Kyou Hatsuki"
+    ]
+  }
 }

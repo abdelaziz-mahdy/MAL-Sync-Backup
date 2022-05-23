@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:52.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 642,
   "identifier": "0r59",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30885,
   "aniId": 119941,
-  "createdAt": "2020-10-12T15:48:52.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:37.000Z",
+    "updatedAt": "2022-05-13T23:34:36.000Z",
+    "checkedAt": "2022-05-13T23:34:36.000Z",
+    "id": 30885,
+    "type": "anime",
+    "title": "Noragami Aragoto OVA",
+    "altTitle": [
+      "Noragami Aragoto OAD",
+      "ノラガミ OAD"
+    ],
+    "url": "https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -22,39 +38,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Noragami Aragoto OAD",
-      "ノラガミ OAD"
-    ],
-    "id": 30885,
+    "deletedAt": null,
+    "anidbId": 11860
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:56.000Z",
+    "updatedAt": "2022-05-15T14:14:59.000Z",
+    "checkedAt": "2022-05-15T14:14:59.000Z",
+    "id": 119941,
     "type": "anime",
     "title": "Noragami Aragoto OVA",
-    "url": "https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/11/77510.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 11860,
-    "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2022-04-28T06:32:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ノラガミ OAD",
       "Noragami Aragoto OAD"
     ],
-    "externalLinks": [],
-    "id": 119941,
-    "malId": 30885,
-    "type": "anime",
-    "title": "Noragami Aragoto OVA",
     "url": "https://anilist.co/anime/119941",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119941-uspTZH6EoZer.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:56.000Z",
-    "updatedAt": "2021-12-17T17:58:09.000Z",
+    "externalLinks": [],
+    "malId": 30885,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30885/Noragami_Aragoto_OVA"
+  }
 }

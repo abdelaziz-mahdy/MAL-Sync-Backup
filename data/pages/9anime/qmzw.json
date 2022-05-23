@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:09.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8450,
   "identifier": "qmzw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9205,
   "aniId": 9205,
-  "createdAt": "2020-10-12T15:55:09.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:01.000Z",
+    "updatedAt": "2022-05-15T01:15:40.000Z",
+    "checkedAt": "2022-05-15T01:15:40.000Z",
+    "id": 9205,
+    "type": "anime",
+    "title": "Kaichuu!",
+    "altTitle": [
+      "Kaichu!",
+      "カイチュー!"
+    ],
+    "url": "https://myanimelist.net/anime/9205/Kaichuu",
+    "image": "https://cdn.myanimelist.net/images/anime/12/25520.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kaichu!",
-      "カイチュー!"
-    ],
+    "deletedAt": null,
+    "anidbId": 7672
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:03.000Z",
+    "updatedAt": "2022-05-15T19:59:35.000Z",
+    "checkedAt": "2022-05-15T19:59:35.000Z",
     "id": 9205,
     "type": "anime",
     "title": "Kaichuu!",
-    "url": "https://myanimelist.net/anime/9205/Kaichuu",
-    "image": "https://cdn.myanimelist.net/images/anime/12/25520.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 7672,
-    "createdAt": "2020-10-12T15:39:01.000Z",
-    "updatedAt": "2022-04-02T05:37:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "カイチュー!",
       "Kaichu!"
     ],
-    "externalLinks": [],
-    "id": 9205,
-    "malId": 9205,
-    "type": "anime",
-    "title": "Kaichuu!",
     "url": "https://anilist.co/anime/9205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9205.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:03.000Z",
-    "updatedAt": "2021-12-17T12:52:46.000Z",
+    "externalLinks": [],
+    "malId": 9205,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/9205/Kaichuu"
+  }
 }

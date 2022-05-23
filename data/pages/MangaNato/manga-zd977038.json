@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaneshiro Muneyuki"
-  ],
+  "createdAt": "2021-05-29T01:12:13.000Z",
+  "updatedAt": "2021-11-29T02:07:16.000Z",
+  "checkedAt": null,
+  "id": 73223,
   "identifier": "manga-zd977038",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94919,
   "aniId": 96518,
-  "createdAt": "2021-05-29T01:12:13.000Z",
-  "updatedAt": "2021-11-29T02:07:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaneshiro Muneyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-05-15T00:41:29.000Z",
+    "checkedAt": "2022-05-15T00:41:29.000Z",
+    "id": 94919,
+    "type": "manga",
+    "title": "Bokutachi ga Yarimashita",
+    "altTitle": [
+      "We Did It",
+      "僕たちがやりました"
+    ],
+    "url": "https://myanimelist.net/manga/94919/Bokutachi_ga_Yarimashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/168953.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +45,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "We Did It",
-      "僕たちがやりました"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaneshiro, Muneyuki",
       "Araki, Hikaru"
-    ],
-    "id": 94919,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:04.170Z",
+    "updatedAt": "2022-05-15T17:36:47.000Z",
+    "checkedAt": "2022-05-15T17:36:47.000Z",
+    "id": 96518,
     "type": "manga",
     "title": "Bokutachi ga Yarimashita",
-    "url": "https://myanimelist.net/manga/94919/Bokutachi_ga_Yarimashita",
-    "image": "https://cdn.myanimelist.net/images/manga/3/168953.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2021-11-29T01:35:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "僕たちがやりました",
       "We Did It",
       "On l'a fait"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Muneyuki Kaneshiro",
-      "Hikaru Araki"
-    ],
-    "id": 96518,
-    "malId": 94919,
-    "type": "manga",
-    "title": "Bokutachi ga Yarimashita",
     "url": "https://anilist.co/manga/96518",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96518-9yAgOYCSJhMj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:57.000Z",
-    "updatedAt": "2022-01-14T16:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94919/Bokutachi_ga_Yarimashita"
+    "externalLinks": [],
+    "malId": 94919,
+    "deletedAt": null,
+    "authors": [
+      "Muneyuki Kaneshiro",
+      "Hikaru Araki"
+    ]
+  }
 }

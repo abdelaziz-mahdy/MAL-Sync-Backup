@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toriyama Akira"
-  ],
+  "createdAt": "2020-10-12T16:02:49.000Z",
+  "updatedAt": "2021-12-02T09:48:27.000Z",
+  "checkedAt": null,
+  "id": 915,
   "identifier": "985e4ae6-7a36-42c5-ae12-f4291c58798c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 796,
   "aniId": 30796,
-  "createdAt": "2020-10-12T16:02:49.000Z",
-  "updatedAt": "2021-12-02T09:48:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toriyama Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:26.000Z",
+    "updatedAt": "2022-05-16T22:55:37.000Z",
+    "checkedAt": "2022-05-16T22:55:37.000Z",
+    "id": 796,
+    "type": "manga",
+    "title": "Dr. Slump",
+    "altTitle": [
+      "Dr. Slump and Arale-Chan",
+      "Dr. Slump",
+      "Dr. スランプ"
+    ],
+    "url": "https://myanimelist.net/manga/796/Dr_Slump",
+    "image": "https://cdn.myanimelist.net/images/manga/2/156408.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dr. Slump and Arale-Chan",
-      "Dr. Slump",
-      "Dr. スランプ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toriyama, Akira"
-    ],
-    "id": 796,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:19.541Z",
+    "updatedAt": "2022-05-16T22:55:36.000Z",
+    "checkedAt": "2022-05-16T22:55:36.000Z",
+    "id": 30796,
     "type": "manga",
     "title": "Dr. Slump",
-    "url": "https://myanimelist.net/manga/796/Dr_Slump",
-    "image": "https://cdn.myanimelist.net/images/manga/2/156408.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:26.000Z",
-    "updatedAt": "2022-03-07T00:00:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dr. Slump",
       "ドクタースランプ",
       "Dr. Slump and Arale-Chan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Toriyama",
-      "Drik Sada",
-      "Caio Suzuki"
-    ],
-    "id": 30796,
-    "malId": 796,
-    "type": "manga",
-    "title": "Dr. Slump",
     "url": "https://anilist.co/manga/30796",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30796-PFF4n7Y2spz9.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:44.000Z",
-    "updatedAt": "2022-05-05T11:30:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/796/Dr_Slump"
+    "externalLinks": [],
+    "malId": 796,
+    "deletedAt": null,
+    "authors": [
+      "Akira Toriyama",
+      "Drik Sada",
+      "Caio Suzuki"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:14.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3603,
   "identifier": "7w68",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2214,
   "aniId": 2214,
-  "createdAt": "2020-10-12T15:51:14.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T20:49:18.000Z",
+    "checkedAt": "2022-05-14T20:49:18.000Z",
+    "id": 2214,
+    "type": "anime",
+    "title": "Black Jack 21",
+    "altTitle": [
+      "BJ21",
+      "ブラック・ジャック21"
+    ],
+    "url": "https://myanimelist.net/anime/2214/Black_Jack_21",
+    "image": "https://cdn.myanimelist.net/images/anime/2/24046.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -31,39 +47,26 @@
         "url": "https://shahid.mbc.net/en/series/Black-Jack/series-913754"
       }
     ],
-    "altTitle": [
-      "BJ21",
-      "ブラック・ジャック21"
-    ],
+    "deletedAt": null,
+    "anidbId": 4377
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T20:16:23.000Z",
+    "checkedAt": "2022-05-15T20:16:23.000Z",
     "id": 2214,
     "type": "anime",
     "title": "Black Jack 21",
-    "url": "https://myanimelist.net/anime/2214/Black_Jack_21",
-    "image": "https://cdn.myanimelist.net/images/anime/2/24046.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 4377,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2022-03-31T05:31:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ブラック・ジャック21",
       "BJ21"
     ],
-    "externalLinks": [],
-    "id": 2214,
-    "malId": 2214,
-    "type": "anime",
-    "title": "Black Jack 21",
     "url": "https://anilist.co/anime/2214",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2214-b3Y4OOWHHW0i.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:13.000Z",
-    "updatedAt": "2021-12-17T09:59:38.000Z",
+    "externalLinks": [],
+    "malId": 2214,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2214/Black_Jack_21"
+  }
 }

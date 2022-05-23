@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sotsu Eizou",
-    "Hayase Hashiba"
-  ],
+  "createdAt": "2020-10-12T16:05:12.000Z",
+  "updatedAt": "2021-12-03T11:17:19.000Z",
+  "checkedAt": null,
+  "id": 5903,
   "identifier": "16377c57-4709-477e-bb7a-a34020498c73",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3193,
   "aniId": 33193,
-  "createdAt": "2020-10-12T16:05:12.000Z",
-  "updatedAt": "2021-12-03T11:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sotsu Eizou",
+    "Hayase Hashiba"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:49.000Z",
+    "updatedAt": "2022-05-19T03:14:30.000Z",
+    "checkedAt": "2022-05-19T03:14:30.000Z",
+    "id": 3193,
+    "type": "manga",
+    "title": "Simoun",
+    "altTitle": [
+      "シムーン"
+    ],
+    "url": "https://myanimelist.net/manga/3193/Simoun",
+    "image": "https://cdn.myanimelist.net/images/manga/3/3496.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "シムーン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sotsu, Eizou",
       "Hayase, Hashiba"
-    ],
-    "id": 3193,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:48.268Z",
+    "updatedAt": "2022-05-19T03:14:28.000Z",
+    "checkedAt": "2022-05-19T03:14:28.000Z",
+    "id": 33193,
     "type": "manga",
     "title": "Simoun",
-    "url": "https://myanimelist.net/manga/3193/Simoun",
-    "image": "https://cdn.myanimelist.net/images/manga/3/3496.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:49.000Z",
-    "updatedAt": "2021-11-18T20:14:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "シムーン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eizou Sotsu",
-      "Hayase Hashiba"
-    ],
-    "id": 33193,
-    "malId": 3193,
-    "type": "manga",
-    "title": "Simoun",
     "url": "https://anilist.co/manga/33193",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33193-K25Ymx0bCcYo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:05.000Z",
-    "updatedAt": "2021-12-17T11:10:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3193/Simoun"
+    "externalLinks": [],
+    "malId": 3193,
+    "deletedAt": null,
+    "authors": [
+      "Eizou Sotsu",
+      "Hayase Hashiba"
+    ]
+  }
 }

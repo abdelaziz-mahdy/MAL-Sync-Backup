@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itou Junji"
-  ],
+  "createdAt": "2020-10-12T16:02:26.000Z",
+  "updatedAt": "2021-12-02T07:16:18.000Z",
+  "checkedAt": null,
+  "id": 103,
   "identifier": "f4cfbb1c-766e-49db-ae80-1a5db3cbcc1b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 436,
   "aniId": 30436,
-  "createdAt": "2020-10-12T16:02:26.000Z",
-  "updatedAt": "2021-12-02T07:16:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itou Junji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-14T09:41:18.000Z",
+    "checkedAt": "2022-05-14T09:41:18.000Z",
+    "id": 436,
+    "type": "manga",
+    "title": "Uzumaki",
+    "altTitle": [
+      "The Spiral",
+      "Uzumaki: Spiral into Horror",
+      "うずまき"
+    ],
+    "url": "https://myanimelist.net/manga/436/Uzumaki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Spiral",
-      "Uzumaki: Spiral into Horror",
-      "うずまき"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ito, Junji"
-    ],
-    "id": 436,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:11.920Z",
+    "updatedAt": "2022-05-15T12:04:35.000Z",
+    "checkedAt": "2022-05-15T12:04:35.000Z",
+    "id": 30436,
     "type": "manga",
     "title": "Uzumaki",
-    "url": "https://myanimelist.net/manga/436/Uzumaki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185972.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-04-12T03:07:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Uzumaki: Spiral into Horror",
       "うずまき",
@@ -55,25 +64,19 @@
       "漩渦",
       "أوزوماكي"
     ],
+    "url": "https://anilist.co/manga/30436",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30436-Opk9ZubMPuDU.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 436,
+    "deletedAt": null,
     "authors": [
       "Junji Itou",
       "Yuji Oniki",
       "Susan Daigle-Leach",
       "Paweł Dybała",
       "Arnaldo Oka"
-    ],
-    "id": 30436,
-    "malId": 436,
-    "type": "manga",
-    "title": "Uzumaki",
-    "url": "https://anilist.co/manga/30436",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30436-Opk9ZubMPuDU.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2022-05-08T02:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/436/Uzumaki"
+    ]
+  }
 }

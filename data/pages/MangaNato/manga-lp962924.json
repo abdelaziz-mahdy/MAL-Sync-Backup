@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yeop"
-  ],
+  "createdAt": "2021-07-17T18:02:20.000Z",
+  "updatedAt": "2022-01-17T18:35:14.000Z",
+  "checkedAt": null,
+  "id": 82224,
   "identifier": "manga-lp962924",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83759,
   "aniId": 93447,
-  "createdAt": "2021-07-17T18:02:20.000Z",
-  "updatedAt": "2022-01-17T18:35:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yeop"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:40.000Z",
+    "updatedAt": "2022-05-16T18:07:18.000Z",
+    "checkedAt": "2022-05-16T18:07:18.000Z",
+    "id": 83759,
+    "type": "manga",
+    "title": "Dragon Recipe",
+    "altTitle": [
+      "드레곤 레시피"
+    ],
+    "url": "https://myanimelist.net/manga/83759/Dragon_Recipe",
+    "image": "https://cdn.myanimelist.net/images/manga/2/145271.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "드레곤 레시피"
-    ],
+    "deletedAt": null,
     "authors": [
       "Eldo",
       "Yeop"
-    ],
-    "id": 83759,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:12.250Z",
+    "updatedAt": "2022-05-16T18:07:17.000Z",
+    "checkedAt": "2022-05-16T18:07:17.000Z",
+    "id": 93447,
     "type": "manga",
     "title": "Dragon Recipe",
-    "url": "https://myanimelist.net/manga/83759/Dragon_Recipe",
-    "image": "https://cdn.myanimelist.net/images/manga/2/145271.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:40.000Z",
-    "updatedAt": "2022-01-17T18:04:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "드레곤 레시피"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yeop",
-      "Jae-Ho Yoon"
-    ],
-    "id": 93447,
-    "malId": 83759,
-    "type": "manga",
-    "title": "Dragon Recipe",
     "url": "https://anilist.co/manga/93447",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93447-hnRNLegi6ZBY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2021-12-18T00:53:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83759/Dragon_Recipe"
+    "externalLinks": [],
+    "malId": 83759,
+    "deletedAt": null,
+    "authors": [
+      "Yeop",
+      "Jae-Ho Yoon"
+    ]
+  }
 }

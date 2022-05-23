@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyagi Tooko"
-  ],
+  "createdAt": "2020-10-12T16:06:23.000Z",
+  "updatedAt": "2021-12-03T19:46:58.000Z",
+  "checkedAt": null,
+  "id": 8398,
   "identifier": "347d14d4-bc3d-4734-b6ee-67ce74ada5b8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20037,
   "aniId": 50037,
-  "createdAt": "2020-10-12T16:06:23.000Z",
-  "updatedAt": "2021-12-03T19:46:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyagi Tooko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:47.000Z",
+    "updatedAt": "2021-12-07T11:46:51.000Z",
+    "checkedAt": null,
+    "id": 20037,
+    "type": "manga",
+    "title": "Seirei Produce",
+    "altTitle": [
+      "精霊プロデュース"
+    ],
+    "url": "https://myanimelist.net/manga/20037/Seirei_Produce",
+    "image": "https://cdn.myanimelist.net/images/manga/1/65029.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "精霊プロデュース"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyagi, Tooko"
-    ],
-    "id": 20037,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:06.167Z",
+    "updatedAt": "2022-05-13T12:54:06.167Z",
+    "checkedAt": null,
+    "id": 50037,
     "type": "manga",
     "title": "Seirei Produce",
-    "url": "https://myanimelist.net/manga/20037/Seirei_Produce",
-    "image": "https://cdn.myanimelist.net/images/manga/1/65029.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:47.000Z",
-    "updatedAt": "2021-12-07T11:46:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "精霊プロデュース"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooko Miyagi"
-    ],
-    "id": 50037,
-    "malId": 20037,
-    "type": "manga",
-    "title": "Seirei Produce",
     "url": "https://anilist.co/manga/50037",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20037.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:27.000Z",
-    "updatedAt": "2021-12-17T17:11:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20037/Seirei_Produce"
+    "externalLinks": [],
+    "malId": 20037,
+    "deletedAt": null,
+    "authors": [
+      "Tooko Miyagi"
+    ]
+  }
 }

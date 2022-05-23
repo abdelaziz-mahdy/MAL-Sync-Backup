@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "KR"
-  ],
+  "createdAt": "2021-03-07T05:03:01.000Z",
+  "updatedAt": "2021-12-08T12:38:40.000Z",
+  "checkedAt": null,
+  "id": 64841,
   "identifier": "b0dae504-a591-4d5a-b6c8-916eefa33ce5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111407,
   "aniId": 100802,
-  "createdAt": "2021-03-07T05:03:01.000Z",
-  "updatedAt": "2021-12-08T12:38:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "KR"
+  ],
   "Mal": {
+    "createdAt": "2021-03-07T05:02:47.000Z",
+    "updatedAt": "2022-03-07T05:29:40.000Z",
+    "checkedAt": null,
+    "id": 111407,
+    "type": "manga",
+    "title": "Detain",
+    "altTitle": [
+      "Detain",
+      "Detain"
+    ],
+    "url": "https://myanimelist.net/manga/111407/Detain",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227016.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Detain",
-      "Detain"
-    ],
+    "deletedAt": null,
     "authors": [
       "KR"
-    ],
-    "id": 111407,
-    "type": "manga",
-    "title": "Detain",
-    "url": "https://myanimelist.net/manga/111407/Detain",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227016.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-03-07T05:02:47.000Z",
-    "updatedAt": "2022-03-07T05:29:40.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:06.204Z",
+    "updatedAt": "2022-05-13T13:01:06.204Z",
+    "checkedAt": null,
+    "id": 100802,
+    "type": "manga",
+    "title": "Detain",
     "altTitle": [
       "Detain",
       "Detain"
     ],
-    "externalLinks": [],
-    "authors": [
-      "KR"
-    ],
-    "id": 100802,
-    "malId": 111407,
-    "type": "manga",
-    "title": "Detain",
     "url": "https://anilist.co/manga/100802",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100802-HF9QEF6pLIQu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:48.000Z",
-    "updatedAt": "2022-02-09T03:39:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111407/Detain"
+    "externalLinks": [],
+    "malId": 111407,
+    "deletedAt": null,
+    "authors": [
+      "KR"
+    ]
+  }
 }

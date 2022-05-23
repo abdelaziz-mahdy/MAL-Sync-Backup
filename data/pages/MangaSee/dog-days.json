@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "FUJIMA Takuya",
-    "TSUZUKI Masaki"
-  ],
+  "createdAt": "2021-07-20T17:34:01.000Z",
+  "updatedAt": "2022-01-20T18:04:45.000Z",
+  "checkedAt": null,
+  "id": 82589,
   "identifier": "dog-days",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32471,
   "aniId": 62471,
-  "createdAt": "2021-07-20T17:34:01.000Z",
-  "updatedAt": "2022-01-20T18:04:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "FUJIMA Takuya",
+    "TSUZUKI Masaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:45.000Z",
+    "updatedAt": "2022-01-20T18:04:15.000Z",
+    "checkedAt": null,
+    "id": 32471,
+    "type": "manga",
+    "title": "Dog Days",
+    "altTitle": [
+      "DOG DAYS"
+    ],
+    "url": "https://myanimelist.net/manga/32471/Dog_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/145039.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DOG DAYS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujima, Takuya",
       "Tsuzuki, Masaki"
-    ],
-    "id": 32471,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:17.017Z",
+    "updatedAt": "2022-05-13T12:41:17.017Z",
+    "checkedAt": null,
+    "id": 62471,
     "type": "manga",
     "title": "Dog Days",
-    "url": "https://myanimelist.net/manga/32471/Dog_Days",
-    "image": "https://cdn.myanimelist.net/images/manga/3/145039.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:45.000Z",
-    "updatedAt": "2022-01-20T18:04:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドッグデイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takuya Fujima",
-      "Masaki Tsuzuki"
-    ],
-    "id": 62471,
-    "malId": 32471,
-    "type": "manga",
-    "title": "Dog Days",
     "url": "https://anilist.co/manga/62471",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32471.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:52.000Z",
-    "updatedAt": "2021-12-17T19:25:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/32471/Dog_Days"
+    "externalLinks": [],
+    "malId": 32471,
+    "deletedAt": null,
+    "authors": [
+      "Takuya Fujima",
+      "Masaki Tsuzuki"
+    ]
+  }
 }

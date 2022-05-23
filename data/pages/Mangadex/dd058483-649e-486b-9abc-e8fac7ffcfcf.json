@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizusawa Megumi"
-  ],
+  "createdAt": "2020-10-12T16:13:13.000Z",
+  "updatedAt": "2021-12-05T19:48:38.000Z",
+  "checkedAt": null,
+  "id": 22436,
   "identifier": "dd058483-649e-486b-9abc-e8fac7ffcfcf",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56,
   "aniId": 30056,
-  "createdAt": "2020-10-12T16:13:13.000Z",
-  "updatedAt": "2021-12-05T19:48:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizusawa Megumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-11-20T21:44:05.000Z",
+    "checkedAt": null,
+    "id": 56,
+    "type": "manga",
+    "title": "Caramel Diary",
+    "altTitle": [
+      "Tottemo Suteki na Takaramono",
+      "きゃらめるダイアリー"
+    ],
+    "url": "https://myanimelist.net/manga/56/Caramel_Diary",
+    "image": "https://cdn.myanimelist.net/images/manga/5/15419.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tottemo Suteki na Takaramono",
-      "きゃらめるダイアリー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizusawa, Megumi"
-    ],
-    "id": 56,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:55.529Z",
+    "updatedAt": "2022-05-13T12:52:55.529Z",
+    "checkedAt": null,
+    "id": 30056,
     "type": "manga",
     "title": "Caramel Diary",
-    "url": "https://myanimelist.net/manga/56/Caramel_Diary",
-    "image": "https://cdn.myanimelist.net/images/manga/5/15419.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-11-20T21:44:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "きゃらめるダイアリー",
       "Tottemo Suteki na Takaramono"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Megumi Mizusawa"
-    ],
-    "id": 30056,
-    "malId": 56,
-    "type": "manga",
-    "title": "Caramel Diary",
     "url": "https://anilist.co/manga/30056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56-Zfy12Sa5STxs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:32:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56/Caramel_Diary"
+    "externalLinks": [],
+    "malId": 56,
+    "deletedAt": null,
+    "authors": [
+      "Megumi Mizusawa"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yuya Takahashi",
-    "Tali"
-  ],
+  "createdAt": "2020-10-12T16:16:53.000Z",
+  "updatedAt": "2021-12-07T02:49:17.000Z",
+  "checkedAt": null,
+  "id": 30038,
   "identifier": "2e61665d-16b8-4ec1-a1b2-ad7ca42232f6",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123115,
   "aniId": 114805,
-  "createdAt": "2020-10-12T16:16:53.000Z",
-  "updatedAt": "2021-12-07T02:49:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuya Takahashi",
+    "Tali"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-22T20:26:41.000Z",
+    "checkedAt": "2022-05-22T20:26:41.000Z",
+    "id": 123115,
+    "type": "manga",
+    "title": "Monstaboo",
+    "altTitle": [
+      "MonsTABOO",
+      "モンスタブー"
+    ],
+    "url": "https://myanimelist.net/manga/123115/Monstaboo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235184.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "モンスタブー"
-    ],
+    "deletedAt": null,
     "authors": [
       "TALI",
       "Takahashi, Yuuya"
-    ],
-    "id": 123115,
-    "type": "manga",
-    "title": "Monstaboo",
-    "url": "https://myanimelist.net/manga/123115/Monstaboo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/235184.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-01-04T19:18:21.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:06.092Z",
+    "updatedAt": "2022-05-22T20:26:39.000Z",
+    "checkedAt": "2022-05-22T20:26:39.000Z",
+    "id": 114805,
+    "type": "manga",
+    "title": "MonsTABOO",
     "altTitle": [
       "MonsTABOO",
       "モンスタブー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tali",
-      "Yuuya Takahashi"
-    ],
-    "id": 114805,
-    "malId": 123115,
-    "type": "manga",
-    "title": "MonsTABOO",
     "url": "https://anilist.co/manga/114805",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114805-osCPr5xRH56d.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2022-04-08T20:30:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123115/Monstaboo"
+    "externalLinks": [],
+    "malId": 123115,
+    "deletedAt": null,
+    "authors": [
+      "Tali",
+      "Yuuya Takahashi"
+    ]
+  }
 }

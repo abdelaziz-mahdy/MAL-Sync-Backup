@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Demise Takao",
-    "Ooi Masakazu"
-  ],
+  "createdAt": "2020-10-12T16:14:32.000Z",
+  "updatedAt": "2021-12-06T06:18:22.000Z",
+  "checkedAt": null,
+  "id": 25131,
   "identifier": "402f7ecd-4ea0-41b2-9d84-b32ad360d568",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70549,
   "aniId": 91201,
-  "createdAt": "2020-10-12T16:14:32.000Z",
-  "updatedAt": "2021-12-06T06:18:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Demise Takao",
+    "Ooi Masakazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:17.000Z",
+    "updatedAt": "2021-11-10T08:43:46.000Z",
+    "checkedAt": null,
+    "id": 70549,
+    "type": "manga",
+    "title": "Einstein 1904",
+    "altTitle": [
+      "アインシュタイン1904"
+    ],
+    "url": "https://myanimelist.net/manga/70549/Einstein_1904",
+    "image": "https://cdn.myanimelist.net/images/manga/1/148972.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アインシュタイン1904"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooi, Masakazu",
       "Demise, Takao"
-    ],
-    "id": 70549,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:37.457Z",
+    "updatedAt": "2022-05-13T12:47:37.457Z",
+    "checkedAt": null,
+    "id": 91201,
     "type": "manga",
     "title": "Einstein 1904",
-    "url": "https://myanimelist.net/manga/70549/Einstein_1904",
-    "image": "https://cdn.myanimelist.net/images/manga/1/148972.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:17.000Z",
-    "updatedAt": "2021-11-10T08:43:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アインシュタイン1904"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masakazu Ooi",
-      "Takao Demise "
-    ],
-    "id": 91201,
-    "malId": 70549,
-    "type": "manga",
-    "title": "Einstein 1904",
     "url": "https://anilist.co/manga/91201",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91201-JEh01Omj2BqV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:31.000Z",
-    "updatedAt": "2021-12-18T00:21:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70549/Einstein_1904"
+    "externalLinks": [],
+    "malId": 70549,
+    "deletedAt": null,
+    "authors": [
+      "Masakazu Ooi",
+      "Takao Demise "
+    ]
+  }
 }

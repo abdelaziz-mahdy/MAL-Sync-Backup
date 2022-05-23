@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ODA Eiichiro"
-  ],
+  "createdAt": "2020-12-16T23:27:45.000Z",
+  "updatedAt": "2022-04-07T09:30:23.000Z",
+  "checkedAt": null,
+  "id": 54456,
   "identifier": "one_piece",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13,
   "aniId": 30013,
-  "createdAt": "2020-12-16T23:27:45.000Z",
-  "updatedAt": "2022-04-07T09:30:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "ODA Eiichiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-13T23:33:05.000Z",
+    "checkedAt": "2022-05-13T23:33:05.000Z",
+    "id": 13,
+    "type": "manga",
+    "title": "One Piece",
+    "altTitle": [
+      "One Piece",
+      "ONE PIECE"
+    ],
+    "url": "https://myanimelist.net/manga/13/One_Piece",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,25 +45,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "One Piece",
-      "ONE PIECE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oda, Eiichiro"
-    ],
-    "id": 13,
-    "type": "manga",
-    "title": "One Piece",
-    "url": "https://myanimelist.net/manga/13/One_Piece",
-    "image": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-28T09:02:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.321Z",
+    "updatedAt": "2022-05-15T10:40:35.000Z",
+    "checkedAt": "2022-05-15T10:40:35.000Z",
+    "id": 30013,
+    "type": "manga",
+    "title": "ONE PIECE",
     "altTitle": [
       "One Piece",
       "ONE PIECE",
@@ -56,6 +65,10 @@
       "One Piece - Большой куш",
       "ワンピース"
     ],
+    "url": "https://anilist.co/manga/30013",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-oT7YguhEK1TE.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
@@ -66,6 +79,8 @@
         "url": "https://mangaplus.shueisha.co.jp/titles/100079"
       }
     ],
+    "malId": 13,
+    "deletedAt": null,
     "authors": [
       "Eiichirou Oda",
       "Yuusaku Shibata",
@@ -92,18 +107,6 @@
       "John Hunt",
       "Taylor Eagle",
       "Andy Nakatani"
-    ],
-    "id": 30013,
-    "malId": 13,
-    "type": "manga",
-    "title": "ONE PIECE",
-    "url": "https://anilist.co/manga/30013",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30013-oT7YguhEK1TE.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-22T09:57:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13/One_Piece"
+    ]
+  }
 }

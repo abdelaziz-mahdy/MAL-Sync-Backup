@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Rokuko"
-  ],
+  "createdAt": "2020-10-12T16:03:02.000Z",
+  "updatedAt": "2021-12-02T11:18:46.000Z",
+  "checkedAt": null,
+  "id": 1385,
   "identifier": "11ee5877-68b5-4046-9cc1-c1dee78f40d3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10540,
   "aniId": 40540,
-  "createdAt": "2020-10-12T16:03:02.000Z",
-  "updatedAt": "2021-12-02T11:18:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Rokuko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-04-19T12:31:14.000Z",
+    "checkedAt": null,
+    "id": 10540,
+    "type": "manga",
+    "title": "Little Little",
+    "altTitle": [
+      "LittleLittle",
+      "リトル・リトル"
+    ],
+    "url": "https://myanimelist.net/manga/10540/Little_Little",
+    "image": "https://cdn.myanimelist.net/images/manga/3/122523.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LittleLittle",
-      "リトル・リトル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Rokuko"
-    ],
-    "id": 10540,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:45.559Z",
+    "updatedAt": "2022-05-13T12:51:45.559Z",
+    "checkedAt": null,
+    "id": 40540,
     "type": "manga",
     "title": "Little Little",
-    "url": "https://myanimelist.net/manga/10540/Little_Little",
-    "image": "https://cdn.myanimelist.net/images/manga/3/122523.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:28.000Z",
-    "updatedAt": "2022-04-19T12:31:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リトル・リトル",
       "LittleLittle"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rokuko"
-    ],
-    "id": 40540,
-    "malId": 10540,
-    "type": "manga",
-    "title": "Little Little",
     "url": "https://anilist.co/manga/40540",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10540.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:06.000Z",
-    "updatedAt": "2021-12-17T14:08:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10540/Little_Little"
+    "externalLinks": [],
+    "malId": 10540,
+    "deletedAt": null,
+    "authors": [
+      "Rokuko"
+    ]
+  }
 }

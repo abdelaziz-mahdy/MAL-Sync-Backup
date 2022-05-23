@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nishiogi Yumie",
-    "Ryou Haruto"
-  ],
+  "createdAt": "2020-10-12T16:05:04.000Z",
+  "updatedAt": "2021-12-03T10:17:49.000Z",
+  "checkedAt": null,
+  "id": 5639,
   "identifier": "45c5f98b-c6af-4527-9c52-1c21e70adfd8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48699,
   "aniId": 78699,
-  "createdAt": "2020-10-12T16:05:04.000Z",
-  "updatedAt": "2021-12-03T10:17:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nishiogi Yumie",
+    "Ryou Haruto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:31.000Z",
+    "updatedAt": "2022-05-22T15:55:18.000Z",
+    "checkedAt": "2022-05-22T15:55:18.000Z",
+    "id": 48699,
+    "type": "manga",
+    "title": "Spec: Rei",
+    "altTitle": [
+      "Spec: Zero",
+      "Spec: Ten Prelude",
+      "SPEC~零~"
+    ],
+    "url": "https://myanimelist.net/manga/48699/Spec__Rei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/149783.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Spec: Zero",
-      "Spec: Ten Prelude",
-      "SPEC~零~"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ryou, Haruto",
       "Nishiogi, Yumie",
       "Ueda, Hiroki"
-    ],
-    "id": 48699,
-    "type": "manga",
-    "title": "Spec: Rei",
-    "url": "https://myanimelist.net/manga/48699/Spec__Rei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/149783.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:31.000Z",
-    "updatedAt": "2021-11-07T15:20:18.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:10.718Z",
+    "updatedAt": "2022-05-22T15:55:16.000Z",
+    "checkedAt": "2022-05-22T15:55:16.000Z",
+    "id": 78699,
+    "type": "manga",
+    "title": "Spec ~Rei~",
     "altTitle": [
       "SPEC~零~",
       "Spec - Zero",
       "Spec - Rei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruto Ryou",
-      "Yumie Nishiogi"
-    ],
-    "id": 78699,
-    "malId": 48699,
-    "type": "manga",
-    "title": "Spec ~Rei~",
     "url": "https://anilist.co/manga/78699",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48699.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:39.000Z",
-    "updatedAt": "2021-12-17T21:19:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/48699/Spec__Rei"
+    "externalLinks": [],
+    "malId": 48699,
+    "deletedAt": null,
+    "authors": [
+      "Haruto Ryou",
+      "Yumie Nishiogi"
+    ]
+  }
 }

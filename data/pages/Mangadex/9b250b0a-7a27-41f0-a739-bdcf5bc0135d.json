@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Atlus",
-    "Ueda Shinsyu"
-  ],
+  "createdAt": "2020-10-12T16:02:37.000Z",
+  "updatedAt": "2021-12-02T08:46:47.000Z",
+  "checkedAt": null,
+  "id": 522,
   "identifier": "9b250b0a-7a27-41f0-a739-bdcf5bc0135d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4218,
   "aniId": 34218,
-  "createdAt": "2020-10-12T16:02:37.000Z",
-  "updatedAt": "2021-12-02T08:46:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atlus",
+    "Ueda Shinsyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:57.000Z",
+    "updatedAt": "2022-05-14T23:07:59.000Z",
+    "checkedAt": "2022-05-14T23:07:59.000Z",
+    "id": 4218,
+    "type": "manga",
+    "title": "Megami Ibunroku: Persona",
+    "altTitle": [
+      "Shin Megami Tensei: Persona",
+      "Megami Inbun Roku Persona",
+      "Persona: Be Your True Mind",
+      "女神異聞録 ～ペルソナ～"
+    ],
+    "url": "https://myanimelist.net/manga/4218/Megami_Ibunroku__Persona",
+    "image": "https://cdn.myanimelist.net/images/manga/2/258997.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +44,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shin Megami Tensei: Persona",
-      "Megami Inbun Roku Persona",
-      "Persona: Be Your True Mind",
-      "女神異聞録 ～ペルソナ～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueda, Shinshu"
-    ],
-    "id": 4218,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:53.810Z",
+    "updatedAt": "2022-05-18T21:49:44.000Z",
+    "checkedAt": "2022-05-18T21:49:44.000Z",
+    "id": 34218,
     "type": "manga",
     "title": "Megami Ibunroku: Persona",
-    "url": "https://myanimelist.net/manga/4218/Megami_Ibunroku__Persona",
-    "image": "https://cdn.myanimelist.net/images/manga/3/4889.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:57.000Z",
-    "updatedAt": "2022-02-05T01:06:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "女神異聞録ペルソナ",
       "Shin Megami Tensei: Persona",
@@ -54,22 +63,16 @@
       "Megami Inbun Roku Persona",
       "女神異聞録 ～ペルソナ～ BE YOUR TRUE MIND"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinshuu Ueda",
-      "Atlus"
-    ],
-    "id": 34218,
-    "malId": 4218,
-    "type": "manga",
-    "title": "Megami Ibunroku: Persona",
     "url": "https://anilist.co/manga/34218",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34218-IlZnqauVdOYX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:44:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4218/Megami_Ibunroku__Persona"
+    "externalLinks": [],
+    "malId": 4218,
+    "deletedAt": null,
+    "authors": [
+      "Shinshuu Ueda",
+      "Atlus"
+    ]
+  }
 }

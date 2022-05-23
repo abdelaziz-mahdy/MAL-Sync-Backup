@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "AQUAPLUS",
-    "2C=Garoa"
-  ],
+  "createdAt": "2020-10-12T16:08:23.000Z",
+  "updatedAt": "2021-12-04T12:53:08.000Z",
+  "checkedAt": null,
+  "id": 12676,
   "identifier": "33843cdc-c2c2-4b76-9a03-74cbf02a899c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72323,
   "aniId": 91579,
-  "createdAt": "2020-10-12T16:08:23.000Z",
-  "updatedAt": "2021-12-04T12:53:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "AQUAPLUS",
+    "2C=Garoa"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T09:50:00.000Z",
+    "updatedAt": "2022-05-14T22:22:10.000Z",
+    "checkedAt": "2022-05-14T22:22:10.000Z",
+    "id": 72323,
+    "type": "manga",
+    "title": "White Album 2",
+    "altTitle": [
+      "White Album2",
+      "WA2",
+      "WHITE ALBUM2 -ホワイトアルバム2-"
+    ],
+    "url": "https://myanimelist.net/manga/72323/White_Album_2",
+    "image": "https://cdn.myanimelist.net/images/manga/3/125925.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "White Album2",
-      "WA2",
-      "WHITE ALBUM2 -ホワイトアルバム2-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maruto, Fumiaki",
       "2C=Galore"
-    ],
-    "id": 72323,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:26.946Z",
+    "updatedAt": "2022-05-16T16:37:05.000Z",
+    "checkedAt": "2022-05-16T16:37:05.000Z",
+    "id": 91579,
     "type": "manga",
     "title": "White Album 2",
-    "url": "https://myanimelist.net/manga/72323/White_Album_2",
-    "image": "https://cdn.myanimelist.net/images/manga/3/125925.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T09:50:00.000Z",
-    "updatedAt": "2021-12-04T10:17:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "WHITE ALBUM2 -ホワイトアルバム2-",
       "White Album2",
       "WA2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fumiaki Maruto",
-      "2C=Galore",
-      "Aquaplus"
-    ],
-    "id": 91579,
-    "malId": 72323,
-    "type": "manga",
-    "title": "White Album 2",
     "url": "https://anilist.co/manga/91579",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91579-VsFxsZR06dhK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T09:50:00.000Z",
-    "updatedAt": "2021-12-18T00:24:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72323/White_Album_2"
+    "externalLinks": [],
+    "malId": 72323,
+    "deletedAt": null,
+    "authors": [
+      "Fumiaki Maruto",
+      "2C=Galore",
+      "Aquaplus"
+    ]
+  }
 }

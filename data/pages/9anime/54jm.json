@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:23.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2521,
   "identifier": "54jm",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 300,
   "aniId": 300,
-  "createdAt": "2020-10-12T15:50:23.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-14T17:47:35.000Z",
+    "checkedAt": "2022-05-14T17:47:35.000Z",
+    "id": 300,
+    "type": "anime",
+    "title": "3x3 Eyes",
+    "altTitle": [
+      "Sazan Eyes",
+      "3x3 Eyes: Immortals",
+      "3x3 Eyes",
+      "3×3EYES"
+    ],
+    "url": "https://myanimelist.net/anime/300/3x3_Eyes",
+    "image": "https://cdn.myanimelist.net/images/anime/4/26940.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,25 +52,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sazan Eyes",
-      "3x3 Eyes: Immortals",
-      "3x3 Eyes",
-      "3×3EYES"
-    ],
+    "deletedAt": null,
+    "anidbId": 2
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-15T14:28:35.000Z",
+    "checkedAt": "2022-05-15T14:28:35.000Z",
     "id": 300,
     "type": "anime",
     "title": "3x3 Eyes",
-    "url": "https://myanimelist.net/anime/300/3x3_Eyes",
-    "image": "https://cdn.myanimelist.net/images/anime/4/26940.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2,
-    "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2022-04-30T22:03:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "3x3 Eyes",
       "3×3EYES",
@@ -60,18 +69,12 @@
       "3x3 Eyes: Immortals",
       "3x3 occhi"
     ],
-    "externalLinks": [],
-    "id": 300,
-    "malId": 300,
-    "type": "anime",
-    "title": "3x3 Eyes",
     "url": "https://anilist.co/anime/300",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx300-s0fnKC5q0EU4.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:37.000Z",
-    "updatedAt": "2021-12-17T08:24:34.000Z",
+    "externalLinks": [],
+    "malId": 300,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/300/3x3_Eyes"
+  }
 }

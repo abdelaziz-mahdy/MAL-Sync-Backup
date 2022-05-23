@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AIDA Yuu"
-  ],
+  "createdAt": "2021-10-06T16:32:21.000Z",
+  "updatedAt": "2022-04-06T17:31:23.000Z",
+  "checkedAt": null,
+  "id": 88119,
   "identifier": "1518",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77811,
   "aniId": 92573,
-  "createdAt": "2021-10-06T16:32:21.000Z",
-  "updatedAt": "2022-04-06T17:31:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "AIDA Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2022-05-14T09:40:11.000Z",
+    "checkedAt": "2022-05-14T09:40:11.000Z",
+    "id": 77811,
+    "type": "manga",
+    "title": "1518!",
+    "altTitle": [
+      "Ichi Go Ichi Hachi!",
+      "1518! イチゴーイチハチ！"
+    ],
+    "url": "https://myanimelist.net/manga/77811/1518",
+    "image": "https://cdn.myanimelist.net/images/manga/1/154440.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ichi Go Ichi Hachi!",
-      "1518! イチゴーイチハチ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aida, Yuu"
-    ],
-    "id": 77811,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:45.043Z",
+    "updatedAt": "2022-05-13T12:57:45.043Z",
+    "checkedAt": null,
+    "id": 92573,
     "type": "manga",
     "title": "1518!",
-    "url": "https://myanimelist.net/manga/77811/1518",
-    "image": "https://cdn.myanimelist.net/images/manga/1/154440.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2022-04-06T17:01:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "1518! イチゴーイチハチ！",
       "Ichi Go Ichi Hachi!",
       "Ichigo Ichihachi!",
       "One Five One Eight!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Aida"
-    ],
-    "id": 92573,
-    "malId": 77811,
-    "type": "manga",
-    "title": "1518!",
     "url": "https://anilist.co/manga/92573",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92573-Bf1GPeDwcKfp.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:51.000Z",
-    "updatedAt": "2021-12-18T00:31:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77811/1518"
+    "externalLinks": [],
+    "malId": 77811,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Aida"
+    ]
+  }
 }

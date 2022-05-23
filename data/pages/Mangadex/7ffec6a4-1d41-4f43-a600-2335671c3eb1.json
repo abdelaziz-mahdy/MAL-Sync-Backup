@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:13:04.000Z",
+  "updatedAt": "2021-12-05T18:50:41.000Z",
+  "checkedAt": null,
+  "id": 22138,
   "identifier": "7ffec6a4-1d41-4f43-a600-2335671c3eb1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1677,
   "aniId": 31677,
-  "createdAt": "2020-10-12T16:13:04.000Z",
-  "updatedAt": "2021-12-05T18:50:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-16T20:15:45.000Z",
+    "checkedAt": "2022-05-16T20:15:45.000Z",
+    "id": 1677,
+    "type": "manga",
+    "title": "MW",
+    "altTitle": [
+      "MW",
+      "MW"
+    ],
+    "url": "https://myanimelist.net/manga/1677/MW",
+    "image": "https://cdn.myanimelist.net/images/manga/1/176646.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MW",
-      "MW"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 1677,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:37.912Z",
+    "updatedAt": "2022-05-16T20:15:44.000Z",
+    "checkedAt": "2022-05-16T20:15:44.000Z",
+    "id": 31677,
     "type": "manga",
     "title": "MW",
-    "url": "https://myanimelist.net/manga/1677/MW",
-    "image": "https://cdn.myanimelist.net/images/manga/1/176646.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-01-18T14:05:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "MW",
       "MW",
       "厶ウ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka",
-      "Camellia Nieh",
-      "Jacques Lalloz"
-    ],
-    "id": 31677,
-    "malId": 1677,
-    "type": "manga",
-    "title": "MW",
     "url": "https://anilist.co/manga/31677",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31677-Aek6lnEGJpnq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2021-12-17T10:12:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1677/MW"
+    "externalLinks": [],
+    "malId": 1677,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka",
+      "Camellia Nieh",
+      "Jacques Lalloz"
+    ]
+  }
 }

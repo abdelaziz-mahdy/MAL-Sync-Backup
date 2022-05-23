@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AOYAMA Gosho"
-  ],
+  "createdAt": "2022-04-09T21:00:48.000Z",
+  "updatedAt": "2022-04-09T21:30:26.000Z",
+  "checkedAt": null,
+  "id": 100976,
   "identifier": "yaiba",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1631,
   "aniId": 31631,
-  "createdAt": "2022-04-09T21:00:48.000Z",
-  "updatedAt": "2022-04-09T21:30:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "AOYAMA Gosho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:35.000Z",
+    "updatedAt": "2022-05-18T20:30:11.000Z",
+    "checkedAt": "2022-05-18T20:30:11.000Z",
+    "id": 1631,
+    "type": "manga",
+    "title": "Yaiba",
+    "altTitle": [
+      "Kenyuu Densetsu Yaiba",
+      "Yaiba",
+      "YAIBA"
+    ],
+    "url": "https://myanimelist.net/manga/1631/Yaiba",
+    "image": "https://cdn.myanimelist.net/images/manga/1/9646.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kenyuu Densetsu Yaiba",
-      "Yaiba",
-      "YAIBA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoyama, Gosho"
-    ],
-    "id": 1631,
-    "type": "manga",
-    "title": "Yaiba",
-    "url": "https://myanimelist.net/manga/1631/Yaiba",
-    "image": "https://cdn.myanimelist.net/images/manga/1/9646.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:35.000Z",
-    "updatedAt": "2022-03-31T17:07:13.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:27.598Z",
+    "updatedAt": "2022-05-18T20:30:10.000Z",
+    "checkedAt": "2022-05-18T20:30:10.000Z",
+    "id": 31631,
+    "type": "manga",
+    "title": "YAIBA",
     "altTitle": [
       "YAIBA",
       "Kenyuu Densetsu Yaiba",
       "YAIBA ไยบะ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gosho Aoyama"
-    ],
-    "id": 31631,
-    "malId": 1631,
-    "type": "manga",
-    "title": "YAIBA",
     "url": "https://anilist.co/manga/31631",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31631-nygEtfnhGNYD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:49.000Z",
-    "updatedAt": "2022-03-09T06:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1631/Yaiba"
+    "externalLinks": [],
+    "malId": 1631,
+    "deletedAt": null,
+    "authors": [
+      "Gosho Aoyama"
+    ]
+  }
 }

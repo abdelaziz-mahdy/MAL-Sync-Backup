@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "OTOMO Katsuhiro"
-  ],
+  "createdAt": "2021-08-23T00:16:09.000Z",
+  "updatedAt": "2022-02-23T11:17:40.000Z",
+  "checkedAt": null,
+  "id": 86034,
   "identifier": "domu",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 1215,
   "aniId": 31215,
-  "createdAt": "2021-08-23T00:16:09.000Z",
-  "updatedAt": "2022-02-23T11:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "OTOMO Katsuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-15T13:42:24.000Z",
+    "checkedAt": "2022-05-15T13:42:24.000Z",
+    "id": 1215,
+    "type": "manga",
+    "title": "Doumu",
+    "altTitle": [
+      "Domu: A Child's Dream",
+      "童夢"
+    ],
+    "url": "https://myanimelist.net/manga/1215/Doumu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/153281.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Domu: A Child's Dream",
-      "童夢"
-    ],
+    "deletedAt": null,
     "authors": [
       "Otomo, Katsuhiro"
-    ],
-    "id": 1215,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:08.861Z",
+    "updatedAt": "2022-05-15T17:54:47.000Z",
+    "checkedAt": "2022-05-15T17:54:47.000Z",
+    "id": 31215,
     "type": "manga",
     "title": "Doumu",
-    "url": "https://myanimelist.net/manga/1215/Doumu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/153281.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-04-28T06:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Domu: A Child's Dream",
       "童夢"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Katsuhiro Ootomo"
-    ],
-    "id": 31215,
-    "malId": 1215,
-    "type": "manga",
-    "title": "Doumu",
     "url": "https://anilist.co/manga/31215",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31215-Uy5fMvXDuDuq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2021-12-17T09:43:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1215/Doumu"
+    "externalLinks": [],
+    "malId": 1215,
+    "deletedAt": null,
+    "authors": [
+      "Katsuhiro Ootomo"
+    ]
+  }
 }

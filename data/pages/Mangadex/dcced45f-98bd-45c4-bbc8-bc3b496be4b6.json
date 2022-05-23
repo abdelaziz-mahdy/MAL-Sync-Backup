@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kodama Jun"
-  ],
+  "createdAt": "2020-10-12T16:10:58.000Z",
+  "updatedAt": "2021-12-05T04:48:09.000Z",
+  "checkedAt": null,
+  "id": 18264,
   "identifier": "dcced45f-98bd-45c4-bbc8-bc3b496be4b6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111315,
   "aniId": 100696,
-  "createdAt": "2020-10-12T16:10:58.000Z",
-  "updatedAt": "2021-12-05T04:48:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kodama Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:22.000Z",
+    "updatedAt": "2021-11-20T23:48:50.000Z",
+    "checkedAt": null,
+    "id": 111315,
+    "type": "manga",
+    "title": "Totsu Nee!",
+    "altTitle": [
+      "突姉っ！"
+    ],
+    "url": "https://myanimelist.net/manga/111315/Totsu_Nee",
+    "image": "https://cdn.myanimelist.net/images/manga/3/204395.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "突姉っ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kodama, Jun"
-    ],
-    "id": 111315,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:07.288Z",
+    "updatedAt": "2022-05-13T12:51:07.288Z",
+    "checkedAt": null,
+    "id": 100696,
     "type": "manga",
     "title": "Totsu Nee!",
-    "url": "https://myanimelist.net/manga/111315/Totsu_Nee",
-    "image": "https://cdn.myanimelist.net/images/manga/3/204395.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2021-11-20T23:48:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "とつねえっ",
       "Totsu-Nee!",
       "Totsunee"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Kodama"
-    ],
-    "id": 100696,
-    "malId": 111315,
-    "type": "manga",
-    "title": "Totsu Nee!",
     "url": "https://anilist.co/manga/100696",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100696-TgbzsSgXjFWd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:20.000Z",
-    "updatedAt": "2021-12-18T03:27:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111315/Totsu_Nee"
+    "externalLinks": [],
+    "malId": 111315,
+    "deletedAt": null,
+    "authors": [
+      "Jun Kodama"
+    ]
+  }
 }

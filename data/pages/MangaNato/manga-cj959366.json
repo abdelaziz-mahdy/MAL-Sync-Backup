@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kishi Yuusuke"
-  ],
+  "createdAt": "2021-06-17T12:35:02.000Z",
+  "updatedAt": "2021-12-17T13:19:57.000Z",
+  "checkedAt": null,
+  "id": 78573,
   "identifier": "manga-cj959366",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41575,
   "aniId": 71575,
-  "createdAt": "2021-06-17T12:35:02.000Z",
-  "updatedAt": "2021-12-17T13:19:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kishi Yuusuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:13.000Z",
+    "updatedAt": "2022-05-16T11:52:50.000Z",
+    "checkedAt": "2022-05-16T11:52:50.000Z",
+    "id": 41575,
+    "type": "manga",
+    "title": "Shinsekai yori",
+    "altTitle": [
+      "From the New World",
+      "新世界より"
+    ],
+    "url": "https://myanimelist.net/manga/41575/Shinsekai_yori",
+    "image": "https://cdn.myanimelist.net/images/manga/3/78611.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "From the New World",
-      "新世界より"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kishi, Yusuke",
       "Oikawa, Tooru"
-    ],
-    "id": 41575,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:09.923Z",
+    "updatedAt": "2022-05-16T11:52:48.000Z",
+    "checkedAt": "2022-05-16T11:52:48.000Z",
+    "id": 71575,
     "type": "manga",
     "title": "Shinsekai yori",
-    "url": "https://myanimelist.net/manga/41575/Shinsekai_yori",
-    "image": "https://cdn.myanimelist.net/images/manga/3/78611.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:13.000Z",
-    "updatedAt": "2022-04-06T18:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "From the New World",
       "新世界より",
       "Shin Sekai yori"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuusuke Kishi",
-      "Tooru Oikawa"
-    ],
-    "id": 71575,
-    "malId": 41575,
-    "type": "manga",
-    "title": "Shinsekai yori",
     "url": "https://anilist.co/manga/71575",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71575-GstLdoBDVBqm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:48.000Z",
-    "updatedAt": "2021-12-17T20:26:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41575/Shinsekai_yori"
+    "externalLinks": [],
+    "malId": 41575,
+    "deletedAt": null,
+    "authors": [
+      "Yuusuke Kishi",
+      "Tooru Oikawa"
+    ]
+  }
 }

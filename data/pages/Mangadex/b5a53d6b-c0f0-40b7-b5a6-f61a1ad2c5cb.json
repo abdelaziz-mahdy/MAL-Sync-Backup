@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Terasawa Buichi"
-  ],
+  "createdAt": "2020-10-12T16:04:18.000Z",
+  "updatedAt": "2021-12-02T20:18:07.000Z",
+  "checkedAt": null,
+  "id": 4064,
   "identifier": "b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1062,
   "aniId": 31062,
-  "createdAt": "2020-10-12T16:04:18.000Z",
-  "updatedAt": "2021-12-02T20:18:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Terasawa Buichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-15T14:36:27.000Z",
+    "checkedAt": "2022-05-15T14:36:27.000Z",
+    "id": 1062,
+    "type": "manga",
+    "title": "Cobra",
+    "altTitle": [
+      "Space Adventure Cobra",
+      "Cobra",
+      "コブラ"
+    ],
+    "url": "https://myanimelist.net/manga/1062/Cobra",
+    "image": "https://cdn.myanimelist.net/images/manga/2/256000.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Space Adventure Cobra",
-      "Cobra",
-      "コブラ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Terasawa, Buichi"
-    ],
-    "id": 1062,
-    "type": "manga",
-    "title": "Cobra",
-    "url": "https://myanimelist.net/manga/1062/Cobra",
-    "image": "https://cdn.myanimelist.net/images/manga/4/103495.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-02-13T14:11:09.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:49.733Z",
+    "updatedAt": "2022-05-15T18:22:11.000Z",
+    "checkedAt": "2022-05-15T18:22:11.000Z",
+    "id": 31062,
+    "type": "manga",
+    "title": "Space Adventure Cobra",
     "altTitle": [
       "Cobra",
       "コブラ",
       "眼鏡蛇",
       "スペースコブラ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Buichi Terasawa"
-    ],
-    "id": 31062,
-    "malId": 1062,
-    "type": "manga",
-    "title": "Space Adventure Cobra",
     "url": "https://anilist.co/manga/31062",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31062-5uQ2mmbAPA7K.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1062/Cobra"
+    "externalLinks": [],
+    "malId": 1062,
+    "deletedAt": null,
+    "authors": [
+      "Buichi Terasawa"
+    ]
+  }
 }

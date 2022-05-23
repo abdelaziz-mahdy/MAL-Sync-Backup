@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nitta Jiro",
-    "Yokoyama Mitsuteru"
-  ],
+  "createdAt": "2020-10-12T16:06:14.000Z",
+  "updatedAt": "2021-12-03T18:49:50.000Z",
+  "checkedAt": null,
+  "id": 8065,
   "identifier": "2288b5cf-4508-4ba9-84a1-e714476cca6c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,54 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50061,
   "aniId": 80061,
-  "createdAt": "2020-10-12T16:06:14.000Z",
-  "updatedAt": "2021-12-03T18:49:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nitta Jiro",
+    "Yokoyama Mitsuteru"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "武田信玄"
-    ],
-    "authors": [
-      "Yokoyama, Mitsuteru",
-      "Nitta, Jiro"
-    ],
+    "createdAt": "2020-10-12T15:44:34.000Z",
+    "updatedAt": "2022-05-15T19:26:03.000Z",
+    "checkedAt": "2022-05-15T19:26:03.000Z",
     "id": 50061,
     "type": "manga",
     "title": "Takeda Shingen",
+    "altTitle": [
+      "武田信玄"
+    ],
     "url": "https://myanimelist.net/manga/50061/Takeda_Shingen",
     "image": "https://cdn.myanimelist.net/images/manga/1/252987.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:34.000Z",
-    "updatedAt": "2021-12-03T18:49:10.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yokoyama, Mitsuteru",
+      "Nitta, Jiro"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:36.761Z",
+    "updatedAt": "2022-05-15T21:07:59.000Z",
+    "checkedAt": "2022-05-15T21:07:59.000Z",
+    "id": 80061,
+    "type": "manga",
+    "title": "Takeda Shingen",
     "altTitle": [
       "武田信玄",
       "Takeda Shingen (YOKOYAMA Mitsuteru)"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuteru Yokoyama",
-      "Jiro Nitta"
-    ],
-    "id": 80061,
-    "malId": 50061,
-    "type": "manga",
-    "title": "Takeda Shingen",
     "url": "https://anilist.co/manga/80061",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80061-gBNTH67diPRs.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:46.000Z",
-    "updatedAt": "2021-12-17T21:24:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50061/Takeda_Shingen"
+    "externalLinks": [],
+    "malId": 50061,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuteru Yokoyama",
+      "Jiro Nitta"
+    ]
+  }
 }

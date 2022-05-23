@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hashimoto Izou",
-    "Tanaka Akio"
-  ],
+  "createdAt": "2021-06-03T19:19:38.000Z",
+  "updatedAt": "2021-12-03T20:18:57.000Z",
+  "checkedAt": null,
+  "id": 76205,
   "identifier": "manga-kj955044",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 727,
   "aniId": 30727,
-  "createdAt": "2021-06-03T19:19:38.000Z",
-  "updatedAt": "2021-12-03T20:18:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hashimoto Izou",
+    "Tanaka Akio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T10:30:14.000Z",
+    "checkedAt": "2022-05-15T10:30:14.000Z",
+    "id": 727,
+    "type": "manga",
+    "title": "Shamo",
+    "altTitle": [
+      "軍鶏"
+    ],
+    "url": "https://myanimelist.net/manga/727/Shamo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/148319.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "軍鶏"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Akio",
       "Hashimoto, Izou"
-    ],
-    "id": 727,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:12.576Z",
+    "updatedAt": "2022-05-15T15:21:11.000Z",
+    "checkedAt": "2022-05-15T15:21:11.000Z",
+    "id": 30727,
     "type": "manga",
     "title": "Shamo",
-    "url": "https://myanimelist.net/manga/727/Shamo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/148319.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2021-12-02T07:46:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "軍鶏",
       "Gamecock",
       "Coq de Combat"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akio Tanaka",
-      "Izou Hashimoto"
-    ],
-    "id": 30727,
-    "malId": 727,
-    "type": "manga",
-    "title": "Shamo",
     "url": "https://anilist.co/manga/30727",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30727-w8kVrUSI5ecE.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-17T09:32:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/727/Shamo"
+    "externalLinks": [],
+    "malId": 727,
+    "deletedAt": null,
+    "authors": [
+      "Akio Tanaka",
+      "Izou Hashimoto"
+    ]
+  }
 }

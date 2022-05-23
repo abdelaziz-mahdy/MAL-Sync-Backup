@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kachiki Hikaru"
-  ],
+  "createdAt": "2021-06-05T08:19:18.000Z",
+  "updatedAt": "2021-12-05T09:25:12.000Z",
+  "checkedAt": null,
+  "id": 76641,
   "identifier": "manga-zp951872",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8300,
   "aniId": 38300,
-  "createdAt": "2021-06-05T08:19:18.000Z",
-  "updatedAt": "2021-12-05T09:25:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kachiki Hikaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:18.000Z",
+    "updatedAt": "2022-05-14T21:34:05.000Z",
+    "checkedAt": "2022-05-14T21:34:05.000Z",
+    "id": 8300,
+    "type": "manga",
+    "title": "Baby Steps",
+    "altTitle": [
+      "ベイビーステップ"
+    ],
+    "url": "https://myanimelist.net/manga/8300/Baby_Steps",
+    "image": "https://cdn.myanimelist.net/images/manga/2/202589.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ベイビーステップ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katsuki, Hikaru"
-    ],
-    "id": 8300,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:40.703Z",
+    "updatedAt": "2022-05-15T16:44:23.000Z",
+    "checkedAt": "2022-05-15T16:44:23.000Z",
+    "id": 38300,
     "type": "manga",
     "title": "Baby Steps",
-    "url": "https://myanimelist.net/manga/8300/Baby_Steps",
-    "image": "https://cdn.myanimelist.net/images/manga/2/202589.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:18.000Z",
-    "updatedAt": "2022-05-01T08:01:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ベイビーステップ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hikaru Katsuki"
-    ],
-    "id": 38300,
-    "malId": 8300,
-    "type": "manga",
-    "title": "Baby Steps",
     "url": "https://anilist.co/manga/38300",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38300-TXX5KLxitjb1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:45.000Z",
-    "updatedAt": "2021-12-17T13:18:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8300/Baby_Steps"
+    "externalLinks": [],
+    "malId": 8300,
+    "deletedAt": null,
+    "authors": [
+      "Hikaru Katsuki"
+    ]
+  }
 }

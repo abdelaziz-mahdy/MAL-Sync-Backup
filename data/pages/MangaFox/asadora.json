@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urasawa Naoki"
-  ],
+  "createdAt": "2021-08-05T16:20:49.000Z",
+  "updatedAt": "2022-02-05T17:06:03.000Z",
+  "checkedAt": null,
+  "id": 84204,
   "identifier": "asadora",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116000,
   "aniId": 104487,
-  "createdAt": "2021-08-05T16:20:49.000Z",
-  "updatedAt": "2022-02-05T17:06:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urasawa Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:40.000Z",
+    "updatedAt": "2022-05-15T15:24:57.000Z",
+    "checkedAt": "2022-05-15T15:24:57.000Z",
+    "id": 116000,
+    "type": "manga",
+    "title": "Asadora!",
+    "altTitle": [
+      "Serial Manga Novel Asadora!",
+      "Renzoku Manga Shousetsu",
+      "Asadora!",
+      "あさドラ!"
+    ],
+    "url": "https://myanimelist.net/manga/116000/Asadora",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219398.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Serial Manga Novel Asadora!",
-      "Renzoku Manga Shousetsu",
-      "Asadora!",
-      "あさドラ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki"
-    ],
-    "id": 116000,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:36.848Z",
+    "updatedAt": "2022-05-15T18:51:23.000Z",
+    "checkedAt": "2022-05-15T18:51:23.000Z",
+    "id": 104487,
     "type": "manga",
     "title": "Asadora!",
-    "url": "https://myanimelist.net/manga/116000/Asadora",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219398.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:40.000Z",
-    "updatedAt": "2022-02-05T16:36:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Asadora!",
       "あさドラ！",
@@ -57,22 +66,16 @@
       "Renzoku Manga Shousetsu Asadora!",
       "連続漫画小説 あさドラ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Urasawa",
-      "Thibaud Desbief"
-    ],
-    "id": 104487,
-    "malId": 116000,
-    "type": "manga",
-    "title": "Asadora!",
     "url": "https://anilist.co/manga/104487",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104487-sct3z5M0DttW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:21.000Z",
-    "updatedAt": "2022-03-21T23:27:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116000/Asadora"
+    "externalLinks": [],
+    "malId": 116000,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Urasawa",
+      "Thibaud Desbief"
+    ]
+  }
 }

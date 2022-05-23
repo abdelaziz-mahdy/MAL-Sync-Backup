@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujisawa Tohru"
-  ],
+  "createdAt": "2020-10-12T16:02:31.000Z",
+  "updatedAt": "2021-12-02T07:46:58.000Z",
+  "checkedAt": null,
+  "id": 298,
   "identifier": "02860cdf-1020-40f1-a23f-2025d80f6290",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 336,
   "aniId": 30336,
-  "createdAt": "2020-10-12T16:02:31.000Z",
-  "updatedAt": "2021-12-02T07:46:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujisawa Tohru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-15T03:49:19.000Z",
+    "checkedAt": "2022-05-15T03:49:19.000Z",
+    "id": 336,
+    "type": "manga",
+    "title": "GTO",
+    "altTitle": [
+      "GTO: Tomoko's Big Adventures",
+      "GTO: Great Teacher Onizuka",
+      "GTO"
+    ],
+    "url": "https://myanimelist.net/manga/336/GTO",
+    "image": "https://cdn.myanimelist.net/images/manga/2/172982.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "GTO: Tomoko's Big Adventures",
-      "GTO: Great Teacher Onizuka",
-      "GTO"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujisawa, Tooru"
-    ],
-    "id": 336,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:04.665Z",
+    "updatedAt": "2022-05-15T17:27:47.000Z",
+    "checkedAt": "2022-05-15T17:27:47.000Z",
+    "id": 30336,
     "type": "manga",
     "title": "GTO",
-    "url": "https://myanimelist.net/manga/336/GTO",
-    "image": "https://cdn.myanimelist.net/images/manga/2/172982.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-17T15:32:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "GTO: Great Teacher Onizuka",
       "GTO",
@@ -54,23 +63,17 @@
       "グレート・ティーチャー・オニヅカ",
       "GTO คุณครูพันธ์หายาก"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooru Fujisawa",
-      "Rando Ayamine",
-      "Dynamic Tarou"
-    ],
-    "id": 30336,
-    "malId": 336,
-    "type": "manga",
-    "title": "GTO",
     "url": "https://anilist.co/manga/30336",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30336-erTa6k7s7SJR.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2022-03-09T06:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/336/GTO"
+    "externalLinks": [],
+    "malId": 336,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Fujisawa",
+      "Rando Ayamine",
+      "Dynamic Tarou"
+    ]
+  }
 }

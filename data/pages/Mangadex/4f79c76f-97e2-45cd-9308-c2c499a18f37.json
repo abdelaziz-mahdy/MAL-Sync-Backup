@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lee Jong-Kyu",
-    "Shin Hwan"
-  ],
+  "createdAt": "2020-10-12T16:13:15.000Z",
+  "updatedAt": "2021-12-05T20:18:39.000Z",
+  "checkedAt": null,
+  "id": 22483,
   "identifier": "4f79c76f-97e2-45cd-9308-c2c499a18f37",
   "type": "manga",
   "page": "Mangadex",
@@ -12,59 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 312,
   "aniId": 30312,
-  "createdAt": "2020-10-12T16:13:15.000Z",
-  "updatedAt": "2021-12-05T20:18:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Jong-Kyu",
+    "Shin Hwan"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-04-26T04:00:50.000Z",
+    "checkedAt": null,
+    "id": 312,
+    "type": "manga",
+    "title": "Evil's Return",
     "altTitle": [
       "Evil's Return",
       "천지인"
     ],
-    "authors": [
-      "Hwan, Shin",
-      "Lee, Jong-Kyu"
-    ],
-    "id": 312,
-    "type": "manga",
-    "title": "Evil's Return",
     "url": "https://myanimelist.net/manga/312/Evils_Return",
     "image": "https://cdn.myanimelist.net/images/manga/2/166999.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-26T04:00:50.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hwan, Shin",
+      "Lee, Jong-Kyu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:55.581Z",
+    "updatedAt": "2022-05-13T12:52:55.581Z",
+    "checkedAt": null,
+    "id": 30312,
+    "type": "manga",
+    "title": "Cheonjiin",
     "altTitle": [
       "Evil's Return",
       "천지인",
       "天地人"
     ],
+    "url": "https://anilist.co/manga/30312",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30312-GHn7JxBtJjdF.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 312,
+    "deletedAt": null,
     "authors": [
       "Shin Hwan",
       "Jong-Kyu Lee",
       "Seung-Ah Lee",
       "Vicente Rivera Jr.",
       "Haruko Furukawa"
-    ],
-    "id": 30312,
-    "malId": 312,
-    "type": "manga",
-    "title": "Cheonjiin",
-    "url": "https://anilist.co/manga/30312",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30312-GHn7JxBtJjdF.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/312/Evils_Return"
+    ]
+  }
 }

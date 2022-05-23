@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Miaki Sugaru",
-    "Yuuki Hotate"
-  ],
+  "createdAt": "2021-06-02T01:01:57.000Z",
+  "updatedAt": "2021-12-02T01:48:07.000Z",
+  "checkedAt": null,
+  "id": 75615,
   "identifier": "manga-hr985226",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123502,
   "aniId": 105768,
-  "createdAt": "2021-06-02T01:01:57.000Z",
-  "updatedAt": "2021-12-02T01:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miaki Sugaru",
+    "Yuuki Hotate"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-14T21:11:29.000Z",
+    "checkedAt": "2022-05-14T21:11:29.000Z",
+    "id": 123502,
+    "type": "manga",
+    "title": "Koisuru Kiseichuu",
+    "altTitle": [
+      "Parasite in Love",
+      "恋する寄生虫"
+    ],
+    "url": "https://myanimelist.net/manga/123502/Koisuru_Kiseichuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/229078.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,49 +46,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Parasite in Love",
-      "恋する寄生虫"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miaki, Sugaru",
       "Hotate, Yuuki"
-    ],
-    "id": 123502,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:42.929Z",
+    "updatedAt": "2022-05-15T15:19:47.000Z",
+    "checkedAt": "2022-05-15T15:19:47.000Z",
+    "id": 105768,
     "type": "manga",
     "title": "Koisuru Kiseichuu",
-    "url": "https://myanimelist.net/manga/123502/Koisuru_Kiseichuu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/229078.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2021-12-02T01:17:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋する寄生虫",
       "Parasite in Love",
       "Parasites Amoureux"
     ],
+    "url": "https://anilist.co/manga/105768",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105768-Vh1iegsU5tJq.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 123502,
+    "deletedAt": null,
     "authors": [
       "Sugaru Miaki",
       "Yuki Hotate",
       "Shion",
       "Yuki Hotate"
-    ],
-    "id": 105768,
-    "malId": 123502,
-    "type": "manga",
-    "title": "Koisuru Kiseichuu",
-    "url": "https://anilist.co/manga/105768",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105768-Vh1iegsU5tJq.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2022-04-14T00:30:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123502/Koisuru_Kiseichuu"
+    ]
+  }
 }

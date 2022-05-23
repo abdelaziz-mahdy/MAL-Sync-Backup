@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fuji Momo"
-  ],
+  "createdAt": "2020-10-12T16:08:49.000Z",
+  "updatedAt": "2021-12-04T13:22:19.000Z",
+  "checkedAt": null,
+  "id": 13650,
   "identifier": "fde3edac-c3fc-47ab-96c3-e9838896ec93",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92472,
   "aniId": 101255,
-  "createdAt": "2020-10-12T16:08:49.000Z",
-  "updatedAt": "2021-12-04T13:22:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fuji Momo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2022-05-18T20:42:57.000Z",
+    "checkedAt": "2022-05-18T20:42:57.000Z",
+    "id": 92472,
+    "type": "manga",
+    "title": "Koiwazurai no Ellie",
+    "altTitle": [
+      "Lovesick Ellie",
+      "恋わずらいのエリー"
+    ],
+    "url": "https://myanimelist.net/manga/92472/Koiwazurai_no_Ellie",
+    "image": "https://cdn.myanimelist.net/images/manga/1/168117.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lovesick Ellie",
-      "恋わずらいのエリー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fuji, Momo"
-    ],
-    "id": 92472,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:44.706Z",
+    "updatedAt": "2022-05-18T20:42:56.000Z",
+    "checkedAt": "2022-05-18T20:42:56.000Z",
+    "id": 101255,
     "type": "manga",
     "title": "Koiwazurai no Ellie",
-    "url": "https://myanimelist.net/manga/92472/Koiwazurai_no_Ellie",
-    "image": "https://cdn.myanimelist.net/images/manga/1/168117.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:09.000Z",
-    "updatedAt": "2022-03-06T10:03:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lovesick Ellie",
       "恋わずらいのエリー",
@@ -51,21 +60,15 @@
       "Koi Wazurai no Ellie",
       "烦恼着恋爱的惠莉"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fujimomo"
-    ],
-    "id": 101255,
-    "malId": 92472,
-    "type": "manga",
-    "title": "Koiwazurai no Ellie",
     "url": "https://anilist.co/manga/101255",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101255-wH1NOx5QnBv6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:38.000Z",
-    "updatedAt": "2021-12-18T03:51:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92472/Koiwazurai_no_Ellie"
+    "externalLinks": [],
+    "malId": 92472,
+    "deletedAt": null,
+    "authors": [
+      "Fujimomo"
+    ]
+  }
 }

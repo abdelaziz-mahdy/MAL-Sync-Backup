@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takei Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:05:09.000Z",
+  "updatedAt": "2021-12-03T10:47:28.000Z",
+  "checkedAt": null,
+  "id": 5811,
   "identifier": "77db4ae1-1cfe-470c-84ae-26f7c0b25040",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3539,
   "aniId": 33539,
-  "createdAt": "2020-10-12T16:05:09.000Z",
-  "updatedAt": "2021-12-03T10:47:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takei Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:52.000Z",
+    "updatedAt": "2022-04-28T06:30:33.000Z",
+    "checkedAt": null,
+    "id": 3539,
+    "type": "manga",
+    "title": "Butsu Zone",
+    "altTitle": [
+      "Death Zero",
+      "Itako no Anna",
+      "仏ゾーン"
+    ],
+    "url": "https://myanimelist.net/manga/3539/Butsu_Zone",
+    "image": "https://cdn.myanimelist.net/images/manga/2/74087.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Death Zero",
-      "Itako no Anna",
-      "仏ゾーン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takei, Hiroyuki"
-    ],
-    "id": 3539,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:40.477Z",
+    "updatedAt": "2022-05-13T12:40:40.477Z",
+    "checkedAt": null,
+    "id": 33539,
     "type": "manga",
     "title": "Butsu Zone",
-    "url": "https://myanimelist.net/manga/3539/Butsu_Zone",
-    "image": "https://cdn.myanimelist.net/images/manga/2/74087.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:52.000Z",
-    "updatedAt": "2022-04-28T06:30:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "仏ゾーン",
       "Death Zero",
       "Itako no Anna"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroyuki Takei"
-    ],
-    "id": 33539,
-    "malId": 3539,
-    "type": "manga",
-    "title": "Butsu Zone",
     "url": "https://anilist.co/manga/33539",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33539-y2OiAK6QXUEU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:13.000Z",
-    "updatedAt": "2021-12-17T11:16:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3539/Butsu_Zone"
+    "externalLinks": [],
+    "malId": 3539,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Takei"
+    ]
+  }
 }

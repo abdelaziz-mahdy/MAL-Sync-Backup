@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Rumiko"
-  ],
+  "createdAt": "2020-10-12T16:07:27.000Z",
+  "updatedAt": "2021-12-04T09:18:30.000Z",
+  "checkedAt": null,
+  "id": 10657,
   "identifier": "c94dd806-b6db-4549-b989-dd589d89bee7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96896,
   "aniId": 96904,
-  "createdAt": "2020-10-12T16:07:27.000Z",
-  "updatedAt": "2021-12-04T09:18:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Rumiko"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-04T03:20:17.000Z",
+    "updatedAt": "2022-05-22T11:32:56.000Z",
+    "checkedAt": "2022-05-22T11:32:56.000Z",
+    "id": 96896,
+    "type": "manga",
+    "title": "Tensai-tachi no Kyouen",
     "altTitle": [
       "The Recital Contest of the Geniuses",
       "Kaijuu no Oukoku",
@@ -28,6 +34,13 @@
       "Mouten no Venus",
       "天才たちの競演"
     ],
+    "url": "https://myanimelist.net/manga/96896/Tensai-tachi_no_Kyouen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/173398.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki",
       "Takahashi, Rumiko",
@@ -44,19 +57,15 @@
       "Noujou, Junichi",
       "Morohoshi, Daijirou",
       "Nakaima, Tsuyoshi"
-    ],
-    "id": 96896,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:49.492Z",
+    "updatedAt": "2022-05-22T11:32:55.000Z",
+    "checkedAt": "2022-05-22T11:32:55.000Z",
+    "id": 96904,
     "type": "manga",
     "title": "Tensai-tachi no Kyouen",
-    "url": "https://myanimelist.net/manga/96896/Tensai-tachi_no_Kyouen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/173398.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T03:20:17.000Z",
-    "updatedAt": "2021-12-04T03:49:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天才たちの競演",
       "The Recital Contest of the Geniuses",
@@ -64,7 +73,13 @@
       "Kidou Senshi Gundam Thunderbolt Gaiden",
       "Revenge Doll"
     ],
+    "url": "https://anilist.co/manga/96904",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96904-wzryTMgU8WBn.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 96896,
+    "deletedAt": null,
     "authors": [
       "Shigeru Mizuki",
       "Yarou Abe",
@@ -80,18 +95,6 @@
       "Daijiro Morohoshi",
       "Tsuyoshi Nakaima",
       "Junichi Noujou"
-    ],
-    "id": 96904,
-    "malId": 96896,
-    "type": "manga",
-    "title": "Tensai-tachi no Kyouen",
-    "url": "https://anilist.co/manga/96904",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96904-wzryTMgU8WBn.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-26T13:38:18.000Z",
-    "updatedAt": "2021-12-18T01:54:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96896/Tensai-tachi_no_Kyouen"
+    ]
+  }
 }

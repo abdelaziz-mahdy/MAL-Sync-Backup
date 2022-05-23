@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yang Woo-Seok",
-    "Jepigaru"
-  ],
+  "createdAt": "2020-10-12T16:11:59.000Z",
+  "updatedAt": "2021-12-05T12:50:41.000Z",
+  "checkedAt": null,
+  "id": 20470,
   "identifier": "4d4ecb48-acea-40b3-abf2-c50daeb61225",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80049,
   "aniId": 92946,
-  "createdAt": "2020-10-12T16:11:59.000Z",
-  "updatedAt": "2021-12-05T12:50:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yang Woo-Seok",
+    "Jepigaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2021-11-11T15:14:06.000Z",
+    "checkedAt": null,
+    "id": 80049,
+    "type": "manga",
+    "title": "Steel Rain",
+    "altTitle": [
+      "Steel Rain",
+      "스틸 레인"
+    ],
+    "url": "https://myanimelist.net/manga/80049/Steel_Rain",
+    "image": "https://cdn.myanimelist.net/images/manga/2/207019.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,42 +42,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Steel Rain",
-      "스틸 레인"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yang, Woo-Seok",
       "Jepigaru"
-    ],
-    "id": 80049,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:33.969Z",
+    "updatedAt": "2022-05-13T12:42:33.969Z",
+    "checkedAt": null,
+    "id": 92946,
     "type": "manga",
     "title": "Steel Rain",
-    "url": "https://myanimelist.net/manga/80049/Steel_Rain",
-    "image": "https://cdn.myanimelist.net/images/manga/2/207019.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2021-11-11T15:14:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "STEEL RAIN"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 92946,
-    "malId": 80049,
-    "type": "manga",
-    "title": "Steel Rain",
     "url": "https://anilist.co/manga/92946",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92946-NPZHbI0xqGqe.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-18T00:49:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80049/Steel_Rain"
+    "externalLinks": [],
+    "malId": 80049,
+    "deletedAt": null,
+    "authors": []
+  }
 }

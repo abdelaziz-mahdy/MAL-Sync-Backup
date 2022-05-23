@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akiyama George"
-  ],
+  "createdAt": "2021-03-10T10:20:27.000Z",
+  "updatedAt": "2021-12-08T12:40:00.000Z",
+  "checkedAt": null,
+  "id": 65177,
   "identifier": "f855c1b5-49a7-4c76-876d-2fb04f070c14",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19162,
   "aniId": 49162,
-  "createdAt": "2021-03-10T10:20:27.000Z",
-  "updatedAt": "2021-12-08T12:40:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akiyama George"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:43.000Z",
+    "updatedAt": "2022-05-21T12:53:50.000Z",
+    "checkedAt": "2022-05-21T12:53:50.000Z",
+    "id": 19162,
+    "type": "manga",
+    "title": "Haguregumo",
+    "altTitle": [
+      "Wandering Clouds",
+      "浮浪雲"
+    ],
+    "url": "https://myanimelist.net/manga/19162/Haguregumo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/29393.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Wandering Clouds",
-      "浮浪雲"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akiyama, George"
-    ],
-    "id": 19162,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:38.267Z",
+    "updatedAt": "2022-05-21T12:53:49.000Z",
+    "checkedAt": "2022-05-21T12:53:49.000Z",
+    "id": 49162,
     "type": "manga",
     "title": "Haguregumo",
-    "url": "https://myanimelist.net/manga/19162/Haguregumo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/29393.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:43.000Z",
-    "updatedAt": "2022-03-09T06:59:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "浮浪雲",
       "Wandering Clouds"
     ],
-    "externalLinks": [],
-    "authors": [
-      "George Akiyama"
-    ],
-    "id": 49162,
-    "malId": 19162,
-    "type": "manga",
-    "title": "Haguregumo",
     "url": "https://anilist.co/manga/49162",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49162-OQzudPPRCBd6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:17.000Z",
-    "updatedAt": "2021-12-17T17:03:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19162/Haguregumo"
+    "externalLinks": [],
+    "malId": 19162,
+    "deletedAt": null,
+    "authors": [
+      "George Akiyama"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsutsui Tetsuya"
-  ],
+  "createdAt": "2021-09-24T01:15:46.000Z",
+  "updatedAt": "2022-03-24T01:58:36.000Z",
+  "checkedAt": null,
+  "id": 87580,
   "identifier": "manga-hk984993",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 81429,
   "aniId": 102417,
-  "createdAt": "2021-09-24T01:15:46.000Z",
-  "updatedAt": "2022-03-24T01:58:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsutsui Tetsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:36.000Z",
+    "updatedAt": "2022-05-22T21:36:00.000Z",
+    "checkedAt": "2022-05-22T21:36:00.000Z",
+    "id": 81429,
+    "type": "manga",
+    "title": "Yuugai Toshi",
+    "altTitle": [
+      "Harmful City",
+      "Poison City",
+      "有害都市"
+    ],
+    "url": "https://myanimelist.net/manga/81429/Yuugai_Toshi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/165410.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Harmful City",
-      "Poison City",
-      "有害都市"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsutsui, Tetsuya"
-    ],
-    "id": 81429,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:28.726Z",
+    "updatedAt": "2022-05-22T21:35:59.000Z",
+    "checkedAt": "2022-05-22T21:35:59.000Z",
+    "id": 102417,
     "type": "manga",
     "title": "Yuugai Toshi",
-    "url": "https://myanimelist.net/manga/81429/Yuugai_Toshi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/165410.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:36.000Z",
-    "updatedAt": "2022-03-24T01:27:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "有害都市",
       "Harmful City",
       "Poison City"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuya Tsutsui"
-    ],
-    "id": 102417,
-    "malId": 81429,
-    "type": "manga",
-    "title": "Yuugai Toshi",
     "url": "https://anilist.co/manga/102417",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102417-zxjr7Wo4ZnLD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:02.000Z",
-    "updatedAt": "2021-12-18T04:21:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/81429/Yuugai_Toshi"
+    "externalLinks": [],
+    "malId": 81429,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuya Tsutsui"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:00:40.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18185,
   "identifier": "harukana-receive-dub",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35983,
   "aniId": 99586,
-  "createdAt": "2020-10-12T16:00:40.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:55.000Z",
+    "updatedAt": "2022-05-14T15:50:21.000Z",
+    "checkedAt": "2022-05-14T15:50:21.000Z",
+    "id": 35983,
+    "type": "anime",
+    "title": "Harukana Receive",
+    "altTitle": [
+      "Harukana Receive",
+      "はるかなレシーブ"
+    ],
+    "url": "https://myanimelist.net/anime/35983/Harukana_Receive",
+    "image": "https://cdn.myanimelist.net/images/anime/1924/95212.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,28 +49,34 @@
         "url": "https://en.wikipedia.org/wiki/Harukana_Receive"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Harukana Receive",
-      "はるかなレシーブ"
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-276738"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/harukana-receive"
+      }
     ],
-    "id": 35983,
+    "deletedAt": null,
+    "anidbId": 13296
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:24.000Z",
+    "updatedAt": "2022-05-15T11:58:11.000Z",
+    "checkedAt": "2022-05-15T11:58:11.000Z",
+    "id": 99586,
     "type": "anime",
     "title": "Harukana Receive",
-    "url": "https://myanimelist.net/anime/35983/Harukana_Receive",
-    "image": "https://cdn.myanimelist.net/images/anime/1924/95212.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13296,
-    "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2022-01-17T03:42:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Harukana Receive",
       "はるかなレシーブ"
     ],
+    "url": "https://anilist.co/anime/99586",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99586-mnJTcYlTpC5T.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -65,17 +87,7 @@
         "url": "https://www.funimation.com/shows/harukana-receive/"
       }
     ],
-    "id": 99586,
     "malId": 35983,
-    "type": "anime",
-    "title": "Harukana Receive",
-    "url": "https://anilist.co/anime/99586",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99586-mnJTcYlTpC5T.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:24.000Z",
-    "updatedAt": "2021-12-09T19:33:38.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/35983/Harukana_Receive"
+  }
 }

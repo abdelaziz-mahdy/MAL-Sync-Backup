@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takagi Shigeyoshi"
-  ],
+  "createdAt": "2020-10-12T16:04:11.000Z",
+  "updatedAt": "2021-12-02T19:46:07.000Z",
+  "checkedAt": null,
+  "id": 3810,
   "identifier": "96f69304-ab9a-43ce-83cc-8fe90958c5b3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8042,
   "aniId": 38042,
-  "createdAt": "2020-10-12T16:04:11.000Z",
-  "updatedAt": "2021-12-02T19:46:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takagi Shigeyoshi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:17.000Z",
+    "updatedAt": "2022-05-21T09:59:08.000Z",
+    "checkedAt": "2022-05-21T09:59:08.000Z",
+    "id": 8042,
+    "type": "manga",
+    "title": "Hana ni Arashi",
     "altTitle": [
       "Fureru Ondo",
       "Jikou Kokyuu No Hitsuyou",
@@ -27,21 +33,24 @@
       "Flower in a Storm",
       "花にアラシ"
     ],
-    "authors": [
-      "Takagi, Shigeyoshi"
-    ],
-    "id": 8042,
-    "type": "manga",
-    "title": "Hana ni Arashi",
     "url": "https://myanimelist.net/manga/8042/Hana_ni_Arashi",
     "image": "https://cdn.myanimelist.net/images/manga/2/184460.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:17.000Z",
-    "updatedAt": "2022-04-25T04:32:22.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takagi, Shigeyoshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:43.037Z",
+    "updatedAt": "2022-05-13T13:06:43.037Z",
+    "checkedAt": null,
+    "id": 38042,
+    "type": "manga",
+    "title": "Hana ni Arashi",
     "altTitle": [
       "Flower in a Storm",
       "花にアラシ",
@@ -49,26 +58,20 @@
       "Jikou Kokyuu No Hitsuyou",
       "Fureru Ondo"
     ],
+    "url": "https://anilist.co/manga/38042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx38042-eOy9OZLyvGPd.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "VIZ",
         "url": "https://www.viz.com/flower-in-a-storm"
       }
     ],
+    "malId": 8042,
+    "deletedAt": null,
     "authors": [
       "Shigeyoshi Takagi"
-    ],
-    "id": 38042,
-    "malId": 8042,
-    "type": "manga",
-    "title": "Hana ni Arashi",
-    "url": "https://anilist.co/manga/38042",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx38042-eOy9OZLyvGPd.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:39:58.000Z",
-    "updatedAt": "2021-12-17T13:16:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8042/Hana_ni_Arashi"
+    ]
+  }
 }

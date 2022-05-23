@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Zekuu Tooru",
-    "Takanagi Yuuna"
-  ],
+  "createdAt": "2020-10-12T16:02:49.000Z",
+  "updatedAt": "2021-12-02T09:48:18.000Z",
+  "checkedAt": null,
+  "id": 911,
   "identifier": "9fea5778-9884-4d27-90b4-ea982d6097e1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 428,
   "aniId": 30428,
-  "createdAt": "2020-10-12T16:02:49.000Z",
-  "updatedAt": "2021-12-02T09:48:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zekuu Tooru",
+    "Takanagi Yuuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-14T09:03:35.000Z",
+    "checkedAt": "2022-05-14T09:03:35.000Z",
+    "id": 428,
+    "type": "manga",
+    "title": "Shiki Tsukai",
+    "altTitle": [
+      "Shiki Tsukai",
+      "四季使い"
+    ],
+    "url": "https://myanimelist.net/manga/428/Shiki_Tsukai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/53445.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shiki Tsukai",
-      "四季使い"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takanagi, Yuuna",
       "Zekuu, Tooru"
-    ],
-    "id": 428,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:28.050Z",
+    "updatedAt": "2022-05-13T13:03:28.050Z",
+    "checkedAt": null,
+    "id": 30428,
     "type": "manga",
     "title": "Shiki Tsukai",
-    "url": "https://myanimelist.net/manga/428/Shiki_Tsukai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/53445.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-03-20T14:22:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shiki Tsukai",
       "四季使い"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuna Takanagi",
-      "Tooru Zekuu"
-    ],
-    "id": 30428,
-    "malId": 428,
-    "type": "manga",
-    "title": "Shiki Tsukai",
     "url": "https://anilist.co/manga/30428",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30428-PAr76Gf3AGxQ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:10:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/428/Shiki_Tsukai"
+    "externalLinks": [],
+    "malId": 428,
+    "deletedAt": null,
+    "authors": [
+      "Yuuna Takanagi",
+      "Tooru Zekuu"
+    ]
+  }
 }

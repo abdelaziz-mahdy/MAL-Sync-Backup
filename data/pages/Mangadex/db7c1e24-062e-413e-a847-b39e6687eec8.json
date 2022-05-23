@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shouoto Aya"
-  ],
+  "createdAt": "2020-10-12T16:18:45.000Z",
+  "updatedAt": "2021-12-07T20:05:10.000Z",
+  "checkedAt": null,
+  "id": 33769,
   "identifier": "db7c1e24-062e-413e-a847-b39e6687eec8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69433,
   "aniId": 90983,
-  "createdAt": "2020-10-12T16:18:45.000Z",
-  "updatedAt": "2021-12-07T20:05:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shouoto Aya"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:15.000Z",
+    "updatedAt": "2021-11-10T04:43:55.000Z",
+    "checkedAt": null,
+    "id": 69433,
+    "type": "manga",
+    "title": "Ore tte, Tenshi",
     "altTitle": [
       "Orette Tenshi",
       "Do You Think I'm An Angel?",
@@ -28,21 +34,24 @@
       "Matenrou wa Barairo ni!!",
       "オレって、天使"
     ],
-    "authors": [
-      "Shouoto, Aya"
-    ],
-    "id": 69433,
-    "type": "manga",
-    "title": "Ore tte, Tenshi",
     "url": "https://myanimelist.net/manga/69433/Ore_tte_Tenshi",
     "image": "https://cdn.myanimelist.net/images/manga/1/119541.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:15.000Z",
-    "updatedAt": "2021-11-10T04:43:55.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shouoto, Aya"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:49.832Z",
+    "updatedAt": "2022-05-13T12:52:49.832Z",
+    "checkedAt": null,
+    "id": 90983,
+    "type": "manga",
+    "title": "Ore tte, Tenshi",
     "altTitle": [
       "オレって、天使",
       "Orette Tenshi",
@@ -52,21 +61,15 @@
       "the Rabbit",
       "Matenrou wa Barairo ni!!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aya Shouoto"
-    ],
-    "id": 90983,
-    "malId": 69433,
-    "type": "manga",
-    "title": "Ore tte, Tenshi",
     "url": "https://anilist.co/manga/90983",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90983-CDiYMn8HbVB8.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:51:29.000Z",
-    "updatedAt": "2021-12-18T00:19:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69433/Ore_tte_Tenshi"
+    "externalLinks": [],
+    "malId": 69433,
+    "deletedAt": null,
+    "authors": [
+      "Aya Shouoto"
+    ]
+  }
 }

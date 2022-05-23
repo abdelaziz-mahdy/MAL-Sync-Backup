@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Gatou Shouji",
-    "Shikidouji",
-    "Ueda Hiroshi"
-  ],
+  "createdAt": "2020-10-12T16:04:01.000Z",
+  "updatedAt": "2021-12-02T18:18:16.000Z",
+  "checkedAt": null,
+  "id": 3458,
   "identifier": "68a2147c-7688-41a2-b1c8-8ad1eb4b9b22",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 895,
   "aniId": 30895,
-  "createdAt": "2020-10-12T16:04:01.000Z",
-  "updatedAt": "2021-12-02T18:18:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gatou Shouji",
+    "Shikidouji",
+    "Ueda Hiroshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-15T20:20:11.000Z",
+    "checkedAt": "2022-05-15T20:20:11.000Z",
+    "id": 895,
+    "type": "manga",
+    "title": "Full Metal Panic! Sigma",
+    "altTitle": [
+      "Full Metal Panic! Sigma",
+      "フルメタル・パニック! Σ"
+    ],
+    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma",
+    "image": "https://cdn.myanimelist.net/images/manga/1/55583.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,48 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Full Metal Panic! Sigma",
-      "フルメタル・パニック! Σ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gatou, Shouji",
       "Ueda, Hiroshi"
-    ],
-    "id": 895,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:20.804Z",
+    "updatedAt": "2022-05-15T21:37:47.000Z",
+    "checkedAt": "2022-05-15T21:37:47.000Z",
+    "id": 30895,
     "type": "manga",
     "title": "Full Metal Panic! Sigma",
-    "url": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma",
-    "image": "https://cdn.myanimelist.net/images/manga/1/55583.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-19T00:31:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Full Metal Panic! Sigma",
       "フルメタル・パニック! Σ",
       "Full Metal Panic"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouji Gatou",
-      "Hiroshi Ueda",
-      "Giacomo Calorio"
-    ],
-    "id": 30895,
-    "malId": 895,
-    "type": "manga",
-    "title": "Full Metal Panic! Sigma",
     "url": "https://anilist.co/manga/30895",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/895.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:36:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/895/Full_Metal_Panic_Sigma"
+    "externalLinks": [],
+    "malId": 895,
+    "deletedAt": null,
+    "authors": [
+      "Shouji Gatou",
+      "Hiroshi Ueda",
+      "Giacomo Calorio"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NIGHTOW Yasuhiro"
-  ],
+  "createdAt": "2021-12-28T05:53:41.000Z",
+  "updatedAt": "2021-12-28T06:23:27.000Z",
+  "checkedAt": null,
+  "id": 93784,
   "identifier": "trigun_maximum",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 704,
   "aniId": 30704,
-  "createdAt": "2021-12-28T05:53:41.000Z",
-  "updatedAt": "2021-12-28T06:23:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "NIGHTOW Yasuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T11:20:23.000Z",
+    "checkedAt": "2022-05-15T11:20:23.000Z",
+    "id": 704,
+    "type": "manga",
+    "title": "Trigun Maximum",
+    "altTitle": [
+      "Trigun Maximum",
+      "トライガンマキシマム"
+    ],
+    "url": "https://myanimelist.net/manga/704/Trigun_Maximum",
+    "image": "https://cdn.myanimelist.net/images/manga/3/55331.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Trigun Maximum",
-      "トライガンマキシマム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nightow, Yasuhiro"
-    ],
-    "id": 704,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:14.111Z",
+    "updatedAt": "2022-05-15T16:11:47.000Z",
+    "checkedAt": "2022-05-15T16:11:47.000Z",
+    "id": 30704,
     "type": "manga",
     "title": "Trigun Maximum",
-    "url": "https://myanimelist.net/manga/704/Trigun_Maximum",
-    "image": "https://cdn.myanimelist.net/images/manga/3/55331.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-04-24T10:01:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Trigun Maximum",
       "トライガンマキシマム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasuhiro Nightow"
-    ],
-    "id": 30704,
-    "malId": 704,
-    "type": "manga",
-    "title": "Trigun Maximum",
     "url": "https://anilist.co/manga/30704",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n30704-H1DWZJSGjkwK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2021-12-17T09:32:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/704/Trigun_Maximum"
+    "externalLinks": [],
+    "malId": 704,
+    "deletedAt": null,
+    "authors": [
+      "Yasuhiro Nightow"
+    ]
+  }
 }

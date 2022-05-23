@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Munko"
-  ],
+  "createdAt": "2020-10-12T16:11:36.000Z",
+  "updatedAt": "2021-12-05T09:49:42.000Z",
+  "checkedAt": null,
+  "id": 19677,
   "identifier": "24da1ea9-1e32-477f-83a2-8c9cde18d49f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25729,
   "aniId": 55729,
-  "createdAt": "2020-10-12T16:11:36.000Z",
-  "updatedAt": "2021-12-05T09:49:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Munko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:23.000Z",
+    "updatedAt": "2021-11-04T06:36:00.000Z",
+    "checkedAt": null,
+    "id": 25729,
+    "type": "manga",
+    "title": "Raika Days",
+    "altTitle": [
+      "らいか・デイズ"
+    ],
+    "url": "https://myanimelist.net/manga/25729/Raika_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/41442.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "らいか・デイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Munko"
-    ],
-    "id": 25729,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:34.045Z",
+    "updatedAt": "2022-05-13T12:59:34.045Z",
+    "checkedAt": null,
+    "id": 55729,
     "type": "manga",
     "title": "Raika Days",
-    "url": "https://myanimelist.net/manga/25729/Raika_Days",
-    "image": "https://cdn.myanimelist.net/images/manga/3/41442.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:23.000Z",
-    "updatedAt": "2021-11-04T06:36:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "らいか・デイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "MUNKO"
-    ],
-    "id": 55729,
-    "malId": 25729,
-    "type": "manga",
-    "title": "Raika Days",
     "url": "https://anilist.co/manga/55729",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55729-ETzzzmi79rjq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:55.000Z",
-    "updatedAt": "2021-12-17T18:38:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25729/Raika_Days"
+    "externalLinks": [],
+    "malId": 25729,
+    "deletedAt": null,
+    "authors": [
+      "MUNKO"
+    ]
+  }
 }

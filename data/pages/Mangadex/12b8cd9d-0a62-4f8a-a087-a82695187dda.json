@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Goo",
-    "Hiyama Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:02:36.000Z",
+  "updatedAt": "2021-12-02T08:46:36.000Z",
+  "checkedAt": null,
+  "id": 484,
   "identifier": "12b8cd9d-0a62-4f8a-a087-a82695187dda",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15890,
   "aniId": 45890,
-  "createdAt": "2020-10-12T16:02:36.000Z",
-  "updatedAt": "2021-12-02T08:46:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Goo",
+    "Hiyama Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2021-06-02T08:23:26.000Z",
+    "updatedAt": "2022-02-01T18:50:52.000Z",
+    "checkedAt": null,
+    "id": 15890,
+    "type": "manga",
+    "title": "Himawari",
+    "altTitle": [
+      "Sunflower",
+      "ひまわり"
+    ],
+    "url": "https://myanimelist.net/manga/15890/Himawari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175060.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sunflower",
-      "ひまわり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiyama, Daisuke",
       "G.O."
-    ],
-    "id": 15890,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:52.389Z",
+    "updatedAt": "2022-05-13T12:47:52.389Z",
+    "checkedAt": null,
+    "id": 45890,
     "type": "manga",
     "title": "Himawari",
-    "url": "https://myanimelist.net/manga/15890/Himawari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175060.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-02T08:23:26.000Z",
-    "updatedAt": "2022-02-01T18:50:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヒマワリ",
       "Sunflower"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Hiyama",
-      "G.O."
-    ],
-    "id": 45890,
-    "malId": 15890,
-    "type": "manga",
-    "title": "Himawari",
     "url": "https://anilist.co/manga/45890",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45890-b7uXHdq3MSvR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-01T09:22:55.000Z",
-    "updatedAt": "2021-12-17T16:04:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15890/Himawari"
+    "externalLinks": [],
+    "malId": 15890,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Hiyama",
+      "G.O."
+    ]
+  }
 }

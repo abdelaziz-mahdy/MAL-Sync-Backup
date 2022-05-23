@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-12-09T14:10:41.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29873,
   "identifier": "m01p",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43751,
   "aniId": 125785,
-  "createdAt": "2020-12-09T14:10:41.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-12-03T16:53:23.000Z",
+    "updatedAt": "2022-05-15T17:14:16.000Z",
+    "checkedAt": "2022-05-15T17:14:16.000Z",
+    "id": 43751,
+    "type": "anime",
+    "title": "Ayanami Rei, Hajimete no Kuchibeni",
+    "altTitle": [
+      "Evangelion x Kate Tokyo",
+      "Ayanami Rei, First Lipstick",
+      "綾波レイ、はじめての口紅"
+    ],
+    "url": "https://myanimelist.net/anime/43751/Ayanami_Rei_Hajimete_no_Kuchibeni",
+    "image": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -22,23 +39,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Evangelion x Kate Tokyo",
-      "綾波レイ、はじめての口紅"
-    ],
-    "id": 43751,
-    "type": "anime",
-    "title": "Ayanami Rei, Hajimete no Kuchibeni",
-    "url": "https://myanimelist.net/anime/43751/Ayanami_Rei_Hajimete_no_Kuchibeni",
-    "image": "https://cdn.myanimelist.net/images/anime/1576/110060.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": null,
-    "createdAt": "2020-12-03T16:53:23.000Z",
-    "updatedAt": "2022-02-03T23:38:36.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": null
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T20:07:23.000Z",
+    "checkedAt": "2022-05-15T20:07:23.000Z",
+    "id": 125785,
+    "type": "anime",
+    "title": "Evangelion x KATE CM",
     "altTitle": [
       "エヴァンゲリオン x KATE CM",
       "KATE 「綾波レイ、はじめての口紅」",
@@ -47,18 +57,12 @@
       "KATE 「綾波レイ、はじめての口紅、その後」",
       "Kate: Rei Ayanami, hajimete no kuchibeni, sonogo"
     ],
-    "externalLinks": [],
-    "id": 125785,
-    "malId": 43751,
-    "type": "anime",
-    "title": "Evangelion x KATE CM",
     "url": "https://anilist.co/anime/125785",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125785-ocT9A7Lsiui2.png",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:13.000Z",
-    "updatedAt": "2021-12-17T18:21:14.000Z",
+    "externalLinks": [],
+    "malId": 43751,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/43751/Ayanami_Rei_Hajimete_no_Kuchibeni"
+  }
 }

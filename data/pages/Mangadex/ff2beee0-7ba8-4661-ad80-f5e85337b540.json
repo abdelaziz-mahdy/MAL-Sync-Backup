@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kanzaki Kurone",
-    "Minotake Amaru"
-  ],
+  "createdAt": "2020-10-12T16:11:18.000Z",
+  "updatedAt": "2021-12-05T07:48:22.000Z",
+  "checkedAt": null,
+  "id": 19032,
   "identifier": "ff2beee0-7ba8-4661-ad80-f5e85337b540",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113946,
   "aniId": 104689,
-  "createdAt": "2020-10-12T16:11:18.000Z",
-  "updatedAt": "2021-12-05T07:48:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanzaki Kurone",
+    "Minotake Amaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:34.000Z",
+    "updatedAt": "2022-05-14T18:21:41.000Z",
+    "checkedAt": "2022-05-14T18:21:41.000Z",
+    "id": 113946,
+    "type": "manga",
+    "title": "Maou-sama, Retry!",
+    "altTitle": [
+      "Demon Lord, Retry!",
+      "魔王様、リトライ!"
+    ],
+    "url": "https://myanimelist.net/manga/113946/Maou-sama_Retry",
+    "image": "https://cdn.myanimelist.net/images/manga/3/219798.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,50 +46,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Demon Lord, Retry!",
-      "魔王様、リトライ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanzaki, Kurone",
       "Minotake, Amaru"
-    ],
-    "id": 113946,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:20.290Z",
+    "updatedAt": "2022-05-15T22:23:23.000Z",
+    "checkedAt": "2022-05-15T22:23:23.000Z",
+    "id": 104689,
     "type": "manga",
     "title": "Maou-sama, Retry!",
-    "url": "https://myanimelist.net/manga/113946/Maou-sama_Retry",
-    "image": "https://cdn.myanimelist.net/images/manga/3/219798.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:34.000Z",
-    "updatedAt": "2022-04-18T21:32:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Demon Lord, Retry!",
       "魔王様、リトライ!",
       "จอมมารรีไทร์"
     ],
+    "url": "https://anilist.co/manga/104689",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104689-EgixW6mjlkW1.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 113946,
+    "deletedAt": null,
     "authors": [
       "Kurone Kanzaki",
       "Amaru Minotake",
       "Kouji Ogata",
       "Adam Seacord",
       "Pekka \"Vodoka\" Luhtala"
-    ],
-    "id": 104689,
-    "malId": 113946,
-    "type": "manga",
-    "title": "Maou-sama, Retry!",
-    "url": "https://anilist.co/manga/104689",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104689-EgixW6mjlkW1.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:04.000Z",
-    "updatedAt": "2022-01-18T08:34:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113946/Maou-sama_Retry"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takamura Matsuda",
-    "Iida Haruko"
-  ],
+  "createdAt": "2020-10-12T16:13:11.000Z",
+  "updatedAt": "2021-12-05T20:47:58.000Z",
+  "checkedAt": null,
+  "id": 22360,
   "identifier": "a23c8cea-2df6-45bb-94f2-b9bd816f61a0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 269,
   "aniId": 30269,
-  "createdAt": "2020-10-12T16:13:11.000Z",
-  "updatedAt": "2021-12-05T20:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takamura Matsuda",
+    "Iida Haruko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2021-12-05T20:16:08.000Z",
+    "checkedAt": null,
+    "id": 269,
+    "type": "manga",
+    "title": "Mikan no Tsuki",
+    "altTitle": [
+      "Crescent Moon",
+      "An Incomplete Moon",
+      "未完の月"
+    ],
+    "url": "https://myanimelist.net/manga/269/Mikan_no_Tsuki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/138527.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Crescent Moon",
-      "An Incomplete Moon",
-      "未完の月"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iida, Haruko"
-    ],
-    "id": 269,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:02.064Z",
+    "updatedAt": "2022-05-13T12:47:02.064Z",
+    "checkedAt": null,
+    "id": 30269,
     "type": "manga",
     "title": "Mikan no Tsuki",
-    "url": "https://myanimelist.net/manga/269/Mikan_no_Tsuki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/138527.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-12-05T20:16:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Crescent Moon",
       "未完の月",
       "An Incomplete Moon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruko Iida"
-    ],
-    "id": 30269,
-    "malId": 269,
-    "type": "manga",
-    "title": "Mikan no Tsuki",
     "url": "https://anilist.co/manga/30269",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30269-QeXJ6Spjdb2a.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T19:49:37.000Z",
-    "updatedAt": "2021-12-17T09:06:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/269/Mikan_no_Tsuki"
+    "externalLinks": [],
+    "malId": 269,
+    "deletedAt": null,
+    "authors": [
+      "Haruko Iida"
+    ]
+  }
 }

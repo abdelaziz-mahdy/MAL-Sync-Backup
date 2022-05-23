@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Abe Youichi"
-  ],
+  "createdAt": "2020-10-12T16:21:18.000Z",
+  "updatedAt": "2021-12-08T02:10:25.000Z",
+  "checkedAt": null,
+  "id": 39032,
   "identifier": "8627e210-25dc-4e9a-8531-142c917e4760",
   "type": "manga",
   "page": "Mangadex",
@@ -11,34 +12,42 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130997,
   "aniId": 105965,
-  "createdAt": "2020-10-12T16:21:18.000Z",
-  "updatedAt": "2021-12-08T02:10:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abe Youichi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-11-09T16:43:44.000Z",
+    "updatedAt": "2022-05-18T01:41:02.000Z",
+    "checkedAt": "2022-05-18T01:41:02.000Z",
+    "id": 130997,
+    "type": "manga",
+    "title": "Youkaku no Majoromi",
     "altTitle": [
       "Sheeply Horned Witch Romi",
       "羊角のマジョロミ"
     ],
-    "authors": [
-      "Abe, Youichi"
-    ],
-    "id": 130997,
-    "type": "manga",
-    "title": "Youkaku no Majoromi",
     "url": "https://myanimelist.net/manga/130997/Youkaku_no_Majoromi",
     "image": "https://cdn.myanimelist.net/images/manga/2/236763.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-11-09T16:43:44.000Z",
-    "updatedAt": "2022-02-10T21:40:49.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Abe, Youichi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:59.072Z",
+    "updatedAt": "2022-05-18T01:41:01.000Z",
+    "checkedAt": "2022-05-18T01:41:01.000Z",
+    "id": 105965,
+    "type": "manga",
+    "title": "Youkaku no Majoromi",
     "altTitle": [
       "Sheeply Horned Witch Romi",
       "羊角のマジョロミ",
@@ -46,21 +55,15 @@
       "Sheep-horned Witch Romi",
       "Witch Romi, the Sheep-horned"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youichi Abe"
-    ],
-    "id": 105965,
-    "malId": 130997,
-    "type": "manga",
-    "title": "Youkaku no Majoromi",
     "url": "https://anilist.co/manga/105965",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105965-QioGhYvYsriG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:33.000Z",
-    "updatedAt": "2022-01-17T07:41:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130997/Youkaku_no_Majoromi"
+    "externalLinks": [],
+    "malId": 130997,
+    "deletedAt": null,
+    "authors": [
+      "Youichi Abe"
+    ]
+  }
 }

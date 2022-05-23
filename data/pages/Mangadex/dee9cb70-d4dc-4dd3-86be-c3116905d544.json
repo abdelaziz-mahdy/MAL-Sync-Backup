@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ashihara Hinako"
-  ],
+  "createdAt": "2020-10-12T16:06:13.000Z",
+  "updatedAt": "2021-12-03T18:19:18.000Z",
+  "checkedAt": null,
+  "id": 8005,
   "identifier": "dee9cb70-d4dc-4dd3-86be-c3116905d544",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20315,
   "aniId": 50315,
-  "createdAt": "2020-10-12T16:06:13.000Z",
-  "updatedAt": "2021-12-03T18:19:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ashihara Hinako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:50.000Z",
+    "updatedAt": "2022-04-02T05:37:31.000Z",
+    "checkedAt": null,
+    "id": 20315,
+    "type": "manga",
+    "title": "Piece",
+    "altTitle": [
+      "Piece: Her Memory",
+      "Piece: Kanojo no Kioku",
+      "Piece -ピース-"
+    ],
+    "url": "https://myanimelist.net/manga/20315/Piece",
+    "image": "https://cdn.myanimelist.net/images/manga/1/40362.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Piece: Her Memory",
-      "Piece: Kanojo no Kioku",
-      "Piece -ピース-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ashihara, Hinako"
-    ],
-    "id": 20315,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:07.448Z",
+    "updatedAt": "2022-05-13T12:56:07.448Z",
+    "checkedAt": null,
+    "id": 50315,
     "type": "manga",
     "title": "Piece",
-    "url": "https://myanimelist.net/manga/20315/Piece",
-    "image": "https://cdn.myanimelist.net/images/manga/1/40362.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:50.000Z",
-    "updatedAt": "2022-04-02T05:37:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Piece -ピース-",
       "Piece: Her Memory",
@@ -52,21 +61,15 @@
       "Piece: Erinnerung an eine Fremde",
       "Piece ～彼女の記憶～"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hinako Ashihara"
-    ],
-    "id": 50315,
-    "malId": 20315,
-    "type": "manga",
-    "title": "Piece",
     "url": "https://anilist.co/manga/50315",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20315.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:28.000Z",
-    "updatedAt": "2022-04-18T12:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20315/Piece"
+    "externalLinks": [],
+    "malId": 20315,
+    "deletedAt": null,
+    "authors": [
+      "Hinako Ashihara"
+    ]
+  }
 }

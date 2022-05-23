@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toriyama Akira"
-  ],
+  "createdAt": "2020-10-12T16:10:32.000Z",
+  "updatedAt": "2021-12-05T09:21:40.000Z",
+  "checkedAt": null,
+  "id": 17338,
   "identifier": "af0527c1-8734-4498-b128-7090340bc10d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42,
   "aniId": 30042,
-  "createdAt": "2020-10-12T16:10:32.000Z",
-  "updatedAt": "2021-12-05T09:21:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toriyama Akira"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T09:48:23.000Z",
+    "checkedAt": "2022-05-14T09:48:23.000Z",
+    "id": 42,
+    "type": "manga",
+    "title": "Dragon Ball",
     "altTitle": [
       "Dragonball",
       "Dragon Ball Z",
@@ -32,21 +33,29 @@
       "Dragon Ball",
       "ドラゴンボール"
     ],
-    "authors": [
-      "Toriyama, Akira"
-    ],
-    "id": 42,
-    "type": "manga",
-    "title": "Dragon Ball",
     "url": "https://myanimelist.net/manga/42/Dragon_Ball",
     "image": "https://cdn.myanimelist.net/images/manga/2/54545.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-19T18:31:44.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Toriyama, Akira"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.057Z",
+    "updatedAt": "2022-05-15T16:43:59.000Z",
+    "checkedAt": "2022-05-15T16:43:59.000Z",
+    "id": 30042,
+    "type": "manga",
+    "title": "Dragon Ball",
     "altTitle": [
       "Dragon Ball",
       "ドラゴンボール",
@@ -55,12 +64,18 @@
       "Dragonball Z",
       "Bola de Drac"
     ],
+    "url": "https://anilist.co/manga/30042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100011"
       }
     ],
+    "malId": 42,
+    "deletedAt": null,
     "authors": [
       "Akira Toriyama",
       "Lise-Marie Pettersen Leira",
@@ -70,18 +85,6 @@
       "Bakayaro!",
       "Fédoua Lamodière",
       "Alp İlkkurşun"
-    ],
-    "id": 30042,
-    "malId": 42,
-    "type": "manga",
-    "title": "Dragon Ball",
-    "url": "https://anilist.co/manga/30042",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30042-4SetGiEbGc9x.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-05-17T10:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/42/Dragon_Ball"
+    ]
+  }
 }

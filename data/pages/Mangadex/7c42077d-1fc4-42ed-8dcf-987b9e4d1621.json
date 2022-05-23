@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Choi Soo Jeong"
-  ],
+  "createdAt": "2020-10-12T16:10:09.000Z",
+  "updatedAt": "2021-12-06T09:47:15.000Z",
+  "checkedAt": null,
+  "id": 16505,
   "identifier": "7c42077d-1fc4-42ed-8dcf-987b9e4d1621",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 122967,
-  "createdAt": "2020-10-12T16:10:09.000Z",
-  "updatedAt": "2021-12-06T09:47:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Choi Soo Jeong"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:02.389Z",
+    "updatedAt": "2022-05-14T11:30:14.000Z",
+    "checkedAt": "2022-05-14T11:30:14.000Z",
+    "id": 122967,
+    "type": "manga",
+    "title": "Maeui Geom",
     "altTitle": [
       "Sword of the Falcon",
       "매의검",
@@ -26,22 +34,16 @@
       "The Eagle Blade",
       "매의검"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Soo-Jeong Choi",
-      "Gyeong-Mi Kim"
-    ],
-    "id": 122967,
-    "malId": null,
-    "type": "manga",
-    "title": "Maeui Geom",
     "url": "https://anilist.co/manga/122967",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122967-q7jw7HX4xaBV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T01:50:51.000Z",
-    "updatedAt": "2022-01-15T06:12:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Soo-Jeong Choi",
+      "Gyeong-Mi Kim"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lee Yeon"
-  ],
+  "createdAt": "2021-06-04T09:51:50.000Z",
+  "updatedAt": "2021-12-04T10:52:59.000Z",
+  "checkedAt": null,
+  "id": 76411,
   "identifier": "manga-cr979900",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120793,
   "aniId": 104283,
-  "createdAt": "2021-06-04T09:51:50.000Z",
-  "updatedAt": "2021-12-04T10:52:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Yeon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:04.000Z",
+    "updatedAt": "2022-05-14T09:02:56.000Z",
+    "checkedAt": "2022-05-14T09:02:56.000Z",
+    "id": 120793,
+    "type": "manga",
+    "title": "The Makeup Remover",
+    "altTitle": [
+      "The Man Who Cleans Up Makeup",
+      "Hwajang Jiwojuneun Namja",
+      "The Makeup Remover",
+      "화장 지워주는 남자"
+    ],
+    "url": "https://myanimelist.net/manga/120793/The_Makeup_Remover",
+    "image": "https://cdn.myanimelist.net/images/manga/3/228132.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Man Who Cleans Up Makeup",
-      "Hwajang Jiwojuneun Namja",
-      "The Makeup Remover",
-      "화장 지워주는 남자"
-    ],
+    "deletedAt": null,
     "authors": [
       "Lee, Yeon"
-    ],
-    "id": 120793,
-    "type": "manga",
-    "title": "The Makeup Remover",
-    "url": "https://myanimelist.net/manga/120793/The_Makeup_Remover",
-    "image": "https://cdn.myanimelist.net/images/manga/3/228132.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:04.000Z",
-    "updatedAt": "2022-03-21T10:58:57.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:35.823Z",
+    "updatedAt": "2022-05-16T03:50:12.000Z",
+    "checkedAt": "2022-05-16T03:50:12.000Z",
+    "id": 104283,
+    "type": "manga",
+    "title": "Hwajang Jiwojuneun Namja",
     "altTitle": [
       "The Makeup Remover",
       "화장 지워주는 남자",
@@ -57,21 +66,15 @@
       "逆袭女王的男人",
       "Make-up Man"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yeon Lee"
-    ],
-    "id": 104283,
-    "malId": 120793,
-    "type": "manga",
-    "title": "Hwajang Jiwojuneun Namja",
     "url": "https://anilist.co/manga/104283",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104283-pqgwi8y746gl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:16.000Z",
-    "updatedAt": "2021-12-18T04:52:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120793/The_Makeup_Remover"
+    "externalLinks": [],
+    "malId": 120793,
+    "deletedAt": null,
+    "authors": [
+      "Yeon Lee"
+    ]
+  }
 }

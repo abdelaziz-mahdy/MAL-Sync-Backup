@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:10.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8468,
   "identifier": "qnw5",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105,
   "aniId": 105,
-  "createdAt": "2020-10-12T15:55:10.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T18:17:29.000Z",
+    "checkedAt": "2022-05-14T18:17:29.000Z",
+    "id": 105,
+    "type": "anime",
+    "title": "Boys Be...",
+    "altTitle": [
+      "Boys Be...",
+      "ボーイズ・ビー"
+    ],
+    "url": "https://myanimelist.net/anime/105/Boys_Be",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2223.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +50,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Boys Be...",
-      "ボーイズ・ビー"
-    ],
+    "deletedAt": null,
+    "anidbId": 100
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T11:19:59.000Z",
+    "checkedAt": "2022-05-15T11:19:59.000Z",
     "id": 105,
     "type": "anime",
     "title": "Boys Be...",
-    "url": "https://myanimelist.net/anime/105/Boys_Be",
-    "image": "https://cdn.myanimelist.net/images/anime/1/2223.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 100,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-05-01T00:33:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ボーイズ・ビー"
     ],
+    "url": "https://anilist.co/anime/105",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/105.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/boys-be"
       }
     ],
-    "id": 105,
     "malId": 105,
-    "type": "anime",
-    "title": "Boys Be...",
-    "url": "https://anilist.co/anime/105",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/105.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:26.000Z",
-    "updatedAt": "2021-12-17T08:20:14.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/105/Boys_Be"
+  }
 }

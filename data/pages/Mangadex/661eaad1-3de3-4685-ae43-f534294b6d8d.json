@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mayuzuki Jun"
-  ],
+  "createdAt": "2020-10-12T16:08:47.000Z",
+  "updatedAt": "2021-12-04T12:54:48.000Z",
+  "checkedAt": null,
+  "id": 13558,
   "identifier": "661eaad1-3de3-4685-ae43-f534294b6d8d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88600,
   "aniId": 86639,
-  "createdAt": "2020-10-12T16:08:47.000Z",
-  "updatedAt": "2021-12-04T12:54:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mayuzuki Jun"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%AF%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2022-05-15T01:51:43.000Z",
+    "checkedAt": "2022-05-15T01:51:43.000Z",
+    "id": 88600,
+    "type": "manga",
+    "title": "Koi wa Ameagari no You ni",
     "altTitle": [
       "Koi wa Amaagari no Youni",
       "Love is Like after the Rain",
@@ -32,21 +33,29 @@
       "After the Rain",
       "恋は雨上がりのように"
     ],
-    "authors": [
-      "Mayuzuki, Jun"
-    ],
-    "id": 88600,
-    "type": "manga",
-    "title": "Koi wa Ameagari no You ni",
     "url": "https://myanimelist.net/manga/88600/Koi_wa_Ameagari_no_You_ni",
     "image": "https://cdn.myanimelist.net/images/manga/1/154544.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:58.000Z",
-    "updatedAt": "2022-03-18T22:49:12.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%AF%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mayuzuki, Jun"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:32.220Z",
+    "updatedAt": "2022-05-15T16:39:35.000Z",
+    "checkedAt": "2022-05-15T16:39:35.000Z",
+    "id": 86639,
+    "type": "manga",
+    "title": "Koi wa Ameagari no You ni",
     "altTitle": [
       "After the Rain",
       "恋は雨上がりのように",
@@ -58,24 +67,18 @@
       "Po deszczu ",
       "เส้นทางชีวิต ลิขิตหัวใจ"
     ],
+    "url": "https://anilist.co/manga/86639",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86639-ox749qrCTq7K.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 88600,
+    "deletedAt": null,
     "authors": [
       "Jun Mayuzuki",
       "SALIDAS",
       "Ana María Caro",
       "Thibaud Desbief"
-    ],
-    "id": 86639,
-    "malId": 88600,
-    "type": "manga",
-    "title": "Koi wa Ameagari no You ni",
-    "url": "https://anilist.co/manga/86639",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86639-ox749qrCTq7K.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:55.000Z",
-    "updatedAt": "2021-12-04T12:16:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88600/Koi_wa_Ameagari_no_You_ni"
+    ]
+  }
 }

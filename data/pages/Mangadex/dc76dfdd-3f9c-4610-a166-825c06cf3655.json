@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Itou Chika",
-    "Otosaki Tsubaki"
-  ],
+  "createdAt": "2020-10-12T16:05:47.000Z",
+  "updatedAt": "2021-12-03T15:49:19.000Z",
+  "checkedAt": null,
+  "id": 7091,
   "identifier": "dc76dfdd-3f9c-4610-a166-825c06cf3655",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11463,
   "aniId": 41463,
-  "createdAt": "2020-10-12T16:05:47.000Z",
-  "updatedAt": "2021-12-03T15:49:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itou Chika",
+    "Otosaki Tsubaki"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:33.000Z",
+    "updatedAt": "2021-12-03T15:47:08.000Z",
+    "checkedAt": null,
+    "id": 11463,
+    "type": "manga",
+    "title": "Girls Only",
     "altTitle": [
       "Girls Only",
       "Endless Narcissus",
@@ -28,22 +34,25 @@
       "Maintenance",
       "She, Her, Her, Hers, Girl's Only"
     ],
-    "authors": [
-      "Otosaki, Tsubaki",
-      "Itou, Chika"
-    ],
-    "id": 11463,
-    "type": "manga",
-    "title": "Girls Only",
     "url": "https://myanimelist.net/manga/11463/Girls_Only",
     "image": "https://cdn.myanimelist.net/images/manga/3/15495.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:33.000Z",
-    "updatedAt": "2021-12-03T15:47:08.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Otosaki, Tsubaki",
+      "Itou, Chika"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:51.812Z",
+    "updatedAt": "2022-05-13T13:05:51.812Z",
+    "checkedAt": null,
+    "id": 41463,
+    "type": "manga",
+    "title": "Manga Carmilla: GIRL'S ONLY",
     "altTitle": [
       "まんがカーミラ ガールズオンリー",
       "Endless Narcissus",
@@ -51,7 +60,13 @@
       "Maintenance",
       "She"
     ],
+    "url": "https://anilist.co/manga/41463",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b41463-ql56PjYJghIx.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 11463,
+    "deletedAt": null,
     "authors": [
       "Tsubaki Otosaki",
       "Chika Itou",
@@ -59,18 +74,6 @@
       "Mocchi",
       "Yukiko Kawanishi",
       "Sister Midnight"
-    ],
-    "id": 41463,
-    "malId": 11463,
-    "type": "manga",
-    "title": "Manga Carmilla: GIRL'S ONLY",
-    "url": "https://anilist.co/manga/41463",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b41463-ql56PjYJghIx.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:18.000Z",
-    "updatedAt": "2021-12-17T14:33:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11463/Girls_Only"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanaka Meca"
-  ],
+  "createdAt": "2020-10-12T16:13:06.000Z",
+  "updatedAt": "2021-12-05T19:18:17.000Z",
+  "checkedAt": null,
+  "id": 22204,
   "identifier": "2fc3e311-5b59-4859-a89c-c721b25e4eff",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3051,
   "aniId": 33051,
-  "createdAt": "2020-10-12T16:13:06.000Z",
-  "updatedAt": "2021-12-05T19:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanaka Meca"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%A7%E3%81%99%E3%80%82"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-04-27T22:31:07.000Z",
+    "checkedAt": null,
+    "id": 3051,
+    "type": "manga",
+    "title": "Omukae desu.",
     "altTitle": [
       "Nigai Kusuri ni Amai Uso",
       "Bitter Medicine and Sweet Lie",
@@ -36,21 +37,29 @@
       "Omukae desu.",
       "お迎えです。"
     ],
-    "authors": [
-      "Tanaka, Meca"
-    ],
-    "id": 3051,
-    "type": "manga",
-    "title": "Omukae desu.",
     "url": "https://myanimelist.net/manga/3051/Omukae_desu",
     "image": "https://cdn.myanimelist.net/images/manga/1/190513.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-04-27T22:31:07.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%A7%E3%81%99%E3%80%82"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tanaka, Meca"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:28.283Z",
+    "updatedAt": "2022-05-13T12:43:28.283Z",
+    "checkedAt": null,
+    "id": 33051,
+    "type": "manga",
+    "title": "Omukae desu.",
     "altTitle": [
       "Omukae desu.",
       "お迎えです。",
@@ -59,21 +68,15 @@
       "Sweet Medicine",
       "Pick Up Service"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Meca Tanaka"
-    ],
-    "id": 33051,
-    "malId": 3051,
-    "type": "manga",
-    "title": "Omukae desu.",
     "url": "https://anilist.co/manga/33051",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33051-aSx2uXDITorL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:02.000Z",
-    "updatedAt": "2022-01-24T03:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3051/Omukae_desu"
+    "externalLinks": [],
+    "malId": 3051,
+    "deletedAt": null,
+    "authors": [
+      "Meca Tanaka"
+    ]
+  }
 }

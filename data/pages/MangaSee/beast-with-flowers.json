@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jooreong",
-    "Solddam"
-  ],
+  "createdAt": "2021-03-18T04:03:04.000Z",
+  "updatedAt": "2021-12-08T09:40:31.000Z",
+  "checkedAt": null,
+  "id": 65993,
   "identifier": "beast-with-flowers",
   "type": "manga",
   "page": "MangaSee",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 111412,
-  "createdAt": "2021-03-18T04:03:04.000Z",
-  "updatedAt": "2021-12-08T09:40:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jooreong",
+    "Solddam"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:51.771Z",
+    "updatedAt": "2022-05-19T06:09:57.000Z",
+    "checkedAt": "2022-05-19T06:09:57.000Z",
+    "id": 111412,
+    "type": "manga",
+    "title": "Kkocheul Mun Jimseung",
     "altTitle": [
       "Flower and the Beast",
       "꽃을 문 짐승",
@@ -27,22 +35,16 @@
       "A Flowering Beast",
       "Ggoch'eul Mun Jimseung"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Reong Ju",
-      "Solddam"
-    ],
-    "id": 111412,
-    "malId": null,
-    "type": "manga",
-    "title": "Kkocheul Mun Jimseung",
     "url": "https://anilist.co/manga/111412",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111412-TwFvqaoAFLIs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-27T23:28:43.000Z",
-    "updatedAt": "2022-04-29T22:32:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Reong Ju",
+      "Solddam"
+    ]
+  }
 }

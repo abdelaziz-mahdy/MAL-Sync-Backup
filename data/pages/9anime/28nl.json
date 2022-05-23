@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:25.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1320,
   "identifier": "28nl",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7597,
   "aniId": 7597,
-  "createdAt": "2020-10-12T15:49:25.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:56.000Z",
+    "updatedAt": "2022-05-14T22:32:05.000Z",
+    "checkedAt": "2022-05-14T22:32:05.000Z",
+    "id": 7597,
+    "type": "anime",
+    "title": "Boku, Otaryman.",
+    "altTitle": [
+      "ぼく、オタリーマン。"
+    ],
+    "url": "https://myanimelist.net/anime/7597/Boku_Otaryman",
+    "image": "https://cdn.myanimelist.net/images/anime/13/19796.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,37 +45,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ぼく、オタリーマン。"
-    ],
+    "deletedAt": null,
+    "anidbId": 7318
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:50.000Z",
+    "updatedAt": "2022-05-15T21:57:11.000Z",
+    "checkedAt": "2022-05-15T21:57:11.000Z",
     "id": 7597,
     "type": "anime",
-    "title": "Boku, Otaryman.",
-    "url": "https://myanimelist.net/anime/7597/Boku_Otaryman",
-    "image": "https://cdn.myanimelist.net/images/anime/13/19796.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 7318,
-    "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2022-04-02T02:06:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Boku, Otaryman",
     "altTitle": [
       "ぼく、オタリーマン."
     ],
-    "externalLinks": [],
-    "id": 7597,
-    "malId": 7597,
-    "type": "anime",
-    "title": "Boku, Otaryman",
     "url": "https://anilist.co/anime/7597",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7597.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:50.000Z",
-    "updatedAt": "2021-12-17T12:24:25.000Z",
+    "externalLinks": [],
+    "malId": 7597,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/7597/Boku_Otaryman"
+  }
 }

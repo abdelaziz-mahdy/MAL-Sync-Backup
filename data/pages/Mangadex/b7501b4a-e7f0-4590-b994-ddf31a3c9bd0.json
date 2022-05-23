@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Eniwa",
-    "Epo"
-  ],
+  "createdAt": "2020-10-12T16:10:05.000Z",
+  "updatedAt": "2021-12-04T22:48:01.000Z",
+  "checkedAt": null,
+  "id": 16354,
   "identifier": "b7501b4a-e7f0-4590-b994-ddf31a3c9bd0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 107801,
   "aniId": 100984,
-  "createdAt": "2020-10-12T16:10:05.000Z",
-  "updatedAt": "2021-12-04T22:48:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Eniwa",
+    "Epo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:07.000Z",
+    "updatedAt": "2021-12-30T12:55:09.000Z",
+    "checkedAt": null,
+    "id": 107801,
+    "type": "manga",
+    "title": "5-nin no Ou",
+    "altTitle": [
+      "Gonin no Ou",
+      "5人の王"
+    ],
+    "url": "https://myanimelist.net/manga/107801/5-nin_no_Ou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/220427.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gonin no Ou",
-      "5人の王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Epo",
       "Eniwa"
-    ],
-    "id": 107801,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:22.178Z",
+    "updatedAt": "2022-05-13T12:54:22.178Z",
+    "checkedAt": null,
+    "id": 100984,
     "type": "manga",
     "title": "5-nin no Ou",
-    "url": "https://myanimelist.net/manga/107801/5-nin_no_Ou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/220427.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:07.000Z",
-    "updatedAt": "2021-12-30T12:55:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "5人の王",
       "Gonin no Ou",
       "Five Beings from God",
       "Five Kings"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eniwa",
-      "Epo"
-    ],
-    "id": 100984,
-    "malId": 107801,
-    "type": "manga",
-    "title": "5-nin no Ou",
     "url": "https://anilist.co/manga/100984",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100984-66YjaFO65ITn.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:55.000Z",
-    "updatedAt": "2021-12-18T03:30:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/107801/5-nin_no_Ou"
+    "externalLinks": [],
+    "malId": 107801,
+    "deletedAt": null,
+    "authors": [
+      "Eniwa",
+      "Epo"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lee Dong Gun"
-  ],
+  "createdAt": "2020-10-12T16:05:22.000Z",
+  "updatedAt": "2021-12-03T12:17:28.000Z",
+  "checkedAt": null,
+  "id": 6248,
   "identifier": "f07757e5-d7b8-4872-99ff-c3a854960a60",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85425,
   "aniId": 86934,
-  "createdAt": "2020-10-12T16:05:22.000Z",
-  "updatedAt": "2021-12-03T12:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Dong Gun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-02-04T19:06:14.000Z",
+    "checkedAt": null,
+    "id": 85425,
+    "type": "manga",
+    "title": "A Bittersweet Life",
+    "altTitle": [
+      "달콤한 인생"
+    ],
+    "url": "https://myanimelist.net/manga/85425/A_Bittersweet_Life",
+    "image": "https://cdn.myanimelist.net/images/manga/3/148197.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "달콤한 인생"
-    ],
+    "deletedAt": null,
     "authors": [
       "Lee, Dong-Gun"
-    ],
-    "id": 85425,
-    "type": "manga",
-    "title": "A Bittersweet Life",
-    "url": "https://myanimelist.net/manga/85425/A_Bittersweet_Life",
-    "image": "https://cdn.myanimelist.net/images/manga/3/148197.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2022-02-04T19:06:14.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:05.972Z",
+    "updatedAt": "2022-05-13T12:57:05.972Z",
+    "checkedAt": null,
+    "id": 86934,
+    "type": "manga",
+    "title": "Dalkomhan Insaeng",
     "altTitle": [
       "A Bittersweet Life",
       "달콤한 인생",
       "A Sweet Life"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dong-Gun Lee"
-    ],
-    "id": 86934,
-    "malId": 85425,
-    "type": "manga",
-    "title": "Dalkomhan Insaeng",
     "url": "https://anilist.co/manga/86934",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86934-CfujkbImHol1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2022-04-07T09:00:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85425/A_Bittersweet_Life"
+    "externalLinks": [],
+    "malId": 85425,
+    "deletedAt": null,
+    "authors": [
+      "Dong-Gun Lee"
+    ]
+  }
 }

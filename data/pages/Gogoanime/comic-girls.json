@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:00:09.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17165,
   "identifier": "comic-girls",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35756,
   "aniId": 99131,
-  "createdAt": "2020-10-12T16:00:09.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:54.000Z",
+    "updatedAt": "2022-05-14T16:53:27.000Z",
+    "checkedAt": "2022-05-14T16:53:27.000Z",
+    "id": 35756,
+    "type": "anime",
+    "title": "Comic Girls",
+    "altTitle": [
+      "こみっくがーるず"
+    ],
+    "url": "https://myanimelist.net/anime/35756/Comic_Girls",
+    "image": "https://cdn.myanimelist.net/images/anime/1207/91794.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,26 +54,24 @@
         "url": "http://www.crunchyroll.com/series-276031"
       }
     ],
-    "altTitle": [
-      "こみっくがーるず"
-    ],
-    "id": 35756,
+    "deletedAt": null,
+    "anidbId": 13238
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T13:43:59.000Z",
+    "checkedAt": "2022-05-15T13:43:59.000Z",
+    "id": 99131,
     "type": "anime",
     "title": "Comic Girls",
-    "url": "https://myanimelist.net/anime/35756/Comic_Girls",
-    "image": "https://cdn.myanimelist.net/images/anime/1207/91794.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13238,
-    "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2022-04-25T15:01:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Comic Girls",
       "こみっくがーるず"
     ],
+    "url": "https://anilist.co/anime/99131",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99131-Lnr99AnA1ncY.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -69,17 +82,7 @@
         "url": "https://vrv.co/series/G64PVJGWR/Comic-Girls"
       }
     ],
-    "id": 99131,
     "malId": 35756,
-    "type": "anime",
-    "title": "Comic Girls",
-    "url": "https://anilist.co/anime/99131",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99131-Lnr99AnA1ncY.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:24.000Z",
-    "updatedAt": "2022-05-04T11:30:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/35756/Comic_Girls"
+  }
 }

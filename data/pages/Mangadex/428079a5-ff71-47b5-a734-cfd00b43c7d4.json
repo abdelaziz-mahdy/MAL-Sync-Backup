@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Asano Hajime",
-    "Eichi Yuu"
-  ],
+  "createdAt": "2020-10-12T16:06:42.000Z",
+  "updatedAt": "2021-12-03T21:51:40.000Z",
+  "checkedAt": null,
+  "id": 9057,
   "identifier": "428079a5-ff71-47b5-a734-cfd00b43c7d4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91066,
   "aniId": 95415,
-  "createdAt": "2020-10-12T16:06:42.000Z",
-  "updatedAt": "2021-12-03T21:51:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asano Hajime",
+    "Eichi Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:06.000Z",
+    "updatedAt": "2021-11-14T02:14:00.000Z",
+    "checkedAt": null,
+    "id": 91066,
+    "type": "manga",
+    "title": "Mayo Mayo!",
+    "altTitle": [
+      "まよマヨ!"
+    ],
+    "url": "https://myanimelist.net/manga/91066/Mayo_Mayo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/159855.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "まよマヨ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Eichi, Yuu"
-    ],
-    "id": 91066,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:05.387Z",
+    "updatedAt": "2022-05-13T13:00:05.387Z",
+    "checkedAt": null,
+    "id": 95415,
     "type": "manga",
     "title": "Mayo Mayo!",
-    "url": "https://myanimelist.net/manga/91066/Mayo_Mayo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/159855.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:06.000Z",
-    "updatedAt": "2021-11-14T02:14:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "まよマヨ!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Eichi"
-    ],
-    "id": 95415,
-    "malId": 91066,
-    "type": "manga",
-    "title": "Mayo Mayo!",
     "url": "https://anilist.co/manga/95415",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95415-DmrABd9awtqm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:08.000Z",
-    "updatedAt": "2021-12-18T01:25:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91066/Mayo_Mayo"
+    "externalLinks": [],
+    "malId": 91066,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Eichi"
+    ]
+  }
 }

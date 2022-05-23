@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nanba Atsuko"
-  ],
+  "createdAt": "2020-10-12T16:02:44.000Z",
+  "updatedAt": "2021-12-02T09:17:48.000Z",
+  "checkedAt": null,
+  "id": 755,
   "identifier": "4ab50336-69b0-4214-8289-28b09a7bb5c2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13188,
   "aniId": 43188,
-  "createdAt": "2020-10-12T16:02:44.000Z",
-  "updatedAt": "2021-12-02T09:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nanba Atsuko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:51.000Z",
+    "updatedAt": "2022-05-18T08:22:35.000Z",
+    "checkedAt": "2022-05-18T08:22:35.000Z",
+    "id": 13188,
+    "type": "manga",
+    "title": "Tonari no Atashi",
+    "altTitle": [
+      "Next to Me",
+      "隣のあたし"
+    ],
+    "url": "https://myanimelist.net/manga/13188/Tonari_no_Atashi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/115935.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Next to Me",
-      "隣のあたし"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nanba, Atsuko"
-    ],
-    "id": 13188,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:48.915Z",
+    "updatedAt": "2022-05-13T12:59:48.915Z",
+    "checkedAt": null,
+    "id": 43188,
     "type": "manga",
     "title": "Tonari no Atashi",
-    "url": "https://myanimelist.net/manga/13188/Tonari_no_Atashi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/115935.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:51.000Z",
-    "updatedAt": "2022-04-10T10:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "To Be Next to You",
       "隣のあたし"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Atsuko Nanba"
-    ],
-    "id": 43188,
-    "malId": 13188,
-    "type": "manga",
-    "title": "Tonari no Atashi",
     "url": "https://anilist.co/manga/43188",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13188-BUGBcWiSNU32.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:32.000Z",
-    "updatedAt": "2021-12-17T15:08:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13188/Tonari_no_Atashi"
+    "externalLinks": [],
+    "malId": 13188,
+    "deletedAt": null,
+    "authors": [
+      "Atsuko Nanba"
+    ]
+  }
 }

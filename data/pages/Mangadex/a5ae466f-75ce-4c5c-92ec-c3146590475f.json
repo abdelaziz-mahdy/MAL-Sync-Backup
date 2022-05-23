@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagano Mamoru"
-  ],
+  "createdAt": "2020-10-12T16:05:32.000Z",
+  "updatedAt": "2021-12-03T13:18:38.000Z",
+  "checkedAt": null,
+  "id": 6598,
   "identifier": "a5ae466f-75ce-4c5c-92ec-c3146590475f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12441,
   "aniId": 42441,
-  "createdAt": "2020-10-12T16:05:32.000Z",
-  "updatedAt": "2021-12-03T13:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagano Mamoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:46.000Z",
+    "updatedAt": "2022-05-16T06:25:43.000Z",
+    "checkedAt": "2022-05-16T06:25:43.000Z",
+    "id": 12441,
+    "type": "manga",
+    "title": "Fool for the City",
+    "altTitle": [
+      "FFC",
+      "フールフォーザシティ"
+    ],
+    "url": "https://myanimelist.net/manga/12441/Fool_for_the_City",
+    "image": "https://cdn.myanimelist.net/images/manga/3/17235.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FFC",
-      "フールフォーザシティ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagano, Mamoru"
-    ],
-    "id": 12441,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:45.854Z",
+    "updatedAt": "2022-05-16T06:25:42.000Z",
+    "checkedAt": "2022-05-16T06:25:42.000Z",
+    "id": 42441,
     "type": "manga",
     "title": "Fool for the City",
-    "url": "https://myanimelist.net/manga/12441/Fool_for_the_City",
-    "image": "https://cdn.myanimelist.net/images/manga/3/17235.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:46.000Z",
-    "updatedAt": "2022-05-01T03:10:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フール・フォー・ザ・シティ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mamoru Nagano"
-    ],
-    "id": 42441,
-    "malId": 12441,
-    "type": "manga",
-    "title": "Fool for the City",
     "url": "https://anilist.co/manga/42441",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12441.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:22.000Z",
-    "updatedAt": "2021-12-26T00:27:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12441/Fool_for_the_City"
+    "externalLinks": [],
+    "malId": 12441,
+    "deletedAt": null,
+    "authors": [
+      "Mamoru Nagano"
+    ]
+  }
 }

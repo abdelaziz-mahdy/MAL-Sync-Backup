@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ishinomori Shotaro",
-    "Muraeda Kenichi"
-  ],
+  "createdAt": "2020-10-12T16:04:06.000Z",
+  "updatedAt": "2021-12-02T18:48:17.000Z",
+  "checkedAt": null,
+  "id": 3625,
   "identifier": "47f2da50-d26f-4438-89d4-e5b21c8326db",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4742,
   "aniId": 34742,
-  "createdAt": "2020-10-12T16:04:06.000Z",
-  "updatedAt": "2021-12-02T18:48:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishinomori Shotaro",
+    "Muraeda Kenichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-16T22:56:12.000Z",
+    "checkedAt": "2022-05-16T22:56:12.000Z",
+    "id": 4742,
+    "type": "manga",
+    "title": "Kamen Rider Spirits",
+    "altTitle": [
+      "Masked Rider Spirits",
+      "仮面ライダーSPIRITS"
+    ],
+    "url": "https://myanimelist.net/manga/4742/Kamen_Rider_Spirits",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185785.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Masked Rider Spirits",
-      "仮面ライダーSPIRITS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou",
       "Muraeda, Kenichi"
-    ],
-    "id": 4742,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:59.383Z",
+    "updatedAt": "2022-05-16T22:56:11.000Z",
+    "checkedAt": "2022-05-16T22:56:11.000Z",
+    "id": 34742,
     "type": "manga",
     "title": "Kamen Rider Spirits",
-    "url": "https://myanimelist.net/manga/4742/Kamen_Rider_Spirits",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185785.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-04-12T08:00:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "仮面ライダーSPIRITS",
       "Masked Rider Spirits"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoutarou Ishinomori",
-      "Kenichi Muraeda"
-    ],
-    "id": 34742,
-    "malId": 4742,
-    "type": "manga",
-    "title": "Kamen Rider Spirits",
     "url": "https://anilist.co/manga/34742",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34742-LFIlGnGc1xec.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2021-12-17T12:09:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4742/Kamen_Rider_Spirits"
+    "externalLinks": [],
+    "malId": 4742,
+    "deletedAt": null,
+    "authors": [
+      "Shoutarou Ishinomori",
+      "Kenichi Muraeda"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ho"
-  ],
+  "createdAt": "2021-12-31T11:57:10.000Z",
+  "updatedAt": "2021-12-31T12:23:29.000Z",
+  "checkedAt": null,
+  "id": 94000,
   "identifier": "manga-hf984840",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125018,
   "aniId": 117580,
-  "createdAt": "2021-12-31T11:57:10.000Z",
-  "updatedAt": "2021-12-31T12:23:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:16.000Z",
+    "updatedAt": "2021-12-22T00:22:17.000Z",
+    "checkedAt": null,
+    "id": 125018,
+    "type": "manga",
+    "title": "Kuma to Tanuki",
+    "altTitle": [
+      "クマとたぬき"
+    ],
+    "url": "https://myanimelist.net/manga/125018/Kuma_to_Tanuki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/228677.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クマとたぬき"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ho"
-    ],
-    "id": 125018,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:23.433Z",
+    "updatedAt": "2022-05-13T12:49:23.433Z",
+    "checkedAt": null,
+    "id": 117580,
     "type": "manga",
     "title": "Kuma to Tanuki",
-    "url": "https://myanimelist.net/manga/125018/Kuma_to_Tanuki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/228677.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:16.000Z",
-    "updatedAt": "2021-12-22T00:22:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クマとたぬき",
       "Bear and Tanuki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ho"
-    ],
-    "id": 117580,
-    "malId": 125018,
-    "type": "manga",
-    "title": "Kuma to Tanuki",
     "url": "https://anilist.co/manga/117580",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117580-qRGDLXnBaBHE.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2021-12-18T08:55:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125018/Kuma_to_Tanuki"
+    "externalLinks": [],
+    "malId": 125018,
+    "deletedAt": null,
+    "authors": [
+      "Ho"
+    ]
+  }
 }

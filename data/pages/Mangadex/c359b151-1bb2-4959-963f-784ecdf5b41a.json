@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Inoue Toshiki",
-    "Kine Wosamu",
-    "Amemiya Keita"
-  ],
+  "createdAt": "2020-10-12T16:18:17.000Z",
+  "updatedAt": "2021-12-07T15:48:05.000Z",
+  "checkedAt": null,
+  "id": 32865,
   "identifier": "c359b151-1bb2-4959-963f-784ecdf5b41a",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59993,
   "aniId": 88951,
-  "createdAt": "2020-10-12T16:18:17.000Z",
-  "updatedAt": "2021-12-07T15:48:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inoue Toshiki",
+    "Kine Wosamu",
+    "Amemiya Keita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:55.000Z",
+    "updatedAt": "2022-05-20T02:19:49.000Z",
+    "checkedAt": "2022-05-20T02:19:49.000Z",
+    "id": 59993,
+    "type": "manga",
+    "title": "Sword Gai",
+    "altTitle": [
+      "ソードガイ 装刀凱"
+    ],
+    "url": "https://myanimelist.net/manga/59993/Sword_Gai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179170.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,45 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ソードガイ 装刀凱"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inoue, Toshiki",
       "Kine, Wosamu"
-    ],
-    "id": 59993,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:15.218Z",
+    "updatedAt": "2022-05-20T02:19:48.000Z",
+    "checkedAt": "2022-05-20T02:19:48.000Z",
+    "id": 88951,
     "type": "manga",
     "title": "Sword Gai",
-    "url": "https://myanimelist.net/manga/59993/Sword_Gai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179170.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2022-01-25T17:30:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ソードガイ 装刀凱",
       "หัตถ์ศาสตราผ่าโลกันต์"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Wosamu Kine",
-      "Toshiki Inoue"
-    ],
-    "id": 88951,
-    "malId": 59993,
-    "type": "manga",
-    "title": "Sword Gai",
     "url": "https://anilist.co/manga/88951",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88951-Ph0Y6w3E5EHS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:39.000Z",
-    "updatedAt": "2022-03-11T08:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59993/Sword_Gai"
+    "externalLinks": [],
+    "malId": 59993,
+    "deletedAt": null,
+    "authors": [
+      "Wosamu Kine",
+      "Toshiki Inoue"
+    ]
+  }
 }

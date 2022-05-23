@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:49.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9276,
   "identifier": "v7j4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59,
   "aniId": 59,
-  "createdAt": "2020-10-12T15:55:49.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:58.000Z",
+    "updatedAt": "2022-05-14T16:47:15.000Z",
+    "checkedAt": "2022-05-14T16:47:15.000Z",
+    "id": 59,
+    "type": "anime",
+    "title": "Chobits",
+    "altTitle": [
+      "Chobits",
+      "ちょびっツ"
+    ],
+    "url": "https://myanimelist.net/anime/59/Chobits",
+    "image": "https://cdn.myanimelist.net/images/anime/4/24648.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "https://www.funimation.com/shows/chobits"
       }
     ],
-    "altTitle": [
-      "Chobits",
-      "ちょびっツ"
-    ],
+    "deletedAt": null,
+    "anidbId": 12
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T11:13:47.000Z",
+    "checkedAt": "2022-05-15T11:13:47.000Z",
     "id": 59,
     "type": "anime",
     "title": "Chobits",
-    "url": "https://myanimelist.net/anime/59/Chobits",
-    "image": "https://cdn.myanimelist.net/images/anime/4/24648.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12,
-    "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2022-04-24T00:01:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Chobits",
       "ちょびっツ"
     ],
+    "url": "https://anilist.co/anime/59",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx59-0J95ZHgt4uyP.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/chobits/"
       }
     ],
-    "id": 59,
     "malId": 59,
-    "type": "anime",
-    "title": "Chobits",
-    "url": "https://anilist.co/anime/59",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx59-0J95ZHgt4uyP.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-04-13T11:30:22.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/59/Chobits"
+  }
 }

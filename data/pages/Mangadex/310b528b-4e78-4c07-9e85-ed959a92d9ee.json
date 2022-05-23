@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Koike Kazuo",
-    "Kojima Goseki"
-  ],
+  "createdAt": "2020-10-12T16:12:31.000Z",
+  "updatedAt": "2021-12-05T15:22:09.000Z",
+  "checkedAt": null,
+  "id": 21166,
   "identifier": "310b528b-4e78-4c07-9e85-ed959a92d9ee",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83605,
   "aniId": 93429,
-  "createdAt": "2020-10-12T16:12:31.000Z",
-  "updatedAt": "2021-12-05T15:22:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koike Kazuo",
+    "Kojima Goseki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:39.000Z",
+    "updatedAt": "2021-11-12T05:14:05.000Z",
+    "checkedAt": null,
+    "id": 83605,
+    "type": "manga",
+    "title": "Kawaite Sourou",
+    "altTitle": [
+      "The Thirsty Man",
+      "乾いて候"
+    ],
+    "url": "https://myanimelist.net/manga/83605/Kawaite_Sourou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/145051.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Thirsty Man",
-      "乾いて候"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koike, Kazuo",
       "Kojima, Goseki"
-    ],
-    "id": 83605,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:40.109Z",
+    "updatedAt": "2022-05-13T13:05:40.109Z",
+    "checkedAt": null,
+    "id": 93429,
     "type": "manga",
     "title": "Kawaite Sourou",
-    "url": "https://myanimelist.net/manga/83605/Kawaite_Sourou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/145051.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:39.000Z",
-    "updatedAt": "2021-11-12T05:14:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "乾いて候"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Goseki Kojima",
-      "Kazuo Koike"
-    ],
-    "id": 93429,
-    "malId": 83605,
-    "type": "manga",
-    "title": "Kawaite Sourou",
     "url": "https://anilist.co/manga/93429",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93429-ViLCyPwXCM61.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:32.000Z",
-    "updatedAt": "2021-12-18T00:53:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83605/Kawaite_Sourou"
+    "externalLinks": [],
+    "malId": 83605,
+    "deletedAt": null,
+    "authors": [
+      "Goseki Kojima",
+      "Kazuo Koike"
+    ]
+  }
 }

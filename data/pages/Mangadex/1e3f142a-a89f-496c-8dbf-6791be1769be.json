@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Goumoto"
-  ],
+  "createdAt": "2020-10-12T16:16:38.000Z",
+  "updatedAt": "2021-12-07T00:47:43.000Z",
+  "checkedAt": null,
+  "id": 29495,
   "identifier": "1e3f142a-a89f-496c-8dbf-6791be1769be",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114867,
   "aniId": 109406,
-  "createdAt": "2020-10-12T16:16:38.000Z",
-  "updatedAt": "2021-12-07T00:47:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Goumoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:36.000Z",
+    "updatedAt": "2022-05-14T21:49:05.000Z",
+    "checkedAt": "2022-05-14T21:49:05.000Z",
+    "id": 114867,
+    "type": "manga",
+    "title": "Yoru to Umi",
+    "altTitle": [
+      "The Evening and the Sea",
+      "夜と海"
+    ],
+    "url": "https://myanimelist.net/manga/114867/Yoru_to_Umi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220664.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "夜と海"
-    ],
+    "deletedAt": null,
     "authors": [
       "Goumoto"
-    ],
-    "id": 114867,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:03.127Z",
+    "updatedAt": "2022-05-15T15:31:35.000Z",
+    "checkedAt": "2022-05-15T15:31:35.000Z",
+    "id": 109406,
     "type": "manga",
     "title": "Yoru to Umi",
-    "url": "https://myanimelist.net/manga/114867/Yoru_to_Umi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/220664.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:36.000Z",
-    "updatedAt": "2021-11-22T07:12:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "夜と海",
       "Night and Sea",
       "Plongée dans la nuit"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Goumoto"
-    ],
-    "id": 109406,
-    "malId": 114867,
-    "type": "manga",
-    "title": "Yoru to Umi",
     "url": "https://anilist.co/manga/109406",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109406-yA6t3KfxTi0i.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:11.000Z",
-    "updatedAt": "2021-12-18T06:26:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114867/Yoru_to_Umi"
+    "externalLinks": [],
+    "malId": 114867,
+    "deletedAt": null,
+    "authors": [
+      "Goumoto"
+    ]
+  }
 }

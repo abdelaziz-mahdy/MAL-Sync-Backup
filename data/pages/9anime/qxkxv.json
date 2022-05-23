@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-04T15:30:51.000Z",
+  "updatedAt": "2022-04-04T16:00:21.000Z",
+  "checkedAt": null,
+  "id": 40627,
   "identifier": "qxkxv",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48857,
   "aniId": 133412,
-  "createdAt": "2022-04-04T15:30:51.000Z",
-  "updatedAt": "2022-04-04T16:00:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-12-16T15:19:55.000Z",
+    "updatedAt": "2022-05-13T23:21:22.000Z",
+    "checkedAt": "2022-05-13T23:21:22.000Z",
+    "id": 48857,
+    "type": "anime",
+    "title": "Healer Girl",
+    "altTitle": [
+      "Healer Girl",
+      "ヒーラー・ガール"
+    ],
+    "url": "https://myanimelist.net/anime/48857/Healer_Girl",
+    "image": "https://cdn.myanimelist.net/images/anime/1727/122415.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,28 +49,42 @@
         "url": "https://en.wikipedia.org/wiki/Healer_Girl"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Healer Girl",
-      "ヒーラー・ガール"
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282625"
+      },
+      {
+        "site": "aniplustv",
+        "url": "http://www.aniplustv.com/"
+      },
+      {
+        "site": "bilibiliglobal",
+        "url": "https://www.bilibili.tv/en/index"
+      },
+      {
+        "site": "laftel",
+        "url": "https://laftel.net/"
+      }
     ],
-    "id": 48857,
+    "deletedAt": null,
+    "anidbId": 16286
+  },
+  "Ani": {
+    "createdAt": "2021-05-28T00:28:42.000Z",
+    "updatedAt": "2022-05-15T09:28:11.000Z",
+    "checkedAt": "2022-05-15T09:28:11.000Z",
+    "id": 133412,
     "type": "anime",
     "title": "Healer Girl",
-    "url": "https://myanimelist.net/anime/48857/Healer_Girl",
-    "image": "https://cdn.myanimelist.net/images/anime/1727/122415.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 16286,
-    "createdAt": "2021-12-16T15:19:55.000Z",
-    "updatedAt": "2022-04-20T11:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Healer Girl",
       "ヒーラー・ガール"
     ],
+    "url": "https://anilist.co/anime/133412",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133412-C2WyI3mKHiO7.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -65,17 +95,7 @@
         "url": "https://vrv.co/series/GXJHM37WP/Healer-Girl"
       }
     ],
-    "id": 133412,
     "malId": 48857,
-    "type": "anime",
-    "title": "Healer Girl",
-    "url": "https://anilist.co/anime/133412",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133412-C2WyI3mKHiO7.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-28T00:28:42.000Z",
-    "updatedAt": "2022-04-04T22:00:21.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/48857/Healer_Girl"
+  }
 }

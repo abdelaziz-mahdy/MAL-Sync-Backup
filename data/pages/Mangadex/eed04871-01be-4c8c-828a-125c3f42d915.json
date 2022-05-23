@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watanabe Jun"
-  ],
+  "createdAt": "2020-10-12T16:02:31.000Z",
+  "updatedAt": "2021-12-02T07:47:08.000Z",
+  "checkedAt": null,
+  "id": 319,
   "identifier": "eed04871-01be-4c8c-828a-125c3f42d915",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25300,
   "aniId": 55300,
-  "createdAt": "2020-10-12T16:02:31.000Z",
-  "updatedAt": "2021-12-02T07:47:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watanabe Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:17.000Z",
+    "updatedAt": "2022-05-18T00:36:51.000Z",
+    "checkedAt": "2022-05-18T00:36:51.000Z",
+    "id": 25300,
+    "type": "manga",
+    "title": "RRR",
+    "altTitle": [
+      "Rock 'n' Roll Ricky",
+      "RRR ロックンロールリッキー"
+    ],
+    "url": "https://myanimelist.net/manga/25300/RRR",
+    "image": "https://cdn.myanimelist.net/images/manga/5/137911.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rock 'n' Roll Ricky",
-      "RRR ロックンロールリッキー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Jun"
-    ],
-    "id": 25300,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:51.406Z",
+    "updatedAt": "2022-05-18T00:36:50.000Z",
+    "checkedAt": "2022-05-18T00:36:50.000Z",
+    "id": 55300,
     "type": "manga",
     "title": "RRR",
-    "url": "https://myanimelist.net/manga/25300/RRR",
-    "image": "https://cdn.myanimelist.net/images/manga/5/137911.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:17.000Z",
-    "updatedAt": "2021-12-03T21:47:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロックンロールリッキー",
       "Rock 'n' Roll Ricky"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Watanabe"
-    ],
-    "id": 55300,
-    "malId": 25300,
-    "type": "manga",
-    "title": "RRR",
     "url": "https://anilist.co/manga/55300",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55300-zJUMLwc3fEni.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:53.000Z",
-    "updatedAt": "2021-12-17T18:35:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25300/RRR"
+    "externalLinks": [],
+    "malId": 25300,
+    "deletedAt": null,
+    "authors": [
+      "Jun Watanabe"
+    ]
+  }
 }

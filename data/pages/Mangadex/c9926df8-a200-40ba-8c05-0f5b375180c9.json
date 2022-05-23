@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujimoto Tatsuki"
-  ],
+  "createdAt": "2022-04-11T20:08:06.000Z",
+  "updatedAt": "2022-04-11T20:08:07.000Z",
+  "checkedAt": null,
+  "id": 101145,
   "identifier": "c9926df8-a200-40ba-8c05-0f5b375180c9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 145863,
   "aniId": 146983,
-  "createdAt": "2022-04-11T20:08:06.000Z",
-  "updatedAt": "2022-04-11T20:08:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujimoto Tatsuki"
+  ],
   "Mal": {
+    "createdAt": "2022-04-10T16:01:35.000Z",
+    "updatedAt": "2022-05-13T21:35:30.000Z",
+    "checkedAt": "2022-05-13T21:35:30.000Z",
+    "id": 145863,
+    "type": "manga",
+    "title": "Sayonara Eri",
+    "altTitle": [
+      "Goodbye, Eri",
+      "さよなら絵梨"
+    ],
+    "url": "https://myanimelist.net/manga/145863/Sayonara_Eri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258316.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,30 +41,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Goodbye, Eri",
-      "さよなら絵梨"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujimoto, Tatsuki"
-    ],
-    "id": 145863,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:40.878Z",
+    "updatedAt": "2022-05-15T14:30:47.000Z",
+    "checkedAt": "2022-05-15T14:30:47.000Z",
+    "id": 146983,
     "type": "manga",
     "title": "Sayonara Eri",
-    "url": "https://myanimelist.net/manga/145863/Sayonara_Eri",
-    "image": "https://cdn.myanimelist.net/images/manga/3/258316.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2022-04-10T16:01:35.000Z",
-    "updatedAt": "2022-04-10T16:01:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Goodbye, Eri",
       "さよなら絵梨",
       "Adiós, Eri"
     ],
+    "url": "https://anilist.co/manga/146983",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b146983-ciWCexV2HxdQ.jpg",
+    "category": "one_shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
@@ -59,6 +72,8 @@
         "url": "https://mangaplus.shueisha.co.jp/titles/200093"
       }
     ],
+    "malId": 145863,
+    "deletedAt": null,
     "authors": [
       "Tatsuki Fujimoto",
       "Tooru Kuramori",
@@ -69,18 +84,6 @@
       "Amanda Haley",
       "Snir Aharon",
       "Kai Kyou"
-    ],
-    "id": 146983,
-    "malId": 145863,
-    "type": "manga",
-    "title": "Sayonara Eri",
-    "url": "https://anilist.co/manga/146983",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b146983-ciWCexV2HxdQ.jpg",
-    "category": "one_shot",
-    "hentai": false,
-    "createdAt": "2022-04-03T15:30:25.000Z",
-    "updatedAt": "2022-04-12T00:07:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/145863/Sayonara_Eri"
+    ]
+  }
 }

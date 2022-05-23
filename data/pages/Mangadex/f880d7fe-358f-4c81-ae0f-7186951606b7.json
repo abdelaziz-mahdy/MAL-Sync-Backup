@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Uroaki Sabishi"
-  ],
+  "createdAt": "2020-10-12T16:03:06.000Z",
+  "updatedAt": "2021-12-02T11:49:29.000Z",
+  "checkedAt": null,
+  "id": 1531,
   "identifier": "f880d7fe-358f-4c81-ae0f-7186951606b7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30581,
   "aniId": 60581,
-  "createdAt": "2020-10-12T16:03:06.000Z",
-  "updatedAt": "2021-12-02T11:49:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Uroaki Sabishi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.kadokawa.co.jp/comic/bk_detail.php?pcd=200708000059"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-11-04T23:35:01.000Z",
+    "checkedAt": null,
+    "id": 30581,
+    "type": "manga",
+    "title": "Ganota no Onna",
     "altTitle": [
       "Gundam Otaku Girl",
       "Gunota no Onna",
@@ -32,21 +33,29 @@
       "Gunota Girl",
       "ガンオタの女"
     ],
-    "authors": [
-      "Uroaki, Sabishi"
-    ],
-    "id": 30581,
-    "type": "manga",
-    "title": "Ganota no Onna",
     "url": "https://myanimelist.net/manga/30581/Ganota_no_Onna",
     "image": "https://cdn.myanimelist.net/images/manga/2/59411.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-11-04T23:35:01.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kadokawa.co.jp/comic/bk_detail.php?pcd=200708000059"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uroaki, Sabishi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:30.187Z",
+    "updatedAt": "2022-05-13T12:58:30.187Z",
+    "checkedAt": null,
+    "id": 60581,
+    "type": "manga",
+    "title": "Ganota no Onna",
     "altTitle": [
       "ガンオタの女",
       "Gundam Otaku Girl",
@@ -54,21 +63,15 @@
       "Ganota Girl",
       "Gunota Girl"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sabishi Uroaki"
-    ],
-    "id": 60581,
-    "malId": 30581,
-    "type": "manga",
-    "title": "Ganota no Onna",
     "url": "https://anilist.co/manga/60581",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30581.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:07:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30581/Ganota_no_Onna"
+    "externalLinks": [],
+    "malId": 30581,
+    "deletedAt": null,
+    "authors": [
+      "Sabishi Uroaki"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oh! Great"
-  ],
+  "createdAt": "2021-07-21T00:35:32.000Z",
+  "updatedAt": "2022-01-21T01:30:12.000Z",
+  "checkedAt": null,
+  "id": 82647,
   "identifier": "manga-ya959035",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 73,
   "aniId": 30073,
-  "createdAt": "2021-07-21T00:35:32.000Z",
-  "updatedAt": "2022-01-21T01:30:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oh! Great"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8A%E5%A4%A9%E4%B8%8B"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T22:30:28.000Z",
+    "checkedAt": "2022-05-15T22:30:28.000Z",
+    "id": 73,
+    "type": "manga",
+    "title": "Tenjou Tenge",
     "altTitle": [
       "Tenjo Tenge",
       "TenTen",
@@ -32,21 +33,29 @@
       "Tenjho Tenge",
       "天上天下"
     ],
-    "authors": [
-      "Oh! Great"
-    ],
-    "id": 73,
-    "type": "manga",
-    "title": "Tenjou Tenge",
     "url": "https://myanimelist.net/manga/73/Tenjou_Tenge",
     "image": "https://cdn.myanimelist.net/images/manga/3/57219.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-05-03T00:08:40.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B8%8A%E5%A4%A9%E4%B8%8B"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oh! Great"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:27.093Z",
+    "updatedAt": "2022-05-18T08:59:20.000Z",
+    "checkedAt": "2022-05-18T08:59:20.000Z",
+    "id": 30073,
+    "type": "manga",
+    "title": "Tenjou Tenge",
     "altTitle": [
       "Tenjo Tenge",
       "天上天下",
@@ -56,7 +65,13 @@
       "Inferno e paradiso",
       "Tenjho Tenge"
     ],
+    "url": "https://anilist.co/manga/30073",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30073-yWexDmfmuxrX.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 73,
+    "deletedAt": null,
     "authors": [
       "Ito Oogure",
       "Matthias Wissnet",
@@ -68,18 +83,6 @@
       "Ángel-Manuel Ybáñez",
       "Narcís Lozano Drago",
       "Fran Briggs"
-    ],
-    "id": 30073,
-    "malId": 73,
-    "type": "manga",
-    "title": "Tenjou Tenge",
-    "url": "https://anilist.co/manga/30073",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30073-yWexDmfmuxrX.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2022-03-09T09:59:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/73/Tenjou_Tenge"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kagami Yuuma"
-  ],
+  "createdAt": "2020-10-12T16:10:01.000Z",
+  "updatedAt": "2021-12-04T21:53:02.000Z",
+  "checkedAt": null,
+  "id": 16214,
   "identifier": "bde0ffb6-e65e-4423-9ea6-2ef9346c221b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100165,
   "aniId": 97653,
-  "createdAt": "2020-10-12T16:10:01.000Z",
-  "updatedAt": "2021-12-04T21:53:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kagami Yuuma"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:39.000Z",
+    "updatedAt": "2022-05-22T15:51:26.000Z",
+    "checkedAt": "2022-05-22T15:51:26.000Z",
+    "id": 100165,
+    "type": "manga",
+    "title": "Yuizaki-san wa Nageru!",
+    "altTitle": [
+      "Yuizaki Throws!",
+      "結崎さんはなげる！"
+    ],
+    "url": "https://myanimelist.net/manga/100165/Yuizaki-san_wa_Nageru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191158.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yuizaki Throws!",
-      "結崎さんはなげる！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kagami, Yuuma"
-    ],
-    "id": 100165,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:04.589Z",
+    "updatedAt": "2022-05-22T15:51:25.000Z",
+    "checkedAt": "2022-05-22T15:51:25.000Z",
+    "id": 97653,
     "type": "manga",
     "title": "Yuizaki-san wa Nageru!",
-    "url": "https://myanimelist.net/manga/100165/Yuizaki-san_wa_Nageru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/191158.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:39.000Z",
-    "updatedAt": "2021-11-04T03:37:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "結崎さんはなげる！",
       "Yuizaki-san Throws!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuma Kagami"
-    ],
-    "id": 97653,
-    "malId": 100165,
-    "type": "manga",
-    "title": "Yuizaki-san wa Nageru!",
     "url": "https://anilist.co/manga/97653",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97653-rMfpoezmIhWI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2021-12-18T02:01:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100165/Yuizaki-san_wa_Nageru"
+    "externalLinks": [],
+    "malId": 100165,
+    "deletedAt": null,
+    "authors": [
+      "Yuuma Kagami"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Clamp",
-    "Hatano Hiyoko"
-  ],
+  "createdAt": "2020-10-12T16:12:03.000Z",
+  "updatedAt": "2021-12-05T13:18:38.000Z",
+  "checkedAt": null,
+  "id": 20587,
   "identifier": "6064bd50-0dc0-45d5-aedc-245ab668c8ed",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3309,
   "aniId": 33309,
-  "createdAt": "2020-10-12T16:12:03.000Z",
-  "updatedAt": "2021-12-05T13:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp",
+    "Hatano Hiyoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:50.000Z",
+    "updatedAt": "2022-05-20T11:29:22.000Z",
+    "checkedAt": "2022-05-20T11:29:22.000Z",
+    "id": 3309,
+    "type": "manga",
+    "title": "Sweet Valerian",
+    "altTitle": [
+      "Sweet Vallerian",
+      "Sweet Valerian",
+      "スウィート・ヴァレリアン"
+    ],
+    "url": "https://myanimelist.net/manga/3309/Sweet_Valerian",
+    "image": "https://cdn.myanimelist.net/images/manga/2/3645.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sweet Vallerian",
-      "Sweet Valerian",
-      "スウィート・ヴァレリアン"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP",
       "Hatano, Hiyoko"
-    ],
-    "id": 3309,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:39.221Z",
+    "updatedAt": "2022-05-20T11:29:21.000Z",
+    "checkedAt": "2022-05-20T11:29:21.000Z",
+    "id": 33309,
     "type": "manga",
     "title": "Sweet Valerian",
-    "url": "https://myanimelist.net/manga/3309/Sweet_Valerian",
-    "image": "https://cdn.myanimelist.net/images/manga/2/3645.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:50.000Z",
-    "updatedAt": "2022-04-28T03:00:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
+      "Sweet Valerian",
       "スウィート・ヴァレリアン",
       "Sweet Vallerian"
     ],
-    "externalLinks": [],
-    "authors": [
-      "CLAMP",
-      "Hiyoko Hatano",
-      "CLAMP"
-    ],
-    "id": 33309,
-    "malId": 3309,
-    "type": "manga",
-    "title": "Sweet Valerian",
     "url": "https://anilist.co/manga/33309",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3309.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:07.000Z",
-    "updatedAt": "2022-05-20T19:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3309/Sweet_Valerian"
+    "externalLinks": [],
+    "malId": 3309,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP",
+      "Hiyoko Hatano"
+    ]
+  }
 }

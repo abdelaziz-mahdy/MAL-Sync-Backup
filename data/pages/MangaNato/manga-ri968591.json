@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Min Min"
-  ],
+  "createdAt": "2022-02-12T07:39:37.000Z",
+  "updatedAt": "2022-02-12T08:09:37.000Z",
+  "checkedAt": null,
+  "id": 96103,
   "identifier": "manga-ri968591",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5178,
   "aniId": 35178,
-  "createdAt": "2022-02-12T07:39:37.000Z",
-  "updatedAt": "2022-02-12T08:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Min Min"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン_学園堕天録"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:03.000Z",
+    "updatedAt": "2022-05-15T21:45:34.000Z",
+    "checkedAt": "2022-05-15T21:45:34.000Z",
+    "id": 5178,
+    "type": "manga",
+    "title": "Neon Genesis Evangelion: Campus Apocalypse",
     "altTitle": [
       "Neon Genesis Evangelion: Gakuen Datenroku",
       "Neon Genesis Evangelion Academy: Record of Heaven's Decent",
@@ -32,21 +33,29 @@
       "Neon Genesis Evangelion: Campus Apocalypse",
       "新世紀エヴァンゲリオン 学園堕天録"
     ],
-    "authors": [
-      "Min, Min"
-    ],
-    "id": 5178,
-    "type": "manga",
-    "title": "Neon Genesis Evangelion: Campus Apocalypse",
     "url": "https://myanimelist.net/manga/5178/Neon_Genesis_Evangelion__Campus_Apocalypse",
     "image": "https://cdn.myanimelist.net/images/manga/4/30773.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:03.000Z",
-    "updatedAt": "2022-02-12T07:40:38.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン_学園堕天録"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Min, Min"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:07.065Z",
+    "updatedAt": "2022-05-15T22:21:47.000Z",
+    "checkedAt": "2022-05-15T22:21:47.000Z",
+    "id": 35178,
+    "type": "manga",
+    "title": "Neon Genesis Evangelion: Gakuen Datenroku",
     "altTitle": [
       "Neon Genesis Evangelion: Campus Apocalypse",
       "新世紀エヴァンゲリオン 学園堕天録",
@@ -54,21 +63,15 @@
       "Neon Genesis Evangelion - Cronache Degli Angeli Caduti",
       "Academia Neogénesis Evangelion: Apocalipsis"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Min Min"
-    ],
-    "id": 35178,
-    "malId": 5178,
-    "type": "manga",
-    "title": "Neon Genesis Evangelion: Gakuen Datenroku",
     "url": "https://anilist.co/manga/35178",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5178.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:25.000Z",
-    "updatedAt": "2021-12-17T12:15:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5178/Neon_Genesis_Evangelion__Campus_Apocalypse"
+    "externalLinks": [],
+    "malId": 5178,
+    "deletedAt": null,
+    "authors": [
+      "Min Min"
+    ]
+  }
 }

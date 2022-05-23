@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Komi Naoshi"
-  ],
+  "createdAt": "2021-06-04T17:51:18.000Z",
+  "updatedAt": "2022-03-29T17:00:32.000Z",
+  "checkedAt": null,
+  "id": 76546,
   "identifier": "manga-kw951979",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 31499,
   "aniId": 61499,
-  "createdAt": "2021-06-04T17:51:18.000Z",
-  "updatedAt": "2022-03-29T17:00:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komi Naoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:43.000Z",
+    "updatedAt": "2022-05-14T20:29:53.000Z",
+    "checkedAt": "2022-05-14T20:29:53.000Z",
+    "id": 31499,
+    "type": "manga",
+    "title": "Nisekoi",
+    "altTitle": [
+      "Nisekoi: False Love",
+      "ニセコイ"
+    ],
+    "url": "https://myanimelist.net/manga/31499/Nisekoi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/181212.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,40 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nisekoi: False Love",
-      "ニセコイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Komi, Naoshi"
-    ],
-    "id": 31499,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:49.343Z",
+    "updatedAt": "2022-05-15T18:50:23.000Z",
+    "checkedAt": "2022-05-15T18:50:23.000Z",
+    "id": 61499,
     "type": "manga",
     "title": "Nisekoi",
-    "url": "https://myanimelist.net/manga/31499/Nisekoi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/181212.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:43.000Z",
-    "updatedAt": "2022-05-01T13:02:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Nisekoi: False Love",
       "ニセコイ",
       " รักลวงป่วนใจ"
     ],
-    "externalLinks": [],
+    "url": "https://anilist.co/manga/61499",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61499-aXInaLRa6xv5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/100019"
+      }
+    ],
+    "malId": 31499,
+    "deletedAt": null,
     "authors": [
       "Naoshi Komi",
       "Tomohiro Hasegawa",
       "Ippei Gotou",
       "Fernando Mucioli"
-    ],
-    "id": 61499,
-    "malId": 31499,
-    "type": "manga",
-    "title": "Nisekoi",
-    "url": "https://anilist.co/manga/61499",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61499-aXInaLRa6xv5.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:47:47.000Z",
-    "updatedAt": "2022-03-19T11:19:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/31499/Nisekoi"
+    ]
+  }
 }

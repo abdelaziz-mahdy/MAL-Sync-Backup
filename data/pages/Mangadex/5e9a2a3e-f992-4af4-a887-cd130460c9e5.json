@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itagaki Keisuke"
-  ],
+  "createdAt": "2020-10-12T16:14:02.000Z",
+  "updatedAt": "2021-12-06T02:18:21.000Z",
+  "checkedAt": null,
+  "id": 24091,
   "identifier": "5e9a2a3e-f992-4af4-a887-cd130460c9e5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115749,
   "aniId": 108066,
-  "createdAt": "2020-10-12T16:14:02.000Z",
-  "updatedAt": "2021-12-06T02:18:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itagaki Keisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2022-05-15T07:26:57.000Z",
+    "checkedAt": "2022-05-15T07:26:57.000Z",
+    "id": 115749,
+    "type": "manga",
+    "title": "Baki-dou",
+    "altTitle": [
+      "Baki-dou 2",
+      "Baki-dou (2018)",
+      "Baki's Path II",
+      "バキ道"
+    ],
+    "url": "https://myanimelist.net/manga/115749/Baki-dou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219874.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Baki-dou 2",
-      "Baki-dou (2018)",
-      "Baki's Path II",
-      "バキ道"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itagaki, Keisuke"
-    ],
-    "id": 115749,
-    "type": "manga",
-    "title": "Baki-dou",
-    "url": "https://myanimelist.net/manga/115749/Baki-dou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219874.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2022-04-16T17:01:48.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:08.920Z",
+    "updatedAt": "2022-05-15T17:39:47.000Z",
+    "checkedAt": "2022-05-15T17:39:47.000Z",
+    "id": 108066,
+    "type": "manga",
+    "title": "Baki Dou (2018)",
     "altTitle": [
       "Baki Dou (2018)",
       "バキ道",
       "Baki's Path",
       "The Way of Baki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keisuke Itagaki"
-    ],
-    "id": 108066,
-    "malId": 115749,
-    "type": "manga",
-    "title": "Baki Dou (2018)",
     "url": "https://anilist.co/manga/108066",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108066-xTDrhtY5HsbP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:20.000Z",
-    "updatedAt": "2021-12-18T05:57:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115749/Baki-dou"
+    "externalLinks": [],
+    "malId": 115749,
+    "deletedAt": null,
+    "authors": [
+      "Keisuke Itagaki"
+    ]
+  }
 }

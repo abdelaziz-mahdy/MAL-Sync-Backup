@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:22.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7643,
   "identifier": "oqzy",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33668,
   "aniId": 21873,
-  "createdAt": "2020-10-12T15:54:22.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:47.000Z",
+    "updatedAt": "2022-05-14T18:19:17.000Z",
+    "checkedAt": "2022-05-14T18:19:17.000Z",
+    "id": 33668,
+    "type": "anime",
+    "title": "Soushin Shoujo Matoi",
+    "altTitle": [
+      "Matoi the Sacred Slayer",
+      "装神少女まとい"
+    ],
+    "url": "https://myanimelist.net/anime/33668/Soushin_Shoujo_Matoi",
+    "image": "https://cdn.myanimelist.net/images/anime/6/83224.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "https://www.hidive.com/tv/matoi-the-sacred-slayer"
       }
     ],
-    "altTitle": [
-      "Matoi the Sacred Slayer",
-      "装神少女まとい"
-    ],
-    "id": 33668,
+    "deletedAt": null,
+    "anidbId": 12273
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2022-05-15T15:14:59.000Z",
+    "checkedAt": "2022-05-15T15:14:59.000Z",
+    "id": 21873,
     "type": "anime",
     "title": "Soushin Shoujo Matoi",
-    "url": "https://myanimelist.net/anime/33668/Soushin_Shoujo_Matoi",
-    "image": "https://cdn.myanimelist.net/images/anime/6/83224.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12273,
-    "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2022-04-03T13:01:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Matoi the Sacred Slayer",
       "装神少女まとい"
     ],
+    "url": "https://anilist.co/anime/21873",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21873-oIbHpgBRuNa6.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/GRQWM087R/Matoi-the-Sacred-Slayer"
       }
     ],
-    "id": 21873,
     "malId": 33668,
-    "type": "anime",
-    "title": "Soushin Shoujo Matoi",
-    "url": "https://anilist.co/anime/21873",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21873-oIbHpgBRuNa6.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:09.000Z",
-    "updatedAt": "2021-12-11T10:03:41.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/33668/Soushin_Shoujo_Matoi"
+  }
 }

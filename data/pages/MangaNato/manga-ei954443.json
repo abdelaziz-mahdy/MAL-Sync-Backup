@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morino Mei"
-  ],
+  "createdAt": "2021-06-04T20:20:59.000Z",
+  "updatedAt": "2021-12-04T21:23:20.000Z",
+  "checkedAt": null,
+  "id": 76564,
   "identifier": "manga-ei954443",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88639,
   "aniId": 87350,
-  "createdAt": "2021-06-04T20:20:59.000Z",
-  "updatedAt": "2021-12-04T21:23:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morino Mei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2022-05-14T19:07:47.000Z",
+    "checkedAt": "2022-05-14T19:07:47.000Z",
+    "id": 88639,
+    "type": "manga",
+    "title": "Ohayou, Ibarahime",
+    "altTitle": [
+      "Good Morning, Little Briar-Rose",
+      "Wake Up, Sleeping Beauty",
+      "おはよう、いばら姫"
+    ],
+    "url": "https://myanimelist.net/manga/88639/Ohayou_Ibarahime",
+    "image": "https://cdn.myanimelist.net/images/manga/3/164641.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Good Morning, Little Briar-Rose",
-      "Wake Up, Sleeping Beauty",
-      "おはよう、いばら姫"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morino, Megumi"
-    ],
-    "id": 88639,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:01.078Z",
+    "updatedAt": "2022-05-15T17:27:11.000Z",
+    "checkedAt": "2022-05-15T17:27:11.000Z",
+    "id": 87350,
     "type": "manga",
     "title": "Ohayou, Ibarahime",
-    "url": "https://myanimelist.net/manga/88639/Ohayou_Ibarahime",
-    "image": "https://cdn.myanimelist.net/images/manga/3/164641.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:58.000Z",
-    "updatedAt": "2022-04-27T05:02:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Wake up, Sleeping Beauty",
       "おはよう、いばら姫",
@@ -53,23 +62,17 @@
       "Buenos Días, Bella Durmiente",
       "Zbudź się, Śpiąca królewno"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Megumi Morino",
-      "Miyako Slocombe",
-      "Isabelle Bovey"
-    ],
-    "id": 87350,
-    "malId": 88639,
-    "type": "manga",
-    "title": "Ohayou, Ibarahime",
     "url": "https://anilist.co/manga/87350",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87350-MOmoHELzv3uf.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:55.000Z",
-    "updatedAt": "2022-02-10T20:10:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88639/Ohayou_Ibarahime"
+    "externalLinks": [],
+    "malId": 88639,
+    "deletedAt": null,
+    "authors": [
+      "Megumi Morino",
+      "Miyako Slocombe",
+      "Isabelle Bovey"
+    ]
+  }
 }

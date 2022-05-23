@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Izumi Mitsu"
-  ],
+  "createdAt": "2020-10-12T16:07:56.000Z",
+  "updatedAt": "2021-12-04T06:47:59.000Z",
+  "checkedAt": null,
+  "id": 11664,
   "identifier": "d5de8776-be99-42bd-92b1-ba568c31407b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77665,
   "aniId": 85854,
-  "createdAt": "2020-10-12T16:07:56.000Z",
-  "updatedAt": "2021-12-04T06:47:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Izumi Mitsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2022-05-16T18:02:44.000Z",
+    "checkedAt": "2022-05-16T18:02:44.000Z",
+    "id": 77665,
+    "type": "manga",
+    "title": "7th Garden",
+    "altTitle": [
+      "7th Garden",
+      "7thGARDEN"
+    ],
+    "url": "https://myanimelist.net/manga/77665/7th_Garden",
+    "image": "https://cdn.myanimelist.net/images/manga/3/154271.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +45,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "7th Garden",
-      "7thGARDEN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Izumi, Mitsu"
-    ],
-    "id": 77665,
-    "type": "manga",
-    "title": "7th Garden",
-    "url": "https://myanimelist.net/manga/77665/7th_Garden",
-    "image": "https://cdn.myanimelist.net/images/manga/3/154271.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2022-03-15T18:29:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:01.125Z",
+    "updatedAt": "2022-05-16T18:02:43.000Z",
+    "checkedAt": "2022-05-16T18:02:43.000Z",
+    "id": 85854,
+    "type": "manga",
+    "title": "7thGARDEN",
     "altTitle": [
       "7thGARDEN",
       "7thGARDEN",
       "セブンスガーデン",
       "7th Garden"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsu Izumi",
-      "Tetsuichiro Miyaki"
-    ],
-    "id": 85854,
-    "malId": 77665,
-    "type": "manga",
-    "title": "7thGARDEN",
     "url": "https://anilist.co/manga/85854",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85854-KhI8iqRYmsp4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:51.000Z",
-    "updatedAt": "2022-03-04T04:40:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77665/7th_Garden"
+    "externalLinks": [],
+    "malId": 77665,
+    "deletedAt": null,
+    "authors": [
+      "Mitsu Izumi",
+      "Tetsuichiro Miyaki"
+    ]
+  }
 }

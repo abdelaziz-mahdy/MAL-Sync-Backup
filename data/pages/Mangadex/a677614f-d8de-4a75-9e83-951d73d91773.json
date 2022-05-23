@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshino Mari"
-  ],
+  "createdAt": "2020-10-12T16:10:43.000Z",
+  "updatedAt": "2021-12-05T09:48:42.000Z",
+  "checkedAt": null,
+  "id": 17719,
   "identifier": "a677614f-d8de-4a75-9e83-951d73d91773",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124443,
   "aniId": 110086,
-  "createdAt": "2020-10-12T16:10:43.000Z",
-  "updatedAt": "2021-12-05T09:48:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshino Mari"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:13.000Z",
+    "updatedAt": "2022-05-17T17:34:04.000Z",
+    "checkedAt": "2022-05-17T17:34:04.000Z",
+    "id": 124443,
+    "type": "manga",
+    "title": "Made in Honey",
+    "altTitle": [
+      "Maid in Honey",
+      "メイド・イン・ハニー"
+    ],
+    "url": "https://myanimelist.net/manga/124443/Made_in_Honey",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227030.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Maid in Honey",
-      "メイド・イン・ハニー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshino, Mari"
-    ],
-    "id": 124443,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:06.097Z",
+    "updatedAt": "2022-05-17T17:34:03.000Z",
+    "checkedAt": "2022-05-17T17:34:02.000Z",
+    "id": 110086,
     "type": "manga",
     "title": "Made in Honey",
-    "url": "https://myanimelist.net/manga/124443/Made_in_Honey",
-    "image": "https://cdn.myanimelist.net/images/manga/3/227030.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:13.000Z",
-    "updatedAt": "2021-12-05T03:48:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Maid in Honey",
       "メイド・イン・ハニー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mari Yoshino"
-    ],
-    "id": 110086,
-    "malId": 124443,
-    "type": "manga",
-    "title": "Made in Honey",
     "url": "https://anilist.co/manga/110086",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110086-BaoDPHCRWHuo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:04.000Z",
-    "updatedAt": "2021-12-18T06:50:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124443/Made_in_Honey"
+    "externalLinks": [],
+    "malId": 124443,
+    "deletedAt": null,
+    "authors": [
+      "Mari Yoshino"
+    ]
+  }
 }

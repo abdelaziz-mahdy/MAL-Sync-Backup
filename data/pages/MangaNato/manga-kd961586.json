@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katayama Kentarou"
-  ],
+  "createdAt": "2022-02-21T06:18:21.000Z",
+  "updatedAt": "2022-02-21T06:46:51.000Z",
+  "checkedAt": null,
+  "id": 96502,
   "identifier": "manga-kd961586",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3415,
   "aniId": 33415,
-  "createdAt": "2022-02-21T06:18:21.000Z",
-  "updatedAt": "2022-02-21T06:46:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katayama Kentarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:51.000Z",
+    "updatedAt": "2022-04-27T16:31:36.000Z",
+    "checkedAt": null,
+    "id": 3415,
+    "type": "manga",
+    "title": "Kure-nai",
+    "altTitle": [
+      "Kurenai",
+      "紅 kure-nai"
+    ],
+    "url": "https://myanimelist.net/manga/3415/Kure-nai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/147269.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kurenai",
-      "紅 kure-nai"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katayama, Kentarou",
       "Yamamoto, Yamato",
       "Furuya, Daisuke"
-    ],
-    "id": 3415,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:44.325Z",
+    "updatedAt": "2022-05-13T12:55:44.325Z",
+    "checkedAt": null,
+    "id": 33415,
     "type": "manga",
     "title": "Kure-nai",
-    "url": "https://myanimelist.net/manga/3415/Kure-nai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/147269.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:51.000Z",
-    "updatedAt": "2022-04-27T16:31:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "紅 kure-nai",
       "Kurenai",
       "Deep Red Crimson"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kentarou Katayama",
-      "Yamato Yamamoto"
-    ],
-    "id": 33415,
-    "malId": 3415,
-    "type": "manga",
-    "title": "Kure-nai",
     "url": "https://anilist.co/manga/33415",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33415-r5XM1pVVVf4q.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:08.000Z",
-    "updatedAt": "2021-12-17T11:14:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3415/Kure-nai"
+    "externalLinks": [],
+    "malId": 3415,
+    "deletedAt": null,
+    "authors": [
+      "Kentarou Katayama",
+      "Yamato Yamamoto"
+    ]
+  }
 }

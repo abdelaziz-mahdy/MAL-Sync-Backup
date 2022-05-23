@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tamiko (Paseri)"
-  ],
+  "createdAt": "2020-10-12T16:14:37.000Z",
+  "updatedAt": "2021-12-06T06:48:52.000Z",
+  "checkedAt": null,
+  "id": 25306,
   "identifier": "ede6b418-4ff5-4f11-96dd-f647c6f40dce",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41083,
   "aniId": 71083,
-  "createdAt": "2020-10-12T16:14:37.000Z",
-  "updatedAt": "2021-12-06T06:48:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tamiko (Paseri)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:08.000Z",
+    "updatedAt": "2022-03-14T17:29:52.000Z",
+    "checkedAt": null,
+    "id": 41083,
+    "type": "manga",
+    "title": "Senran Kagura: Spark!",
+    "altTitle": [
+      "閃乱カグラ Spark！"
+    ],
+    "url": "https://myanimelist.net/manga/41083/Senran_Kagura__Spark",
+    "image": "https://cdn.myanimelist.net/images/manga/2/86267.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "閃乱カグラ Spark！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takaki, Kenichirou",
       "Tanabe, Kyou"
-    ],
-    "id": 41083,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:56.731Z",
+    "updatedAt": "2022-05-13T12:58:56.731Z",
+    "checkedAt": null,
+    "id": 71083,
     "type": "manga",
     "title": "Senran Kagura: Spark!",
-    "url": "https://myanimelist.net/manga/41083/Senran_Kagura__Spark",
-    "image": "https://cdn.myanimelist.net/images/manga/2/86267.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:08.000Z",
-    "updatedAt": "2022-03-14T17:29:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "閃乱カグラ Spark!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenichirou Takaki",
-      "Kyou Tanabe"
-    ],
-    "id": 71083,
-    "malId": 41083,
-    "type": "manga",
-    "title": "Senran Kagura: Spark!",
     "url": "https://anilist.co/manga/71083",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41083.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:47.000Z",
-    "updatedAt": "2021-12-17T20:23:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41083/Senran_Kagura__Spark"
+    "externalLinks": [],
+    "malId": 41083,
+    "deletedAt": null,
+    "authors": [
+      "Kenichirou Takaki",
+      "Kyou Tanabe"
+    ]
+  }
 }

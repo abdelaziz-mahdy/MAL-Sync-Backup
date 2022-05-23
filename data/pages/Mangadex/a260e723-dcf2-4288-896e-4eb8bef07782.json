@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takeuchi Naoko"
-  ],
+  "createdAt": "2020-10-12T16:02:43.000Z",
+  "updatedAt": "2021-12-02T09:17:28.000Z",
+  "checkedAt": null,
+  "id": 725,
   "identifier": "a260e723-dcf2-4288-896e-4eb8bef07782",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2581,
   "aniId": 32581,
-  "createdAt": "2020-10-12T16:02:43.000Z",
-  "updatedAt": "2021-12-02T09:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeuchi Naoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:44.000Z",
+    "updatedAt": "2022-05-15T21:20:27.000Z",
+    "checkedAt": "2022-05-15T21:20:27.000Z",
+    "id": 2581,
+    "type": "manga",
+    "title": "Maria",
+    "altTitle": [
+      "Ma-ri-a",
+      "MA．RI．A",
+      "ま・り・あ"
+    ],
+    "url": "https://myanimelist.net/manga/2581/Maria",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179784.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ma-ri-a",
-      "MA．RI．A",
-      "ま・り・あ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takeuchi, Naoko"
-    ],
-    "id": 2581,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:20.850Z",
+    "updatedAt": "2022-05-15T22:12:59.000Z",
+    "checkedAt": "2022-05-15T22:12:59.000Z",
+    "id": 32581,
     "type": "manga",
     "title": "Maria",
-    "url": "https://myanimelist.net/manga/2581/Maria",
-    "image": "https://cdn.myanimelist.net/images/manga/3/179784.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:44.000Z",
-    "updatedAt": "2022-01-24T21:00:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ま・り・あ",
       "Ma-ri-a",
       "MA．RI．A"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoko Takeuchi"
-    ],
-    "id": 32581,
-    "malId": 2581,
-    "type": "manga",
-    "title": "Maria",
     "url": "https://anilist.co/manga/32581",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32581-4l9Itxzw2Qbk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:12.000Z",
-    "updatedAt": "2021-12-17T10:44:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2581/Maria"
+    "externalLinks": [],
+    "malId": 2581,
+    "deletedAt": null,
+    "authors": [
+      "Naoko Takeuchi"
+    ]
+  }
 }

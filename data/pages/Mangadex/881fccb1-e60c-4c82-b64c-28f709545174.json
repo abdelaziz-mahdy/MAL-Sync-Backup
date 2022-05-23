@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nisioisin",
-    "Akatsuki Akira"
-  ],
+  "createdAt": "2020-10-12T16:02:24.000Z",
+  "updatedAt": "2021-12-02T06:47:18.000Z",
+  "checkedAt": null,
+  "id": 48,
   "identifier": "881fccb1-e60c-4c82-b64c-28f709545174",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13949,
   "aniId": 43949,
-  "createdAt": "2020-10-12T16:02:24.000Z",
-  "updatedAt": "2021-12-02T06:47:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nisioisin",
+    "Akatsuki Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:01.000Z",
+    "updatedAt": "2022-05-14T20:48:42.000Z",
+    "checkedAt": "2022-05-14T20:48:42.000Z",
+    "id": 13949,
+    "type": "manga",
+    "title": "Medaka Box",
+    "altTitle": [
+      "Good Loser Kumagawa",
+      "めだかボックス"
+    ],
+    "url": "https://myanimelist.net/manga/13949/Medaka_Box",
+    "image": "https://cdn.myanimelist.net/images/manga/2/50353.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Good Loser Kumagawa",
-      "めだかボックス"
-    ],
+    "deletedAt": null,
     "authors": [
       "NISIO, ISIN",
       "Akatsuki, Akira"
-    ],
-    "id": 13949,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:11.195Z",
+    "updatedAt": "2022-05-15T17:04:35.000Z",
+    "checkedAt": "2022-05-15T17:04:35.000Z",
+    "id": 43949,
     "type": "manga",
     "title": "Medaka Box",
-    "url": "https://myanimelist.net/manga/13949/Medaka_Box",
-    "image": "https://cdn.myanimelist.net/images/manga/2/50353.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:01.000Z",
-    "updatedAt": "2022-04-21T10:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "めだかボックス",
       "Good Loser Kumagawa"
     ],
-    "externalLinks": [],
-    "authors": [
-      "NISIOISIN",
-      "Akira Akatsuki"
-    ],
-    "id": 43949,
-    "malId": 13949,
-    "type": "manga",
-    "title": "Medaka Box",
     "url": "https://anilist.co/manga/43949",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43949-sSgW4VE0nQKH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2021-12-17T15:16:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13949/Medaka_Box"
+    "externalLinks": [],
+    "malId": 13949,
+    "deletedAt": null,
+    "authors": [
+      "NISIOISIN",
+      "Akira Akatsuki"
+    ]
+  }
 }

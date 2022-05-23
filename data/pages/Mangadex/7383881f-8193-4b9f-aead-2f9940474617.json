@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishi Isami"
-  ],
+  "createdAt": "2021-01-29T14:56:24.000Z",
+  "updatedAt": "2021-12-08T11:09:00.000Z",
+  "checkedAt": null,
+  "id": 60572,
   "identifier": "7383881f-8193-4b9f-aead-2f9940474617",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59375,
   "aniId": 88821,
-  "createdAt": "2021-01-29T14:56:24.000Z",
-  "updatedAt": "2021-12-08T11:09:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishi Isami"
+  ],
   "Mal": {
+    "createdAt": "2021-01-29T14:56:23.000Z",
+    "updatedAt": "2022-01-29T15:50:49.000Z",
+    "checkedAt": null,
+    "id": 59375,
+    "type": "manga",
+    "title": "750 Rider",
+    "altTitle": [
+      "Nanahan Rider",
+      "750 Riders",
+      "750ライダー (ナナハンライダー)"
+    ],
+    "url": "https://myanimelist.net/manga/59375/750_Rider",
+    "image": "https://cdn.myanimelist.net/images/manga/3/105049.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nanahan Rider",
-      "750 Riders",
-      "750ライダー (ナナハンライダー)"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishii, Isami"
-    ],
-    "id": 59375,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:39.977Z",
+    "updatedAt": "2022-05-13T13:05:39.977Z",
+    "checkedAt": null,
+    "id": 88821,
     "type": "manga",
     "title": "750 Rider",
-    "url": "https://myanimelist.net/manga/59375/750_Rider",
-    "image": "https://cdn.myanimelist.net/images/manga/3/105049.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-29T14:56:23.000Z",
-    "updatedAt": "2022-01-29T15:50:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "750ライダー (ナナハンライダー)",
       "Nanahan Rider",
       "750 Riders"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Isami Ishii"
-    ],
-    "id": 88821,
-    "malId": 59375,
-    "type": "manga",
-    "title": "750 Rider",
     "url": "https://anilist.co/manga/88821",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88821-kikOKtxeN5GY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:37.000Z",
-    "updatedAt": "2021-12-17T23:50:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59375/750_Rider"
+    "externalLinks": [],
+    "malId": 59375,
+    "deletedAt": null,
+    "authors": [
+      "Isami Ishii"
+    ]
+  }
 }

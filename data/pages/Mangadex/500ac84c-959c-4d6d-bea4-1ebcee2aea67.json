@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Konishi Noriyuki"
-  ],
+  "createdAt": "2020-10-12T16:08:06.000Z",
+  "updatedAt": "2021-12-04T07:51:00.000Z",
+  "checkedAt": null,
+  "id": 12037,
   "identifier": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70401,
   "aniId": 91171,
-  "createdAt": "2020-10-12T16:08:06.000Z",
-  "updatedAt": "2021-12-04T07:51:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Konishi Noriyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:17.000Z",
+    "updatedAt": "2022-05-13T23:27:53.000Z",
+    "checkedAt": "2022-05-13T23:27:53.000Z",
+    "id": 70401,
+    "type": "manga",
+    "title": "Youkai Watch",
+    "altTitle": [
+      "Yo-kai Watch",
+      "妖怪ウォッチ"
+    ],
+    "url": "https://myanimelist.net/manga/70401/Youkai_Watch",
+    "image": "https://cdn.myanimelist.net/images/manga/2/120599.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,51 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yo-kai Watch",
-      "妖怪ウォッチ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Konishi, Noriyuki"
-    ],
-    "id": 70401,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:49.097Z",
+    "updatedAt": "2022-05-20T21:24:17.000Z",
+    "checkedAt": "2022-05-20T21:24:17.000Z",
+    "id": 91171,
     "type": "manga",
     "title": "Youkai Watch",
-    "url": "https://myanimelist.net/manga/70401/Youkai_Watch",
-    "image": "https://cdn.myanimelist.net/images/manga/2/120599.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:17.000Z",
-    "updatedAt": "2022-04-23T07:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yo-kai Watch",
       "妖怪ウォッチ",
       "โยไควอช"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/yo-kai-watch"
-      }
-    ],
-    "authors": [
-      "Noriyuki Konishi",
-      "Fernando Mucioli"
-    ],
-    "id": 91171,
-    "malId": 70401,
-    "type": "manga",
-    "title": "Youkai Watch",
     "url": "https://anilist.co/manga/91171",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91171-S6t5zJY9xrce.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:31.000Z",
-    "updatedAt": "2022-02-20T11:46:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70401/Youkai_Watch"
+    "externalLinks": [],
+    "malId": 70401,
+    "deletedAt": null,
+    "authors": [
+      "Noriyuki Konishi",
+      "Fernando Mucioli"
+    ]
+  }
 }

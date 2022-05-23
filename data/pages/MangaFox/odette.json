@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "HIATE Haru"
-  ],
+  "createdAt": "2022-02-21T11:47:02.000Z",
+  "updatedAt": "2022-02-21T12:16:51.000Z",
+  "checkedAt": null,
+  "id": 96519,
   "identifier": "odette",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91875,
   "aniId": 86547,
-  "createdAt": "2022-02-21T11:47:02.000Z",
-  "updatedAt": "2022-02-21T12:16:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "HIATE Haru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-02-21T11:47:12.000Z",
+    "checkedAt": null,
+    "id": 91875,
+    "type": "manga",
+    "title": "Odette",
+    "altTitle": [
+      "オデットODETTE"
+    ],
+    "url": "https://myanimelist.net/manga/91875/Odette",
+    "image": "https://cdn.myanimelist.net/images/manga/2/161529.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "オデットODETTE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiate, Haru"
-    ],
-    "id": 91875,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:40.639Z",
+    "updatedAt": "2022-05-13T12:42:40.639Z",
+    "checkedAt": null,
+    "id": 86547,
     "type": "manga",
     "title": "Odette",
-    "url": "https://myanimelist.net/manga/91875/Odette",
-    "image": "https://cdn.myanimelist.net/images/manga/2/161529.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2022-02-21T11:47:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "オデット",
       "แฟนฉันพันธุ์เหมียว"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haru Hiate"
-    ],
-    "id": 86547,
-    "malId": 91875,
-    "type": "manga",
-    "title": "Odette",
     "url": "https://anilist.co/manga/86547",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86547-pjtK8hUXooZ4.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:37.000Z",
-    "updatedAt": "2022-02-20T12:16:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91875/Odette"
+    "externalLinks": [],
+    "malId": 91875,
+    "deletedAt": null,
+    "authors": [
+      "Haru Hiate"
+    ]
+  }
 }

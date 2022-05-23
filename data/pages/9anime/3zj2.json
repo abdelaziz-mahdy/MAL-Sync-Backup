@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:58.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2012,
   "identifier": "3zj2",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1093,
   "aniId": 1093,
-  "createdAt": "2020-10-12T15:49:58.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:12.000Z",
+    "updatedAt": "2022-05-14T17:10:28.000Z",
+    "checkedAt": "2022-05-14T17:10:28.000Z",
+    "id": 1093,
+    "type": "anime",
+    "title": "Oishinbo",
+    "altTitle": [
+      "The Gourmet",
+      "美味しんぼ"
+    ],
+    "url": "https://myanimelist.net/anime/1093/Oishinbo",
+    "image": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Gourmet",
-      "美味しんぼ"
-    ],
+    "deletedAt": null,
+    "anidbId": 2000
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:56.000Z",
+    "updatedAt": "2022-05-15T17:34:59.000Z",
+    "checkedAt": "2022-05-15T17:34:59.000Z",
     "id": 1093,
     "type": "anime",
     "title": "Oishinbo",
-    "url": "https://myanimelist.net/anime/1093/Oishinbo",
-    "image": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2000,
-    "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2022-03-30T20:02:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "美味しんぼ",
       "The Gourmet"
     ],
-    "externalLinks": [],
-    "id": 1093,
-    "malId": 1093,
-    "type": "anime",
-    "title": "Oishinbo",
     "url": "https://anilist.co/anime/1093",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:56.000Z",
-    "updatedAt": "2022-03-21T16:27:16.000Z",
+    "externalLinks": [],
+    "malId": 1093,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1093/Oishinbo"
+  }
 }

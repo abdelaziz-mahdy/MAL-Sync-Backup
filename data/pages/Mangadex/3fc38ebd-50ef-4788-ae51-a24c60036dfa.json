@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Harada Shigemitsu",
-    "Seguchi Takahiro"
-  ],
+  "createdAt": "2020-10-12T16:03:22.000Z",
+  "updatedAt": "2021-12-02T13:47:26.000Z",
+  "checkedAt": null,
+  "id": 2110,
   "identifier": "3fc38ebd-50ef-4788-ae51-a24c60036dfa",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 447,
   "aniId": 30447,
-  "createdAt": "2020-10-12T16:03:22.000Z",
-  "updatedAt": "2021-12-02T13:47:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harada Shigemitsu",
+    "Seguchi Takahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-14T23:27:47.000Z",
+    "checkedAt": "2022-05-14T23:27:47.000Z",
+    "id": 447,
+    "type": "manga",
+    "title": "Oretama",
+    "altTitle": [
+      "Ore Tama",
+      "My Balls",
+      "オレたま"
+    ],
+    "url": "https://myanimelist.net/manga/447/Oretama",
+    "image": "https://cdn.myanimelist.net/images/manga/2/53187.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ore Tama",
-      "My Balls",
-      "オレたま"
-    ],
+    "deletedAt": null,
     "authors": [
       "Harada, Shigemitsu",
       "Seguchi, Takahiro"
-    ],
-    "id": 447,
-    "type": "manga",
-    "title": "Oretama",
-    "url": "https://myanimelist.net/manga/447/Oretama",
-    "image": "https://cdn.myanimelist.net/images/manga/2/53187.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2021-12-01T00:07:15.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:08.754Z",
+    "updatedAt": "2022-05-15T22:26:11.000Z",
+    "checkedAt": "2022-05-15T22:26:11.000Z",
+    "id": 30447,
+    "type": "manga",
+    "title": "Ore Tama: Ore ga Chikyuu wo Sukutte!?",
     "altTitle": [
-      "オレたま",
+      "オレたま 〜オレが地球を救うって!?〜",
       "Ore Tama",
       "My Balls",
       "Le mie palle - Proteggerò la mia terra?"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigemitsu Harada",
-      "Takahiro Seguchi"
-    ],
-    "id": 30447,
-    "malId": 447,
-    "type": "manga",
-    "title": "Oretama",
     "url": "https://anilist.co/manga/30447",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30447-r03DWQAQq8zD.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2022-01-08T13:18:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/447/Oretama"
+    "externalLinks": [],
+    "malId": 447,
+    "deletedAt": null,
+    "authors": [
+      "Shigemitsu Harada",
+      "Takahiro Seguchi"
+    ]
+  }
 }

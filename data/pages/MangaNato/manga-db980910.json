@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kuwayoshi Asa"
-  ],
+  "createdAt": "2021-05-30T09:12:13.000Z",
+  "updatedAt": "2021-11-30T10:06:36.000Z",
+  "checkedAt": null,
+  "id": 74152,
   "identifier": "manga-db980910",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92473,
   "aniId": 95862,
-  "createdAt": "2021-05-30T09:12:13.000Z",
-  "updatedAt": "2021-11-30T10:06:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuwayoshi Asa"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.comic-zenon.jp/magazine/hinatachan.html"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2022-05-14T23:20:29.000Z",
+    "checkedAt": "2022-05-14T23:20:29.000Z",
+    "id": 92473,
+    "type": "manga",
+    "title": "Obaachan Shoujo Hinata-chan",
     "altTitle": [
       "Roujo-teki Shoujo Hinata-chan",
       "Roujoteki Shoujo Hinata-chan",
@@ -33,42 +34,44 @@
       "Old woman basis little girl Hinata-chan",
       "老女的少女ひなたちゃん"
     ],
-    "authors": [
-      "Kuwayoshi, Asa"
-    ],
-    "id": 92473,
-    "type": "manga",
-    "title": "Obaachan Shoujo Hinata-chan",
     "url": "https://myanimelist.net/manga/92473/Obaachan_Shoujo_Hinata-chan",
     "image": "https://cdn.myanimelist.net/images/manga/2/162654.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:09.000Z",
-    "updatedAt": "2022-03-20T01:20:06.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comic-zenon.jp/magazine/hinatachan.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuwayoshi, Asa"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:09.546Z",
+    "updatedAt": "2022-05-16T05:42:47.000Z",
+    "checkedAt": "2022-05-16T05:42:47.000Z",
+    "id": 95862,
+    "type": "manga",
+    "title": "Roujoteki Shoujo Hinata-chan",
     "altTitle": [
       "Granny Girl Hinata-chan",
       "老女的少女ひなたちゃん",
       "Roujo-teki Shoujo Hinata-chan",
       "Obaa-chan Shoujo Hinata-chan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asa Kuwayoshi"
-    ],
-    "id": 95862,
-    "malId": 92473,
-    "type": "manga",
-    "title": "Roujoteki Shoujo Hinata-chan",
     "url": "https://anilist.co/manga/95862",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95862-C1WfWXeQNAkg.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:38.000Z",
-    "updatedAt": "2021-12-18T01:28:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92473/Obaachan_Shoujo_Hinata-chan"
+    "externalLinks": [],
+    "malId": 92473,
+    "deletedAt": null,
+    "authors": [
+      "Asa Kuwayoshi"
+    ]
+  }
 }

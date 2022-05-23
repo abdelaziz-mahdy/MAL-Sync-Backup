@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Genco Olm",
-    "Nakahira Guy"
-  ],
+  "createdAt": "2020-10-12T16:12:48.000Z",
+  "updatedAt": "2021-12-05T17:22:39.000Z",
+  "checkedAt": null,
+  "id": 21562,
   "identifier": "620b7d0c-432e-44b5-b603-6fcd1d1b7bcc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3230,
   "aniId": 33230,
-  "createdAt": "2020-10-12T16:12:48.000Z",
-  "updatedAt": "2021-12-05T17:22:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Genco Olm",
+    "Nakahira Guy"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:49.000Z",
+    "updatedAt": "2021-12-05T17:16:07.000Z",
+    "checkedAt": null,
+    "id": 3230,
+    "type": "manga",
+    "title": "Figure 17",
+    "altTitle": [
+      "Figure 17",
+      "Figure 17 - Tsubasa & Hikaru",
+      "フィギュア17"
+    ],
+    "url": "https://myanimelist.net/manga/3230/Figure_17",
+    "image": "https://cdn.myanimelist.net/images/manga/1/16496.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Figure 17",
-      "Figure 17 - Tsubasa & Hikaru",
-      "フィギュア17"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakahira, Guy"
-    ],
-    "id": 3230,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:11.941Z",
+    "updatedAt": "2022-05-13T13:02:11.941Z",
+    "checkedAt": null,
+    "id": 33230,
     "type": "manga",
     "title": "Figure 17",
-    "url": "https://myanimelist.net/manga/3230/Figure_17",
-    "image": "https://cdn.myanimelist.net/images/manga/1/16496.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:49.000Z",
-    "updatedAt": "2021-12-05T17:16:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Figure 17",
       "フィギュア17",
       "Figure 17 - Tsubasa & Hikaru"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Guy Nakahira"
-    ],
-    "id": 33230,
-    "malId": 3230,
-    "type": "manga",
-    "title": "Figure 17",
     "url": "https://anilist.co/manga/33230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3230.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T16:50:29.000Z",
-    "updatedAt": "2021-12-17T11:11:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3230/Figure_17"
+    "externalLinks": [],
+    "malId": 3230,
+    "deletedAt": null,
+    "authors": [
+      "Guy Nakahira"
+    ]
+  }
 }

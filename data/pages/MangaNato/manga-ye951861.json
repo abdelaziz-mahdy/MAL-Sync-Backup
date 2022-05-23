@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Hideyasu"
-  ],
+  "createdAt": "2021-09-16T15:10:46.000Z",
+  "updatedAt": "2022-03-16T15:49:12.000Z",
+  "checkedAt": null,
+  "id": 87255,
   "identifier": "manga-ye951861",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 74267,
   "aniId": 91981,
-  "createdAt": "2021-09-16T15:10:46.000Z",
-  "updatedAt": "2022-03-16T15:49:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Hideyasu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2022-05-19T21:36:37.000Z",
+    "checkedAt": "2022-05-19T21:36:37.000Z",
+    "id": 74267,
+    "type": "manga",
+    "title": "Kaitou Joker",
+    "altTitle": [
+      "Mysterious Joker",
+      "怪盗ジョーカー"
+    ],
+    "url": "https://myanimelist.net/manga/74267/Kaitou_Joker",
+    "image": "https://cdn.myanimelist.net/images/manga/1/128849.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +41,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mysterious Joker",
-      "怪盗ジョーカー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Hideyasu"
-    ],
-    "id": 74267,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:28.495Z",
+    "updatedAt": "2022-05-19T21:36:35.000Z",
+    "checkedAt": "2022-05-19T21:36:35.000Z",
+    "id": 91981,
     "type": "manga",
     "title": "Kaitou Joker",
-    "url": "https://myanimelist.net/manga/74267/Kaitou_Joker",
-    "image": "https://cdn.myanimelist.net/images/manga/1/128849.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2022-03-16T15:19:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "怪盗ジョーカー",
       "Mysterious Joker"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 91981,
-    "malId": 74267,
-    "type": "manga",
-    "title": "Kaitou Joker",
     "url": "https://anilist.co/manga/91981",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91981-dTQ5Z9LQ1TmN.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:42.000Z",
-    "updatedAt": "2021-12-18T00:28:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/74267/Kaitou_Joker"
+    "externalLinks": [],
+    "malId": 74267,
+    "deletedAt": null,
+    "authors": []
+  }
 }

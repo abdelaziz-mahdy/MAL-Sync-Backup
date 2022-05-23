@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Clamp",
-    "Ohkawa Ageha"
-  ],
+  "createdAt": "2021-06-21T16:47:32.000Z",
+  "updatedAt": "2021-12-21T17:22:38.000Z",
+  "checkedAt": null,
+  "id": 79321,
   "identifier": "manga-ps967327",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 27,
   "aniId": 30027,
-  "createdAt": "2021-06-21T16:47:32.000Z",
-  "updatedAt": "2021-12-21T17:22:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp",
+    "Ohkawa Ageha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T21:55:35.000Z",
+    "checkedAt": "2022-05-14T21:55:35.000Z",
+    "id": 27,
+    "type": "manga",
+    "title": "X",
+    "altTitle": [
+      "X/1999",
+      "X",
+      "X"
+    ],
+    "url": "https://myanimelist.net/manga/27/X",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157934.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "X/1999",
-      "X",
-      "X"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 27,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:10.893Z",
+    "updatedAt": "2022-05-15T18:47:47.000Z",
+    "checkedAt": "2022-05-15T18:47:47.000Z",
+    "id": 30027,
     "type": "manga",
     "title": "X",
-    "url": "https://myanimelist.net/manga/27/X",
-    "image": "https://cdn.myanimelist.net/images/manga/3/157934.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-14T15:01:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "X",
       "X",
       "X/1999",
       "エックス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "CLAMP",
-      "Luiz Kobayashi"
-    ],
-    "id": 30027,
-    "malId": 27,
-    "type": "manga",
-    "title": "X",
     "url": "https://anilist.co/manga/30027",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30027-oQEoeaABYrmj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/27/X"
+    "externalLinks": [],
+    "malId": 27,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP",
+      "Luiz Kobayashi"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Maeda Sakae",
-    "Takamure Tamotsu"
-  ],
+  "createdAt": "2020-10-12T16:13:17.000Z",
+  "updatedAt": "2021-12-05T20:19:38.000Z",
+  "checkedAt": null,
+  "id": 22578,
   "identifier": "331db6d2-bf6e-47d9-b5f0-89b615841370",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 259,
   "aniId": 30259,
-  "createdAt": "2020-10-12T16:13:17.000Z",
-  "updatedAt": "2021-12-05T20:19:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maeda Sakae",
+    "Takamure Tamotsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-04-16T12:00:38.000Z",
+    "checkedAt": null,
+    "id": 259,
+    "type": "manga",
+    "title": "Jazz",
+    "altTitle": [
+      "Jazz",
+      "JAZZ"
+    ],
+    "url": "https://myanimelist.net/manga/259/Jazz",
+    "image": "https://cdn.myanimelist.net/images/manga/2/142093.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jazz",
-      "JAZZ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takamure, Tamotsu",
       "Maeda, Sakae"
-    ],
-    "id": 259,
-    "type": "manga",
-    "title": "Jazz",
-    "url": "https://myanimelist.net/manga/259/Jazz",
-    "image": "https://cdn.myanimelist.net/images/manga/2/142093.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-16T12:00:38.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:44.232Z",
+    "updatedAt": "2022-05-13T12:45:44.232Z",
+    "checkedAt": null,
+    "id": 30259,
+    "type": "manga",
+    "title": "JAZZ",
     "altTitle": [
       "Jazz",
       "JAZZ",
       "ジャズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tamotsu Takamure",
-      "Sakae Maeda"
-    ],
-    "id": 30259,
-    "malId": 259,
-    "type": "manga",
-    "title": "JAZZ",
     "url": "https://anilist.co/manga/30259",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30259-lRfF6NdN8T8Z.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:06:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/259/Jazz"
+    "externalLinks": [],
+    "malId": 259,
+    "deletedAt": null,
+    "authors": [
+      "Tamotsu Takamure",
+      "Sakae Maeda"
+    ]
+  }
 }

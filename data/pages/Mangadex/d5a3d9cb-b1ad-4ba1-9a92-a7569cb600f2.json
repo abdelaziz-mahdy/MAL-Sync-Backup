@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Suzukaze Ryou",
-    "Satoshi Shiki"
-  ],
+  "createdAt": "2020-10-12T16:06:41.000Z",
+  "updatedAt": "2021-12-03T21:51:10.000Z",
+  "checkedAt": null,
+  "id": 9002,
   "identifier": "d5a3d9cb-b1ad-4ba1-9a92-a7569cb600f2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57795,
   "aniId": 85312,
-  "createdAt": "2020-10-12T16:06:41.000Z",
-  "updatedAt": "2021-12-03T21:51:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzukaze Ryou",
+    "Satoshi Shiki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:52.000Z",
+    "updatedAt": "2022-05-15T16:11:02.000Z",
+    "checkedAt": "2022-05-15T16:11:02.000Z",
+    "id": 57795,
+    "type": "manga",
+    "title": "Shingeki no Kyojin: Before the Fall",
+    "altTitle": [
+      "Attack on Titan: Before the Fall",
+      "進撃の巨人 Before the fall"
+    ],
+    "url": "https://myanimelist.net/manga/57795/Shingeki_no_Kyojin__Before_the_Fall",
+    "image": "https://cdn.myanimelist.net/images/manga/2/128683.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Attack on Titan: Before the Fall",
-      "進撃の巨人 Before the fall"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shiki, Satoshi",
       "Suzukaze, Ryou"
-    ],
-    "id": 57795,
-    "type": "manga",
-    "title": "Shingeki no Kyojin: Before the Fall",
-    "url": "https://myanimelist.net/manga/57795/Shingeki_no_Kyojin__Before_the_Fall",
-    "image": "https://cdn.myanimelist.net/images/manga/2/128683.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2022-04-10T15:03:23.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:28.521Z",
+    "updatedAt": "2022-05-15T19:28:47.000Z",
+    "checkedAt": "2022-05-15T19:28:47.000Z",
+    "id": 85312,
+    "type": "manga",
+    "title": "Shingeki no Kyojin: Before the fall",
     "altTitle": [
       "Attack on Titan: Before the Fall",
       "進撃の巨人 Before the fall",
@@ -54,7 +63,13 @@
       "Ataque dos Titãs: Antes da Queda",
       "Titana Saldırı: Çöküşten Önce"
     ],
+    "url": "https://anilist.co/manga/85312",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85312-q88Zhgf7W9fh.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 57795,
+    "deletedAt": null,
     "authors": [
       "Satoshi Shiki",
       "Ryou Suzukaze",
@@ -62,18 +77,6 @@
       "Fernando Mucioli",
       "Luciane Yasawa",
       "Sylvain Chollet"
-    ],
-    "id": 85312,
-    "malId": 57795,
-    "type": "manga",
-    "title": "Shingeki no Kyojin: Before the fall",
-    "url": "https://anilist.co/manga/85312",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85312-q88Zhgf7W9fh.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:32.000Z",
-    "updatedAt": "2022-02-24T17:48:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57795/Shingeki_no_Kyojin__Before_the_Fall"
+    ]
+  }
 }

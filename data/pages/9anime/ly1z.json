@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:17.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 6266,
   "identifier": "ly1z",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6090,
   "aniId": 6090,
-  "createdAt": "2020-10-12T15:53:17.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:50.000Z",
+    "updatedAt": "2022-05-20T01:07:49.000Z",
+    "checkedAt": "2022-05-20T01:07:49.000Z",
+    "id": 6090,
+    "type": "anime",
+    "title": "Hon Ran",
+    "altTitle": [
+      "Hong Lang",
+      "Crimson Wolf",
+      "紅狼[ホンラン]"
+    ],
+    "url": "https://myanimelist.net/anime/6090/Hon_Ran",
+    "image": "https://cdn.myanimelist.net/images/anime/9/13297.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hong Lang",
-      "Crimson Wolf",
-      "紅狼[ホンラン]"
-    ],
+    "deletedAt": null,
+    "anidbId": 1466
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:53.000Z",
+    "updatedAt": "2022-05-20T01:07:47.000Z",
+    "checkedAt": "2022-05-20T01:07:47.000Z",
     "id": 6090,
     "type": "anime",
     "title": "Hon Ran",
-    "url": "https://myanimelist.net/anime/6090/Hon_Ran",
-    "image": "https://cdn.myanimelist.net/images/anime/9/13297.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1466,
-    "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2022-03-31T22:01:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Crimson Wolf",
       "紅狼",
       "Hong Lang"
     ],
-    "externalLinks": [],
-    "id": 6090,
-    "malId": 6090,
-    "type": "anime",
-    "title": "Hon Ran",
     "url": "https://anilist.co/anime/6090",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6090-rEHs9UmF6321.png",
     "category": "ova",
     "hentai": true,
-    "createdAt": "2021-05-20T14:37:53.000Z",
-    "updatedAt": "2021-12-05T20:46:06.000Z",
+    "externalLinks": [],
+    "malId": 6090,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/6090/Hon_Ran"
+  }
 }

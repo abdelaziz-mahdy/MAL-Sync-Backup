@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gotoh Juan"
-  ],
+  "createdAt": "2020-10-12T16:14:20.000Z",
+  "updatedAt": "2021-12-06T04:48:10.000Z",
+  "checkedAt": null,
+  "id": 24699,
   "identifier": "983e9a10-2032-4cdb-8b4b-2cadbe24ad2c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 52519,
   "aniId": 82519,
-  "createdAt": "2020-10-12T16:14:20.000Z",
-  "updatedAt": "2021-12-06T04:48:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gotoh Juan"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:43.000Z",
+    "updatedAt": "2022-05-15T21:54:53.000Z",
+    "checkedAt": "2022-05-15T21:54:53.000Z",
+    "id": 52519,
+    "type": "manga",
+    "title": "Doutei Senka",
     "altTitle": [
       "My Older Sister's Job...",
       "Lately My Sister's Really Been Glued to Me",
@@ -34,21 +40,24 @@
       "Lost in Paradise",
       "童貞専科"
     ],
-    "authors": [
-      "Gotoh, Juan"
-    ],
-    "id": 52519,
-    "type": "manga",
-    "title": "Doutei Senka",
     "url": "https://myanimelist.net/manga/52519/Doutei_Senka",
     "image": "https://cdn.myanimelist.net/images/manga/1/92705.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:44:43.000Z",
-    "updatedAt": "2021-12-18T18:19:42.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gotoh, Juan"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:57.436Z",
+    "updatedAt": "2022-05-15T22:25:11.000Z",
+    "checkedAt": "2022-05-15T22:25:11.000Z",
+    "id": 82519,
+    "type": "manga",
+    "title": "Doutei Senka",
     "altTitle": [
       "童貞専科",
       "Nee-chan no Oshigoto wa...",
@@ -56,21 +65,15 @@
       "In My Cousin's House",
       "Horny Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Juan Gotoh"
-    ],
-    "id": 82519,
-    "malId": 52519,
-    "type": "manga",
-    "title": "Doutei Senka",
     "url": "https://anilist.co/manga/82519",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52519.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:49:56.000Z",
-    "updatedAt": "2021-12-17T21:32:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/52519/Doutei_Senka"
+    "externalLinks": [],
+    "malId": 52519,
+    "deletedAt": null,
+    "authors": [
+      "Juan Gotoh"
+    ]
+  }
 }

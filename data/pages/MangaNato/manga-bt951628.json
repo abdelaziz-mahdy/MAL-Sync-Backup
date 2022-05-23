@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Satou Tsutomu",
-    "Kitami Tsuna"
-  ],
+  "createdAt": "2021-06-12T19:09:42.000Z",
+  "updatedAt": "2021-12-12T20:03:46.000Z",
+  "checkedAt": null,
+  "id": 77961,
   "identifier": "manga-bt951628",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60973,
   "aniId": 85196,
-  "createdAt": "2021-06-12T19:09:42.000Z",
-  "updatedAt": "2021-12-12T20:03:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Tsutomu",
+    "Kitami Tsuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:57.000Z",
+    "updatedAt": "2022-05-16T04:59:53.000Z",
+    "checkedAt": "2022-05-16T04:59:53.000Z",
+    "id": 60973,
+    "type": "manga",
+    "title": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
+    "altTitle": [
+      "The Irregular at Magic High School: Games for the Nine",
+      "The Irregular at Magic High School: Nine Schools Competition Arc",
+      "魔法科高校の劣等生 九校戦編"
+    ],
+    "url": "https://myanimelist.net/manga/60973/Mahouka_Koukou_no_Rettousei__Kyuukousen-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/120979.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Irregular at Magic High School: Games for the Nine",
-      "The Irregular at Magic High School: Nine Schools Competition Arc",
-      "魔法科高校の劣等生 九校戦編"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitaumi, Tsuna",
       "Satou, Tsutomu"
-    ],
-    "id": 60973,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:00.180Z",
+    "updatedAt": "2022-05-16T04:59:52.000Z",
+    "checkedAt": "2022-05-16T04:59:52.000Z",
+    "id": 85196,
     "type": "manga",
     "title": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
-    "url": "https://myanimelist.net/manga/60973/Mahouka_Koukou_no_Rettousei__Kyuukousen-hen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/120979.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:57.000Z",
-    "updatedAt": "2022-01-18T14:05:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Irregular at Magic High School: Nine Schools Competition Arc",
       "魔法科高校の劣等生 九校戦編"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuna Kitaumi",
-      "Tsutomu Satou",
-      "Kana Ishida"
-    ],
-    "id": 85196,
-    "malId": 60973,
-    "type": "manga",
-    "title": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
     "url": "https://anilist.co/manga/85196",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85196-fzDKrzXlldDn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2021-12-17T21:55:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60973/Mahouka_Koukou_no_Rettousei__Kyuukousen-hen"
+    "externalLinks": [],
+    "malId": 60973,
+    "deletedAt": null,
+    "authors": [
+      "Tsuna Kitaumi",
+      "Tsutomu Satou",
+      "Kana Ishida"
+    ]
+  }
 }

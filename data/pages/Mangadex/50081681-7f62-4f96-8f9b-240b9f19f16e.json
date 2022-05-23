@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakano Keiko"
-  ],
+  "createdAt": "2020-10-12T16:09:33.000Z",
+  "updatedAt": "2021-12-04T18:53:18.000Z",
+  "checkedAt": null,
+  "id": 15255,
   "identifier": "50081681-7f62-4f96-8f9b-240b9f19f16e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95925,
   "aniId": 96730,
-  "createdAt": "2020-10-12T16:09:33.000Z",
-  "updatedAt": "2021-12-04T18:53:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakano Keiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2021-11-15T16:58:02.000Z",
+    "checkedAt": null,
+    "id": 95925,
+    "type": "manga",
+    "title": "Houshin shinai Engi",
+    "altTitle": [
+      "封神しない演義"
+    ],
+    "url": "https://myanimelist.net/manga/95925/Houshin_shinai_Engi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/174648.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "封神しない演義"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakano, Keiko"
-    ],
-    "id": 95925,
-    "type": "manga",
-    "title": "Houshin shinai Engi",
-    "url": "https://myanimelist.net/manga/95925/Houshin_shinai_Engi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/174648.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2021-11-15T16:58:02.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:16.988Z",
+    "updatedAt": "2022-05-13T13:03:16.988Z",
+    "checkedAt": null,
+    "id": 96730,
+    "type": "manga",
+    "title": "Houshin Shinai Engi",
     "altTitle": [
       "封神しない演義",
       "Deine wundersame Welt"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keiko Sakano"
-    ],
-    "id": 96730,
-    "malId": 95925,
-    "type": "manga",
-    "title": "Houshin Shinai Engi",
     "url": "https://anilist.co/manga/96730",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96730-Q8g9lMWCUDmH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-11-28T02:05:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95925/Houshin_shinai_Engi"
+    "externalLinks": [],
+    "malId": 95925,
+    "deletedAt": null,
+    "authors": [
+      "Keiko Sakano"
+    ]
+  }
 }

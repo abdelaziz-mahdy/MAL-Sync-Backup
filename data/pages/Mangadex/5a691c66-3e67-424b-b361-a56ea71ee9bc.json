@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Komura Ayumi"
-  ],
+  "createdAt": "2020-10-12T16:08:04.000Z",
+  "updatedAt": "2021-12-04T09:20:31.000Z",
+  "checkedAt": null,
+  "id": 11955,
   "identifier": "5a691c66-3e67-424b-b361-a56ea71ee9bc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19111,
   "aniId": 49111,
-  "createdAt": "2020-10-12T16:08:04.000Z",
-  "updatedAt": "2021-12-04T09:20:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komura Ayumi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9D%E3%81%A4%E3%81%8D%E3%83%AA%E3%83%AA%E3%82%A3"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:42.000Z",
+    "updatedAt": "2022-05-20T18:09:08.000Z",
+    "checkedAt": "2022-05-20T18:09:08.000Z",
+    "id": 19111,
+    "type": "manga",
+    "title": "Usotsuki Lily",
     "altTitle": [
       "UsoLily",
       "Sweets Honey",
@@ -32,21 +33,29 @@
       "Liar Lily",
       "うそつきリリィ"
     ],
-    "authors": [
-      "Komura, Ayumi"
-    ],
-    "id": 19111,
-    "type": "manga",
-    "title": "Usotsuki Lily",
     "url": "https://myanimelist.net/manga/19111/Usotsuki_Lily",
     "image": "https://cdn.myanimelist.net/images/manga/2/31018.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:42.000Z",
-    "updatedAt": "2022-01-24T12:00:21.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9D%E3%81%A4%E3%81%8D%E3%83%AA%E3%83%AA%E3%82%A3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Komura, Ayumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:02.620Z",
+    "updatedAt": "2022-05-19T16:40:33.000Z",
+    "checkedAt": "2022-05-19T16:40:33.000Z",
+    "id": 49111,
+    "type": "manga",
+    "title": "Usotsuki Lily",
     "altTitle": [
       "うそつきリリィ",
       "Liar Lily",
@@ -54,21 +63,15 @@
       "Sweets Honey",
       "Amber"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ayumi Komura"
-    ],
-    "id": 49111,
-    "malId": 19111,
-    "type": "manga",
-    "title": "Usotsuki Lily",
     "url": "https://anilist.co/manga/49111",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx49111-62wa0y8YZDgz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:17.000Z",
-    "updatedAt": "2021-12-17T17:03:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19111/Usotsuki_Lily"
+    "externalLinks": [],
+    "malId": 19111,
+    "deletedAt": null,
+    "authors": [
+      "Ayumi Komura"
+    ]
+  }
 }

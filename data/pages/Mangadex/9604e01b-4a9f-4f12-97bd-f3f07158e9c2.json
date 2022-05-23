@@ -1,24 +1,73 @@
 {
-  "authors": [
-    "Minatsuki",
-    "Abara Heiki"
-  ],
+  "createdAt": "2021-11-25T01:06:25.000Z",
+  "updatedAt": "2022-05-16T06:16:54.000Z",
+  "checkedAt": "2022-05-15T15:00:38.000Z",
+  "id": 91714,
   "identifier": "9604e01b-4a9f-4f12-97bd-f3f07158e9c2",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Nino of the Sun",
+  "title": "Hidamari no Nino",
   "url": "https://mangadex.org/title/9604e01b-4a9f-4f12-97bd-f3f07158e9c2",
   "image": "https://uploads.mangadex.org/covers/9604e01b-4a9f-4f12-97bd-f3f07158e9c2/aeafedba-9d55-45e4-a82e-316a86e65d06.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2021-11-25T01:06:25.000Z",
-  "updatedAt": "2021-11-25T01:06:25.000Z",
+  "actorId": 1,
+  "malId": 143298,
+  "aniId": 136260,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Minatsuki",
+    "Abara Heiki"
+  ],
+  "Mal": {
+    "createdAt": "2022-01-28T18:51:30.000Z",
+    "updatedAt": "2022-05-15T15:00:28.000Z",
+    "checkedAt": "2022-05-15T15:00:28.000Z",
+    "id": 143298,
+    "type": "manga",
+    "title": "Hidamari no Nino",
+    "altTitle": [
+      "Nino of the Sun",
+      "陽だまりのニーノ"
+    ],
+    "url": "https://myanimelist.net/manga/143298/Hidamari_no_Nino",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254502.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ichijinsha.co.jp/stories/comic-rex/hidamari_nino/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Minatuki, Tunami",
+      "Abara, Heiki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:07.852Z",
+    "updatedAt": "2022-05-15T15:00:47.000Z",
+    "checkedAt": "2022-05-15T15:00:47.000Z",
+    "id": 136260,
+    "type": "manga",
+    "title": "Hidamari no Nino",
+    "altTitle": [
+      "陽だまりのニーノ"
+    ],
+    "url": "https://anilist.co/manga/136260",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136260-lj2gx32EUNjm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143298,
+    "deletedAt": null,
+    "authors": [
+      "Tsunami Minatsuki",
+      "Heiki Abara"
+    ]
+  }
 }

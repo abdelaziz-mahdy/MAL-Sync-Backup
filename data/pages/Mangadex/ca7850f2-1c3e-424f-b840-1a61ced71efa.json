@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Arai Hideki"
-  ],
+  "createdAt": "2020-10-12T16:09:25.000Z",
+  "updatedAt": "2021-12-04T17:55:04.000Z",
+  "checkedAt": null,
+  "id": 14961,
   "identifier": "ca7850f2-1c3e-424f-b840-1a61ced71efa",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95580,
   "aniId": 96676,
-  "createdAt": "2020-10-12T16:09:25.000Z",
-  "updatedAt": "2021-12-04T17:55:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Arai Hideki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-17T06:55:37.000Z",
+    "checkedAt": "2022-05-17T06:55:37.000Z",
+    "id": 95580,
+    "type": "manga",
+    "title": "Scatter: Anata ga Koko ni Ite Hoshii",
+    "altTitle": [
+      "Scatter: Wish You Were Here",
+      "SCATTER あなたがここにいてほしい"
+    ],
+    "url": "https://myanimelist.net/manga/95580/Scatter__Anata_ga_Koko_ni_Ite_Hoshii",
+    "image": "https://cdn.myanimelist.net/images/manga/3/189738.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Scatter: Wish You Were Here",
-      "SCATTER あなたがここにいてほしい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Arai, Hideki"
-    ],
-    "id": 95580,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:21.990Z",
+    "updatedAt": "2022-05-17T06:55:35.000Z",
+    "checkedAt": "2022-05-17T06:55:35.000Z",
+    "id": 96676,
     "type": "manga",
     "title": "Scatter: Anata ga Koko ni Ite Hoshii",
-    "url": "https://myanimelist.net/manga/95580/Scatter__Anata_ga_Koko_ni_Ite_Hoshii",
-    "image": "https://cdn.myanimelist.net/images/manga/3/189738.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-01-15T05:41:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "SCATTER -あなたがここにいてほしい-",
       "Scatter: Wish You Were Here"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideki Arai"
-    ],
-    "id": 96676,
-    "malId": 95580,
-    "type": "manga",
-    "title": "Scatter: Anata ga Koko ni Ite Hoshii",
     "url": "https://anilist.co/manga/96676",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96676-lOkYjRJdQwqJ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:59.000Z",
-    "updatedAt": "2021-12-18T01:51:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95580/Scatter__Anata_ga_Koko_ni_Ite_Hoshii"
+    "externalLinks": [],
+    "malId": 95580,
+    "deletedAt": null,
+    "authors": [
+      "Hideki Arai"
+    ]
+  }
 }

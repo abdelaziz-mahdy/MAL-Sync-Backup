@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Tony Wong",
-    "Qui Zhihao",
-    "Khoo Fuk-Lung"
-  ],
+  "createdAt": "2020-10-12T16:05:49.000Z",
+  "updatedAt": "2021-12-03T15:22:21.000Z",
+  "checkedAt": null,
+  "id": 7147,
   "identifier": "45aa8f26-3985-4c9a-bd2b-40c3e1242a77",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50797,
   "aniId": 80797,
-  "createdAt": "2020-10-12T16:05:49.000Z",
-  "updatedAt": "2021-12-03T15:22:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tony Wong",
+    "Qui Zhihao",
+    "Khoo Fuk-Lung"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:36.000Z",
+    "updatedAt": "2022-02-25T14:19:00.000Z",
+    "checkedAt": null,
+    "id": 50797,
+    "type": "manga",
+    "title": "Heroes of Spring and Autumn",
+    "altTitle": [
+      "Heroes of the Spring and Autumn",
+      "春秋战雄"
+    ],
+    "url": "https://myanimelist.net/manga/50797/Heroes_of_Spring_and_Autumn",
+    "image": "https://cdn.myanimelist.net/images/manga/3/89727.jpg",
+    "category": "Manhua",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -27,44 +43,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Heroes of the Spring and Autumn",
-      "春秋战雄"
-    ],
+    "deletedAt": null,
     "authors": [
       "Huang, Yu Lang"
-    ],
-    "id": 50797,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:44.252Z",
+    "updatedAt": "2022-05-13T12:57:44.252Z",
+    "checkedAt": null,
+    "id": 80797,
     "type": "manga",
     "title": "Heroes of Spring and Autumn",
-    "url": "https://myanimelist.net/manga/50797/Heroes_of_Spring_and_Autumn",
-    "image": "https://cdn.myanimelist.net/images/manga/3/89727.jpg",
-    "category": "Manhua",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:36.000Z",
-    "updatedAt": "2022-02-25T14:19:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "春秋战雄",
       "Heroes of the Spring and Autumn"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yu Lang Huang"
-    ],
-    "id": 80797,
-    "malId": 50797,
-    "type": "manga",
-    "title": "Heroes of Spring and Autumn",
     "url": "https://anilist.co/manga/80797",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50797.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:47.000Z",
-    "updatedAt": "2021-12-17T21:26:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50797/Heroes_of_Spring_and_Autumn"
+    "externalLinks": [],
+    "malId": 50797,
+    "deletedAt": null,
+    "authors": [
+      "Yu Lang Huang"
+    ]
+  }
 }

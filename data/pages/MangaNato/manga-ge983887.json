@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shou",
-    "Keijirou"
-  ],
+  "createdAt": "2021-06-13T14:38:32.000Z",
+  "updatedAt": "2021-12-13T15:18:25.000Z",
+  "checkedAt": null,
+  "id": 78086,
   "identifier": "manga-ge983887",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123357,
   "aniId": 111757,
-  "createdAt": "2021-06-13T14:38:32.000Z",
-  "updatedAt": "2021-12-13T15:18:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shou",
+    "Keijirou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-20T11:31:18.000Z",
+    "checkedAt": "2022-05-20T11:31:18.000Z",
+    "id": 123357,
+    "type": "manga",
+    "title": "Minotauros no Omoibito",
+    "altTitle": [
+      "Minotaurus's Sweetheart",
+      "ミノタウロスの想い人"
+    ],
+    "url": "https://myanimelist.net/manga/123357/Minotauros_no_Omoibito",
+    "image": "https://cdn.myanimelist.net/images/manga/3/229426.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Minotaurus's Sweetheart",
-      "ミノタウロスの想い人"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shou",
       "Keijirou"
-    ],
-    "id": 123357,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:18.292Z",
+    "updatedAt": "2022-05-20T11:31:16.000Z",
+    "checkedAt": "2022-05-20T11:31:16.000Z",
+    "id": 111757,
     "type": "manga",
     "title": "Minotauros no Omoibito",
-    "url": "https://myanimelist.net/manga/123357/Minotauros_no_Omoibito",
-    "image": "https://cdn.myanimelist.net/images/manga/3/229426.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-03-06T20:00:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミノタウロスの想い人",
       "Minotaurus's Sweetheart"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keijirou",
-      "Shou"
-    ],
-    "id": 111757,
-    "malId": 123357,
-    "type": "manga",
-    "title": "Minotauros no Omoibito",
     "url": "https://anilist.co/manga/111757",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111757-Sl8wQyGtHk8X.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-12-18T07:23:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123357/Minotauros_no_Omoibito"
+    "externalLinks": [],
+    "malId": 123357,
+    "deletedAt": null,
+    "authors": [
+      "Keijirou",
+      "Shou"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takano Ichigo"
-  ],
+  "createdAt": "2021-07-04T03:33:50.000Z",
+  "updatedAt": "2022-05-16T15:29:08.000Z",
+  "checkedAt": "2022-05-16T15:29:04.000Z",
+  "id": 80791,
   "identifier": "manga-an954022",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35573,
   "aniId": 65573,
-  "createdAt": "2021-07-04T03:33:50.000Z",
-  "updatedAt": "2022-01-04T04:18:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takano Ichigo"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/Orange_%28%E6%BC%AB%E7%94%BB%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:58.000Z",
+    "updatedAt": "2022-05-14T10:12:35.000Z",
+    "checkedAt": "2022-05-14T10:12:35.000Z",
+    "id": 35573,
+    "type": "manga",
+    "title": "Orange",
     "altTitle": [
       "Haru-iro Astronaut",
       "Spring-Colored Astronaut",
@@ -33,21 +34,29 @@
       "orange",
       "orange"
     ],
-    "authors": [
-      "Takano, Ichigo"
-    ],
-    "id": 35573,
-    "type": "manga",
-    "title": "Orange",
     "url": "https://myanimelist.net/manga/35573/Orange",
     "image": "https://cdn.myanimelist.net/images/manga/2/153742.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:58.000Z",
-    "updatedAt": "2022-04-14T15:30:37.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Orange_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takano, Ichigo"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.906Z",
+    "updatedAt": "2022-05-15T16:07:47.000Z",
+    "checkedAt": "2022-05-15T16:07:47.000Z",
+    "id": 65573,
+    "type": "manga",
+    "title": "orange",
     "altTitle": [
       "Orange",
       "orange [オレンジ]",
@@ -57,12 +66,18 @@
       "Haruiro Astronaut",
       "Orange - Lá thư từ tương lai"
     ],
+    "url": "https://anilist.co/manga/65573",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx65573-PwRU3hisff0g.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/orange/volumes"
       }
     ],
+    "malId": 35573,
+    "deletedAt": null,
     "authors": [
       "Ichigo Takano",
       "Ana María Caro",
@@ -79,18 +94,6 @@
       "Anna Křivánková",
       "Lasse Christiansen",
       "Hằng Trần"
-    ],
-    "id": 65573,
-    "malId": 35573,
-    "type": "manga",
-    "title": "orange",
-    "url": "https://anilist.co/manga/65573",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx65573-PwRU3hisff0g.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-04-17T07:00:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35573/Orange"
+    ]
+  }
 }

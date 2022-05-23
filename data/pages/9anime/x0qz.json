@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:21.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10038,
   "identifier": "x0qz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2052,
   "aniId": 2052,
-  "createdAt": "2020-10-12T15:56:21.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-22T00:26:07.000Z",
+    "checkedAt": "2022-05-22T00:26:07.000Z",
+    "id": 2052,
+    "type": "anime",
+    "title": "Nozomi Witches",
+    "altTitle": [
+      "Bewitching Nozomi",
+      "のぞみ ウィッチィズ"
+    ],
+    "url": "https://myanimelist.net/anime/2052/Nozomi_Witches",
+    "image": "https://cdn.myanimelist.net/images/anime/8/53187.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bewitching Nozomi",
-      "のぞみ ウィッチィズ"
-    ],
+    "deletedAt": null,
+    "anidbId": 2704
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-22T00:26:07.000Z",
+    "checkedAt": "2022-05-22T00:26:06.000Z",
     "id": 2052,
     "type": "anime",
     "title": "Nozomi Witches",
-    "url": "https://myanimelist.net/anime/2052/Nozomi_Witches",
-    "image": "https://cdn.myanimelist.net/images/anime/8/53187.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2704,
-    "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2022-03-31T04:04:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "のぞみ ウィッチィズ",
       "Bewitching Nozomi"
     ],
-    "externalLinks": [],
-    "id": 2052,
-    "malId": 2052,
-    "type": "anime",
-    "title": "Nozomi Witches",
     "url": "https://anilist.co/anime/2052",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2052.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:08.000Z",
-    "updatedAt": "2021-12-17T09:55:46.000Z",
+    "externalLinks": [],
+    "malId": 2052,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2052/Nozomi_Witches"
+  }
 }

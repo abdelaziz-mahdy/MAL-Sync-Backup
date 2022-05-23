@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SATO Yoshimi"
-  ],
+  "createdAt": "2021-03-25T01:49:03.000Z",
+  "updatedAt": "2022-02-26T09:17:40.000Z",
+  "checkedAt": null,
+  "id": 66947,
   "identifier": "crossing-time",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 110243,
   "aniId": 102202,
-  "createdAt": "2021-03-25T01:49:03.000Z",
-  "updatedAt": "2022-02-26T09:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "SATO Yoshimi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:18.000Z",
+    "updatedAt": "2022-05-18T16:28:38.000Z",
+    "checkedAt": "2022-05-18T16:28:38.000Z",
+    "id": 110243,
+    "type": "manga",
+    "title": "Fumikiri Jikan",
+    "altTitle": [
+      "踏切時間"
+    ],
+    "url": "https://myanimelist.net/manga/110243/Fumikiri_Jikan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/202746.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +40,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "踏切時間"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sato, Yoshimi"
-    ],
-    "id": 110243,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.215Z",
+    "updatedAt": "2022-05-18T16:28:37.000Z",
+    "checkedAt": "2022-05-18T16:28:37.000Z",
+    "id": 102202,
     "type": "manga",
     "title": "Fumikiri Jikan",
-    "url": "https://myanimelist.net/manga/110243/Fumikiri_Jikan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/202746.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:18.000Z",
-    "updatedAt": "2022-02-26T03:48:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Crossing Time",
       "踏切時間",
       "อลวนจังหวะข้ามทางรถไฟ"
     ],
+    "url": "https://anilist.co/manga/102202",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102202-1HMQe1iEjfUw.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/crossing-time/volumes"
       }
     ],
+    "malId": 110243,
+    "deletedAt": null,
     "authors": [
       "Sato Yoshimi",
       "Michelle Tymon"
-    ],
-    "id": 102202,
-    "malId": 110243,
-    "type": "manga",
-    "title": "Fumikiri Jikan",
-    "url": "https://anilist.co/manga/102202",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102202-1HMQe1iEjfUw.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:56:10.000Z",
-    "updatedAt": "2022-05-01T09:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110243/Fumikiri_Jikan"
+    ]
+  }
 }

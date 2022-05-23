@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ASADA Hiroyuki"
-  ],
+  "createdAt": "2021-03-23T02:05:10.000Z",
+  "updatedAt": "2021-12-02T06:47:48.000Z",
+  "checkedAt": null,
+  "id": 66700,
   "identifier": "letter-bee",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 1709,
   "aniId": 31709,
-  "createdAt": "2021-03-23T02:05:10.000Z",
-  "updatedAt": "2021-12-02T06:47:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "ASADA Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-22T16:15:10.000Z",
+    "checkedAt": "2022-05-22T16:15:10.000Z",
+    "id": 1709,
+    "type": "manga",
+    "title": "Tegamibachi",
+    "altTitle": [
+      "Tegami Bachi to Dingo",
+      "Tegami Bachi: Letter Bee",
+      "テガミバチ"
+    ],
+    "url": "https://myanimelist.net/manga/1709/Tegamibachi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154448.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,52 +42,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tegami Bachi to Dingo",
-      "Tegami Bachi: Letter Bee",
-      "テガミバチ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asada, Hiroyuki"
-    ],
-    "id": 1709,
-    "type": "manga",
-    "title": "Tegamibachi",
-    "url": "https://myanimelist.net/manga/1709/Tegamibachi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154448.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-02-27T22:48:51.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.367Z",
+    "updatedAt": "2022-05-22T16:15:09.000Z",
+    "checkedAt": "2022-05-22T16:15:09.000Z",
+    "id": 31709,
+    "type": "manga",
+    "title": "Tegami Bachi",
     "altTitle": [
       "Tegami Bachi: Letter Bee",
       "テガミバチ",
       "Tegamibachi",
       "Tegami Bachi to Dingo"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/tegami-bachi"
-      }
-    ],
-    "authors": [
-      "Hiroyuki Asada"
-    ],
-    "id": 31709,
-    "malId": 1709,
-    "type": "manga",
-    "title": "Tegami Bachi",
     "url": "https://anilist.co/manga/31709",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31709-wKDaqXesZpPW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2021-12-17T10:12:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1709/Tegamibachi"
+    "externalLinks": [
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/200045"
+      }
+    ],
+    "malId": 1709,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Asada"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:24.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5200,
   "identifier": "k24w",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2355,
   "aniId": 2355,
-  "createdAt": "2020-10-12T15:52:24.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-14T20:22:35.000Z",
+    "checkedAt": "2022-05-14T20:22:35.000Z",
+    "id": 2355,
+    "type": "anime",
+    "title": "Devilman: Yochou Sirene-hen",
+    "altTitle": [
+      "Devilman: The Demon Bird",
+      "デビルマン 妖鳥シレーヌ編"
+    ],
+    "url": "https://myanimelist.net/anime/2355/Devilman__Yochou_Sirene-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1362/106934.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,23 +42,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Devilman: The Demon Bird",
-      "デビルマン 妖鳥シレーヌ編"
-    ],
+    "deletedAt": null,
+    "anidbId": 1659
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:16.000Z",
+    "updatedAt": "2022-05-15T12:28:47.000Z",
+    "checkedAt": "2022-05-15T12:28:47.000Z",
     "id": 2355,
     "type": "anime",
-    "title": "Devilman: Yochou Sirene-hen",
-    "url": "https://myanimelist.net/anime/2355/Devilman__Yochou_Sirene-hen",
-    "image": "https://cdn.myanimelist.net/images/anime/1362/106934.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1659,
-    "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2022-04-21T04:33:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Devilman: Youchou Sirene-hen",
     "altTitle": [
       "Devilman: The Demon Bird",
       "デビルマン 妖鳥シレーヌ編",
@@ -51,18 +60,12 @@
       "Devilman - L`Arpia Silen",
       "Devilman - La sorcière oiseau"
     ],
-    "externalLinks": [],
-    "id": 2355,
-    "malId": 2355,
-    "type": "anime",
-    "title": "Devilman: Youchou Sirene-hen",
     "url": "https://anilist.co/anime/2355",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2355-OiUU6AhqJ4jR.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:16.000Z",
-    "updatedAt": "2022-04-30T12:30:32.000Z",
+    "externalLinks": [],
+    "malId": 2355,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2355/Devilman__Yochou_Sirene-hen"
+  }
 }

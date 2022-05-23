@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:12.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3533,
   "identifier": "7py",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4720,
   "aniId": 4720,
-  "createdAt": "2020-10-12T15:51:12.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-14T16:23:57.000Z",
+    "checkedAt": "2022-05-14T16:23:57.000Z",
+    "id": 4720,
+    "type": "anime",
+    "title": "White Album",
+    "altTitle": [
+      "W.A.",
+      "White Album",
+      "ホワイトアルバム"
+    ],
+    "url": "https://myanimelist.net/anime/4720/White_Album",
+    "image": "https://cdn.myanimelist.net/images/anime/12/43537.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,47 +56,33 @@
         "url": "http://www.crunchyroll.com/series-191567"
       }
     ],
-    "altTitle": [
-      "W.A.",
-      "White Album",
-      "ホワイトアルバム"
-    ],
+    "deletedAt": null,
+    "anidbId": 6026
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-15T11:44:47.000Z",
+    "checkedAt": "2022-05-15T11:44:47.000Z",
     "id": 4720,
     "type": "anime",
-    "title": "White Album",
-    "url": "https://myanimelist.net/anime/4720/White_Album",
-    "image": "https://cdn.myanimelist.net/images/anime/12/43537.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 6026,
-    "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2022-04-28T07:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "WHITE ALBUM",
     "altTitle": [
       "White Album",
       "WHITE ALBUM",
       "W.A.",
       "ホワイトアルバム"
     ],
+    "url": "https://anilist.co/anime/4720",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4720.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/white-album"
       }
     ],
-    "id": 4720,
     "malId": 4720,
-    "type": "anime",
-    "title": "WHITE ALBUM",
-    "url": "https://anilist.co/anime/4720",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4720.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:37:37.000Z",
-    "updatedAt": "2021-12-17T11:27:07.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4720/White_Album"
+  }
 }

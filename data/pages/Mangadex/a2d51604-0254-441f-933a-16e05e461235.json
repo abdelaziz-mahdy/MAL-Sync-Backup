@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Minato Soft",
-    "Sumeragi Hamao"
-  ],
+  "createdAt": "2020-12-06T06:11:07.000Z",
+  "updatedAt": "2021-12-08T08:36:51.000Z",
+  "checkedAt": null,
+  "id": 53624,
   "identifier": "a2d51604-0254-441f-933a-16e05e461235",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20599,
   "aniId": 50599,
-  "createdAt": "2020-12-06T06:11:07.000Z",
-  "updatedAt": "2021-12-08T08:36:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minato Soft",
+    "Sumeragi Hamao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:52.000Z",
+    "updatedAt": "2022-05-18T22:25:06.000Z",
+    "checkedAt": "2022-05-18T22:25:06.000Z",
+    "id": 20599,
+    "type": "manga",
+    "title": "Maji de Watashi ni Koi Shinasai!",
+    "altTitle": [
+      "Shinken de Watashi ni Koi Shinasai",
+      "Majikoi",
+      "真剣で私に恋しなさい！"
+    ],
+    "url": "https://myanimelist.net/manga/20599/Maji_de_Watashi_ni_Koi_Shinasai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/95425.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +47,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shinken de Watashi ni Koi Shinasai",
-      "Majikoi",
-      "真剣で私に恋しなさい！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minato Soft",
       "Inue, Shinsuke"
-    ],
-    "id": 20599,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:40.115Z",
+    "updatedAt": "2022-05-18T22:25:04.000Z",
+    "checkedAt": "2022-05-18T22:25:04.000Z",
+    "id": 50599,
     "type": "manga",
     "title": "Maji de Watashi ni Koi Shinasai!",
-    "url": "https://myanimelist.net/manga/20599/Maji_de_Watashi_ni_Koi_Shinasai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/95425.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:52.000Z",
-    "updatedAt": "2022-02-13T19:11:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "真剣で私に恋しなさい！",
       "Shinken de Watashi ni Koi Shinasai",
       "Majikoi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Minato Soft",
-      "Shinsuke Inue"
-    ],
-    "id": 50599,
-    "malId": 20599,
-    "type": "manga",
-    "title": "Maji de Watashi ni Koi Shinasai!",
     "url": "https://anilist.co/manga/50599",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20599.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:33.000Z",
-    "updatedAt": "2021-12-17T17:17:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20599/Maji_de_Watashi_ni_Koi_Shinasai"
+    "externalLinks": [],
+    "malId": 20599,
+    "deletedAt": null,
+    "authors": [
+      "Minato Soft",
+      "Shinsuke Inue"
+    ]
+  }
 }

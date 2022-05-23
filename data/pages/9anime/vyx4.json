@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:02.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9544,
   "identifier": "vyx4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 840,
   "aniId": 840,
-  "createdAt": "2020-10-12T15:56:02.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T18:12:17.000Z",
+    "checkedAt": "2022-05-14T18:12:17.000Z",
+    "id": 840,
+    "type": "anime",
+    "title": "Narue no Sekai",
+    "altTitle": [
+      "Narue's world",
+      "The World of Narue",
+      "成恵の世界"
+    ],
+    "url": "https://myanimelist.net/anime/840/Narue_no_Sekai",
+    "image": "https://cdn.myanimelist.net/images/anime/7/19048.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Narue's world",
-      "The World of Narue",
-      "成恵の世界"
-    ],
+    "deletedAt": null,
+    "anidbId": 586
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T18:28:11.000Z",
+    "checkedAt": "2022-05-15T18:28:11.000Z",
     "id": 840,
     "type": "anime",
     "title": "Narue no Sekai",
-    "url": "https://myanimelist.net/anime/840/Narue_no_Sekai",
-    "image": "https://cdn.myanimelist.net/images/anime/7/19048.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 586,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-04-18T11:31:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The World of Narue",
       "成恵の世界",
       "Narue's world"
     ],
-    "externalLinks": [],
-    "id": 840,
-    "malId": 840,
-    "type": "anime",
-    "title": "Narue no Sekai",
     "url": "https://anilist.co/anime/840",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/840.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:46.000Z",
-    "updatedAt": "2021-12-17T08:55:57.000Z",
+    "externalLinks": [],
+    "malId": 840,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/840/Narue_no_Sekai"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamazaki Mari",
-    "Tori Miki"
-  ],
+  "createdAt": "2020-10-12T16:14:35.000Z",
+  "updatedAt": "2021-12-06T06:48:01.000Z",
+  "checkedAt": null,
+  "id": 25219,
   "identifier": "be88a567-e49b-4365-8f9f-2cfd892755a7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86649,
   "aniId": 98737,
-  "createdAt": "2020-10-12T16:14:35.000Z",
-  "updatedAt": "2021-12-06T06:48:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamazaki Mari",
+    "Tori Miki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:52.000Z",
+    "updatedAt": "2022-05-15T21:33:21.000Z",
+    "checkedAt": "2022-05-15T21:33:21.000Z",
+    "id": 86649,
+    "type": "manga",
+    "title": "Plinivs",
+    "altTitle": [
+      "Plinius",
+      "プリニウス"
+    ],
+    "url": "https://myanimelist.net/manga/86649/Plinivs",
+    "image": "https://cdn.myanimelist.net/images/manga/3/150433.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Plinius",
-      "プリニウス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tori, Miki",
       "Yamazaki, Mari"
-    ],
-    "id": 86649,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:31.742Z",
+    "updatedAt": "2022-05-15T22:17:35.000Z",
+    "checkedAt": "2022-05-15T22:17:35.000Z",
+    "id": 98737,
     "type": "manga",
     "title": "Plinivs",
-    "url": "https://myanimelist.net/manga/86649/Plinivs",
-    "image": "https://cdn.myanimelist.net/images/manga/3/150433.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:52.000Z",
-    "updatedAt": "2021-11-12T19:43:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "プリニウス",
       "Plinius"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mari Yamazaki",
-      "Miki Tori"
-    ],
-    "id": 98737,
-    "malId": 86649,
-    "type": "manga",
-    "title": "Plinivs",
     "url": "https://anilist.co/manga/98737",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98737-DuFmZA545xUt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:44.000Z",
-    "updatedAt": "2021-12-18T02:30:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86649/Plinivs"
+    "externalLinks": [],
+    "malId": 86649,
+    "deletedAt": null,
+    "authors": [
+      "Mari Yamazaki",
+      "Miki Tori"
+    ]
+  }
 }

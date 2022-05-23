@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sunrise",
-    "Tsuchiya Karegashi"
-  ],
+  "createdAt": "2020-10-12T16:06:30.000Z",
+  "updatedAt": "2021-12-03T20:18:27.000Z",
+  "checkedAt": null,
+  "id": 8624,
   "identifier": "79578742-c9bd-4fe3-a8b1-df1ff2d0f173",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 52237,
   "aniId": 82237,
-  "createdAt": "2020-10-12T16:06:30.000Z",
-  "updatedAt": "2021-12-03T20:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sunrise",
+    "Tsuchiya Karegashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:43.000Z",
+    "updatedAt": "2022-02-28T08:47:51.000Z",
+    "checkedAt": null,
+    "id": 52237,
+    "type": "manga",
+    "title": "Kakumeiki Valvrave",
+    "altTitle": [
+      "Valvrave the Liberator",
+      "VVV",
+      "革命機ヴァルヴレイヴ"
+    ],
+    "url": "https://myanimelist.net/manga/52237/Kakumeiki_Valvrave",
+    "image": "https://cdn.myanimelist.net/images/manga/2/115041.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Valvrave the Liberator",
-      "VVV",
-      "革命機ヴァルヴレイヴ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuchiya, Karegashi"
-    ],
-    "id": 52237,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:01.118Z",
+    "updatedAt": "2022-05-13T12:47:01.118Z",
+    "checkedAt": null,
+    "id": 82237,
     "type": "manga",
     "title": "Kakumeiki Valvrave",
-    "url": "https://myanimelist.net/manga/52237/Kakumeiki_Valvrave",
-    "image": "https://cdn.myanimelist.net/images/manga/2/115041.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:43.000Z",
-    "updatedAt": "2022-02-28T08:47:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "革命機ヴァルヴレイヴ",
       "Valvrave the Liberator",
       "VVV"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Karegashi Tsuchiya"
-    ],
-    "id": 82237,
-    "malId": 52237,
-    "type": "manga",
-    "title": "Kakumeiki Valvrave",
     "url": "https://anilist.co/manga/82237",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52237-WAxTndrcNzhr.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:56.000Z",
-    "updatedAt": "2021-12-17T21:31:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/52237/Kakumeiki_Valvrave"
+    "externalLinks": [],
+    "malId": 52237,
+    "deletedAt": null,
+    "authors": [
+      "Karegashi Tsuchiya"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Keita Yatera"
-  ],
+  "createdAt": "2020-10-12T16:15:41.000Z",
+  "updatedAt": "2021-12-06T16:19:33.000Z",
+  "checkedAt": null,
+  "id": 27529,
   "identifier": "b84a9c69-624b-4c4f-ac57-8d9a162883f1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120250,
   "aniId": 110159,
-  "createdAt": "2020-10-12T16:15:41.000Z",
-  "updatedAt": "2021-12-06T16:19:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Keita Yatera"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:03.000Z",
+    "updatedAt": "2022-05-15T14:45:15.000Z",
+    "checkedAt": "2022-05-15T14:45:15.000Z",
+    "id": 120250,
+    "type": "manga",
+    "title": "Ponkotsu Ponko",
+    "altTitle": [
+      "Useless Ponko",
+      "ぽんこつポン子"
+    ],
+    "url": "https://myanimelist.net/manga/120250/Ponkotsu_Ponko",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220644.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Useless Ponko",
-      "ぽんこつポン子"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yatera, Keita"
-    ],
-    "id": 120250,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:49.872Z",
+    "updatedAt": "2022-05-15T18:24:35.000Z",
+    "checkedAt": "2022-05-15T18:24:35.000Z",
+    "id": 110159,
     "type": "manga",
     "title": "Ponkotsu Ponko",
-    "url": "https://myanimelist.net/manga/120250/Ponkotsu_Ponko",
-    "image": "https://cdn.myanimelist.net/images/manga/1/220644.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2022-04-10T15:02:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ぽんこつポン子",
       "Useless Ponko"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keita Yatera"
-    ],
-    "id": 110159,
-    "malId": 120250,
-    "type": "manga",
-    "title": "Ponkotsu Ponko",
     "url": "https://anilist.co/manga/110159",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110159-lLa3913cWK5x.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:13.000Z",
-    "updatedAt": "2021-12-18T06:51:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120250/Ponkotsu_Ponko"
+    "externalLinks": [],
+    "malId": 120250,
+    "deletedAt": null,
+    "authors": [
+      "Keita Yatera"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Akinosora",
-    "Akino Sora"
-  ],
+  "createdAt": "2020-10-12T16:16:15.000Z",
+  "updatedAt": "2021-12-06T21:17:23.000Z",
+  "checkedAt": null,
+  "id": 28690,
   "identifier": "c0da146e-05b6-4e8d-96ef-124845b478eb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91354,
   "aniId": 95516,
-  "createdAt": "2020-10-12T16:16:15.000Z",
-  "updatedAt": "2021-12-06T21:17:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akinosora",
+    "Akino Sora"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:07.000Z",
+    "updatedAt": "2021-11-14T04:15:41.000Z",
+    "checkedAt": null,
+    "id": 91354,
+    "type": "manga",
+    "title": "Junren",
     "altTitle": [
       "Hanamizuki",
       "With a Klutz",
@@ -34,21 +40,24 @@
       "Shishiteru",
       "じゅんれん"
     ],
-    "authors": [
-      "Akino, Sora"
-    ],
-    "id": 91354,
-    "type": "manga",
-    "title": "Junren",
     "url": "https://myanimelist.net/manga/91354/Junren",
     "image": "https://cdn.myanimelist.net/images/manga/1/160382.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:46:07.000Z",
-    "updatedAt": "2021-11-14T04:15:41.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Akino, Sora"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:33.266Z",
+    "updatedAt": "2022-05-13T12:43:33.266Z",
+    "checkedAt": null,
+    "id": 95516,
+    "type": "manga",
+    "title": "Junren",
     "altTitle": [
       "じゅんれん",
       "Hanamizuki",
@@ -64,21 +73,15 @@
       "Marking",
       "Shiishiteru"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sora Akino"
-    ],
-    "id": 95516,
-    "malId": 91354,
-    "type": "manga",
-    "title": "Junren",
     "url": "https://anilist.co/manga/95516",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95516-BYRGbhuhcYKN.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:53:08.000Z",
-    "updatedAt": "2021-12-18T01:26:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91354/Junren"
+    "externalLinks": [],
+    "malId": 91354,
+    "deletedAt": null,
+    "authors": [
+      "Sora Akino"
+    ]
+  }
 }

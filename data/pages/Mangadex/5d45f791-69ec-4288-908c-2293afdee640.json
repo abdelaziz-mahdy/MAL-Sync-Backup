@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sumino Yoru",
-    "Nieki Zui"
-  ],
+  "createdAt": "2020-10-12T16:13:31.000Z",
+  "updatedAt": "2021-12-05T22:18:19.000Z",
+  "checkedAt": null,
+  "id": 23054,
   "identifier": "5d45f791-69ec-4288-908c-2293afdee640",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116734,
   "aniId": 103677,
-  "createdAt": "2020-10-12T16:13:31.000Z",
-  "updatedAt": "2021-12-05T22:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sumino Yoru",
+    "Nieki Zui"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:48.000Z",
+    "updatedAt": "2022-05-14T09:05:12.000Z",
+    "checkedAt": "2022-05-14T09:05:12.000Z",
+    "id": 116734,
+    "type": "manga",
+    "title": "Kakushigoto",
+    "altTitle": [
+      "Ka「」Ku「」Shi「」Go「」To「",
+      "Secrets",
+      "か「」く「」し「」ご「」と「"
+    ],
+    "url": "https://myanimelist.net/manga/116734/Kakushigoto",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219888.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ka「」Ku「」Shi「」Go「」To「",
-      "Secrets",
-      "か「」く「」し「」ご「」と「"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nieki, Zui",
       "Sumino, Yoru"
-    ],
-    "id": 116734,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:23.672Z",
+    "updatedAt": "2022-05-13T23:33:29.000Z",
+    "checkedAt": "2022-05-13T23:33:29.000Z",
+    "id": 103677,
     "type": "manga",
     "title": "Kakushigoto",
-    "url": "https://myanimelist.net/manga/116734/Kakushigoto",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219888.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:48.000Z",
-    "updatedAt": "2021-11-23T01:07:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "か「」く「」し「」ご「」と「",
       "Ka「」Ku「」Shi「」Go「」To「"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoru Sumino",
-      "Zui Nieki"
-    ],
-    "id": 103677,
-    "malId": 116734,
-    "type": "manga",
-    "title": "Kakushigoto",
     "url": "https://anilist.co/manga/103677",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103677-09L4AZJXtIJw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:24.000Z",
-    "updatedAt": "2021-12-18T04:30:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116734/Kakushigoto"
+    "externalLinks": [],
+    "malId": 116734,
+    "deletedAt": null,
+    "authors": [
+      "Yoru Sumino",
+      "Zui Nieki"
+    ]
+  }
 }

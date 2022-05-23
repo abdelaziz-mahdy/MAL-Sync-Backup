@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Samamiya Akaza"
-  ],
+  "createdAt": "2020-10-12T16:06:01.000Z",
+  "updatedAt": "2021-12-03T16:50:48.000Z",
+  "checkedAt": null,
+  "id": 7562,
   "identifier": "76ffb540-8af3-4af2-a1ee-b918e79e903f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 47851,
   "aniId": 77851,
-  "createdAt": "2020-10-12T16:06:01.000Z",
-  "updatedAt": "2021-12-03T16:50:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Samamiya Akaza"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:30.000Z",
+    "updatedAt": "2021-11-07T11:49:47.000Z",
+    "checkedAt": null,
+    "id": 47851,
+    "type": "manga",
+    "title": "Torikago Syndrome",
+    "altTitle": [
+      "Birdcage Syndrome",
+      "Vogelkäfig Syndrom",
+      "鳥籠シンドローム"
+    ],
+    "url": "https://myanimelist.net/manga/47851/Torikago_Syndrome",
+    "image": "https://cdn.myanimelist.net/images/manga/3/137943.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Birdcage Syndrome",
-      "Vogelkäfig Syndrom",
-      "鳥籠シンドローム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Samamiya, Akaza"
-    ],
-    "id": 47851,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:26.550Z",
+    "updatedAt": "2022-05-13T12:43:26.550Z",
+    "checkedAt": null,
+    "id": 77851,
     "type": "manga",
     "title": "Torikago Syndrome",
-    "url": "https://myanimelist.net/manga/47851/Torikago_Syndrome",
-    "image": "https://cdn.myanimelist.net/images/manga/3/137943.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:30.000Z",
-    "updatedAt": "2021-11-07T11:49:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "鳥籠シンドローム",
       "Birdcage Syndrome",
       "Vogelkäfig Syndrom"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akaza Samamiya"
-    ],
-    "id": 77851,
-    "malId": 47851,
-    "type": "manga",
-    "title": "Torikago Syndrome",
     "url": "https://anilist.co/manga/77851",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx77851-piJMGjKc39y9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:37.000Z",
-    "updatedAt": "2021-12-17T21:01:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/47851/Torikago_Syndrome"
+    "externalLinks": [],
+    "malId": 47851,
+    "deletedAt": null,
+    "authors": [
+      "Akaza Samamiya"
+    ]
+  }
 }

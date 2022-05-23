@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugata Uri"
-  ],
+  "createdAt": "2022-01-06T04:18:02.000Z",
+  "updatedAt": "2022-01-06T04:47:51.000Z",
+  "checkedAt": null,
+  "id": 94298,
   "identifier": "manga-go954649",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90396,
   "aniId": 95287,
-  "createdAt": "2022-01-06T04:18:02.000Z",
-  "updatedAt": "2022-01-06T04:47:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugata Uri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:03.000Z",
+    "updatedAt": "2022-01-06T04:18:12.000Z",
+    "checkedAt": null,
+    "id": 90396,
+    "type": "manga",
+    "title": "Ichibanboshi Kirari",
+    "altTitle": [
+      "いちばん星キラリ"
+    ],
+    "url": "https://myanimelist.net/manga/90396/Ichibanboshi_Kirari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/172315.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "いちばん星キラリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugata, Uri"
-    ],
-    "id": 90396,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:06.996Z",
+    "updatedAt": "2022-05-13T12:46:06.996Z",
+    "checkedAt": null,
+    "id": 95287,
     "type": "manga",
     "title": "Ichibanboshi Kirari",
-    "url": "https://myanimelist.net/manga/90396/Ichibanboshi_Kirari",
-    "image": "https://cdn.myanimelist.net/images/manga/1/172315.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:03.000Z",
-    "updatedAt": "2022-01-06T04:18:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "いちばん星キラリ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Uri Sugata"
-    ],
-    "id": 95287,
-    "malId": 90396,
-    "type": "manga",
-    "title": "Ichibanboshi Kirari",
     "url": "https://anilist.co/manga/95287",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95287-kLLjwTsLJk1l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:05.000Z",
-    "updatedAt": "2021-12-18T01:23:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90396/Ichibanboshi_Kirari"
+    "externalLinks": [],
+    "malId": 90396,
+    "deletedAt": null,
+    "authors": [
+      "Uri Sugata"
+    ]
+  }
 }

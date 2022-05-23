@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Fuse",
-    "Chacha"
-  ],
+  "createdAt": "2021-06-05T22:49:38.000Z",
+  "updatedAt": "2022-02-03T13:18:23.000Z",
+  "checkedAt": null,
+  "id": 76781,
   "identifier": "manga-ee981639",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120246,
   "aniId": 110029,
-  "createdAt": "2021-06-05T22:49:38.000Z",
-  "updatedAt": "2022-02-03T13:18:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fuse",
+    "Chacha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:03.000Z",
+    "updatedAt": "2022-05-22T05:54:15.000Z",
+    "checkedAt": "2022-05-22T05:54:15.000Z",
+    "id": 120246,
+    "type": "manga",
+    "title": "Tenchura! Tensei shitara Slime Datta Ken",
+    "altTitle": [
+      "転ちゅら！ 転生したらスライムだった件"
+    ],
+    "url": "https://myanimelist.net/manga/120246/Tenchura_Tensei_shitara_Slime_Datta_Ken",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227301.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "転ちゅら！ 転生したらスライムだった件"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chacha"
-    ],
-    "id": 120246,
-    "type": "manga",
-    "title": "Tenchura! Tensei shitara Slime Datta Ken",
-    "url": "https://myanimelist.net/manga/120246/Tenchura_Tensei_shitara_Slime_Datta_Ken",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227301.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2022-02-03T13:18:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:07.762Z",
+    "updatedAt": "2022-05-22T05:54:13.000Z",
+    "checkedAt": "2022-05-22T05:54:13.000Z",
+    "id": 110029,
+    "type": "manga",
+    "title": "Tenchura! Tensei Shitara Slime Datta Ken",
     "altTitle": [
       "転ちゅら！ 転生したらスライムだった件"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chacha",
-      "Fuse",
-      "Mitz Vah"
-    ],
-    "id": 110029,
-    "malId": 120246,
-    "type": "manga",
-    "title": "Tenchura! Tensei Shitara Slime Datta Ken",
     "url": "https://anilist.co/manga/110029",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110029-ooRdNvcqBtV9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:13.000Z",
-    "updatedAt": "2021-12-18T06:50:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120246/Tenchura_Tensei_shitara_Slime_Datta_Ken"
+    "externalLinks": [],
+    "malId": 120246,
+    "deletedAt": null,
+    "authors": [
+      "Chacha",
+      "Fuse",
+      "Mitz Vah"
+    ]
+  }
 }

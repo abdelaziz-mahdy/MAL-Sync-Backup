@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nakanishi Tatsurou",
-    "Nini"
-  ],
+  "createdAt": "2020-10-12T16:02:37.000Z",
+  "updatedAt": "2021-12-02T08:46:46.000Z",
+  "checkedAt": null,
+  "id": 514,
   "identifier": "184fb4b6-4ab2-4eb0-87a9-10ec6280fe9e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18056,
   "aniId": 48056,
-  "createdAt": "2020-10-12T16:02:37.000Z",
-  "updatedAt": "2021-12-02T08:46:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakanishi Tatsurou",
+    "Nini"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:30.000Z",
+    "updatedAt": "2021-11-10T20:13:57.000Z",
+    "checkedAt": null,
+    "id": 18056,
+    "type": "manga",
+    "title": "Paradox Blue",
+    "altTitle": [
+      "Angels Falling Down",
+      "パラドクス・ブルー"
+    ],
+    "url": "https://myanimelist.net/manga/18056/Paradox_Blue",
+    "image": "https://cdn.myanimelist.net/images/manga/3/160512.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Angels Falling Down",
-      "パラドクス・ブルー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakanishi, Tatsurou",
       "nini"
-    ],
-    "id": 18056,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:12.791Z",
+    "updatedAt": "2022-05-13T13:00:12.791Z",
+    "checkedAt": null,
+    "id": 48056,
     "type": "manga",
     "title": "Paradox Blue",
-    "url": "https://myanimelist.net/manga/18056/Paradox_Blue",
-    "image": "https://cdn.myanimelist.net/images/manga/3/160512.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:30.000Z",
-    "updatedAt": "2021-11-10T20:13:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "パラドクス・ブルー",
       "Angels Falling Down (tentative)"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tatsurou Nakanishi",
-      "nini"
-    ],
-    "id": 48056,
-    "malId": 18056,
-    "type": "manga",
-    "title": "Paradox Blue",
     "url": "https://anilist.co/manga/48056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48056-vHoshnpYoiHM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:09.000Z",
-    "updatedAt": "2022-05-12T17:30:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/18056/Paradox_Blue"
+    "externalLinks": [],
+    "malId": 18056,
+    "deletedAt": null,
+    "authors": [
+      "Tatsurou Nakanishi",
+      "nini"
+    ]
+  }
 }

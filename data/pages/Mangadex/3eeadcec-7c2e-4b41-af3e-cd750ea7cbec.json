@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Franz Kafka",
-    "Variety Art Works"
-  ],
+  "createdAt": "2020-10-12T16:17:18.000Z",
+  "updatedAt": "2022-01-01T21:27:13.000Z",
+  "checkedAt": null,
+  "id": 30913,
   "identifier": "3eeadcec-7c2e-4b41-af3e-cd750ea7cbec",
   "type": "manga",
   "page": "Mangadex",
@@ -12,55 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 79951,
   "aniId": 92931,
-  "createdAt": "2020-10-12T16:17:18.000Z",
-  "updatedAt": "2022-01-01T21:27:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Franz Kafka",
+    "Variety Art Works"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2022-01-01T21:27:11.000Z",
+    "updatedAt": "2022-05-17T15:17:22.000Z",
+    "checkedAt": "2022-05-17T15:17:22.000Z",
+    "id": 79951,
+    "type": "manga",
+    "title": "Henshin",
     "altTitle": [
       "The Metamorphosis",
       "変身"
     ],
-    "authors": [
-      "Kafka, Franz",
-      "Variety Art Works"
-    ],
-    "id": 79951,
-    "type": "manga",
-    "title": "Henshin",
     "url": "https://myanimelist.net/manga/79951/Henshin",
     "image": "https://cdn.myanimelist.net/images/manga/1/138463.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2022-01-01T21:27:11.000Z",
-    "updatedAt": "2022-01-01T21:27:11.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kafka, Franz",
+      "Variety Art Works"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:39.780Z",
+    "updatedAt": "2022-05-17T15:17:21.000Z",
+    "checkedAt": "2022-05-17T15:17:21.000Z",
+    "id": 92931,
+    "type": "manga",
+    "title": "Henshin",
     "altTitle": [
       "The Metamorphosis",
       "変身"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Variety Art Works",
-      "Franz Kafka"
-    ],
-    "id": 92931,
-    "malId": 79951,
-    "type": "manga",
-    "title": "Henshin",
     "url": "https://anilist.co/manga/92931",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n92931-pYlWO1hPsp02.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T06:12:58.000Z",
-    "updatedAt": "2021-12-30T13:23:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79951/Henshin"
+    "externalLinks": [],
+    "malId": 79951,
+    "deletedAt": null,
+    "authors": [
+      "Variety Art Works",
+      "Franz Kafka"
+    ]
+  }
 }

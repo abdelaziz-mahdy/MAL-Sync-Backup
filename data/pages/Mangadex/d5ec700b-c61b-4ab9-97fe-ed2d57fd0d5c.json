@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Akashiro Aoi",
-    "Hangetsuban Sonshou"
-  ],
+  "createdAt": "2020-10-12T16:20:30.000Z",
+  "updatedAt": "2022-01-12T01:41:41.000Z",
+  "checkedAt": null,
+  "id": 37334,
   "identifier": "d5ec700b-c61b-4ab9-97fe-ed2d57fd0d5c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 127128,
   "aniId": 130965,
-  "createdAt": "2020-10-12T16:20:30.000Z",
-  "updatedAt": "2022-01-12T01:41:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akashiro Aoi",
+    "Hangetsuban Sonshou"
+  ],
   "Mal": {
+    "createdAt": "2020-11-18T14:20:43.000Z",
+    "updatedAt": "2022-05-19T00:39:14.000Z",
+    "checkedAt": "2022-05-19T00:39:14.000Z",
+    "id": 127128,
+    "type": "manga",
+    "title": "Kaminaki Sekai no Kamisama Katsudou",
+    "altTitle": [
+      "神無き世界のカミサマ活動"
+    ],
+    "url": "https://myanimelist.net/manga/127128/Kaminaki_Sekai_no_Kamisama_Katsudou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235050.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "神無き世界のカミサマ活動"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akashiro, Aoi",
       "Hangetsuban, Sonshou"
-    ],
-    "id": 127128,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:04.474Z",
+    "updatedAt": "2022-05-19T00:39:13.000Z",
+    "checkedAt": "2022-05-19T00:39:13.000Z",
+    "id": 130965,
     "type": "manga",
     "title": "Kaminaki Sekai no Kamisama Katsudou",
-    "url": "https://myanimelist.net/manga/127128/Kaminaki_Sekai_no_Kamisama_Katsudou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/235050.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-18T14:20:43.000Z",
-    "updatedAt": "2022-04-11T19:07:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神無き世界のカミサマ活動",
-      "God's Activity in a World Without Gods",
-      "Las Acciones de Un Dios en Un Mundo Sin Dioses",
       "โลกนี้ โลกหน้า ข้าก็เป็นพระเจ้า"
     ],
+    "url": "https://anilist.co/manga/130965",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130965-NUvCqDInSqlL.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 127128,
+    "deletedAt": null,
     "authors": [
       "Aoi Akashiro",
       "Hangetsuban Sonshou"
-    ],
-    "id": 130965,
-    "malId": 127128,
-    "type": "manga",
-    "title": "Kaminaki Sekai no Kamisama Katsudou",
-    "url": "https://anilist.co/manga/130965",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130965-TFDOoXWbmc7r.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-08T00:53:19.000Z",
-    "updatedAt": "2021-12-18T12:21:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127128/Kaminaki_Sekai_no_Kamisama_Katsudou"
+    ]
+  }
 }

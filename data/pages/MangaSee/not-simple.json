@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ONO Natsume"
-  ],
+  "createdAt": "2022-01-25T18:00:33.000Z",
+  "updatedAt": "2022-01-25T18:30:11.000Z",
+  "checkedAt": null,
+  "id": 95350,
   "identifier": "not-simple",
   "type": "manga",
   "page": "MangaSee",
@@ -11,54 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12569,
   "aniId": 42569,
-  "createdAt": "2022-01-25T18:00:33.000Z",
-  "updatedAt": "2022-01-25T18:30:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "ONO Natsume"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:46.000Z",
+    "updatedAt": "2022-05-15T00:34:17.000Z",
+    "checkedAt": "2022-05-15T00:34:17.000Z",
+    "id": 12569,
+    "type": "manga",
+    "title": "Not Simple",
     "altTitle": [
       "Not Simple",
       "not simple"
     ],
-    "authors": [
-      "Ono, Natsume"
-    ],
-    "id": 12569,
-    "type": "manga",
-    "title": "Not Simple",
     "url": "https://myanimelist.net/manga/12569/Not_Simple",
     "image": "https://cdn.myanimelist.net/images/manga/1/31180.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:46.000Z",
-    "updatedAt": "2022-01-25T18:01:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
-    "altTitle": [
-      "not simple",
-      "not simple"
-    ],
     "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
-      "Natsume Ono",
-      "Joe Yamazaki"
-    ],
+      "Ono, Natsume"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:56.995Z",
+    "updatedAt": "2022-05-17T06:57:25.000Z",
+    "checkedAt": "2022-05-17T06:57:25.000Z",
     "id": 42569,
-    "malId": 12569,
     "type": "manga",
     "title": "not simple",
+    "altTitle": [
+      "not simple",
+      "not simple",
+      "Complicado"
+    ],
     "url": "https://anilist.co/manga/42569",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42569-yREWH6qp0r8p.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:23.000Z",
-    "updatedAt": "2022-03-16T09:49:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12569/Not_Simple"
+    "externalLinks": [],
+    "malId": 12569,
+    "deletedAt": null,
+    "authors": [
+      "Natsume Ono",
+      "Joe Yamazaki"
+    ]
+  }
 }

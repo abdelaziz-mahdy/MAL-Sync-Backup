@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MAEDA Jun"
-  ],
+  "createdAt": "2021-08-13T04:37:04.000Z",
+  "updatedAt": "2022-02-13T05:09:37.000Z",
+  "checkedAt": null,
+  "id": 85172,
   "identifier": "charlotte",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91913,
   "aniId": 105941,
-  "createdAt": "2021-08-13T04:37:04.000Z",
-  "updatedAt": "2022-02-13T05:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "MAEDA Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-05-14T10:15:22.000Z",
+    "checkedAt": "2022-05-14T10:15:22.000Z",
+    "id": 91913,
+    "type": "manga",
+    "title": "Charlotte",
+    "altTitle": [
+      "Charlotte"
+    ],
+    "url": "https://myanimelist.net/manga/91913/Charlotte",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188823.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +40,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Charlotte"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maeda, Jun",
       "Chibimaru",
       "Tsurusaki, Yuu"
-    ],
-    "id": 91913,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:50.359Z",
+    "updatedAt": "2022-05-15T15:24:59.000Z",
+    "checkedAt": "2022-05-15T15:24:59.000Z",
+    "id": 105941,
     "type": "manga",
     "title": "Charlotte",
-    "url": "https://myanimelist.net/manga/91913/Charlotte",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188823.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2022-04-26T05:01:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Charlotte（シャーロット）"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Tsurusaki",
-      "Jun Maeda",
-      "Chibimaru"
-    ],
-    "id": 105941,
-    "malId": 91913,
-    "type": "manga",
-    "title": "Charlotte",
     "url": "https://anilist.co/manga/105941",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105941-g4GSH77TL3T8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:37.000Z",
-    "updatedAt": "2021-12-18T05:24:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91913/Charlotte"
+    "externalLinks": [],
+    "malId": 91913,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Tsurusaki",
+      "Jun Maeda",
+      "Chibimaru"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:26:48.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 22152,
   "identifier": "flcl",
   "type": "anime",
   "page": "Twistmoe",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 227,
   "aniId": 227,
-  "createdAt": "2020-10-12T16:26:48.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T15:57:43.000Z",
+    "checkedAt": "2022-05-14T15:57:43.000Z",
+    "id": 227,
+    "type": "anime",
+    "title": "FLCL",
+    "altTitle": [
+      "Fooly Cooly",
+      "Furi Kuri",
+      "FLCL",
+      "フリクリ"
+    ],
+    "url": "https://myanimelist.net/anime/227/FLCL",
+    "image": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,31 +57,26 @@
         "url": "https://www.funimation.com/shows/flcl"
       }
     ],
-    "altTitle": [
-      "Fooly Cooly",
-      "Furi Kuri",
-      "FLCL",
-      "フリクリ"
-    ],
+    "deletedAt": null,
+    "anidbId": 117
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T09:45:59.000Z",
+    "checkedAt": "2022-05-15T09:45:59.000Z",
     "id": 227,
     "type": "anime",
     "title": "FLCL",
-    "url": "https://myanimelist.net/anime/227/FLCL",
-    "image": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 117,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-05-01T04:03:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "FLCL",
       "フリクリ",
       "Fooly Cooly",
       "Furi Kuri"
     ],
+    "url": "https://anilist.co/anime/227",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx227-kxQ3PDHrrqp5.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -74,17 +87,7 @@
         "url": "http://www.hulu.com/flcl"
       }
     ],
-    "id": 227,
     "malId": 227,
-    "type": "anime",
-    "title": "FLCL",
-    "url": "https://anilist.co/anime/227",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx227-kxQ3PDHrrqp5.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2021-12-17T08:22:45.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/227/FLCL"
+  }
 }

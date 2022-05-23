@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshida Motoi"
-  ],
+  "createdAt": "2020-10-12T16:02:30.000Z",
+  "updatedAt": "2021-12-02T07:17:59.000Z",
+  "checkedAt": null,
+  "id": 261,
   "identifier": "c142ad0d-b064-47e7-80d1-5e31fca13064",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15242,
   "aniId": 45242,
-  "createdAt": "2020-10-12T16:02:30.000Z",
-  "updatedAt": "2021-12-02T07:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshida Motoi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:11.000Z",
+    "updatedAt": "2022-05-18T03:29:27.000Z",
+    "checkedAt": "2022-05-18T03:29:27.000Z",
+    "id": 15242,
+    "type": "manga",
+    "title": "Natsu no Zenjitsu",
+    "altTitle": [
+      "The Day Before Summer",
+      "夏の前日"
+    ],
+    "url": "https://myanimelist.net/manga/15242/Natsu_no_Zenjitsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/90125.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Day Before Summer",
-      "夏の前日"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshida, Motoi"
-    ],
-    "id": 15242,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:23.356Z",
+    "updatedAt": "2022-05-18T03:29:26.000Z",
+    "checkedAt": "2022-05-18T03:29:26.000Z",
+    "id": 45242,
     "type": "manga",
     "title": "Natsu no Zenjitsu",
-    "url": "https://myanimelist.net/manga/15242/Natsu_no_Zenjitsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/90125.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:11.000Z",
-    "updatedAt": "2021-12-03T04:47:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "夏の前日",
       "The Day Before Summer"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Motoi Yoshida"
-    ],
-    "id": 45242,
-    "malId": 15242,
-    "type": "manga",
-    "title": "Natsu no Zenjitsu",
     "url": "https://anilist.co/manga/45242",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx45242-eYJAutEbGEI4.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:44.000Z",
-    "updatedAt": "2021-12-17T15:44:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15242/Natsu_no_Zenjitsu"
+    "externalLinks": [],
+    "malId": 15242,
+    "deletedAt": null,
+    "authors": [
+      "Motoi Yoshida"
+    ]
+  }
 }

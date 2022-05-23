@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Taguchi Kenji"
-  ],
+  "createdAt": "2020-10-12T16:03:45.000Z",
+  "updatedAt": "2021-12-02T16:17:47.000Z",
+  "checkedAt": null,
+  "id": 2891,
   "identifier": "ca6261ee-82c1-464f-b8b8-0f15c315f805",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26285,
   "aniId": 56285,
-  "createdAt": "2020-10-12T16:03:45.000Z",
-  "updatedAt": "2021-12-02T16:17:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Taguchi Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:25.000Z",
+    "updatedAt": "2021-11-15T10:44:21.000Z",
+    "checkedAt": null,
+    "id": 26285,
+    "type": "manga",
+    "title": "DCD",
+    "altTitle": [
+      "Diamond Cut Diamond",
+      "DCD"
+    ],
+    "url": "https://myanimelist.net/manga/26285/DCD",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185998.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Diamond Cut Diamond",
-      "DCD"
-    ],
+    "deletedAt": null,
     "authors": [
       "Taguchi, Kenji"
-    ],
-    "id": 26285,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:35.955Z",
+    "updatedAt": "2022-05-13T13:03:35.955Z",
+    "checkedAt": null,
+    "id": 56285,
     "type": "manga",
     "title": "DCD",
-    "url": "https://myanimelist.net/manga/26285/DCD",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185998.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:25.000Z",
-    "updatedAt": "2021-11-15T10:44:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ディー・シー・ディー",
       "Diamond Cut Diamond"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Taguchi"
-    ],
-    "id": 56285,
-    "malId": 26285,
-    "type": "manga",
-    "title": "DCD",
     "url": "https://anilist.co/manga/56285",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56285-0FZuJUEgsT4o.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:02.000Z",
-    "updatedAt": "2021-12-17T18:42:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26285/DCD"
+    "externalLinks": [],
+    "malId": 26285,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Taguchi"
+    ]
+  }
 }

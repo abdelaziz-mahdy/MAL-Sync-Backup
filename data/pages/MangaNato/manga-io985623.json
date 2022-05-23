@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Suetsugu Yuki",
-    "Tokiumi Yui",
-    "Tooda Oto (Onda Oto)"
-  ],
+  "createdAt": "2022-05-09T07:31:32.000Z",
+  "updatedAt": "2022-05-13T15:21:24.000Z",
+  "checkedAt": "2022-05-13T15:00:27.000Z",
+  "id": 103456,
   "identifier": "manga-io985623",
   "type": "manga",
   "page": "MangaNato",
@@ -12,14 +11,67 @@
   "image": "https://avt.mkklcdnv6temp.com/23/y/21-1591113779.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T07:31:32.000Z",
-  "updatedAt": "2022-05-09T07:31:32.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 109886,
+  "aniId": 108635,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Suetsugu Yuki",
+    "Tokiumi Yui",
+    "Tooda Oto (Onda Oto)"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:17.000Z",
+    "updatedAt": "2022-05-13T15:00:28.000Z",
+    "checkedAt": "2022-05-13T15:00:28.000Z",
+    "id": 109886,
+    "type": "manga",
+    "title": "Chihayafuru: Chuugakusei-hen",
+    "altTitle": [
+      "Chihayafuru: Middle School Arc",
+      "ちはやふる 中学生編"
+    ],
+    "url": "https://myanimelist.net/manga/109886/Chihayafuru__Chuugakusei-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/206838.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tokiumi, Yui",
+      "Tooda, Oto"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:36.966Z",
+    "updatedAt": "2022-05-17T03:08:46.000Z",
+    "checkedAt": "2022-05-17T03:08:46.000Z",
+    "id": 108635,
+    "type": "manga",
+    "title": "Chihayafuru: Chuugakusei-hen",
+    "altTitle": [
+      "ちはやふる 中学生編",
+      "Chihayafuru Chūgakusei-hen",
+      "Chihayafuru: Middle School Arc"
+    ],
+    "url": "https://anilist.co/manga/108635",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108635-JFSD0XzmQsm9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 109886,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Suetsugu",
+      "Yui Tokiumi",
+      "Oto Tooda"
+    ]
+  }
 }

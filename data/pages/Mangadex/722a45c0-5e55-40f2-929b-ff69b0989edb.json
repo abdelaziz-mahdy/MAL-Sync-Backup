@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Plutus",
-    "Spoon"
-  ],
+  "createdAt": "2020-10-12T16:14:31.000Z",
+  "updatedAt": "2021-12-06T06:18:02.000Z",
+  "checkedAt": null,
+  "id": 25094,
   "identifier": "722a45c0-5e55-40f2-929b-ff69b0989edb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121269,
   "aniId": 107521,
-  "createdAt": "2020-10-12T16:14:31.000Z",
-  "updatedAt": "2021-12-06T06:18:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Plutus",
+    "Spoon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:06.000Z",
+    "updatedAt": "2022-05-14T09:31:44.000Z",
+    "checkedAt": "2022-05-14T09:31:44.000Z",
+    "id": 121269,
+    "type": "manga",
+    "title": "Who Made Me a Princess",
+    "altTitle": [
+      "Eoneu Nal Gongjuga Doeeo Beoryeotda",
+      "Suddenly Became A Princess One Day",
+      "어느 날 공주가 되어버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/121269/Who_Made_Me_a_Princess",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222587.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eoneu Nal Gongjuga Doeeo Beoryeotda",
-      "Suddenly Became A Princess One Day",
-      "어느 날 공주가 되어버렸다"
-    ],
+    "deletedAt": null,
     "authors": [
       "Plutus",
       "Spoon"
-    ],
-    "id": 121269,
-    "type": "manga",
-    "title": "Who Made Me a Princess",
-    "url": "https://myanimelist.net/manga/121269/Who_Made_Me_a_Princess",
-    "image": "https://cdn.myanimelist.net/images/manga/1/222587.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:06.000Z",
-    "updatedAt": "2022-05-02T08:01:48.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:25.260Z",
+    "updatedAt": "2022-05-15T19:11:23.000Z",
+    "checkedAt": "2022-05-15T19:11:23.000Z",
+    "id": 107521,
+    "type": "manga",
+    "title": "Eoneu Nal Gongjuga Doeeobeoryeotda",
     "altTitle": [
       "Who Made Me a Princess",
       "어느 날 공주가 되어버렸다",
@@ -61,26 +70,19 @@
       "Plötzlich Prinzessin",
       "Un dia me converti en una princesa",
       "Princesa Encantadora",
-      "¿Cómo Me Convertí En Princesa?",
       "某天成为公主",
       "某天成為公主"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Spoon",
-      "Plutus"
-    ],
-    "id": 107521,
-    "malId": 121269,
-    "type": "manga",
-    "title": "Eoneu Nal Gongjuga Doeeobeoryeotda",
     "url": "https://anilist.co/manga/107521",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107521-M4x3AUb7UGIM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:19.000Z",
-    "updatedAt": "2022-05-20T04:30:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121269/Who_Made_Me_a_Princess"
+    "externalLinks": [],
+    "malId": 121269,
+    "deletedAt": null,
+    "authors": [
+      "Spoon",
+      "Plutus"
+    ]
+  }
 }

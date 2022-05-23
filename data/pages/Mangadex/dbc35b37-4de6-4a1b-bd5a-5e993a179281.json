@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Kaori"
-  ],
+  "createdAt": "2020-10-12T16:18:57.000Z",
+  "updatedAt": "2021-12-07T21:09:40.000Z",
+  "checkedAt": null,
+  "id": 34212,
   "identifier": "dbc35b37-4de6-4a1b-bd5a-5e993a179281",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 730,
   "aniId": 30730,
-  "createdAt": "2020-10-12T16:18:57.000Z",
-  "updatedAt": "2021-12-07T21:09:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Kaori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-02-16T20:16:51.000Z",
+    "checkedAt": null,
+    "id": 730,
+    "type": "manga",
+    "title": "Open Sesame",
+    "altTitle": [
+      "OPEN SESAME"
+    ],
+    "url": "https://myanimelist.net/manga/730/Open_Sesame",
+    "image": "https://cdn.myanimelist.net/images/manga/2/56891.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "OPEN SESAME"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawakata, Kaoru"
-    ],
-    "id": 730,
-    "type": "manga",
-    "title": "Open Sesame",
-    "url": "https://myanimelist.net/manga/730/Open_Sesame",
-    "image": "https://cdn.myanimelist.net/images/manga/2/56891.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-02-16T20:16:51.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:35.787Z",
+    "updatedAt": "2022-05-13T12:41:35.787Z",
+    "checkedAt": null,
+    "id": 30730,
+    "type": "manga",
+    "title": "OPEN SESAME",
     "altTitle": [
       "Open Sesame",
       "OPEN SESAME"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaoru Kawakata"
-    ],
-    "id": 30730,
-    "malId": 730,
-    "type": "manga",
-    "title": "OPEN SESAME",
     "url": "https://anilist.co/manga/30730",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30730-01sAxpaZo78r.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-17T09:32:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/730/Open_Sesame"
+    "externalLinks": [],
+    "malId": 730,
+    "deletedAt": null,
+    "authors": [
+      "Kaoru Kawakata"
+    ]
+  }
 }

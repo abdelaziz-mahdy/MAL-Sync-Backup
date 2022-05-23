@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takamori Asao",
-    "Chiba Tetsuya"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:27.000Z",
+  "checkedAt": null,
+  "id": 3385,
   "identifier": "4ee5e960-6329-4e1d-b038-93e8e0d53589",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1303,
   "aniId": 31303,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takamori Asao",
+    "Chiba Tetsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-05-14T23:48:41.000Z",
+    "checkedAt": "2022-05-14T23:48:41.000Z",
+    "id": 1303,
+    "type": "manga",
+    "title": "Ashita no Joe",
+    "altTitle": [
+      "Rocky Joe",
+      "Tomorrow's Joe",
+      "あしたのジョー"
+    ],
+    "url": "https://myanimelist.net/manga/1303/Ashita_no_Joe",
+    "image": "https://cdn.myanimelist.net/images/manga/4/75029.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +43,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rocky Joe",
-      "Tomorrow's Joe",
-      "あしたのジョー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kajiwara, Ikki",
       "Chiba, Tetsuya"
-    ],
-    "id": 1303,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:37.461Z",
+    "updatedAt": "2022-05-15T09:50:23.000Z",
+    "checkedAt": "2022-05-15T09:50:23.000Z",
+    "id": 31303,
     "type": "manga",
     "title": "Ashita no Joe",
-    "url": "https://myanimelist.net/manga/1303/Ashita_no_Joe",
-    "image": "https://cdn.myanimelist.net/images/manga/4/75029.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-04-06T01:00:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あしたのジョー",
       "Rocky Joe",
       "Tomorrow's Joe",
       "Joe del Mañana"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ikki Kajiwara",
-      "Tetsuya Chiba",
-      "Sanbanchi Kawa"
-    ],
-    "id": 31303,
-    "malId": 1303,
-    "type": "manga",
-    "title": "Ashita no Joe",
     "url": "https://anilist.co/manga/31303",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31303-xbT9cWWgSvx0.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2022-05-15T06:00:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1303/Ashita_no_Joe"
+    "externalLinks": [],
+    "malId": 1303,
+    "deletedAt": null,
+    "authors": [
+      "Ikki Kajiwara",
+      "Tetsuya Chiba",
+      "Sanbanchi Kawa"
+    ]
+  }
 }

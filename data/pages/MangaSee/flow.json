@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Honey B"
-  ],
+  "createdAt": "2021-01-28T03:15:29.000Z",
+  "updatedAt": "2022-04-02T23:07:03.000Z",
+  "checkedAt": null,
+  "id": 60298,
   "identifier": "flow",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118746,
   "aniId": 85173,
-  "createdAt": "2021-01-28T03:15:29.000Z",
-  "updatedAt": "2022-04-02T23:07:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Honey B"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2022-05-20T07:17:48.000Z",
+    "checkedAt": "2022-05-20T07:17:48.000Z",
+    "id": 118746,
+    "type": "manga",
+    "title": "Flow",
+    "altTitle": [
+      "Flow",
+      "플로우"
+    ],
+    "url": "https://myanimelist.net/manga/118746/Flow",
+    "image": "https://cdn.myanimelist.net/images/manga/3/216590.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Flow",
-      "플로우"
-    ],
+    "deletedAt": null,
     "authors": [
       "Honey Bee"
-    ],
-    "id": 118746,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:52.820Z",
+    "updatedAt": "2022-05-20T07:17:47.000Z",
+    "checkedAt": "2022-05-20T07:17:47.000Z",
+    "id": 85173,
     "type": "manga",
     "title": "Flow",
-    "url": "https://myanimelist.net/manga/118746/Flow",
-    "image": "https://cdn.myanimelist.net/images/manga/3/216590.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:54.000Z",
-    "updatedAt": "2022-04-19T13:34:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Flow",
       "플로우",
@@ -51,21 +60,15 @@
       "The Flow: Return",
       "The Flow: Reflux"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Honey B"
-    ],
-    "id": 85173,
-    "malId": 118746,
-    "type": "manga",
-    "title": "Flow",
     "url": "https://anilist.co/manga/85173",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85173-3W7H0XHN5V9D.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:05.000Z",
-    "updatedAt": "2022-04-02T23:07:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118746/Flow"
+    "externalLinks": [],
+    "malId": 118746,
+    "deletedAt": null,
+    "authors": [
+      "Honey B"
+    ]
+  }
 }

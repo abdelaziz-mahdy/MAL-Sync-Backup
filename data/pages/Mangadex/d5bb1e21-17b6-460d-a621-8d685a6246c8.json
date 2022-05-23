@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takao Jingu"
-  ],
+  "createdAt": "2020-10-12T16:06:02.000Z",
+  "updatedAt": "2021-12-03T16:51:19.000Z",
+  "checkedAt": null,
+  "id": 7621,
   "identifier": "d5bb1e21-17b6-460d-a621-8d685a6246c8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48121,
   "aniId": 78121,
-  "createdAt": "2020-10-12T16:06:02.000Z",
-  "updatedAt": "2021-12-03T16:51:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takao Jingu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:30.000Z",
+    "updatedAt": "2021-11-07T12:49:57.000Z",
+    "checkedAt": null,
+    "id": 48121,
+    "type": "manga",
+    "title": "Kuneru Marta",
+    "altTitle": [
+      "Kuneru Marta",
+      "Kuu Neru Maruta",
+      "くーねるまるた"
+    ],
+    "url": "https://myanimelist.net/manga/48121/Kuneru_Marta",
+    "image": "https://cdn.myanimelist.net/images/manga/2/207221.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kuneru Marta",
-      "Kuu Neru Maruta",
-      "くーねるまるた"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takao, Jingu"
-    ],
-    "id": 48121,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:46.607Z",
+    "updatedAt": "2022-05-13T12:44:46.607Z",
+    "checkedAt": null,
+    "id": 78121,
     "type": "manga",
     "title": "Kuneru Marta",
-    "url": "https://myanimelist.net/manga/48121/Kuneru_Marta",
-    "image": "https://cdn.myanimelist.net/images/manga/2/207221.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:30.000Z",
-    "updatedAt": "2021-11-07T12:49:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "くーねるまるた",
       "Kuneru Maruta",
       "Kuuneru Marta",
       "Kuuneru Maruta"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jingu Takao"
-    ],
-    "id": 78121,
-    "malId": 48121,
-    "type": "manga",
-    "title": "Kuneru Marta",
     "url": "https://anilist.co/manga/78121",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48121.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:37.000Z",
-    "updatedAt": "2021-12-17T21:02:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/48121/Kuneru_Marta"
+    "externalLinks": [],
+    "malId": 48121,
+    "deletedAt": null,
+    "authors": [
+      "Jingu Takao"
+    ]
+  }
 }

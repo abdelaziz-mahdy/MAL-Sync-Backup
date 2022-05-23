@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kuji Masamune"
-  ],
+  "createdAt": "2021-05-29T18:43:46.000Z",
+  "updatedAt": "2021-11-29T19:36:13.000Z",
+  "checkedAt": null,
+  "id": 74030,
   "identifier": "manga-ax977480",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108291,
   "aniId": 99925,
-  "createdAt": "2021-05-29T18:43:46.000Z",
-  "updatedAt": "2021-11-29T19:36:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuji Masamune"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:08.000Z",
+    "updatedAt": "2022-05-18T02:19:13.000Z",
+    "checkedAt": "2022-05-18T02:19:13.000Z",
+    "id": 108291,
+    "type": "manga",
+    "title": "Ecstas Online",
+    "altTitle": [
+      "エクスタス・オンライン"
+    ],
+    "url": "https://myanimelist.net/manga/108291/Ecstas_Online",
+    "image": "https://cdn.myanimelist.net/images/manga/2/207212.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "エクスタス・オンライン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oniyazu, Kakashi",
       "Kuji, Masamune"
-    ],
-    "id": 108291,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:41.859Z",
+    "updatedAt": "2022-05-18T02:19:11.000Z",
+    "checkedAt": "2022-05-18T02:19:11.000Z",
+    "id": 99925,
     "type": "manga",
     "title": "Ecstas Online",
-    "url": "https://myanimelist.net/manga/108291/Ecstas_Online",
-    "image": "https://cdn.myanimelist.net/images/manga/2/207212.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:08.000Z",
-    "updatedAt": "2022-03-08T22:30:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エクスタス・オンライン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masamune Kuji",
-      "Kakashi Oniyazu",
-      "Tsukune Taira"
-    ],
-    "id": 99925,
-    "malId": 108291,
-    "type": "manga",
-    "title": "Ecstas Online",
     "url": "https://anilist.co/manga/99925",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99925-TXaFeKeeegiE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:58.000Z",
-    "updatedAt": "2021-12-18T02:59:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108291/Ecstas_Online"
+    "externalLinks": [],
+    "malId": 108291,
+    "deletedAt": null,
+    "authors": [
+      "Masamune Kuji",
+      "Kakashi Oniyazu",
+      "Tsukune Taira"
+    ]
+  }
 }

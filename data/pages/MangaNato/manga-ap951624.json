@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takayama Shinobu"
-  ],
+  "createdAt": "2022-03-05T07:00:48.000Z",
+  "updatedAt": "2022-03-05T07:29:37.000Z",
+  "checkedAt": null,
+  "id": 97247,
   "identifier": "manga-ap951624",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1299,
   "aniId": 31299,
-  "createdAt": "2022-03-05T07:00:48.000Z",
-  "updatedAt": "2022-03-05T07:29:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takayama Shinobu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-04-18T13:32:15.000Z",
+    "checkedAt": null,
+    "id": 1299,
+    "type": "manga",
+    "title": "Amatsuki",
+    "altTitle": [
+      "あまつき"
+    ],
+    "url": "https://myanimelist.net/manga/1299/Amatsuki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/200099.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あまつき"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takayama, Shinobu"
-    ],
-    "id": 1299,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:00.959Z",
+    "updatedAt": "2022-05-13T12:48:00.959Z",
+    "checkedAt": null,
+    "id": 31299,
     "type": "manga",
     "title": "Amatsuki",
-    "url": "https://myanimelist.net/manga/1299/Amatsuki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/200099.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-04-18T13:32:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あまつき"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinobu Takayama",
-      "Raphaële Gippon"
-    ],
-    "id": 31299,
-    "malId": 1299,
-    "type": "manga",
-    "title": "Amatsuki",
     "url": "https://anilist.co/manga/31299",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31299-8hPxo4Lw3syi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2021-12-17T09:14:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1299/Amatsuki"
+    "externalLinks": [],
+    "malId": 1299,
+    "deletedAt": null,
+    "authors": [
+      "Shinobu Takayama",
+      "Raphaële Gippon"
+    ]
+  }
 }

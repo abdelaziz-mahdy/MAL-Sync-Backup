@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kanekiru Kogitsune",
-    "Kobayakawa Haruyoshi"
-  ],
+  "createdAt": "2020-10-12T16:07:32.000Z",
+  "updatedAt": "2022-05-16T15:30:28.000Z",
+  "checkedAt": "2022-05-16T15:30:11.000Z",
+  "id": 10823,
   "identifier": "eb1e9858-5d3c-4c3e-a394-12c5b4d0b55f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 73271,
   "aniId": 85495,
-  "createdAt": "2020-10-12T16:07:32.000Z",
-  "updatedAt": "2021-12-04T03:50:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanekiru Kogitsune",
+    "Kobayakawa Haruyoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2022-05-15T09:06:03.000Z",
+    "checkedAt": "2022-05-15T09:06:03.000Z",
+    "id": 73271,
+    "type": "manga",
+    "title": "Re:Monster",
+    "altTitle": [
+      "Reincarnated: Monster",
+      "Re:Monster",
+      "Re:Monster"
+    ],
+    "url": "https://myanimelist.net/manga/73271/Re_Monster",
+    "image": "https://cdn.myanimelist.net/images/manga/3/251922.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,49 +47,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Reincarnated: Monster",
-      "Re:Monster",
-      "Re:Monster"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kobayakawa, Haruyoshi",
       "Kanekiru, Kogitsune"
-    ],
-    "id": 73271,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.277Z",
+    "updatedAt": "2022-05-15T20:00:11.000Z",
+    "checkedAt": "2022-05-15T20:00:11.000Z",
+    "id": 85495,
     "type": "manga",
     "title": "Re:Monster",
-    "url": "https://myanimelist.net/manga/73271/Re_Monster",
-    "image": "https://cdn.myanimelist.net/images/manga/3/251922.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2022-04-27T19:32:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Re:Monster",
       "Re:Monster -リ・モンスター",
       "Reincarnated: Monster"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kogitsune Kanekiru",
-      "Haruyoshi Kobayakawa",
-      "Yamaada"
-    ],
-    "id": 85495,
-    "malId": 73271,
-    "type": "manga",
-    "title": "Re:Monster",
     "url": "https://anilist.co/manga/85495",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85495-uaUAZaDdI0YB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:41.000Z",
-    "updatedAt": "2022-03-13T02:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/73271/Re_Monster"
+    "externalLinks": [],
+    "malId": 73271,
+    "deletedAt": null,
+    "authors": [
+      "Kogitsune Kanekiru",
+      "Haruyoshi Kobayakawa",
+      "Yamaada"
+    ]
+  }
 }

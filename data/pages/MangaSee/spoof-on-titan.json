@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hounori",
-    "ISAYAMA Hajime"
-  ],
+  "createdAt": "2021-10-11T16:09:39.000Z",
+  "updatedAt": "2022-04-11T17:07:54.000Z",
+  "checkedAt": null,
+  "id": 88419,
   "identifier": "spoof-on-titan",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63907,
   "aniId": 89879,
-  "createdAt": "2021-10-11T16:09:39.000Z",
-  "updatedAt": "2022-04-11T17:07:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hounori",
+    "ISAYAMA Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2022-05-16T18:35:36.000Z",
+    "checkedAt": "2022-05-16T18:35:36.000Z",
+    "id": 63907,
+    "type": "manga",
+    "title": "Sungeki no Kyojin",
+    "altTitle": [
+      "Short Play On Titan",
+      "Spoof on Titan",
+      "寸劇の巨人"
+    ],
+    "url": "https://myanimelist.net/manga/63907/Sungeki_no_Kyojin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/136001.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Short Play On Titan",
-      "Spoof on Titan",
-      "寸劇の巨人"
-    ],
+    "deletedAt": null,
     "authors": [
       "hounori"
-    ],
-    "id": 63907,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:05.007Z",
+    "updatedAt": "2022-05-16T18:35:35.000Z",
+    "checkedAt": "2022-05-16T18:35:35.000Z",
+    "id": 89879,
     "type": "manga",
     "title": "Sungeki no Kyojin",
-    "url": "https://myanimelist.net/manga/63907/Sungeki_no_Kyojin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/136001.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2022-03-20T13:50:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Spoof on Titan",
       "寸劇の巨人",
       "Short Play On Titan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Isayama",
-      "hounori"
-    ],
-    "id": 89879,
-    "malId": 63907,
-    "type": "manga",
-    "title": "Sungeki no Kyojin",
     "url": "https://anilist.co/manga/89879",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx89879-IQcKMRW5tWwK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:49.000Z",
-    "updatedAt": "2021-12-17T23:56:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63907/Sungeki_no_Kyojin"
+    "externalLinks": [],
+    "malId": 63907,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Isayama",
+      "hounori"
+    ]
+  }
 }

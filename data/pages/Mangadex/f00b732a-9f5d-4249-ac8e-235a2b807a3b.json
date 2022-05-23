@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ian Fleming",
-    "Saito Takao"
-  ],
+  "createdAt": "2020-10-12T16:10:17.000Z",
+  "updatedAt": "2021-12-04T23:49:10.000Z",
+  "checkedAt": null,
+  "id": 16798,
   "identifier": "f00b732a-9f5d-4249-ac8e-235a2b807a3b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103687,
   "aniId": 111813,
-  "createdAt": "2020-10-12T16:10:17.000Z",
-  "updatedAt": "2021-12-04T23:49:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ian Fleming",
+    "Saito Takao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:50.000Z",
+    "updatedAt": "2022-05-14T19:42:17.000Z",
+    "checkedAt": "2022-05-14T19:42:17.000Z",
+    "id": 103687,
+    "type": "manga",
+    "title": "007 Series",
+    "altTitle": [
+      "007: James Bond",
+      "007シリーズ"
+    ],
+    "url": "https://myanimelist.net/manga/103687/007_Series",
+    "image": "https://cdn.myanimelist.net/images/manga/2/251633.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "007: James Bond",
-      "007シリーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saitou, Takao"
-    ],
-    "id": 103687,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:24.172Z",
+    "updatedAt": "2022-05-13T13:01:24.172Z",
+    "checkedAt": null,
+    "id": 111813,
     "type": "manga",
     "title": "007 Series",
-    "url": "https://myanimelist.net/manga/103687/007_Series",
-    "image": "https://cdn.myanimelist.net/images/manga/2/251633.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:50.000Z",
-    "updatedAt": "2022-04-02T18:07:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "007シリーズ",
       "007: James Bond"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takao Saitou"
-    ],
-    "id": 111813,
-    "malId": 103687,
-    "type": "manga",
-    "title": "007 Series",
     "url": "https://anilist.co/manga/111813",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111813-wFxewZFvXEm5.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:04.000Z",
-    "updatedAt": "2022-04-24T22:00:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103687/007_Series"
+    "externalLinks": [],
+    "malId": 103687,
+    "deletedAt": null,
+    "authors": [
+      "Takao Saitou"
+    ]
+  }
 }

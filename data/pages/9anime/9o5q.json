@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:49.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4380,
   "identifier": "9o5q",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 591,
   "aniId": 591,
-  "createdAt": "2020-10-12T15:51:49.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T20:41:46.000Z",
+    "checkedAt": "2022-05-14T20:41:46.000Z",
+    "id": 591,
+    "type": "anime",
+    "title": "Amaenaide yo!!",
+    "altTitle": [
+      "Amaenaideyo!!",
+      "Ah My Buddha",
+      "あまえないでよっ!!"
+    ],
+    "url": "https://myanimelist.net/anime/591/Amaenaide_yo",
+    "image": "https://cdn.myanimelist.net/images/anime/2/32071.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,28 +56,24 @@
         "url": "http://www.crunchyroll.com/series-270215"
       }
     ],
-    "altTitle": [
-      "Amaenaideyo!!",
-      "Ah My Buddha",
-      "あまえないでよっ!!"
-    ],
+    "deletedAt": null,
+    "anidbId": 3168
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:47.000Z",
+    "updatedAt": "2022-05-15T10:55:35.000Z",
+    "checkedAt": "2022-05-15T10:55:35.000Z",
     "id": 591,
     "type": "anime",
     "title": "Amaenaide yo!!",
-    "url": "https://myanimelist.net/anime/591/Amaenaide_yo",
-    "image": "https://cdn.myanimelist.net/images/anime/2/32071.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3168,
-    "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2022-04-08T07:02:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ah My Buddha!!",
       "あまえないでよっ!!"
     ],
+    "url": "https://anilist.co/anime/591",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx591-PkYk3mHtluUn.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -71,17 +84,7 @@
         "url": "https://vrv.co/series/G6DQNPE1R/Ah-My-Buddha"
       }
     ],
-    "id": 591,
     "malId": 591,
-    "type": "anime",
-    "title": "Amaenaide yo!!",
-    "url": "https://anilist.co/anime/591",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx591-PkYk3mHtluUn.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:47.000Z",
-    "updatedAt": "2021-12-17T08:50:38.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/591/Amaenaide_yo"
+  }
 }

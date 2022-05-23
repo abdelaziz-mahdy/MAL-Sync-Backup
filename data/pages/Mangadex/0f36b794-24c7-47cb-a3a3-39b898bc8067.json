@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hero"
-  ],
+  "createdAt": "2020-10-12T16:12:05.000Z",
+  "updatedAt": "2021-12-05T13:48:30.000Z",
+  "checkedAt": null,
+  "id": 20684,
   "identifier": "0f36b794-24c7-47cb-a3a3-39b898bc8067",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95442,
   "aniId": 101959,
-  "createdAt": "2020-10-12T16:12:05.000Z",
-  "updatedAt": "2021-12-05T13:48:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hero"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:22.000Z",
+    "updatedAt": "2021-11-15T13:44:27.000Z",
+    "checkedAt": null,
+    "id": 95442,
+    "type": "manga",
+    "title": "Amamizu Linda",
+    "altTitle": [
+      "Linda of the Rain Water",
+      "雨水リンダ"
+    ],
+    "url": "https://myanimelist.net/manga/95442/Amamizu_Linda",
+    "image": "https://cdn.myanimelist.net/images/manga/1/180747.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Linda of the Rain Water",
-      "雨水リンダ"
-    ],
+    "deletedAt": null,
     "authors": [
       "HERO"
-    ],
-    "id": 95442,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:38.585Z",
+    "updatedAt": "2022-05-13T12:48:38.585Z",
+    "checkedAt": null,
+    "id": 101959,
     "type": "manga",
     "title": "Amamizu Linda",
-    "url": "https://myanimelist.net/manga/95442/Amamizu_Linda",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180747.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:22.000Z",
-    "updatedAt": "2021-11-15T13:44:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "雨水リンダ",
       "Linda in the rain",
       "雨水LINDA"
     ],
-    "externalLinks": [],
-    "authors": [
-      "HERO"
-    ],
-    "id": 101959,
-    "malId": 95442,
-    "type": "manga",
-    "title": "Amamizu Linda",
     "url": "https://anilist.co/manga/101959",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101959-xfUnPX2s5nmC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:59.000Z",
-    "updatedAt": "2021-12-18T03:59:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95442/Amamizu_Linda"
+    "externalLinks": [],
+    "malId": 95442,
+    "deletedAt": null,
+    "authors": [
+      "HERO"
+    ]
+  }
 }

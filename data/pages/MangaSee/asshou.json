@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shouko"
-  ],
+  "createdAt": "2021-08-18T01:38:08.000Z",
+  "updatedAt": "2022-05-16T15:14:01.000Z",
+  "checkedAt": "2022-05-16T15:13:56.000Z",
+  "id": 85610,
   "identifier": "asshou",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 104523,
   "aniId": 111913,
-  "createdAt": "2021-08-18T01:38:08.000Z",
-  "updatedAt": "2022-02-26T09:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shouko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2022-05-13T16:37:22.000Z",
+    "checkedAt": "2022-05-13T16:37:22.000Z",
+    "id": 104523,
+    "type": "manga",
+    "title": "Asshou",
+    "altTitle": [
+      "圧勝"
+    ],
+    "url": "https://myanimelist.net/manga/104523/Asshou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/192134.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "圧勝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shoko"
-    ],
-    "id": 104523,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:49.712Z",
+    "updatedAt": "2022-05-16T15:14:29.000Z",
+    "checkedAt": "2022-05-16T15:14:20.000Z",
+    "id": 111913,
     "type": "manga",
     "title": "Asshou",
-    "url": "https://myanimelist.net/manga/104523/Asshou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/192134.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2022-04-20T13:31:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "圧勝"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouko"
-    ],
-    "id": 111913,
-    "malId": 104523,
-    "type": "manga",
-    "title": "Asshou",
     "url": "https://anilist.co/manga/111913",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111913-a5UGbUMkYf3G.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2021-12-18T07:24:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104523/Asshou"
+    "externalLinks": [],
+    "malId": 104523,
+    "deletedAt": null,
+    "authors": [
+      "Shouko"
+    ]
+  }
 }

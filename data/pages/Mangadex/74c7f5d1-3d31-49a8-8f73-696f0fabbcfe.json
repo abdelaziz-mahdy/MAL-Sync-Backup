@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Touhoku Shinsha",
-    "Karasuma Tasuku"
-  ],
+  "createdAt": "2020-10-12T16:05:21.000Z",
+  "updatedAt": "2021-12-03T12:17:08.000Z",
+  "checkedAt": null,
+  "id": 6213,
   "identifier": "74c7f5d1-3d31-49a8-8f73-696f0fabbcfe",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10355,
   "aniId": 40355,
-  "createdAt": "2020-10-12T16:05:21.000Z",
-  "updatedAt": "2021-12-03T12:17:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Touhoku Shinsha",
+    "Karasuma Tasuku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:27.000Z",
+    "updatedAt": "2022-03-23T03:58:05.000Z",
+    "checkedAt": null,
+    "id": 10355,
+    "type": "manga",
+    "title": "Reideen",
+    "altTitle": [
+      "ライディーン"
+    ],
+    "url": "https://myanimelist.net/manga/10355/Reideen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/46143.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ライディーン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Karasuma, Tasuku"
-    ],
-    "id": 10355,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:17.730Z",
+    "updatedAt": "2022-05-13T12:58:17.730Z",
+    "checkedAt": null,
+    "id": 40355,
     "type": "manga",
     "title": "Reideen",
-    "url": "https://myanimelist.net/manga/10355/Reideen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/46143.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:27.000Z",
-    "updatedAt": "2022-03-23T03:58:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ライディーン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tasuku Karasuma"
-    ],
-    "id": 40355,
-    "malId": 10355,
-    "type": "manga",
-    "title": "Reideen",
     "url": "https://anilist.co/manga/40355",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10355.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:03.000Z",
-    "updatedAt": "2021-12-17T14:06:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10355/Reideen"
+    "externalLinks": [],
+    "malId": 10355,
+    "deletedAt": null,
+    "authors": [
+      "Tasuku Karasuma"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fushoku"
-  ],
+  "createdAt": "2022-02-23T14:49:12.000Z",
+  "updatedAt": "2022-02-23T15:17:39.000Z",
+  "checkedAt": null,
+  "id": 96665,
   "identifier": "08ee7de1-4836-4f72-881b-d4a6edaf608e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 135066,
   "aniId": 129339,
-  "createdAt": "2022-02-23T14:49:12.000Z",
-  "updatedAt": "2022-02-23T15:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fushoku"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://comic.gotbb.jp/comics/separatevolume/eishuu"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-11-07T14:20:07.000Z",
+    "updatedAt": "2022-05-19T07:34:42.000Z",
+    "checkedAt": "2022-05-19T07:34:42.000Z",
+    "id": 135066,
+    "type": "manga",
+    "title": "Eishuu Meikaroku",
     "altTitle": [
       "Chiki Houyuu",
       "Joui Tougou",
@@ -41,21 +42,29 @@
       "Swearing in Daytime",
       "瀛州迷花録"
     ],
-    "authors": [
-      "Fushoku"
-    ],
-    "id": 135066,
-    "type": "manga",
-    "title": "Eishuu Meikaroku",
     "url": "https://myanimelist.net/manga/135066/Eishuu_Meikaroku",
     "image": "https://cdn.myanimelist.net/images/manga/2/242756.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2021-11-07T14:20:07.000Z",
-    "updatedAt": "2022-04-14T11:31:28.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.gotbb.jp/comics/separatevolume/eishuu"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fushoku"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:49.801Z",
+    "updatedAt": "2022-05-19T07:34:41.000Z",
+    "checkedAt": "2022-05-19T07:34:41.000Z",
+    "id": 129339,
+    "type": "manga",
+    "title": "Eishuu Meikaroku",
     "altTitle": [
       "瀛州迷花録",
       "Chiki Houyuu",
@@ -68,21 +77,15 @@
       "Shinkai Kigeki",
       "Koei Douho"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fushoku"
-    ],
-    "id": 129339,
-    "malId": 135066,
-    "type": "manga",
-    "title": "Eishuu Meikaroku",
     "url": "https://anilist.co/manga/129339",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129339-AzIZGdjgvJfL.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2022-02-21T06:17:53.000Z",
-    "updatedAt": "2022-02-21T06:17:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/135066/Eishuu_Meikaroku"
+    "externalLinks": [],
+    "malId": 135066,
+    "deletedAt": null,
+    "authors": [
+      "Fushoku"
+    ]
+  }
 }

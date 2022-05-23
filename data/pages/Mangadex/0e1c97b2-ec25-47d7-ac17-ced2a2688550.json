@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "APPERACING",
-    "Ahndongshik"
-  ],
+  "createdAt": "2020-10-12T16:21:15.000Z",
+  "updatedAt": "2021-12-08T07:11:21.000Z",
+  "checkedAt": null,
+  "id": 38951,
   "identifier": "0e1c97b2-ec25-47d7-ac17-ced2a2688550",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125843,
   "aniId": 117551,
-  "createdAt": "2020-10-12T16:21:15.000Z",
-  "updatedAt": "2021-12-08T07:11:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "APPERACING",
+    "Ahndongshik"
+  ],
   "Mal": {
+    "createdAt": "2021-06-08T07:01:39.000Z",
+    "updatedAt": "2022-05-20T20:31:03.000Z",
+    "checkedAt": "2022-05-20T20:31:03.000Z",
+    "id": 125843,
+    "type": "manga",
+    "title": "Appare-Ranman!",
+    "altTitle": [
+      "天晴爛漫!"
+    ],
+    "url": "https://myanimelist.net/manga/125843/Appare-Ranman",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244236.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,42 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "天晴爛漫!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ahndongshik"
-    ],
-    "id": 125843,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:23.755Z",
+    "updatedAt": "2022-05-20T20:31:02.000Z",
+    "checkedAt": "2022-05-20T20:31:02.000Z",
+    "id": 117551,
     "type": "manga",
     "title": "Appare-Ranman!",
-    "url": "https://myanimelist.net/manga/125843/Appare-Ranman",
-    "image": "https://cdn.myanimelist.net/images/manga/1/244236.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-08T07:01:39.000Z",
-    "updatedAt": "2021-12-08T07:06:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天晴爛漫！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dong-Shik Ahn"
-    ],
-    "id": 117551,
-    "malId": 125843,
-    "type": "manga",
-    "title": "Appare-Ranman!",
     "url": "https://anilist.co/manga/117551",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117551-F3eaoHhgsLaQ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T02:22:16.000Z",
-    "updatedAt": "2021-12-18T08:55:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125843/Appare-Ranman"
+    "externalLinks": [],
+    "malId": 125843,
+    "deletedAt": null,
+    "authors": [
+      "Dong-Shik Ahn"
+    ]
+  }
 }

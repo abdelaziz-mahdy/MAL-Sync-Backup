@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takaya Natsuki"
-  ],
+  "createdAt": "2021-05-29T13:42:54.000Z",
+  "updatedAt": "2021-11-29T14:36:40.000Z",
+  "checkedAt": null,
+  "id": 73834,
   "identifier": "manga-uv955978",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102,
   "aniId": 30102,
-  "createdAt": "2021-05-29T13:42:54.000Z",
-  "updatedAt": "2021-11-29T14:36:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takaya Natsuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-15T00:29:11.000Z",
+    "checkedAt": "2022-05-15T00:29:11.000Z",
+    "id": 102,
+    "type": "manga",
+    "title": "Fruits Basket",
+    "altTitle": [
+      "FuruBa",
+      "Fruits Basket",
+      "フルーツバスケット"
+    ],
+    "url": "https://myanimelist.net/manga/102/Fruits_Basket",
+    "image": "https://cdn.myanimelist.net/images/manga/2/155964.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FuruBa",
-      "Fruits Basket",
-      "フルーツバスケット"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takaya, Natsuki"
-    ],
-    "id": 102,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:06.201Z",
+    "updatedAt": "2022-05-15T15:25:35.000Z",
+    "checkedAt": "2022-05-15T15:25:35.000Z",
+    "id": 30102,
     "type": "manga",
     "title": "Fruits Basket",
-    "url": "https://myanimelist.net/manga/102/Fruits_Basket",
-    "image": "https://cdn.myanimelist.net/images/manga/2/155964.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-10T23:30:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fruits Basket",
       "フルーツバスケット",
@@ -53,7 +62,13 @@
       "フルバ",
       "水果篮子"
     ],
+    "url": "https://anilist.co/manga/30102",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30102-MJuQ0e0k2CgU.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 102,
+    "deletedAt": null,
     "authors": [
       "Natsuki Takaya",
       "Alethea Nibley",
@@ -65,18 +80,6 @@
       "Bowen Park",
       "Dongjin Oh",
       "Athena Nibley"
-    ],
-    "id": 30102,
-    "malId": 102,
-    "type": "manga",
-    "title": "Fruits Basket",
-    "url": "https://anilist.co/manga/30102",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30102-MJuQ0e0k2CgU.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2022-01-07T16:18:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102/Fruits_Basket"
+    ]
+  }
 }

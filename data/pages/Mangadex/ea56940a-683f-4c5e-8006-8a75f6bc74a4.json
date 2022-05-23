@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yuzu Soft",
-    "Kinono Konoki"
-  ],
+  "createdAt": "2020-10-12T16:04:27.000Z",
+  "updatedAt": "2021-12-02T21:17:57.000Z",
+  "checkedAt": null,
+  "id": 4349,
   "identifier": "ea56940a-683f-4c5e-8006-8a75f6bc74a4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38157,
   "aniId": 68157,
-  "createdAt": "2020-10-12T16:04:27.000Z",
-  "updatedAt": "2021-12-02T21:17:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuzu Soft",
+    "Kinono Konoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:03.000Z",
+    "updatedAt": "2022-05-15T00:36:35.000Z",
+    "checkedAt": "2022-05-15T00:36:35.000Z",
+    "id": 38157,
+    "type": "manga",
+    "title": "Dracu-Riot!",
+    "altTitle": [
+      "DRACU-RIOT!"
+    ],
+    "url": "https://myanimelist.net/manga/38157/Dracu-Riot",
+    "image": "https://cdn.myanimelist.net/images/manga/3/156583.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DRACU-RIOT!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kino, Konoki",
       "Yuzusoft"
-    ],
-    "id": 38157,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:58.193Z",
+    "updatedAt": "2022-05-13T12:46:58.193Z",
+    "checkedAt": null,
+    "id": 68157,
     "type": "manga",
     "title": "Dracu-Riot!",
-    "url": "https://myanimelist.net/manga/38157/Dracu-Riot",
-    "image": "https://cdn.myanimelist.net/images/manga/3/156583.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:03.000Z",
-    "updatedAt": "2022-03-28T19:24:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラクリオット"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Konoki Kino",
-      "Yuzusoft"
-    ],
-    "id": 68157,
-    "malId": 38157,
-    "type": "manga",
-    "title": "Dracu-Riot!",
     "url": "https://anilist.co/manga/68157",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx68157-LuRAdL23yK24.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:37.000Z",
-    "updatedAt": "2021-12-17T20:00:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/38157/Dracu-Riot"
+    "externalLinks": [],
+    "malId": 38157,
+    "deletedAt": null,
+    "authors": [
+      "Konoki Kino",
+      "Yuzusoft"
+    ]
+  }
 }

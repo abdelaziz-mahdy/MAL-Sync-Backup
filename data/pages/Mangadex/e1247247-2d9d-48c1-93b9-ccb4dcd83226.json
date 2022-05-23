@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Murata Shinya",
-    "Ifuji Shinsen"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:48:06.000Z",
+  "checkedAt": null,
+  "id": 635,
   "identifier": "e1247247-2d9d-48c1-93b9-ccb4dcd83226",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21111,
   "aniId": 51111,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:48:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murata Shinya",
+    "Ifuji Shinsen"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:54.000Z",
+    "updatedAt": "2022-05-20T11:35:23.000Z",
+    "checkedAt": "2022-05-20T11:35:23.000Z",
+    "id": 21111,
+    "type": "manga",
+    "title": "Arachnid",
+    "altTitle": [
+      "アラクニド"
+    ],
+    "url": "https://myanimelist.net/manga/21111/Arachnid",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173766.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アラクニド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murata, Shinya",
       "Ifuji, Shinsen"
-    ],
-    "id": 21111,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:40.195Z",
+    "updatedAt": "2022-05-20T11:35:23.000Z",
+    "checkedAt": "2022-05-20T11:35:23.000Z",
+    "id": 51111,
     "type": "manga",
     "title": "Arachnid",
-    "url": "https://myanimelist.net/manga/21111/Arachnid",
-    "image": "https://cdn.myanimelist.net/images/manga/3/173766.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:54.000Z",
-    "updatedAt": "2022-04-09T04:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アラクニド -ARACHNID-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Murata Shinya",
-      "Shinsen Ifuji"
-    ],
-    "id": 51111,
-    "malId": 21111,
-    "type": "manga",
-    "title": "Arachnid",
     "url": "https://anilist.co/manga/51111",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51111-ZFjz0i6P9yHA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:38.000Z",
-    "updatedAt": "2022-03-01T00:34:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21111/Arachnid"
+    "externalLinks": [],
+    "malId": 21111,
+    "deletedAt": null,
+    "authors": [
+      "Murata Shinya",
+      "Shinsen Ifuji"
+    ]
+  }
 }

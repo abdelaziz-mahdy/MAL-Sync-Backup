@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ogawa Yayoi"
-  ],
+  "createdAt": "2021-06-12T13:38:18.000Z",
+  "updatedAt": "2021-12-12T14:34:22.000Z",
+  "checkedAt": null,
+  "id": 77903,
   "identifier": "manga-js951975",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 68023,
   "aniId": 87365,
-  "createdAt": "2021-06-12T13:38:18.000Z",
-  "updatedAt": "2021-12-12T14:34:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ogawa Yayoi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2022-05-20T20:47:36.000Z",
+    "checkedAt": "2022-05-20T20:47:36.000Z",
+    "id": 68023,
+    "type": "manga",
+    "title": "Ginban Kishi",
+    "altTitle": [
+      "Skating Rink Knight",
+      "Knight of the Ice",
+      "銀盤騎士"
+    ],
+    "url": "https://myanimelist.net/manga/68023/Ginban_Kishi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/116397.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +46,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Skating Rink Knight",
-      "Knight of the Ice",
-      "銀盤騎士"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ogawa, Yayoi"
-    ],
-    "id": 68023,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:19.658Z",
+    "updatedAt": "2022-05-20T20:47:35.000Z",
+    "checkedAt": "2022-05-20T20:47:35.000Z",
+    "id": 87365,
     "type": "manga",
     "title": "Ginban Kishi",
-    "url": "https://myanimelist.net/manga/68023/Ginban_Kishi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/116397.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:13.000Z",
-    "updatedAt": "2022-02-09T19:39:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Knight of the Ice",
       "ぎんばんきし"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yayoi Ogawa"
-    ],
-    "id": 87365,
-    "malId": 68023,
-    "type": "manga",
-    "title": "Ginban Kishi",
     "url": "https://anilist.co/manga/87365",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57365-rU5eXJFpKrqP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:00.000Z",
-    "updatedAt": "2021-12-17T23:25:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/68023/Ginban_Kishi"
+    "externalLinks": [],
+    "malId": 68023,
+    "deletedAt": null,
+    "authors": [
+      "Yayoi Ogawa"
+    ]
+  }
 }

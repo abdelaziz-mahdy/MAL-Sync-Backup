@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oda Tomohito"
-  ],
+  "createdAt": "2020-10-12T16:19:31.000Z",
+  "updatedAt": "2021-12-08T07:36:21.000Z",
+  "checkedAt": null,
+  "id": 35327,
   "identifier": "fb569d12-1e00-47e3-86cd-793b4eae715c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99007,
   "aniId": 97852,
-  "createdAt": "2020-10-12T16:19:31.000Z",
-  "updatedAt": "2021-12-08T07:36:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oda Tomohito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:31.000Z",
+    "updatedAt": "2022-05-14T09:04:11.000Z",
+    "checkedAt": "2022-05-14T09:04:11.000Z",
+    "id": 99007,
+    "type": "manga",
+    "title": "Komi-san wa, Comyushou desu.",
+    "altTitle": [
+      "Komi-san wa, Communication Shougai desu.",
+      "Komi Can't Communicate",
+      "古見さんは、コミュ症です。"
+    ],
+    "url": "https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Komi-san wa, Communication Shougai desu.",
-      "Komi Can't Communicate",
-      "古見さんは、コミュ症です。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oda, Tomohito"
-    ],
-    "id": 99007,
-    "type": "manga",
-    "title": "Komi-san wa, Comyushou desu.",
-    "url": "https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:31.000Z",
-    "updatedAt": "2022-04-03T20:30:55.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:53.651Z",
+    "updatedAt": "2022-05-15T10:42:11.000Z",
+    "checkedAt": "2022-05-15T10:42:11.000Z",
+    "id": 97852,
+    "type": "manga",
+    "title": "Komi-san wa, Komyushou desu.",
     "altTitle": [
       "Komi Can't Communicate",
       "古見さんは、コミュ症です。",
@@ -66,22 +75,16 @@
       "Komi Não Consegue se Comunicar",
       "Komi Konuşmaktan Korkuyor"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomohito Oda",
-      "John Werry"
-    ],
-    "id": 97852,
-    "malId": 99007,
-    "type": "manga",
-    "title": "Komi-san wa, Komyushou desu.",
     "url": "https://anilist.co/manga/97852",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97852-IKHEoAxYXPCo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:41.000Z",
-    "updatedAt": "2022-05-11T19:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu"
+    "externalLinks": [],
+    "malId": 99007,
+    "deletedAt": null,
+    "authors": [
+      "Tomohito Oda",
+      "John Werry"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "OHBA Tsugumi"
-  ],
+  "createdAt": "2021-06-30T08:50:23.000Z",
+  "updatedAt": "2021-12-31T05:55:10.000Z",
+  "checkedAt": null,
+  "id": 80517,
   "identifier": "death-note-color",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 21,
   "aniId": 30021,
-  "createdAt": "2021-06-30T08:50:23.000Z",
-  "updatedAt": "2021-12-31T05:55:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "OHBA Tsugumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T17:31:40.000Z",
+    "checkedAt": "2022-05-14T17:31:40.000Z",
+    "id": 21,
+    "type": "manga",
+    "title": "Death Note",
+    "altTitle": [
+      "Death Note",
+      "DEATH NOTE"
+    ],
+    "url": "https://myanimelist.net/manga/21/Death_Note",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258245.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +41,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Death Note",
-      "DEATH NOTE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Obata, Takeshi",
       "Ohba, Tsugumi"
-    ],
-    "id": 21,
-    "type": "manga",
-    "title": "Death Note",
-    "url": "https://myanimelist.net/manga/21/Death_Note",
-    "image": "https://cdn.myanimelist.net/images/manga/1/258245.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-05-03T08:32:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.976Z",
+    "updatedAt": "2022-05-15T21:26:11.000Z",
+    "checkedAt": "2022-05-15T21:26:11.000Z",
+    "id": 30021,
+    "type": "manga",
+    "title": "DEATH NOTE",
     "altTitle": [
       "Death Note",
       "DEATH NOTE",
@@ -54,12 +63,18 @@
       "Beležnica smrti",
       "Τετράδιο θανάτου"
     ],
+    "url": "https://anilist.co/manga/30021",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30021-qfGufBWpSX1z.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100008"
       }
     ],
+    "malId": 21,
+    "deletedAt": null,
     "authors": [
       "Takeshi Obata",
       "Tsugumi Ooba",
@@ -80,18 +95,6 @@
       "Kazushi Hinoki",
       "Rica Sakata",
       "Hüseyin Erkin"
-    ],
-    "id": 30021,
-    "malId": 21,
-    "type": "manga",
-    "title": "DEATH NOTE",
-    "url": "https://anilist.co/manga/30021",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30021-qfGufBWpSX1z.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-05-17T10:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21/Death_Note"
+    ]
+  }
 }

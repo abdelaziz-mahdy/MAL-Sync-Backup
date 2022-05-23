@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:34.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 254,
   "identifier": "7677",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42082,
   "aniId": 119929,
-  "createdAt": "2020-10-12T15:48:34.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-15T00:25:17.000Z",
+    "checkedAt": "2022-05-15T00:25:17.000Z",
+    "id": 42082,
+    "type": "anime",
+    "title": "Yi Shijie Zhongyao Pu",
+    "altTitle": [
+      "Different World Medicine Shop",
+      "The Pharmacy of the Other World",
+      "异世界中药铺"
+    ],
+    "url": "https://myanimelist.net/anime/42082/Yi_Shijie_Zhongyao_Pu",
+    "image": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,40 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Different World Medicine Shop",
-      "异世界中药铺"
-    ],
-    "id": 42082,
+    "deletedAt": null,
+    "anidbId": 15645
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:06.000Z",
+    "updatedAt": "2022-05-15T16:43:23.000Z",
+    "checkedAt": "2022-05-15T16:43:23.000Z",
+    "id": 119929,
     "type": "anime",
     "title": "Yi Shijie Zhongyao Pu",
-    "url": "https://myanimelist.net/anime/42082/Yi_Shijie_Zhongyao_Pu",
-    "image": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 15645,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-04T08:33:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "异世界中药铺",
       "The Pharmacy of the Other World",
       "Different World Medicine Shop"
     ],
-    "externalLinks": [],
-    "id": 119929,
-    "malId": 42082,
-    "type": "anime",
-    "title": "Yi Shijie Zhongyao Pu",
     "url": "https://anilist.co/anime/119929",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119929-fTn42lsmQS8g.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:06.000Z",
-    "updatedAt": "2021-12-17T17:57:59.000Z",
+    "externalLinks": [],
+    "malId": 42082,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/42082/Yi_Shijie_Zhongyao_Pu"
+  }
 }

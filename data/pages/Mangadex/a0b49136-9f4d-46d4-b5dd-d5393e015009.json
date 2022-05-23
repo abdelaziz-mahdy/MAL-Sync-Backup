@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Andou Ei"
-  ],
+  "createdAt": "2020-10-12T16:08:22.000Z",
+  "updatedAt": "2021-12-04T09:48:08.000Z",
+  "checkedAt": null,
+  "id": 12630,
   "identifier": "a0b49136-9f4d-46d4-b5dd-d5393e015009",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86972,
   "aniId": 102533,
-  "createdAt": "2020-10-12T16:08:22.000Z",
-  "updatedAt": "2021-12-04T09:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Andou Ei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:53.000Z",
+    "updatedAt": "2022-05-16T20:54:28.000Z",
+    "checkedAt": "2022-05-16T20:54:28.000Z",
+    "id": 86972,
+    "type": "manga",
+    "title": "One Piece Party",
+    "altTitle": [
+      "ONE PIECE PARTY"
+    ],
+    "url": "https://myanimelist.net/manga/86972/One_Piece_Party",
+    "image": "https://cdn.myanimelist.net/images/manga/2/165199.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ONE PIECE PARTY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Andou, Ei"
-    ],
-    "id": 86972,
-    "type": "manga",
-    "title": "One Piece Party",
-    "url": "https://myanimelist.net/manga/86972/One_Piece_Party",
-    "image": "https://cdn.myanimelist.net/images/manga/2/165199.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:53.000Z",
-    "updatedAt": "2021-12-19T12:18:56.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:33.640Z",
+    "updatedAt": "2022-05-16T20:54:26.000Z",
+    "checkedAt": "2022-05-16T20:54:26.000Z",
+    "id": 102533,
+    "type": "manga",
+    "title": "ONE PIECE PARTY",
     "altTitle": [
       "ONE PIECE PARTY"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ei Andou"
-    ],
-    "id": 102533,
-    "malId": 86972,
-    "type": "manga",
-    "title": "ONE PIECE PARTY",
     "url": "https://anilist.co/manga/102533",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102533-YLT9eI1BH2a1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:45.000Z",
-    "updatedAt": "2022-02-21T16:47:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86972/One_Piece_Party"
+    "externalLinks": [],
+    "malId": 86972,
+    "deletedAt": null,
+    "authors": [
+      "Ei Andou"
+    ]
+  }
 }

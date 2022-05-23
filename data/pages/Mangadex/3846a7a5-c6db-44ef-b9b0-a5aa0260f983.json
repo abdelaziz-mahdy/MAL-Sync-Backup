@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakamura Hinata"
-  ],
+  "createdAt": "2020-10-12T16:10:23.000Z",
+  "updatedAt": "2021-12-05T00:53:11.000Z",
+  "checkedAt": null,
+  "id": 17003,
   "identifier": "3846a7a5-c6db-44ef-b9b0-a5aa0260f983",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104018,
   "aniId": 98101,
-  "createdAt": "2020-10-12T16:10:23.000Z",
-  "updatedAt": "2021-12-05T00:53:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakamura Hinata"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:56.000Z",
+    "updatedAt": "2022-05-15T12:04:51.000Z",
+    "checkedAt": "2022-05-15T12:04:51.000Z",
+    "id": 104018,
+    "type": "manga",
+    "title": "Kokuhakubiyori",
     "altTitle": [
       "The Perfect Day to Confess",
       "Kedaruge na Kimi no Kirakira to",
@@ -28,21 +34,24 @@
       "Kimi no Seal wo Atsumetai",
       "告白びより"
     ],
-    "authors": [
-      "Nakamura, Hinata"
-    ],
-    "id": 104018,
-    "type": "manga",
-    "title": "Kokuhakubiyori",
     "url": "https://myanimelist.net/manga/104018/Kokuhakubiyori",
     "image": "https://cdn.myanimelist.net/images/manga/2/190465.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2021-11-18T06:44:13.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakamura, Hinata"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:56.108Z",
+    "updatedAt": "2022-05-15T16:57:59.000Z",
+    "checkedAt": "2022-05-15T16:57:59.000Z",
+    "id": 98101,
+    "type": "manga",
+    "title": "Kokuhaku Biyori",
     "altTitle": [
       "Kokuhaku Biyori",
       "告白びより",
@@ -52,21 +61,15 @@
       "Amatou-kun to Koi no Aji",
       "Kimi no Seal wo Atsumetai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hinata Nakamura"
-    ],
-    "id": 98101,
-    "malId": 104018,
-    "type": "manga",
-    "title": "Kokuhaku Biyori",
     "url": "https://anilist.co/manga/98101",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98101-1c1cT4CTKGe3.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:09.000Z",
-    "updatedAt": "2021-12-18T02:23:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104018/Kokuhakubiyori"
+    "externalLinks": [],
+    "malId": 104018,
+    "deletedAt": null,
+    "authors": [
+      "Hinata Nakamura"
+    ]
+  }
 }

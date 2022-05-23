@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lunch"
-  ],
+  "createdAt": "2020-10-12T16:17:23.000Z",
+  "updatedAt": "2021-12-07T07:17:33.000Z",
+  "checkedAt": null,
+  "id": 31020,
   "identifier": "2b52bff4-ee3d-46b8-9ab3-c653f0c93884",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36813,
   "aniId": 66813,
-  "createdAt": "2020-10-12T16:17:23.000Z",
-  "updatedAt": "2021-12-07T07:17:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lunch"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:01.000Z",
+    "updatedAt": "2022-04-12T19:33:26.000Z",
+    "checkedAt": null,
+    "id": 36813,
+    "type": "manga",
+    "title": "Koinaka",
     "altTitle": [
       "Do Ping!",
       "Doping!",
@@ -32,21 +38,24 @@
       "Koi Chitsu",
       "コイナカ -恋膣-"
     ],
-    "authors": [
-      "Lunch"
-    ],
-    "id": 36813,
-    "type": "manga",
-    "title": "Koinaka",
     "url": "https://myanimelist.net/manga/36813/Koinaka",
     "image": "https://cdn.myanimelist.net/images/manga/1/66435.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:44:01.000Z",
-    "updatedAt": "2022-04-12T19:33:26.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lunch"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:20.590Z",
+    "updatedAt": "2022-05-13T13:06:20.590Z",
+    "checkedAt": null,
+    "id": 66813,
+    "type": "manga",
+    "title": "Koinaka: Koi Chitsu",
     "altTitle": [
       "コイナカ -恋膣-",
       "Do Ping!",
@@ -60,21 +69,15 @@
       " Fluorescence Filter",
       " Koi Chitsu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Lunch"
-    ],
-    "id": 66813,
-    "malId": 36813,
-    "type": "manga",
-    "title": "Koinaka: Koi Chitsu",
     "url": "https://anilist.co/manga/66813",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36813.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:48:30.000Z",
-    "updatedAt": "2021-12-17T19:56:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/36813/Koinaka"
+    "externalLinks": [],
+    "malId": 36813,
+    "deletedAt": null,
+    "authors": [
+      "Lunch"
+    ]
+  }
 }

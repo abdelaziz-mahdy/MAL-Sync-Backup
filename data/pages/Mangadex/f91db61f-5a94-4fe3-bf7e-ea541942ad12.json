@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yui Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:18:49.000Z",
+  "updatedAt": "2021-12-07T21:07:21.000Z",
+  "checkedAt": null,
+  "id": 33923,
   "identifier": "f91db61f-5a94-4fe3-bf7e-ea541942ad12",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130061,
   "aniId": 114824,
-  "createdAt": "2020-10-12T16:18:49.000Z",
-  "updatedAt": "2021-12-07T21:07:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yui Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T16:21:29.000Z",
+    "updatedAt": "2021-12-05T16:51:38.000Z",
+    "checkedAt": null,
+    "id": 130061,
+    "type": "manga",
+    "title": "Ohisama Birdy",
+    "altTitle": [
+      "Sunny Birdie",
+      "おひさまバーディー"
+    ],
+    "url": "https://myanimelist.net/manga/130061/Ohisama_Birdy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235062.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sunny Birdie",
-      "おひさまバーディー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yui, Daisuke"
-    ],
-    "id": 130061,
-    "type": "manga",
-    "title": "Ohisama Birdy",
-    "url": "https://myanimelist.net/manga/130061/Ohisama_Birdy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/235062.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T16:21:29.000Z",
-    "updatedAt": "2021-12-05T16:51:38.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:51.529Z",
+    "updatedAt": "2022-05-13T12:55:51.529Z",
+    "checkedAt": null,
+    "id": 114824,
+    "type": "manga",
+    "title": "Ohisama Birdie",
     "altTitle": [
       "おひさまバーディー",
       "Sunny Birdie"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Yui"
-    ],
-    "id": 114824,
-    "malId": 130061,
-    "type": "manga",
-    "title": "Ohisama Birdie",
     "url": "https://anilist.co/manga/114824",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114824-gFwRn4AZRQS2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T20:39:32.000Z",
-    "updatedAt": "2021-12-18T08:21:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130061/Ohisama_Birdy"
+    "externalLinks": [],
+    "malId": 130061,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Yui"
+    ]
+  }
 }

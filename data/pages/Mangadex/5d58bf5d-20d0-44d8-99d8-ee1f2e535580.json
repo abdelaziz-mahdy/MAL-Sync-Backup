@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iwamoto Nao"
-  ],
+  "createdAt": "2020-10-12T16:10:59.000Z",
+  "updatedAt": "2021-12-05T09:22:42.000Z",
+  "checkedAt": null,
+  "id": 18324,
   "identifier": "5d58bf5d-20d0-44d8-99d8-ee1f2e535580",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110138,
   "aniId": 99855,
-  "createdAt": "2020-10-12T16:10:59.000Z",
-  "updatedAt": "2021-12-05T09:22:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iwamoto Nao"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T05:18:58.000Z",
+    "updatedAt": "2021-12-05T05:47:47.000Z",
+    "checkedAt": null,
+    "id": 110138,
+    "type": "manga",
+    "title": "Marronnier Oukoku no Shichinin no Kishi",
+    "altTitle": [
+      "The Seven Knights of the Marronnier Kingdom",
+      "マロニエ王国の七人の騎士"
+    ],
+    "url": "https://myanimelist.net/manga/110138/Marronnier_Oukoku_no_Shichinin_no_Kishi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/204226.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Seven Knights of the Marronnier Kingdom",
-      "マロニエ王国の七人の騎士"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwamoto, Nao"
-    ],
-    "id": 110138,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:14.959Z",
+    "updatedAt": "2022-05-13T12:42:14.959Z",
+    "checkedAt": null,
+    "id": 99855,
     "type": "manga",
     "title": "Marronnier Oukoku no Shichinin no Kishi",
-    "url": "https://myanimelist.net/manga/110138/Marronnier_Oukoku_no_Shichinin_no_Kishi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/204226.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T05:18:58.000Z",
-    "updatedAt": "2021-12-05T05:47:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マロニエ王国の七人の騎士",
       "Maronie Oukoku no Shichinin no Kishi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nao Iwamoto"
-    ],
-    "id": 99855,
-    "malId": 110138,
-    "type": "manga",
-    "title": "Marronnier Oukoku no Shichinin no Kishi",
     "url": "https://anilist.co/manga/99855",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99855-i9kpQy53mxKC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T18:18:58.000Z",
-    "updatedAt": "2021-12-18T02:58:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110138/Marronnier_Oukoku_no_Shichinin_no_Kishi"
+    "externalLinks": [],
+    "malId": 110138,
+    "deletedAt": null,
+    "authors": [
+      "Nao Iwamoto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "YAYOI Sou"
-  ],
+  "createdAt": "2021-01-15T01:32:40.000Z",
+  "updatedAt": "2022-03-27T13:27:13.000Z",
+  "checkedAt": null,
+  "id": 58657,
   "identifier": "re-l-i-f-e",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78523,
   "aniId": 85849,
-  "createdAt": "2021-01-15T01:32:40.000Z",
-  "updatedAt": "2022-03-27T13:27:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "YAYOI Sou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-05-14T21:48:59.000Z",
+    "checkedAt": "2022-05-14T21:48:59.000Z",
+    "id": 78523,
+    "type": "manga",
+    "title": "ReLIFE",
+    "altTitle": [
+      "ReLIFE",
+      "ReLIFE"
+    ],
+    "url": "https://myanimelist.net/manga/78523/ReLIFE",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171573.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,25 +45,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ReLIFE",
-      "ReLIFE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yayoi, Sou"
-    ],
-    "id": 78523,
-    "type": "manga",
-    "title": "ReLIFE",
-    "url": "https://myanimelist.net/manga/78523/ReLIFE",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171573.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-04-24T13:01:44.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:14.997Z",
+    "updatedAt": "2022-05-15T10:25:11.000Z",
+    "checkedAt": "2022-05-15T10:25:11.000Z",
+    "id": 85849,
+    "type": "manga",
+    "title": "ReLife",
     "altTitle": [
       "ReLIFE",
       "リライフ",
@@ -56,21 +65,15 @@
       "리라이프",
       "重生计划"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sou Yayoi"
-    ],
-    "id": 85849,
-    "malId": 78523,
-    "type": "manga",
-    "title": "ReLife",
     "url": "https://anilist.co/manga/85849",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85849-TYAa7nhwSvbx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:52.000Z",
-    "updatedAt": "2021-12-17T22:24:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78523/ReLIFE"
+    "externalLinks": [],
+    "malId": 78523,
+    "deletedAt": null,
+    "authors": [
+      "Sou Yayoi"
+    ]
+  }
 }

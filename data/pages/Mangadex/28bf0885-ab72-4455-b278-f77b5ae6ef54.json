@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tachibana Kazumi"
-  ],
+  "createdAt": "2020-10-12T16:09:55.000Z",
+  "updatedAt": "2021-12-04T21:22:49.000Z",
+  "checkedAt": null,
+  "id": 16032,
   "identifier": "28bf0885-ab72-4455-b278-f77b5ae6ef54",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85051,
   "aniId": 93684,
-  "createdAt": "2020-10-12T16:09:55.000Z",
-  "updatedAt": "2021-12-04T21:22:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tachibana Kazumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-23T14:10:57.000Z",
+    "checkedAt": "2022-05-23T14:10:57.000Z",
+    "id": 85051,
+    "type": "manga",
+    "title": "Cherry Teacher Sakura Naoki",
+    "altTitle": [
+      "CHERRY TEACHER 佐倉直生"
+    ],
+    "url": "https://myanimelist.net/manga/85051/Cherry_Teacher_Sakura_Naoki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188825.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "CHERRY TEACHER 佐倉直生"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tachibana, Kazumi"
-    ],
-    "id": 85051,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:34.918Z",
+    "updatedAt": "2022-05-19T16:55:42.000Z",
+    "checkedAt": "2022-05-19T16:55:42.000Z",
+    "id": 93684,
     "type": "manga",
     "title": "Cherry Teacher Sakura Naoki",
-    "url": "https://myanimelist.net/manga/85051/Cherry_Teacher_Sakura_Naoki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188825.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2022-02-18T15:46:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "CHERRY TEACHER 佐倉直生"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazumi Tachibana"
-    ],
-    "id": 93684,
-    "malId": 85051,
-    "type": "manga",
-    "title": "Cherry Teacher Sakura Naoki",
     "url": "https://anilist.co/manga/93684",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93684-5LNXXVo7KzuJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-18T00:55:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85051/Cherry_Teacher_Sakura_Naoki"
+    "externalLinks": [],
+    "malId": 85051,
+    "deletedAt": null,
+    "authors": [
+      "Kazumi Tachibana"
+    ]
+  }
 }

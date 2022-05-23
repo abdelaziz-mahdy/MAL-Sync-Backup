@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "HIRANO Kouta"
-  ],
+  "createdAt": "2021-12-28T05:53:49.000Z",
+  "updatedAt": "2021-12-28T06:23:27.000Z",
+  "checkedAt": null,
+  "id": 93785,
   "identifier": "hellsing",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 267,
   "aniId": 30267,
-  "createdAt": "2021-12-28T05:53:49.000Z",
-  "updatedAt": "2021-12-28T06:23:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "HIRANO Kouta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-14T21:54:05.000Z",
+    "checkedAt": "2022-05-14T21:54:05.000Z",
+    "id": 267,
+    "type": "manga",
+    "title": "Hellsing",
+    "altTitle": [
+      "Hellsing Cross Fire",
+      "Crossfire",
+      "Hellsing",
+      "ヘルシング"
+    ],
+    "url": "https://myanimelist.net/manga/267/Hellsing",
+    "image": "https://cdn.myanimelist.net/images/manga/2/149.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hellsing Cross Fire",
-      "Crossfire",
-      "Hellsing",
-      "ヘルシング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirano, Kouta"
-    ],
-    "id": 267,
-    "type": "manga",
-    "title": "Hellsing",
-    "url": "https://myanimelist.net/manga/267/Hellsing",
-    "image": "https://cdn.myanimelist.net/images/manga/2/149.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-09T04:31:24.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:45.020Z",
+    "updatedAt": "2022-05-15T19:38:11.000Z",
+    "checkedAt": "2022-05-15T19:38:11.000Z",
+    "id": 30267,
+    "type": "manga",
+    "title": "HELLSING",
     "altTitle": [
       "HELLSING",
       "HELLSING-ヘルシング",
       "Hellsing Cross Fire",
       "Crossfire"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouta Hirano"
-    ],
-    "id": 30267,
-    "malId": 267,
-    "type": "manga",
-    "title": "HELLSING",
     "url": "https://anilist.co/manga/30267",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30267-w3NHbBONJ4bN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-02-25T08:17:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/267/Hellsing"
+    "externalLinks": [],
+    "malId": 267,
+    "deletedAt": null,
+    "authors": [
+      "Kouta Hirano"
+    ]
+  }
 }

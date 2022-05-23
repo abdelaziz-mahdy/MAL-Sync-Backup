@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Uehashi Nahoko",
-    "Takemoto Itoe"
-  ],
+  "createdAt": "2020-10-12T16:05:24.000Z",
+  "updatedAt": "2021-12-03T12:47:58.000Z",
+  "checkedAt": null,
+  "id": 6332,
   "identifier": "b73e7691-2f63-4f28-88ae-b63a70a6d948",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18371,
   "aniId": 48371,
-  "createdAt": "2020-10-12T16:05:24.000Z",
-  "updatedAt": "2021-12-03T12:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Uehashi Nahoko",
+    "Takemoto Itoe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:32.000Z",
+    "updatedAt": "2022-05-15T05:02:45.000Z",
+    "checkedAt": "2022-05-15T05:02:45.000Z",
+    "id": 18371,
+    "type": "manga",
+    "title": "Kemono no Souja",
+    "altTitle": [
+      "The Beast Player",
+      "Ryokui no Hito",
+      "獣の奏者"
+    ],
+    "url": "https://myanimelist.net/manga/18371/Kemono_no_Souja",
+    "image": "https://cdn.myanimelist.net/images/manga/2/169318.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Beast Player",
-      "Ryokui no Hito",
-      "獣の奏者"
-    ],
+    "deletedAt": null,
     "authors": [
       "Uehashi, Nahoko",
       "Takemoto, Itoe"
-    ],
-    "id": 18371,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:31.831Z",
+    "updatedAt": "2022-05-21T00:36:58.000Z",
+    "checkedAt": "2022-05-21T00:36:58.000Z",
+    "id": 48371,
     "type": "manga",
     "title": "Kemono no Souja",
-    "url": "https://myanimelist.net/manga/18371/Kemono_no_Souja",
-    "image": "https://cdn.myanimelist.net/images/manga/2/169318.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:32.000Z",
-    "updatedAt": "2022-02-22T14:48:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "獣の奏者",
       "The Beast Player",
       "Das Lied der Bestien",
       "Elin, la charmeuse de bêtes"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nahoko Uehashi",
-      "Itoe Takemoto"
-    ],
-    "id": 48371,
-    "malId": 18371,
-    "type": "manga",
-    "title": "Kemono no Souja",
     "url": "https://anilist.co/manga/48371",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48371-Y3uKyBItNgq9.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:11.000Z",
-    "updatedAt": "2021-12-17T16:43:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/18371/Kemono_no_Souja"
+    "externalLinks": [],
+    "malId": 18371,
+    "deletedAt": null,
+    "authors": [
+      "Nahoko Uehashi",
+      "Itoe Takemoto"
+    ]
+  }
 }

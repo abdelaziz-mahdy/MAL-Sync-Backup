@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizukami Satoshi"
-  ],
+  "createdAt": "2020-10-12T16:02:25.000Z",
+  "updatedAt": "2021-12-02T06:47:38.000Z",
+  "checkedAt": null,
+  "id": 76,
   "identifier": "f9bfc73a-d017-424c-92ed-bb79d67fa881",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20429,
   "aniId": 50429,
-  "createdAt": "2020-10-12T16:02:25.000Z",
-  "updatedAt": "2021-12-02T06:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizukami Satoshi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:51.000Z",
+    "updatedAt": "2022-05-22T12:45:33.000Z",
+    "checkedAt": "2022-05-22T12:45:33.000Z",
+    "id": 20429,
+    "type": "manga",
+    "title": "Gekogeko",
     "altTitle": [
       "Mizukami Satoshi Short Story Collection",
       "Mizukami Satoshi Tanpenshuu",
@@ -33,21 +39,24 @@
       "Ryuu to Shoujo to Hyakkichou",
       "水上悟志短編集 げこげこ"
     ],
-    "authors": [
-      "Mizukami, Satoshi"
-    ],
-    "id": 20429,
-    "type": "manga",
-    "title": "Gekogeko",
     "url": "https://myanimelist.net/manga/20429/Gekogeko",
     "image": "https://cdn.myanimelist.net/images/manga/2/169585.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:51.000Z",
-    "updatedAt": "2022-02-17T09:17:41.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mizukami, Satoshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:24.639Z",
+    "updatedAt": "2022-05-22T12:45:32.000Z",
+    "checkedAt": "2022-05-22T12:45:32.000Z",
+    "id": 50429,
+    "type": "manga",
+    "title": "Geko Geko",
     "altTitle": [
       "げこげこ",
       "Yaichirou",
@@ -60,21 +69,15 @@
       "Ryuu to Shoujo to Hyakkichou",
       "Gekogeko Kouyasai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoshi Mizukami"
-    ],
-    "id": 50429,
-    "malId": 20429,
-    "type": "manga",
-    "title": "Geko Geko",
     "url": "https://anilist.co/manga/50429",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20429.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:32.000Z",
-    "updatedAt": "2021-12-17T17:16:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20429/Gekogeko"
+    "externalLinks": [],
+    "malId": 20429,
+    "deletedAt": null,
+    "authors": [
+      "Satoshi Mizukami"
+    ]
+  }
 }

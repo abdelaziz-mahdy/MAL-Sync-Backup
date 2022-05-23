@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Kozue"
-  ],
+  "createdAt": "2020-10-12T16:03:16.000Z",
+  "updatedAt": "2021-12-02T13:18:27.000Z",
+  "checkedAt": null,
+  "id": 1878,
   "identifier": "8edf35b1-8948-45df-9971-981094126f48",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 81,
   "aniId": 30081,
-  "createdAt": "2020-10-12T16:03:16.000Z",
-  "updatedAt": "2021-12-02T13:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Kozue"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T23:06:35.000Z",
+    "checkedAt": "2022-05-14T23:06:35.000Z",
+    "id": 81,
+    "type": "manga",
+    "title": "Aria",
+    "altTitle": [
+      "Aria The Masterpiece",
+      "Aria",
+      "ARIA"
+    ],
+    "url": "https://myanimelist.net/manga/81/Aria",
+    "image": "https://cdn.myanimelist.net/images/manga/2/202644.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Aria The Masterpiece",
-      "Aria",
-      "ARIA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Kozue"
-    ],
-    "id": 81,
-    "type": "manga",
-    "title": "Aria",
-    "url": "https://myanimelist.net/manga/81/Aria",
-    "image": "https://cdn.myanimelist.net/images/manga/2/202644.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-20T13:02:27.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:10.410Z",
+    "updatedAt": "2022-05-15T14:53:01.000Z",
+    "checkedAt": "2022-05-15T14:53:01.000Z",
+    "id": 30081,
+    "type": "manga",
+    "title": "ARIA",
     "altTitle": [
       "Aria",
       "ARIA",
@@ -52,22 +61,16 @@
       "Aria the Masterpiece",
       "Ария"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kozue Amano",
-      "Elina Ishikawa"
-    ],
-    "id": 30081,
-    "malId": 81,
-    "type": "manga",
-    "title": "ARIA",
     "url": "https://anilist.co/manga/30081",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30081-oCRaPkTGq4vP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-02-22T17:17:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/81/Aria"
+    "externalLinks": [],
+    "malId": 81,
+    "deletedAt": null,
+    "authors": [
+      "Kozue Amano",
+      "Elina Ishikawa"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kurata Hideyuki",
-    "Fuji Choko"
-  ],
+  "createdAt": "2020-10-12T16:04:33.000Z",
+  "updatedAt": "2021-12-02T21:50:29.000Z",
+  "checkedAt": null,
+  "id": 4542,
   "identifier": "0c53c887-fd55-4ab5-8bb6-c6198484ed5e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35701,
   "aniId": 65701,
-  "createdAt": "2020-10-12T16:04:33.000Z",
-  "updatedAt": "2021-12-02T21:50:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurata Hideyuki",
+    "Fuji Choko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2022-05-15T06:33:00.000Z",
+    "checkedAt": "2022-05-15T06:33:00.000Z",
+    "id": 35701,
+    "type": "manga",
+    "title": "R.O.D Rehabilitation",
+    "altTitle": [
+      "Read or Die Rehabilitation",
+      "R.O.D REHABILITATION"
+    ],
+    "url": "https://myanimelist.net/manga/35701/ROD_Rehabilitation",
+    "image": "https://cdn.myanimelist.net/images/manga/3/116735.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Read or Die Rehabilitation",
-      "R.O.D REHABILITATION"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurata, Hideyuki",
       "Fuji, Choko"
-    ],
-    "id": 35701,
-    "type": "manga",
-    "title": "R.O.D Rehabilitation",
-    "url": "https://myanimelist.net/manga/35701/ROD_Rehabilitation",
-    "image": "https://cdn.myanimelist.net/images/manga/3/116735.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2022-04-23T13:30:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:24.782Z",
+    "updatedAt": "2022-05-13T12:58:24.782Z",
+    "checkedAt": null,
+    "id": 65701,
+    "type": "manga",
+    "title": "R.O.D REHABILITATION",
     "altTitle": [
       "R.O.D REHABILITATION",
       "Read or Die Rehabilitation"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideyuki Kurata",
-      "Choko Fuji"
-    ],
-    "id": 65701,
-    "malId": 35701,
-    "type": "manga",
-    "title": "R.O.D REHABILITATION",
     "url": "https://anilist.co/manga/65701",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35701.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2022-05-05T17:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35701/ROD_Rehabilitation"
+    "externalLinks": [],
+    "malId": 35701,
+    "deletedAt": null,
+    "authors": [
+      "Hideyuki Kurata",
+      "Choko Fuji"
+    ]
+  }
 }

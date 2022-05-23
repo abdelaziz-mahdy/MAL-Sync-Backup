@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Munko"
-  ],
+  "createdAt": "2020-12-06T04:41:33.000Z",
+  "updatedAt": "2021-12-08T08:36:50.000Z",
+  "checkedAt": null,
+  "id": 53615,
   "identifier": "6b7e6c17-2494-484c-99a3-2fe877af3471",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120969,
   "aniId": 117559,
-  "createdAt": "2020-12-06T04:41:33.000Z",
-  "updatedAt": "2021-12-08T08:36:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Munko"
+  ],
   "Mal": {
+    "createdAt": "2020-12-06T04:41:30.000Z",
+    "updatedAt": "2022-03-24T23:29:16.000Z",
+    "checkedAt": null,
+    "id": 120969,
+    "type": "manga",
+    "title": "You're Mine",
+    "altTitle": [
+      "ゆあまいん"
+    ],
+    "url": "https://myanimelist.net/manga/120969/Youre_Mine",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224084.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ゆあまいん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Munko"
-    ],
-    "id": 120969,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:09.585Z",
+    "updatedAt": "2022-05-13T12:46:09.585Z",
+    "checkedAt": null,
+    "id": 117559,
     "type": "manga",
     "title": "You're Mine",
-    "url": "https://myanimelist.net/manga/120969/Youre_Mine",
-    "image": "https://cdn.myanimelist.net/images/manga/3/224084.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-06T04:41:30.000Z",
-    "updatedAt": "2022-03-24T23:29:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ゆあまいん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "MUNKO"
-    ],
-    "id": 117559,
-    "malId": 120969,
-    "type": "manga",
-    "title": "You're Mine",
     "url": "https://anilist.co/manga/117559",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117559-nVbY31OcLzp6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2021-12-18T08:55:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120969/Youre_Mine"
+    "externalLinks": [],
+    "malId": 120969,
+    "deletedAt": null,
+    "authors": [
+      "MUNKO"
+    ]
+  }
 }

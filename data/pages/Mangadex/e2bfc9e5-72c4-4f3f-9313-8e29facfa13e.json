@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yashiro Chiyo"
-  ],
+  "createdAt": "2020-10-12T16:18:20.000Z",
+  "updatedAt": "2021-12-07T16:17:33.000Z",
+  "checkedAt": null,
+  "id": 32967,
   "identifier": "e2bfc9e5-72c4-4f3f-9313-8e29facfa13e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124021,
   "aniId": 109747,
-  "createdAt": "2020-10-12T16:18:20.000Z",
-  "updatedAt": "2021-12-07T16:17:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yashiro Chiyo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2021-11-25T03:36:42.000Z",
+    "checkedAt": null,
+    "id": 124021,
+    "type": "manga",
+    "title": "Eden's End",
+    "altTitle": [
+      "エデンズエンド"
+    ],
+    "url": "https://myanimelist.net/manga/124021/Edens_End",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226168.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "エデンズエンド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yashiro, Chiyo"
-    ],
-    "id": 124021,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:44.119Z",
+    "updatedAt": "2022-05-13T12:59:44.119Z",
+    "checkedAt": null,
+    "id": 109747,
     "type": "manga",
     "title": "Eden's End",
-    "url": "https://myanimelist.net/manga/124021/Edens_End",
-    "image": "https://cdn.myanimelist.net/images/manga/3/226168.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2021-11-25T03:36:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Eden’s End"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chiyo Yashiro"
-    ],
-    "id": 109747,
-    "malId": 124021,
-    "type": "manga",
-    "title": "Eden's End",
     "url": "https://anilist.co/manga/109747",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109747-rrmhzdKhfwyq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:03.000Z",
-    "updatedAt": "2021-12-18T06:48:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124021/Edens_End"
+    "externalLinks": [],
+    "malId": 124021,
+    "deletedAt": null,
+    "authors": [
+      "Chiyo Yashiro"
+    ]
+  }
 }

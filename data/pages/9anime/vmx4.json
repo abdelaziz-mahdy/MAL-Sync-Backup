@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:57.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9395,
   "identifier": "vmx4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 390,
   "aniId": 390,
-  "createdAt": "2020-10-12T15:55:57.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T18:32:59.000Z",
+    "checkedAt": "2022-05-14T18:32:59.000Z",
+    "id": 390,
+    "type": "anime",
+    "title": "Suzuka",
+    "altTitle": [
+      "Suzuka",
+      "涼風"
+    ],
+    "url": "https://myanimelist.net/anime/390/Suzuka",
+    "image": "https://cdn.myanimelist.net/images/anime/6/19983.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "https://www.funimation.com/shows/suzuka"
       }
     ],
-    "altTitle": [
-      "Suzuka",
-      "涼風"
-    ],
+    "deletedAt": null,
+    "anidbId": 3203
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:40.000Z",
+    "updatedAt": "2022-05-15T09:34:47.000Z",
+    "checkedAt": "2022-05-15T09:34:47.000Z",
     "id": 390,
     "type": "anime",
     "title": "Suzuka",
-    "url": "https://myanimelist.net/anime/390/Suzuka",
-    "image": "https://cdn.myanimelist.net/images/anime/6/19983.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3203,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-03-30T14:01:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Suzuka",
       "涼風"
     ],
+    "url": "https://anilist.co/anime/390",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx390-rO6Vj8DyKcLb.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -70,17 +83,7 @@
         "url": "http://www.hulu.com/suzuka"
       }
     ],
-    "id": 390,
     "malId": 390,
-    "type": "anime",
-    "title": "Suzuka",
-    "url": "https://anilist.co/anime/390",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx390-rO6Vj8DyKcLb.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:40.000Z",
-    "updatedAt": "2021-12-17T08:27:05.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/390/Suzuka"
+  }
 }

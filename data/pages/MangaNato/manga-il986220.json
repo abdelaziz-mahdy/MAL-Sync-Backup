@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Musashino Hajime"
-  ],
+  "createdAt": "2021-05-29T04:12:27.000Z",
+  "updatedAt": "2021-11-29T05:08:45.000Z",
+  "checkedAt": null,
+  "id": 73325,
   "identifier": "manga-il986220",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105691,
   "aniId": 120860,
-  "createdAt": "2021-05-29T04:12:27.000Z",
-  "updatedAt": "2021-11-29T05:08:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Musashino Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:00.000Z",
+    "updatedAt": "2022-05-15T02:24:12.000Z",
+    "checkedAt": "2022-05-15T02:24:12.000Z",
+    "id": 105691,
+    "type": "manga",
+    "title": "Shakunetsu Kabaddi",
+    "altTitle": [
+      "Burning Kabaddi",
+      "灼熱カバディ"
+    ],
+    "url": "https://myanimelist.net/manga/105691/Shakunetsu_Kabaddi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/193677.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Burning Kabaddi",
-      "灼熱カバディ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Musashino, Hajime"
-    ],
-    "id": 105691,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:35.783Z",
+    "updatedAt": "2022-05-17T05:20:56.000Z",
+    "checkedAt": "2022-05-17T05:20:56.000Z",
+    "id": 120860,
     "type": "manga",
     "title": "Shakunetsu Kabaddi",
-    "url": "https://myanimelist.net/manga/105691/Shakunetsu_Kabaddi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/193677.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:00.000Z",
-    "updatedAt": "2021-11-18T20:44:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "灼熱カバディ",
       "Burning Kabaddi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Musashino"
-    ],
-    "id": 120860,
-    "malId": 105691,
-    "type": "manga",
-    "title": "Shakunetsu Kabaddi",
     "url": "https://anilist.co/manga/120860",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120860-03Es8GKj3yFT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:44.000Z",
-    "updatedAt": "2021-12-18T09:53:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105691/Shakunetsu_Kabaddi"
+    "externalLinks": [],
+    "malId": 105691,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Musashino"
+    ]
+  }
 }

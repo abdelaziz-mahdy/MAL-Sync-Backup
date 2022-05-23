@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:17.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4961,
   "identifier": "jpln",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 685,
   "aniId": 685,
-  "createdAt": "2020-10-12T15:52:17.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T23:04:23.000Z",
+    "checkedAt": "2022-05-14T23:04:23.000Z",
+    "id": 685,
+    "type": "anime",
+    "title": "To Heart: Remember My Memories",
+    "altTitle": [
+      "トゥハート ~remember my memories~"
+    ],
+    "url": "https://myanimelist.net/anime/685/To_Heart__Remember_My_Memories",
+    "image": "https://cdn.myanimelist.net/images/anime/10/75475.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,38 +45,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "トゥハート ~remember my memories~"
-    ],
+    "deletedAt": null,
+    "anidbId": 2404
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T14:14:11.000Z",
+    "checkedAt": "2022-05-15T14:14:11.000Z",
     "id": 685,
     "type": "anime",
-    "title": "To Heart: Remember My Memories",
-    "url": "https://myanimelist.net/anime/685/To_Heart__Remember_My_Memories",
-    "image": "https://cdn.myanimelist.net/images/anime/10/75475.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2404,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-03-30T16:33:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "ToHeart: Remember my memories",
     "altTitle": [
       "ToHeart ～Remember my memories～",
       "トゥハート ～Remember my memories～"
     ],
-    "externalLinks": [],
-    "id": 685,
-    "malId": 685,
-    "type": "anime",
-    "title": "ToHeart: Remember my memories",
     "url": "https://anilist.co/anime/685",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx685-gZSSRd0ZxGvp.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2022-02-26T10:48:42.000Z",
+    "externalLinks": [],
+    "malId": 685,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/685/To_Heart__Remember_My_Memories"
+  }
 }

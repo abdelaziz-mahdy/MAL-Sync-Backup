@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "AQUAPLUS",
-    "Inui Sekihiko"
-  ],
+  "createdAt": "2020-10-12T16:04:05.000Z",
+  "updatedAt": "2021-12-02T18:48:07.000Z",
+  "checkedAt": null,
+  "id": 3608,
   "identifier": "f4a437a2-cfd9-460e-877a-de64f1ea37b9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 169,
   "aniId": 30169,
-  "createdAt": "2020-10-12T16:04:05.000Z",
-  "updatedAt": "2021-12-02T18:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "AQUAPLUS",
+    "Inui Sekihiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-04-26T01:30:48.000Z",
+    "checkedAt": null,
+    "id": 169,
+    "type": "manga",
+    "title": "Comic Party",
+    "altTitle": [
+      "Comic Party",
+      "こみっくパーティー"
+    ],
+    "url": "https://myanimelist.net/manga/169/Comic_Party",
+    "image": "https://cdn.myanimelist.net/images/manga/5/755.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,31 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Comic Party",
-      "こみっくパーティー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inui, Sekihiko",
       "Aquaplus"
-    ],
-    "id": 169,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:11.275Z",
+    "updatedAt": "2022-05-13T13:03:11.275Z",
+    "checkedAt": null,
+    "id": 30169,
     "type": "manga",
     "title": "Comic Party",
-    "url": "https://myanimelist.net/manga/169/Comic_Party",
-    "image": "https://cdn.myanimelist.net/images/manga/5/755.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-04-26T01:30:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Comic Party",
       "こみっくパーティー"
     ],
+    "url": "https://anilist.co/manga/30169",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30169-kg58fro9XHeK.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 169,
+    "deletedAt": null,
     "authors": [
       "Sekihiko Inui",
       "Aquaplus",
@@ -63,18 +78,6 @@
       "Mike Kiefl",
       "Klaus Berg",
       "Amazuyu Tatsuki"
-    ],
-    "id": 30169,
-    "malId": 169,
-    "type": "manga",
-    "title": "Comic Party",
-    "url": "https://anilist.co/manga/30169",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30169-kg58fro9XHeK.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-12-17T09:04:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/169/Comic_Party"
+    ]
+  }
 }

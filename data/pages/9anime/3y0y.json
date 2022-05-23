@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:57.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1983,
   "identifier": "3y0y",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1529,
   "aniId": 1529,
-  "createdAt": "2020-10-12T15:49:57.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:18.000Z",
+    "updatedAt": "2022-05-15T08:14:18.000Z",
+    "checkedAt": "2022-05-15T08:14:18.000Z",
+    "id": 1529,
+    "type": "anime",
+    "title": "De:vadasy",
+    "altTitle": [
+      "Sousei Seiki Devadasy",
+      "Devadasy",
+      "創世聖紀デヴァダシー"
+    ],
+    "url": "https://myanimelist.net/anime/1529/De_vadasy",
+    "image": "https://cdn.myanimelist.net/images/anime/1378/91079.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sousei Seiki Devadasy",
-      "Devadasy",
-      "創世聖紀デヴァダシー"
-    ],
+    "deletedAt": null,
+    "anidbId": 1531
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:11.000Z",
+    "updatedAt": "2022-05-15T15:13:35.000Z",
+    "checkedAt": "2022-05-15T15:13:35.000Z",
     "id": 1529,
     "type": "anime",
-    "title": "De:vadasy",
-    "url": "https://myanimelist.net/anime/1529/De_vadasy",
-    "image": "https://cdn.myanimelist.net/images/anime/1378/91079.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1531,
-    "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2022-03-30T23:34:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Sousei Seiki Devadasy",
     "altTitle": [
       "De:vadasy",
       "創世聖紀デヴァダシー",
       "Sosei Seiki Devadasy"
     ],
-    "externalLinks": [],
-    "id": 1529,
-    "malId": 1529,
-    "type": "anime",
-    "title": "Sousei Seiki Devadasy",
     "url": "https://anilist.co/anime/1529",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1529-ZqzaAalRBFnH.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:11.000Z",
-    "updatedAt": "2021-12-17T09:26:45.000Z",
+    "externalLinks": [],
+    "malId": 1529,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1529/De_vadasy"
+  }
 }

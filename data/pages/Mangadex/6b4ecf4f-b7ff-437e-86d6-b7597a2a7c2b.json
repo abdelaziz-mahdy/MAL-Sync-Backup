@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagashiro Rouge"
-  ],
+  "createdAt": "2020-10-12T16:16:51.000Z",
+  "updatedAt": "2021-12-07T02:48:47.000Z",
+  "checkedAt": null,
+  "id": 29983,
   "identifier": "6b4ecf4f-b7ff-437e-86d6-b7597a2a7c2b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116324,
   "aniId": 110675,
-  "createdAt": "2020-10-12T16:16:51.000Z",
-  "updatedAt": "2021-12-07T02:48:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagashiro Rouge"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:45.000Z",
+    "updatedAt": "2022-05-21T05:05:17.000Z",
+    "checkedAt": "2022-05-21T05:05:17.000Z",
+    "id": 116324,
+    "type": "manga",
+    "title": "Eve to Eve",
     "altTitle": [
       "Eve x Eve",
       "Kiseki no Suki wo Nokoshitai: Chuu",
@@ -31,21 +37,24 @@
       "Eve and Eve",
       "イヴとイヴ"
     ],
-    "authors": [
-      "Nagashiro, Rouge"
-    ],
-    "id": 116324,
-    "type": "manga",
-    "title": "Eve to Eve",
     "url": "https://myanimelist.net/manga/116324/Eve_to_Eve",
     "image": "https://cdn.myanimelist.net/images/manga/2/212951.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:45.000Z",
-    "updatedAt": "2022-04-22T09:30:36.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagashiro, Rouge"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:26.381Z",
+    "updatedAt": "2022-05-21T05:05:15.000Z",
+    "checkedAt": "2022-05-21T05:05:15.000Z",
+    "id": 110675,
+    "type": "manga",
+    "title": "Eve to Eve",
     "altTitle": [
       "Eve and Eve",
       "イヴとイヴ",
@@ -56,21 +65,15 @@
       "Noroi no Atotsugi: Yakusoku",
       "Eien Ichigou Nigou wa Eve to Eve"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rouge Nagashiro"
-    ],
-    "id": 110675,
-    "malId": 116324,
-    "type": "manga",
-    "title": "Eve to Eve",
     "url": "https://anilist.co/manga/110675",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110675-3tczuh881ifm.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:57:23.000Z",
-    "updatedAt": "2021-12-18T06:54:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116324/Eve_to_Eve"
+    "externalLinks": [],
+    "malId": 116324,
+    "deletedAt": null,
+    "authors": [
+      "Rouge Nagashiro"
+    ]
+  }
 }

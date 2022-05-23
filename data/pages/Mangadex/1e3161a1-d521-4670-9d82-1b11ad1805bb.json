@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Saitou Kenji",
-    "Hanao Sutarou"
-  ],
+  "createdAt": "2020-10-12T16:09:45.000Z",
+  "updatedAt": "2021-12-04T19:50:50.000Z",
+  "checkedAt": null,
+  "id": 15648,
   "identifier": "1e3161a1-d521-4670-9d82-1b11ad1805bb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93698,
   "aniId": 96205,
-  "createdAt": "2020-10-12T16:09:45.000Z",
-  "updatedAt": "2021-12-04T19:50:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saitou Kenji",
+    "Hanao Sutarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:16.000Z",
+    "updatedAt": "2022-05-23T20:39:58.000Z",
+    "checkedAt": "2022-05-23T20:39:58.000Z",
+    "id": 93698,
+    "type": "manga",
+    "title": "Trinity Seven: Levi Ninden",
+    "altTitle": [
+      "トリニティセブン レヴィ忍伝"
+    ],
+    "url": "https://myanimelist.net/manga/93698/Trinity_Seven__Levi_Ninden",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175690.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "トリニティセブン レヴィ忍伝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanao, Sutarou",
       "Saitou, Kenji"
-    ],
-    "id": 93698,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.195Z",
+    "updatedAt": "2022-05-23T20:39:57.000Z",
+    "checkedAt": "2022-05-23T20:39:57.000Z",
+    "id": 96205,
     "type": "manga",
     "title": "Trinity Seven: Levi Ninden",
-    "url": "https://myanimelist.net/manga/93698/Trinity_Seven__Levi_Ninden",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175690.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:16.000Z",
-    "updatedAt": "2022-03-21T17:57:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "トリニティセブン レヴィ忍伝"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Saitou",
-      "Sutarou Hanao"
-    ],
-    "id": 96205,
-    "malId": 93698,
-    "type": "manga",
-    "title": "Trinity Seven: Levi Ninden",
     "url": "https://anilist.co/manga/96205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96205-f97Hfg4A05FV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-12-18T01:32:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93698/Trinity_Seven__Levi_Ninden"
+    "externalLinks": [],
+    "malId": 93698,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Saitou",
+      "Sutarou Hanao"
+    ]
+  }
 }

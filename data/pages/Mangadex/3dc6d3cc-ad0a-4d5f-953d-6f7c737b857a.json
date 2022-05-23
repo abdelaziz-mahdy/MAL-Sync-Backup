@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujita Ato"
-  ],
+  "createdAt": "2020-10-12T16:12:58.000Z",
+  "updatedAt": "2021-12-05T18:20:38.000Z",
+  "checkedAt": null,
+  "id": 21926,
   "identifier": "3dc6d3cc-ad0a-4d5f-953d-6f7c737b857a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112633,
   "aniId": 102018,
-  "createdAt": "2020-10-12T16:12:58.000Z",
-  "updatedAt": "2021-12-05T18:20:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujita Ato"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:26.000Z",
+    "updatedAt": "2022-05-18T01:31:09.000Z",
+    "checkedAt": "2022-05-18T01:31:09.000Z",
+    "id": 112633,
+    "type": "manga",
+    "title": "Enami-kun wa Ikiru no ga Tsurai",
+    "altTitle": [
+      "江波くんは生きるのがつらい"
+    ],
+    "url": "https://myanimelist.net/manga/112633/Enami-kun_wa_Ikiru_no_ga_Tsurai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/220658.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "江波くんは生きるのがつらい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujita, Ato"
-    ],
-    "id": 112633,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:16.093Z",
+    "updatedAt": "2022-05-18T01:31:08.000Z",
+    "checkedAt": "2022-05-18T01:31:08.000Z",
+    "id": 102018,
     "type": "manga",
     "title": "Enami-kun wa Ikiru no ga Tsurai",
-    "url": "https://myanimelist.net/manga/112633/Enami-kun_wa_Ikiru_no_ga_Tsurai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/220658.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:26.000Z",
-    "updatedAt": "2022-04-13T03:31:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "江波くんは生きるのがつらい",
       "Enami-kun Has a Painful Life"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ato Fujita"
-    ],
-    "id": 102018,
-    "malId": 112633,
-    "type": "manga",
-    "title": "Enami-kun wa Ikiru no ga Tsurai",
     "url": "https://anilist.co/manga/102018",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102018-PlB17lizgMKh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:55.000Z",
-    "updatedAt": "2021-12-18T04:00:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112633/Enami-kun_wa_Ikiru_no_ga_Tsurai"
+    "externalLinks": [],
+    "malId": 112633,
+    "deletedAt": null,
+    "authors": [
+      "Ato Fujita"
+    ]
+  }
 }

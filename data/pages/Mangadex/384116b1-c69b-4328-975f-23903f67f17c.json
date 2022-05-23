@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Chi Miao Miao",
-    "M"
-  ],
+  "createdAt": "2020-10-12T16:13:42.000Z",
+  "updatedAt": "2021-12-05T23:49:09.000Z",
+  "checkedAt": null,
+  "id": 23427,
   "identifier": "384116b1-c69b-4328-975f-23903f67f17c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13630,
   "aniId": 43630,
-  "createdAt": "2020-10-12T16:13:42.000Z",
-  "updatedAt": "2021-12-05T23:49:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chi Miao Miao",
+    "M"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:59.000Z",
+    "updatedAt": "2022-05-17T01:00:17.000Z",
+    "checkedAt": "2022-05-17T01:00:17.000Z",
+    "id": 13630,
+    "type": "manga",
+    "title": "Evil Heart",
+    "altTitle": [
+      "EVIL HEART"
+    ],
+    "url": "https://myanimelist.net/manga/13630/Evil_Heart",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154929.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "EVIL HEART"
-    ],
+    "deletedAt": null,
     "authors": [
       "Taketomi, Tomo"
-    ],
-    "id": 13630,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:28.304Z",
+    "updatedAt": "2022-05-13T12:53:28.304Z",
+    "checkedAt": null,
+    "id": 43630,
     "type": "manga",
     "title": "Evil Heart",
-    "url": "https://myanimelist.net/manga/13630/Evil_Heart",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154929.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:59.000Z",
-    "updatedAt": "2022-01-23T18:00:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イビルハート"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomo Taketomi",
-      "Thibaud Desbief"
-    ],
-    "id": 43630,
-    "malId": 13630,
-    "type": "manga",
-    "title": "Evil Heart",
     "url": "https://anilist.co/manga/43630",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43630-WrjcMNmpkKe3.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:36.000Z",
-    "updatedAt": "2021-12-17T15:13:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13630/Evil_Heart"
+    "externalLinks": [],
+    "malId": 13630,
+    "deletedAt": null,
+    "authors": [
+      "Tomo Taketomi",
+      "Thibaud Desbief"
+    ]
+  }
 }

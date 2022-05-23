@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Arisaka Ako",
-    "Sanda Makoto"
-  ],
+  "createdAt": "2021-07-14T02:20:59.000Z",
+  "updatedAt": "2022-01-14T03:11:52.000Z",
+  "checkedAt": null,
+  "id": 81855,
   "identifier": "manga-cs979875",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 128275,
   "aniId": 107238,
-  "createdAt": "2021-07-14T02:20:59.000Z",
-  "updatedAt": "2022-01-14T03:11:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Arisaka Ako",
+    "Sanda Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-28T14:44:07.000Z",
+    "updatedAt": "2022-05-15T15:16:16.000Z",
+    "checkedAt": "2022-05-15T15:16:16.000Z",
+    "id": 128275,
+    "type": "manga",
+    "title": "Bestia",
+    "altTitle": [
+      "Bestia",
+      "Bestia"
+    ],
+    "url": "https://myanimelist.net/manga/128275/Bestia",
+    "image": "https://cdn.myanimelist.net/images/manga/2/232608.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bestia",
-      "Bestia"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sanda, Makoto",
       "Arisaka, Aco"
-    ],
-    "id": 128275,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:23.426Z",
+    "updatedAt": "2022-05-15T18:44:11.000Z",
+    "checkedAt": "2022-05-15T18:44:11.000Z",
+    "id": 107238,
     "type": "manga",
     "title": "Bestia",
-    "url": "https://myanimelist.net/manga/128275/Bestia",
-    "image": "https://cdn.myanimelist.net/images/manga/2/232608.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-28T14:44:07.000Z",
-    "updatedAt": "2022-04-09T15:32:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bestia",
       "Bestia ベスティア"
     ],
+    "url": "https://anilist.co/manga/107238",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107238-rUEftzfMZhIB.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 128275,
+    "deletedAt": null,
     "authors": [
       "Kashiwa Miyako",
       "Makoto Sanda",
       "Ako Arisaka",
       "Rochelle Gancio",
       "Caleb Cook"
-    ],
-    "id": 107238,
-    "malId": 128275,
-    "type": "manga",
-    "title": "Bestia",
-    "url": "https://anilist.co/manga/107238",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107238-rUEftzfMZhIB.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-28T20:23:33.000Z",
-    "updatedAt": "2022-05-01T18:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/128275/Bestia"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "SHIS",
-    "Z-ton"
-  ],
+  "createdAt": "2020-10-12T16:12:45.000Z",
+  "updatedAt": "2021-12-05T16:19:48.000Z",
+  "checkedAt": null,
+  "id": 21454,
   "identifier": "10dbd5fd-534f-462e-8a07-a9239116382c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115057,
   "aniId": 105294,
-  "createdAt": "2020-10-12T16:12:45.000Z",
-  "updatedAt": "2021-12-05T16:19:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "SHIS",
+    "Z-ton"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:37.000Z",
+    "updatedAt": "2022-05-16T00:56:52.000Z",
+    "checkedAt": "2022-05-16T00:56:52.000Z",
+    "id": 115057,
+    "type": "manga",
+    "title": "Mesudachi",
     "altTitle": [
       "Mesudachi Ex",
       "Kai",
@@ -28,39 +34,36 @@
       "Boyish Girlfriends",
       "メスダチ"
     ],
-    "authors": [
-      "Z-ton"
-    ],
-    "id": 115057,
-    "type": "manga",
-    "title": "Mesudachi",
     "url": "https://myanimelist.net/manga/115057/Mesudachi",
     "image": "https://cdn.myanimelist.net/images/manga/1/214206.jpg",
     "category": "Doujinshi",
     "hentai": true,
-    "createdAt": "2020-10-12T15:47:37.000Z",
-    "updatedAt": "2022-03-21T04:53:35.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Z-ton"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:40.039Z",
+    "updatedAt": "2022-05-16T00:56:52.000Z",
+    "checkedAt": "2022-05-16T00:56:52.000Z",
+    "id": 105294,
+    "type": "manga",
+    "title": "Mesudachi",
     "altTitle": [
       "メスダチ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Z-ton"
-    ],
-    "id": 105294,
-    "malId": 115057,
-    "type": "manga",
-    "title": "Mesudachi",
     "url": "https://anilist.co/manga/105294",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105294-8cmktH5mg0nI.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:57:13.000Z",
-    "updatedAt": "2021-12-18T05:00:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115057/Mesudachi"
+    "externalLinks": [],
+    "malId": 115057,
+    "deletedAt": null,
+    "authors": [
+      "Z-ton"
+    ]
+  }
 }

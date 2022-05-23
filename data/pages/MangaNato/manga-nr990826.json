@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chiaki Konno"
-  ],
+  "createdAt": "2022-05-09T04:31:38.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T16:41:30.000Z",
+  "id": 103377,
   "identifier": "manga-nr990826",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,57 @@
   "image": "https://avt.mkklcdnv6temp.com/40/j/25-1652069840.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T04:31:38.000Z",
-  "updatedAt": "2022-05-09T04:31:38.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 145309,
+  "aniId": 146597,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Chiaki Konno"
+  ],
+  "Mal": {
+    "createdAt": "2022-03-27T03:29:05.000Z",
+    "updatedAt": "2022-05-13T16:41:33.000Z",
+    "checkedAt": "2022-05-13T16:41:33.000Z",
+    "id": 145309,
+    "type": "manga",
+    "title": "Saikyou no Maou ni Kitaerareta Yuusha, Isekai Kikansha-tachi no Gakuen de Musou suru",
+    "altTitle": [
+      "最凶の魔王に鍛えられた勇者、異世界帰還者たちの学園で無双する"
+    ],
+    "url": "https://myanimelist.net/manga/145309/Saikyou_no_Maou_ni_Kitaerareta_Yuusha_Isekai_Kikansha-tachi_no_Gakuen_de_Musou_suru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257701.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Iwaba",
+      "Konno, Chiaki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:26.477Z",
+    "updatedAt": "2022-05-14T10:02:22.000Z",
+    "checkedAt": "2022-05-14T10:02:22.000Z",
+    "id": 146597,
+    "type": "manga",
+    "title": "Saikyou no Maou ni Kitaerareta Yuusha, Isekai Kikansha-tachi no Gakuen de Musou Suru",
+    "altTitle": [
+      "最凶の魔王に鍛えられた勇者、異世界帰還者たちの学園で無双する"
+    ],
+    "url": "https://anilist.co/manga/146597",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146597-jJhTokMjKre7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145309,
+    "deletedAt": null,
+    "authors": [
+      "Iwaba",
+      "Fame",
+      "Chiaki Konno"
+    ]
+  }
 }

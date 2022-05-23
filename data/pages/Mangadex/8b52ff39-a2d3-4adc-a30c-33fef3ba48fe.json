@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Juns"
-  ],
+  "createdAt": "2020-10-12T16:16:59.000Z",
+  "updatedAt": "2021-12-07T03:49:26.000Z",
+  "checkedAt": null,
+  "id": 30265,
   "identifier": "8b52ff39-a2d3-4adc-a30c-33fef3ba48fe",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123626,
   "aniId": 98583,
-  "createdAt": "2020-10-12T16:16:59.000Z",
-  "updatedAt": "2021-12-07T03:49:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Juns"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-03-30T17:06:48.000Z",
+    "checkedAt": null,
+    "id": 123626,
+    "type": "manga",
+    "title": "Dark Heaven",
+    "altTitle": [
+      "Dark Heaven",
+      "다크 헤븐"
+    ],
+    "url": "https://myanimelist.net/manga/123626/Dark_Heaven",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226431.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dark Heaven",
-      "다크 헤븐"
-    ],
+    "deletedAt": null,
     "authors": [
       "JUNS"
-    ],
-    "id": 123626,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:05.626Z",
+    "updatedAt": "2022-05-13T12:43:05.626Z",
+    "checkedAt": null,
+    "id": 98583,
     "type": "manga",
     "title": "Dark Heaven",
-    "url": "https://myanimelist.net/manga/123626/Dark_Heaven",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226431.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-03-30T17:06:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "다크 헤븐",
       "Тёмный рай"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Juns"
-    ],
-    "id": 98583,
-    "malId": 123626,
-    "type": "manga",
-    "title": "Dark Heaven",
     "url": "https://anilist.co/manga/98583",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98583-sdniphM1T0uT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T02:28:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123626/Dark_Heaven"
+    "externalLinks": [],
+    "malId": 123626,
+    "deletedAt": null,
+    "authors": [
+      "Juns"
+    ]
+  }
 }

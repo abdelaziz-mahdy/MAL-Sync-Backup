@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Seo Kouji"
-  ],
+  "createdAt": "2020-10-12T16:05:24.000Z",
+  "updatedAt": "2021-12-03T12:47:58.000Z",
+  "checkedAt": null,
+  "id": 6327,
   "identifier": "977ff0dd-8e3a-4296-8643-0d2d4314e389",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42545,
   "aniId": 72545,
-  "createdAt": "2020-10-12T16:05:24.000Z",
-  "updatedAt": "2021-12-03T12:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Seo Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:15.000Z",
+    "updatedAt": "2022-05-15T16:48:22.000Z",
+    "checkedAt": "2022-05-15T16:48:22.000Z",
+    "id": 42545,
+    "type": "manga",
+    "title": "Half & Half",
+    "altTitle": [
+      "Half and Half",
+      "Half&half"
+    ],
+    "url": "https://myanimelist.net/manga/42545/Half___Half",
+    "image": "https://cdn.myanimelist.net/images/manga/1/153889.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Half and Half",
-      "Half&half"
-    ],
+    "deletedAt": null,
     "authors": [
       "Seo, Kouji"
-    ],
-    "id": 42545,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:15.902Z",
+    "updatedAt": "2022-05-15T19:53:23.000Z",
+    "checkedAt": "2022-05-15T19:53:23.000Z",
+    "id": 72545,
     "type": "manga",
     "title": "Half & Half",
-    "url": "https://myanimelist.net/manga/42545/Half___Half",
-    "image": "https://cdn.myanimelist.net/images/manga/1/153889.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:15.000Z",
-    "updatedAt": "2022-02-03T16:36:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Half&half",
       "ハーフ アンド ハーフ",
       "Half and Half"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Seo"
-    ],
-    "id": 72545,
-    "malId": 42545,
-    "type": "manga",
-    "title": "Half & Half",
     "url": "https://anilist.co/manga/72545",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72545-w57BJJngqCXB.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:51.000Z",
-    "updatedAt": "2021-12-17T20:29:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/42545/Half___Half"
+    "externalLinks": [],
+    "malId": 42545,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Seo"
+    ]
+  }
 }

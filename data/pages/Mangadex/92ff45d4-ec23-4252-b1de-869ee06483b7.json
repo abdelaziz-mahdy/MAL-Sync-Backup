@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iwamura Toshiya"
-  ],
+  "createdAt": "2020-10-12T16:17:36.000Z",
+  "updatedAt": "2021-12-07T09:16:41.000Z",
+  "checkedAt": null,
+  "id": 31459,
   "identifier": "92ff45d4-ec23-4252-b1de-869ee06483b7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9977,
   "aniId": 39977,
-  "createdAt": "2020-10-12T16:17:36.000Z",
-  "updatedAt": "2021-12-07T09:16:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iwamura Toshiya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-05-21T10:51:54.000Z",
+    "checkedAt": "2022-05-21T10:51:54.000Z",
+    "id": 9977,
+    "type": "manga",
+    "title": "Kidou Senshi Gundam",
+    "altTitle": [
+      "Mobile Suit Gundam",
+      "機動戦士ガンダム"
+    ],
+    "url": "https://myanimelist.net/manga/9977/Kidou_Senshi_Gundam",
+    "image": "https://cdn.myanimelist.net/images/manga/3/128353.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mobile Suit Gundam",
-      "機動戦士ガンダム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okada, Yoshihiro"
-    ],
-    "id": 9977,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:48.840Z",
+    "updatedAt": "2022-05-21T10:51:53.000Z",
+    "checkedAt": "2022-05-21T10:51:53.000Z",
+    "id": 39977,
     "type": "manga",
     "title": "Kidou Senshi Gundam",
-    "url": "https://myanimelist.net/manga/9977/Kidou_Senshi_Gundam",
-    "image": "https://cdn.myanimelist.net/images/manga/3/128353.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2022-04-30T18:02:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "機動戦士ガンダム",
       "Mobile Suit Gundam"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Okazaki"
-    ],
-    "id": 39977,
-    "malId": 9977,
-    "type": "manga",
-    "title": "Kidou Senshi Gundam",
     "url": "https://anilist.co/manga/39977",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39977-vdNsKts7HPWJ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:59.000Z",
-    "updatedAt": "2021-12-17T13:47:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9977/Kidou_Senshi_Gundam"
+    "externalLinks": [],
+    "malId": 9977,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Okazaki"
+    ]
+  }
 }

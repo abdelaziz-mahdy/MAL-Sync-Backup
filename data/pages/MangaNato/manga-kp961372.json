@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Adachi Mitsuru"
-  ],
+  "createdAt": "2021-06-10T22:39:13.000Z",
+  "updatedAt": "2021-12-10T23:33:39.000Z",
+  "checkedAt": null,
+  "id": 77672,
   "identifier": "manga-kp961372",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1013,
   "aniId": 31013,
-  "createdAt": "2021-06-10T22:39:13.000Z",
-  "updatedAt": "2021-12-10T23:33:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Adachi Mitsuru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-14T22:05:11.000Z",
+    "checkedAt": "2022-05-14T22:05:11.000Z",
+    "id": 1013,
+    "type": "manga",
+    "title": "Touch",
+    "altTitle": [
+      "タッチ"
+    ],
+    "url": "https://myanimelist.net/manga/1013/Touch",
+    "image": "https://cdn.myanimelist.net/images/manga/5/84777.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "タッチ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Adachi, Mitsuru"
-    ],
-    "id": 1013,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:24.916Z",
+    "updatedAt": "2022-05-15T18:21:11.000Z",
+    "checkedAt": "2022-05-15T18:21:11.000Z",
+    "id": 31013,
     "type": "manga",
     "title": "Touch",
-    "url": "https://myanimelist.net/manga/1013/Touch",
-    "image": "https://cdn.myanimelist.net/images/manga/5/84777.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-03-06T20:30:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "タッチ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuru Adachi"
-    ],
-    "id": 31013,
-    "malId": 1013,
-    "type": "manga",
-    "title": "Touch",
     "url": "https://anilist.co/manga/31013",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31013-Vcru1xAgo5FR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:39:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1013/Touch"
+    "externalLinks": [],
+    "malId": 1013,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuru Adachi"
+    ]
+  }
 }

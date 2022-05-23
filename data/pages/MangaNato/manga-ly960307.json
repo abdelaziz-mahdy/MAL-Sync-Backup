@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azuma Kiyohiko"
-  ],
+  "createdAt": "2021-05-31T09:07:57.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74341,
   "identifier": "manga-ly960307",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85,
   "aniId": 30085,
-  "createdAt": "2021-05-31T09:07:57.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Azuma Kiyohiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T03:18:19.000Z",
+    "checkedAt": "2022-05-15T03:18:19.000Z",
+    "id": 85,
+    "type": "manga",
+    "title": "Azumanga Daioh",
+    "altTitle": [
+      "Azumanga Daioh",
+      "あずまんが大王"
+    ],
+    "url": "https://myanimelist.net/manga/85/Azumanga_Daioh",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259651.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Azumanga Daioh",
-      "あずまんが大王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Azuma, Kiyohiko"
-    ],
-    "id": 85,
-    "type": "manga",
-    "title": "Azumanga Daioh",
-    "url": "https://myanimelist.net/manga/85/Azumanga_Daioh",
-    "image": "https://cdn.myanimelist.net/images/manga/2/56373.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-03-05T01:01:30.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:32.787Z",
+    "updatedAt": "2022-05-15T19:37:47.000Z",
+    "checkedAt": "2022-05-15T19:37:47.000Z",
+    "id": 30085,
+    "type": "manga",
+    "title": "Azumanga Daiou",
     "altTitle": [
       "Azumanga Daioh",
       "あずまんが大王",
       "Адзуманга"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kiyohiko Azuma",
-      "Fabio Sakuda",
-      "Stephen Paul"
-    ],
-    "id": 30085,
-    "malId": 85,
-    "type": "manga",
-    "title": "Azumanga Daiou",
     "url": "https://anilist.co/manga/30085",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n30085-EiFHtQfdeHjp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2022-04-11T00:00:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85/Azumanga_Daioh"
+    "externalLinks": [],
+    "malId": 85,
+    "deletedAt": null,
+    "authors": [
+      "Kiyohiko Azuma",
+      "Fabio Sakuda",
+      "Stephen Paul"
+    ]
+  }
 }

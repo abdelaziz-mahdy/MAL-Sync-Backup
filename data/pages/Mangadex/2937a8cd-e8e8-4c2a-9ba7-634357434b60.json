@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuge Amayo"
-  ],
+  "createdAt": "2020-10-12T16:09:10.000Z",
+  "updatedAt": "2021-12-04T15:52:49.000Z",
+  "checkedAt": null,
+  "id": 14403,
   "identifier": "2937a8cd-e8e8-4c2a-9ba7-634357434b60",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 237,
   "aniId": 30237,
-  "createdAt": "2020-10-12T16:09:10.000Z",
-  "updatedAt": "2021-12-04T15:52:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsuge Amayo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-02-18T23:17:02.000Z",
+    "checkedAt": null,
+    "id": 237,
+    "type": "manga",
+    "title": "Dear Myself",
+    "altTitle": [
+      "Dear Myself",
+      "ディア・マイセルフ"
+    ],
+    "url": "https://myanimelist.net/manga/237/Dear_Myself",
+    "image": "https://cdn.myanimelist.net/images/manga/5/843.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dear Myself",
-      "ディア・マイセルフ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuda, Mikiyo",
       "Eiki, Eiki"
-    ],
-    "id": 237,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:38.679Z",
+    "updatedAt": "2022-05-13T12:43:38.679Z",
+    "checkedAt": null,
+    "id": 30237,
     "type": "manga",
     "title": "Dear Myself",
-    "url": "https://myanimelist.net/manga/237/Dear_Myself",
-    "image": "https://cdn.myanimelist.net/images/manga/5/843.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-02-18T23:17:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dear Myself",
       "ディア・マイセルフ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mikiyo Tsuda",
-      "Eiki Eiki"
-    ],
-    "id": 30237,
-    "malId": 237,
-    "type": "manga",
-    "title": "Dear Myself",
     "url": "https://anilist.co/manga/30237",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30237-JajbcnWt75ff.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2021-12-17T09:06:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/237/Dear_Myself"
+    "externalLinks": [],
+    "malId": 237,
+    "deletedAt": null,
+    "authors": [
+      "Mikiyo Tsuda",
+      "Eiki Eiki"
+    ]
+  }
 }

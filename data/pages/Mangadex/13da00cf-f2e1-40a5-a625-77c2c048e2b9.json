@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Joh Araki",
-    "Kajisa Osamu"
-  ],
+  "createdAt": "2021-07-07T17:30:23.000Z",
+  "updatedAt": "2022-02-24T09:47:50.000Z",
+  "checkedAt": null,
+  "id": 81152,
   "identifier": "13da00cf-f2e1-40a5-a625-77c2c048e2b9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118340,
   "aniId": 113678,
-  "createdAt": "2021-07-07T17:30:23.000Z",
-  "updatedAt": "2022-02-24T09:47:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Joh Araki",
+    "Kajisa Osamu"
+  ],
   "Mal": {
+    "createdAt": "2021-07-07T17:30:26.000Z",
+    "updatedAt": "2022-01-07T17:48:43.000Z",
+    "checkedAt": null,
+    "id": 118340,
+    "type": "manga",
+    "title": "Bartender à Paris",
+    "altTitle": [
+      "バーテンダー a Paris"
+    ],
+    "url": "https://myanimelist.net/manga/118340/Bartender_à_Paris",
+    "image": "https://cdn.myanimelist.net/images/manga/3/215960.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "バーテンダー a Paris"
-    ],
+    "deletedAt": null,
     "authors": [
       "Joh, Araki",
       "Kajisa, Osamu"
-    ],
-    "id": 118340,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:09.237Z",
+    "updatedAt": "2022-05-13T12:42:09.237Z",
+    "checkedAt": null,
+    "id": 113678,
     "type": "manga",
     "title": "Bartender à Paris",
-    "url": "https://myanimelist.net/manga/118340/Bartender_à_Paris",
-    "image": "https://cdn.myanimelist.net/images/manga/3/215960.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-07-07T17:30:26.000Z",
-    "updatedAt": "2022-01-07T17:48:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "バーテンダー à Paris",
       "Bartender a Paris"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Kajisa",
-      "Araki Joh"
-    ],
-    "id": 113678,
-    "malId": 118340,
-    "type": "manga",
-    "title": "Bartender à Paris",
     "url": "https://anilist.co/manga/113678",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113678-OsNkomHb1Wlx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-08-24T09:06:34.000Z",
-    "updatedAt": "2022-02-24T09:18:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118340/Bartender_à_Paris"
+    "externalLinks": [],
+    "malId": 118340,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Kajisa",
+      "Araki Joh"
+    ]
+  }
 }

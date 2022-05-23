@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hideaki",
-    "Kurogin"
-  ],
+  "createdAt": "2020-10-12T16:11:04.000Z",
+  "updatedAt": "2021-12-05T05:50:07.000Z",
+  "checkedAt": null,
+  "id": 18509,
   "identifier": "c2ec155f-67db-4010-990d-ec8c0914ab0e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110544,
   "aniId": 100428,
-  "createdAt": "2020-10-12T16:11:04.000Z",
-  "updatedAt": "2021-12-05T05:50:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hideaki",
+    "Kurogin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:19.000Z",
+    "updatedAt": "2021-11-20T14:44:37.000Z",
+    "checkedAt": null,
+    "id": 110544,
+    "type": "manga",
+    "title": "Kurogane no Ido",
+    "altTitle": [
+      "Ido of Kurogane",
+      "黒鐵のイド"
+    ],
+    "url": "https://myanimelist.net/manga/110544/Kurogane_no_Ido",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217819.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ido of Kurogane",
-      "黒鐵のイド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurogin",
       "Hideaki"
-    ],
-    "id": 110544,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:20.484Z",
+    "updatedAt": "2022-05-13T12:49:20.484Z",
+    "checkedAt": null,
+    "id": 100428,
     "type": "manga",
     "title": "Kurogane no Ido",
-    "url": "https://myanimelist.net/manga/110544/Kurogane_no_Ido",
-    "image": "https://cdn.myanimelist.net/images/manga/1/217819.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:19.000Z",
-    "updatedAt": "2021-11-20T14:44:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "黒鐵のイド",
       "Ido of Kurogane"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kurogin",
-      "Hideaki"
-    ],
-    "id": 100428,
-    "malId": 110544,
-    "type": "manga",
-    "title": "Kurogane no Ido",
     "url": "https://anilist.co/manga/100428",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100428-fCQAGZFSWdvt.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:14.000Z",
-    "updatedAt": "2021-12-18T03:23:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110544/Kurogane_no_Ido"
+    "externalLinks": [],
+    "malId": 110544,
+    "deletedAt": null,
+    "authors": [
+      "Kurogin",
+      "Hideaki"
+    ]
+  }
 }

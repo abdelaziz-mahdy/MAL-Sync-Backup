@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:56.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3271,
   "identifier": "6yz7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1016,
   "aniId": 1016,
-  "createdAt": "2020-10-12T15:50:56.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:11.000Z",
+    "updatedAt": "2022-05-14T18:32:11.000Z",
+    "checkedAt": "2022-05-14T18:32:11.000Z",
+    "id": 1016,
+    "type": "anime",
+    "title": "Gunnm",
+    "altTitle": [
+      "Ganmu",
+      "Tsutsu Yume: Gunnm",
+      "Battle Angel",
+      "Hyper Future Vision: Gunnm",
+      "Battle Angel Alita",
+      "銃夢 GUNNM"
+    ],
+    "url": "https://myanimelist.net/anime/1016/Gunnm",
+    "image": "https://cdn.myanimelist.net/images/anime/11/41257.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,27 +54,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ganmu",
-      "Tsutsu Yume: Gunnm",
-      "Battle Angel",
-      "Hyper Future Vision: Gunnm",
-      "Battle Angel Alita",
-      "銃夢 GUNNM"
-    ],
+    "deletedAt": null,
+    "anidbId": 147
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:53.000Z",
+    "updatedAt": "2022-05-15T09:25:11.000Z",
+    "checkedAt": "2022-05-15T09:25:11.000Z",
     "id": 1016,
     "type": "anime",
-    "title": "Gunnm",
-    "url": "https://myanimelist.net/anime/1016/Gunnm",
-    "image": "https://cdn.myanimelist.net/images/anime/11/41257.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 147,
-    "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2022-03-30T19:06:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "GUNNM",
     "altTitle": [
       "Battle Angel Alita",
       "銃夢",
@@ -64,18 +73,12 @@
       "Hyper Future Vision: GUNNM",
       "Alita, Àngel de Combat"
     ],
-    "externalLinks": [],
-    "id": 1016,
-    "malId": 1016,
-    "type": "anime",
-    "title": "GUNNM",
     "url": "https://anilist.co/anime/1016",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1016-3tyU3Y3KtcGA.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:53.000Z",
-    "updatedAt": "2022-03-16T08:49:41.000Z",
+    "externalLinks": [],
+    "malId": 1016,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1016/Gunnm"
+  }
 }

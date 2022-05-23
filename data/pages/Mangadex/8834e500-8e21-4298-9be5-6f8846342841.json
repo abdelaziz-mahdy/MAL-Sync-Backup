@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kapparappara"
-  ],
+  "createdAt": "2020-10-12T16:18:25.000Z",
+  "updatedAt": "2021-12-07T17:17:24.000Z",
+  "checkedAt": null,
+  "id": 33132,
   "identifier": "8834e500-8e21-4298-9be5-6f8846342841",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 79139,
   "aniId": 92775,
-  "createdAt": "2020-10-12T16:18:25.000Z",
-  "updatedAt": "2021-12-07T17:17:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kapparappara"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-04-02T19:07:03.000Z",
+    "checkedAt": null,
+    "id": 79139,
+    "type": "manga",
+    "title": "Onikirimaruden",
+    "altTitle": [
+      "Onikirimaru Den",
+      "The Legend of Onikirimaru",
+      "鬼切丸伝"
+    ],
+    "url": "https://myanimelist.net/manga/79139/Onikirimaruden",
+    "image": "https://cdn.myanimelist.net/images/manga/1/136939.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,52 +42,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Onikirimaru Den",
-      "The Legend of Onikirimaru",
-      "鬼切丸伝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kusunoki, Kei"
-    ],
-    "id": 79139,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.304Z",
+    "updatedAt": "2022-05-13T13:06:37.304Z",
+    "checkedAt": null,
+    "id": 92775,
     "type": "manga",
     "title": "Onikirimaruden",
-    "url": "https://myanimelist.net/manga/79139/Onikirimaruden",
-    "image": "https://cdn.myanimelist.net/images/manga/1/136939.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-04-02T19:07:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Legend of Onikirimaru",
       "鬼切丸伝",
       "Onikirimaru Den"
     ],
+    "url": "https://anilist.co/manga/92775",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92775-96sbNYiDi0TR.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/the-legend-of-onikirimaru/volumes"
       }
     ],
+    "malId": 79139,
+    "deletedAt": null,
     "authors": [
       "Kei Kusunoki",
       "Adam Lensenmayer"
-    ],
-    "id": 92775,
-    "malId": 79139,
-    "type": "manga",
-    "title": "Onikirimaruden",
-    "url": "https://anilist.co/manga/92775",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92775-96sbNYiDi0TR.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2022-04-02T22:06:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79139/Onikirimaruden"
+    ]
+  }
 }

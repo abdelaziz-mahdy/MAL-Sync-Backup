@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:31.000Z",
+  "updatedAt": "2021-07-11T15:14:25.000Z",
+  "checkedAt": null,
+  "id": 2718,
   "identifier": "5ok0",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39533,
   "aniId": 108430,
-  "createdAt": "2020-10-12T15:50:31.000Z",
-  "updatedAt": "2021-07-11T15:14:25.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T16:32:06.000Z",
+    "checkedAt": "2022-05-14T16:32:06.000Z",
+    "id": 39533,
+    "type": "anime",
+    "title": "Given",
+    "altTitle": [
+      "ギヴン"
+    ],
+    "url": "https://myanimelist.net/anime/39533/Given",
+    "image": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,26 +58,24 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "ギヴン"
-    ],
-    "id": 39533,
+    "deletedAt": null,
+    "anidbId": 14756
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:56.000Z",
+    "updatedAt": "2022-05-15T09:24:59.000Z",
+    "checkedAt": "2022-05-15T09:24:59.000Z",
+    "id": 108430,
     "type": "anime",
     "title": "Given",
-    "url": "https://myanimelist.net/anime/39533/Given",
-    "image": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14756,
-    "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2022-04-21T10:31:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "given",
       "ギヴン"
     ],
+    "url": "https://anilist.co/anime/108430",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108430-LcVOT7ntUbjT.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -73,17 +86,7 @@
         "url": "https://vrv.co/series/GRG5WWD4R/given"
       }
     ],
-    "id": 108430,
     "malId": 39533,
-    "type": "anime",
-    "title": "Given",
-    "url": "https://anilist.co/anime/108430",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108430-LcVOT7ntUbjT.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:56.000Z",
-    "updatedAt": "2021-12-17T17:22:48.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/39533/Given"
+  }
 }

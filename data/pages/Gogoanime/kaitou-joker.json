@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:00:54.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18666,
   "identifier": "kaitou-joker",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 24909,
   "aniId": 20818,
-  "createdAt": "2020-10-12T16:00:54.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T22:48:29.000Z",
+    "checkedAt": "2022-05-14T22:48:29.000Z",
+    "id": 24909,
+    "type": "anime",
+    "title": "Kaitou Joker",
+    "altTitle": [
+      "Mysterious Joker",
+      "JOKER",
+      "怪盗ジョーカー"
+    ],
+    "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
+    "image": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,46 +51,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mysterious Joker",
-      "JOKER",
-      "怪盗ジョーカー"
-    ],
-    "id": 24909,
+    "deletedAt": null,
+    "anidbId": 10714
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:37.000Z",
+    "updatedAt": "2022-05-15T14:29:11.000Z",
+    "checkedAt": "2022-05-15T14:29:11.000Z",
+    "id": 20818,
     "type": "anime",
     "title": "Kaitou Joker",
-    "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
-    "image": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10714,
-    "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2022-04-03T00:33:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Joker",
       "怪盗ジョーカー",
       " Mysterious Joker"
     ],
+    "url": "https://anilist.co/anime/20818",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20818.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/joker"
       }
     ],
-    "id": 20818,
     "malId": 24909,
-    "type": "anime",
-    "title": "Kaitou Joker",
-    "url": "https://anilist.co/anime/20818",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20818.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:37.000Z",
-    "updatedAt": "2021-12-17T14:31:07.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/24909/Kaitou_Joker"
+  }
 }

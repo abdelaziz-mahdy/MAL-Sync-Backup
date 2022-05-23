@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mako"
-  ],
+  "createdAt": "2020-10-12T16:09:02.000Z",
+  "updatedAt": "2021-12-04T15:51:29.000Z",
+  "checkedAt": null,
+  "id": 14125,
   "identifier": "6a81e92b-f389-4522-a79c-2bc070d52e35",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95249,
   "aniId": 96593,
-  "createdAt": "2020-10-12T16:09:02.000Z",
-  "updatedAt": "2021-12-04T15:51:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mako"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T14:50:08.000Z",
+    "updatedAt": "2021-12-04T15:19:28.000Z",
+    "checkedAt": null,
+    "id": 95249,
+    "type": "manga",
+    "title": "Riot Girl",
+    "altTitle": [
+      "ライオット・ガール"
+    ],
+    "url": "https://myanimelist.net/manga/95249/Riot_Girl",
+    "image": "https://cdn.myanimelist.net/images/manga/3/169983.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ライオット・ガール"
-    ],
+    "deletedAt": null,
     "authors": [
       "mako"
-    ],
-    "id": 95249,
-    "type": "manga",
-    "title": "Riot Girl",
-    "url": "https://myanimelist.net/manga/95249/Riot_Girl",
-    "image": "https://cdn.myanimelist.net/images/manga/3/169983.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T14:50:08.000Z",
-    "updatedAt": "2021-12-04T15:19:28.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:05.396Z",
+    "updatedAt": "2022-05-13T12:50:05.396Z",
+    "checkedAt": null,
+    "id": 96593,
+    "type": "manga",
+    "title": "Riot Girl",
     "altTitle": [
       "ライオット・ガール"
     ],
-    "externalLinks": [],
-    "authors": [
-      "mako"
-    ],
-    "id": 96593,
-    "malId": 95249,
-    "type": "manga",
-    "title": "Riot Girl",
     "url": "https://anilist.co/manga/96593",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96593-Dbd0f8KbOeQ2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T14:50:08.000Z",
-    "updatedAt": "2021-12-18T01:50:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95249/Riot_Girl"
+    "externalLinks": [],
+    "malId": 95249,
+    "deletedAt": null,
+    "authors": [
+      "mako"
+    ]
+  }
 }

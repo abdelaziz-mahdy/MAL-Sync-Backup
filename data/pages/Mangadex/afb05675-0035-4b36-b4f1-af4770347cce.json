@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kuwabara Yuko"
-  ],
+  "createdAt": "2020-10-12T16:07:25.000Z",
+  "updatedAt": "2021-12-04T02:52:00.000Z",
+  "checkedAt": null,
+  "id": 10588,
   "identifier": "afb05675-0035-4b36-b4f1-af4770347cce",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 46710,
   "aniId": 76710,
-  "createdAt": "2020-10-12T16:07:25.000Z",
-  "updatedAt": "2021-12-04T02:52:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuwabara Yuko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:28.000Z",
+    "updatedAt": "2021-11-07T07:18:06.000Z",
+    "checkedAt": null,
+    "id": 46710,
+    "type": "manga",
+    "title": "Kimi to Asa Gohan!",
+    "altTitle": [
+      "Let's eat breakfast!",
+      "君と朝ごはん!"
+    ],
+    "url": "https://myanimelist.net/manga/46710/Kimi_to_Asa_Gohan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/83190.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Let's eat breakfast!",
-      "君と朝ごはん!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kuwabara, Yuko"
-    ],
-    "id": 46710,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:31.480Z",
+    "updatedAt": "2022-05-13T12:58:31.480Z",
+    "checkedAt": null,
+    "id": 76710,
     "type": "manga",
     "title": "Kimi to Asa Gohan!",
-    "url": "https://myanimelist.net/manga/46710/Kimi_to_Asa_Gohan",
-    "image": "https://cdn.myanimelist.net/images/manga/1/83190.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:28.000Z",
-    "updatedAt": "2021-11-07T07:18:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "君と朝ごはん!",
       "Let's eat breakfast!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuko Kuwabara"
-    ],
-    "id": 76710,
-    "malId": 46710,
-    "type": "manga",
-    "title": "Kimi to Asa Gohan!",
     "url": "https://anilist.co/manga/76710",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46710.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:30.000Z",
-    "updatedAt": "2021-12-17T20:57:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/46710/Kimi_to_Asa_Gohan"
+    "externalLinks": [],
+    "malId": 46710,
+    "deletedAt": null,
+    "authors": [
+      "Yuko Kuwabara"
+    ]
+  }
 }

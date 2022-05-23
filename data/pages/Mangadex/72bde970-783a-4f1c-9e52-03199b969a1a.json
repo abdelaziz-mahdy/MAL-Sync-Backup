@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tooyama Ema"
-  ],
+  "createdAt": "2020-10-12T16:02:24.000Z",
+  "updatedAt": "2021-12-02T06:47:27.000Z",
+  "checkedAt": null,
+  "id": 51,
   "identifier": "72bde970-783a-4f1c-9e52-03199b969a1a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13463,
   "aniId": 43463,
-  "createdAt": "2020-10-12T16:02:24.000Z",
-  "updatedAt": "2021-12-02T06:47:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tooyama Ema"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:58.000Z",
+    "updatedAt": "2022-05-17T23:45:01.000Z",
+    "checkedAt": "2022-05-17T23:45:01.000Z",
+    "id": 13463,
+    "type": "manga",
+    "title": "Watashi ni xx Shinasai!",
+    "altTitle": [
+      "Do xx to Me!",
+      "x Shina",
+      "Plain Love",
+      "Missions of Love",
+      "わたしに××しなさい！"
+    ],
+    "url": "https://myanimelist.net/manga/13463/Watashi_ni_xx_Shinasai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/155156.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,28 +48,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Do xx to Me!",
-      "x Shina",
-      "Plain Love",
-      "Missions of Love",
-      "わたしに××しなさい！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tooyama, Ema"
-    ],
-    "id": 13463,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:34.754Z",
+    "updatedAt": "2022-05-17T23:44:59.000Z",
+    "checkedAt": "2022-05-17T23:44:59.000Z",
+    "id": 43463,
     "type": "manga",
     "title": "Watashi ni xx Shinasai!",
-    "url": "https://myanimelist.net/manga/13463/Watashi_ni_xx_Shinasai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/155156.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:58.000Z",
-    "updatedAt": "2022-01-11T21:12:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Missions of Love",
       "わたしに××しなさい！",
@@ -59,21 +68,15 @@
       "xx Me!",
       "Plain Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ema Tooyama"
-    ],
-    "id": 43463,
-    "malId": 13463,
-    "type": "manga",
-    "title": "Watashi ni xx Shinasai!",
     "url": "https://anilist.co/manga/43463",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx43463-d433IofXBnVN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:35.000Z",
-    "updatedAt": "2021-12-17T15:11:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13463/Watashi_ni_xx_Shinasai"
+    "externalLinks": [],
+    "malId": 13463,
+    "deletedAt": null,
+    "authors": [
+      "Ema Tooyama"
+    ]
+  }
 }

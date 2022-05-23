@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Wu Zui",
-    "Liao Jia Le"
-  ],
+  "createdAt": "2021-06-01T01:23:38.000Z",
+  "updatedAt": "2022-03-29T15:30:51.000Z",
+  "checkedAt": null,
+  "id": 75150,
   "identifier": "manga-mi952565",
   "type": "manga",
   "page": "MangaNato",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 101152,
-  "createdAt": "2021-06-01T01:23:38.000Z",
-  "updatedAt": "2022-03-29T15:30:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wu Zui",
+    "Liao Jia Le"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:56.876Z",
+    "updatedAt": "2022-05-13T18:03:40.000Z",
+    "checkedAt": "2022-05-13T18:03:40.000Z",
+    "id": 101152,
+    "type": "manga",
+    "title": "Xianxia Shijie",
     "altTitle": [
       "The Mythical Realm",
       "仙侠世界",
@@ -27,22 +35,16 @@
       "El Reino Legendario",
       "The Gioi Tien Hiep"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Wuzui",
-      "Shenju Dongman"
-    ],
-    "id": 101152,
-    "malId": null,
-    "type": "manga",
-    "title": "Xianxia Shijie",
     "url": "https://anilist.co/manga/101152",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/101152-UcncnX80hQUf.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-27T13:28:43.000Z",
-    "updatedAt": "2022-04-01T05:00:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Wuzui",
+      "Shenju Dongman"
+    ]
+  }
 }

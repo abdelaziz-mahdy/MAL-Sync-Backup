@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hosokawa Chieko"
-  ],
+  "createdAt": "2020-10-12T16:02:46.000Z",
+  "updatedAt": "2021-12-02T09:47:17.000Z",
+  "checkedAt": null,
+  "id": 806,
   "identifier": "a0861345-be1a-4f4d-97bb-6310b91cb32b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5284,
   "aniId": 35284,
-  "createdAt": "2020-10-12T16:02:46.000Z",
-  "updatedAt": "2021-12-02T09:47:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hosokawa Chieko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E7%8E%8B%E5%AE%B6%E3%81%AE%E7%B4%8B%E7%AB%A0"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:04.000Z",
+    "updatedAt": "2022-04-03T15:05:07.000Z",
+    "checkedAt": null,
+    "id": 5284,
+    "type": "manga",
+    "title": "Ouke no Monshou",
     "altTitle": [
       "The Royal Hieroglyph",
       "Daughter of the Nile",
@@ -32,22 +33,30 @@
       "Royal Emblem",
       "王家の紋章"
     ],
-    "authors": [
-      "Hosokawa, Chieko",
-      "Fumin"
-    ],
-    "id": 5284,
-    "type": "manga",
-    "title": "Ouke no Monshou",
     "url": "https://myanimelist.net/manga/5284/Ouke_no_Monshou",
     "image": "https://cdn.myanimelist.net/images/manga/3/195439.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:04.000Z",
-    "updatedAt": "2022-04-03T15:05:07.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%8E%8B%E5%AE%B6%E3%81%AE%E7%B4%8B%E7%AB%A0"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hosokawa, Chieko",
+      "Fumin"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:44.198Z",
+    "updatedAt": "2022-05-13T13:02:44.198Z",
+    "checkedAt": null,
+    "id": 35284,
+    "type": "manga",
+    "title": "Ouke no Monshou",
     "altTitle": [
       "王家の紋章",
       "The Royal Hieroglyph",
@@ -55,22 +64,16 @@
       "Crest of the Royal Family",
       "Royal Emblem"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chieko Hosokawa",
-      "Fumin"
-    ],
-    "id": 35284,
-    "malId": 5284,
-    "type": "manga",
-    "title": "Ouke no Monshou",
     "url": "https://anilist.co/manga/35284",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx35284-xtq8ke7FoEdN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:27.000Z",
-    "updatedAt": "2021-12-17T12:16:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5284/Ouke_no_Monshou"
+    "externalLinks": [],
+    "malId": 5284,
+    "deletedAt": null,
+    "authors": [
+      "Chieko Hosokawa",
+      "Fumin"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Chihiro",
-    "Liverjam (Friendly Land)"
-  ],
+  "createdAt": "2020-10-12T16:08:44.000Z",
+  "updatedAt": "2021-12-04T12:53:49.000Z",
+  "checkedAt": null,
+  "id": 13438,
   "identifier": "160ba559-b797-4283-88db-256f916cedd2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90601,
   "aniId": 107827,
-  "createdAt": "2020-10-12T16:08:44.000Z",
-  "updatedAt": "2021-12-04T12:53:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chihiro",
+    "Liverjam (Friendly Land)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:04.000Z",
+    "updatedAt": "2022-05-21T21:56:09.000Z",
+    "checkedAt": "2022-05-21T21:56:09.000Z",
+    "id": 90601,
+    "type": "manga",
+    "title": "Corpse Party",
+    "altTitle": [
+      "コープスパーティー"
+    ],
+    "url": "https://myanimelist.net/manga/90601/Corpse_Party",
+    "image": "https://cdn.myanimelist.net/images/manga/2/166018.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "コープスパーティー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kansho",
       "CHIHIRO"
-    ],
-    "id": 90601,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:45.716Z",
+    "updatedAt": "2022-05-21T21:56:08.000Z",
+    "checkedAt": "2022-05-21T21:56:08.000Z",
+    "id": 107827,
     "type": "manga",
     "title": "Corpse Party",
-    "url": "https://myanimelist.net/manga/90601/Corpse_Party",
-    "image": "https://cdn.myanimelist.net/images/manga/2/166018.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:04.000Z",
-    "updatedAt": "2021-11-13T23:44:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "コープスパーティー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chihiro",
-      "Liver Jam"
-    ],
-    "id": 107827,
-    "malId": 90601,
-    "type": "manga",
-    "title": "Corpse Party",
     "url": "https://anilist.co/manga/107827",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b107827-dASmbG3xu6oG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:05.000Z",
-    "updatedAt": "2021-12-18T05:56:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90601/Corpse_Party"
+    "externalLinks": [],
+    "malId": 90601,
+    "deletedAt": null,
+    "authors": [
+      "Chihiro",
+      "Liver Jam"
+    ]
+  }
 }

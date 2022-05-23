@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koromo"
-  ],
+  "createdAt": "2021-06-09T18:04:54.000Z",
+  "updatedAt": "2021-12-09T19:03:59.000Z",
+  "checkedAt": null,
+  "id": 77484,
   "identifier": "manga-yk975367",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103028,
   "aniId": 98417,
-  "createdAt": "2021-06-09T18:04:54.000Z",
-  "updatedAt": "2021-12-09T19:03:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koromo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:47.000Z",
+    "updatedAt": "2022-05-21T18:02:41.000Z",
+    "checkedAt": "2022-05-21T18:02:41.000Z",
+    "id": 103028,
+    "type": "manga",
+    "title": "Koisuru Shirokuma",
+    "altTitle": [
+      "A Polar Bear in Love",
+      "恋するシロクマ"
+    ],
+    "url": "https://myanimelist.net/manga/103028/Koisuru_Shirokuma",
+    "image": "https://cdn.myanimelist.net/images/manga/1/193632.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A Polar Bear in Love",
-      "恋するシロクマ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koromo"
-    ],
-    "id": 103028,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:43.350Z",
+    "updatedAt": "2022-05-21T18:02:40.000Z",
+    "checkedAt": "2022-05-21T18:02:40.000Z",
+    "id": 98417,
     "type": "manga",
     "title": "Koisuru Shirokuma",
-    "url": "https://myanimelist.net/manga/103028/Koisuru_Shirokuma",
-    "image": "https://cdn.myanimelist.net/images/manga/1/193632.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:47.000Z",
-    "updatedAt": "2021-12-09T18:34:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Polar Bear in Love",
       "恋するシロクマ",
@@ -51,21 +60,15 @@
       "Polar Bear in Love",
       "Koi Suru Shirokuma"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Koromo"
-    ],
-    "id": 98417,
-    "malId": 103028,
-    "type": "manga",
-    "title": "Koisuru Shirokuma",
     "url": "https://anilist.co/manga/98417",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98417-lzeTd5nl4xj1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2021-12-18T02:27:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103028/Koisuru_Shirokuma"
+    "externalLinks": [],
+    "malId": 103028,
+    "deletedAt": null,
+    "authors": [
+      "Koromo"
+    ]
+  }
 }

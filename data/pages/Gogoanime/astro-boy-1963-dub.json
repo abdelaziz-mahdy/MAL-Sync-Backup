@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:59:53.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16631,
   "identifier": "astro-boy-1963-dub",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2747,
   "aniId": 2747,
-  "createdAt": "2020-10-12T15:59:53.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-14T19:39:11.000Z",
+    "checkedAt": "2022-05-14T19:39:11.000Z",
+    "id": 2747,
+    "type": "anime",
+    "title": "Tetsuwan Atom",
+    "altTitle": [
+      "Mighty Atom",
+      "Astro Boy",
+      "鉄腕アトム"
+    ],
+    "url": "https://myanimelist.net/anime/2747/Tetsuwan_Atom",
+    "image": "https://cdn.myanimelist.net/images/anime/10/79582.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,24 +56,16 @@
         "url": "https://www.funimation.com/shows/astro-boy"
       }
     ],
-    "altTitle": [
-      "Mighty Atom",
-      "Astro Boy",
-      "鉄腕アトム"
-    ],
+    "deletedAt": null,
+    "anidbId": 1440
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:26.000Z",
+    "updatedAt": "2022-05-15T16:37:59.000Z",
+    "checkedAt": "2022-05-15T16:37:59.000Z",
     "id": 2747,
     "type": "anime",
     "title": "Tetsuwan Atom",
-    "url": "https://myanimelist.net/anime/2747/Tetsuwan_Atom",
-    "image": "https://cdn.myanimelist.net/images/anime/10/79582.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1440,
-    "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2022-03-31T09:07:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Astro Boy",
       "鉄腕アトム",
@@ -64,23 +73,17 @@
       "Mighty Atom",
       "Astroboy"
     ],
+    "url": "https://anilist.co/anime/2747",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2747.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/astro-boy/"
       }
     ],
-    "id": 2747,
     "malId": 2747,
-    "type": "anime",
-    "title": "Tetsuwan Atom",
-    "url": "https://anilist.co/anime/2747",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2747.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:26.000Z",
-    "updatedAt": "2021-12-17T10:28:27.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2747/Tetsuwan_Atom"
+  }
 }

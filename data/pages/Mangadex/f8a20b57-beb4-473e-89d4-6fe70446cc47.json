@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tomisawa Hiroki"
-  ],
+  "createdAt": "2020-10-12T16:08:39.000Z",
+  "updatedAt": "2022-04-21T04:30:26.000Z",
+  "checkedAt": null,
+  "id": 13237,
   "identifier": "f8a20b57-beb4-473e-89d4-6fe70446cc47",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91697,
   "aniId": 147845,
-  "createdAt": "2020-10-12T16:08:39.000Z",
-  "updatedAt": "2022-04-21T04:30:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tomisawa Hiroki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-05-22T20:09:55.000Z",
+    "checkedAt": "2022-05-22T20:09:55.000Z",
+    "id": 91697,
+    "type": "manga",
+    "title": "Senka no Kanojo",
+    "altTitle": [
+      "戦渦のカノジョ"
+    ],
+    "url": "https://myanimelist.net/manga/91697/Senka_no_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/167461.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "戦渦のカノジョ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tomisawa, Hiroki"
-    ],
-    "id": 91697,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:32.044Z",
+    "updatedAt": "2022-05-22T20:09:52.000Z",
+    "checkedAt": "2022-05-22T20:09:52.000Z",
+    "id": 147845,
     "type": "manga",
     "title": "Senka no Kanojo",
-    "url": "https://myanimelist.net/manga/91697/Senka_no_Kanojo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/167461.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2021-11-14T06:44:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "戦渦のカノジョ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroki Tomisawa"
-    ],
-    "id": 147845,
-    "malId": 91697,
-    "type": "manga",
-    "title": "Senka no Kanojo",
     "url": "https://anilist.co/manga/147845",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b147845-H9C1IMEAvrrV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-04-21T04:00:26.000Z",
-    "updatedAt": "2022-04-21T04:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91697/Senka_no_Kanojo"
+    "externalLinks": [],
+    "malId": 91697,
+    "deletedAt": null,
+    "authors": [
+      "Hiroki Tomisawa"
+    ]
+  }
 }

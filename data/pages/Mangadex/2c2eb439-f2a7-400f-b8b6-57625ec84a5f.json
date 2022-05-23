@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Youichi"
-  ],
+  "createdAt": "2020-10-12T16:02:39.000Z",
+  "updatedAt": "2021-12-02T08:47:36.000Z",
+  "checkedAt": null,
+  "id": 596,
   "identifier": "2c2eb439-f2a7-400f-b8b6-57625ec84a5f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2394,
   "aniId": 32394,
-  "createdAt": "2020-10-12T16:02:39.000Z",
-  "updatedAt": "2021-12-02T08:47:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Youichi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/OVER_TIME"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:42.000Z",
+    "updatedAt": "2022-04-27T14:33:28.000Z",
+    "checkedAt": null,
+    "id": 2394,
+    "type": "manga",
+    "title": "Over Time",
     "altTitle": [
       "Usagi to Kame to Strike",
       "Cross Beat",
@@ -32,42 +33,44 @@
       "Live Alive: Hajimari no Uta",
       "OVER TIME"
     ],
-    "authors": [
-      "Amano, Youichi"
-    ],
-    "id": 2394,
-    "type": "manga",
-    "title": "Over Time",
     "url": "https://myanimelist.net/manga/2394/Over_Time",
     "image": "https://cdn.myanimelist.net/images/manga/2/169667.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:42.000Z",
-    "updatedAt": "2022-04-27T14:33:28.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/OVER_TIME"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Amano, Youichi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:00.144Z",
+    "updatedAt": "2022-05-13T12:56:00.144Z",
+    "checkedAt": null,
+    "id": 32394,
+    "type": "manga",
+    "title": "Over Time",
     "altTitle": [
       "オーバータイム",
       "Usagi to Kame to Strike",
       "Cross Beat",
       "Live Alive"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youichi Amano"
-    ],
-    "id": 32394,
-    "malId": 2394,
-    "type": "manga",
-    "title": "Over Time",
     "url": "https://anilist.co/manga/32394",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32394-OnKxBKfhhQyE.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:06.000Z",
-    "updatedAt": "2021-12-17T10:40:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2394/Over_Time"
+    "externalLinks": [],
+    "malId": 2394,
+    "deletedAt": null,
+    "authors": [
+      "Youichi Amano"
+    ]
+  }
 }

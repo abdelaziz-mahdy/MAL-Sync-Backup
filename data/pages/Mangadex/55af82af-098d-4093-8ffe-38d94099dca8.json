@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanaka Hiroshi"
-  ],
+  "createdAt": "2020-10-12T16:09:58.000Z",
+  "updatedAt": "2021-12-04T21:52:02.000Z",
+  "checkedAt": null,
+  "id": 16114,
   "identifier": "55af82af-098d-4093-8ffe-38d94099dca8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29911,
   "aniId": 59911,
-  "createdAt": "2020-10-12T16:09:58.000Z",
-  "updatedAt": "2021-12-04T21:52:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanaka Hiroshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:39.000Z",
+    "updatedAt": "2022-05-15T14:36:03.000Z",
+    "checkedAt": "2022-05-15T14:36:03.000Z",
+    "id": 29911,
+    "type": "manga",
+    "title": "Bad Boys",
+    "altTitle": [
+      "BAD BOYS"
+    ],
+    "url": "https://myanimelist.net/manga/29911/Bad_Boys",
+    "image": "https://cdn.myanimelist.net/images/manga/3/196275.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,24 +40,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BAD BOYS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Hiroshi"
-    ],
-    "id": 29911,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:16.715Z",
+    "updatedAt": "2022-05-15T18:20:35.000Z",
+    "checkedAt": "2022-05-15T18:20:35.000Z",
+    "id": 59911,
     "type": "manga",
     "title": "Bad Boys",
-    "url": "https://myanimelist.net/manga/29911/Bad_Boys",
-    "image": "https://cdn.myanimelist.net/images/manga/3/196275.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:39.000Z",
-    "updatedAt": "2022-04-10T12:32:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BAD BOYS",
       "나쁜 소년들",
@@ -51,21 +60,15 @@
       "壞男孩",
       "BadBoys"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Tanaka"
-    ],
-    "id": 59911,
-    "malId": 29911,
-    "type": "manga",
-    "title": "Bad Boys",
     "url": "https://anilist.co/manga/59911",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59911-XUQJ8HMzYYOt.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2021-12-17T19:04:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/29911/Bad_Boys"
+    "externalLinks": [],
+    "malId": 29911,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Tanaka"
+    ]
+  }
 }

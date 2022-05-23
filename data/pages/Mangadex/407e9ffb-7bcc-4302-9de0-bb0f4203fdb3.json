@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kt60",
-    "End"
-  ],
+  "createdAt": "2020-10-12T16:10:36.000Z",
+  "updatedAt": "2021-12-05T02:18:48.000Z",
+  "checkedAt": null,
+  "id": 17489,
   "identifier": "407e9ffb-7bcc-4302-9de0-bb0f4203fdb3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 106300,
   "aniId": 101578,
-  "createdAt": "2020-10-12T16:10:36.000Z",
-  "updatedAt": "2021-12-05T02:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kt60",
+    "End"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:03.000Z",
+    "updatedAt": "2022-05-15T08:15:24.000Z",
+    "checkedAt": "2022-05-15T08:15:24.000Z",
+    "id": 106300,
+    "type": "manga",
+    "title": "Butsuri-san de Musou shitetara Motemote ni Narimashita",
+    "altTitle": [
+      "物理さんで無双してたらモテモテになりました"
+    ],
+    "url": "https://myanimelist.net/manga/106300/Butsuri-san_de_Musou_shitetara_Motemote_ni_Narimashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/195951.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "物理さんで無双してたらモテモテになりました"
-    ],
+    "deletedAt": null,
     "authors": [
       "kt60",
       "End"
-    ],
-    "id": 106300,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:50.525Z",
+    "updatedAt": "2022-05-23T03:56:31.000Z",
+    "checkedAt": "2022-05-23T03:56:31.000Z",
+    "id": 101578,
     "type": "manga",
     "title": "Butsuri-san de Musou shitetara Motemote ni Narimashita",
-    "url": "https://myanimelist.net/manga/106300/Butsuri-san_de_Musou_shitetara_Motemote_ni_Narimashita",
-    "image": "https://cdn.myanimelist.net/images/manga/3/195951.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:03.000Z",
-    "updatedAt": "2022-04-10T19:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "物理さんで無双してたらモテモテになりました"
     ],
-    "externalLinks": [],
-    "authors": [
-      "kt60",
-      "End",
-      "cccpo"
-    ],
-    "id": 101578,
-    "malId": 106300,
-    "type": "manga",
-    "title": "Butsuri-san de Musou shitetara Motemote ni Narimashita",
     "url": "https://anilist.co/manga/101578",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101578-I3ZNal1XPjIM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:47.000Z",
-    "updatedAt": "2021-12-18T03:54:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/106300/Butsuri-san_de_Musou_shitetara_Motemote_ni_Narimashita"
+    "externalLinks": [],
+    "malId": 106300,
+    "deletedAt": null,
+    "authors": [
+      "kt60",
+      "End",
+      "cccpo"
+    ]
+  }
 }

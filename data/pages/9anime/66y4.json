@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-12-09T14:01:00.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29827,
   "identifier": "66y4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2022,
   "aniId": 2022,
-  "createdAt": "2020-12-09T14:01:00.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:24.000Z",
+    "updatedAt": "2022-05-21T20:04:19.000Z",
+    "checkedAt": "2022-05-21T20:04:19.000Z",
+    "id": 2022,
+    "type": "anime",
+    "title": "Fight!!",
+    "altTitle": [
+      "Fight!! Spirit of the Sword",
+      "FIGHT!!"
+    ],
+    "url": "https://myanimelist.net/anime/2022/Fight",
+    "image": "https://cdn.myanimelist.net/images/anime/1623/94539.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fight!! Spirit of the Sword",
-      "FIGHT!!"
-    ],
+    "deletedAt": null,
+    "anidbId": 2419
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-21T20:04:18.000Z",
+    "checkedAt": "2022-05-21T20:04:18.000Z",
     "id": 2022,
     "type": "anime",
-    "title": "Fight!!",
-    "url": "https://myanimelist.net/anime/2022/Fight",
-    "image": "https://cdn.myanimelist.net/images/anime/1623/94539.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2419,
-    "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2022-03-31T04:00:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "FIGHT!!",
     "altTitle": [
       "FIGHT!!",
       "Fight!! Spirit of the Sword"
     ],
-    "externalLinks": [],
-    "id": 2022,
-    "malId": 2022,
-    "type": "anime",
-    "title": "FIGHT!!",
     "url": "https://anilist.co/anime/2022",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2022.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:07.000Z",
-    "updatedAt": "2022-01-12T14:41:39.000Z",
+    "externalLinks": [],
+    "malId": 2022,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2022/Fight"
+  }
 }

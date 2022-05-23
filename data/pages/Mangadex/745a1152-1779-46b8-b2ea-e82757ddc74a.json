@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aki (あき)"
-  ],
+  "createdAt": "2020-10-12T16:04:58.000Z",
+  "updatedAt": "2021-12-03T00:49:57.000Z",
+  "checkedAt": null,
+  "id": 5414,
   "identifier": "745a1152-1779-46b8-b2ea-e82757ddc74a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11037,
   "aniId": 41037,
-  "createdAt": "2020-10-12T16:04:58.000Z",
-  "updatedAt": "2021-12-03T00:49:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aki (あき)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:31.000Z",
+    "updatedAt": "2022-05-15T05:16:19.000Z",
+    "checkedAt": "2022-05-15T05:16:19.000Z",
+    "id": 11037,
+    "type": "manga",
+    "title": "Olimpos",
+    "altTitle": [
+      "Olympus",
+      "Olympos",
+      "オリンポス"
+    ],
+    "url": "https://myanimelist.net/manga/11037/Olimpos",
+    "image": "https://cdn.myanimelist.net/images/manga/3/21405.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Olympus",
-      "Olympos",
-      "オリンポス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aki"
-    ],
-    "id": 11037,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:30.889Z",
+    "updatedAt": "2022-05-18T16:54:31.000Z",
+    "checkedAt": "2022-05-18T16:54:31.000Z",
+    "id": 41037,
     "type": "manga",
     "title": "Olimpos",
-    "url": "https://myanimelist.net/manga/11037/Olimpos",
-    "image": "https://cdn.myanimelist.net/images/manga/3/21405.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:31.000Z",
-    "updatedAt": "2022-01-27T20:30:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Olympos",
       "オリンポス",
       "Olympus"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aki",
-      "Tomo Kimura"
-    ],
-    "id": 41037,
-    "malId": 11037,
-    "type": "manga",
-    "title": "Olimpos",
     "url": "https://anilist.co/manga/41037",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41037-IXqt6zuC9bdR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:13.000Z",
-    "updatedAt": "2021-12-17T14:14:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11037/Olimpos"
+    "externalLinks": [],
+    "malId": 11037,
+    "deletedAt": null,
+    "authors": [
+      "Aki",
+      "Tomo Kimura"
+    ]
+  }
 }

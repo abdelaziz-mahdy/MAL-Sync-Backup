@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Alto",
-    "Rorua",
-    "Sakazuki Homare"
-  ],
+  "createdAt": "2021-10-20T04:58:59.000Z",
+  "updatedAt": "2022-04-20T07:30:26.000Z",
+  "checkedAt": null,
+  "id": 89059,
   "identifier": "6faf8b9c-3cfa-4f5b-8d93-9dca7509ca70",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 141870,
   "aniId": 140972,
-  "createdAt": "2021-10-20T04:58:59.000Z",
-  "updatedAt": "2022-04-20T07:30:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Alto",
+    "Rorua",
+    "Sakazuki Homare"
+  ],
   "Mal": {
+    "createdAt": "2022-04-20T05:33:04.000Z",
+    "updatedAt": "2022-05-22T01:02:32.000Z",
+    "checkedAt": "2022-05-22T01:02:32.000Z",
+    "id": 141870,
+    "type": "manga",
+    "title": "Hoshikiri no Kenshi",
+    "altTitle": [
+      "Star Slashing Swordsman",
+      "The Sword Fighter's Dream",
+      "星斬りの剣士"
+    ],
+    "url": "https://myanimelist.net/manga/141870/Hoshikiri_no_Kenshi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259348.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -27,47 +44,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Star Slashing Swordsman",
-      "星斬りの剣士"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakazuki, Homare",
       "Alto"
-    ],
-    "id": 141870,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:02.804Z",
+    "updatedAt": "2022-05-22T01:02:30.000Z",
+    "checkedAt": "2022-05-22T01:02:30.000Z",
+    "id": 140972,
     "type": "manga",
     "title": "Hoshikiri no Kenshi",
-    "url": "https://myanimelist.net/manga/141870/Hoshikiri_no_Kenshi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/252456.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-04-20T05:33:04.000Z",
-    "updatedAt": "2022-04-20T05:33:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "星斬りの剣士",
       "Star Slashing Swordsman"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Homare Sakazuki",
-      "Rolua",
-      "Aruto"
-    ],
-    "id": 140972,
-    "malId": 141870,
-    "type": "manga",
-    "title": "Hoshikiri no Kenshi",
     "url": "https://anilist.co/manga/140972",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140972-HvsCuQuNjVWV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-31T17:34:20.000Z",
-    "updatedAt": "2021-11-15T18:27:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/141870/Hoshikiri_no_Kenshi"
+    "externalLinks": [],
+    "malId": 141870,
+    "deletedAt": null,
+    "authors": [
+      "Homare Sakazuki",
+      "Rolua",
+      "Aruto"
+    ]
+  }
 }

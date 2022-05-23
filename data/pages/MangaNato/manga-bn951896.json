@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kim Kanbi",
-    "Hwang Youngchan"
-  ],
+  "createdAt": "2021-05-31T13:24:17.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
+  "checkedAt": null,
+  "id": 74858,
   "identifier": "manga-bn951896",
   "type": "manga",
   "page": "MangaNato",
@@ -12,35 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111213,
   "aniId": 86964,
-  "createdAt": "2021-05-31T13:24:17.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kim Kanbi",
+    "Hwang Youngchan"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-05-14T18:18:05.000Z",
+    "checkedAt": "2022-05-14T18:18:05.000Z",
+    "id": 111213,
+    "type": "manga",
+    "title": "Bastard",
     "altTitle": [
       "Hulejasig",
       "후레자식"
     ],
-    "authors": [
-      "Kim, Carnby",
-      "Hwang, Young-chan"
-    ],
-    "id": 111213,
-    "type": "manga",
-    "title": "Bastard",
     "url": "https://myanimelist.net/manga/111213/Bastard",
     "image": "https://cdn.myanimelist.net/images/manga/1/205549.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2022-04-06T17:31:43.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Carnby",
+      "Hwang, Young-chan"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:47.171Z",
+    "updatedAt": "2022-05-15T14:21:23.000Z",
+    "checkedAt": "2022-05-15T14:21:23.000Z",
+    "id": 86964,
+    "type": "manga",
+    "title": "Hurejasik",
     "altTitle": [
       "Bastard",
       "후레자식",
@@ -50,22 +59,16 @@
       "Bâtard",
       "Bastardo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yeong-chan Hwang",
-      "Carnby Kim"
-    ],
-    "id": 86964,
-    "malId": 111213,
-    "type": "manga",
-    "title": "Hurejasik",
     "url": "https://anilist.co/manga/86964",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86964-r7S3IbJNr4SD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:18.000Z",
-    "updatedAt": "2022-04-24T23:30:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111213/Bastard"
+    "externalLinks": [],
+    "malId": 111213,
+    "deletedAt": null,
+    "authors": [
+      "Yeong-chan Hwang",
+      "Carnby Kim"
+    ]
+  }
 }

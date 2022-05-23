@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:59.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3298,
   "identifier": "70oj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 770,
   "aniId": 770,
-  "createdAt": "2020-10-12T15:50:59.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T20:52:29.000Z",
+    "checkedAt": "2022-05-14T20:52:29.000Z",
+    "id": 770,
+    "type": "anime",
+    "title": "Pale Cocoon",
+    "altTitle": [
+      "Aoi Tamago",
+      "ペイル・コクーン"
+    ],
+    "url": "https://myanimelist.net/anime/770/Pale_Cocoon",
+    "image": "https://cdn.myanimelist.net/images/anime/2/3211.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,44 +50,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Aoi Tamago",
-      "ペイル・コクーン"
-    ],
+    "deletedAt": null,
+    "anidbId": 4158
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T19:22:35.000Z",
+    "checkedAt": "2022-05-15T19:22:35.000Z",
     "id": 770,
     "type": "anime",
     "title": "Pale Cocoon",
-    "url": "https://myanimelist.net/anime/770/Pale_Cocoon",
-    "image": "https://cdn.myanimelist.net/images/anime/2/3211.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 4158,
-    "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2022-03-10T22:30:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ペイル・コクーン",
       "Aoi Tamago"
     ],
+    "url": "https://anilist.co/anime/770",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/770.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/pale-cocoon"
       }
     ],
-    "id": 770,
     "malId": 770,
-    "type": "anime",
-    "title": "Pale Cocoon",
-    "url": "https://anilist.co/anime/770",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/770.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:44.000Z",
-    "updatedAt": "2021-12-17T08:54:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/770/Pale_Cocoon"
+  }
 }

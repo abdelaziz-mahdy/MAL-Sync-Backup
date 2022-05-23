@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:30.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8825,
   "identifier": "r8rm",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3900,
   "aniId": 3900,
-  "createdAt": "2020-10-12T15:55:30.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:40.000Z",
+    "updatedAt": "2022-05-15T05:31:50.000Z",
+    "checkedAt": "2022-05-15T05:31:50.000Z",
+    "id": 3900,
+    "type": "anime",
+    "title": "Ougon Bat",
+    "altTitle": [
+      "Fantomas",
+      "Ogon Bat",
+      "Phantaman",
+      "Fantaman",
+      "Golden Bat",
+      "黄金バット"
+    ],
+    "url": "https://myanimelist.net/anime/3900/Ougon_Bat",
+    "image": "https://cdn.myanimelist.net/images/anime/2/28619.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,27 +50,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fantomas",
-      "Ogon Bat",
-      "Phantaman",
-      "Fantaman",
-      "Golden Bat",
-      "黄金バット"
-    ],
+    "deletedAt": null,
+    "anidbId": 1581
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:29.000Z",
+    "updatedAt": "2022-05-15T17:13:47.000Z",
+    "checkedAt": "2022-05-15T17:13:47.000Z",
     "id": 3900,
     "type": "anime",
     "title": "Ougon Bat",
-    "url": "https://myanimelist.net/anime/3900/Ougon_Bat",
-    "image": "https://cdn.myanimelist.net/images/anime/2/28619.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1581,
-    "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2022-03-31T15:04:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Golden Bat",
       "黄金バット",
@@ -59,18 +68,12 @@
       "Phantaman",
       "Fantaman"
     ],
-    "externalLinks": [],
-    "id": 3900,
-    "malId": 3900,
-    "type": "anime",
-    "title": "Ougon Bat",
     "url": "https://anilist.co/anime/3900",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3900.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:29.000Z",
-    "updatedAt": "2021-12-17T11:19:24.000Z",
+    "externalLinks": [],
+    "malId": 3900,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3900/Ougon_Bat"
+  }
 }

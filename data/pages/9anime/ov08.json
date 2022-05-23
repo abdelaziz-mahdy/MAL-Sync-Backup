@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:23.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7666,
   "identifier": "ov08",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32553,
   "aniId": 119947,
-  "createdAt": "2020-10-12T15:54:23.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T19:31:06.000Z",
+    "checkedAt": "2022-05-14T19:31:06.000Z",
+    "id": 32553,
+    "type": "anime",
+    "title": "Nisekoi: OVA",
+    "altTitle": [
+      "ニセコイ: OAD"
+    ],
+    "url": "https://myanimelist.net/anime/32553/Nisekoi__OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/1992/112119.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,39 +41,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ニセコイ: OAD"
-    ],
-    "id": 32553,
+    "deletedAt": null,
+    "anidbId": 11551
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:02.000Z",
+    "updatedAt": "2022-05-15T12:31:23.000Z",
+    "checkedAt": "2022-05-15T12:31:23.000Z",
+    "id": 119947,
     "type": "anime",
     "title": "Nisekoi: OVA",
-    "url": "https://myanimelist.net/anime/32553/Nisekoi__OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/1992/112119.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 11551,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-04-03T10:02:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ニセコイ: OAD",
       "Nisekoi: (2016)",
       "ニセコイ: (2016)"
     ],
-    "externalLinks": [],
-    "id": 119947,
-    "malId": 32553,
-    "type": "anime",
-    "title": "Nisekoi: OVA",
     "url": "https://anilist.co/anime/119947",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119947-yU16iRo7CPAM.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:02.000Z",
-    "updatedAt": "2021-12-17T17:58:09.000Z",
+    "externalLinks": [],
+    "malId": 32553,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32553/Nisekoi__OVA"
+  }
 }

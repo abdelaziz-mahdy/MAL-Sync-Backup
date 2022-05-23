@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamamura Hajime"
-  ],
+  "createdAt": "2020-10-12T16:02:43.000Z",
+  "updatedAt": "2021-12-02T09:17:09.000Z",
+  "checkedAt": null,
+  "id": 705,
   "identifier": "9dd9c852-8b01-4fc3-9d24-3404da2f50bc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11118,
   "aniId": 41118,
-  "createdAt": "2020-10-12T16:02:43.000Z",
-  "updatedAt": "2021-12-02T09:17:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamura Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:31.000Z",
+    "updatedAt": "2021-12-02T09:16:15.000Z",
+    "checkedAt": null,
+    "id": 11118,
+    "type": "manga",
+    "title": "Kamisama Dolls",
+    "altTitle": [
+      "Kami-sama Dolls",
+      "God Dolls",
+      "神様ドォルズ"
+    ],
+    "url": "https://myanimelist.net/manga/11118/Kamisama_Dolls",
+    "image": "https://cdn.myanimelist.net/images/manga/1/52325.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kami-sama Dolls",
-      "God Dolls",
-      "神様ドォルズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamura, Hajime"
-    ],
-    "id": 11118,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:51.948Z",
+    "updatedAt": "2022-05-13T12:57:51.948Z",
+    "checkedAt": null,
+    "id": 41118,
     "type": "manga",
     "title": "Kamisama Dolls",
-    "url": "https://myanimelist.net/manga/11118/Kamisama_Dolls",
-    "image": "https://cdn.myanimelist.net/images/manga/1/52325.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:31.000Z",
-    "updatedAt": "2021-12-02T09:16:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神様ドォルズ",
       "Kami-sama Dolls",
       "God Dolls"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Yamamura"
-    ],
-    "id": 41118,
-    "malId": 11118,
-    "type": "manga",
-    "title": "Kamisama Dolls",
     "url": "https://anilist.co/manga/41118",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41118-umMQsqY2XdwV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:15.000Z",
-    "updatedAt": "2021-12-17T14:15:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11118/Kamisama_Dolls"
+    "externalLinks": [],
+    "malId": 11118,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Yamamura"
+    ]
+  }
 }

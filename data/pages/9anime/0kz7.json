@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:49.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 545,
   "identifier": "0kz7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32949,
   "aniId": 21701,
-  "createdAt": "2020-10-12T15:48:49.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:44.000Z",
+    "updatedAt": "2022-05-14T16:44:11.000Z",
+    "checkedAt": "2022-05-14T16:44:11.000Z",
+    "id": 32949,
+    "type": "anime",
+    "title": "Kuzu no Honkai",
+    "altTitle": [
+      "Scum's Wish",
+      "クズの本懐"
+    ],
+    "url": "https://myanimelist.net/anime/32949/Kuzu_no_Honkai",
+    "image": "https://cdn.myanimelist.net/images/anime/5/83937.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,27 +59,24 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Scum's Wish",
-      "クズの本懐"
-    ],
-    "id": 32949,
+    "deletedAt": null,
+    "anidbId": 11998
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:04.000Z",
+    "updatedAt": "2022-05-15T10:00:11.000Z",
+    "checkedAt": "2022-05-15T10:00:11.000Z",
+    "id": 21701,
     "type": "anime",
     "title": "Kuzu no Honkai",
-    "url": "https://myanimelist.net/anime/32949/Kuzu_no_Honkai",
-    "image": "https://cdn.myanimelist.net/images/anime/5/83937.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11998,
-    "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2022-05-01T18:04:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Scum's Wish",
       "クズの本懐"
     ],
+    "url": "https://anilist.co/anime/21701",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21701-MHK32AXcplLw.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
@@ -74,17 +87,7 @@
         "url": "https://www.hidive.com/tv/scums-wish"
       }
     ],
-    "id": 21701,
     "malId": 32949,
-    "type": "anime",
-    "title": "Kuzu no Honkai",
-    "url": "https://anilist.co/anime/21701",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21701-MHK32AXcplLw.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:04.000Z",
-    "updatedAt": "2022-04-24T10:01:34.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32949/Kuzu_no_Honkai"
+  }
 }

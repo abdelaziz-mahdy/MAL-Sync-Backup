@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukumoto Nobuyuki"
-  ],
+  "createdAt": "2020-10-12T16:03:46.000Z",
+  "updatedAt": "2021-12-02T16:47:18.000Z",
+  "checkedAt": null,
+  "id": 2953,
   "identifier": "8e44a10a-8116-430a-9e17-ba4dd58b4137",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1218,
   "aniId": 31218,
-  "createdAt": "2020-10-12T16:03:46.000Z",
-  "updatedAt": "2021-12-02T16:47:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukumoto Nobuyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-14T16:50:23.000Z",
+    "checkedAt": "2022-05-14T16:50:23.000Z",
+    "id": 1218,
+    "type": "manga",
+    "title": "Akagi: Yami ni Oritatta Tensai",
+    "altTitle": [
+      "Mahjong Legend Akagi",
+      "アカギ ～闇に降り立った天才～"
+    ],
+    "url": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191155.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mahjong Legend Akagi",
-      "アカギ ～闇に降り立った天才～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukumoto, Nobuyuki"
-    ],
-    "id": 1218,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:24.616Z",
+    "updatedAt": "2022-05-15T19:25:11.000Z",
+    "checkedAt": "2022-05-15T19:25:11.000Z",
+    "id": 31218,
     "type": "manga",
     "title": "Akagi: Yami ni Oritatta Tensai",
-    "url": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/191155.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-03-01T00:21:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アカギ ～闇に降り立った天才～",
       "Mahjong Legend Akagi",
       "Tohai Densetsu Akagi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nobuyuki Fukumoto",
-      "Shuuhou Sato"
-    ],
-    "id": 31218,
-    "malId": 1218,
-    "type": "manga",
-    "title": "Akagi: Yami ni Oritatta Tensai",
     "url": "https://anilist.co/manga/31218",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31218-BuD2zbvvPH5B.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2022-01-17T15:34:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai"
+    "externalLinks": [],
+    "malId": 1218,
+    "deletedAt": null,
+    "authors": [
+      "Nobuyuki Fukumoto",
+      "Shuuhou Sato"
+    ]
+  }
 }

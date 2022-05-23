@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Noda Satoru"
-  ],
+  "createdAt": "2020-10-12T16:07:54.000Z",
+  "updatedAt": "2021-12-04T06:22:28.000Z",
+  "checkedAt": null,
+  "id": 11591,
   "identifier": "c95c91b1-34a7-4afc-b98c-1e31b73fd1a8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 79965,
   "aniId": 85553,
-  "createdAt": "2020-10-12T16:07:54.000Z",
-  "updatedAt": "2021-12-04T06:22:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Noda Satoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-19T19:30:20.000Z",
+    "checkedAt": "2022-05-19T19:30:20.000Z",
+    "id": 79965,
+    "type": "manga",
+    "title": "Supinamarada!",
+    "altTitle": [
+      "スピナマラダ!"
+    ],
+    "url": "https://myanimelist.net/manga/79965/Supinamarada",
+    "image": "https://cdn.myanimelist.net/images/manga/2/138467.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スピナマラダ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Noda, Satoru"
-    ],
-    "id": 79965,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:32.428Z",
+    "updatedAt": "2022-05-19T19:30:19.000Z",
+    "checkedAt": "2022-05-19T19:30:19.000Z",
+    "id": 85553,
     "type": "manga",
     "title": "Supinamarada!",
-    "url": "https://myanimelist.net/manga/79965/Supinamarada",
-    "image": "https://cdn.myanimelist.net/images/manga/2/138467.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-04-17T01:31:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スピナマラダ!",
       "A Spin-o-mara!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoru Noda"
-    ],
-    "id": 85553,
-    "malId": 79965,
-    "type": "manga",
-    "title": "Supinamarada!",
     "url": "https://anilist.co/manga/85553",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85553-PUEOpXzojQjH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-17T22:03:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79965/Supinamarada"
+    "externalLinks": [],
+    "malId": 79965,
+    "deletedAt": null,
+    "authors": [
+      "Satoru Noda"
+    ]
+  }
 }

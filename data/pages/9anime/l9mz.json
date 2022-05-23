@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:02.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5973,
   "identifier": "l9mz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1665,
   "aniId": 1665,
-  "createdAt": "2020-10-12T15:53:02.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:20.000Z",
+    "updatedAt": "2022-05-14T20:43:29.000Z",
+    "checkedAt": "2022-05-14T20:43:29.000Z",
+    "id": 1665,
+    "type": "anime",
+    "title": "Babel Nisei (OVA)",
+    "altTitle": [
+      "Babel II OVA",
+      "Babel II OAV",
+      "Babel II",
+      "バビル２世"
+    ],
+    "url": "https://myanimelist.net/anime/1665/Babel_Nisei_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/1467/100245.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,25 +48,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Babel II OVA",
-      "Babel II OAV",
-      "Babel II",
-      "バビル２世"
-    ],
+    "deletedAt": null,
+    "anidbId": 1461
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:14.000Z",
+    "updatedAt": "2022-05-15T19:51:47.000Z",
+    "checkedAt": "2022-05-15T19:51:47.000Z",
     "id": 1665,
     "type": "anime",
-    "title": "Babel Nisei (OVA)",
-    "url": "https://myanimelist.net/anime/1665/Babel_Nisei_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/1467/100245.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1461,
-    "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2022-03-31T00:36:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Babel Nisei (1992)",
     "altTitle": [
       "Babel II",
       "バビル２世",
@@ -56,18 +65,12 @@
       "Babel II OAV",
       "Babil Junior: la leggenda"
     ],
-    "externalLinks": [],
-    "id": 1665,
-    "malId": 1665,
-    "type": "anime",
-    "title": "Babel Nisei (1992)",
     "url": "https://anilist.co/anime/1665",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1665-NaVb4xDxRqCS.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:14.000Z",
-    "updatedAt": "2021-12-17T09:29:46.000Z",
+    "externalLinks": [],
+    "malId": 1665,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1665/Babel_Nisei_OVA"
+  }
 }

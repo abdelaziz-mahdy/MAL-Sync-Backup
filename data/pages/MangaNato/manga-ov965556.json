@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yong-Su Hwang"
-  ],
+  "createdAt": "2021-07-30T17:52:01.000Z",
+  "updatedAt": "2022-01-30T18:50:40.000Z",
+  "checkedAt": null,
+  "id": 83374,
   "identifier": "manga-ov965556",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 547,
   "aniId": 30547,
-  "createdAt": "2021-07-30T17:52:01.000Z",
-  "updatedAt": "2022-01-30T18:50:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yong-Su Hwang"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Blade_of_Heaven"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-01-30T18:20:40.000Z",
+    "checkedAt": null,
+    "id": 547,
+    "type": "manga",
+    "title": "The Legend of Soma",
     "altTitle": [
       "Shoma",
       "Soma Shinhwa Jungi",
@@ -32,45 +33,47 @@
       "Blade of Heaven",
       "소마신화전기"
     ],
-    "authors": [
-      "Yang, Kyung-il",
-      "Hwang, Yong-Su"
-    ],
-    "id": 547,
-    "type": "manga",
-    "title": "The Legend of Soma",
     "url": "https://myanimelist.net/manga/547/The_Legend_of_Soma",
     "image": "https://cdn.myanimelist.net/images/manga/2/15013.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-01-30T18:20:40.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blade_of_Heaven"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yang, Kyung-il",
+      "Hwang, Yong-Su"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:23.647Z",
+    "updatedAt": "2022-05-13T12:50:23.647Z",
+    "checkedAt": null,
+    "id": 30547,
+    "type": "manga",
+    "title": "Soma Shinhwa Jungi",
     "altTitle": [
       "Blade of Heaven",
       "소마신화전기",
       "Myth of Soma"
     ],
+    "url": "https://anilist.co/manga/30547",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30547-nUCGPVHQbjbW.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 547,
+    "deletedAt": null,
     "authors": [
       "Kyung-Il Yang",
       "Yong-Su Hwang",
       "Jason Milligan",
       "Lauren Na"
-    ],
-    "id": 30547,
-    "malId": 547,
-    "type": "manga",
-    "title": "Soma Shinhwa Jungi",
-    "url": "https://anilist.co/manga/30547",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30547-nUCGPVHQbjbW.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-17T09:12:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/547/The_Legend_of_Soma"
+    ]
+  }
 }

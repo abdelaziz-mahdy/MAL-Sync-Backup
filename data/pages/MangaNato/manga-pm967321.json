@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tohjoh Asami"
-  ],
+  "createdAt": "2021-05-31T09:20:11.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74512,
   "identifier": "manga-pm967321",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2102,
   "aniId": 32102,
-  "createdAt": "2021-05-31T09:20:11.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tohjoh Asami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:40.000Z",
+    "updatedAt": "2021-12-01T00:11:48.000Z",
+    "checkedAt": null,
+    "id": 2102,
+    "type": "manga",
+    "title": "XY",
+    "altTitle": [
+      "XY"
+    ],
+    "url": "https://myanimelist.net/manga/2102/XY",
+    "image": "https://cdn.myanimelist.net/images/manga/1/2292.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,40 +40,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "XY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toujou, Asami"
-    ],
-    "id": 2102,
-    "type": "manga",
-    "title": "XY",
-    "url": "https://myanimelist.net/manga/2102/XY",
-    "image": "https://cdn.myanimelist.net/images/manga/1/2292.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:40.000Z",
-    "updatedAt": "2021-12-01T00:11:48.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
-    "altTitle": [],
-    "externalLinks": [],
-    "authors": [
-      "Asami Tohjoh"
-    ],
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:45.245Z",
+    "updatedAt": "2022-05-13T12:52:45.245Z",
+    "checkedAt": null,
     "id": 32102,
-    "malId": 2102,
     "type": "manga",
     "title": "XY",
+    "altTitle": [],
     "url": "https://anilist.co/manga/32102",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2102.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:01.000Z",
-    "updatedAt": "2021-12-17T10:35:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2102/XY"
+    "externalLinks": [],
+    "malId": 2102,
+    "deletedAt": null,
+    "authors": [
+      "Asami Tohjoh"
+    ]
+  }
 }

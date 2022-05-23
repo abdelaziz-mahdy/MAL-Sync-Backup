@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Odahara Ai"
-  ],
+  "createdAt": "2020-10-12T16:15:17.000Z",
+  "updatedAt": "2021-12-06T12:48:49.000Z",
+  "checkedAt": null,
+  "id": 26706,
   "identifier": "61ccc3db-198b-4165-a619-3e763fa16a94",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117625,
   "aniId": 107449,
-  "createdAt": "2020-10-12T16:15:17.000Z",
-  "updatedAt": "2021-12-06T12:48:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Odahara Ai"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:51.000Z",
+    "updatedAt": "2022-01-08T09:18:04.000Z",
+    "checkedAt": null,
+    "id": 117625,
+    "type": "manga",
+    "title": "Land Lock",
+    "altTitle": [
+      "LAND LOCK"
+    ],
+    "url": "https://myanimelist.net/manga/117625/Land_Lock",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219920.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,48 +40,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LAND LOCK"
-    ],
+    "deletedAt": null,
     "authors": [
       "Odahara, Ai"
-    ],
-    "id": 117625,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.592Z",
+    "updatedAt": "2022-05-13T13:06:37.592Z",
+    "checkedAt": null,
+    "id": 107449,
     "type": "manga",
     "title": "Land Lock",
-    "url": "https://myanimelist.net/manga/117625/Land_Lock",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219920.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:51.000Z",
-    "updatedAt": "2022-01-08T09:18:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Land Lock",
       "Land Lock"
     ],
+    "url": "https://anilist.co/manga/107449",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107449-45C1CNoaBpZZ.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/#/titles/100044"
       }
     ],
+    "malId": 117625,
+    "deletedAt": null,
     "authors": [
       "Ai Odahara"
-    ],
-    "id": 107449,
-    "malId": 117625,
-    "type": "manga",
-    "title": "Land Lock",
-    "url": "https://anilist.co/manga/107449",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107449-45C1CNoaBpZZ.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:56.000Z",
-    "updatedAt": "2021-12-18T05:53:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117625/Land_Lock"
+    ]
+  }
 }

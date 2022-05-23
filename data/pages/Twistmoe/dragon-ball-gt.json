@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:26:46.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 22084,
   "identifier": "dragon-ball-gt",
   "type": "anime",
   "page": "Twistmoe",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 225,
   "aniId": 225,
-  "createdAt": "2020-10-12T16:26:46.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T07:00:19.000Z",
+    "checkedAt": "2022-05-14T07:00:19.000Z",
+    "id": 225,
+    "type": "anime",
+    "title": "Dragon Ball GT",
+    "altTitle": [
+      "Dragonball GT",
+      "DBGT",
+      "Dragon Ball GT",
+      "ドラゴンボールGT"
+    ],
+    "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+    "image": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,29 +57,24 @@
         "url": "https://www.funimation.com/shows/dragon-ball-gt"
       }
     ],
-    "altTitle": [
-      "Dragonball GT",
-      "DBGT",
-      "Dragon Ball GT",
-      "ドラゴンボールGT"
-    ],
+    "deletedAt": null,
+    "anidbId": 233
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T11:22:35.000Z",
+    "checkedAt": "2022-05-15T11:22:35.000Z",
     "id": 225,
     "type": "anime",
     "title": "Dragon Ball GT",
-    "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
-    "image": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 233,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-04-02T16:31:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragon Ball GT",
       "ドラゴンボールGT"
     ],
+    "url": "https://anilist.co/anime/225",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx225-ZFRb6XB6j659.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -70,19 +83,13 @@
       {
         "site": "Hulu",
         "url": "https://www.hulu.com/series/dragon-ball-gt-6c1ab43c-c550-4e80-a299-e788f0a3d980"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/dragon-ball-gt"
       }
     ],
-    "id": 225,
     "malId": 225,
-    "type": "anime",
-    "title": "Dragon Ball GT",
-    "url": "https://anilist.co/anime/225",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx225-ZFRb6XB6j659.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2022-03-08T18:29:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/225/Dragon_Ball_GT"
+  }
 }

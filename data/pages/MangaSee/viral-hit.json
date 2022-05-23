@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "KIM Jung Hyun",
-    "PARK Taejoon"
-  ],
+  "createdAt": "2021-01-12T16:21:31.000Z",
+  "updatedAt": "2022-05-16T15:32:54.000Z",
+  "checkedAt": "2022-05-16T15:32:10.000Z",
+  "id": 58368,
   "identifier": "viral-hit",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 139164,
   "aniId": 121991,
-  "createdAt": "2021-01-12T16:21:31.000Z",
-  "updatedAt": "2022-01-11T13:11:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "KIM Jung Hyun",
+    "PARK Taejoon"
+  ],
   "Mal": {
+    "createdAt": "2022-01-04T18:19:04.000Z",
+    "updatedAt": "2022-05-14T23:54:59.000Z",
+    "checkedAt": "2022-05-14T23:54:59.000Z",
+    "id": 139164,
+    "type": "manga",
+    "title": "Viral Hit",
+    "altTitle": [
+      "Ssaumdokak",
+      "How to Fight",
+      "Viral Hit",
+      "싸움독학"
+    ],
+    "url": "https://myanimelist.net/manga/139164/Viral_Hit",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248716.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,28 +48,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ssaumdokak",
-      "How to Fight",
-      "Viral Hit",
-      "싸움독학"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Jung-Hyun",
       "Park, Tae-Jun"
-    ],
-    "id": 139164,
-    "type": "manga",
-    "title": "Viral Hit",
-    "url": "https://myanimelist.net/manga/139164/Viral_Hit",
-    "image": "https://cdn.myanimelist.net/images/manga/1/248716.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2022-01-04T18:19:04.000Z",
-    "updatedAt": "2022-04-16T22:32:20.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:46.791Z",
+    "updatedAt": "2022-05-15T18:32:11.000Z",
+    "checkedAt": "2022-05-15T18:32:11.000Z",
+    "id": 121991,
+    "type": "manga",
+    "title": "Ssaumdokak",
     "altTitle": [
       "Viral Hit",
       "싸움독학",
@@ -61,22 +70,16 @@
       "นักสู้ทูปเบอร์",
       "Hit viral"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jung-Hyun Kim",
-      "Tae-Jun Park"
-    ],
-    "id": 121991,
-    "malId": 139164,
-    "type": "manga",
-    "title": "Ssaumdokak",
     "url": "https://anilist.co/manga/121991",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121991-hwrVszteyodi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-22T01:12:58.000Z",
-    "updatedAt": "2022-04-25T19:00:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/139164/Viral_Hit"
+    "externalLinks": [],
+    "malId": 139164,
+    "deletedAt": null,
+    "authors": [
+      "Jung-Hyun Kim",
+      "Tae-Jun Park"
+    ]
+  }
 }

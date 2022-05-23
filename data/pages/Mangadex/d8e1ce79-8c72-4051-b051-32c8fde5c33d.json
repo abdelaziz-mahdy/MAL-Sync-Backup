@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kurumada Masami"
-  ],
+  "createdAt": "2020-10-12T16:09:05.000Z",
+  "updatedAt": "2021-12-04T15:51:40.000Z",
+  "checkedAt": null,
+  "id": 14223,
   "identifier": "d8e1ce79-8c72-4051-b051-32c8fde5c33d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 24881,
   "aniId": 54881,
-  "createdAt": "2020-10-12T16:09:05.000Z",
-  "updatedAt": "2021-12-04T15:51:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurumada Masami"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T15:20:17.000Z",
+    "updatedAt": "2022-05-23T20:32:27.000Z",
+    "checkedAt": "2022-05-23T20:32:27.000Z",
+    "id": 24881,
+    "type": "manga",
+    "title": "Otokozaka",
+    "altTitle": [
+      "Man's Hill",
+      "男坂"
+    ],
+    "url": "https://myanimelist.net/manga/24881/Otokozaka",
+    "image": "https://cdn.myanimelist.net/images/manga/5/252110.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Man's Hill",
-      "男坂"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurumada, Masami"
-    ],
-    "id": 24881,
-    "type": "manga",
-    "title": "Otokozaka",
-    "url": "https://myanimelist.net/manga/24881/Otokozaka",
-    "image": "https://cdn.myanimelist.net/images/manga/5/252110.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T15:20:17.000Z",
-    "updatedAt": "2021-12-04T15:47:18.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:20.085Z",
+    "updatedAt": "2022-05-23T20:32:26.000Z",
+    "checkedAt": "2022-05-23T20:32:26.000Z",
+    "id": 54881,
+    "type": "manga",
+    "title": "Otoko Zaka",
     "altTitle": [
       "男坂",
       "Otokozaka",
       "Man's Hill"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masami Kurumada"
-    ],
-    "id": 54881,
-    "malId": 24881,
-    "type": "manga",
-    "title": "Otoko Zaka",
     "url": "https://anilist.co/manga/54881",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54881-B92zUH1PqkB6.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T15:20:18.000Z",
-    "updatedAt": "2021-12-17T18:31:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/24881/Otokozaka"
+    "externalLinks": [],
+    "malId": 24881,
+    "deletedAt": null,
+    "authors": [
+      "Masami Kurumada"
+    ]
+  }
 }

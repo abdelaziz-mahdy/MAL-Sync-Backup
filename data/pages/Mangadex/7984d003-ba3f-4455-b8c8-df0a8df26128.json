@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kotegawa Yua"
-  ],
+  "createdAt": "2020-10-12T16:03:55.000Z",
+  "updatedAt": "2021-12-02T17:50:29.000Z",
+  "checkedAt": null,
+  "id": 3245,
   "identifier": "7984d003-ba3f-4455-b8c8-df0a8df26128",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 296,
   "aniId": 30296,
-  "createdAt": "2020-10-12T16:03:55.000Z",
-  "updatedAt": "2021-12-02T17:50:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kotegawa Yua"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-15T17:22:18.000Z",
+    "checkedAt": "2022-05-15T17:22:18.000Z",
+    "id": 296,
+    "type": "manga",
+    "title": "Anne Freaks",
+    "altTitle": [
+      "Anne Freaks",
+      "アンネ フリークス"
+    ],
+    "url": "https://myanimelist.net/manga/296/Anne_Freaks",
+    "image": "https://cdn.myanimelist.net/images/manga/5/26068.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anne Freaks",
-      "アンネ フリークス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kotegawa, Yua"
-    ],
-    "id": 296,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:06.496Z",
+    "updatedAt": "2022-05-15T20:09:59.000Z",
+    "checkedAt": "2022-05-15T20:09:59.000Z",
+    "id": 30296,
     "type": "manga",
     "title": "Anne Freaks",
-    "url": "https://myanimelist.net/manga/296/Anne_Freaks",
-    "image": "https://cdn.myanimelist.net/images/manga/5/26068.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-12-05T10:46:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Anne Freaks",
       "アンネ フリークス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yua Kotegawa"
-    ],
-    "id": 30296,
-    "malId": 296,
-    "type": "manga",
-    "title": "Anne Freaks",
     "url": "https://anilist.co/manga/30296",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30296-xFne1cP2JqL1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/296/Anne_Freaks"
+    "externalLinks": [],
+    "malId": 296,
+    "deletedAt": null,
+    "authors": [
+      "Yua Kotegawa"
+    ]
+  }
 }

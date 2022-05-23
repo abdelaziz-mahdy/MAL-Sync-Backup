@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aro Hiroshi"
-  ],
+  "createdAt": "2020-10-12T16:12:27.000Z",
+  "updatedAt": "2021-12-05T15:21:29.000Z",
+  "checkedAt": null,
+  "id": 21097,
   "identifier": "3ace52ec-f43c-466d-8d66-0b5e6d1538c8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78831,
   "aniId": 103260,
-  "createdAt": "2020-10-12T16:12:27.000Z",
-  "updatedAt": "2021-12-05T15:21:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aro Hiroshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2021-11-11T10:14:26.000Z",
+    "checkedAt": null,
+    "id": 78831,
+    "type": "manga",
+    "title": "Yuu & Mii",
+    "altTitle": [
+      "You & Me",
+      "You and Me",
+      "優&魅衣"
+    ],
+    "url": "https://myanimelist.net/manga/78831/Yuu___Mii",
+    "image": "https://cdn.myanimelist.net/images/manga/1/136509.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "You & Me",
-      "You and Me",
-      "優&魅衣"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aro, Hiroshi"
-    ],
-    "id": 78831,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:45.137Z",
+    "updatedAt": "2022-05-13T12:51:45.137Z",
+    "checkedAt": null,
+    "id": 103260,
     "type": "manga",
     "title": "Yuu & Mii",
-    "url": "https://myanimelist.net/manga/78831/Yuu___Mii",
-    "image": "https://cdn.myanimelist.net/images/manga/1/136509.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2021-11-11T10:14:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "優&魅衣",
       "You and Me",
       "You & Me"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Aro"
-    ],
-    "id": 103260,
-    "malId": 78831,
-    "type": "manga",
-    "title": "Yuu & Mii",
     "url": "https://anilist.co/manga/103260",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b103260-NRPA6jbuOK3T.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2022-01-10T21:41:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78831/Yuu___Mii"
+    "externalLinks": [],
+    "malId": 78831,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Aro"
+    ]
+  }
 }

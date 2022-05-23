@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ono Toshihiro"
-  ],
+  "createdAt": "2021-07-16T12:02:20.000Z",
+  "updatedAt": "2022-01-16T12:41:45.000Z",
+  "checkedAt": null,
+  "id": 82108,
   "identifier": "manga-sc960985",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 858,
   "aniId": 30858,
-  "createdAt": "2021-07-16T12:02:20.000Z",
-  "updatedAt": "2022-01-16T12:41:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ono Toshihiro"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Pokemon:_The_Electric_Tale_of_Pikachu"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-17T19:47:32.000Z",
+    "checkedAt": "2022-05-17T19:47:32.000Z",
+    "id": 858,
+    "type": "manga",
+    "title": "Dengeki! Pikachu",
     "altTitle": [
       "Pocket Monsters: Dengeki Pikachu",
       "Pokemon: The Electric Tale of Pikachu",
@@ -34,21 +35,29 @@
       "Pokémon: The Electric Tale of Pikachu",
       "電撃！ピカチュウ"
     ],
-    "authors": [
-      "Ono, Toshihiro"
-    ],
-    "id": 858,
-    "type": "manga",
-    "title": "Dengeki! Pikachu",
     "url": "https://myanimelist.net/manga/858/Dengeki_Pikachu",
     "image": "https://cdn.myanimelist.net/images/manga/4/155945.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-01-16T12:11:56.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pokemon:_The_Electric_Tale_of_Pikachu"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ono, Toshihiro"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:59.958Z",
+    "updatedAt": "2022-05-17T19:47:31.000Z",
+    "checkedAt": "2022-05-17T19:47:31.000Z",
+    "id": 30858,
+    "type": "manga",
+    "title": "Dengeki Pikachu",
     "altTitle": [
       "Pokémon: The Electric Tale of Pikachu",
       "電撃！ピカチュウ",
@@ -58,21 +67,15 @@
       "Surf's Up",
       " Pikachu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshihiro Ono"
-    ],
-    "id": 30858,
-    "malId": 858,
-    "type": "manga",
-    "title": "Dengeki Pikachu",
     "url": "https://anilist.co/manga/30858",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30858-O8uzB4iHetd5.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:35:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/858/Dengeki_Pikachu"
+    "externalLinks": [],
+    "malId": 858,
+    "deletedAt": null,
+    "authors": [
+      "Toshihiro Ono"
+    ]
+  }
 }

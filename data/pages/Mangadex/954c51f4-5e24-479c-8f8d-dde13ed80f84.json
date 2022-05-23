@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Renji Range"
-  ],
+  "createdAt": "2020-10-12T16:12:24.000Z",
+  "updatedAt": "2021-12-05T16:18:58.000Z",
+  "checkedAt": null,
+  "id": 21022,
   "identifier": "954c51f4-5e24-479c-8f8d-dde13ed80f84",
   "type": "manga",
   "page": "Mangadex",
@@ -11,58 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116653,
   "aniId": 116762,
-  "createdAt": "2020-10-12T16:12:24.000Z",
-  "updatedAt": "2021-12-05T16:18:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Renji Range"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-05T14:51:47.000Z",
+    "updatedAt": "2022-05-22T07:17:42.000Z",
+    "checkedAt": "2022-05-22T07:17:42.000Z",
+    "id": 116653,
+    "type": "manga",
+    "title": "Bakemono to Kedamono",
     "altTitle": [
       "Monster and the Beast",
       "バケモノとケダモノ"
     ],
-    "authors": [
-      "Renji"
-    ],
-    "id": 116653,
-    "type": "manga",
-    "title": "Bakemono to Kedamono",
     "url": "https://myanimelist.net/manga/116653/Bakemono_to_Kedamono",
     "image": "https://cdn.myanimelist.net/images/manga/1/225616.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-05T14:51:47.000Z",
-    "updatedAt": "2021-12-28T15:54:19.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Renji"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:24.444Z",
+    "updatedAt": "2022-05-22T07:17:41.000Z",
+    "checkedAt": "2022-05-22T07:17:41.000Z",
+    "id": 116762,
+    "type": "manga",
+    "title": "Bakemono to Kedamono",
     "altTitle": [
       "Monster and the Beast",
       "バケモノとケダモノ",
       "สุภาพบุรุษปีศาจกับทาสรักอสูร"
     ],
+    "url": "https://anilist.co/manga/116762",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116762-xf8cSaQ2VN4Q.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 116653,
+    "deletedAt": null,
     "authors": [
       "Renji",
       "Taylor Engel",
       "Erin Hickman",
       "GOMAINU",
       "Pavichat Teveyanun"
-    ],
-    "id": 116762,
-    "malId": 116653,
-    "type": "manga",
-    "title": "Bakemono to Kedamono",
-    "url": "https://anilist.co/manga/116762",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116762-xf8cSaQ2VN4Q.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-30T13:12:14.000Z",
-    "updatedAt": "2022-03-29T14:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116653/Bakemono_to_Kedamono"
+    ]
+  }
 }

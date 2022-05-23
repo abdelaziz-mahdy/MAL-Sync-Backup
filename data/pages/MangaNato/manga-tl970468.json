@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kurumada Masami"
-  ],
+  "createdAt": "2021-07-15T22:32:41.000Z",
+  "updatedAt": "2022-01-15T23:11:55.000Z",
+  "checkedAt": null,
+  "id": 82067,
   "identifier": "manga-tl970468",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1046,
   "aniId": 31046,
-  "createdAt": "2021-07-15T22:32:41.000Z",
-  "updatedAt": "2022-01-15T23:11:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurumada Masami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-22T21:53:55.000Z",
+    "checkedAt": "2022-05-22T21:53:55.000Z",
+    "id": 1046,
+    "type": "manga",
+    "title": "Saint Seiya Episode G",
+    "altTitle": [
+      "聖闘士星矢 エピソードG"
+    ],
+    "url": "https://myanimelist.net/manga/1046/Saint_Seiya_Episode_G",
+    "image": "https://cdn.myanimelist.net/images/manga/3/163118.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "聖闘士星矢 エピソードG"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurumada, Masami",
       "Okada, Megumu"
-    ],
-    "id": 1046,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:28.640Z",
+    "updatedAt": "2022-05-22T21:53:54.000Z",
+    "checkedAt": "2022-05-22T21:53:54.000Z",
+    "id": 31046,
     "type": "manga",
     "title": "Saint Seiya Episode G",
-    "url": "https://myanimelist.net/manga/1046/Saint_Seiya_Episode_G",
-    "image": "https://cdn.myanimelist.net/images/manga/3/163118.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-01-15T22:41:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "聖闘士星矢 エピソードG"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masami Kurumada",
-      "Megumu Okada"
-    ],
-    "id": 31046,
-    "malId": 1046,
-    "type": "manga",
-    "title": "Saint Seiya Episode G",
     "url": "https://anilist.co/manga/31046",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31046-fDcZ8KMeSDLs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1046/Saint_Seiya_Episode_G"
+    "externalLinks": [],
+    "malId": 1046,
+    "deletedAt": null,
+    "authors": [
+      "Masami Kurumada",
+      "Megumu Okada"
+    ]
+  }
 }

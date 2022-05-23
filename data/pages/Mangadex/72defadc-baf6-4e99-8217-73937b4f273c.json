@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakai Mayu"
-  ],
+  "createdAt": "2020-10-12T16:19:58.000Z",
+  "updatedAt": "2021-12-08T01:10:22.000Z",
+  "checkedAt": null,
+  "id": 36228,
   "identifier": "72defadc-baf6-4e99-8217-73937b4f273c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 127178,
   "aniId": 118605,
-  "createdAt": "2020-10-12T16:19:58.000Z",
-  "updatedAt": "2021-12-08T01:10:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakai Mayu"
+  ],
   "Mal": {
+    "createdAt": "2020-12-11T14:47:43.000Z",
+    "updatedAt": "2022-05-20T16:41:16.000Z",
+    "checkedAt": "2022-05-20T16:41:16.000Z",
+    "id": 127178,
+    "type": "manga",
+    "title": "Hello, Innocent",
+    "altTitle": [
+      "ハロー、イノセント"
+    ],
+    "url": "https://myanimelist.net/manga/127178/Hello_Innocent",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236475.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハロー、イノセント"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakai, Mayu"
-    ],
-    "id": 127178,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:32.797Z",
+    "updatedAt": "2022-05-20T16:41:15.000Z",
+    "checkedAt": "2022-05-20T16:41:15.000Z",
+    "id": 118605,
     "type": "manga",
     "title": "Hello, Innocent",
-    "url": "https://myanimelist.net/manga/127178/Hello_Innocent",
-    "image": "https://cdn.myanimelist.net/images/manga/1/236475.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-11T14:47:43.000Z",
-    "updatedAt": "2022-02-05T13:06:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ハロー、イノセント"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mayu Sakai"
-    ],
-    "id": 118605,
-    "malId": 127178,
-    "type": "manga",
-    "title": "Hello, Innocent",
     "url": "https://anilist.co/manga/118605",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118605-UhKjLnYvZk5U.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:18.000Z",
-    "updatedAt": "2021-12-18T09:22:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127178/Hello_Innocent"
+    "externalLinks": [],
+    "malId": 127178,
+    "deletedAt": null,
+    "authors": [
+      "Mayu Sakai"
+    ]
+  }
 }

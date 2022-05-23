@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shirahama Kamome"
-  ],
+  "createdAt": "2020-10-12T16:14:30.000Z",
+  "updatedAt": "2021-12-06T05:47:49.000Z",
+  "checkedAt": null,
+  "id": 25055,
   "identifier": "7a282a7f-6134-411a-9360-41ca1afa88a1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,36 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 76679,
   "aniId": 98264,
-  "createdAt": "2020-10-12T16:14:30.000Z",
-  "updatedAt": "2021-12-06T05:47:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirahama Kamome"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:24.000Z",
+    "updatedAt": "2022-05-15T15:40:42.000Z",
+    "checkedAt": "2022-05-15T15:40:42.000Z",
+    "id": 76679,
+    "type": "manga",
+    "title": "Enidewi",
     "altTitle": [
       "Endevi",
       "Enidevi",
       "Eniale & Dewiela",
       "エニデヴィ"
     ],
-    "authors": [
-      "Shirahama, Kamome"
-    ],
-    "id": 76679,
-    "type": "manga",
-    "title": "Enidewi",
     "url": "https://myanimelist.net/manga/76679/Enidewi",
     "image": "https://cdn.myanimelist.net/images/manga/1/132639.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:24.000Z",
-    "updatedAt": "2022-04-21T20:01:45.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shirahama, Kamome"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:06.363Z",
+    "updatedAt": "2022-05-15T19:00:47.000Z",
+    "checkedAt": "2022-05-15T19:00:47.000Z",
+    "id": 98264,
+    "type": "manga",
+    "title": "Enidewi",
     "altTitle": [
       "Eniale & Dewiela",
       "エニデヴィ",
@@ -49,7 +58,13 @@
       "Divines",
       "Enidewi – Eniale & Dewiela"
     ],
+    "url": "https://anilist.co/manga/98264",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98264-VqDO7bShbsK0.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 76679,
+    "deletedAt": null,
     "authors": [
       "Kamome Shirahama",
       "Caleb Cook",
@@ -57,18 +72,6 @@
       "Abigail Blackman",
       "Judit Moreno",
       "Frederic Neau"
-    ],
-    "id": 98264,
-    "malId": 76679,
-    "type": "manga",
-    "title": "Enidewi",
-    "url": "https://anilist.co/manga/98264",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98264-VqDO7bShbsK0.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2022-02-23T14:17:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/76679/Enidewi"
+    ]
+  }
 }

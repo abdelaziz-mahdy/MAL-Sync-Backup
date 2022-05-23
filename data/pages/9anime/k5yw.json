@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:32.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5304,
   "identifier": "k5yw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21067,
   "aniId": 20490,
-  "createdAt": "2020-10-12T15:52:32.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-14T18:07:41.000Z",
+    "checkedAt": "2022-05-14T18:07:41.000Z",
+    "id": 21067,
+    "type": "anime",
+    "title": "Strange+",
+    "altTitle": [
+      "Strange Plus",
+      "ストレンジ・プラス"
+    ],
+    "url": "https://myanimelist.net/anime/21067/Strange_",
+    "image": "https://cdn.myanimelist.net/images/anime/6/57481.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-258795"
       }
     ],
-    "altTitle": [
-      "Strange Plus",
-      "ストレンジ・プラス"
-    ],
-    "id": 21067,
+    "deletedAt": null,
+    "anidbId": 10228
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:27.000Z",
+    "updatedAt": "2022-05-15T13:00:35.000Z",
+    "checkedAt": "2022-05-15T13:00:35.000Z",
+    "id": 20490,
     "type": "anime",
     "title": "Strange+",
-    "url": "https://myanimelist.net/anime/21067/Strange_",
-    "image": "https://cdn.myanimelist.net/images/anime/6/57481.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10228,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-04-02T21:04:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ストレンジ・プラス",
       "Strange Plus"
     ],
+    "url": "https://anilist.co/anime/20490",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20490.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/strange"
       }
     ],
-    "id": 20490,
     "malId": 21067,
-    "type": "anime",
-    "title": "Strange+",
-    "url": "https://anilist.co/anime/20490",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20490.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:27.000Z",
-    "updatedAt": "2021-12-17T14:24:05.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/21067/Strange_"
+  }
 }

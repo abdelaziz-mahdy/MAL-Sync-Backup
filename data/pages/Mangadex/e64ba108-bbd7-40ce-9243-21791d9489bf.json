@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Chira Shinoura",
-    "Ikei Chu2"
-  ],
+  "createdAt": "2020-10-12T16:19:13.000Z",
+  "updatedAt": "2022-05-13T19:50:21.000Z",
+  "checkedAt": "2022-05-13T19:49:47.000Z",
+  "id": 34752,
   "identifier": "e64ba108-bbd7-40ce-9243-21791d9489bf",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2020-10-12T16:19:13.000Z",
-  "updatedAt": "2022-05-08T01:01:25.000Z",
+  "actorId": 1,
+  "malId": 136754,
+  "aniId": 119309,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Chira Shinoura",
+    "Ikei Chu2"
+  ],
+  "Mal": {
+    "createdAt": "2021-12-02T11:48:07.000Z",
+    "updatedAt": "2022-05-13T15:47:58.000Z",
+    "checkedAt": "2022-05-13T15:47:58.000Z",
+    "id": 136754,
+    "type": "manga",
+    "title": "Hazure Hantei kara Hajimatta Cheat Majutsushi Seikatsu",
+    "altTitle": [
+      "ハズレ判定から始まったチート魔術士生活"
+    ],
+    "url": "https://myanimelist.net/manga/136754/Hazure_Hantei_kara_Hajimatta_Cheat_Majutsushi_Seikatsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244915.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gaugau.futabanet.jp/list/work/5dd4f51f77656175d2030000"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ikei, Chuuni",
+      "Shinoura, Chira"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:02.513Z",
+    "updatedAt": "2022-05-13T15:47:58.000Z",
+    "checkedAt": "2022-05-13T15:47:58.000Z",
+    "id": 119309,
+    "type": "manga",
+    "title": "Hazure Hantei kara Hajimatta Cheat Majutsushi Seikatsu",
+    "altTitle": [
+      "ハズレ判定から始まったチート魔術士生活"
+    ],
+    "url": "https://anilist.co/manga/119309",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119309-T1L6dKI9CXYd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136754,
+    "deletedAt": null,
+    "authors": [
+      "Ogipote",
+      "Chuni Ikei",
+      "Chira Shinoura"
+    ]
+  }
 }

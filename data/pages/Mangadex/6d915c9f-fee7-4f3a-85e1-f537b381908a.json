@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yura Kairi"
-  ],
+  "createdAt": "2020-10-12T16:04:01.000Z",
+  "updatedAt": "2021-12-02T18:18:06.000Z",
+  "checkedAt": null,
+  "id": 3441,
   "identifier": "6d915c9f-fee7-4f3a-85e1-f537b381908a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7852,
   "aniId": 37852,
-  "createdAt": "2020-10-12T16:04:01.000Z",
-  "updatedAt": "2021-12-02T18:18:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yura Kairi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:16.000Z",
+    "updatedAt": "2022-04-30T03:31:44.000Z",
+    "checkedAt": null,
+    "id": 7852,
+    "type": "manga",
+    "title": "Angelique",
+    "altTitle": [
+      "アンジェリーク"
+    ],
+    "url": "https://myanimelist.net/manga/7852/Angelique",
+    "image": "https://cdn.myanimelist.net/images/manga/3/202730.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アンジェリーク"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yura, Kairi"
-    ],
-    "id": 7852,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:29.000Z",
+    "updatedAt": "2022-05-13T13:03:29.000Z",
+    "checkedAt": null,
+    "id": 37852,
     "type": "manga",
     "title": "Angelique",
-    "url": "https://myanimelist.net/manga/7852/Angelique",
-    "image": "https://cdn.myanimelist.net/images/manga/3/202730.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:16.000Z",
-    "updatedAt": "2022-04-30T03:31:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アンジェリーク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kairi Yura"
-    ],
-    "id": 37852,
-    "malId": 7852,
-    "type": "manga",
-    "title": "Angelique",
     "url": "https://anilist.co/manga/37852",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37852-S2ZY9HIhJy3K.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:56.000Z",
-    "updatedAt": "2021-12-17T13:15:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7852/Angelique"
+    "externalLinks": [],
+    "malId": 7852,
+    "deletedAt": null,
+    "authors": [
+      "Kairi Yura"
+    ]
+  }
 }

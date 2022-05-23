@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:29.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 71,
   "identifier": "2890",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1400,
   "aniId": 1400,
-  "createdAt": "2020-10-12T15:48:29.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:16.000Z",
+    "updatedAt": "2022-05-15T01:45:06.000Z",
+    "checkedAt": "2022-05-15T01:45:06.000Z",
+    "id": 1400,
+    "type": "anime",
+    "title": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
+    "altTitle": [
+      "Macross 7: The Movie",
+      "Macross 7: The Galaxy is Calling Me",
+      "劇場版 マクロス７　銀河がオレを呼んでいる！"
+    ],
+    "url": "https://myanimelist.net/anime/1400/Macross_7_Movie__Ginga_ga_Ore_wo_Yondeiru",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80064.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Macross 7: The Movie",
-      "Macross 7: The Galaxy is Calling Me",
-      "劇場版 マクロス７　銀河がオレを呼んでいる！"
-    ],
+    "deletedAt": null,
+    "anidbId": 443
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:06.000Z",
+    "updatedAt": "2022-05-15T13:21:23.000Z",
+    "checkedAt": "2022-05-15T13:21:23.000Z",
     "id": 1400,
     "type": "anime",
-    "title": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
-    "url": "https://myanimelist.net/anime/1400/Macross_7_Movie__Ginga_ga_Ore_wo_Yondeiru",
-    "image": "https://cdn.myanimelist.net/images/anime/8/80064.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 443,
-    "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2022-04-13T05:31:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Macross 7: Ginga ga Ore wo Yonde Iru",
     "altTitle": [
       "Macross 7: The Galaxy is Calling Me",
       "マクロス7 -銀河がオレを呼んでいる!-",
       "Macross 7: The Movie"
     ],
-    "externalLinks": [],
-    "id": 1400,
-    "malId": 1400,
-    "type": "anime",
-    "title": "Macross 7: Ginga ga Ore wo Yonde Iru",
     "url": "https://anilist.co/anime/1400",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1400-LU1KzLIsRcI8.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:06.000Z",
-    "updatedAt": "2021-12-17T09:24:25.000Z",
+    "externalLinks": [],
+    "malId": 1400,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1400/Macross_7_Movie__Ginga_ga_Ore_wo_Yondeiru"
+  }
 }

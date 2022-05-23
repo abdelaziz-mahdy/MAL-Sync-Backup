@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Satou Kentarou"
-  ],
+  "createdAt": "2022-01-27T09:00:14.000Z",
+  "updatedAt": "2022-01-27T09:30:13.000Z",
+  "checkedAt": null,
+  "id": 95425,
   "identifier": "manga-bf979188",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113780,
   "aniId": 101932,
-  "createdAt": "2022-01-27T09:00:14.000Z",
-  "updatedAt": "2022-01-27T09:30:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Kentarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:33.000Z",
+    "updatedAt": "2022-05-22T00:26:08.000Z",
+    "checkedAt": "2022-05-22T00:26:08.000Z",
+    "id": 113780,
+    "type": "manga",
+    "title": "Mahou Shoujo Site Sept",
+    "altTitle": [
+      "Magical Girl Site Sept",
+      "魔法少女サイトSept"
+    ],
+    "url": "https://myanimelist.net/manga/113780/Mahou_Shoujo_Site_Sept",
+    "image": "https://cdn.myanimelist.net/images/manga/3/211406.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Girl Site Sept",
-      "魔法少女サイトSept"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sogabe, Toshinori",
       "Satou, Kentarou"
-    ],
-    "id": 113780,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:06.012Z",
+    "updatedAt": "2022-05-22T00:26:16.000Z",
+    "checkedAt": "2022-05-22T00:26:16.000Z",
+    "id": 101932,
     "type": "manga",
     "title": "Mahou Shoujo Site Sept",
-    "url": "https://myanimelist.net/manga/113780/Mahou_Shoujo_Site_Sept",
-    "image": "https://cdn.myanimelist.net/images/manga/3/211406.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:33.000Z",
-    "updatedAt": "2022-01-07T20:18:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔法少女サイトSept"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kentarou Satou",
-      "Toshinori Sogabe"
-    ],
-    "id": 101932,
-    "malId": 113780,
-    "type": "manga",
-    "title": "Mahou Shoujo Site Sept",
     "url": "https://anilist.co/manga/101932",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101932-9dcINAaYkozz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:03.000Z",
-    "updatedAt": "2021-12-18T03:59:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113780/Mahou_Shoujo_Site_Sept"
+    "externalLinks": [],
+    "malId": 113780,
+    "deletedAt": null,
+    "authors": [
+      "Kentarou Satou",
+      "Toshinori Sogabe"
+    ]
+  }
 }

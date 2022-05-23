@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Futami Sui"
-  ],
+  "createdAt": "2021-08-18T21:07:06.000Z",
+  "updatedAt": "2022-02-18T21:47:01.000Z",
+  "checkedAt": null,
+  "id": 85697,
   "identifier": "manga-oh952816",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56187,
   "aniId": 85234,
-  "createdAt": "2021-08-18T21:07:06.000Z",
-  "updatedAt": "2022-02-18T21:47:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Futami Sui"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-05-22T04:37:43.000Z",
+    "checkedAt": "2022-05-22T04:37:43.000Z",
+    "id": 56187,
+    "type": "manga",
+    "title": "Sekai Maou",
+    "altTitle": [
+      "セカイ魔王"
+    ],
+    "url": "https://myanimelist.net/manga/56187/Sekai_Maou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188943.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "セカイ魔王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Futami, Sui"
-    ],
-    "id": 56187,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:24.045Z",
+    "updatedAt": "2022-05-22T04:37:42.000Z",
+    "checkedAt": "2022-05-22T04:37:42.000Z",
+    "id": 85234,
     "type": "manga",
     "title": "Sekai Maou",
-    "url": "https://myanimelist.net/manga/56187/Sekai_Maou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188943.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:48.000Z",
-    "updatedAt": "2022-01-11T18:11:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "セカイ魔王",
       "World Demon King"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sui Hutami"
-    ],
-    "id": 85234,
-    "malId": 56187,
-    "type": "manga",
-    "title": "Sekai Maou",
     "url": "https://anilist.co/manga/85234",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85234-I2pfqjIgmaCi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:27.000Z",
-    "updatedAt": "2021-12-17T21:56:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56187/Sekai_Maou"
+    "externalLinks": [],
+    "malId": 56187,
+    "deletedAt": null,
+    "authors": [
+      "Sui Hutami"
+    ]
+  }
 }

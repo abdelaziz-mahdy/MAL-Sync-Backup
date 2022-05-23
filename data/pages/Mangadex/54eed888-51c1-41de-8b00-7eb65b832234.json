@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kaihou Norimitsu",
-    "Chiba Sadoru"
-  ],
+  "createdAt": "2020-10-12T16:06:34.000Z",
+  "updatedAt": "2021-12-03T20:48:18.000Z",
+  "checkedAt": null,
+  "id": 8765,
   "identifier": "54eed888-51c1-41de-8b00-7eb65b832234",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55163,
   "aniId": 85235,
-  "createdAt": "2020-10-12T16:06:34.000Z",
-  "updatedAt": "2021-12-03T20:48:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaihou Norimitsu",
+    "Chiba Sadoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:46.000Z",
+    "updatedAt": "2022-05-14T21:21:41.000Z",
+    "checkedAt": "2022-05-14T21:21:41.000Z",
+    "id": 55163,
+    "type": "manga",
+    "title": "Gakkougurashi!",
+    "altTitle": [
+      "School-Live!",
+      "がっこうぐらし！"
+    ],
+    "url": "https://myanimelist.net/manga/55163/Gakkougurashi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188787.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "School-Live!",
-      "がっこうぐらし！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaihou, Norimitsu",
       "Chiba, Sadoru"
-    ],
-    "id": 55163,
-    "type": "manga",
-    "title": "Gakkougurashi!",
-    "url": "https://myanimelist.net/manga/55163/Gakkougurashi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188787.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:46.000Z",
-    "updatedAt": "2022-04-26T11:32:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:29.436Z",
+    "updatedAt": "2022-05-15T11:48:35.000Z",
+    "checkedAt": "2022-05-15T11:48:35.000Z",
+    "id": 85235,
+    "type": "manga",
+    "title": "Gakkou Gurashi!",
     "altTitle": [
       "School-Live!",
       "がっこうぐらし!",
@@ -58,22 +67,16 @@
       "학교생활",
       "Hidup di Sekolah !"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Norimitsu Kaihou",
-      "Sadoru Chiba"
-    ],
-    "id": 85235,
-    "malId": 55163,
-    "type": "manga",
-    "title": "Gakkou Gurashi!",
     "url": "https://anilist.co/manga/85235",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85235-yKMehnSXaoTv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2021-12-17T21:56:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55163/Gakkougurashi"
+    "externalLinks": [],
+    "malId": 55163,
+    "deletedAt": null,
+    "authors": [
+      "Norimitsu Kaihou",
+      "Sadoru Chiba"
+    ]
+  }
 }

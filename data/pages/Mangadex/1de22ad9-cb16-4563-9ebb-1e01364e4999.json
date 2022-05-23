@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Quantum",
-    "Kazato Nori"
-  ],
+  "createdAt": "2020-10-12T16:13:03.000Z",
+  "updatedAt": "2021-12-05T18:50:10.000Z",
+  "checkedAt": null,
+  "id": 22083,
   "identifier": "1de22ad9-cb16-4563-9ebb-1e01364e4999",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115501,
   "aniId": 102861,
-  "createdAt": "2020-10-12T16:13:03.000Z",
-  "updatedAt": "2021-12-05T18:50:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Quantum",
+    "Kazato Nori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-05-14T23:56:11.000Z",
+    "checkedAt": "2022-05-14T23:56:11.000Z",
+    "id": 115501,
+    "type": "manga",
+    "title": "Yuusha, Yamemasu",
+    "altTitle": [
+      "Dropout Braver",
+      "I'm Quitting Heroing",
+      "勇者、辞めます"
+    ],
+    "url": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/212662.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dropout Braver",
-      "I'm Quitting Heroing",
-      "勇者、辞めます"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kazato, Nori",
       "Quantum"
-    ],
-    "id": 115501,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.983Z",
+    "updatedAt": "2022-05-15T18:22:11.000Z",
+    "checkedAt": "2022-05-15T18:22:11.000Z",
+    "id": 102861,
     "type": "manga",
     "title": "Yuusha, Yamemasu",
-    "url": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/212662.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-04-10T17:32:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "I'm Quitting Heroing",
       "勇者、辞めます",
@@ -54,24 +63,18 @@
       "Yamemasu Tsugi No Shokuba Ha Mao Jo",
       "เลิกแล้วครับ เลิกเป็นผู้กล้าแล้วครับ"
     ],
+    "url": "https://anilist.co/manga/102861",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102861-eTbJIgIZ7InK.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 115501,
+    "deletedAt": null,
     "authors": [
       "Quantum",
       "Nori Kazato",
       "Hana Amano",
       "Sornchai Limpanaphruek"
-    ],
-    "id": 102861,
-    "malId": 115501,
-    "type": "manga",
-    "title": "Yuusha, Yamemasu",
-    "url": "https://anilist.co/manga/102861",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102861-eTbJIgIZ7InK.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2022-05-21T09:30:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu"
+    ]
+  }
 }

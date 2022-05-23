@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tendou Kirin"
-  ],
+  "createdAt": "2020-10-12T16:12:43.000Z",
+  "updatedAt": "2021-12-05T17:22:10.000Z",
+  "checkedAt": null,
+  "id": 21417,
   "identifier": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121502,
   "aniId": 109666,
-  "createdAt": "2020-10-12T16:12:43.000Z",
-  "updatedAt": "2021-12-05T17:22:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tendou Kirin"
+  ],
   "Mal": {
+    "createdAt": "2021-04-13T10:16:21.000Z",
+    "updatedAt": "2021-12-05T16:51:28.000Z",
+    "checkedAt": null,
+    "id": 121502,
+    "type": "manga",
+    "title": "Ai to Ao no Kyoukai",
+    "altTitle": [
+      "In between indigo and blue",
+      "アイとアオの境界"
+    ],
+    "url": "https://myanimelist.net/manga/121502/Ai_to_Ao_no_Kyoukai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/225901.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "In between indigo and blue",
-      "アイとアオの境界"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tendou, Kirin"
-    ],
-    "id": 121502,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:24.041Z",
+    "updatedAt": "2022-05-13T12:52:24.041Z",
+    "checkedAt": null,
+    "id": 109666,
     "type": "manga",
     "title": "Ai to Ao no Kyoukai",
-    "url": "https://myanimelist.net/manga/121502/Ai_to_Ao_no_Kyoukai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/225901.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-04-13T10:16:21.000Z",
-    "updatedAt": "2021-12-05T16:51:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アイとアオの境界",
       "In Between Indigo and Blue",
       "아이와 아오의 경계"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kirin Tendou"
-    ],
-    "id": 109666,
-    "malId": 121502,
-    "type": "manga",
-    "title": "Ai to Ao no Kyoukai",
     "url": "https://anilist.co/manga/109666",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109666-M4UY6g8DLs0Y.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:25.000Z",
-    "updatedAt": "2021-12-18T06:28:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121502/Ai_to_Ao_no_Kyoukai"
+    "externalLinks": [],
+    "malId": 121502,
+    "deletedAt": null,
+    "authors": [
+      "Kirin Tendou"
+    ]
+  }
 }

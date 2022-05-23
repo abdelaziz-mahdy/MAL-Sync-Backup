@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hidaka Banri"
-  ],
+  "createdAt": "2020-10-12T16:03:29.000Z",
+  "updatedAt": "2021-12-02T14:48:28.000Z",
+  "checkedAt": null,
+  "id": 2331,
   "identifier": "c3e67dee-5a10-4918-b7ab-75873cd8bd71",
   "type": "manga",
   "page": "Mangadex",
@@ -11,40 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 563,
   "aniId": 30563,
-  "createdAt": "2020-10-12T16:03:29.000Z",
-  "updatedAt": "2021-12-02T14:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hidaka Banri"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/V.B._Rose"
-      }
-    ],
-    "legalLinks": [],
-    "altTitle": [
-      "V.B. Rose",
-      "Velvet Blue Rose",
-      "Ｖ・Ｂ・ローズ (ベルベット・ブルー・ローズ)"
-    ],
-    "authors": [
-      "Hidaka, Banri"
-    ],
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-15T16:26:36.000Z",
+    "checkedAt": "2022-05-15T16:26:36.000Z",
     "id": 563,
     "type": "manga",
     "title": "V.B. Rose",
+    "altTitle": [
+      "Velvet Blue Rose",
+      "V.B. Rose",
+      "Ｖ・Ｂ・ローズ (ベルベット・ブルー・ローズ)"
+    ],
     "url": "https://myanimelist.net/manga/563/VB_Rose",
-    "image": "https://cdn.myanimelist.net/images/manga/3/5322.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/1/257265.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2021-12-18T07:18:29.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/V%E3%83%BBB%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hidaka, Banri"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:28.425Z",
+    "updatedAt": "2022-05-15T19:37:59.000Z",
+    "checkedAt": "2022-05-15T19:37:59.000Z",
+    "id": 30563,
+    "type": "manga",
+    "title": "V.B. Rose",
     "altTitle": [
       "V.B. Rose",
       "Ｖ・Ｂ・ローズ",
@@ -54,21 +63,15 @@
       "VBRose",
       "VB Rose"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Banri Hidaka"
-    ],
-    "id": 30563,
-    "malId": 563,
-    "type": "manga",
-    "title": "V.B. Rose",
     "url": "https://anilist.co/manga/30563",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30563-KYZj9frdFoXV.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-30T01:53:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/563/VB_Rose"
+    "externalLinks": [],
+    "malId": 563,
+    "deletedAt": null,
+    "authors": [
+      "Banri Hidaka"
+    ]
+  }
 }

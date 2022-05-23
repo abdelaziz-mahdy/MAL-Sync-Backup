@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyazaki Natsujikei"
-  ],
+  "createdAt": "2020-10-12T16:07:47.000Z",
+  "updatedAt": "2021-12-04T05:52:49.000Z",
+  "checkedAt": null,
+  "id": 11363,
   "identifier": "09383082-6256-4e8c-81b4-c376fe1bb86b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75141,
   "aniId": 85770,
-  "createdAt": "2020-10-12T16:07:47.000Z",
-  "updatedAt": "2021-12-04T05:52:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyazaki Natsujikei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2021-11-10T23:45:46.000Z",
+    "checkedAt": null,
+    "id": 75141,
+    "type": "manga",
+    "title": "Boku wa Mondai Arimasen",
+    "altTitle": [
+      "僕は問題ありません"
+    ],
+    "url": "https://myanimelist.net/manga/75141/Boku_wa_Mondai_Arimasen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/130247.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "僕は問題ありません"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyazaki, Natsujikei"
-    ],
-    "id": 75141,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:34.794Z",
+    "updatedAt": "2022-05-13T12:41:34.794Z",
+    "checkedAt": null,
+    "id": 85770,
     "type": "manga",
     "title": "Boku wa Mondai Arimasen",
-    "url": "https://myanimelist.net/manga/75141/Boku_wa_Mondai_Arimasen",
-    "image": "https://cdn.myanimelist.net/images/manga/1/130247.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2021-11-10T23:45:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "There's Nothing Wrong with Me",
       "僕は問題ありません"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsujikei Miyazaki"
-    ],
-    "id": 85770,
-    "malId": 75141,
-    "type": "manga",
-    "title": "Boku wa Mondai Arimasen",
     "url": "https://anilist.co/manga/85770",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85770-McuqzML8XUk4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:44.000Z",
-    "updatedAt": "2021-11-20T10:14:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/75141/Boku_wa_Mondai_Arimasen"
+    "externalLinks": [],
+    "malId": 75141,
+    "deletedAt": null,
+    "authors": [
+      "Natsujikei Miyazaki"
+    ]
+  }
 }

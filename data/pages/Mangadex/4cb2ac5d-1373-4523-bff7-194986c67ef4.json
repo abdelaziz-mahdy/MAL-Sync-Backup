@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Takaharu"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:27.000Z",
+  "checkedAt": null,
+  "id": 3542,
   "identifier": "4cb2ac5d-1373-4523-bff7-194986c67ef4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 870,
   "aniId": 30870,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Takaharu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-01-25T04:32:32.000Z",
+    "checkedAt": null,
+    "id": 870,
+    "type": "manga",
+    "title": "Agharta",
+    "altTitle": [
+      "AGHARTA"
+    ],
+    "url": "https://myanimelist.net/manga/870/Agharta",
+    "image": "https://cdn.myanimelist.net/images/manga/2/172650.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "AGHARTA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Takahal"
-    ],
-    "id": 870,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:06.279Z",
+    "updatedAt": "2022-05-13T12:57:06.279Z",
+    "checkedAt": null,
+    "id": 30870,
     "type": "manga",
     "title": "Agharta",
-    "url": "https://myanimelist.net/manga/870/Agharta",
-    "image": "https://cdn.myanimelist.net/images/manga/2/172650.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-01-25T04:32:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アガルタ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takaharu Matsumoto"
-    ],
-    "id": 30870,
-    "malId": 870,
-    "type": "manga",
-    "title": "Agharta",
     "url": "https://anilist.co/manga/30870",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30870-QEtmF2pNxTwE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:36:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/870/Agharta"
+    "externalLinks": [],
+    "malId": 870,
+    "deletedAt": null,
+    "authors": [
+      "Takaharu Matsumoto"
+    ]
+  }
 }

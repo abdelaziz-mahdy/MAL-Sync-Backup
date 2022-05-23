@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:58.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10866,
   "identifier": "yvyj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3579,
   "aniId": 3579,
-  "createdAt": "2020-10-12T15:56:58.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T19:10:18.000Z",
+    "checkedAt": "2022-05-14T19:10:18.000Z",
+    "id": 3579,
+    "type": "anime",
+    "title": "Getter Robo",
+    "altTitle": [
+      "Getta Robo",
+      "Space Robot",
+      "Getter Robo",
+      "ゲッターロボ"
+    ],
+    "url": "https://myanimelist.net/anime/3579/Getter_Robo",
+    "image": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,25 +48,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Getta Robo",
-      "Space Robot",
-      "Getter Robo",
-      "ゲッターロボ"
-    ],
+    "deletedAt": null,
+    "anidbId": 955
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T18:23:23.000Z",
+    "checkedAt": "2022-05-15T18:23:23.000Z",
     "id": 3579,
     "type": "anime",
     "title": "Getter Robo",
-    "url": "https://myanimelist.net/anime/3579/Getter_Robo",
-    "image": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 955,
-    "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2022-05-03T00:33:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Getter Robo",
       "ゲッターロボ",
@@ -56,18 +65,12 @@
       "Space Robot",
       "Getta Robot"
     ],
-    "externalLinks": [],
-    "id": 3579,
-    "malId": 3579,
-    "type": "anime",
-    "title": "Getter Robo",
     "url": "https://anilist.co/anime/3579",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3579-U2gqGxuuoGkM.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:25.000Z",
-    "updatedAt": "2021-12-17T10:58:15.000Z",
+    "externalLinks": [],
+    "malId": 3579,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3579/Getter_Robo"
+  }
 }

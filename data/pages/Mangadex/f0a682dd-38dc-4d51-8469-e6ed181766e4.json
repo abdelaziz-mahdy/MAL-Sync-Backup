@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yui Toshiki"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:07.000Z",
+  "checkedAt": null,
+  "id": 3361,
   "identifier": "f0a682dd-38dc-4d51-8469-e6ed181766e4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1680,
   "aniId": 31680,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yui Toshiki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/KIRARA"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2021-11-25T03:36:23.000Z",
+    "checkedAt": null,
+    "id": 1680,
+    "type": "manga",
+    "title": "Kirara",
     "altTitle": [
       "Kirara",
       "Kanojo no Angle",
@@ -32,42 +33,44 @@
       "Konna Koto ga Attemo Iiyou na Hibi",
       "KIRARA"
     ],
-    "authors": [
-      "Yui, Toshiki"
-    ],
-    "id": 1680,
-    "type": "manga",
-    "title": "Kirara",
     "url": "https://myanimelist.net/manga/1680/Kirara",
     "image": "https://cdn.myanimelist.net/images/manga/2/178899.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2021-11-25T03:36:23.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/KIRARA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yui, Toshiki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:54.722Z",
+    "updatedAt": "2022-05-13T13:00:54.722Z",
+    "checkedAt": null,
+    "id": 31680,
+    "type": "manga",
+    "title": "Kirara",
     "altTitle": [
       "Kirara",
       "KIRARA",
       "きらら",
       "再续前缘"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshiki Yui"
-    ],
-    "id": 31680,
-    "malId": 1680,
-    "type": "manga",
-    "title": "Kirara",
     "url": "https://anilist.co/manga/31680",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31680-bhfaMgW0sdky.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2021-12-17T10:12:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1680/Kirara"
+    "externalLinks": [],
+    "malId": 1680,
+    "deletedAt": null,
+    "authors": [
+      "Toshiki Yui"
+    ]
+  }
 }

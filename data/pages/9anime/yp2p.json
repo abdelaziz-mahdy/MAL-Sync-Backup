@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:55.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10787,
   "identifier": "yp2p",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26243,
   "aniId": 20829,
-  "createdAt": "2020-10-12T15:56:55.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:30.000Z",
+    "updatedAt": "2022-05-14T09:01:05.000Z",
+    "checkedAt": "2022-05-14T09:01:05.000Z",
+    "id": 26243,
+    "type": "anime",
+    "title": "Owari no Seraph",
+    "altTitle": [
+      "Seraph of the End",
+      "Seraph of the End: Vampire Reign",
+      "終わりのセラフ"
+    ],
+    "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph",
+    "image": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,24 +60,16 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Seraph of the End",
-      "Seraph of the End: Vampire Reign",
-      "終わりのセラフ"
-    ],
-    "id": 26243,
+    "deletedAt": null,
+    "anidbId": 10813
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:42.000Z",
+    "updatedAt": "2022-05-15T11:13:35.000Z",
+    "checkedAt": "2022-05-15T11:13:35.000Z",
+    "id": 20829,
     "type": "anime",
     "title": "Owari no Seraph",
-    "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph",
-    "image": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10813,
-    "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2022-04-05T18:00:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Seraph of the End: Vampire Reign",
       "終わりのセラフ",
@@ -68,6 +77,10 @@
       "Seraph of the End: El Reino de los Vampiros",
       "เทวทูตแห่งโลกมืด"
     ],
+    "url": "https://anilist.co/anime/20829",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20829-tFFjDs6qqPfL.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -82,17 +95,7 @@
         "url": "https://www.netflix.com/title/80200989"
       }
     ],
-    "id": 20829,
     "malId": 26243,
-    "type": "anime",
-    "title": "Owari no Seraph",
-    "url": "https://anilist.co/anime/20829",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20829-tFFjDs6qqPfL.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:42.000Z",
-    "updatedAt": "2022-01-07T10:17:52.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/26243/Owari_no_Seraph"
+  }
 }

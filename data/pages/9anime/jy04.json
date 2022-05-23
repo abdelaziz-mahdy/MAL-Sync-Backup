@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:20.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5085,
   "identifier": "jy04",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37204,
   "aniId": 101043,
-  "createdAt": "2020-10-12T15:52:20.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:00.000Z",
+    "updatedAt": "2022-05-14T16:27:56.000Z",
+    "checkedAt": "2022-05-14T16:27:56.000Z",
+    "id": 37204,
+    "type": "anime",
+    "title": "Aikatsu Friends!",
+    "altTitle": [
+      "アイカツフレンズ！"
+    ],
+    "url": "https://myanimelist.net/anime/37204/Aikatsu_Friends",
+    "image": "https://cdn.myanimelist.net/images/anime/1198/90430.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,37 +49,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アイカツフレンズ！"
-    ],
-    "id": 37204,
+    "deletedAt": null,
+    "anidbId": 13755
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:33.000Z",
+    "updatedAt": "2022-05-15T13:11:35.000Z",
+    "checkedAt": "2022-05-15T13:11:35.000Z",
+    "id": 101043,
     "type": "anime",
     "title": "Aikatsu Friends!",
-    "url": "https://myanimelist.net/anime/37204/Aikatsu_Friends",
-    "image": "https://cdn.myanimelist.net/images/anime/1198/90430.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13755,
-    "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2022-03-30T22:31:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アイカツフレンズ!"
     ],
-    "externalLinks": [],
-    "id": 101043,
-    "malId": 37204,
-    "type": "anime",
-    "title": "Aikatsu Friends!",
     "url": "https://anilist.co/anime/101043",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101043-zlDZ74rVpVPo.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:33.000Z",
-    "updatedAt": "2021-12-17T16:18:54.000Z",
+    "externalLinks": [],
+    "malId": 37204,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/37204/Aikatsu_Friends"
+  }
 }

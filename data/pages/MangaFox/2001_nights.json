@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "HOSHINO Yukinobu"
-  ],
+  "createdAt": "2022-03-07T10:29:53.000Z",
+  "updatedAt": "2022-03-07T10:59:55.000Z",
+  "checkedAt": null,
+  "id": 97630,
   "identifier": "2001_nights",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67,
   "aniId": 30067,
-  "createdAt": "2022-03-07T10:29:53.000Z",
-  "updatedAt": "2022-03-07T10:59:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "HOSHINO Yukinobu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-16T00:02:22.000Z",
+    "checkedAt": "2022-05-16T00:02:22.000Z",
+    "id": 67,
+    "type": "manga",
+    "title": "2001-ya Monogatari",
+    "altTitle": [
+      "2001 Nights",
+      "2001夜物語"
+    ],
+    "url": "https://myanimelist.net/manga/67/2001-ya_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/5/131711.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "2001 Nights",
-      "2001夜物語"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hoshino, Yukinobu"
-    ],
-    "id": 67,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:53.553Z",
+    "updatedAt": "2022-05-16T00:02:21.000Z",
+    "checkedAt": "2022-05-16T00:02:21.000Z",
+    "id": 30067,
     "type": "manga",
     "title": "2001-ya Monogatari",
-    "url": "https://myanimelist.net/manga/67/2001-ya_Monogatari",
-    "image": "https://cdn.myanimelist.net/images/manga/5/131711.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-03-07T10:30:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "2001夜物語",
       "2001 Nights",
       "2001 Ya Monogatari"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukinobu Hoshino"
-    ],
-    "id": 30067,
-    "malId": 67,
-    "type": "manga",
-    "title": "2001-ya Monogatari",
     "url": "https://anilist.co/manga/30067",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30067-nxnfBFZzQwdI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:32:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67/2001-ya_Monogatari"
+    "externalLinks": [],
+    "malId": 67,
+    "deletedAt": null,
+    "authors": [
+      "Yukinobu Hoshino"
+    ]
+  }
 }

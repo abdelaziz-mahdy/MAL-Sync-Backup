@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kajio Shinji"
-  ],
+  "createdAt": "2021-06-05T05:21:19.000Z",
+  "updatedAt": "2021-12-05T06:18:44.000Z",
+  "checkedAt": null,
+  "id": 76625,
   "identifier": "manga-cf954214",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36903,
   "aniId": 66903,
-  "createdAt": "2021-06-05T05:21:19.000Z",
-  "updatedAt": "2021-12-05T06:18:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kajio Shinji"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.comic-ryu.jp/_emanon/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:01.000Z",
+    "updatedAt": "2022-05-14T19:57:18.000Z",
+    "checkedAt": "2022-05-14T19:57:18.000Z",
+    "id": 36903,
+    "type": "manga",
+    "title": "Sasurai Emanon",
     "altTitle": [
       "Wandering Emanon '67",
       "Wandering Emanon '73",
@@ -33,22 +34,30 @@
       "Wandering Emanon '90",
       "さすらいエマノン"
     ],
-    "authors": [
-      "Tsuruta, Kenji",
-      "Kajio, Shinji"
-    ],
-    "id": 36903,
-    "type": "manga",
-    "title": "Sasurai Emanon",
     "url": "https://myanimelist.net/manga/36903/Sasurai_Emanon",
     "image": "https://cdn.myanimelist.net/images/manga/2/116171.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:01.000Z",
-    "updatedAt": "2021-12-05T05:46:37.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comic-ryu.jp/_emanon/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsuruta, Kenji",
+      "Kajio, Shinji"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:54.897Z",
+    "updatedAt": "2022-05-15T15:50:11.000Z",
+    "checkedAt": "2022-05-15T15:50:11.000Z",
+    "id": 66903,
+    "type": "manga",
+    "title": "Sasurai Emanon",
     "altTitle": [
       "Emanon Wanderer",
       "さすらいエマノン",
@@ -59,24 +68,18 @@
       "Emanon Vagabunda",
       "Скитания Эманон"
     ],
+    "url": "https://anilist.co/manga/66903",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66903-EVTKYXNCZR82.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 36903,
+    "deletedAt": null,
     "authors": [
       "Kenji Tsuruta",
       "Shinji Kajio",
       "Géraldine Oudin",
       "Erwan Lossois"
-    ],
-    "id": 66903,
-    "malId": 36903,
-    "type": "manga",
-    "title": "Sasurai Emanon",
-    "url": "https://anilist.co/manga/66903",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66903-EVTKYXNCZR82.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:48:30.000Z",
-    "updatedAt": "2022-02-21T14:47:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/36903/Sasurai_Emanon"
+    ]
+  }
 }

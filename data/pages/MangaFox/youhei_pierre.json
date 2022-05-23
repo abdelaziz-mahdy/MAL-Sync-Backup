@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SATOU Kenichi"
-  ],
+  "createdAt": "2022-05-09T13:01:55.000Z",
+  "updatedAt": "2022-05-13T16:32:28.000Z",
+  "checkedAt": "2022-05-13T16:23:33.000Z",
+  "id": 103475,
   "identifier": "youhei_pierre",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,63 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/42584/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T13:01:55.000Z",
-  "updatedAt": "2022-05-09T13:01:55.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 4053,
+  "aniId": 34053,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "SATOU Kenichi"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:56.000Z",
+    "updatedAt": "2022-05-13T16:23:38.000Z",
+    "checkedAt": "2022-05-13T16:23:38.000Z",
+    "id": 4053,
+    "type": "manga",
+    "title": "Youhei Pierre",
+    "altTitle": [
+      "Mercenary Pierre",
+      "傭兵ピエール"
+    ],
+    "url": "https://myanimelist.net/manga/4053/Youhei_Pierre",
+    "image": "https://cdn.myanimelist.net/images/manga/1/31700.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%82%AD%E5%85%B5%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Noguchi, Takashi",
+      "Satou, Kenichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:56.596Z",
+    "updatedAt": "2022-05-15T22:13:35.000Z",
+    "checkedAt": "2022-05-15T22:13:35.000Z",
+    "id": 34053,
+    "type": "manga",
+    "title": "Youhei Pierre",
+    "altTitle": [
+      "傭兵ピエール",
+      "Mercenary Pierre"
+    ],
+    "url": "https://anilist.co/manga/34053",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4053.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4053,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Noguchi",
+      "Kenichi Satou"
+    ]
+  }
 }

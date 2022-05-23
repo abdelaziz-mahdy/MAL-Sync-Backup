@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:03:51.000Z",
+  "updatedAt": "2021-12-02T17:19:09.000Z",
+  "checkedAt": null,
+  "id": 3089,
   "identifier": "1eeaa139-d334-489c-9006-77bde84873ec",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21476,
   "aniId": 51476,
-  "createdAt": "2020-10-12T16:03:51.000Z",
-  "updatedAt": "2021-12-02T17:19:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:57.000Z",
+    "updatedAt": "2022-05-14T09:57:58.000Z",
+    "checkedAt": "2022-05-14T09:57:58.000Z",
+    "id": 21476,
+    "type": "manga",
+    "title": "Yuusha Dan",
+    "altTitle": [
+      "Brave Dan",
+      "勇者ダン"
+    ],
+    "url": "https://myanimelist.net/manga/21476/Yuusha_Dan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/36118.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +41,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Brave Dan",
-      "勇者ダン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 21476,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:49.130Z",
+    "updatedAt": "2022-05-16T22:28:22.000Z",
+    "checkedAt": "2022-05-16T22:28:22.000Z",
+    "id": 51476,
     "type": "manga",
     "title": "Yuusha Dan",
-    "url": "https://myanimelist.net/manga/21476/Yuusha_Dan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/36118.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2022-04-12T12:31:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Brave Dan",
       "勇者ダン",
       "Brave Man Dan"
     ],
+    "url": "https://anilist.co/manga/51476",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b51476-AIIn4U8ClGFs.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 21476,
+    "deletedAt": null,
     "authors": [
       "Osamu Tezuka",
       "Kyle Vandersteen",
       "Mikayla Bactad",
       "Rachelle Lipp",
       "Corinna Cornett"
-    ],
-    "id": 51476,
-    "malId": 21476,
-    "type": "manga",
-    "title": "Yuusha Dan",
-    "url": "https://anilist.co/manga/51476",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b51476-AIIn4U8ClGFs.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:42.000Z",
-    "updatedAt": "2021-12-18T11:48:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21476/Yuusha_Dan"
+    ]
+  }
 }

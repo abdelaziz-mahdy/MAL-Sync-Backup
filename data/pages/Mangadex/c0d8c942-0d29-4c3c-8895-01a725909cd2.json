@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Utsumi Yae"
-  ],
+  "createdAt": "2020-10-12T16:11:10.000Z",
+  "updatedAt": "2021-12-05T06:18:34.000Z",
+  "checkedAt": null,
+  "id": 18711,
   "identifier": "c0d8c942-0d29-4c3c-8895-01a725909cd2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102987,
   "aniId": 97713,
-  "createdAt": "2020-10-12T16:11:10.000Z",
-  "updatedAt": "2021-12-05T06:18:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Utsumi Yae"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:46.000Z",
+    "updatedAt": "2022-05-15T18:55:36.000Z",
+    "checkedAt": "2022-05-15T18:55:36.000Z",
+    "id": 102987,
+    "type": "manga",
+    "title": "Hone ga Kusaru made",
+    "altTitle": [
+      "Stand by Me, My Dear",
+      "Until Your Bones Rot",
+      "骨が腐るまで"
+    ],
+    "url": "https://myanimelist.net/manga/102987/Hone_ga_Kusaru_made",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191682.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Stand by Me, My Dear",
-      "Until Your Bones Rot",
-      "骨が腐るまで"
-    ],
+    "deletedAt": null,
     "authors": [
       "Utsumi, Yae"
-    ],
-    "id": 102987,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:31.639Z",
+    "updatedAt": "2022-05-15T20:52:59.000Z",
+    "checkedAt": "2022-05-15T20:52:59.000Z",
+    "id": 97713,
     "type": "manga",
     "title": "Hone ga Kusaru made",
-    "url": "https://myanimelist.net/manga/102987/Hone_ga_Kusaru_made",
-    "image": "https://cdn.myanimelist.net/images/manga/1/191682.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:46.000Z",
-    "updatedAt": "2022-03-16T13:19:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Until Your Bones Rot",
       "骨が腐るまで",
@@ -53,21 +62,15 @@
       "Bis deine Knochen verrotten",
       "Ossa - Stand by Me, My Dear"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yae Utsumi"
-    ],
-    "id": 97713,
-    "malId": 102987,
-    "type": "manga",
-    "title": "Hone ga Kusaru made",
     "url": "https://anilist.co/manga/97713",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97713-9RsC7XNcrrYX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2022-02-26T17:47:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102987/Hone_ga_Kusaru_made"
+    "externalLinks": [],
+    "malId": 102987,
+    "deletedAt": null,
+    "authors": [
+      "Yae Utsumi"
+    ]
+  }
 }

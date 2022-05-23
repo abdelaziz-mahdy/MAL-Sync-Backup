@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yuzu Soft",
-    "Kanan Asuka"
-  ],
+  "createdAt": "2020-10-12T16:06:04.000Z",
+  "updatedAt": "2021-12-03T17:19:08.000Z",
+  "checkedAt": null,
+  "id": 7667,
   "identifier": "fb72c6f0-6745-48bc-b783-d5807303277c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49141,
   "aniId": 79141,
-  "createdAt": "2020-10-12T16:06:04.000Z",
-  "updatedAt": "2021-12-03T17:19:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuzu Soft",
+    "Kanan Asuka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:32.000Z",
+    "updatedAt": "2022-03-28T19:24:29.000Z",
+    "checkedAt": null,
+    "id": 49141,
+    "type": "manga",
+    "title": "Dracu-Riot! Honey!",
+    "altTitle": [
+      "DRACU-RIOT! エリナ・ストーリー（仮）"
+    ],
+    "url": "https://myanimelist.net/manga/49141/Dracu-Riot_Honey",
+    "image": "https://cdn.myanimelist.net/images/manga/2/86523.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DRACU-RIOT! エリナ・ストーリー（仮）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanan, Asuka",
       "Yuzusoft"
-    ],
-    "id": 49141,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:23.783Z",
+    "updatedAt": "2022-05-13T12:44:23.783Z",
+    "checkedAt": null,
+    "id": 79141,
     "type": "manga",
     "title": "Dracu-Riot! Honey!",
-    "url": "https://myanimelist.net/manga/49141/Dracu-Riot_Honey",
-    "image": "https://cdn.myanimelist.net/images/manga/2/86523.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:32.000Z",
-    "updatedAt": "2022-03-28T19:24:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "DRACU-RIOT! エリナ・ストーリー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asuka Kanan",
-      "Yuzusoft"
-    ],
-    "id": 79141,
-    "malId": 49141,
-    "type": "manga",
-    "title": "Dracu-Riot! Honey!",
     "url": "https://anilist.co/manga/79141",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49141.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:40.000Z",
-    "updatedAt": "2021-12-17T21:20:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49141/Dracu-Riot_Honey"
+    "externalLinks": [],
+    "malId": 49141,
+    "deletedAt": null,
+    "authors": [
+      "Asuka Kanan",
+      "Yuzusoft"
+    ]
+  }
 }

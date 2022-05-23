@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T18:43:05.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23816,
   "identifier": "0505",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41226,
   "aniId": 115113,
-  "createdAt": "2020-10-12T18:43:05.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:14.000Z",
+    "updatedAt": "2022-05-14T10:33:08.000Z",
+    "checkedAt": "2022-05-14T10:33:08.000Z",
+    "id": 41226,
+    "type": "anime",
+    "title": "Uzaki-chan wa Asobitai!",
+    "altTitle": [
+      "Uzaki-chan Wants to Play!",
+      "Uzaki-chan Wants to Hang Out!",
+      "宇崎ちゃんは遊びたい！"
+    ],
+    "url": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
+    "image": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,34 +52,34 @@
     ],
     "legalLinks": [
       {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282203"
+      },
+      {
         "site": "funimation",
         "url": "https://www.funimation.com/shows/uzaki-chan-wants-to-hang-out"
       }
     ],
-    "altTitle": [
-      "Uzaki-chan Wants to Play!",
-      "Uzaki-chan Wants to Hang Out!",
-      "宇崎ちゃんは遊びたい！"
-    ],
-    "id": 41226,
+    "deletedAt": null,
+    "anidbId": 15382
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:03.000Z",
+    "updatedAt": "2022-05-15T09:48:47.000Z",
+    "checkedAt": "2022-05-15T09:48:47.000Z",
+    "id": 115113,
     "type": "anime",
     "title": "Uzaki-chan wa Asobitai!",
-    "url": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
-    "image": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15382,
-    "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2022-04-02T18:01:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Uzaki-chan Wants to Hang Out!",
       "宇崎ちゃんは遊びたい！",
       "宇崎学妹想要玩！",
       "รุ่นน้องตัวป่วน อยากชวนเที่ยวเล่น"
     ],
+    "url": "https://anilist.co/anime/115113",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -73,17 +90,7 @@
         "url": "https://www.crunchyroll.com/uzaki-chan-wants-to-hang-out"
       }
     ],
-    "id": 115113,
     "malId": 41226,
-    "type": "anime",
-    "title": "Uzaki-chan wa Asobitai!",
-    "url": "https://anilist.co/anime/115113",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:03.000Z",
-    "updatedAt": "2022-03-28T02:07:26.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai"
+  }
 }

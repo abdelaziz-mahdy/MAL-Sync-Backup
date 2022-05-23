@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:13.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2399,
   "identifier": "4w4k",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2280,
   "aniId": 2280,
-  "createdAt": "2020-10-12T15:50:13.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-15T04:11:18.000Z",
+    "checkedAt": "2022-05-15T04:11:18.000Z",
+    "id": 2280,
+    "type": "anime",
+    "title": "Hare Tokidoki Buta (TV)",
+    "altTitle": [
+      "Tokyo Pig",
+      "はれときどきぶた"
+    ],
+    "url": "https://myanimelist.net/anime/2280/Hare_Tokidoki_Buta_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2515.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tokyo Pig",
-      "はれときどきぶた"
-    ],
+    "deletedAt": null,
+    "anidbId": 2989
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-15T14:27:23.000Z",
+    "checkedAt": "2022-05-15T14:27:23.000Z",
     "id": 2280,
     "type": "anime",
-    "title": "Hare Tokidoki Buta (TV)",
-    "url": "https://myanimelist.net/anime/2280/Hare_Tokidoki_Buta_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1/2515.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2989,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2022-03-31T06:02:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Hare Tokidoki Buta",
     "altTitle": [
       "はれときどきぶた",
       "Tokyo Pig"
     ],
-    "externalLinks": [],
-    "id": 2280,
-    "malId": 2280,
-    "type": "anime",
-    "title": "Hare Tokidoki Buta",
     "url": "https://anilist.co/anime/2280",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2280.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:14.000Z",
-    "updatedAt": "2021-12-17T10:01:23.000Z",
+    "externalLinks": [],
+    "malId": 2280,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2280/Hare_Tokidoki_Buta_TV"
+  }
 }

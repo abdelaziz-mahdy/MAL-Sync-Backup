@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maruo Suehiro"
-  ],
+  "createdAt": "2020-10-12T16:08:15.000Z",
+  "updatedAt": "2021-12-04T08:49:07.000Z",
+  "checkedAt": null,
+  "id": 12365,
   "identifier": "a223f16d-7a9d-411e-8246-71880819ef28",
   "type": "manga",
   "page": "Mangadex",
@@ -11,57 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85323,
   "aniId": 98731,
-  "createdAt": "2020-10-12T16:08:15.000Z",
-  "updatedAt": "2021-12-04T08:49:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maruo Suehiro"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "Tomino the Damned",
-      "Tomino's Hell",
-      "トミノの地獄"
-    ],
-    "authors": [
-      "Maruo, Suehiro"
-    ],
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-19T03:12:47.000Z",
+    "checkedAt": "2022-05-19T03:12:47.000Z",
     "id": 85323,
     "type": "manga",
     "title": "Tomino no Jigoku",
+    "altTitle": [
+      "Tomino's Hell",
+      "Tomino the Damned",
+      "トミノの地獄"
+    ],
     "url": "https://myanimelist.net/manga/85323/Tomino_no_Jigoku",
     "image": "https://cdn.myanimelist.net/images/manga/1/232340.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2021-11-12T11:43:57.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maruo, Suehiro"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:59.309Z",
+    "updatedAt": "2022-05-19T03:12:46.000Z",
+    "checkedAt": "2022-05-19T03:12:46.000Z",
+    "id": 98731,
+    "type": "manga",
+    "title": "Tomino no Jigoku",
     "altTitle": [
       "Tomino the Damned",
       "トミノの地獄",
       "Tomino's Hell",
       "Tomino la maudite"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Suehiro Maruo",
-      "Miyako Slocombe"
-    ],
-    "id": 98731,
-    "malId": 85323,
-    "type": "manga",
-    "title": "Tomino no Jigoku",
     "url": "https://anilist.co/manga/98731",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98731-Wquz1WrcTyDu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-18T02:29:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85323/Tomino_no_Jigoku"
+    "externalLinks": [],
+    "malId": 85323,
+    "deletedAt": null,
+    "authors": [
+      "Suehiro Maruo",
+      "Miyako Slocombe"
+    ]
+  }
 }

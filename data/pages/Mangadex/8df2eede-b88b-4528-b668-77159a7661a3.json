@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sega",
-    "Kito En"
-  ],
+  "createdAt": "2020-10-12T16:04:20.000Z",
+  "updatedAt": "2021-12-02T20:48:18.000Z",
+  "checkedAt": null,
+  "id": 4127,
   "identifier": "8df2eede-b88b-4528-b668-77159a7661a3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11664,
   "aniId": 41664,
-  "createdAt": "2020-10-12T16:04:20.000Z",
-  "updatedAt": "2021-12-02T20:48:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sega",
+    "Kito En"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:34.000Z",
+    "updatedAt": "2022-02-17T11:47:11.000Z",
+    "checkedAt": null,
+    "id": 11664,
+    "type": "manga",
+    "title": "Senjou no Valkyria: Gallian Chronicles",
+    "altTitle": [
+      "Battlefield Valkyria: Gallian Chronicles",
+      "Valkyria Chronicles",
+      "戦場のヴァルキュリア -Gallian Chronicles-"
+    ],
+    "url": "https://myanimelist.net/manga/11664/Senjou_no_Valkyria__Gallian_Chronicles",
+    "image": "https://cdn.myanimelist.net/images/manga/1/15795.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Battlefield Valkyria: Gallian Chronicles",
-      "Valkyria Chronicles",
-      "戦場のヴァルキュリア -Gallian Chronicles-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kito, En"
-    ],
-    "id": 11664,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:55.944Z",
+    "updatedAt": "2022-05-13T13:00:55.944Z",
+    "checkedAt": null,
+    "id": 41664,
     "type": "manga",
     "title": "Senjou no Valkyria: Gallian Chronicles",
-    "url": "https://myanimelist.net/manga/11664/Senjou_no_Valkyria__Gallian_Chronicles",
-    "image": "https://cdn.myanimelist.net/images/manga/1/15795.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:34.000Z",
-    "updatedAt": "2022-02-17T11:47:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Valkyria Chronicles",
       "戦場のヴァルキュリア -Gallian Chronicles-",
       "Battlefield Valkyria: Gallian Chronicles"
     ],
-    "externalLinks": [],
-    "authors": [
-      "En Kito"
-    ],
-    "id": 41664,
-    "malId": 11664,
-    "type": "manga",
-    "title": "Senjou no Valkyria: Gallian Chronicles",
     "url": "https://anilist.co/manga/41664",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11664.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:12.000Z",
-    "updatedAt": "2021-12-17T14:36:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11664/Senjou_no_Valkyria__Gallian_Chronicles"
+    "externalLinks": [],
+    "malId": 11664,
+    "deletedAt": null,
+    "authors": [
+      "En Kito"
+    ]
+  }
 }

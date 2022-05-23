@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:25.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 16,
   "identifier": "619",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25649,
   "aniId": 20796,
-  "createdAt": "2020-10-12T15:48:25.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T21:20:47.000Z",
+    "checkedAt": "2022-05-14T21:20:47.000Z",
+    "id": 25649,
+    "type": "anime",
+    "title": "Junjou Romantica 3",
+    "altTitle": [
+      "Junjou Romantica Third Season",
+      "Junjo Romantica 3",
+      "純情ロマンチカ 3"
+    ],
+    "url": "https://myanimelist.net/anime/25649/Junjou_Romantica_3",
+    "image": "https://cdn.myanimelist.net/images/anime/2/74170.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,27 +60,23 @@
         "url": "https://www.funimation.com/shows/junjo-rOMtica-3"
       }
     ],
-    "altTitle": [
-      "Junjou Romantica Third Season",
-      "Junjo Romantica 3",
-      "純情ロマンチカ 3"
-    ],
-    "id": 25649,
+    "deletedAt": null,
+    "anidbId": 10759
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:38.000Z",
+    "updatedAt": "2022-05-15T17:34:23.000Z",
+    "checkedAt": "2022-05-15T17:34:23.000Z",
+    "id": 20796,
     "type": "anime",
     "title": "Junjou Romantica 3",
-    "url": "https://myanimelist.net/anime/25649/Junjou_Romantica_3",
-    "image": "https://cdn.myanimelist.net/images/anime/2/74170.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10759,
-    "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2022-04-03T01:05:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "純情ロマンチカ3"
     ],
+    "url": "https://anilist.co/anime/20796",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20796-GPazIJ2vnSea.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -74,17 +87,7 @@
         "url": "https://www.funimation.com/shows/junjo-romantica-3/"
       }
     ],
-    "id": 20796,
     "malId": 25649,
-    "type": "anime",
-    "title": "Junjou Romantica 3",
-    "url": "https://anilist.co/anime/20796",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20796-GPazIJ2vnSea.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:38.000Z",
-    "updatedAt": "2021-12-17T14:30:38.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/25649/Junjou_Romantica_3"
+  }
 }

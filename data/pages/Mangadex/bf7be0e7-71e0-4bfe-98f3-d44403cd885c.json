@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matoh Sanami"
-  ],
+  "createdAt": "2020-10-12T16:16:29.000Z",
+  "updatedAt": "2021-12-06T23:17:15.000Z",
+  "checkedAt": null,
+  "id": 29184,
   "identifier": "bf7be0e7-71e0-4bfe-98f3-d44403cd885c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1104,
   "aniId": 31104,
-  "createdAt": "2020-10-12T16:16:29.000Z",
-  "updatedAt": "2021-12-06T23:17:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matoh Sanami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:30.000Z",
+    "updatedAt": "2022-04-26T18:31:26.000Z",
+    "checkedAt": null,
+    "id": 1104,
+    "type": "manga",
+    "title": "Full Moon ni Sasayaite",
+    "altTitle": [
+      "Whisper to Me at Full Moon Night",
+      "Until the Full Moon",
+      "FULLMOONにささやいて"
+    ],
+    "url": "https://myanimelist.net/manga/1104/Full_Moon_ni_Sasayaite",
+    "image": "https://cdn.myanimelist.net/images/manga/4/117567.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Whisper to Me at Full Moon Night",
-      "Until the Full Moon",
-      "FULLMOONにささやいて"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matoh, Sanami"
-    ],
-    "id": 1104,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:04.769Z",
+    "updatedAt": "2022-05-13T12:55:04.769Z",
+    "checkedAt": null,
+    "id": 31104,
     "type": "manga",
     "title": "Full Moon ni Sasayaite",
-    "url": "https://myanimelist.net/manga/1104/Full_Moon_ni_Sasayaite",
-    "image": "https://cdn.myanimelist.net/images/manga/4/117567.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2022-04-26T18:31:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Until the Full Moon",
       "ＦＵＬＬ　ＭＯＯＮにささやいて",
@@ -53,21 +62,15 @@
       "Whisper to me at Full Moon Night",
       "Full Moon - Sussurros Sob a Lua Cheia"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sanami Matou"
-    ],
-    "id": 31104,
-    "malId": 1104,
-    "type": "manga",
-    "title": "Full Moon ni Sasayaite",
     "url": "https://anilist.co/manga/31104",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31104-FWrVohS5dzRI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:41:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1104/Full_Moon_ni_Sasayaite"
+    "externalLinks": [],
+    "malId": 1104,
+    "deletedAt": null,
+    "authors": [
+      "Sanami Matou"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Claudia Gray",
-    "Komiyama Yuusaku"
-  ],
+  "createdAt": "2022-04-04T08:30:21.000Z",
+  "updatedAt": "2022-04-04T09:00:21.000Z",
+  "checkedAt": null,
+  "id": 100631,
   "identifier": "manga-yg976241",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 119739,
   "aniId": 111961,
-  "createdAt": "2022-04-04T08:30:21.000Z",
-  "updatedAt": "2022-04-04T09:00:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Claudia Gray",
+    "Komiyama Yuusaku"
+  ],
   "Mal": {
+    "createdAt": "2020-11-13T15:53:09.000Z",
+    "updatedAt": "2022-05-18T00:06:29.000Z",
+    "checkedAt": "2022-05-18T00:06:29.000Z",
+    "id": 119739,
+    "type": "manga",
+    "title": "Star Wars: Lost Stars",
+    "altTitle": [
+      "Star Wars Lost Stars",
+      "STAR WARS／ロスト・スターズ"
+    ],
+    "url": "https://myanimelist.net/manga/119739/Star_Wars__Lost_Stars",
+    "image": "https://cdn.myanimelist.net/images/manga/2/221568.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Star Wars Lost Stars",
-      "STAR WARS／ロスト・スターズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Komiyama, Yuusaku",
       "Gray, Claudia"
-    ],
-    "id": 119739,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:19.399Z",
+    "updatedAt": "2022-05-18T00:06:28.000Z",
+    "checkedAt": "2022-05-18T00:06:28.000Z",
+    "id": 111961,
     "type": "manga",
     "title": "Star Wars: Lost Stars",
-    "url": "https://myanimelist.net/manga/119739/Star_Wars__Lost_Stars",
-    "image": "https://cdn.myanimelist.net/images/manga/2/221568.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-13T15:53:09.000Z",
-    "updatedAt": "2022-04-04T08:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Star Wars Lost Stars",
       "STAR WARS／ロスト・スターズ"
     ],
+    "url": "https://anilist.co/manga/111961",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111961-wYEL3mwdbFO8.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 119739,
+    "deletedAt": null,
     "authors": [
       "Yuusaku Komiyama",
       "George Lucas",
       "Abigail Blackman",
       "Claudia Gray"
-    ],
-    "id": 111961,
-    "malId": 119739,
-    "type": "manga",
-    "title": "Star Wars: Lost Stars",
-    "url": "https://anilist.co/manga/111961",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111961-wYEL3mwdbFO8.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:58:09.000Z",
-    "updatedAt": "2021-12-18T07:24:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119739/Star_Wars__Lost_Stars"
+    ]
+  }
 }

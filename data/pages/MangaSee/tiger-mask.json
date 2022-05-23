@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "KAJIWARA Ikki",
-    "TSUJI Naoki"
-  ],
+  "createdAt": "2021-08-08T15:39:41.000Z",
+  "updatedAt": "2022-02-08T16:09:38.000Z",
+  "checkedAt": null,
+  "id": 84849,
   "identifier": "tiger-mask",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30575,
   "aniId": 60575,
-  "createdAt": "2021-08-08T15:39:41.000Z",
-  "updatedAt": "2022-02-08T16:09:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "KAJIWARA Ikki",
+    "TSUJI Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2022-05-15T13:25:46.000Z",
+    "checkedAt": "2022-05-15T13:25:46.000Z",
+    "id": 30575,
+    "type": "manga",
+    "title": "Tiger Mask",
+    "altTitle": [
+      "Tiger Mask",
+      "タイガーマスク"
+    ],
+    "url": "https://myanimelist.net/manga/30575/Tiger_Mask",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259290.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tiger Mask",
-      "タイガーマスク"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kajiwara, Ikki",
       "Tsuji, Naoki"
-    ],
-    "id": 30575,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:58.575Z",
+    "updatedAt": "2022-05-15T17:41:35.000Z",
+    "checkedAt": "2022-05-15T17:41:35.000Z",
+    "id": 60575,
     "type": "manga",
     "title": "Tiger Mask",
-    "url": "https://myanimelist.net/manga/30575/Tiger_Mask",
-    "image": "https://cdn.myanimelist.net/images/manga/4/76359.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2022-02-08T16:09:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tiger Mask",
       "タイガーマスク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ikki Kajiwara",
-      "Naoki Tsuji"
-    ],
-    "id": 60575,
-    "malId": 30575,
-    "type": "manga",
-    "title": "Tiger Mask",
     "url": "https://anilist.co/manga/60575",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60575-fmgykTQ8znro.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2022-03-07T19:59:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30575/Tiger_Mask"
+    "externalLinks": [],
+    "malId": 30575,
+    "deletedAt": null,
+    "authors": [
+      "Ikki Kajiwara",
+      "Naoki Tsuji"
+    ]
+  }
 }

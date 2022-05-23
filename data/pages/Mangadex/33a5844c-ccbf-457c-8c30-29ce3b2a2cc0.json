@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yasui Marie",
-    "Mariyasu"
-  ],
+  "createdAt": "2020-10-12T16:16:01.000Z",
+  "updatedAt": "2021-12-07T19:14:52.000Z",
+  "checkedAt": null,
+  "id": 28205,
   "identifier": "33a5844c-ccbf-457c-8c30-29ce3b2a2cc0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,32 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 127736,
-  "createdAt": "2020-10-12T16:16:01.000Z",
-  "updatedAt": "2021-12-07T19:14:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yasui Marie",
+    "Mariyasu"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:59.078Z",
+    "updatedAt": "2022-05-13T13:05:59.078Z",
+    "checkedAt": null,
+    "id": 127736,
+    "type": "manga",
+    "title": "Kanako-san",
     "altTitle": [
       "カナコさん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Marie Yasui"
-    ],
-    "id": 127736,
-    "malId": 133908,
-    "type": "manga",
-    "title": "Kanako-san",
     "url": "https://anilist.co/manga/127736",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127736-0ZLDZ4SKl7XK.png",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-11-16T01:57:02.000Z",
-    "updatedAt": "2022-01-16T21:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 133908,
+    "deletedAt": null,
+    "authors": [
+      "Marie Yasui"
+    ]
+  }
 }

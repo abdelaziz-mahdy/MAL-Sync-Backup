@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Park Tae Joon",
-    "Joo-in Kim"
-  ],
+  "createdAt": "2021-01-04T11:57:31.000Z",
+  "updatedAt": "2022-01-15T16:51:44.000Z",
+  "checkedAt": null,
+  "id": 57218,
   "identifier": "97190cb0-91d7-409f-bcb3-f16443f479e4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 130603,
-  "createdAt": "2021-01-04T11:57:31.000Z",
-  "updatedAt": "2022-01-15T16:51:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Park Tae Joon",
+    "Joo-in Kim"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:03.304Z",
+    "updatedAt": "2022-05-14T09:37:41.000Z",
+    "checkedAt": "2022-05-14T09:37:41.000Z",
+    "id": 130603,
+    "type": "manga",
+    "title": "Yongmangilgi",
     "altTitle": [
       "Tales of Greed",
       "욕망일기",
@@ -28,22 +36,16 @@
       "Desire Diary",
       "欲望日記"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ju-In Kim",
-      "Tae-Jun Park"
-    ],
-    "id": 130603,
-    "malId": null,
-    "type": "manga",
-    "title": "Yongmangilgi",
     "url": "https://anilist.co/manga/130603",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130603-e62MGGK0XZ1q.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T11:12:57.000Z",
-    "updatedAt": "2022-02-14T22:47:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ju-In Kim",
+      "Tae-Jun Park"
+    ]
+  }
 }

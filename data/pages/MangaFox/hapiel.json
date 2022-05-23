@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hira Masuo"
-  ],
+  "createdAt": "2021-09-15T22:10:46.000Z",
+  "updatedAt": "2022-03-15T22:59:52.000Z",
+  "checkedAt": null,
+  "id": 87230,
   "identifier": "hapiel",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130012,
   "aniId": 123609,
-  "createdAt": "2021-09-15T22:10:46.000Z",
-  "updatedAt": "2022-03-15T22:59:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hira Masuo"
+  ],
   "Mal": {
+    "createdAt": "2021-01-10T09:21:01.000Z",
+    "updatedAt": "2022-05-18T17:31:56.000Z",
+    "checkedAt": "2022-05-18T17:31:56.000Z",
+    "id": 130012,
+    "type": "manga",
+    "title": "Hapiel",
+    "altTitle": [
+      "ハピエル"
+    ],
+    "url": "https://myanimelist.net/manga/130012/Hapiel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239578.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハピエル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hira, Masuo"
-    ],
-    "id": 130012,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:14.208Z",
+    "updatedAt": "2022-05-18T17:31:54.000Z",
+    "checkedAt": "2022-05-18T17:31:54.000Z",
+    "id": 123609,
     "type": "manga",
     "title": "Hapiel",
-    "url": "https://myanimelist.net/manga/130012/Hapiel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/239578.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-10T09:21:01.000Z",
-    "updatedAt": "2022-01-08T18:19:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ハピエル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masuo Hira"
-    ],
-    "id": 123609,
-    "malId": 130012,
-    "type": "manga",
-    "title": "Hapiel",
     "url": "https://anilist.co/manga/123609",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123609-KqHIwcc1DViQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2021-12-18T10:52:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130012/Hapiel"
+    "externalLinks": [],
+    "malId": 130012,
+    "deletedAt": null,
+    "authors": [
+      "Masuo Hira"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Xia Da"
-  ],
+  "createdAt": "2020-10-12T16:06:39.000Z",
+  "updatedAt": "2021-12-03T21:18:27.000Z",
+  "checkedAt": null,
+  "id": 8936,
   "identifier": "9510e82e-cfbe-4dda-823e-e3576420c732",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42001,
   "aniId": 72001,
-  "createdAt": "2020-10-12T16:06:39.000Z",
-  "updatedAt": "2021-12-03T21:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Xia Da"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:14.000Z",
+    "updatedAt": "2022-05-15T01:51:06.000Z",
+    "checkedAt": "2022-05-15T01:51:06.000Z",
+    "id": 42001,
+    "type": "manga",
+    "title": "Song of the Long March",
+    "altTitle": [
+      "Choukakou",
+      "Chang Ge Xing",
+      "長歌行"
+    ],
+    "url": "https://myanimelist.net/manga/42001/Song_of_the_Long_March",
+    "image": "https://cdn.myanimelist.net/images/manga/2/168139.jpg",
+    "category": "Manhua",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Choukakou",
-      "Chang Ge Xing",
-      "長歌行"
-    ],
+    "deletedAt": null,
     "authors": [
       "Xia, Da"
-    ],
-    "id": 42001,
-    "type": "manga",
-    "title": "Song of the Long March",
-    "url": "https://myanimelist.net/manga/42001/Song_of_the_Long_March",
-    "image": "https://cdn.myanimelist.net/images/manga/2/168139.jpg",
-    "category": "Manhua",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:14.000Z",
-    "updatedAt": "2022-03-09T04:00:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:35.234Z",
+    "updatedAt": "2022-05-16T04:32:22.000Z",
+    "checkedAt": "2022-05-16T04:32:22.000Z",
+    "id": 72001,
+    "type": "manga",
+    "title": "Chang Ge Xing",
     "altTitle": [
       "長歌行",
       "Choukakou",
@@ -58,21 +67,15 @@
       "Путешествия Чангэ",
       "Song of the Long March"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Da Xia"
-    ],
-    "id": 72001,
-    "malId": 42001,
-    "type": "manga",
-    "title": "Chang Ge Xing",
     "url": "https://anilist.co/manga/72001",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72001-ovt706Sru0FP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:50.000Z",
-    "updatedAt": "2021-11-30T06:05:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/42001/Song_of_the_Long_March"
+    "externalLinks": [],
+    "malId": 42001,
+    "deletedAt": null,
+    "authors": [
+      "Da Xia"
+    ]
+  }
 }

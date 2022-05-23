@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Arai Hideki"
-  ],
+  "createdAt": "2022-03-29T13:30:30.000Z",
+  "updatedAt": "2022-03-31T07:50:50.000Z",
+  "checkedAt": null,
+  "id": 100224,
   "identifier": "88fe360b-68dc-4438-a506-12f6cdf46733",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 15547,
   "aniId": 45547,
-  "createdAt": "2022-03-29T13:30:30.000Z",
-  "updatedAt": "2022-03-31T07:50:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Arai Hideki"
+  ],
   "Mal": {
+    "createdAt": "2022-01-05T07:18:33.000Z",
+    "updatedAt": "2022-05-14T23:16:59.000Z",
+    "checkedAt": "2022-05-14T23:16:59.000Z",
+    "id": 15547,
+    "type": "manga",
+    "title": "Kiichi VS",
+    "altTitle": [
+      "Kiichi Versus",
+      "キーチVS"
+    ],
+    "url": "https://myanimelist.net/manga/15547/Kiichi_VS",
+    "image": "https://cdn.myanimelist.net/images/manga/1/22638.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kiichi Versus",
-      "キーチVS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Arai, Hideki"
-    ],
-    "id": 15547,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:49.274Z",
+    "updatedAt": "2022-05-15T20:59:11.000Z",
+    "checkedAt": "2022-05-15T20:59:11.000Z",
+    "id": 45547,
     "type": "manga",
     "title": "Kiichi VS",
-    "url": "https://myanimelist.net/manga/15547/Kiichi_VS",
-    "image": "https://cdn.myanimelist.net/images/manga/1/22638.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-01-05T07:18:33.000Z",
-    "updatedAt": "2022-03-14T11:30:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kiichi VS",
       "キーチVS",
       "Kiichi!! VS",
       "Ki-itchi VS"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideki Arai",
-      "Patrick Honnoré"
-    ],
-    "id": 45547,
-    "malId": 15547,
-    "type": "manga",
-    "title": "Kiichi VS",
     "url": "https://anilist.co/manga/45547",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45547-sAOWG4CYBq6g.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-11T18:38:19.000Z",
-    "updatedAt": "2021-12-17T16:02:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15547/Kiichi_VS"
+    "externalLinks": [],
+    "malId": 15547,
+    "deletedAt": null,
+    "authors": [
+      "Hideki Arai",
+      "Patrick Honnoré"
+    ]
+  }
 }

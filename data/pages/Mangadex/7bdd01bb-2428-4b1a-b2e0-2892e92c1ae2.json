@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hongo Akiyoshi",
-    "Yu Yuen Wong"
-  ],
+  "createdAt": "2020-10-12T16:11:42.000Z",
+  "updatedAt": "2021-12-05T12:49:30.000Z",
+  "checkedAt": null,
+  "id": 19881,
   "identifier": "7bdd01bb-2428-4b1a-b2e0-2892e92c1ae2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,36 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3502,
   "aniId": 33502,
-  "createdAt": "2020-10-12T16:11:42.000Z",
-  "updatedAt": "2021-12-05T12:49:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hongo Akiyoshi",
+    "Yu Yuen Wong"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-05T10:49:28.000Z",
+    "updatedAt": "2021-12-05T11:16:57.000Z",
+    "checkedAt": null,
+    "id": 3502,
+    "type": "manga",
+    "title": "Digimon Frontier",
     "altTitle": [
       "Digimon Zero 4",
       "Digimon 04",
       "Dejimon Furontia",
       "デジモンフロンティア"
     ],
-    "authors": [
-      "Yu, Yuen Wong"
-    ],
-    "id": 3502,
-    "type": "manga",
-    "title": "Digimon Frontier",
     "url": "https://myanimelist.net/manga/3502/Digimon_Frontier",
     "image": "https://cdn.myanimelist.net/images/manga/4/22487.jpg",
     "category": "Manhua",
     "hentai": false,
-    "createdAt": "2021-06-05T10:49:28.000Z",
-    "updatedAt": "2021-12-05T11:16:57.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yu, Yuen Wong"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:39.523Z",
+    "updatedAt": "2022-05-13T13:03:39.523Z",
+    "checkedAt": null,
+    "id": 33502,
+    "type": "manga",
+    "title": "Shuma Baobei 04: Wuxian Didai",
     "altTitle": [
       "Digimon Frontier",
       "數碼寶貝04 無限地帶",
@@ -49,21 +58,15 @@
       "Digimon Zero 4",
       "Digimon 04: Infinite Zone"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuen Wong Yu"
-    ],
-    "id": 33502,
-    "malId": 3502,
-    "type": "manga",
-    "title": "Shuma Baobei 04: Wuxian Didai",
     "url": "https://anilist.co/manga/33502",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33502-T6d6rQp5IQcA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T10:49:28.000Z",
-    "updatedAt": "2021-12-17T11:16:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3502/Digimon_Frontier"
+    "externalLinks": [],
+    "malId": 3502,
+    "deletedAt": null,
+    "authors": [
+      "Yuen Wong Yu"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akai Maruboro"
-  ],
+  "createdAt": "2020-10-12T16:07:09.000Z",
+  "updatedAt": "2021-12-04T00:49:28.000Z",
+  "checkedAt": null,
+  "id": 10012,
   "identifier": "4d016c8d-5b4a-4a62-82a9-7ff4f86156d3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 68521,
   "aniId": 85777,
-  "createdAt": "2020-10-12T16:07:09.000Z",
-  "updatedAt": "2021-12-04T00:49:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akai Maruboro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:14.000Z",
+    "updatedAt": "2022-05-22T02:10:15.000Z",
+    "checkedAt": "2022-05-22T02:10:15.000Z",
+    "id": 68521,
+    "type": "manga",
+    "title": "Kin no Kanojo Gin no Kanojo",
+    "altTitle": [
+      "Girl of Gold, Girl of Silver",
+      "Gold Girl & Silver Girl",
+      "Golden Girlfriend, Silver Girlfriend",
+      "金の彼女 銀の彼女"
+    ],
+    "url": "https://myanimelist.net/manga/68521/Kin_no_Kanojo_Gin_no_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188968.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +43,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Girl of Gold, Girl of Silver",
-      "Gold Girl & Silver Girl",
-      "Golden Girlfriend, Silver Girlfriend",
-      "金の彼女 銀の彼女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akai, Maruborou"
-    ],
-    "id": 68521,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:27.017Z",
+    "updatedAt": "2022-05-22T02:10:13.000Z",
+    "checkedAt": "2022-05-22T02:10:13.000Z",
+    "id": 85777,
     "type": "manga",
     "title": "Kin no Kanojo Gin no Kanojo",
-    "url": "https://myanimelist.net/manga/68521/Kin_no_Kanojo_Gin_no_Kanojo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188968.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:14.000Z",
-    "updatedAt": "2021-11-29T10:36:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Girl of Gold & Silver Girl",
       "金の彼女 銀の彼女"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maruboro Akai"
-    ],
-    "id": 85777,
-    "malId": 68521,
-    "type": "manga",
-    "title": "Kin no Kanojo Gin no Kanojo",
     "url": "https://anilist.co/manga/85777",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85777-0TnxsWfDWuVG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:02.000Z",
-    "updatedAt": "2021-12-17T22:22:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/68521/Kin_no_Kanojo_Gin_no_Kanojo"
+    "externalLinks": [],
+    "malId": 68521,
+    "deletedAt": null,
+    "authors": [
+      "Maruboro Akai"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itoh Yu"
-  ],
+  "createdAt": "2020-10-12T16:03:28.000Z",
+  "updatedAt": "2021-12-02T14:19:59.000Z",
+  "checkedAt": null,
+  "id": 2303,
   "identifier": "9c002702-9cf2-4688-a62e-892d7ce58986",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11701,
   "aniId": 41701,
-  "createdAt": "2020-10-12T16:03:28.000Z",
-  "updatedAt": "2021-12-02T14:19:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itoh Yu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:37.000Z",
+    "updatedAt": "2022-05-15T22:30:37.000Z",
+    "checkedAt": "2022-05-15T22:30:37.000Z",
+    "id": 11701,
+    "type": "manga",
+    "title": "Shut Hell",
+    "altTitle": [
+      "Akuryou",
+      "シュトヘル"
+    ],
+    "url": "https://myanimelist.net/manga/11701/Shut_Hell",
+    "image": "https://cdn.myanimelist.net/images/manga/1/180153.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Akuryou",
-      "シュトヘル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itou, Yuu"
-    ],
-    "id": 11701,
-    "type": "manga",
-    "title": "Shut Hell",
-    "url": "https://myanimelist.net/manga/11701/Shut_Hell",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180153.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:37.000Z",
-    "updatedAt": "2021-11-09T04:44:26.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:18.153Z",
+    "updatedAt": "2022-05-15T22:35:23.000Z",
+    "checkedAt": "2022-05-15T22:35:23.000Z",
+    "id": 41701,
+    "type": "manga",
+    "title": "Shutohel",
     "altTitle": [
       "シュトヘル",
       "Shuto Heru",
       "Akuryou",
       "Shut Hell"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Itou"
-    ],
-    "id": 41701,
-    "malId": 11701,
-    "type": "manga",
-    "title": "Shutohel",
     "url": "https://anilist.co/manga/41701",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n41701-6dKWslPc4gP5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:12.000Z",
-    "updatedAt": "2022-04-27T22:02:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11701/Shut_Hell"
+    "externalLinks": [],
+    "malId": 11701,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Itou"
+    ]
+  }
 }

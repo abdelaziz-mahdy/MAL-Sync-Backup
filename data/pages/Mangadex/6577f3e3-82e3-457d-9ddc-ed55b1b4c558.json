@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kazami Kunoe",
-    "Kajiyama Mika"
-  ],
+  "createdAt": "2020-10-12T16:13:55.000Z",
+  "updatedAt": "2021-12-06T01:18:18.000Z",
+  "checkedAt": null,
+  "id": 23858,
   "identifier": "6577f3e3-82e3-457d-9ddc-ed55b1b4c558",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115655,
   "aniId": 105627,
-  "createdAt": "2020-10-12T16:13:55.000Z",
-  "updatedAt": "2021-12-06T01:18:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kazami Kunoe",
+    "Kajiyama Mika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-02-12T23:10:07.000Z",
+    "checkedAt": null,
+    "id": 115655,
+    "type": "manga",
+    "title": "Aku no Joou no Kiseki",
+    "altTitle": [
+      "悪の女王の軌跡"
+    ],
+    "url": "https://myanimelist.net/manga/115655/Aku_no_Joou_no_Kiseki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/221837.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "悪の女王の軌跡"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kajiyama, Mika",
       "Kazami, Kunoe"
-    ],
-    "id": 115655,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:35.415Z",
+    "updatedAt": "2022-05-13T12:57:35.415Z",
+    "checkedAt": null,
+    "id": 105627,
     "type": "manga",
     "title": "Aku no Joou no Kiseki",
-    "url": "https://myanimelist.net/manga/115655/Aku_no_Joou_no_Kiseki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/221837.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-02-12T23:10:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "悪の女王の軌跡"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mika Kajiyama",
-      "Kunoe Kazami",
-      "Junko Taki"
-    ],
-    "id": 105627,
-    "malId": 115655,
-    "type": "manga",
-    "title": "Aku no Joou no Kiseki",
     "url": "https://anilist.co/manga/105627",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105627-Mcr7e9nIgTdr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-18T05:21:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115655/Aku_no_Joou_no_Kiseki"
+    "externalLinks": [],
+    "malId": 115655,
+    "deletedAt": null,
+    "authors": [
+      "Mika Kajiyama",
+      "Kunoe Kazami",
+      "Junko Taki"
+    ]
+  }
 }

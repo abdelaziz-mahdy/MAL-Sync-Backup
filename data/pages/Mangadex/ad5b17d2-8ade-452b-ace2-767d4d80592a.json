@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sunae Hata"
-  ],
+  "createdAt": "2020-10-12T16:04:19.000Z",
+  "updatedAt": "2021-12-02T20:48:08.000Z",
+  "checkedAt": null,
+  "id": 4112,
   "identifier": "ad5b17d2-8ade-452b-ace2-767d4d80592a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30783,
   "aniId": 60783,
-  "createdAt": "2020-10-12T16:04:19.000Z",
-  "updatedAt": "2021-12-02T20:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sunae Hata"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-11-05T00:06:21.000Z",
+    "checkedAt": null,
+    "id": 30783,
+    "type": "manga",
+    "title": "Neko no Me no Horoscope",
+    "altTitle": [
+      "Saitei na Anata to Aki no Sora",
+      "猫の目のホロスコープ"
+    ],
+    "url": "https://myanimelist.net/manga/30783/Neko_no_Me_no_Horoscope",
+    "image": "https://cdn.myanimelist.net/images/manga/1/54215.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Saitei na Anata to Aki no Sora",
-      "猫の目のホロスコープ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sunae, Hata"
-    ],
-    "id": 30783,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:35.278Z",
+    "updatedAt": "2022-05-13T12:53:35.278Z",
+    "checkedAt": null,
+    "id": 60783,
     "type": "manga",
     "title": "Neko no Me no Horoscope",
-    "url": "https://myanimelist.net/manga/30783/Neko_no_Me_no_Horoscope",
-    "image": "https://cdn.myanimelist.net/images/manga/1/54215.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-11-05T00:06:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "猫の目のホロスコープ",
       "Saitei na Anata to Aki no Sora"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hata Sunae"
-    ],
-    "id": 60783,
-    "malId": 30783,
-    "type": "manga",
-    "title": "Neko no Me no Horoscope",
     "url": "https://anilist.co/manga/60783",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30783.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:42.000Z",
-    "updatedAt": "2021-12-17T19:18:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30783/Neko_no_Me_no_Horoscope"
+    "externalLinks": [],
+    "malId": 30783,
+    "deletedAt": null,
+    "authors": [
+      "Hata Sunae"
+    ]
+  }
 }

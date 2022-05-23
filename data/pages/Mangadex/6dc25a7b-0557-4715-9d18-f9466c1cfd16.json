@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinzou Keigo"
-  ],
+  "createdAt": "2020-10-12T16:09:55.000Z",
+  "updatedAt": "2021-12-04T21:22:41.000Z",
+  "checkedAt": null,
+  "id": 16031,
   "identifier": "6dc25a7b-0557-4715-9d18-f9466c1cfd16",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93851,
   "aniId": 99061,
-  "createdAt": "2020-10-12T16:09:55.000Z",
-  "updatedAt": "2021-12-04T21:22:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinzou Keigo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:18.000Z",
+    "updatedAt": "2022-05-18T14:13:53.000Z",
+    "checkedAt": "2022-05-18T14:13:53.000Z",
+    "id": 93851,
+    "type": "manga",
+    "title": "Tokyo Alien Brothers",
+    "altTitle": [
+      "Tokyo Alien Bros.",
+      "T.A.B.",
+      "トーキョーエイリアンブラザーズ"
+    ],
+    "url": "https://myanimelist.net/manga/93851/Tokyo_Alien_Brothers",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175315.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tokyo Alien Bros.",
-      "T.A.B.",
-      "トーキョーエイリアンブラザーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinzou, Keigo"
-    ],
-    "id": 93851,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:40.695Z",
+    "updatedAt": "2022-05-18T14:13:52.000Z",
+    "checkedAt": "2022-05-18T14:13:52.000Z",
+    "id": 99061,
     "type": "manga",
     "title": "Tokyo Alien Brothers",
-    "url": "https://myanimelist.net/manga/93851/Tokyo_Alien_Brothers",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175315.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:18.000Z",
-    "updatedAt": "2022-01-25T04:33:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "トーキョーエイリアンブラザーズ",
       "T.A.B.",
       "Tokyo Alien Bros"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keigo Shinzo",
-      "Aurélien Estager"
-    ],
-    "id": 99061,
-    "malId": 93851,
-    "type": "manga",
-    "title": "Tokyo Alien Brothers",
     "url": "https://anilist.co/manga/99061",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99061-UtFiSkIOP9Iu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-11-12T10:13:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93851/Tokyo_Alien_Brothers"
+    "externalLinks": [],
+    "malId": 93851,
+    "deletedAt": null,
+    "authors": [
+      "Keigo Shinzou",
+      "Aurélien Estager"
+    ]
+  }
 }

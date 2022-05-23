@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Joh Araki",
-    "Horie Ryuu"
-  ],
+  "createdAt": "2020-12-01T03:52:35.000Z",
+  "updatedAt": "2021-12-08T08:35:10.000Z",
+  "checkedAt": null,
+  "id": 53343,
   "identifier": "cb188ff1-962a-4129-9c99-17c73a3ef574",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": false,
-  "actor": null,
+  "actorId": null,
   "malId": 111112,
   "aniId": 113602,
-  "createdAt": "2020-12-01T03:52:35.000Z",
-  "updatedAt": "2021-12-08T08:35:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Joh Araki",
+    "Horie Ryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-12-01T03:52:35.000Z",
+    "updatedAt": "2021-12-01T02:42:18.000Z",
+    "checkedAt": null,
+    "id": 111112,
+    "type": "manga",
+    "title": "Garçon",
+    "altTitle": [
+      "Garcon",
+      "ギャルソン"
+    ],
+    "url": "https://myanimelist.net/manga/111112/Garçon",
+    "image": "https://cdn.myanimelist.net/images/manga/3/225528.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Garcon",
-      "ギャルソン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Joh, Araki",
       "Horie, Ryuu"
-    ],
-    "id": 111112,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:07.468Z",
+    "updatedAt": "2022-05-13T13:01:07.468Z",
+    "checkedAt": null,
+    "id": 113602,
     "type": "manga",
     "title": "Garçon",
-    "url": "https://myanimelist.net/manga/111112/Garçon",
-    "image": "https://cdn.myanimelist.net/images/manga/3/225528.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-01T03:52:35.000Z",
-    "updatedAt": "2021-12-01T02:42:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ギャルソン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryuu Horie",
-      "Araki Joh"
-    ],
-    "id": 113602,
-    "malId": 111112,
-    "type": "manga",
-    "title": "Garçon",
     "url": "https://anilist.co/manga/113602",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113602-1Y63om5KQHQw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:18.000Z",
-    "updatedAt": "2021-12-18T07:54:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111112/Garçon"
+    "externalLinks": [],
+    "malId": 111112,
+    "deletedAt": null,
+    "authors": [
+      "Ryuu Horie",
+      "Araki Joh"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:36.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 345,
   "identifier": "0447",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7811,
   "aniId": 7811,
-  "createdAt": "2020-10-12T15:48:36.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:57.000Z",
+    "updatedAt": "2022-04-02T03:00:21.000Z",
+    "checkedAt": null,
+    "id": 7811,
+    "type": "anime",
+    "title": "Yoru no Okite",
+    "altTitle": [
+      "Rules of the Night",
+      "The Rules of Dreams",
+      "A Rule Of Dreams",
+      "夜の掟"
+    ],
+    "url": "https://myanimelist.net/anime/7811/Yoru_no_Okite",
+    "image": "https://cdn.myanimelist.net/images/anime/9/18950.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -22,43 +40,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rules of the Night",
-      "The Rules of Dreams",
-      "A Rule Of Dreams",
-      "夜の掟"
-    ],
+    "deletedAt": null,
+    "anidbId": 6993
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:52.000Z",
+    "updatedAt": "2021-12-17T12:26:15.000Z",
+    "checkedAt": null,
     "id": 7811,
     "type": "anime",
     "title": "Yoru no Okite",
-    "url": "https://myanimelist.net/anime/7811/Yoru_no_Okite",
-    "image": "https://cdn.myanimelist.net/images/anime/9/18950.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 6993,
-    "createdAt": "2020-10-12T15:38:57.000Z",
-    "updatedAt": "2022-04-02T03:00:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Rule Of Dreams",
       "夜の掟",
       "Rules of the Night",
       "The Rules of Dreams"
     ],
-    "externalLinks": [],
-    "id": 7811,
-    "malId": 7811,
-    "type": "anime",
-    "title": "Yoru no Okite",
     "url": "https://anilist.co/anime/7811",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7811.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:52.000Z",
-    "updatedAt": "2021-12-17T12:26:15.000Z",
+    "externalLinks": [],
+    "malId": 7811,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/7811/Yoru_no_Okite"
+  }
 }

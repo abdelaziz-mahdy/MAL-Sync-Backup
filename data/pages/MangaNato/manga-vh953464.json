@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Keitarou"
-  ],
+  "createdAt": "2021-06-25T11:15:09.000Z",
+  "updatedAt": "2021-12-25T11:57:55.000Z",
+  "checkedAt": null,
+  "id": 79736,
   "identifier": "manga-vh953464",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4611,
   "aniId": 34611,
-  "createdAt": "2021-06-25T11:15:09.000Z",
-  "updatedAt": "2021-12-25T11:57:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Keitarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-14T23:06:46.000Z",
+    "checkedAt": "2022-05-14T23:06:46.000Z",
+    "id": 4611,
+    "type": "manga",
+    "title": "Jormungand",
+    "altTitle": [
+      "Jormungand",
+      "ヨルムンガンド"
+    ],
+    "url": "https://myanimelist.net/manga/4611/Jormungand",
+    "image": "https://cdn.myanimelist.net/images/manga/2/177020.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jormungand",
-      "ヨルムンガンド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Keitarou"
-    ],
-    "id": 4611,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:44.835Z",
+    "updatedAt": "2022-05-15T20:34:59.000Z",
+    "checkedAt": "2022-05-15T20:34:59.000Z",
+    "id": 34611,
     "type": "manga",
     "title": "Jormungand",
-    "url": "https://myanimelist.net/manga/4611/Jormungand",
-    "image": "https://cdn.myanimelist.net/images/manga/2/177020.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-01-31T12:50:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Jormungand",
       "ヨルムンガンド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keitarou Takahashi"
-    ],
-    "id": 34611,
-    "malId": 4611,
-    "type": "manga",
-    "title": "Jormungand",
     "url": "https://anilist.co/manga/34611",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34611-mU1i0dYPzzx6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2022-04-02T23:30:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4611/Jormungand"
+    "externalLinks": [],
+    "malId": 4611,
+    "deletedAt": null,
+    "authors": [
+      "Keitarou Takahashi"
+    ]
+  }
 }

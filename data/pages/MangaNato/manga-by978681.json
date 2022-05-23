@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yagi Norihiro"
-  ],
+  "createdAt": "2021-05-31T09:39:43.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
+  "checkedAt": null,
+  "id": 74686,
   "identifier": "manga-by978681",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111033,
   "aniId": 100832,
-  "createdAt": "2021-05-31T09:39:43.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yagi Norihiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-05-14T21:07:58.000Z",
+    "checkedAt": "2022-05-14T21:07:58.000Z",
+    "id": 111033,
+    "type": "manga",
+    "title": "Soukyuu no Ariadne",
+    "altTitle": [
+      "Ariadne in the Blue Sky.",
+      "蒼穹のアリアドネ"
+    ],
+    "url": "https://myanimelist.net/manga/111033/Soukyuu_no_Ariadne",
+    "image": "https://cdn.myanimelist.net/images/manga/2/209182.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ariadne in the Blue Sky.",
-      "蒼穹のアリアドネ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yagi, Norihiro"
-    ],
-    "id": 111033,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:50.317Z",
+    "updatedAt": "2022-05-19T02:06:22.000Z",
+    "checkedAt": "2022-05-19T02:06:22.000Z",
+    "id": 100832,
     "type": "manga",
     "title": "Soukyuu no Ariadne",
-    "url": "https://myanimelist.net/manga/111033/Soukyuu_no_Ariadne",
-    "image": "https://cdn.myanimelist.net/images/manga/2/209182.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2021-12-01T02:41:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "蒼穹のアリアドネ",
       "Ariadne in the blue sky."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Norihiro Yagi"
-    ],
-    "id": 100832,
-    "malId": 111033,
-    "type": "manga",
-    "title": "Soukyuu no Ariadne",
     "url": "https://anilist.co/manga/100832",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100832-Mw1kJeFgJiIn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:17.000Z",
-    "updatedAt": "2021-12-18T03:28:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111033/Soukyuu_no_Ariadne"
+    "externalLinks": [],
+    "malId": 111033,
+    "deletedAt": null,
+    "authors": [
+      "Norihiro Yagi"
+    ]
+  }
 }

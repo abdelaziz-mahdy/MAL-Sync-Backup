@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Harekawa Shinta"
-  ],
+  "createdAt": "2022-05-09T02:31:25.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T20:05:40.000Z",
+  "id": 103368,
   "identifier": "manga-ia985357",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,54 @@
   "image": "https://avt.mkklcdnv6temp.com/12/e/21-1589272664.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T02:31:25.000Z",
-  "updatedAt": "2022-05-09T02:31:25.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 126755,
+  "aniId": 119766,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Harekawa Shinta"
+  ],
+  "Mal": {
+    "createdAt": "2021-06-07T22:51:37.000Z",
+    "updatedAt": "2022-05-13T20:05:42.000Z",
+    "checkedAt": "2022-05-13T20:05:42.000Z",
+    "id": 126755,
+    "type": "manga",
+    "title": "Inma-kun wa Oshigoto Dekinai",
+    "altTitle": [
+      "淫魔くんはお仕事できない"
+    ],
+    "url": "https://myanimelist.net/manga/126755/Inma-kun_wa_Oshigoto_Dekinai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/232368.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Harekawa, Shinta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:57.555Z",
+    "updatedAt": "2022-05-22T07:15:57.000Z",
+    "checkedAt": "2022-05-22T07:15:57.000Z",
+    "id": 119766,
+    "type": "manga",
+    "title": "Inma-kun wa Oshigoto Dekinai",
+    "altTitle": [
+      "淫魔くんはお仕事できない"
+    ],
+    "url": "https://anilist.co/manga/119766",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119766-9JjT9bDfYopg.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 126755,
+    "deletedAt": null,
+    "authors": [
+      "Shinta Harekawa"
+    ]
+  }
 }

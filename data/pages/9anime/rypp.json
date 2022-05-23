@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:44.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9095,
   "identifier": "rypp",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 281,
   "aniId": 281,
-  "createdAt": "2020-10-12T15:55:44.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-13T23:17:33.000Z",
+    "checkedAt": "2022-05-13T23:17:32.000Z",
+    "id": 281,
+    "type": "anime",
+    "title": "Akane Maniax",
+    "altTitle": [
+      "Kimi ga Nozomu Eien Gaiden",
+      "The Eternity You Desire Gaiden",
+      "アカネマニアックス"
+    ],
+    "url": "https://myanimelist.net/anime/281/Akane_Maniax",
+    "image": "https://cdn.myanimelist.net/images/anime/6/5237.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kimi ga Nozomu Eien Gaiden",
-      "The Eternity You Desire Gaiden",
-      "アカネマニアックス"
-    ],
+    "deletedAt": null,
+    "anidbId": 2425
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-15T13:52:47.000Z",
+    "checkedAt": "2022-05-15T13:52:47.000Z",
     "id": 281,
     "type": "anime",
     "title": "Akane Maniax",
-    "url": "https://myanimelist.net/anime/281/Akane_Maniax",
-    "image": "https://cdn.myanimelist.net/images/anime/6/5237.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2425,
-    "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2022-03-30T13:00:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アカネマニアックス",
       "Kimi ga Nozomu Eien Gaiden",
       "The Eternity You Desire Gaiden"
     ],
-    "externalLinks": [],
-    "id": 281,
-    "malId": 281,
-    "type": "anime",
-    "title": "Akane Maniax",
     "url": "https://anilist.co/anime/281",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/281.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:37.000Z",
-    "updatedAt": "2021-12-17T08:24:05.000Z",
+    "externalLinks": [],
+    "malId": 281,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/281/Akane_Maniax"
+  }
 }

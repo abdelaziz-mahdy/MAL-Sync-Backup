@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kodaka Kazuma"
-  ],
+  "createdAt": "2020-10-12T16:04:05.000Z",
+  "updatedAt": "2021-12-02T18:47:57.000Z",
+  "checkedAt": null,
+  "id": 3592,
   "identifier": "877d195c-ef10-47db-b72a-ac114a00362a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5096,
   "aniId": 35096,
-  "createdAt": "2020-10-12T16:04:05.000Z",
-  "updatedAt": "2021-12-02T18:47:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kodaka Kazuma"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:03.000Z",
+    "updatedAt": "2022-04-29T03:30:53.000Z",
+    "checkedAt": null,
+    "id": 5096,
+    "type": "manga",
+    "title": "Border",
+    "altTitle": [
+      "Kyoukaisen",
+      "Border",
+      "BORDER-境界線-"
+    ],
+    "url": "https://myanimelist.net/manga/5096/Border",
+    "image": "https://cdn.myanimelist.net/images/manga/4/25554.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kyoukaisen",
-      "Border",
-      "BORDER-境界線-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kodaka, Kazuma"
-    ],
-    "id": 5096,
-    "type": "manga",
-    "title": "Border",
-    "url": "https://myanimelist.net/manga/5096/Border",
-    "image": "https://cdn.myanimelist.net/images/manga/4/25554.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:03.000Z",
-    "updatedAt": "2022-04-29T03:30:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:11.574Z",
+    "updatedAt": "2022-05-13T12:43:11.574Z",
+    "checkedAt": null,
+    "id": 35096,
+    "type": "manga",
+    "title": "Border: Kyoukaisen",
     "altTitle": [
       "BORDER 境界線"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuma Kodaka"
-    ],
-    "id": 35096,
-    "malId": 5096,
-    "type": "manga",
-    "title": "Border: Kyoukaisen",
     "url": "https://anilist.co/manga/35096",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5096.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:24.000Z",
-    "updatedAt": "2021-12-17T12:13:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5096/Border"
+    "externalLinks": [],
+    "malId": 5096,
+    "deletedAt": null,
+    "authors": [
+      "Kazuma Kodaka"
+    ]
+  }
 }

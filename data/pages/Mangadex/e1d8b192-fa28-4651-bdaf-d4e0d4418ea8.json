@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mochizuki Jun"
-  ],
+  "createdAt": "2020-10-12T16:09:04.000Z",
+  "updatedAt": "2021-12-04T15:20:38.000Z",
+  "checkedAt": null,
+  "id": 14179,
   "identifier": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93753,
   "aniId": 86568,
-  "createdAt": "2020-10-12T16:09:04.000Z",
-  "updatedAt": "2021-12-04T15:20:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mochizuki Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:17.000Z",
+    "updatedAt": "2022-05-13T16:24:54.000Z",
+    "checkedAt": "2022-05-13T16:24:54.000Z",
+    "id": 93753,
+    "type": "manga",
+    "title": "Vanitas no Karte",
+    "altTitle": [
+      "Vanitas no Carte",
+      "Vanitas no Shuki",
+      "Memoir of Vanitas",
+      "The Case Study of Vanitas",
+      "ヴァニタスの手記〈カルテ〉"
+    ],
+    "url": "https://myanimelist.net/manga/93753/Vanitas_no_Karte",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176009.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,28 +48,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Vanitas no Carte",
-      "Vanitas no Shuki",
-      "Memoir of Vanitas",
-      "The Case Study of Vanitas",
-      "ヴァニタスの手記〈カルテ〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mochizuki, Jun"
-    ],
-    "id": 93753,
-    "type": "manga",
-    "title": "Vanitas no Karte",
-    "url": "https://myanimelist.net/manga/93753/Vanitas_no_Karte",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176009.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:17.000Z",
-    "updatedAt": "2022-04-27T16:32:37.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:41.383Z",
+    "updatedAt": "2022-05-15T20:38:59.000Z",
+    "checkedAt": "2022-05-15T20:38:59.000Z",
+    "id": 86568,
+    "type": "manga",
+    "title": "Vanitas no Carte",
     "altTitle": [
       "The Case Study of Vanitas",
       "ヴァニタスの手記",
@@ -65,7 +74,13 @@
       "บันทึกแวมไพร์วานิทัส",
       "Hồi kí Vanitas"
     ],
+    "url": "https://anilist.co/manga/86568",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86568-IibEQI2zjYFl.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 93753,
+    "deletedAt": null,
     "authors": [
       "Jun Mochizuki",
       "Taylor Engel",
@@ -74,18 +89,6 @@
       "Gyeong-Hwa O",
       "Fédoua Lamodière",
       "Cordelia Suzuki"
-    ],
-    "id": 86568,
-    "malId": 93753,
-    "type": "manga",
-    "title": "Vanitas no Carte",
-    "url": "https://anilist.co/manga/86568",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86568-IibEQI2zjYFl.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2022-04-03T15:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93753/Vanitas_no_Karte"
+    ]
+  }
 }

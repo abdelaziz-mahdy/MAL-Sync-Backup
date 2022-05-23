@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saito Takao"
-  ],
+  "createdAt": "2020-10-12T16:15:00.000Z",
+  "updatedAt": "2021-12-06T10:50:24.000Z",
+  "checkedAt": null,
+  "id": 26093,
   "identifier": "388cc098-41a1-43e9-a220-389524dcc17b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117729,
   "aniId": 116681,
-  "createdAt": "2020-10-12T16:15:00.000Z",
-  "updatedAt": "2021-12-06T10:50:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saito Takao"
+  ],
   "Mal": {
+    "createdAt": "2021-06-06T10:19:29.000Z",
+    "updatedAt": "2021-12-06T10:47:20.000Z",
+    "checkedAt": null,
+    "id": 117729,
+    "type": "manga",
+    "title": "Survival 2000",
+    "altTitle": [
+      "サバイバル2000"
+    ],
+    "url": "https://myanimelist.net/manga/117729/Survival_2000",
+    "image": "https://cdn.myanimelist.net/images/manga/3/214862.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "サバイバル2000"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saitou, Takao",
       "Nanatsuki, Kyoichi"
-    ],
-    "id": 117729,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:46.622Z",
+    "updatedAt": "2022-05-13T13:01:46.622Z",
+    "checkedAt": null,
+    "id": 116681,
     "type": "manga",
     "title": "Survival 2000",
-    "url": "https://myanimelist.net/manga/117729/Survival_2000",
-    "image": "https://cdn.myanimelist.net/images/manga/3/214862.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-06T10:19:29.000Z",
-    "updatedAt": "2021-12-06T10:47:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "サバイバル2000"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kyouichi Nanatsuki",
-      "Takao Saitou"
-    ],
-    "id": 116681,
-    "malId": 117729,
-    "type": "manga",
-    "title": "Survival 2000",
     "url": "https://anilist.co/manga/116681",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116681-4PvIcwABiBgv.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T10:19:29.000Z",
-    "updatedAt": "2021-12-18T08:51:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117729/Survival_2000"
+    "externalLinks": [],
+    "malId": 117729,
+    "deletedAt": null,
+    "authors": [
+      "Kyouichi Nanatsuki",
+      "Takao Saitou"
+    ]
+  }
 }

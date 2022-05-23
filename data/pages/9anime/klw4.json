@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:39.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5495,
   "identifier": "klw4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2278,
   "aniId": 2278,
-  "createdAt": "2020-10-12T15:52:39.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-03-31T06:01:44.000Z",
+    "checkedAt": null,
+    "id": 2278,
+    "type": "anime",
+    "title": "Mahou Yuugi 3D",
+    "altTitle": [
+      "Magical Witchland",
+      "3D Magical Play",
+      "魔法遊戯 3D"
+    ],
+    "url": "https://myanimelist.net/anime/2278/Mahou_Yuugi_3D",
+    "image": "https://cdn.myanimelist.net/images/anime/1824/98807.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,41 +43,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Witchland",
-      "3D Magical Play",
-      "魔法遊戯 3D"
-    ],
+    "deletedAt": null,
+    "anidbId": 1391
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2021-12-17T10:01:14.000Z",
+    "checkedAt": null,
     "id": 2278,
     "type": "anime",
     "title": "Mahou Yuugi 3D",
-    "url": "https://myanimelist.net/anime/2278/Mahou_Yuugi_3D",
-    "image": "https://cdn.myanimelist.net/images/anime/1824/98807.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1391,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2022-03-31T06:01:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔法遊戯 3D",
       "Magical Witchland",
       "3D Magical Play"
     ],
-    "externalLinks": [],
-    "id": 2278,
-    "malId": 2278,
-    "type": "anime",
-    "title": "Mahou Yuugi 3D",
     "url": "https://anilist.co/anime/2278",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2278.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:14.000Z",
-    "updatedAt": "2021-12-17T10:01:14.000Z",
+    "externalLinks": [],
+    "malId": 2278,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2278/Mahou_Yuugi_3D"
+  }
 }

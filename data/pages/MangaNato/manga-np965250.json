@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gonzo",
-    "Mori Takeshi"
-  ],
+  "createdAt": "2022-01-24T05:30:26.000Z",
+  "updatedAt": "2022-01-24T06:00:11.000Z",
+  "checkedAt": null,
+  "id": 95267,
   "identifier": "manga-np965250",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1010,
   "aniId": 31010,
-  "createdAt": "2022-01-24T05:30:26.000Z",
-  "updatedAt": "2022-01-24T06:00:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gonzo",
+    "Mori Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-16T19:57:01.000Z",
+    "checkedAt": "2022-05-16T19:57:01.000Z",
+    "id": 1010,
+    "type": "manga",
+    "title": "Vandread",
+    "altTitle": [
+      "ヴァンドレッド"
+    ],
+    "url": "https://myanimelist.net/manga/1010/Vandread",
+    "image": "https://cdn.myanimelist.net/images/manga/3/111541.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヴァンドレッド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akane, Kotetsu",
       "Mori, Takeshi",
       "Gonzo"
-    ],
-    "id": 1010,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:07.648Z",
+    "updatedAt": "2022-05-16T19:57:00.000Z",
+    "checkedAt": "2022-05-16T19:57:00.000Z",
+    "id": 31010,
     "type": "manga",
     "title": "Vandread",
-    "url": "https://myanimelist.net/manga/1010/Vandread",
-    "image": "https://cdn.myanimelist.net/images/manga/3/111541.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-01-24T05:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヴァンドレッド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kotetsu Akane",
-      "Takeshi Mori"
-    ],
-    "id": 31010,
-    "malId": 1010,
-    "type": "manga",
-    "title": "Vandread",
     "url": "https://anilist.co/manga/31010",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31010-Hl3dMwGcIJBA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:39:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1010/Vandread"
+    "externalLinks": [],
+    "malId": 1010,
+    "deletedAt": null,
+    "authors": [
+      "Kotetsu Akane",
+      "Takeshi Mori"
+    ]
+  }
 }

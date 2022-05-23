@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-07-09T15:43:41.000Z",
+  "updatedAt": "2021-07-09T16:13:16.000Z",
+  "checkedAt": null,
+  "id": 37771,
   "identifier": "9ol7m",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40870,
   "aniId": 113950,
-  "createdAt": "2021-07-09T15:43:41.000Z",
-  "updatedAt": "2021-07-09T16:13:16.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:13.000Z",
+    "updatedAt": "2022-05-13T23:39:22.000Z",
+    "checkedAt": "2022-05-13T23:39:22.000Z",
+    "id": 40870,
+    "type": "anime",
+    "title": "SSSS.Dynazenon",
+    "altTitle": [
+      "SSSS.Dynazenon",
+      "SSSS.DYNAZENON"
+    ],
+    "url": "https://myanimelist.net/anime/40870/SSSSDynazenon",
+    "image": "https://cdn.myanimelist.net/images/anime/1880/113766.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -51,26 +67,24 @@
         "url": "https://www.wakanim.tv/"
       }
     ],
-    "altTitle": [
-      "SSSS.DYNAZENON"
-    ],
-    "id": 40870,
-    "type": "anime",
-    "title": "SSSS.Dynazenon",
-    "url": "https://myanimelist.net/anime/40870/SSSSDynazenon",
-    "image": "https://cdn.myanimelist.net/images/anime/1880/113766.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15312,
-    "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2022-04-06T15:01:55.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 15312
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:00.000Z",
+    "updatedAt": "2022-05-15T09:57:47.000Z",
+    "checkedAt": "2022-05-15T09:57:47.000Z",
+    "id": 113950,
+    "type": "anime",
+    "title": "SSSS.DYNAZENON",
     "altTitle": [
       "SSSS.DYNAZENON",
       "SSSS.DYNAZENON"
     ],
+    "url": "https://anilist.co/anime/113950",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113950-Yn7h0o1yD61j.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -81,17 +95,7 @@
         "url": "https://www.crunchyroll.com/ssssdynazenon"
       }
     ],
-    "id": 113950,
     "malId": 40870,
-    "type": "anime",
-    "title": "SSSS.DYNAZENON",
-    "url": "https://anilist.co/anime/113950",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113950-Yn7h0o1yD61j.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:00.000Z",
-    "updatedAt": "2022-03-02T11:10:28.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40870/SSSSDynazenon"
+  }
 }

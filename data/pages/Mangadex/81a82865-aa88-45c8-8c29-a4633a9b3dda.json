@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Minami Maki"
-  ],
+  "createdAt": "2020-10-12T16:08:45.000Z",
+  "updatedAt": "2021-12-04T13:21:28.000Z",
+  "checkedAt": null,
+  "id": 13469,
   "identifier": "81a82865-aa88-45c8-8c29-a4633a9b3dda",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1271,
   "aniId": 31271,
-  "createdAt": "2020-10-12T16:08:45.000Z",
-  "updatedAt": "2021-12-04T13:21:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minami Maki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Special_A"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-05-15T14:38:14.000Z",
+    "checkedAt": "2022-05-15T14:38:14.000Z",
+    "id": 1271,
+    "type": "manga",
+    "title": "Special A",
     "altTitle": [
       "Mikansei Chorus",
       "Incomplete Chorus",
@@ -33,21 +34,29 @@
       "S.A: Special A",
       "S・A　スペシャル・エー"
     ],
-    "authors": [
-      "Minami, Maki"
-    ],
-    "id": 1271,
-    "type": "manga",
-    "title": "Special A",
     "url": "https://myanimelist.net/manga/1271/Special_A",
     "image": "https://cdn.myanimelist.net/images/manga/3/137871.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-04-15T14:02:23.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Special_A"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Minami, Maki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:46.900Z",
+    "updatedAt": "2022-05-15T18:21:11.000Z",
+    "checkedAt": "2022-05-15T18:21:11.000Z",
+    "id": 31271,
+    "type": "manga",
+    "title": "Special A",
     "altTitle": [
       "S.A: Special A",
       "Ｓ・Ａ　スペシャル・エー",
@@ -56,21 +65,15 @@
       "SA",
       "S A"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maki Minami"
-    ],
-    "id": 31271,
-    "malId": 1271,
-    "type": "manga",
-    "title": "Special A",
     "url": "https://anilist.co/manga/31271",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31271-qP7Iilm8r1Tn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2022-05-21T23:30:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1271/Special_A"
+    "externalLinks": [],
+    "malId": 1271,
+    "deletedAt": null,
+    "authors": [
+      "Maki Minami"
+    ]
+  }
 }

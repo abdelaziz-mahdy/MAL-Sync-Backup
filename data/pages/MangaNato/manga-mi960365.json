@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Igano Hiroaki",
-    "Tsukiyama Kaya"
-  ],
+  "createdAt": "2021-06-12T03:39:31.000Z",
+  "updatedAt": "2021-12-12T04:34:34.000Z",
+  "checkedAt": null,
+  "id": 77858,
   "identifier": "manga-mi960365",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8795,
   "aniId": 38795,
-  "createdAt": "2021-06-12T03:39:31.000Z",
-  "updatedAt": "2021-12-12T04:34:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Igano Hiroaki",
+    "Tsukiyama Kaya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:20.000Z",
+    "updatedAt": "2022-05-14T09:40:54.000Z",
+    "checkedAt": "2022-05-14T09:40:54.000Z",
+    "id": 8795,
+    "type": "manga",
+    "title": "Area no Kishi",
+    "altTitle": [
+      "The Knight in the Area",
+      "エリアの騎士"
+    ],
+    "url": "https://myanimelist.net/manga/8795/Area_no_Kishi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/193643.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Knight in the Area",
-      "エリアの騎士"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kibayashi, Shin",
       "Tsukiyama, Kaya"
-    ],
-    "id": 8795,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:06.613Z",
+    "updatedAt": "2022-05-15T17:21:11.000Z",
+    "checkedAt": "2022-05-15T17:21:11.000Z",
+    "id": 38795,
     "type": "manga",
     "title": "Area no Kishi",
-    "url": "https://myanimelist.net/manga/8795/Area_no_Kishi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/193643.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2022-04-25T08:31:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Knight in the Area",
       "エリアの騎士"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shin Kibayashi",
-      "Kaya Tsukiyama"
-    ],
-    "id": 38795,
-    "malId": 8795,
-    "type": "manga",
-    "title": "Area no Kishi",
     "url": "https://anilist.co/manga/38795",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8795.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:50.000Z",
-    "updatedAt": "2021-12-17T13:38:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8795/Area_no_Kishi"
+    "externalLinks": [],
+    "malId": 8795,
+    "deletedAt": null,
+    "authors": [
+      "Shin Kibayashi",
+      "Kaya Tsukiyama"
+    ]
+  }
 }

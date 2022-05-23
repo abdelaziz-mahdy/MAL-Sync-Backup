@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshida Satoru"
-  ],
+  "createdAt": "2020-10-12T16:08:34.000Z",
+  "updatedAt": "2021-12-04T11:21:59.000Z",
+  "checkedAt": null,
+  "id": 13060,
   "identifier": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64157,
   "aniId": 85220,
-  "createdAt": "2020-10-12T16:08:34.000Z",
-  "updatedAt": "2021-12-04T11:21:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshida Satoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2022-05-16T10:28:03.000Z",
+    "checkedAt": "2022-05-16T10:28:03.000Z",
+    "id": 64157,
+    "type": "manga",
+    "title": "Hatarakanai Futari",
+    "altTitle": [
+      "Two Not Working",
+      "The Jobless Siblings",
+      "働かないふたり"
+    ],
+    "url": "https://myanimelist.net/manga/64157/Hatarakanai_Futari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188796.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Two Not Working",
-      "The Jobless Siblings",
-      "働かないふたり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshida, Satoru"
-    ],
-    "id": 64157,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:11.448Z",
+    "updatedAt": "2022-05-16T10:28:03.000Z",
+    "checkedAt": "2022-05-16T10:28:03.000Z",
+    "id": 85220,
     "type": "manga",
     "title": "Hatarakanai Futari",
-    "url": "https://myanimelist.net/manga/64157/Hatarakanai_Futari",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188796.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2022-03-23T21:27:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "働かないふたり",
       "The Jobless Siblings"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoru Yoshida"
-    ],
-    "id": 85220,
-    "malId": 64157,
-    "type": "manga",
-    "title": "Hatarakanai Futari",
     "url": "https://anilist.co/manga/85220",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85220-oK1UWMoXu4Et.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:49.000Z",
-    "updatedAt": "2021-12-17T21:55:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64157/Hatarakanai_Futari"
+    "externalLinks": [],
+    "malId": 64157,
+    "deletedAt": null,
+    "authors": [
+      "Satoru Yoshida"
+    ]
+  }
 }

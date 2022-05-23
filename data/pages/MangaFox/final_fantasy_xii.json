@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AMOU Gin"
-  ],
+  "createdAt": "2021-12-22T01:21:48.000Z",
+  "updatedAt": "2021-12-22T01:51:46.000Z",
+  "checkedAt": null,
+  "id": 93485,
   "identifier": "final_fantasy_xii",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10002,
   "aniId": 40002,
-  "createdAt": "2021-12-22T01:21:48.000Z",
-  "updatedAt": "2021-12-22T01:51:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "AMOU Gin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-02-16T20:47:01.000Z",
+    "checkedAt": null,
+    "id": 10002,
+    "type": "manga",
+    "title": "Final Fantasy XII",
+    "altTitle": [
+      "FFXII",
+      "Final Fantasy 12",
+      "ファイナルファンタジーXII"
+    ],
+    "url": "https://myanimelist.net/manga/10002/Final_Fantasy_XII",
+    "image": "https://cdn.myanimelist.net/images/manga/3/13387.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FFXII",
-      "Final Fantasy 12",
-      "ファイナルファンタジーXII"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amou, Gin"
-    ],
-    "id": 10002,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:51.310Z",
+    "updatedAt": "2022-05-13T12:47:51.310Z",
+    "checkedAt": null,
+    "id": 40002,
     "type": "manga",
     "title": "Final Fantasy XII",
-    "url": "https://myanimelist.net/manga/10002/Final_Fantasy_XII",
-    "image": "https://cdn.myanimelist.net/images/manga/3/13387.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2022-02-16T20:47:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ファイナルファンタジーXII",
       "FFXII",
       "Final Fantasy 12"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gin Amou"
-    ],
-    "id": 40002,
-    "malId": 10002,
-    "type": "manga",
-    "title": "Final Fantasy XII",
     "url": "https://anilist.co/manga/40002",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10002.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:59.000Z",
-    "updatedAt": "2021-12-17T13:48:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10002/Final_Fantasy_XII"
+    "externalLinks": [],
+    "malId": 10002,
+    "deletedAt": null,
+    "authors": [
+      "Gin Amou"
+    ]
+  }
 }

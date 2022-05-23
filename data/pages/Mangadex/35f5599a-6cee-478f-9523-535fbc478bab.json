@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Liel Sen",
-    "Licht Silver"
-  ],
+  "createdAt": "2020-10-12T16:14:01.000Z",
+  "updatedAt": "2021-12-06T01:48:42.000Z",
+  "checkedAt": null,
+  "id": 24043,
   "identifier": "35f5599a-6cee-478f-9523-535fbc478bab",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 79,
   "aniId": 30079,
-  "createdAt": "2020-10-12T16:14:01.000Z",
-  "updatedAt": "2021-12-06T01:48:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Liel Sen",
+    "Licht Silver"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%AF%E8%B5%A4%E3%81%84%E6%B2%B3%E3%81%AE%E3%81%BB%E3%81%A8%E3%82%8A"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T15:20:15.000Z",
+    "checkedAt": "2022-05-15T15:20:14.000Z",
+    "id": 79,
+    "type": "manga",
+    "title": "Sora wa Akai Kawa no Hotori",
     "altTitle": [
       "Anatolia Story",
       "Heaven by the Red River",
@@ -35,21 +36,29 @@
       "Red River",
       "天は赤い河のほとり"
     ],
-    "authors": [
-      "Shinohara, Chie"
-    ],
-    "id": 79,
-    "type": "manga",
-    "title": "Sora wa Akai Kawa no Hotori",
     "url": "https://myanimelist.net/manga/79/Sora_wa_Akai_Kawa_no_Hotori",
     "image": "https://cdn.myanimelist.net/images/manga/4/162632.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-12-28T16:27:01.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9%E3%81%AF%E8%B5%A4%E3%81%84%E6%B2%B3%E3%81%AE%E3%81%BB%E3%81%A8%E3%82%8A"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shinohara, Chie"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:59.208Z",
+    "updatedAt": "2022-05-15T18:47:23.000Z",
+    "checkedAt": "2022-05-15T18:47:23.000Z",
+    "id": 30079,
+    "type": "manga",
+    "title": "Sora wa Akai Kawa no Hotori",
     "altTitle": [
       "Red River",
       "天は赤い河のほとり",
@@ -59,21 +68,15 @@
       "Orontes Love Song",
       "ตะวันรักที่ปลายฟ้า"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chie Shinohara"
-    ],
-    "id": 30079,
-    "malId": 79,
-    "type": "manga",
-    "title": "Sora wa Akai Kawa no Hotori",
     "url": "https://anilist.co/manga/30079",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30079-7EBm14wL7QlD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2022-03-11T07:29:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79/Sora_wa_Akai_Kawa_no_Hotori"
+    "externalLinks": [],
+    "malId": 79,
+    "deletedAt": null,
+    "authors": [
+      "Chie Shinohara"
+    ]
+  }
 }

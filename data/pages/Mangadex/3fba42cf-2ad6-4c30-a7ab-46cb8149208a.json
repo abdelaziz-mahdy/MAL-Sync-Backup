@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Asagiri Kafka",
-    "Harukawa 35"
-  ],
+  "createdAt": "2020-10-12T16:07:14.000Z",
+  "updatedAt": "2021-12-04T01:50:03.000Z",
+  "checkedAt": null,
+  "id": 10191,
   "identifier": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56529,
   "aniId": 85307,
-  "createdAt": "2020-10-12T16:07:14.000Z",
-  "updatedAt": "2021-12-04T01:50:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asagiri Kafka",
+    "Harukawa 35"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-05-14T20:16:53.000Z",
+    "checkedAt": "2022-05-14T20:16:53.000Z",
+    "id": 56529,
+    "type": "manga",
+    "title": "Bungou Stray Dogs",
+    "altTitle": [
+      "Bungo Stray Dogs",
+      "文豪ストレイドッグス"
+    ],
+    "url": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs",
+    "image": "https://cdn.myanimelist.net/images/manga/2/100769.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,26 +46,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bungo Stray Dogs",
-      "文豪ストレイドッグス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asagiri, Kafka",
       "Harukawa35"
-    ],
-    "id": 56529,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:44.067Z",
+    "updatedAt": "2022-05-15T20:05:23.000Z",
+    "checkedAt": "2022-05-15T20:05:23.000Z",
+    "id": 85307,
     "type": "manga",
     "title": "Bungou Stray Dogs",
-    "url": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs",
-    "image": "https://cdn.myanimelist.net/images/manga/2/100769.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:48.000Z",
-    "updatedAt": "2022-04-10T08:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bungo Stray Dogs",
       "文豪ストレイドッグス",
@@ -60,23 +69,17 @@
       "คณะประพันธกรจรจัด",
       "Văn hào lưu lạc"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kafka Asagiri",
-      "Harukawa35",
-      "Lục Mịnh"
-    ],
-    "id": 85307,
-    "malId": 56529,
-    "type": "manga",
-    "title": "Bungou Stray Dogs",
     "url": "https://anilist.co/manga/85307",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85307-cfwdYRhtHRpD.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:29.000Z",
-    "updatedAt": "2022-03-13T22:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56529/Bungou_Stray_Dogs"
+    "externalLinks": [],
+    "malId": 56529,
+    "deletedAt": null,
+    "authors": [
+      "Kafka Asagiri",
+      "Harukawa35",
+      "Lục Mịnh"
+    ]
+  }
 }

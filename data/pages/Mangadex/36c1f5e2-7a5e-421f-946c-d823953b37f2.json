@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ashiomi Masato"
-  ],
+  "createdAt": "2022-01-24T16:00:33.000Z",
+  "updatedAt": "2022-01-24T16:00:33.000Z",
+  "checkedAt": null,
+  "id": 95300,
   "identifier": "36c1f5e2-7a5e-421f-946c-d823953b37f2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60125,
   "aniId": 88978,
-  "createdAt": "2022-01-24T16:00:33.000Z",
-  "updatedAt": "2022-01-24T16:00:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ashiomi Masato"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2022-01-24T04:00:34.000Z",
+    "updatedAt": "2022-05-16T11:14:35.000Z",
+    "checkedAt": "2022-05-16T11:14:35.000Z",
+    "id": 60125,
+    "type": "manga",
+    "title": "Illusion Girls",
     "altTitle": [
       "Vampire Girl",
       "Redstrings",
@@ -28,21 +34,24 @@
       "Flower Road",
       "イリュージョンガールズ"
     ],
-    "authors": [
-      "Ashiomi, Masato"
-    ],
-    "id": 60125,
-    "type": "manga",
-    "title": "Illusion Girls",
     "url": "https://myanimelist.net/manga/60125/Illusion_Girls",
     "image": "https://cdn.myanimelist.net/images/manga/1/105741.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2022-01-24T04:00:34.000Z",
-    "updatedAt": "2022-01-24T04:00:34.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ashiomi, Masato"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:44.538Z",
+    "updatedAt": "2022-05-16T11:14:34.000Z",
+    "checkedAt": "2022-05-16T11:14:34.000Z",
+    "id": 88978,
+    "type": "manga",
+    "title": "Illusion Girls",
     "altTitle": [
       "イリュージョンガールズ",
       "Vampire Girl",
@@ -51,21 +60,15 @@
       "Change the Heart",
       "Flower Road"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masato Ashiomi"
-    ],
-    "id": 88978,
-    "malId": 60125,
-    "type": "manga",
-    "title": "Illusion Girls",
     "url": "https://anilist.co/manga/88978",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88978-mKX6b2GfwLAq.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2022-01-24T16:00:33.000Z",
-    "updatedAt": "2022-01-24T16:00:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60125/Illusion_Girls"
+    "externalLinks": [],
+    "malId": 60125,
+    "deletedAt": null,
+    "authors": [
+      "Masato Ashiomi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagai Go"
-  ],
+  "createdAt": "2020-10-12T16:17:31.000Z",
+  "updatedAt": "2021-12-07T08:46:42.000Z",
+  "checkedAt": null,
+  "id": 31297,
   "identifier": "bb513240-0c96-415a-b8cc-974023fb7a18",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70405,
   "aniId": 98023,
-  "createdAt": "2020-10-12T16:17:31.000Z",
-  "updatedAt": "2021-12-07T08:46:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Go"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0_(%E6%BC%AB%E7%94%BB)"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:17.000Z",
+    "updatedAt": "2022-05-19T03:52:15.000Z",
+    "checkedAt": "2022-05-19T03:52:15.000Z",
+    "id": 70405,
+    "type": "manga",
+    "title": "Museum",
     "altTitle": [
       "Bokura wa Shinyuu to Iu Tei de",
       "Girl and Killer",
@@ -33,21 +34,29 @@
       "Museum",
       "ミュージアム"
     ],
-    "authors": [
-      "Tomoe, Ryousuke"
-    ],
-    "id": 70405,
-    "type": "manga",
-    "title": "Museum",
     "url": "https://myanimelist.net/manga/70405/Museum",
     "image": "https://cdn.myanimelist.net/images/manga/1/120621.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:17.000Z",
-    "updatedAt": "2022-03-04T15:11:02.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tomoe, Ryousuke"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:28.151Z",
+    "updatedAt": "2022-05-19T03:52:14.000Z",
+    "checkedAt": "2022-05-19T03:52:14.000Z",
+    "id": 98023,
+    "type": "manga",
+    "title": "Museum",
     "altTitle": [
       "Museum",
       "ミュージアム",
@@ -56,21 +65,15 @@
       "Onna to Koroshiya",
       "The Serial Killer Is Laughing in the Rain"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryousuke Tomoe"
-    ],
-    "id": 98023,
-    "malId": 70405,
-    "type": "manga",
-    "title": "Museum",
     "url": "https://anilist.co/manga/98023",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98023-xty2lMkjICTJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:31.000Z",
-    "updatedAt": "2022-03-16T09:20:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70405/Museum"
+    "externalLinks": [],
+    "malId": 70405,
+    "deletedAt": null,
+    "authors": [
+      "Ryousuke Tomoe"
+    ]
+  }
 }

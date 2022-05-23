@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toma Rei"
-  ],
+  "createdAt": "2020-10-12T16:08:33.000Z",
+  "updatedAt": "2021-12-04T11:21:48.000Z",
+  "checkedAt": null,
+  "id": 13030,
   "identifier": "96a24520-7403-4f28-b821-922e1967e08a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85901,
   "aniId": 85830,
-  "createdAt": "2020-10-12T16:08:33.000Z",
-  "updatedAt": "2021-12-04T11:21:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toma Rei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:44.000Z",
+    "updatedAt": "2022-05-15T05:06:35.000Z",
+    "checkedAt": "2022-05-15T05:06:35.000Z",
+    "id": 85901,
+    "type": "manga",
+    "title": "Suijin no Hanayome",
+    "altTitle": [
+      "Suijin no Ikenie",
+      "The Water Dragon's Bride",
+      "水神の生贄〈はなよめ〉"
+    ],
+    "url": "https://myanimelist.net/manga/85901/Suijin_no_Hanayome",
+    "image": "https://cdn.myanimelist.net/images/manga/2/167987.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Suijin no Ikenie",
-      "The Water Dragon's Bride",
-      "水神の生贄〈はなよめ〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Touma, Rei"
-    ],
-    "id": 85901,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.469Z",
+    "updatedAt": "2022-05-15T18:50:59.000Z",
+    "checkedAt": "2022-05-15T18:50:59.000Z",
+    "id": 85830,
     "type": "manga",
     "title": "Suijin no Hanayome",
-    "url": "https://myanimelist.net/manga/85901/Suijin_no_Hanayome",
-    "image": "https://cdn.myanimelist.net/images/manga/2/167987.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:44.000Z",
-    "updatedAt": "2022-04-23T05:02:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Water Dragon's Bride",
       "水神の生贄〈はなよめ〉",
@@ -53,26 +62,15 @@
       "The Dragon's Bride",
       "Die Braut des Wasserdrachen"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/the-water-dragon-s-bride"
-      }
-    ],
-    "authors": [
-      "Rei Touma"
-    ],
-    "id": 85830,
-    "malId": 85901,
-    "type": "manga",
-    "title": "Suijin no Hanayome",
     "url": "https://anilist.co/manga/85830",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85830-qAuhZu9l3bHS.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:38.000Z",
-    "updatedAt": "2021-12-17T22:24:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85901/Suijin_no_Hanayome"
+    "externalLinks": [],
+    "malId": 85901,
+    "deletedAt": null,
+    "authors": [
+      "Rei Touma"
+    ]
+  }
 }

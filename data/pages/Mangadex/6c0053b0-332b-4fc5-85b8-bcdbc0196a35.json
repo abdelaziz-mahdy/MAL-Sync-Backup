@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hanada Ryo"
-  ],
+  "createdAt": "2020-10-12T16:08:22.000Z",
+  "updatedAt": "2021-12-04T09:48:18.000Z",
+  "checkedAt": null,
+  "id": 12649,
   "identifier": "6c0053b0-332b-4fc5-85b8-bcdbc0196a35",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91711,
   "aniId": 86648,
-  "createdAt": "2020-10-12T16:08:22.000Z",
-  "updatedAt": "2021-12-04T09:48:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanada Ryo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-05-15T19:26:44.000Z",
+    "checkedAt": "2022-05-15T19:26:44.000Z",
+    "id": 91711,
+    "type": "manga",
+    "title": "Devils Line",
+    "altTitle": [
+      "Devils' Line",
+      "デビルズライン"
+    ],
+    "url": "https://myanimelist.net/manga/91711/Devils_Line",
+    "image": "https://cdn.myanimelist.net/images/manga/1/167817.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Devils' Line",
-      "デビルズライン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanada, Ryou"
-    ],
-    "id": 91711,
-    "type": "manga",
-    "title": "Devils Line",
-    "url": "https://myanimelist.net/manga/91711/Devils_Line",
-    "image": "https://cdn.myanimelist.net/images/manga/1/167817.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2022-04-23T10:31:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:21.041Z",
+    "updatedAt": "2022-05-15T21:07:47.000Z",
+    "checkedAt": "2022-05-15T21:07:47.000Z",
+    "id": 86648,
+    "type": "manga",
+    "title": "Devils' Line",
     "altTitle": [
       "Devils' Line",
       "デビルズライン",
       "魔性之线",
       "Devil's Line"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryou Hanada",
-      "Julien Delespaul"
-    ],
-    "id": 86648,
-    "malId": 91711,
-    "type": "manga",
-    "title": "Devils' Line",
     "url": "https://anilist.co/manga/86648",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86648-4kVHocTwOHMy.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:36.000Z",
-    "updatedAt": "2021-12-17T22:55:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91711/Devils_Line"
+    "externalLinks": [],
+    "malId": 91711,
+    "deletedAt": null,
+    "authors": [
+      "Ryou Hanada",
+      "Julien Delespaul"
+    ]
+  }
 }

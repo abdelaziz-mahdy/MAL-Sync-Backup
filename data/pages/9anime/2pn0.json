@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:29.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1482,
   "identifier": "2pn0",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1232,
   "aniId": 1232,
-  "createdAt": "2020-10-12T15:49:29.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:14.000Z",
+    "updatedAt": "2022-05-14T22:26:59.000Z",
+    "checkedAt": "2022-05-14T22:26:59.000Z",
+    "id": 1232,
+    "type": "anime",
+    "title": "Saber Marionette R",
+    "altTitle": [
+      "Saber Marionette R",
+      "SMガールズ セイバーマリオネットR"
+    ],
+    "url": "https://myanimelist.net/anime/1232/Saber_Marionette_R",
+    "image": "https://cdn.myanimelist.net/images/anime/11/61075.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,43 +46,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Saber Marionette R",
-      "SMガールズ セイバーマリオネットR"
-    ],
+    "deletedAt": null,
+    "anidbId": 1247
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:01.000Z",
+    "updatedAt": "2022-05-15T18:29:11.000Z",
+    "checkedAt": "2022-05-15T18:29:11.000Z",
     "id": 1232,
     "type": "anime",
     "title": "Saber Marionette R",
-    "url": "https://myanimelist.net/anime/1232/Saber_Marionette_R",
-    "image": "https://cdn.myanimelist.net/images/anime/11/61075.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1247,
-    "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2022-03-14T08:01:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "セイバーマリオネットR"
     ],
+    "url": "https://anilist.co/anime/1232",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1232-ZgcCUGOBqEbK.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/saber-marionette-r"
       }
     ],
-    "id": 1232,
     "malId": 1232,
-    "type": "anime",
-    "title": "Saber Marionette R",
-    "url": "https://anilist.co/anime/1232",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1232-ZgcCUGOBqEbK.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:01.000Z",
-    "updatedAt": "2021-12-17T09:20:45.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1232/Saber_Marionette_R"
+  }
 }

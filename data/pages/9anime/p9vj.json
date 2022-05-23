@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-01-01T13:00:40.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32450,
   "identifier": "p9vj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40765,
   "aniId": 122980,
-  "createdAt": "2021-01-01T13:00:40.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-12-20T17:26:03.000Z",
+    "updatedAt": "2022-02-21T13:58:33.000Z",
+    "checkedAt": null,
+    "id": 40765,
+    "type": "anime",
+    "title": "Underdog",
+    "altTitle": [
+      "Eondeodog",
+      "The Underdog",
+      "Underdog",
+      "언더독"
+    ],
+    "url": "https://myanimelist.net/anime/40765/Underdog",
+    "image": "https://cdn.myanimelist.net/images/anime/1784/104480.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -22,40 +40,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eondeodog",
-      "The Underdog",
-      "Underdog",
-      "언더독"
-    ],
-    "id": 40765,
-    "type": "anime",
-    "title": "Underdog",
-    "url": "https://myanimelist.net/anime/40765/Underdog",
-    "image": "https://cdn.myanimelist.net/images/anime/1784/104480.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": null,
-    "createdAt": "2020-12-20T17:26:03.000Z",
-    "updatedAt": "2022-02-21T13:58:33.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": null
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:00.000Z",
+    "updatedAt": "2021-12-17T18:18:44.000Z",
+    "checkedAt": null,
+    "id": 122980,
+    "type": "anime",
+    "title": "Underdog",
     "altTitle": [
       "언더독"
     ],
-    "externalLinks": [],
-    "id": 122980,
-    "malId": 40765,
-    "type": "anime",
-    "title": "Underdog",
     "url": "https://anilist.co/anime/122980",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122980-8Q8c4Omf4mBe.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:00.000Z",
-    "updatedAt": "2021-12-17T18:18:44.000Z",
+    "externalLinks": [],
+    "malId": 40765,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40765/Underdog"
+  }
 }

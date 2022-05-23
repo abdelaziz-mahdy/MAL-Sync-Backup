@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sumio Aono",
-    "Suzuki Makishima"
-  ],
+  "createdAt": "2021-05-29T04:45:58.000Z",
+  "updatedAt": "2021-11-29T18:37:13.000Z",
+  "checkedAt": null,
+  "id": 73374,
   "identifier": "manga-dq980499",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 119084,
   "aniId": 106662,
-  "createdAt": "2021-05-29T04:45:58.000Z",
-  "updatedAt": "2021-11-29T18:37:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sumio Aono",
+    "Suzuki Makishima"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:55.000Z",
+    "updatedAt": "2022-05-15T05:16:43.000Z",
+    "checkedAt": "2022-05-15T05:16:43.000Z",
+    "id": 119084,
+    "type": "manga",
+    "title": "Nihon e Youkoso Elf-san.",
+    "altTitle": [
+      "Welcome to Japan, Ms. Elf!",
+      "日本へようこそエルフさん。"
+    ],
+    "url": "https://myanimelist.net/manga/119084/Nihon_e_Youkoso_Elf-san",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219415.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Welcome to Japan, Ms. Elf!",
-      "日本へようこそエルフさん。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Makishima, Suzuki",
       "Aono, Sumio"
-    ],
-    "id": 119084,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:33.806Z",
+    "updatedAt": "2022-05-15T20:55:59.000Z",
+    "checkedAt": "2022-05-15T20:55:59.000Z",
+    "id": 106662,
     "type": "manga",
     "title": "Nihon e Youkoso Elf-san.",
-    "url": "https://myanimelist.net/manga/119084/Nihon_e_Youkoso_Elf-san",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219415.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:55.000Z",
-    "updatedAt": "2022-05-01T04:32:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Welcome to Japan, Ms. Elf!",
       "日本へようこそエルフさん。",
       "Welcome to Japan, Elf-san"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shimo Aono",
-      "Suzuki Makishima",
-      "Yappen"
-    ],
-    "id": 106662,
-    "malId": 119084,
-    "type": "manga",
-    "title": "Nihon e Youkoso Elf-san.",
     "url": "https://anilist.co/manga/106662",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106662-kNz1QxBCMUaj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:06.000Z",
-    "updatedAt": "2021-12-18T05:29:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119084/Nihon_e_Youkoso_Elf-san"
+    "externalLinks": [],
+    "malId": 119084,
+    "deletedAt": null,
+    "authors": [
+      "Shimo Aono",
+      "Suzuki Makishima",
+      "Yappen",
+      "MPT",
+      "Giuseppe Fusco"
+    ]
+  }
 }

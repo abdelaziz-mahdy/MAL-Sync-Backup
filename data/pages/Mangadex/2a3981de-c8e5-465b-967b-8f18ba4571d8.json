@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nc Comix"
-  ],
+  "createdAt": "2020-10-12T16:18:29.000Z",
+  "updatedAt": "2022-01-28T15:52:21.000Z",
+  "checkedAt": null,
+  "id": 33252,
   "identifier": "2a3981de-c8e5-465b-967b-8f18ba4571d8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 72275,
-  "createdAt": "2020-10-12T16:18:29.000Z",
-  "updatedAt": "2022-01-28T15:52:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nc Comix"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:20.548Z",
+    "updatedAt": "2022-05-16T01:49:17.000Z",
+    "checkedAt": "2022-05-16T01:49:17.000Z",
+    "id": 72275,
+    "type": "manga",
+    "title": "Blade Play",
     "altTitle": [
       "ぶれいど ぷれい",
       "Blade Prey"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aomaru Seta"
-    ],
-    "id": 72275,
-    "malId": 42275,
-    "type": "manga",
-    "title": "Blade Play",
     "url": "https://anilist.co/manga/72275",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx72275-OOnmaFtnejgo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:51.000Z",
-    "updatedAt": "2021-12-17T20:29:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 42275,
+    "deletedAt": null,
+    "authors": [
+      "Aomaru Seta"
+    ]
+  }
 }

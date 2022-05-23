@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Osuga Megumi"
-  ],
+  "createdAt": "2020-10-12T16:18:49.000Z",
+  "updatedAt": "2021-12-07T20:34:51.000Z",
+  "checkedAt": null,
+  "id": 33926,
   "identifier": "fea2cd57-51b9-46bb-8383-fdc85e4e19c7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104080,
   "aniId": 106394,
-  "createdAt": "2020-10-12T16:18:49.000Z",
-  "updatedAt": "2021-12-07T20:34:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Osuga Megumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:56.000Z",
+    "updatedAt": "2021-11-18T07:44:26.000Z",
+    "checkedAt": null,
+    "id": 104080,
+    "type": "manga",
+    "title": "Matinee to Soiree",
+    "altTitle": [
+      "マチネとソワレ"
+    ],
+    "url": "https://myanimelist.net/manga/104080/Matinee_to_Soiree",
+    "image": "https://cdn.myanimelist.net/images/manga/1/193622.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "マチネとソワレ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Osuga, Megumi"
-    ],
-    "id": 104080,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:29.573Z",
+    "updatedAt": "2022-05-13T12:57:29.573Z",
+    "checkedAt": null,
+    "id": 106394,
     "type": "manga",
     "title": "Matinee to Soiree",
-    "url": "https://myanimelist.net/manga/104080/Matinee_to_Soiree",
-    "image": "https://cdn.myanimelist.net/images/manga/1/193622.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2021-11-18T07:44:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マチネとソワレ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Megumi Osuga"
-    ],
-    "id": 106394,
-    "malId": 104080,
-    "type": "manga",
-    "title": "Matinee to Soiree",
     "url": "https://anilist.co/manga/106394",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106394-7wvbpaxyqteo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:09.000Z",
-    "updatedAt": "2021-12-18T05:28:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104080/Matinee_to_Soiree"
+    "externalLinks": [],
+    "malId": 104080,
+    "deletedAt": null,
+    "authors": [
+      "Megumi Osuga"
+    ]
+  }
 }

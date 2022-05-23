@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamamoto Kazuyoshi",
-    "Kanazawa Shinnosuke"
-  ],
+  "createdAt": "2020-10-12T16:12:41.000Z",
+  "updatedAt": "2021-12-05T16:19:18.000Z",
+  "checkedAt": null,
+  "id": 21371,
   "identifier": "58ba3237-83a5-4be2-b170-ce9a2ba43bad",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114967,
   "aniId": 111002,
-  "createdAt": "2020-10-12T16:12:41.000Z",
-  "updatedAt": "2021-12-05T16:19:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamoto Kazuyoshi",
+    "Kanazawa Shinnosuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:37.000Z",
+    "updatedAt": "2022-05-15T16:02:36.000Z",
+    "checkedAt": "2022-05-15T16:02:36.000Z",
+    "id": 114967,
+    "type": "manga",
+    "title": "Kunoichi no Ichi! no Ni",
+    "altTitle": [
+      "クノイチノイチ！ノ弐"
+    ],
+    "url": "https://myanimelist.net/manga/114967/Kunoichi_no_Ichi_no_Ni",
+    "image": "https://cdn.myanimelist.net/images/manga/2/225880.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,42 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クノイチノイチ！ノ弐"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanazawa, Shinnosuke"
-    ],
-    "id": 114967,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:30.195Z",
+    "updatedAt": "2022-05-15T19:17:47.000Z",
+    "checkedAt": "2022-05-15T19:17:47.000Z",
+    "id": 111002,
     "type": "manga",
     "title": "Kunoichi no Ichi! no Ni",
-    "url": "https://myanimelist.net/manga/114967/Kunoichi_no_Ichi_no_Ni",
-    "image": "https://cdn.myanimelist.net/images/manga/2/225880.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:37.000Z",
-    "updatedAt": "2021-11-22T08:44:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クノイチノイチ!ノ弐"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinnosuke Kanazawa"
-    ],
-    "id": 111002,
-    "malId": 114967,
-    "type": "manga",
-    "title": "Kunoichi no Ichi! no Ni",
     "url": "https://anilist.co/manga/111002",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111002-3wGqOV8V6mzY.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:13.000Z",
-    "updatedAt": "2021-12-18T06:56:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114967/Kunoichi_no_Ichi_no_Ni"
+    "externalLinks": [],
+    "malId": 114967,
+    "deletedAt": null,
+    "authors": [
+      "Shinnosuke Kanazawa"
+    ]
+  }
 }

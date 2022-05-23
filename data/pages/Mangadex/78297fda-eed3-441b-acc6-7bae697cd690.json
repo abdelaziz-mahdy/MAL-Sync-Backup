@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakata Nobuhiro",
-    "Daichi Banjo"
-  ],
+  "createdAt": "2020-10-12T16:04:05.000Z",
+  "updatedAt": "2021-12-02T18:48:06.000Z",
+  "checkedAt": null,
+  "id": 3602,
   "identifier": "78297fda-eed3-441b-acc6-7bae697cd690",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7200,
   "aniId": 37200,
-  "createdAt": "2020-10-12T16:04:05.000Z",
-  "updatedAt": "2021-12-02T18:48:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakata Nobuhiro",
+    "Daichi Banjo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:13.000Z",
+    "updatedAt": "2021-12-05T16:46:08.000Z",
+    "checkedAt": null,
+    "id": 7200,
+    "type": "manga",
+    "title": "Dan Doh!!",
+    "altTitle": [
+      "Dandoh!!",
+      "ダンドー"
+    ],
+    "url": "https://myanimelist.net/manga/7200/Dan_Doh",
+    "image": "https://cdn.myanimelist.net/images/manga/1/9681.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dandoh!!",
-      "ダンドー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Banjou, Daichi"
-    ],
-    "id": 7200,
-    "type": "manga",
-    "title": "Dan Doh!!",
-    "url": "https://myanimelist.net/manga/7200/Dan_Doh",
-    "image": "https://cdn.myanimelist.net/images/manga/1/9681.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:13.000Z",
-    "updatedAt": "2021-12-05T16:46:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:56.484Z",
+    "updatedAt": "2022-05-13T12:49:56.484Z",
+    "checkedAt": null,
+    "id": 37200,
+    "type": "manga",
+    "title": "DAN DOH!!",
     "altTitle": [
       "DAN DOH!!",
       "Dandoh!!",
       "ダンドー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daichi Banjou",
-      "Nobuhiro Sakata"
-    ],
-    "id": 37200,
-    "malId": 7200,
-    "type": "manga",
-    "title": "DAN DOH!!",
     "url": "https://anilist.co/manga/37200",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37200-d1R2LTeGzOf0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:46.000Z",
-    "updatedAt": "2022-05-04T19:30:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7200/Dan_Doh"
+    "externalLinks": [],
+    "malId": 7200,
+    "deletedAt": null,
+    "authors": [
+      "Daichi Banjou",
+      "Nobuhiro Sakata"
+    ]
+  }
 }

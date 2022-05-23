@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:13.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3564,
   "identifier": "7r8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3470,
   "aniId": 3470,
-  "createdAt": "2020-10-12T15:51:13.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T18:41:29.000Z",
+    "checkedAt": "2022-05-14T18:41:29.000Z",
+    "id": 3470,
+    "type": "anime",
+    "title": "Special A",
+    "altTitle": [
+      "S.A.",
+      "Special A Class",
+      "Special A (S.A)",
+      "スペシャル・エー"
+    ],
+    "url": "https://myanimelist.net/anime/3470/Special_A",
+    "image": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,30 +52,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "S.A.",
-      "Special A Class",
-      "Special A (S.A)",
-      "スペシャル・エー"
-    ],
+    "deletedAt": null,
+    "anidbId": 5584
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T12:50:11.000Z",
+    "checkedAt": "2022-05-15T12:50:11.000Z",
     "id": 3470,
     "type": "anime",
     "title": "Special A",
-    "url": "https://myanimelist.net/anime/3470/Special_A",
-    "image": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 5584,
-    "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2022-04-19T18:31:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スペシャル・エー",
       "S.A.",
       "Special A Class"
     ],
+    "url": "https://anilist.co/anime/3470",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3470-L3BUDBujYi7G.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -68,17 +81,7 @@
         "url": "https://www.hidive.com/tv/special-a"
       }
     ],
-    "id": 3470,
     "malId": 3470,
-    "type": "anime",
-    "title": "Special A",
-    "url": "https://anilist.co/anime/3470",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3470-L3BUDBujYi7G.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:24.000Z",
-    "updatedAt": "2022-02-15T17:18:12.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3470/Special_A"
+  }
 }

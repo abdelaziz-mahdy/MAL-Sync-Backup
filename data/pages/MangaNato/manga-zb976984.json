@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amagi Kei"
-  ],
+  "createdAt": "2021-05-29T13:42:24.000Z",
+  "updatedAt": "2021-11-29T14:36:40.000Z",
+  "checkedAt": null,
+  "id": 73828,
   "identifier": "manga-zb976984",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105405,
   "aniId": 99351,
-  "createdAt": "2021-05-29T13:42:24.000Z",
-  "updatedAt": "2021-11-29T14:36:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amagi Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2022-05-14T21:11:22.000Z",
+    "checkedAt": "2022-05-14T21:11:22.000Z",
+    "id": 105405,
+    "type": "manga",
+    "title": "Assassins Pride",
+    "altTitle": [
+      "アサシンズプライド"
+    ],
+    "url": "https://myanimelist.net/manga/105405/Assassins_Pride",
+    "image": "https://cdn.myanimelist.net/images/manga/1/203025.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +44,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アサシンズプライド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katou, Yoshie",
       "Amagi, Kei"
-    ],
-    "id": 105405,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:05.783Z",
+    "updatedAt": "2022-05-15T20:23:59.000Z",
+    "checkedAt": "2022-05-15T20:23:59.000Z",
+    "id": 99351,
     "type": "manga",
     "title": "Assassins Pride",
-    "url": "https://myanimelist.net/manga/105405/Assassins_Pride",
-    "image": "https://cdn.myanimelist.net/images/manga/1/203025.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2021-11-29T14:06:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アサシンズプライド",
       "Assassin's Pride"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kei Amagi",
-      "Yoshie Katou",
-      "Nino Ninomoto"
-    ],
-    "id": 99351,
-    "malId": 105405,
-    "type": "manga",
-    "title": "Assassins Pride",
     "url": "https://anilist.co/manga/99351",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99351-JRO8biJRl2Xn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:15.000Z",
-    "updatedAt": "2022-02-24T15:17:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105405/Assassins_Pride"
+    "externalLinks": [],
+    "malId": 105405,
+    "deletedAt": null,
+    "authors": [
+      "Kei Amagi",
+      "Yoshie Katou",
+      "Nino Ninomoto"
+    ]
+  }
 }

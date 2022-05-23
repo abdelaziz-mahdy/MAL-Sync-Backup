@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Usami Maki"
-  ],
+  "createdAt": "2020-10-12T16:03:45.000Z",
+  "updatedAt": "2021-12-02T16:17:46.000Z",
+  "checkedAt": null,
+  "id": 2888,
   "identifier": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4602,
   "aniId": 34602,
-  "createdAt": "2020-10-12T16:03:45.000Z",
-  "updatedAt": "2021-12-02T16:17:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Usami Maki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:00.000Z",
+    "updatedAt": "2022-04-28T22:01:55.000Z",
+    "checkedAt": null,
+    "id": 4602,
+    "type": "manga",
+    "title": "Koi*Oto",
+    "altTitle": [
+      "恋＊音"
+    ],
+    "url": "https://myanimelist.net/manga/4602/KoiOto",
+    "image": "https://cdn.myanimelist.net/images/manga/4/83971.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "恋＊音"
-    ],
+    "deletedAt": null,
     "authors": [
       "Usami, Maki"
-    ],
-    "id": 4602,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:54.220Z",
+    "updatedAt": "2022-05-13T12:44:54.220Z",
+    "checkedAt": null,
+    "id": 34602,
     "type": "manga",
     "title": "Koi*Oto",
-    "url": "https://myanimelist.net/manga/4602/KoiOto",
-    "image": "https://cdn.myanimelist.net/images/manga/4/83971.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:00.000Z",
-    "updatedAt": "2022-04-28T22:01:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋＊音",
       "Koi Oto"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maki Usami"
-    ],
-    "id": 34602,
-    "malId": 4602,
-    "type": "manga",
-    "title": "Koi*Oto",
     "url": "https://anilist.co/manga/34602",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4602.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2021-12-17T12:07:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4602/KoiOto"
+    "externalLinks": [],
+    "malId": 4602,
+    "deletedAt": null,
+    "authors": [
+      "Maki Usami"
+    ]
+  }
 }

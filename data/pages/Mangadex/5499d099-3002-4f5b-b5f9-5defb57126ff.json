@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Leiji"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:07.000Z",
+  "checkedAt": null,
+  "id": 3507,
   "identifier": "5499d099-3002-4f5b-b5f9-5defb57126ff",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17224,
   "aniId": 47224,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Leiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:26.000Z",
+    "updatedAt": "2021-11-21T14:13:38.000Z",
+    "checkedAt": null,
+    "id": 17224,
+    "type": "manga",
+    "title": "Gun Frontier",
+    "altTitle": [
+      "ガンフロンティア"
+    ],
+    "url": "https://myanimelist.net/manga/17224/Gun_Frontier",
+    "image": "https://cdn.myanimelist.net/images/manga/3/76729.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ガンフロンティア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Leiji"
-    ],
-    "id": 17224,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:23.427Z",
+    "updatedAt": "2022-05-13T12:54:23.427Z",
+    "checkedAt": null,
+    "id": 47224,
     "type": "manga",
     "title": "Gun Frontier",
-    "url": "https://myanimelist.net/manga/17224/Gun_Frontier",
-    "image": "https://cdn.myanimelist.net/images/manga/3/76729.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:26.000Z",
-    "updatedAt": "2021-11-21T14:13:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ガンフロンティア"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Leiji Matsumoto"
-    ],
-    "id": 47224,
-    "malId": 17224,
-    "type": "manga",
-    "title": "Gun Frontier",
     "url": "https://anilist.co/manga/47224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47224-UCN030rFe086.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:05.000Z",
-    "updatedAt": "2021-12-17T16:17:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17224/Gun_Frontier"
+    "externalLinks": [],
+    "malId": 17224,
+    "deletedAt": null,
+    "authors": [
+      "Leiji Matsumoto"
+    ]
+  }
 }

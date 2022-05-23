@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:17:07.000Z",
+  "updatedAt": "2021-12-07T05:18:16.000Z",
+  "checkedAt": null,
+  "id": 30513,
   "identifier": "55e57f87-bf70-4a15-97f1-2a5ad884e027",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98072,
   "aniId": 111439,
-  "createdAt": "2020-10-12T16:17:07.000Z",
-  "updatedAt": "2021-12-07T05:18:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:29.000Z",
+    "updatedAt": "2021-11-16T07:27:32.000Z",
+    "checkedAt": null,
+    "id": 98072,
+    "type": "manga",
+    "title": "Microid S",
+    "altTitle": [
+      "ミクロイドS"
+    ],
+    "url": "https://myanimelist.net/manga/98072/Microid_S",
+    "image": "https://cdn.myanimelist.net/images/manga/2/230281.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ミクロイドS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 98072,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:50.068Z",
+    "updatedAt": "2022-05-13T12:49:50.068Z",
+    "checkedAt": null,
+    "id": 111439,
     "type": "manga",
     "title": "Microid S",
-    "url": "https://myanimelist.net/manga/98072/Microid_S",
-    "image": "https://cdn.myanimelist.net/images/manga/2/230281.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:29.000Z",
-    "updatedAt": "2021-11-16T07:27:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミクロイドS",
       "Michroid S"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka"
-    ],
-    "id": 111439,
-    "malId": 98072,
-    "type": "manga",
-    "title": "Microid S",
     "url": "https://anilist.co/manga/111439",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111439-oSItLNV5Wgnl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:10.000Z",
-    "updatedAt": "2021-12-18T07:20:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98072/Microid_S"
+    "externalLinks": [],
+    "malId": 98072,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka"
+    ]
+  }
 }

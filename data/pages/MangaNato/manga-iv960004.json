@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukui Takumi"
-  ],
+  "createdAt": "2021-09-30T18:01:52.000Z",
+  "updatedAt": "2022-03-30T19:06:30.000Z",
+  "checkedAt": null,
+  "id": 87863,
   "identifier": "manga-iv960004",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20208,
   "aniId": 50208,
-  "createdAt": "2021-09-30T18:01:52.000Z",
-  "updatedAt": "2022-03-30T19:06:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukui Takumi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:48.000Z",
+    "updatedAt": "2022-05-21T04:24:16.000Z",
+    "checkedAt": "2022-05-21T04:24:16.000Z",
+    "id": 20208,
+    "type": "manga",
+    "title": "Cerberus",
     "altTitle": [
       "Ceroberos",
       "Kerberos",
@@ -32,21 +33,29 @@
       "Zerberus",
       "ケルベロス"
     ],
-    "authors": [
-      "Fukui, Takumi"
-    ],
-    "id": 20208,
-    "type": "manga",
-    "title": "Cerberus",
     "url": "https://myanimelist.net/manga/20208/Cerberus",
     "image": "https://cdn.myanimelist.net/images/manga/3/117661.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:48.000Z",
-    "updatedAt": "2021-12-10T00:04:30.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%99%E3%83%AD%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fukui, Takumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:58.211Z",
+    "updatedAt": "2022-05-21T04:24:15.000Z",
+    "checkedAt": "2022-05-21T04:24:15.000Z",
+    "id": 50208,
+    "type": "manga",
+    "title": "Cerberus",
     "altTitle": [
       "ケルベロス",
       "Ceroberos",
@@ -54,21 +63,15 @@
       "Keruberosu",
       "Zerberus"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takumi Fukui"
-    ],
-    "id": 50208,
-    "malId": 20208,
-    "type": "manga",
-    "title": "Cerberus",
     "url": "https://anilist.co/manga/50208",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20208.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:28.000Z",
-    "updatedAt": "2021-12-17T17:13:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20208/Cerberus"
+    "externalLinks": [],
+    "malId": 20208,
+    "deletedAt": null,
+    "authors": [
+      "Takumi Fukui"
+    ]
+  }
 }

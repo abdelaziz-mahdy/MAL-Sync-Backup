@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shibasaki Shouji",
-    "Shibasaki Syouzi"
-  ],
+  "createdAt": "2020-10-12T16:12:51.000Z",
+  "updatedAt": "2021-12-05T17:22:59.000Z",
+  "checkedAt": null,
+  "id": 21658,
   "identifier": "4f8bbf96-a9f1-456e-afd4-0dd99b185319",
   "type": "manga",
   "page": "Mangadex",
@@ -12,17 +12,22 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104464,
   "aniId": 86971,
-  "createdAt": "2020-10-12T16:12:51.000Z",
-  "updatedAt": "2021-12-05T17:22:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shibasaki Shouji",
+    "Shibasaki Syouzi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2022-05-20T22:58:23.000Z",
+    "checkedAt": "2022-05-20T22:58:23.000Z",
+    "id": 104464,
+    "type": "manga",
+    "title": "Tokubetsu na Mainichi",
     "altTitle": [
-      "Special daily",
       "Anata Dakara",
       "Zutto Soba ni",
       "Shitai Koto",
@@ -32,23 +37,27 @@
       "Korekara no Futari",
       "A Warm Room",
       "Because It's You",
+      "Special daily",
       "とくべつな毎日"
     ],
-    "authors": [
-      "Shibasaki, Shoji"
-    ],
-    "id": 104464,
-    "type": "manga",
-    "title": "Tokubetsu na Mainichi",
     "url": "https://myanimelist.net/manga/104464/Tokubetsu_na_Mainichi",
     "image": "https://cdn.myanimelist.net/images/manga/1/191466.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2021-11-18T11:15:16.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shibasaki, Shoji"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:26.869Z",
+    "updatedAt": "2022-05-20T22:58:21.000Z",
+    "checkedAt": "2022-05-20T22:58:21.000Z",
+    "id": 86971,
+    "type": "manga",
+    "title": "Tokubetsu na Mainichi",
     "altTitle": [
       "Special Days",
       "とくべつな毎日",
@@ -63,21 +72,15 @@
       "A Warm Room",
       "Because It's You"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoji Shibasaki"
-    ],
-    "id": 86971,
-    "malId": 104464,
-    "type": "manga",
-    "title": "Tokubetsu na Mainichi",
     "url": "https://anilist.co/manga/86971",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86971-H4LtmdCNlQVj.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2021-12-17T23:01:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104464/Tokubetsu_na_Mainichi"
+    "externalLinks": [],
+    "malId": 104464,
+    "deletedAt": null,
+    "authors": [
+      "Shoji Shibasaki"
+    ]
+  }
 }

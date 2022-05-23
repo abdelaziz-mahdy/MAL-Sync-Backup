@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Team Headline"
-  ],
+  "createdAt": "2021-03-18T17:04:42.000Z",
+  "updatedAt": "2022-04-28T15:02:34.000Z",
+  "checkedAt": null,
+  "id": 66047,
   "identifier": "9b7c6a16-5759-4598-99aa-0ef01f8c2e74",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 135210,
-  "createdAt": "2021-03-18T17:04:42.000Z",
-  "updatedAt": "2022-04-28T15:02:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Team Headline"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:51.774Z",
+    "updatedAt": "2022-05-16T01:32:04.000Z",
+    "checkedAt": "2022-05-16T01:32:04.000Z",
+    "id": 135210,
+    "type": "manga",
+    "title": "Majo no Kekkon",
     "altTitle": [
       "魔女ノ結婚",
       "The Witch's Marriage"
     ],
-    "externalLinks": [],
-    "authors": [
-      "studio HEADLINE"
-    ],
-    "id": 135210,
-    "malId": 139755,
-    "type": "manga",
-    "title": "Majo no Kekkon",
     "url": "https://anilist.co/manga/135210",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135210-Py9J6wSyrSge.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-19T21:20:51.000Z",
-    "updatedAt": "2022-04-19T08:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 139755,
+    "deletedAt": null,
+    "authors": [
+      "studio HEADLINE"
+    ]
+  }
 }

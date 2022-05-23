@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:41.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7942,
   "identifier": "pj09",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1172,
   "aniId": 1172,
-  "createdAt": "2020-10-12T15:54:41.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:13.000Z",
+    "updatedAt": "2022-05-14T16:52:35.000Z",
+    "checkedAt": "2022-05-14T16:52:35.000Z",
+    "id": 1172,
+    "type": "anime",
+    "title": "Slayers Try",
+    "altTitle": [
+      "スレイヤーズ TRY"
+    ],
+    "url": "https://myanimelist.net/anime/1172/Slayers_Try",
+    "image": "https://cdn.myanimelist.net/images/anime/10/50875.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,47 +45,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スレイヤーズ TRY"
-    ],
+    "deletedAt": null,
+    "anidbId": 364
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:57.000Z",
+    "updatedAt": "2022-05-15T13:02:35.000Z",
+    "checkedAt": "2022-05-15T13:02:35.000Z",
     "id": 1172,
     "type": "anime",
-    "title": "Slayers Try",
-    "url": "https://myanimelist.net/anime/1172/Slayers_Try",
-    "image": "https://cdn.myanimelist.net/images/anime/10/50875.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 364,
-    "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2022-05-02T22:02:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Slayers TRY",
     "altTitle": [
       "The Slayers Try",
       "スレイヤーズ TRY"
     ],
-    "externalLinks": [
-      {
-        "site": "Funimation",
-        "url": "http://www.funimation.com/shows/the-slayers/"
-      },
-      {
-        "site": "Hulu",
-        "url": "http://www.hulu.com/slayers-try"
-      }
-    ],
-    "id": 1172,
-    "malId": 1172,
-    "type": "anime",
-    "title": "Slayers TRY",
     "url": "https://anilist.co/anime/1172",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1172-lNafo4vTzqho.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:57.000Z",
-    "updatedAt": "2021-12-17T09:19:05.000Z",
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/slayers-try"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/the-slayers"
+      }
+    ],
+    "malId": 1172,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1172/Slayers_Try"
+  }
 }

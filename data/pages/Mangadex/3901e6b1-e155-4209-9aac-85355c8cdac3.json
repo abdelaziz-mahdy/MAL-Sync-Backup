@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Satou Shouji"
-  ],
+  "createdAt": "2020-10-12T16:06:13.000Z",
+  "updatedAt": "2021-12-03T18:19:20.000Z",
+  "checkedAt": null,
+  "id": 8023,
   "identifier": "3901e6b1-e155-4209-9aac-85355c8cdac3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49083,
   "aniId": 79083,
-  "createdAt": "2020-10-12T16:06:13.000Z",
-  "updatedAt": "2021-12-03T18:19:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Shouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:32.000Z",
+    "updatedAt": "2021-11-07T16:49:39.000Z",
+    "checkedAt": null,
+    "id": 49083,
+    "type": "manga",
+    "title": "Unreal Sunshine",
+    "altTitle": [
+      "アンリアル・サンシャイン"
+    ],
+    "url": "https://myanimelist.net/manga/49083/Unreal_Sunshine",
+    "image": "https://cdn.myanimelist.net/images/manga/2/86341.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アンリアル・サンシャイン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Satou, Shouji"
-    ],
-    "id": 49083,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:46.186Z",
+    "updatedAt": "2022-05-13T13:04:46.186Z",
+    "checkedAt": null,
+    "id": 79083,
     "type": "manga",
     "title": "Unreal Sunshine",
-    "url": "https://myanimelist.net/manga/49083/Unreal_Sunshine",
-    "image": "https://cdn.myanimelist.net/images/manga/2/86341.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:32.000Z",
-    "updatedAt": "2021-11-07T16:49:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アンリアル・サンシャイン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouji Satou"
-    ],
-    "id": 79083,
-    "malId": 49083,
-    "type": "manga",
-    "title": "Unreal Sunshine",
     "url": "https://anilist.co/manga/79083",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49083.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:40.000Z",
-    "updatedAt": "2021-12-17T21:20:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49083/Unreal_Sunshine"
+    "externalLinks": [],
+    "malId": 49083,
+    "deletedAt": null,
+    "authors": [
+      "Shouji Satou"
+    ]
+  }
 }

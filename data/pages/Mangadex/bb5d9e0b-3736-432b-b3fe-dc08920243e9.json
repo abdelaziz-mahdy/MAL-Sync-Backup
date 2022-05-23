@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takeoka Hazuki",
-    "Tiv"
-  ],
+  "createdAt": "2020-10-12T16:05:51.000Z",
+  "updatedAt": "2021-12-03T15:49:59.000Z",
+  "checkedAt": null,
+  "id": 7250,
   "identifier": "bb5d9e0b-3736-432b-b3fe-dc08920243e9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 46716,
   "aniId": 76716,
-  "createdAt": "2020-10-12T16:05:51.000Z",
-  "updatedAt": "2021-12-03T15:49:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeoka Hazuki",
+    "Tiv"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:28.000Z",
+    "updatedAt": "2022-05-14T10:05:18.000Z",
+    "checkedAt": "2022-05-14T10:05:18.000Z",
+    "id": 46716,
+    "type": "manga",
+    "title": "Masamune-kun no Revenge",
+    "altTitle": [
+      "Masamune-kun's Revenge",
+      "政宗くんのリベンジ"
+    ],
+    "url": "https://myanimelist.net/manga/46716/Masamune-kun_no_Revenge",
+    "image": "https://cdn.myanimelist.net/images/manga/2/210326.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Masamune-kun's Revenge",
-      "政宗くんのリベンジ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tiv",
       "Takeoka, Hazuki"
-    ],
-    "id": 46716,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:02.932Z",
+    "updatedAt": "2022-05-15T19:51:23.000Z",
+    "checkedAt": "2022-05-15T19:51:23.000Z",
+    "id": 76716,
     "type": "manga",
     "title": "Masamune-kun no Revenge",
-    "url": "https://myanimelist.net/manga/46716/Masamune-kun_no_Revenge",
-    "image": "https://cdn.myanimelist.net/images/manga/2/210326.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:28.000Z",
-    "updatedAt": "2022-04-10T06:00:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Masamune-kun’s Revenge",
       "政宗くんのリベンジ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tiv",
-      "Hazuki Takeoka"
-    ],
-    "id": 76716,
-    "malId": 46716,
-    "type": "manga",
-    "title": "Masamune-kun no Revenge",
     "url": "https://anilist.co/manga/76716",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx76716-wuf4DCyBf9aT.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:30.000Z",
-    "updatedAt": "2021-12-17T14:17:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/46716/Masamune-kun_no_Revenge"
+    "externalLinks": [],
+    "malId": 46716,
+    "deletedAt": null,
+    "authors": [
+      "Tiv",
+      "Hazuki Takeoka"
+    ]
+  }
 }

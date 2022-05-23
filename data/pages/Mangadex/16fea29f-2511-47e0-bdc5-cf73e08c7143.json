@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Amemiya Yuki",
-    "Ichihara Yukino"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:26.000Z",
+  "checkedAt": null,
+  "id": 3382,
   "identifier": "16fea29f-2511-47e0-bdc5-cf73e08c7143",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1349,
   "aniId": 31349,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amemiya Yuki",
+    "Ichihara Yukino"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-05-14T10:11:02.000Z",
+    "checkedAt": "2022-05-14T10:11:02.000Z",
+    "id": 1349,
+    "type": "manga",
+    "title": "07-Ghost",
+    "altTitle": [
+      "7 Ghosts",
+      "Seven Ghosts",
+      "07-Ghost",
+      "07-GHOST"
+    ],
+    "url": "https://myanimelist.net/manga/1349/07-Ghost",
+    "image": "https://cdn.myanimelist.net/images/manga/2/21417.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,28 +44,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "7 Ghosts",
-      "Seven Ghosts",
-      "07-Ghost",
-      "07-GHOST"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amemiya, Yuki",
       "Ichihara, Yukino"
-    ],
-    "id": 1349,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.275Z",
+    "updatedAt": "2022-05-16T22:09:56.000Z",
+    "checkedAt": "2022-05-16T22:09:56.000Z",
+    "id": 31349,
     "type": "manga",
     "title": "07-Ghost",
-    "url": "https://myanimelist.net/manga/1349/07-Ghost",
-    "image": "https://cdn.myanimelist.net/images/manga/2/21417.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-03-16T00:03:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "07-Ghost",
       "セブンゴースト",
@@ -57,12 +66,13 @@
       "the seven ghosts",
       "セブン＝ゴースト"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/07-ghost"
-      }
-    ],
+    "url": "https://anilist.co/manga/31349",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31349-bZZeeBYXcqL1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1349,
+    "deletedAt": null,
     "authors": [
       "Yuki Amemiya",
       "Yukino Ichihara",
@@ -70,18 +80,6 @@
       "Karen Hayashida",
       "Fawn Lau",
       "Burkhard Höfler"
-    ],
-    "id": 31349,
-    "malId": 1349,
-    "type": "manga",
-    "title": "07-Ghost",
-    "url": "https://anilist.co/manga/31349",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31349-bZZeeBYXcqL1.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:43.000Z",
-    "updatedAt": "2021-12-17T10:05:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1349/07-Ghost"
+    ]
+  }
 }

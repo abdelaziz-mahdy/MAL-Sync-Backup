@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:35.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2775,
   "identifier": "5v0",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 527,
   "aniId": 527,
-  "createdAt": "2020-10-12T15:50:35.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:05.000Z",
+    "updatedAt": "2022-05-13T21:32:13.000Z",
+    "checkedAt": "2022-05-13T21:32:13.000Z",
+    "id": 527,
+    "type": "anime",
+    "title": "Pokemon",
+    "altTitle": [
+      "Pocket Monsters",
+      "Indigo League",
+      "Adventures on the Orange Islands",
+      "The Johto Journeys",
+      "Johto League Champions",
+      "Master Quest",
+      "Pokémon",
+      "ポケットモンスター"
+    ],
+    "url": "https://myanimelist.net/anime/527/Pokemon",
+    "image": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,29 +61,16 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Pocket Monsters",
-      "Indigo League",
-      "Adventures on the Orange Islands",
-      "The Johto Journeys",
-      "Johto League Champions",
-      "Master Quest",
-      "Pokémon",
-      "ポケットモンスター"
-    ],
+    "deletedAt": null,
+    "anidbId": 230
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:46.000Z",
+    "updatedAt": "2022-05-15T10:01:59.000Z",
+    "checkedAt": "2022-05-15T10:01:59.000Z",
     "id": 527,
     "type": "anime",
-    "title": "Pokemon",
-    "url": "https://myanimelist.net/anime/527/Pokemon",
-    "image": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 230,
-    "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2022-04-16T08:02:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Pocket Monsters",
     "altTitle": [
       "Pokémon",
       "ポケットモンスター",
@@ -76,23 +85,17 @@
       "Pokémon Serien: Begynnelsen",
       "פוקימון"
     ],
+    "url": "https://anilist.co/anime/527",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-cFxpkJI4026c.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/70297439"
       }
     ],
-    "id": 527,
     "malId": 527,
-    "type": "anime",
-    "title": "Pocket Monsters",
-    "url": "https://anilist.co/anime/527",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-cFxpkJI4026c.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:46.000Z",
-    "updatedAt": "2021-12-17T08:29:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/527/Pokemon"
+  }
 }

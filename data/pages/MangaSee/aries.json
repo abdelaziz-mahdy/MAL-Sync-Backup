@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "FUYUKI Rurika"
-  ],
+  "createdAt": "2021-10-16T08:28:49.000Z",
+  "updatedAt": "2022-04-16T09:00:26.000Z",
+  "checkedAt": null,
+  "id": 88875,
   "identifier": "aries",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11559,
   "aniId": 41559,
-  "createdAt": "2021-10-16T08:28:49.000Z",
-  "updatedAt": "2022-04-16T09:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "FUYUKI Rurika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:34.000Z",
+    "updatedAt": "2022-03-23T16:59:06.000Z",
+    "checkedAt": null,
+    "id": 11559,
+    "type": "manga",
+    "title": "Aries",
+    "altTitle": [
+      "アリーズ"
+    ],
+    "url": "https://myanimelist.net/manga/11559/Aries",
+    "image": "https://cdn.myanimelist.net/images/manga/4/59267.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アリーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fuyuki, Rurika"
-    ],
-    "id": 11559,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:00.428Z",
+    "updatedAt": "2022-05-13T12:51:00.428Z",
+    "checkedAt": null,
+    "id": 41559,
     "type": "manga",
     "title": "Aries",
-    "url": "https://myanimelist.net/manga/11559/Aries",
-    "image": "https://cdn.myanimelist.net/images/manga/4/59267.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:34.000Z",
-    "updatedAt": "2022-03-23T16:59:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アリーズ",
       "アリーズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rurika Fuyuki"
-    ],
-    "id": 41559,
-    "malId": 11559,
-    "type": "manga",
-    "title": "Aries",
     "url": "https://anilist.co/manga/41559",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41559-UIJ2DE4ejkPP.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:11.000Z",
-    "updatedAt": "2022-05-02T23:30:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11559/Aries"
+    "externalLinks": [],
+    "malId": 11559,
+    "deletedAt": null,
+    "authors": [
+      "Rurika Fuyuki"
+    ]
+  }
 }

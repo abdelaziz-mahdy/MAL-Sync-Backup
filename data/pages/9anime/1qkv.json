@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:17.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1081,
   "identifier": "1qkv",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32228,
   "aniId": 21513,
-  "createdAt": "2020-10-12T15:49:17.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T19:29:29.000Z",
+    "checkedAt": "2022-05-14T19:29:29.000Z",
+    "id": 32228,
+    "type": "anime",
+    "title": "Teekyuu 7",
+    "altTitle": [
+      "Teekyu 7",
+      "てーきゅう 7期"
+    ],
+    "url": "https://myanimelist.net/anime/32228/Teekyuu_7",
+    "image": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-249472"
       }
     ],
-    "altTitle": [
-      "Teekyu 7",
-      "てーきゅう 7期"
-    ],
-    "id": 32228,
+    "deletedAt": null,
+    "anidbId": 10820
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:00.000Z",
+    "updatedAt": "2022-05-15T13:07:35.000Z",
+    "checkedAt": "2022-05-15T13:07:35.000Z",
+    "id": 21513,
     "type": "anime",
     "title": "Teekyuu 7",
-    "url": "https://myanimelist.net/anime/32228/Teekyuu_7",
-    "image": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10820,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-05-03T05:07:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Teekyuu 7",
       "てーきゅう7"
     ],
+    "url": "https://anilist.co/anime/21513",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21513-QrofOTgTEK0b.png",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/teekyu"
       }
     ],
-    "id": 21513,
     "malId": 32228,
-    "type": "anime",
-    "title": "Teekyuu 7",
-    "url": "https://anilist.co/anime/21513",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21513-QrofOTgTEK0b.png",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:00.000Z",
-    "updatedAt": "2021-12-17T15:18:54.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32228/Teekyuu_7"
+  }
 }

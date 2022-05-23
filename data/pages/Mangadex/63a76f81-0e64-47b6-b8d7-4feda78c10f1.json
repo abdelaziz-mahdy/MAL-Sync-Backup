@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Mochizuki Beni",
-    "Kajiyama Mika"
-  ],
+  "createdAt": "2020-10-12T16:15:55.000Z",
+  "updatedAt": "2021-12-06T18:17:42.000Z",
+  "checkedAt": null,
+  "id": 28011,
   "identifier": "63a76f81-0e64-47b6-b8d7-4feda78c10f1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120903,
   "aniId": 110128,
-  "createdAt": "2020-10-12T16:15:55.000Z",
-  "updatedAt": "2021-12-06T18:17:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mochizuki Beni",
+    "Kajiyama Mika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-18T10:22:20.000Z",
+    "checkedAt": "2022-05-18T10:22:20.000Z",
+    "id": 120903,
+    "type": "manga",
+    "title": "Reijou wa Mattari wo Goshomou.",
+    "altTitle": [
+      "Milady Just Wants to Relax",
+      "My Lady Just Wants to Relax",
+      "令嬢はまったりをご所望。"
+    ],
+    "url": "https://myanimelist.net/manga/120903/Reijou_wa_Mattari_wo_Goshomou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226210.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Milady Just Wants to Relax",
-      "令嬢はまったりをご所望。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kajiyama, Mika",
       "Mitsuki, Beni"
-    ],
-    "id": 120903,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:28.652Z",
+    "updatedAt": "2022-05-18T10:22:19.000Z",
+    "checkedAt": "2022-05-18T10:22:19.000Z",
+    "id": 110128,
     "type": "manga",
     "title": "Reijou wa Mattari wo Goshomou.",
-    "url": "https://myanimelist.net/manga/120903/Reijou_wa_Mattari_wo_Goshomou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226210.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2022-04-19T05:34:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "My Lady Just Wants to Relax",
       "令嬢はまったりをご所望",
       "Milady Just Wants To Relax"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mika Kajiyama",
-      "Beni Mitsuki",
-      "RAHWIA"
-    ],
-    "id": 110128,
-    "malId": 120903,
-    "type": "manga",
-    "title": "Reijou wa Mattari wo Goshomou.",
     "url": "https://anilist.co/manga/110128",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110128-yxa4AF4qUsYn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2021-12-26T05:57:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120903/Reijou_wa_Mattari_wo_Goshomou"
+    "externalLinks": [],
+    "malId": 120903,
+    "deletedAt": null,
+    "authors": [
+      "Mika Kajiyama",
+      "Beni Mitsuki",
+      "RAHWIA"
+    ]
+  }
 }

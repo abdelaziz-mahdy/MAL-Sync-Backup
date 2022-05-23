@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azuma Tama"
-  ],
+  "createdAt": "2020-10-12T16:17:23.000Z",
+  "updatedAt": "2022-05-18T16:30:16.000Z",
+  "checkedAt": "2022-05-18T16:30:16.000Z",
+  "id": 31022,
   "identifier": "1cebf72e-d402-4ac3-9341-dd9d1d5f5147",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124780,
   "aniId": 112342,
-  "createdAt": "2020-10-12T16:17:23.000Z",
-  "updatedAt": "2022-01-12T12:41:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Azuma Tama"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://ganma.jp/koicas"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:14.000Z",
+    "updatedAt": "2022-05-14T23:54:23.000Z",
+    "checkedAt": "2022-05-14T23:54:23.000Z",
+    "id": 124780,
+    "type": "manga",
+    "title": "Koishita node Cast shitemita",
     "altTitle": [
       "Koishita node Haishin shitemita",
       "Koicas",
@@ -32,41 +33,43 @@
       "I streaming now! because I fell in love",
       "恋したので配信〈キャス〉してみた"
     ],
-    "authors": [
-      "Azuma, Tama"
-    ],
-    "id": 124780,
-    "type": "manga",
-    "title": "Koishita node Cast shitemita",
     "url": "https://myanimelist.net/manga/124780/Koishita_node_Cast_shitemita",
     "image": "https://cdn.myanimelist.net/images/manga/2/228253.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:14.000Z",
-    "updatedAt": "2022-05-01T03:09:06.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ganma.jp/koicas"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Azuma, Tama"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:56.734Z",
+    "updatedAt": "2022-05-17T05:10:08.000Z",
+    "checkedAt": "2022-05-17T05:10:08.000Z",
+    "id": 112342,
+    "type": "manga",
+    "title": "Koi Shita no de Haishin Shite Mita",
     "altTitle": [
       "恋したので配信してみた",
       "I Fell in Love, so I Tried Livestreaming.",
       "KoiCas"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tama Azuma"
-    ],
-    "id": 112342,
-    "malId": 124780,
-    "type": "manga",
-    "title": "Koi Shita no de Haishin Shite Mita",
     "url": "https://anilist.co/manga/112342",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112342-58ZhX9HoQC0p.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2021-12-18T07:27:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124780/Koishita_node_Cast_shitemita"
+    "externalLinks": [],
+    "malId": 124780,
+    "deletedAt": null,
+    "authors": [
+      "Tama Azuma"
+    ]
+  }
 }

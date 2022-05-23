@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kanitan",
-    "Tone Koken"
-  ],
+  "createdAt": "2020-10-12T16:14:51.000Z",
+  "updatedAt": "2021-12-06T08:47:38.000Z",
+  "checkedAt": null,
+  "id": 25788,
   "identifier": "96e1ddf1-55f8-4089-ac9c-92fd6837affc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117780,
   "aniId": 107315,
-  "createdAt": "2020-10-12T16:14:51.000Z",
-  "updatedAt": "2021-12-06T08:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanitan",
+    "Tone Koken"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:51.000Z",
+    "updatedAt": "2022-05-17T00:23:31.000Z",
+    "checkedAt": "2022-05-17T00:23:31.000Z",
+    "id": 117780,
+    "type": "manga",
+    "title": "Super Cub",
+    "altTitle": [
+      "スーパーカブ"
+    ],
+    "url": "https://myanimelist.net/manga/117780/Super_Cub",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224755.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スーパーカブ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanitan",
       "Tone Kouken"
-    ],
-    "id": 117780,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:45.691Z",
+    "updatedAt": "2022-05-17T00:23:30.000Z",
+    "checkedAt": "2022-05-17T00:23:30.000Z",
+    "id": 107315,
     "type": "manga",
     "title": "Super Cub",
-    "url": "https://myanimelist.net/manga/117780/Super_Cub",
-    "image": "https://cdn.myanimelist.net/images/manga/3/224755.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:51.000Z",
-    "updatedAt": "2022-01-15T15:12:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スーパーカブ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tone Koken",
-      "Kanitan",
-      "Hiro"
-    ],
-    "id": 107315,
-    "malId": 117780,
-    "type": "manga",
-    "title": "Super Cub",
     "url": "https://anilist.co/manga/107315",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107315-rygU8yjTDaYQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:58.000Z",
-    "updatedAt": "2021-12-18T05:52:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117780/Super_Cub"
+    "externalLinks": [],
+    "malId": 117780,
+    "deletedAt": null,
+    "authors": [
+      "Tone Koken",
+      "Kanitan",
+      "Hiro"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sphere",
-    "Mikaze Takashi"
-  ],
+  "createdAt": "2020-10-12T16:02:29.000Z",
+  "updatedAt": "2021-12-02T07:17:38.000Z",
+  "checkedAt": null,
+  "id": 234,
   "identifier": "26010c8a-9a73-41f6-be0b-63d3e2e211e4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15821,
   "aniId": 45821,
-  "createdAt": "2020-10-12T16:02:29.000Z",
-  "updatedAt": "2021-12-02T07:17:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sphere",
+    "Mikaze Takashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:14.000Z",
+    "updatedAt": "2022-05-16T01:03:24.000Z",
+    "checkedAt": "2022-05-16T01:03:24.000Z",
+    "id": 15821,
+    "type": "manga",
+    "title": "Yosuga no Sora",
+    "altTitle": [
+      "ヨスガノソラ"
+    ],
+    "url": "https://myanimelist.net/manga/15821/Yosuga_no_Sora",
+    "image": "https://cdn.myanimelist.net/images/manga/2/33932.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヨスガノソラ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mikaze, Takashi"
-    ],
-    "id": 15821,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:24.242Z",
+    "updatedAt": "2022-05-16T01:03:23.000Z",
+    "checkedAt": "2022-05-16T01:03:23.000Z",
+    "id": 45821,
     "type": "manga",
     "title": "Yosuga no Sora",
-    "url": "https://myanimelist.net/manga/15821/Yosuga_no_Sora",
-    "image": "https://cdn.myanimelist.net/images/manga/2/33932.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:14.000Z",
-    "updatedAt": "2022-03-16T14:20:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヨスガノソラ",
       "Yosuga no Sora: In Solitude, Where We Are Least Alone."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takashi Mikaze"
-    ],
-    "id": 45821,
-    "malId": 15821,
-    "type": "manga",
-    "title": "Yosuga no Sora",
     "url": "https://anilist.co/manga/45821",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45821-DW6GqkE9mbmB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:49.000Z",
-    "updatedAt": "2021-12-17T16:04:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15821/Yosuga_no_Sora"
+    "externalLinks": [],
+    "malId": 15821,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Mikaze"
+    ]
+  }
 }

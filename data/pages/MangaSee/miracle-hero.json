@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Jeongha"
-  ],
+  "createdAt": "2022-02-14T21:47:51.000Z",
+  "updatedAt": "2022-02-15T18:16:50.000Z",
+  "checkedAt": null,
+  "id": 96265,
   "identifier": "miracle-hero",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 118822,
   "aniId": 123601,
-  "createdAt": "2022-02-14T21:47:51.000Z",
-  "updatedAt": "2022-02-15T18:16:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jeongha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2022-05-19T22:40:15.000Z",
+    "checkedAt": "2022-05-19T22:40:15.000Z",
+    "id": 118822,
+    "type": "manga",
+    "title": "Miracle! Hero-nim",
+    "altTitle": [
+      "Miracle! Yongsa-nim",
+      "미라클! 용사님"
+    ],
+    "url": "https://myanimelist.net/manga/118822/Miracle_Hero-nim",
+    "image": "https://cdn.myanimelist.net/images/manga/3/228446.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Miracle! Yongsa-nim",
-      "미라클! 용사님"
-    ],
+    "deletedAt": null,
     "authors": [
       "Jeongha"
-    ],
-    "id": 118822,
-    "type": "manga",
-    "title": "Miracle! Hero-nim",
-    "url": "https://myanimelist.net/manga/118822/Miracle_Hero-nim",
-    "image": "https://cdn.myanimelist.net/images/manga/3/228446.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:54.000Z",
-    "updatedAt": "2022-02-05T21:07:05.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:29.952Z",
+    "updatedAt": "2022-05-19T22:40:14.000Z",
+    "checkedAt": "2022-05-19T22:40:14.000Z",
+    "id": 123601,
+    "type": "manga",
+    "title": "Miracle! Yongsa-nim",
     "altTitle": [
       "미라클! 용사님",
       "Miracle! Hero-nim"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jeong-Ha"
-    ],
-    "id": 123601,
-    "malId": 118822,
-    "type": "manga",
-    "title": "Miracle! Yongsa-nim",
     "url": "https://anilist.co/manga/123601",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123601-bbnMTGUgomzS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:05.000Z",
-    "updatedAt": "2021-12-18T10:52:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118822/Miracle_Hero-nim"
+    "externalLinks": [],
+    "malId": 118822,
+    "deletedAt": null,
+    "authors": [
+      "Jeong-Ha"
+    ]
+  }
 }

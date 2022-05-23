@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaneko Atsushi"
-  ],
+  "createdAt": "2022-01-10T05:48:09.000Z",
+  "updatedAt": "2022-01-10T06:17:58.000Z",
+  "checkedAt": null,
+  "id": 94459,
   "identifier": "manga-kd955038",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 89190,
   "aniId": 86993,
-  "createdAt": "2022-01-10T05:48:09.000Z",
-  "updatedAt": "2022-01-10T06:17:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaneko Atsushi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:59.000Z",
+    "updatedAt": "2022-05-19T13:35:02.000Z",
+    "checkedAt": "2022-05-19T13:35:02.000Z",
+    "id": 89190,
+    "type": "manga",
+    "title": "Deathco",
+    "altTitle": [
+      "Desco",
+      "デスコ"
+    ],
+    "url": "https://myanimelist.net/manga/89190/Deathco",
+    "image": "https://cdn.myanimelist.net/images/manga/1/156694.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Desco",
-      "デスコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaneko, Atsushi"
-    ],
-    "id": 89190,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:26.875Z",
+    "updatedAt": "2022-05-19T13:35:00.000Z",
+    "checkedAt": "2022-05-19T13:35:00.000Z",
+    "id": 86993,
     "type": "manga",
     "title": "Deathco",
-    "url": "https://myanimelist.net/manga/89190/Deathco",
-    "image": "https://cdn.myanimelist.net/images/manga/1/156694.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:59.000Z",
-    "updatedAt": "2022-01-08T01:18:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "デスコ",
       "Desco",
       "Desuco"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Atsushi Kaneko"
-    ],
-    "id": 86993,
-    "malId": 89190,
-    "type": "manga",
-    "title": "Deathco",
     "url": "https://anilist.co/manga/86993",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86993-AEZ5D7WgYkW0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-04-07T00:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/89190/Deathco"
+    "externalLinks": [],
+    "malId": 89190,
+    "deletedAt": null,
+    "authors": [
+      "Atsushi Kaneko"
+    ]
+  }
 }

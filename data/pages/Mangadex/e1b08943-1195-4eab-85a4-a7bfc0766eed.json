@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akagi Shun"
-  ],
+  "createdAt": "2020-12-26T13:26:26.000Z",
+  "updatedAt": "2021-12-08T11:36:59.000Z",
+  "checkedAt": null,
+  "id": 55858,
   "identifier": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 132589,
   "aniId": 128150,
-  "createdAt": "2020-12-26T13:26:26.000Z",
-  "updatedAt": "2021-12-08T11:36:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akagi Shun"
+  ],
   "Mal": {
+    "createdAt": "2021-01-25T03:47:03.000Z",
+    "updatedAt": "2022-05-15T09:56:09.000Z",
+    "checkedAt": "2022-05-15T09:56:09.000Z",
+    "id": 132589,
+    "type": "manga",
+    "title": "Kataude no Amy",
+    "altTitle": [
+      "One-Armed Amy",
+      "片腕のエイミー"
+    ],
+    "url": "https://myanimelist.net/manga/132589/Kataude_no_Amy",
+    "image": "https://cdn.myanimelist.net/images/manga/5/239592.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "One-Armed Amy",
-      "片腕のエイミー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akagi, Shun"
-    ],
-    "id": 132589,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:09.354Z",
+    "updatedAt": "2022-05-15T14:22:23.000Z",
+    "checkedAt": "2022-05-15T14:22:23.000Z",
+    "id": 128150,
     "type": "manga",
     "title": "Kataude no Amy",
-    "url": "https://myanimelist.net/manga/132589/Kataude_no_Amy",
-    "image": "https://cdn.myanimelist.net/images/manga/5/239592.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2021-01-25T03:47:03.000Z",
-    "updatedAt": "2021-12-08T09:35:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "片腕のエイミー",
       "One-Armed Amy"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shun Akagi"
-    ],
-    "id": 128150,
-    "malId": 132589,
-    "type": "manga",
-    "title": "Kataude no Amy",
     "url": "https://anilist.co/manga/128150",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128150-z6qfDrkKY6Wk.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-24T06:08:17.000Z",
-    "updatedAt": "2021-12-18T11:50:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/132589/Kataude_no_Amy"
+    "externalLinks": [],
+    "malId": 132589,
+    "deletedAt": null,
+    "authors": [
+      "Shun Akagi"
+    ]
+  }
 }

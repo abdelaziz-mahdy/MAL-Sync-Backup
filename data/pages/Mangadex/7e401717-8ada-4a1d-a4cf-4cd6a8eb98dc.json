@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hiroe Rei"
-  ],
+  "createdAt": "2020-10-12T16:16:38.000Z",
+  "updatedAt": "2021-12-07T00:47:43.000Z",
+  "checkedAt": null,
+  "id": 29502,
   "identifier": "7e401717-8ada-4a1d-a4cf-4cd6a8eb98dc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 735,
   "aniId": 30735,
-  "createdAt": "2020-10-12T16:16:38.000Z",
-  "updatedAt": "2021-12-07T00:47:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiroe Rei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-14T20:01:59.000Z",
+    "checkedAt": "2022-05-14T20:01:59.000Z",
+    "id": 735,
+    "type": "manga",
+    "title": "Black Lagoon",
+    "altTitle": [
+      "Black Lagoon",
+      "ブラックラグーン"
+    ],
+    "url": "https://myanimelist.net/manga/735/Black_Lagoon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Black Lagoon",
-      "ブラックラグーン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiroe, Rei"
-    ],
-    "id": 735,
-    "type": "manga",
-    "title": "Black Lagoon",
-    "url": "https://myanimelist.net/manga/735/Black_Lagoon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-04-24T02:31:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:14.439Z",
+    "updatedAt": "2022-05-15T17:44:11.000Z",
+    "checkedAt": "2022-05-15T17:44:11.000Z",
+    "id": 30735,
+    "type": "manga",
+    "title": "BLACK LAGOON",
     "altTitle": [
       "BLACK LAGOON-ブラックラグーン",
       "Burakku Laguun"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rei Hiroe"
-    ],
-    "id": 30735,
-    "malId": 735,
-    "type": "manga",
-    "title": "BLACK LAGOON",
     "url": "https://anilist.co/manga/30735",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30735-P31qXacg4eOc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2022-03-03T19:10:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/735/Black_Lagoon"
+    "externalLinks": [],
+    "malId": 735,
+    "deletedAt": null,
+    "authors": [
+      "Rei Hiroe"
+    ]
+  }
 }

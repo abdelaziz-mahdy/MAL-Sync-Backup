@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Namikiri Atsushi"
-  ],
+  "createdAt": "2022-02-06T11:06:03.000Z",
+  "updatedAt": "2022-04-09T21:36:27.000Z",
+  "checkedAt": null,
+  "id": 95806,
   "identifier": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 143196,
   "aniId": 144939,
-  "createdAt": "2022-02-06T11:06:03.000Z",
-  "updatedAt": "2022-04-09T21:36:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Namikiri Atsushi"
+  ],
   "Mal": {
+    "createdAt": "2022-01-17T05:42:06.000Z",
+    "updatedAt": "2022-05-20T02:14:46.000Z",
+    "checkedAt": "2022-05-20T02:14:46.000Z",
+    "id": 143196,
+    "type": "manga",
+    "title": "Red Blue",
+    "altTitle": [
+      "レッドブルー"
+    ],
+    "url": "https://myanimelist.net/manga/143196/Red_Blue",
+    "image": "https://cdn.myanimelist.net/images/manga/2/258513.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "レッドブルー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Namikiri, Atsushi"
-    ],
-    "id": 143196,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:58.786Z",
+    "updatedAt": "2022-05-20T02:14:45.000Z",
+    "checkedAt": "2022-05-20T02:14:45.000Z",
+    "id": 144939,
     "type": "manga",
     "title": "Red Blue",
-    "url": "https://myanimelist.net/manga/143196/Red_Blue",
-    "image": "https://cdn.myanimelist.net/images/manga/2/254358.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-01-17T05:42:06.000Z",
-    "updatedAt": "2022-03-15T01:00:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "レッドブルー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Atsushi Namikiri"
-    ],
-    "id": 144939,
-    "malId": 143196,
-    "type": "manga",
-    "title": "Red Blue",
     "url": "https://anilist.co/manga/144939",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144939-znZFKewRGtqE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-02-09T00:39:38.000Z",
-    "updatedAt": "2022-04-10T14:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143196/Red_Blue"
+    "externalLinks": [],
+    "malId": 143196,
+    "deletedAt": null,
+    "authors": [
+      "Atsushi Namikiri"
+    ]
+  }
 }

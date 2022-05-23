@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kouta Matsuda",
-    "Morichika"
-  ],
+  "createdAt": "2021-06-17T10:58:13.000Z",
+  "updatedAt": "2021-12-17T11:49:36.000Z",
+  "checkedAt": null,
+  "id": 78528,
   "identifier": "manga-dn980822",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117866,
   "aniId": 104452,
-  "createdAt": "2021-06-17T10:58:13.000Z",
-  "updatedAt": "2021-12-17T11:49:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kouta Matsuda",
+    "Morichika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:51.000Z",
+    "updatedAt": "2022-05-15T21:41:53.000Z",
+    "checkedAt": "2022-05-15T21:41:53.000Z",
+    "id": 117866,
+    "type": "manga",
+    "title": "Ah! Warera ga Myao Shougun",
+    "altTitle": [
+      "Oh, Our General Myao.",
+      "あゝ我らがミャオ将軍"
+    ],
+    "url": "https://myanimelist.net/manga/117866/Ah_Warera_ga_Myao_Shougun",
+    "image": "https://cdn.myanimelist.net/images/manga/2/219118.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Oh, Our General Myao.",
-      "あゝ我らがミャオ将軍"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsuda, Kouta",
       "Morichika"
-    ],
-    "id": 117866,
-    "type": "manga",
-    "title": "Ah! Warera ga Myao Shougun",
-    "url": "https://myanimelist.net/manga/117866/Ah_Warera_ga_Myao_Shougun",
-    "image": "https://cdn.myanimelist.net/images/manga/2/219118.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:51.000Z",
-    "updatedAt": "2022-04-03T16:32:17.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:48.889Z",
+    "updatedAt": "2022-05-15T22:20:59.000Z",
+    "checkedAt": "2022-05-15T22:20:59.000Z",
+    "id": 104452,
+    "type": "manga",
+    "title": "Aa Warera ga Myao Shogun",
     "altTitle": [
       "あゝ我らがミャオ将軍",
       "Oh, Our General Myao"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Moritika",
-      "Kouta Matsuda"
-    ],
-    "id": 104452,
-    "malId": 117866,
-    "type": "manga",
-    "title": "Aa Warera ga Myao Shogun",
     "url": "https://anilist.co/manga/104452",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104452-dDesmG4AFhhc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:58.000Z",
-    "updatedAt": "2021-12-18T04:53:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117866/Ah_Warera_ga_Myao_Shougun"
+    "externalLinks": [],
+    "malId": 117866,
+    "deletedAt": null,
+    "authors": [
+      "Moritika",
+      "Kouta Matsuda"
+    ]
+  }
 }

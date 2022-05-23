@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TAKASUKA Yue"
-  ],
+  "createdAt": "2021-10-10T10:03:33.000Z",
+  "updatedAt": "2022-04-10T11:00:22.000Z",
+  "checkedAt": null,
+  "id": 88321,
   "identifier": "good_morning_call",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1242,
   "aniId": 31242,
-  "createdAt": "2021-10-10T10:03:33.000Z",
-  "updatedAt": "2022-04-10T11:00:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "TAKASUKA Yue"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-16T22:11:55.000Z",
+    "checkedAt": "2022-05-16T22:11:55.000Z",
+    "id": 1242,
+    "type": "manga",
+    "title": "Good Morning Call",
+    "altTitle": [
+      "Kare to Kanojo ni Hanataba wo",
+      "His and Her Fortune Bouquet",
+      "グッドモーニング・コール"
+    ],
+    "url": "https://myanimelist.net/manga/1242/Good_Morning_Call",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185191.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kare to Kanojo ni Hanataba wo",
-      "His and Her Fortune Bouquet",
-      "グッドモーニング・コール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takasuka, Yue"
-    ],
-    "id": 1242,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:35.920Z",
+    "updatedAt": "2022-05-16T22:11:54.000Z",
+    "checkedAt": "2022-05-16T22:11:54.000Z",
+    "id": 31242,
     "type": "manga",
     "title": "Good Morning Call",
-    "url": "https://myanimelist.net/manga/1242/Good_Morning_Call",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185191.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-03-05T12:00:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "グッドモーニング・コール",
       "Kare to Kanojo ni Hanataba wo",
       "His and Her Fortune Bouquet"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yue Takasuka"
-    ],
-    "id": 31242,
-    "malId": 1242,
-    "type": "manga",
-    "title": "Good Morning Call",
     "url": "https://anilist.co/manga/31242",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31242-zcPVqWDv0U63.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2021-12-17T10:03:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1242/Good_Morning_Call"
+    "externalLinks": [],
+    "malId": 1242,
+    "deletedAt": null,
+    "authors": [
+      "Yue Takasuka"
+    ]
+  }
 }

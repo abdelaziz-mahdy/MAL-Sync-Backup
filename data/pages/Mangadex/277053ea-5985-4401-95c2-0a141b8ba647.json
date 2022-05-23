@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sensiya"
-  ],
+  "createdAt": "2020-10-12T16:11:00.000Z",
+  "updatedAt": "2021-12-05T05:20:04.000Z",
+  "checkedAt": null,
+  "id": 18352,
   "identifier": "277053ea-5985-4401-95c2-0a141b8ba647",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111817,
   "aniId": 100480,
-  "createdAt": "2020-10-12T16:11:00.000Z",
-  "updatedAt": "2021-12-05T05:20:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sensiya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2022-05-16T14:42:52.000Z",
+    "checkedAt": "2022-05-16T14:42:52.000Z",
+    "id": 111817,
+    "type": "manga",
+    "title": "Renai Symphony",
+    "altTitle": [
+      "RenPhony",
+      "恋愛しんふぉに～"
+    ],
+    "url": "https://myanimelist.net/manga/111817/Renai_Symphony",
+    "image": "https://cdn.myanimelist.net/images/manga/1/206006.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RenPhony",
-      "恋愛しんふぉに～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sensiya"
-    ],
-    "id": 111817,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:05.342Z",
+    "updatedAt": "2022-05-16T14:42:51.000Z",
+    "checkedAt": "2022-05-16T14:42:51.000Z",
+    "id": 100480,
     "type": "manga",
     "title": "Renai Symphony",
-    "url": "https://myanimelist.net/manga/111817/Renai_Symphony",
-    "image": "https://cdn.myanimelist.net/images/manga/1/206006.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2021-12-18T20:19:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋愛しむふぉに～",
       "Symphony of Love",
       "RenPhony"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Senshiya"
-    ],
-    "id": 100480,
-    "malId": 111817,
-    "type": "manga",
-    "title": "Renai Symphony",
     "url": "https://anilist.co/manga/100480",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100480-k9GrgOMi5h7l.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2021-12-18T03:24:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111817/Renai_Symphony"
+    "externalLinks": [],
+    "malId": 111817,
+    "deletedAt": null,
+    "authors": [
+      "Senshiya"
+    ]
+  }
 }

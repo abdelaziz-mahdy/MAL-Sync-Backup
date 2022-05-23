@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Satou Sakura",
-    "Inuzuka Hiro"
-  ],
+  "createdAt": "2020-10-12T16:17:17.000Z",
+  "updatedAt": "2021-12-07T06:47:53.000Z",
+  "checkedAt": null,
+  "id": 30890,
   "identifier": "bda4265d-4362-49f3-8567-50542d31491b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122016,
   "aniId": 112216,
-  "createdAt": "2020-10-12T16:17:17.000Z",
-  "updatedAt": "2021-12-07T06:47:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Sakura",
+    "Inuzuka Hiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:08.000Z",
+    "updatedAt": "2022-03-27T03:57:34.000Z",
+    "checkedAt": null,
+    "id": 122016,
+    "type": "manga",
+    "title": "Madou no Keifu",
+    "altTitle": [
+      "Truth Weavers",
+      "魔導の系譜"
+    ],
+    "url": "https://myanimelist.net/manga/122016/Madou_no_Keifu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226391.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Truth Weavers",
-      "魔導の系譜"
-    ],
+    "deletedAt": null,
     "authors": [
       "Satou, Sakura",
       "Inuzuka, Hiro"
-    ],
-    "id": 122016,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:09.500Z",
+    "updatedAt": "2022-05-13T12:51:09.500Z",
+    "checkedAt": null,
+    "id": 112216,
     "type": "manga",
     "title": "Madou no Keifu",
-    "url": "https://myanimelist.net/manga/122016/Madou_no_Keifu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226391.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:08.000Z",
-    "updatedAt": "2022-03-27T03:57:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔導の系譜",
       "Truth Weavers",
       "Les Tisserands de la Vérité"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sakura Satou",
-      "Hiro Inuzaka"
-    ],
-    "id": 112216,
-    "malId": 122016,
-    "type": "manga",
-    "title": "Madou no Keifu",
     "url": "https://anilist.co/manga/112216",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112216-pSsTWWBIVNSa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:26.000Z",
-    "updatedAt": "2022-05-01T20:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122016/Madou_no_Keifu"
+    "externalLinks": [],
+    "malId": 122016,
+    "deletedAt": null,
+    "authors": [
+      "Sakura Satou",
+      "Hiro Inuzaka"
+    ]
+  }
 }

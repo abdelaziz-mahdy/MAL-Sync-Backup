@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shinkai Makoto",
-    "Kotone Ranmaru"
-  ],
+  "createdAt": "2020-10-12T16:10:15.000Z",
+  "updatedAt": "2021-12-04T23:48:40.000Z",
+  "checkedAt": null,
+  "id": 16732,
   "identifier": "c071276e-abd4-4711-8b14-544431eb152a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99314,
   "aniId": 97337,
-  "createdAt": "2020-10-12T16:10:15.000Z",
-  "updatedAt": "2021-12-04T23:48:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinkai Makoto",
+    "Kotone Ranmaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:32.000Z",
+    "updatedAt": "2022-05-14T18:06:53.000Z",
+    "checkedAt": "2022-05-14T18:06:53.000Z",
+    "id": 99314,
+    "type": "manga",
+    "title": "Kimi no Na wa.",
+    "altTitle": [
+      "Your name.",
+      "君の名は。"
+    ],
+    "url": "https://myanimelist.net/manga/99314/Kimi_no_Na_wa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/182270.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Your name.",
-      "君の名は。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinkai, Makoto",
       "Kotone, Ranmaru"
-    ],
-    "id": 99314,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:19.569Z",
+    "updatedAt": "2022-05-15T17:31:23.000Z",
+    "checkedAt": "2022-05-15T17:31:23.000Z",
+    "id": 97337,
     "type": "manga",
     "title": "Kimi no Na wa.",
-    "url": "https://myanimelist.net/manga/99314/Kimi_no_Na_wa",
-    "image": "https://cdn.myanimelist.net/images/manga/1/182270.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:32.000Z",
-    "updatedAt": "2022-04-30T12:32:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "your name.",
       "君の名は。",
@@ -53,7 +62,13 @@
       "Senin adın.",
       "To bylo tvé jméno."
     ],
+    "url": "https://anilist.co/manga/97337",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97337-aotf0vw3Ta1F.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 99314,
+    "deletedAt": null,
     "authors": [
       "Ranmaru Kotone",
       "Makoto Shinkai",
@@ -62,18 +77,6 @@
       "Abigail Blackman",
       "Paula Martinez",
       "Salvatore Corallo"
-    ],
-    "id": 97337,
-    "malId": 99314,
-    "type": "manga",
-    "title": "Kimi no Na wa.",
-    "url": "https://anilist.co/manga/97337",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97337-aotf0vw3Ta1F.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:41.000Z",
-    "updatedAt": "2022-01-28T21:50:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99314/Kimi_no_Na_wa"
+    ]
+  }
 }

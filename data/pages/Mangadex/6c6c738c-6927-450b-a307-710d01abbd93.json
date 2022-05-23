@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toume Kei"
-  ],
+  "createdAt": "2020-10-12T16:05:12.000Z",
+  "updatedAt": "2021-12-03T11:17:29.000Z",
+  "checkedAt": null,
+  "id": 5922,
   "identifier": "6c6c738c-6927-450b-a307-710d01abbd93",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 405,
   "aniId": 30405,
-  "createdAt": "2020-10-12T16:05:12.000Z",
-  "updatedAt": "2021-12-03T11:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toume Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-16T18:03:14.000Z",
+    "checkedAt": "2022-05-16T18:03:14.000Z",
+    "id": 405,
+    "type": "manga",
+    "title": "Hitsuji no Uta",
+    "altTitle": [
+      "Lament of the Lamb",
+      "羊のうた"
+    ],
+    "url": "https://myanimelist.net/manga/405/Hitsuji_no_Uta",
+    "image": "https://cdn.myanimelist.net/images/manga/2/173240.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lament of the Lamb",
-      "羊のうた"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toume, Kei"
-    ],
-    "id": 405,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:22.228Z",
+    "updatedAt": "2022-05-16T18:03:13.000Z",
+    "checkedAt": "2022-05-16T18:03:13.000Z",
+    "id": 30405,
     "type": "manga",
     "title": "Hitsuji no Uta",
-    "url": "https://myanimelist.net/manga/405/Hitsuji_no_Uta",
-    "image": "https://cdn.myanimelist.net/images/manga/2/173240.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-03-27T22:37:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lament of the Lamb",
       "羊のうた",
       "Lament Jagnięcia"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kei Toume"
-    ],
-    "id": 30405,
-    "malId": 405,
-    "type": "manga",
-    "title": "Hitsuji no Uta",
     "url": "https://anilist.co/manga/30405",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30405-aE3Kdq0jl9q1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:09:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/405/Hitsuji_no_Uta"
+    "externalLinks": [],
+    "malId": 405,
+    "deletedAt": null,
+    "authors": [
+      "Kei Toume"
+    ]
+  }
 }

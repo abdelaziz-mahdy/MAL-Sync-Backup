@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "IWAMI Shouko"
-  ],
+  "createdAt": "2021-07-12T15:46:04.000Z",
+  "updatedAt": "2022-01-12T16:41:39.000Z",
+  "checkedAt": null,
+  "id": 81732,
   "identifier": "suzunari",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4456,
   "aniId": 34456,
-  "createdAt": "2021-07-12T15:46:04.000Z",
-  "updatedAt": "2022-01-12T16:41:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "IWAMI Shouko"
+  ],
   "Mal": {
+    "createdAt": "2020-11-13T19:52:50.000Z",
+    "updatedAt": "2022-01-12T16:11:49.000Z",
+    "checkedAt": null,
+    "id": 4456,
+    "type": "manga",
+    "title": "Suzunari!",
+    "altTitle": [
+      "Suzunari!",
+      "スズナリ！"
+    ],
+    "url": "https://myanimelist.net/manga/4456/Suzunari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/11525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Suzunari!",
-      "スズナリ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwami, Shouko"
-    ],
-    "id": 4456,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:17.760Z",
+    "updatedAt": "2022-05-13T12:57:17.760Z",
+    "checkedAt": null,
+    "id": 34456,
     "type": "manga",
     "title": "Suzunari!",
-    "url": "https://myanimelist.net/manga/4456/Suzunari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/11525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-13T19:52:50.000Z",
-    "updatedAt": "2022-01-12T16:11:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Suzunari!",
       "スズナリ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoko Iwami",
-      "Elina Ishikawa"
-    ],
-    "id": 34456,
-    "malId": 4456,
-    "type": "manga",
-    "title": "Suzunari!",
     "url": "https://anilist.co/manga/34456",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4456.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:32.000Z",
-    "updatedAt": "2021-12-17T12:05:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4456/Suzunari"
+    "externalLinks": [],
+    "malId": 4456,
+    "deletedAt": null,
+    "authors": [
+      "Shoko Iwami",
+      "Elina Ishikawa"
+    ]
+  }
 }

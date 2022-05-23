@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Higuchi Tatsuhito",
-    "Chako Abeno"
-  ],
+  "createdAt": "2020-10-12T16:10:33.000Z",
+  "updatedAt": "2021-12-05T09:21:41.000Z",
+  "checkedAt": null,
+  "id": 17399,
   "identifier": "fe84874c-6fb9-4561-973b-0c96e62741d2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25144,
   "aniId": 55144,
-  "createdAt": "2020-10-12T16:10:33.000Z",
-  "updatedAt": "2021-12-05T09:21:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higuchi Tatsuhito",
+    "Chako Abeno"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T01:50:40.000Z",
+    "updatedAt": "2021-12-05T02:16:17.000Z",
+    "checkedAt": null,
+    "id": 25144,
+    "type": "manga",
+    "title": "My Otome Zwei",
+    "altTitle": [
+      "Mai Z-HiME Zwei",
+      "Mai-Otsu Hime Zwei",
+      "My-ZHiME Zwei",
+      "舞-乙HiME Zwei"
+    ],
+    "url": "https://myanimelist.net/manga/25144/My_Otome_Zwei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/40482.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,52 +44,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mai Z-HiME Zwei",
-      "Mai-Otsu Hime Zwei",
-      "My-ZHiME Zwei",
-      "舞-乙HiME Zwei"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abeno, Chaco",
       "Yatate, Hajime",
       "Higuchi, Tatsuhito"
-    ],
-    "id": 25144,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:57.934Z",
+    "updatedAt": "2022-05-13T12:52:57.934Z",
+    "checkedAt": null,
+    "id": 55144,
     "type": "manga",
     "title": "My Otome Zwei",
-    "url": "https://myanimelist.net/manga/25144/My_Otome_Zwei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/40482.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T01:50:40.000Z",
-    "updatedAt": "2021-12-05T02:16:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "舞-乙HiME Zwei",
       "Mai Z-HiME Zwei",
       "Mai-Otsu Hime Zwei",
       "My-ZHiME Zwei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chako Abeno",
-      "Hajime Yatate",
-      "Tatsuto Higuchi"
-    ],
-    "id": 55144,
-    "malId": 25144,
-    "type": "manga",
-    "title": "My Otome Zwei",
     "url": "https://anilist.co/manga/55144",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25144.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T01:50:41.000Z",
-    "updatedAt": "2021-12-17T18:33:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25144/My_Otome_Zwei"
+    "externalLinks": [],
+    "malId": 25144,
+    "deletedAt": null,
+    "authors": [
+      "Chako Abeno",
+      "Hajime Yatate",
+      "Tatsuto Higuchi"
+    ]
+  }
 }

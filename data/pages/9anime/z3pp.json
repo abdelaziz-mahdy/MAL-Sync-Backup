@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:57:04.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10994,
   "identifier": "z3pp",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 892,
   "aniId": 892,
-  "createdAt": "2020-10-12T15:57:04.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T17:27:29.000Z",
+    "checkedAt": "2022-05-14T17:27:29.000Z",
+    "id": 892,
+    "type": "anime",
+    "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
+    "altTitle": [
+      "Dragon Ball: Mystical Adventure",
+      "ドラゴンボール 摩訶不思議大冒険"
+    ],
+    "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
+    "image": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,45 +50,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dragon Ball: Mystical Adventure",
-      "ドラゴンボール 摩訶不思議大冒険"
-    ],
+    "deletedAt": null,
+    "anidbId": 1142
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T19:54:23.000Z",
+    "checkedAt": "2022-05-15T19:54:23.000Z",
     "id": 892,
     "type": "anime",
-    "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
-    "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
-    "image": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 1142,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-03-30T18:03:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Dragon Ball: Makafushigi Daibouken",
     "altTitle": [
       "Dragon Ball: Mystical Adventure",
       "ドラゴンボール 摩訶不思議大冒険",
       "Dragon Ball - Il torneo di Miifan"
     ],
-    "externalLinks": [
-      {
-        "site": "Funimation",
-        "url": "https://www.funimation.com/shows/dragon-ball/mystical-adventure/?qid=8f1bb6a2b4c83a4d"
-      }
-    ],
-    "id": 892,
-    "malId": 892,
-    "type": "anime",
-    "title": "Dragon Ball: Makafushigi Daibouken",
     "url": "https://anilist.co/anime/892",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx892-qSAVWaHQzBwE.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:47.000Z",
-    "updatedAt": "2021-12-31T23:53:31.000Z",
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/v/dragon-ball/dragon-ball-mystical-adventure"
+      }
+    ],
+    "malId": 892,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken"
+  }
 }

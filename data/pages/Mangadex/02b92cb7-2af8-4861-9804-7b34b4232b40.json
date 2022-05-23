@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamamoto Kenji",
-    "Tokiya Seigo"
-  ],
+  "createdAt": "2020-10-12T16:03:01.000Z",
+  "updatedAt": "2021-12-02T11:18:26.000Z",
+  "checkedAt": null,
+  "id": 1350,
   "identifier": "02b92cb7-2af8-4861-9804-7b34b4232b40",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29485,
   "aniId": 59485,
-  "createdAt": "2020-10-12T16:03:01.000Z",
-  "updatedAt": "2021-12-02T11:18:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamoto Kenji",
+    "Tokiya Seigo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:33.000Z",
+    "updatedAt": "2022-03-27T01:27:15.000Z",
+    "checkedAt": null,
+    "id": 29485,
+    "type": "manga",
+    "title": "Crimezone",
+    "altTitle": [
+      "Crime Zone",
+      "CRIMEZONE -クリム・ゾン-"
+    ],
+    "url": "https://myanimelist.net/manga/29485/Crimezone",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188882.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Crime Zone",
-      "CRIMEZONE -クリム・ゾン-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamoto, Kenji",
       "Tokiya, Seigo"
-    ],
-    "id": 29485,
-    "type": "manga",
-    "title": "Crimezone",
-    "url": "https://myanimelist.net/manga/29485/Crimezone",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188882.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:33.000Z",
-    "updatedAt": "2022-03-27T01:27:15.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:58.118Z",
+    "updatedAt": "2022-05-13T12:51:58.118Z",
+    "checkedAt": null,
+    "id": 59485,
+    "type": "manga",
+    "title": "Crime Zone",
     "altTitle": [
       "クリム・ゾン",
       "Crimezone"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Yamamoto",
-      "Seigo Tokiya"
-    ],
-    "id": 59485,
-    "malId": 29485,
-    "type": "manga",
-    "title": "Crime Zone",
     "url": "https://anilist.co/manga/59485",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29485.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:37.000Z",
-    "updatedAt": "2021-12-17T19:03:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/29485/Crimezone"
+    "externalLinks": [],
+    "malId": 29485,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Yamamoto",
+      "Seigo Tokiya"
+    ]
+  }
 }

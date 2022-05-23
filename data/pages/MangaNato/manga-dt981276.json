@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watanabe Jun"
-  ],
+  "createdAt": "2021-06-18T12:56:00.000Z",
+  "updatedAt": "2021-12-18T13:49:09.000Z",
+  "checkedAt": null,
+  "id": 78779,
   "identifier": "manga-dt981276",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92369,
   "aniId": 108828,
-  "createdAt": "2021-06-18T12:56:00.000Z",
-  "updatedAt": "2021-12-18T13:49:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watanabe Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2022-05-17T10:10:40.000Z",
+    "checkedAt": "2022-05-17T10:10:40.000Z",
+    "id": 92369,
+    "type": "manga",
+    "title": "Kudan no Gotoshi",
+    "altTitle": [
+      "クダンノゴトシ"
+    ],
+    "url": "https://myanimelist.net/manga/92369/Kudan_no_Gotoshi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/168681.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クダンノゴトシ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Jun"
-    ],
-    "id": 92369,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:34.834Z",
+    "updatedAt": "2022-05-17T10:10:39.000Z",
+    "checkedAt": "2022-05-17T10:10:39.000Z",
+    "id": 108828,
     "type": "manga",
     "title": "Kudan no Gotoshi",
-    "url": "https://myanimelist.net/manga/92369/Kudan_no_Gotoshi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/168681.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:09.000Z",
-    "updatedAt": "2021-12-18T13:20:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クダンノゴトシ",
       "Like the Kudan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Watanabe"
-    ],
-    "id": 108828,
-    "malId": 92369,
-    "type": "manga",
-    "title": "Kudan no Gotoshi",
     "url": "https://anilist.co/manga/108828",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108828-tijHdGbELhB0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:38.000Z",
-    "updatedAt": "2021-11-15T12:13:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92369/Kudan_no_Gotoshi"
+    "externalLinks": [],
+    "malId": 92369,
+    "deletedAt": null,
+    "authors": [
+      "Jun Watanabe"
+    ]
+  }
 }

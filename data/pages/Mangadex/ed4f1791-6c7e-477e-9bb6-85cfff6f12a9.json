@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Eban Fumi"
-  ],
+  "createdAt": "2020-10-12T16:06:44.000Z",
+  "updatedAt": "2021-12-03T21:52:09.000Z",
+  "checkedAt": null,
+  "id": 9097,
   "identifier": "ed4f1791-6c7e-477e-9bb6-85cfff6f12a9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21491,
   "aniId": 51491,
-  "createdAt": "2020-10-12T16:06:44.000Z",
-  "updatedAt": "2021-12-03T21:52:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Eban Fumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:57.000Z",
+    "updatedAt": "2022-05-15T23:20:59.000Z",
+    "checkedAt": "2022-05-15T23:20:59.000Z",
+    "id": 21491,
+    "type": "manga",
+    "title": "Blue Friend",
+    "altTitle": [
+      "Blue Friend: 2nd Season",
+      "ブルーフレンド"
+    ],
+    "url": "https://myanimelist.net/manga/21491/Blue_Friend",
+    "image": "https://cdn.myanimelist.net/images/manga/4/127723.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Blue Friend: 2nd Season",
-      "ブルーフレンド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Eban, Fumi"
-    ],
-    "id": 21491,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:15.615Z",
+    "updatedAt": "2022-05-15T23:20:57.000Z",
+    "checkedAt": "2022-05-15T23:20:57.000Z",
+    "id": 51491,
     "type": "manga",
     "title": "Blue Friend",
-    "url": "https://myanimelist.net/manga/21491/Blue_Friend",
-    "image": "https://cdn.myanimelist.net/images/manga/4/127723.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2022-03-09T06:00:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ブルーフレンズ",
       "Blue Friend ~2nd Season~",
       "Blue Friend 2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fumi Eban"
-    ],
-    "id": 51491,
-    "malId": 21491,
-    "type": "manga",
-    "title": "Blue Friend",
     "url": "https://anilist.co/manga/51491",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51491-vkOPO1TPjIf5.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:42.000Z",
-    "updatedAt": "2021-12-17T17:39:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21491/Blue_Friend"
+    "externalLinks": [],
+    "malId": 21491,
+    "deletedAt": null,
+    "authors": [
+      "Fumi Eban"
+    ]
+  }
 }

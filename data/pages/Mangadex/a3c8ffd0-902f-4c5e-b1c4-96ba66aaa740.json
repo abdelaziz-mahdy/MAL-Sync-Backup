@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saburouta"
-  ],
+  "createdAt": "2020-10-12T16:06:15.000Z",
+  "updatedAt": "2021-12-03T18:50:00.000Z",
+  "checkedAt": null,
+  "id": 8089,
   "identifier": "a3c8ffd0-902f-4c5e-b1c4-96ba66aaa740",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50145,
   "aniId": 80145,
-  "createdAt": "2020-10-12T16:06:15.000Z",
-  "updatedAt": "2021-12-03T18:50:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saburouta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:34.000Z",
+    "updatedAt": "2022-05-14T18:34:18.000Z",
+    "checkedAt": "2022-05-14T18:34:18.000Z",
+    "id": 50145,
+    "type": "manga",
+    "title": "Citrus",
+    "altTitle": [
+      "Citrus",
+      "citrus"
+    ],
+    "url": "https://myanimelist.net/manga/50145/Citrus",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185905.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Citrus",
-      "citrus"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saburouta"
-    ],
-    "id": 50145,
-    "type": "manga",
-    "title": "Citrus",
-    "url": "https://myanimelist.net/manga/50145/Citrus",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185905.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:34.000Z",
-    "updatedAt": "2022-04-14T09:01:04.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:26.355Z",
+    "updatedAt": "2022-05-15T17:16:59.000Z",
+    "checkedAt": "2022-05-15T17:16:59.000Z",
+    "id": 80145,
+    "type": "manga",
+    "title": "citrus",
     "altTitle": [
       "Citrus",
       "citrus",
@@ -52,22 +61,16 @@
       "citrus～柑橘味香气～",
       "citrus~柑橘味香氣~"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Saburouta",
-      "Karen Hayashida"
-    ],
-    "id": 80145,
-    "malId": 50145,
-    "type": "manga",
-    "title": "citrus",
     "url": "https://anilist.co/manga/80145",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx80145-PeU7lVLC4d4Z.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:46.000Z",
-    "updatedAt": "2022-05-07T12:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50145/Citrus"
+    "externalLinks": [],
+    "malId": 50145,
+    "deletedAt": null,
+    "authors": [
+      "Saburouta",
+      "Karen Hayashida"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AKAMATSU Ken"
-  ],
+  "createdAt": "2021-07-05T10:29:50.000Z",
+  "updatedAt": "2022-01-05T11:18:12.000Z",
+  "checkedAt": null,
+  "id": 80960,
   "identifier": "love_hina",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16,
   "aniId": 30016,
-  "createdAt": "2021-07-05T10:29:50.000Z",
-  "updatedAt": "2022-01-05T11:18:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "AKAMATSU Ken"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-15T14:53:31.000Z",
+    "checkedAt": "2022-05-15T14:53:31.000Z",
+    "id": 16,
+    "type": "manga",
+    "title": "Love Hina",
+    "altTitle": [
+      "Love Hina",
+      "ラブひな"
+    ],
+    "url": "https://myanimelist.net/manga/16/Love_Hina",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259287.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Love Hina",
-      "ラブひな"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akamatsu, Ken"
-    ],
-    "id": 16,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:29.416Z",
+    "updatedAt": "2022-05-15T18:32:35.000Z",
+    "checkedAt": "2022-05-15T18:32:35.000Z",
+    "id": 30016,
     "type": "manga",
     "title": "Love Hina",
-    "url": "https://myanimelist.net/manga/16/Love_Hina",
-    "image": "https://cdn.myanimelist.net/images/manga/2/52139.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-14T14:30:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Love Hina",
       "ラブ ひな"
     ],
+    "url": "https://anilist.co/manga/30016",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30016-Oa2a7uJ7bHDd.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 16,
+    "deletedAt": null,
     "authors": [
       "Ken Akamatsu",
       "Hong Pham",
       "Dag Lønsjø",
       "Arnaldo Oka",
       "José Carlos Assumpção"
-    ],
-    "id": 30016,
-    "malId": 16,
-    "type": "manga",
-    "title": "Love Hina",
-    "url": "https://anilist.co/manga/30016",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30016-Oa2a7uJ7bHDd.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-17T08:31:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16/Love_Hina"
+    ]
+  }
 }

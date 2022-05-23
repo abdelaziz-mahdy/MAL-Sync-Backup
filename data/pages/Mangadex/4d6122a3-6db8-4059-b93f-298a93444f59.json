@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "黑礁商会房东",
-    "Wing"
-  ],
+  "createdAt": "2020-10-12T16:18:06.000Z",
+  "updatedAt": "2021-12-07T14:18:34.000Z",
+  "checkedAt": null,
+  "id": 32501,
   "identifier": "4d6122a3-6db8-4059-b93f-298a93444f59",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41445,
   "aniId": 71445,
-  "createdAt": "2020-10-12T16:18:06.000Z",
-  "updatedAt": "2021-12-07T14:18:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "黑礁商会房东",
+    "Wing"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:10.000Z",
+    "updatedAt": "2022-05-14T12:30:37.000Z",
+    "checkedAt": "2022-05-14T12:30:37.000Z",
+    "id": 41445,
+    "type": "manga",
+    "title": "Sangokushi",
+    "altTitle": [
+      "Records of The Three Kingdoms",
+      "三国志"
+    ],
+    "url": "https://myanimelist.net/manga/41445/Sangokushi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/72621.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Records of The Three Kingdoms",
-      "三国志"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitakata, Kenzou",
       "Ha, Seung Nam"
-    ],
-    "id": 41445,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:50.836Z",
+    "updatedAt": "2022-05-13T12:42:50.836Z",
+    "checkedAt": null,
+    "id": 71445,
     "type": "manga",
     "title": "Sangokushi",
-    "url": "https://myanimelist.net/manga/41445/Sangokushi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/72621.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:10.000Z",
-    "updatedAt": "2021-11-06T12:06:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Records of The Three Kingdoms",
       "三国志"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenzou Kitakata",
-      "Seung Nam Ha",
-      "Christine Dashiell"
-    ],
-    "id": 71445,
-    "malId": 41445,
-    "type": "manga",
-    "title": "Sangokushi",
     "url": "https://anilist.co/manga/71445",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41445.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:48.000Z",
-    "updatedAt": "2021-12-17T20:25:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41445/Sangokushi"
+    "externalLinks": [],
+    "malId": 41445,
+    "deletedAt": null,
+    "authors": [
+      "Kenzou Kitakata",
+      "Seung Nam Ha",
+      "Christine Dashiell"
+    ]
+  }
 }

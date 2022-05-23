@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Park Subong"
-  ],
+  "createdAt": "2020-10-12T16:13:09.000Z",
+  "updatedAt": "2021-12-05T19:19:17.000Z",
+  "checkedAt": null,
+  "id": 22303,
   "identifier": "8e9de69e-94e0-4d26-a9dc-8e27952e7e87",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94416,
   "aniId": 85496,
-  "createdAt": "2020-10-12T16:13:09.000Z",
-  "updatedAt": "2021-12-05T19:19:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Park Subong"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-15T02:22:11.000Z",
+    "checkedAt": "2022-05-15T02:22:11.000Z",
+    "id": 94416,
+    "type": "manga",
+    "title": "The Girl from Class",
+    "altTitle": [
+      "The Girl from Class",
+      "수업시간 그녀"
+    ],
+    "url": "https://myanimelist.net/manga/94416/The_Girl_from_Class",
+    "image": "https://cdn.myanimelist.net/images/manga/1/213482.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Girl from Class",
-      "수업시간 그녀"
-    ],
+    "deletedAt": null,
     "authors": [
       "Park, Subong"
-    ],
-    "id": 94416,
-    "type": "manga",
-    "title": "The Girl from Class",
-    "url": "https://myanimelist.net/manga/94416/The_Girl_from_Class",
-    "image": "https://cdn.myanimelist.net/images/manga/1/213482.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2022-04-12T11:31:25.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:55.581Z",
+    "updatedAt": "2022-05-16T19:53:55.000Z",
+    "checkedAt": "2022-05-16T19:53:55.000Z",
+    "id": 85496,
+    "type": "manga",
+    "title": "Sueopsigan Geunyeo",
     "altTitle": [
       "The Girl from Class",
       "수업시간그녀"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Su-Bong Park"
-    ],
-    "id": 85496,
-    "malId": 94416,
-    "type": "manga",
-    "title": "Sueopsigan Geunyeo",
     "url": "https://anilist.co/manga/85496",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55496-HvizhPLZDdA2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2022-01-16T09:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94416/The_Girl_from_Class"
+    "externalLinks": [],
+    "malId": 94416,
+    "deletedAt": null,
+    "authors": [
+      "Su-Bong Park"
+    ]
+  }
 }

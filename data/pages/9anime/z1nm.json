@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:57:02.000Z",
+  "updatedAt": "2022-04-19T19:02:05.000Z",
+  "checkedAt": null,
+  "id": 10948,
   "identifier": "z1nm",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30795,
   "aniId": 21197,
-  "createdAt": "2020-10-12T15:57:02.000Z",
-  "updatedAt": "2022-04-19T19:02:05.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:36.000Z",
+    "updatedAt": "2022-05-14T18:20:06.000Z",
+    "checkedAt": "2022-05-14T18:20:06.000Z",
+    "id": 30795,
+    "type": "anime",
+    "title": "Bakuon!!",
+    "altTitle": [
+      "Bakuon!!",
+      "ばくおん!!"
+    ],
+    "url": "https://myanimelist.net/anime/30795/Bakuon",
+    "image": "https://cdn.myanimelist.net/images/anime/3/78914.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,48 +59,31 @@
         "url": "https://www.hidive.com/tv/bakuon"
       }
     ],
-    "altTitle": [
-      "Bakuon!!",
-      "ばくおん!!"
-    ],
-    "id": 30795,
-    "type": "anime",
-    "title": "Bakuon!!",
-    "url": "https://myanimelist.net/anime/30795/Bakuon",
-    "image": "https://cdn.myanimelist.net/images/anime/3/78914.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11253,
-    "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2022-04-16T01:32:49.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11253
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:56.000Z",
+    "updatedAt": "2022-05-15T13:23:47.000Z",
+    "checkedAt": "2022-05-15T13:23:47.000Z",
+    "id": 21197,
+    "type": "anime",
+    "title": "Bakuon!!",
     "altTitle": [
       "Bakuon!!",
       "ばくおん!!"
     ],
-    "externalLinks": [
-      {
-        "site": "Hidive",
-        "url": "https://www.hidive.com/tv/bakuon"
-      },
-      {
-        "site": "Vrv",
-        "url": "https://vrv.co/series/GY1X0DP1Y/Bakuon"
-      }
-    ],
-    "id": 21197,
-    "malId": 30795,
-    "type": "anime",
-    "title": "Bakuon!!",
     "url": "https://anilist.co/anime/21197",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21197-YGAjxjksSJBT.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:56.000Z",
-    "updatedAt": "2021-12-17T14:55:46.000Z",
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/bakuon"
+      }
+    ],
+    "malId": 30795,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30795/Bakuon"
+  }
 }

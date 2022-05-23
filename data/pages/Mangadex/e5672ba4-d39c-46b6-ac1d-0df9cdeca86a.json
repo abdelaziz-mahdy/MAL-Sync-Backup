@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Walter Isaacson",
-    "Yamazaki Mari"
-  ],
+  "createdAt": "2020-10-12T16:08:33.000Z",
+  "updatedAt": "2021-12-04T13:20:38.000Z",
+  "checkedAt": null,
+  "id": 13035,
   "identifier": "e5672ba4-d39c-46b6-ac1d-0df9cdeca86a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49635,
   "aniId": 79635,
-  "createdAt": "2020-10-12T16:08:33.000Z",
-  "updatedAt": "2021-12-04T13:20:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Walter Isaacson",
+    "Yamazaki Mari"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T11:21:19.000Z",
+    "updatedAt": "2022-05-15T21:33:03.000Z",
+    "checkedAt": "2022-05-15T21:33:03.000Z",
+    "id": 49635,
+    "type": "manga",
+    "title": "Steve Jobs",
+    "altTitle": [
+      "スティーブ・ジョブズ"
+    ],
+    "url": "https://myanimelist.net/manga/49635/Steve_Jobs",
+    "image": "https://cdn.myanimelist.net/images/manga/1/197237.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スティーブ・ジョブズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamazaki, Mari",
       "Isaacson, Walter"
-    ],
-    "id": 49635,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:39.860Z",
+    "updatedAt": "2022-05-15T22:17:23.000Z",
+    "checkedAt": "2022-05-15T22:17:23.000Z",
+    "id": 79635,
     "type": "manga",
     "title": "Steve Jobs",
-    "url": "https://myanimelist.net/manga/49635/Steve_Jobs",
-    "image": "https://cdn.myanimelist.net/images/manga/1/197237.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T11:21:19.000Z",
-    "updatedAt": "2021-12-04T11:50:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スティーブ・ジョブズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mari Yamazaki",
-      "Walter Isaacson"
-    ],
-    "id": 79635,
-    "malId": 49635,
-    "type": "manga",
-    "title": "Steve Jobs",
     "url": "https://anilist.co/manga/79635",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79635-zNCCC8bEzf1Q.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T11:21:19.000Z",
-    "updatedAt": "2021-12-17T21:22:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49635/Steve_Jobs"
+    "externalLinks": [],
+    "malId": 49635,
+    "deletedAt": null,
+    "authors": [
+      "Mari Yamazaki",
+      "Walter Isaacson"
+    ]
+  }
 }

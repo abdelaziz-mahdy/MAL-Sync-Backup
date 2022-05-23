@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Seo Kouji"
-  ],
+  "createdAt": "2020-10-12T16:04:05.000Z",
+  "updatedAt": "2021-12-02T18:48:06.000Z",
+  "checkedAt": null,
+  "id": 3601,
   "identifier": "68915fd6-cd69-43c3-b19c-dd246c5bea32",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1217,
   "aniId": 31217,
-  "createdAt": "2020-10-12T16:04:05.000Z",
-  "updatedAt": "2021-12-02T18:48:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Seo Kouji"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/CROSS_OVER"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-22T02:31:22.000Z",
+    "checkedAt": "2022-05-22T02:31:22.000Z",
+    "id": 1217,
+    "type": "manga",
+    "title": "Cross Over",
     "altTitle": [
       "Crossover",
       "X Over",
@@ -32,21 +33,29 @@
       "Cross+Over",
       "CROSS OVER"
     ],
-    "authors": [
-      "Seo, Kouji"
-    ],
-    "id": 1217,
-    "type": "manga",
-    "title": "Cross Over",
     "url": "https://myanimelist.net/manga/1217/Cross_Over",
     "image": "https://cdn.myanimelist.net/images/manga/3/56635.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-04-06T10:02:43.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/CROSS_OVER"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Seo, Kouji"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:19.354Z",
+    "updatedAt": "2022-05-22T02:31:21.000Z",
+    "checkedAt": "2022-05-22T02:31:21.000Z",
+    "id": 31217,
+    "type": "manga",
+    "title": "Cross Over",
     "altTitle": [
       "クロス オーバー",
       "Crossover",
@@ -54,21 +63,15 @@
       "Xover",
       "Cross+Over"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Seo"
-    ],
-    "id": 31217,
-    "malId": 1217,
-    "type": "manga",
-    "title": "Cross Over",
     "url": "https://anilist.co/manga/31217",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31217-eCsts6E3WdmC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2021-12-17T09:44:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1217/Cross_Over"
+    "externalLinks": [],
+    "malId": 1217,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Seo"
+    ]
+  }
 }

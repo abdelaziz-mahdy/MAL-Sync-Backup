@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:22.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10043,
   "identifier": "x0y3",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2458,
   "aniId": 2458,
-  "createdAt": "2020-10-12T15:56:22.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:29.000Z",
+    "updatedAt": "2022-05-14T21:35:05.000Z",
+    "checkedAt": "2022-05-14T21:35:05.000Z",
+    "id": 2458,
+    "type": "anime",
+    "title": "Kimagure Orange☆Road OVA",
+    "altTitle": [
+      "きまぐれオレンジ☆ロード"
+    ],
+    "url": "https://myanimelist.net/anime/2458/Kimagure_Orange☆Road_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/1022/107653.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -31,42 +46,30 @@
         "url": "http://www.crunchyroll.com/series-277978"
       }
     ],
-    "altTitle": [
-      "きまぐれオレンジ☆ロード"
-    ],
+    "deletedAt": null,
+    "anidbId": 283
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:17.000Z",
+    "updatedAt": "2022-05-15T16:16:11.000Z",
+    "checkedAt": "2022-05-15T16:16:11.000Z",
     "id": 2458,
     "type": "anime",
     "title": "Kimagure Orange☆Road OVA",
-    "url": "https://myanimelist.net/anime/2458/Kimagure_Orange☆Road_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/1022/107653.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 283,
-    "createdAt": "2020-10-12T15:38:29.000Z",
-    "updatedAt": "2022-04-23T08:32:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "きまぐれオレンジ☆ロード"
     ],
+    "url": "https://anilist.co/anime/2458",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2458-5cbeZogZ2fVB.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/kimagure-orange-road"
       }
     ],
-    "id": 2458,
     "malId": 2458,
-    "type": "anime",
-    "title": "Kimagure Orange☆Road OVA",
-    "url": "https://anilist.co/anime/2458",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2458-5cbeZogZ2fVB.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:17.000Z",
-    "updatedAt": "2022-05-04T19:00:46.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2458/Kimagure_Orange☆Road_OVA"
+  }
 }

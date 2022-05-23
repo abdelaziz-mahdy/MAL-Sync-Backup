@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakajo Hisaya"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:17.000Z",
+  "checkedAt": null,
+  "id": 3368,
   "identifier": "5aa20a91-b930-4616-a833-be927d6ef2c4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57,
   "aniId": 30057,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakajo Hisaya"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%96%E3%81%8B%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T15:20:43.000Z",
+    "checkedAt": "2022-05-15T15:20:43.000Z",
+    "id": 57,
+    "type": "manga",
+    "title": "Hanazakari no Kimitachi e",
     "altTitle": [
       "HanaKimi",
       "The Thirsty Moon",
@@ -34,21 +35,29 @@
       "Hana-Kimi: For You in Full Blossom",
       "花ざかりの君たちへ"
     ],
-    "authors": [
-      "Nakajo, Hisaya"
-    ],
-    "id": 57,
-    "type": "manga",
-    "title": "Hanazakari no Kimitachi e",
     "url": "https://myanimelist.net/manga/57/Hanazakari_no_Kimitachi_e",
     "image": "https://cdn.myanimelist.net/images/manga/2/186895.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-02T03:32:23.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%96%E3%81%8B%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakajo, Hisaya"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:01.160Z",
+    "updatedAt": "2022-05-15T18:47:47.000Z",
+    "checkedAt": "2022-05-15T18:47:47.000Z",
+    "id": 30057,
+    "type": "manga",
+    "title": "Hanazakari no Kimitachi e",
     "altTitle": [
       "Hana-Kimi: For You in Full Blossom",
       "花ざかりの君たちへ",
@@ -60,7 +69,13 @@
       "花样少年少女",
       "偷偷爱着你"
     ],
+    "url": "https://anilist.co/manga/30057",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30057-j84ueZYLxdoC.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 57,
+    "deletedAt": null,
     "authors": [
       "Hisaya Nakajo",
       "Gabe Crate",
@@ -68,18 +83,6 @@
       "Gabe Crate",
       "Susan Daigle-Leach",
       "Susan Daigle-Leach"
-    ],
-    "id": 30057,
-    "malId": 57,
-    "type": "manga",
-    "title": "Hanazakari no Kimitachi e",
-    "url": "https://anilist.co/manga/30057",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30057-j84ueZYLxdoC.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57/Hanazakari_no_Kimitachi_e"
+    ]
+  }
 }

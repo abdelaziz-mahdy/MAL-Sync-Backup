@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mihara Mitsukazu"
-  ],
+  "createdAt": "2020-10-12T16:12:25.000Z",
+  "updatedAt": "2021-12-05T14:53:25.000Z",
+  "checkedAt": null,
+  "id": 21045,
   "identifier": "b0f2be93-67f9-453c-a1be-c16e2f7d4b2c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 143,
   "aniId": 30143,
-  "createdAt": "2020-10-12T16:12:25.000Z",
-  "updatedAt": "2021-12-05T14:53:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mihara Mitsukazu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/Beautiful_people"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-16T16:08:38.000Z",
+    "checkedAt": "2022-05-16T16:08:38.000Z",
+    "id": 143,
+    "type": "manga",
+    "title": "Beautiful People",
     "altTitle": [
       "Seppakuhime",
       "World's End",
@@ -34,40 +35,42 @@
       "Beautiful People",
       "beautiful people"
     ],
-    "authors": [
-      "Mihara, Mitsukazu"
-    ],
-    "id": 143,
-    "type": "manga",
-    "title": "Beautiful People",
     "url": "https://myanimelist.net/manga/143/Beautiful_People",
     "image": "https://cdn.myanimelist.net/images/manga/1/173682.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-08T13:30:34.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Beautiful_people"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mihara, Mitsukazu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:49.382Z",
+    "updatedAt": "2022-05-16T16:08:36.000Z",
+    "checkedAt": "2022-05-16T16:08:36.000Z",
+    "id": 30143,
+    "type": "manga",
+    "title": "beautiful people",
     "altTitle": [
       "Beautiful People",
       "ビューティフルピープル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsukazu Mihara"
-    ],
-    "id": 30143,
-    "malId": 143,
-    "type": "manga",
-    "title": "beautiful people",
     "url": "https://anilist.co/manga/30143",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30143-r2L6N0Id9Klx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-12-17T09:04:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143/Beautiful_People"
+    "externalLinks": [],
+    "malId": 143,
+    "deletedAt": null,
+    "authors": [
+      "Mitsukazu Mihara"
+    ]
+  }
 }

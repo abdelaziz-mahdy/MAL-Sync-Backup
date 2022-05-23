@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gotabi",
-    "Sa Eun Yeong"
-  ],
+  "createdAt": "2021-02-22T05:33:31.000Z",
+  "updatedAt": "2021-12-18T01:48:25.000Z",
+  "checkedAt": null,
+  "id": 63393,
   "identifier": "please-throw-me-away",
   "type": "manga",
   "page": "MangaSee",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 120088,
-  "createdAt": "2021-02-22T05:33:31.000Z",
-  "updatedAt": "2021-12-18T01:48:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gotabi",
+    "Sa Eun Yeong"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:13.541Z",
+    "updatedAt": "2022-05-17T19:22:17.000Z",
+    "checkedAt": "2022-05-17T19:22:17.000Z",
+    "id": 120088,
+    "type": "manga",
+    "title": "Nareul Beoryeojuseyo",
     "altTitle": [
       "Just Leave Me Be",
       "나를 버려주세요",
@@ -30,23 +38,17 @@
       "请拋弃我",
       "Throw Me Away"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eun-Hyang Ja",
-      "Chero",
-      "Kotavi"
-    ],
-    "id": 120088,
-    "malId": null,
-    "type": "manga",
-    "title": "Nareul Beoryeojuseyo",
     "url": "https://anilist.co/manga/120088",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120088-mtk6tyI00u7a.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T19:13:07.000Z",
-    "updatedAt": "2022-02-07T18:11:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Hyang Ja",
+      "Chero",
+      "Kotavi"
+    ]
+  }
 }

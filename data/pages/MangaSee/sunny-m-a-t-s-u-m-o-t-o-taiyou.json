@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MATSUMOTO Taiyou"
-  ],
+  "createdAt": "2020-12-30T21:48:07.000Z",
+  "updatedAt": "2021-12-01T00:14:18.000Z",
+  "checkedAt": null,
+  "id": 56292,
   "identifier": "sunny-m-a-t-s-u-m-o-t-o-taiyou",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 23571,
   "aniId": 53571,
-  "createdAt": "2020-12-30T21:48:07.000Z",
-  "updatedAt": "2021-12-01T00:14:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "MATSUMOTO Taiyou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:10.000Z",
+    "updatedAt": "2022-05-14T21:09:22.000Z",
+    "checkedAt": "2022-05-14T21:09:22.000Z",
+    "id": 23571,
+    "type": "manga",
+    "title": "Sunny",
+    "altTitle": [
+      "Sunny",
+      "Sunny"
+    ],
+    "url": "https://myanimelist.net/manga/23571/Sunny",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151417.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sunny",
-      "Sunny"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Taiyou"
-    ],
-    "id": 23571,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:05.671Z",
+    "updatedAt": "2022-05-15T18:40:35.000Z",
+    "checkedAt": "2022-05-15T18:40:35.000Z",
+    "id": 53571,
     "type": "manga",
     "title": "Sunny",
-    "url": "https://myanimelist.net/manga/23571/Sunny",
-    "image": "https://cdn.myanimelist.net/images/manga/1/151417.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:10.000Z",
-    "updatedAt": "2022-04-16T23:33:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sunny",
       "Sunny"
     ],
+    "url": "https://anilist.co/manga/53571",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53571-c3hqIJ4GdaLW.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 23571,
+    "deletedAt": null,
     "authors": [
       "Taiyou Matsumoto",
       "Thibaud Desbief",
       "Michael Arias",
       "Arnaldo Oka"
-    ],
-    "id": 53571,
-    "malId": 23571,
-    "type": "manga",
-    "title": "Sunny",
-    "url": "https://anilist.co/manga/53571",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53571-c3hqIJ4GdaLW.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:38.000Z",
-    "updatedAt": "2022-03-31T23:00:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23571/Sunny"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hanazawa Kengo"
-  ],
+  "createdAt": "2020-10-12T16:02:47.000Z",
+  "updatedAt": "2021-12-02T09:47:47.000Z",
+  "checkedAt": null,
+  "id": 857,
   "identifier": "ff5ef336-72d7-45a2-bc69-c2ae8fbfeec8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14440,
   "aniId": 44440,
-  "createdAt": "2020-10-12T16:02:47.000Z",
-  "updatedAt": "2021-12-02T09:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanazawa Kengo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:05.000Z",
+    "updatedAt": "2022-05-14T21:53:29.000Z",
+    "checkedAt": "2022-05-14T21:53:29.000Z",
+    "id": 14440,
+    "type": "manga",
+    "title": "I Am a Hero",
+    "altTitle": [
+      "I Am a Hero",
+      "アイアムアヒーロー"
+    ],
+    "url": "https://myanimelist.net/manga/14440/I_Am_a_Hero",
+    "image": "https://cdn.myanimelist.net/images/manga/1/121183.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +45,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I Am a Hero",
-      "アイアムアヒーロー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hanazawa, Kengo"
-    ],
-    "id": 14440,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:18.844Z",
+    "updatedAt": "2022-05-15T18:40:35.000Z",
+    "checkedAt": "2022-05-15T18:40:35.000Z",
+    "id": 44440,
     "type": "manga",
     "title": "I Am a Hero",
-    "url": "https://myanimelist.net/manga/14440/I_Am_a_Hero",
-    "image": "https://cdn.myanimelist.net/images/manga/1/121183.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:05.000Z",
-    "updatedAt": "2022-05-03T01:32:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "I Am a Hero",
       "アイアムアヒーロー",
       "Ben Bir Kahramanım"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kengo Hanazawa",
-      "Lídia Ivasa",
-      "Ay Özgül"
-    ],
-    "id": 44440,
-    "malId": 14440,
-    "type": "manga",
-    "title": "I Am a Hero",
     "url": "https://anilist.co/manga/44440",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44440-oLFibAj4TvM7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:46.000Z",
-    "updatedAt": "2022-05-14T12:30:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14440/I_Am_a_Hero"
+    "externalLinks": [],
+    "malId": 14440,
+    "deletedAt": null,
+    "authors": [
+      "Kengo Hanazawa",
+      "Lídia Ivasa",
+      "Ay Özgül"
+    ]
+  }
 }

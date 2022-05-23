@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:01:24.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19702,
   "identifier": "nekopara-dub",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38924,
   "aniId": 106863,
-  "createdAt": "2020-10-12T16:01:24.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:07.000Z",
+    "updatedAt": "2022-05-14T07:03:43.000Z",
+    "checkedAt": "2022-05-14T07:03:43.000Z",
+    "id": 38924,
+    "type": "anime",
+    "title": "Nekopara",
+    "altTitle": [
+      "Neko Para",
+      "Nekopara",
+      "ネコぱら"
+    ],
+    "url": "https://myanimelist.net/anime/38924/Nekopara",
+    "image": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,45 +56,31 @@
         "url": "https://www.funimation.com/shows/nekopara"
       }
     ],
-    "altTitle": [
-      "Neko Para",
-      "Nekopara",
-      "ネコぱら"
-    ],
-    "id": 38924,
+    "deletedAt": null,
+    "anidbId": 14570
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T11:52:47.000Z",
+    "checkedAt": "2022-05-15T11:52:47.000Z",
+    "id": 106863,
     "type": "anime",
     "title": "Nekopara",
-    "url": "https://myanimelist.net/anime/38924/Nekopara",
-    "image": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14570,
-    "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2022-04-08T12:00:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Nekopara",
       "ネコぱら"
     ],
+    "url": "https://anilist.co/anime/106863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106863-CxiCK7HejySK.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/nekopara/"
       }
     ],
-    "id": 106863,
     "malId": 38924,
-    "type": "anime",
-    "title": "Nekopara",
-    "url": "https://anilist.co/anime/106863",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106863-CxiCK7HejySK.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:24.000Z",
-    "updatedAt": "2021-12-17T09:03:19.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38924/Nekopara"
+  }
 }

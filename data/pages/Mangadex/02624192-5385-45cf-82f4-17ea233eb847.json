@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hirano Kouta"
-  ],
+  "createdAt": "2020-10-12T16:04:58.000Z",
+  "updatedAt": "2021-12-03T09:46:57.000Z",
+  "checkedAt": null,
+  "id": 5424,
   "identifier": "02624192-5385-45cf-82f4-17ea233eb847",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14603,
   "aniId": 44603,
-  "createdAt": "2020-10-12T16:04:58.000Z",
-  "updatedAt": "2021-12-03T09:46:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hirano Kouta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:07.000Z",
+    "updatedAt": "2022-05-01T06:07:32.000Z",
+    "checkedAt": null,
+    "id": 14603,
+    "type": "manga",
+    "title": "Gunmania",
+    "altTitle": [
+      "ガンマニア"
+    ],
+    "url": "https://myanimelist.net/manga/14603/Gunmania",
+    "image": "https://cdn.myanimelist.net/images/manga/2/20934.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ガンマニア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirano, Kouta"
-    ],
-    "id": 14603,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:47.276Z",
+    "updatedAt": "2022-05-13T12:46:47.276Z",
+    "checkedAt": null,
+    "id": 44603,
     "type": "manga",
     "title": "Gunmania",
-    "url": "https://myanimelist.net/manga/14603/Gunmania",
-    "image": "https://cdn.myanimelist.net/images/manga/2/20934.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:07.000Z",
-    "updatedAt": "2022-05-01T06:07:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ガンマニア"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouta Hirano"
-    ],
-    "id": 44603,
-    "malId": 14603,
-    "type": "manga",
-    "title": "Gunmania",
     "url": "https://anilist.co/manga/44603",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44603-O4PnJDQCRTRN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:38.000Z",
-    "updatedAt": "2021-12-17T15:37:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14603/Gunmania"
+    "externalLinks": [],
+    "malId": 14603,
+    "deletedAt": null,
+    "authors": [
+      "Kouta Hirano"
+    ]
+  }
 }

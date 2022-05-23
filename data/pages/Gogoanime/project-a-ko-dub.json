@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-05-16T19:55:25.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 37007,
   "identifier": "project-a-ko-dub",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 212,
   "aniId": 212,
-  "createdAt": "2021-05-16T19:55:25.000Z",
-  "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T18:59:29.000Z",
+    "checkedAt": "2022-05-14T18:59:29.000Z",
+    "id": 212,
+    "type": "anime",
+    "title": "Project A-Ko",
+    "altTitle": [
+      "プロジェクトＡ子"
+    ],
+    "url": "https://myanimelist.net/anime/212/Project_A-Ko",
+    "image": "https://cdn.myanimelist.net/images/anime/2/58391.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +45,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "プロジェクトＡ子"
-    ],
+    "deletedAt": null,
+    "anidbId": 281
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T16:52:59.000Z",
+    "checkedAt": "2022-05-15T16:52:59.000Z",
     "id": 212,
     "type": "anime",
     "title": "Project A-Ko",
-    "url": "https://myanimelist.net/anime/212/Project_A-Ko",
-    "image": "https://cdn.myanimelist.net/images/anime/2/58391.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 281,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-03-28T07:00:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Project A-ko",
       "プロジェクトA子",
       "Projecte A-ko"
     ],
-    "externalLinks": [],
-    "id": 212,
-    "malId": 212,
-    "type": "anime",
-    "title": "Project A-Ko",
     "url": "https://anilist.co/anime/212",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx212-SSB2S3cbIumn.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2022-03-16T22:19:11.000Z",
+    "externalLinks": [],
+    "malId": 212,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/212/Project_A-Ko"
+  }
 }

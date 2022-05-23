@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:22.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5160,
   "identifier": "k0p9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29893,
   "aniId": 21043,
-  "createdAt": "2020-10-12T15:52:22.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:34.000Z",
+    "updatedAt": "2022-05-14T19:16:41.000Z",
+    "checkedAt": "2022-05-14T19:16:41.000Z",
+    "id": 29893,
+    "type": "anime",
+    "title": "Aria the Avvenire",
+    "altTitle": [
+      "Aria the Avvenire",
+      "ARIA The AVVENIRE"
+    ],
+    "url": "https://myanimelist.net/anime/29893/Aria_the_Avvenire",
+    "image": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,45 +49,37 @@
         "url": "http://en.wikipedia.org/wiki/Aria_(manga)"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Aria the Avvenire",
-      "ARIA The AVVENIRE"
+    "legalLinks": [
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/aria/"
+      }
     ],
-    "id": 29893,
-    "type": "anime",
-    "title": "Aria the Avvenire",
-    "url": "https://myanimelist.net/anime/29893/Aria_the_Avvenire",
-    "image": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 11059,
-    "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2022-01-03T14:53:53.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11059
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:52.000Z",
+    "updatedAt": "2022-05-15T14:46:11.000Z",
+    "checkedAt": "2022-05-15T14:46:11.000Z",
+    "id": 21043,
+    "type": "anime",
+    "title": "ARIA The AVVENIRE",
     "altTitle": [
       "ARIA The AVVENIRE",
       "ARIA The AVVENIRE"
     ],
+    "url": "https://anilist.co/anime/21043",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21043-nkFhFISXKXHR.png",
+    "category": "special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/aria/"
       }
     ],
-    "id": 21043,
     "malId": 29893,
-    "type": "anime",
-    "title": "ARIA The AVVENIRE",
-    "url": "https://anilist.co/anime/21043",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21043-nkFhFISXKXHR.png",
-    "category": "special",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:52.000Z",
-    "updatedAt": "2022-04-18T08:30:25.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/29893/Aria_the_Avvenire"
+  }
 }

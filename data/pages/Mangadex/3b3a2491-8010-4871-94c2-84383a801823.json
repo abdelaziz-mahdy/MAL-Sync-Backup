@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Park So-Yeon"
-  ],
+  "createdAt": "2020-10-12T16:07:28.000Z",
+  "updatedAt": "2021-12-04T03:21:29.000Z",
+  "checkedAt": null,
+  "id": 10698,
   "identifier": "3b3a2491-8010-4871-94c2-84383a801823",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96112,
   "aniId": 85847,
-  "createdAt": "2020-10-12T16:07:28.000Z",
-  "updatedAt": "2021-12-04T03:21:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Park So-Yeon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:24.000Z",
+    "updatedAt": "2021-11-10T01:45:36.000Z",
+    "checkedAt": null,
+    "id": 96112,
+    "type": "manga",
+    "title": "Witch Hunt",
+    "altTitle": [
+      "Witch Hunt",
+      "마녀사냥"
+    ],
+    "url": "https://myanimelist.net/manga/96112/Witch_Hunt",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171755.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Witch Hunt",
-      "마녀사냥"
-    ],
+    "deletedAt": null,
     "authors": [
       "Park, So"
-    ],
-    "id": 96112,
-    "type": "manga",
-    "title": "Witch Hunt",
-    "url": "https://myanimelist.net/manga/96112/Witch_Hunt",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171755.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:24.000Z",
-    "updatedAt": "2021-11-10T01:45:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:57.724Z",
+    "updatedAt": "2022-05-13T12:50:57.724Z",
+    "checkedAt": null,
+    "id": 85847,
+    "type": "manga",
+    "title": "Manyeo Sanyang",
     "altTitle": [
       "Witch Hunt",
       "마녀사냥",
       "魔女獵人"
     ],
-    "externalLinks": [],
-    "authors": [
-      "So-Yeon Park"
-    ],
-    "id": 85847,
-    "malId": 96112,
-    "type": "manga",
-    "title": "Manyeo Sanyang",
     "url": "https://anilist.co/manga/85847",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/85847-ZkwcSMo2GDVN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:02.000Z",
-    "updatedAt": "2021-12-17T22:24:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96112/Witch_Hunt"
+    "externalLinks": [],
+    "malId": 96112,
+    "deletedAt": null,
+    "authors": [
+      "So-Yeon Park"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Rocky"
-  ],
+  "createdAt": "2020-10-12T16:13:30.000Z",
+  "updatedAt": "2021-12-05T22:48:50.000Z",
+  "checkedAt": null,
+  "id": 23032,
   "identifier": "5eb1b411-56d1-44da-a2d6-ba338f005376",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 116471,
-  "createdAt": "2020-10-12T16:13:30.000Z",
-  "updatedAt": "2021-12-05T22:48:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Rocky"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:52.723Z",
+    "updatedAt": "2022-05-13T13:05:52.723Z",
+    "checkedAt": null,
+    "id": 116471,
+    "type": "manga",
+    "title": "Shiawase ni Michita Yoru no Niwa",
     "altTitle": [
       "しあわせに満ちた夜の庭",
       "A Garden Filled at Night With Happiness"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rocky"
-    ],
-    "id": 116471,
-    "malId": 137773,
-    "type": "manga",
-    "title": "Shiawase ni Michita Yoru no Niwa",
     "url": "https://anilist.co/manga/116471",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116471-RiOzoMiYxDFi.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-05T22:19:18.000Z",
-    "updatedAt": "2021-12-21T15:28:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 137773,
+    "deletedAt": null,
+    "authors": [
+      "Rocky"
+    ]
+  }
 }

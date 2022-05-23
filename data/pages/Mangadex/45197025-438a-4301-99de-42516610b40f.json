@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "은렌",
-    "두가비"
-  ],
+  "createdAt": "2020-11-15T04:15:22.000Z",
+  "updatedAt": "2021-12-08T07:39:01.000Z",
+  "checkedAt": null,
+  "id": 52303,
   "identifier": "45197025-438a-4301-99de-42516610b40f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 126985,
-  "createdAt": "2020-11-15T04:15:22.000Z",
-  "updatedAt": "2021-12-08T07:39:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "은렌",
+    "두가비"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:32.556Z",
+    "updatedAt": "2022-05-13T12:41:32.556Z",
+    "checkedAt": null,
+    "id": 126985,
+    "type": "manga",
+    "title": "Hwapog-ui Gyejeol",
     "altTitle": [
       "화폭의 계절",
       "Seasons of Canvas"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eunren",
-      "Dugabi"
-    ],
-    "id": 126985,
-    "malId": null,
-    "type": "manga",
-    "title": "Hwapog-ui Gyejeol",
     "url": "https://anilist.co/manga/126985",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126985-DjfRbqzKqL8C.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T07:25:32.000Z",
-    "updatedAt": "2021-12-21T17:03:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Eunren",
+      "Dugabi"
+    ]
+  }
 }

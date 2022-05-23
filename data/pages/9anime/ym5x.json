@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:54.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10745,
   "identifier": "ym5x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1949,
   "aniId": 1949,
-  "createdAt": "2020-10-12T15:56:54.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:23.000Z",
+    "updatedAt": "2022-05-15T01:44:30.000Z",
+    "checkedAt": "2022-05-15T01:44:30.000Z",
+    "id": 1949,
+    "type": "anime",
+    "title": "Mahou no Chocolate",
+    "altTitle": [
+      "Magical Chocolate",
+      "魔法のチョコレート"
+    ],
+    "url": "https://myanimelist.net/anime/1949/Mahou_no_Chocolate",
+    "image": "https://cdn.myanimelist.net/images/anime/1055/112163.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Chocolate",
-      "魔法のチョコレート"
-    ],
+    "deletedAt": null,
+    "anidbId": 600
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:05.000Z",
+    "updatedAt": "2022-05-16T02:22:54.000Z",
+    "checkedAt": "2022-05-16T02:22:54.000Z",
     "id": 1949,
     "type": "anime",
     "title": "Mahou no Chocolate",
-    "url": "https://myanimelist.net/anime/1949/Mahou_no_Chocolate",
-    "image": "https://cdn.myanimelist.net/images/anime/1055/112163.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 600,
-    "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2022-03-31T03:04:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔法のチョコレート",
       "Magical Chocolate"
     ],
-    "externalLinks": [],
-    "id": 1949,
-    "malId": 1949,
-    "type": "anime",
-    "title": "Mahou no Chocolate",
     "url": "https://anilist.co/anime/1949",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1949.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:05.000Z",
-    "updatedAt": "2021-12-17T09:53:25.000Z",
+    "externalLinks": [],
+    "malId": 1949,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1949/Mahou_no_Chocolate"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Honma Akira"
-  ],
+  "createdAt": "2020-12-01T22:23:31.000Z",
+  "updatedAt": "2021-12-08T08:35:30.000Z",
+  "checkedAt": null,
+  "id": 53383,
   "identifier": "d2ec46c6-a4d4-4424-8b1e-731c9462352c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 946,
   "aniId": 30946,
-  "createdAt": "2020-12-01T22:23:31.000Z",
-  "updatedAt": "2021-12-08T08:35:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Honma Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-12-01T22:23:30.000Z",
+    "updatedAt": "2021-12-01T00:08:46.000Z",
+    "checkedAt": null,
+    "id": 946,
+    "type": "manga",
+    "title": "Saigo no Shouzou",
+    "altTitle": [
+      "Last Portrait",
+      "最後の肖像"
+    ],
+    "url": "https://myanimelist.net/manga/946/Saigo_no_Shouzou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/5464.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Last Portrait",
-      "最後の肖像"
-    ],
+    "deletedAt": null,
     "authors": [
       "Honma, Akira"
-    ],
-    "id": 946,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:00.664Z",
+    "updatedAt": "2022-05-13T13:04:00.664Z",
+    "checkedAt": null,
+    "id": 30946,
     "type": "manga",
     "title": "Saigo no Shouzou",
-    "url": "https://myanimelist.net/manga/946/Saigo_no_Shouzou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/5464.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-01T22:23:30.000Z",
-    "updatedAt": "2021-12-01T00:08:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Last Portrait",
       "最後の肖像"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Honma"
-    ],
-    "id": 30946,
-    "malId": 946,
-    "type": "manga",
-    "title": "Saigo no Shouzou",
     "url": "https://anilist.co/manga/30946",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/946.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2021-12-17T09:37:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/946/Saigo_no_Shouzou"
+    "externalLinks": [],
+    "malId": 946,
+    "deletedAt": null,
+    "authors": [
+      "Akira Honma"
+    ]
+  }
 }

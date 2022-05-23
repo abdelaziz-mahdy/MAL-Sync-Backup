@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TEZUKA Osamu"
-  ],
+  "createdAt": "2022-04-12T13:31:55.000Z",
+  "updatedAt": "2022-04-12T14:00:24.000Z",
+  "checkedAt": null,
+  "id": 101240,
   "identifier": "lion_books",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 27743,
   "aniId": 57743,
-  "createdAt": "2022-04-12T13:31:55.000Z",
-  "updatedAt": "2022-04-12T14:00:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "TEZUKA Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:28.000Z",
+    "updatedAt": "2022-04-12T13:32:05.000Z",
+    "checkedAt": null,
+    "id": 27743,
+    "type": "manga",
+    "title": "Lion Books",
+    "altTitle": [
+      "ライオンブックス"
+    ],
+    "url": "https://myanimelist.net/manga/27743/Lion_Books",
+    "image": "https://cdn.myanimelist.net/images/manga/2/44661.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ライオンブックス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 27743,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:30.212Z",
+    "updatedAt": "2022-05-13T12:56:30.212Z",
+    "checkedAt": null,
+    "id": 57743,
     "type": "manga",
     "title": "Lion Books",
-    "url": "https://myanimelist.net/manga/27743/Lion_Books",
-    "image": "https://cdn.myanimelist.net/images/manga/2/44661.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:28.000Z",
-    "updatedAt": "2022-04-12T13:32:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ライオンブックス",
       "Raion Bukkusu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka"
-    ],
-    "id": 57743,
-    "malId": 27743,
-    "type": "manga",
-    "title": "Lion Books",
     "url": "https://anilist.co/manga/57743",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27743.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:29.000Z",
-    "updatedAt": "2021-12-17T18:56:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/27743/Lion_Books"
+    "externalLinks": [],
+    "malId": 27743,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka"
+    ]
+  }
 }

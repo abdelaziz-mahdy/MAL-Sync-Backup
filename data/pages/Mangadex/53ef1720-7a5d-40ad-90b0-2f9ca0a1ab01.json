@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Atsushi Ohkubo"
-  ],
+  "createdAt": "2020-10-12T16:02:27.000Z",
+  "updatedAt": "2021-12-02T07:16:48.000Z",
+  "checkedAt": null,
+  "id": 142,
   "identifier": "53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 908,
   "aniId": 30908,
-  "createdAt": "2020-10-12T16:02:27.000Z",
-  "updatedAt": "2021-12-02T07:16:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atsushi Ohkubo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-14T23:56:35.000Z",
+    "checkedAt": "2022-05-14T23:56:35.000Z",
+    "id": 908,
+    "type": "manga",
+    "title": "Soul Eater",
+    "altTitle": [
+      "Soul Eater",
+      "SOUL EATER"
+    ],
+    "url": "https://myanimelist.net/manga/908/Soul_Eater",
+    "image": "https://cdn.myanimelist.net/images/manga/1/159808.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,30 +45,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Soul Eater",
-      "SOUL EATER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ookubo, Atsushi"
-    ],
-    "id": 908,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:32.437Z",
+    "updatedAt": "2022-05-15T12:05:59.000Z",
+    "checkedAt": "2022-05-15T12:05:59.000Z",
+    "id": 30908,
     "type": "manga",
     "title": "Soul Eater",
-    "url": "https://myanimelist.net/manga/908/Soul_Eater",
-    "image": "https://cdn.myanimelist.net/images/manga/1/159808.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-06T04:31:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Soul Eater",
       "ソウルイーター"
     ],
+    "url": "https://anilist.co/manga/30908",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30908-nk6Ct4euJelZ.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 908,
+    "deletedAt": null,
     "authors": [
       "Atsushi Ookubo",
       "Abigail Blackman",
@@ -73,18 +88,6 @@
       "Ryousuke Asakura",
       "Jack Wiedrick",
       "Stephen Paul"
-    ],
-    "id": 30908,
-    "malId": 908,
-    "type": "manga",
-    "title": "Soul Eater",
-    "url": "https://anilist.co/manga/30908",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30908-nk6Ct4euJelZ.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2022-01-08T23:17:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/908/Soul_Eater"
+    ]
+  }
 }

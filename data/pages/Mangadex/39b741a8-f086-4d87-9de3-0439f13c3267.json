@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mio Junta"
-  ],
+  "createdAt": "2021-01-13T08:28:55.000Z",
+  "updatedAt": "2021-12-08T11:07:40.000Z",
+  "checkedAt": null,
+  "id": 58471,
   "identifier": "39b741a8-f086-4d87-9de3-0439f13c3267",
   "type": "manga",
   "page": "Mangadex",
@@ -11,36 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122428,
   "aniId": 110164,
-  "createdAt": "2021-01-13T08:28:55.000Z",
-  "updatedAt": "2021-12-08T11:07:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mio Junta"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-08T10:42:26.000Z",
+    "updatedAt": "2021-12-08T11:05:49.000Z",
+    "checkedAt": null,
+    "id": 122428,
+    "type": "manga",
+    "title": "Hikoi",
     "altTitle": [
       "Immoral Love",
       "Hiren",
       "Renai Moratorium",
       "秘恋〈ひこい〉"
     ],
-    "authors": [
-      "Mio, Junta"
-    ],
-    "id": 122428,
-    "type": "manga",
-    "title": "Hikoi",
     "url": "https://myanimelist.net/manga/122428/Hikoi",
     "image": "https://cdn.myanimelist.net/images/manga/3/224753.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-08T10:42:26.000Z",
-    "updatedAt": "2021-12-08T11:05:49.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mio, Junta"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:34.458Z",
+    "updatedAt": "2022-05-13T12:50:34.458Z",
+    "checkedAt": null,
+    "id": 110164,
+    "type": "manga",
+    "title": "Hiren",
     "altTitle": [
       "秘恋",
       "Hikoi",
@@ -48,21 +57,15 @@
       "恋愛モラトリアム",
       "Renai Moratorium"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Junta Mio"
-    ],
-    "id": 110164,
-    "malId": 122428,
-    "type": "manga",
-    "title": "Hiren",
     "url": "https://anilist.co/manga/110164",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110164-NinE7GsbdH03.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-08T10:25:41.000Z",
-    "updatedAt": "2021-12-18T06:51:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122428/Hikoi"
+    "externalLinks": [],
+    "malId": 122428,
+    "deletedAt": null,
+    "authors": [
+      "Junta Mio"
+    ]
+  }
 }

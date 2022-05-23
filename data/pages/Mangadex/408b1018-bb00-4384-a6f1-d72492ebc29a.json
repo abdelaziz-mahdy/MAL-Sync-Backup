@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamada Yoshihiro"
-  ],
+  "createdAt": "2020-10-12T16:04:16.000Z",
+  "updatedAt": "2021-12-02T20:17:27.000Z",
+  "checkedAt": null,
+  "id": 3997,
   "identifier": "408b1018-bb00-4384-a6f1-d72492ebc29a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5380,
   "aniId": 35380,
-  "createdAt": "2020-10-12T16:04:16.000Z",
-  "updatedAt": "2021-12-02T20:17:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Yoshihiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:05.000Z",
+    "updatedAt": "2022-05-14T20:11:18.000Z",
+    "checkedAt": "2022-05-14T20:11:18.000Z",
+    "id": 5380,
+    "type": "manga",
+    "title": "Hyouge Mono",
+    "altTitle": [
+      "Hyougemono",
+      "Heugemono",
+      "Odd Things",
+      "へうげもの"
+    ],
+    "url": "https://myanimelist.net/manga/5380/Hyouge_Mono",
+    "image": "https://cdn.myanimelist.net/images/manga/1/199292.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hyougemono",
-      "Heugemono",
-      "Odd Things",
-      "へうげもの"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Yoshihiro"
-    ],
-    "id": 5380,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:50.689Z",
+    "updatedAt": "2022-05-15T18:39:35.000Z",
+    "checkedAt": "2022-05-15T18:39:35.000Z",
+    "id": 35380,
     "type": "manga",
     "title": "Hyouge Mono",
-    "url": "https://myanimelist.net/manga/5380/Hyouge_Mono",
-    "image": "https://cdn.myanimelist.net/images/manga/1/199292.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:05.000Z",
-    "updatedAt": "2022-04-06T15:01:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "へうげもの",
       "Hyougemono",
       "Tea for Universe",
       "Tea for Life"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshihiro Yamada"
-    ],
-    "id": 35380,
-    "malId": 5380,
-    "type": "manga",
-    "title": "Hyouge Mono",
     "url": "https://anilist.co/manga/35380",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35380-9zOqmtKg9fOA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:28.000Z",
-    "updatedAt": "2021-12-17T12:18:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5380/Hyouge_Mono"
+    "externalLinks": [],
+    "malId": 5380,
+    "deletedAt": null,
+    "authors": [
+      "Yoshihiro Yamada"
+    ]
+  }
 }

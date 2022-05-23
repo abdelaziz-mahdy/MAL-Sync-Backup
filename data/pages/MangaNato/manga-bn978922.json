@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinzo Keigo"
-  ],
+  "createdAt": "2021-06-23T19:14:52.000Z",
+  "updatedAt": "2021-12-23T19:51:56.000Z",
+  "checkedAt": null,
+  "id": 79553,
   "identifier": "manga-bn978922",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 114006,
   "aniId": 101607,
-  "createdAt": "2021-06-23T19:14:52.000Z",
-  "updatedAt": "2021-12-23T19:51:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinzo Keigo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:34.000Z",
+    "updatedAt": "2022-05-19T14:22:02.000Z",
+    "checkedAt": "2022-05-19T14:22:02.000Z",
+    "id": 114006,
+    "type": "manga",
+    "title": "Nora to Zassou",
+    "altTitle": [
+      "Nora to Zasso",
+      "ノラと雑草"
+    ],
+    "url": "https://myanimelist.net/manga/114006/Nora_to_Zassou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/213119.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nora to Zasso",
-      "ノラと雑草"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinzou, Keigo"
-    ],
-    "id": 114006,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:28.573Z",
+    "updatedAt": "2022-05-19T14:22:01.000Z",
+    "checkedAt": "2022-05-19T14:22:01.000Z",
+    "id": 101607,
     "type": "manga",
     "title": "Nora to Zassou",
-    "url": "https://myanimelist.net/manga/114006/Nora_to_Zassou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/213119.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:34.000Z",
-    "updatedAt": "2021-12-23T19:22:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ノラと雑草",
       "Mauvaise Herbe",
@@ -51,22 +60,16 @@
       "The Stray and the Weeds",
       "Randagi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keigo Shinzou",
-      "Aurélien Estager"
-    ],
-    "id": 101607,
-    "malId": 114006,
-    "type": "manga",
-    "title": "Nora to Zassou",
     "url": "https://anilist.co/manga/101607",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101607-MKbX35JrKWWt.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:04.000Z",
-    "updatedAt": "2021-12-18T03:55:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/114006/Nora_to_Zassou"
+    "externalLinks": [],
+    "malId": 114006,
+    "deletedAt": null,
+    "authors": [
+      "Keigo Shinzou",
+      "Aurélien Estager"
+    ]
+  }
 }

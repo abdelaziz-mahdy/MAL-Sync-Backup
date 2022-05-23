@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Amagappa Shoujogun",
-    "Ame to Toge"
-  ],
+  "createdAt": "2020-10-12T16:16:12.000Z",
+  "updatedAt": "2021-12-06T20:47:40.000Z",
+  "checkedAt": null,
+  "id": 28591,
   "identifier": "b1398e74-9afc-49a8-81f3-1a6f478188a8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94161,
   "aniId": 125937,
-  "createdAt": "2020-10-12T16:16:12.000Z",
-  "updatedAt": "2021-12-06T20:47:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amagappa Shoujogun",
+    "Ame to Toge"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-05-22T14:05:21.000Z",
+    "checkedAt": "2022-05-22T14:05:21.000Z",
+    "id": 94161,
+    "type": "manga",
+    "title": "Shoujo Netsu",
     "altTitle": [
       "Jugyou Sankan",
       "Parent's Day",
@@ -35,21 +41,24 @@
       "Girls Fever",
       "少女熱"
     ],
-    "authors": [
-      "Ame to Toge"
-    ],
-    "id": 94161,
-    "type": "manga",
-    "title": "Shoujo Netsu",
     "url": "https://myanimelist.net/manga/94161/Shoujo_Netsu",
     "image": "https://cdn.myanimelist.net/images/manga/1/166897.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2022-02-18T17:19:02.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ame to Toge"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:22.195Z",
+    "updatedAt": "2022-05-22T14:05:20.000Z",
+    "checkedAt": "2022-05-22T14:05:20.000Z",
+    "id": 125937,
+    "type": "manga",
+    "title": "Shoujo Netsu",
     "altTitle": [
       "少女熱",
       "Girls Fever",
@@ -64,21 +73,15 @@
       "Yume wo Meguru Enkan ",
       "GirlsFever"
     ],
-    "externalLinks": [],
-    "authors": [
-      " Amagappa Shoujogu"
-    ],
-    "id": 125937,
-    "malId": 94161,
-    "type": "manga",
-    "title": "Shoujo Netsu",
     "url": "https://anilist.co/manga/125937",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125937-2oaDG83B0LyG.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2021-12-18T11:20:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94161/Shoujo_Netsu"
+    "externalLinks": [],
+    "malId": 94161,
+    "deletedAt": null,
+    "authors": [
+      " Amagappa Shoujogu"
+    ]
+  }
 }

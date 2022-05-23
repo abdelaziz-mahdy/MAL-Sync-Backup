@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Minami Maki"
-  ],
+  "createdAt": "2020-10-12T16:03:54.000Z",
+  "updatedAt": "2021-12-02T17:49:59.000Z",
+  "checkedAt": null,
+  "id": 3202,
   "identifier": "3c656386-202d-48ae-aa56-5017adc9e81b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14633,
   "aniId": 44633,
-  "createdAt": "2020-10-12T16:03:54.000Z",
-  "updatedAt": "2021-12-02T17:49:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minami Maki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:07.000Z",
+    "updatedAt": "2022-05-17T09:50:25.000Z",
+    "checkedAt": "2022-05-17T09:50:25.000Z",
+    "id": 14633,
+    "type": "manga",
+    "title": "Seiyuu Ka!",
+    "altTitle": [
+      "Seiyu Kaa!",
+      "Seiyuu Ka-!",
+      "Seiyuka!",
+      "Voice Over!: Seiyu Academy",
+      "声優かっ!"
+    ],
+    "url": "https://myanimelist.net/manga/14633/Seiyuu_Ka",
+    "image": "https://cdn.myanimelist.net/images/manga/4/30985.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,28 +48,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seiyu Kaa!",
-      "Seiyuu Ka-!",
-      "Seiyuka!",
-      "Voice Over!: Seiyu Academy",
-      "声優かっ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minami, Maki"
-    ],
-    "id": 14633,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:18.775Z",
+    "updatedAt": "2022-05-17T09:50:24.000Z",
+    "checkedAt": "2022-05-17T09:50:24.000Z",
+    "id": 44633,
     "type": "manga",
     "title": "Seiyuu Ka!",
-    "url": "https://myanimelist.net/manga/14633/Seiyuu_Ka",
-    "image": "https://cdn.myanimelist.net/images/manga/4/30985.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:07.000Z",
-    "updatedAt": "2022-04-21T15:01:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Voice Over!: Seiyuu Academy",
       "声優かっ!",
@@ -58,21 +67,15 @@
       "Seiyuu Ka-!",
       "Seiyuka!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maki Minami"
-    ],
-    "id": 44633,
-    "malId": 14633,
-    "type": "manga",
-    "title": "Seiyuu Ka!",
     "url": "https://anilist.co/manga/44633",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44633-EuXudyXKm6zY.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:38.000Z",
-    "updatedAt": "2022-03-17T09:49:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14633/Seiyuu_Ka"
+    "externalLinks": [],
+    "malId": 14633,
+    "deletedAt": null,
+    "authors": [
+      "Maki Minami"
+    ]
+  }
 }

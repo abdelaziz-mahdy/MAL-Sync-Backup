@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "IWAI Kyohei",
-    "TOKIYA Seigo"
-  ],
+  "createdAt": "2021-04-15T15:15:58.000Z",
+  "updatedAt": "2022-03-27T21:08:16.000Z",
+  "checkedAt": null,
+  "id": 69438,
   "identifier": "o-z-t-o-k-i-y-a-seigo",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 20683,
   "aniId": 50683,
-  "createdAt": "2021-04-15T15:15:58.000Z",
-  "updatedAt": "2022-03-27T21:08:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "IWAI Kyohei",
+    "TOKIYA Seigo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:52.000Z",
+    "updatedAt": "2022-05-23T03:36:58.000Z",
+    "checkedAt": "2022-05-23T03:36:58.000Z",
+    "id": 20683,
+    "type": "manga",
+    "title": "OZ",
+    "altTitle": [
+      "Oz―オズ―"
+    ],
+    "url": "https://myanimelist.net/manga/20683/OZ",
+    "image": "https://cdn.myanimelist.net/images/manga/3/116793.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Oz―オズ―"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tokiya, Seigo",
       "Iwai, Kyohei"
-    ],
-    "id": 20683,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:14.136Z",
+    "updatedAt": "2022-05-23T03:36:57.000Z",
+    "checkedAt": "2022-05-23T03:36:57.000Z",
+    "id": 50683,
     "type": "manga",
     "title": "OZ",
-    "url": "https://myanimelist.net/manga/20683/OZ",
-    "image": "https://cdn.myanimelist.net/images/manga/3/116793.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:52.000Z",
-    "updatedAt": "2022-03-15T03:29:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Oz―オズ―"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Seigo Tokiya"
-    ],
-    "id": 50683,
-    "malId": 20683,
-    "type": "manga",
-    "title": "OZ",
     "url": "https://anilist.co/manga/50683",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20683.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:33.000Z",
-    "updatedAt": "2021-12-17T17:32:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20683/OZ"
+    "externalLinks": [],
+    "malId": 20683,
+    "deletedAt": null,
+    "authors": [
+      "Seigo Tokiya"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aoyama Haruno"
-  ],
+  "createdAt": "2020-10-12T16:10:19.000Z",
+  "updatedAt": "2021-12-05T09:20:50.000Z",
+  "checkedAt": null,
+  "id": 16884,
   "identifier": "25ad0f0d-91fa-4a7e-8db6-49ba82b295af",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94548,
   "aniId": 96431,
-  "createdAt": "2020-10-12T16:10:19.000Z",
-  "updatedAt": "2021-12-05T09:20:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aoyama Haruno"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T00:21:37.000Z",
+    "updatedAt": "2021-12-05T00:49:49.000Z",
+    "checkedAt": null,
+    "id": 94548,
+    "type": "manga",
+    "title": "Koisuru Little",
+    "altTitle": [
+      "Little Love Story",
+      "Falling In Love Little",
+      "恋するリトル"
+    ],
+    "url": "https://myanimelist.net/manga/94548/Koisuru_Little",
+    "image": "https://cdn.myanimelist.net/images/manga/1/175567.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Little Love Story",
-      "Falling In Love Little",
-      "恋するリトル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoyama, Haruno"
-    ],
-    "id": 94548,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:20.829Z",
+    "updatedAt": "2022-05-13T12:59:20.829Z",
+    "checkedAt": null,
+    "id": 96431,
     "type": "manga",
     "title": "Koisuru Little",
-    "url": "https://myanimelist.net/manga/94548/Koisuru_Little",
-    "image": "https://cdn.myanimelist.net/images/manga/1/175567.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T00:21:37.000Z",
-    "updatedAt": "2021-12-05T00:49:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "恋するリトル",
       "Falling In Love Little",
       "Little Love Story"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruno Aoyama"
-    ],
-    "id": 96431,
-    "malId": 94548,
-    "type": "manga",
-    "title": "Koisuru Little",
     "url": "https://anilist.co/manga/96431",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96431-mKxMqnlmt3JD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T00:21:38.000Z",
-    "updatedAt": "2021-12-18T01:49:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94548/Koisuru_Little"
+    "externalLinks": [],
+    "malId": 94548,
+    "deletedAt": null,
+    "authors": [
+      "Haruno Aoyama"
+    ]
+  }
 }

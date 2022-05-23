@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:44.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1770,
   "identifier": "39jy",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23333,
   "aniId": 20677,
-  "createdAt": "2020-10-12T15:49:44.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:27.000Z",
+    "updatedAt": "2022-05-14T19:45:17.000Z",
+    "checkedAt": "2022-05-14T19:45:17.000Z",
+    "id": 23333,
+    "type": "anime",
+    "title": "DRAMAtical Murder",
+    "altTitle": [
+      "DMMd",
+      "DRAMAtical Murder",
+      "ドラマティカル マーダー"
+    ],
+    "url": "https://myanimelist.net/anime/23333/DRAMAtical_Murder",
+    "image": "https://cdn.myanimelist.net/images/anime/6/75642.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -47,28 +64,24 @@
         "url": "https://shahid.mbc.net/en/series/DRAMAtical-Murder/series-821951"
       }
     ],
-    "altTitle": [
-      "DMMd",
-      "DRAMAtical Murder",
-      "ドラマティカル マーダー"
-    ],
-    "id": 23333,
+    "deletedAt": null,
+    "anidbId": 10554
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:33.000Z",
+    "updatedAt": "2022-05-15T09:38:59.000Z",
+    "checkedAt": "2022-05-15T09:38:59.000Z",
+    "id": 20677,
     "type": "anime",
     "title": "DRAMAtical Murder",
-    "url": "https://myanimelist.net/anime/23333/DRAMAtical_Murder",
-    "image": "https://cdn.myanimelist.net/images/anime/6/75642.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10554,
-    "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2022-04-11T19:39:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラマティカル マーダー",
       "DMMd"
     ],
+    "url": "https://anilist.co/anime/20677",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20677-ehVURG1q3Svw.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -83,17 +96,7 @@
         "url": "https://vrv.co/series/GR241V476/DRAMAtical-Murder"
       }
     ],
-    "id": 20677,
     "malId": 23333,
-    "type": "anime",
-    "title": "DRAMAtical Murder",
-    "url": "https://anilist.co/anime/20677",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20677-ehVURG1q3Svw.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:33.000Z",
-    "updatedAt": "2021-12-14T10:18:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/23333/DRAMAtical_Murder"
+  }
 }

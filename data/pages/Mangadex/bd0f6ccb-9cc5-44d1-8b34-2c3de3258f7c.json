@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikeda Riyoko"
-  ],
+  "createdAt": "2020-10-12T16:05:40.000Z",
+  "updatedAt": "2021-12-03T15:49:09.000Z",
+  "checkedAt": null,
+  "id": 6888,
   "identifier": "bd0f6ccb-9cc5-44d1-8b34-2c3de3258f7c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1419,
   "aniId": 31419,
-  "createdAt": "2020-10-12T16:05:40.000Z",
-  "updatedAt": "2021-12-03T15:49:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikeda Riyoko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%81%BE%E3%81%B8%E2%80%A6"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:33.000Z",
+    "updatedAt": "2022-05-15T14:12:59.000Z",
+    "checkedAt": "2022-05-15T14:12:58.000Z",
+    "id": 1419,
+    "type": "manga",
+    "title": "Oniisama e...",
     "altTitle": [
       "To My Brother...",
       "Brother Dearest...",
@@ -32,21 +33,29 @@
       "Brother, Dear Brother",
       "おにいさまへ…"
     ],
-    "authors": [
-      "Ikeda, Riyoko"
-    ],
-    "id": 1419,
-    "type": "manga",
-    "title": "Oniisama e...",
     "url": "https://myanimelist.net/manga/1419/Oniisama_e",
     "image": "https://cdn.myanimelist.net/images/manga/3/12030.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2021-12-03T14:46:15.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%81%BE%E3%81%B8%E2%80%A6"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ikeda, Riyoko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:27.301Z",
+    "updatedAt": "2022-05-15T18:07:35.000Z",
+    "checkedAt": "2022-05-15T18:07:35.000Z",
+    "id": 31419,
+    "type": "manga",
+    "title": "Onii-sama e...",
     "altTitle": [
       "おにいさまへ…",
       "To My Brother...",
@@ -55,21 +64,15 @@
       "Summer in Canterbury",
       "Mój drogi bracie "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Riyoko Ikeda"
-    ],
-    "id": 31419,
-    "malId": 1419,
-    "type": "manga",
-    "title": "Onii-sama e...",
     "url": "https://anilist.co/manga/31419",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31419-pGnaC3GoVaIk.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:44.000Z",
-    "updatedAt": "2021-12-17T10:06:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1419/Oniisama_e"
+    "externalLinks": [],
+    "malId": 1419,
+    "deletedAt": null,
+    "authors": [
+      "Riyoko Ikeda"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tanaka Yoshiki",
-    "Fukaki Shouko"
-  ],
+  "createdAt": "2020-10-12T16:03:10.000Z",
+  "updatedAt": "2021-12-02T12:18:17.000Z",
+  "checkedAt": null,
+  "id": 1666,
   "identifier": "23d358e1-b3e6-4c66-95c1-dfb8e1f97c41",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30755,
   "aniId": 60755,
-  "createdAt": "2020-10-12T16:03:10.000Z",
-  "updatedAt": "2021-12-02T12:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanaka Yoshiki",
+    "Fukaki Shouko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-11-05T00:05:21.000Z",
+    "checkedAt": null,
+    "id": 30755,
+    "type": "manga",
+    "title": "Klan",
+    "altTitle": [
+      "KLAN（クラン）"
+    ],
+    "url": "https://myanimelist.net/manga/30755/Klan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/54055.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "KLAN（クラン）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Yoshiki",
       "Fukaki, Shouko"
-    ],
-    "id": 30755,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:28.321Z",
+    "updatedAt": "2022-05-13T12:50:28.321Z",
+    "checkedAt": null,
+    "id": 60755,
     "type": "manga",
     "title": "Klan",
-    "url": "https://myanimelist.net/manga/30755/Klan",
-    "image": "https://cdn.myanimelist.net/images/manga/1/54055.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-11-05T00:05:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クラン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshiki Tanaka",
-      "Shouko Fukaki"
-    ],
-    "id": 60755,
-    "malId": 30755,
-    "type": "manga",
-    "title": "Klan",
     "url": "https://anilist.co/manga/60755",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30755.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:42.000Z",
-    "updatedAt": "2021-12-17T19:08:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30755/Klan"
+    "externalLinks": [],
+    "malId": 30755,
+    "deletedAt": null,
+    "authors": [
+      "Yoshiki Tanaka",
+      "Shouko Fukaki"
+    ]
+  }
 }

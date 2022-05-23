@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takamisaki Ryou"
-  ],
+  "createdAt": "2020-10-12T16:11:44.000Z",
+  "updatedAt": "2021-12-05T12:49:40.000Z",
+  "checkedAt": null,
+  "id": 19939,
   "identifier": "085a46d0-2adc-42f3-9fd3-4874000e2421",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 761,
   "aniId": 30761,
-  "createdAt": "2020-10-12T16:11:44.000Z",
-  "updatedAt": "2021-12-05T12:49:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takamisaki Ryou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-17T10:08:45.000Z",
+    "checkedAt": "2022-05-17T10:08:45.000Z",
+    "id": 761,
+    "type": "manga",
+    "title": "Rockman EXE",
+    "altTitle": [
+      "Rockman.EXE",
+      "MegaMan NT Warrior",
+      "ロックマン エグゼ"
+    ],
+    "url": "https://myanimelist.net/manga/761/Rockman_EXE",
+    "image": "https://cdn.myanimelist.net/images/manga/3/256646.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,52 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rockman.EXE",
-      "MegaMan NT Warrior",
-      "ロックマン エグゼ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takamisaki, Ryou"
-    ],
-    "id": 761,
-    "type": "manga",
-    "title": "Rockman EXE",
-    "url": "https://myanimelist.net/manga/761/Rockman_EXE",
-    "image": "https://cdn.myanimelist.net/images/manga/3/256646.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-04-04T18:00:43.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.678Z",
+    "updatedAt": "2022-05-17T10:08:44.000Z",
+    "checkedAt": "2022-05-17T10:08:44.000Z",
+    "id": 30761,
+    "type": "manga",
+    "title": "Rockman.EXE",
     "altTitle": [
       "MegaMan NT Warrior",
       "ロックマン エグゼ",
       "Rockman EXE"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/megaman"
-      }
-    ],
-    "authors": [
-      "Ryou Takamisaki",
-      "Capcom"
-    ],
-    "id": 30761,
-    "malId": 761,
-    "type": "manga",
-    "title": "Rockman.EXE",
     "url": "https://anilist.co/manga/30761",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30761-wHRkZauDhLNV.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T10:51:10.000Z",
-    "updatedAt": "2022-01-11T05:41:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/761/Rockman_EXE"
+    "externalLinks": [],
+    "malId": 761,
+    "deletedAt": null,
+    "authors": [
+      "Ryou Takamisaki",
+      "Capcom"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:23.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7677,
   "identifier": "ovjz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21305,
   "aniId": 87527,
-  "createdAt": "2020-10-12T15:54:23.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-14T21:51:30.000Z",
+    "checkedAt": "2022-05-14T21:51:30.000Z",
+    "id": 21305,
+    "type": "anime",
+    "title": "Trick or Alice",
+    "altTitle": [
+      "トリック・オア・アリス"
+    ],
+    "url": "https://myanimelist.net/anime/21305/Trick_or_Alice",
+    "image": "https://cdn.myanimelist.net/images/anime/12/85484.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,37 +45,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "トリック・オア・アリス"
-    ],
-    "id": 21305,
-    "type": "anime",
-    "title": "Trick or Alice",
-    "url": "https://myanimelist.net/anime/21305/Trick_or_Alice",
-    "image": "https://cdn.myanimelist.net/images/anime/12/85484.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 10267,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-01-12T04:12:09.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 10267
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:27.000Z",
+    "updatedAt": "2022-05-15T19:31:59.000Z",
+    "checkedAt": "2022-05-15T19:31:59.000Z",
+    "id": 87527,
+    "type": "anime",
+    "title": "Trick or Alice",
     "altTitle": [
       "トリック・オア・アリス"
     ],
-    "externalLinks": [],
-    "id": 87527,
-    "malId": 21305,
-    "type": "anime",
-    "title": "Trick or Alice",
     "url": "https://anilist.co/anime/87527",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87527-g5JwbaiI1T9Z.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:27.000Z",
-    "updatedAt": "2021-12-17T15:26:54.000Z",
+    "externalLinks": [],
+    "malId": 21305,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/21305/Trick_or_Alice"
+  }
 }

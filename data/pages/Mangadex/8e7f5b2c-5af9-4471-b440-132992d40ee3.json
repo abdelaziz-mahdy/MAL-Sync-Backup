@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gonzo",
-    "Ayamura Kirihito"
-  ],
+  "createdAt": "2020-10-12T16:04:51.000Z",
+  "updatedAt": "2021-12-03T00:16:39.000Z",
+  "checkedAt": null,
+  "id": 5168,
   "identifier": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5600,
   "aniId": 35600,
-  "createdAt": "2020-10-12T16:04:51.000Z",
-  "updatedAt": "2021-12-03T00:16:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gonzo",
+    "Ayamura Kirihito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:06.000Z",
+    "updatedAt": "2022-04-29T10:30:23.000Z",
+    "checkedAt": null,
+    "id": 5600,
+    "type": "manga",
+    "title": "Red Garden",
+    "altTitle": [
+      "RG",
+      "Red Garden",
+      "レッド ガーデン"
+    ],
+    "url": "https://myanimelist.net/manga/5600/Red_Garden",
+    "image": "https://cdn.myanimelist.net/images/manga/2/7164.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RG",
-      "Red Garden",
-      "レッド ガーデン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gonzo",
       "Ayamura, Kirihito"
-    ],
-    "id": 5600,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:21.907Z",
+    "updatedAt": "2022-05-13T12:42:21.907Z",
+    "checkedAt": null,
+    "id": 35600,
     "type": "manga",
     "title": "Red Garden",
-    "url": "https://myanimelist.net/manga/5600/Red_Garden",
-    "image": "https://cdn.myanimelist.net/images/manga/2/7164.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:06.000Z",
-    "updatedAt": "2022-04-29T10:30:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Red Garden",
       "レッド ガーデン",
       "RG"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kirihito Ayamura"
-    ],
-    "id": 35600,
-    "malId": 5600,
-    "type": "manga",
-    "title": "Red Garden",
     "url": "https://anilist.co/manga/35600",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5600.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:32.000Z",
-    "updatedAt": "2021-12-17T12:36:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5600/Red_Garden"
+    "externalLinks": [],
+    "malId": 5600,
+    "deletedAt": null,
+    "authors": [
+      "Kirihito Ayamura"
+    ]
+  }
 }

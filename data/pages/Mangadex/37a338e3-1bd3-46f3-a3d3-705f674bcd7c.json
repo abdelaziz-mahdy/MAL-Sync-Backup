@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Satou Tsutomu",
-    "Kitaumi Tsuna"
-  ],
+  "createdAt": "2020-10-12T16:10:42.000Z",
+  "updatedAt": "2022-05-16T15:29:29.000Z",
+  "checkedAt": "2022-05-16T15:29:21.000Z",
+  "id": 17700,
   "identifier": "37a338e3-1bd3-46f3-a3d3-705f674bcd7c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101482,
   "aniId": 99904,
-  "createdAt": "2020-10-12T16:10:42.000Z",
-  "updatedAt": "2021-12-05T02:51:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Tsutomu",
+    "Kitaumi Tsuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:43.000Z",
+    "updatedAt": "2022-05-14T19:11:47.000Z",
+    "checkedAt": "2022-05-14T19:11:47.000Z",
+    "id": 101482,
+    "type": "manga",
+    "title": "Mahouka Koukou no Rettousei: Double Seven-hen",
+    "altTitle": [
+      "魔法科高校の劣等生 ダブルセブン編"
+    ],
+    "url": "https://myanimelist.net/manga/101482/Mahouka_Koukou_no_Rettousei__Double_Seven-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/200962.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "魔法科高校の劣等生 ダブルセブン編"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitaumi, Tsuna",
       "Satou, Tsutomu"
-    ],
-    "id": 101482,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:30.335Z",
+    "updatedAt": "2022-05-16T15:29:56.000Z",
+    "checkedAt": "2022-05-16T15:29:45.000Z",
+    "id": 99904,
     "type": "manga",
     "title": "Mahouka Koukou no Rettousei: Double Seven-hen",
-    "url": "https://myanimelist.net/manga/101482/Mahouka_Koukou_no_Rettousei__Double_Seven-hen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/200962.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:43.000Z",
-    "updatedAt": "2022-02-05T19:06:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mahouka Koukou no Rettousei: Double Seven Hen",
       "魔法科高校の劣等生 ダブルセブン編",
       "Mahouka Koukou no Rettousei: Daburu Sebun Hen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuna Kitaumi",
-      "Tsutomu Satou",
-      "Kana Ishida"
-    ],
-    "id": 99904,
-    "malId": 101482,
-    "type": "manga",
-    "title": "Mahouka Koukou no Rettousei: Double Seven-hen",
     "url": "https://anilist.co/manga/99904",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99904-joyh9wDsSdJ0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:52.000Z",
-    "updatedAt": "2021-12-18T02:59:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/101482/Mahouka_Koukou_no_Rettousei__Double_Seven-hen"
+    "externalLinks": [],
+    "malId": 101482,
+    "deletedAt": null,
+    "authors": [
+      "Tsuna Kitaumi",
+      "Tsutomu Satou",
+      "Kana Ishida"
+    ]
+  }
 }

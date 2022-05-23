@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishida Sui"
-  ],
+  "createdAt": "2021-06-01T15:46:32.000Z",
+  "updatedAt": "2021-12-01T16:24:17.000Z",
+  "checkedAt": null,
+  "id": 75436,
   "identifier": "manga-lb962584",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33327,
   "aniId": 63327,
-  "createdAt": "2021-06-01T15:46:32.000Z",
-  "updatedAt": "2021-12-01T16:24:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishida Sui"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:47.000Z",
+    "updatedAt": "2022-05-14T17:29:53.000Z",
+    "checkedAt": "2022-05-14T17:29:53.000Z",
+    "id": 33327,
+    "type": "manga",
+    "title": "Tokyo Ghoul",
+    "altTitle": [
+      "Toukyou Kushu",
+      "Tokyo Ghoul",
+      "東京喰種トーキョーグール"
+    ],
+    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul",
+    "image": "https://cdn.myanimelist.net/images/manga/3/114037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Toukyou Kushu",
-      "Tokyo Ghoul",
-      "東京喰種トーキョーグール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishida, Sui"
-    ],
-    "id": 33327,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.475Z",
+    "updatedAt": "2022-05-15T12:48:23.000Z",
+    "checkedAt": "2022-05-15T12:48:23.000Z",
+    "id": 63327,
     "type": "manga",
     "title": "Tokyo Ghoul",
-    "url": "https://myanimelist.net/manga/33327/Tokyo_Ghoul",
-    "image": "https://cdn.myanimelist.net/images/manga/3/114037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:47.000Z",
-    "updatedAt": "2022-04-23T15:31:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tokyo Ghoul",
       "東京喰種 トーキョーグール",
@@ -59,12 +68,18 @@
       "Токийский гуль",
       "도쿄 구울"
     ],
+    "url": "https://anilist.co/manga/63327",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63327-zvK2l9DjCqK4.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100027"
       }
     ],
+    "malId": 33327,
+    "deletedAt": null,
     "authors": [
       "Sui Ishida",
       "Fernando Mucioli",
@@ -73,18 +88,6 @@
       "Dong-Uk Kang",
       "Akiko Indei",
       "Pierre Fernande"
-    ],
-    "id": 63327,
-    "malId": 33327,
-    "type": "manga",
-    "title": "Tokyo Ghoul",
-    "url": "https://anilist.co/manga/63327",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63327-zvK2l9DjCqK4.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:47:54.000Z",
-    "updatedAt": "2022-03-19T00:19:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33327/Tokyo_Ghoul"
+    ]
+  }
 }

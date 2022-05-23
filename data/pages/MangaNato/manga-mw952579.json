@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ueshiba Riichi"
-  ],
+  "createdAt": "2022-04-25T11:32:58.000Z",
+  "updatedAt": "2022-04-25T12:00:27.000Z",
+  "checkedAt": null,
+  "id": 102104,
   "identifier": "manga-mw952579",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5680,
   "aniId": 35680,
-  "createdAt": "2022-04-25T11:32:58.000Z",
-  "updatedAt": "2022-04-25T12:00:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ueshiba Riichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:07.000Z",
+    "updatedAt": "2022-05-17T12:10:58.000Z",
+    "checkedAt": "2022-05-17T12:10:58.000Z",
+    "id": 5680,
+    "type": "manga",
+    "title": "Discommunication",
+    "altTitle": [
+      "ディスコミュニケーション"
+    ],
+    "url": "https://myanimelist.net/manga/5680/Discommunication",
+    "image": "https://cdn.myanimelist.net/images/manga/1/138593.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ディスコミュニケーション"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueshiba, Riichi"
-    ],
-    "id": 5680,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:12.823Z",
+    "updatedAt": "2022-05-17T12:10:57.000Z",
+    "checkedAt": "2022-05-17T12:10:57.000Z",
+    "id": 35680,
     "type": "manga",
     "title": "Discommunication",
-    "url": "https://myanimelist.net/manga/5680/Discommunication",
-    "image": "https://cdn.myanimelist.net/images/manga/1/138593.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:07.000Z",
-    "updatedAt": "2022-04-25T11:33:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Discommunication",
       "ディスコミュニケーション"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Riichi Ueshiba",
-      "Pekka \"Vodoka\" Luhtala",
-      "Andrew Cunningham"
-    ],
-    "id": 35680,
-    "malId": 5680,
-    "type": "manga",
-    "title": "Discommunication",
     "url": "https://anilist.co/manga/35680",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35680-bAXTcDPO91dk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:32.000Z",
-    "updatedAt": "2022-03-16T09:07:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5680/Discommunication"
+    "externalLinks": [],
+    "malId": 5680,
+    "deletedAt": null,
+    "authors": [
+      "Riichi Ueshiba",
+      "Pekka \"Vodoka\" Luhtala",
+      "Andrew Cunningham"
+    ]
+  }
 }

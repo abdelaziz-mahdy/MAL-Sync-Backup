@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hachida Killy"
-  ],
+  "createdAt": "2020-10-12T16:11:52.000Z",
+  "updatedAt": "2021-12-05T11:48:38.000Z",
+  "checkedAt": null,
+  "id": 20238,
   "identifier": "c59184b0-be44-49d9-bef1-5bbd835b5928",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95736,
   "aniId": 100224,
-  "createdAt": "2020-10-12T16:11:52.000Z",
-  "updatedAt": "2021-12-05T11:48:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hachida Killy"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-23T11:25:46.000Z",
+    "checkedAt": "2022-05-23T11:25:46.000Z",
+    "id": 95736,
+    "type": "manga",
+    "title": "Nande Sonna ni Kawaii no",
     "altTitle": [
       "Hinadori no Yukue",
       "Kuchibiru made Nan-cm?",
@@ -27,21 +33,24 @@
       "Honto ni Nande Sonna ni Kawaii no",
       "なんでそんなにかわいいの"
     ],
-    "authors": [
-      "Hachida, Killy"
-    ],
-    "id": 95736,
-    "type": "manga",
-    "title": "Nande Sonna ni Kawaii no",
     "url": "https://myanimelist.net/manga/95736/Nande_Sonna_ni_Kawaii_no",
     "image": "https://cdn.myanimelist.net/images/manga/3/177453.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2021-11-15T15:29:22.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hachida, Killy"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:05.292Z",
+    "updatedAt": "2022-05-23T11:25:45.000Z",
+    "checkedAt": "2022-05-23T11:25:45.000Z",
+    "id": 100224,
+    "type": "manga",
+    "title": "Nande Sonna ni Kawaii no",
     "altTitle": [
       "なんでそんなにかわいいの",
       "Hinadori no Yukue",
@@ -49,21 +58,15 @@
       "Koi ni Naru made Dore kurai?",
       "Honto ni Nande Sonna ni Kawaii no"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Killy Hachida"
-    ],
-    "id": 100224,
-    "malId": 95736,
-    "type": "manga",
-    "title": "Nande Sonna ni Kawaii no",
     "url": "https://anilist.co/manga/100224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100224-Ljj60NBaU8ga.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-18T03:21:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95736/Nande_Sonna_ni_Kawaii_no"
+    "externalLinks": [],
+    "malId": 95736,
+    "deletedAt": null,
+    "authors": [
+      "Killy Hachida"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miman"
-  ],
+  "createdAt": "2020-10-12T16:13:19.000Z",
+  "updatedAt": "2021-12-05T20:48:39.000Z",
+  "checkedAt": null,
+  "id": 22650,
   "identifier": "a4c2cbad-0706-4ab7-b959-66c9140b39b6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90735,
   "aniId": 86708,
-  "createdAt": "2020-10-12T16:13:19.000Z",
-  "updatedAt": "2021-12-05T20:48:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miman"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:05.000Z",
+    "updatedAt": "2022-05-23T19:12:58.000Z",
+    "checkedAt": "2022-05-23T19:12:58.000Z",
+    "id": 90735,
+    "type": "manga",
+    "title": "Shoujo²",
     "altTitle": [
       "Shoujo no Jijou",
       "Shoujo Squared",
@@ -31,21 +37,24 @@
       "Shabon",
       "少女²"
     ],
-    "authors": [
-      "Miman"
-    ],
-    "id": 90735,
-    "type": "manga",
-    "title": "Shoujo²",
     "url": "https://myanimelist.net/manga/90735/Shoujo²",
     "image": "https://cdn.myanimelist.net/images/manga/1/159317.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:05.000Z",
-    "updatedAt": "2021-11-14T00:14:20.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miman"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:47.144Z",
+    "updatedAt": "2022-05-23T19:12:57.000Z",
+    "checkedAt": "2022-05-23T19:12:57.000Z",
+    "id": 86708,
+    "type": "manga",
+    "title": "Shoujo²",
     "altTitle": [
       "少女²",
       "Hanagatami",
@@ -53,21 +62,15 @@
       "Shabon",
       "Ipheion"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miman"
-    ],
-    "id": 86708,
-    "malId": 90735,
-    "type": "manga",
-    "title": "Shoujo²",
     "url": "https://anilist.co/manga/86708",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86708-TuwFb3gZo6vD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:07.000Z",
-    "updatedAt": "2021-12-17T22:56:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90735/Shoujo²"
+    "externalLinks": [],
+    "malId": 90735,
+    "deletedAt": null,
+    "authors": [
+      "Miman"
+    ]
+  }
 }

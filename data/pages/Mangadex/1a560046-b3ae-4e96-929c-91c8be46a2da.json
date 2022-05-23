@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mitsunaga Yasunori"
-  ],
+  "createdAt": "2020-10-12T16:11:21.000Z",
+  "updatedAt": "2021-12-05T07:49:31.000Z",
+  "checkedAt": null,
+  "id": 19154,
   "identifier": "1a560046-b3ae-4e96-929c-91c8be46a2da",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111223,
   "aniId": 100847,
-  "createdAt": "2020-10-12T16:11:21.000Z",
-  "updatedAt": "2021-12-05T07:49:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mitsunaga Yasunori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-05-20T21:19:03.000Z",
+    "checkedAt": "2022-05-20T21:19:03.000Z",
+    "id": 111223,
+    "type": "manga",
+    "title": "Kaibutsu Oujo Nightmare",
+    "altTitle": [
+      "Princess Resurrection Nightmare",
+      "怪物王女ナイトメア"
+    ],
+    "url": "https://myanimelist.net/manga/111223/Kaibutsu_Oujo_Nightmare",
+    "image": "https://cdn.myanimelist.net/images/manga/1/209655.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Princess Resurrection Nightmare",
-      "怪物王女ナイトメア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mitsunaga, Yasunori"
-    ],
-    "id": 111223,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:09.538Z",
+    "updatedAt": "2022-05-20T21:19:02.000Z",
+    "checkedAt": "2022-05-20T21:19:02.000Z",
+    "id": 100847,
     "type": "manga",
     "title": "Kaibutsu Oujo Nightmare",
-    "url": "https://myanimelist.net/manga/111223/Kaibutsu_Oujo_Nightmare",
-    "image": "https://cdn.myanimelist.net/images/manga/1/209655.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2022-03-22T20:58:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Princess Resurrection Nightmare",
       "怪物王女ナイトメア",
       "Monster Princess Nightmare"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasunori Mitsunaga"
-    ],
-    "id": 100847,
-    "malId": 111223,
-    "type": "manga",
-    "title": "Kaibutsu Oujo Nightmare",
     "url": "https://anilist.co/manga/100847",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100847-D7ttwU6TR81f.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:20.000Z",
-    "updatedAt": "2021-12-01T09:35:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111223/Kaibutsu_Oujo_Nightmare"
+    "externalLinks": [],
+    "malId": 111223,
+    "deletedAt": null,
+    "authors": [
+      "Yasunori Mitsunaga"
+    ]
+  }
 }

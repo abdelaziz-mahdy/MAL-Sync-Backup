@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Muraoka Yuu"
-  ],
+  "createdAt": "2021-07-23T10:53:38.000Z",
+  "updatedAt": "2022-01-23T11:30:11.000Z",
+  "checkedAt": null,
+  "id": 82809,
   "identifier": "manga-lw989305",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 129451,
   "aniId": 104640,
-  "createdAt": "2021-07-23T10:53:38.000Z",
-  "updatedAt": "2022-01-23T11:30:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Muraoka Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-12-05T22:11:28.000Z",
+    "updatedAt": "2022-05-16T23:16:14.000Z",
+    "checkedAt": "2022-05-16T23:16:14.000Z",
+    "id": 129451,
+    "type": "manga",
+    "title": "Mou Ippon!",
+    "altTitle": [
+      "\"Ippon\" again!",
+      "もういっぽん！"
+    ],
+    "url": "https://myanimelist.net/manga/129451/Mou_Ippon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/233691.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "\"Ippon\" again!",
-      "もういっぽん！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Muraoka, Yuu"
-    ],
-    "id": 129451,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:55.621Z",
+    "updatedAt": "2022-05-16T23:16:13.000Z",
+    "checkedAt": "2022-05-16T23:16:13.000Z",
+    "id": 104640,
     "type": "manga",
     "title": "Mou Ippon!",
-    "url": "https://myanimelist.net/manga/129451/Mou_Ippon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/233691.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-05T22:11:28.000Z",
-    "updatedAt": "2022-04-26T05:33:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "もういっぽん！",
       "\"Ippon\" again!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Muraoka"
-    ],
-    "id": 104640,
-    "malId": 129451,
-    "type": "manga",
-    "title": "Mou Ippon!",
     "url": "https://anilist.co/manga/104640",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104640-ICy5odPq7zzq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:24.000Z",
-    "updatedAt": "2021-12-18T04:55:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/129451/Mou_Ippon"
+    "externalLinks": [],
+    "malId": 129451,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Muraoka"
+    ]
+  }
 }

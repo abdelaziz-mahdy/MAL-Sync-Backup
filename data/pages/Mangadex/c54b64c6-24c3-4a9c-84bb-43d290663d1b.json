@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saitou Ken"
-  ],
+  "createdAt": "2020-10-12T16:03:48.000Z",
+  "updatedAt": "2021-12-02T16:47:47.000Z",
+  "checkedAt": null,
+  "id": 3000,
   "identifier": "c54b64c6-24c3-4a9c-84bb-43d290663d1b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10811,
   "aniId": 40811,
-  "createdAt": "2020-10-12T16:03:48.000Z",
-  "updatedAt": "2021-12-02T16:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saitou Ken"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:30.000Z",
+    "updatedAt": "2022-05-01T00:09:25.000Z",
+    "checkedAt": null,
+    "id": 10811,
+    "type": "manga",
+    "title": "Nakizakura Kitan",
     "altTitle": [
       "Mugen-Dokei",
       "Mugen Tokei",
@@ -27,21 +33,24 @@
       "Hana no Kanon",
       "亡鬼桜奇譚"
     ],
-    "authors": [
-      "Saitou, Ken"
-    ],
-    "id": 10811,
-    "type": "manga",
-    "title": "Nakizakura Kitan",
     "url": "https://myanimelist.net/manga/10811/Nakizakura_Kitan",
     "image": "https://cdn.myanimelist.net/images/manga/3/173717.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:30.000Z",
-    "updatedAt": "2022-05-01T00:09:25.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Saitou, Ken"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:12.784Z",
+    "updatedAt": "2022-05-13T12:53:12.784Z",
+    "checkedAt": null,
+    "id": 40811,
+    "type": "manga",
+    "title": "Nakizakura Kitan",
     "altTitle": [
       "亡鬼桜奇譚",
       "Naki Zakura Kitan",
@@ -49,21 +58,15 @@
       "Mugen Tokei",
       "Sandglass no Orii"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ken Saitou"
-    ],
-    "id": 40811,
-    "malId": 10811,
-    "type": "manga",
-    "title": "Nakizakura Kitan",
     "url": "https://anilist.co/manga/40811",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10811.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:12.000Z",
-    "updatedAt": "2021-12-17T14:11:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10811/Nakizakura_Kitan"
+    "externalLinks": [],
+    "malId": 10811,
+    "deletedAt": null,
+    "authors": [
+      "Ken Saitou"
+    ]
+  }
 }

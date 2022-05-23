@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jeon Geuk-jin",
-    "Park Jin-Hwan"
-  ],
+  "createdAt": "2020-10-12T16:02:27.000Z",
+  "updatedAt": "2021-12-02T07:16:48.000Z",
+  "checkedAt": null,
+  "id": 150,
   "identifier": "80185498-a09f-4534-925a-63cd554c075c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22651,
   "aniId": 52651,
-  "createdAt": "2020-10-12T16:02:27.000Z",
-  "updatedAt": "2021-12-02T07:16:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jeon Geuk-jin",
+    "Park Jin-Hwan"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:06.000Z",
+    "updatedAt": "2022-05-13T21:32:49.000Z",
+    "checkedAt": "2022-05-13T21:32:49.000Z",
+    "id": 22651,
+    "type": "manga",
+    "title": "The Breaker: New Waves",
+    "altTitle": [
+      "The Breaker 2",
+      "The Breaker: NW",
+      "The Breaker: Part 2",
+      "The Breaker: Martial Arts City",
+      "브레이커NW"
+    ],
+    "url": "https://myanimelist.net/manga/22651/The_Breaker__New_Waves",
+    "image": "https://cdn.myanimelist.net/images/manga/1/62105.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,29 +49,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Breaker 2",
-      "The Breaker: NW",
-      "The Breaker: Part 2",
-      "The Breaker: Martial Arts City",
-      "브레이커NW"
-    ],
+    "deletedAt": null,
     "authors": [
       "Park, Jin-Hwan",
       "Jeon, Geuk-jin"
-    ],
-    "id": 22651,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:01.200Z",
+    "updatedAt": "2022-05-15T15:47:35.000Z",
+    "checkedAt": "2022-05-15T15:47:35.000Z",
+    "id": 52651,
     "type": "manga",
     "title": "The Breaker: New Waves",
-    "url": "https://myanimelist.net/manga/22651/The_Breaker__New_Waves",
-    "image": "https://cdn.myanimelist.net/images/manga/1/62105.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:06.000Z",
-    "updatedAt": "2022-04-29T18:03:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "브레이커NW",
       "The Breaker - New Waves",
@@ -60,22 +69,16 @@
       "The Breaker: NW",
       "The Breaker: Part 2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jin-Hwan Park",
-      "Geuk-Jin Jeon"
-    ],
-    "id": 52651,
-    "malId": 22651,
-    "type": "manga",
-    "title": "The Breaker: New Waves",
     "url": "https://anilist.co/manga/52651",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22651.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:32.000Z",
-    "updatedAt": "2021-12-17T18:02:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22651/The_Breaker__New_Waves"
+    "externalLinks": [],
+    "malId": 22651,
+    "deletedAt": null,
+    "authors": [
+      "Jin-Hwan Park",
+      "Geuk-Jin Jeon"
+    ]
+  }
 }

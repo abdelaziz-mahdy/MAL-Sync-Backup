@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Buronson",
-    "Ikegami Ryoichi"
-  ],
+  "createdAt": "2020-10-12T16:07:18.000Z",
+  "updatedAt": "2021-12-04T02:20:57.000Z",
+  "checkedAt": null,
+  "id": 10323,
   "identifier": "10e49024-d3d9-4f64-bdf5-4a5e345a5818",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1437,
   "aniId": 31437,
-  "createdAt": "2020-10-12T16:07:18.000Z",
-  "updatedAt": "2021-12-04T02:20:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Buronson",
+    "Ikegami Ryoichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:33.000Z",
+    "updatedAt": "2022-05-16T18:36:59.000Z",
+    "checkedAt": "2022-05-16T18:36:59.000Z",
+    "id": 1437,
+    "type": "manga",
+    "title": "Strain",
+    "altTitle": [
+      "Strain",
+      "ストレイン"
+    ],
+    "url": "https://myanimelist.net/manga/1437/Strain",
+    "image": "https://cdn.myanimelist.net/images/manga/2/31701.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Strain",
-      "ストレイン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikegami, Ryoichi",
       "Buronson"
-    ],
-    "id": 1437,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.276Z",
+    "updatedAt": "2022-05-16T18:36:58.000Z",
+    "checkedAt": "2022-05-16T18:36:58.000Z",
+    "id": 31437,
     "type": "manga",
     "title": "Strain",
-    "url": "https://myanimelist.net/manga/1437/Strain",
-    "image": "https://cdn.myanimelist.net/images/manga/2/31701.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2021-12-02T16:46:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Strain",
       "ストレイン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryoichi Ikegami",
-      "Yoshiyuki Okamura"
-    ],
-    "id": 31437,
-    "malId": 1437,
-    "type": "manga",
-    "title": "Strain",
     "url": "https://anilist.co/manga/31437",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31437-scd1p6dJvFOi.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:44.000Z",
-    "updatedAt": "2021-12-17T10:07:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1437/Strain"
+    "externalLinks": [],
+    "malId": 1437,
+    "deletedAt": null,
+    "authors": [
+      "Ryoichi Ikegami",
+      "Yoshiyuki Okamura"
+    ]
+  }
 }

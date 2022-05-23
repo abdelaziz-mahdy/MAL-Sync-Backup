@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-03-06T01:01:02.000Z",
+  "updatedAt": "2022-03-06T01:29:36.000Z",
+  "checkedAt": null,
+  "id": 40395,
   "identifier": "1nr9m",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50185,
   "aniId": 140502,
-  "createdAt": "2022-03-06T01:01:02.000Z",
-  "updatedAt": "2022-03-06T01:29:36.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-12-18T17:50:21.000Z",
+    "updatedAt": "2022-05-14T16:36:38.000Z",
+    "checkedAt": "2022-05-14T16:36:38.000Z",
+    "id": 50185,
+    "type": "anime",
+    "title": "Ryman's Club",
+    "altTitle": [
+      "Salaryman's Club",
+      "リーマンズクラブ"
+    ],
+    "url": "https://myanimelist.net/anime/50185/Rymans_Club",
+    "image": "https://cdn.myanimelist.net/images/anime/1140/120215.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -36,7 +52,7 @@
     "legalLinks": [
       {
         "site": "crunchyroll",
-        "url": "https://www.crunchyroll.com/salarymans-club"
+        "url": "http://www.crunchyroll.com/series-282264"
       },
       {
         "site": "ani-oneasia",
@@ -63,27 +79,24 @@
         "url": "https://www.mewatch.sg/"
       }
     ],
-    "altTitle": [
-      "Salaryman's Club",
-      "リーマンズクラブ"
-    ],
-    "id": 50185,
+    "deletedAt": null,
+    "anidbId": 16920
+  },
+  "Ani": {
+    "createdAt": "2021-10-21T03:42:40.000Z",
+    "updatedAt": "2022-05-15T09:55:59.000Z",
+    "checkedAt": "2022-05-15T09:55:59.000Z",
+    "id": 140502,
     "type": "anime",
     "title": "Ryman's Club",
-    "url": "https://myanimelist.net/anime/50185/Rymans_Club",
-    "image": "https://cdn.myanimelist.net/images/anime/1140/120215.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 16920,
-    "createdAt": "2021-12-18T17:50:21.000Z",
-    "updatedAt": "2022-04-03T16:30:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Salaryman's Club",
       "リーマンズクラブ"
     ],
+    "url": "https://anilist.co/anime/140502",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140502-bWPNRDMlClxu.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -94,17 +107,7 @@
         "url": "https://vrv.co/series/G9VHN9P99/Salarymans-Club"
       }
     ],
-    "id": 140502,
     "malId": 50185,
-    "type": "anime",
-    "title": "Ryman's Club",
-    "url": "https://anilist.co/anime/140502",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140502-bWPNRDMlClxu.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-10-21T03:42:40.000Z",
-    "updatedAt": "2022-02-05T00:06:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/50185/Rymans_Club"
+  }
 }

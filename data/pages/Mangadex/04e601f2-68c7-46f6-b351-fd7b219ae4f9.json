@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujio"
-  ],
+  "createdAt": "2021-01-29T18:24:24.000Z",
+  "updatedAt": "2021-12-08T11:09:10.000Z",
+  "checkedAt": null,
+  "id": 60602,
   "identifier": "04e601f2-68c7-46f6-b351-fd7b219ae4f9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87524,
   "aniId": 94392,
-  "createdAt": "2021-01-29T18:24:24.000Z",
-  "updatedAt": "2021-12-08T11:09:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujio"
+  ],
   "Mal": {
+    "createdAt": "2021-01-29T18:24:21.000Z",
+    "updatedAt": "2022-01-29T19:21:09.000Z",
+    "checkedAt": null,
+    "id": 87524,
+    "type": "manga",
+    "title": "Parlor",
+    "altTitle": [
+      "parlor"
+    ],
+    "url": "https://myanimelist.net/manga/87524/Parlor",
+    "image": "https://cdn.myanimelist.net/images/manga/2/152863.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "parlor"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujio"
-    ],
-    "id": 87524,
-    "type": "manga",
-    "title": "Parlor",
-    "url": "https://myanimelist.net/manga/87524/Parlor",
-    "image": "https://cdn.myanimelist.net/images/manga/2/152863.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-29T18:24:21.000Z",
-    "updatedAt": "2022-01-29T19:21:09.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:10.701Z",
+    "updatedAt": "2022-05-13T13:00:10.701Z",
+    "checkedAt": null,
+    "id": 94392,
+    "type": "manga",
+    "title": "Parlor",
     "altTitle": [
       "parlor"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fujio"
-    ],
-    "id": 94392,
-    "malId": 87524,
-    "type": "manga",
-    "title": "Parlor",
     "url": "https://anilist.co/manga/94392",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94392-d8QJNuwpWDkT.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:52:48.000Z",
-    "updatedAt": "2021-12-18T01:00:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87524/Parlor"
+    "externalLinks": [],
+    "malId": 87524,
+    "deletedAt": null,
+    "authors": [
+      "Fujio"
+    ]
+  }
 }

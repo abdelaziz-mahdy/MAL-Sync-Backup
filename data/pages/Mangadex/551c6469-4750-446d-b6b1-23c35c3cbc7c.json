@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Abe Jun"
-  ],
+  "createdAt": "2020-10-12T16:17:57.000Z",
+  "updatedAt": "2021-12-07T12:48:34.000Z",
+  "checkedAt": null,
+  "id": 32193,
   "identifier": "551c6469-4750-446d-b6b1-23c35c3cbc7c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77813,
   "aniId": 92574,
-  "createdAt": "2020-10-12T16:17:57.000Z",
-  "updatedAt": "2021-12-07T12:48:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abe Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2022-05-19T22:13:09.000Z",
+    "checkedAt": "2022-05-19T22:13:09.000Z",
+    "id": 77813,
+    "type": "manga",
+    "title": "Boukyaku no Sachiko",
+    "altTitle": [
+      "Sachiko of Forgetfulness",
+      "忘却のサチコ"
+    ],
+    "url": "https://myanimelist.net/manga/77813/Boukyaku_no_Sachiko",
+    "image": "https://cdn.myanimelist.net/images/manga/2/168423.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sachiko of Forgetfulness",
-      "忘却のサチコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abe, Jun"
-    ],
-    "id": 77813,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:50.524Z",
+    "updatedAt": "2022-05-19T22:13:08.000Z",
+    "checkedAt": "2022-05-19T22:13:08.000Z",
+    "id": 92574,
     "type": "manga",
     "title": "Boukyaku no Sachiko",
-    "url": "https://myanimelist.net/manga/77813/Boukyaku_no_Sachiko",
-    "image": "https://cdn.myanimelist.net/images/manga/2/168423.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2021-11-11T07:14:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "忘却のサチコ",
       "Sachiko of Forgetfulness"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Abe"
-    ],
-    "id": 92574,
-    "malId": 77813,
-    "type": "manga",
-    "title": "Boukyaku no Sachiko",
     "url": "https://anilist.co/manga/92574",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92574-f3UZiQCJLt0j.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:51.000Z",
-    "updatedAt": "2021-12-18T00:31:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77813/Boukyaku_no_Sachiko"
+    "externalLinks": [],
+    "malId": 77813,
+    "deletedAt": null,
+    "authors": [
+      "Jun Abe"
+    ]
+  }
 }

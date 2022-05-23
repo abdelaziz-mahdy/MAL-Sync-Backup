@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takashima Hiromi"
-  ],
+  "createdAt": "2021-05-28T18:55:15.000Z",
+  "updatedAt": "2021-11-28T19:36:04.000Z",
+  "checkedAt": null,
+  "id": 72892,
   "identifier": "manga-ja954857",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38105,
   "aniId": 68105,
-  "createdAt": "2021-05-28T18:55:15.000Z",
-  "updatedAt": "2021-11-28T19:36:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takashima Hiromi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E7%80%AC%E3%81%95%E3%82%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:03.000Z",
+    "updatedAt": "2022-05-14T22:06:53.000Z",
+    "checkedAt": "2022-05-14T22:06:53.000Z",
+    "id": 38105,
+    "type": "manga",
+    "title": "Kase-san Series",
     "altTitle": [
       "Asagao to Kase-san.",
       "Kase-san and Morning Glories",
@@ -33,23 +34,32 @@
       "Kase-san and an Apron",
       "Sakura to Kase-san",
       "Yamada to Kase-san",
+      "Kase-san and...",
       "加瀬さんシリーズ"
     ],
-    "authors": [
-      "Takashima, Hiromi"
-    ],
-    "id": 38105,
-    "type": "manga",
-    "title": "Kase-san Series",
     "url": "https://myanimelist.net/manga/38105/Kase-san_Series",
     "image": "https://cdn.myanimelist.net/images/manga/1/215181.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:03.000Z",
-    "updatedAt": "2022-03-23T22:58:34.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E7%80%AC%E3%81%95%E3%82%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takashima, Hiromi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:25.299Z",
+    "updatedAt": "2022-05-15T18:13:47.000Z",
+    "checkedAt": "2022-05-15T18:13:47.000Z",
+    "id": 68105,
+    "type": "manga",
+    "title": "Kase-san Series",
     "altTitle": [
       "Kase-san and...",
       "加瀬さんシリーズ",
@@ -66,22 +76,16 @@
       "คุณคาเซะกับดอกบานเช้า",
       "คุณคาเซะกับเบนโต"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiromi Takashima",
-      "Jocelyne Allen"
-    ],
-    "id": 68105,
-    "malId": 38105,
-    "type": "manga",
-    "title": "Kase-san Series",
     "url": "https://anilist.co/manga/68105",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx68105-BzzbeASA2vGP.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:37.000Z",
-    "updatedAt": "2022-01-16T18:11:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/38105/Kase-san_Series"
+    "externalLinks": [],
+    "malId": 38105,
+    "deletedAt": null,
+    "authors": [
+      "Hiromi Takashima",
+      "Jocelyne Allen"
+    ]
+  }
 }

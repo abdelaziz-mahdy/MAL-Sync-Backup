@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsumura Chita"
-  ],
+  "createdAt": "2020-10-12T16:05:54.000Z",
+  "updatedAt": "2021-12-03T15:50:50.000Z",
+  "checkedAt": null,
+  "id": 7330,
   "identifier": "ab8a4653-f4ed-4a99-bce5-e4b0f1a61757",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49205,
   "aniId": 79205,
-  "createdAt": "2020-10-12T16:05:54.000Z",
-  "updatedAt": "2021-12-03T15:50:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsumura Chita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:32.000Z",
+    "updatedAt": "2022-04-18T14:01:55.000Z",
+    "checkedAt": null,
+    "id": 49205,
+    "type": "manga",
+    "title": "Miki no Houkago",
+    "altTitle": [
+      "Miki's after school",
+      "ミキの放課後"
+    ],
+    "url": "https://myanimelist.net/manga/49205/Miki_no_Houkago",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162298.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Miki's after school",
-      "ミキの放課後"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsumura, Chita"
-    ],
-    "id": 49205,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:38.203Z",
+    "updatedAt": "2022-05-13T12:52:38.203Z",
+    "checkedAt": null,
+    "id": 79205,
     "type": "manga",
     "title": "Miki no Houkago",
-    "url": "https://myanimelist.net/manga/49205/Miki_no_Houkago",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162298.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:32.000Z",
-    "updatedAt": "2022-04-18T14:01:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミキの放課後",
       "Miki After School"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chita Tsumura"
-    ],
-    "id": 79205,
-    "malId": 49205,
-    "type": "manga",
-    "title": "Miki no Houkago",
     "url": "https://anilist.co/manga/79205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79205-IT43GFFCRJPL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:42.000Z",
-    "updatedAt": "2021-12-17T21:20:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49205/Miki_no_Houkago"
+    "externalLinks": [],
+    "malId": 49205,
+    "deletedAt": null,
+    "authors": [
+      "Chita Tsumura"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Shikawa Yuuki",
-    "Hajime",
-    "Touji Tatsuya"
-  ],
+  "createdAt": "2020-10-12T16:08:02.000Z",
+  "updatedAt": "2021-12-04T07:21:29.000Z",
+  "checkedAt": null,
+  "id": 11893,
   "identifier": "6647d058-8edb-4155-b2f1-32910dec053e",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 68721,
   "aniId": 90878,
-  "createdAt": "2020-10-12T16:08:02.000Z",
-  "updatedAt": "2021-12-04T07:21:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shikawa Yuuki",
+    "Hajime",
+    "Touji Tatsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:14.000Z",
+    "updatedAt": "2021-11-04T19:07:30.000Z",
+    "checkedAt": null,
+    "id": 68721,
+    "type": "manga",
+    "title": "Shounen Y",
+    "altTitle": [
+      "Dilemma",
+      "少年Y"
+    ],
+    "url": "https://myanimelist.net/manga/68721/Shounen_Y",
+    "image": "https://cdn.myanimelist.net/images/manga/1/159717.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,46 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dilemma",
-      "少年Y"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shikawa, Yuuki",
       "Touji, Tatsuya"
-    ],
-    "id": 68721,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:27.563Z",
+    "updatedAt": "2022-05-13T13:06:27.563Z",
+    "checkedAt": null,
+    "id": 90878,
     "type": "manga",
     "title": "Shounen Y",
-    "url": "https://myanimelist.net/manga/68721/Shounen_Y",
-    "image": "https://cdn.myanimelist.net/images/manga/1/159717.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:14.000Z",
-    "updatedAt": "2021-11-04T19:07:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "少年Y",
       "Dilemma"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki Shikawa",
-      "Tatsuya Touji"
-    ],
-    "id": 90878,
-    "malId": 68721,
-    "type": "manga",
-    "title": "Shounen Y",
     "url": "https://anilist.co/manga/90878",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90878-ixLfpbkIN3Nx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:02.000Z",
-    "updatedAt": "2021-12-18T00:18:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/68721/Shounen_Y"
+    "externalLinks": [],
+    "malId": 68721,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Shikawa",
+      "Tatsuya Touji"
+    ]
+  }
 }

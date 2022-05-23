@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:48.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7990,
   "identifier": "pm44",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4051,
   "aniId": 4051,
-  "createdAt": "2020-10-12T15:54:48.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:41.000Z",
+    "updatedAt": "2022-05-14T23:51:29.000Z",
+    "checkedAt": "2022-05-14T23:51:29.000Z",
+    "id": 4051,
+    "type": "anime",
+    "title": "Net Ghost Pipopa",
+    "altTitle": [
+      "Web Ghosts PiPoPa",
+      "ネットゴーストPIPOPA"
+    ],
+    "url": "https://myanimelist.net/anime/4051/Net_Ghost_Pipopa",
+    "image": "https://cdn.myanimelist.net/images/anime/7/23634.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-96462"
       }
     ],
-    "altTitle": [
-      "Web Ghosts PiPoPa",
-      "ネットゴーストPIPOPA"
-    ],
+    "deletedAt": null,
+    "anidbId": 5773
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:32.000Z",
+    "updatedAt": "2022-05-15T18:24:11.000Z",
+    "checkedAt": "2022-05-15T18:24:11.000Z",
     "id": 4051,
     "type": "anime",
     "title": "Net Ghost Pipopa",
-    "url": "https://myanimelist.net/anime/4051/Net_Ghost_Pipopa",
-    "image": "https://cdn.myanimelist.net/images/anime/7/23634.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 5773,
-    "createdAt": "2020-10-12T15:38:41.000Z",
-    "updatedAt": "2022-03-31T15:33:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Web Ghosts PiPoPa",
       "ネットゴーストPIPOPA"
     ],
+    "url": "https://anilist.co/anime/4051",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/web-ghosts-pipopa"
       }
     ],
-    "id": 4051,
     "malId": 4051,
-    "type": "anime",
-    "title": "Net Ghost Pipopa",
-    "url": "https://anilist.co/anime/4051",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:37:32.000Z",
-    "updatedAt": "2021-12-17T11:21:27.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4051/Net_Ghost_Pipopa"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "网易游戏"
-  ],
+  "createdAt": "2020-10-12T16:20:23.000Z",
+  "updatedAt": "2021-12-08T00:09:25.000Z",
+  "checkedAt": null,
+  "id": 37093,
   "identifier": "9930be94-b62b-4109-89ce-72711096e79c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15079,
   "aniId": 45079,
-  "createdAt": "2020-10-12T16:20:23.000Z",
-  "updatedAt": "2021-12-08T00:09:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "网易游戏"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:10.000Z",
+    "updatedAt": "2022-04-06T11:04:03.000Z",
+    "checkedAt": null,
+    "id": 15079,
+    "type": "manga",
+    "title": "Onmyouji",
+    "altTitle": [
+      "Onmyoji",
+      "陰陽師"
+    ],
+    "url": "https://myanimelist.net/manga/15079/Onmyouji",
+    "image": "https://cdn.myanimelist.net/images/manga/1/22068.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Onmyoji",
-      "陰陽師"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yumemakura, Baku",
       "Okano, Reiko"
-    ],
-    "id": 15079,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:06.673Z",
+    "updatedAt": "2022-05-13T12:43:06.673Z",
+    "checkedAt": null,
+    "id": 45079,
     "type": "manga",
     "title": "Onmyouji",
-    "url": "https://myanimelist.net/manga/15079/Onmyouji",
-    "image": "https://cdn.myanimelist.net/images/manga/1/22068.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:10.000Z",
-    "updatedAt": "2022-04-06T11:04:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "陰陽師",
       "Onmyoji"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Baku Yumemakura",
-      "Reiko Okano"
-    ],
-    "id": 45079,
-    "malId": 15079,
-    "type": "manga",
-    "title": "Onmyouji",
     "url": "https://anilist.co/manga/45079",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45079-VDbmHGlodXOS.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:43.000Z",
-    "updatedAt": "2021-12-17T15:42:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15079/Onmyouji"
+    "externalLinks": [],
+    "malId": 15079,
+    "deletedAt": null,
+    "authors": [
+      "Baku Yumemakura",
+      "Reiko Okano"
+    ]
+  }
 }

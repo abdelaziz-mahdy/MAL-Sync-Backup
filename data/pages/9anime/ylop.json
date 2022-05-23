@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:54.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10732,
   "identifier": "ylop",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 759,
   "aniId": 759,
-  "createdAt": "2020-10-12T15:56:54.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T17:31:29.000Z",
+    "checkedAt": "2022-05-14T17:31:29.000Z",
+    "id": 759,
+    "type": "anime",
+    "title": "Tokyo Godfathers",
+    "altTitle": [
+      "Tokyo Godfathers",
+      "東京ゴッドファーザーズ"
+    ],
+    "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
+    "image": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,39 +55,26 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Tokyo Godfathers",
-      "東京ゴッドファーザーズ"
-    ],
-    "id": 759,
-    "type": "anime",
-    "title": "Tokyo Godfathers",
-    "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
-    "image": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 1217,
-    "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2022-04-18T04:03:30.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 1217
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T11:29:59.000Z",
+    "checkedAt": "2022-05-15T11:29:59.000Z",
+    "id": 759,
+    "type": "anime",
+    "title": "Tokyo Godfathers",
     "altTitle": [
       "Tokyo Godfathers",
       "東京ゴッドファーザーズ"
     ],
-    "externalLinks": [],
-    "id": 759,
-    "malId": 759,
-    "type": "anime",
-    "title": "Tokyo Godfathers",
     "url": "https://anilist.co/anime/759",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx759-vaiRxznGCi9T.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:44.000Z",
-    "updatedAt": "2021-12-17T08:54:17.000Z",
+    "externalLinks": [],
+    "malId": 759,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/759/Tokyo_Godfathers"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyazaki Shuu"
-  ],
+  "createdAt": "2021-08-19T18:37:16.000Z",
+  "updatedAt": "2022-02-19T19:18:21.000Z",
+  "checkedAt": null,
+  "id": 85813,
   "identifier": "manga-nl964994",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10620,
   "aniId": 40620,
-  "createdAt": "2021-08-19T18:37:16.000Z",
-  "updatedAt": "2022-02-19T19:18:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyazaki Shuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-04-13T15:00:32.000Z",
+    "checkedAt": null,
+    "id": 10620,
+    "type": "manga",
+    "title": "Kamisama Game",
+    "altTitle": [
+      "Kami-sama Game",
+      "The God Game",
+      "神様ゲーム"
+    ],
+    "url": "https://myanimelist.net/manga/10620/Kamisama_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/3/86189.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kami-sama Game",
-      "The God Game",
-      "神様ゲーム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyazaki, Shuu",
       "Yoshimura, Takumi"
-    ],
-    "id": 10620,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:05.335Z",
+    "updatedAt": "2022-05-13T12:59:05.335Z",
+    "checkedAt": null,
+    "id": 40620,
     "type": "manga",
     "title": "Kamisama Game",
-    "url": "https://myanimelist.net/manga/10620/Kamisama_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/3/86189.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:28.000Z",
-    "updatedAt": "2022-04-13T15:00:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神様ゲーム",
       "The God Game"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuu Miyazaki",
-      "Takumi Yoshimura"
-    ],
-    "id": 40620,
-    "malId": 10620,
-    "type": "manga",
-    "title": "Kamisama Game",
     "url": "https://anilist.co/manga/40620",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40620-UWR6XM3jqHqi.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:06.000Z",
-    "updatedAt": "2021-12-18T12:18:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10620/Kamisama_Game"
+    "externalLinks": [],
+    "malId": 10620,
+    "deletedAt": null,
+    "authors": [
+      "Shuu Miyazaki",
+      "Takumi Yoshimura"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Abiko Yu"
-  ],
+  "createdAt": "2021-06-11T01:39:00.000Z",
+  "updatedAt": "2021-12-11T02:33:39.000Z",
+  "checkedAt": null,
+  "id": 77681,
   "identifier": "manga-sl970320",
   "type": "manga",
   "page": "MangaNato",
@@ -11,51 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94182,
   "aniId": 86892,
-  "createdAt": "2021-06-11T01:39:00.000Z",
-  "updatedAt": "2021-12-11T02:33:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abiko Yu"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "東のくるめと隣のめぐる"
-    ],
-    "authors": [
-      "Abiko, Yuu"
-    ],
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-05-23T14:02:58.000Z",
+    "checkedAt": "2022-05-23T14:02:58.000Z",
     "id": 94182,
     "type": "manga",
     "title": "Higashi no Kurume to Tonari no Meguru",
+    "altTitle": [
+      "東のくるめと隣のめぐる"
+    ],
     "url": "https://myanimelist.net/manga/94182/Higashi_no_Kurume_to_Tonari_no_Meguru",
     "image": "https://cdn.myanimelist.net/images/manga/1/188800.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-12-11T02:04:02.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CW01000015010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Abiko, Yuu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:16.300Z",
+    "updatedAt": "2022-05-23T14:02:57.000Z",
+    "checkedAt": "2022-05-23T14:02:57.000Z",
+    "id": 86892,
+    "type": "manga",
+    "title": "Higashi no Kurume to Tonari no Meguru",
     "altTitle": [
       "東のくるめと隣のめぐる"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Abiko"
-    ],
-    "id": 86892,
-    "malId": 94182,
-    "type": "manga",
-    "title": "Higashi no Kurume to Tonari no Meguru",
     "url": "https://anilist.co/manga/86892",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56892-6HFQLhwk0KJY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2021-12-17T23:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94182/Higashi_no_Kurume_to_Tonari_no_Meguru"
+    "externalLinks": [],
+    "malId": 94182,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Abiko"
+    ]
+  }
 }

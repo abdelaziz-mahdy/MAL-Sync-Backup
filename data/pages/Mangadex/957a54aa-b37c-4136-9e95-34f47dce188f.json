@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizuki Shigeru"
-  ],
+  "createdAt": "2020-12-23T21:27:05.000Z",
+  "updatedAt": "2021-12-08T09:11:02.000Z",
+  "checkedAt": null,
+  "id": 55497,
   "identifier": "957a54aa-b37c-4136-9e95-34f47dce188f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21040,
   "aniId": 51040,
-  "createdAt": "2020-12-23T21:27:05.000Z",
-  "updatedAt": "2021-12-08T09:11:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizuki Shigeru"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E6%98%AD%E5%92%8C%E5%8F%B2"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-12-23T21:27:05.000Z",
+    "updatedAt": "2022-05-18T19:34:45.000Z",
+    "checkedAt": "2022-05-18T19:34:45.000Z",
+    "id": 21040,
+    "type": "manga",
+    "title": "Comic Showa-shi",
     "altTitle": [
       "Comic Showashi",
       "Shouwa-Shi",
@@ -32,21 +33,29 @@
       "Showa: A History of Japan",
       "コミック昭和史"
     ],
-    "authors": [
-      "Mizuki, Shigeru"
-    ],
-    "id": 21040,
-    "type": "manga",
-    "title": "Comic Showa-shi",
     "url": "https://myanimelist.net/manga/21040/Comic_Showa-shi",
     "image": "https://cdn.myanimelist.net/images/manga/1/33746.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-12-23T21:27:05.000Z",
-    "updatedAt": "2022-01-31T01:51:44.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E6%98%AD%E5%92%8C%E5%8F%B2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mizuki, Shigeru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:14.089Z",
+    "updatedAt": "2022-05-18T19:34:45.000Z",
+    "checkedAt": "2022-05-18T19:34:45.000Z",
+    "id": 51040,
+    "type": "manga",
+    "title": "Showa-Shi",
     "altTitle": [
       "Showa: A History of Japan",
       "コミック昭和史",
@@ -56,22 +65,16 @@
       "A Comics History of the Shōwa Era",
       "Showa: una storia del Giappone"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigeru Mizuki",
-      "Zack Davisson"
-    ],
-    "id": 51040,
-    "malId": 21040,
-    "type": "manga",
-    "title": "Showa-Shi",
     "url": "https://anilist.co/manga/51040",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21040.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:37.000Z",
-    "updatedAt": "2022-02-25T07:17:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21040/Comic_Showa-shi"
+    "externalLinks": [],
+    "malId": 21040,
+    "deletedAt": null,
+    "authors": [
+      "Shigeru Mizuki",
+      "Zack Davisson"
+    ]
+  }
 }

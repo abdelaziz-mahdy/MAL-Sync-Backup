@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tono"
-  ],
+  "createdAt": "2021-07-27T12:23:10.000Z",
+  "updatedAt": "2022-01-27T12:30:53.000Z",
+  "checkedAt": null,
+  "id": 83125,
   "identifier": "manga-eq981599",
   "type": "manga",
   "page": "MangaNato",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 112408,
-  "createdAt": "2021-07-27T12:23:10.000Z",
-  "updatedAt": "2022-01-27T12:30:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tono"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:12.937Z",
+    "updatedAt": "2022-05-13T12:43:12.937Z",
+    "checkedAt": null,
+    "id": 112408,
+    "type": "manga",
+    "title": "Karubania Monogatari",
     "altTitle": [
       "カルバニア物語",
       "칼바니아 이야기",
@@ -26,21 +34,15 @@
       "Calbania Monogatari",
       "The Story of Calbania"
     ],
-    "externalLinks": [],
-    "authors": [
-      "TONO"
-    ],
-    "id": 112408,
-    "malId": 130071,
-    "type": "manga",
-    "title": "Karubania Monogatari",
     "url": "https://anilist.co/manga/112408",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112408-llY8XVdA8MMA.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T16:20:09.000Z",
-    "updatedAt": "2021-11-21T07:42:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 130071,
+    "deletedAt": null,
+    "authors": [
+      "TONO"
+    ]
+  }
 }

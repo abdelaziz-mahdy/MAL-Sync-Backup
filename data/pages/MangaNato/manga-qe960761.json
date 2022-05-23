@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lee Sang-Eun"
-  ],
+  "createdAt": "2021-09-14T07:34:56.000Z",
+  "updatedAt": "2022-03-14T08:29:41.000Z",
+  "checkedAt": null,
+  "id": 87121,
   "identifier": "manga-qe960761",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11906,
   "aniId": 41906,
-  "createdAt": "2021-09-14T07:34:56.000Z",
-  "updatedAt": "2022-03-14T08:29:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Sang-Eun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:42.000Z",
+    "updatedAt": "2022-03-14T07:59:52.000Z",
+    "checkedAt": null,
+    "id": 11906,
+    "type": "manga",
+    "title": "13th Boy",
+    "altTitle": [
+      "13th Guy",
+      "13th BOY",
+      "열세번째 남자"
+    ],
+    "url": "https://myanimelist.net/manga/11906/13th_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/1/30253.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "13th Guy",
-      "13th BOY",
-      "열세번째 남자"
-    ],
+    "deletedAt": null,
     "authors": [
       "Lee, Sang-Eun"
-    ],
-    "id": 11906,
-    "type": "manga",
-    "title": "13th Boy",
-    "url": "https://myanimelist.net/manga/11906/13th_Boy",
-    "image": "https://cdn.myanimelist.net/images/manga/1/30253.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:42.000Z",
-    "updatedAt": "2022-03-14T07:59:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:38.229Z",
+    "updatedAt": "2022-05-13T12:59:38.229Z",
+    "checkedAt": null,
+    "id": 41906,
+    "type": "manga",
+    "title": "Yeolsebeonjjae Namja",
     "altTitle": [
       "13th BOY",
       "열세번째 남자",
       "13th Guy"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sang-Eun Lee"
-    ],
-    "id": 41906,
-    "malId": 11906,
-    "type": "manga",
-    "title": "Yeolsebeonjjae Namja",
     "url": "https://anilist.co/manga/41906",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41906-kaZ6vI9GDHzw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:15.000Z",
-    "updatedAt": "2021-12-17T14:39:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11906/13th_Boy"
+    "externalLinks": [],
+    "malId": 11906,
+    "deletedAt": null,
+    "authors": [
+      "Sang-Eun Lee"
+    ]
+  }
 }

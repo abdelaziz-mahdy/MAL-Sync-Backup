@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gunchi Kiri"
-  ],
+  "createdAt": "2020-10-12T16:18:35.000Z",
+  "updatedAt": "2021-12-07T18:47:14.000Z",
+  "checkedAt": null,
+  "id": 33429,
   "identifier": "55144762-e437-4dfb-9d87-2c4d969d1022",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124143,
   "aniId": 119139,
-  "createdAt": "2020-10-12T16:18:35.000Z",
-  "updatedAt": "2021-12-07T18:47:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gunchi Kiri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2021-11-25T04:35:44.000Z",
+    "checkedAt": null,
+    "id": 124143,
+    "type": "manga",
+    "title": "Dear Call",
+    "altTitle": [
+      "Dear CALL ─ディアコール─"
+    ],
+    "url": "https://myanimelist.net/manga/124143/Dear_Call",
+    "image": "https://cdn.myanimelist.net/images/manga/3/251375.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dear CALL ─ディアコール─"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gunchi, Kiri"
-    ],
-    "id": 124143,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:30.814Z",
+    "updatedAt": "2022-05-13T12:52:30.814Z",
+    "checkedAt": null,
+    "id": 119139,
     "type": "manga",
     "title": "Dear Call",
-    "url": "https://myanimelist.net/manga/124143/Dear_Call",
-    "image": "https://cdn.myanimelist.net/images/manga/3/251375.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2021-11-25T04:35:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ディア コール"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kiri Gunchi"
-    ],
-    "id": 119139,
-    "malId": 124143,
-    "type": "manga",
-    "title": "Dear Call",
     "url": "https://anilist.co/manga/119139",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119139-EfuEelVZYwEI.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:03.000Z",
-    "updatedAt": "2021-12-18T09:24:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124143/Dear_Call"
+    "externalLinks": [],
+    "malId": 124143,
+    "deletedAt": null,
+    "authors": [
+      "Kiri Gunchi"
+    ]
+  }
 }

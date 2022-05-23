@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:44.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3023,
   "identifier": "6jq0",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2262,
   "aniId": 2262,
-  "createdAt": "2020-10-12T15:50:44.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T22:59:29.000Z",
+    "checkedAt": "2022-05-14T22:59:29.000Z",
+    "id": 2262,
+    "type": "anime",
+    "title": "Sin: The Movie",
+    "altTitle": [
+      "Sin: The Motion Picture",
+      "sin THE MOVIE"
+    ],
+    "url": "https://myanimelist.net/anime/2262/Sin__The_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/4/42389.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -29,44 +45,36 @@
         "url": "https://ja.wikipedia.org/wiki/Sin_THE_MOVIE"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Sin: The Motion Picture",
-      "sin THE MOVIE"
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-89637"
+      }
     ],
+    "deletedAt": null,
+    "anidbId": 365
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-15T16:00:11.000Z",
+    "checkedAt": "2022-05-15T16:00:11.000Z",
     "id": 2262,
     "type": "anime",
     "title": "Sin: The Movie",
-    "url": "https://myanimelist.net/anime/2262/Sin__The_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/4/42389.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 365,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2021-12-30T13:54:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sin: The Motion Picture"
     ],
+    "url": "https://anilist.co/anime/2262",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2262.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/sin-the-movie"
       }
     ],
-    "id": 2262,
     "malId": 2262,
-    "type": "anime",
-    "title": "Sin: The Movie",
-    "url": "https://anilist.co/anime/2262",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2262.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:14.000Z",
-    "updatedAt": "2021-12-17T10:00:54.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2262/Sin__The_Movie"
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:01:27.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19783,
   "identifier": "noir",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 272,
   "aniId": 272,
-  "createdAt": "2020-10-12T16:01:27.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T16:47:59.000Z",
+    "checkedAt": "2022-05-14T16:47:59.000Z",
+    "id": 272,
+    "type": "anime",
+    "title": "Noir",
+    "altTitle": [
+      "Noir",
+      "ノワール"
+    ],
+    "url": "https://myanimelist.net/anime/272/Noir",
+    "image": "https://cdn.myanimelist.net/images/anime/1054/96577.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,43 +59,30 @@
         "url": "https://www.funimation.com/shows/noir"
       }
     ],
-    "altTitle": [
-      "Noir",
-      "ノワール"
-    ],
+    "deletedAt": null,
+    "anidbId": 13
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:36.000Z",
+    "updatedAt": "2022-05-15T12:08:23.000Z",
+    "checkedAt": "2022-05-15T12:08:23.000Z",
     "id": 272,
     "type": "anime",
     "title": "Noir",
-    "url": "https://myanimelist.net/anime/272/Noir",
-    "image": "https://cdn.myanimelist.net/images/anime/1054/96577.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-04-26T04:32:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ノワール"
     ],
+    "url": "https://anilist.co/anime/272",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx272-e2hCtZneansZ.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/noir/"
       }
     ],
-    "id": 272,
     "malId": 272,
-    "type": "anime",
-    "title": "Noir",
-    "url": "https://anilist.co/anime/272",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx272-e2hCtZneansZ.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:36.000Z",
-    "updatedAt": "2022-03-29T23:30:20.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/272/Noir"
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:41.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1631,
   "identifier": "30m9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30948,
   "aniId": 21224,
-  "createdAt": "2020-10-12T15:49:41.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:37.000Z",
+    "updatedAt": "2022-05-14T18:18:23.000Z",
+    "checkedAt": "2022-05-14T18:18:23.000Z",
+    "id": 30948,
+    "type": "anime",
+    "title": "Kowabon",
+    "altTitle": [
+      "こわぼん"
+    ],
+    "url": "https://myanimelist.net/anime/30948/Kowabon",
+    "image": "https://cdn.myanimelist.net/images/anime/10/74465.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,25 +50,23 @@
         "url": "http://www.crunchyroll.com/series-273317"
       }
     ],
-    "altTitle": [
-      "こわぼん"
-    ],
-    "id": 30948,
+    "deletedAt": null,
+    "anidbId": 11284
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:56.000Z",
+    "updatedAt": "2022-05-15T19:17:11.000Z",
+    "checkedAt": "2022-05-15T19:17:11.000Z",
+    "id": 21224,
     "type": "anime",
     "title": "Kowabon",
-    "url": "https://myanimelist.net/anime/30948/Kowabon",
-    "image": "https://cdn.myanimelist.net/images/anime/10/74465.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11284,
-    "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2022-04-03T06:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "こわぼん"
     ],
+    "url": "https://anilist.co/anime/21224",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21224-eQoxsSrPZEA2.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -64,17 +77,7 @@
         "url": "https://vrv.co/series/GRGGJ4DWR/KOWABON"
       }
     ],
-    "id": 21224,
     "malId": 30948,
-    "type": "anime",
-    "title": "Kowabon",
-    "url": "https://anilist.co/anime/21224",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21224-eQoxsSrPZEA2.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:56.000Z",
-    "updatedAt": "2022-04-08T08:30:22.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30948/Kowabon"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Koukami Shouji",
-    "Azuma Naoki"
-  ],
+  "createdAt": "2020-10-12T16:18:39.000Z",
+  "updatedAt": "2021-12-07T19:20:09.000Z",
+  "checkedAt": null,
+  "id": 33550,
   "identifier": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116676,
   "aniId": 118671,
-  "createdAt": "2020-10-12T16:18:39.000Z",
-  "updatedAt": "2021-12-07T19:20:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koukami Shouji",
+    "Azuma Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:48.000Z",
+    "updatedAt": "2022-05-21T17:16:55.000Z",
+    "checkedAt": "2022-05-21T17:16:55.000Z",
+    "id": 116676,
+    "type": "manga",
+    "title": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e",
+    "altTitle": [
+      "不死身の特攻兵 生キトシ生ケル者タチヘ"
+    ],
+    "url": "https://myanimelist.net/manga/116676/Fujimi_no_Tokkouhei__Ikitoshi_Ikeru_Monotachi_e",
+    "image": "https://cdn.myanimelist.net/images/manga/2/225605.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "不死身の特攻兵 生キトシ生ケル者タチヘ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Azuma, Naoki",
       "Koukami, Shouji"
-    ],
-    "id": 116676,
-    "type": "manga",
-    "title": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e",
-    "url": "https://myanimelist.net/manga/116676/Fujimi_no_Tokkouhei__Ikitoshi_Ikeru_Monotachi_e",
-    "image": "https://cdn.myanimelist.net/images/manga/2/225605.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:48.000Z",
-    "updatedAt": "2021-11-23T00:35:58.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:29.737Z",
+    "updatedAt": "2022-05-21T17:16:54.000Z",
+    "checkedAt": "2022-05-21T17:16:54.000Z",
+    "id": 118671,
+    "type": "manga",
+    "title": "Fujimi no Tokkouhei",
     "altTitle": [
       "不死身の特攻兵",
       "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Azuma",
-      "Shouji Koukami"
-    ],
-    "id": 118671,
-    "malId": 116676,
-    "type": "manga",
-    "title": "Fujimi no Tokkouhei",
     "url": "https://anilist.co/manga/118671",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118671-0gn6OhifESAj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:24.000Z",
-    "updatedAt": "2021-12-18T09:23:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116676/Fujimi_no_Tokkouhei__Ikitoshi_Ikeru_Monotachi_e"
+    "externalLinks": [],
+    "malId": 116676,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Azuma",
+      "Shouji Koukami"
+    ]
+  }
 }

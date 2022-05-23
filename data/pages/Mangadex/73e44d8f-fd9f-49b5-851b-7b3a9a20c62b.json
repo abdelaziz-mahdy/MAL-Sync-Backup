@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Mizuno Ryo",
-    "Takuma Tomomasa"
-  ],
+  "createdAt": "2020-10-12T16:13:55.000Z",
+  "updatedAt": "2021-12-06T01:18:19.000Z",
+  "checkedAt": null,
+  "id": 23868,
   "identifier": "73e44d8f-fd9f-49b5-851b-7b3a9a20c62b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87657,
   "aniId": 94430,
-  "createdAt": "2020-10-12T16:13:55.000Z",
-  "updatedAt": "2021-12-06T01:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizuno Ryo",
+    "Takuma Tomomasa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:55.000Z",
+    "updatedAt": "2022-05-16T17:45:32.000Z",
+    "checkedAt": "2022-05-16T17:45:32.000Z",
+    "id": 87657,
+    "type": "manga",
+    "title": "Lodoss-tou Senki: Haiiro no Majo",
+    "altTitle": [
+      "Record of Lodoss War: The Grey Witch",
+      "ロードス島戦記 灰色の魔女"
+    ],
+    "url": "https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/152639.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Record of Lodoss War: The Grey Witch",
-      "ロードス島戦記 灰色の魔女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takuma, Tomomasa",
       "Mizuno, Ryou"
-    ],
-    "id": 87657,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:38.871Z",
+    "updatedAt": "2022-05-16T17:45:31.000Z",
+    "checkedAt": "2022-05-16T17:45:31.000Z",
+    "id": 94430,
     "type": "manga",
     "title": "Lodoss-tou Senki: Haiiro no Majo",
-    "url": "https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/152639.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:55.000Z",
-    "updatedAt": "2021-11-13T02:43:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロードス島戦記 灰色の魔女",
       "Record of Lodoss War: The Grey Witch"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomomasa Takuma",
-      "Ryou Mizuno"
-    ],
-    "id": 94430,
-    "malId": 87657,
-    "type": "manga",
-    "title": "Lodoss-tou Senki: Haiiro no Majo",
     "url": "https://anilist.co/manga/94430",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94430-XeXfgBwuldsR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:48.000Z",
-    "updatedAt": "2021-12-18T01:01:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo"
+    "externalLinks": [],
+    "malId": 87657,
+    "deletedAt": null,
+    "authors": [
+      "Tomomasa Takuma",
+      "Ryou Mizuno"
+    ]
+  }
 }

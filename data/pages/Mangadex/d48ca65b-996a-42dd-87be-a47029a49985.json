@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "시니어",
-    "영광"
-  ],
+  "createdAt": "2021-02-28T20:14:43.000Z",
+  "updatedAt": "2021-12-08T15:34:51.000Z",
+  "checkedAt": null,
+  "id": 64105,
   "identifier": "d48ca65b-996a-42dd-87be-a47029a49985",
   "type": "manga",
   "page": "Mangadex",
@@ -12,39 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 130566,
-  "createdAt": "2021-02-28T20:14:43.000Z",
-  "updatedAt": "2021-12-08T15:34:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "시니어",
+    "영광"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:08.818Z",
+    "updatedAt": "2022-05-15T23:09:34.000Z",
+    "checkedAt": "2022-05-15T23:09:34.000Z",
+    "id": 130566,
+    "type": "manga",
+    "title": "Surajeonseol Dongnyong",
     "altTitle": [
       "수라전설 독룡",
       "Poison Dragon: The Legend of an Asura",
       "Legend of Asura - The Venom Dragon",
       "Legend of Sura - Venom Dragon"
     ],
+    "url": "https://anilist.co/manga/130566",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130566-ahDRD0JH2WSr.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Senior",
       "Yeong-Gwang",
       "Sang-Won Sin",
       "Mun-Gyeong Choi",
       "Mun-Gyeong Choi"
-    ],
-    "id": 130566,
-    "malId": null,
-    "type": "manga",
-    "title": "Surajeonseol Dongnyong",
-    "url": "https://anilist.co/manga/130566",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130566-ahDRD0JH2WSr.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-21T20:12:57.000Z",
-    "updatedAt": "2022-04-07T12:01:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

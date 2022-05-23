@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hamada Kamome"
-  ],
+  "createdAt": "2020-10-12T16:12:33.000Z",
+  "updatedAt": "2021-12-05T16:18:58.000Z",
+  "checkedAt": null,
+  "id": 21234,
   "identifier": "71deb061-d7fb-41fe-a7fb-6965d0577e90",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111289,
   "aniId": 102016,
-  "createdAt": "2020-10-12T16:12:33.000Z",
-  "updatedAt": "2021-12-05T16:18:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hamada Kamome"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T15:50:27.000Z",
+    "updatedAt": "2021-12-05T16:18:07.000Z",
+    "checkedAt": null,
+    "id": 111289,
+    "type": "manga",
+    "title": "Koi Kamoshirenai",
+    "altTitle": [
+      "It Could Be Love",
+      "恋かもしれない"
+    ],
+    "url": "https://myanimelist.net/manga/111289/Koi_Kamoshirenai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/220864.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "It Could Be Love",
-      "恋かもしれない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hamada, Kamome"
-    ],
-    "id": 111289,
-    "type": "manga",
-    "title": "Koi Kamoshirenai",
-    "url": "https://myanimelist.net/manga/111289/Koi_Kamoshirenai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/220864.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T15:50:27.000Z",
-    "updatedAt": "2021-12-05T16:18:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:05.497Z",
+    "updatedAt": "2022-05-13T12:55:05.497Z",
+    "checkedAt": null,
+    "id": 102016,
+    "type": "manga",
+    "title": "Koi Kamo Shirenai",
     "altTitle": [
       "恋かもしれない",
       "It Could be Love",
       "Koi Kamoshirenai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kamome Hamada"
-    ],
-    "id": 102016,
-    "malId": 111289,
-    "type": "manga",
-    "title": "Koi Kamo Shirenai",
     "url": "https://anilist.co/manga/102016",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102016-WPfYTnHF5fWs.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T15:50:27.000Z",
-    "updatedAt": "2021-12-18T04:00:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111289/Koi_Kamoshirenai"
+    "externalLinks": [],
+    "malId": 111289,
+    "deletedAt": null,
+    "authors": [
+      "Kamome Hamada"
+    ]
+  }
 }

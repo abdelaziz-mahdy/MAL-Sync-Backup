@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yasumura Youhei"
-  ],
+  "createdAt": "2021-05-31T09:18:01.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74480,
   "identifier": "manga-ze977239",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103001,
   "aniId": 99802,
-  "createdAt": "2021-05-31T09:18:01.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yasumura Youhei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:46.000Z",
+    "updatedAt": "2022-05-15T06:44:35.000Z",
+    "checkedAt": "2022-05-15T06:44:35.000Z",
+    "id": 103001,
+    "type": "manga",
+    "title": "Meikyuu Black Company",
+    "altTitle": [
+      "The Dungeon of Black Company",
+      "迷宮ブラックカンパニー"
+    ],
+    "url": "https://myanimelist.net/manga/103001/Meikyuu_Black_Company",
+    "image": "https://cdn.myanimelist.net/images/manga/3/195931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Dungeon of Black Company",
-      "迷宮ブラックカンパニー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yasumura, Youhei"
-    ],
-    "id": 103001,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:17.438Z",
+    "updatedAt": "2022-05-15T18:27:11.000Z",
+    "checkedAt": "2022-05-15T18:27:11.000Z",
+    "id": 99802,
     "type": "manga",
     "title": "Meikyuu Black Company",
-    "url": "https://myanimelist.net/manga/103001/Meikyuu_Black_Company",
-    "image": "https://cdn.myanimelist.net/images/manga/3/195931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:46.000Z",
-    "updatedAt": "2022-03-22T21:59:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Dungeon of Black Company",
       "迷宮ブラックカンパニー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youhei Yasumura",
-      "Wesley Bridges",
-      "Meaghan Tucker"
-    ],
-    "id": 99802,
-    "malId": 103001,
-    "type": "manga",
-    "title": "Meikyuu Black Company",
     "url": "https://anilist.co/manga/99802",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99802-jTKsp9VH8PQe.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2021-12-18T02:57:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103001/Meikyuu_Black_Company"
+    "externalLinks": [],
+    "malId": 103001,
+    "deletedAt": null,
+    "authors": [
+      "Youhei Yasumura",
+      "Wesley Bridges",
+      "Meaghan Tucker"
+    ]
+  }
 }

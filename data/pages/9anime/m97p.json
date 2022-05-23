@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-05-05T15:02:10.000Z",
+  "updatedAt": "2022-05-13T16:31:03.000Z",
+  "checkedAt": "2022-05-13T16:29:40.000Z",
+  "id": 40872,
   "identifier": "m97p",
   "type": "anime",
   "page": "9anime",
@@ -7,14 +11,59 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/2/2b/2b83b62dc5d93dde9ee40b8aeda8a46e.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-05T15:02:10.000Z",
-  "updatedAt": "2022-05-05T15:02:10.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 41714,
+  "aniId": 117758,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "createdAt": "2021-05-16T09:55:14.000Z",
+    "updatedAt": "2022-05-13T16:29:46.000Z",
+    "checkedAt": "2022-05-13T16:29:46.000Z",
+    "id": 41714,
+    "type": "anime",
+    "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+    "altTitle": [
+      "蒼穹のファフナー Dead Aggressor THE BEYOND"
+    ],
+    "url": "https://myanimelist.net/anime/41714/Soukyuu_no_Fafner__Dead_Aggressor_-_The_Beyond_Part_3",
+    "image": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://fafner-beyond.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12701"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21286"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 12701
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:06.000Z",
+    "updatedAt": "2022-05-15T12:32:59.000Z",
+    "checkedAt": "2022-05-15T12:32:59.000Z",
+    "id": 117758,
+    "type": "anime",
+    "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+    "altTitle": [
+      "蒼穹のファフナー Dead Aggressor THE BEYOND"
+    ],
+    "url": "https://anilist.co/anime/117758",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117758-0TpL3jS56jgH.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 41714,
+    "deletedAt": null
+  }
 }

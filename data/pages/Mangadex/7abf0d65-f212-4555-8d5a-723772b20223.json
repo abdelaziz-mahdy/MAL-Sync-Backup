@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshino Mari"
-  ],
+  "createdAt": "2020-10-12T16:03:20.000Z",
+  "updatedAt": "2021-12-02T13:46:26.000Z",
+  "checkedAt": null,
+  "id": 2019,
   "identifier": "7abf0d65-f212-4555-8d5a-723772b20223",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5169,
   "aniId": 35169,
-  "createdAt": "2020-10-12T16:03:20.000Z",
-  "updatedAt": "2021-12-02T13:46:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshino Mari"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E6%A1%83%E8%89%B2%E3%83%98%E3%83%B4%E3%83%B3!"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:03.000Z",
+    "updatedAt": "2022-05-17T14:15:59.000Z",
+    "checkedAt": "2022-05-17T14:15:59.000Z",
+    "id": 5169,
+    "type": "manga",
+    "title": "Momoiro Heaven!",
     "altTitle": [
       "Peach Colored Heaven!",
       "Pink Heaven!",
@@ -32,42 +33,44 @@
       "Peach Heaven",
       "桃色ヘヴン!"
     ],
-    "authors": [
-      "Yoshino, Mari"
-    ],
-    "id": 5169,
-    "type": "manga",
-    "title": "Momoiro Heaven!",
     "url": "https://myanimelist.net/manga/5169/Momoiro_Heaven",
     "image": "https://cdn.myanimelist.net/images/manga/2/174042.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:03.000Z",
-    "updatedAt": "2022-03-23T08:58:18.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%A1%83%E8%89%B2%E3%83%98%E3%83%B4%E3%83%B3!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshino, Mari"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:18.191Z",
+    "updatedAt": "2022-05-17T14:15:57.000Z",
+    "checkedAt": "2022-05-17T14:15:57.000Z",
+    "id": 35169,
+    "type": "manga",
+    "title": "Momoiro Heaven!",
     "altTitle": [
       "Peach Heaven",
       "桃色ヘヴン!",
       "Peach Colored Heaven!",
       "Pink Heaven!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mari Yoshino"
-    ],
-    "id": 35169,
-    "malId": 5169,
-    "type": "manga",
-    "title": "Momoiro Heaven!",
     "url": "https://anilist.co/manga/35169",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35169-EuMVQO0KjbXX.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:25.000Z",
-    "updatedAt": "2021-12-17T12:14:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5169/Momoiro_Heaven"
+    "externalLinks": [],
+    "malId": 5169,
+    "deletedAt": null,
+    "authors": [
+      "Mari Yoshino"
+    ]
+  }
 }

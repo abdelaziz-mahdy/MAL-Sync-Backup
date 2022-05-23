@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Abgrund",
-    "Udk"
-  ],
+  "createdAt": "2020-10-12T16:12:08.000Z",
+  "updatedAt": "2021-12-05T13:49:30.000Z",
+  "checkedAt": null,
+  "id": 20786,
   "identifier": "0664fe2d-0eb0-474b-8fff-5cdc57d87104",
   "type": "manga",
   "page": "Mangadex",
@@ -12,51 +12,54 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26413,
   "aniId": 56413,
-  "createdAt": "2020-10-12T16:12:08.000Z",
-  "updatedAt": "2021-12-05T13:49:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abgrund",
+    "Udk"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "EIEN"
-    ],
-    "authors": [
-      "Saikawa, Yusa"
-    ],
+    "createdAt": "2020-10-12T15:43:25.000Z",
+    "updatedAt": "2022-05-22T01:30:59.000Z",
+    "checkedAt": "2022-05-22T01:30:59.000Z",
     "id": 26413,
     "type": "manga",
     "title": "Eien",
+    "altTitle": [
+      "EIEN"
+    ],
     "url": "https://myanimelist.net/manga/26413/Eien",
     "image": "https://cdn.myanimelist.net/images/manga/1/49209.jpg",
     "category": "Doujinshi",
     "hentai": true,
-    "createdAt": "2020-10-12T15:43:25.000Z",
-    "updatedAt": "2021-11-04T10:04:41.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Saikawa, Yusa"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:57.478Z",
+    "updatedAt": "2022-05-22T01:30:58.000Z",
+    "checkedAt": "2022-05-22T01:30:58.000Z",
+    "id": 56413,
+    "type": "manga",
+    "title": "Eien",
     "altTitle": [
       "EIEN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yusa Saikawa"
-    ],
-    "id": 56413,
-    "malId": 26413,
-    "type": "manga",
-    "title": "Eien",
     "url": "https://anilist.co/manga/56413",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56413-X7RaodPWM2ye.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:47:02.000Z",
-    "updatedAt": "2021-12-17T18:42:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/26413/Eien"
+    "externalLinks": [],
+    "malId": 26413,
+    "deletedAt": null,
+    "authors": [
+      "Yusa Saikawa"
+    ]
+  }
 }

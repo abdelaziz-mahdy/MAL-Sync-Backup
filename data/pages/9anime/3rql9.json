@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-08-15T12:37:30.000Z",
+  "updatedAt": "2021-12-25T12:27:34.000Z",
+  "checkedAt": null,
+  "id": 38308,
   "identifier": "3rql9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42246,
   "aniId": 121039,
-  "createdAt": "2021-08-15T12:37:30.000Z",
-  "updatedAt": "2021-12-25T12:27:34.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-08-15T12:37:34.000Z",
+    "updatedAt": "2022-04-04T08:34:43.000Z",
+    "checkedAt": null,
+    "id": 42246,
+    "type": "anime",
+    "title": "S=13",
+    "altTitle": [
+      "S＝13"
+    ],
+    "url": "https://myanimelist.net/anime/42246/S_13",
+    "image": "https://cdn.myanimelist.net/images/anime/1913/108080.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -22,37 +37,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "S＝13"
-    ],
-    "id": 42246,
-    "type": "anime",
-    "title": "S=13",
-    "url": "https://myanimelist.net/anime/42246/S_13",
-    "image": "https://cdn.myanimelist.net/images/anime/1913/108080.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": null,
-    "createdAt": "2021-08-15T12:37:34.000Z",
-    "updatedAt": "2022-04-04T08:34:43.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": null
   },
-  "Anilist": {
-    "altTitle": [
-      "S＝13"
-    ],
-    "externalLinks": [],
+  "Ani": {
+    "createdAt": "2021-12-25T11:57:34.000Z",
+    "updatedAt": "2021-12-25T11:57:34.000Z",
+    "checkedAt": null,
     "id": 121039,
-    "malId": 42246,
     "type": "anime",
     "title": "S＝13",
+    "altTitle": [
+      "S＝13"
+    ],
     "url": "https://anilist.co/anime/121039",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121039-mELVhGgmMT6r.png",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-12-25T11:57:34.000Z",
-    "updatedAt": "2021-12-25T11:57:34.000Z",
+    "externalLinks": [],
+    "malId": 42246,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/42246/S_13"
+  }
 }

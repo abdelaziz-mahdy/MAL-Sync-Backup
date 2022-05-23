@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miura Tsuina"
-  ],
+  "createdAt": "2021-05-29T13:13:14.000Z",
+  "updatedAt": "2021-11-29T14:06:44.000Z",
+  "checkedAt": null,
+  "id": 73810,
   "identifier": "manga-to951549",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 63845,
   "aniId": 85388,
-  "createdAt": "2021-05-29T13:13:14.000Z",
-  "updatedAt": "2021-11-29T14:06:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Tsuina"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2022-05-15T07:15:02.000Z",
+    "checkedAt": "2022-05-15T07:15:02.000Z",
+    "id": 63845,
+    "type": "manga",
+    "title": "Tenkuu Shinpan",
+    "altTitle": [
+      "Sky-High Survival",
+      "Sky Violation",
+      "High-rise Invasion",
+      "天空侵犯"
+    ],
+    "url": "https://myanimelist.net/manga/63845/Tenkuu_Shinpan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/128611.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,28 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sky-High Survival",
-      "Sky Violation",
-      "High-rise Invasion",
-      "天空侵犯"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miura, Tsuina",
       "Oba, Takahiro"
-    ],
-    "id": 63845,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:10.418Z",
+    "updatedAt": "2022-05-15T17:25:59.000Z",
+    "checkedAt": "2022-05-15T17:25:59.000Z",
+    "id": 85388,
     "type": "manga",
     "title": "Tenkuu Shinpan",
-    "url": "https://myanimelist.net/manga/63845/Tenkuu_Shinpan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/128611.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2022-04-25T03:31:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "High-Rise Invasion",
       "天空侵犯",
@@ -54,23 +63,17 @@
       "Tenku Shinpan - Sem Saída",
       "Sky Violation"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuina Miura",
-      "Takahiro Oba",
-      "Thibaud Desbief"
-    ],
-    "id": 85388,
-    "malId": 63845,
-    "type": "manga",
-    "title": "Tenkuu Shinpan",
     "url": "https://anilist.co/manga/85388",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85388-41lRoFY1CDgI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:49.000Z",
-    "updatedAt": "2021-12-17T21:59:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/63845/Tenkuu_Shinpan"
+    "externalLinks": [],
+    "malId": 63845,
+    "deletedAt": null,
+    "authors": [
+      "Tsuina Miura",
+      "Takahiro Oba",
+      "Thibaud Desbief"
+    ]
+  }
 }

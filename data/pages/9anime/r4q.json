@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:29.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8776,
   "identifier": "r4q",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 813,
   "aniId": 813,
-  "createdAt": "2020-10-12T15:55:29.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T09:45:23.000Z",
+    "checkedAt": "2022-05-14T09:45:23.000Z",
+    "id": 813,
+    "type": "anime",
+    "title": "Dragon Ball Z",
+    "altTitle": [
+      "DBZ",
+      "Dragonball Z",
+      "Dragon Ball Z",
+      "ドラゴンボールZ"
+    ],
+    "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+    "image": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,25 +57,16 @@
         "url": "https://www.funimation.com/shows/dragon-ball-z"
       }
     ],
-    "altTitle": [
-      "DBZ",
-      "Dragonball Z",
-      "Dragon Ball Z",
-      "ドラゴンボールZ"
-    ],
+    "deletedAt": null,
+    "anidbId": 1530
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T11:48:23.000Z",
+    "checkedAt": "2022-05-15T11:48:23.000Z",
     "id": 813,
     "type": "anime",
     "title": "Dragon Ball Z",
-    "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
-    "image": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1530,
-    "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2022-04-03T17:30:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragon Ball Z",
       "ドラゴンボールZ",
@@ -66,27 +75,21 @@
       "דרגון בול זי",
       "What's My Destiny Dragon Ball"
     ],
+    "url": "https://anilist.co/anime/813",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-QBIvCQgHcjcF.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/dragon-ball-z/"
       },
       {
-        "site": "Hulu",
-        "url": "http://www.hulu.com/dragon-ball-z"
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/dragon-ball-z"
       }
     ],
-    "id": 813,
     "malId": 813,
-    "type": "anime",
-    "title": "Dragon Ball Z",
-    "url": "https://anilist.co/anime/813",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-QBIvCQgHcjcF.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:46.000Z",
-    "updatedAt": "2022-03-10T05:59:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/813/Dragon_Ball_Z"
+  }
 }

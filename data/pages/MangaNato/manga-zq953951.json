@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Osada Yoshimi"
-  ],
+  "createdAt": "2021-07-04T06:31:45.000Z",
+  "updatedAt": "2022-01-04T07:18:23.000Z",
+  "checkedAt": null,
+  "id": 80859,
   "identifier": "manga-zq953951",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25364,
   "aniId": 55364,
-  "createdAt": "2021-07-04T06:31:45.000Z",
-  "updatedAt": "2022-01-04T07:18:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Osada Yoshimi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:17.000Z",
+    "updatedAt": "2022-01-04T06:49:55.000Z",
+    "checkedAt": null,
+    "id": 25364,
+    "type": "manga",
+    "title": "Bamora!",
+    "altTitle": [
+      "Vamos Là!",
+      "ばもら！"
+    ],
+    "url": "https://myanimelist.net/manga/25364/Bamora",
+    "image": "https://cdn.myanimelist.net/images/manga/3/86755.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Vamos Là!",
-      "ばもら！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Osada, Yoshimi"
-    ],
-    "id": 25364,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:14.889Z",
+    "updatedAt": "2022-05-13T12:48:14.889Z",
+    "checkedAt": null,
+    "id": 55364,
     "type": "manga",
     "title": "Bamora!",
-    "url": "https://myanimelist.net/manga/25364/Bamora",
-    "image": "https://cdn.myanimelist.net/images/manga/3/86755.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:17.000Z",
-    "updatedAt": "2022-01-04T06:49:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ばもら！",
       "Vamos Là!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshimi Osada"
-    ],
-    "id": 55364,
-    "malId": 25364,
-    "type": "manga",
-    "title": "Bamora!",
     "url": "https://anilist.co/manga/55364",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55364-zUTquXVbWh5r.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:53.000Z",
-    "updatedAt": "2021-12-17T18:35:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25364/Bamora"
+    "externalLinks": [],
+    "malId": 25364,
+    "deletedAt": null,
+    "authors": [
+      "Yoshimi Osada"
+    ]
+  }
 }

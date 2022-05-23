@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Miura Shion",
-    "Kumota Haruko"
-  ],
+  "createdAt": "2021-03-01T13:15:24.000Z",
+  "updatedAt": "2021-12-08T12:36:21.000Z",
+  "checkedAt": null,
+  "id": 64217,
   "identifier": "33804e30-727f-4dd3-8aee-e89ac1d32647",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108290,
   "aniId": 109886,
-  "createdAt": "2021-03-01T13:15:24.000Z",
-  "updatedAt": "2021-12-08T12:36:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Shion",
+    "Kumota Haruko"
+  ],
   "Mal": {
+    "createdAt": "2021-03-01T13:15:23.000Z",
+    "updatedAt": "2022-05-17T03:33:48.000Z",
+    "checkedAt": "2022-05-17T03:33:48.000Z",
+    "id": 108290,
+    "type": "manga",
+    "title": "Fune wo Amu",
+    "altTitle": [
+      "The Great Passage",
+      "舟を編む"
+    ],
+    "url": "https://myanimelist.net/manga/108290/Fune_wo_Amu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/198562.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Great Passage",
-      "舟を編む"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kumota, Haruko",
       "Miura, Shion"
-    ],
-    "id": 108290,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:13.079Z",
+    "updatedAt": "2022-05-17T03:33:47.000Z",
+    "checkedAt": "2022-05-17T03:33:47.000Z",
+    "id": 109886,
     "type": "manga",
     "title": "Fune wo Amu",
-    "url": "https://myanimelist.net/manga/108290/Fune_wo_Amu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/198562.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-03-01T13:15:23.000Z",
-    "updatedAt": "2022-03-01T01:18:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "舟を編む",
       "The Great Passage",
       "La gran travesía"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruko Kumota",
-      "Shion Miura"
-    ],
-    "id": 109886,
-    "malId": 108290,
-    "type": "manga",
-    "title": "Fune wo Amu",
     "url": "https://anilist.co/manga/109886",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109886-o9iTXEpJ5Abw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:58.000Z",
-    "updatedAt": "2022-01-26T02:00:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108290/Fune_wo_Amu"
+    "externalLinks": [],
+    "malId": 108290,
+    "deletedAt": null,
+    "authors": [
+      "Haruko Kumota",
+      "Shion Miura"
+    ]
+  }
 }

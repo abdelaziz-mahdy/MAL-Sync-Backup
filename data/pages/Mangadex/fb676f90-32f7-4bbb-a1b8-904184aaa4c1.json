@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tanuki Kawo",
-    "Aya Shouko"
-  ],
+  "createdAt": "2020-10-12T16:10:50.000Z",
+  "updatedAt": "2021-12-05T03:49:49.000Z",
+  "checkedAt": null,
+  "id": 17979,
   "identifier": "fb676f90-32f7-4bbb-a1b8-904184aaa4c1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104522,
   "aniId": 99533,
-  "createdAt": "2020-10-12T16:10:50.000Z",
-  "updatedAt": "2021-12-05T03:49:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanuki Kawo",
+    "Aya Shouko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2022-05-15T12:59:48.000Z",
+    "checkedAt": "2022-05-15T12:59:48.000Z",
+    "id": 104522,
+    "type": "manga",
+    "title": "Dragon, Ie wo Kau.",
+    "altTitle": [
+      "Dragon's House-Hunting",
+      "Dragon Goes House-Hunting",
+      "ドラゴン、家を買う。"
+    ],
+    "url": "https://myanimelist.net/manga/104522/Dragon_Ie_wo_Kau",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198004.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dragon's House-Hunting",
-      "Dragon Goes House-Hunting",
-      "ドラゴン、家を買う。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanuki, Kawo",
       "Murayama, Shouko"
-    ],
-    "id": 104522,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.669Z",
+    "updatedAt": "2022-05-15T17:29:23.000Z",
+    "checkedAt": "2022-05-15T17:29:23.000Z",
+    "id": 99533,
     "type": "manga",
     "title": "Dragon, Ie wo Kau.",
-    "url": "https://myanimelist.net/manga/104522/Dragon_Ie_wo_Kau",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198004.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2022-02-05T06:06:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragon Goes House-Hunting",
       "ドラゴン、家を買う。",
@@ -54,23 +63,17 @@
       "Dragón busca casa",
       "Дракон в поисках дома"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kawo Tanuki",
-      "Shouko Aya",
-      "Jesús Espí"
-    ],
-    "id": 99533,
-    "malId": 104522,
-    "type": "manga",
-    "title": "Dragon, Ie wo Kau.",
     "url": "https://anilist.co/manga/99533",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99533-O4WwvM82HP6r.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2022-02-20T19:17:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104522/Dragon_Ie_wo_Kau"
+    "externalLinks": [],
+    "malId": 104522,
+    "deletedAt": null,
+    "authors": [
+      "Kawo Tanuki",
+      "Shouko Aya",
+      "Jesús Espí"
+    ]
+  }
 }

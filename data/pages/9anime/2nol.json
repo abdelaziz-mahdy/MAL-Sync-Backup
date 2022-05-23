@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:28.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1437,
   "identifier": "2nol",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38235,
   "aniId": 104077,
-  "createdAt": "2020-10-12T15:49:28.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:05.000Z",
+    "updatedAt": "2022-05-14T20:33:29.000Z",
+    "checkedAt": "2022-05-14T20:33:29.000Z",
+    "id": 38235,
+    "type": "anime",
+    "title": "Inazuma Eleven: Orion no Kokuin",
+    "altTitle": [
+      "イナズマイレブン オリオンの刻印"
+    ],
+    "url": "https://myanimelist.net/anime/38235/Inazuma_Eleven__Orion_no_Kokuin",
+    "image": "https://cdn.myanimelist.net/images/anime/1965/117638.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +49,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "イナズマイレブン オリオンの刻印"
-    ],
-    "id": 38235,
+    "deletedAt": null,
+    "anidbId": 14327
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:46.000Z",
+    "updatedAt": "2022-05-15T16:11:23.000Z",
+    "checkedAt": "2022-05-15T16:11:23.000Z",
+    "id": 104077,
     "type": "anime",
     "title": "Inazuma Eleven: Orion no Kokuin",
-    "url": "https://myanimelist.net/anime/38235/Inazuma_Eleven__Orion_no_Kokuin",
-    "image": "https://cdn.myanimelist.net/images/anime/1965/117638.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14327,
-    "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2022-02-23T14:18:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Inazuma Eleven: The Seal of Orion",
       "イナズマイレブン オリオンの刻印",
       "Inazuma Eleven: Mark of Orion"
     ],
-    "externalLinks": [],
-    "id": 104077,
-    "malId": 38235,
-    "type": "anime",
-    "title": "Inazuma Eleven: Orion no Kokuin",
     "url": "https://anilist.co/anime/104077",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104077-Huh0rmL67Z6d.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:46.000Z",
-    "updatedAt": "2021-12-17T16:54:11.000Z",
+    "externalLinks": [],
+    "malId": 38235,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38235/Inazuma_Eleven__Orion_no_Kokuin"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okazaki Hideo",
-    "Kazuo Kamimura"
-  ],
+  "createdAt": "2020-10-12T16:09:06.000Z",
+  "updatedAt": "2021-12-04T15:21:08.000Z",
+  "checkedAt": null,
+  "id": 14245,
   "identifier": "6646ba6a-1a79-4d2e-ad74-680123271b5a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14549,
   "aniId": 44549,
-  "createdAt": "2020-10-12T16:09:06.000Z",
-  "updatedAt": "2021-12-04T15:21:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okazaki Hideo",
+    "Kazuo Kamimura"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:06.000Z",
+    "updatedAt": "2022-05-18T00:50:23.000Z",
+    "checkedAt": "2022-05-18T00:50:23.000Z",
+    "id": 14549,
+    "type": "manga",
+    "title": "Shinanogawa",
+    "altTitle": [
+      "Shinano Gawa",
+      "しなの川"
+    ],
+    "url": "https://myanimelist.net/manga/14549/Shinanogawa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/20847.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shinano Gawa",
-      "しなの川"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kamimura, Kazuo",
       "Okazaki, Hideo"
-    ],
-    "id": 14549,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:58.048Z",
+    "updatedAt": "2022-05-18T00:50:22.000Z",
+    "checkedAt": "2022-05-18T00:50:22.000Z",
+    "id": 44549,
     "type": "manga",
     "title": "Shinanogawa",
-    "url": "https://myanimelist.net/manga/14549/Shinanogawa",
-    "image": "https://cdn.myanimelist.net/images/manga/1/20847.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:06.000Z",
-    "updatedAt": "2022-05-01T06:06:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "しなの川",
       "Shinano Gawa",
@@ -54,22 +63,16 @@
       "Shinano River",
       "Il fiume Shinano"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuo Kamimura",
-      "Hideo Okazaki"
-    ],
-    "id": 44549,
-    "malId": 14549,
-    "type": "manga",
-    "title": "Shinanogawa",
     "url": "https://anilist.co/manga/44549",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44549-Zzct61mnDH81.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:38.000Z",
-    "updatedAt": "2022-05-17T16:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14549/Shinanogawa"
+    "externalLinks": [],
+    "malId": 14549,
+    "deletedAt": null,
+    "authors": [
+      "Kazuo Kamimura",
+      "Hideo Okazaki"
+    ]
+  }
 }

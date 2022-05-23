@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Cygames",
-    "Kumajet"
-  ],
+  "createdAt": "2020-10-12T16:18:02.000Z",
+  "updatedAt": "2021-12-07T13:47:12.000Z",
+  "checkedAt": null,
+  "id": 32350,
   "identifier": "899a6cee-3f2a-42d5-85a1-1388afa0e232",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 116943,
-  "createdAt": "2020-10-12T16:18:02.000Z",
-  "updatedAt": "2021-12-07T13:47:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cygames",
+    "Kumajet"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:18.752Z",
+    "updatedAt": "2022-05-16T04:50:12.000Z",
+    "checkedAt": "2022-05-16T04:50:12.000Z",
+    "id": 116943,
+    "type": "manga",
+    "title": "Umayon",
     "altTitle": [
       "うまよん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Itou Jin",
-      "Cygames",
-      "Kumajet"
-    ],
-    "id": 116943,
-    "malId": null,
-    "type": "manga",
-    "title": "Umayon",
     "url": "https://anilist.co/manga/116943",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116943-mafaoyrLL1lF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T13:35:59.000Z",
-    "updatedAt": "2021-12-21T15:29:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Itou Jin",
+      "Cygames",
+      "Kumajet"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hongou Chika"
-  ],
+  "createdAt": "2020-10-12T16:18:22.000Z",
+  "updatedAt": "2021-12-07T16:49:13.000Z",
+  "checkedAt": null,
+  "id": 33036,
   "identifier": "950754b4-06f4-421a-a5a1-2e290aea701d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43799,
   "aniId": 73799,
-  "createdAt": "2020-10-12T16:18:22.000Z",
-  "updatedAt": "2021-12-07T16:49:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hongou Chika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:18.000Z",
+    "updatedAt": "2021-11-06T20:35:02.000Z",
+    "checkedAt": null,
+    "id": 43799,
+    "type": "manga",
+    "title": "Metro",
+    "altTitle": [
+      "metro"
+    ],
+    "url": "https://myanimelist.net/manga/43799/Metro",
+    "image": "https://cdn.myanimelist.net/images/manga/1/202725.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "metro"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishikawa, Chika"
-    ],
-    "id": 43799,
-    "type": "manga",
-    "title": "Metro",
-    "url": "https://myanimelist.net/manga/43799/Metro",
-    "image": "https://cdn.myanimelist.net/images/manga/1/202725.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:18.000Z",
-    "updatedAt": "2021-11-06T20:35:02.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:34.518Z",
+    "updatedAt": "2022-05-13T12:48:34.518Z",
+    "checkedAt": null,
+    "id": 73799,
+    "type": "manga",
+    "title": "metro",
     "altTitle": [
       "metro",
       "メトロ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chika Ishikawa"
-    ],
-    "id": 73799,
-    "malId": 43799,
-    "type": "manga",
-    "title": "metro",
     "url": "https://anilist.co/manga/73799",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73799-9vc4rDA1ZIvl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:58.000Z",
-    "updatedAt": "2022-04-27T08:01:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/43799/Metro"
+    "externalLinks": [],
+    "malId": 43799,
+    "deletedAt": null,
+    "authors": [
+      "Chika Ishikawa"
+    ]
+  }
 }

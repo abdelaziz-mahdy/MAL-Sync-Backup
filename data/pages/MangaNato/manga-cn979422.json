@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nagasaki Takashi",
-    "Kouji Kouno"
-  ],
+  "createdAt": "2021-08-10T17:40:23.000Z",
+  "updatedAt": "2022-02-11T09:40:29.000Z",
+  "checkedAt": null,
+  "id": 85003,
   "identifier": "manga-cn979422",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 62957,
   "aniId": 89629,
-  "createdAt": "2021-08-10T17:40:23.000Z",
-  "updatedAt": "2022-02-11T09:40:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagasaki Takashi",
+    "Kouji Kouno"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:04.000Z",
+    "updatedAt": "2022-02-10T18:09:58.000Z",
+    "checkedAt": null,
+    "id": 62957,
+    "type": "manga",
+    "title": "Kurokouchi",
+    "altTitle": [
+      "Kurokoochi",
+      "クロコーチ"
+    ],
+    "url": "https://myanimelist.net/manga/62957/Kurokouchi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/210946.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kurokoochi",
-      "クロコーチ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagasaki, Takashi",
       "Kouno, Kouji"
-    ],
-    "id": 62957,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:38.419Z",
+    "updatedAt": "2022-05-13T12:43:38.419Z",
+    "checkedAt": null,
+    "id": 89629,
     "type": "manga",
     "title": "Kurokouchi",
-    "url": "https://myanimelist.net/manga/62957/Kurokouchi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/210946.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2022-02-10T18:09:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クロコーチ",
       "Kurokōchi",
       "Kurokoochi",
       "Kurokochi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takashi Nagasaki",
-      "Kouji Kouno"
-    ],
-    "id": 89629,
-    "malId": 62957,
-    "type": "manga",
-    "title": "Kurokouchi",
     "url": "https://anilist.co/manga/89629",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89629-NzHR7I8TdjHO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:47.000Z",
-    "updatedAt": "2021-12-17T23:55:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/62957/Kurokouchi"
+    "externalLinks": [],
+    "malId": 62957,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Nagasaki",
+      "Kouji Kouno"
+    ]
+  }
 }

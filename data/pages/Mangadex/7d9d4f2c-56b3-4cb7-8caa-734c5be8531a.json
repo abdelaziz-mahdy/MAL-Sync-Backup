@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sugawara Keita"
-  ],
+  "createdAt": "2020-10-12T16:07:50.000Z",
+  "updatedAt": "2021-12-04T09:19:51.000Z",
+  "checkedAt": null,
+  "id": 11462,
   "identifier": "7d9d4f2c-56b3-4cb7-8caa-734c5be8531a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,60 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67575,
   "aniId": 85500,
-  "createdAt": "2020-10-12T16:07:50.000Z",
-  "updatedAt": "2021-12-04T09:19:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugawara Keita"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2021-11-07T10:18:46.000Z",
+    "checkedAt": null,
+    "id": 67575,
+    "type": "manga",
+    "title": "Murder Incarnation",
     "altTitle": [
       "Murder Incarnation",
       "マーダー・インカーネイション"
     ],
-    "authors": [
-      "Inamitsu, Shinji",
-      "Sugahara, Keita"
-    ],
-    "id": 67575,
-    "type": "manga",
-    "title": "Murder Incarnation",
     "url": "https://myanimelist.net/manga/67575/Murder_Incarnation",
     "image": "https://cdn.myanimelist.net/images/manga/3/115683.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:13.000Z",
-    "updatedAt": "2021-11-07T10:18:46.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Inamitsu, Shinji",
+      "Sugahara, Keita"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.799Z",
+    "updatedAt": "2022-05-13T13:06:36.799Z",
+    "checkedAt": null,
+    "id": 85500,
+    "type": "manga",
+    "title": "Murder Incarnation",
     "altTitle": [
       "Murder Incarnation",
       "マーダー・インカーネイション"
     ],
+    "url": "https://anilist.co/manga/85500",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55500.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/murder-incarnation/volumes"
       }
     ],
+    "malId": 67575,
+    "deletedAt": null,
     "authors": [
       "Shinji Inamitsu ",
       "Keita Sugahara"
-    ],
-    "id": 85500,
-    "malId": 67575,
-    "type": "manga",
-    "title": "Murder Incarnation",
-    "url": "https://anilist.co/manga/85500",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55500.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T05:49:27.000Z",
-    "updatedAt": "2021-12-17T22:01:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67575/Murder_Incarnation"
+    ]
+  }
 }

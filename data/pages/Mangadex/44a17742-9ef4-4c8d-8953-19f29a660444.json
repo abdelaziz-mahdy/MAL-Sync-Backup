@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aiya Kyu"
-  ],
+  "createdAt": "2020-10-12T16:03:44.000Z",
+  "updatedAt": "2021-12-02T16:17:37.000Z",
+  "checkedAt": null,
+  "id": 2874,
   "identifier": "44a17742-9ef4-4c8d-8953-19f29a660444",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33429,
   "aniId": 63429,
-  "createdAt": "2020-10-12T16:03:44.000Z",
-  "updatedAt": "2021-12-02T16:17:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aiya Kyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:47.000Z",
+    "updatedAt": "2022-05-21T20:45:48.000Z",
+    "checkedAt": "2022-05-21T20:45:48.000Z",
+    "id": 33429,
+    "type": "manga",
+    "title": "Antimagia",
+    "altTitle": [
+      "Anteimagia, Anti-magia, Antimagi-a",
+      "アンティマギア"
+    ],
+    "url": "https://myanimelist.net/manga/33429/Antimagia",
+    "image": "https://cdn.myanimelist.net/images/manga/1/61103.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anteimagia, Anti-magia, Antimagi-a",
-      "アンティマギア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aiya, Kyu"
-    ],
-    "id": 33429,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:25.396Z",
+    "updatedAt": "2022-05-21T20:45:47.000Z",
+    "checkedAt": "2022-05-21T20:45:47.000Z",
+    "id": 63429,
     "type": "manga",
     "title": "Antimagia",
-    "url": "https://myanimelist.net/manga/33429/Antimagia",
-    "image": "https://cdn.myanimelist.net/images/manga/1/61103.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:47.000Z",
-    "updatedAt": "2021-11-05T00:06:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アンティマギア",
       "Anteimagia",
       "Anti-magia",
       "Antimagi-a"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kyu Aiya"
-    ],
-    "id": 63429,
-    "malId": 33429,
-    "type": "manga",
-    "title": "Antimagia",
     "url": "https://anilist.co/manga/63429",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33429.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:54.000Z",
-    "updatedAt": "2021-12-17T19:28:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33429/Antimagia"
+    "externalLinks": [],
+    "malId": 33429,
+    "deletedAt": null,
+    "authors": [
+      "Kyu Aiya"
+    ]
+  }
 }

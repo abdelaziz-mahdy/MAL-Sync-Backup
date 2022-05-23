@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Keikenchi"
-  ],
+  "createdAt": "2020-10-12T16:15:49.000Z",
+  "updatedAt": "2021-12-06T17:19:16.000Z",
+  "checkedAt": null,
+  "id": 27820,
   "identifier": "223f03db-b8fa-4087-8dfe-9bb04efecd3b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99724,
   "aniId": 100260,
-  "createdAt": "2020-10-12T16:15:49.000Z",
-  "updatedAt": "2021-12-06T17:19:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Keikenchi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:33.000Z",
+    "updatedAt": "2022-05-17T11:34:07.000Z",
+    "checkedAt": "2022-05-17T11:34:07.000Z",
+    "id": 99724,
+    "type": "manga",
+    "title": "Koha-Ace",
+    "altTitle": [
+      "コハエース"
+    ],
+    "url": "https://myanimelist.net/manga/99724/Koha-Ace",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180809.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "コハエース"
-    ],
+    "deletedAt": null,
     "authors": [
       "Keikenchi"
-    ],
-    "id": 99724,
-    "type": "manga",
-    "title": "Koha-Ace",
-    "url": "https://myanimelist.net/manga/99724/Koha-Ace",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180809.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:33.000Z",
-    "updatedAt": "2022-04-04T20:30:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:22.427Z",
+    "updatedAt": "2022-05-17T11:34:06.000Z",
+    "checkedAt": "2022-05-17T11:34:06.000Z",
+    "id": 100260,
+    "type": "manga",
+    "title": "Koha-Ace",
     "altTitle": [
       "コハエース"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keikenchi"
-    ],
-    "id": 100260,
-    "malId": 99724,
-    "type": "manga",
-    "title": "Koha-Ace",
     "url": "https://anilist.co/manga/100260",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100260-pbRpGjoXVi16.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:44.000Z",
-    "updatedAt": "2021-12-18T03:21:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99724/Koha-Ace"
+    "externalLinks": [],
+    "malId": 99724,
+    "deletedAt": null,
+    "authors": [
+      "Keikenchi"
+    ]
+  }
 }

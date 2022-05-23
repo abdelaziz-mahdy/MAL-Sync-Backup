@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamana Sawako"
-  ],
+  "createdAt": "2020-10-12T16:04:20.000Z",
+  "updatedAt": "2021-12-02T20:48:28.000Z",
+  "checkedAt": null,
+  "id": 4150,
   "identifier": "917f6472-5999-4551-b8d2-70195cfeb79b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 27261,
   "aniId": 57261,
-  "createdAt": "2020-10-12T16:04:20.000Z",
-  "updatedAt": "2021-12-02T20:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamana Sawako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:27.000Z",
+    "updatedAt": "2021-11-04T13:05:00.000Z",
+    "checkedAt": null,
+    "id": 27261,
+    "type": "manga",
+    "title": "Tsuburara",
+    "altTitle": [
+      "つぶらら"
+    ],
+    "url": "https://myanimelist.net/manga/27261/Tsuburara",
+    "image": "https://cdn.myanimelist.net/images/manga/2/49633.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "つぶらら"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamana, Sawako"
-    ],
-    "id": 27261,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:12.566Z",
+    "updatedAt": "2022-05-13T12:59:12.566Z",
+    "checkedAt": null,
+    "id": 57261,
     "type": "manga",
     "title": "Tsuburara",
-    "url": "https://myanimelist.net/manga/27261/Tsuburara",
-    "image": "https://cdn.myanimelist.net/images/manga/2/49633.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:27.000Z",
-    "updatedAt": "2021-11-04T13:05:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "つぶらら"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sawako Yamana"
-    ],
-    "id": 57261,
-    "malId": 27261,
-    "type": "manga",
-    "title": "Tsuburara",
     "url": "https://anilist.co/manga/57261",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27261.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:26.000Z",
-    "updatedAt": "2021-12-17T18:54:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/27261/Tsuburara"
+    "externalLinks": [],
+    "malId": 27261,
+    "deletedAt": null,
+    "authors": [
+      "Sawako Yamana"
+    ]
+  }
 }

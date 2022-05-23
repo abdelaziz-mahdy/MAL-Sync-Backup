@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohkawa Ageha",
-    "Clamp"
-  ],
+  "createdAt": "2021-06-11T00:09:15.000Z",
+  "updatedAt": "2021-12-11T01:03:38.000Z",
+  "checkedAt": null,
+  "id": 77675,
   "identifier": "manga-vw961331",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118,
   "aniId": 30118,
-  "createdAt": "2021-06-11T00:09:15.000Z",
-  "updatedAt": "2021-12-11T01:03:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohkawa Ageha",
+    "Clamp"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-15T09:37:00.000Z",
+    "checkedAt": "2022-05-15T09:37:00.000Z",
+    "id": 118,
+    "type": "manga",
+    "title": "Kobato.",
+    "altTitle": [
+      "Kobato.",
+      "こばと。"
+    ],
+    "url": "https://myanimelist.net/manga/118/Kobato",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154345.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,25 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kobato.",
-      "こばと。"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 118,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:32.568Z",
+    "updatedAt": "2022-05-15T11:53:11.000Z",
+    "checkedAt": "2022-05-15T11:53:11.000Z",
+    "id": 30118,
     "type": "manga",
     "title": "Kobato.",
-    "url": "https://myanimelist.net/manga/118/Kobato",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154345.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-03-29T18:02:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kobato.",
       "こばと。",
@@ -52,22 +61,16 @@
       "奇蹟少女KOBATO",
       "코바토"
     ],
-    "externalLinks": [],
-    "authors": [
-      "CLAMP",
-      "William Flanagan"
-    ],
-    "id": 30118,
-    "malId": 118,
-    "type": "manga",
-    "title": "Kobato.",
     "url": "https://anilist.co/manga/30118",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30118-c0SSjJUGZXr8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2022-03-18T20:49:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118/Kobato"
+    "externalLinks": [],
+    "malId": 118,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP",
+      "William Flanagan"
+    ]
+  }
 }

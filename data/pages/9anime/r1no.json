@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:20.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8713,
   "identifier": "r1no",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37598,
   "aniId": 101382,
-  "createdAt": "2020-10-12T15:55:20.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:02.000Z",
+    "updatedAt": "2022-05-13T20:29:45.000Z",
+    "checkedAt": "2022-05-13T20:29:45.000Z",
+    "id": 37598,
+    "type": "anime",
+    "title": "Phantom in the Twilight",
+    "altTitle": [
+      "ファントム イン ザ トワイライト"
+    ],
+    "url": "https://myanimelist.net/anime/37598/Phantom_in_the_Twilight",
+    "image": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +54,32 @@
         "url": "http://www.crunchyroll.com/series-276758"
       }
     ],
-    "altTitle": [
-      "ファントム イン ザ トワイライト"
-    ],
-    "id": 37598,
+    "deletedAt": null,
+    "anidbId": 13978
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:38.000Z",
+    "updatedAt": "2022-05-15T16:45:47.000Z",
+    "checkedAt": "2022-05-15T16:45:47.000Z",
+    "id": 101382,
     "type": "anime",
     "title": "Phantom in the Twilight",
-    "url": "https://myanimelist.net/anime/37598/Phantom_in_the_Twilight",
-    "image": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13978,
-    "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2022-04-20T06:31:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Phantom in the Twilight",
       "Phantom in the Twilight",
       "ファントム イン ザ トワイライト"
     ],
+    "url": "https://anilist.co/anime/101382",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101382-qRGZ9JUFGsiv.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/phantom-in-the-twilight/videos"
       }
     ],
-    "id": 101382,
     "malId": 37598,
-    "type": "anime",
-    "title": "Phantom in the Twilight",
-    "url": "https://anilist.co/anime/101382",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101382-qRGZ9JUFGsiv.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:38.000Z",
-    "updatedAt": "2021-12-17T16:21:25.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/37598/Phantom_in_the_Twilight"
+  }
 }

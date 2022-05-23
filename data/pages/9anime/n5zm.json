@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:49.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 6973,
   "identifier": "n5zm",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2365,
   "aniId": 2365,
-  "createdAt": "2020-10-12T15:53:49.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-14T23:50:23.000Z",
+    "checkedAt": "2022-05-14T23:50:23.000Z",
+    "id": 2365,
+    "type": "anime",
+    "title": "Grandeek",
+    "altTitle": [
+      "Grandeek Gaiden",
+      "Grandeek Sidestory",
+      "Grandeek: The Alternative",
+      "GRANDEEK"
+    ],
+    "url": "https://myanimelist.net/anime/2365/Grandeek",
+    "image": "https://cdn.myanimelist.net/images/anime/1861/119405.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,43 +44,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Grandeek Gaiden",
-      "Grandeek Sidestory",
-      "Grandeek: The Alternative",
-      "GRANDEEK"
-    ],
+    "deletedAt": null,
+    "anidbId": 1004
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:16.000Z",
+    "updatedAt": "2022-05-16T00:54:07.000Z",
+    "checkedAt": "2022-05-16T00:54:07.000Z",
     "id": 2365,
     "type": "anime",
-    "title": "Grandeek",
-    "url": "https://myanimelist.net/anime/2365/Grandeek",
-    "image": "https://cdn.myanimelist.net/images/anime/1861/119405.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1004,
-    "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2022-03-31T06:33:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "GRANDEEK: Gaiden",
     "altTitle": [
       "GRANDEEK-外伝-",
       "Grandeek Gaiden",
       "Grandeek Sidestory",
       "Grandeek: The Alternative"
     ],
-    "externalLinks": [],
-    "id": 2365,
-    "malId": 2365,
-    "type": "anime",
-    "title": "GRANDEEK: Gaiden",
     "url": "https://anilist.co/anime/2365",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2365-0eQKnzw55pWN.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:16.000Z",
-    "updatedAt": "2022-03-18T08:20:14.000Z",
+    "externalLinks": [],
+    "malId": 2365,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2365/Grandeek"
+  }
 }

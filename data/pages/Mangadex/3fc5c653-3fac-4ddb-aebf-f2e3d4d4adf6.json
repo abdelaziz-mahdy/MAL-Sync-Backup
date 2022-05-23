@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohba Tsugumi",
-    "Obata Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:03:56.000Z",
+  "updatedAt": "2021-12-02T17:50:49.000Z",
+  "checkedAt": null,
+  "id": 3286,
   "identifier": "3fc5c653-3fac-4ddb-aebf-f2e3d4d4adf6",
   "type": "manga",
   "page": "Mangadex",
@@ -12,36 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4941,
   "aniId": 34941,
-  "createdAt": "2020-10-12T16:03:56.000Z",
-  "updatedAt": "2021-12-02T17:50:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohba Tsugumi",
+    "Obata Takeshi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:02.000Z",
+    "updatedAt": "2022-05-14T18:22:59.000Z",
+    "checkedAt": "2022-05-14T18:22:59.000Z",
+    "id": 4941,
+    "type": "manga",
+    "title": "Death Note: Tokubetsu-hen",
     "altTitle": [
       "Death Note One Shot",
       "Death Note Special Chapter",
       "DEATH NOTE 特別編"
     ],
-    "authors": [
-      "Obata, Takeshi",
-      "Ohba, Tsugumi"
-    ],
-    "id": 4941,
-    "type": "manga",
-    "title": "Death Note: Tokubetsu-hen",
     "url": "https://myanimelist.net/manga/4941/Death_Note__Tokubetsu-hen",
     "image": "https://cdn.myanimelist.net/images/manga/5/226627.jpg",
     "category": "One-shot",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:02.000Z",
-    "updatedAt": "2022-02-24T00:18:50.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Obata, Takeshi",
+      "Ohba, Tsugumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:48.408Z",
+    "updatedAt": "2022-05-17T20:18:25.000Z",
+    "checkedAt": "2022-05-17T20:18:25.000Z",
+    "id": 34941,
+    "type": "manga",
+    "title": "DEATH NOTE C-Kira-hen",
     "altTitle": [
       "Death Note: C-Kira",
       "DEATH NOTE Cキラ編",
@@ -49,22 +58,16 @@
       "DEATH NOTE 特別編",
       "Death Note Tokubetsu-hen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Obata",
-      "Tsugumi Ooba"
-    ],
-    "id": 34941,
-    "malId": 4941,
-    "type": "manga",
-    "title": "DEATH NOTE C-Kira-hen",
     "url": "https://anilist.co/manga/34941",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34941-PyMwAPm58T8m.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:38.000Z",
-    "updatedAt": "2022-04-30T18:00:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4941/Death_Note__Tokubetsu-hen"
+    "externalLinks": [],
+    "malId": 4941,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Obata",
+      "Tsugumi Ooba"
+    ]
+  }
 }

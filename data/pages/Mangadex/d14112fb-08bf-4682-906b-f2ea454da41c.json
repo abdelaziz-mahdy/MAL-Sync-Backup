@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asou Izumi"
-  ],
+  "createdAt": "2020-10-12T16:08:33.000Z",
+  "updatedAt": "2021-12-04T13:20:38.000Z",
+  "checkedAt": null,
+  "id": 13032,
   "identifier": "d14112fb-08bf-4682-906b-f2ea454da41c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11021,
   "aniId": 41021,
-  "createdAt": "2020-10-12T16:08:33.000Z",
-  "updatedAt": "2021-12-04T13:20:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asou Izumi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T11:21:09.000Z",
+    "updatedAt": "2021-12-04T11:49:48.000Z",
+    "checkedAt": null,
+    "id": 11021,
+    "type": "manga",
+    "title": "Hikari no Densetsu",
+    "altTitle": [
+      "Legend of Light",
+      "Legend of Hikari",
+      "Hilary",
+      "光の伝説"
+    ],
+    "url": "https://myanimelist.net/manga/11021/Hikari_no_Densetsu",
+    "image": "https://cdn.myanimelist.net/images/manga/5/175804.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Legend of Light",
-      "Legend of Hikari",
-      "Hilary",
-      "光の伝説"
-    ],
+    "deletedAt": null,
     "authors": [
       "Izumi, Asou"
-    ],
-    "id": 11021,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:03.574Z",
+    "updatedAt": "2022-05-13T12:47:03.574Z",
+    "checkedAt": null,
+    "id": 41021,
     "type": "manga",
     "title": "Hikari no Densetsu",
-    "url": "https://myanimelist.net/manga/11021/Hikari_no_Densetsu",
-    "image": "https://cdn.myanimelist.net/images/manga/5/175804.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T11:21:09.000Z",
-    "updatedAt": "2021-12-04T11:49:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "光の伝説",
       "Legend of Hikari",
@@ -53,21 +62,15 @@
       "Hilary",
       "La Leggenda Di Hikari Ita"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aso Izumi"
-    ],
-    "id": 41021,
-    "malId": 11021,
-    "type": "manga",
-    "title": "Hikari no Densetsu",
     "url": "https://anilist.co/manga/41021",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41021-gijwXAuYKMxx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T11:21:09.000Z",
-    "updatedAt": "2021-12-17T14:14:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11021/Hikari_no_Densetsu"
+    "externalLinks": [],
+    "malId": 11021,
+    "deletedAt": null,
+    "authors": [
+      "Aso Izumi"
+    ]
+  }
 }

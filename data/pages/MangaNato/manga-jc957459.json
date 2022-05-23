@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Konomi Takeshi"
-  ],
+  "createdAt": "2021-06-12T01:39:26.000Z",
+  "updatedAt": "2021-12-12T02:33:41.000Z",
+  "checkedAt": null,
+  "id": 77827,
   "identifier": "manga-jc957459",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49,
   "aniId": 30049,
-  "createdAt": "2021-06-12T01:39:26.000Z",
-  "updatedAt": "2021-12-12T02:33:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Konomi Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-13T18:01:39.000Z",
+    "checkedAt": "2022-05-13T18:01:39.000Z",
+    "id": 49,
+    "type": "manga",
+    "title": "Tennis no Ouji-sama",
+    "altTitle": [
+      "Prince of Tennis",
+      "テニスの王子様"
+    ],
+    "url": "https://myanimelist.net/manga/49/Tennis_no_Ouji-sama",
+    "image": "https://cdn.myanimelist.net/images/manga/3/153238.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Prince of Tennis",
-      "テニスの王子様"
-    ],
+    "deletedAt": null,
     "authors": [
       "Konomi, Takeshi"
-    ],
-    "id": 49,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:17.792Z",
+    "updatedAt": "2022-05-15T18:21:35.000Z",
+    "checkedAt": "2022-05-15T18:21:35.000Z",
+    "id": 30049,
     "type": "manga",
     "title": "Tennis no Ouji-sama",
-    "url": "https://myanimelist.net/manga/49/Tennis_no_Ouji-sama",
-    "image": "https://cdn.myanimelist.net/images/manga/3/153238.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-16T06:02:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Prince of Tennis",
       "テニスの王子様",
@@ -51,21 +60,15 @@
       "TeniPuri",
       "Prince du Tennis"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Konomi"
-    ],
-    "id": 30049,
-    "malId": 49,
-    "type": "manga",
-    "title": "Tennis no Ouji-sama",
     "url": "https://anilist.co/manga/30049",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30049-ipwZTsHitrhC.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49/Tennis_no_Ouji-sama"
+    "externalLinks": [],
+    "malId": 49,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Konomi"
+    ]
+  }
 }

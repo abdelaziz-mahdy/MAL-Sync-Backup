@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Salmiakki"
-  ],
+  "createdAt": "2020-10-12T16:14:05.000Z",
+  "updatedAt": "2021-12-06T02:47:39.000Z",
+  "checkedAt": null,
+  "id": 24200,
   "identifier": "65fa0e69-916f-4584-bb82-cb9362bced3b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110314,
   "aniId": 100395,
-  "createdAt": "2020-10-12T16:14:05.000Z",
-  "updatedAt": "2021-12-06T02:47:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Salmiakki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:18.000Z",
+    "updatedAt": "2022-05-23T13:48:40.000Z",
+    "checkedAt": "2022-05-23T13:48:40.000Z",
+    "id": 110314,
+    "type": "manga",
+    "title": "Rifle Is Beautiful",
+    "altTitle": [
+      "ライフル・イズ・ビューティフル"
+    ],
+    "url": "https://myanimelist.net/manga/110314/Rifle_Is_Beautiful",
+    "image": "https://cdn.myanimelist.net/images/manga/2/201996.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ライフル・イズ・ビューティフル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Salmiakki"
-    ],
-    "id": 110314,
-    "type": "manga",
-    "title": "Rifle Is Beautiful",
-    "url": "https://myanimelist.net/manga/110314/Rifle_Is_Beautiful",
-    "image": "https://cdn.myanimelist.net/images/manga/2/201996.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:18.000Z",
-    "updatedAt": "2021-12-27T12:00:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:00.581Z",
+    "updatedAt": "2022-05-23T13:48:39.000Z",
+    "checkedAt": "2022-05-23T13:48:39.000Z",
+    "id": 100395,
+    "type": "manga",
+    "title": "Rifle Is Beautiful",
     "altTitle": [
       "ライフル・イズ・ビューティフル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Salmiakki"
-    ],
-    "id": 100395,
-    "malId": 110314,
-    "type": "manga",
-    "title": "Rifle Is Beautiful",
     "url": "https://anilist.co/manga/100395",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100395-RL5coK30YypD.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:14.000Z",
-    "updatedAt": "2021-12-17T23:32:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110314/Rifle_Is_Beautiful"
+    "externalLinks": [],
+    "malId": 110314,
+    "deletedAt": null,
+    "authors": [
+      "Salmiakki"
+    ]
+  }
 }

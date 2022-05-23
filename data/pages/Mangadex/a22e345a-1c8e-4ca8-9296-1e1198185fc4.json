@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aomiya Kara"
-  ],
+  "createdAt": "2020-10-12T16:09:59.000Z",
+  "updatedAt": "2021-12-04T21:52:22.000Z",
+  "checkedAt": null,
+  "id": 16151,
   "identifier": "a22e345a-1c8e-4ca8-9296-1e1198185fc4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94475,
   "aniId": 98215,
-  "createdAt": "2020-10-12T16:09:59.000Z",
-  "updatedAt": "2021-12-04T21:52:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aomiya Kara"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-23T00:11:03.000Z",
+    "checkedAt": "2022-05-23T00:11:03.000Z",
+    "id": 94475,
+    "type": "manga",
+    "title": "Kimimachi Terminal",
     "altTitle": [
       "Cross Stitch Step",
       "Wicked Lip",
@@ -27,21 +33,24 @@
       "Kaisou Sharyou demo Oshizuka ni",
       "君待ちターミナル"
     ],
-    "authors": [
-      "Aomiya, Kara"
-    ],
-    "id": 94475,
-    "type": "manga",
-    "title": "Kimimachi Terminal",
     "url": "https://myanimelist.net/manga/94475/Kimimachi_Terminal",
     "image": "https://cdn.myanimelist.net/images/manga/3/171832.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2022-03-06T20:01:28.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aomiya, Kara"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:38.514Z",
+    "updatedAt": "2022-05-23T00:11:02.000Z",
+    "checkedAt": "2022-05-23T00:11:02.000Z",
+    "id": 98215,
+    "type": "manga",
+    "title": "Kimimachi Terminal",
     "altTitle": [
       "君待ちターミナル",
       "Shanai dewa Oshizuka ni",
@@ -49,21 +58,15 @@
       "Wicked Lip",
       "Cross Stitch Step"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kara Aomiya"
-    ],
-    "id": 98215,
-    "malId": 94475,
-    "type": "manga",
-    "title": "Kimimachi Terminal",
     "url": "https://anilist.co/manga/98215",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98215-xeZzKyF3fjfF.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2021-12-18T02:24:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94475/Kimimachi_Terminal"
+    "externalLinks": [],
+    "malId": 94475,
+    "deletedAt": null,
+    "authors": [
+      "Kara Aomiya"
+    ]
+  }
 }

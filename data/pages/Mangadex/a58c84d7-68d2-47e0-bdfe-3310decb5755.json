@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Design Factory",
-    "Idea Factory",
-    "Ninomiya Sachi"
-  ],
+  "createdAt": "2020-10-12T16:13:16.000Z",
+  "updatedAt": "2021-12-05T20:19:07.000Z",
+  "checkedAt": null,
+  "id": 22520,
   "identifier": "a58c84d7-68d2-47e0-bdfe-3310decb5755",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23352,
   "aniId": 53352,
-  "createdAt": "2020-10-12T16:13:16.000Z",
-  "updatedAt": "2021-12-05T20:19:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Design FactorIdy",
+    "Idea FactorIdy",
+    "Ninomiya Sachi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:09.000Z",
+    "updatedAt": "2022-04-01T08:01:01.000Z",
+    "checkedAt": null,
+    "id": 23352,
+    "type": "manga",
+    "title": "Hakuouki",
+    "altTitle": [
+      "Hakuouki: Shinsengumi Kitan",
+      "薄桜鬼"
+    ],
+    "url": "https://myanimelist.net/manga/23352/Hakuouki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/194858.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,43 +43,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hakuouki: Shinsengumi Kitan",
-      "薄桜鬼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ninomiya, Sachi"
-    ],
-    "id": 23352,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:57.752Z",
+    "updatedAt": "2022-05-13T12:52:57.752Z",
+    "checkedAt": null,
+    "id": 53352,
     "type": "manga",
     "title": "Hakuouki",
-    "url": "https://myanimelist.net/manga/23352/Hakuouki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/194858.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:09.000Z",
-    "updatedAt": "2022-04-01T08:01:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "薄桜鬼"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sachi Ninomiya"
-    ],
-    "id": 53352,
-    "malId": 23352,
-    "type": "manga",
-    "title": "Hakuouki",
     "url": "https://anilist.co/manga/53352",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53352-4KC16uo5oC2l.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:37.000Z",
-    "updatedAt": "2021-12-17T18:07:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23352/Hakuouki"
+    "externalLinks": [],
+    "malId": 23352,
+    "deletedAt": null,
+    "authors": [
+      "Sachi Ninomiya"
+    ]
+  }
 }

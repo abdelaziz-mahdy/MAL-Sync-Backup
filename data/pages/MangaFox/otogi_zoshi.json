@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SETO Narumi"
-  ],
+  "createdAt": "2022-04-15T21:33:14.000Z",
+  "updatedAt": "2022-04-15T22:00:26.000Z",
+  "checkedAt": null,
+  "id": 101545,
   "identifier": "otogi_zoshi",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 470,
   "aniId": 30470,
-  "createdAt": "2022-04-15T21:33:14.000Z",
-  "updatedAt": "2022-04-15T22:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "SETO Narumi"
+  ],
   "Mal": {
+    "createdAt": "2021-12-01T02:36:25.000Z",
+    "updatedAt": "2022-04-15T21:33:23.000Z",
+    "checkedAt": null,
+    "id": 470,
+    "type": "manga",
+    "title": "Otogizoushi",
+    "altTitle": [
+      "Otogi Zoshi",
+      "お伽草子"
+    ],
+    "url": "https://myanimelist.net/manga/470/Otogizoushi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/6557.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Otogi Zoshi",
-      "お伽草子"
-    ],
+    "deletedAt": null,
     "authors": [
       "Seto, Narumi"
-    ],
-    "id": 470,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:04.010Z",
+    "updatedAt": "2022-05-13T12:41:04.010Z",
+    "checkedAt": null,
+    "id": 30470,
     "type": "manga",
     "title": "Otogizoushi",
-    "url": "https://myanimelist.net/manga/470/Otogizoushi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/6557.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-01T02:36:25.000Z",
-    "updatedAt": "2022-04-15T21:33:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Otogi Zoshi",
       "お伽草子"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Narumi Seto"
-    ],
-    "id": 30470,
-    "malId": 470,
-    "type": "manga",
-    "title": "Otogizoushi",
     "url": "https://anilist.co/manga/30470",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30470-aTXdhz84EVnR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-03T10:30:52.000Z",
-    "updatedAt": "2022-04-03T11:06:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/470/Otogizoushi"
+    "externalLinks": [],
+    "malId": 470,
+    "deletedAt": null,
+    "authors": [
+      "Narumi Seto"
+    ]
+  }
 }

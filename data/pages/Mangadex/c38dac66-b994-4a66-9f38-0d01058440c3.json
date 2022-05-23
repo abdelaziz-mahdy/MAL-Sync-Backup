@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NOK"
-  ],
+  "createdAt": "2020-10-12T16:16:29.000Z",
+  "updatedAt": "2021-12-09T08:33:50.000Z",
+  "checkedAt": null,
+  "id": 29180,
   "identifier": "c38dac66-b994-4a66-9f38-0d01058440c3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 111099,
-  "createdAt": "2020-10-12T16:16:29.000Z",
-  "updatedAt": "2021-12-09T08:33:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "NOK"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:13.609Z",
+    "updatedAt": "2022-05-13T21:34:27.000Z",
+    "checkedAt": "2022-05-13T21:34:27.000Z",
+    "id": 111099,
+    "type": "manga",
+    "title": "Mireuui Hoerang",
     "altTitle": [
       "Corridor of Mirs",
       "미르의 회랑",
@@ -26,21 +34,15 @@
       "Mire's Corridor",
       "神の回廊"
     ],
-    "externalLinks": [],
-    "authors": [
-      "NOK"
-    ],
-    "id": 111099,
-    "malId": null,
-    "type": "manga",
-    "title": "Mireuui Hoerang",
     "url": "https://anilist.co/manga/111099",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111099-zgHFHxGFYs8a.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-28T00:28:43.000Z",
-    "updatedAt": "2022-02-07T21:40:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "NOK"
+    ]
+  }
 }

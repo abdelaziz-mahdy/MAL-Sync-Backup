@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:15.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4914,
   "identifier": "jlw4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10396,
   "aniId": 10396,
-  "createdAt": "2020-10-12T15:52:15.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:06.000Z",
+    "updatedAt": "2022-05-14T16:40:27.000Z",
+    "checkedAt": "2022-05-14T16:40:27.000Z",
+    "id": 10396,
+    "type": "anime",
+    "title": "Ben-To",
+    "altTitle": [
+      "Bento",
+      "Ben-Tou",
+      "Ben-To",
+      "ベン・トー"
+    ],
+    "url": "https://myanimelist.net/anime/10396/Ben-To",
+    "image": "https://cdn.myanimelist.net/images/anime/12/73984.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,48 +57,33 @@
         "url": "https://www.funimation.com/shows/ben-to"
       }
     ],
-    "altTitle": [
-      "Bento",
-      "Ben-Tou",
-      "Ben-To",
-      "ベン・トー"
-    ],
+    "deletedAt": null,
+    "anidbId": 8292
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:15.000Z",
+    "updatedAt": "2022-05-15T10:52:35.000Z",
+    "checkedAt": "2022-05-15T10:52:35.000Z",
     "id": 10396,
     "type": "anime",
     "title": "Ben-To",
-    "url": "https://myanimelist.net/anime/10396/Ben-To",
-    "image": "https://cdn.myanimelist.net/images/anime/12/73984.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 8292,
-    "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2022-04-02T09:02:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ben-To",
       "ベン・トー",
       "Bento",
       "Ben-Tou"
     ],
+    "url": "https://anilist.co/anime/10396",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10396.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/ben-to/"
       }
     ],
-    "id": 10396,
     "malId": 10396,
-    "type": "anime",
-    "title": "Ben-To",
-    "url": "https://anilist.co/anime/10396",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10396.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:39:15.000Z",
-    "updatedAt": "2021-12-17T13:02:06.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/10396/Ben-To"
+  }
 }

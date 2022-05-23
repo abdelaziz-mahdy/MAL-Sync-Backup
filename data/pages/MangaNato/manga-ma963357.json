@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawaguchi Kaiji"
-  ],
+  "createdAt": "2021-07-24T05:21:54.000Z",
+  "updatedAt": "2022-01-24T06:00:11.000Z",
+  "checkedAt": null,
+  "id": 82859,
   "identifier": "manga-ma963357",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 191,
   "aniId": 30191,
-  "createdAt": "2021-07-24T05:21:54.000Z",
-  "updatedAt": "2022-01-24T06:00:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawaguchi Kaiji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-01-24T05:30:12.000Z",
+    "checkedAt": null,
+    "id": 191,
+    "type": "manga",
+    "title": "Zipang",
+    "altTitle": [
+      "ジパング"
+    ],
+    "url": "https://myanimelist.net/manga/191/Zipang",
+    "image": "https://cdn.myanimelist.net/images/manga/1/209661.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ジパング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawaguchi, Kaiji"
-    ],
-    "id": 191,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:08.726Z",
+    "updatedAt": "2022-05-13T13:05:08.726Z",
+    "checkedAt": null,
+    "id": 30191,
     "type": "manga",
     "title": "Zipang",
-    "url": "https://myanimelist.net/manga/191/Zipang",
-    "image": "https://cdn.myanimelist.net/images/manga/1/209661.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-01-24T05:30:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ジパング"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaiji Kawaguchi"
-    ],
-    "id": 30191,
-    "malId": 191,
-    "type": "manga",
-    "title": "Zipang",
     "url": "https://anilist.co/manga/30191",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30191-q5RdeIA88D9r.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2021-12-17T09:05:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/191/Zipang"
+    "externalLinks": [],
+    "malId": 191,
+    "deletedAt": null,
+    "authors": [
+      "Kaiji Kawaguchi"
+    ]
+  }
 }

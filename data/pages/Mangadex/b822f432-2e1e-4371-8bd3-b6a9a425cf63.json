@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakaji Yuki"
-  ],
+  "createdAt": "2020-10-12T16:06:52.000Z",
+  "updatedAt": "2021-12-03T22:50:29.000Z",
+  "checkedAt": null,
+  "id": 9384,
   "identifier": "b822f432-2e1e-4371-8bd3-b6a9a425cf63",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 193,
   "aniId": 30193,
-  "createdAt": "2020-10-12T16:06:52.000Z",
-  "updatedAt": "2021-12-03T22:50:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakaji Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-04-26T02:00:27.000Z",
+    "checkedAt": null,
+    "id": 193,
+    "type": "manga",
+    "title": "Zig☆Zag",
+    "altTitle": [
+      "ZigZag",
+      "Zig☆Zag",
+      "ZIG☆ZAG"
+    ],
+    "url": "https://myanimelist.net/manga/193/Zig☆Zag",
+    "image": "https://cdn.myanimelist.net/images/manga/3/171468.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ZigZag",
-      "Zig☆Zag",
-      "ZIG☆ZAG"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakaji, Yuki"
-    ],
-    "id": 193,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:19.245Z",
+    "updatedAt": "2022-05-13T13:05:19.245Z",
+    "checkedAt": null,
+    "id": 30193,
     "type": "manga",
     "title": "Zig☆Zag",
-    "url": "https://myanimelist.net/manga/193/Zig☆Zag",
-    "image": "https://cdn.myanimelist.net/images/manga/3/171468.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-04-26T02:00:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Zig☆Zag",
       "ジグザグ",
@@ -52,21 +61,15 @@
       "Zig-Zag",
       "Zig Zag"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Nakaji"
-    ],
-    "id": 30193,
-    "malId": 193,
-    "type": "manga",
-    "title": "Zig☆Zag",
     "url": "https://anilist.co/manga/30193",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30193-vH9B7b7LHUsI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2021-12-17T09:05:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/193/Zig☆Zag"
+    "externalLinks": [],
+    "malId": 193,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Nakaji"
+    ]
+  }
 }

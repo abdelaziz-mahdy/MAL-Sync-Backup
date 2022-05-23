@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ardee Arollado (Kero)"
-  ],
+  "createdAt": "2020-10-12T16:18:16.000Z",
+  "updatedAt": "2021-12-07T15:47:44.000Z",
+  "checkedAt": null,
+  "id": 32813,
   "identifier": "5f76fea0-502b-49b8-bf95-dc2a5d6201a1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14909,
   "aniId": 44909,
-  "createdAt": "2020-10-12T16:18:16.000Z",
-  "updatedAt": "2021-12-07T15:47:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ardee Arollado (Kero)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:09.000Z",
+    "updatedAt": "2022-05-23T16:45:29.000Z",
+    "checkedAt": "2022-05-23T16:45:29.000Z",
+    "id": 14909,
+    "type": "manga",
+    "title": "Senrei",
+    "altTitle": [
+      "Baptism of Blood",
+      "洗礼"
+    ],
+    "url": "https://myanimelist.net/manga/14909/Senrei",
+    "image": "https://cdn.myanimelist.net/images/manga/1/205379.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Baptism of Blood",
-      "洗礼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Umezu, Kazuo"
-    ],
-    "id": 14909,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:23.561Z",
+    "updatedAt": "2022-05-23T16:45:28.000Z",
+    "checkedAt": "2022-05-23T16:45:28.000Z",
+    "id": 44909,
     "type": "manga",
     "title": "Senrei",
-    "url": "https://myanimelist.net/manga/14909/Senrei",
-    "image": "https://cdn.myanimelist.net/images/manga/1/205379.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:09.000Z",
-    "updatedAt": "2022-03-01T00:25:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "洗礼",
       "Baptism of Blood",
       "Baptism"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuo Umezu"
-    ],
-    "id": 44909,
-    "malId": 14909,
-    "type": "manga",
-    "title": "Senrei",
     "url": "https://anilist.co/manga/44909",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44909-qjHLt4Z5GSGa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:41.000Z",
-    "updatedAt": "2021-12-17T15:40:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14909/Senrei"
+    "externalLinks": [],
+    "malId": 14909,
+    "deletedAt": null,
+    "authors": [
+      "Kazuo Umezu"
+    ]
+  }
 }

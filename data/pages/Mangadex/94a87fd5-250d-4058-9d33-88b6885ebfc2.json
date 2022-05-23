@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jin-seok KIM",
-    "Seopass"
-  ],
+  "createdAt": "2020-10-12T16:17:24.000Z",
+  "updatedAt": "2022-01-28T16:20:39.000Z",
+  "checkedAt": null,
+  "id": 31072,
   "identifier": "94a87fd5-250d-4058-9d33-88b6885ebfc2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 128231,
   "aniId": 113488,
-  "createdAt": "2020-10-12T16:17:24.000Z",
-  "updatedAt": "2022-01-28T16:20:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jin-seok KIM",
+    "Seopass"
+  ],
   "Mal": {
+    "createdAt": "2020-12-17T09:26:11.000Z",
+    "updatedAt": "2022-05-15T07:26:40.000Z",
+    "checkedAt": "2022-05-15T07:26:40.000Z",
+    "id": 128231,
+    "type": "manga",
+    "title": "Weak Hero",
+    "altTitle": [
+      "Yakhan Yeong-ung",
+      "Weak Hero",
+      "약한영웅"
+    ],
+    "url": "https://myanimelist.net/manga/128231/Weak_Hero",
+    "image": "https://cdn.myanimelist.net/images/manga/3/232795.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yakhan Yeong-ung",
-      "Weak Hero",
-      "약한영웅"
-    ],
+    "deletedAt": null,
     "authors": [
       "RAZEN",
       "Seopass"
-    ],
-    "id": 128231,
-    "type": "manga",
-    "title": "Weak Hero",
-    "url": "https://myanimelist.net/manga/128231/Weak_Hero",
-    "image": "https://cdn.myanimelist.net/images/manga/3/232795.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-12-17T09:26:11.000Z",
-    "updatedAt": "2022-01-26T13:02:04.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:58.010Z",
+    "updatedAt": "2022-05-15T16:40:23.000Z",
+    "checkedAt": "2022-05-15T16:40:23.000Z",
+    "id": 113488,
+    "type": "manga",
+    "title": "Yakanyeongung",
     "altTitle": [
       "Weak Hero",
       "약한영웅",
       "Yaghan Yeong-ung",
       "Weak Hero: Un héroe débil"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jin-Seok Kim",
-      "Seopass"
-    ],
-    "id": 113488,
-    "malId": 128231,
-    "type": "manga",
-    "title": "Yakanyeongung",
     "url": "https://anilist.co/manga/113488",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113488-0ghq0eEnftk0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:21.000Z",
-    "updatedAt": "2022-05-07T11:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/128231/Weak_Hero"
+    "externalLinks": [],
+    "malId": 128231,
+    "deletedAt": null,
+    "authors": [
+      "Jin-Seok Kim",
+      "Seopass"
+    ]
+  }
 }

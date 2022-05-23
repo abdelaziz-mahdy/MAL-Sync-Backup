@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yabuki Kentaro"
-  ],
+  "createdAt": "2021-05-31T13:25:07.000Z",
+  "updatedAt": "2022-05-16T15:14:37.000Z",
+  "checkedAt": "2022-05-16T15:14:25.000Z",
+  "id": 74877,
   "identifier": "manga-iq986251",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 127545,
   "aniId": 119493,
-  "createdAt": "2021-05-31T13:25:07.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yabuki Kentaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:23.000Z",
+    "updatedAt": "2022-05-14T18:08:59.000Z",
+    "checkedAt": "2022-05-14T18:08:59.000Z",
+    "id": 127545,
+    "type": "manga",
+    "title": "Ayakashi Triangle",
+    "altTitle": [
+      "Ayakashi Triangle",
+      "あやかしトライアングル"
+    ],
+    "url": "https://myanimelist.net/manga/127545/Ayakashi_Triangle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/236888.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,54 +45,45 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ayakashi Triangle",
-      "あやかしトライアングル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yabuki, Kentarou"
-    ],
-    "id": 127545,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:39.579Z",
+    "updatedAt": "2022-05-15T20:29:35.000Z",
+    "checkedAt": "2022-05-15T20:29:35.000Z",
+    "id": 119493,
     "type": "manga",
     "title": "Ayakashi Triangle",
-    "url": "https://myanimelist.net/manga/127545/Ayakashi_Triangle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/236888.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:23.000Z",
-    "updatedAt": "2022-04-24T16:32:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ayakashi Triangle",
       "あやかしトライアングル",
       "เรื่องอลวน คน ปิศาจ"
     ],
+    "url": "https://anilist.co/manga/119493",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119493-dtva4KFa1z7I.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100099"
+      },
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/200052"
       }
     ],
+    "malId": 127545,
+    "deletedAt": null,
     "authors": [
       "Kentarou Yabuki",
       "Mark McMurray",
       "Satsuki Yamashita",
       "Sandra Nogués",
       "Josua Lafitte"
-    ],
-    "id": 119493,
-    "malId": 127545,
-    "type": "manga",
-    "title": "Ayakashi Triangle",
-    "url": "https://anilist.co/manga/119493",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119493-dtva4KFa1z7I.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:18.000Z",
-    "updatedAt": "2022-03-19T00:19:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127545/Ayakashi_Triangle"
+    ]
+  }
 }

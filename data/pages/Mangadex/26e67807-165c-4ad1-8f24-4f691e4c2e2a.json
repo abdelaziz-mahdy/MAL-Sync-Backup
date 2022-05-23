@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Napata"
-  ],
+  "createdAt": "2020-10-12T16:15:29.000Z",
+  "updatedAt": "2022-03-19T19:49:12.000Z",
+  "checkedAt": null,
+  "id": 27118,
   "identifier": "26e67807-165c-4ad1-8f24-4f691e4c2e2a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,17 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 52149,
   "aniId": 82149,
-  "createdAt": "2020-10-12T16:15:29.000Z",
-  "updatedAt": "2022-03-19T19:49:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Napata"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:43.000Z",
+    "updatedAt": "2022-05-17T06:49:48.000Z",
+    "checkedAt": "2022-05-17T06:49:48.000Z",
+    "id": 52149,
+    "type": "manga",
+    "title": "Suki darake",
     "altTitle": [
-      "Love-Ridden",
       "Lovely Lover's Love",
       "Please Don't Call Me Neechan",
       "Ever Since Then",
@@ -33,23 +38,27 @@
       "Together Forever",
       "Introvert Little Sister",
       "This Is Very Frustrating!",
+      "Love-Ridden",
       "好きだらけ"
     ],
-    "authors": [
-      "Napata"
-    ],
-    "id": 52149,
-    "type": "manga",
-    "title": "Suki darake",
     "url": "https://myanimelist.net/manga/52149/Suki_darake",
     "image": "https://cdn.myanimelist.net/images/manga/1/92055.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:44:43.000Z",
-    "updatedAt": "2021-12-06T14:47:21.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Napata"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:16.454Z",
+    "updatedAt": "2022-05-17T06:49:46.000Z",
+    "checkedAt": "2022-05-17T06:49:46.000Z",
+    "id": 82149,
+    "type": "manga",
+    "title": "Suki darake",
     "altTitle": [
       "Love-Ridden",
       "好きだらけ",
@@ -75,21 +84,15 @@
       "Secret Sister",
       "It’s Frustrating!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "NaPaTa"
-    ],
-    "id": 82149,
-    "malId": 52149,
-    "type": "manga",
-    "title": "Suki darake",
     "url": "https://anilist.co/manga/82149",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82149-HuvpVhTdrSRu.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-09-19T19:10:42.000Z",
-    "updatedAt": "2022-03-19T19:20:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/52149/Suki_darake"
+    "externalLinks": [],
+    "malId": 52149,
+    "deletedAt": null,
+    "authors": [
+      "NaPaTa"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Clamp",
-    "Ohkawa Ageha",
-    "Nekoi Tsubaki"
-  ],
+  "createdAt": "2020-10-12T16:13:11.000Z",
+  "updatedAt": "2021-12-05T19:47:58.000Z",
+  "checkedAt": null,
+  "id": 22358,
   "identifier": "18bfe440-2670-4b45-a264-1a3adbb65d01",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 548,
   "aniId": 30548,
-  "createdAt": "2020-10-12T16:13:11.000Z",
-  "updatedAt": "2021-12-05T19:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp",
+    "Ohkawa Ageha",
+    "Nekoi Tsubaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-20T11:28:06.000Z",
+    "checkedAt": "2022-05-20T11:28:06.000Z",
+    "id": 548,
+    "type": "manga",
+    "title": "Watashi no Suki na Hito",
+    "altTitle": [
+      "The One I Love",
+      "わたしのすきなひと"
+    ],
+    "url": "https://myanimelist.net/manga/548/Watashi_no_Suki_na_Hito",
+    "image": "https://cdn.myanimelist.net/images/manga/3/144145.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,25 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The One I Love",
-      "わたしのすきなひと"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 548,
-    "type": "manga",
-    "title": "Watashi no Suki na Hito",
-    "url": "https://myanimelist.net/manga/548/Watashi_no_Suki_na_Hito",
-    "image": "https://cdn.myanimelist.net/images/manga/3/144145.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-01-07T17:47:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:45.128Z",
+    "updatedAt": "2022-05-20T11:28:05.000Z",
+    "checkedAt": "2022-05-20T11:28:05.000Z",
+    "id": 30548,
+    "type": "manga",
+    "title": "Watashi no Sukina Hito",
     "altTitle": [
       "The One I Love",
       "わたしのすきなひと",
@@ -53,26 +62,15 @@
       "Watashi no Suki na Hito",
       "A Pessoa Amada"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/one-i-love"
-      }
-    ],
-    "authors": [
-      "CLAMP"
-    ],
-    "id": 30548,
-    "malId": 548,
-    "type": "manga",
-    "title": "Watashi no Sukina Hito",
     "url": "https://anilist.co/manga/30548",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30548-FMYwoYYHLiU0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-17T09:12:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/548/Watashi_no_Suki_na_Hito"
+    "externalLinks": [],
+    "malId": 548,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:31.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 167,
   "identifier": "5599",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 595,
   "aniId": 595,
-  "createdAt": "2020-10-12T15:48:31.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T21:48:29.000Z",
+    "checkedAt": "2022-05-14T21:48:29.000Z",
+    "id": 595,
+    "type": "anime",
+    "title": "X OVA",
+    "altTitle": [
+      "X - Yochou",
+      "X OVA: Episode 0",
+      "X - An Omen",
+      "X: An Omen",
+      "X -エックス-第零話 予兆"
+    ],
+    "url": "https://myanimelist.net/anime/595/X_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/12/83082.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,44 +53,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "X - Yochou",
-      "X OVA: Episode 0",
-      "X - An Omen",
-      "X: An Omen",
-      "X -エックス-第零話 予兆"
-    ],
+    "deletedAt": null,
+    "anidbId": 30
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:47.000Z",
+    "updatedAt": "2022-05-15T21:17:47.000Z",
+    "checkedAt": "2022-05-15T21:17:47.000Z",
     "id": 595,
     "type": "anime",
     "title": "X OVA",
-    "url": "https://myanimelist.net/anime/595/X_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/12/83082.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 30,
-    "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2022-03-30T15:34:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エックス",
       "X - Yochou",
       "X OVA: Episode 0",
       "X - An Omen"
     ],
-    "externalLinks": [],
-    "id": 595,
-    "malId": 595,
-    "type": "anime",
-    "title": "X OVA",
     "url": "https://anilist.co/anime/595",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/595.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:47.000Z",
-    "updatedAt": "2021-12-17T08:50:47.000Z",
+    "externalLinks": [],
+    "malId": 595,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/595/X_OVA"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Meguro Amu"
-  ],
+  "createdAt": "2022-05-04T23:31:24.000Z",
+  "updatedAt": "2022-05-13T15:21:23.000Z",
+  "checkedAt": "2022-05-13T15:15:51.000Z",
+  "id": 102681,
   "identifier": "manga-ld962838",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,58 @@
   "image": "https://avt.mkklcdnv6temp.com/30/f/8-1583479326.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T23:31:24.000Z",
-  "updatedAt": "2022-05-04T23:31:24.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 33441,
+  "aniId": 63441,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Meguro Amu"
+  ],
+  "Mal": {
+    "createdAt": "2021-06-03T21:20:39.000Z",
+    "updatedAt": "2022-05-13T15:15:52.000Z",
+    "checkedAt": "2022-05-13T15:15:52.000Z",
+    "id": 33441,
+    "type": "manga",
+    "title": "Mako to Aki-chan no Koigokoro",
+    "altTitle": [
+      "マコとアキちゃんの恋心"
+    ],
+    "url": "https://myanimelist.net/manga/33441/Mako_to_Aki-chan_no_Koigokoro",
+    "image": "https://cdn.myanimelist.net/images/manga/2/61115.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Meguro, Amu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:30.296Z",
+    "updatedAt": "2022-05-13T13:02:30.296Z",
+    "checkedAt": null,
+    "id": 63441,
+    "type": "manga",
+    "title": "Mako to Aki-chan no Koigokoro",
+    "altTitle": [
+      "マコとアキちゃんの恋心",
+      "Makka na Ringo ni Kuchizuke wo",
+      "Kimi to Hatsukoi",
+      "Dakedo, Yappari Kawaii Hito",
+      "Monochrome Doll no Omou toko"
+    ],
+    "url": "https://anilist.co/manga/63441",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33441.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 33441,
+    "deletedAt": null,
+    "authors": [
+      "Amu Meguro"
+    ]
+  }
 }

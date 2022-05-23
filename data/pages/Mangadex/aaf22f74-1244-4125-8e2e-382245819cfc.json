@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nam Soo"
-  ],
+  "createdAt": "2020-10-12T16:13:33.000Z",
+  "updatedAt": "2021-12-06T00:48:00.000Z",
+  "checkedAt": null,
+  "id": 23146,
   "identifier": "aaf22f74-1244-4125-8e2e-382245819cfc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 131799,
   "aniId": 104533,
-  "createdAt": "2020-10-12T16:13:33.000Z",
-  "updatedAt": "2021-12-06T00:48:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nam Soo"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T22:49:39.000Z",
+    "updatedAt": "2022-05-16T02:16:40.000Z",
+    "checkedAt": "2022-05-16T02:16:40.000Z",
+    "id": 131799,
+    "type": "manga",
+    "title": "Romance 101",
+    "altTitle": [
+      "Bareun Yeonae Giljabgi",
+      "A Guide to Proper Dating",
+      "Romance 101",
+      "바른연애 길잡이"
+    ],
+    "url": "https://myanimelist.net/manga/131799/Romance_101",
+    "image": "https://cdn.myanimelist.net/images/manga/3/238367.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bareun Yeonae Giljabgi",
-      "A Guide to Proper Dating",
-      "Romance 101",
-      "바른연애 길잡이"
-    ],
+    "deletedAt": null,
     "authors": [
       "Namsu"
-    ],
-    "id": 131799,
-    "type": "manga",
-    "title": "Romance 101",
-    "url": "https://myanimelist.net/manga/131799/Romance_101",
-    "image": "https://cdn.myanimelist.net/images/manga/3/238367.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-06-05T22:49:39.000Z",
-    "updatedAt": "2022-04-25T19:31:48.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:42.756Z",
+    "updatedAt": "2022-05-16T02:16:38.000Z",
+    "checkedAt": "2022-05-16T02:16:38.000Z",
+    "id": 104533,
+    "type": "manga",
+    "title": "Bareunyeonae Giljabi",
     "altTitle": [
       "Romance 101",
       "바른연애 길잡이",
@@ -60,21 +69,15 @@
       "乖乖女的戀愛指南",
       "Guía de citas para principiantes"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Namsu"
-    ],
-    "id": 104533,
-    "malId": 131799,
-    "type": "manga",
-    "title": "Bareunyeonae Giljabi",
     "url": "https://anilist.co/manga/104533",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104533-23iv4nryrctR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-24T00:38:17.000Z",
-    "updatedAt": "2022-04-29T14:33:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/131799/Romance_101"
+    "externalLinks": [],
+    "malId": 131799,
+    "deletedAt": null,
+    "authors": [
+      "Namsu"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kamijyo Akimine"
-  ],
+  "createdAt": "2020-10-12T16:02:32.000Z",
+  "updatedAt": "2021-12-02T07:47:28.000Z",
+  "checkedAt": null,
+  "id": 345,
   "identifier": "9c4dd55b-e222-4964-951d-ed90593584c2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8341,
   "aniId": 38341,
-  "createdAt": "2020-10-12T16:02:32.000Z",
-  "updatedAt": "2021-12-02T07:47:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kamijyo Akimine"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:18.000Z",
+    "updatedAt": "2022-05-15T13:13:30.000Z",
+    "checkedAt": "2022-05-15T13:13:30.000Z",
+    "id": 8341,
+    "type": "manga",
+    "title": "Code:Breaker",
+    "altTitle": [
+      "C0de:Breaker",
+      "CØDE:BREAKER",
+      "CØDE:BREAKER コード:ブレイカー"
+    ],
+    "url": "https://myanimelist.net/manga/8341/Code_Breaker",
+    "image": "https://cdn.myanimelist.net/images/manga/1/15122.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "CØDE:BREAKER",
-      "C0de:Breaker",
-      "CØDE:BREAKER コード:ブレイカー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kamijyo, Akimine"
-    ],
-    "id": 8341,
-    "type": "manga",
-    "title": "Code:Breaker",
-    "url": "https://myanimelist.net/manga/8341/Code_Breaker",
-    "image": "https://cdn.myanimelist.net/images/manga/1/15122.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:18.000Z",
-    "updatedAt": "2021-12-09T06:34:59.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:23.226Z",
+    "updatedAt": "2022-05-15T17:34:23.000Z",
+    "checkedAt": "2022-05-15T17:34:23.000Z",
+    "id": 38341,
+    "type": "manga",
+    "title": "CØDE:BREAKER",
     "altTitle": [
       "CØDE:BREAKER",
       "Code:Breaker",
       "コード:ブレイカー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akimine Kamijo"
-    ],
-    "id": 38341,
-    "malId": 8341,
-    "type": "manga",
-    "title": "CØDE:BREAKER",
     "url": "https://anilist.co/manga/38341",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38341-xf4ZYaMVFw8t.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:45.000Z",
-    "updatedAt": "2022-04-29T04:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8341/Code_Breaker"
+    "externalLinks": [],
+    "malId": 8341,
+    "deletedAt": null,
+    "authors": [
+      "Akimine Kamijo"
+    ]
+  }
 }

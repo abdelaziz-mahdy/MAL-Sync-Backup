@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Touei Michihiko"
-  ],
+  "createdAt": "2020-10-12T16:15:11.000Z",
+  "updatedAt": "2021-12-06T11:47:29.000Z",
+  "checkedAt": null,
+  "id": 26494,
   "identifier": "4b273994-10ec-45cd-a333-b5ea0e894e19",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65819,
   "aniId": 86760,
-  "createdAt": "2020-10-12T16:15:11.000Z",
-  "updatedAt": "2021-12-06T11:47:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Touei Michihiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:08.000Z",
+    "updatedAt": "2022-03-11T14:00:39.000Z",
+    "checkedAt": null,
+    "id": 65819,
+    "type": "manga",
+    "title": "Saigo no Restaurant",
+    "altTitle": [
+      "The Last Restaurant",
+      "Saigo no Resutoran",
+      "最後のレストラン"
+    ],
+    "url": "https://myanimelist.net/manga/65819/Saigo_no_Restaurant",
+    "image": "https://cdn.myanimelist.net/images/manga/3/112937.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +46,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Last Restaurant",
-      "Saigo no Resutoran",
-      "最後のレストラン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Touei, Michihiko"
-    ],
-    "id": 65819,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:32.518Z",
+    "updatedAt": "2022-05-13T13:04:32.518Z",
+    "checkedAt": null,
+    "id": 86760,
     "type": "manga",
     "title": "Saigo no Restaurant",
-    "url": "https://myanimelist.net/manga/65819/Saigo_no_Restaurant",
-    "image": "https://cdn.myanimelist.net/images/manga/3/112937.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:08.000Z",
-    "updatedAt": "2022-03-11T14:00:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "最後のレストラン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Michihiko Touei"
-    ],
-    "id": 86760,
-    "malId": 65819,
-    "type": "manga",
-    "title": "Saigo no Restaurant",
     "url": "https://anilist.co/manga/86760",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56760-mkTswZoxCWKq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:53.000Z",
-    "updatedAt": "2021-12-17T22:57:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/65819/Saigo_no_Restaurant"
+    "externalLinks": [],
+    "malId": 65819,
+    "deletedAt": null,
+    "authors": [
+      "Michihiko Touei"
+    ]
+  }
 }

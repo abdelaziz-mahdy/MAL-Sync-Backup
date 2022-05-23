@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Alice Soft",
-    "Naruse Hirofumi"
-  ],
+  "createdAt": "2020-10-12T16:05:33.000Z",
+  "updatedAt": "2021-12-03T13:49:50.000Z",
+  "checkedAt": null,
+  "id": 6646,
   "identifier": "2763d9ed-d9d3-4bf0-a656-aaad8f2cae98",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16844,
   "aniId": 46844,
-  "createdAt": "2020-10-12T16:05:33.000Z",
-  "updatedAt": "2021-12-03T13:49:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Alice Soft",
+    "Naruse Hirofumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-05-15T00:20:47.000Z",
+    "checkedAt": "2022-05-15T00:20:47.000Z",
+    "id": 16844,
+    "type": "manga",
+    "title": "Sengoku Rance",
+    "altTitle": [
+      "戦国ランス"
+    ],
+    "url": "https://myanimelist.net/manga/16844/Sengoku_Rance",
+    "image": "https://cdn.myanimelist.net/images/manga/1/186070.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "戦国ランス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Naruse, Hirofumi"
-    ],
-    "id": 16844,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:18.857Z",
+    "updatedAt": "2022-05-18T14:49:58.000Z",
+    "checkedAt": "2022-05-18T14:49:58.000Z",
+    "id": 46844,
     "type": "manga",
     "title": "Sengoku Rance",
-    "url": "https://myanimelist.net/manga/16844/Sengoku_Rance",
-    "image": "https://cdn.myanimelist.net/images/manga/1/186070.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:23.000Z",
-    "updatedAt": "2021-12-01T01:10:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "戦国ランス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hirofumi Naruse",
-      "AliceSoft"
-    ],
-    "id": 46844,
-    "malId": 16844,
-    "type": "manga",
-    "title": "Sengoku Rance",
     "url": "https://anilist.co/manga/46844",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46844-xor5cw9kB6in.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:43:58.000Z",
-    "updatedAt": "2021-12-17T16:13:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16844/Sengoku_Rance"
+    "externalLinks": [],
+    "malId": 16844,
+    "deletedAt": null,
+    "authors": [
+      "Hirofumi Naruse",
+      "AliceSoft"
+    ]
+  }
 }

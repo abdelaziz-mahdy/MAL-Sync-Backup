@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toyoda Minoru"
-  ],
+  "createdAt": "2020-10-12T16:02:43.000Z",
+  "updatedAt": "2021-12-02T09:17:08.000Z",
+  "checkedAt": null,
+  "id": 703,
   "identifier": "26add952-f02a-496a-8cbb-e9a7ca22c150",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 413,
   "aniId": 30413,
-  "createdAt": "2020-10-12T16:02:43.000Z",
-  "updatedAt": "2021-12-02T09:17:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toyoda Minoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-16T01:42:01.000Z",
+    "checkedAt": "2022-05-16T01:42:01.000Z",
+    "id": 413,
+    "type": "manga",
+    "title": "Love Roma",
+    "altTitle": [
+      "Love Romance",
+      "Love Roma",
+      "ラブロマ"
+    ],
+    "url": "https://myanimelist.net/manga/413/Love_Roma",
+    "image": "https://cdn.myanimelist.net/images/manga/2/138067.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Love Romance",
-      "Love Roma",
-      "ラブロマ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toyoda, Minoru"
-    ],
-    "id": 413,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.120Z",
+    "updatedAt": "2022-05-16T01:41:59.000Z",
+    "checkedAt": "2022-05-16T01:41:59.000Z",
+    "id": 30413,
     "type": "manga",
     "title": "Love Roma",
-    "url": "https://myanimelist.net/manga/413/Love_Roma",
-    "image": "https://cdn.myanimelist.net/images/manga/2/138067.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-04-13T06:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Love Roma",
       "ラブロマ",
       "Love Romance"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Minoru Toyoda"
-    ],
-    "id": 30413,
-    "malId": 413,
-    "type": "manga",
-    "title": "Love Roma",
     "url": "https://anilist.co/manga/30413",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30413-1hvcNksWPkj1.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:10:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/413/Love_Roma"
+    "externalLinks": [],
+    "malId": 413,
+    "deletedAt": null,
+    "authors": [
+      "Minoru Toyoda"
+    ]
+  }
 }

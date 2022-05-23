@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ueno Meguru"
-  ],
+  "createdAt": "2021-11-08T10:43:34.000Z",
+  "updatedAt": "2022-05-08T11:00:45.000Z",
+  "checkedAt": null,
+  "id": 90408,
   "identifier": "2917bd11-97f9-4f63-9a28-be2e04467bbd",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140486,
   "aniId": 138776,
-  "createdAt": "2021-11-08T10:43:34.000Z",
-  "updatedAt": "2022-05-08T11:00:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ueno Meguru"
+  ],
   "Mal": {
+    "createdAt": "2021-10-10T11:35:06.000Z",
+    "updatedAt": "2022-05-16T14:36:49.000Z",
+    "checkedAt": "2022-05-16T14:36:49.000Z",
+    "id": 140486,
+    "type": "manga",
+    "title": "Gal-sen",
+    "altTitle": [
+      "Gyaru-sen",
+      "ギャルせん"
+    ],
+    "url": "https://myanimelist.net/manga/140486/Gal-sen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/254590.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gyaru-sen",
-      "ギャルせん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueno, Meguru"
-    ],
-    "id": 140486,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:09.261Z",
+    "updatedAt": "2022-05-16T14:36:48.000Z",
+    "checkedAt": "2022-05-16T14:36:48.000Z",
+    "id": 138776,
     "type": "manga",
     "title": "Gal-sen",
-    "url": "https://myanimelist.net/manga/140486/Gal-sen",
-    "image": "https://cdn.myanimelist.net/images/manga/1/254590.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-10T11:35:06.000Z",
-    "updatedAt": "2022-04-28T18:01:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ギャルせん",
       "Gal Sen",
       "Gyaru Sensei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Meguru Ueno"
-    ],
-    "id": 138776,
-    "malId": 140486,
-    "type": "manga",
-    "title": "Gal-sen",
     "url": "https://anilist.co/manga/138776",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138776-eve1kJSXeErE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-13T00:34:34.000Z",
-    "updatedAt": "2022-01-12T04:41:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140486/Gal-sen"
+    "externalLinks": [],
+    "malId": 140486,
+    "deletedAt": null,
+    "authors": [
+      "Meguru Ueno"
+    ]
+  }
 }

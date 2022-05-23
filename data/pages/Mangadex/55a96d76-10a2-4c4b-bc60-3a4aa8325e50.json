@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinobu Ohtaka"
-  ],
+  "createdAt": "2020-10-12T16:12:55.000Z",
+  "updatedAt": "2021-12-05T17:52:45.000Z",
+  "checkedAt": null,
+  "id": 21815,
   "identifier": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113644,
   "aniId": 101873,
-  "createdAt": "2020-10-12T16:12:55.000Z",
-  "updatedAt": "2021-12-05T17:52:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinobu Ohtaka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:33.000Z",
+    "updatedAt": "2022-05-15T18:46:21.000Z",
+    "checkedAt": "2022-05-15T18:46:21.000Z",
+    "id": 113644,
+    "type": "manga",
+    "title": "Orient",
+    "altTitle": [
+      "Orient",
+      "オリエント"
+    ],
+    "url": "https://myanimelist.net/manga/113644/Orient",
+    "image": "https://cdn.myanimelist.net/images/manga/1/210790.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +45,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Orient",
-      "オリエント"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ohtaka, Shinobu"
-    ],
-    "id": 113644,
-    "type": "manga",
-    "title": "Orient",
-    "url": "https://myanimelist.net/manga/113644/Orient",
-    "image": "https://cdn.myanimelist.net/images/manga/1/210790.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:33.000Z",
-    "updatedAt": "2022-04-18T14:02:27.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:20.084Z",
+    "updatedAt": "2022-05-15T20:47:23.000Z",
+    "checkedAt": "2022-05-15T20:47:23.000Z",
+    "id": 101873,
+    "type": "manga",
+    "title": "ORIENT",
     "altTitle": [
       "Orient",
       "オリエント",
       "Orient - Samurai Quest",
       "2 สิงห์ พลิกตำนานพิฆาตอสูร"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinobu Ootaka",
-      "Thibaud Desbief",
-      "Chidori Ishigo"
-    ],
-    "id": 101873,
-    "malId": 113644,
-    "type": "manga",
-    "title": "ORIENT",
     "url": "https://anilist.co/manga/101873",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101873-vBrJVZUV9NhU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:03.000Z",
-    "updatedAt": "2022-03-25T09:27:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113644/Orient"
+    "externalLinks": [],
+    "malId": 113644,
+    "deletedAt": null,
+    "authors": [
+      "Shinobu Ootaka",
+      "Thibaud Desbief",
+      "Chidori Ishigo"
+    ]
+  }
 }

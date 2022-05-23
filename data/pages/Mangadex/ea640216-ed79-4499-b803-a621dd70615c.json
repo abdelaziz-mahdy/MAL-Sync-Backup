@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Terada Katsuya"
-  ],
+  "createdAt": "2021-02-03T09:01:58.000Z",
+  "updatedAt": "2021-12-08T11:11:00.000Z",
+  "checkedAt": null,
+  "id": 61255,
   "identifier": "ea640216-ed79-4499-b803-a621dd70615c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5012,
   "aniId": 35012,
-  "createdAt": "2021-02-03T09:01:58.000Z",
-  "updatedAt": "2021-12-08T11:11:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Terada Katsuya"
+  ],
   "Mal": {
+    "createdAt": "2021-02-03T09:01:55.000Z",
+    "updatedAt": "2022-03-01T00:22:25.000Z",
+    "checkedAt": null,
+    "id": 5012,
+    "type": "manga",
+    "title": "Saiyuukiden Daienou",
+    "altTitle": [
+      "Saiyukiden Daienou",
+      "The Monkey King",
+      "西遊奇伝・大猿王"
+    ],
+    "url": "https://myanimelist.net/manga/5012/Saiyuukiden_Daienou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/11716.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Saiyukiden Daienou",
-      "The Monkey King",
-      "西遊奇伝・大猿王"
-    ],
+    "deletedAt": null,
     "authors": [
       "Terada, Katsuya"
-    ],
-    "id": 5012,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:16.703Z",
+    "updatedAt": "2022-05-13T13:01:16.703Z",
+    "checkedAt": null,
+    "id": 35012,
     "type": "manga",
     "title": "Saiyuukiden Daienou",
-    "url": "https://myanimelist.net/manga/5012/Saiyuukiden_Daienou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/11716.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-03T09:01:55.000Z",
-    "updatedAt": "2022-03-01T00:22:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Monkey King",
       "西遊奇伝・大猿王",
       "Saiyukiden Daienou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Katsuya Terada"
-    ],
-    "id": 35012,
-    "malId": 5012,
-    "type": "manga",
-    "title": "Saiyuukiden Daienou",
     "url": "https://anilist.co/manga/35012",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35012-UYn8d4VCKSRC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:38.000Z",
-    "updatedAt": "2021-12-17T12:12:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5012/Saiyuukiden_Daienou"
+    "externalLinks": [],
+    "malId": 5012,
+    "deletedAt": null,
+    "authors": [
+      "Katsuya Terada"
+    ]
+  }
 }

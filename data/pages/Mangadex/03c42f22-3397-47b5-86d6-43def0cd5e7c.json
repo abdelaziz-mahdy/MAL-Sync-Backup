@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takei Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:07:34.000Z",
+  "updatedAt": "2021-12-04T04:17:40.000Z",
+  "checkedAt": null,
+  "id": 10903,
   "identifier": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 73855,
   "aniId": 91892,
-  "createdAt": "2020-10-12T16:07:34.000Z",
-  "updatedAt": "2021-12-04T04:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takei Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:21.000Z",
+    "updatedAt": "2021-12-02T15:16:46.000Z",
+    "checkedAt": null,
+    "id": 73855,
+    "type": "manga",
+    "title": "Yahabe",
+    "altTitle": [
+      "Yahabee",
+      "ヤハべえ"
+    ],
+    "url": "https://myanimelist.net/manga/73855/Yahabe",
+    "image": "https://cdn.myanimelist.net/images/manga/2/128075.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yahabee",
-      "ヤハべえ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takei, Hiroyuki"
-    ],
-    "id": 73855,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:34.818Z",
+    "updatedAt": "2022-05-13T13:05:34.818Z",
+    "checkedAt": null,
+    "id": 91892,
     "type": "manga",
     "title": "Yahabe",
-    "url": "https://myanimelist.net/manga/73855/Yahabe",
-    "image": "https://cdn.myanimelist.net/images/manga/2/128075.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:21.000Z",
-    "updatedAt": "2021-12-02T15:16:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヤハべえ",
       "Yahabee"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroyuki Takei"
-    ],
-    "id": 91892,
-    "malId": 73855,
-    "type": "manga",
-    "title": "Yahabe",
     "url": "https://anilist.co/manga/91892",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91892-DD69w00jilVR.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:42.000Z",
-    "updatedAt": "2021-12-18T00:27:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/73855/Yahabe"
+    "externalLinks": [],
+    "malId": 73855,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Takei"
+    ]
+  }
 }

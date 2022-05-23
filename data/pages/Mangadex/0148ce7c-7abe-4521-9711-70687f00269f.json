@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsubara Toshimitsu"
-  ],
+  "createdAt": "2020-10-12T16:07:47.000Z",
+  "updatedAt": "2021-12-04T05:22:02.000Z",
+  "checkedAt": null,
+  "id": 11345,
   "identifier": "0148ce7c-7abe-4521-9711-70687f00269f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78477,
   "aniId": 85475,
-  "createdAt": "2020-10-12T16:07:47.000Z",
-  "updatedAt": "2021-12-04T05:22:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsubara Toshimitsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-05-14T22:12:53.000Z",
+    "checkedAt": "2022-05-14T22:12:53.000Z",
+    "id": 78477,
+    "type": "manga",
+    "title": "Rikudou",
+    "altTitle": [
+      "リクドウ"
+    ],
+    "url": "https://myanimelist.net/manga/78477/Rikudou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191159.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "リクドウ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsubara, Toshimitsu"
-    ],
-    "id": 78477,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:05.912Z",
+    "updatedAt": "2022-05-15T20:14:59.000Z",
+    "checkedAt": "2022-05-15T20:14:59.000Z",
+    "id": 85475,
     "type": "manga",
     "title": "Rikudou",
-    "url": "https://myanimelist.net/manga/78477/Rikudou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/191159.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-03-21T04:55:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リクドウ",
-      "Rikudo"
+      "Rikudo",
+      "ริคุ หมัดเดือด"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshimitsu Matsubara"
-    ],
-    "id": 85475,
-    "malId": 78477,
-    "type": "manga",
-    "title": "Rikudou",
     "url": "https://anilist.co/manga/85475",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85475-qOw2DyE0VBuJ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:52.000Z",
-    "updatedAt": "2021-12-17T22:01:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78477/Rikudou"
+    "externalLinks": [],
+    "malId": 78477,
+    "deletedAt": null,
+    "authors": [
+      "Toshimitsu Matsubara"
+    ]
+  }
 }

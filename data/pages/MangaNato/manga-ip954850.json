@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuda Masami"
-  ],
+  "createdAt": "2021-05-31T09:17:11.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74468,
   "identifier": "manga-ip954850",
   "type": "manga",
   "page": "MangaNato",
@@ -11,24 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17,
   "aniId": 30017,
-  "createdAt": "2021-05-31T09:17:11.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsuda Masami"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.hakusensha.co.jp/karekano/index.html"
-      },
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E5%BD%BC%E6%B0%8F%E5%BD%BC%E5%A5%B3%E3%81%AE%E4%BA%8B%E6%83%85"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T06:14:35.000Z",
+    "checkedAt": "2022-05-15T06:14:35.000Z",
+    "id": 17,
+    "type": "manga",
+    "title": "Kareshi Kanojo no Jijou",
     "altTitle": [
       "His and Hers",
       "The Tiger and the Chameleon: A Promise for One Week",
@@ -40,21 +37,33 @@
       "Kare Kano: His and Her Circumstances",
       "彼氏彼女の事情"
     ],
-    "authors": [
-      "Tsuda, Masami"
-    ],
-    "id": 17,
-    "type": "manga",
-    "title": "Kareshi Kanojo no Jijou",
     "url": "https://myanimelist.net/manga/17/Kareshi_Kanojo_no_Jijou",
     "image": "https://cdn.myanimelist.net/images/manga/4/168938.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-03-21T11:28:33.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hakusensha.co.jp/karekano/index.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%BD%BC%E6%B0%8F%E5%BD%BC%E5%A5%B3%E3%81%AE%E4%BA%8B%E6%83%85"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsuda, Masami"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:37.763Z",
+    "updatedAt": "2022-05-15T18:20:23.000Z",
+    "checkedAt": "2022-05-15T18:20:23.000Z",
+    "id": 30017,
+    "type": "manga",
+    "title": "Kareshi Kanojo no Jijou",
     "altTitle": [
       "Kare Kano: His and Her Circumstances",
       "彼氏彼女の事情",
@@ -68,7 +77,13 @@
       "그남자! 그여자!",
       "Karekano"
     ],
+    "url": "https://anilist.co/manga/30017",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30017-6IEZDkZJthuJ.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 17,
+    "deletedAt": null,
     "authors": [
       "Masami Tsuda",
       "Amy Forsyth",
@@ -93,18 +108,6 @@
       "Judi Csotsists",
       "Harue Matsumura",
       "Fédoua Lamodière"
-    ],
-    "id": 30017,
-    "malId": 17,
-    "type": "manga",
-    "title": "Kareshi Kanojo no Jijou",
-    "url": "https://anilist.co/manga/30017",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30017-6IEZDkZJthuJ.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-04-02T10:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17/Kareshi_Kanojo_no_Jijou"
+    ]
+  }
 }

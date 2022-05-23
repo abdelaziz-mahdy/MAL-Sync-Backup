@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kitajima Yukinori",
-    "Kodama Yuuki"
-  ],
+  "createdAt": "2020-10-12T16:06:57.000Z",
+  "updatedAt": "2021-12-03T23:46:19.000Z",
+  "checkedAt": null,
+  "id": 9584,
   "identifier": "dfd85da5-86ff-4a60-8351-81c2fea65ce8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60881,
   "aniId": 85264,
-  "createdAt": "2020-10-12T16:06:57.000Z",
-  "updatedAt": "2021-12-03T23:46:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kitajima Yukinori",
+    "Kodama Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:56.000Z",
+    "updatedAt": "2022-05-15T15:12:27.000Z",
+    "checkedAt": "2022-05-15T15:12:27.000Z",
+    "id": 60881,
+    "type": "manga",
+    "title": "Hamatora The Comic",
+    "altTitle": [
+      "ハマトラ THE COMIC"
+    ],
+    "url": "https://myanimelist.net/manga/60881/Hamatora_The_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/4/133589.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,44 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハマトラ THE COMIC"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kodama, Yuuki",
       "Kitajima, Yukinori"
-    ],
-    "id": 60881,
-    "type": "manga",
-    "title": "Hamatora The Comic",
-    "url": "https://myanimelist.net/manga/60881/Hamatora_The_Comic",
-    "image": "https://cdn.myanimelist.net/images/manga/4/133589.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:56.000Z",
-    "updatedAt": "2022-02-02T21:21:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:20.504Z",
+    "updatedAt": "2022-05-15T18:41:35.000Z",
+    "checkedAt": "2022-05-15T18:41:35.000Z",
+    "id": 85264,
+    "type": "manga",
+    "title": "Hamatora THE COMIC",
     "altTitle": [
       "ハマトラ THE COMIC"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki Kodama",
-      "Yukinori Kitajima"
-    ],
-    "id": 85264,
-    "malId": 60881,
-    "type": "manga",
-    "title": "Hamatora THE COMIC",
     "url": "https://anilist.co/manga/85264",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85264-ku4jkVdmknjH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2021-12-17T21:56:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60881/Hamatora_The_Comic"
+    "externalLinks": [],
+    "malId": 60881,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Kodama",
+      "Yukinori Kitajima"
+    ]
+  }
 }

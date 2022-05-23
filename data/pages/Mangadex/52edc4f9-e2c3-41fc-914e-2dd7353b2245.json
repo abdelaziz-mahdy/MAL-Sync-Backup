@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Cool Kyoushinsha",
-    "Kimura Mitsuhiro"
-  ],
+  "createdAt": "2020-10-12T16:10:19.000Z",
+  "updatedAt": "2021-12-05T00:20:33.000Z",
+  "checkedAt": null,
+  "id": 16887,
   "identifier": "52edc4f9-e2c3-41fc-914e-2dd7353b2245",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102811,
   "aniId": 100754,
-  "createdAt": "2020-10-12T16:10:19.000Z",
-  "updatedAt": "2021-12-05T00:20:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cool Kyoushinsha",
+    "Kimura Mitsuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:46.000Z",
+    "updatedAt": "2022-05-20T21:02:59.000Z",
+    "checkedAt": "2022-05-20T21:02:59.000Z",
+    "id": 102811,
+    "type": "manga",
+    "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
+    "altTitle": [
+      "Miss Kobayashi's Dragon Maid: Kanna's Daily Life",
+      "小林さんちのメイドラゴン カンナの日常"
+    ],
+    "url": "https://myanimelist.net/manga/102811/Kobayashi-san_Chi_no_Maid_Dragon__Kanna_no_Nichijou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/193739.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Miss Kobayashi's Dragon Maid: Kanna's Daily Life",
-      "小林さんちのメイドラゴン カンナの日常"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kimura, Mitsuhiro"
-    ],
-    "id": 102811,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:45.485Z",
+    "updatedAt": "2022-05-20T21:02:58.000Z",
+    "checkedAt": "2022-05-20T21:02:58.000Z",
+    "id": 100754,
     "type": "manga",
     "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
-    "url": "https://myanimelist.net/manga/102811/Kobayashi-san_Chi_no_Maid_Dragon__Kanna_no_Nichijou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/193739.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:46.000Z",
-    "updatedAt": "2022-02-26T22:18:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Miss Kobayashi's Dragon Maid: Kanna's Daily Life",
       "小林さんちのメイドラゴン カンナの日常"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuhiro Kimura",
-      "Cool-kyou Shinja",
-      "Jenny McKeon"
-    ],
-    "id": 100754,
-    "malId": 102811,
-    "type": "manga",
-    "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
     "url": "https://anilist.co/manga/100754",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100754-2QZSwslA57zE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2021-12-18T03:27:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102811/Kobayashi-san_Chi_no_Maid_Dragon__Kanna_no_Nichijou"
+    "externalLinks": [],
+    "malId": 102811,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuhiro Kimura",
+      "Cool-kyou Shinja",
+      "Jenny McKeon"
+    ]
+  }
 }

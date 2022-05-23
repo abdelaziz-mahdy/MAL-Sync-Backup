@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Arai Azuki",
-    "Jianazu"
-  ],
+  "createdAt": "2022-04-04T08:00:32.000Z",
+  "updatedAt": "2022-04-04T08:30:22.000Z",
+  "checkedAt": null,
+  "id": 100630,
   "identifier": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 144044,
   "aniId": 142313,
-  "createdAt": "2022-04-04T08:00:32.000Z",
-  "updatedAt": "2022-04-04T08:30:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Arai Azuki",
+    "Jianazu"
+  ],
   "Mal": {
+    "createdAt": "2022-02-10T20:10:49.000Z",
+    "updatedAt": "2022-05-21T11:06:54.000Z",
+    "checkedAt": "2022-05-21T11:06:54.000Z",
+    "id": 144044,
+    "type": "manga",
+    "title": "Isekai Arigatou",
+    "altTitle": [
+      "Thank You for Another World",
+      "Thank You, Isekai!",
+      "異世界ありがとう"
+    ],
+    "url": "https://myanimelist.net/manga/144044/Isekai_Arigatou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259580.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Thank You, Isekai!",
-      "異世界ありがとう"
-    ],
+    "deletedAt": null,
     "authors": [
       "Arai, Azuki",
       "Zianazu"
-    ],
-    "id": 144044,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:36.563Z",
+    "updatedAt": "2022-05-21T11:06:53.000Z",
+    "checkedAt": "2022-05-21T11:06:53.000Z",
+    "id": 142313,
     "type": "manga",
     "title": "Isekai Arigatou",
-    "url": "https://myanimelist.net/manga/144044/Isekai_Arigatou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/255582.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-02-10T20:10:49.000Z",
-    "updatedAt": "2022-03-13T00:00:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Thank You, Isekai!",
       "異世界ありがとう"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Zianazu",
-      "Azuki Arai"
-    ],
-    "id": 142313,
-    "malId": 144044,
-    "type": "manga",
-    "title": "Isekai Arigatou",
     "url": "https://anilist.co/manga/142313",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142313-Rpm1EcQb1Bgp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-12-03T17:16:07.000Z",
-    "updatedAt": "2022-02-11T05:39:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/144044/Isekai_Arigatou"
+    "externalLinks": [],
+    "malId": 144044,
+    "deletedAt": null,
+    "authors": [
+      "Zianazu",
+      "Azuki Arai"
+    ]
+  }
 }

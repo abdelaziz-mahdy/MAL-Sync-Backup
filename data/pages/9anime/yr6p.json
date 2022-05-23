@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10835,
   "identifier": "yr6p",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2017,
   "aniId": 2017,
-  "createdAt": "2020-10-12T15:56:57.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:24.000Z",
+    "updatedAt": "2022-05-14T23:25:41.000Z",
+    "checkedAt": "2022-05-14T23:25:41.000Z",
+    "id": 2017,
+    "type": "anime",
+    "title": "Mermaid's Scar",
+    "altTitle": [
+      "Ningyo no Kizu",
+      "Rumic World 5",
+      "Mermaid's Scar",
+      "人魚の傷"
+    ],
+    "url": "https://myanimelist.net/anime/2017/Mermaids_Scar",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2144.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,42 +48,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ningyo no Kizu",
-      "Rumic World 5",
-      "Mermaid's Scar",
-      "人魚の傷"
-    ],
+    "deletedAt": null,
+    "anidbId": 1300
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-15T22:37:35.000Z",
+    "checkedAt": "2022-05-15T22:37:35.000Z",
     "id": 2017,
     "type": "anime",
-    "title": "Mermaid's Scar",
-    "url": "https://myanimelist.net/anime/2017/Mermaids_Scar",
-    "image": "https://cdn.myanimelist.net/images/anime/1/2144.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1300,
-    "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2022-03-31T03:36:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Ningyo no Kizu",
     "altTitle": [
       "Mermaid's Scar",
       "人魚の傷",
       "Rumic World 5"
     ],
-    "externalLinks": [],
-    "id": 2017,
-    "malId": 2017,
-    "type": "anime",
-    "title": "Ningyo no Kizu",
     "url": "https://anilist.co/anime/2017",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2017-7FHF1D3CfIFI.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:07.000Z",
-    "updatedAt": "2022-03-29T20:30:20.000Z",
+    "externalLinks": [],
+    "malId": 2017,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2017/Mermaids_Scar"
+  }
 }

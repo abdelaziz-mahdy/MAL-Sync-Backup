@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kurokami Yuuya",
-    "Kanzaki Karuna"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:16.000Z",
+  "checkedAt": null,
+  "id": 3518,
   "identifier": "518cd64b-5e42-4fe5-a9f3-4c91e94007c0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10451,
   "aniId": 40451,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurokami Yuuya",
+    "Kanzaki Karuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:27.000Z",
+    "updatedAt": "2022-03-19T19:20:04.000Z",
+    "checkedAt": null,
+    "id": 10451,
+    "type": "manga",
+    "title": "Shinakoi",
+    "altTitle": [
+      "しなこいっ"
+    ],
+    "url": "https://myanimelist.net/manga/10451/Shinakoi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/181888.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "しなこいっ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanzaki, Karuna",
       "Kurokami, Yuuya"
-    ],
-    "id": 10451,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:41.465Z",
+    "updatedAt": "2022-05-13T12:40:41.465Z",
+    "checkedAt": null,
+    "id": 40451,
     "type": "manga",
     "title": "Shinakoi",
-    "url": "https://myanimelist.net/manga/10451/Shinakoi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/181888.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:27.000Z",
-    "updatedAt": "2022-03-19T19:20:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "しなこいっ",
       "Shi-na-koi",
       "Shina Koi",
       "Shina-Koi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Karuna Kanzaki",
-      "Yuuya Kurokami"
-    ],
-    "id": 40451,
-    "malId": 10451,
-    "type": "manga",
-    "title": "Shinakoi",
     "url": "https://anilist.co/manga/40451",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40451-u8KO0pA1Ijdl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:05.000Z",
-    "updatedAt": "2021-12-17T14:07:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10451/Shinakoi"
+    "externalLinks": [],
+    "malId": 10451,
+    "deletedAt": null,
+    "authors": [
+      "Karuna Kanzaki",
+      "Yuuya Kurokami"
+    ]
+  }
 }

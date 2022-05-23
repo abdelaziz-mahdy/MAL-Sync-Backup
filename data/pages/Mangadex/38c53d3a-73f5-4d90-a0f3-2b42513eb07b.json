@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Agi Tadashi",
-    "Okimoto Shu"
-  ],
+  "createdAt": "2020-10-12T16:11:35.000Z",
+  "updatedAt": "2021-12-05T09:49:32.000Z",
+  "checkedAt": null,
+  "id": 19658,
   "identifier": "38c53d3a-73f5-4d90-a0f3-2b42513eb07b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 82211,
   "aniId": 93239,
-  "createdAt": "2020-10-12T16:11:35.000Z",
-  "updatedAt": "2021-12-05T09:49:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Agi Tadashi",
+    "Okimoto Shu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:37.000Z",
+    "updatedAt": "2022-02-04T04:07:17.000Z",
+    "checkedAt": null,
+    "id": 82211,
+    "type": "manga",
+    "title": "Kaitou le Vin",
+    "altTitle": [
+      "Le Vin, Gentleman Cambrioleur",
+      "Le Vin, Wine Burglar",
+      "怪盗ルヴァン"
+    ],
+    "url": "https://myanimelist.net/manga/82211/Kaitou_le_Vin",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157914.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Le Vin, Gentleman Cambrioleur",
-      "Le Vin, Wine Burglar",
-      "怪盗ルヴァン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kibayashi, Shin",
       "Okimoto, Shuu"
-    ],
-    "id": 82211,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:06.815Z",
+    "updatedAt": "2022-05-13T12:46:06.815Z",
+    "checkedAt": null,
+    "id": 93239,
     "type": "manga",
     "title": "Kaitou le Vin",
-    "url": "https://myanimelist.net/manga/82211/Kaitou_le_Vin",
-    "image": "https://cdn.myanimelist.net/images/manga/3/157914.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:37.000Z",
-    "updatedAt": "2022-02-04T04:07:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Le Vin",
       "怪盗ルヴァン",
       "Le Vin",
       "Gentleman Cambrioleur"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuu Okimoto",
-      "Shin Kibayashi"
-    ],
-    "id": 93239,
-    "malId": 82211,
-    "type": "manga",
-    "title": "Kaitou le Vin",
     "url": "https://anilist.co/manga/93239",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93239-fdenZO6AAXW1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:05.000Z",
-    "updatedAt": "2022-01-28T06:20:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/82211/Kaitou_le_Vin"
+    "externalLinks": [],
+    "malId": 82211,
+    "deletedAt": null,
+    "authors": [
+      "Shuu Okimoto",
+      "Shin Kibayashi"
+    ]
+  }
 }

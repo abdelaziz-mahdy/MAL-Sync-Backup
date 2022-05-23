@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asada Nikki"
-  ],
+  "createdAt": "2020-10-12T16:08:28.000Z",
+  "updatedAt": "2021-12-04T10:51:58.000Z",
+  "checkedAt": null,
+  "id": 12850,
   "identifier": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86683,
   "aniId": 86546,
-  "createdAt": "2020-10-12T16:08:28.000Z",
-  "updatedAt": "2021-12-04T10:51:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asada Nikki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:52.000Z",
+    "updatedAt": "2022-05-19T17:28:56.000Z",
+    "checkedAt": "2022-05-19T17:28:56.000Z",
+    "id": 86683,
+    "type": "manga",
+    "title": "Ouji ga Watashi wo Akiramenai!",
+    "altTitle": [
+      "Prince Megamax",
+      "The Prince's Romance Gambit",
+      "王子が私をあきらめない!"
+    ],
+    "url": "https://myanimelist.net/manga/86683/Ouji_ga_Watashi_wo_Akiramenai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/192530.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Prince Megamax",
-      "The Prince's Romance Gambit",
-      "王子が私をあきらめない!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asada, Nikki"
-    ],
-    "id": 86683,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:33.664Z",
+    "updatedAt": "2022-05-19T17:28:55.000Z",
+    "checkedAt": "2022-05-19T17:28:55.000Z",
+    "id": 86546,
     "type": "manga",
     "title": "Ouji ga Watashi wo Akiramenai!",
-    "url": "https://myanimelist.net/manga/86683/Ouji_ga_Watashi_wo_Akiramenai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/192530.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:52.000Z",
-    "updatedAt": "2022-03-12T13:00:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Prince's Romance Gambit",
       "王子が私をあきらめない！",
       "Prince Megamax",
       "Prince Never-give-up"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nikki Asada"
-    ],
-    "id": 86546,
-    "malId": 86683,
-    "type": "manga",
-    "title": "Ouji ga Watashi wo Akiramenai!",
     "url": "https://anilist.co/manga/86546",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86546-r8PPmJMnKr0c.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:45.000Z",
-    "updatedAt": "2021-12-17T22:53:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86683/Ouji_ga_Watashi_wo_Akiramenai"
+    "externalLinks": [],
+    "malId": 86683,
+    "deletedAt": null,
+    "authors": [
+      "Nikki Asada"
+    ]
+  }
 }

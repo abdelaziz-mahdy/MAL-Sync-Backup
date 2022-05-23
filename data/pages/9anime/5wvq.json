@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:37.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2817,
   "identifier": "5wvq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32268,
   "aniId": 21520,
-  "createdAt": "2020-10-12T15:50:37.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T16:09:10.000Z",
+    "checkedAt": "2022-05-14T16:09:10.000Z",
+    "id": 32268,
+    "type": "anime",
+    "title": "Koyomimonogatari",
+    "altTitle": [
+      "Calendar Story",
+      "Koyomimonogatari",
+      "暦物語"
+    ],
+    "url": "https://myanimelist.net/anime/32268/Koyomimonogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,44 +52,32 @@
         "url": "https://www.funimation.com/shows/koyomimonogatari"
       }
     ],
-    "altTitle": [
-      "暦物語"
-    ],
-    "id": 32268,
+    "deletedAt": null,
+    "anidbId": 11827
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:00.000Z",
+    "updatedAt": "2022-05-15T10:38:11.000Z",
+    "checkedAt": "2022-05-15T10:38:11.000Z",
+    "id": 21520,
     "type": "anime",
     "title": "Koyomimonogatari",
-    "url": "https://myanimelist.net/anime/32268/Koyomimonogatari",
-    "image": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 11827,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-03-03T11:10:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Koyomimonogatari",
       "暦物語",
       "Calendar Tale"
     ],
+    "url": "https://anilist.co/anime/21520",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/koyomimonogatari/"
       }
     ],
-    "id": 21520,
     "malId": 32268,
-    "type": "anime",
-    "title": "Koyomimonogatari",
-    "url": "https://anilist.co/anime/21520",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:00.000Z",
-    "updatedAt": "2021-12-17T15:19:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32268/Koyomimonogatari"
+  }
 }

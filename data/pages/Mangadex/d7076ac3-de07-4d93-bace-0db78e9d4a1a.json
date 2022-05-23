@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toboso Yana"
-  ],
+  "createdAt": "2020-10-12T16:02:26.000Z",
+  "updatedAt": "2021-12-02T07:16:09.000Z",
+  "checkedAt": null,
+  "id": 100,
   "identifier": "d7076ac3-de07-4d93-bace-0db78e9d4a1a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1274,
   "aniId": 31274,
-  "createdAt": "2020-10-12T16:02:26.000Z",
-  "updatedAt": "2021-12-02T07:16:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toboso Yana"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-01-05T18:18:42.000Z",
+    "checkedAt": null,
+    "id": 1274,
+    "type": "manga",
+    "title": "RustBlaster",
+    "altTitle": [
+      "Rust Blaster",
+      "ラストブラスター"
+    ],
+    "url": "https://myanimelist.net/manga/1274/RustBlaster",
+    "image": "https://cdn.myanimelist.net/images/manga/3/20385.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rust Blaster",
-      "ラストブラスター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toboso, Yana"
-    ],
-    "id": 1274,
-    "type": "manga",
-    "title": "RustBlaster",
-    "url": "https://myanimelist.net/manga/1274/RustBlaster",
-    "image": "https://cdn.myanimelist.net/images/manga/3/20385.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-01-05T18:18:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:53.648Z",
+    "updatedAt": "2022-05-13T12:44:53.648Z",
+    "checkedAt": null,
+    "id": 31274,
+    "type": "manga",
+    "title": "Rustblaster",
     "altTitle": [
       "ラストブラスター",
       "Rust Blaster"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yana Toboso",
-      "Erika Abreu",
-      "Gabriela Yuki"
-    ],
-    "id": 31274,
-    "malId": 1274,
-    "type": "manga",
-    "title": "Rustblaster",
     "url": "https://anilist.co/manga/31274",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1274.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2022-02-02T08:20:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1274/RustBlaster"
+    "externalLinks": [],
+    "malId": 1274,
+    "deletedAt": null,
+    "authors": [
+      "Yana Toboso",
+      "Erika Abreu",
+      "Gabriela Yuki"
+    ]
+  }
 }

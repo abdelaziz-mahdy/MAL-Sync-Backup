@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Satou Shouji"
-  ],
+  "createdAt": "2020-10-12T16:02:44.000Z",
+  "updatedAt": "2021-12-02T09:17:39.000Z",
+  "checkedAt": null,
+  "id": 753,
   "identifier": "56a294ed-69bf-4549-af63-961088ce8e43",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14018,
   "aniId": 44018,
-  "createdAt": "2020-10-12T16:02:44.000Z",
-  "updatedAt": "2021-12-02T09:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Satou Shouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:01.000Z",
+    "updatedAt": "2022-05-15T19:51:39.000Z",
+    "checkedAt": "2022-05-15T19:51:39.000Z",
+    "id": 14018,
+    "type": "manga",
+    "title": "Triage X",
+    "altTitle": [
+      "Triage X",
+      "トリアージX"
+    ],
+    "url": "https://myanimelist.net/manga/14018/Triage_X",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151056.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,31 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Triage X",
-      "トリアージX"
-    ],
+    "deletedAt": null,
     "authors": [
       "Satou, Shouji"
-    ],
-    "id": 14018,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:26.014Z",
+    "updatedAt": "2022-05-15T21:23:59.000Z",
+    "checkedAt": "2022-05-15T21:23:59.000Z",
+    "id": 44018,
     "type": "manga",
     "title": "Triage X",
-    "url": "https://myanimelist.net/manga/14018/Triage_X",
-    "image": "https://cdn.myanimelist.net/images/manga/1/151056.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:01.000Z",
-    "updatedAt": "2022-04-30T05:02:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Triage X",
       "トリアージX",
       "Toriaaji X"
     ],
+    "url": "https://anilist.co/manga/44018",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44018-LfDPOS5Crryd.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 14018,
+    "deletedAt": null,
     "authors": [
       "Shouji Satou",
       "Carlo Vanstiphout",
@@ -62,18 +77,6 @@
       "Ernesto Cellie",
       "Erika Abreu",
       "Diego Rodeguero"
-    ],
-    "id": 44018,
-    "malId": 14018,
-    "type": "manga",
-    "title": "Triage X",
-    "url": "https://anilist.co/manga/44018",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44018-LfDPOS5Crryd.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:42:42.000Z",
-    "updatedAt": "2022-02-05T01:36:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14018/Triage_X"
+    ]
+  }
 }

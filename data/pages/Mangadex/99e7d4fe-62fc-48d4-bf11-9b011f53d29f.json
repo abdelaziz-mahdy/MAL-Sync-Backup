@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mitchell Tanaka"
-  ],
+  "createdAt": "2020-10-12T16:04:43.000Z",
+  "updatedAt": "2021-12-02T23:19:10.000Z",
+  "checkedAt": null,
+  "id": 4903,
   "identifier": "99e7d4fe-62fc-48d4-bf11-9b011f53d29f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18098,
   "aniId": 48098,
-  "createdAt": "2020-10-12T16:04:43.000Z",
-  "updatedAt": "2021-12-02T23:19:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mitchell Tanaka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:30.000Z",
+    "updatedAt": "2022-05-02T16:31:56.000Z",
+    "checkedAt": null,
+    "id": 18098,
+    "type": "manga",
+    "title": "Yankee Figure",
+    "altTitle": [
+      "ヤンキーフィギュア"
+    ],
+    "url": "https://myanimelist.net/manga/18098/Yankee_Figure",
+    "image": "https://cdn.myanimelist.net/images/manga/3/27694.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,41 +40,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヤンキーフィギュア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Mitchell"
-    ],
-    "id": 18098,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:02.695Z",
+    "updatedAt": "2022-05-13T13:04:02.695Z",
+    "checkedAt": null,
+    "id": 48098,
     "type": "manga",
     "title": "Yankee Figure",
-    "url": "https://myanimelist.net/manga/18098/Yankee_Figure",
-    "image": "https://cdn.myanimelist.net/images/manga/3/27694.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:30.000Z",
-    "updatedAt": "2022-05-02T16:31:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yankee Figure",
       "ヤンキーフィギュア"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 48098,
-    "malId": 18098,
-    "type": "manga",
-    "title": "Yankee Figure",
     "url": "https://anilist.co/manga/48098",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18098.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:09.000Z",
-    "updatedAt": "2021-12-17T16:41:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/18098/Yankee_Figure"
+    "externalLinks": [],
+    "malId": 18098,
+    "deletedAt": null,
+    "authors": []
+  }
 }

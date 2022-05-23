@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maeda Aki"
-  ],
+  "createdAt": "2020-10-12T16:11:01.000Z",
+  "updatedAt": "2022-01-16T03:11:56.000Z",
+  "checkedAt": null,
+  "id": 18399,
   "identifier": "5db6f259-e678-44a1-b43f-94a18975e0c4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110592,
   "aniId": 116548,
-  "createdAt": "2020-10-12T16:11:01.000Z",
-  "updatedAt": "2022-01-16T03:11:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maeda Aki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:19.000Z",
+    "updatedAt": "2021-12-05T05:48:06.000Z",
+    "checkedAt": null,
+    "id": 110592,
+    "type": "manga",
+    "title": "Kareshi no Neko ga Kawaikunai!",
+    "altTitle": [
+      "My Boyfriend's Cat Is Not Cute",
+      "彼氏のネコがかわいくない!"
+    ],
+    "url": "https://myanimelist.net/manga/110592/Kareshi_no_Neko_ga_Kawaikunai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/227010.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Boyfriend's Cat Is Not Cute",
-      "彼氏のネコがかわいくない!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maeda, Aki"
-    ],
-    "id": 110592,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:14.443Z",
+    "updatedAt": "2022-05-13T12:48:14.443Z",
+    "checkedAt": null,
+    "id": 116548,
     "type": "manga",
     "title": "Kareshi no Neko ga Kawaikunai!",
-    "url": "https://myanimelist.net/manga/110592/Kareshi_no_Neko_ga_Kawaikunai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/227010.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:19.000Z",
-    "updatedAt": "2021-12-05T05:48:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼氏のネコがかわいくない！",
       "Kareneko"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aki Maeda"
-    ],
-    "id": 116548,
-    "malId": 110592,
-    "type": "manga",
-    "title": "Kareshi no Neko ga Kawaikunai!",
     "url": "https://anilist.co/manga/116548",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116548-Rkvg8FusSsgG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-16T02:32:21.000Z",
-    "updatedAt": "2022-01-16T02:42:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110592/Kareshi_no_Neko_ga_Kawaikunai"
+    "externalLinks": [],
+    "malId": 110592,
+    "deletedAt": null,
+    "authors": [
+      "Aki Maeda"
+    ]
+  }
 }

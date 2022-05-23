@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takeshi Ebihara"
-  ],
+  "createdAt": "2022-05-03T19:02:24.000Z",
+  "updatedAt": "2022-05-14T00:21:17.000Z",
+  "checkedAt": "2022-05-13T23:48:25.000Z",
+  "id": 102580,
   "identifier": "manga-ct979828",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,61 @@
   "image": "https://avt.mkklcdnv6temp.com/6/e/17-1583495483.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-03T19:02:24.000Z",
-  "updatedAt": "2022-05-03T19:02:24.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 100654,
+  "aniId": 97575,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Takeshi Ebihara"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:41.000Z",
+    "updatedAt": "2022-05-13T23:48:29.000Z",
+    "checkedAt": "2022-05-13T23:48:29.000Z",
+    "id": 100654,
+    "type": "manga",
+    "title": "Maicching Machiko-sensei",
+    "altTitle": [
+      "Miss Machiko",
+      "まいっちんぐマチコ先生"
+    ],
+    "url": "https://myanimelist.net/manga/100654/Maicching_Machiko-sensei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/182320.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A3%E3%81%A1%E3%82%93%E3%81%90%E3%83%9E%E3%83%81%E3%82%B3%E5%85%88%E7%94%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ebihara, Takeshi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:36.166Z",
+    "updatedAt": "2022-05-13T12:44:36.166Z",
+    "checkedAt": null,
+    "id": 97575,
+    "type": "manga",
+    "title": "Maicching Machiko-sensei",
+    "altTitle": [
+      "まいっちんぐマチコ先生",
+      "Miss Machiko"
+    ],
+    "url": "https://anilist.co/manga/97575",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97575-Tn20USuzdLwO.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 100654,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Ebihara"
+    ]
+  }
 }

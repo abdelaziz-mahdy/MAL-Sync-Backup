@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itagaki Keisuke"
-  ],
+  "createdAt": "2021-06-29T07:48:44.000Z",
+  "updatedAt": "2021-12-29T08:25:28.000Z",
+  "checkedAt": null,
+  "id": 80075,
   "identifier": "manga-uc952337",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 72299,
   "aniId": 86056,
-  "createdAt": "2021-06-29T07:48:44.000Z",
-  "updatedAt": "2021-12-29T08:25:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itagaki Keisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-05-15T07:27:02.000Z",
+    "checkedAt": "2022-05-15T07:27:02.000Z",
+    "id": 72299,
+    "type": "manga",
+    "title": "Baki-dou",
+    "altTitle": [
+      "Baki's Path",
+      "刃牙道"
+    ],
+    "url": "https://myanimelist.net/manga/72299/Baki-dou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188819.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Baki's Path",
-      "刃牙道"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itagaki, Keisuke"
-    ],
-    "id": 72299,
-    "type": "manga",
-    "title": "Baki-dou",
-    "url": "https://myanimelist.net/manga/72299/Baki-dou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188819.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-04-23T10:31:57.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:41.298Z",
+    "updatedAt": "2022-05-15T17:40:35.000Z",
+    "checkedAt": "2022-05-15T17:40:35.000Z",
+    "id": 86056,
+    "type": "manga",
+    "title": "Baki Dou",
     "altTitle": [
       "刃牙道",
       "Baki's Path"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keisuke Itagaki"
-    ],
-    "id": 86056,
-    "malId": 72299,
-    "type": "manga",
-    "title": "Baki Dou",
     "url": "https://anilist.co/manga/86056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86056-rVIx3IotpMZc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:35.000Z",
-    "updatedAt": "2021-12-17T22:29:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72299/Baki-dou"
+    "externalLinks": [],
+    "malId": 72299,
+    "deletedAt": null,
+    "authors": [
+      "Keisuke Itagaki"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Aozora Choco",
-    "Hu-Ko"
-  ],
+  "createdAt": "2020-10-12T16:10:09.000Z",
+  "updatedAt": "2021-12-04T22:49:02.000Z",
+  "checkedAt": null,
+  "id": 16506,
   "identifier": "48592786-4c75-43ed-b697-59f8beb79bc4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99384,
   "aniId": 99740,
-  "createdAt": "2020-10-12T16:10:09.000Z",
-  "updatedAt": "2021-12-04T22:49:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aozora Choco",
+    "Hu-Ko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:33.000Z",
+    "updatedAt": "2022-05-14T18:28:23.000Z",
+    "checkedAt": "2022-05-14T18:28:23.000Z",
+    "id": 99384,
+    "type": "manga",
+    "title": "Juui-san no Oshigoto in Isekai",
+    "altTitle": [
+      "A Veterinarian in Another World",
+      "獣医さんのお仕事 in異世界"
+    ],
+    "url": "https://myanimelist.net/manga/99384/Juui-san_no_Oshigoto_in_Isekai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/194512.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A Veterinarian in Another World",
-      "獣医さんのお仕事 in異世界"
-    ],
+    "deletedAt": null,
     "authors": [
       "hu-ko",
       "Aozora, Choco"
-    ],
-    "id": 99384,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:40.337Z",
+    "updatedAt": "2022-05-21T03:39:48.000Z",
+    "checkedAt": "2022-05-21T03:39:48.000Z",
+    "id": 99740,
     "type": "manga",
     "title": "Jui-san no Oshigoto in Isekai",
-    "url": "https://myanimelist.net/manga/99384/Jui-san_no_Oshigoto_in_Isekai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/194512.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:33.000Z",
-    "updatedAt": "2022-04-02T10:01:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "獣医さんのお仕事 in異世界",
       "A Veterinarian in Another World"
     ],
-    "externalLinks": [],
-    "authors": [
-      "hu-ko",
-      "Choco Aozora",
-      "Risu"
-    ],
-    "id": 99740,
-    "malId": 99384,
-    "type": "manga",
-    "title": "Jui-san no Oshigoto in Isekai",
     "url": "https://anilist.co/manga/99740",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99740-X0bQ3JkauVMa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:42.000Z",
-    "updatedAt": "2021-12-18T02:57:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99384/Jui-san_no_Oshigoto_in_Isekai"
+    "externalLinks": [],
+    "malId": 99384,
+    "deletedAt": null,
+    "authors": [
+      "hu-ko",
+      "Choco Aozora",
+      "Risu"
+    ]
+  }
 }

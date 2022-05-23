@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shimizu Akane"
-  ],
+  "createdAt": "2020-10-12T16:09:27.000Z",
+  "updatedAt": "2021-12-04T17:55:34.000Z",
+  "checkedAt": null,
+  "id": 15032,
   "identifier": "c2390196-0ad7-4b90-9019-c23c000eec78",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91641,
   "aniId": 86778,
-  "createdAt": "2020-10-12T16:09:27.000Z",
-  "updatedAt": "2021-12-04T17:55:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shimizu Akane"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2022-05-15T00:37:59.000Z",
+    "checkedAt": "2022-05-15T00:37:59.000Z",
+    "id": 91641,
+    "type": "manga",
+    "title": "Hataraku Saibou",
+    "altTitle": [
+      "Cells at Work!",
+      "はたらく細胞"
+    ],
+    "url": "https://myanimelist.net/manga/91641/Hataraku_Saibou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/200497.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,32 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cells at Work!",
-      "はたらく細胞"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shimizu, Akane"
-    ],
-    "id": 91641,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:06.553Z",
+    "updatedAt": "2022-05-15T18:22:23.000Z",
+    "checkedAt": "2022-05-15T18:22:23.000Z",
+    "id": 86778,
     "type": "manga",
     "title": "Hataraku Saibou",
-    "url": "https://myanimelist.net/manga/91641/Hataraku_Saibou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/200497.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2022-04-06T10:36:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cells at Work!",
       "はたらく細胞",
       "Working Cells",
       "Khi tế bào làm việc"
     ],
+    "url": "https://anilist.co/manga/86778",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86778-yms0DmPwIXu9.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 91641,
+    "deletedAt": null,
     "authors": [
       "Akane Shimizu",
       "Abigail Blackman",
@@ -63,18 +78,6 @@
       "Federica Bellinato",
       "Andrea Maniscalco",
       "Iyasu Nagata"
-    ],
-    "id": 86778,
-    "malId": 91641,
-    "type": "manga",
-    "title": "Hataraku Saibou",
-    "url": "https://anilist.co/manga/86778",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86778-yms0DmPwIXu9.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:36.000Z",
-    "updatedAt": "2022-01-23T18:00:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91641/Hataraku_Saibou"
+    ]
+  }
 }

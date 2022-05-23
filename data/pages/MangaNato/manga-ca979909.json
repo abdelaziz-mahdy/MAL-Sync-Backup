@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Han Dong Woo"
-  ],
+  "createdAt": "2021-06-29T10:12:32.000Z",
+  "updatedAt": "2021-12-29T10:32:50.000Z",
+  "checkedAt": null,
+  "id": 80365,
   "identifier": "manga-ca979909",
   "type": "manga",
   "page": "MangaNato",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 110166,
-  "createdAt": "2021-06-29T10:12:32.000Z",
-  "updatedAt": "2021-12-29T10:32:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Han Dong Woo"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:52.019Z",
+    "updatedAt": "2022-05-13T15:05:40.000Z",
+    "checkedAt": "2022-05-13T15:05:40.000Z",
+    "id": 110166,
+    "type": "manga",
+    "title": "Sesangeun Dongwa Gwollyeok",
     "altTitle": [
       "The World is Money and Power",
       "세상은 돈과 권력",
@@ -26,22 +34,16 @@
       "Money and the Power",
       "Materialism"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dong-U Han",
-      "Doo-Hee Lee"
-    ],
-    "id": 110166,
-    "malId": null,
-    "type": "manga",
-    "title": "Sesangeun Dongwa Gwollyeok",
     "url": "https://anilist.co/manga/110166",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110166-YtfuTk7JDBtD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T17:43:08.000Z",
-    "updatedAt": "2022-04-03T05:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Dong-U Han",
+      "Doo-Hee Lee"
+    ]
+  }
 }

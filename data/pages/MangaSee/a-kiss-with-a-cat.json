@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SENRI Miko"
-  ],
+  "createdAt": "2022-04-02T02:00:55.000Z",
+  "updatedAt": "2022-04-02T02:30:20.000Z",
+  "checkedAt": null,
+  "id": 100505,
   "identifier": "a-kiss-with-a-cat",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 129280,
   "aniId": 122739,
-  "createdAt": "2022-04-02T02:00:55.000Z",
-  "updatedAt": "2022-04-02T02:30:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "SENRI Miko"
+  ],
   "Mal": {
+    "createdAt": "2020-12-07T23:39:51.000Z",
+    "updatedAt": "2022-05-15T22:57:08.000Z",
+    "checkedAt": "2022-05-15T22:57:08.000Z",
+    "id": 129280,
+    "type": "manga",
+    "title": "Neko to Kiss",
+    "altTitle": [
+      "Cat and a Kiss",
+      "A Kiss with a Cat",
+      "猫とキス"
+    ],
+    "url": "https://myanimelist.net/manga/129280/Neko_to_Kiss",
+    "image": "https://cdn.myanimelist.net/images/manga/1/249828.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cat and a Kiss",
-      "A Kiss with a Cat",
-      "猫とキス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Senri, Miko"
-    ],
-    "id": 129280,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:55.796Z",
+    "updatedAt": "2022-05-15T22:57:07.000Z",
+    "checkedAt": "2022-05-15T22:57:07.000Z",
+    "id": 122739,
     "type": "manga",
     "title": "Neko to Kiss",
-    "url": "https://myanimelist.net/manga/129280/Neko_to_Kiss",
-    "image": "https://cdn.myanimelist.net/images/manga/1/249828.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-07T23:39:51.000Z",
-    "updatedAt": "2022-04-02T02:01:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Kiss with a Cat",
       "猫とキス",
@@ -52,21 +61,15 @@
       "Neko-Kiss",
       "Cat and a Kiss"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miko Senri"
-    ],
-    "id": 122739,
-    "malId": 129280,
-    "type": "manga",
-    "title": "Neko to Kiss",
     "url": "https://anilist.co/manga/122739",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122739-QwcI4OU04dpp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:24.000Z",
-    "updatedAt": "2022-03-16T09:32:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/129280/Neko_to_Kiss"
+    "externalLinks": [],
+    "malId": 129280,
+    "deletedAt": null,
+    "authors": [
+      "Miko Senri"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamada"
-  ],
+  "createdAt": "2020-10-12T16:07:48.000Z",
+  "updatedAt": "2021-12-04T08:47:37.000Z",
+  "checkedAt": null,
+  "id": 11373,
   "identifier": "fca2f739-dda0-4497-b3fb-9dae069c980c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80449,
   "aniId": 93018,
-  "createdAt": "2020-10-12T16:07:48.000Z",
-  "updatedAt": "2021-12-04T08:47:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T05:48:58.000Z",
+    "updatedAt": "2021-12-04T06:19:57.000Z",
+    "checkedAt": null,
+    "id": 80449,
+    "type": "manga",
+    "title": "Suzuki-san",
+    "altTitle": [
+      "鈴木さん"
+    ],
+    "url": "https://myanimelist.net/manga/80449/Suzuki-san",
+    "image": "https://cdn.myanimelist.net/images/manga/4/139205.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "鈴木さん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada"
-    ],
-    "id": 80449,
-    "type": "manga",
-    "title": "Suzuki-san",
-    "url": "https://myanimelist.net/manga/80449/Suzuki-san",
-    "image": "https://cdn.myanimelist.net/images/manga/4/139205.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T05:48:58.000Z",
-    "updatedAt": "2021-12-04T06:19:57.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:24.546Z",
+    "updatedAt": "2022-05-13T12:51:24.546Z",
+    "checkedAt": null,
+    "id": 93018,
+    "type": "manga",
+    "title": "Suzuki-san",
     "altTitle": [
       "鈴木さん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yamada"
-    ],
-    "id": 93018,
-    "malId": 80449,
-    "type": "manga",
-    "title": "Suzuki-san",
     "url": "https://anilist.co/manga/93018",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93018-qlbtD3qWwcqM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T05:48:59.000Z",
-    "updatedAt": "2021-12-18T00:49:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80449/Suzuki-san"
+    "externalLinks": [],
+    "malId": 80449,
+    "deletedAt": null,
+    "authors": [
+      "Yamada"
+    ]
+  }
 }

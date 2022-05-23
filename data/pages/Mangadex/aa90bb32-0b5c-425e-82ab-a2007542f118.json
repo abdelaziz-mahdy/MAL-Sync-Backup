@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maria"
-  ],
+  "createdAt": "2020-10-12T16:09:51.000Z",
+  "updatedAt": "2021-12-04T20:51:03.000Z",
+  "checkedAt": null,
+  "id": 15849,
   "identifier": "aa90bb32-0b5c-425e-82ab-a2007542f118",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100058,
   "aniId": 97492,
-  "createdAt": "2020-10-12T16:09:51.000Z",
-  "updatedAt": "2021-12-04T20:51:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maria"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:38.000Z",
+    "updatedAt": "2021-11-16T23:57:53.000Z",
+    "checkedAt": null,
+    "id": 100058,
+    "type": "manga",
+    "title": "\"Mi\"-seijuku",
+    "altTitle": [
+      "『未』成熟"
+    ],
+    "url": "https://myanimelist.net/manga/100058/Mi-seijuku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/187401.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "『未』成熟"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maria"
-    ],
-    "id": 100058,
-    "type": "manga",
-    "title": "\"Mi\"-seijuku",
-    "url": "https://myanimelist.net/manga/100058/Mi-seijuku",
-    "image": "https://cdn.myanimelist.net/images/manga/2/187401.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:38.000Z",
-    "updatedAt": "2021-11-16T23:57:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:43.805Z",
+    "updatedAt": "2022-05-13T13:02:43.805Z",
+    "checkedAt": null,
+    "id": 97492,
+    "type": "manga",
+    "title": "\"Mi\" Seijuku",
     "altTitle": [
       "『未』成熟",
       "\"Mi\"-seijuku",
       "Miseijuku",
       "Tegami"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maria"
-    ],
-    "id": 97492,
-    "malId": 100058,
-    "type": "manga",
-    "title": "\"Mi\" Seijuku",
     "url": "https://anilist.co/manga/97492",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97492-A5Ggq2mSaITC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2021-12-18T02:00:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100058/Mi-seijuku"
+    "externalLinks": [],
+    "malId": 100058,
+    "deletedAt": null,
+    "authors": [
+      "Maria"
+    ]
+  }
 }

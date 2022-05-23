@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yasuda Kousuke"
-  ],
+  "createdAt": "2020-10-12T16:14:02.000Z",
+  "updatedAt": "2021-12-06T02:18:20.000Z",
+  "checkedAt": null,
+  "id": 24090,
   "identifier": "122be361-1616-4a5d-9ce8-46a746480cc5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104573,
   "aniId": 101613,
-  "createdAt": "2020-10-12T16:14:02.000Z",
-  "updatedAt": "2021-12-06T02:18:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yasuda Kousuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:57.000Z",
+    "updatedAt": "2022-05-17T02:57:15.000Z",
+    "checkedAt": "2022-05-17T02:57:15.000Z",
+    "id": 104573,
+    "type": "manga",
+    "title": "Jiken-Jaken!",
+    "altTitle": [
+      "じけんじゃけん！"
+    ],
+    "url": "https://myanimelist.net/manga/104573/Jiken-Jaken",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191674.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "じけんじゃけん！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yasuda, Kousuke"
-    ],
-    "id": 104573,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:58.764Z",
+    "updatedAt": "2022-05-17T02:57:13.000Z",
+    "checkedAt": "2022-05-17T02:57:13.000Z",
+    "id": 101613,
     "type": "manga",
     "title": "Jiken-Jaken!",
-    "url": "https://myanimelist.net/manga/104573/Jiken-Jaken",
-    "image": "https://cdn.myanimelist.net/images/manga/2/191674.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:57.000Z",
-    "updatedAt": "2021-12-01T02:37:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "じけんじゃけん！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kousuke Yasuda"
-    ],
-    "id": 101613,
-    "malId": 104573,
-    "type": "manga",
-    "title": "Jiken-Jaken!",
     "url": "https://anilist.co/manga/101613",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101613-5gMocTyAdK4O.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:11.000Z",
-    "updatedAt": "2021-12-18T03:55:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104573/Jiken-Jaken"
+    "externalLinks": [],
+    "malId": 104573,
+    "deletedAt": null,
+    "authors": [
+      "Kousuke Yasuda"
+    ]
+  }
 }

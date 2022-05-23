@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Minami Touko"
-  ],
+  "createdAt": "2020-10-12T16:03:14.000Z",
+  "updatedAt": "2021-12-02T12:47:07.000Z",
+  "checkedAt": null,
+  "id": 1810,
   "identifier": "874310c1-750e-41e4-a1b3-f816dd158238",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22551,
   "aniId": 52551,
-  "createdAt": "2020-10-12T16:03:14.000Z",
-  "updatedAt": "2021-12-02T12:47:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minami Touko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:04.000Z",
+    "updatedAt": "2022-05-16T20:28:54.000Z",
+    "checkedAt": "2022-05-16T20:28:54.000Z",
+    "id": 22551,
+    "type": "manga",
+    "title": "360° Material",
+    "altTitle": [
+      "360 Degrees Material",
+      "Three-sixty Materials",
+      "360°マテリアル"
+    ],
+    "url": "https://myanimelist.net/manga/22551/360°_Material",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "360 Degrees Material",
-      "Three-sixty Materials",
-      "360°マテリアル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minami, Touko"
-    ],
-    "id": 22551,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:40.725Z",
+    "updatedAt": "2022-05-16T20:28:53.000Z",
+    "checkedAt": "2022-05-16T20:28:53.000Z",
+    "id": 52551,
     "type": "manga",
     "title": "360° Material",
-    "url": "https://myanimelist.net/manga/22551/360°_Material",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:04.000Z",
-    "updatedAt": "2022-01-30T17:50:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "360°マテリアル",
       "360 Material",
       "360 Degrees Material"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Touko Minami"
-    ],
-    "id": 52551,
-    "malId": 22551,
-    "type": "manga",
-    "title": "360° Material",
     "url": "https://anilist.co/manga/52551",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52551-Giil7ClPdVMT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:30.000Z",
-    "updatedAt": "2022-02-19T05:17:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22551/360°_Material"
+    "externalLinks": [],
+    "malId": 22551,
+    "deletedAt": null,
+    "authors": [
+      "Touko Minami"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yonezawa Honobu",
-    "Task Ohna"
-  ],
+  "createdAt": "2020-10-12T16:04:52.000Z",
+  "updatedAt": "2021-12-03T00:16:58.000Z",
+  "checkedAt": null,
+  "id": 5193,
   "identifier": "4a251ad9-abfe-456e-9b3b-5f68725d32ad",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41629,
   "aniId": 71629,
-  "createdAt": "2020-10-12T16:04:52.000Z",
-  "updatedAt": "2021-12-03T00:16:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yonezawa Honobu",
+    "Task Ohna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:13.000Z",
+    "updatedAt": "2022-05-15T02:20:27.000Z",
+    "checkedAt": "2022-05-15T02:20:27.000Z",
+    "id": 41629,
+    "type": "manga",
+    "title": "Hyouka",
+    "altTitle": [
+      "Hyoka",
+      "氷菓"
+    ],
+    "url": "https://myanimelist.net/manga/41629/Hyouka",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162612.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hyoka",
-      "氷菓"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yonezawa, Honobu",
       "Ohna, Task"
-    ],
-    "id": 41629,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:04.326Z",
+    "updatedAt": "2022-05-15T20:45:47.000Z",
+    "checkedAt": "2022-05-15T20:45:47.000Z",
+    "id": 71629,
     "type": "manga",
     "title": "Hyouka",
-    "url": "https://myanimelist.net/manga/41629/Hyouka",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162612.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:13.000Z",
-    "updatedAt": "2022-04-18T18:01:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Hyouka",
       "氷菓",
@@ -56,22 +65,16 @@
       "冰果",
       "ปริศนาความทรงจำ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Honobu Yonezawa",
-      "Task Ohna"
-    ],
-    "id": 71629,
-    "malId": 41629,
-    "type": "manga",
-    "title": "Hyouka",
     "url": "https://anilist.co/manga/71629",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71629-b1McvLSvE9X9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:48.000Z",
-    "updatedAt": "2021-12-17T20:26:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41629/Hyouka"
+    "externalLinks": [],
+    "malId": 41629,
+    "deletedAt": null,
+    "authors": [
+      "Honobu Yonezawa",
+      "Task Ohna"
+    ]
+  }
 }

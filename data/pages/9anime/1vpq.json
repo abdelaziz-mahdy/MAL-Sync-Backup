@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:19.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1128,
   "identifier": "1vpq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12883,
   "aniId": 12883,
-  "createdAt": "2020-10-12T15:49:19.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:11.000Z",
+    "updatedAt": "2022-05-14T18:35:53.000Z",
+    "checkedAt": "2022-05-14T18:35:53.000Z",
+    "id": 12883,
+    "type": "anime",
+    "title": "Tsuritama",
+    "altTitle": [
+      "Fishing Ball",
+      "tsuritama",
+      "つり球"
+    ],
+    "url": "https://myanimelist.net/anime/12883/Tsuritama",
+    "image": "https://cdn.myanimelist.net/images/anime/4/69909.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,45 +56,31 @@
         "url": "http://www.crunchyroll.com/series-244256"
       }
     ],
-    "altTitle": [
-      "Fishing Ball",
-      "tsuritama",
-      "つり球"
-    ],
+    "deletedAt": null,
+    "anidbId": 8916
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:13.000Z",
+    "updatedAt": "2022-05-15T11:32:47.000Z",
+    "checkedAt": "2022-05-15T11:32:47.000Z",
     "id": 12883,
     "type": "anime",
     "title": "Tsuritama",
-    "url": "https://myanimelist.net/anime/12883/Tsuritama",
-    "image": "https://cdn.myanimelist.net/images/anime/4/69909.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 8916,
-    "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2022-03-21T22:58:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tsuritama",
       "つり球"
     ],
+    "url": "https://anilist.co/anime/12883",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12883-2aNeQKhtMoVe.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/tsuritama"
       }
     ],
-    "id": 12883,
     "malId": 12883,
-    "type": "anime",
-    "title": "Tsuritama",
-    "url": "https://anilist.co/anime/12883",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12883-2aNeQKhtMoVe.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:40:13.000Z",
-    "updatedAt": "2021-12-17T13:29:23.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/12883/Tsuritama"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SEINO Shizuru"
-  ],
+  "createdAt": "2022-04-03T18:30:25.000Z",
+  "updatedAt": "2022-04-03T19:00:25.000Z",
+  "checkedAt": null,
+  "id": 100615,
   "identifier": "power",
   "type": "manga",
   "page": "MangaFox",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 483,
   "aniId": 30483,
-  "createdAt": "2022-04-03T18:30:25.000Z",
-  "updatedAt": "2022-04-03T19:00:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "SEINO Shizuru"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Girl_Got_Game"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-19T02:21:56.000Z",
+    "checkedAt": "2022-05-19T02:21:56.000Z",
+    "id": 483,
+    "type": "manga",
+    "title": "Power!!",
     "altTitle": [
       "Namida ga Hareru made",
       "Change!",
@@ -32,41 +33,43 @@
       "Girl Got Game",
       "POWER!!"
     ],
-    "authors": [
-      "Seino, Shizuru"
-    ],
-    "id": 483,
-    "type": "manga",
-    "title": "Power!!",
     "url": "https://myanimelist.net/manga/483/Power",
     "image": "https://cdn.myanimelist.net/images/manga/2/144007.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-04-03T18:30:35.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Girl_Got_Game"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Seino, Shizuru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:41.131Z",
+    "updatedAt": "2022-05-19T02:21:55.000Z",
+    "checkedAt": "2022-05-19T02:21:55.000Z",
+    "id": 30483,
+    "type": "manga",
+    "title": "Power!!",
     "altTitle": [
       "Girl Got Game",
       "ＰＯＷＥＲ！！",
       "パワー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shizuru Seino"
-    ],
-    "id": 30483,
-    "malId": 483,
-    "type": "manga",
-    "title": "Power!!",
     "url": "https://anilist.co/manga/30483",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30483-lH6K7qAGWZTW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2021-12-17T09:11:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/483/Power"
+    "externalLinks": [],
+    "malId": 483,
+    "deletedAt": null,
+    "authors": [
+      "Shizuru Seino"
+    ]
+  }
 }

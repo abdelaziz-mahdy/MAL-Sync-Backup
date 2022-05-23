@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nagasaki Takashi",
-    "Urasawa Naoki"
-  ],
+  "createdAt": "2020-10-12T16:04:26.000Z",
+  "updatedAt": "2021-12-02T21:17:27.000Z",
+  "checkedAt": null,
+  "id": 4308,
   "identifier": "ce8a199a-e932-42d2-8783-9722ef3c7d25",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37289,
   "aniId": 67289,
-  "createdAt": "2020-10-12T16:04:26.000Z",
-  "updatedAt": "2021-12-02T21:17:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagasaki Takashi",
+    "Urasawa Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:02.000Z",
+    "updatedAt": "2022-05-21T17:36:08.000Z",
+    "checkedAt": "2022-05-21T17:36:08.000Z",
+    "id": 37289,
+    "type": "manga",
+    "title": "Master Keaton Remaster",
+    "altTitle": [
+      "MASTERキートン Reマスター"
+    ],
+    "url": "https://myanimelist.net/manga/37289/Master_Keaton_Remaster",
+    "image": "https://cdn.myanimelist.net/images/manga/1/148191.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MASTERキートン Reマスター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki",
       "Nagasaki, Takashi"
-    ],
-    "id": 37289,
-    "type": "manga",
-    "title": "Master Keaton Remaster",
-    "url": "https://myanimelist.net/manga/37289/Master_Keaton_Remaster",
-    "image": "https://cdn.myanimelist.net/images/manga/1/148191.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:02.000Z",
-    "updatedAt": "2021-11-05T22:35:33.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:09.173Z",
+    "updatedAt": "2022-05-21T17:36:08.000Z",
+    "checkedAt": "2022-05-21T17:36:08.000Z",
+    "id": 67289,
+    "type": "manga",
+    "title": "MASTER Keaton Remaster",
     "altTitle": [
       "MASTERキートン Reマスター"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Urasawa",
-      "Takashi Nagasaki",
-      "Thibaud Desbief"
-    ],
-    "id": 67289,
-    "malId": 37289,
-    "type": "manga",
-    "title": "MASTER Keaton Remaster",
     "url": "https://anilist.co/manga/67289",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/67289-cJPNB78CjJ9R.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:31.000Z",
-    "updatedAt": "2021-11-23T18:05:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/37289/Master_Keaton_Remaster"
+    "externalLinks": [],
+    "malId": 37289,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Urasawa",
+      "Takashi Nagasaki",
+      "Thibaud Desbief"
+    ]
+  }
 }

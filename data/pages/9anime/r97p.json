@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:31.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8837,
   "identifier": "r97p",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33840,
   "aniId": 87500,
-  "createdAt": "2020-10-12T15:55:31.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:48.000Z",
+    "updatedAt": "2022-05-14T23:31:17.000Z",
+    "checkedAt": "2022-05-14T23:31:17.000Z",
+    "id": 33840,
+    "type": "anime",
+    "title": "Kabuki-bu!",
+    "altTitle": [
+      "Kabukibu!",
+      "カブキブ！"
+    ],
+    "url": "https://myanimelist.net/anime/33840/Kabuki-bu",
+    "image": "https://cdn.myanimelist.net/images/anime/4/85291.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,26 +55,23 @@
         "url": "https://www.hidive.com/tv/kabukibu"
       }
     ],
-    "altTitle": [
-      "Kabukibu!",
-      "カブキブ！"
-    ],
-    "id": 33840,
-    "type": "anime",
-    "title": "Kabuki-bu!",
-    "url": "https://myanimelist.net/anime/33840/Kabuki-bu",
-    "image": "https://cdn.myanimelist.net/images/anime/4/85291.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12329,
-    "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2022-03-24T04:58:05.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 12329
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:13.000Z",
+    "updatedAt": "2022-05-15T15:54:35.000Z",
+    "checkedAt": "2022-05-15T15:54:35.000Z",
+    "id": 87500,
+    "type": "anime",
+    "title": "Kabukibu!",
     "altTitle": [
       "カブキブ！"
     ],
+    "url": "https://anilist.co/anime/87500",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx87500-TReQh6wv4ZXt.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -69,17 +82,7 @@
         "url": "https://vrv.co/series/GYQWM0M7Y/Kabukibu"
       }
     ],
-    "id": 87500,
     "malId": 33840,
-    "type": "anime",
-    "title": "Kabukibu!",
-    "url": "https://anilist.co/anime/87500",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx87500-TReQh6wv4ZXt.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:13.000Z",
-    "updatedAt": "2021-12-17T15:26:45.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/33840/Kabuki-bu"
+  }
 }

@@ -1,11 +1,8 @@
 {
-  "authors": [
-    "Various",
-    "Im Dal-Young",
-    "Kim Kwang Hyun",
-    "Lee Soo Hyun",
-    "Lee Hae Won"
-  ],
+  "createdAt": "2020-10-12T16:10:20.000Z",
+  "updatedAt": "2021-12-05T00:20:41.000Z",
+  "checkedAt": null,
+  "id": 16905,
   "identifier": "5f69cec5-a56b-4875-8ec8-693d99e02570",
   "type": "manga",
   "page": "Mangadex",
@@ -15,57 +12,63 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30847,
   "aniId": 60847,
-  "createdAt": "2020-10-12T16:10:20.000Z",
-  "updatedAt": "2021-12-05T00:20:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Various",
+    "Im Dal-Young",
+    "Kim Kwang Hyun",
+    "Lee Soo Hyun",
+    "Lee Hae Won"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-11-05T00:34:51.000Z",
+    "checkedAt": null,
+    "id": 30847,
+    "type": "manga",
+    "title": "Cross Make",
     "altTitle": [
       "クロス・メイク"
     ],
+    "url": "https://myanimelist.net/manga/30847/Cross_Make",
+    "image": "https://cdn.myanimelist.net/images/manga/1/62409.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Im, Dal Young",
       "Lee, Soo Hyun",
       "Kim, Kwang Hyun",
       "Lee, Hae Won"
-    ],
-    "id": 30847,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:23.512Z",
+    "updatedAt": "2022-05-13T12:59:23.512Z",
+    "checkedAt": null,
+    "id": 60847,
     "type": "manga",
     "title": "Cross Make",
-    "url": "https://myanimelist.net/manga/30847/Cross_Make",
-    "image": "https://cdn.myanimelist.net/images/manga/1/62409.jpg",
-    "category": "Doujinshi",
-    "hentai": true,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-11-05T00:34:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クロス・メイク"
     ],
+    "url": "https://anilist.co/manga/60847",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60847-SIYFla57XdXW.jpg",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 30847,
+    "deletedAt": null,
     "authors": [
       "Dal-Young Im",
       "Su-Hyeon Lee",
       "Kwang-Hyun Kim",
       "Hae Won Lee"
-    ],
-    "id": 60847,
-    "malId": 30847,
-    "type": "manga",
-    "title": "Cross Make",
-    "url": "https://anilist.co/manga/60847",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60847-SIYFla57XdXW.jpg",
-    "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:47:42.000Z",
-    "updatedAt": "2021-12-17T19:18:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30847/Cross_Make"
+    ]
+  }
 }

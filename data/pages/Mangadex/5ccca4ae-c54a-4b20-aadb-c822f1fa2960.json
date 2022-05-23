@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakaki Ichirou",
-    "Kajiya Kiri"
-  ],
+  "createdAt": "2020-10-12T16:06:50.000Z",
+  "updatedAt": "2021-12-03T22:49:59.000Z",
+  "checkedAt": null,
+  "id": 9333,
   "identifier": "5ccca4ae-c54a-4b20-aadb-c822f1fa2960",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60487,
   "aniId": 89052,
-  "createdAt": "2020-10-12T16:06:50.000Z",
-  "updatedAt": "2021-12-03T22:49:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakaki Ichirou",
+    "Kajiya Kiri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:55.000Z",
+    "updatedAt": "2022-05-19T10:33:07.000Z",
+    "checkedAt": "2022-05-19T10:33:07.000Z",
+    "id": 60487,
+    "type": "manga",
+    "title": "Outbreak Company: Moeru Shinryakusha",
+    "altTitle": [
+      "アウトブレイク・カンパニー 萌える侵略者"
+    ],
+    "url": "https://myanimelist.net/manga/60487/Outbreak_Company__Moeru_Shinryakusha",
+    "image": "https://cdn.myanimelist.net/images/manga/3/104275.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アウトブレイク・カンパニー 萌える侵略者"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakaki, Ichirou",
       "Kajiya, Kiri"
-    ],
-    "id": 60487,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:27.769Z",
+    "updatedAt": "2022-05-19T10:33:06.000Z",
+    "checkedAt": "2022-05-19T10:33:06.000Z",
+    "id": 89052,
     "type": "manga",
     "title": "Outbreak Company: Moeru Shinryakusha",
-    "url": "https://myanimelist.net/manga/60487/Outbreak_Company__Moeru_Shinryakusha",
-    "image": "https://cdn.myanimelist.net/images/manga/3/104275.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2022-02-01T14:50:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アウトブレイク・カンパニー 萌える侵略者"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichirou Sakaki",
-      "Kiri Kajiya",
-      "Yuugen"
-    ],
-    "id": 89052,
-    "malId": 60487,
-    "type": "manga",
-    "title": "Outbreak Company: Moeru Shinryakusha",
     "url": "https://anilist.co/manga/89052",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89052-Ri6AXHwnRH2A.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:39.000Z",
-    "updatedAt": "2021-12-17T23:52:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60487/Outbreak_Company__Moeru_Shinryakusha"
+    "externalLinks": [],
+    "malId": 60487,
+    "deletedAt": null,
+    "authors": [
+      "Ichirou Sakaki",
+      "Kiri Kajiya",
+      "Yuugen"
+    ]
+  }
 }

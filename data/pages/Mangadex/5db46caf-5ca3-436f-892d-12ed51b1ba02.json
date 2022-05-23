@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takao Shigeru"
-  ],
+  "createdAt": "2020-10-12T16:03:42.000Z",
+  "updatedAt": "2021-12-02T16:16:45.000Z",
+  "checkedAt": null,
+  "id": 2786,
   "identifier": "5db46caf-5ca3-436f-892d-12ed51b1ba02",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5454,
   "aniId": 35454,
-  "createdAt": "2020-10-12T16:03:42.000Z",
-  "updatedAt": "2021-12-02T16:16:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takao Shigeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:05.000Z",
+    "updatedAt": "2022-05-23T16:47:34.000Z",
+    "checkedAt": "2022-05-23T16:47:34.000Z",
+    "id": 5454,
+    "type": "manga",
+    "title": "Golden Days",
+    "altTitle": [
+      "ゴールデン・デイズ"
+    ],
+    "url": "https://myanimelist.net/manga/5454/Golden_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175483.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ゴールデン・デイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takao, Shigeru"
-    ],
-    "id": 5454,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:53.871Z",
+    "updatedAt": "2022-05-23T16:47:33.000Z",
+    "checkedAt": "2022-05-23T16:47:33.000Z",
+    "id": 35454,
     "type": "manga",
     "title": "Golden Days",
-    "url": "https://myanimelist.net/manga/5454/Golden_Days",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175483.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:05.000Z",
-    "updatedAt": "2022-03-25T07:27:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ゴールデン.デイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigeru Takao"
-    ],
-    "id": 35454,
-    "malId": 5454,
-    "type": "manga",
-    "title": "Golden Days",
     "url": "https://anilist.co/manga/35454",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b35454-2qHrUQGMP82i.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:28.000Z",
-    "updatedAt": "2021-12-17T12:20:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5454/Golden_Days"
+    "externalLinks": [],
+    "malId": 5454,
+    "deletedAt": null,
+    "authors": [
+      "Shigeru Takao"
+    ]
+  }
 }

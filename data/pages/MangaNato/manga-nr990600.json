@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Go Eun Chae"
-  ],
+  "createdAt": "2022-03-23T20:57:34.000Z",
+  "updatedAt": "2022-03-28T07:27:51.000Z",
+  "checkedAt": null,
+  "id": 99899,
   "identifier": "manga-nr990600",
   "type": "manga",
   "page": "MangaNato",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 127084,
-  "createdAt": "2022-03-23T20:57:34.000Z",
-  "updatedAt": "2022-03-28T07:27:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Go Eun Chae"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:19.478Z",
+    "updatedAt": "2022-05-16T00:50:36.000Z",
+    "checkedAt": "2022-05-16T00:50:36.000Z",
+    "id": 127084,
+    "type": "manga",
+    "title": "Namjuui Eommaga Doeeobeolyeossda",
     "altTitle": [
       "I Married the Male Lead's Dad",
       "남주의 엄마가 되어버렸다",
@@ -27,24 +35,18 @@
       "Me convertí en la mamá del héroe",
       "I Became the Male Lead’s Stepmother"
     ],
+    "url": "https://anilist.co/manga/127084",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127084-JTTaM76qtuai.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Eongsu",
       "Eun-Chae Go",
       "Sano",
       "Gyammi"
-    ],
-    "id": 127084,
-    "malId": null,
-    "type": "manga",
-    "title": "Namjuui Eommaga Doeeobeolyeossda",
-    "url": "https://anilist.co/manga/127084",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127084-JTTaM76qtuai.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-24T10:08:18.000Z",
-    "updatedAt": "2022-03-28T07:27:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

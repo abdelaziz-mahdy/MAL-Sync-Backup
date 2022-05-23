@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kadono Kouhei"
-  ],
+  "createdAt": "2022-01-30T05:20:49.000Z",
+  "updatedAt": "2022-01-30T05:50:39.000Z",
+  "checkedAt": null,
+  "id": 95543,
   "identifier": "manga-jr960100",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 691,
   "aniId": 30691,
-  "createdAt": "2022-01-30T05:20:49.000Z",
-  "updatedAt": "2022-01-30T05:50:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kadono Kouhei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-20T11:23:00.000Z",
+    "checkedAt": "2022-05-20T11:23:00.000Z",
+    "id": 691,
+    "type": "manga",
+    "title": "Boogiepop wa Warawanai",
+    "altTitle": [
+      "Boogiepop Never Laughs",
+      "Boogiepop and Others",
+      "Boogiepop Doesn't Laugh",
+      "ブギーポップは笑わない"
+    ],
+    "url": "https://myanimelist.net/manga/691/Boogiepop_wa_Warawanai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/215763.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Boogiepop Never Laughs",
-      "Boogiepop and Others",
-      "Boogiepop Doesn't Laugh",
-      "ブギーポップは笑わない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kadono, Kouhei",
       "Ogata, Kouji"
-    ],
-    "id": 691,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:06.453Z",
+    "updatedAt": "2022-05-20T11:22:59.000Z",
+    "checkedAt": "2022-05-20T11:22:59.000Z",
+    "id": 30691,
     "type": "manga",
     "title": "Boogiepop wa Warawanai",
-    "url": "https://myanimelist.net/manga/691/Boogiepop_wa_Warawanai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/215763.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-01-30T05:20:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Boogiepop Doesn't Laugh",
       "ブギーポップは笑わない",
       "Boogiepop Never Laughs"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouhei Kadono",
-      "Kouji Ogata"
-    ],
-    "id": 30691,
-    "malId": 691,
-    "type": "manga",
-    "title": "Boogiepop wa Warawanai",
     "url": "https://anilist.co/manga/30691",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30691-YOywHTyQnTWg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2021-12-17T09:32:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/691/Boogiepop_wa_Warawanai"
+    "externalLinks": [],
+    "malId": 691,
+    "deletedAt": null,
+    "authors": [
+      "Kouhei Kadono",
+      "Kouji Ogata"
+    ]
+  }
 }

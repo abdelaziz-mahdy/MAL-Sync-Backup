@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "YASUDA Tsuyoshi"
-  ],
+  "createdAt": "2021-06-29T08:21:44.000Z",
+  "updatedAt": "2021-12-29T09:02:39.000Z",
+  "checkedAt": null,
+  "id": 80105,
   "identifier": "days",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 61009,
   "aniId": 86600,
-  "createdAt": "2021-06-29T08:21:44.000Z",
-  "updatedAt": "2021-12-29T09:02:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "YASUDA Tsuyoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:57.000Z",
+    "updatedAt": "2022-05-14T10:02:19.000Z",
+    "checkedAt": "2022-05-14T10:02:19.000Z",
+    "id": 61009,
+    "type": "manga",
+    "title": "Days",
+    "altTitle": [
+      "Days",
+      "DAYS"
+    ],
+    "url": "https://myanimelist.net/manga/61009/Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/164463.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Days",
-      "DAYS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yasuda, Tsuyoshi"
-    ],
-    "id": 61009,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:45.196Z",
+    "updatedAt": "2022-05-17T21:16:30.000Z",
+    "checkedAt": "2022-05-17T21:16:30.000Z",
+    "id": 86600,
     "type": "manga",
     "title": "Days",
-    "url": "https://myanimelist.net/manga/61009/Days",
-    "image": "https://cdn.myanimelist.net/images/manga/3/164463.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:57.000Z",
-    "updatedAt": "2022-04-19T20:02:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Days",
       "デイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsuyoshi Yasuda"
-    ],
-    "id": 86600,
-    "malId": 61009,
-    "type": "manga",
-    "title": "Days",
     "url": "https://anilist.co/manga/86600",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86600-22xv3IewBq4T.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2021-12-17T22:54:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/61009/Days"
+    "externalLinks": [],
+    "malId": 61009,
+    "deletedAt": null,
+    "authors": [
+      "Tsuyoshi Yasuda"
+    ]
+  }
 }

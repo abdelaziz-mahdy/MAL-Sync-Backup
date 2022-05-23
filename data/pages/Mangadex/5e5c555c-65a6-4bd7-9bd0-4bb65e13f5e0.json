@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakaguchi Hisashi"
-  ],
+  "createdAt": "2021-03-08T11:10:42.000Z",
+  "updatedAt": "2021-12-08T12:39:00.000Z",
+  "checkedAt": null,
+  "id": 64929,
   "identifier": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 47391,
   "aniId": 77391,
-  "createdAt": "2021-03-08T11:10:42.000Z",
-  "updatedAt": "2021-12-08T12:39:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakaguchi Hisashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:29.000Z",
+    "updatedAt": "2022-05-15T18:14:47.000Z",
+    "checkedAt": "2022-05-15T18:14:47.000Z",
+    "id": 47391,
+    "type": "manga",
+    "title": "Version",
+    "altTitle": [
+      "Version",
+      "VERSION"
+    ],
+    "url": "https://myanimelist.net/manga/47391/Version",
+    "image": "https://cdn.myanimelist.net/images/manga/1/83555.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Version",
-      "VERSION"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakaguchi, Hisashi"
-    ],
-    "id": 47391,
-    "type": "manga",
-    "title": "Version",
-    "url": "https://myanimelist.net/manga/47391/Version",
-    "image": "https://cdn.myanimelist.net/images/manga/1/83555.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:29.000Z",
-    "updatedAt": "2022-02-28T20:18:55.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:44.755Z",
+    "updatedAt": "2022-05-15T20:32:35.000Z",
+    "checkedAt": "2022-05-15T20:32:35.000Z",
+    "id": 77391,
+    "type": "manga",
+    "title": "VERSION",
     "altTitle": [
       "Version",
       "VERSION"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hisashi Sakaguchi"
-    ],
-    "id": 77391,
-    "malId": 47391,
-    "type": "manga",
-    "title": "VERSION",
     "url": "https://anilist.co/manga/77391",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47391.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:36.000Z",
-    "updatedAt": "2022-03-16T09:14:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/47391/Version"
+    "externalLinks": [],
+    "malId": 47391,
+    "deletedAt": null,
+    "authors": [
+      "Hisashi Sakaguchi"
+    ]
+  }
 }

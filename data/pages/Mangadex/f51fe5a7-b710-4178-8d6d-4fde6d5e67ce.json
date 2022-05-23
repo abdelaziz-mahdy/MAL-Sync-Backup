@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Wang Tao"
-  ],
+  "createdAt": "2020-10-12T16:19:00.000Z",
+  "updatedAt": "2021-12-07T21:37:20.000Z",
+  "checkedAt": null,
+  "id": 34322,
   "identifier": "f51fe5a7-b710-4178-8d6d-4fde6d5e67ce",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14618,
   "aniId": 44618,
-  "createdAt": "2020-10-12T16:19:00.000Z",
-  "updatedAt": "2021-12-07T21:37:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wang Tao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:07.000Z",
+    "updatedAt": "2022-02-23T02:47:40.000Z",
+    "checkedAt": null,
+    "id": 14618,
+    "type": "manga",
+    "title": "Wilderness",
+    "altTitle": [
+      "ワイルダネス"
+    ],
+    "url": "https://myanimelist.net/manga/14618/Wilderness",
+    "image": "https://cdn.myanimelist.net/images/manga/4/76253.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ワイルダネス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itou, Akihiro"
-    ],
-    "id": 14618,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:04.950Z",
+    "updatedAt": "2022-05-13T12:49:04.950Z",
+    "checkedAt": null,
+    "id": 44618,
     "type": "manga",
     "title": "Wilderness",
-    "url": "https://myanimelist.net/manga/14618/Wilderness",
-    "image": "https://cdn.myanimelist.net/images/manga/4/76253.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:07.000Z",
-    "updatedAt": "2022-02-23T02:47:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ワイルダネス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akihiro Itou"
-    ],
-    "id": 44618,
-    "malId": 14618,
-    "type": "manga",
-    "title": "Wilderness",
     "url": "https://anilist.co/manga/44618",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14618.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:38.000Z",
-    "updatedAt": "2021-12-17T15:37:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14618/Wilderness"
+    "externalLinks": [],
+    "malId": 14618,
+    "deletedAt": null,
+    "authors": [
+      "Akihiro Itou"
+    ]
+  }
 }

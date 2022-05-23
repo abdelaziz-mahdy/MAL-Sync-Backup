@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:58.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2029,
   "identifier": "405o",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30751,
   "aniId": 102103,
-  "createdAt": "2020-10-12T15:49:58.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:36.000Z",
+    "updatedAt": "2022-04-03T06:01:57.000Z",
+    "checkedAt": null,
+    "id": 30751,
+    "type": "anime",
+    "title": "Usavich Zero",
+    "altTitle": [
+      "Usavich 0",
+      "ウサビッチZERO"
+    ],
+    "url": "https://myanimelist.net/anime/30751/Usavich_Zero",
+    "image": "https://cdn.myanimelist.net/images/anime/11/73969.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,38 +46,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Usavich 0",
-      "ウサビッチZERO"
-    ],
-    "id": 30751,
-    "type": "anime",
-    "title": "Usavich Zero",
-    "url": "https://myanimelist.net/anime/30751/Usavich_Zero",
-    "image": "https://cdn.myanimelist.net/images/anime/11/73969.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11750,
-    "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2022-04-03T06:01:57.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 11750
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:55.000Z",
+    "updatedAt": "2021-12-17T16:25:55.000Z",
+    "checkedAt": null,
+    "id": 102103,
+    "type": "anime",
+    "title": "Usavich Zero",
     "altTitle": [
       "ウサビッチZERO"
     ],
-    "externalLinks": [],
-    "id": 102103,
-    "malId": 30751,
-    "type": "anime",
-    "title": "Usavich Zero",
     "url": "https://anilist.co/anime/102103",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102103-Qv9oyzizokgc.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:55.000Z",
-    "updatedAt": "2021-12-17T16:25:55.000Z",
+    "externalLinks": [],
+    "malId": 30751,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30751/Usavich_Zero"
+  }
 }

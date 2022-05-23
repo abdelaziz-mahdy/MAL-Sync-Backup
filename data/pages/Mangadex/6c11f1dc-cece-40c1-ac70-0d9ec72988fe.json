@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aoi Akira"
-  ],
+  "createdAt": "2020-10-12T16:08:24.000Z",
+  "updatedAt": "2021-12-04T10:19:49.000Z",
+  "checkedAt": null,
+  "id": 12706,
   "identifier": "6c11f1dc-cece-40c1-ac70-0d9ec72988fe",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87177,
   "aniId": 86970,
-  "createdAt": "2020-10-12T16:08:24.000Z",
-  "updatedAt": "2021-12-04T10:19:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aoi Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:54.000Z",
+    "updatedAt": "2021-12-08T18:33:49.000Z",
+    "checkedAt": null,
+    "id": 87177,
+    "type": "manga",
+    "title": "Duel!",
+    "altTitle": [
+      "DUEL!"
+    ],
+    "url": "https://myanimelist.net/manga/87177/Duel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/159650.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DUEL!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asahi, Rintarou"
-    ],
-    "id": 87177,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:21.241Z",
+    "updatedAt": "2022-05-13T13:00:21.241Z",
+    "checkedAt": null,
+    "id": 86970,
     "type": "manga",
     "title": "Duel!",
-    "url": "https://myanimelist.net/manga/87177/Duel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/159650.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:54.000Z",
-    "updatedAt": "2021-12-08T18:33:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Duel!",
       "DUEL!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Aoi"
-    ],
-    "id": 86970,
-    "malId": 87177,
-    "type": "manga",
-    "title": "Duel!",
     "url": "https://anilist.co/manga/86970",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56970-hAtPyKHuTogG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:47.000Z",
-    "updatedAt": "2021-12-17T23:01:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87177/Duel"
+    "externalLinks": [],
+    "malId": 87177,
+    "deletedAt": null,
+    "authors": [
+      "Akira Aoi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TAOKA Muneaki"
-  ],
+  "createdAt": "2022-05-07T15:31:27.000Z",
+  "updatedAt": "2022-05-13T16:32:28.000Z",
+  "checkedAt": "2022-05-13T16:30:42.000Z",
+  "id": 103084,
   "identifier": "kouya_no_kotobuki_hikoutai",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,67 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/36652/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T15:31:27.000Z",
-  "updatedAt": "2022-05-07T15:31:27.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 119581,
+  "aniId": 116161,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "TAOKA Muneaki"
+  ],
+  "Mal": {
+    "createdAt": "2020-11-28T04:31:40.000Z",
+    "updatedAt": "2022-05-13T16:30:44.000Z",
+    "checkedAt": "2022-05-13T16:30:44.000Z",
+    "id": 119581,
+    "type": "manga",
+    "title": "Kouya no Kotobuki Hikoutai",
+    "altTitle": [
+      "荒野のコトブキ飛行隊"
+    ],
+    "url": "https://myanimelist.net/manga/119581/Kouya_no_Kotobuki_Hikoutai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/241547.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/10834108156652399003"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD%E9%A3%9B%E8%A1%8C%E9%9A%8A"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sugie, Tsubasa",
+      "Taoka, Muneaki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:02.335Z",
+    "updatedAt": "2022-05-13T13:01:02.335Z",
+    "checkedAt": null,
+    "id": 116161,
+    "type": "manga",
+    "title": "Kouya no Kotobuki Hikoutai",
+    "altTitle": [
+      "荒野のコトブキ飛行隊",
+      "The Kotobuki Squadron in the Wilderness",
+      "The Magnificent Kotobuki"
+    ],
+    "url": "https://anilist.co/manga/116161",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116161-LQidbMestYEN.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 119581,
+    "deletedAt": null,
+    "authors": [
+      "Muneaki Taoka",
+      "Tasuku Sugie"
+    ]
+  }
 }

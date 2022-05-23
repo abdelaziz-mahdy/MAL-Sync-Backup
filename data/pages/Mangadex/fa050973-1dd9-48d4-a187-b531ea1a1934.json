@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Isomi Jingetsu"
-  ],
+  "createdAt": "2020-10-12T16:07:30.000Z",
+  "updatedAt": "2021-12-04T03:50:10.000Z",
+  "checkedAt": null,
+  "id": 10772,
   "identifier": "fa050973-1dd9-48d4-a187-b531ea1a1934",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 71691,
   "aniId": 91458,
-  "createdAt": "2020-10-12T16:07:30.000Z",
-  "updatedAt": "2021-12-04T03:50:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Isomi Jingetsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-05-22T04:24:06.000Z",
+    "checkedAt": "2022-05-22T04:24:06.000Z",
+    "id": 71691,
+    "type": "manga",
+    "title": "Chrono Monochrome",
+    "altTitle": [
+      "クロノ・モノクローム"
+    ],
+    "url": "https://myanimelist.net/manga/71691/Chrono_Monochrome",
+    "image": "https://cdn.myanimelist.net/images/manga/2/123581.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "クロノ・モノクローム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Isomi, Jingetsu"
-    ],
-    "id": 71691,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:48.682Z",
+    "updatedAt": "2022-05-22T04:24:04.000Z",
+    "checkedAt": "2022-05-22T04:24:04.000Z",
+    "id": 91458,
     "type": "manga",
     "title": "Chrono Monochrome",
-    "url": "https://myanimelist.net/manga/71691/Chrono_Monochrome",
-    "image": "https://cdn.myanimelist.net/images/manga/2/123581.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-03-07T23:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クロノ・モノクローム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jingetsu Isomi"
-    ],
-    "id": 91458,
-    "malId": 71691,
-    "type": "manga",
-    "title": "Chrono Monochrome",
     "url": "https://anilist.co/manga/91458",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91458-rvflzA4XkDKK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:34.000Z",
-    "updatedAt": "2021-12-18T00:23:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/71691/Chrono_Monochrome"
+    "externalLinks": [],
+    "malId": 71691,
+    "deletedAt": null,
+    "authors": [
+      "Jingetsu Isomi"
+    ]
+  }
 }

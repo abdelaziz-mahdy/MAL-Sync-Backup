@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hitoma Iruma",
-    "Mani"
-  ],
+  "createdAt": "2021-06-03T14:49:38.000Z",
+  "updatedAt": "2021-12-03T15:50:50.000Z",
+  "checkedAt": null,
+  "id": 76146,
   "identifier": "manga-dn981170",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98753,
   "aniId": 98797,
-  "createdAt": "2021-06-03T14:49:38.000Z",
-  "updatedAt": "2021-12-03T15:50:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hitoma Iruma",
+    "Mani"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:31.000Z",
+    "updatedAt": "2022-05-14T20:47:23.000Z",
+    "checkedAt": "2022-05-14T20:47:23.000Z",
+    "id": 98753,
+    "type": "manga",
+    "title": "Adachi to Shimamura",
+    "altTitle": [
+      "安達としまむら"
+    ],
+    "url": "https://myanimelist.net/manga/98753/Adachi_to_Shimamura",
+    "image": "https://cdn.myanimelist.net/images/manga/2/187217.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "安達としまむら"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iruma, Hitoma",
       "Mani"
-    ],
-    "id": 98753,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:58.434Z",
+    "updatedAt": "2022-05-15T22:40:11.000Z",
+    "checkedAt": "2022-05-15T22:40:11.000Z",
+    "id": 98797,
     "type": "manga",
     "title": "Adachi to Shimamura",
-    "url": "https://myanimelist.net/manga/98753/Adachi_to_Shimamura",
-    "image": "https://cdn.myanimelist.net/images/manga/2/187217.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:31.000Z",
-    "updatedAt": "2021-12-03T15:20:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "安達としまむら",
       "Adachi and Shimamura",
       "กระซิบรักจากอาดาจิถึงชิมามุระ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mani",
-      "Hitoma Iruma",
-      "Nozomi Ousaka"
-    ],
-    "id": 98797,
-    "malId": 98753,
-    "type": "manga",
-    "title": "Adachi to Shimamura",
     "url": "https://anilist.co/manga/98797",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98797-jVk1VZtvdoXV.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:39.000Z",
-    "updatedAt": "2022-01-25T13:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98753/Adachi_to_Shimamura"
+    "externalLinks": [],
+    "malId": 98753,
+    "deletedAt": null,
+    "authors": [
+      "Mani",
+      "Hitoma Iruma",
+      "Nozomi Ousaka"
+    ]
+  }
 }

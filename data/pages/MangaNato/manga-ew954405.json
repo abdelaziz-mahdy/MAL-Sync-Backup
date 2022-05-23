@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mitsuda Takuya"
-  ],
+  "createdAt": "2021-07-08T15:44:04.000Z",
+  "updatedAt": "2022-01-08T16:18:05.000Z",
+  "checkedAt": null,
+  "id": 81281,
   "identifier": "manga-ew954405",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87201,
   "aniId": 86144,
-  "createdAt": "2021-07-08T15:44:04.000Z",
-  "updatedAt": "2022-01-08T16:18:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mitsuda Takuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:54.000Z",
+    "updatedAt": "2022-05-19T07:56:54.000Z",
+    "checkedAt": "2022-05-19T07:56:54.000Z",
+    "id": 87201,
+    "type": "manga",
+    "title": "Major 2nd",
+    "altTitle": [
+      "MAJOR 2nd"
+    ],
+    "url": "https://myanimelist.net/manga/87201/Major_2nd",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157412.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +44,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MAJOR 2nd"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mitsuda, Takuya"
-    ],
-    "id": 87201,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:04.209Z",
+    "updatedAt": "2022-05-19T07:56:52.000Z",
+    "checkedAt": "2022-05-19T07:56:52.000Z",
+    "id": 86144,
     "type": "manga",
     "title": "Major 2nd",
-    "url": "https://myanimelist.net/manga/87201/Major_2nd",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157412.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:54.000Z",
-    "updatedAt": "2022-01-08T15:48:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "MAJOR 2nd",
       "メジャーセカンド",
       "메이저 세컨드"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takuya Mitsuda",
-      "Gyeong-Hwa O"
-    ],
-    "id": 86144,
-    "malId": 87201,
-    "type": "manga",
-    "title": "Major 2nd",
     "url": "https://anilist.co/manga/86144",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86144-H6HmEdTaAu8O.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:47.000Z",
-    "updatedAt": "2022-01-08T09:49:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87201/Major_2nd"
+    "externalLinks": [],
+    "malId": 87201,
+    "deletedAt": null,
+    "authors": [
+      "Takuya Mitsuda",
+      "Gyeong-Hwa O"
+    ]
+  }
 }

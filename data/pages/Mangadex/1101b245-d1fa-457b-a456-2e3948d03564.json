@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "이삼"
-  ],
+  "createdAt": "2020-10-12T16:14:27.000Z",
+  "updatedAt": "2021-12-06T10:49:41.000Z",
+  "checkedAt": null,
+  "id": 24945,
   "identifier": "1101b245-d1fa-457b-a456-2e3948d03564",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 115850,
-  "createdAt": "2020-10-12T16:14:27.000Z",
-  "updatedAt": "2021-12-06T10:49:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "이삼"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:01.964Z",
+    "updatedAt": "2022-05-13T12:56:01.964Z",
+    "checkedAt": null,
+    "id": 115850,
+    "type": "manga",
+    "title": "Hollo",
     "altTitle": [
       "홀로",
       "By Myself"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sam Lee"
-    ],
-    "id": 115850,
-    "malId": null,
-    "type": "manga",
-    "title": "Hollo",
     "url": "https://anilist.co/manga/115850",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115850-pfyUzDJw84Lp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-06T05:19:28.000Z",
-    "updatedAt": "2021-12-21T15:26:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Sam Lee"
+    ]
+  }
 }

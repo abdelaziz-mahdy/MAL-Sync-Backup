@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morishita Makoto"
-  ],
+  "createdAt": "2020-10-12T16:08:23.000Z",
+  "updatedAt": "2021-12-04T09:48:28.000Z",
+  "checkedAt": null,
+  "id": 12685,
   "identifier": "bbf86771-a355-4677-861e-5c868de626ec",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87006,
   "aniId": 98013,
-  "createdAt": "2020-10-12T16:08:23.000Z",
-  "updatedAt": "2021-12-04T09:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morishita Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:53.000Z",
+    "updatedAt": "2022-05-15T23:52:43.000Z",
+    "checkedAt": "2022-05-15T23:52:43.000Z",
+    "id": 87006,
+    "type": "manga",
+    "title": "Im",
+    "altTitle": [
+      "Im: The Great Priest Imhotep",
+      "Im～イム～"
+    ],
+    "url": "https://myanimelist.net/manga/87006/Im",
+    "image": "https://cdn.myanimelist.net/images/manga/2/160713.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Im: The Great Priest Imhotep",
-      "Im～イム～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morishita, Makoto"
-    ],
-    "id": 87006,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:33.723Z",
+    "updatedAt": "2022-05-15T23:52:42.000Z",
+    "checkedAt": "2022-05-15T23:52:42.000Z",
+    "id": 98013,
     "type": "manga",
     "title": "Im",
-    "url": "https://myanimelist.net/manga/87006/Im",
-    "image": "https://cdn.myanimelist.net/images/manga/2/160713.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:53.000Z",
-    "updatedAt": "2022-04-12T14:00:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Im: Great Priest Imhotep",
       "Im～イム～",
@@ -53,24 +62,18 @@
       "IM: Wielki Kapłan Imhotep",
       "Im el Sumo Sacerdote Imhotep"
     ],
+    "url": "https://anilist.co/manga/98013",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98013-QLk2qRKY68V3.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 87006,
+    "deletedAt": null,
     "authors": [
       "Makoto Morishita",
       "Rochelle Gancio",
       "Amanda Haley",
       "Jesús Espí"
-    ],
-    "id": 98013,
-    "malId": 87006,
-    "type": "manga",
-    "title": "Im",
-    "url": "https://anilist.co/manga/98013",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98013-QLk2qRKY68V3.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:47.000Z",
-    "updatedAt": "2022-03-01T00:37:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87006/Im"
+    ]
+  }
 }

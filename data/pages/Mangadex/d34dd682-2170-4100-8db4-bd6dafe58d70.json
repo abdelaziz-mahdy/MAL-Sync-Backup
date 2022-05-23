@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Obana Miho"
-  ],
+  "createdAt": "2020-10-12T16:03:37.000Z",
+  "updatedAt": "2021-12-02T15:48:42.000Z",
+  "checkedAt": null,
+  "id": 2631,
   "identifier": "d34dd682-2170-4100-8db4-bd6dafe58d70",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1256,
   "aniId": 31256,
-  "createdAt": "2020-10-12T16:03:37.000Z",
-  "updatedAt": "2021-12-02T15:48:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Obana Miho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-22T17:44:39.000Z",
+    "checkedAt": "2022-05-22T17:44:39.000Z",
+    "id": 1256,
+    "type": "manga",
+    "title": "Partner",
+    "altTitle": [
+      "パートナー"
+    ],
+    "url": "https://myanimelist.net/manga/1256/Partner",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175902.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "パートナー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Obana, Miho"
-    ],
-    "id": 1256,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:10.952Z",
+    "updatedAt": "2022-05-22T17:44:38.000Z",
+    "checkedAt": "2022-05-22T17:44:38.000Z",
+    "id": 31256,
     "type": "manga",
     "title": "Partner",
-    "url": "https://myanimelist.net/manga/1256/Partner",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175902.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-02-27T03:49:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "パートナー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miho Obana"
-    ],
-    "id": 31256,
-    "malId": 1256,
-    "type": "manga",
-    "title": "Partner",
     "url": "https://anilist.co/manga/31256",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1256.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2021-12-17T10:03:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1256/Partner"
+    "externalLinks": [],
+    "malId": 1256,
+    "deletedAt": null,
+    "authors": [
+      "Miho Obana"
+    ]
+  }
 }

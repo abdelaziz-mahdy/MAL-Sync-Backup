@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakayama Masaaki"
-  ],
+  "createdAt": "2020-10-12T16:03:10.000Z",
+  "updatedAt": "2021-12-02T12:18:28.000Z",
+  "checkedAt": null,
+  "id": 1691,
   "identifier": "6fb616e2-339c-412e-bc3b-19969d345e7d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3256,
   "aniId": 33256,
-  "createdAt": "2020-10-12T16:03:10.000Z",
-  "updatedAt": "2021-12-02T12:18:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakayama Masaaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:49.000Z",
+    "updatedAt": "2022-05-16T19:12:57.000Z",
+    "checkedAt": "2022-05-16T19:12:57.000Z",
+    "id": 3256,
+    "type": "manga",
+    "title": "Fuan no Tane",
+    "altTitle": [
+      "Seeds of Anxiety",
+      "不安の種"
+    ],
+    "url": "https://myanimelist.net/manga/3256/Fuan_no_Tane",
+    "image": "https://cdn.myanimelist.net/images/manga/1/8840.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seeds of Anxiety",
-      "不安の種"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakayama, Masaaki"
-    ],
-    "id": 3256,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:33.243Z",
+    "updatedAt": "2022-05-16T19:12:56.000Z",
+    "checkedAt": "2022-05-16T19:12:56.000Z",
+    "id": 33256,
     "type": "manga",
     "title": "Fuan no Tane",
-    "url": "https://myanimelist.net/manga/3256/Fuan_no_Tane",
-    "image": "https://cdn.myanimelist.net/images/manga/1/8840.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:49.000Z",
-    "updatedAt": "2022-04-23T13:30:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "不安の種",
       "Seeds of Anxiety"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaaki Nakayama"
-    ],
-    "id": 33256,
-    "malId": 3256,
-    "type": "manga",
-    "title": "Fuan no Tane",
     "url": "https://anilist.co/manga/33256",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3256.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:07.000Z",
-    "updatedAt": "2021-12-17T11:11:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3256/Fuan_no_Tane"
+    "externalLinks": [],
+    "malId": 3256,
+    "deletedAt": null,
+    "authors": [
+      "Masaaki Nakayama"
+    ]
+  }
 }

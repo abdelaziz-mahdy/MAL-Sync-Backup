@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Narita Ryohgo",
-    "Shiraume Nazuna"
-  ],
+  "createdAt": "2020-10-12T16:14:05.000Z",
+  "updatedAt": "2021-12-06T02:47:48.000Z",
+  "checkedAt": null,
+  "id": 24213,
   "identifier": "b06e3213-de46-41d8-bcea-cea6830af20f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123027,
   "aniId": 110707,
-  "createdAt": "2020-10-12T16:14:05.000Z",
-  "updatedAt": "2021-12-06T02:47:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Narita Ryohgo",
+    "Shiraume Nazuna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-17T16:47:41.000Z",
+    "checkedAt": "2022-05-17T16:47:41.000Z",
+    "id": 123027,
+    "type": "manga",
+    "title": "Kuroha to Nijisuke: Kuroki Majo no Divertimento",
+    "altTitle": [
+      "Kuroha to Nijisuke: Kuroki Majo no Kiyuukyoku",
+      "クロハと虹介 黒き魔女の嬉遊曲〈ディヴェルティメント〉"
+    ],
+    "url": "https://myanimelist.net/manga/123027/Kuroha_to_Nijisuke__Kuroki_Majo_no_Divertimento",
+    "image": "https://cdn.myanimelist.net/images/manga/1/224376.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kuroha to Nijisuke: Kuroki Majo no Kiyuukyoku",
-      "クロハと虹介 黒き魔女の嬉遊曲〈ディヴェルティメント〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Narita, Ryohgo",
       "Shiraume, Nazuna"
-    ],
-    "id": 123027,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:54.849Z",
+    "updatedAt": "2022-05-17T16:47:39.000Z",
+    "checkedAt": "2022-05-17T16:47:39.000Z",
+    "id": 110707,
     "type": "manga",
     "title": "Kuroha to Nijisuke: Kuroki Majo no Divertimento",
-    "url": "https://myanimelist.net/manga/123027/Kuroha_to_Nijisuke__Kuroki_Majo_no_Divertimento",
-    "image": "https://cdn.myanimelist.net/images/manga/1/224376.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2021-11-24T22:35:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "クロハと虹介 黒き魔女の嬉遊曲",
       "クロハと虹介 黒き魔女の嬉遊曲（ディヴェルティメント）",
       "黑羽與虹介"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryougo Narita",
-      "Nazuna Shiraume"
-    ],
-    "id": 110707,
-    "malId": 123027,
-    "type": "manga",
-    "title": "Kuroha to Nijisuke: Kuroki Majo no Divertimento",
     "url": "https://anilist.co/manga/110707",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110707-vI3OSB76h8ge.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T06:54:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123027/Kuroha_to_Nijisuke__Kuroki_Majo_no_Divertimento"
+    "externalLinks": [],
+    "malId": 123027,
+    "deletedAt": null,
+    "authors": [
+      "Ryougo Narita",
+      "Nazuna Shiraume"
+    ]
+  }
 }

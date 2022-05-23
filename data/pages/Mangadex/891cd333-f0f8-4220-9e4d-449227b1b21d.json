@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jung Ha Rim",
-    "Kim Yeon Woo"
-  ],
+  "createdAt": "2020-10-12T16:17:42.000Z",
+  "updatedAt": "2021-12-07T10:49:05.000Z",
+  "checkedAt": null,
+  "id": 31687,
   "identifier": "891cd333-f0f8-4220-9e4d-449227b1b21d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,38 +12,40 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 120435,
-  "createdAt": "2020-10-12T16:17:42.000Z",
-  "updatedAt": "2021-12-07T10:49:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jung Ha Rim",
+    "Kim Yeon Woo"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:55.634Z",
+    "updatedAt": "2022-05-17T13:32:07.000Z",
+    "checkedAt": "2022-05-17T13:32:07.000Z",
+    "id": 120435,
+    "type": "manga",
+    "title": "Jeonjijeong Jjaksarang Sijeom",
     "altTitle": [
       "Crush of a Lifetime",
       "전지적 짝사랑 시점",
       "The Omniscient Point of View of an Unrequited Love"
     ],
+    "url": "https://anilist.co/manga/120435",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120435-I0S0uxQ8FEXo.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Ha-Rim Jung",
       "Yeon Woo Kim",
       "Studio Charon",
       "Studio Charon",
       "Cassandre Julien"
-    ],
-    "id": 120435,
-    "malId": null,
-    "type": "manga",
-    "title": "Jeonjijeong Jjaksarang Sijeom",
-    "url": "https://anilist.co/manga/120435",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120435-I0S0uxQ8FEXo.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-21T05:12:58.000Z",
-    "updatedAt": "2022-04-19T09:01:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

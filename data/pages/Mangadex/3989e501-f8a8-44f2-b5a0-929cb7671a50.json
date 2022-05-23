@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Dazai Osamu",
-    "Furuya Usamaru"
-  ],
+  "createdAt": "2020-10-12T16:12:32.000Z",
+  "updatedAt": "2021-12-05T15:51:40.000Z",
+  "checkedAt": null,
+  "id": 21202,
   "identifier": "3989e501-f8a8-44f2-b5a0-929cb7671a50",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13290,
   "aniId": 43290,
-  "createdAt": "2020-10-12T16:12:32.000Z",
-  "updatedAt": "2021-12-05T15:51:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Dazai Osamu",
+    "Furuya Usamaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:54.000Z",
+    "updatedAt": "2022-05-14T21:32:54.000Z",
+    "checkedAt": "2022-05-14T21:32:54.000Z",
+    "id": 13290,
+    "type": "manga",
+    "title": "Ningen Shikkaku",
+    "altTitle": [
+      "No Longer Human",
+      "人間失格"
+    ],
+    "url": "https://myanimelist.net/manga/13290/Ningen_Shikkaku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/166769.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "No Longer Human",
-      "人間失格"
-    ],
+    "deletedAt": null,
     "authors": [
       "Furuya, Usamaru",
       "Dazai, Osamu"
-    ],
-    "id": 13290,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:23.617Z",
+    "updatedAt": "2022-05-15T14:24:11.000Z",
+    "checkedAt": "2022-05-15T14:24:11.000Z",
+    "id": 43290,
     "type": "manga",
     "title": "Ningen Shikkaku",
-    "url": "https://myanimelist.net/manga/13290/Ningen_Shikkaku",
-    "image": "https://cdn.myanimelist.net/images/manga/3/166769.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:54.000Z",
-    "updatedAt": "2022-04-12T00:07:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "No Longer Human",
       "人間失格"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Usamaru Furuya",
-      "Osamu Dazai"
-    ],
-    "id": 43290,
-    "malId": 13290,
-    "type": "manga",
-    "title": "Ningen Shikkaku",
     "url": "https://anilist.co/manga/43290",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43290-Xcx293VdnG8d.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:33.000Z",
-    "updatedAt": "2021-12-17T15:09:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13290/Ningen_Shikkaku"
+    "externalLinks": [],
+    "malId": 13290,
+    "deletedAt": null,
+    "authors": [
+      "Usamaru Furuya",
+      "Osamu Dazai"
+    ]
+  }
 }

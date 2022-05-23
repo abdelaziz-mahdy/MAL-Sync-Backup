@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:55.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4580,
   "identifier": "j0o8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1324,
   "aniId": 1324,
-  "createdAt": "2020-10-12T15:51:55.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:15.000Z",
+    "updatedAt": "2022-05-14T22:17:29.000Z",
+    "checkedAt": "2022-05-14T22:17:29.000Z",
+    "id": 1324,
+    "type": "anime",
+    "title": "Earthian",
+    "altTitle": [
+      "Earthian",
+      "アーシアン"
+    ],
+    "url": "https://myanimelist.net/anime/1324/Earthian",
+    "image": "https://cdn.myanimelist.net/images/anime/3/62449.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Earthian",
-      "アーシアン"
-    ],
-    "id": 1324,
-    "type": "anime",
-    "title": "Earthian",
-    "url": "https://myanimelist.net/anime/1324/Earthian",
-    "image": "https://cdn.myanimelist.net/images/anime/3/62449.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1138,
-    "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2022-03-30T22:02:18.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 1138
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:04.000Z",
+    "updatedAt": "2022-05-15T17:11:23.000Z",
+    "checkedAt": "2022-05-15T17:11:23.000Z",
+    "id": 1324,
+    "type": "anime",
+    "title": "Earthian",
     "altTitle": [
       "Earthian",
       "アーシアン"
     ],
-    "externalLinks": [],
-    "id": 1324,
-    "malId": 1324,
-    "type": "anime",
-    "title": "Earthian",
     "url": "https://anilist.co/anime/1324",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1324-xNKvP9TriTgH.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:04.000Z",
-    "updatedAt": "2021-12-17T09:22:35.000Z",
+    "externalLinks": [],
+    "malId": 1324,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1324/Earthian"
+  }
 }

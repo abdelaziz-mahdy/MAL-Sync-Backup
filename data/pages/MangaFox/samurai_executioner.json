@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kazuo Koike"
-  ],
+  "createdAt": "2021-12-26T02:57:57.000Z",
+  "updatedAt": "2021-12-26T03:27:34.000Z",
+  "checkedAt": null,
+  "id": 93650,
   "identifier": "samurai_executioner",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1683,
   "aniId": 31683,
-  "createdAt": "2021-12-26T02:57:57.000Z",
-  "updatedAt": "2021-12-26T03:27:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kazuo Koike"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-15T15:44:46.000Z",
+    "checkedAt": "2022-05-15T15:44:46.000Z",
+    "id": 1683,
+    "type": "manga",
+    "title": "Kubikiri Asa",
+    "altTitle": [
+      "Samurai Executioner",
+      "首斬り朝"
+    ],
+    "url": "https://myanimelist.net/manga/1683/Kubikiri_Asa",
+    "image": "https://cdn.myanimelist.net/images/manga/4/143461.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +41,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Samurai Executioner",
-      "首斬り朝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koike, Kazuo",
       "Kojima, Goseki"
-    ],
-    "id": 1683,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:11.158Z",
+    "updatedAt": "2022-05-15T19:05:59.000Z",
+    "checkedAt": "2022-05-15T19:05:59.000Z",
+    "id": 31683,
     "type": "manga",
     "title": "Kubikiri Asa",
-    "url": "https://myanimelist.net/manga/1683/Kubikiri_Asa",
-    "image": "https://cdn.myanimelist.net/images/manga/4/143461.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-01-25T20:00:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Samurai Executioner",
       "首斬り朝",
@@ -52,24 +61,18 @@
       "Asa, El Ejecutor",
       "Samurai Executor"
     ],
+    "url": "https://anilist.co/manga/31683",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31683-BgaLs2G8Sqqy.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 1683,
+    "deletedAt": null,
     "authors": [
       "Kazuo Koike",
       "Goseki Kojima",
       "Beth Kodama",
       "Drik Sada"
-    ],
-    "id": 31683,
-    "malId": 1683,
-    "type": "manga",
-    "title": "Kubikiri Asa",
-    "url": "https://anilist.co/manga/31683",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31683-BgaLs2G8Sqqy.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2022-05-01T15:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1683/Kubikiri_Asa"
+    ]
+  }
 }

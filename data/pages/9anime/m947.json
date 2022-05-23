@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:30.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 6519,
   "identifier": "m947",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40983,
   "aniId": 114402,
-  "createdAt": "2020-10-12T15:53:30.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:14.000Z",
+    "updatedAt": "2022-05-15T01:30:55.000Z",
+    "checkedAt": "2022-05-15T01:30:55.000Z",
+    "id": 40983,
+    "type": "anime",
+    "title": "Hakushon Daimaou 2020",
+    "altTitle": [
+      "The Genie Family 2020",
+      "ハクション大魔王2020"
+    ],
+    "url": "https://myanimelist.net/anime/40983/Hakushon_Daimaou_2020",
+    "image": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,39 +55,36 @@
         "url": "http://www.crunchyroll.com/series-280021"
       }
     ],
-    "altTitle": [
-      "The Genie Family 2020",
-      "ハクション大魔王2020"
-    ],
-    "id": 40983,
+    "deletedAt": null,
+    "anidbId": 15344
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:02.000Z",
+    "updatedAt": "2022-05-15T18:57:35.000Z",
+    "checkedAt": "2022-05-15T18:57:35.000Z",
+    "id": 114402,
     "type": "anime",
     "title": "Hakushon Daimaou 2020",
-    "url": "https://myanimelist.net/anime/40983/Hakushon_Daimaou_2020",
-    "image": "https://cdn.myanimelist.net/images/anime/1621/105178.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15344,
-    "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2022-03-24T04:57:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
+      "Genie Family 2020",
       "ハクション大魔王2020",
       "The Genie Family 2020"
     ],
-    "externalLinks": [],
-    "id": 114402,
-    "malId": 40983,
-    "type": "anime",
-    "title": "Hakushon Daimaou 2020",
     "url": "https://anilist.co/anime/114402",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114402-1PtmZciRzBqD.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:02.000Z",
-    "updatedAt": "2021-12-17T17:50:07.000Z",
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/genie-family-2020"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GYKKD90MY/Genie-Family-2020"
+      }
+    ],
+    "malId": 40983,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40983/Hakushon_Daimaou_2020"
+  }
 }

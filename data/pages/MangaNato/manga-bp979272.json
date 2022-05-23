@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Jin Yong"
-  ],
+  "createdAt": "2021-06-02T17:31:11.000Z",
+  "updatedAt": "2021-12-27T10:27:55.000Z",
+  "checkedAt": null,
+  "id": 75894,
   "identifier": "manga-bp979272",
   "type": "manga",
   "page": "MangaNato",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 117068,
-  "createdAt": "2021-06-02T17:31:11.000Z",
-  "updatedAt": "2021-12-27T10:27:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jin Yong"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:23.208Z",
+    "updatedAt": "2022-05-13T12:49:23.208Z",
+    "checkedAt": null,
+    "id": 117068,
+    "type": "manga",
+    "title": "Xiao Ao Jianghu",
     "altTitle": [
       "笑傲江湖",
       "The Smiling, Proud Wanderer ",
@@ -27,22 +35,16 @@
       "The Peerless Gallant Errant",
       "The Proud and Gallant Wanderer"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Phoenix Entertainment",
-      "Yong Jin"
-    ],
-    "id": 117068,
-    "malId": null,
-    "type": "manga",
-    "title": "Xiao Ao Jianghu",
     "url": "https://anilist.co/manga/117068",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117068-nZlIZ9reUHEV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-25T15:08:18.000Z",
-    "updatedAt": "2022-02-05T08:36:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Phoenix Entertainment",
+      "Yong Jin"
+    ]
+  }
 }

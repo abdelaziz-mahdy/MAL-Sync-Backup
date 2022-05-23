@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sugimoto Reiichi",
-    "Katou Shinkichi"
-  ],
+  "createdAt": "2020-10-12T16:03:40.000Z",
+  "updatedAt": "2021-12-02T15:49:32.000Z",
+  "checkedAt": null,
+  "id": 2713,
   "identifier": "ce32e36b-1ace-45a1-909a-3f20b8a97ae4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3026,
   "aniId": 33026,
-  "createdAt": "2020-10-12T16:03:40.000Z",
-  "updatedAt": "2021-12-02T15:49:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugimoto Reiichi",
+    "Katou Shinkichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-05-15T11:50:19.000Z",
+    "checkedAt": "2022-05-15T11:50:19.000Z",
+    "id": 3026,
+    "type": "manga",
+    "title": "Kokumin Quiz",
+    "altTitle": [
+      "National Quiz",
+      "国民クイズ"
+    ],
+    "url": "https://myanimelist.net/manga/3026/Kokumin_Quiz",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171260.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "National Quiz",
-      "国民クイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugimoto, Reiichi",
       "Katou, Shinkichi"
-    ],
-    "id": 3026,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:31.914Z",
+    "updatedAt": "2022-05-15T16:41:35.000Z",
+    "checkedAt": "2022-05-15T16:41:35.000Z",
+    "id": 33026,
     "type": "manga",
     "title": "Kokumin Quiz",
-    "url": "https://myanimelist.net/manga/3026/Kokumin_Quiz",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171260.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-04-27T22:01:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "国民クイズ",
       "National Quiz"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Reiichi Sugimoto",
-      "Shinkichi Katou"
-    ],
-    "id": 33026,
-    "malId": 3026,
-    "type": "manga",
-    "title": "Kokumin Quiz",
     "url": "https://anilist.co/manga/33026",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33026-26sBNsbwvqiX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:02.000Z",
-    "updatedAt": "2022-01-11T23:41:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3026/Kokumin_Quiz"
+    "externalLinks": [],
+    "malId": 3026,
+    "deletedAt": null,
+    "authors": [
+      "Reiichi Sugimoto",
+      "Shinkichi Katou"
+    ]
+  }
 }

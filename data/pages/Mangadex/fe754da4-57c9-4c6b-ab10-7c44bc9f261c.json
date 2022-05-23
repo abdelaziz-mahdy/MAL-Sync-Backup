@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hifumi"
-  ],
+  "createdAt": "2020-10-12T16:13:12.000Z",
+  "updatedAt": "2021-12-05T19:48:08.000Z",
+  "checkedAt": null,
+  "id": 22377,
   "identifier": "fe754da4-57c9-4c6b-ab10-7c44bc9f261c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87845,
   "aniId": 106312,
-  "createdAt": "2020-10-12T16:13:12.000Z",
-  "updatedAt": "2021-12-05T19:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hifumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:55.000Z",
+    "updatedAt": "2022-05-21T03:04:15.000Z",
+    "checkedAt": "2022-05-21T03:04:15.000Z",
+    "id": 87845,
+    "type": "manga",
+    "title": "Now Playing",
+    "altTitle": [
+      "Now Playing",
+      "Now playing"
+    ],
+    "url": "https://myanimelist.net/manga/87845/Now_Playing",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Now Playing",
-      "Now playing"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hifumi"
-    ],
-    "id": 87845,
-    "type": "manga",
-    "title": "Now Playing",
-    "url": "https://myanimelist.net/manga/87845/Now_Playing",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:55.000Z",
-    "updatedAt": "2022-04-16T02:30:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:47.714Z",
+    "updatedAt": "2022-05-21T03:04:14.000Z",
+    "checkedAt": "2022-05-21T03:04:14.000Z",
+    "id": 106312,
+    "type": "manga",
+    "title": "Now Playing",
     "altTitle": [
       "Now playing"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hifumi"
-    ],
-    "id": 106312,
-    "malId": 87845,
-    "type": "manga",
-    "title": "Now Playing",
     "url": "https://anilist.co/manga/106312",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106312-09Ryg5uIwUho.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2021-12-18T05:27:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87845/Now_Playing"
+    "externalLinks": [],
+    "malId": 87845,
+    "deletedAt": null,
+    "authors": [
+      "Hifumi"
+    ]
+  }
 }

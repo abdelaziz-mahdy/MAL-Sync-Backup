@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Capcom",
-    "Serizawa Naoki"
-  ],
+  "createdAt": "2020-10-12T16:09:03.000Z",
+  "updatedAt": "2021-12-04T14:56:20.000Z",
+  "checkedAt": null,
+  "id": 14159,
   "identifier": "d590e65a-c3c8-4fd2-a754-1d0c34cf0e91",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 84649,
   "aniId": 86574,
-  "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-12-04T14:56:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Capcom",
+    "Serizawa Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-21T16:32:50.000Z",
+    "checkedAt": "2022-05-21T16:32:50.000Z",
+    "id": 84649,
+    "type": "manga",
+    "title": "Biohazard: Heavenly Island",
+    "altTitle": [
+      "Resident Evil: Heavenly Island",
+      "バイオハザード ～ヘヴンリーアイランド～"
+    ],
+    "url": "https://myanimelist.net/manga/84649/Biohazard__Heavenly_Island",
+    "image": "https://cdn.myanimelist.net/images/manga/1/164464.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Resident Evil: Heavenly Island",
-      "バイオハザード ～ヘヴンリーアイランド～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Serizawa, Naoki",
       "Capcom"
-    ],
-    "id": 84649,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:15.598Z",
+    "updatedAt": "2022-05-21T16:32:48.000Z",
+    "checkedAt": "2022-05-21T16:32:48.000Z",
+    "id": 86574,
     "type": "manga",
     "title": "Biohazard: Heavenly Island",
-    "url": "https://myanimelist.net/manga/84649/Biohazard__Heavenly_Island",
-    "image": "https://cdn.myanimelist.net/images/manga/1/164464.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2022-02-26T04:18:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Resident Evil: Heavenly Island",
       "バイオハザード　ヘヴンリーアイランド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Capcom",
-      "Naoki Serizawa"
-    ],
-    "id": 86574,
-    "malId": 84649,
-    "type": "manga",
-    "title": "Biohazard: Heavenly Island",
     "url": "https://anilist.co/manga/86574",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86574-mEFnClXBLrjL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:35.000Z",
-    "updatedAt": "2021-12-17T22:54:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/84649/Biohazard__Heavenly_Island"
+    "externalLinks": [],
+    "malId": 84649,
+    "deletedAt": null,
+    "authors": [
+      "Capcom",
+      "Naoki Serizawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Igarashi Mikio"
-  ],
+  "createdAt": "2020-10-12T16:11:11.000Z",
+  "updatedAt": "2021-12-05T06:49:12.000Z",
+  "checkedAt": null,
+  "id": 18750,
   "identifier": "60595326-a5d2-48a1-8a34-7759c1179de6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 96345,
   "aniId": 96793,
-  "createdAt": "2020-10-12T16:11:11.000Z",
-  "updatedAt": "2021-12-05T06:49:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Igarashi Mikio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:24.000Z",
+    "updatedAt": "2021-11-15T20:28:12.000Z",
+    "checkedAt": null,
+    "id": 96345,
+    "type": "manga",
+    "title": "Bonobono",
+    "altTitle": [
+      "Bonobono",
+      "ぼのぼの"
+    ],
+    "url": "https://myanimelist.net/manga/96345/Bonobono",
+    "image": "https://cdn.myanimelist.net/images/manga/3/171791.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bonobono",
-      "ぼのぼの"
-    ],
+    "deletedAt": null,
     "authors": [
       "Igarashi, Mikio"
-    ],
-    "id": 96345,
-    "type": "manga",
-    "title": "Bonobono",
-    "url": "https://myanimelist.net/manga/96345/Bonobono",
-    "image": "https://cdn.myanimelist.net/images/manga/3/171791.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:24.000Z",
-    "updatedAt": "2021-11-15T20:28:12.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:17.156Z",
+    "updatedAt": "2022-05-13T12:43:17.156Z",
+    "checkedAt": null,
+    "id": 96793,
+    "type": "manga",
+    "title": "BONOBONO",
     "altTitle": [
       "ぼのぼの"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mikio Igarashi"
-    ],
-    "id": 96793,
-    "malId": 96345,
-    "type": "manga",
-    "title": "BONOBONO",
     "url": "https://anilist.co/manga/96793",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96793-5307F9Km4II8.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:06.000Z",
-    "updatedAt": "2022-03-16T09:20:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/96345/Bonobono"
+    "externalLinks": [],
+    "malId": 96345,
+    "deletedAt": null,
+    "authors": [
+      "Mikio Igarashi"
+    ]
+  }
 }

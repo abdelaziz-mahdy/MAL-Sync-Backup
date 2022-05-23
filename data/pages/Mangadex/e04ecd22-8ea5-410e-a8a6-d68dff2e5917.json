@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tadano Natsu"
-  ],
+  "createdAt": "2020-10-12T16:10:37.000Z",
+  "updatedAt": "2021-12-05T02:19:08.000Z",
+  "checkedAt": null,
+  "id": 17531,
   "identifier": "e04ecd22-8ea5-410e-a8a6-d68dff2e5917",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112144,
   "aniId": 98836,
-  "createdAt": "2020-10-12T16:10:37.000Z",
-  "updatedAt": "2021-12-05T02:19:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tadano Natsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:25.000Z",
+    "updatedAt": "2022-05-15T06:57:28.000Z",
+    "checkedAt": "2022-05-15T06:57:28.000Z",
+    "id": 112144,
+    "type": "manga",
+    "title": "Yukuyuku Futari",
+    "altTitle": [
+      "The Couple's Path",
+      "ゆくゆくふたり"
+    ],
+    "url": "https://myanimelist.net/manga/112144/Yukuyuku_Futari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/212855.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Couple's Path",
-      "ゆくゆくふたり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tadano, Natsu"
-    ],
-    "id": 112144,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:47.216Z",
+    "updatedAt": "2022-05-15T15:34:23.000Z",
+    "checkedAt": "2022-05-15T15:34:23.000Z",
+    "id": 98836,
     "type": "manga",
     "title": "Yukuyuku Futari",
-    "url": "https://myanimelist.net/manga/112144/Yukuyuku_Futari",
-    "image": "https://cdn.myanimelist.net/images/manga/3/212855.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:25.000Z",
-    "updatedAt": "2021-12-29T14:54:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yukuyuku Futari",
       "ゆくゆくふたり",
       "The Couple's Path"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsu Tadano"
-    ],
-    "id": 98836,
-    "malId": 112144,
-    "type": "manga",
-    "title": "Yukuyuku Futari",
     "url": "https://anilist.co/manga/98836",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98836-yBJlsJxF1Vy5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:53.000Z",
-    "updatedAt": "2021-12-18T02:31:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112144/Yukuyuku_Futari"
+    "externalLinks": [],
+    "malId": 112144,
+    "deletedAt": null,
+    "authors": [
+      "Natsu Tadano"
+    ]
+  }
 }

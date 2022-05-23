@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamada Fuutarou",
-    "Segawa Masaki"
-  ],
+  "createdAt": "2020-10-12T16:02:47.000Z",
+  "updatedAt": "2021-12-02T09:47:47.000Z",
+  "checkedAt": null,
+  "id": 858,
   "identifier": "b5712fb3-e3b2-4f57-8006-7a5e8819bb24",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 432,
   "aniId": 30432,
-  "createdAt": "2020-10-12T16:02:47.000Z",
-  "updatedAt": "2021-12-02T09:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Fuutarou",
+    "Segawa Masaki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/Y十M_〜柳生忍法帖〜"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-04-05T00:31:22.000Z",
+    "checkedAt": null,
+    "id": 432,
+    "type": "manga",
+    "title": "Y十M: Yagyuu Ninpouchou",
     "altTitle": [
       "Y Juu M",
       "Y+M",
@@ -34,22 +35,30 @@
       "The Yagyu Ninja Scrolls: Revenge of the Hori Clan",
       "Y十M 〜柳生忍法帖〜"
     ],
-    "authors": [
-      "Yamada, Fuutarou",
-      "Segawa, Masaki"
-    ],
-    "id": 432,
-    "type": "manga",
-    "title": "Y十M: Yagyuu Ninpouchou",
     "url": "https://myanimelist.net/manga/432/Y十M__Yagyuu_Ninpouchou",
     "image": "https://cdn.myanimelist.net/images/manga/3/157496.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-04-05T00:31:22.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Y十M_〜柳生忍法帖〜"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamada, Fuutarou",
+      "Segawa, Masaki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:49.727Z",
+    "updatedAt": "2022-05-13T13:03:49.727Z",
+    "checkedAt": null,
+    "id": 30432,
+    "type": "manga",
+    "title": "Y十M: Yagyuu Ninpouchou",
     "altTitle": [
       "The Yagyu Ninja Scrolls: Revenge of the Hori Clan",
       "Y十M 〜柳生忍法帖〜",
@@ -58,23 +67,17 @@
       "Y10M",
       "Yagyuu Ninja Arts Scroll"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fuutarou Yamada",
-      "Masaki Segawa",
-      "Gemma Collinge"
-    ],
-    "id": 30432,
-    "malId": 432,
-    "type": "manga",
-    "title": "Y十M: Yagyuu Ninpouchou",
     "url": "https://anilist.co/manga/30432",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30432-Bm6QHmCFBqeW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:10:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/432/Y十M__Yagyuu_Ninpouchou"
+    "externalLinks": [],
+    "malId": 432,
+    "deletedAt": null,
+    "authors": [
+      "Fuutarou Yamada",
+      "Masaki Segawa",
+      "Gemma Collinge"
+    ]
+  }
 }

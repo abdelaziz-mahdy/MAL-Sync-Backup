@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sako Toshio"
-  ],
+  "createdAt": "2021-05-29T00:12:44.000Z",
+  "updatedAt": "2021-11-29T01:07:06.000Z",
+  "checkedAt": null,
+  "id": 73193,
   "identifier": "manga-eq981699",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115727,
   "aniId": 105774,
-  "createdAt": "2021-05-29T00:12:44.000Z",
-  "updatedAt": "2021-11-29T01:07:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sako Toshio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2022-05-14T22:14:11.000Z",
+    "checkedAt": "2022-05-14T22:14:11.000Z",
+    "id": 115727,
+    "type": "manga",
+    "title": "Batuque",
+    "altTitle": [
+      "バトゥーキ"
+    ],
+    "url": "https://myanimelist.net/manga/115727/Batuque",
+    "image": "https://cdn.myanimelist.net/images/manga/3/217503.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,24 +40,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "バトゥーキ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sako, Toshio"
-    ],
-    "id": 115727,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:17.392Z",
+    "updatedAt": "2022-05-15T17:02:11.000Z",
+    "checkedAt": "2022-05-15T17:02:11.000Z",
+    "id": 105774,
     "type": "manga",
     "title": "Batuque",
-    "url": "https://myanimelist.net/manga/115727/Batuque",
-    "image": "https://cdn.myanimelist.net/images/manga/3/217503.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2022-04-29T22:01:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "バトゥーキ",
       "Drumming",
@@ -51,21 +60,15 @@
       "巴突克戰舞",
       "BATQUE ระบำสงคราม"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshio Sako"
-    ],
-    "id": 105774,
-    "malId": 115727,
-    "type": "manga",
-    "title": "Batuque",
     "url": "https://anilist.co/manga/105774",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105774-e7EIPXxcm0Bq.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-08T23:33:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115727/Batuque"
+    "externalLinks": [],
+    "malId": 115727,
+    "deletedAt": null,
+    "authors": [
+      "Toshio Sako"
+    ]
+  }
 }

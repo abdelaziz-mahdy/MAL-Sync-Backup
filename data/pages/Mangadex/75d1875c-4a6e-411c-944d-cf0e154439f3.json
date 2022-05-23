@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "HOOKSOFT",
-    "Tomekichi"
-  ],
+  "createdAt": "2020-10-12T16:07:32.000Z",
+  "updatedAt": "2021-12-04T03:50:40.000Z",
+  "checkedAt": null,
+  "id": 10819,
   "identifier": "75d1875c-4a6e-411c-944d-cf0e154439f3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70547,
   "aniId": 85466,
-  "createdAt": "2020-10-12T16:07:32.000Z",
-  "updatedAt": "2021-12-04T03:50:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "HOOKSOFT",
+    "Tomekichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:17.000Z",
+    "updatedAt": "2022-02-09T09:10:58.000Z",
+    "checkedAt": null,
+    "id": 70547,
+    "type": "manga",
+    "title": "Melty Moment",
+    "altTitle": [
+      "MeltyMoment",
+      "MeltyMoment -メルティモーメント-"
+    ],
+    "url": "https://myanimelist.net/manga/70547/Melty_Moment",
+    "image": "https://cdn.myanimelist.net/images/manga/1/141445.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MeltyMoment",
-      "MeltyMoment -メルティモーメント-"
-    ],
+    "deletedAt": null,
     "authors": [
       "HOOKSOFT",
       "Tomekichi"
-    ],
-    "id": 70547,
-    "type": "manga",
-    "title": "Melty Moment",
-    "url": "https://myanimelist.net/manga/70547/Melty_Moment",
-    "image": "https://cdn.myanimelist.net/images/manga/1/141445.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:17.000Z",
-    "updatedAt": "2022-02-09T09:10:58.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:16.329Z",
+    "updatedAt": "2022-05-13T13:03:16.329Z",
+    "checkedAt": null,
+    "id": 85466,
+    "type": "manga",
+    "title": "MeltyMoment",
     "altTitle": [
       "MeltyMoment -メルティモーメント-",
       "Melty Moment "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomekichi",
-      "Hooksoft"
-    ],
-    "id": 85466,
-    "malId": 70547,
-    "type": "manga",
-    "title": "MeltyMoment",
     "url": "https://anilist.co/manga/85466",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85466-qHwqxoTwyFIK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:31.000Z",
-    "updatedAt": "2021-12-17T22:01:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70547/Melty_Moment"
+    "externalLinks": [],
+    "malId": 70547,
+    "deletedAt": null,
+    "authors": [
+      "Tomekichi",
+      "Hooksoft"
+    ]
+  }
 }

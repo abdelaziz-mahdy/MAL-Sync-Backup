@@ -1,4 +1,21 @@
 {
+  "createdAt": "2020-10-12T16:11:51.000Z",
+  "updatedAt": "2021-12-05T11:48:18.000Z",
+  "checkedAt": null,
+  "id": 20206,
+  "identifier": "4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Gesu BL (Anthology)",
+  "url": "https://mangadex.org/title/4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585",
+  "image": "https://uploads.mangadex.org/covers/4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585/7b25ed8c-8ecc-4bc4-9917-43645f8d97c7.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 81747,
+  "aniId": 103212,
+  "deletedAt": null,
   "authors": [
     "Fujio",
     "Harada",
@@ -9,29 +26,13 @@
     "Purugaria",
     "Ogeretsu Tanaka"
   ],
-  "identifier": "4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585",
-  "type": "manga",
-  "page": "Mangadex",
-  "title": "Gesu BL (Anthology)",
-  "url": "https://mangadex.org/title/4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585",
-  "image": "https://uploads.mangadex.org/covers/4c8b3c8d-6bcf-4a6b-9a17-a7e616d95585/7b25ed8c-8ecc-4bc4-9917-43645f8d97c7.jpg",
-  "hentai": false,
-  "sticky": false,
-  "active": true,
-  "actor": null,
-  "malId": 81747,
-  "aniId": 103212,
-  "createdAt": "2020-10-12T16:11:51.000Z",
-  "updatedAt": "2021-12-05T11:48:18.000Z",
-  "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.libre-pub.co.jp/gesu_bl/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:36.000Z",
+    "updatedAt": "2021-11-11T22:14:56.000Z",
+    "checkedAt": null,
+    "id": 81747,
+    "type": "manga",
+    "title": "Gesu BL",
     "altTitle": [
       "High School☆Lullaby",
       "Good Excuse",
@@ -46,6 +47,18 @@
       "Fellow Traveler",
       "下衆BL"
     ],
+    "url": "https://myanimelist.net/manga/81747/Gesu_BL",
+    "image": "https://cdn.myanimelist.net/images/manga/1/142021.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.libre-pub.co.jp/gesu_bl/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Jaryuu, Dokuro",
       "Hideyoshico",
@@ -56,19 +69,15 @@
       "Inutoki",
       "Shouhei",
       "Tsuyuki, Yuruko"
-    ],
-    "id": 81747,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:06.143Z",
+    "updatedAt": "2022-05-13T12:45:06.143Z",
+    "checkedAt": null,
+    "id": 103212,
     "type": "manga",
     "title": "Gesu BL",
-    "url": "https://myanimelist.net/manga/81747/Gesu_BL",
-    "image": "https://cdn.myanimelist.net/images/manga/1/142021.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:36.000Z",
-    "updatedAt": "2021-11-11T22:14:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "下衆BL",
       "High School☆Lullaby",
@@ -76,7 +85,13 @@
       "Yajirushi",
       "Sakasa Moji nara Suki da to Ieru"
     ],
+    "url": "https://anilist.co/manga/103212",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103212-qjBAB9FQsWxX.jpg",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 81747,
+    "deletedAt": null,
     "authors": [
       "Kei Ichikawa",
       "Dokuro Jaryuu",
@@ -90,18 +105,6 @@
       "Purugaria",
       "Kubota",
       "Hideyoshico"
-    ],
-    "id": 103212,
-    "malId": 81747,
-    "type": "manga",
-    "title": "Gesu BL",
-    "url": "https://anilist.co/manga/103212",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103212-qjBAB9FQsWxX.jpg",
-    "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:52:04.000Z",
-    "updatedAt": "2021-12-18T04:27:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/81747/Gesu_BL"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Zero"
-  ],
+  "createdAt": "2020-10-12T16:14:59.000Z",
+  "updatedAt": "2021-12-06T10:50:23.000Z",
+  "checkedAt": null,
+  "id": 26078,
   "identifier": "5ebea611-ca7e-4ce4-b08d-02b1611f4fe0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 109762,
-  "createdAt": "2020-10-12T16:14:59.000Z",
-  "updatedAt": "2021-12-06T10:50:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zero"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:07.066Z",
+    "updatedAt": "2022-05-13T13:01:07.066Z",
+    "checkedAt": null,
+    "id": 109762,
+    "type": "manga",
+    "title": "Bu Ke Ai De TA",
     "altTitle": [
       "My Lovely Girl",
       "不可爱的TA",
@@ -26,21 +34,15 @@
       "My Sweet Girl",
       "사랑할 수 없는 그녀"
     ],
-    "externalLinks": [],
-    "authors": [
-      "zero"
-    ],
-    "id": 109762,
-    "malId": null,
-    "type": "manga",
-    "title": "Bu Ke Ai De TA",
     "url": "https://anilist.co/manga/109762",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109762-59LYM2J7A1Nr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-24T02:08:17.000Z",
-    "updatedAt": "2022-04-14T21:00:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "zero"
+    ]
+  }
 }

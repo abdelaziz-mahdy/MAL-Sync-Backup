@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikumo Taisuke"
-  ],
+  "createdAt": "2020-10-12T16:14:51.000Z",
+  "updatedAt": "2021-12-06T08:47:29.000Z",
+  "checkedAt": null,
+  "id": 25778,
   "identifier": "263f5681-6566-46ae-a20e-5b6228230fc5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 84585,
   "aniId": 93614,
-  "createdAt": "2020-10-12T16:14:51.000Z",
-  "updatedAt": "2021-12-06T08:47:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikumo Taisuke"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-21T05:37:04.000Z",
+    "checkedAt": "2022-05-21T05:37:04.000Z",
+    "id": 84585,
+    "type": "manga",
+    "title": "Watashi ga Toriko ni Natte Yaru",
     "altTitle": [
       "Shachi",
       "Kanojo≤Buruma",
@@ -27,21 +33,24 @@
       "Yuutousei wa Dekirun desu",
       "私が虜になって犯る"
     ],
-    "authors": [
-      "Igumo, Taisuke"
-    ],
-    "id": 84585,
-    "type": "manga",
-    "title": "Watashi ga Toriko ni Natte Yaru",
     "url": "https://myanimelist.net/manga/84585/Watashi_ga_Toriko_ni_Natte_Yaru",
     "image": "https://cdn.myanimelist.net/images/manga/1/146425.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2021-11-12T08:44:36.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Igumo, Taisuke"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:15.081Z",
+    "updatedAt": "2022-05-21T05:37:04.000Z",
+    "checkedAt": "2022-05-21T05:37:04.000Z",
+    "id": 93614,
+    "type": "manga",
+    "title": "Watashi ga Toriko ni Natte Yaru",
     "altTitle": [
       "私が虜になって犯る",
       "Shachi",
@@ -49,21 +58,15 @@
       "Shachi Reverse",
       "Yuutousei wa Dekirun desu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Taisuke Igumo"
-    ],
-    "id": 93614,
-    "malId": 84585,
-    "type": "manga",
-    "title": "Watashi ga Toriko ni Natte Yaru",
     "url": "https://anilist.co/manga/93614",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93614-VWg9isjgrsC2.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:52:35.000Z",
-    "updatedAt": "2022-02-17T17:17:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/84585/Watashi_ga_Toriko_ni_Natte_Yaru"
+    "externalLinks": [],
+    "malId": 84585,
+    "deletedAt": null,
+    "authors": [
+      "Taisuke Igumo"
+    ]
+  }
 }

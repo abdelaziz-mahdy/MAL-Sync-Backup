@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "PEACH-PIT"
-  ],
+  "createdAt": "2021-03-29T04:49:20.000Z",
+  "updatedAt": "2021-12-27T10:27:55.000Z",
+  "checkedAt": null,
+  "id": 67660,
   "identifier": "zombie-loan",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 99,
   "aniId": 30099,
-  "createdAt": "2021-03-29T04:49:20.000Z",
-  "updatedAt": "2021-12-27T10:27:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "PEACH-PIT"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-04-26T18:32:01.000Z",
+    "checkedAt": null,
+    "id": 99,
+    "type": "manga",
+    "title": "Zombie-Loan",
+    "altTitle": [
+      "Zombie-Loan",
+      "ZOMBIE-LOAN"
+    ],
+    "url": "https://myanimelist.net/manga/99/Zombie-Loan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/183676.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Zombie-Loan",
-      "ZOMBIE-LOAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "PEACH‐PIT"
-    ],
-    "id": 99,
-    "type": "manga",
-    "title": "Zombie-Loan",
-    "url": "https://myanimelist.net/manga/99/Zombie-Loan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/183676.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-26T18:32:01.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:50.622Z",
+    "updatedAt": "2022-05-13T12:56:50.622Z",
+    "checkedAt": null,
+    "id": 30099,
+    "type": "manga",
+    "title": "ZOMBIE-LOAN",
     "altTitle": [
       "ZOMBIE-LOAN",
       "ゾンビローン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "PEACH‐PIT"
-    ],
-    "id": 30099,
-    "malId": 99,
-    "type": "manga",
-    "title": "ZOMBIE-LOAN",
     "url": "https://anilist.co/manga/30099",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30099-JWNDc7dHLn4q.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:33:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99/Zombie-Loan"
+    "externalLinks": [],
+    "malId": 99,
+    "deletedAt": null,
+    "authors": [
+      "PEACH‐PIT"
+    ]
+  }
 }

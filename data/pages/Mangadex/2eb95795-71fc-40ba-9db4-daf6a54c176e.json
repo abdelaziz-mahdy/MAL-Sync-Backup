@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Buka Manga",
-    "Shituzi"
-  ],
+  "createdAt": "2020-10-12T16:10:48.000Z",
+  "updatedAt": "2021-12-05T03:49:09.000Z",
+  "checkedAt": null,
+  "id": 17901,
   "identifier": "2eb95795-71fc-40ba-9db4-daf6a54c176e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,53 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111808,
   "aniId": 111421,
-  "createdAt": "2020-10-12T16:10:48.000Z",
-  "updatedAt": "2021-12-05T03:49:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Buka Manga",
+    "Shituzi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2022-03-08T03:01:12.000Z",
+    "checkedAt": null,
+    "id": 111808,
+    "type": "manga",
+    "title": "Yi Tiao Gou",
     "altTitle": [
       "I Became a Dog",
       "一条狗"
     ],
-    "authors": [
-      "Shituzi"
-    ],
-    "id": 111808,
-    "type": "manga",
-    "title": "Yi Tiao Gou",
     "url": "https://myanimelist.net/manga/111808/Yi_Tiao_Gou",
     "image": "https://cdn.myanimelist.net/images/manga/3/205211.jpg",
     "category": "Manhua",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2022-03-08T03:01:12.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shituzi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:04.360Z",
+    "updatedAt": "2022-05-13T12:47:04.360Z",
+    "checkedAt": null,
+    "id": 111421,
+    "type": "manga",
+    "title": "Yi Tiao Gou",
     "altTitle": [
       "一条狗",
       "I Became a Dog"
     ],
-    "externalLinks": [],
-    "authors": [
-      "TuzI Shi"
-    ],
-    "id": 111421,
-    "malId": 111808,
-    "type": "manga",
-    "title": "Yi Tiao Gou",
     "url": "https://anilist.co/manga/111421",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111421-2hWYbs9GmvRz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2021-12-18T07:20:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111808/Yi_Tiao_Gou"
+    "externalLinks": [],
+    "malId": 111808,
+    "deletedAt": null,
+    "authors": [
+      "TuzI Shi"
+    ]
+  }
 }

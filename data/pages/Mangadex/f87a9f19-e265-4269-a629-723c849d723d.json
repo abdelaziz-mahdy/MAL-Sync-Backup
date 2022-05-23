@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Enterbrain",
-    "Dingo",
-    "Nylon"
-  ],
+  "createdAt": "2020-10-12T16:04:06.000Z",
+  "updatedAt": "2021-12-02T18:48:28.000Z",
+  "checkedAt": null,
+  "id": 3638,
   "identifier": "f87a9f19-e265-4269-a629-723c849d723d",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35349,
   "aniId": 65349,
-  "createdAt": "2020-10-12T16:04:06.000Z",
-  "updatedAt": "2021-12-02T18:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Enterbrain",
+    "Dingo",
+    "Nylon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:58.000Z",
+    "updatedAt": "2021-11-21T04:12:49.000Z",
+    "checkedAt": null,
+    "id": 35349,
+    "type": "manga",
+    "title": "Photokano: Your Eyes Only",
+    "altTitle": [
+      "Photo Kano: Your Eyes Only",
+      "Picture Girlfriend",
+      "フォトカノ Your Eyes Only"
+    ],
+    "url": "https://myanimelist.net/manga/35349/Photokano__Your_Eyes_Only",
+    "image": "https://cdn.myanimelist.net/images/manga/1/78229.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,45 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Photo Kano: Your Eyes Only",
-      "Picture Girlfriend",
-      "フォトカノ Your Eyes Only"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nylon"
-    ],
-    "id": 35349,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:25.476Z",
+    "updatedAt": "2022-05-13T12:48:25.476Z",
+    "checkedAt": null,
+    "id": 65349,
     "type": "manga",
     "title": "Photokano: Your Eyes Only",
-    "url": "https://myanimelist.net/manga/35349/Photokano__Your_Eyes_Only",
-    "image": "https://cdn.myanimelist.net/images/manga/1/78229.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:58.000Z",
-    "updatedAt": "2021-11-21T04:12:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フォトカノ Your Eyes Only",
       "Photo Kano: Your Eyes Only"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nylon"
-    ],
-    "id": 65349,
-    "malId": 35349,
-    "type": "manga",
-    "title": "Photokano: Your Eyes Only",
     "url": "https://anilist.co/manga/65349",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65349-bMUEVIbgUaez.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:02.000Z",
-    "updatedAt": "2021-12-17T19:50:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35349/Photokano__Your_Eyes_Only"
+    "externalLinks": [],
+    "malId": 35349,
+    "deletedAt": null,
+    "authors": [
+      "Nylon"
+    ]
+  }
 }

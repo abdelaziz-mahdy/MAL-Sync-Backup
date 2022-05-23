@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshi"
-  ],
+  "createdAt": "2022-05-07T20:31:26.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T20:10:32.000Z",
+  "id": 103105,
   "identifier": "manga-af977914",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,54 @@
   "image": "https://avt.mkklcdnv6temp.com/3/o/16-1583493591.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T20:31:26.000Z",
-  "updatedAt": "2022-05-07T20:31:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 110995,
+  "aniId": 101041,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Yoshi"
+  ],
+  "Mal": {
+    "createdAt": "2021-06-05T14:51:37.000Z",
+    "updatedAt": "2022-05-13T20:10:36.000Z",
+    "checkedAt": "2022-05-13T20:10:36.000Z",
+    "id": 110995,
+    "type": "manga",
+    "title": "Sensei, Anata ni Chikazukitai",
+    "altTitle": [
+      "先生、あなたに近づきたい"
+    ],
+    "url": "https://myanimelist.net/manga/110995/Sensei_Anata_ni_Chikazukitai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222188.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "yoshi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:32.046Z",
+    "updatedAt": "2022-05-13T12:59:32.046Z",
+    "checkedAt": null,
+    "id": 101041,
+    "type": "manga",
+    "title": "Sensei, Anata ni Chikadukitai",
+    "altTitle": [
+      "先生、あなたに近づきたい"
+    ],
+    "url": "https://anilist.co/manga/101041",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101041-IyP4Ol0yTINt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 110995,
+    "deletedAt": null,
+    "authors": [
+      "yoshi"
+    ]
+  }
 }

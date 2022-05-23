@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SEGAMI Akira"
-  ],
+  "createdAt": "2021-08-13T15:07:58.000Z",
+  "updatedAt": "2022-02-13T15:40:08.000Z",
+  "checkedAt": null,
+  "id": 85197,
   "identifier": "kanade",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20168,
   "aniId": 50168,
-  "createdAt": "2021-08-13T15:07:58.000Z",
-  "updatedAt": "2022-02-13T15:40:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "SEGAMI Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:48.000Z",
+    "updatedAt": "2022-01-30T15:22:18.000Z",
+    "checkedAt": null,
+    "id": 20168,
+    "type": "manga",
+    "title": "Kanade",
+    "altTitle": [
+      "奏～かなで～"
+    ],
+    "url": "https://myanimelist.net/manga/20168/Kanade",
+    "image": "https://cdn.myanimelist.net/images/manga/1/199623.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "奏～かなで～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Segami, Akira"
-    ],
-    "id": 20168,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:58.221Z",
+    "updatedAt": "2022-05-13T13:05:58.221Z",
+    "checkedAt": null,
+    "id": 50168,
     "type": "manga",
     "title": "Kanade",
-    "url": "https://myanimelist.net/manga/20168/Kanade",
-    "image": "https://cdn.myanimelist.net/images/manga/1/199623.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:48.000Z",
-    "updatedAt": "2022-01-30T15:22:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "奏 かなで",
       "카나데",
       "奏〜かなで〜",
       "奏 梦中情人"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Segami"
-    ],
-    "id": 50168,
-    "malId": 20168,
-    "type": "manga",
-    "title": "Kanade",
     "url": "https://anilist.co/manga/50168",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50168-caXC5XGNyCUc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:27.000Z",
-    "updatedAt": "2021-12-17T17:13:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20168/Kanade"
+    "externalLinks": [],
+    "malId": 20168,
+    "deletedAt": null,
+    "authors": [
+      "Akira Segami"
+    ]
+  }
 }

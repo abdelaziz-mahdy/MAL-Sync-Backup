@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagai Go"
-  ],
+  "createdAt": "2021-08-21T03:46:06.000Z",
+  "updatedAt": "2022-02-21T04:17:22.000Z",
+  "checkedAt": null,
+  "id": 85907,
   "identifier": "manga-ut971476",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30723,
   "aniId": 60723,
-  "createdAt": "2021-08-21T03:46:06.000Z",
-  "updatedAt": "2022-02-21T04:17:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Go"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2022-05-18T01:32:47.000Z",
+    "checkedAt": "2022-05-18T01:32:47.000Z",
+    "id": 30723,
+    "type": "manga",
+    "title": "Koutetsu Jeeg",
+    "altTitle": [
+      "Steel Jeeg",
+      "鋼鉄ジーグ"
+    ],
+    "url": "https://myanimelist.net/manga/30723/Koutetsu_Jeeg",
+    "image": "https://cdn.myanimelist.net/images/manga/3/53969.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Steel Jeeg",
-      "鋼鉄ジーグ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagai, Go",
       "Oze, Akira"
-    ],
-    "id": 30723,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:47.248Z",
+    "updatedAt": "2022-05-18T01:32:46.000Z",
+    "checkedAt": "2022-05-18T01:32:46.000Z",
+    "id": 60723,
     "type": "manga",
     "title": "Koutetsu Jeeg",
-    "url": "https://myanimelist.net/manga/30723/Koutetsu_Jeeg",
-    "image": "https://cdn.myanimelist.net/images/manga/3/53969.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2022-02-21T03:47:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Steel Jeeg",
       "鋼鉄ジーグ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Nagai",
-      "Akira Oze"
-    ],
-    "id": 60723,
-    "malId": 30723,
-    "type": "manga",
-    "title": "Koutetsu Jeeg",
     "url": "https://anilist.co/manga/60723",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30723.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:42.000Z",
-    "updatedAt": "2022-02-28T17:18:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30723/Koutetsu_Jeeg"
+    "externalLinks": [],
+    "malId": 30723,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai",
+      "Akira Oze"
+    ]
+  }
 }

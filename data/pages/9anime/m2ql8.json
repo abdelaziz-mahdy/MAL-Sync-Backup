@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-14T02:00:57.000Z",
+  "updatedAt": "2022-05-13T19:53:17.000Z",
+  "checkedAt": "2022-05-13T19:53:17.000Z",
+  "id": 40746,
   "identifier": "m2ql8",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50955,
   "aniId": 144676,
-  "createdAt": "2022-04-14T02:00:57.000Z",
-  "updatedAt": "2022-04-14T02:30:22.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2022-03-12T08:30:40.000Z",
+    "updatedAt": "2022-05-13T19:53:19.000Z",
+    "checkedAt": "2022-05-13T19:53:19.000Z",
+    "id": 50955,
+    "type": "anime",
+    "title": "Onipan!",
+    "altTitle": [
+      "Onipan!",
+      "おにぱん！"
+    ],
+    "url": "https://myanimelist.net/anime/50955/Onipan",
+    "image": "https://cdn.myanimelist.net/images/anime/1278/120805.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,45 +49,37 @@
         "url": "https://en.wikipedia.org/wiki/Onipan!"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Onipan!",
-      "おにぱん！"
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/"
+      }
     ],
-    "id": 50955,
+    "deletedAt": null,
+    "anidbId": 17178
+  },
+  "Ani": {
+    "createdAt": "2022-02-04T19:06:03.000Z",
+    "updatedAt": "2022-05-15T09:23:11.000Z",
+    "checkedAt": "2022-05-15T09:23:11.000Z",
+    "id": 144676,
     "type": "anime",
     "title": "Onipan!",
-    "url": "https://myanimelist.net/anime/50955/Onipan",
-    "image": "https://cdn.myanimelist.net/images/anime/1278/120805.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 17178,
-    "createdAt": "2022-03-12T08:30:40.000Z",
-    "updatedAt": "2022-04-13T18:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Onipan!",
       "おにぱん！"
     ],
+    "url": "https://anilist.co/anime/144676",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144676-xnbnEthBjW3L.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
         "url": "https://www.hidive.com/tv/onipan"
       }
     ],
-    "id": 144676,
     "malId": 50955,
-    "type": "anime",
-    "title": "Onipan!",
-    "url": "https://anilist.co/anime/144676",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144676-xnbnEthBjW3L.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2022-02-04T19:06:03.000Z",
-    "updatedAt": "2022-04-11T11:07:23.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/50955/Onipan"
+  }
 }

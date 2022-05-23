@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Bones",
-    "Nobumoto Keiko",
-    "Iida Toshitsugu"
-  ],
+  "createdAt": "2020-10-12T16:06:09.000Z",
+  "updatedAt": "2021-12-03T18:18:29.000Z",
+  "checkedAt": null,
+  "id": 7862,
   "identifier": "aea5ddc9-6552-4b3a-8398-a3c96235f138",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 357,
   "aniId": 30357,
-  "createdAt": "2020-10-12T16:06:09.000Z",
-  "updatedAt": "2021-12-03T18:18:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Bones",
+    "Nobumoto Keiko",
+    "Iida Toshitsugu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-15T00:46:17.000Z",
+    "checkedAt": "2022-05-15T00:46:17.000Z",
+    "id": 357,
+    "type": "manga",
+    "title": "Wolf's Rain",
+    "altTitle": [
+      "Wolf's Rain",
+      "WOLF'S RAIN"
+    ],
+    "url": "https://myanimelist.net/manga/357/Wolfs_Rain",
+    "image": "https://cdn.myanimelist.net/images/manga/2/181408.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,51 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Wolf's Rain",
-      "WOLF'S RAIN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nobumoto, Keiko",
       "Iida, Toshitsugu"
-    ],
-    "id": 357,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:49.021Z",
+    "updatedAt": "2022-05-15T14:36:23.000Z",
+    "checkedAt": "2022-05-15T14:36:23.000Z",
+    "id": 30357,
     "type": "manga",
     "title": "Wolf's Rain",
-    "url": "https://myanimelist.net/manga/357/Wolfs_Rain",
-    "image": "https://cdn.myanimelist.net/images/manga/2/181408.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-04-08T20:31:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Wolf's Rain",
       "ウルフズ・レイン"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/wolf-s-rain"
-      }
-    ],
-    "authors": [
-      "Keiko Nobumoto",
-      "Toshitsugu Iida"
-    ],
-    "id": 30357,
-    "malId": 357,
-    "type": "manga",
-    "title": "Wolf's Rain",
     "url": "https://anilist.co/manga/30357",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30357-qZe4tSHENTeE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2021-12-17T09:08:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/357/Wolfs_Rain"
+    "externalLinks": [],
+    "malId": 357,
+    "deletedAt": null,
+    "authors": [
+      "Keiko Nobumoto",
+      "Toshitsugu Iida"
+    ]
+  }
 }

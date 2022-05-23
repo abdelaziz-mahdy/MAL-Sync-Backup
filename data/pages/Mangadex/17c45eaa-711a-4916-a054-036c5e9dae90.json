@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takenashi Eri"
-  ],
+  "createdAt": "2020-10-12T16:17:43.000Z",
+  "updatedAt": "2021-12-07T10:20:07.000Z",
+  "checkedAt": null,
+  "id": 31713,
   "identifier": "17c45eaa-711a-4916-a054-036c5e9dae90",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123020,
   "aniId": 113036,
-  "createdAt": "2020-10-12T16:17:43.000Z",
-  "updatedAt": "2021-12-07T10:20:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takenashi Eri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-20T21:19:50.000Z",
+    "checkedAt": "2022-05-20T21:19:50.000Z",
+    "id": 123020,
+    "type": "manga",
+    "title": "Niji to Kuro",
+    "altTitle": [
+      "Niji and Kuro",
+      "Rainbow and Black",
+      "ニジとクロ"
+    ],
+    "url": "https://myanimelist.net/manga/123020/Niji_to_Kuro",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227432.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Niji and Kuro",
-      "Rainbow and Black",
-      "ニジとクロ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takenashi, Eri"
-    ],
-    "id": 123020,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:12.904Z",
+    "updatedAt": "2022-05-20T21:19:49.000Z",
+    "checkedAt": "2022-05-20T21:19:49.000Z",
+    "id": 113036,
     "type": "manga",
     "title": "Niji to Kuro",
-    "url": "https://myanimelist.net/manga/123020/Niji_to_Kuro",
-    "image": "https://cdn.myanimelist.net/images/manga/3/227432.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-04-03T21:36:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rainbow and Black",
       "ニジとクロ",
@@ -52,21 +61,15 @@
       "Niji and Kuro",
       "Koji to Kuro"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eri Takenashi"
-    ],
-    "id": 113036,
-    "malId": 123020,
-    "type": "manga",
-    "title": "Niji to Kuro",
     "url": "https://anilist.co/manga/113036",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113036-nzO00Fa4MfaC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T07:51:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123020/Niji_to_Kuro"
+    "externalLinks": [],
+    "malId": 123020,
+    "deletedAt": null,
+    "authors": [
+      "Eri Takenashi"
+    ]
+  }
 }

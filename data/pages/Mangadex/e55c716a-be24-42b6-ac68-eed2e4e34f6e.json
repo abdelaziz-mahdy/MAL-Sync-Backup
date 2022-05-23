@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoko Yoko"
-  ],
+  "createdAt": "2020-10-12T16:19:37.000Z",
+  "updatedAt": "2021-12-07T22:36:40.000Z",
+  "checkedAt": null,
+  "id": 35526,
   "identifier": "e55c716a-be24-42b6-ac68-eed2e4e34f6e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 126715,
   "aniId": 118230,
-  "createdAt": "2020-10-12T16:19:37.000Z",
-  "updatedAt": "2021-12-07T22:36:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoko Yoko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2022-03-22T16:27:37.000Z",
+    "checkedAt": null,
+    "id": 126715,
+    "type": "manga",
+    "title": "Koisuru Bukimi-chan",
+    "altTitle": [
+      "Bukimi-chan in Love",
+      "恋するブキミちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/126715/Koisuru_Bukimi-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/240255.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bukimi-chan in Love",
-      "恋するブキミちゃん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yokoe, Kouhei"
-    ],
-    "id": 126715,
-    "type": "manga",
-    "title": "Koisuru Bukimi-chan",
-    "url": "https://myanimelist.net/manga/126715/Koisuru_Bukimi-chan",
-    "image": "https://cdn.myanimelist.net/images/manga/1/240255.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2022-03-22T16:27:37.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:57.399Z",
+    "updatedAt": "2022-05-13T13:02:57.399Z",
+    "checkedAt": null,
+    "id": 118230,
+    "type": "manga",
+    "title": "Koisuru Bukimi-chan ",
     "altTitle": [
       "恋するブキミちゃん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouhei Yokoe"
-    ],
-    "id": 118230,
-    "malId": 126715,
-    "type": "manga",
-    "title": "Koisuru Bukimi-chan ",
     "url": "https://anilist.co/manga/118230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118230-Qwjby4bEDzgQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:15.000Z",
-    "updatedAt": "2021-12-18T09:21:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126715/Koisuru_Bukimi-chan"
+    "externalLinks": [],
+    "malId": 126715,
+    "deletedAt": null,
+    "authors": [
+      "Kouhei Yokoe"
+    ]
+  }
 }

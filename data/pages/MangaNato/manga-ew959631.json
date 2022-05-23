@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Lee Jong-Bum"
-  ],
+  "createdAt": "2021-05-29T02:45:34.000Z",
+  "updatedAt": "2022-02-09T11:40:08.000Z",
+  "checkedAt": null,
+  "id": 73277,
   "identifier": "manga-ew959631",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40345,
   "aniId": 70345,
-  "createdAt": "2021-05-29T02:45:34.000Z",
-  "updatedAt": "2022-02-09T11:40:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Jong-Bum"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:07.000Z",
+    "updatedAt": "2022-05-15T04:01:39.000Z",
+    "checkedAt": "2022-05-15T04:01:39.000Z",
+    "id": 40345,
+    "type": "manga",
+    "title": "Dr. Frost",
+    "altTitle": [
+      "닥터 프로스트"
+    ],
+    "url": "https://myanimelist.net/manga/40345/Dr_Frost",
+    "image": "https://cdn.myanimelist.net/images/manga/4/86765.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "닥터 프로스트"
-    ],
+    "deletedAt": null,
     "authors": [
       "Lee, Jong-bum"
-    ],
-    "id": 40345,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:42.124Z",
+    "updatedAt": "2022-05-17T18:29:19.000Z",
+    "checkedAt": "2022-05-17T18:29:19.000Z",
+    "id": 70345,
     "type": "manga",
     "title": "Dr. Frost",
-    "url": "https://myanimelist.net/manga/40345/Dr_Frost",
-    "image": "https://cdn.myanimelist.net/images/manga/4/86765.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:07.000Z",
-    "updatedAt": "2022-02-09T11:39:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dr. Frost",
       "닥터 프로스트"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jong-bum Lee"
-    ],
-    "id": 70345,
-    "malId": 40345,
-    "type": "manga",
-    "title": "Dr. Frost",
     "url": "https://anilist.co/manga/70345",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40345.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:45.000Z",
-    "updatedAt": "2021-12-17T20:21:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/40345/Dr_Frost"
+    "externalLinks": [],
+    "malId": 40345,
+    "deletedAt": null,
+    "authors": [
+      "Jong-bum Lee"
+    ]
+  }
 }

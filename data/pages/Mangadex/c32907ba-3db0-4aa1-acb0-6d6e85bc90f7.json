@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishinomori Shotaro"
-  ],
+  "createdAt": "2020-10-12T16:07:13.000Z",
+  "updatedAt": "2021-12-04T01:18:37.000Z",
+  "checkedAt": null,
+  "id": 10156,
   "identifier": "c32907ba-3db0-4aa1-acb0-6d6e85bc90f7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91751,
   "aniId": 95662,
-  "createdAt": "2020-10-12T16:07:13.000Z",
-  "updatedAt": "2021-12-04T01:18:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishinomori Shotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:08.000Z",
+    "updatedAt": "2021-11-14T07:14:09.000Z",
+    "checkedAt": null,
+    "id": 91751,
+    "type": "manga",
+    "title": "Hotel",
+    "altTitle": [
+      "HOTEL"
+    ],
+    "url": "https://myanimelist.net/manga/91751/Hotel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/161359.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "HOTEL"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou"
-    ],
-    "id": 91751,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:15.156Z",
+    "updatedAt": "2022-05-13T12:59:15.156Z",
+    "checkedAt": null,
+    "id": 95662,
     "type": "manga",
     "title": "Hotel",
-    "url": "https://myanimelist.net/manga/91751/Hotel",
-    "image": "https://cdn.myanimelist.net/images/manga/3/161359.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:08.000Z",
-    "updatedAt": "2021-11-14T07:14:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "HOTEL"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoutarou Ishinomori"
-    ],
-    "id": 95662,
-    "malId": 91751,
-    "type": "manga",
-    "title": "Hotel",
     "url": "https://anilist.co/manga/95662",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95662-MYmPvdpGpony.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:37.000Z",
-    "updatedAt": "2022-05-04T18:00:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91751/Hotel"
+    "externalLinks": [],
+    "malId": 91751,
+    "deletedAt": null,
+    "authors": [
+      "Shoutarou Ishinomori"
+    ]
+  }
 }

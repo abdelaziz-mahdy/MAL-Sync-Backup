@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Joh Araki",
-    "Matsui Katsunori"
-  ],
+  "createdAt": "2020-10-12T16:02:29.000Z",
+  "updatedAt": "2021-12-02T07:17:28.000Z",
+  "checkedAt": null,
+  "id": 210,
   "identifier": "d8f36a13-8160-4cde-8589-b658846ac250",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20297,
   "aniId": 50297,
-  "createdAt": "2020-10-12T16:02:29.000Z",
-  "updatedAt": "2021-12-02T07:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Joh Araki",
+    "Matsui Katsunori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:49.000Z",
+    "updatedAt": "2022-05-03T03:00:47.000Z",
+    "checkedAt": null,
+    "id": 20297,
+    "type": "manga",
+    "title": "Sommelière",
+    "altTitle": [
+      "Sommeliere",
+      "Grape Wine Expert",
+      "La Sommelière",
+      "ソムリエール"
+    ],
+    "url": "https://myanimelist.net/manga/20297/Sommelière",
+    "image": "https://cdn.myanimelist.net/images/manga/2/166418.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sommeliere",
-      "Grape Wine Expert",
-      "La Sommelière",
-      "ソムリエール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Joh, Araki",
       "Matsui, Katsunori"
-    ],
-    "id": 20297,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:28.916Z",
+    "updatedAt": "2022-05-13T12:54:28.916Z",
+    "checkedAt": null,
+    "id": 50297,
     "type": "manga",
     "title": "Sommelière",
-    "url": "https://myanimelist.net/manga/20297/Sommelière",
-    "image": "https://cdn.myanimelist.net/images/manga/2/166418.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:49.000Z",
-    "updatedAt": "2022-05-03T03:00:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ソムリエール",
       "Sommeliere",
       "Grape Wine Expert",
       "La Sommelière"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Araki Joh",
-      "Katsunori Matsui"
-    ],
-    "id": 50297,
-    "malId": 20297,
-    "type": "manga",
-    "title": "Sommelière",
     "url": "https://anilist.co/manga/50297",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50297-I69nUwEhxvAx.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:28.000Z",
-    "updatedAt": "2021-12-17T17:14:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20297/Sommelière"
+    "externalLinks": [],
+    "malId": 20297,
+    "deletedAt": null,
+    "authors": [
+      "Araki Joh",
+      "Katsunori Matsui"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toriyama Akira"
-  ],
+  "createdAt": "2020-10-12T16:04:06.000Z",
+  "updatedAt": "2021-12-02T18:48:27.000Z",
+  "checkedAt": null,
+  "id": 3632,
   "identifier": "0612d28f-ab26-4515-98a2-727549b00c19",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2897,
   "aniId": 32897,
-  "createdAt": "2020-10-12T16:04:06.000Z",
-  "updatedAt": "2021-12-02T18:48:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toriyama Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:46.000Z",
+    "updatedAt": "2022-05-15T21:43:01.000Z",
+    "checkedAt": "2022-05-15T21:43:01.000Z",
+    "id": 2897,
+    "type": "manga",
+    "title": "Neko Majin",
+    "altTitle": [
+      "Nekomajin Z",
+      "Nekomajin",
+      "Neko Majin",
+      "ネコマジン"
+    ],
+    "url": "https://myanimelist.net/manga/2897/Neko_Majin",
+    "image": "https://cdn.myanimelist.net/images/manga/4/111781.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nekomajin Z",
-      "Nekomajin",
-      "Neko Majin",
-      "ネコマジン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toriyama, Akira"
-    ],
-    "id": 2897,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:10.734Z",
+    "updatedAt": "2022-05-15T22:21:11.000Z",
+    "checkedAt": "2022-05-15T22:21:11.000Z",
+    "id": 32897,
     "type": "manga",
     "title": "Neko Majin",
-    "url": "https://myanimelist.net/manga/2897/Neko_Majin",
-    "image": "https://cdn.myanimelist.net/images/manga/4/111781.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:46.000Z",
-    "updatedAt": "2022-04-27T20:30:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Neko Majin",
       "ネコマジン",
@@ -57,21 +66,15 @@
       "Nekomajin",
       "Nekomajin: El Gato Mágico"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Toriyama"
-    ],
-    "id": 32897,
-    "malId": 2897,
-    "type": "manga",
-    "title": "Neko Majin",
     "url": "https://anilist.co/manga/32897",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2897.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:16.000Z",
-    "updatedAt": "2021-12-17T11:04:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2897/Neko_Majin"
+    "externalLinks": [],
+    "malId": 2897,
+    "deletedAt": null,
+    "authors": [
+      "Akira Toriyama"
+    ]
+  }
 }

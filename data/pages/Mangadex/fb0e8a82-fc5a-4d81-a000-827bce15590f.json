@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maya Mineo"
-  ],
+  "createdAt": "2020-10-12T16:03:01.000Z",
+  "updatedAt": "2021-12-02T11:18:36.000Z",
+  "checkedAt": null,
+  "id": 1363,
   "identifier": "fb0e8a82-fc5a-4d81-a000-827bce15590f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6045,
   "aniId": 36045,
-  "createdAt": "2020-10-12T16:03:01.000Z",
-  "updatedAt": "2021-12-02T11:18:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maya Mineo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:09.000Z",
+    "updatedAt": "2022-05-15T13:22:04.000Z",
+    "checkedAt": "2022-05-15T13:22:04.000Z",
+    "id": 6045,
+    "type": "manga",
+    "title": "Patalliro!",
+    "altTitle": [
+      "Patariro!",
+      "パタリロ!"
+    ],
+    "url": "https://myanimelist.net/manga/6045/Patalliro",
+    "image": "https://cdn.myanimelist.net/images/manga/3/11481.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Patariro!",
-      "パタリロ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maya, Mineo"
-    ],
-    "id": 6045,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:06.904Z",
+    "updatedAt": "2022-05-15T17:36:47.000Z",
+    "checkedAt": "2022-05-15T17:36:47.000Z",
+    "id": 36045,
     "type": "manga",
     "title": "Patalliro!",
-    "url": "https://myanimelist.net/manga/6045/Patalliro",
-    "image": "https://cdn.myanimelist.net/images/manga/3/11481.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:09.000Z",
-    "updatedAt": "2022-04-29T16:01:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Patalliro!",
       "パタリロ!",
       "Patariro!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mineo Maya"
-    ],
-    "id": 36045,
-    "malId": 6045,
-    "type": "manga",
-    "title": "Patalliro!",
     "url": "https://anilist.co/manga/36045",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36045-qLLFvHU7kjHo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:36.000Z",
-    "updatedAt": "2021-12-17T12:42:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6045/Patalliro"
+    "externalLinks": [],
+    "malId": 6045,
+    "deletedAt": null,
+    "authors": [
+      "Mineo Maya"
+    ]
+  }
 }

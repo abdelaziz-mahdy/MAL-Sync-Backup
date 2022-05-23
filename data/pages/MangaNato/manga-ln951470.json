@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "One"
-  ],
+  "createdAt": "2021-05-29T00:13:04.000Z",
+  "updatedAt": "2021-11-29T01:07:06.000Z",
+  "checkedAt": null,
+  "id": 73199,
   "identifier": "manga-ln951470",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60783,
   "aniId": 85189,
-  "createdAt": "2021-05-29T00:13:04.000Z",
-  "updatedAt": "2021-11-29T01:07:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "One"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:56.000Z",
+    "updatedAt": "2022-05-14T10:08:32.000Z",
+    "checkedAt": "2022-05-14T10:08:32.000Z",
+    "id": 60783,
+    "type": "manga",
+    "title": "Mob Psycho 100",
+    "altTitle": [
+      "One Hundred Mob Psycho",
+      "Mob Psycho 100",
+      "モブサイコ100"
+    ],
+    "url": "https://myanimelist.net/manga/60783/Mob_Psycho_100",
+    "image": "https://cdn.myanimelist.net/images/manga/2/204842.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "One Hundred Mob Psycho",
-      "Mob Psycho 100",
-      "モブサイコ100"
-    ],
+    "deletedAt": null,
     "authors": [
       "ONE"
-    ],
-    "id": 60783,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:21.469Z",
+    "updatedAt": "2022-05-15T18:06:35.000Z",
+    "checkedAt": "2022-05-15T18:06:35.000Z",
+    "id": 85189,
     "type": "manga",
     "title": "Mob Psycho 100",
-    "url": "https://myanimelist.net/manga/60783/Mob_Psycho_100",
-    "image": "https://cdn.myanimelist.net/images/manga/2/204842.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:56.000Z",
-    "updatedAt": "2022-04-14T19:00:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mob Psycho 100",
       "モブサイコ100",
@@ -53,7 +62,13 @@
       "100 Mob Psycho",
       "ม็อบไซโค 100 คนพลังจิต"
     ],
+    "url": "https://anilist.co/manga/85189",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85189-06aXUBq5jwce.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 60783,
+    "deletedAt": null,
     "authors": [
       "ONE",
       "koya",
@@ -61,18 +76,6 @@
       "Felipe Monte",
       "Trang Nguyễn",
       "Mokey King"
-    ],
-    "id": 85189,
-    "malId": 60783,
-    "type": "manga",
-    "title": "Mob Psycho 100",
-    "url": "https://anilist.co/manga/85189",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85189-06aXUBq5jwce.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:40.000Z",
-    "updatedAt": "2022-05-02T03:04:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60783/Mob_Psycho_100"
+    ]
+  }
 }

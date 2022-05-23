@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Amagi Seimaru",
-    "Hakus"
-  ],
+  "createdAt": "2020-10-12T16:07:57.000Z",
+  "updatedAt": "2021-12-04T06:48:09.000Z",
+  "checkedAt": null,
+  "id": 11687,
   "identifier": "69679277-d833-4fbe-9c1e-b6194be18bdf",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 76397,
   "aniId": 85406,
-  "createdAt": "2020-10-12T16:07:57.000Z",
-  "updatedAt": "2021-12-04T06:48:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amagi Seimaru",
+    "Hakus"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:24.000Z",
+    "updatedAt": "2022-05-14T23:17:29.000Z",
+    "checkedAt": "2022-05-14T23:17:29.000Z",
+    "id": 76397,
+    "type": "manga",
+    "title": "Zero: Kage Miko",
+    "altTitle": [
+      "Rei: Kage Miko",
+      "Fatal Frame: Shadow Priestess",
+      "Zero",
+      "零 影巫女"
+    ],
+    "url": "https://myanimelist.net/manga/76397/Zero__Kage_Miko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/141405.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rei: Kage Miko",
-      "Fatal Frame: Shadow Priestess",
-      "Zero",
-      "零 影巫女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kibayashi, Shin",
       "hakus"
-    ],
-    "id": 76397,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:50.149Z",
+    "updatedAt": "2022-05-16T07:50:42.000Z",
+    "checkedAt": "2022-05-16T07:50:42.000Z",
+    "id": 85406,
     "type": "manga",
     "title": "Zero: Kage Miko",
-    "url": "https://myanimelist.net/manga/76397/Zero__Kage_Miko",
-    "image": "https://cdn.myanimelist.net/images/manga/3/141405.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:24.000Z",
-    "updatedAt": "2022-01-22T13:30:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Zero",
       "零 影巫女",
       "Rei: Kage Miko",
       "Fatal Frame: Shadow Priestess"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shin Kibayashi",
-      "hakus"
-    ],
-    "id": 85406,
-    "malId": 76397,
-    "type": "manga",
-    "title": "Zero: Kage Miko",
     "url": "https://anilist.co/manga/85406",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85406-i49HAjzWEaoO.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:49.000Z",
-    "updatedAt": "2021-12-17T22:00:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/76397/Zero__Kage_Miko"
+    "externalLinks": [],
+    "malId": 76397,
+    "deletedAt": null,
+    "authors": [
+      "Shin Kibayashi",
+      "hakus"
+    ]
+  }
 }

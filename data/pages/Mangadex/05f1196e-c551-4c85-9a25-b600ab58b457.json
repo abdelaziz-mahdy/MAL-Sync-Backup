@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nasu Yukie"
-  ],
+  "createdAt": "2020-11-14T17:53:23.000Z",
+  "updatedAt": "2021-12-08T07:38:41.000Z",
+  "checkedAt": null,
+  "id": 52266,
   "identifier": "05f1196e-c551-4c85-9a25-b600ab58b457",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10072,
   "aniId": 40072,
-  "createdAt": "2020-11-14T17:53:23.000Z",
-  "updatedAt": "2021-12-08T07:38:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nasu Yukie"
+  ],
   "Mal": {
+    "createdAt": "2020-11-14T17:53:21.000Z",
+    "updatedAt": "2021-11-14T18:13:49.000Z",
+    "checkedAt": null,
+    "id": 10072,
+    "type": "manga",
+    "title": "Gekkou",
+    "altTitle": [
+      "Over the Lights, Under the Moon",
+      "月光"
+    ],
+    "url": "https://myanimelist.net/manga/10072/Gekkou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/212697.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Over the Lights, Under the Moon",
-      "月光"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nasu, Yukie"
-    ],
-    "id": 10072,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:50.577Z",
+    "updatedAt": "2022-05-13T12:55:50.577Z",
+    "checkedAt": null,
+    "id": 40072,
     "type": "manga",
     "title": "Gekkou",
-    "url": "https://myanimelist.net/manga/10072/Gekkou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/212697.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-14T17:53:21.000Z",
-    "updatedAt": "2021-11-14T18:13:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Over the Lights",
       "月光",
       "Over the Lights",
       "Under the Moon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukie Nasu"
-    ],
-    "id": 40072,
-    "malId": 10072,
-    "type": "manga",
-    "title": "Gekkou",
     "url": "https://anilist.co/manga/40072",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40072-lMM7dQ5YhVjc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2021-12-17T13:48:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10072/Gekkou"
+    "externalLinks": [],
+    "malId": 10072,
+    "deletedAt": null,
+    "authors": [
+      "Yukie Nasu"
+    ]
+  }
 }

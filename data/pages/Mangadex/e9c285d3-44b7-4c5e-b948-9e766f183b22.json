@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kurata Hideyuki",
-    "Yamada Shutaro"
-  ],
+  "createdAt": "2020-10-12T16:04:55.000Z",
+  "updatedAt": "2021-12-03T00:48:58.000Z",
+  "checkedAt": null,
+  "id": 5324,
   "identifier": "e9c285d3-44b7-4c5e-b948-9e766f183b22",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 137,
   "aniId": 30137,
-  "createdAt": "2020-10-12T16:04:55.000Z",
-  "updatedAt": "2021-12-03T00:48:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurata Hideyuki",
+    "Yamada Shutaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-14T21:08:29.000Z",
+    "checkedAt": "2022-05-14T21:08:29.000Z",
+    "id": 137,
+    "type": "manga",
+    "title": "R.O.D: Read or Die",
+    "altTitle": [
+      "RoD",
+      "Read or Die",
+      "R.O.D -READ OR DIE-"
+    ],
+    "url": "https://myanimelist.net/manga/137/ROD__Read_or_Die",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178269.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RoD",
-      "Read or Die",
-      "R.O.D -READ OR DIE-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurata, Hideyuki",
       "Yamada, Shutarou"
-    ],
-    "id": 137,
-    "type": "manga",
-    "title": "R.O.D: Read or Die",
-    "url": "https://myanimelist.net/manga/137/ROD__Read_or_Die",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178269.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-26T00:30:58.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:16.176Z",
+    "updatedAt": "2022-05-20T06:01:07.000Z",
+    "checkedAt": "2022-05-20T06:01:07.000Z",
+    "id": 30137,
+    "type": "manga",
+    "title": "R.O.D: READ OR DIE",
     "altTitle": [
       "Read or Die",
       "R.O.D -READ OR DIE-",
       "RoD",
       "R.O.D."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideyuki Kurata",
-      "Shutaro Yamada"
-    ],
-    "id": 30137,
-    "malId": 137,
-    "type": "manga",
-    "title": "R.O.D: READ OR DIE",
     "url": "https://anilist.co/manga/30137",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30137-E0LQEs5jAojV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2022-05-01T17:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/137/ROD__Read_or_Die"
+    "externalLinks": [],
+    "malId": 137,
+    "deletedAt": null,
+    "authors": [
+      "Hideyuki Kurata",
+      "Shutaro Yamada"
+    ]
+  }
 }

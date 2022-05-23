@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watsuki Nobuhiro"
-  ],
+  "createdAt": "2020-10-12T16:05:05.000Z",
+  "updatedAt": "2021-12-03T10:18:08.000Z",
+  "checkedAt": null,
+  "id": 5668,
   "identifier": "45e51495-ec90-4199-a0e2-e3d478d9a8f8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41,
   "aniId": 30041,
-  "createdAt": "2020-10-12T16:05:05.000Z",
-  "updatedAt": "2021-12-03T10:18:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watsuki Nobuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-12-01T00:06:05.000Z",
+    "checkedAt": null,
+    "id": 41,
+    "type": "manga",
+    "title": "Busou Renkin",
+    "altTitle": [
+      "Buso Renkin",
+      "Arms Alchemy",
+      "Embalming: Dead Body and Bride",
+      "武装錬金"
+    ],
+    "url": "https://myanimelist.net/manga/41/Busou_Renkin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/149583.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Buso Renkin",
-      "Arms Alchemy",
-      "Embalming: Dead Body and Bride",
-      "武装錬金"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watsuki, Nobuhiro"
-    ],
-    "id": 41,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:15.833Z",
+    "updatedAt": "2022-05-13T12:51:15.833Z",
+    "checkedAt": null,
+    "id": 30041,
     "type": "manga",
     "title": "Busou Renkin",
-    "url": "https://myanimelist.net/manga/41/Busou_Renkin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/149583.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-12-01T00:06:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Buso Renkin",
       "武装錬金",
       "Arms Alchemy",
       "Armamento Alquimista"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nobuhiro Watsuki",
-      "Edward Kondo"
-    ],
-    "id": 30041,
-    "malId": 41,
-    "type": "manga",
-    "title": "Busou Renkin",
     "url": "https://anilist.co/manga/30041",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30041-EwOoWExErYRi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/41/Busou_Renkin"
+    "externalLinks": [],
+    "malId": 41,
+    "deletedAt": null,
+    "authors": [
+      "Nobuhiro Watsuki",
+      "Edward Kondo"
+    ]
+  }
 }

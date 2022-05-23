@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshida Sensha"
-  ],
+  "createdAt": "2020-10-12T16:07:12.000Z",
+  "updatedAt": "2021-12-04T09:17:19.000Z",
+  "checkedAt": null,
+  "id": 10109,
   "identifier": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14124,
   "aniId": 44124,
-  "createdAt": "2020-10-12T16:07:12.000Z",
-  "updatedAt": "2021-12-04T09:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshida Sensha"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T09:01:55.000Z",
+    "updatedAt": "2021-12-04T09:16:15.000Z",
+    "checkedAt": null,
+    "id": 14124,
+    "type": "manga",
+    "title": "Utsurun desu.",
+    "altTitle": [
+      "Uturun desu.",
+      "伝染るんです。"
+    ],
+    "url": "https://myanimelist.net/manga/14124/Utsurun_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/20140.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Uturun desu.",
-      "伝染るんです。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshida, Sensha"
-    ],
-    "id": 14124,
-    "type": "manga",
-    "title": "Utsurun desu.",
-    "url": "https://myanimelist.net/manga/14124/Utsurun_desu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/20140.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T09:01:55.000Z",
-    "updatedAt": "2021-12-04T09:16:15.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:46.197Z",
+    "updatedAt": "2022-05-13T12:51:46.197Z",
+    "checkedAt": null,
+    "id": 44124,
+    "type": "manga",
+    "title": "Utsurun Desu.",
     "altTitle": [
       "伝染るんです。",
       "Uturun Desu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sensha Yoshida"
-    ],
-    "id": 44124,
-    "malId": 14124,
-    "type": "manga",
-    "title": "Utsurun Desu.",
     "url": "https://anilist.co/manga/44124",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14124.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T01:20:20.000Z",
-    "updatedAt": "2021-12-17T15:32:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14124/Utsurun_desu"
+    "externalLinks": [],
+    "malId": 14124,
+    "deletedAt": null,
+    "authors": [
+      "Sensha Yoshida"
+    ]
+  }
 }

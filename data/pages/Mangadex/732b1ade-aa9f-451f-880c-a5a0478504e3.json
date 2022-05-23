@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hara Tetsuo",
-    "Buronson"
-  ],
+  "createdAt": "2020-10-12T16:03:19.000Z",
+  "updatedAt": "2021-12-02T13:19:28.000Z",
+  "checkedAt": null,
+  "id": 1978,
   "identifier": "732b1ade-aa9f-451f-880c-a5a0478504e3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1148,
   "aniId": 31148,
-  "createdAt": "2020-10-12T16:03:19.000Z",
-  "updatedAt": "2021-12-02T13:19:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hara Tetsuo",
+    "Buronson"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:30.000Z",
+    "updatedAt": "2022-05-16T18:33:57.000Z",
+    "checkedAt": "2022-05-16T18:33:57.000Z",
+    "id": 1148,
+    "type": "manga",
+    "title": "Souten no Ken",
+    "altTitle": [
+      "Fist of the Blue Sky",
+      "Fist of the Blue Sky",
+      "蒼天の拳"
+    ],
+    "url": "https://myanimelist.net/manga/1148/Souten_no_Ken",
+    "image": "https://cdn.myanimelist.net/images/manga/3/829.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fist of the Blue Sky",
-      "Fist of the Blue Sky",
-      "蒼天の拳"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hara, Tetsuo",
       "Buronson"
-    ],
-    "id": 1148,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:04.288Z",
+    "updatedAt": "2022-05-16T18:33:55.000Z",
+    "checkedAt": "2022-05-16T18:33:55.000Z",
+    "id": 31148,
     "type": "manga",
     "title": "Souten no Ken",
-    "url": "https://myanimelist.net/manga/1148/Souten_no_Ken",
-    "image": "https://cdn.myanimelist.net/images/manga/3/829.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2022-03-27T08:27:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fist of the Blue Sky",
       "蒼天の拳"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuo Hara",
-      "Yoshiyuki Okamura"
-    ],
-    "id": 31148,
-    "malId": 1148,
-    "type": "manga",
-    "title": "Souten no Ken",
     "url": "https://anilist.co/manga/31148",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31148-2UwTqzyxlpUo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:54.000Z",
-    "updatedAt": "2021-12-17T09:42:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1148/Souten_no_Ken"
+    "externalLinks": [],
+    "malId": 1148,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuo Hara",
+      "Yoshiyuki Okamura"
+    ]
+  }
 }

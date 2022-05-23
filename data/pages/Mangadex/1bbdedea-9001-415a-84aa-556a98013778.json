@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Naoya"
-  ],
+  "createdAt": "2020-10-12T16:07:14.000Z",
+  "updatedAt": "2021-12-04T01:49:52.000Z",
+  "checkedAt": null,
+  "id": 10170,
   "identifier": "1bbdedea-9001-415a-84aa-556a98013778",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17046,
   "aniId": 47046,
-  "createdAt": "2020-10-12T16:07:14.000Z",
-  "updatedAt": "2021-12-04T01:49:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Naoya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:25.000Z",
+    "updatedAt": "2022-05-17T17:08:32.000Z",
+    "checkedAt": "2022-05-17T17:08:32.000Z",
+    "id": 17046,
+    "type": "manga",
+    "title": "Neko Wappa!",
+    "altTitle": [
+      "Nekowappa!",
+      "Neko Wappa",
+      "Necowappa!",
+      "ねこわっぱ！"
+    ],
+    "url": "https://myanimelist.net/manga/17046/Neko_Wappa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/178945.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nekowappa!",
-      "Neko Wappa",
-      "Necowappa!",
-      "ねこわっぱ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Naoya"
-    ],
-    "id": 17046,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.435Z",
+    "updatedAt": "2022-05-17T17:08:31.000Z",
+    "checkedAt": "2022-05-17T17:08:31.000Z",
+    "id": 47046,
     "type": "manga",
     "title": "Neko Wappa!",
-    "url": "https://myanimelist.net/manga/17046/Neko_Wappa",
-    "image": "https://cdn.myanimelist.net/images/manga/1/178945.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:25.000Z",
-    "updatedAt": "2022-05-02T11:00:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ねこわっぱ！",
       "Nekowappa!",
       "Neko Wappa",
       "Necowappa!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoya Matsumoto"
-    ],
-    "id": 47046,
-    "malId": 17046,
-    "type": "manga",
-    "title": "Neko Wappa!",
     "url": "https://anilist.co/manga/47046",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47046-JEeGygno4xKM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:02.000Z",
-    "updatedAt": "2021-12-17T16:15:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17046/Neko_Wappa"
+    "externalLinks": [],
+    "malId": 17046,
+    "deletedAt": null,
+    "authors": [
+      "Naoya Matsumoto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Yoko"
-  ],
+  "createdAt": "2020-10-12T16:07:54.000Z",
+  "updatedAt": "2021-12-04T06:22:19.000Z",
+  "checkedAt": null,
+  "id": 11587,
   "identifier": "f22f4bf8-11da-4f21-a63d-89eea1bf08c1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30427,
   "aniId": 60427,
-  "createdAt": "2020-10-12T16:07:54.000Z",
-  "updatedAt": "2021-12-04T06:22:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Yoko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E9%BB%92%E3%81%AE%E7%B5%84%E6%9B%B2"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:41.000Z",
+    "updatedAt": "2021-11-04T23:05:00.000Z",
+    "checkedAt": null,
+    "id": 30427,
+    "type": "manga",
+    "title": "Kuro no Kumikyoku",
     "altTitle": [
       "Tenshi wa Yami ni Hohoemu",
       "Bell ga Nattara",
@@ -33,21 +34,29 @@
       "Violet",
       "黒の組曲"
     ],
-    "authors": [
-      "Matsumoto, Yoko"
-    ],
-    "id": 30427,
-    "type": "manga",
-    "title": "Kuro no Kumikyoku",
     "url": "https://myanimelist.net/manga/30427/Kuro_no_Kumikyoku",
     "image": "https://cdn.myanimelist.net/images/manga/2/52389.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2021-11-04T23:05:00.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%BB%92%E3%81%AE%E7%B5%84%E6%9B%B2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Matsumoto, Yoko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:47.441Z",
+    "updatedAt": "2022-05-13T12:41:47.441Z",
+    "checkedAt": null,
+    "id": 60427,
+    "type": "manga",
+    "title": "Kuro no Kumikyoku",
     "altTitle": [
       "黒の組曲",
       "Tenshi wa Yami ni Hohoemu",
@@ -55,21 +64,15 @@
       "Cole",
       "Linda"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoko Matsumoto"
-    ],
-    "id": 60427,
-    "malId": 30427,
-    "type": "manga",
-    "title": "Kuro no Kumikyoku",
     "url": "https://anilist.co/manga/60427",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30427.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-12-17T19:07:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30427/Kuro_no_Kumikyoku"
+    "externalLinks": [],
+    "malId": 30427,
+    "deletedAt": null,
+    "authors": [
+      "Yoko Matsumoto"
+    ]
+  }
 }

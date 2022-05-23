@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kumeta Kouji"
-  ],
+  "createdAt": "2021-05-29T20:12:23.000Z",
+  "updatedAt": "2021-11-29T21:06:25.000Z",
+  "checkedAt": null,
+  "id": 74082,
   "identifier": "manga-rb955658",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94169,
   "aniId": 97603,
-  "createdAt": "2021-05-29T20:12:23.000Z",
-  "updatedAt": "2021-11-29T21:06:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kumeta Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-05-17T04:52:11.000Z",
+    "checkedAt": "2022-05-17T04:52:11.000Z",
+    "id": 94169,
+    "type": "manga",
+    "title": "Kakushigoto",
+    "altTitle": [
+      "Hidden Things",
+      "Kakushigoto: My Dad's Secret Ambition",
+      "かくしごと"
+    ],
+    "url": "https://myanimelist.net/manga/94169/Kakushigoto",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179093.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hidden Things",
-      "Kakushigoto: My Dad's Secret Ambition",
-      "かくしごと"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kumeta, Kouji"
-    ],
-    "id": 94169,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:01.063Z",
+    "updatedAt": "2022-05-17T04:52:10.000Z",
+    "checkedAt": "2022-05-17T04:52:10.000Z",
+    "id": 97603,
     "type": "manga",
     "title": "Kakushigoto",
-    "url": "https://myanimelist.net/manga/94169/Kakushigoto",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179093.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2022-03-20T13:51:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kakushigoto: My Dad's Secret Ambition",
       "かくしごと",
       "ความลับสุดยอดของคุณพ่อเลี้ยงเดี่ยว"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Kumeta",
-      "Kevin Gifford"
-    ],
-    "id": 97603,
-    "malId": 94169,
-    "type": "manga",
-    "title": "Kakushigoto",
     "url": "https://anilist.co/manga/97603",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97603-KUjMCEWKJPKJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2022-03-26T16:27:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94169/Kakushigoto"
+    "externalLinks": [],
+    "malId": 94169,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Kumeta",
+      "Kevin Gifford"
+    ]
+  }
 }

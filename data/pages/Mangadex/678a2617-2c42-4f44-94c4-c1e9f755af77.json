@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakahara Aya"
-  ],
+  "createdAt": "2020-10-12T16:06:39.000Z",
+  "updatedAt": "2021-12-03T21:18:27.000Z",
+  "checkedAt": null,
+  "id": 8934,
   "identifier": "678a2617-2c42-4f44-94c4-c1e9f755af77",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55403,
   "aniId": 86317,
-  "createdAt": "2020-10-12T16:06:39.000Z",
-  "updatedAt": "2021-12-03T21:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakahara Aya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2022-05-14T23:06:59.000Z",
+    "checkedAt": "2022-05-14T23:06:59.000Z",
+    "id": 55403,
+    "type": "manga",
+    "title": "Dame na Watashi ni Koishite Kudasai",
+    "altTitle": [
+      "Please Love the Useless Me",
+      "ダメな私に恋してください"
+    ],
+    "url": "https://myanimelist.net/manga/55403/Dame_na_Watashi_ni_Koishite_Kudasai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/163578.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Please Love the Useless Me",
-      "ダメな私に恋してください"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakahara, Aya"
-    ],
-    "id": 55403,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:10.446Z",
+    "updatedAt": "2022-05-17T02:27:18.000Z",
+    "checkedAt": "2022-05-17T02:27:18.000Z",
+    "id": 86317,
     "type": "manga",
     "title": "Dame na Watashi ni Koishite Kudasai",
-    "url": "https://myanimelist.net/manga/55403/Dame_na_Watashi_ni_Koishite_Kudasai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/163578.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2022-04-14T17:00:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ダメな私に恋してください",
       "Please Love the Useless Me",
       "Please love me.",
       "ช่วยรักคนไม่เอาไหนอย่างฉันจะได้ไหม"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aya Nakahara"
-    ],
-    "id": 86317,
-    "malId": 55403,
-    "type": "manga",
-    "title": "Dame na Watashi ni Koishite Kudasai",
     "url": "https://anilist.co/manga/86317",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86317-zlMHxrOQwNq5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2022-04-10T11:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55403/Dame_na_Watashi_ni_Koishite_Kudasai"
+    "externalLinks": [],
+    "malId": 55403,
+    "deletedAt": null,
+    "authors": [
+      "Aya Nakahara"
+    ]
+  }
 }

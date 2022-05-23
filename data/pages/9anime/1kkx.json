@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:13.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 974,
   "identifier": "1kkx",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38720,
   "aniId": 105655,
-  "createdAt": "2020-10-12T15:49:13.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:06.000Z",
+    "updatedAt": "2022-05-14T21:04:17.000Z",
+    "checkedAt": "2022-05-14T21:04:17.000Z",
+    "id": 38720,
+    "type": "anime",
+    "title": "Lupin III: Goodbye Partner",
+    "altTitle": [
+      "Lupin Sansei (2019)",
+      "ルパン三世 グッバイ・パートナー"
+    ],
+    "url": "https://myanimelist.net/anime/38720/Lupin_III__Goodbye_Partner",
+    "image": "https://cdn.myanimelist.net/images/anime/1013/98152.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,40 +50,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lupin Sansei (2019)",
-      "ルパン三世 グッバイ・パートナー"
-    ],
-    "id": 38720,
+    "deletedAt": null,
+    "anidbId": 14501
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:52.000Z",
+    "updatedAt": "2022-05-15T20:32:59.000Z",
+    "checkedAt": "2022-05-15T20:32:59.000Z",
+    "id": 105655,
     "type": "anime",
     "title": "Lupin III: Goodbye Partner",
-    "url": "https://myanimelist.net/anime/38720/Lupin_III__Goodbye_Partner",
-    "image": "https://cdn.myanimelist.net/images/anime/1013/98152.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 14501,
-    "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2022-04-23T00:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lupin the 3rd: Goodbye Partner",
       "ルパン三世 グッバイ・パートナー",
       "Lupin Sansei: Goodbye Partner"
     ],
-    "externalLinks": [],
-    "id": 105655,
-    "malId": 38720,
-    "type": "anime",
-    "title": "Lupin III: Goodbye Partner",
     "url": "https://anilist.co/anime/105655",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105655-Q8ZPRKOVtiwz.png",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:52.000Z",
-    "updatedAt": "2022-04-03T13:05:47.000Z",
+    "externalLinks": [],
+    "malId": 38720,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38720/Lupin_III__Goodbye_Partner"
+  }
 }

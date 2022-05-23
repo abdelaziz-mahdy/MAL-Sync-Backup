@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Cheng Kin Wo",
-    "Tang Chi Fai"
-  ],
+  "createdAt": "2020-10-12T16:10:34.000Z",
+  "updatedAt": "2021-12-05T01:52:34.000Z",
+  "checkedAt": null,
+  "id": 17423,
   "identifier": "1a4c6dbe-47f0-441c-b762-06c1166bc223",
   "type": "manga",
   "page": "Mangadex",
@@ -12,37 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 109143,
   "aniId": 102196,
-  "createdAt": "2020-10-12T16:10:34.000Z",
-  "updatedAt": "2021-12-05T01:52:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cheng Kin Wo",
+    "Tang Chi Fai"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:12.000Z",
+    "updatedAt": "2022-05-15T13:00:43.000Z",
+    "checkedAt": "2022-05-15T13:00:43.000Z",
+    "id": 109143,
+    "type": "manga",
+    "title": "Xi Xing Ji",
     "altTitle": [
       "Journey to the West",
       "Westbound",
       "Westbound Discipline",
       "西行纪"
     ],
-    "authors": [
-      "Tang, Chi Fai",
-      "Zheng, Jian He"
-    ],
-    "id": 109143,
-    "type": "manga",
-    "title": "Xi Xing Ji",
     "url": "https://myanimelist.net/manga/109143/Xi_Xing_Ji",
     "image": "https://cdn.myanimelist.net/images/manga/3/199761.jpg",
     "category": "Manhua",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:12.000Z",
-    "updatedAt": "2021-12-03T18:17:56.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tang, Chi Fai",
+      "Zheng, Jian He"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:50.901Z",
+    "updatedAt": "2022-05-15T17:27:59.000Z",
+    "checkedAt": "2022-05-15T17:27:59.000Z",
+    "id": 102196,
+    "type": "manga",
+    "title": "Xixing Ji",
     "altTitle": [
       "西行纪",
       "Journey to the West",
@@ -50,22 +59,16 @@
       " Westbound Discipline",
       "西游"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Zhihui Deng",
-      "Jianhe Zheng"
-    ],
-    "id": 102196,
-    "malId": 109143,
-    "type": "manga",
-    "title": "Xixing Ji",
     "url": "https://anilist.co/manga/102196",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102196-MUEQZeLjcCrx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:04.000Z",
-    "updatedAt": "2022-03-01T00:37:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/109143/Xi_Xing_Ji"
+    "externalLinks": [],
+    "malId": 109143,
+    "deletedAt": null,
+    "authors": [
+      "Zhihui Deng",
+      "Jianhe Zheng"
+    ]
+  }
 }

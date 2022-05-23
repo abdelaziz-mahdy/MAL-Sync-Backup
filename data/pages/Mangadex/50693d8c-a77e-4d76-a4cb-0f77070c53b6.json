@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ichtys"
-  ],
+  "createdAt": "2020-10-12T16:03:32.000Z",
+  "updatedAt": "2021-12-02T14:49:28.000Z",
+  "checkedAt": null,
+  "id": 2425,
   "identifier": "50693d8c-a77e-4d76-a4cb-0f77070c53b6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10342,
   "aniId": 40342,
-  "createdAt": "2020-10-12T16:03:32.000Z",
-  "updatedAt": "2021-12-02T14:49:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ichtys"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:27.000Z",
+    "updatedAt": "2022-04-30T20:31:15.000Z",
+    "checkedAt": null,
+    "id": 10342,
+    "type": "manga",
+    "title": "Sakura Yuki",
+    "altTitle": [
+      "桜雪"
+    ],
+    "url": "https://myanimelist.net/manga/10342/Sakura_Yuki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/19459.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "桜雪"
-    ],
+    "deletedAt": null,
     "authors": [
       "ichtys"
-    ],
-    "id": 10342,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:07.161Z",
+    "updatedAt": "2022-05-13T12:57:07.161Z",
+    "checkedAt": null,
+    "id": 40342,
     "type": "manga",
     "title": "Sakura Yuki",
-    "url": "https://myanimelist.net/manga/10342/Sakura_Yuki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/19459.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:27.000Z",
-    "updatedAt": "2022-04-30T20:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "桜雪"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichtys"
-    ],
-    "id": 40342,
-    "malId": 10342,
-    "type": "manga",
-    "title": "Sakura Yuki",
     "url": "https://anilist.co/manga/40342",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10342.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:03.000Z",
-    "updatedAt": "2021-12-17T14:06:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10342/Sakura_Yuki"
+    "externalLinks": [],
+    "malId": 10342,
+    "deletedAt": null,
+    "authors": [
+      "Ichtys"
+    ]
+  }
 }

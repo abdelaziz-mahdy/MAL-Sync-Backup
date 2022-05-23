@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ake Culture",
-    "An Tu Sheng"
-  ],
+  "createdAt": "2020-10-12T16:19:23.000Z",
+  "updatedAt": "2021-12-08T00:38:32.000Z",
+  "checkedAt": null,
+  "id": 35106,
   "identifier": "84d81921-6ecc-44a7-908a-a983f96e1f50",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123000,
-  "createdAt": "2020-10-12T16:19:23.000Z",
-  "updatedAt": "2021-12-08T00:38:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ake Culture",
+    "An Tu Sheng"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:24.309Z",
+    "updatedAt": "2022-05-13T12:54:24.309Z",
+    "checkedAt": null,
+    "id": 123000,
+    "type": "manga",
+    "title": "Mo Dao Bai Gu Yi",
     "altTitle": [
       "The Cursed Thief",
       "魔盗白骨衣",
       "Demon Thief, White Bone Ivory"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ake Wenhua"
-    ],
-    "id": 123000,
-    "malId": null,
-    "type": "manga",
-    "title": "Mo Dao Bai Gu Yi",
     "url": "https://anilist.co/manga/123000",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123000-TqLGNMzUfjsm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T22:20:58.000Z",
-    "updatedAt": "2022-04-27T04:01:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ake Wenhua"
+    ]
+  }
 }

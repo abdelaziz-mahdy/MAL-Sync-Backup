@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "FURUHASHI Hideyuki",
-    "GoHands",
-    "GoRA",
-    "KIMURA Rin"
-  ],
+  "createdAt": "2021-06-04T05:19:51.000Z",
+  "updatedAt": "2021-12-04T09:22:20.000Z",
+  "checkedAt": null,
+  "id": 76361,
   "identifier": "k-the-first",
   "type": "manga",
   "page": "MangaSee",
@@ -14,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 61999,
   "aniId": 85261,
-  "createdAt": "2021-06-04T05:19:51.000Z",
-  "updatedAt": "2021-12-04T09:22:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "FURUHASHI Hideyuki",
+    "GoHands",
+    "GoRA",
+    "KIMURA Rin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:03.000Z",
+    "updatedAt": "2022-05-16T23:36:15.000Z",
+    "checkedAt": "2022-05-16T23:36:15.000Z",
+    "id": 61999,
+    "type": "manga",
+    "title": "K: The First",
+    "altTitle": [
+      "K ―THE FIRST―"
+    ],
+    "url": "https://myanimelist.net/manga/61999/K__The_First",
+    "image": "https://cdn.myanimelist.net/images/manga/1/170852.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -28,46 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "K ―THE FIRST―"
-    ],
+    "deletedAt": null,
     "authors": [
       "GoRA",
       "Furuhashi, Hideyuki",
       "Kimura, Rin"
-    ],
-    "id": 61999,
-    "type": "manga",
-    "title": "K: The First",
-    "url": "https://myanimelist.net/manga/61999/K__The_First",
-    "image": "https://cdn.myanimelist.net/images/manga/1/170852.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:03.000Z",
-    "updatedAt": "2022-02-24T09:49:11.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:57.861Z",
+    "updatedAt": "2022-05-16T23:36:14.000Z",
+    "checkedAt": "2022-05-16T23:36:14.000Z",
+    "id": 85261,
+    "type": "manga",
+    "title": "K: THE FIRST",
     "altTitle": [
       "K -THE FIRST-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "GoRA",
-      "Hideyuki Furuhashi",
-      "Rin Kimura"
-    ],
-    "id": 85261,
-    "malId": 61999,
-    "type": "manga",
-    "title": "K: THE FIRST",
     "url": "https://anilist.co/manga/85261",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85261-CWmBvxBIB88D.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:42.000Z",
-    "updatedAt": "2021-11-11T07:13:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/61999/K__The_First"
+    "externalLinks": [],
+    "malId": 61999,
+    "deletedAt": null,
+    "authors": [
+      "GoRA",
+      "Hideyuki Furuhashi",
+      "Rin Kimura"
+    ]
+  }
 }

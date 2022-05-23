@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Clamp"
-  ],
+  "createdAt": "2020-10-12T16:17:46.000Z",
+  "updatedAt": "2021-12-07T11:18:54.000Z",
+  "checkedAt": null,
+  "id": 31827,
   "identifier": "e45a3e41-0fba-4576-ac81-883d5c88046d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 538,
   "aniId": 30538,
-  "createdAt": "2020-10-12T16:17:46.000Z",
-  "updatedAt": "2021-12-07T11:18:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-20T11:28:31.000Z",
+    "checkedAt": "2022-05-20T11:28:31.000Z",
+    "id": 538,
+    "type": "manga",
+    "title": "Suki. Dakara Suki",
+    "altTitle": [
+      "Suki: A Like Story",
+      "すき。だからすき"
+    ],
+    "url": "https://myanimelist.net/manga/538/Suki_Dakara_Suki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/220220.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Suki: A Like Story",
-      "すき。だからすき"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 538,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:02.545Z",
+    "updatedAt": "2022-05-20T11:28:30.000Z",
+    "checkedAt": "2022-05-20T11:28:30.000Z",
+    "id": 30538,
     "type": "manga",
     "title": "Suki. Dakara Suki",
-    "url": "https://myanimelist.net/manga/538/Suki_Dakara_Suki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/220220.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-26T08:00:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Suki",
       "すき。だからすき",
       "Suki Dakara Suki",
       "I Like You. That's Why I Like You."
     ],
-    "externalLinks": [],
-    "authors": [
-      "CLAMP"
-    ],
-    "id": 30538,
-    "malId": 538,
-    "type": "manga",
-    "title": "Suki. Dakara Suki",
     "url": "https://anilist.co/manga/30538",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30538-D3K86nSwJ34U.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2022-05-11T11:30:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/538/Suki_Dakara_Suki"
+    "externalLinks": [],
+    "malId": 538,
+    "deletedAt": null,
+    "authors": [
+      "CLAMP"
+    ]
+  }
 }

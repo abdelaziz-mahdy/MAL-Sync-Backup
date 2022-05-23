@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oh Great"
-  ],
+  "createdAt": "2020-10-12T16:04:54.000Z",
+  "updatedAt": "2021-12-03T00:17:39.000Z",
+  "checkedAt": null,
+  "id": 5270,
   "identifier": "ee7d837f-7665-40c3-869f-ea1102eb487a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1389,
   "aniId": 31389,
-  "createdAt": "2020-10-12T16:04:54.000Z",
-  "updatedAt": "2021-12-03T00:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oh Great"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:33.000Z",
+    "updatedAt": "2022-05-15T00:03:47.000Z",
+    "checkedAt": "2022-05-15T00:03:47.000Z",
+    "id": 1389,
+    "type": "manga",
+    "title": "Devil",
+    "altTitle": [
+      "Majin",
+      "魔人〜DEVIL〜"
+    ],
+    "url": "https://myanimelist.net/manga/1389/Devil",
+    "image": "https://cdn.myanimelist.net/images/manga/5/128037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Majin",
-      "魔人〜DEVIL〜"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oh! Great"
-    ],
-    "id": 1389,
-    "type": "manga",
-    "title": "Devil",
-    "url": "https://myanimelist.net/manga/1389/Devil",
-    "image": "https://cdn.myanimelist.net/images/manga/5/128037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2022-04-24T09:31:33.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:45.404Z",
+    "updatedAt": "2022-05-21T05:21:23.000Z",
+    "checkedAt": "2022-05-21T05:21:23.000Z",
+    "id": 31389,
+    "type": "manga",
+    "title": "Majin Devil",
     "altTitle": [
       "魔人〜DEVIL〜"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ito Oogure"
-    ],
-    "id": 31389,
-    "malId": 1389,
-    "type": "manga",
-    "title": "Majin Devil",
     "url": "https://anilist.co/manga/31389",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31389-rzU0iHYvxl1o.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:44.000Z",
-    "updatedAt": "2022-05-02T17:30:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1389/Devil"
+    "externalLinks": [],
+    "malId": 1389,
+    "deletedAt": null,
+    "authors": [
+      "Ito Oogure"
+    ]
+  }
 }

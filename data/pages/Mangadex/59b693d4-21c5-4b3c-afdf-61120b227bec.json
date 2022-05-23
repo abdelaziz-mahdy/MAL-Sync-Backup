@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Inue Shinsuke"
-  ],
+  "createdAt": "2020-10-12T16:19:18.000Z",
+  "updatedAt": "2021-12-07T22:09:01.000Z",
+  "checkedAt": null,
+  "id": 34924,
   "identifier": "59b693d4-21c5-4b3c-afdf-61120b227bec",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59493,
   "aniId": 88860,
-  "createdAt": "2020-10-12T16:19:18.000Z",
-  "updatedAt": "2021-12-07T22:09:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inue Shinsuke"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:54.000Z",
+    "updatedAt": "2022-05-19T14:42:27.000Z",
+    "checkedAt": "2022-05-19T14:42:27.000Z",
+    "id": 59493,
+    "type": "manga",
+    "title": "Junjou Renka",
     "altTitle": [
       "Caged Hawk",
       "Rindou",
@@ -28,21 +34,24 @@
       "Noblesse☆Oblige",
       "純嬢恋歌"
     ],
-    "authors": [
-      "Inue, Shinsuke"
-    ],
-    "id": 59493,
-    "type": "manga",
-    "title": "Junjou Renka",
     "url": "https://myanimelist.net/manga/59493/Junjou_Renka",
     "image": "https://cdn.myanimelist.net/images/manga/2/102633.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:44:54.000Z",
-    "updatedAt": "2021-11-08T23:15:16.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Inue, Shinsuke"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:33.058Z",
+    "updatedAt": "2022-05-19T14:42:26.000Z",
+    "checkedAt": "2022-05-19T14:42:26.000Z",
+    "id": 88860,
+    "type": "manga",
+    "title": "Junjou Renka",
     "altTitle": [
       "純嬢恋歌",
       "Caged Hawk",
@@ -51,21 +60,15 @@
       "Border Between Nobility and Taboo",
       "Noblesse☆Oblige"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinsuke Inue"
-    ],
-    "id": 88860,
-    "malId": 59493,
-    "type": "manga",
-    "title": "Junjou Renka",
     "url": "https://anilist.co/manga/88860",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88860-poB3uWJRwI7l.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:50:37.000Z",
-    "updatedAt": "2021-12-17T23:51:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59493/Junjou_Renka"
+    "externalLinks": [],
+    "malId": 59493,
+    "deletedAt": null,
+    "authors": [
+      "Shinsuke Inue"
+    ]
+  }
 }

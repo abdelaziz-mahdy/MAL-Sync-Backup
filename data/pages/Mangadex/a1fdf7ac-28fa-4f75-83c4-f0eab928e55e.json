@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tajima Mimi"
-  ],
+  "createdAt": "2020-10-12T16:08:40.000Z",
+  "updatedAt": "2021-12-04T12:53:38.000Z",
+  "checkedAt": null,
+  "id": 13279,
   "identifier": "a1fdf7ac-28fa-4f75-83c4-f0eab928e55e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90248,
   "aniId": 103877,
-  "createdAt": "2020-10-12T16:08:40.000Z",
-  "updatedAt": "2021-12-04T12:53:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tajima Mimi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:03.000Z",
+    "updatedAt": "2022-05-20T23:30:26.000Z",
+    "checkedAt": "2022-05-20T23:30:26.000Z",
+    "id": 90248,
+    "type": "manga",
+    "title": "Watashi no Joushi",
+    "altTitle": [
+      "Watashi no Hanashi",
+      "Kanojo ni Rusuban wa Makaserarenai",
+      "He is my boss.",
+      "わたしの上司"
+    ],
+    "url": "https://myanimelist.net/manga/90248/Watashi_no_Joushi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/165623.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Watashi no Hanashi",
-      "Kanojo ni Rusuban wa Makaserarenai",
-      "He is my boss.",
-      "わたしの上司"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tajima, Mimi"
-    ],
-    "id": 90248,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:23.251Z",
+    "updatedAt": "2022-05-20T23:30:30.000Z",
+    "checkedAt": "2022-05-20T23:30:30.000Z",
+    "id": 103877,
     "type": "manga",
     "title": "Watashi no Joushi",
-    "url": "https://myanimelist.net/manga/90248/Watashi_no_Joushi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/165623.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:03.000Z",
-    "updatedAt": "2022-02-26T02:48:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "He is my boss",
       "わたしの上司",
       "我的上司"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mimi Tajima"
-    ],
-    "id": 103877,
-    "malId": 90248,
-    "type": "manga",
-    "title": "Watashi no Joushi",
     "url": "https://anilist.co/manga/103877",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103877-cCxAhuPSguoG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T12:18:57.000Z",
-    "updatedAt": "2021-12-18T04:49:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90248/Watashi_no_Joushi"
+    "externalLinks": [],
+    "malId": 90248,
+    "deletedAt": null,
+    "authors": [
+      "Mimi Tajima"
+    ]
+  }
 }

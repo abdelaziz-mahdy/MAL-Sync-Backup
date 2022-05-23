@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kure Yuki"
-  ],
+  "createdAt": "2020-10-12T16:04:04.000Z",
+  "updatedAt": "2021-12-02T18:47:47.000Z",
+  "checkedAt": null,
+  "id": 3577,
   "identifier": "e610599d-8093-4a6d-b058-8464420c157f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1051,
   "aniId": 31051,
-  "createdAt": "2020-10-12T16:04:04.000Z",
-  "updatedAt": "2021-12-02T18:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kure Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-15T14:43:37.000Z",
+    "checkedAt": "2022-05-15T14:43:37.000Z",
+    "id": 1051,
+    "type": "manga",
+    "title": "Kiniro no Corda",
+    "altTitle": [
+      "Kin Iro no Corda",
+      "The Golden String",
+      "La Corda d'Oro",
+      "金色のコルダ"
+    ],
+    "url": "https://myanimelist.net/manga/1051/Kiniro_no_Corda",
+    "image": "https://cdn.myanimelist.net/images/manga/3/19430.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,53 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kin Iro no Corda",
-      "The Golden String",
-      "La Corda d'Oro",
-      "金色のコルダ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kure, Yuki"
-    ],
-    "id": 1051,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.188Z",
+    "updatedAt": "2022-05-15T18:23:35.000Z",
+    "checkedAt": "2022-05-15T18:23:35.000Z",
+    "id": 31051,
     "type": "manga",
     "title": "Kiniro no Corda",
-    "url": "https://myanimelist.net/manga/1051/Kiniro_no_Corda",
-    "image": "https://cdn.myanimelist.net/images/manga/3/19430.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-04-01T09:01:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "La Corda d'Oro",
       "金色のコルダ",
       "Kin Iro no Corda",
       "The Golden String"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/la-corda-d-oro"
-      }
-    ],
-    "authors": [
-      "Yuki Kure"
-    ],
-    "id": 31051,
-    "malId": 1051,
-    "type": "manga",
-    "title": "Kiniro no Corda",
     "url": "https://anilist.co/manga/31051",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31051-deajrFZ1dEBa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1051/Kiniro_no_Corda"
+    "externalLinks": [],
+    "malId": 1051,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Kure"
+    ]
+  }
 }

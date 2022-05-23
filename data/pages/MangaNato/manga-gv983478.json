@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tomo Ninagawa"
-  ],
+  "createdAt": "2021-07-09T02:13:49.000Z",
+  "updatedAt": "2022-01-09T08:18:10.000Z",
+  "checkedAt": null,
+  "id": 81346,
   "identifier": "manga-gv983478",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 123187,
   "aniId": 110011,
-  "createdAt": "2021-07-09T02:13:49.000Z",
-  "updatedAt": "2022-01-09T08:18:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tomo Ninagawa"
+  ],
   "Mal": {
+    "createdAt": "2021-03-11T04:39:07.000Z",
+    "updatedAt": "2022-01-09T02:19:36.000Z",
+    "checkedAt": null,
+    "id": 123187,
+    "type": "manga",
+    "title": "Itoshi no Ko Charlotte",
+    "altTitle": [
+      "Love the Last Charlotte",
+      "My Beloved, the Late Charlotte",
+      "Charlotte, My Late Lover",
+      "愛しの故・シャーロット"
+    ],
+    "url": "https://myanimelist.net/manga/123187/Itoshi_no_Ko_Charlotte",
+    "image": "https://cdn.myanimelist.net/images/manga/1/234916.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Love the Last Charlotte",
-      "My Beloved, the Late Charlotte",
-      "Charlotte, My Late Lover",
-      "愛しの故・シャーロット"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagawa, Tomo"
-    ],
-    "id": 123187,
-    "type": "manga",
-    "title": "Itoshi no Ko Charlotte",
-    "url": "https://myanimelist.net/manga/123187/Itoshi_no_Ko_Charlotte",
-    "image": "https://cdn.myanimelist.net/images/manga/1/234916.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-03-11T04:39:07.000Z",
-    "updatedAt": "2022-01-09T02:19:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:28.755Z",
+    "updatedAt": "2022-05-13T13:00:28.755Z",
+    "checkedAt": null,
+    "id": 110011,
+    "type": "manga",
+    "title": "Itoshi no Ko, Charlotte",
     "altTitle": [
       "愛しの故・シャーロット",
       "Charlotte, My Late Lover",
@@ -54,21 +63,15 @@
       " Aishi no Yue, Charlotte",
       "Aishi no Moto Charlotte"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomo Nagawa"
-    ],
-    "id": 110011,
-    "malId": 123187,
-    "type": "manga",
-    "title": "Itoshi no Ko, Charlotte",
     "url": "https://anilist.co/manga/110011",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110011-TkHS1y15Z6b7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T06:50:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123187/Itoshi_no_Ko_Charlotte"
+    "externalLinks": [],
+    "malId": 123187,
+    "deletedAt": null,
+    "authors": [
+      "Tomo Nagawa"
+    ]
+  }
 }

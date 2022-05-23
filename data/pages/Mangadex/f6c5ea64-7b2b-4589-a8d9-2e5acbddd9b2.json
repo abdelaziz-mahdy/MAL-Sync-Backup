@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Murata Shinya",
-    "Hayami Tokisada"
-  ],
+  "createdAt": "2020-10-12T16:18:47.000Z",
+  "updatedAt": "2021-12-07T20:34:20.000Z",
+  "checkedAt": null,
+  "id": 33839,
   "identifier": "f6c5ea64-7b2b-4589-a8d9-2e5acbddd9b2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105504,
   "aniId": 111492,
-  "createdAt": "2020-10-12T16:18:47.000Z",
-  "updatedAt": "2021-12-07T20:34:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murata Shinya",
+    "Hayami Tokisada"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:00.000Z",
+    "updatedAt": "2021-11-18T19:15:21.000Z",
+    "checkedAt": null,
+    "id": 105504,
+    "type": "manga",
+    "title": "Choubu no Shinobi",
+    "altTitle": [
+      "Lepidoptela",
+      "蝶撫の忍"
+    ],
+    "url": "https://myanimelist.net/manga/105504/Choubu_no_Shinobi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/206083.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lepidoptela",
-      "蝶撫の忍"
-    ],
+    "deletedAt": null,
     "authors": [
       "Murata, Shinya",
       "Hayami, Tokisada"
-    ],
-    "id": 105504,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:28.612Z",
+    "updatedAt": "2022-05-13T12:55:28.612Z",
+    "checkedAt": null,
+    "id": 111492,
     "type": "manga",
     "title": "Choubu no Shinobi",
-    "url": "https://myanimelist.net/manga/105504/Choubu_no_Shinobi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/206083.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:00.000Z",
-    "updatedAt": "2021-11-18T19:15:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "蝶撫の忍",
       "Lepidoptera"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tokisada Hayami",
-      "Murata Shinya"
-    ],
-    "id": 111492,
-    "malId": 105504,
-    "type": "manga",
-    "title": "Choubu no Shinobi",
     "url": "https://anilist.co/manga/111492",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111492-mBZzWOUbi2BY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:15.000Z",
-    "updatedAt": "2021-12-18T07:21:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105504/Choubu_no_Shinobi"
+    "externalLinks": [],
+    "malId": 105504,
+    "deletedAt": null,
+    "authors": [
+      "Tokisada Hayami",
+      "Murata Shinya"
+    ]
+  }
 }

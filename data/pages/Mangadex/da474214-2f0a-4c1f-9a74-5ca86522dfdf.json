@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hirano Kouta"
-  ],
+  "createdAt": "2020-10-12T16:03:16.000Z",
+  "updatedAt": "2021-12-02T12:47:46.000Z",
+  "checkedAt": null,
+  "id": 1864,
   "identifier": "da474214-2f0a-4c1f-9a74-5ca86522dfdf",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 751,
   "aniId": 30751,
-  "createdAt": "2020-10-12T16:03:16.000Z",
-  "updatedAt": "2021-12-02T12:47:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hirano Kouta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-19T18:30:54.000Z",
+    "checkedAt": "2022-05-19T18:30:54.000Z",
+    "id": 751,
+    "type": "manga",
+    "title": "Hellsing: The Dawn",
+    "altTitle": [
+      "HELLSING THE DAWN"
+    ],
+    "url": "https://myanimelist.net/manga/751/Hellsing__The_Dawn",
+    "image": "https://cdn.myanimelist.net/images/manga/2/34893.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "HELLSING THE DAWN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirano, Kouta"
-    ],
-    "id": 751,
-    "type": "manga",
-    "title": "Hellsing: The Dawn",
-    "url": "https://myanimelist.net/manga/751/Hellsing__The_Dawn",
-    "image": "https://cdn.myanimelist.net/images/manga/2/34893.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2021-11-11T05:13:37.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:50.839Z",
+    "updatedAt": "2022-05-19T18:30:53.000Z",
+    "checkedAt": "2022-05-19T18:30:53.000Z",
+    "id": 30751,
+    "type": "manga",
+    "title": "HELLSING Gaiden: THE DAWN",
     "altTitle": [
       "HELLSING外伝 THE DAWN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouta Hirano"
-    ],
-    "id": 30751,
-    "malId": 751,
-    "type": "manga",
-    "title": "HELLSING Gaiden: THE DAWN",
     "url": "https://anilist.co/manga/30751",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30751-3DQxHDTXm6rM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2022-02-08T20:09:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/751/Hellsing__The_Dawn"
+    "externalLinks": [],
+    "malId": 751,
+    "deletedAt": null,
+    "authors": [
+      "Kouta Hirano"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kawamoto Homura",
-    "Saiki Kei"
-  ],
+  "createdAt": "2020-10-12T16:09:45.000Z",
+  "updatedAt": "2021-12-04T19:50:51.000Z",
+  "checkedAt": null,
+  "id": 15649,
   "identifier": "a1422bad-4598-4018-95ae-888435bafe67",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95347,
   "aniId": 96626,
-  "createdAt": "2020-10-12T16:09:45.000Z",
-  "updatedAt": "2021-12-04T19:50:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawamoto Homura",
+    "Saiki Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:22.000Z",
+    "updatedAt": "2022-05-15T13:03:23.000Z",
+    "checkedAt": "2022-05-15T13:03:23.000Z",
+    "id": 95347,
+    "type": "manga",
+    "title": "Kakegurui Twin",
+    "altTitle": [
+      "Compulsive Gambler Twin",
+      "ケグルイ双〈ツイン〉"
+    ],
+    "url": "https://myanimelist.net/manga/95347/Kakegurui_Twin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/169926.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,26 +46,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Compulsive Gambler Twin",
-      "ケグルイ双〈ツイン〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawamoto, Homura",
       "Saiki, Katsura"
-    ],
-    "id": 95347,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:48.475Z",
+    "updatedAt": "2022-05-15T17:29:35.000Z",
+    "checkedAt": "2022-05-15T17:29:35.000Z",
+    "id": 96626,
     "type": "manga",
     "title": "Kakegurui Twin",
-    "url": "https://myanimelist.net/manga/95347/Kakegurui_Twin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/169926.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:22.000Z",
-    "updatedAt": "2022-02-20T02:17:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kakegurui Twin",
       "賭ケグルイ双",
@@ -57,22 +66,16 @@
       "賭ケグルイ双〈ツイン〉",
       "Gambling School Twin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Homura Kawamoto",
-      "Kei Saiki"
-    ],
-    "id": 96626,
-    "malId": 95347,
-    "type": "manga",
-    "title": "Kakegurui Twin",
     "url": "https://anilist.co/manga/96626",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96626-ybVLh3FWIVvA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:58.000Z",
-    "updatedAt": "2022-04-17T20:30:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95347/Kakegurui_Twin"
+    "externalLinks": [],
+    "malId": 95347,
+    "deletedAt": null,
+    "authors": [
+      "Homura Kawamoto",
+      "Kei Saiki"
+    ]
+  }
 }

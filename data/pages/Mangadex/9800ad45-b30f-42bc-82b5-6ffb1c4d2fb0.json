@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Michiaki Hiroaki",
-    "Bones"
-  ],
+  "createdAt": "2020-10-12T16:13:02.000Z",
+  "updatedAt": "2021-12-05T18:21:38.000Z",
+  "checkedAt": null,
+  "id": 22049,
   "identifier": "9800ad45-b30f-42bc-82b5-6ffb1c4d2fb0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 109205,
   "aniId": 101299,
-  "createdAt": "2020-10-12T16:13:02.000Z",
-  "updatedAt": "2021-12-05T18:21:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Michiaki Hiroaki",
+    "Bones"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:12.000Z",
+    "updatedAt": "2022-05-20T19:13:32.000Z",
+    "checkedAt": "2022-05-20T19:13:32.000Z",
+    "id": 109205,
+    "type": "manga",
+    "title": "A.I.C.O.: Incarnation",
+    "altTitle": [
+      "A.I.C.O.: Incarnation",
+      "A.I.C.O. -Incarnation-"
+    ],
+    "url": "https://myanimelist.net/manga/109205/AICO__Incarnation",
+    "image": "https://cdn.myanimelist.net/images/manga/3/207632.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A.I.C.O.: Incarnation",
-      "A.I.C.O. -Incarnation-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Michiaki, Hiroaki"
-    ],
-    "id": 109205,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:43.449Z",
+    "updatedAt": "2022-05-20T19:13:31.000Z",
+    "checkedAt": "2022-05-20T19:13:31.000Z",
+    "id": 101299,
     "type": "manga",
     "title": "A.I.C.O.: Incarnation",
-    "url": "https://myanimelist.net/manga/109205/AICO__Incarnation",
-    "image": "https://cdn.myanimelist.net/images/manga/3/207632.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:12.000Z",
-    "updatedAt": "2022-03-23T07:57:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A.I.C.O. Incarnation",
       "A.I.C.O.: Incarnation"
     ],
+    "url": "https://anilist.co/manga/101299",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101299-ifCC9eoCbkYD.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 109205,
+    "deletedAt": null,
     "authors": [
       "Hiroaki Michiaki",
       "Hanaharu Naruko",
       "Alethea Nibley",
       "Carlo Vanstiphout",
       "Athena Nibley"
-    ],
-    "id": 101299,
-    "malId": 109205,
-    "type": "manga",
-    "title": "A.I.C.O.: Incarnation",
-    "url": "https://anilist.co/manga/101299",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101299-ifCC9eoCbkYD.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:56:05.000Z",
-    "updatedAt": "2021-12-18T03:51:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/109205/AICO__Incarnation"
+    ]
+  }
 }

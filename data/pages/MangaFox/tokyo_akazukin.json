@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TAMAOKI Benkyo"
-  ],
+  "createdAt": "2021-07-16T22:02:22.000Z",
+  "updatedAt": "2022-01-16T22:41:45.000Z",
+  "checkedAt": null,
+  "id": 82165,
   "identifier": "tokyo_akazukin",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1230,
   "aniId": 31230,
-  "createdAt": "2021-07-16T22:02:22.000Z",
-  "updatedAt": "2022-01-16T22:41:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "TAMAOKI Benkyo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-15T19:45:57.000Z",
+    "checkedAt": "2022-05-15T19:45:57.000Z",
+    "id": 1230,
+    "type": "manga",
+    "title": "Tokyo Akazukin",
+    "altTitle": [
+      "Toukyou Akazukin",
+      "Tokyo Red Hood",
+      "東京赤ずきん"
+    ],
+    "url": "https://myanimelist.net/manga/1230/Tokyo_Akazukin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/255705.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Toukyou Akazukin",
-      "Tokyo Red Hood",
-      "東京赤ずきん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tamaoki, Benkyou"
-    ],
-    "id": 1230,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:27.916Z",
+    "updatedAt": "2022-05-15T21:20:35.000Z",
+    "checkedAt": "2022-05-15T21:20:35.000Z",
+    "id": 31230,
     "type": "manga",
     "title": "Tokyo Akazukin",
-    "url": "https://myanimelist.net/manga/1230/Tokyo_Akazukin",
-    "image": "https://cdn.myanimelist.net/images/manga/1/255705.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-03-12T13:00:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "東京赤ずきん",
       "Tokyo Red Hood"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Benkyo Tamaoki"
-    ],
-    "id": 31230,
-    "malId": 1230,
-    "type": "manga",
-    "title": "Tokyo Akazukin",
     "url": "https://anilist.co/manga/31230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31230-mmFxb79nDqW0.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2021-12-17T09:44:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1230/Tokyo_Akazukin"
+    "externalLinks": [],
+    "malId": 1230,
+    "deletedAt": null,
+    "authors": [
+      "Benkyo Tamaoki"
+    ]
+  }
 }

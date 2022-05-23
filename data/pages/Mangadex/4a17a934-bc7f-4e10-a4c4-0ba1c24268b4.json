@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mutou Hiromu"
-  ],
+  "createdAt": "2020-10-12T16:05:05.000Z",
+  "updatedAt": "2021-12-03T10:17:59.000Z",
+  "checkedAt": null,
+  "id": 5656,
   "identifier": "4a17a934-bc7f-4e10-a4c4-0ba1c24268b4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103,
   "aniId": 30103,
-  "createdAt": "2020-10-12T16:05:05.000Z",
-  "updatedAt": "2021-12-03T10:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mutou Hiromu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-17T01:44:06.000Z",
+    "checkedAt": "2022-05-17T01:44:06.000Z",
+    "id": 103,
+    "type": "manga",
+    "title": "Never Give Up!",
+    "altTitle": [
+      "Sakura",
+      "Never Give Up!",
+      "ネバギバ！"
+    ],
+    "url": "https://myanimelist.net/manga/103/Never_Give_Up",
+    "image": "https://cdn.myanimelist.net/images/manga/2/186429.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sakura",
-      "Never Give Up!",
-      "ネバギバ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mutou, Hiromu"
-    ],
-    "id": 103,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:11.716Z",
+    "updatedAt": "2022-05-17T01:44:05.000Z",
+    "checkedAt": "2022-05-17T01:44:05.000Z",
+    "id": 30103,
     "type": "manga",
     "title": "Never Give Up!",
-    "url": "https://myanimelist.net/manga/103/Never_Give_Up",
-    "image": "https://cdn.myanimelist.net/images/manga/2/186429.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-26T00:01:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Never Give Up!",
       "ネバギバ!",
@@ -52,21 +61,15 @@
       "Never Give Up",
       "nebagiba"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiromu Mutou"
-    ],
-    "id": 30103,
-    "malId": 103,
-    "type": "manga",
-    "title": "Never Give Up!",
     "url": "https://anilist.co/manga/30103",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30103-TokXKOxLRY3N.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:33:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103/Never_Give_Up"
+    "externalLinks": [],
+    "malId": 103,
+    "deletedAt": null,
+    "authors": [
+      "Hiromu Mutou"
+    ]
+  }
 }

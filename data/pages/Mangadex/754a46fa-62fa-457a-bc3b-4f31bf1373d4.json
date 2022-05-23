@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watsuki Nobuhiro"
-  ],
+  "createdAt": "2020-10-12T16:02:29.000Z",
+  "updatedAt": "2021-12-02T07:17:28.000Z",
+  "checkedAt": null,
+  "id": 211,
   "identifier": "754a46fa-62fa-457a-bc3b-4f31bf1373d4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22,
   "aniId": 30022,
-  "createdAt": "2020-10-12T16:02:29.000Z",
-  "updatedAt": "2021-12-02T07:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watsuki Nobuhiro"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%82%8B%E3%82%8D%E3%81%86%E3%81%AB%E5%89%A3%E5%BF%83_-%E6%98%8E%E6%B2%BB%E5%89%A3%E5%AE%A2%E6%B5%AA%E6%BC%AB%E8%AD%9A-"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T20:52:18.000Z",
+    "checkedAt": "2022-05-14T20:52:18.000Z",
+    "id": 22,
+    "type": "manga",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
     "altTitle": [
       "Samurai X",
       "Sengoku no Mikazuki",
@@ -34,21 +35,29 @@
       "Rurouni Kenshin: Meiji Swordsman Romantic Story",
       "るろうに剣心 -明治剣客浪漫譚-"
     ],
-    "authors": [
-      "Watsuki, Nobuhiro"
-    ],
-    "id": 22,
-    "type": "manga",
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
     "url": "https://myanimelist.net/manga/22/Rurouni_Kenshin__Meiji_Kenkaku_Romantan",
     "image": "https://cdn.myanimelist.net/images/manga/2/127583.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-05-01T03:07:35.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%8B%E3%82%8D%E3%81%86%E3%81%AB%E5%89%A3%E5%BF%83_-%E6%98%8E%E6%B2%BB%E5%89%A3%E5%AE%A2%E6%B5%AA%E6%BC%AB%E8%AD%9A-"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Watsuki, Nobuhiro"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.372Z",
+    "updatedAt": "2022-05-15T15:58:23.000Z",
+    "checkedAt": "2022-05-15T15:58:23.000Z",
+    "id": 30022,
+    "type": "manga",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
     "altTitle": [
       "Rurouni Kenshin",
       "るろうに剣心 -明治剣客浪漫譚-",
@@ -61,12 +70,18 @@
       "Kenshin le Vagabond",
       "Kenshin - Samurai vagabondo"
     ],
+    "url": "https://anilist.co/manga/30022",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30022-vtiBxs8TDJJ6.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100023"
       }
     ],
+    "malId": 22,
+    "deletedAt": null,
     "authors": [
       "Nobuhiro Watsuki",
       "Hiroyuki Takei",
@@ -74,18 +89,6 @@
       "Gin Shinga",
       "Shinya Suzuki",
       "Mikio Itou"
-    ],
-    "id": 30022,
-    "malId": 22,
-    "type": "manga",
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
-    "url": "https://anilist.co/manga/30022",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30022-vtiBxs8TDJJ6.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-04-12T15:00:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+    ]
+  }
 }

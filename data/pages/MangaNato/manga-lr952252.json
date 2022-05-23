@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakumoto Kenji"
-  ],
+  "createdAt": "2022-04-23T00:31:46.000Z",
+  "updatedAt": "2022-04-23T01:00:25.000Z",
+  "checkedAt": null,
+  "id": 102008,
   "identifier": "manga-lr952252",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91601,
   "aniId": 86422,
-  "createdAt": "2022-04-23T00:31:46.000Z",
-  "updatedAt": "2022-04-23T01:00:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakumoto Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:07.000Z",
+    "updatedAt": "2022-04-23T00:31:48.000Z",
+    "checkedAt": null,
+    "id": 91601,
+    "type": "manga",
+    "title": "Shuumatsu no Tenki",
+    "altTitle": [
+      "A Catastrophe Report",
+      "終末の天気"
+    ],
+    "url": "https://myanimelist.net/manga/91601/Shuumatsu_no_Tenki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/167943.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "A Catastrophe Report",
-      "終末の天気"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakumoto, Kenji",
       "Tsuha, Keiichi"
-    ],
-    "id": 91601,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:05.891Z",
+    "updatedAt": "2022-05-13T12:57:05.891Z",
+    "checkedAt": null,
+    "id": 86422,
     "type": "manga",
     "title": "Shuumatsu no Tenki",
-    "url": "https://myanimelist.net/manga/91601/Shuumatsu_no_Tenki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/167943.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:07.000Z",
-    "updatedAt": "2022-04-23T00:31:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "終末の天気"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keiichi Tsuha",
-      "Kenji Sakumoto"
-    ],
-    "id": 86422,
-    "malId": 91601,
-    "type": "manga",
-    "title": "Shuumatsu no Tenki",
     "url": "https://anilist.co/manga/86422",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56422-FkWxWmcKB9tA.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:36.000Z",
-    "updatedAt": "2021-12-17T22:51:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91601/Shuumatsu_no_Tenki"
+    "externalLinks": [],
+    "malId": 91601,
+    "deletedAt": null,
+    "authors": [
+      "Keiichi Tsuha",
+      "Kenji Sakumoto"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-12-27T09:58:37.000Z",
+  "updatedAt": "2021-12-27T10:27:34.000Z",
+  "checkedAt": null,
+  "id": 39587,
   "identifier": "yyvx",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41361,
   "aniId": 99900,
-  "createdAt": "2021-12-27T09:58:37.000Z",
-  "updatedAt": "2021-12-27T10:27:34.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-12-02T09:17:48.000Z",
+    "updatedAt": "2022-05-14T17:40:11.000Z",
+    "checkedAt": "2022-05-14T17:40:11.000Z",
+    "id": 41361,
+    "type": "anime",
+    "title": "Eiga Daisuki Pompo-san (Movie)",
+    "altTitle": [
+      "Pompo: The Cinéphile",
+      "映画大好きポンポさん"
+    ],
+    "url": "https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1210/119193.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,40 +50,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pompo: The Cinéphile",
-      "映画大好きポンポさん"
-    ],
-    "id": 41361,
-    "type": "anime",
-    "title": "Eiga Daisuki Pompo-san (Movie)",
-    "url": "https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1210/119193.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 13405,
-    "createdAt": "2021-12-02T09:17:48.000Z",
-    "updatedAt": "2022-04-11T10:38:15.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 13405
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T17:12:57.000Z",
+    "updatedAt": "2022-05-15T12:42:11.000Z",
+    "checkedAt": "2022-05-15T12:42:11.000Z",
+    "id": 99900,
+    "type": "anime",
+    "title": "Eiga Daisuki Pompo-san",
     "altTitle": [
       "Pompo: The Cinéphile",
       "映画大好きポンポさん",
       "ปอมโปะ ทีมป่วนก๊วนทำหนัง"
     ],
-    "externalLinks": [],
-    "id": 99900,
-    "malId": 41361,
-    "type": "anime",
-    "title": "Eiga Daisuki Pompo-san",
     "url": "https://anilist.co/anime/99900",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99900-YpWbTgc4wr7A.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T17:12:57.000Z",
-    "updatedAt": "2022-03-02T11:10:28.000Z",
+    "externalLinks": [],
+    "malId": 41361,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san_Movie"
+  }
 }

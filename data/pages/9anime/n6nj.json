@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:49.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 6987,
   "identifier": "n6nj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33948,
   "aniId": 87517,
-  "createdAt": "2020-10-12T15:53:49.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:48.000Z",
+    "updatedAt": "2022-05-14T09:41:54.000Z",
+    "checkedAt": "2022-05-14T09:41:54.000Z",
+    "id": 33948,
+    "type": "anime",
+    "title": "Hinako Note",
+    "altTitle": [
+      "Hinako Note",
+      "ひなこのーと"
+    ],
+    "url": "https://myanimelist.net/anime/33948/Hinako_Note",
+    "image": "https://cdn.myanimelist.net/images/anime/2/84858.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,26 +55,23 @@
         "url": "http://www.crunchyroll.com/series-272911"
       }
     ],
-    "altTitle": [
-      "Hinako Note",
-      "ひなこのーと"
-    ],
-    "id": 33948,
+    "deletedAt": null,
+    "anidbId": 12349
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:13.000Z",
+    "updatedAt": "2022-05-15T11:12:47.000Z",
+    "checkedAt": "2022-05-15T11:12:47.000Z",
+    "id": 87517,
     "type": "anime",
     "title": "Hinako Note",
-    "url": "https://myanimelist.net/anime/33948/Hinako_Note",
-    "image": "https://cdn.myanimelist.net/images/anime/2/84858.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12349,
-    "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2022-04-21T07:32:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ひなこのーと"
     ],
+    "url": "https://anilist.co/anime/87517",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87517-xktTn25rZrRZ.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -69,17 +82,7 @@
         "url": "https://vrv.co/series/G6E58N5VY"
       }
     ],
-    "id": 87517,
     "malId": 33948,
-    "type": "anime",
-    "title": "Hinako Note",
-    "url": "https://anilist.co/anime/87517",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87517-xktTn25rZrRZ.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:13.000Z",
-    "updatedAt": "2021-11-18T09:44:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/33948/Hinako_Note"
+  }
 }

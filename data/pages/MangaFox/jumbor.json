@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "MIKAMI Hiromasa",
-    "TAKEI Hiroyuki"
-  ],
+  "createdAt": "2022-05-08T22:01:24.000Z",
+  "updatedAt": "2022-05-13T15:21:23.000Z",
+  "checkedAt": "2022-05-13T15:00:21.000Z",
+  "id": 103319,
   "identifier": "jumbor",
   "type": "manga",
   "page": "MangaFox",
@@ -11,14 +11,55 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/7468/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T22:01:24.000Z",
-  "updatedAt": "2022-05-08T22:01:24.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 22824,
+  "aniId": 52824,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "MIKAMI Hiromasa",
+    "TAKEI Hiroyuki"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:07.000Z",
+    "updatedAt": "2022-05-13T15:00:22.000Z",
+    "checkedAt": "2022-05-13T15:00:22.000Z",
+    "id": 22824,
+    "type": "manga",
+    "title": "Jumbor",
+    "altTitle": [
+      "ユンボル -ＪＵＭＢＯＲ-"
+    ],
+    "url": "https://myanimelist.net/manga/22824/Jumbor",
+    "image": "https://cdn.myanimelist.net/images/manga/5/143041.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takei, Hiroyuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:10.299Z",
+    "updatedAt": "2022-05-13T12:51:10.299Z",
+    "checkedAt": null,
+    "id": 52824,
+    "type": "manga",
+    "title": "Jumbor",
+    "altTitle": [
+      "ユンボル -ＪＵＭＢＯＲ-"
+    ],
+    "url": "https://anilist.co/manga/52824",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52824-H39vBBpLPjVW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 22824,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Takei"
+    ]
+  }
 }

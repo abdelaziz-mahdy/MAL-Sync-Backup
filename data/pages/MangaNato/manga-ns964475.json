@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urushibara Yuki"
-  ],
+  "createdAt": "2021-05-28T22:54:24.000Z",
+  "updatedAt": "2021-11-28T23:37:05.000Z",
+  "checkedAt": null,
+  "id": 73146,
   "identifier": "manga-ns964475",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 418,
   "aniId": 30418,
-  "createdAt": "2021-05-28T22:54:24.000Z",
-  "updatedAt": "2021-11-28T23:37:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urushibara Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-14T17:55:53.000Z",
+    "checkedAt": "2022-05-14T17:55:53.000Z",
+    "id": 418,
+    "type": "manga",
+    "title": "Mushishi",
+    "altTitle": [
+      "Mushi-shi",
+      "Mushishi",
+      "蟲師"
+    ],
+    "url": "https://myanimelist.net/manga/418/Mushishi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/159514.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mushi-shi",
-      "Mushishi",
-      "蟲師"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urushibara, Yuki"
-    ],
-    "id": 418,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:32.305Z",
+    "updatedAt": "2022-05-15T19:00:47.000Z",
+    "checkedAt": "2022-05-15T19:00:47.000Z",
+    "id": 30418,
     "type": "manga",
     "title": "Mushishi",
-    "url": "https://myanimelist.net/manga/418/Mushishi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/159514.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-04-06T10:33:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mushishi",
       "蟲師",
@@ -52,22 +61,16 @@
       "Bug Master",
       "Знаток муси"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Urushibara",
-      "William Flanagan"
-    ],
-    "id": 30418,
-    "malId": 418,
-    "type": "manga",
-    "title": "Mushishi",
     "url": "https://anilist.co/manga/30418",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30418-8unnG2Y01lXX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2022-02-20T19:17:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/418/Mushishi"
+    "externalLinks": [],
+    "malId": 418,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Urushibara",
+      "William Flanagan"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sachi Miyabe"
-  ],
+  "createdAt": "2020-10-12T16:10:45.000Z",
+  "updatedAt": "2021-12-05T03:18:51.000Z",
+  "checkedAt": null,
+  "id": 17810,
   "identifier": "e6406d41-b31f-41a0-b985-22c496c50762",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 101942,
   "aniId": 126442,
-  "createdAt": "2020-10-12T16:10:45.000Z",
-  "updatedAt": "2021-12-05T03:18:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sachi Miyabe"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:44.000Z",
+    "updatedAt": "2022-05-15T19:44:40.000Z",
+    "checkedAt": "2022-05-15T19:44:40.000Z",
+    "id": 101942,
+    "type": "manga",
+    "title": "Mame Coordinate",
+    "altTitle": [
+      "Mame Code",
+      "まめコーデ"
+    ],
+    "url": "https://myanimelist.net/manga/101942/Mame_Coordinate",
+    "image": "https://cdn.myanimelist.net/images/manga/2/185210.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mame Code",
-      "まめコーデ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyabe, Sachi"
-    ],
-    "id": 101942,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:44.674Z",
+    "updatedAt": "2022-05-15T21:20:47.000Z",
+    "checkedAt": "2022-05-15T21:20:47.000Z",
+    "id": 126442,
     "type": "manga",
     "title": "Mame Coordinate",
-    "url": "https://myanimelist.net/manga/101942/Mame_Coordinate",
-    "image": "https://cdn.myanimelist.net/images/manga/2/185210.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2022-02-28T19:20:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mame Coordinate",
       "まめコーデ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sachi Miyabe"
-    ],
-    "id": 126442,
-    "malId": 101942,
-    "type": "manga",
-    "title": "Mame Coordinate",
     "url": "https://anilist.co/manga/126442",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126442-H1qCySNxlbT0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:54.000Z",
-    "updatedAt": "2021-12-18T11:21:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/101942/Mame_Coordinate"
+    "externalLinks": [],
+    "malId": 101942,
+    "deletedAt": null,
+    "authors": [
+      "Sachi Miyabe"
+    ]
+  }
 }

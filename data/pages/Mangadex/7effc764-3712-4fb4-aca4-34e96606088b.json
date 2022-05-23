@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kaminaga Manabu",
-    "Nokiya"
-  ],
+  "createdAt": "2020-10-12T16:04:56.000Z",
+  "updatedAt": "2021-12-03T00:49:18.000Z",
+  "checkedAt": null,
+  "id": 5361,
   "identifier": "7effc764-3712-4fb4-aca4-34e96606088b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22945,
   "aniId": 52945,
-  "createdAt": "2020-10-12T16:04:56.000Z",
-  "updatedAt": "2021-12-03T00:49:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaminaga Manabu",
+    "Nokiya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:08.000Z",
+    "updatedAt": "2022-05-18T01:49:19.000Z",
+    "checkedAt": "2022-05-18T01:49:19.000Z",
+    "id": 22945,
+    "type": "manga",
+    "title": "Conductor",
+    "altTitle": [
+      "The Conductor",
+      "コンダクター"
+    ],
+    "url": "https://myanimelist.net/manga/22945/Conductor",
+    "image": "https://cdn.myanimelist.net/images/manga/1/37170.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Conductor",
-      "コンダクター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nokiya",
       "Kaminaga, Manabu"
-    ],
-    "id": 22945,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:29.547Z",
+    "updatedAt": "2022-05-18T01:49:18.000Z",
+    "checkedAt": "2022-05-18T01:49:18.000Z",
+    "id": 52945,
     "type": "manga",
     "title": "Conductor",
-    "url": "https://myanimelist.net/manga/22945/Conductor",
-    "image": "https://cdn.myanimelist.net/images/manga/1/37170.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2022-01-02T14:53:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "コンダクター",
       "The Conductor"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nokiya",
-      "Manabu Kaminaga"
-    ],
-    "id": 52945,
-    "malId": 22945,
-    "type": "manga",
-    "title": "Conductor",
     "url": "https://anilist.co/manga/52945",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52945-Ja01SoNUsq61.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:34.000Z",
-    "updatedAt": "2021-12-17T18:04:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22945/Conductor"
+    "externalLinks": [],
+    "malId": 22945,
+    "deletedAt": null,
+    "authors": [
+      "Nokiya",
+      "Manabu Kaminaga"
+    ]
+  }
 }

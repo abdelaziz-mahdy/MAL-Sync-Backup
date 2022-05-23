@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakura Jun"
-  ],
+  "createdAt": "2020-10-12T16:07:30.000Z",
+  "updatedAt": "2021-12-04T03:50:00.000Z",
+  "checkedAt": null,
+  "id": 10764,
   "identifier": "33a103ce-d6c4-4da8-af5a-42f80ae4fe41",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 62547,
   "aniId": 85413,
-  "createdAt": "2020-10-12T16:07:30.000Z",
-  "updatedAt": "2021-12-04T03:50:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakura Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:04.000Z",
+    "updatedAt": "2022-05-14T21:20:11.000Z",
+    "checkedAt": "2022-05-14T21:20:11.000Z",
+    "id": 62547,
+    "type": "manga",
+    "title": "Yugami-kun ni wa Tomodachi ga Inai",
+    "altTitle": [
+      "He does not have any friends.",
+      "湯神くんには友達がいない"
+    ],
+    "url": "https://myanimelist.net/manga/62547/Yugami-kun_ni_wa_Tomodachi_ga_Inai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/107515.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "He does not have any friends.",
-      "湯神くんには友達がいない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakura, Jun"
-    ],
-    "id": 62547,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:26.836Z",
+    "updatedAt": "2022-05-15T17:32:23.000Z",
+    "checkedAt": "2022-05-15T17:32:23.000Z",
+    "id": 85413,
     "type": "manga",
     "title": "Yugami-kun ni wa Tomodachi ga Inai",
-    "url": "https://myanimelist.net/manga/62547/Yugami-kun_ni_wa_Tomodachi_ga_Inai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/107515.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2022-04-16T11:32:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "湯神くんには友達がいない",
       "He does not have any friends.",
       "Friendless Yugami: He Does Not Have Any Friends",
       "Yugami Doesn't Have Any Friends"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Sakura"
-    ],
-    "id": 85413,
-    "malId": 62547,
-    "type": "manga",
-    "title": "Yugami-kun ni wa Tomodachi ga Inai",
     "url": "https://anilist.co/manga/85413",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85413-AVnB0Oev1PDi.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:43.000Z",
-    "updatedAt": "2021-12-17T15:17:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/62547/Yugami-kun_ni_wa_Tomodachi_ga_Inai"
+    "externalLinks": [],
+    "malId": 62547,
+    "deletedAt": null,
+    "authors": [
+      "Jun Sakura"
+    ]
+  }
 }

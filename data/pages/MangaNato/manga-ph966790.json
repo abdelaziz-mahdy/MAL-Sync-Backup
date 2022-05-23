@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamamoto Hideo"
-  ],
+  "createdAt": "2021-06-01T15:47:22.000Z",
+  "updatedAt": "2021-12-01T16:24:17.000Z",
+  "checkedAt": null,
+  "id": 75447,
   "identifier": "manga-ph966790",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 936,
   "aniId": 30936,
-  "createdAt": "2021-06-01T15:47:22.000Z",
-  "updatedAt": "2021-12-01T16:24:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamoto Hideo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-05-14T20:55:53.000Z",
+    "checkedAt": "2022-05-14T20:55:53.000Z",
+    "id": 936,
+    "type": "manga",
+    "title": "Homunculus",
+    "altTitle": [
+      "ホムンクルス"
+    ],
+    "url": "https://myanimelist.net/manga/936/Homunculus",
+    "image": "https://cdn.myanimelist.net/images/manga/1/318.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ホムンクルス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamoto, Hideo"
-    ],
-    "id": 936,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:05.967Z",
+    "updatedAt": "2022-05-15T16:07:23.000Z",
+    "checkedAt": "2022-05-15T16:07:23.000Z",
+    "id": 30936,
     "type": "manga",
     "title": "Homunculus",
-    "url": "https://myanimelist.net/manga/936/Homunculus",
-    "image": "https://cdn.myanimelist.net/images/manga/1/318.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2022-04-08T20:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ホムンクルス",
       "Homunkurusu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideo Yamamoto",
-      "Drik Sada"
-    ],
-    "id": 30936,
-    "malId": 936,
-    "type": "manga",
-    "title": "Homunculus",
     "url": "https://anilist.co/manga/30936",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30936-4syWQ7MpGx92.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2022-02-08T15:39:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/936/Homunculus"
+    "externalLinks": [],
+    "malId": 936,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Yamamoto",
+      "Drik Sada"
+    ]
+  }
 }

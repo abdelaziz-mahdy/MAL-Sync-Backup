@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Monma Motoki"
-  ],
+  "createdAt": "2020-10-12T16:04:50.000Z",
+  "updatedAt": "2021-12-02T23:48:27.000Z",
+  "checkedAt": null,
+  "id": 5125,
   "identifier": "6b5ad09d-fcff-473b-a78f-f8e69700a39a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11643,
   "aniId": 41643,
-  "createdAt": "2020-10-12T16:04:50.000Z",
-  "updatedAt": "2021-12-02T23:48:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Monma Motoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:34.000Z",
+    "updatedAt": "2022-05-22T04:08:59.000Z",
+    "checkedAt": "2022-05-22T04:08:59.000Z",
+    "id": 11643,
+    "type": "manga",
+    "title": "Kattobi Itto",
+    "altTitle": [
+      "かっとび一斗"
+    ],
+    "url": "https://myanimelist.net/manga/11643/Kattobi_Itto",
+    "image": "https://cdn.myanimelist.net/images/manga/2/77805.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "かっとび一斗"
-    ],
+    "deletedAt": null,
     "authors": [
       "Monma, Motoki"
-    ],
-    "id": 11643,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:00.034Z",
+    "updatedAt": "2022-05-22T04:08:58.000Z",
+    "checkedAt": "2022-05-22T04:08:58.000Z",
+    "id": 41643,
     "type": "manga",
     "title": "Kattobi Itto",
-    "url": "https://myanimelist.net/manga/11643/Kattobi_Itto",
-    "image": "https://cdn.myanimelist.net/images/manga/2/77805.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:34.000Z",
-    "updatedAt": "2022-01-04T03:49:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "かっとび一斗",
       "อิตโต้ นักเตะเลือดกังฟู"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Motoki Monma"
-    ],
-    "id": 41643,
-    "malId": 11643,
-    "type": "manga",
-    "title": "Kattobi Itto",
     "url": "https://anilist.co/manga/41643",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41643-dQDIWrSW2zFm.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:12.000Z",
-    "updatedAt": "2022-03-14T11:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11643/Kattobi_Itto"
+    "externalLinks": [],
+    "malId": 11643,
+    "deletedAt": null,
+    "authors": [
+      "Motoki Monma"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:01.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3388,
   "identifier": "77xy",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37481,
   "aniId": 101309,
-  "createdAt": "2020-10-12T15:51:01.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:01.000Z",
+    "updatedAt": "2022-05-14T19:30:23.000Z",
+    "checkedAt": "2022-05-14T19:30:23.000Z",
+    "id": 37481,
+    "type": "anime",
+    "title": "Ongaku Shoujo (TV)",
+    "altTitle": [
+      "Music Girls",
+      "音楽少女"
+    ],
+    "url": "https://myanimelist.net/anime/37481/Ongaku_Shoujo_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "http://www.crunchyroll.com/series-276749"
       }
     ],
-    "altTitle": [
-      "Music Girls",
-      "音楽少女"
-    ],
-    "id": 37481,
+    "deletedAt": null,
+    "anidbId": 13913
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:36.000Z",
+    "updatedAt": "2022-05-15T15:05:23.000Z",
+    "checkedAt": "2022-05-15T15:05:23.000Z",
+    "id": 101309,
     "type": "anime",
     "title": "Ongaku Shoujo (TV)",
-    "url": "https://myanimelist.net/anime/37481/Ongaku_Shoujo_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13913,
-    "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2022-03-23T04:27:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Music Girls",
       "音楽少女 (TV)"
     ],
+    "url": "https://anilist.co/anime/101309",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101309-91hBOkNaIECT.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Vrv",
@@ -70,17 +83,7 @@
         "url": "https://www.crunchyroll.com/music-girls"
       }
     ],
-    "id": 101309,
     "malId": 37481,
-    "type": "anime",
-    "title": "Ongaku Shoujo (TV)",
-    "url": "https://anilist.co/anime/101309",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101309-91hBOkNaIECT.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:36.000Z",
-    "updatedAt": "2021-12-12T09:33:41.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/37481/Ongaku_Shoujo_TV"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakurai"
-  ],
+  "createdAt": "2021-11-02T19:05:10.000Z",
+  "updatedAt": "2022-05-13T19:51:24.000Z",
+  "checkedAt": "2022-05-13T19:51:22.000Z",
+  "id": 90139,
   "identifier": "6fb01f4a-e78c-4f2b-a8c8-bd14a1fd8132",
   "type": "manga",
   "page": "Mangadex",
@@ -11,32 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 144151,
   "aniId": 137027,
-  "createdAt": "2021-11-02T19:05:10.000Z",
-  "updatedAt": "2022-05-02T19:33:48.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": {
+  "authors": [
+    "Sakurai"
+  ],
+  "Mal": {
+    "createdAt": "2022-05-02T20:03:17.000Z",
+    "updatedAt": "2022-05-13T15:51:24.000Z",
+    "checkedAt": "2022-05-13T15:51:24.000Z",
+    "id": 144151,
+    "type": "manga",
+    "title": "Maou to Yuri",
     "altTitle": [
       "魔王と百合"
     ],
-    "externalLinks": [],
+    "url": "https://myanimelist.net/manga/144151/Maou_to_Yuri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258390.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AP01202382010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Sakurai"
-    ],
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:57.161Z",
+    "updatedAt": "2022-05-13T15:51:24.000Z",
+    "checkedAt": "2022-05-13T15:51:24.000Z",
     "id": 137027,
-    "malId": 144151,
     "type": "manga",
     "title": "Maou to Yuri",
+    "altTitle": [
+      "魔王と百合"
+    ],
     "url": "https://anilist.co/manga/137027",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137027-i0yZ82YZRidy.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-23T09:33:49.000Z",
-    "updatedAt": "2022-04-14T05:00:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 144151,
+    "deletedAt": null,
+    "authors": [
+      "Sakurai"
+    ]
+  }
 }

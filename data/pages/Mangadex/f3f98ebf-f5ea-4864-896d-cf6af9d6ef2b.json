@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Mizuno Ryo",
-    "Sasameyuki Jun"
-  ],
+  "createdAt": "2020-10-12T16:04:44.000Z",
+  "updatedAt": "2021-12-02T23:19:30.000Z",
+  "checkedAt": null,
+  "id": 4925,
   "identifier": "f3f98ebf-f5ea-4864-896d-cf6af9d6ef2b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 71335,
   "aniId": 91383,
-  "createdAt": "2020-10-12T16:04:44.000Z",
-  "updatedAt": "2021-12-02T23:19:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizuno Ryo",
+    "Sasameyuki Jun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:18.000Z",
+    "updatedAt": "2022-05-21T10:08:02.000Z",
+    "checkedAt": "2022-05-21T10:08:02.000Z",
+    "id": 71335,
+    "type": "manga",
+    "title": "Mahou Senshi Louie",
+    "altTitle": [
+      "Louie the Rune Soldier",
+      "Mahou Senshi Louie: First Season",
+      "魔法戦士リウイ"
+    ],
+    "url": "https://myanimelist.net/manga/71335/Mahou_Senshi_Louie",
+    "image": "https://cdn.myanimelist.net/images/manga/2/122859.jpg",
+    "category": "Light Novel",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Louie the Rune Soldier",
-      "Mahou Senshi Louie: First Season",
-      "魔法戦士リウイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizuno, Ryou",
       "Yokota, Mamoru"
-    ],
-    "id": 71335,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.493Z",
+    "updatedAt": "2022-05-21T10:08:01.000Z",
+    "checkedAt": "2022-05-21T10:08:01.000Z",
+    "id": 91383,
     "type": "manga",
     "title": "Mahou Senshi Louie",
-    "url": "https://myanimelist.net/manga/71335/Mahou_Senshi_Louie",
-    "image": "https://cdn.myanimelist.net/images/manga/2/122859.jpg",
-    "category": "Light Novel",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:18.000Z",
-    "updatedAt": "2021-11-10T11:45:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔法戦士リウイ",
       "Louie the Rune Soldier",
       "Mahou Senshi Louie: First Season"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mamoru Yokota",
-      "Ryou Mizuno"
-    ],
-    "id": 91383,
-    "malId": 71335,
-    "type": "manga",
-    "title": "Mahou Senshi Louie",
     "url": "https://anilist.co/manga/91383",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91383-WIo837iDibAD.jpg",
     "category": "novel",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:34.000Z",
-    "updatedAt": "2021-12-18T00:22:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/71335/Mahou_Senshi_Louie"
+    "externalLinks": [],
+    "malId": 71335,
+    "deletedAt": null,
+    "authors": [
+      "Mamoru Yokota",
+      "Ryou Mizuno"
+    ]
+  }
 }

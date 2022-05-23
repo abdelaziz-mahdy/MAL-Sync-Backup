@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hiyoshimaru Akira"
-  ],
+  "createdAt": "2020-10-12T16:07:41.000Z",
+  "updatedAt": "2021-12-04T04:51:30.000Z",
+  "checkedAt": null,
+  "id": 11131,
   "identifier": "db57ba6f-7283-4e57-b695-166dd35dfcf2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65121,
   "aniId": 86105,
-  "createdAt": "2020-10-12T16:07:41.000Z",
-  "updatedAt": "2021-12-04T04:51:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiyoshimaru Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:07.000Z",
+    "updatedAt": "2022-03-25T23:58:35.000Z",
+    "checkedAt": null,
+    "id": 65121,
+    "type": "manga",
+    "title": "Hatsukoi Monster",
+    "altTitle": [
+      "First Love Monster",
+      "初恋モンスター"
+    ],
+    "url": "https://myanimelist.net/manga/65121/Hatsukoi_Monster",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180249.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "First Love Monster",
-      "初恋モンスター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiyoshimaru, Akira"
-    ],
-    "id": 65121,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:15.045Z",
+    "updatedAt": "2022-05-13T12:51:15.045Z",
+    "checkedAt": null,
+    "id": 86105,
     "type": "manga",
     "title": "Hatsukoi Monster",
-    "url": "https://myanimelist.net/manga/65121/Hatsukoi_Monster",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180249.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:07.000Z",
-    "updatedAt": "2022-03-25T23:58:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "First Love Monster",
       "初恋モンスター"
     ],
+    "url": "https://anilist.co/manga/86105",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56105-vmptDniXR9P1.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 65121,
+    "deletedAt": null,
     "authors": [
       "Akira Hiyoshimaru",
       "Alethea Nibley",
       "Abigail Blackman",
       "Athena Nibley"
-    ],
-    "id": 86105,
-    "malId": 65121,
-    "type": "manga",
-    "title": "Hatsukoi Monster",
-    "url": "https://anilist.co/manga/86105",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56105-vmptDniXR9P1.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:52.000Z",
-    "updatedAt": "2021-12-17T22:30:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/65121/Hatsukoi_Monster"
+    ]
+  }
 }

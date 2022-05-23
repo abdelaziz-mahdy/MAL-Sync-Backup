@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gotou Masaki"
-  ],
+  "createdAt": "2020-10-12T16:08:46.000Z",
+  "updatedAt": "2021-12-04T12:54:29.000Z",
+  "checkedAt": null,
+  "id": 13518,
   "identifier": "51d9a37f-686a-48df-9ac0-4c3d4ca8227e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 74653,
   "aniId": 86340,
-  "createdAt": "2020-10-12T16:08:46.000Z",
-  "updatedAt": "2021-12-04T12:54:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gotou Masaki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2022-05-21T08:17:14.000Z",
+    "checkedAt": "2022-05-21T08:17:14.000Z",
+    "id": 74653,
+    "type": "manga",
+    "title": "Ichiba Kurogane wa Kasegitai",
+    "altTitle": [
+      "Ichiba Kurogane Wants to Earn Income",
+      "Francesco",
+      "市場クロガネは稼ぎたい"
+    ],
+    "url": "https://myanimelist.net/manga/74653/Ichiba_Kurogane_wa_Kasegitai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188901.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ichiba Kurogane Wants to Earn Income",
-      "Francesco",
-      "市場クロガネは稼ぎたい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gotou, Masaki"
-    ],
-    "id": 74653,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:10.163Z",
+    "updatedAt": "2022-05-21T08:17:13.000Z",
+    "checkedAt": "2022-05-21T08:17:13.000Z",
+    "id": 86340,
     "type": "manga",
     "title": "Ichiba Kurogane wa Kasegitai",
-    "url": "https://myanimelist.net/manga/74653/Ichiba_Kurogane_wa_Kasegitai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188901.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2022-03-22T15:57:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ichiba Kurogane Wants to Earn Money",
       "市場クロガネは稼ぎたい"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaki Gotou"
-    ],
-    "id": 86340,
-    "malId": 74653,
-    "type": "manga",
-    "title": "Ichiba Kurogane wa Kasegitai",
     "url": "https://anilist.co/manga/86340",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86340-Z7HwGoVRYmtF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:44.000Z",
-    "updatedAt": "2021-12-17T22:50:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/74653/Ichiba_Kurogane_wa_Kasegitai"
+    "externalLinks": [],
+    "malId": 74653,
+    "deletedAt": null,
+    "authors": [
+      "Masaki Gotou"
+    ]
+  }
 }

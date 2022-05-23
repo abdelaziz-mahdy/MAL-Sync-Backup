@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:05.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4761,
   "identifier": "j754",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4722,
   "aniId": 4722,
-  "createdAt": "2020-10-12T15:52:05.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-13T21:13:48.000Z",
+    "checkedAt": "2022-05-13T21:13:48.000Z",
+    "id": 4722,
+    "type": "anime",
+    "title": "Skip Beat!",
+    "altTitle": [
+      "Skip Beat!",
+      "スキップ・ビート！"
+    ],
+    "url": "https://myanimelist.net/anime/4722/Skip_Beat",
+    "image": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-105505"
       }
     ],
-    "altTitle": [
-      "Skip Beat!",
-      "スキップ・ビート！"
-    ],
+    "deletedAt": null,
+    "anidbId": 6103
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-15T11:42:23.000Z",
+    "checkedAt": "2022-05-15T11:42:23.000Z",
     "id": 4722,
     "type": "anime",
     "title": "Skip Beat!",
-    "url": "https://myanimelist.net/anime/4722/Skip_Beat",
-    "image": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 6103,
-    "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2022-04-27T17:02:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Skip Beat!",
       "スキップ・ビート！"
     ],
+    "url": "https://anilist.co/anime/4722",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4722-haxa25k1oSxU.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/skip-beat"
       }
     ],
-    "id": 4722,
     "malId": 4722,
-    "type": "anime",
-    "title": "Skip Beat!",
-    "url": "https://anilist.co/anime/4722",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4722-haxa25k1oSxU.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:37:37.000Z",
-    "updatedAt": "2021-12-17T11:27:07.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4722/Skip_Beat"
+  }
 }

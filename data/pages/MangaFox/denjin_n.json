@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "KURAISHI Yuu",
-    "TANAKA Kuu"
-  ],
+  "createdAt": "2021-11-25T23:35:34.000Z",
+  "updatedAt": "2021-11-26T00:05:32.000Z",
+  "checkedAt": null,
+  "id": 91749,
   "identifier": "denjin_n",
   "type": "manga",
   "page": "MangaFox",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123028,
   "aniId": 112510,
-  "createdAt": "2021-11-25T23:35:34.000Z",
-  "updatedAt": "2021-11-26T00:05:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "KURAISHI Yuu",
+    "TANAKA Kuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-27T20:42:38.000Z",
+    "updatedAt": "2022-05-16T19:42:06.000Z",
+    "checkedAt": "2022-05-16T19:42:06.000Z",
+    "id": 123028,
+    "type": "manga",
+    "title": "Denjin N",
+    "altTitle": [
+      "電人N"
+    ],
+    "url": "https://myanimelist.net/manga/123028/Denjin_N",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224377.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "電人N"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kuraishi, Yuu",
       "Inabe, Kazu"
-    ],
-    "id": 123028,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:55.166Z",
+    "updatedAt": "2022-05-16T19:42:05.000Z",
+    "checkedAt": "2022-05-16T19:42:05.000Z",
+    "id": 112510,
     "type": "manga",
     "title": "Denjin N",
-    "url": "https://myanimelist.net/manga/123028/Denjin_N",
-    "image": "https://cdn.myanimelist.net/images/manga/2/224377.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-27T20:42:38.000Z",
-    "updatedAt": "2021-11-25T23:35:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "電人N"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Kuraishi",
-      "Kazu Inabe"
-    ],
-    "id": 112510,
-    "malId": 123028,
-    "type": "manga",
-    "title": "Denjin N",
     "url": "https://anilist.co/manga/112510",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112510-EtJHylnzXh9m.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T07:28:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123028/Denjin_N"
+    "externalLinks": [],
+    "malId": 123028,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Kuraishi",
+      "Kazu Inabe"
+    ]
+  }
 }

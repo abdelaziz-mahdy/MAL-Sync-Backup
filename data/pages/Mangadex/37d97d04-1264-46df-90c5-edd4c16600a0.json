@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakamoto Kou",
-    "Kirihara Idumi"
-  ],
+  "createdAt": "2020-10-12T16:03:55.000Z",
+  "updatedAt": "2021-12-02T17:50:18.000Z",
+  "checkedAt": null,
+  "id": 3229,
   "identifier": "37d97d04-1264-46df-90c5-edd4c16600a0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34051,
   "aniId": 64051,
-  "createdAt": "2020-10-12T16:03:55.000Z",
-  "updatedAt": "2021-12-02T17:50:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakamoto Kou",
+    "Kirihara Idumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:48.000Z",
+    "updatedAt": "2021-11-05T10:35:41.000Z",
+    "checkedAt": null,
+    "id": 34051,
+    "type": "manga",
+    "title": "Gunjou",
+    "altTitle": [
+      "群青"
+    ],
+    "url": "https://myanimelist.net/manga/34051/Gunjou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/142775.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "群青"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kirihara, Idumi",
       "Sakamoto, Kou"
-    ],
-    "id": 34051,
-    "type": "manga",
-    "title": "Gunjou",
-    "url": "https://myanimelist.net/manga/34051/Gunjou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/142775.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:48.000Z",
-    "updatedAt": "2021-11-05T10:35:41.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:47.558Z",
+    "updatedAt": "2022-05-13T12:45:47.558Z",
+    "checkedAt": null,
+    "id": 64051,
+    "type": "manga",
+    "title": "Gun-Jou",
     "altTitle": [
       "群青",
       "Gunjou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Izumi Kirihara",
-      "Kou Sakamoto"
-    ],
-    "id": 64051,
-    "malId": 34051,
-    "type": "manga",
-    "title": "Gun-Jou",
     "url": "https://anilist.co/manga/64051",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b64051-rBj770WBqiA3.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:57.000Z",
-    "updatedAt": "2021-12-17T19:31:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/34051/Gunjou"
+    "externalLinks": [],
+    "malId": 34051,
+    "deletedAt": null,
+    "authors": [
+      "Izumi Kirihara",
+      "Kou Sakamoto"
+    ]
+  }
 }

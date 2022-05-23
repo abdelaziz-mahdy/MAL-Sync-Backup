@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinzou Keigo"
-  ],
+  "createdAt": "2021-10-12T15:59:08.000Z",
+  "updatedAt": "2021-12-02T18:46:15.000Z",
+  "checkedAt": null,
+  "id": 88608,
   "identifier": "87ebd557-8394-4f16-8afe-a8644e555ddc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 137303,
   "aniId": 132288,
-  "createdAt": "2021-10-12T15:59:08.000Z",
-  "updatedAt": "2021-12-02T18:46:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinzou Keigo"
+  ],
   "Mal": {
+    "createdAt": "2021-10-10T14:33:14.000Z",
+    "updatedAt": "2022-05-14T22:12:29.000Z",
+    "checkedAt": "2022-05-14T22:12:29.000Z",
+    "id": 137303,
+    "type": "manga",
+    "title": "Hirayasumi",
+    "altTitle": [
+      "ひらやすみ"
+    ],
+    "url": "https://myanimelist.net/manga/137303/Hirayasumi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249992.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ひらやすみ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinzou, Keigo"
-    ],
-    "id": 137303,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:52.742Z",
+    "updatedAt": "2022-05-16T05:24:49.000Z",
+    "checkedAt": "2022-05-16T05:24:49.000Z",
+    "id": 132288,
     "type": "manga",
     "title": "Hirayasumi",
-    "url": "https://myanimelist.net/manga/137303/Hirayasumi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/249992.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-10T14:33:14.000Z",
-    "updatedAt": "2022-01-23T07:03:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ひらやすみ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keigo Shinzou"
-    ],
-    "id": 132288,
-    "malId": 137303,
-    "type": "manga",
-    "title": "Hirayasumi",
     "url": "https://anilist.co/manga/132288",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132288-YnkpDO1wNHNM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T09:48:57.000Z",
-    "updatedAt": "2022-02-26T17:47:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/137303/Hirayasumi"
+    "externalLinks": [],
+    "malId": 137303,
+    "deletedAt": null,
+    "authors": [
+      "Keigo Shinzou"
+    ]
+  }
 }

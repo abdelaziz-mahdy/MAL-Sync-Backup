@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hara Yasuhisa"
-  ],
+  "createdAt": "2020-10-12T16:06:37.000Z",
+  "updatedAt": "2022-05-15T08:20:00.000Z",
+  "checkedAt": "2022-05-15T03:30:11.000Z",
+  "id": 8881,
   "identifier": "2115ffb9-064c-43b4-8938-d8217c02d9e8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2020-10-12T16:06:37.000Z",
-  "updatedAt": "2021-12-03T21:17:58.000Z",
+  "actorId": 1,
+  "malId": 56681,
+  "aniId": 88263,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Hara Yasuhisa"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-05-15T03:08:17.000Z",
+    "checkedAt": "2022-05-15T03:08:17.000Z",
+    "id": 56681,
+    "type": "manga",
+    "title": "Kingdom - Soushuuhen",
+    "altTitle": [
+      "Li Mu",
+      "Kingdom - Highlights",
+      "キングダム総集編"
+    ],
+    "url": "https://myanimelist.net/manga/56681/Kingdom_-_Soushuuhen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/99785.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hara, Yasuhisa"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:32.837Z",
+    "updatedAt": "2022-05-15T18:09:23.000Z",
+    "checkedAt": "2022-05-15T18:09:23.000Z",
+    "id": 88263,
+    "type": "manga",
+    "title": "Kingdom: Soushuu-hen",
+    "altTitle": [
+      "キングダム総集編",
+      "Kingdom: Highlights",
+      "Kongou",
+      "Umazakehei Sanbyaku",
+      "Li Mu",
+      "Meng Wu and Chu Zi"
+    ],
+    "url": "https://anilist.co/manga/88263",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88263-XqaV9fOpuNLL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 56681,
+    "deletedAt": null,
+    "authors": [
+      "Yasuhisa Hara"
+    ]
+  }
 }

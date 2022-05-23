@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kagemachi Keita"
-  ],
+  "createdAt": "2020-10-12T16:08:29.000Z",
+  "updatedAt": "2021-12-04T10:52:28.000Z",
+  "checkedAt": null,
+  "id": 12913,
   "identifier": "a7ac0261-5322-4afd-9240-f54316765cd1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80805,
   "aniId": 86641,
-  "createdAt": "2020-10-12T16:08:29.000Z",
-  "updatedAt": "2021-12-04T10:52:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kagemachi Keita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:35.000Z",
+    "updatedAt": "2022-05-14T10:10:55.000Z",
+    "checkedAt": "2022-05-14T10:10:55.000Z",
+    "id": 80805,
+    "type": "manga",
+    "title": "Groundless",
+    "altTitle": [
+      "Groundless: Alistria Kaikoku Senki",
+      "GROUNDLESS"
+    ],
+    "url": "https://myanimelist.net/manga/80805/Groundless",
+    "image": "https://cdn.myanimelist.net/images/manga/3/139775.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Groundless: Alistria Kaikoku Senki",
-      "GROUNDLESS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kagemachi, Keita"
-    ],
-    "id": 80805,
-    "type": "manga",
-    "title": "Groundless",
-    "url": "https://myanimelist.net/manga/80805/Groundless",
-    "image": "https://cdn.myanimelist.net/images/manga/3/139775.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:35.000Z",
-    "updatedAt": "2022-01-25T04:34:53.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:42.529Z",
+    "updatedAt": "2022-05-15T22:35:59.000Z",
+    "checkedAt": "2022-05-15T22:35:59.000Z",
+    "id": 86641,
+    "type": "manga",
+    "title": "GROUNDLESS",
     "altTitle": [
       "GROUNDLESS",
       "Sekigan no Sogekihei",
       "隻眼の狙撃兵"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keita Kagemachi"
-    ],
-    "id": 86641,
-    "malId": 80805,
-    "type": "manga",
-    "title": "GROUNDLESS",
     "url": "https://anilist.co/manga/86641",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86641-ZsaKrsIHVXgp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:01.000Z",
-    "updatedAt": "2022-03-16T09:15:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80805/Groundless"
+    "externalLinks": [],
+    "malId": 80805,
+    "deletedAt": null,
+    "authors": [
+      "Keita Kagemachi"
+    ]
+  }
 }

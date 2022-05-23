@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shironeko",
-    "Aoba"
-  ],
+  "createdAt": "2020-10-12T16:17:40.000Z",
+  "updatedAt": "2021-12-07T10:19:28.000Z",
+  "checkedAt": null,
+  "id": 31590,
   "identifier": "ee2cfd04-6f60-44e0-b5e5-fa2ab3355e9e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123203,
   "aniId": 113592,
-  "createdAt": "2020-10-12T16:17:40.000Z",
-  "updatedAt": "2021-12-07T10:19:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shironeko",
+    "Aoba"
+  ],
   "Mal": {
+    "createdAt": "2021-06-07T09:50:43.000Z",
+    "updatedAt": "2021-12-07T10:18:01.000Z",
+    "checkedAt": null,
+    "id": 123203,
+    "type": "manga",
+    "title": "Omae Mitai na Heroine ga Ite Tamaru ka!",
+    "altTitle": [
+      "お前みたいなヒロインがいてたまるか！"
+    ],
+    "url": "https://myanimelist.net/manga/123203/Omae_Mitai_na_Heroine_ga_Ite_Tamaru_ka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/234817.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "お前みたいなヒロインがいてたまるか！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shironeko",
       "Aoba"
-    ],
-    "id": 123203,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:12.822Z",
+    "updatedAt": "2022-05-13T13:00:12.822Z",
+    "checkedAt": null,
+    "id": 113592,
     "type": "manga",
     "title": "Omae Mitai na Heroine ga Ite Tamaru ka!",
-    "url": "https://myanimelist.net/manga/123203/Omae_Mitai_na_Heroine_ga_Ite_Tamaru_ka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/234817.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-07T09:50:43.000Z",
-    "updatedAt": "2021-12-07T10:18:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "お前みたいなヒロインがいてたまるか！",
       "Like Hell It's Okay to Have a Heroine like You!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shironeko",
-      "gamu",
-      "Aoba"
-    ],
-    "id": 113592,
-    "malId": 123203,
-    "type": "manga",
-    "title": "Omae Mitai na Heroine ga Ite Tamaru ka!",
     "url": "https://anilist.co/manga/113592",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113592-78Lr2Ttu1GlF.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T09:50:43.000Z",
-    "updatedAt": "2021-12-18T07:54:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123203/Omae_Mitai_na_Heroine_ga_Ite_Tamaru_ka"
+    "externalLinks": [],
+    "malId": 123203,
+    "deletedAt": null,
+    "authors": [
+      "Shironeko",
+      "gamu",
+      "Aoba"
+    ]
+  }
 }

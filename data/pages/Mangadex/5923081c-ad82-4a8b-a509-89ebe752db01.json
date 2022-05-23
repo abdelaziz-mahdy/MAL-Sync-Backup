@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hiro Mashima"
-  ],
+  "createdAt": "2020-10-12T16:02:51.000Z",
+  "updatedAt": "2021-12-02T10:17:38.000Z",
+  "checkedAt": null,
+  "id": 975,
   "identifier": "5923081c-ad82-4a8b-a509-89ebe752db01",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14,
   "aniId": 30014,
-  "createdAt": "2020-10-12T16:02:51.000Z",
-  "updatedAt": "2021-12-02T10:17:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiro Mashima"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-15T22:16:38.000Z",
+    "checkedAt": "2022-05-15T22:16:38.000Z",
+    "id": 14,
+    "type": "manga",
+    "title": "Rave",
+    "altTitle": [
+      "Rave: The Groove Adventure",
+      "Rave Master",
+      "RAVE"
+    ],
+    "url": "https://myanimelist.net/manga/14/Rave",
+    "image": "https://cdn.myanimelist.net/images/manga/3/255624.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rave: The Groove Adventure",
-      "Rave Master",
-      "RAVE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mashima, Hiro"
-    ],
-    "id": 14,
-    "type": "manga",
-    "title": "Rave",
-    "url": "https://myanimelist.net/manga/14/Rave",
-    "image": "https://cdn.myanimelist.net/images/manga/3/255624.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-04T17:31:55.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:10.729Z",
+    "updatedAt": "2022-05-15T22:31:11.000Z",
+    "checkedAt": "2022-05-15T22:31:11.000Z",
+    "id": 30014,
+    "type": "manga",
+    "title": "Groove Adventure Rave",
     "altTitle": [
       "Rave Master",
       "レイヴ"
     ],
+    "url": "https://anilist.co/manga/30014",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30014-Q7yKgaHVVmUg.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 14,
+    "deletedAt": null,
     "authors": [
       "Hiro Mashima",
       "Miki Yoshikawa",
       "Takeshi Kondou",
       "Kouji Nakamura"
-    ],
-    "id": 30014,
-    "malId": 14,
-    "type": "manga",
-    "title": "Groove Adventure Rave",
-    "url": "https://anilist.co/manga/30014",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30014-Q7yKgaHVVmUg.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-19T10:18:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14/Rave"
+    ]
+  }
 }

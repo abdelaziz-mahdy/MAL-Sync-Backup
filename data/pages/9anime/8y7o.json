@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:34.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4090,
   "identifier": "8y7o",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20787,
   "aniId": 20457,
-  "createdAt": "2020-10-12T15:51:34.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:23.000Z",
+    "updatedAt": "2022-05-14T16:00:19.000Z",
+    "checkedAt": "2022-05-14T16:00:19.000Z",
+    "id": 20787,
+    "type": "anime",
+    "title": "Black Bullet",
+    "altTitle": [
+      "Black Bullet",
+      "ブラック・ブレット　BLACK BULLET　［黒の銃弾］"
+    ],
+    "url": "https://myanimelist.net/anime/20787/Black_Bullet",
+    "image": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,28 +59,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Black Bullet",
-      "ブラック・ブレット　BLACK BULLET　［黒の銃弾］"
-    ],
-    "id": 20787,
+    "deletedAt": null,
+    "anidbId": 10181
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:37.000Z",
+    "updatedAt": "2022-05-15T11:31:11.000Z",
+    "checkedAt": "2022-05-15T11:31:11.000Z",
+    "id": 20457,
     "type": "anime",
     "title": "Black Bullet",
-    "url": "https://myanimelist.net/anime/20787/Black_Bullet",
-    "image": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10181,
-    "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2022-04-09T11:01:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Black Bullet",
       "ブラック・ブレット",
       "แบล็ค บุลเลท "
     ],
+    "url": "https://anilist.co/anime/20457",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20457-4zieOshU5zw9.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -87,17 +100,7 @@
         "url": "https://www.netflix.com/title/80080317"
       }
     ],
-    "id": 20457,
     "malId": 20787,
-    "type": "anime",
-    "title": "Black Bullet",
-    "url": "https://anilist.co/anime/20457",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20457-4zieOshU5zw9.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:40:37.000Z",
-    "updatedAt": "2021-11-19T20:44:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/20787/Black_Bullet"
+  }
 }

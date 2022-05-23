@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takagi Ryou"
-  ],
+  "createdAt": "2020-10-12T16:12:48.000Z",
+  "updatedAt": "2021-12-05T17:22:38.000Z",
+  "checkedAt": null,
+  "id": 21554,
   "identifier": "2b1ddae7-345e-4101-86a6-7b29170c88d2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70101,
   "aniId": 91112,
-  "createdAt": "2020-10-12T16:12:48.000Z",
-  "updatedAt": "2021-12-05T17:22:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takagi Ryou"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-05T16:50:08.000Z",
+    "updatedAt": "2021-12-05T17:17:08.000Z",
+    "checkedAt": null,
+    "id": 70101,
+    "type": "manga",
+    "title": "Concierge no Koibito",
     "altTitle": [
       "Wakadanna no Koibito",
       "Shachou no Koibito",
@@ -27,21 +33,24 @@
       "Shodouka no Koibito",
       "コンシェルジュの恋人"
     ],
-    "authors": [
-      "Takagi, Ryo"
-    ],
-    "id": 70101,
-    "type": "manga",
-    "title": "Concierge no Koibito",
     "url": "https://myanimelist.net/manga/70101/Concierge_no_Koibito",
     "image": "https://cdn.myanimelist.net/images/manga/3/120867.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-05T16:50:08.000Z",
-    "updatedAt": "2021-12-05T17:17:08.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takagi, Ryo"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:32.726Z",
+    "updatedAt": "2022-05-13T13:04:32.726Z",
+    "checkedAt": null,
+    "id": 91112,
+    "type": "manga",
+    "title": "Concierge no Koibito",
     "altTitle": [
       "コンシェルジュの恋人",
       "Wakadanna no Koibito",
@@ -49,21 +58,15 @@
       "Bishokuka no Koibito",
       "Shodouka no Koibito"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryou Takagi"
-    ],
-    "id": 91112,
-    "malId": 70101,
-    "type": "manga",
-    "title": "Concierge no Koibito",
     "url": "https://anilist.co/manga/91112",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91112-2Glwtmzxx6TK.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-05T16:50:08.000Z",
-    "updatedAt": "2021-12-18T00:20:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70101/Concierge_no_Koibito"
+    "externalLinks": [],
+    "malId": 70101,
+    "deletedAt": null,
+    "authors": [
+      "Ryou Takagi"
+    ]
+  }
 }

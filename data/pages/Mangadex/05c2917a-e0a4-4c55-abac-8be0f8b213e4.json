@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Andou Masaki (II)",
-    "Kurasaki Moroko"
-  ],
+  "createdAt": "2020-10-12T16:19:16.000Z",
+  "updatedAt": "2021-12-07T22:08:31.000Z",
+  "checkedAt": null,
+  "id": 34862,
   "identifier": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 137108,
   "aniId": 111507,
-  "createdAt": "2020-10-12T16:19:16.000Z",
-  "updatedAt": "2021-12-07T22:08:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Andou Masaki (II)",
+    "Kurasaki Moroko"
+  ],
   "Mal": {
+    "createdAt": "2021-06-02T08:23:46.000Z",
+    "updatedAt": "2021-12-20T13:19:17.000Z",
+    "checkedAt": null,
+    "id": 137108,
+    "type": "manga",
+    "title": "Kojiin Tamer",
+    "altTitle": [
+      "The Orphanage's Tamer",
+      "孤児院テイマー"
+    ],
+    "url": "https://myanimelist.net/manga/137108/Kojiin_Tamer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245506.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Orphanage's Tamer",
-      "孤児院テイマー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurasaki, Moroko",
       "Andou, Masaki"
-    ],
-    "id": 137108,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:52.133Z",
+    "updatedAt": "2022-05-13T12:56:52.133Z",
+    "checkedAt": null,
+    "id": 111507,
     "type": "manga",
     "title": "Kojiin Tamer",
-    "url": "https://myanimelist.net/manga/137108/Kojiin_Tamer",
-    "image": "https://cdn.myanimelist.net/images/manga/3/245506.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-02T08:23:46.000Z",
-    "updatedAt": "2021-12-20T13:19:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "孤児院テイマー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaki Andou",
-      "Moroko Kurasaki",
-      "Yousuke Ishibashi"
-    ],
-    "id": 111507,
-    "malId": 137108,
-    "type": "manga",
-    "title": "Kojiin Tamer",
     "url": "https://anilist.co/manga/111507",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111507-nevvbtvA7l4B.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T07:13:07.000Z",
-    "updatedAt": "2021-12-18T07:21:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/137108/Kojiin_Tamer"
+    "externalLinks": [],
+    "malId": 137108,
+    "deletedAt": null,
+    "authors": [
+      "Masaki Andou",
+      "Moroko Kurasaki",
+      "Yousuke Ishibashi"
+    ]
+  }
 }

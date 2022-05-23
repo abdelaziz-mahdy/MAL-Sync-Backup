@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Adachi Mitsuru"
-  ],
+  "createdAt": "2020-10-12T16:04:07.000Z",
+  "updatedAt": "2021-12-02T19:18:17.000Z",
+  "checkedAt": null,
+  "id": 3682,
   "identifier": "1d4291f0-8675-427a-9238-dd186375ff0e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1185,
   "aniId": 31185,
-  "createdAt": "2020-10-12T16:04:07.000Z",
-  "updatedAt": "2021-12-02T19:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Adachi Mitsuru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-14T09:23:24.000Z",
+    "checkedAt": "2022-05-14T09:23:24.000Z",
+    "id": 1185,
+    "type": "manga",
+    "title": "Katsu!",
+    "altTitle": [
+      "KATSU!"
+    ],
+    "url": "https://myanimelist.net/manga/1185/Katsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/180361.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "KATSU!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Adachi, Mitsuru"
-    ],
-    "id": 1185,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:27.435Z",
+    "updatedAt": "2022-05-22T15:41:27.000Z",
+    "checkedAt": "2022-05-22T15:41:27.000Z",
+    "id": 31185,
     "type": "manga",
     "title": "Katsu!",
-    "url": "https://myanimelist.net/manga/1185/Katsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180361.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-04-18T23:32:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "KATSU! (カツ!)",
       "KATSU! คัทซึ!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuru Adachi"
-    ],
-    "id": 31185,
-    "malId": 1185,
-    "type": "manga",
-    "title": "Katsu!",
     "url": "https://anilist.co/manga/31185",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31185-IwF2tToSE3qd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2022-03-09T05:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1185/Katsu"
+    "externalLinks": [],
+    "malId": 1185,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuru Adachi"
+    ]
+  }
 }

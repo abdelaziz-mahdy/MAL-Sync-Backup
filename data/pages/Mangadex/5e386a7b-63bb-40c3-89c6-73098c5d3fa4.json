@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tanemura Arina"
-  ],
+  "createdAt": "2020-10-12T16:05:05.000Z",
+  "updatedAt": "2021-12-03T10:18:09.000Z",
+  "checkedAt": null,
+  "id": 5677,
   "identifier": "5e386a7b-63bb-40c3-89c6-73098c5d3fa4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86,
   "aniId": 30086,
-  "createdAt": "2020-10-12T16:05:05.000Z",
-  "updatedAt": "2021-12-03T10:18:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tanemura Arina"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T15:18:04.000Z",
+    "checkedAt": "2022-05-15T15:18:04.000Z",
+    "id": 86,
+    "type": "manga",
+    "title": "Time Stranger Kyoko",
+    "altTitle": [
+      "Jikuu Ihoujin Kyoko",
+      "Time Stranger Kyoko",
+      "時空異邦人KYOKO"
+    ],
+    "url": "https://myanimelist.net/manga/86/Time_Stranger_Kyoko",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175908.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,53 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jikuu Ihoujin Kyoko",
-      "Time Stranger Kyoko",
-      "時空異邦人KYOKO"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanemura, Arina"
-    ],
-    "id": 86,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.596Z",
+    "updatedAt": "2022-05-15T18:45:35.000Z",
+    "checkedAt": "2022-05-15T18:45:35.000Z",
+    "id": 30086,
     "type": "manga",
     "title": "Time Stranger Kyoko",
-    "url": "https://myanimelist.net/manga/86/Time_Stranger_Kyoko",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175908.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-03-20T23:23:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Time Stranger Kyoko",
       "時空異邦人KYOKO",
       "タイムストレンジャーキョーコ",
       "Jikuu Ihoujin Kyoko"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/time-stranger-kyoko"
-      }
-    ],
-    "authors": [
-      "Arina Tanemura",
-      "Ai Minase"
-    ],
-    "id": 30086,
-    "malId": 86,
-    "type": "manga",
-    "title": "Time Stranger Kyoko",
     "url": "https://anilist.co/manga/30086",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30086-xKYRnmMWqErr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:32:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86/Time_Stranger_Kyoko"
+    "externalLinks": [],
+    "malId": 86,
+    "deletedAt": null,
+    "authors": [
+      "Arina Tanemura",
+      "Ai Minase"
+    ]
+  }
 }

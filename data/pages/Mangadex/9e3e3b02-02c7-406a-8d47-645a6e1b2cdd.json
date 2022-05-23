@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakai Atsurou",
-    "Aakatsuki Akira"
-  ],
+  "createdAt": "2020-10-12T16:15:51.000Z",
+  "updatedAt": "2021-12-06T17:48:11.000Z",
+  "checkedAt": null,
+  "id": 27888,
   "identifier": "9e3e3b02-02c7-406a-8d47-645a6e1b2cdd",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116379,
   "aniId": 105098,
-  "createdAt": "2020-10-12T16:15:51.000Z",
-  "updatedAt": "2021-12-06T17:48:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakai Atsurou",
+    "Aakatsuki Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:45.000Z",
+    "updatedAt": "2021-12-31T01:23:38.000Z",
+    "checkedAt": null,
+    "id": 116379,
+    "type": "manga",
+    "title": "Boxer's Blast",
+    "altTitle": [
+      "BOXER's BLAST"
+    ],
+    "url": "https://myanimelist.net/manga/116379/Boxers_Blast",
+    "image": "https://cdn.myanimelist.net/images/manga/3/215369.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BOXER's BLAST"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akatsuki, Akira",
       "Sakai, Atsurou"
-    ],
-    "id": 116379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:00.882Z",
+    "updatedAt": "2022-05-13T12:56:00.882Z",
+    "checkedAt": null,
+    "id": 105098,
     "type": "manga",
     "title": "Boxer's Blast",
-    "url": "https://myanimelist.net/manga/116379/Boxers_Blast",
-    "image": "https://cdn.myanimelist.net/images/manga/3/215369.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:45.000Z",
-    "updatedAt": "2021-12-31T01:23:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BOXER's BLAST",
       "ボクサーズ　ブラスト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Akatsuki",
-      "Atsuro Sakai"
-    ],
-    "id": 105098,
-    "malId": 116379,
-    "type": "manga",
-    "title": "Boxer's Blast",
     "url": "https://anilist.co/manga/105098",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105098-zwQOTmzafJPL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:23.000Z",
-    "updatedAt": "2021-12-18T04:59:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116379/Boxers_Blast"
+    "externalLinks": [],
+    "malId": 116379,
+    "deletedAt": null,
+    "authors": [
+      "Akira Akatsuki",
+      "Atsuro Sakai"
+    ]
+  }
 }

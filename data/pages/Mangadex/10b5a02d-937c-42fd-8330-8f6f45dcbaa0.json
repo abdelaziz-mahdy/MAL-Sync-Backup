@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saiki Kumiko"
-  ],
+  "createdAt": "2020-10-12T16:11:29.000Z",
+  "updatedAt": "2021-12-05T08:50:38.000Z",
+  "checkedAt": null,
+  "id": 19441,
   "identifier": "10b5a02d-937c-42fd-8330-8f6f45dcbaa0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86204,
   "aniId": 93901,
-  "createdAt": "2020-10-12T16:11:29.000Z",
-  "updatedAt": "2021-12-05T08:50:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saiki Kumiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:45.000Z",
+    "updatedAt": "2022-05-14T23:21:23.000Z",
+    "checkedAt": "2022-05-14T23:21:22.000Z",
+    "id": 86204,
+    "type": "manga",
+    "title": "Kageki Shoujo!",
+    "altTitle": [
+      "Opera Girl!",
+      "かげきしょうじょ!"
+    ],
+    "url": "https://myanimelist.net/manga/86204/Kageki_Shoujo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/149763.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Opera Girl!",
-      "かげきしょうじょ!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saiki, Kumiko"
-    ],
-    "id": 86204,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:05.995Z",
+    "updatedAt": "2022-05-16T14:29:42.000Z",
+    "checkedAt": "2022-05-16T14:29:42.000Z",
+    "id": 93901,
     "type": "manga",
     "title": "Kageki Shoujo!",
-    "url": "https://myanimelist.net/manga/86204/Kageki_Shoujo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/149763.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:45.000Z",
-    "updatedAt": "2021-12-04T16:21:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kageki Shojo!! The Curtain Rises",
       "かげきしょうじょ!",
@@ -51,24 +60,18 @@
       "Kageki Shoujo!! Season Zero",
       "かげきしょうじょ!! シーズンゼロ"
     ],
+    "url": "https://anilist.co/manga/93901",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93901-JG2412y4taiM.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 86204,
+    "deletedAt": null,
     "authors": [
       "Kumiko Saiki",
       "Katrina Leonoudakis",
       "Elsa Pecqueur",
       "Anais Fourny"
-    ],
-    "id": 93901,
-    "malId": 86204,
-    "type": "manga",
-    "title": "Kageki Shoujo!",
-    "url": "https://anilist.co/manga/93901",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93901-JG2412y4taiM.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:42.000Z",
-    "updatedAt": "2021-12-18T00:57:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86204/Kageki_Shoujo"
+    ]
+  }
 }

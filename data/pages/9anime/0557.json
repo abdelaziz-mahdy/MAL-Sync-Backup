@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-01-07T05:05:30.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 33142,
   "identifier": "0557",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 44235,
   "aniId": 127690,
-  "createdAt": "2021-01-07T05:05:30.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-01-07T10:43:33.000Z",
+    "updatedAt": "2022-05-14T19:23:18.000Z",
+    "checkedAt": "2022-05-14T19:23:18.000Z",
+    "id": 44235,
+    "type": "anime",
+    "title": "Pui Pui Molcar",
+    "altTitle": [
+      "PUI PUI モルカー"
+    ],
+    "url": "https://myanimelist.net/anime/44235/Pui_Pui_Molcar",
+    "image": "https://cdn.myanimelist.net/images/anime/1484/119197.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,23 +40,22 @@
         "url": "https://en.wikipedia.org/wiki/Pui_Pui_Molcar#Anime"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "PUI PUI モルカー"
+    "legalLinks": [
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/title/81416349"
+      }
     ],
-    "id": 44235,
-    "type": "anime",
-    "title": "Pui Pui Molcar",
-    "url": "https://myanimelist.net/anime/44235/Pui_Pui_Molcar",
-    "image": "https://cdn.myanimelist.net/images/anime/1484/119197.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": null,
-    "createdAt": "2021-01-07T10:43:33.000Z",
-    "updatedAt": "2021-12-30T19:54:30.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": null
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T12:02:59.000Z",
+    "checkedAt": "2022-05-15T12:02:59.000Z",
+    "id": 127690,
+    "type": "anime",
+    "title": "PUI PUI Molcar",
     "altTitle": [
       "PUI PUI MOLCAR",
       "PUI PUI モルカー",
@@ -49,23 +63,17 @@
       "Los Pui Pui",
       "PUI PUI มอลคาร์ (รถหนูตะเภา)"
     ],
+    "url": "https://anilist.co/anime/127690",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127690-v9vKElA1Wv1y.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/81416349"
       }
     ],
-    "id": 127690,
     "malId": 44235,
-    "type": "anime",
-    "title": "PUI PUI Molcar",
-    "url": "https://anilist.co/anime/127690",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127690-v9vKElA1Wv1y.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:13.000Z",
-    "updatedAt": "2022-03-09T07:29:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/44235/Pui_Pui_Molcar"
+  }
 }

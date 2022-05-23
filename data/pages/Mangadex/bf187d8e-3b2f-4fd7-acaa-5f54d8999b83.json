@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shirai Kaiu",
-    "Demizu Posuka"
-  ],
+  "createdAt": "2021-11-01T01:34:53.000Z",
+  "updatedAt": "2022-05-01T02:41:08.000Z",
+  "checkedAt": null,
+  "id": 90050,
   "identifier": "bf187d8e-3b2f-4fd7-acaa-5f54d8999b83",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 136246,
   "aniId": 131341,
-  "createdAt": "2021-11-01T01:34:53.000Z",
-  "updatedAt": "2022-05-01T02:41:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirai Kaiu",
+    "Demizu Posuka"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-11-01T00:04:20.000Z",
+    "updatedAt": "2022-05-15T09:15:56.000Z",
+    "checkedAt": "2022-05-15T09:15:56.000Z",
+    "id": 136246,
+    "type": "manga",
+    "title": "Miroirs",
     "altTitle": [
       "Sorcières",
       "Majo",
@@ -30,42 +36,39 @@
       "Karasu",
       "miroirs"
     ],
-    "authors": [
-      "Demizu, Posuka",
-      "Shirai, Kaiu"
-    ],
-    "id": 136246,
-    "type": "manga",
-    "title": "Miroirs",
     "url": "https://myanimelist.net/manga/136246/Miroirs",
     "image": "https://cdn.myanimelist.net/images/manga/3/249743.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-11-01T00:04:20.000Z",
-    "updatedAt": "2022-05-01T07:04:47.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Demizu, Posuka",
+      "Shirai, Kaiu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:55.361Z",
+    "updatedAt": "2022-05-16T21:54:42.000Z",
+    "checkedAt": "2022-05-16T21:54:42.000Z",
+    "id": 131341,
+    "type": "manga",
+    "title": "miroirs",
     "altTitle": [
       "miroirs",
       "ミロワール"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaiu Shirai",
-      "Posuka Demizu"
-    ],
-    "id": 131341,
-    "malId": 136246,
-    "type": "manga",
-    "title": "miroirs",
     "url": "https://anilist.co/manga/131341",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131341-97SgpJ3zQfLt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-14T11:20:50.000Z",
-    "updatedAt": "2022-03-01T00:40:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/136246/Miroirs"
+    "externalLinks": [],
+    "malId": 136246,
+    "deletedAt": null,
+    "authors": [
+      "Kaiu Shirai",
+      "Posuka Demizu"
+    ]
+  }
 }

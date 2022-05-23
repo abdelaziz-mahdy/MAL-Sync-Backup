@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kamo Yuji"
-  ],
+  "createdAt": "2020-10-12T16:13:49.000Z",
+  "updatedAt": "2021-12-06T00:18:07.000Z",
+  "checkedAt": null,
+  "id": 23656,
   "identifier": "e5741c93-0a17-4f49-ae5c-f161ca745f28",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115347,
   "aniId": 111605,
-  "createdAt": "2020-10-12T16:13:49.000Z",
-  "updatedAt": "2021-12-06T00:18:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kamo Yuji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2021-11-22T11:42:49.000Z",
+    "checkedAt": null,
+    "id": 115347,
+    "type": "manga",
+    "title": "Tsurugane-sensei",
+    "altTitle": [
+      "吊金先生"
+    ],
+    "url": "https://myanimelist.net/manga/115347/Tsurugane-sensei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/221463.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "吊金先生"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kamo, Yuuji"
-    ],
-    "id": 115347,
-    "type": "manga",
-    "title": "Tsurugane-sensei",
-    "url": "https://myanimelist.net/manga/115347/Tsurugane-sensei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/221463.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2021-11-22T11:42:49.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:41.899Z",
+    "updatedAt": "2022-05-13T13:05:41.899Z",
+    "checkedAt": null,
+    "id": 111605,
+    "type": "manga",
+    "title": "Tsurugane Sensei",
     "altTitle": [
       "吊金先生",
       "Tsurugane-sensei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuji Kamo"
-    ],
-    "id": 111605,
-    "malId": 115347,
-    "type": "manga",
-    "title": "Tsurugane Sensei",
     "url": "https://anilist.co/manga/111605",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111605-KnyMEvM2WER9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:14.000Z",
-    "updatedAt": "2021-12-18T07:22:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115347/Tsurugane-sensei"
+    "externalLinks": [],
+    "malId": 115347,
+    "deletedAt": null,
+    "authors": [
+      "Yuuji Kamo"
+    ]
+  }
 }

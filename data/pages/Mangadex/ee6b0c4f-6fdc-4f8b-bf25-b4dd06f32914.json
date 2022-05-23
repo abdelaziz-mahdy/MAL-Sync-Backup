@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "GaeTI",
-    "HC"
-  ],
+  "createdAt": "2020-10-12T16:19:39.000Z",
+  "updatedAt": "2021-12-07T22:37:12.000Z",
+  "checkedAt": null,
+  "id": 35595,
   "identifier": "ee6b0c4f-6fdc-4f8b-bf25-b4dd06f32914",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48483,
   "aniId": 78483,
-  "createdAt": "2020-10-12T16:19:39.000Z",
-  "updatedAt": "2021-12-07T22:37:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "GaeTI",
+    "HC"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:31.000Z",
+    "updatedAt": "2021-12-04T22:46:59.000Z",
+    "checkedAt": null,
+    "id": 48483,
+    "type": "manga",
+    "title": "Aku no Kyouten",
+    "altTitle": [
+      "Lesson of the Evil",
+      "Aku no Kyoten",
+      "悪の教典"
+    ],
+    "url": "https://myanimelist.net/manga/48483/Aku_no_Kyouten",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157762.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +47,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lesson of the Evil",
-      "Aku no Kyoten",
-      "悪の教典"
-    ],
+    "deletedAt": null,
     "authors": [
       "Karasuyama, Eiji",
       "Kishi, Yusuke"
-    ],
-    "id": 48483,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:49.585Z",
+    "updatedAt": "2022-05-13T12:56:49.585Z",
+    "checkedAt": null,
+    "id": 78483,
     "type": "manga",
     "title": "Aku no Kyouten",
-    "url": "https://myanimelist.net/manga/48483/Aku_no_Kyouten",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157762.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:31.000Z",
-    "updatedAt": "2021-12-04T22:46:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "悪の教典",
       "Lesson of the Evil",
       "Aku no Kyoten"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiji Karasuyama",
-      "Yuusuke Kishi"
-    ],
-    "id": 78483,
-    "malId": 48483,
-    "type": "manga",
-    "title": "Aku no Kyouten",
     "url": "https://anilist.co/manga/78483",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78483-lYH2HA1hU3tT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:39.000Z",
-    "updatedAt": "2022-03-28T07:33:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/48483/Aku_no_Kyouten"
+    "externalLinks": [],
+    "malId": 48483,
+    "deletedAt": null,
+    "authors": [
+      "Eiji Karasuyama",
+      "Yuusuke Kishi"
+    ]
+  }
 }

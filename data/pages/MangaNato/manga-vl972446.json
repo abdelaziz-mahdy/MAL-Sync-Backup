@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kaiu Shirai",
-    "Demizu Posuka"
-  ],
+  "createdAt": "2021-05-28T23:42:47.000Z",
+  "updatedAt": "2021-11-29T00:37:55.000Z",
+  "checkedAt": null,
+  "id": 73171,
   "identifier": "manga-vl972446",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100128,
   "aniId": 87423,
-  "createdAt": "2021-05-28T23:42:47.000Z",
-  "updatedAt": "2021-11-29T00:37:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaiu Shirai",
+    "Demizu Posuka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:39.000Z",
+    "updatedAt": "2022-05-14T09:56:09.000Z",
+    "checkedAt": "2022-05-14T09:56:09.000Z",
+    "id": 100128,
+    "type": "manga",
+    "title": "Yakusoku no Neverland",
+    "altTitle": [
+      "The Promised Neverland",
+      "約束のネバーランド"
+    ],
+    "url": "https://myanimelist.net/manga/100128/Yakusoku_no_Neverland",
+    "image": "https://cdn.myanimelist.net/images/manga/3/186922.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Promised Neverland",
-      "約束のネバーランド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Demizu, Posuka",
       "Shirai, Kaiu"
-    ],
-    "id": 100128,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.424Z",
+    "updatedAt": "2022-05-15T16:18:59.000Z",
+    "checkedAt": "2022-05-15T16:18:59.000Z",
+    "id": 87423,
     "type": "manga",
     "title": "Yakusoku no Neverland",
-    "url": "https://myanimelist.net/manga/100128/Yakusoku_no_Neverland",
-    "image": "https://cdn.myanimelist.net/images/manga/3/186922.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:39.000Z",
-    "updatedAt": "2022-04-24T21:01:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Promised Neverland",
       "約束のネバーランド",
@@ -57,12 +66,18 @@
       "Обещанная страна грёз",
       "พันธสัญญาเนเวอร์แลนด์ "
     ],
+    "url": "https://anilist.co/manga/87423",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87423-gPNtu8QbGped.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100026"
       }
     ],
+    "malId": 100128,
+    "deletedAt": null,
     "authors": [
       "Posuka Demizu",
       "Kaiu Shirai",
@@ -72,18 +87,6 @@
       "Irene Telleria",
       "Erika Abreu",
       "Gustavo Figueiredo"
-    ],
-    "id": 87423,
-    "malId": 100128,
-    "type": "manga",
-    "title": "Yakusoku no Neverland",
-    "url": "https://anilist.co/manga/87423",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87423-gPNtu8QbGped.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2022-03-10T19:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100128/Yakusoku_no_Neverland"
+    ]
+  }
 }

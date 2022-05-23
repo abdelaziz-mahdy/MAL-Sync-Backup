@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kuku Hayate"
-  ],
+  "createdAt": "2020-10-12T16:17:59.000Z",
+  "updatedAt": "2021-12-07T13:17:35.000Z",
+  "checkedAt": null,
+  "id": 32254,
   "identifier": "2ab3e905-55d4-4be6-90fe-273e9a70eb72",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1063,
   "aniId": 31063,
-  "createdAt": "2020-10-12T16:17:59.000Z",
-  "updatedAt": "2021-12-07T13:17:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuku Hayate"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-04-26T17:30:46.000Z",
+    "checkedAt": null,
+    "id": 1063,
+    "type": "manga",
+    "title": "Kurozakuro",
+    "altTitle": [
+      "Kurozakuro",
+      "クロザクロ"
+    ],
+    "url": "https://myanimelist.net/manga/1063/Kurozakuro",
+    "image": "https://cdn.myanimelist.net/images/manga/3/15634.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +41,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kurozakuro",
-      "クロザクロ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Natsume, Yoshinori"
-    ],
-    "id": 1063,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.131Z",
+    "updatedAt": "2022-05-13T13:06:44.131Z",
+    "checkedAt": null,
+    "id": 31063,
     "type": "manga",
     "title": "Kurozakuro",
-    "url": "https://myanimelist.net/manga/1063/Kurozakuro",
-    "image": "https://cdn.myanimelist.net/images/manga/3/15634.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-04-26T17:30:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kurozakuro",
       "クロザクロ"
     ],
+    "url": "https://anilist.co/manga/31063",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1063.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "VIZ",
         "url": "https://www.viz.com/kurozakuro"
       }
     ],
+    "malId": 1063,
+    "deletedAt": null,
     "authors": [
       "Yoshinori Natsume"
-    ],
-    "id": 31063,
-    "malId": 1063,
-    "type": "manga",
-    "title": "Kurozakuro",
-    "url": "https://anilist.co/manga/31063",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1063.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1063/Kurozakuro"
+    ]
+  }
 }

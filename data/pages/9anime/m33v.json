@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:20.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 6354,
   "identifier": "m33v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5680,
   "aniId": 5680,
-  "createdAt": "2020-10-12T15:53:20.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-14T09:45:31.000Z",
+    "checkedAt": "2022-05-14T09:45:31.000Z",
+    "id": 5680,
+    "type": "anime",
+    "title": "K-On!",
+    "altTitle": [
+      "Keion",
+      "K-ON! Season 1",
+      "K-ON!",
+      "けいおん!"
+    ],
+    "url": "https://myanimelist.net/anime/5680/K-On",
+    "image": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,25 +61,16 @@
         "url": "https://www.hidive.com/tv/k-on-season-1"
       }
     ],
-    "altTitle": [
-      "Keion",
-      "K-ON! Season 1",
-      "K-ON!",
-      "けいおん!"
-    ],
+    "deletedAt": null,
+    "anidbId": 6257
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T11:00:35.000Z",
+    "checkedAt": "2022-05-15T11:00:35.000Z",
     "id": 5680,
     "type": "anime",
-    "title": "K-On!",
-    "url": "https://myanimelist.net/anime/5680/K-On",
-    "image": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 6257,
-    "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2022-04-04T11:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "K-ON!",
     "altTitle": [
       "K-ON!",
       "けいおん!",
@@ -70,6 +79,10 @@
       "K-on",
       "케이온!"
     ],
+    "url": "https://anilist.co/anime/5680",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5680-Xh6B67KuZ2PU.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -84,17 +97,7 @@
         "url": "https://www.netflix.com/title/80003477"
       }
     ],
-    "id": 5680,
     "malId": 5680,
-    "type": "anime",
-    "title": "K-ON!",
-    "url": "https://anilist.co/anime/5680",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5680-Xh6B67KuZ2PU.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:37:47.000Z",
-    "updatedAt": "2021-12-14T00:18:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/5680/K-On"
+  }
 }

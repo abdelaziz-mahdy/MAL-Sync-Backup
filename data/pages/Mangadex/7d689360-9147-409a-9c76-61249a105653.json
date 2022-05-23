@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawahara Masatoshi"
-  ],
+  "createdAt": "2020-10-12T16:04:24.000Z",
+  "updatedAt": "2021-12-02T21:16:47.000Z",
+  "checkedAt": null,
+  "id": 4247,
   "identifier": "7d689360-9147-409a-9c76-61249a105653",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5586,
   "aniId": 35586,
-  "createdAt": "2020-10-12T16:04:24.000Z",
-  "updatedAt": "2021-12-02T21:16:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawahara Masatoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:06.000Z",
+    "updatedAt": "2022-05-15T04:01:26.000Z",
+    "checkedAt": "2022-05-15T04:01:26.000Z",
+    "id": 5586,
+    "type": "manga",
+    "title": "Shura no Mon",
+    "altTitle": [
+      "Gate Of Carnage",
+      "修羅の門"
+    ],
+    "url": "https://myanimelist.net/manga/5586/Shura_no_Mon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/46221.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gate Of Carnage",
-      "修羅の門"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawahara, Masatoshi"
-    ],
-    "id": 5586,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:32.369Z",
+    "updatedAt": "2022-05-21T20:49:30.000Z",
+    "checkedAt": "2022-05-21T20:49:30.000Z",
+    "id": 35586,
     "type": "manga",
     "title": "Shura no Mon",
-    "url": "https://myanimelist.net/manga/5586/Shura_no_Mon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/46221.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:06.000Z",
-    "updatedAt": "2022-04-29T10:01:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "修羅の門",
       "Gate Of Carnage"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masatoshi Kawahara"
-    ],
-    "id": 35586,
-    "malId": 5586,
-    "type": "manga",
-    "title": "Shura no Mon",
     "url": "https://anilist.co/manga/35586",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35586-9GSEKsEFE3NG.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:30.000Z",
-    "updatedAt": "2021-12-17T12:36:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5586/Shura_no_Mon"
+    "externalLinks": [],
+    "malId": 5586,
+    "deletedAt": null,
+    "authors": [
+      "Masatoshi Kawahara"
+    ]
+  }
 }

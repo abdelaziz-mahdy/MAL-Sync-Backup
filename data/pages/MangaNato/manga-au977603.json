@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chai"
-  ],
+  "createdAt": "2022-05-08T20:31:35.000Z",
+  "updatedAt": "2022-05-13T18:21:22.000Z",
+  "checkedAt": "2022-05-13T17:30:30.000Z",
+  "id": 103308,
   "identifier": "manga-au977603",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,64 @@
   "image": "https://avt.mkklcdnv6temp.com/45/s/15-1583493305.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T20:31:35.000Z",
-  "updatedAt": "2022-05-08T20:31:35.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 109655,
+  "aniId": 100881,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Chai"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:17.000Z",
+    "updatedAt": "2022-05-13T17:30:32.000Z",
+    "checkedAt": "2022-05-13T17:30:32.000Z",
+    "id": 109655,
+    "type": "manga",
+    "title": "Bokura no Koi wo Kimi wa Shiranai",
+    "altTitle": [
+      "You Don't Know Our Love Affair",
+      "ぼくらの恋をきみは知らない"
+    ],
+    "url": "https://myanimelist.net/manga/109655/Bokura_no_Koi_wo_Kimi_wa_Shiranai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/223388.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.mf-fleur.jp/cb012/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takamura, Anna",
+      "Chai"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:28.549Z",
+    "updatedAt": "2022-05-13T12:42:28.549Z",
+    "checkedAt": null,
+    "id": 100881,
+    "type": "manga",
+    "title": "Bokura no Koi wo Kimi wa Shiranai",
+    "altTitle": [
+      "ぼくらの恋をきみは知らない",
+      "Bokura no Koi o Kimi wa Shiranai",
+      "You Don't Know Our Love Affair"
+    ],
+    "url": "https://anilist.co/manga/100881",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100881-6OD6viDAb2W2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 109655,
+    "deletedAt": null,
+    "authors": [
+      "Chai",
+      "Anna Takamura"
+    ]
+  }
 }

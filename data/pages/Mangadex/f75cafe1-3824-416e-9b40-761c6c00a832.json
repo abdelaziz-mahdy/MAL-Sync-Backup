@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Igarashi Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:06:24.000Z",
+  "updatedAt": "2021-12-03T19:47:08.000Z",
+  "checkedAt": null,
+  "id": 8415,
   "identifier": "f75cafe1-3824-416e-9b40-761c6c00a832",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13975,
   "aniId": 43975,
-  "createdAt": "2020-10-12T16:06:24.000Z",
-  "updatedAt": "2021-12-03T19:47:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Igarashi Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:01.000Z",
+    "updatedAt": "2022-05-18T21:16:32.000Z",
+    "checkedAt": "2022-05-18T21:16:32.000Z",
+    "id": 13975,
+    "type": "manga",
+    "title": "Little Forest",
+    "altTitle": [
+      "Little Forest",
+      "リトル・フォレスト"
+    ],
+    "url": "https://myanimelist.net/manga/13975/Little_Forest",
+    "image": "https://cdn.myanimelist.net/images/manga/2/251904.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Little Forest",
-      "リトル・フォレスト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Igarashi, Daisuke"
-    ],
-    "id": 13975,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:34.833Z",
+    "updatedAt": "2022-05-18T21:16:31.000Z",
+    "checkedAt": "2022-05-18T21:16:31.000Z",
+    "id": 43975,
     "type": "manga",
     "title": "Little Forest",
-    "url": "https://myanimelist.net/manga/13975/Little_Forest",
-    "image": "https://cdn.myanimelist.net/images/manga/2/251904.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:01.000Z",
-    "updatedAt": "2021-11-25T20:06:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リトル・フォレスト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Igarashi"
-    ],
-    "id": 43975,
-    "malId": 13975,
-    "type": "manga",
-    "title": "Little Forest",
     "url": "https://anilist.co/manga/43975",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43975-QAVpNq91pWdo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:42.000Z",
-    "updatedAt": "2021-12-17T15:16:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13975/Little_Forest"
+    "externalLinks": [],
+    "malId": 13975,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Igarashi"
+    ]
+  }
 }

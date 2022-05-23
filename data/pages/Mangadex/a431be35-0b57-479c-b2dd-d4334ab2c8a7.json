@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jishou Seijunha (Circle)",
-    "Hiroyuki"
-  ],
+  "createdAt": "2020-10-12T16:05:46.000Z",
+  "updatedAt": "2021-12-03T15:21:31.000Z",
+  "checkedAt": null,
+  "id": 7058,
   "identifier": "a431be35-0b57-479c-b2dd-d4334ab2c8a7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25191,
   "aniId": 55191,
-  "createdAt": "2020-10-12T16:05:46.000Z",
-  "updatedAt": "2021-12-03T15:21:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jishou Seijunha (Circle)",
+    "Hiroyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:16.000Z",
+    "updatedAt": "2022-05-15T20:15:42.000Z",
+    "checkedAt": "2022-05-15T20:15:42.000Z",
+    "id": 25191,
+    "type": "manga",
+    "title": "Fate/Zero",
+    "altTitle": [
+      "Fate/Zero",
+      "Fate/Zero"
+    ],
+    "url": "https://myanimelist.net/manga/25191/Fate_Zero",
+    "image": "https://cdn.myanimelist.net/images/manga/3/196931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fate/Zero",
-      "Fate/Zero"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinjirou",
       "Urobuchi, Gen"
-    ],
-    "id": 25191,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:14.567Z",
+    "updatedAt": "2022-05-15T21:36:11.000Z",
+    "checkedAt": "2022-05-15T21:36:11.000Z",
+    "id": 55191,
     "type": "manga",
     "title": "Fate/Zero",
-    "url": "https://myanimelist.net/manga/25191/Fate_Zero",
-    "image": "https://cdn.myanimelist.net/images/manga/3/196931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:16.000Z",
-    "updatedAt": "2022-04-18T10:01:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/Zero",
       "フェイト／ゼロ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinjirou",
-      "Gen Urobuchi",
-      "Type-Moon"
-    ],
-    "id": 55191,
-    "malId": 25191,
-    "type": "manga",
-    "title": "Fate/Zero",
     "url": "https://anilist.co/manga/55191",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25191.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:52.000Z",
-    "updatedAt": "2021-12-06T22:46:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25191/Fate_Zero"
+    "externalLinks": [],
+    "malId": 25191,
+    "deletedAt": null,
+    "authors": [
+      "Shinjirou",
+      "Gen Urobuchi",
+      "Type-Moon"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kawaguchi Kaiji",
-    "Fujii Tetsuo"
-  ],
+  "createdAt": "2020-10-12T16:02:47.000Z",
+  "updatedAt": "2021-12-02T09:47:38.000Z",
+  "checkedAt": null,
+  "id": 847,
   "identifier": "0ee2b91f-803a-4d0d-b0b4-a5b36b5a7fb8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23231,
   "aniId": 53231,
-  "createdAt": "2020-10-12T16:02:47.000Z",
-  "updatedAt": "2021-12-02T09:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawaguchi Kaiji",
+    "Fujii Tetsuo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:08.000Z",
+    "updatedAt": "2022-03-09T20:00:15.000Z",
+    "checkedAt": null,
+    "id": 23231,
+    "type": "manga",
+    "title": "Boku wa Beatles",
+    "altTitle": [
+      "Boku ha Beatles",
+      "We Are The Beatles",
+      "僕はビートルズ"
+    ],
+    "url": "https://myanimelist.net/manga/23231/Boku_wa_Beatles",
+    "image": "https://cdn.myanimelist.net/images/manga/1/39786.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Boku ha Beatles",
-      "We Are The Beatles",
-      "僕はビートルズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawaguchi, Kaiji",
       "Fujii, Tetsuo"
-    ],
-    "id": 23231,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:11.289Z",
+    "updatedAt": "2022-05-13T13:05:11.289Z",
+    "checkedAt": null,
+    "id": 53231,
     "type": "manga",
     "title": "Boku wa Beatles",
-    "url": "https://myanimelist.net/manga/23231/Boku_wa_Beatles",
-    "image": "https://cdn.myanimelist.net/images/manga/1/39786.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2022-03-09T20:00:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "僕はビートルズ",
       "Boku ha Beatles",
       "We Are The Beatles"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaiji Kawaguchi",
-      "Tetsuo Fujii"
-    ],
-    "id": 53231,
-    "malId": 23231,
-    "type": "manga",
-    "title": "Boku wa Beatles",
     "url": "https://anilist.co/manga/53231",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23231.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:35.000Z",
-    "updatedAt": "2021-12-17T18:06:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23231/Boku_wa_Beatles"
+    "externalLinks": [],
+    "malId": 23231,
+    "deletedAt": null,
+    "authors": [
+      "Kaiji Kawaguchi",
+      "Tetsuo Fujii"
+    ]
+  }
 }

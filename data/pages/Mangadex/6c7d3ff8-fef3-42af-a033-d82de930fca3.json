@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nankidai",
-    "Ikegami Tatsuya"
-  ],
+  "createdAt": "2020-10-12T16:15:59.000Z",
+  "updatedAt": "2021-12-06T18:49:03.000Z",
+  "checkedAt": null,
+  "id": 28153,
   "identifier": "6c7d3ff8-fef3-42af-a033-d82de930fca3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121000,
   "aniId": 111205,
-  "createdAt": "2020-10-12T16:15:59.000Z",
-  "updatedAt": "2021-12-06T18:49:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nankidai",
+    "Ikegami Tatsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-16T02:22:35.000Z",
+    "checkedAt": "2022-05-16T02:22:35.000Z",
+    "id": 121000,
+    "type": "manga",
+    "title": "Kimi ga Shine: Tasuuketsu Death Game",
+    "altTitle": [
+      "Your Turn to Die: Death Game By Majority",
+      "Your Turn to Die: Majority Vote Death Game",
+      "キミガシネ ―多数決デスゲーム―"
+    ],
+    "url": "https://myanimelist.net/manga/121000/Kimi_ga_Shine__Tasuuketsu_Death_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227450.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,27 +47,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Your Turn to Die: Majority Vote Death Game",
-      "Your Turn to Die: Death Game By Majority",
-      "キミガシネ ―多数決デスゲーム―"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ikegami, Tatsuya",
       "Nankidai"
-    ],
-    "id": 121000,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:41.232Z",
+    "updatedAt": "2022-05-16T02:24:04.000Z",
+    "checkedAt": "2022-05-16T02:24:04.000Z",
+    "id": 111205,
     "type": "manga",
     "title": "Kimi ga Shine: Tasuuketsu Death Game",
-    "url": "https://myanimelist.net/manga/121000/Kimi_ga_Shine__Tasuuketsu_Death_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227450.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2021-12-15T00:49:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Your Turn to Die: Majority Vote Death Game",
       "キミガシネ ―多数決デスゲーム―",
@@ -59,22 +68,16 @@
       "Kimigashine",
       "YTTD"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tatsuya Ikegami",
-      "Nankidai"
-    ],
-    "id": 111205,
-    "malId": 121000,
-    "type": "manga",
-    "title": "Kimi ga Shine: Tasuuketsu Death Game",
     "url": "https://anilist.co/manga/111205",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111205-b9VJSX499abi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2022-02-17T22:48:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121000/Kimi_ga_Shine__Tasuuketsu_Death_Game"
+    "externalLinks": [],
+    "malId": 121000,
+    "deletedAt": null,
+    "authors": [
+      "Tatsuya Ikegami",
+      "Nankidai"
+    ]
+  }
 }

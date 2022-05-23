@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakamura Atsushi"
-  ],
+  "createdAt": "2020-10-12T16:05:54.000Z",
+  "updatedAt": "2021-12-03T16:18:26.000Z",
+  "checkedAt": null,
+  "id": 7340,
   "identifier": "bb256b1e-f63a-4173-bddb-2ff56e3082b2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56095,
   "aniId": 88131,
-  "createdAt": "2020-10-12T16:05:54.000Z",
-  "updatedAt": "2021-12-03T16:18:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakamura Atsushi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2021-11-08T13:44:05.000Z",
+    "checkedAt": null,
+    "id": 56095,
+    "type": "manga",
+    "title": "Kurokuroku",
     "altTitle": [
       "Kuro Clock",
       "Kuro Kuroku",
@@ -27,21 +33,24 @@
       "Matorito Work",
       "クロクロク"
     ],
-    "authors": [
-      "Nakamura, Atsushi"
-    ],
-    "id": 56095,
-    "type": "manga",
-    "title": "Kurokuroku",
     "url": "https://myanimelist.net/manga/56095/Kurokuroku",
     "image": "https://cdn.myanimelist.net/images/manga/2/147695.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2021-11-08T13:44:05.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakamura, Atsushi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:00.111Z",
+    "updatedAt": "2022-05-13T12:48:00.111Z",
+    "checkedAt": null,
+    "id": 88131,
+    "type": "manga",
+    "title": "Kurokuroku",
     "altTitle": [
       "Kurokuroku",
       "クロクロク",
@@ -50,21 +59,15 @@
       "Daida Nakajima",
       "Matorito Work"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Atsushi Nakamura"
-    ],
-    "id": 88131,
-    "malId": 56095,
-    "type": "manga",
-    "title": "Kurokuroku",
     "url": "https://anilist.co/manga/88131",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88131-gGAA5O4QeWbd.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:27.000Z",
-    "updatedAt": "2021-12-17T23:29:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56095/Kurokuroku"
+    "externalLinks": [],
+    "malId": 56095,
+    "deletedAt": null,
+    "authors": [
+      "Atsushi Nakamura"
+    ]
+  }
 }

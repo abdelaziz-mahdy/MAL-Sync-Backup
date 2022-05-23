@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miki Maki"
-  ],
+  "createdAt": "2020-10-12T16:08:22.000Z",
+  "updatedAt": "2021-12-04T09:48:08.000Z",
+  "checkedAt": null,
+  "id": 12639,
   "identifier": "0a2e000c-a076-41e5-918c-d392cfd171c9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57847,
   "aniId": 87119,
-  "createdAt": "2020-10-12T16:08:22.000Z",
-  "updatedAt": "2021-12-04T09:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miki Maki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:52.000Z",
+    "updatedAt": "2022-03-06T23:33:28.000Z",
+    "checkedAt": null,
+    "id": 57847,
+    "type": "manga",
+    "title": "AFO-Guard",
+    "altTitle": [
+      "アフォガード"
+    ],
+    "url": "https://myanimelist.net/manga/57847/AFO-Guard",
+    "image": "https://cdn.myanimelist.net/images/manga/3/125889.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アフォガード"
-    ],
+    "deletedAt": null,
     "authors": [
       "mikimaki"
-    ],
-    "id": 57847,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:46.488Z",
+    "updatedAt": "2022-05-13T12:49:46.488Z",
+    "checkedAt": null,
+    "id": 87119,
     "type": "manga",
     "title": "AFO-Guard",
-    "url": "https://myanimelist.net/manga/57847/AFO-Guard",
-    "image": "https://cdn.myanimelist.net/images/manga/3/125889.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2022-03-06T23:33:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アフォガード",
       "Afo Guard"
     ],
-    "externalLinks": [],
-    "authors": [
-      "mikimaki"
-    ],
-    "id": 87119,
-    "malId": 57847,
-    "type": "manga",
-    "title": "AFO-Guard",
     "url": "https://anilist.co/manga/87119",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57119-Djj8reGzgwMY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:32.000Z",
-    "updatedAt": "2021-12-17T23:21:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57847/AFO-Guard"
+    "externalLinks": [],
+    "malId": 57847,
+    "deletedAt": null,
+    "authors": [
+      "mikimaki"
+    ]
+  }
 }

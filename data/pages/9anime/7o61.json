@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:11.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3496,
   "identifier": "7o61",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2016,
   "aniId": 2016,
-  "createdAt": "2020-10-12T15:51:11.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:24.000Z",
+    "updatedAt": "2022-05-15T01:03:53.000Z",
+    "checkedAt": "2022-05-15T01:03:53.000Z",
+    "id": 2016,
+    "type": "anime",
+    "title": "Ningyo no Mori",
+    "altTitle": [
+      "Mermaid Forest OVA",
+      "Rumic World 4",
+      "人魚の森"
+    ],
+    "url": "https://myanimelist.net/anime/2016/Ningyo_no_Mori",
+    "image": "https://cdn.myanimelist.net/images/anime/12/55075.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,40 +43,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mermaid Forest OVA",
-      "Rumic World 4",
-      "人魚の森"
-    ],
+    "deletedAt": null,
+    "anidbId": 817
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-15T19:40:59.000Z",
+    "checkedAt": "2022-05-15T19:40:59.000Z",
     "id": 2016,
     "type": "anime",
     "title": "Ningyo no Mori",
-    "url": "https://myanimelist.net/anime/2016/Ningyo_no_Mori",
-    "image": "https://cdn.myanimelist.net/images/anime/12/55075.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 817,
-    "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2022-03-31T03:36:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mermaid Forest",
       "人魚の森"
     ],
-    "externalLinks": [],
-    "id": 2016,
-    "malId": 2016,
-    "type": "anime",
-    "title": "Ningyo no Mori",
     "url": "https://anilist.co/anime/2016",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2016-EtNpvNa1j6dG.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:07.000Z",
-    "updatedAt": "2022-03-01T12:40:28.000Z",
+    "externalLinks": [],
+    "malId": 2016,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2016/Ningyo_no_Mori"
+  }
 }

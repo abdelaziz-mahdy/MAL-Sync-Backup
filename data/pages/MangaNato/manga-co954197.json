@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Acquire Corp.",
-    "Mizuta Kenji"
-  ],
+  "createdAt": "2022-01-12T12:13:04.000Z",
+  "updatedAt": "2022-01-12T12:41:39.000Z",
+  "checkedAt": null,
+  "id": 94569,
   "identifier": "manga-co954197",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 68279,
   "aniId": 90821,
-  "createdAt": "2022-01-12T12:13:04.000Z",
-  "updatedAt": "2022-01-12T12:41:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Acquire Corp.",
+    "Mizuta Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:14.000Z",
+    "updatedAt": "2022-05-16T23:00:48.000Z",
+    "checkedAt": "2022-05-16T23:00:48.000Z",
+    "id": 68279,
+    "type": "manga",
+    "title": "Akiba's Trip",
+    "altTitle": [
+      "AKIBA'S TRIP"
+    ],
+    "url": "https://myanimelist.net/manga/68279/Akibas_Trip",
+    "image": "https://cdn.myanimelist.net/images/manga/2/116805.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "AKIBA'S TRIP"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizuta, Kenji"
-    ],
-    "id": 68279,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:22.011Z",
+    "updatedAt": "2022-05-16T23:00:46.000Z",
+    "checkedAt": "2022-05-16T23:00:46.000Z",
+    "id": 90821,
     "type": "manga",
     "title": "Akiba's Trip",
-    "url": "https://myanimelist.net/manga/68279/Akibas_Trip",
-    "image": "https://cdn.myanimelist.net/images/manga/2/116805.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:14.000Z",
-    "updatedAt": "2022-04-09T22:31:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "AKIBA'S TRIP"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Mizuta"
-    ],
-    "id": 90821,
-    "malId": 68279,
-    "type": "manga",
-    "title": "Akiba's Trip",
     "url": "https://anilist.co/manga/90821",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90821-5iCrbSCU1g76.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:02.000Z",
-    "updatedAt": "2021-12-18T00:03:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/68279/Akibas_Trip"
+    "externalLinks": [],
+    "malId": 68279,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Mizuta"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:49.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4370,
   "identifier": "9nq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75,
   "aniId": 75,
-  "createdAt": "2020-10-12T15:51:49.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T20:04:47.000Z",
+    "checkedAt": "2022-05-14T20:04:47.000Z",
+    "id": 75,
+    "type": "anime",
+    "title": "Soukyuu no Fafner: Dead Aggressor",
+    "altTitle": [
+      "Fafner in the Azure: Dead Aggressor",
+      "Fafner of the Blue Sky",
+      "蒼穹のファフナーDead Aggressor"
+    ],
+    "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor",
+    "image": "https://cdn.myanimelist.net/images/anime/3/50365.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,47 +56,33 @@
         "url": "https://www.funimation.com/shows/fafner"
       }
     ],
-    "altTitle": [
-      "Fafner in the Azure: Dead Aggressor",
-      "Fafner of the Blue Sky",
-      "蒼穹のファフナーDead Aggressor"
-    ],
+    "deletedAt": null,
+    "anidbId": 1806
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T10:26:23.000Z",
+    "checkedAt": "2022-05-15T10:26:23.000Z",
     "id": 75,
     "type": "anime",
-    "title": "Soukyuu no Fafner: Dead Aggressor",
-    "url": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor",
-    "image": "https://cdn.myanimelist.net/images/anime/3/50365.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1806,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-03-30T11:01:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Soukyuu no Fafner",
     "altTitle": [
       "Fafner",
       "蒼穹のファフナー",
       "Fafner in the Azure: Dead Aggressor",
       "Fafner of the Blue Sky"
     ],
+    "url": "https://anilist.co/anime/75",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx75-WOJVHyhYHMke.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/fafner/"
       }
     ],
-    "id": 75,
     "malId": 75,
-    "type": "anime",
-    "title": "Soukyuu no Fafner",
-    "url": "https://anilist.co/anime/75",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx75-WOJVHyhYHMke.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:26.000Z",
-    "updatedAt": "2022-05-10T11:30:19.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/75/Soukyuu_no_Fafner__Dead_Aggressor"
+  }
 }

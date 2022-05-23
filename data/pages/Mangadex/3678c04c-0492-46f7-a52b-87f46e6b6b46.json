@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shinkai Makoto",
-    "Motohashi Midori"
-  ],
+  "createdAt": "2020-10-12T16:13:18.000Z",
+  "updatedAt": "2021-12-05T20:48:19.000Z",
+  "checkedAt": null,
+  "id": 22608,
   "identifier": "3678c04c-0492-46f7-a52b-87f46e6b6b46",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 51747,
   "aniId": 81747,
-  "createdAt": "2020-10-12T16:13:18.000Z",
-  "updatedAt": "2021-12-05T20:48:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinkai Makoto",
+    "Motohashi Midori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:42.000Z",
+    "updatedAt": "2022-05-14T18:07:05.000Z",
+    "checkedAt": "2022-05-14T18:07:05.000Z",
+    "id": 51747,
+    "type": "manga",
+    "title": "Kotonoha no Niwa",
+    "altTitle": [
+      "Koto no Ha no Niwa",
+      "The Garden of Words",
+      "言の葉の庭"
+    ],
+    "url": "https://myanimelist.net/manga/51747/Kotonoha_no_Niwa",
+    "image": "https://cdn.myanimelist.net/images/manga/4/128633.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,27 +47,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Garden of Words",
-      "Koto no Ha no Niwa",
-      "言の葉の庭"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinkai, Makoto",
       "Motohashi, Midori"
-    ],
-    "id": 51747,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:22.296Z",
+    "updatedAt": "2022-05-15T18:51:35.000Z",
+    "checkedAt": "2022-05-15T18:51:35.000Z",
+    "id": 81747,
     "type": "manga",
     "title": "Kotonoha no Niwa",
-    "url": "https://myanimelist.net/manga/51747/Kotonoha_no_Niwa",
-    "image": "https://cdn.myanimelist.net/images/manga/4/128633.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:42.000Z",
-    "updatedAt": "2021-11-11T16:44:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Garden of Words",
       "言の葉の庭",
@@ -58,22 +67,16 @@
       "El Jardín de las Palabras",
       "Ogród słów"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Shinkai",
-      "Midori Motohashi"
-    ],
-    "id": 81747,
-    "malId": 51747,
-    "type": "manga",
-    "title": "Kotonoha no Niwa",
     "url": "https://anilist.co/manga/81747",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51747-5fks7JHeUpzX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:51.000Z",
-    "updatedAt": "2021-12-17T21:29:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/51747/Kotonoha_no_Niwa"
+    "externalLinks": [],
+    "malId": 51747,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Shinkai",
+      "Midori Motohashi"
+    ]
+  }
 }

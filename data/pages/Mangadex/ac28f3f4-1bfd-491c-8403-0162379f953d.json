@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakamura Atsushi"
-  ],
+  "createdAt": "2020-10-12T16:17:54.000Z",
+  "updatedAt": "2021-12-07T12:17:15.000Z",
+  "checkedAt": null,
+  "id": 32096,
   "identifier": "ac28f3f4-1bfd-491c-8403-0162379f953d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,73 +12,76 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123188,
   "aniId": 113629,
-  "createdAt": "2020-10-12T16:17:54.000Z",
-  "updatedAt": "2021-12-07T12:17:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakamura Atsushi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://www.shonenjump.com/j/rensai/agravity.html"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-15T19:21:42.000Z",
+    "checkedAt": "2022-05-15T19:21:42.000Z",
+    "id": 123188,
+    "type": "manga",
+    "title": "Agravity Boys",
     "altTitle": [
       "Kempa Trick",
       "Genar-Diversion 3-to-1",
       "Agravity Boys",
       "AGRAVITY BOYS"
     ],
-    "authors": [
-      "Nakamura, Atsushi"
-    ],
-    "id": 123188,
-    "type": "manga",
-    "title": "Agravity Boys",
     "url": "https://myanimelist.net/manga/123188/Agravity_Boys",
     "image": "https://cdn.myanimelist.net/images/manga/2/228642.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-03-27T18:28:43.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.shonenjump.com/j/rensai/agravity.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/AGRAVITY_BOYS"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakamura, Atsushi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:47.080Z",
+    "updatedAt": "2022-05-15T21:05:47.000Z",
+    "checkedAt": "2022-05-15T21:05:47.000Z",
+    "id": 113629,
+    "type": "manga",
+    "title": "AGRAVITY BOYS",
     "altTitle": [
       "Agravity Boys",
       "AGRAVITY BOYS",
-      "アグラビティボーイス"
+      "アグラビティボーイス",
+      "4 ซ่า ท้าแรงโน้มถ่วง"
     ],
+    "url": "https://anilist.co/manga/113629",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113629-LE34WWvRDdgU.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/shonenjump/chapters/agravity-boys"
-      },
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100077"
       }
     ],
+    "malId": 123188,
+    "deletedAt": null,
     "authors": [
       "Atsushi Nakamura",
       "Christine Dashiell",
       "Mark McMurray",
       "Juuzou Kawai"
-    ],
-    "id": 113629,
-    "malId": 123188,
-    "type": "manga",
-    "title": "AGRAVITY BOYS",
-    "url": "https://anilist.co/manga/113629",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113629-LE34WWvRDdgU.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-28T07:23:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123188/Agravity_Boys"
+    ]
+  }
 }

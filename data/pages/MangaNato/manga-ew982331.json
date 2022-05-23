@@ -1,11 +1,8 @@
 {
-  "authors": [
-    "Hinako Seta",
-    "Various Artists",
-    "Hidari Ogawa",
-    "Yuuki Hotate",
-    "Rinrin Yamano"
-  ],
+  "createdAt": "2021-06-11T18:08:31.000Z",
+  "updatedAt": "2021-12-11T20:03:43.000Z",
+  "checkedAt": null,
+  "id": 77781,
   "identifier": "manga-ew982331",
   "type": "manga",
   "page": "MangaNato",
@@ -15,13 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 130512,
   "aniId": 113956,
-  "createdAt": "2021-06-11T18:08:31.000Z",
-  "updatedAt": "2021-12-11T20:03:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hinako Seta",
+    "Various Artists",
+    "Hidari Ogawa",
+    "Yuuki Hotate",
+    "Rinrin Yamano"
+  ],
   "Mal": {
+    "createdAt": "2021-01-11T13:22:25.000Z",
+    "updatedAt": "2022-05-14T10:40:11.000Z",
+    "checkedAt": "2022-05-14T10:40:11.000Z",
+    "id": 130512,
+    "type": "manga",
+    "title": "Made in Abyss: Koushiki Anthology",
+    "altTitle": [
+      "Made in Abyss Official Anthology",
+      "メイドインアビス公式アンソロジー"
+    ],
+    "url": "https://myanimelist.net/manga/130512/Made_in_Abyss__Koushiki_Anthology",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236911.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,10 +49,7 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Made in Abyss Official Anthology",
-      "メイドインアビス公式アンソロジー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsuzawa, Mari",
       "Ike",
@@ -58,24 +71,26 @@
       "Hotate, Yuuki",
       "Yamaguchi, Sapuri",
       "Tsukushiro, Yuuri"
-    ],
-    "id": 130512,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:20.921Z",
+    "updatedAt": "2022-05-14T10:08:32.000Z",
+    "checkedAt": "2022-05-14T10:08:32.000Z",
+    "id": 113956,
     "type": "manga",
     "title": "Made in Abyss: Koushiki Anthology",
-    "url": "https://myanimelist.net/manga/130512/Made_in_Abyss__Koushiki_Anthology",
-    "image": "https://cdn.myanimelist.net/images/manga/1/236911.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-11T13:22:25.000Z",
-    "updatedAt": "2022-04-09T04:34:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Made in Abyss Official Anthology",
       "メイドインアビス公式アンソロジー"
     ],
+    "url": "https://anilist.co/manga/113956",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113956-BsNoNSRVLDgz.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 130512,
+    "deletedAt": null,
     "authors": [
       "Akihito Tsukushi",
       "Ike",
@@ -94,18 +109,6 @@
       "Yuuri Tsukushiro",
       "Moto Madoguchi",
       "Yasuo Harada"
-    ],
-    "id": 113956,
-    "malId": 130512,
-    "type": "manga",
-    "title": "Made in Abyss: Koushiki Anthology",
-    "url": "https://anilist.co/manga/113956",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113956-BsNoNSRVLDgz.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-29T18:12:13.000Z",
-    "updatedAt": "2021-12-18T07:56:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130512/Made_in_Abyss__Koushiki_Anthology"
+    ]
+  }
 }

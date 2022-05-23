@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Uzuki Miya"
-  ],
+  "createdAt": "2022-02-22T00:48:31.000Z",
+  "updatedAt": "2022-05-14T09:40:11.000Z",
+  "checkedAt": "2022-05-13T19:55:39.000Z",
+  "id": 96583,
   "identifier": "b1b870f2-bf20-4e94-9059-d303afc94ed3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 145777,
   "aniId": 114789,
-  "createdAt": "2022-02-22T00:48:31.000Z",
-  "updatedAt": "2022-05-09T17:31:26.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": {
+  "authors": [
+    "Uzuki Miya"
+  ],
+  "Mal": {
+    "createdAt": "2022-05-13T19:55:38.555Z",
+    "updatedAt": "2022-05-16T09:55:34.000Z",
+    "checkedAt": "2022-05-16T09:55:34.000Z",
+    "id": 145777,
+    "type": "manga",
+    "title": "Mochizuki-san Chi no Yankee",
+    "altTitle": [
+      "望月さん家のヤンキー"
+    ],
+    "url": "https://myanimelist.net/manga/145777/Mochizuki-san_Chi_no_Yankee",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259022.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://palcy.jp/comics/356"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uzuki, Miya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:41.670Z",
+    "updatedAt": "2022-05-17T12:52:06.000Z",
+    "checkedAt": "2022-05-17T12:52:06.000Z",
+    "id": 114789,
+    "type": "manga",
+    "title": "Mochizuki-san ka no Yankee",
     "altTitle": [
       "望月さん家のヤンキー",
       "望月家的不良 "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miya Uzuki"
-    ],
-    "id": 114789,
-    "malId": null,
-    "type": "manga",
-    "title": "Mochizuki-san ka no Yankee",
     "url": "https://anilist.co/manga/114789",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114789-XzBc088PH144.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-19T03:20:50.000Z",
-    "updatedAt": "2022-02-21T20:49:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 145777,
+    "deletedAt": null,
+    "authors": [
+      "Miya Uzuki"
+    ]
+  }
 }

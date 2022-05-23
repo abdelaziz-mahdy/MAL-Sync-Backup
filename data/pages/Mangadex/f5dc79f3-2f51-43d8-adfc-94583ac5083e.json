@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Type-Moon",
-    "Robi~Na"
-  ],
+  "createdAt": "2020-10-12T16:16:37.000Z",
+  "updatedAt": "2021-12-07T00:47:34.000Z",
+  "checkedAt": null,
+  "id": 29486,
   "identifier": "f5dc79f3-2f51-43d8-adfc-94583ac5083e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 89196,
   "aniId": 87201,
-  "createdAt": "2020-10-12T16:16:37.000Z",
-  "updatedAt": "2021-12-07T00:47:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Type-Moon",
+    "Robi~Na"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:59.000Z",
+    "updatedAt": "2022-05-18T23:23:42.000Z",
+    "checkedAt": "2022-05-18T23:23:42.000Z",
+    "id": 89196,
+    "type": "manga",
+    "title": "Fate/Extra CCC",
+    "altTitle": [
+      "Fate/EXTRA CCC"
+    ],
+    "url": "https://myanimelist.net/manga/89196/Fate_Extra_CCC",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180280.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fate/EXTRA CCC"
-    ],
+    "deletedAt": null,
     "authors": [
       "Robi~na"
-    ],
-    "id": 89196,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:05.789Z",
+    "updatedAt": "2022-05-18T23:23:40.000Z",
+    "checkedAt": "2022-05-18T23:23:40.000Z",
+    "id": 87201,
     "type": "manga",
     "title": "Fate/Extra CCC",
-    "url": "https://myanimelist.net/manga/89196/Fate_Extra_CCC",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180280.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:59.000Z",
-    "updatedAt": "2021-11-13T13:13:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/EXTRA CCC"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Robi~na",
-      "Type-Moon"
-    ],
-    "id": 87201,
-    "malId": 89196,
-    "type": "manga",
-    "title": "Fate/Extra CCC",
     "url": "https://anilist.co/manga/87201",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b87201-taYYydBerzFc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:56.000Z",
-    "updatedAt": "2021-12-17T23:23:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/89196/Fate_Extra_CCC"
+    "externalLinks": [],
+    "malId": 89196,
+    "deletedAt": null,
+    "authors": [
+      "Robi~na",
+      "Type-Moon"
+    ]
+  }
 }

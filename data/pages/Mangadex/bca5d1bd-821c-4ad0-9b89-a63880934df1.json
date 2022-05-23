@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Murakami Masaki",
-    "Studio Kyaun (Circle)"
-  ],
+  "createdAt": "2020-10-12T16:20:08.000Z",
+  "updatedAt": "2021-12-07T23:39:01.000Z",
+  "checkedAt": null,
+  "id": 36555,
   "identifier": "bca5d1bd-821c-4ad0-9b89-a63880934df1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 408,
   "aniId": 30408,
-  "createdAt": "2020-10-12T16:20:08.000Z",
-  "updatedAt": "2021-12-07T23:39:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Murakami Masaki",
+    "Studio Kyaun (Circle)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-20T15:55:15.000Z",
+    "checkedAt": "2022-05-20T15:55:15.000Z",
+    "id": 408,
+    "type": "manga",
+    "title": "Mobile Suit Gundam SEED Destiny",
+    "altTitle": [
+      "Kidou Senshi Gundam SEED Destiny",
+      "Mobile Suit Gundam SEED Destiny",
+      "Mobile Suit Gundam Seed Destiny",
+      "機動戦士ガンダム SEED Destiny"
+    ],
+    "url": "https://myanimelist.net/manga/408/Mobile_Suit_Gundam_SEED_Destiny",
+    "image": "https://cdn.myanimelist.net/images/manga/2/5264.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,52 +48,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kidou Senshi Gundam SEED Destiny",
-      "Mobile Suit Gundam SEED Destiny",
-      "Mobile Suit Gundam Seed Destiny",
-      "機動戦士ガンダム SEED Destiny"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yatate, Hajime",
       "Tomino, Yoshiyuki",
       "Iwase, Masatsugu"
-    ],
-    "id": 408,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:38.660Z",
+    "updatedAt": "2022-05-20T15:55:14.000Z",
+    "checkedAt": "2022-05-20T15:55:14.000Z",
+    "id": 30408,
     "type": "manga",
     "title": "Mobile Suit Gundam SEED Destiny",
-    "url": "https://myanimelist.net/manga/408/Mobile_Suit_Gundam_SEED_Destiny",
-    "image": "https://cdn.myanimelist.net/images/manga/2/5264.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2022-04-26T05:30:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mobile Suit Gundam Seed Destiny",
       "機動戦士ガンダム SEED Destiny",
       "Kidou Senshi Gundam SEED Destiny",
       "Mobile Suit Gundam SEED Destiny"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Yatate",
-      "Yoshiyuki Tomino",
-      "Masatsugu Iwase"
-    ],
-    "id": 30408,
-    "malId": 408,
-    "type": "manga",
-    "title": "Mobile Suit Gundam SEED Destiny",
     "url": "https://anilist.co/manga/30408",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30408-xVGUlKB0lvYD.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:09:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/408/Mobile_Suit_Gundam_SEED_Destiny"
+    "externalLinks": [],
+    "malId": 408,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Yatate",
+      "Yoshiyuki Tomino",
+      "Masatsugu Iwase"
+    ]
+  }
 }

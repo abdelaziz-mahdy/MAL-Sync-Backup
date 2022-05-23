@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oku Tamamushi"
-  ],
+  "createdAt": "2021-10-17T19:00:42.000Z",
+  "updatedAt": "2021-11-27T16:41:43.000Z",
+  "checkedAt": null,
+  "id": 88964,
   "identifier": "79ca6344-5468-4fa8-8eb7-859728b27156",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 139756,
   "aniId": 137303,
-  "createdAt": "2021-10-17T19:00:42.000Z",
-  "updatedAt": "2021-11-27T16:41:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oku Tamamushi"
+  ],
   "Mal": {
+    "createdAt": "2021-10-10T19:38:04.000Z",
+    "updatedAt": "2022-05-15T17:26:06.000Z",
+    "checkedAt": "2022-05-15T17:26:06.000Z",
+    "id": 139756,
+    "type": "manga",
+    "title": "Dore ga Koi ka ga Wakaranai",
+    "altTitle": [
+      "I Don't Know Which One Is Love",
+      "I Don't Know Which Is Love",
+      "どれが恋かがわからない"
+    ],
+    "url": "https://myanimelist.net/manga/139756/Dore_ga_Koi_ka_ga_Wakaranai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259085.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "どれが恋かがわからない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oku, Tamamushi"
-    ],
-    "id": 139756,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:55.665Z",
+    "updatedAt": "2022-05-15T20:11:23.000Z",
+    "checkedAt": "2022-05-15T20:11:23.000Z",
+    "id": 137303,
     "type": "manga",
     "title": "Dore ga Koi ka ga Wakaranai",
-    "url": "https://myanimelist.net/manga/139756/Dore_ga_Koi_ka_ga_Wakaranai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/249629.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-10-10T19:38:04.000Z",
-    "updatedAt": "2021-11-26T20:05:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "どれが恋かがわからない",
       "I Don't Know Which One Is Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tamamushi Oku"
-    ],
-    "id": 137303,
-    "malId": 139756,
-    "type": "manga",
-    "title": "Dore ga Koi ka ga Wakaranai",
     "url": "https://anilist.co/manga/137303",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137303-EwE2IroR5ROG.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-08-01T08:47:29.000Z",
-    "updatedAt": "2022-05-06T19:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/139756/Dore_ga_Koi_ka_ga_Wakaranai"
+    "externalLinks": [],
+    "malId": 139756,
+    "deletedAt": null,
+    "authors": [
+      "Tamamushi Oku"
+    ]
+  }
 }

@@ -1,5 +1,8 @@
 {
-  "authors": [],
+  "createdAt": "2021-06-14T13:57:54.000Z",
+  "updatedAt": "2022-01-01T17:23:32.000Z",
+  "checkedAt": null,
+  "id": 78206,
   "identifier": "manga-zi977143",
   "type": "manga",
   "page": "MangaNato",
@@ -9,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 108164,
   "aniId": 99859,
-  "createdAt": "2021-06-14T13:57:54.000Z",
-  "updatedAt": "2022-01-01T17:23:32.000Z",
   "deletedAt": null,
+  "authors": [],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:08.000Z",
+    "updatedAt": "2022-05-15T20:52:02.000Z",
+    "checkedAt": "2022-05-15T20:52:02.000Z",
+    "id": 108164,
+    "type": "manga",
+    "title": "Argate Online",
+    "altTitle": [
+      "Argate Online",
+      "アルゲートオンライン"
+    ],
+    "url": "https://myanimelist.net/manga/108164/Argate_Online",
+    "image": "https://cdn.myanimelist.net/images/manga/1/211413.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -23,45 +39,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アルゲートオンライン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Rei",
       "Touno, Tsumugu"
-    ],
-    "id": 108164,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:41.682Z",
+    "updatedAt": "2022-05-15T21:50:23.000Z",
+    "checkedAt": "2022-05-15T21:50:23.000Z",
+    "id": 99859,
     "type": "manga",
     "title": "Argate Online",
-    "url": "https://myanimelist.net/manga/108164/Argate_Online",
-    "image": "https://cdn.myanimelist.net/images/manga/1/211413.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:08.000Z",
-    "updatedAt": "2022-02-24T13:19:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アルゲートオンライン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsumugu Touno",
-      "Rei",
-      "Genyaky"
-    ],
-    "id": 99859,
-    "malId": 108164,
-    "type": "manga",
-    "title": "Argate Online",
     "url": "https://anilist.co/manga/99859",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99859-XywGq1O5aaf4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:57.000Z",
-    "updatedAt": "2021-12-18T02:58:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108164/Argate_Online"
+    "externalLinks": [],
+    "malId": 108164,
+    "deletedAt": null,
+    "authors": [
+      "Tsumugu Touno",
+      "Rei",
+      "Genyaky"
+    ]
+  }
 }

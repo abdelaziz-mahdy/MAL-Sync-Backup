@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hasegawa Keisuke",
-    "Izumi Asuka"
-  ],
+  "createdAt": "2020-10-12T16:03:32.000Z",
+  "updatedAt": "2021-12-02T14:49:38.000Z",
+  "checkedAt": null,
+  "id": 2441,
   "identifier": "cb32a96d-70c2-45c3-9486-e008b9d4b7b0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1778,
   "aniId": 31778,
-  "createdAt": "2020-10-12T16:03:32.000Z",
-  "updatedAt": "2021-12-02T14:49:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hasegawa Keisuke",
+    "Izumi Asuka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:37.000Z",
+    "updatedAt": "2022-04-23T10:00:26.000Z",
+    "checkedAt": null,
+    "id": 1778,
+    "type": "manga",
+    "title": "Shinigami no Ballad.",
+    "altTitle": [
+      "Ballad of a Shinigami",
+      "しにがみのバラッド。"
+    ],
+    "url": "https://myanimelist.net/manga/1778/Shinigami_no_Ballad",
+    "image": "https://cdn.myanimelist.net/images/manga/1/209216.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ballad of a Shinigami",
-      "しにがみのバラッド。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asuka, Izumi"
-    ],
-    "id": 1778,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:07.773Z",
+    "updatedAt": "2022-05-13T12:44:07.773Z",
+    "checkedAt": null,
+    "id": 31778,
     "type": "manga",
     "title": "Shinigami no Ballad.",
-    "url": "https://myanimelist.net/manga/1778/Shinigami_no_Ballad",
-    "image": "https://cdn.myanimelist.net/images/manga/1/209216.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2022-04-23T10:00:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ballad of a Shinigami",
       "しにがみのバラッド。"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asuka Izumi",
-      "Keisuke Hasegawa"
-    ],
-    "id": 31778,
-    "malId": 1778,
-    "type": "manga",
-    "title": "Shinigami no Ballad.",
     "url": "https://anilist.co/manga/31778",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31778-8w46s95EaANd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:53.000Z",
-    "updatedAt": "2021-12-17T10:14:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1778/Shinigami_no_Ballad"
+    "externalLinks": [],
+    "malId": 1778,
+    "deletedAt": null,
+    "authors": [
+      "Asuka Izumi",
+      "Keisuke Hasegawa"
+    ]
+  }
 }

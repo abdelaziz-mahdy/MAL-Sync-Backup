@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Komiya Umi"
-  ],
+  "createdAt": "2020-10-12T16:15:55.000Z",
+  "updatedAt": "2021-12-06T19:17:23.000Z",
+  "checkedAt": null,
+  "id": 28023,
   "identifier": "fccf8436-e642-4a5e-8c62-60eb99aea92e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118762,
   "aniId": 108521,
-  "createdAt": "2020-10-12T16:15:55.000Z",
-  "updatedAt": "2021-12-06T19:17:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Komiya Umi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2022-05-16T00:02:00.000Z",
+    "checkedAt": "2022-05-16T00:02:00.000Z",
+    "id": 118762,
+    "type": "manga",
+    "title": "Kawaisou ni ne, Genki-kun",
+    "altTitle": [
+      "Poor, Genki",
+      "可愛そうにね、元気くん"
+    ],
+    "url": "https://myanimelist.net/manga/118762/Kawaisou_ni_ne_Genki-kun",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226159.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Poor, Genki",
-      "可愛そうにね、元気くん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Komiya, Umi"
-    ],
-    "id": 118762,
-    "type": "manga",
-    "title": "Kawaisou ni ne, Genki-kun",
-    "url": "https://myanimelist.net/manga/118762/Kawaisou_ni_ne_Genki-kun",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226159.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:54.000Z",
-    "updatedAt": "2021-12-06T18:47:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:38.893Z",
+    "updatedAt": "2022-05-16T00:01:59.000Z",
+    "checkedAt": "2022-05-16T00:01:59.000Z",
+    "id": 108521,
+    "type": "manga",
+    "title": "Kawaisou ni Ne, Genki-kun",
     "altTitle": [
       "可愛そうにね、元気くん",
       "Poor, Genki",
       "Kawaii-sou ni Ne, Genki-kun"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Umi Komiya"
-    ],
-    "id": 108521,
-    "malId": 118762,
-    "type": "manga",
-    "title": "Kawaisou ni Ne, Genki-kun",
     "url": "https://anilist.co/manga/108521",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108521-PgcnwMIgMIfp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T06:12:58.000Z",
-    "updatedAt": "2021-12-18T06:20:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118762/Kawaisou_ni_ne_Genki-kun"
+    "externalLinks": [],
+    "malId": 118762,
+    "deletedAt": null,
+    "authors": [
+      "Umi Komiya"
+    ]
+  }
 }

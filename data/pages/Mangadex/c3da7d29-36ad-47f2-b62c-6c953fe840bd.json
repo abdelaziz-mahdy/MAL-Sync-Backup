@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sugii Hikaru",
-    "Tiv"
-  ],
+  "createdAt": "2020-10-12T16:07:10.000Z",
+  "updatedAt": "2021-12-04T01:17:18.000Z",
+  "checkedAt": null,
+  "id": 10026,
   "identifier": "c3da7d29-36ad-47f2-b62c-6c953fe840bd",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67379,
   "aniId": 85293,
-  "createdAt": "2020-10-12T16:07:10.000Z",
-  "updatedAt": "2021-12-04T01:17:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sugii Hikaru",
+    "Tiv"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:12.000Z",
+    "updatedAt": "2022-03-01T00:52:14.000Z",
+    "checkedAt": null,
+    "id": 67379,
+    "type": "manga",
+    "title": "Komori Quintet!",
+    "altTitle": [
+      "こもりクインテット!"
+    ],
+    "url": "https://myanimelist.net/manga/67379/Komori_Quintet",
+    "image": "https://cdn.myanimelist.net/images/manga/1/156359.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こもりクインテット!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sugii, Hikaru",
       "Tiv"
-    ],
-    "id": 67379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:10.369Z",
+    "updatedAt": "2022-05-13T12:45:10.369Z",
+    "checkedAt": null,
+    "id": 85293,
     "type": "manga",
     "title": "Komori Quintet!",
-    "url": "https://myanimelist.net/manga/67379/Komori_Quintet",
-    "image": "https://cdn.myanimelist.net/images/manga/1/156359.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:12.000Z",
-    "updatedAt": "2022-03-01T00:52:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "こもりクインテット"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hikaru Sugii",
-      "Tiv"
-    ],
-    "id": 85293,
-    "malId": 67379,
-    "type": "manga",
-    "title": "Komori Quintet!",
     "url": "https://anilist.co/manga/85293",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85293-Yhzqcmr98xqE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:59.000Z",
-    "updatedAt": "2021-12-17T21:57:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67379/Komori_Quintet"
+    "externalLinks": [],
+    "malId": 67379,
+    "deletedAt": null,
+    "authors": [
+      "Hikaru Sugii",
+      "Tiv"
+    ]
+  }
 }

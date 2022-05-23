@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Project Mijia",
-    "Fuji Subaru"
-  ],
+  "createdAt": "2020-10-12T16:09:50.000Z",
+  "updatedAt": "2021-12-04T21:21:59.000Z",
+  "checkedAt": null,
+  "id": 15842,
   "identifier": "628e31cb-4c73-489b-af2e-5daa767fe5d0",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98549,
   "aniId": 87298,
-  "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-12-04T21:21:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Project Mijia",
+    "Fuji Subaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2022-05-17T03:46:12.000Z",
+    "checkedAt": "2022-05-17T03:46:12.000Z",
+    "id": 98549,
+    "type": "manga",
+    "title": "Mayoiga: Tsumi to Batsu",
+    "altTitle": [
+      "The Lost Village: Crime and Punishment",
+      "迷家～ツミトバツ～"
+    ],
+    "url": "https://myanimelist.net/manga/98549/Mayoiga__Tsumi_to_Batsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179201.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Lost Village: Crime and Punishment",
-      "迷家～ツミトバツ～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fuji, Subaru"
-    ],
-    "id": 98549,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:30.647Z",
+    "updatedAt": "2022-05-17T03:46:11.000Z",
+    "checkedAt": "2022-05-17T03:46:11.000Z",
+    "id": 87298,
     "type": "manga",
     "title": "Mayoiga: Tsumi to Batsu",
-    "url": "https://myanimelist.net/manga/98549/Mayoiga__Tsumi_to_Batsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179201.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2021-12-04T21:19:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Lost Village: Crime and Punishment",
       "迷家～ツミトバツ～"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Subaru Fuji"
-    ],
-    "id": 87298,
-    "malId": 98549,
-    "type": "manga",
-    "title": "Mayoiga: Tsumi to Batsu",
     "url": "https://anilist.co/manga/87298",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87298-A8L0LojosWSa.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:12.000Z",
-    "updatedAt": "2021-12-17T23:25:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98549/Mayoiga__Tsumi_to_Batsu"
+    "externalLinks": [],
+    "malId": 98549,
+    "deletedAt": null,
+    "authors": [
+      "Subaru Fuji"
+    ]
+  }
 }

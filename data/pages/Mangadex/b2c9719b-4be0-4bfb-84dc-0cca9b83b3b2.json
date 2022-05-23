@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "20twenty (match)"
-  ],
+  "createdAt": "2020-10-12T16:10:20.000Z",
+  "updatedAt": "2021-12-05T08:47:38.000Z",
+  "checkedAt": null,
+  "id": 16909,
   "identifier": "b2c9719b-4be0-4bfb-84dc-0cca9b83b3b2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 110278,
-  "createdAt": "2020-10-12T16:10:20.000Z",
-  "updatedAt": "2021-12-05T08:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "20twenty (match)"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.206Z",
+    "updatedAt": "2022-05-13T13:01:29.206Z",
+    "checkedAt": null,
+    "id": 110278,
+    "type": "manga",
+    "title": "Twenty Lillies",
     "altTitle": [
       "トゥエンティ・リリーズ",
       "Heart no Okurimono",
@@ -27,21 +35,15 @@
       "ふたつのラセン",
       "不死身人間の就活～ふっかつ～"
     ],
-    "externalLinks": [],
-    "authors": [
-      "match"
-    ],
-    "id": 110278,
-    "malId": null,
-    "type": "manga",
-    "title": "Twenty Lillies",
     "url": "https://anilist.co/manga/110278",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110278-gnpTszgFmbKN.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T00:20:07.000Z",
-    "updatedAt": "2021-12-21T14:53:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "match"
+    ]
+  }
 }

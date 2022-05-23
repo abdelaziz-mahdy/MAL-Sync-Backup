@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Awa Bako"
-  ],
+  "createdAt": "2020-10-12T16:16:33.000Z",
+  "updatedAt": "2021-12-06T23:49:43.000Z",
+  "checkedAt": null,
+  "id": 29326,
   "identifier": "522bf33a-91ec-4f55-a5ee-e3612e8072c9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123051,
   "aniId": 110710,
-  "createdAt": "2020-10-12T16:16:33.000Z",
-  "updatedAt": "2021-12-06T23:49:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Awa Bako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-05-21T23:04:50.000Z",
+    "checkedAt": "2022-05-21T23:04:50.000Z",
+    "id": 123051,
+    "type": "manga",
+    "title": "Oniyome wo Metotteshimatta.",
+    "altTitle": [
+      "鬼嫁を娶ってしまった。"
+    ],
+    "url": "https://myanimelist.net/manga/123051/Oniyome_wo_Metotteshimatta",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224415.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "鬼嫁を娶ってしまった。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Awabako"
-    ],
-    "id": 123051,
-    "type": "manga",
-    "title": "Oniyome wo Metotteshimatta.",
-    "url": "https://myanimelist.net/manga/123051/Oniyome_wo_Metotteshimatta",
-    "image": "https://cdn.myanimelist.net/images/manga/3/224415.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2021-11-23T11:05:58.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:11.200Z",
+    "updatedAt": "2022-05-21T23:04:49.000Z",
+    "checkedAt": "2022-05-21T23:04:49.000Z",
+    "id": 110710,
+    "type": "manga",
+    "title": "Oniyome wo Metotte Shimatta.",
     "altTitle": [
       "鬼嫁を娶ってしまった。"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Bako Awa"
-    ],
-    "id": 110710,
-    "malId": 123051,
-    "type": "manga",
-    "title": "Oniyome wo Metotte Shimatta.",
     "url": "https://anilist.co/manga/110710",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110710-xCeURBZ8rU62.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T06:54:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123051/Oniyome_wo_Metotteshimatta"
+    "externalLinks": [],
+    "malId": 123051,
+    "deletedAt": null,
+    "authors": [
+      "Bako Awa"
+    ]
+  }
 }

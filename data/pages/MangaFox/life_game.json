@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "uta"
-  ],
+  "createdAt": "2021-10-15T14:58:46.000Z",
+  "updatedAt": "2022-04-15T15:30:36.000Z",
+  "checkedAt": null,
+  "id": 88812,
   "identifier": "life_game",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122932,
   "aniId": 105406,
-  "createdAt": "2021-10-15T14:58:46.000Z",
-  "updatedAt": "2022-04-15T15:30:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "uta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-04-15T15:00:36.000Z",
+    "checkedAt": null,
+    "id": 122932,
+    "type": "manga",
+    "title": "Life Game",
+    "altTitle": [
+      "LIFE GAME"
+    ],
+    "url": "https://myanimelist.net/manga/122932/Life_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227204.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "LIFE GAME"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takuse, Nade",
       "uta"
-    ],
-    "id": 122932,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:44.469Z",
+    "updatedAt": "2022-05-13T13:00:44.469Z",
+    "checkedAt": null,
+    "id": 105406,
     "type": "manga",
     "title": "Life Game",
-    "url": "https://myanimelist.net/manga/122932/Life_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227204.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-04-15T15:00:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ライフゲーム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "uta",
-      "Takuse Nade"
-    ],
-    "id": 105406,
-    "malId": 122932,
-    "type": "manga",
-    "title": "Life Game",
     "url": "https://anilist.co/manga/105406",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105406-SmgrshuO4lNd.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:29.000Z",
-    "updatedAt": "2021-12-18T05:19:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122932/Life_Game"
+    "externalLinks": [],
+    "malId": 122932,
+    "deletedAt": null,
+    "authors": [
+      "uta",
+      "Takuse Nade"
+    ]
+  }
 }

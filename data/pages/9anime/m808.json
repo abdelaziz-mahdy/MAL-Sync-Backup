@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:29.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 6486,
   "identifier": "m808",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 715,
   "aniId": 715,
-  "createdAt": "2020-10-12T15:53:29.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T09:59:26.000Z",
+    "checkedAt": "2022-05-14T09:59:26.000Z",
+    "id": 715,
+    "type": "anime",
+    "title": "Yume de Aetara",
+    "altTitle": [
+      "Yume de Aetara (1999)",
+      "Yume de Aetara OAV",
+      "If I See You in My Dreams",
+      "夢で逢えたら"
+    ],
+    "url": "https://myanimelist.net/anime/715/Yume_de_Aetara",
+    "image": "https://cdn.myanimelist.net/images/anime/10/67403.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,43 +48,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yume de Aetara (1999)",
-      "Yume de Aetara OAV",
-      "If I See You in My Dreams",
-      "夢で逢えたら"
-    ],
+    "deletedAt": null,
+    "anidbId": 1064
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T18:28:35.000Z",
+    "checkedAt": "2022-05-15T18:28:35.000Z",
     "id": 715,
     "type": "anime",
     "title": "Yume de Aetara",
-    "url": "https://myanimelist.net/anime/715/Yume_de_Aetara",
-    "image": "https://cdn.myanimelist.net/images/anime/10/67403.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1064,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-05-03T00:06:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "If I See You in My Dreams",
       "夢で逢えたら (1999)",
       "Yume de Aetara (1999)",
       "Yume de Aetara OAV"
     ],
-    "externalLinks": [],
-    "id": 715,
-    "malId": 715,
-    "type": "anime",
-    "title": "Yume de Aetara",
     "url": "https://anilist.co/anime/715",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx715-KP3czCDX5lgW.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2021-12-17T08:53:28.000Z",
+    "externalLinks": [],
+    "malId": 715,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/715/Yume_de_Aetara"
+  }
 }

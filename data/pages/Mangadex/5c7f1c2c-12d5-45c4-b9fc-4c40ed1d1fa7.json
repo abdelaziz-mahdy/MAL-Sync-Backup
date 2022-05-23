@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kingyobachi Deme"
-  ],
+  "createdAt": "2020-10-12T16:16:13.000Z",
+  "updatedAt": "2021-12-06T20:47:51.000Z",
+  "checkedAt": null,
+  "id": 28622,
   "identifier": "5c7f1c2c-12d5-45c4-b9fc-4c40ed1d1fa7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120271,
   "aniId": 109224,
-  "createdAt": "2020-10-12T16:16:13.000Z",
-  "updatedAt": "2021-12-06T20:47:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kingyobachi Deme"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:03.000Z",
+    "updatedAt": "2022-05-18T03:59:35.000Z",
+    "checkedAt": "2022-05-18T03:59:35.000Z",
+    "id": 120271,
+    "type": "manga",
+    "title": "Madoka no Himitsu",
+    "altTitle": [
+      "まどかのひみつ"
+    ],
+    "url": "https://myanimelist.net/manga/120271/Madoka_no_Himitsu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224031.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,24 +40,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "まどかのひみつ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kingyobachi, Deme"
-    ],
-    "id": 120271,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:44.400Z",
+    "updatedAt": "2022-05-18T03:59:34.000Z",
+    "checkedAt": "2022-05-18T03:59:34.000Z",
+    "id": 109224,
     "type": "manga",
     "title": "Madoka no Himitsu",
-    "url": "https://myanimelist.net/manga/120271/Madoka_no_Himitsu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/224031.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2022-03-01T01:20:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Madoka's Secret",
       "まどかのひみつ",
@@ -51,22 +60,16 @@
       "Madokas Geheimnis",
       "El Secreto de Madoka"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Deme Kingyobachi",
-      "Nikolas Stirling"
-    ],
-    "id": 109224,
-    "malId": 120271,
-    "type": "manga",
-    "title": "Madoka no Himitsu",
     "url": "https://anilist.co/manga/109224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109224-9OzZJcbROVoQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:15.000Z",
-    "updatedAt": "2021-12-18T06:24:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120271/Madoka_no_Himitsu"
+    "externalLinks": [],
+    "malId": 120271,
+    "deletedAt": null,
+    "authors": [
+      "Deme Kingyobachi",
+      "Nikolas Stirling"
+    ]
+  }
 }

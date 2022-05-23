@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amano Jaku"
-  ],
+  "createdAt": "2020-10-12T16:16:02.000Z",
+  "updatedAt": "2021-12-06T19:48:52.000Z",
+  "checkedAt": null,
+  "id": 28266,
   "identifier": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 126259,
   "aniId": 111074,
-  "createdAt": "2020-10-12T16:16:02.000Z",
-  "updatedAt": "2021-12-06T19:48:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amano Jaku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2022-01-11T05:12:09.000Z",
+    "checkedAt": null,
+    "id": 126259,
+    "type": "manga",
+    "title": "Adou",
+    "altTitle": [
+      "亜童"
+    ],
+    "url": "https://myanimelist.net/manga/126259/Adou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/229841.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "亜童"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Jaku"
-    ],
-    "id": 126259,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:02.417Z",
+    "updatedAt": "2022-05-13T13:04:02.417Z",
+    "checkedAt": null,
+    "id": 111074,
     "type": "manga",
     "title": "Adou",
-    "url": "https://myanimelist.net/manga/126259/Adou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/229841.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2022-01-11T05:12:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "亜童"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jaku Amano"
-    ],
-    "id": 111074,
-    "malId": 126259,
-    "type": "manga",
-    "title": "Adou",
     "url": "https://anilist.co/manga/111074",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111074-Yevf4L1Btj8e.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:13.000Z",
-    "updatedAt": "2021-12-18T06:57:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126259/Adou"
+    "externalLinks": [],
+    "malId": 126259,
+    "deletedAt": null,
+    "authors": [
+      "Jaku Amano"
+    ]
+  }
 }

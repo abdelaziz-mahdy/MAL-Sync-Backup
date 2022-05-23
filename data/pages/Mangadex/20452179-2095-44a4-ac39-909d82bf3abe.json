@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Atlus",
-    "Ueda Shinsyu"
-  ],
+  "createdAt": "2020-10-12T16:20:31.000Z",
+  "updatedAt": "2021-12-08T00:40:51.000Z",
+  "checkedAt": null,
+  "id": 37386,
   "identifier": "20452179-2095-44a4-ac39-909d82bf3abe",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 72819,
   "aniId": 91701,
-  "createdAt": "2020-10-12T16:20:31.000Z",
-  "updatedAt": "2021-12-08T00:40:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atlus",
+    "Ueda Shinsyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2021-11-10T16:44:58.000Z",
+    "checkedAt": null,
+    "id": 72819,
+    "type": "manga",
+    "title": "Majin Tensei: The True Remembrance",
+    "altTitle": [
+      "魔神転生 THE TRUE REMEMBRANCE"
+    ],
+    "url": "https://myanimelist.net/manga/72819/Majin_Tensei__The_True_Remembrance",
+    "image": "https://cdn.myanimelist.net/images/manga/1/126651.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "魔神転生 THE TRUE REMEMBRANCE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueda, Shinshu",
       "Atlus"
-    ],
-    "id": 72819,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:55.617Z",
+    "updatedAt": "2022-05-13T12:45:55.617Z",
+    "checkedAt": null,
+    "id": 91701,
     "type": "manga",
     "title": "Majin Tensei: The True Remembrance",
-    "url": "https://myanimelist.net/manga/72819/Majin_Tensei__The_True_Remembrance",
-    "image": "https://cdn.myanimelist.net/images/manga/1/126651.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2021-11-10T16:44:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔神転生 THE TRUE REMEMBRANCE"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinshuu Ueda",
-      "Atlus"
-    ],
-    "id": 91701,
-    "malId": 72819,
-    "type": "manga",
-    "title": "Majin Tensei: The True Remembrance",
     "url": "https://anilist.co/manga/91701",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91701-t9g3faBXbR1T.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2021-12-18T00:25:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72819/Majin_Tensei__The_True_Remembrance"
+    "externalLinks": [],
+    "malId": 72819,
+    "deletedAt": null,
+    "authors": [
+      "Shinshuu Ueda",
+      "Atlus"
+    ]
+  }
 }

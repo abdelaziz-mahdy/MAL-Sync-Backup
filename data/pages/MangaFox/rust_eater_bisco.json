@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinji Cobkubo"
-  ],
+  "createdAt": "2022-01-01T19:23:34.000Z",
+  "updatedAt": "2022-01-01T19:53:32.000Z",
+  "checkedAt": null,
+  "id": 94056,
   "identifier": "rust_eater_bisco",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 119373,
   "aniId": 111620,
-  "createdAt": "2022-01-01T19:23:34.000Z",
-  "updatedAt": "2022-01-01T19:53:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinji Cobkubo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:55.000Z",
+    "updatedAt": "2022-05-14T23:39:53.000Z",
+    "checkedAt": "2022-05-14T23:39:53.000Z",
+    "id": 119373,
+    "type": "manga",
+    "title": "Sabikui Bisco",
+    "altTitle": [
+      "Rust-Eater Bisco",
+      "錆喰いビスコ"
+    ],
+    "url": "https://myanimelist.net/manga/119373/Sabikui_Bisco",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241246.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,49 +45,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rust-Eater Bisco",
-      "錆喰いビスコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Cobkubo, Shinji",
       "Takahashi, Yuusuke"
-    ],
-    "id": 119373,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:50.088Z",
+    "updatedAt": "2022-05-16T21:00:20.000Z",
+    "checkedAt": "2022-05-16T21:00:20.000Z",
+    "id": 111620,
     "type": "manga",
     "title": "Sabikui Bisco",
-    "url": "https://myanimelist.net/manga/119373/Sabikui_Bisco",
-    "image": "https://cdn.myanimelist.net/images/manga/1/241246.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:55.000Z",
-    "updatedAt": "2022-01-01T19:24:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rust-Eater Bisco",
       "錆喰いビスコ",
       "บิสโก เซียนเห็ดแดนเถื่อน"
     ],
+    "url": "https://anilist.co/manga/111620",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111620-iLTccgojCXWf.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 119373,
+    "deletedAt": null,
     "authors": [
       "mocha",
       "Shinji Cobkubo",
       "Akagishi K",
       "Yuusuke Takahashi"
-    ],
-    "id": 111620,
-    "malId": 119373,
-    "type": "manga",
-    "title": "Sabikui Bisco",
-    "url": "https://anilist.co/manga/111620",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111620-iLTccgojCXWf.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:58:08.000Z",
-    "updatedAt": "2022-03-11T10:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119373/Sabikui_Bisco"
+    ]
+  }
 }

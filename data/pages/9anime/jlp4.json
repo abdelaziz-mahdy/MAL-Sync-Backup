@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:14.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4909,
   "identifier": "jlp4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10588,
   "aniId": 10588,
-  "createdAt": "2020-10-12T15:52:14.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:06.000Z",
+    "updatedAt": "2022-05-14T16:24:45.000Z",
+    "checkedAt": "2022-05-14T16:24:45.000Z",
+    "id": 10588,
+    "type": "anime",
+    "title": "Persona 4 the Animation",
+    "altTitle": [
+      "P4A",
+      "Persona 4 the Animation",
+      "ペルソナ4アニメーション"
+    ],
+    "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,45 +51,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "P4A",
-      "Persona 4 the Animation",
-      "ペルソナ4アニメーション"
-    ],
+    "deletedAt": null,
+    "anidbId": 8378
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:16.000Z",
+    "updatedAt": "2022-05-15T11:30:59.000Z",
+    "checkedAt": "2022-05-15T11:30:59.000Z",
     "id": 10588,
     "type": "anime",
     "title": "Persona 4 the Animation",
-    "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation",
-    "image": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 8378,
-    "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2022-04-11T11:38:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ペルソナ4アニメーション",
       "P4A"
     ],
+    "url": "https://anilist.co/anime/10588",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10588-44oPKE7GRXA2.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/persona-4"
       }
     ],
-    "id": 10588,
     "malId": 10588,
-    "type": "anime",
-    "title": "Persona 4 the Animation",
-    "url": "https://anilist.co/anime/10588",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10588-44oPKE7GRXA2.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:39:16.000Z",
-    "updatedAt": "2021-12-17T10:48:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/10588/Persona_4_the_Animation"
+  }
 }

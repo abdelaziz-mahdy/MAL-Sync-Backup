@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Yuuto Tsukuda",
-    "Shun Saeki",
-    "Yuki Morisaki"
-  ],
+  "createdAt": "2021-07-30T12:53:32.000Z",
+  "updatedAt": "2022-01-30T15:50:39.000Z",
+  "checkedAt": null,
+  "id": 83352,
   "identifier": "manga-fw983279",
   "type": "manga",
   "page": "MangaNato",
@@ -13,20 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 45757,
   "aniId": 75757,
-  "createdAt": "2021-07-30T12:53:32.000Z",
-  "updatedAt": "2022-01-30T15:50:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuuto Tsukuda",
+    "Shun Saeki",
+    "Yuki Morisaki"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%88%9F%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%9E"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:22.000Z",
+    "updatedAt": "2022-05-14T10:09:52.000Z",
+    "checkedAt": "2022-05-14T10:09:52.000Z",
+    "id": 45757,
+    "type": "manga",
+    "title": "Shokugeki no Souma",
     "altTitle": [
       "Kimi to Watashi no Renai Soudan",
       "Our Love Counseling",
@@ -34,56 +35,54 @@
       "Food Wars: Shokugeki no Soma",
       "食戟のソーマ"
     ],
-    "authors": [
-      "Saeki, Shun",
-      "Tsukuda, Yuuto",
-      "Morisaki, Yuki"
-    ],
-    "id": 45757,
-    "type": "manga",
-    "title": "Shokugeki no Souma",
     "url": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma",
     "image": "https://cdn.myanimelist.net/images/manga/1/115803.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:22.000Z",
-    "updatedAt": "2022-04-22T05:01:47.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%88%9F%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%9E"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Saeki, Shun",
+      "Tsukuda, Yuuto",
+      "Morisaki, Yuki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.129Z",
+    "updatedAt": "2022-05-15T21:41:47.000Z",
+    "checkedAt": "2022-05-15T21:41:47.000Z",
+    "id": 75757,
+    "type": "manga",
+    "title": "Shokugeki no Souma",
     "altTitle": [
       "Food Wars!: Shokugeki no Soma",
       "食戟のソーマ",
       "Kulinarne Pojedynki"
     ],
+    "url": "https://anilist.co/manga/75757",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75757-5H35Qy1zGRHI.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100013"
-      },
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/shonenjump/chapters/food-wars"
       }
     ],
+    "malId": 45757,
+    "deletedAt": null,
     "authors": [
       "Shun Saeki",
       "Yuuto Tsukuda",
       "Yuki Morisaki",
       "Gemma Tarrés",
       "Lilian Lebrun"
-    ],
-    "id": 75757,
-    "malId": 45757,
-    "type": "manga",
-    "title": "Shokugeki no Souma",
-    "url": "https://anilist.co/manga/75757",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75757-5H35Qy1zGRHI.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:49:27.000Z",
-    "updatedAt": "2022-02-12T20:09:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/45757/Shokugeki_no_Souma"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hitoshi Ariga",
-    "Yadate Hajime"
-  ],
+  "createdAt": "2020-10-12T16:11:30.000Z",
+  "updatedAt": "2021-12-05T09:24:10.000Z",
+  "checkedAt": null,
+  "id": 19471,
   "identifier": "1901534b-4fdd-4176-a06e-f2c7ac495f09",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 283,
   "aniId": 30283,
-  "createdAt": "2020-10-12T16:11:30.000Z",
-  "updatedAt": "2021-12-05T09:24:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hitoshi Ariga",
+    "Yadate Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-16T12:11:18.000Z",
+    "checkedAt": "2022-05-16T12:11:18.000Z",
+    "id": 283,
+    "type": "manga",
+    "title": "The Big O",
+    "altTitle": [
+      "Theビッグオー"
+    ],
+    "url": "https://myanimelist.net/manga/283/The_Big_O",
+    "image": "https://cdn.myanimelist.net/images/manga/1/25.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Theビッグオー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yatate, Hajime",
       "Ariga, Hitoshi"
-    ],
-    "id": 283,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:10.946Z",
+    "updatedAt": "2022-05-16T12:11:17.000Z",
+    "checkedAt": "2022-05-16T12:11:17.000Z",
+    "id": 30283,
     "type": "manga",
     "title": "The Big O",
-    "url": "https://myanimelist.net/manga/283/The_Big_O",
-    "image": "https://cdn.myanimelist.net/images/manga/1/25.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-21T17:01:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Big O",
       "Theビッグオー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Yatate",
-      "Hitoshi Ariga"
-    ],
-    "id": 30283,
-    "malId": 283,
-    "type": "manga",
-    "title": "The Big O",
     "url": "https://anilist.co/manga/30283",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30283-hD7Ghnm02dJ9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:06:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/283/The_Big_O"
+    "externalLinks": [],
+    "malId": 283,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Yatate",
+      "Hitoshi Ariga"
+    ]
+  }
 }

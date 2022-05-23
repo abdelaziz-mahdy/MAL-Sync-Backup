@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "KANO Yasuhiro"
-  ],
+  "createdAt": "2021-07-19T11:33:30.000Z",
+  "updatedAt": "2022-01-19T12:04:56.000Z",
+  "checkedAt": null,
+  "id": 82355,
   "identifier": "kiss_x_death",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80165,
   "aniId": 85995,
-  "createdAt": "2021-07-19T11:33:30.000Z",
-  "updatedAt": "2022-01-19T12:04:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "KANO Yasuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-15T20:28:17.000Z",
+    "checkedAt": "2022-05-15T20:28:17.000Z",
+    "id": 80165,
+    "type": "manga",
+    "title": "Kiss x Death",
+    "altTitle": [
+      "KISS×DEATH"
+    ],
+    "url": "https://myanimelist.net/manga/80165/Kiss_x_Death",
+    "image": "https://cdn.myanimelist.net/images/manga/1/149624.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "KISS×DEATH"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kano, Yasuhiro"
-    ],
-    "id": 80165,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:46.800Z",
+    "updatedAt": "2022-05-15T21:41:47.000Z",
+    "checkedAt": "2022-05-15T21:41:47.000Z",
+    "id": 85995,
     "type": "manga",
     "title": "Kiss x Death",
-    "url": "https://myanimelist.net/manga/80165/Kiss_x_Death",
-    "image": "https://cdn.myanimelist.net/images/manga/1/149624.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-01-19T11:34:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "KISS×DEATH"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasuhiro Kanou",
-      "Gege Akutami"
-    ],
-    "id": 85995,
-    "malId": 80165,
-    "type": "manga",
-    "title": "Kiss x Death",
     "url": "https://anilist.co/manga/85995",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85995-9ryoM8z2sUWr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-26T06:27:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80165/Kiss_x_Death"
+    "externalLinks": [],
+    "malId": 80165,
+    "deletedAt": null,
+    "authors": [
+      "Yasuhiro Kanou",
+      "Gege Akutami"
+    ]
+  }
 }

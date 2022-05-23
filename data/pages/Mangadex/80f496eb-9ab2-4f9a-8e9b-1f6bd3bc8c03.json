@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oku Hiroya"
-  ],
+  "createdAt": "2020-10-12T16:07:11.000Z",
+  "updatedAt": "2021-12-04T01:17:48.000Z",
+  "checkedAt": null,
+  "id": 10075,
   "identifier": "80f496eb-9ab2-4f9a-8e9b-1f6bd3bc8c03",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64465,
   "aniId": 85226,
-  "createdAt": "2020-10-12T16:07:11.000Z",
-  "updatedAt": "2021-12-04T01:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oku Hiroya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2022-05-13T19:35:57.000Z",
+    "checkedAt": "2022-05-13T19:35:57.000Z",
+    "id": 64465,
+    "type": "manga",
+    "title": "Inuyashiki",
+    "altTitle": [
+      "Last Hero Inuyashiki",
+      "Inuyashiki",
+      "いぬやしき"
+    ],
+    "url": "https://myanimelist.net/manga/64465/Inuyashiki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/156353.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Last Hero Inuyashiki",
-      "Inuyashiki",
-      "いぬやしき"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oku, Hiroya"
-    ],
-    "id": 64465,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:41.768Z",
+    "updatedAt": "2022-05-15T20:33:47.000Z",
+    "checkedAt": "2022-05-15T20:33:47.000Z",
+    "id": 85226,
     "type": "manga",
     "title": "Inuyashiki",
-    "url": "https://myanimelist.net/manga/64465/Inuyashiki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/156353.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2022-04-19T10:32:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Inuyashiki",
       "いぬやしき",
       "Last Hero Inuyashiki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroya Oku",
-      "Lídia Ivasa"
-    ],
-    "id": 85226,
-    "malId": 64465,
-    "type": "manga",
-    "title": "Inuyashiki",
     "url": "https://anilist.co/manga/85226",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85226-AVgaDp50NGsr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:50.000Z",
-    "updatedAt": "2021-12-31T02:23:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64465/Inuyashiki"
+    "externalLinks": [],
+    "malId": 64465,
+    "deletedAt": null,
+    "authors": [
+      "Hiroya Oku",
+      "Lídia Ivasa"
+    ]
+  }
 }

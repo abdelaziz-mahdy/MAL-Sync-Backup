@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:34.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8947,
   "identifier": "rovn",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 841,
   "aniId": 841,
-  "createdAt": "2020-10-12T15:55:34.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T16:36:27.000Z",
+    "checkedAt": "2022-05-14T16:36:27.000Z",
+    "id": 841,
+    "type": "anime",
+    "title": "Colorful",
+    "altTitle": [
+      "Colorful",
+      "カラフル"
+    ],
+    "url": "https://myanimelist.net/anime/841/Colorful",
+    "image": "https://cdn.myanimelist.net/images/anime/8/19229.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,45 +55,31 @@
         "url": "https://www.hidive.com/movies/colorful"
       }
     ],
-    "altTitle": [
-      "Colorful",
-      "カラフル"
-    ],
+    "deletedAt": null,
+    "anidbId": 221
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T17:25:11.000Z",
+    "checkedAt": "2022-05-15T17:25:11.000Z",
     "id": 841,
     "type": "anime",
     "title": "Colorful",
-    "url": "https://myanimelist.net/anime/841/Colorful",
-    "image": "https://cdn.myanimelist.net/images/anime/8/19229.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 221,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-03-30T17:33:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Colorful",
-      "COLORFUL",
       "カラフル"
     ],
+    "url": "https://anilist.co/anime/841",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx841-gdXOqxm7hUVl.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
         "url": "https://www.hidive.com/movies/colorful/"
       }
     ],
-    "id": 841,
     "malId": 841,
-    "type": "anime",
-    "title": "COLORFUL",
-    "url": "https://anilist.co/anime/841",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx841-gdXOqxm7hUVl.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:46.000Z",
-    "updatedAt": "2022-05-17T21:00:20.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/841/Colorful"
+  }
 }

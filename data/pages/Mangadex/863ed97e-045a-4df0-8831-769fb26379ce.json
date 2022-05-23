@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kirarazaka Jun"
-  ],
+  "createdAt": "2020-10-12T16:17:09.000Z",
+  "updatedAt": "2021-12-07T05:19:06.000Z",
+  "checkedAt": null,
+  "id": 30608,
   "identifier": "863ed97e-045a-4df0-8831-769fb26379ce",
   "type": "manga",
   "page": "Mangadex",
@@ -11,38 +12,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 126254,
   "aniId": 117958,
-  "createdAt": "2020-10-12T16:17:09.000Z",
-  "updatedAt": "2021-12-07T05:19:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kirarazaka Jun"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2022-01-12T15:13:10.000Z",
+    "checkedAt": null,
+    "id": 126254,
+    "type": "manga",
+    "title": "Bone Collection",
     "altTitle": [
       "Bone Collection",
       "ボーンコレクション"
     ],
-    "authors": [
-      "Kirarazaka, Jun"
-    ],
-    "id": 126254,
-    "type": "manga",
-    "title": "Bone Collection",
     "url": "https://myanimelist.net/manga/126254/Bone_Collection",
     "image": "https://cdn.myanimelist.net/images/manga/3/233597.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2022-01-12T15:13:10.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kirarazaka, Jun"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:39.526Z",
+    "updatedAt": "2022-05-13T13:06:39.526Z",
+    "checkedAt": null,
+    "id": 117958,
+    "type": "manga",
+    "title": "Bone Collection",
     "altTitle": [
       "Bone Collection",
       "ボーンコレクション"
     ],
+    "url": "https://anilist.co/manga/117958",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117958-x8AXXcQOfIOD.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
@@ -53,21 +66,11 @@
         "url": "https://www.viz.com/shonenjump/chapters/bone-collection"
       }
     ],
+    "malId": 126254,
+    "deletedAt": null,
     "authors": [
       "Jun Kirarazaka",
       "Junko Goda"
-    ],
-    "id": 117958,
-    "malId": 126254,
-    "type": "manga",
-    "title": "Bone Collection",
-    "url": "https://anilist.co/manga/117958",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117958-x8AXXcQOfIOD.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:13.000Z",
-    "updatedAt": "2021-12-18T09:20:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126254/Bone_Collection"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maki Youko"
-  ],
+  "createdAt": "2020-10-12T16:02:28.000Z",
+  "updatedAt": "2021-12-02T07:17:18.000Z",
+  "checkedAt": null,
+  "id": 194,
   "identifier": "969bd595-9624-4172-a594-7b2772c41ecb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55,
   "aniId": 30055,
-  "createdAt": "2020-10-12T16:02:28.000Z",
-  "updatedAt": "2021-12-02T07:17:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maki Youko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T14:24:36.000Z",
+    "checkedAt": "2022-05-15T14:24:36.000Z",
+    "id": 55,
+    "type": "manga",
+    "title": "Aishiteruze Baby★★",
+    "altTitle": [
+      "I Love You, Baby",
+      "Aishiteruze Baby",
+      "愛してるぜ ベイベ★★"
+    ],
+    "url": "https://myanimelist.net/manga/55/Aishiteruze_Baby★★",
+    "image": "https://cdn.myanimelist.net/images/manga/1/166559.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I Love You, Baby",
-      "Aishiteruze Baby",
-      "愛してるぜ ベイベ★★"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maki, Youko"
-    ],
-    "id": 55,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:50.034Z",
+    "updatedAt": "2022-05-15T18:15:59.000Z",
+    "checkedAt": "2022-05-15T18:15:59.000Z",
+    "id": 30055,
     "type": "manga",
     "title": "Aishiteruze Baby★★",
-    "url": "https://myanimelist.net/manga/55/Aishiteruze_Baby★★",
-    "image": "https://cdn.myanimelist.net/images/manga/1/166559.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-06T20:33:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Aishiteruze Baby★★",
       "愛してるぜ ベイベ★★",
@@ -52,21 +61,15 @@
       "I Love You",
       "Baby"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youko Maki"
-    ],
-    "id": 30055,
-    "malId": 55,
-    "type": "manga",
-    "title": "Aishiteruze Baby★★",
     "url": "https://anilist.co/manga/30055",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30055-yfzwEqwJ7HDw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55/Aishiteruze_Baby★★"
+    "externalLinks": [],
+    "malId": 55,
+    "deletedAt": null,
+    "authors": [
+      "Youko Maki"
+    ]
+  }
 }

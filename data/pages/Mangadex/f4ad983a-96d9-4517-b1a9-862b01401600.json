@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Totsuka Masahiro"
-  ],
+  "createdAt": "2020-10-12T16:05:20.000Z",
+  "updatedAt": "2021-12-03T15:48:58.000Z",
+  "checkedAt": null,
+  "id": 6204,
   "identifier": "f4ad983a-96d9-4517-b1a9-862b01401600",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4202,
   "aniId": 34202,
-  "createdAt": "2020-10-12T16:05:20.000Z",
-  "updatedAt": "2021-12-03T15:48:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Totsuka Masahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:57.000Z",
+    "updatedAt": "2021-12-03T12:46:17.000Z",
+    "checkedAt": null,
+    "id": 4202,
+    "type": "manga",
+    "title": "Material Puzzle",
+    "altTitle": [
+      "MatePa",
+      "マテリアル・パズル"
+    ],
+    "url": "https://myanimelist.net/manga/4202/Material_Puzzle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/4875.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MatePa",
-      "マテリアル・パズル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Totsuka, Masahiro"
-    ],
-    "id": 4202,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:28.908Z",
+    "updatedAt": "2022-05-13T12:57:28.908Z",
+    "checkedAt": null,
+    "id": 34202,
     "type": "manga",
     "title": "Material Puzzle",
-    "url": "https://myanimelist.net/manga/4202/Material_Puzzle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/4875.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:57.000Z",
-    "updatedAt": "2021-12-03T12:46:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マテリアル・パズル",
       "Matepa"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masahiro Totsuka"
-    ],
-    "id": 34202,
-    "malId": 4202,
-    "type": "manga",
-    "title": "Material Puzzle",
     "url": "https://anilist.co/manga/34202",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4202.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-03T12:19:37.000Z",
-    "updatedAt": "2021-12-17T11:44:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4202/Material_Puzzle"
+    "externalLinks": [],
+    "malId": 4202,
+    "deletedAt": null,
+    "authors": [
+      "Masahiro Totsuka"
+    ]
+  }
 }

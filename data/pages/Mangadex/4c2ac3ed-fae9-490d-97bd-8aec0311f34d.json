@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Suzuki Suzu",
-    "Suzuki Jirou"
-  ],
+  "createdAt": "2020-10-12T16:08:03.000Z",
+  "updatedAt": "2021-12-04T07:21:39.000Z",
+  "checkedAt": null,
+  "id": 11916,
   "identifier": "4c2ac3ed-fae9-490d-97bd-8aec0311f34d",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 62001,
   "aniId": 85680,
-  "createdAt": "2020-10-12T16:08:03.000Z",
-  "updatedAt": "2021-12-04T07:21:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Suzu",
+    "Suzuki Jirou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:03.000Z",
+    "updatedAt": "2021-11-09T04:44:38.000Z",
+    "checkedAt": null,
+    "id": 62001,
+    "type": "manga",
+    "title": "Gakuen K",
+    "altTitle": [
+      "Academy K",
+      "学園K"
+    ],
+    "url": "https://myanimelist.net/manga/62001/Gakuen_K",
+    "image": "https://cdn.myanimelist.net/images/manga/3/133607.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Academy K",
-      "学園K"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Jirou",
       "GoRA",
       "Suzuki, Suzu"
-    ],
-    "id": 62001,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:25.376Z",
+    "updatedAt": "2022-05-13T12:59:25.376Z",
+    "checkedAt": null,
+    "id": 85680,
     "type": "manga",
     "title": "Gakuen K",
-    "url": "https://myanimelist.net/manga/62001/Gakuen_K",
-    "image": "https://cdn.myanimelist.net/images/manga/3/133607.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:03.000Z",
-    "updatedAt": "2021-11-09T04:44:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Academy K",
       "学園K"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jirou Suzuki",
-      "GoRA",
-      "Suzu Suzuki"
-    ],
-    "id": 85680,
-    "malId": 62001,
-    "type": "manga",
-    "title": "Gakuen K",
     "url": "https://anilist.co/manga/85680",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85680-skwc2TbpruaR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:42.000Z",
-    "updatedAt": "2021-11-09T19:43:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/62001/Gakuen_K"
+    "externalLinks": [],
+    "malId": 62001,
+    "deletedAt": null,
+    "authors": [
+      "Jirou Suzuki",
+      "GoRA",
+      "Suzu Suzuki"
+    ]
+  }
 }

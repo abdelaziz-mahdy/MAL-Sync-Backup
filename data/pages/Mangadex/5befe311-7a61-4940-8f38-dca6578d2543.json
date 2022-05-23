@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "JQ",
-    "Zhena"
-  ],
+  "createdAt": "2020-10-12T16:21:51.000Z",
+  "updatedAt": "2021-12-08T07:12:21.000Z",
+  "checkedAt": null,
+  "id": 40180,
   "identifier": "5befe311-7a61-4940-8f38-dca6578d2543",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 130668,
-  "createdAt": "2020-10-12T16:21:51.000Z",
-  "updatedAt": "2021-12-08T07:12:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "JQ",
+    "Zhena"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:19.716Z",
+    "updatedAt": "2022-05-13T12:53:19.716Z",
+    "checkedAt": null,
+    "id": 130668,
+    "type": "manga",
+    "title": "Yeoreumeun Tteugeopda",
     "altTitle": [
       "여름은 뜨겁다",
       "Summer Is Hot!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "ZKstudio",
-      "Hyun-Min Lee",
-      "Hye-Jin Kim"
-    ],
-    "id": 130668,
-    "malId": null,
-    "type": "manga",
-    "title": "Yeoreumeun Tteugeopda",
     "url": "https://anilist.co/manga/130668",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130668-oypLs9J9Is3Q.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T00:13:08.000Z",
-    "updatedAt": "2021-12-21T17:54:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "ZKstudio",
+      "Hyun-Min Lee",
+      "Hye-Jin Kim"
+    ]
+  }
 }

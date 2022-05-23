@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ugawa Hiroki"
-  ],
+  "createdAt": "2020-10-12T16:07:01.000Z",
+  "updatedAt": "2021-12-04T00:16:27.000Z",
+  "checkedAt": null,
+  "id": 9722,
   "identifier": "13a756d6-030b-479d-8f1b-648dfe9ab016",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3730,
   "aniId": 33730,
-  "createdAt": "2020-10-12T16:07:01.000Z",
-  "updatedAt": "2021-12-04T00:16:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ugawa Hiroki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:53.000Z",
+    "updatedAt": "2022-04-09T23:00:35.000Z",
+    "checkedAt": null,
+    "id": 3730,
+    "type": "manga",
+    "title": "Asagiri no Miko",
+    "altTitle": [
+      "Shrine of the Morning Mist",
+      "朝霧の巫女"
+    ],
+    "url": "https://myanimelist.net/manga/3730/Asagiri_no_Miko",
+    "image": "https://cdn.myanimelist.net/images/manga/1/121975.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shrine of the Morning Mist",
-      "朝霧の巫女"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ugawa, Hiroki"
-    ],
-    "id": 3730,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:05.983Z",
+    "updatedAt": "2022-05-13T13:01:05.983Z",
+    "checkedAt": null,
+    "id": 33730,
     "type": "manga",
     "title": "Asagiri no Miko",
-    "url": "https://myanimelist.net/manga/3730/Asagiri_no_Miko",
-    "image": "https://cdn.myanimelist.net/images/manga/1/121975.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:53.000Z",
-    "updatedAt": "2022-04-09T23:00:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shrine of the Morning Mist",
       "朝霧の巫女"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroki Ugawa"
-    ],
-    "id": 33730,
-    "malId": 3730,
-    "type": "manga",
-    "title": "Asagiri no Miko",
     "url": "https://anilist.co/manga/33730",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33730-epOrGyZV8qmm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:16.000Z",
-    "updatedAt": "2021-12-17T11:36:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3730/Asagiri_no_Miko"
+    "externalLinks": [],
+    "malId": 3730,
+    "deletedAt": null,
+    "authors": [
+      "Hiroki Ugawa"
+    ]
+  }
 }

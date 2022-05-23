@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamato Nase"
-  ],
+  "createdAt": "2020-10-12T16:08:31.000Z",
+  "updatedAt": "2021-12-04T13:20:28.000Z",
+  "checkedAt": null,
+  "id": 12961,
   "identifier": "eb6ca170-cc88-4073-bd92-7d711f945f09",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2255,
   "aniId": 32255,
-  "createdAt": "2020-10-12T16:08:31.000Z",
-  "updatedAt": "2021-12-04T13:20:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamato Nase"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.jmanga.com/savage-innocence/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:42.000Z",
+    "updatedAt": "2022-05-13T21:31:25.000Z",
+    "checkedAt": "2022-05-13T21:31:25.000Z",
+    "id": 2255,
+    "type": "manga",
+    "title": "Yajuu de Hatsukoi",
     "altTitle": [
       "Wild Beast's First Love",
       "The Wonderful Barbershop",
@@ -33,21 +34,29 @@
       "Fuyu! Kakugo no Kurisumasu",
       "Savage Innocence"
     ],
-    "authors": [
-      "Yamato, Nase"
-    ],
-    "id": 2255,
-    "type": "manga",
-    "title": "Yajuu de Hatsukoi",
     "url": "https://myanimelist.net/manga/2255/Yajuu_de_Hatsukoi",
     "image": "https://cdn.myanimelist.net/images/manga/2/29989.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:42.000Z",
-    "updatedAt": "2022-04-04T09:30:52.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jmanga.com/savage-innocence/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamato, Nase"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:33.142Z",
+    "updatedAt": "2022-05-13T13:06:33.142Z",
+    "checkedAt": null,
+    "id": 32255,
+    "type": "manga",
+    "title": "Yajuu de Hatsukoi",
     "altTitle": [
       "Savage Innocence",
       "野獣で初恋",
@@ -56,21 +65,15 @@
       "Suteki na Rihatsuten",
       "Natsu! Koi no Taimingu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nase Yamato"
-    ],
-    "id": 32255,
-    "malId": 2255,
-    "type": "manga",
-    "title": "Yajuu de Hatsukoi",
     "url": "https://anilist.co/manga/32255",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32255-jxwqocbH1Neb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T10:50:30.000Z",
-    "updatedAt": "2021-12-17T10:38:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2255/Yajuu_de_Hatsukoi"
+    "externalLinks": [],
+    "malId": 2255,
+    "deletedAt": null,
+    "authors": [
+      "Nase Yamato"
+    ]
+  }
 }

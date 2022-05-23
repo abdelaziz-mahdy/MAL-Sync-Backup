@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hoshino Yukinobu"
-  ],
+  "createdAt": "2020-10-12T16:16:38.000Z",
+  "updatedAt": "2021-12-07T00:47:34.000Z",
+  "checkedAt": null,
+  "id": 29490,
   "identifier": "234efdc7-438d-449e-9d5f-934583feb49d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121035,
   "aniId": 115051,
-  "createdAt": "2020-10-12T16:16:38.000Z",
-  "updatedAt": "2021-12-07T00:47:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hoshino Yukinobu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-16T01:52:31.000Z",
+    "checkedAt": "2022-05-16T01:52:31.000Z",
+    "id": 121035,
+    "type": "manga",
+    "title": "Kaitei",
+    "altTitle": [
+      "Ocean Adventurer Kaitei",
+      "海帝"
+    ],
+    "url": "https://myanimelist.net/manga/121035/Kaitei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/234408.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ocean Adventurer Kaitei",
-      "海帝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hoshino, Yukinobu"
-    ],
-    "id": 121035,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:13.716Z",
+    "updatedAt": "2022-05-16T01:52:30.000Z",
+    "checkedAt": "2022-05-16T01:52:30.000Z",
+    "id": 115051,
     "type": "manga",
     "title": "Kaitei",
-    "url": "https://myanimelist.net/manga/121035/Kaitei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/234408.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2021-11-24T09:38:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "海帝",
       "Ocean Adventurer Kaitei",
       "Katei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukinobu Hoshino"
-    ],
-    "id": 115051,
-    "malId": 121035,
-    "type": "manga",
-    "title": "Kaitei",
     "url": "https://anilist.co/manga/115051",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115051-sXBv59dz1y4b.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:19.000Z",
-    "updatedAt": "2021-12-18T08:22:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121035/Kaitei"
+    "externalLinks": [],
+    "malId": 121035,
+    "deletedAt": null,
+    "authors": [
+      "Yukinobu Hoshino"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:09.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7444,
   "identifier": "o7vz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35971,
   "aniId": 100255,
-  "createdAt": "2020-10-12T15:54:09.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:55.000Z",
+    "updatedAt": "2022-05-15T04:17:40.000Z",
+    "checkedAt": "2022-05-15T04:17:40.000Z",
+    "id": 35971,
+    "type": "anime",
+    "title": "Onyankopon",
+    "altTitle": [
+      "おにゃんこポン"
+    ],
+    "url": "https://myanimelist.net/anime/35971/Onyankopon",
+    "image": "https://cdn.myanimelist.net/images/anime/6/88375.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,25 +50,23 @@
         "url": "http://www.crunchyroll.com/series-274473"
       }
     ],
-    "altTitle": [
-      "おにゃんこポン"
-    ],
-    "id": 35971,
+    "deletedAt": null,
+    "anidbId": 13294
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:24.000Z",
+    "updatedAt": "2022-05-16T03:52:18.000Z",
+    "checkedAt": "2022-05-16T03:52:18.000Z",
+    "id": 100255,
     "type": "anime",
     "title": "Onyankopon",
-    "url": "https://myanimelist.net/anime/35971/Onyankopon",
-    "image": "https://cdn.myanimelist.net/images/anime/6/88375.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 13294,
-    "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2022-04-03T18:32:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おにゃんこポン"
     ],
+    "url": "https://anilist.co/anime/100255",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100255-AjiWCjSL9LMG.jpg",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Vrv",
@@ -64,17 +77,7 @@
         "url": "https://www.crunchyroll.com/onyankopon"
       }
     ],
-    "id": 100255,
     "malId": 35971,
-    "type": "anime",
-    "title": "Onyankopon",
-    "url": "https://anilist.co/anime/100255",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100255-AjiWCjSL9LMG.jpg",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:24.000Z",
-    "updatedAt": "2021-12-17T15:58:14.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/35971/Onyankopon"
+  }
 }

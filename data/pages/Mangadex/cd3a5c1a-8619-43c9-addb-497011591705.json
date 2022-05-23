@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kannagi Satoru",
-    "Yamamoto Kotetsuko"
-  ],
+  "createdAt": "2020-10-12T16:10:16.000Z",
+  "updatedAt": "2021-12-04T23:49:00.000Z",
+  "checkedAt": null,
+  "id": 16774,
   "identifier": "cd3a5c1a-8619-43c9-addb-497011591705",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102821,
   "aniId": 97866,
-  "createdAt": "2020-10-12T16:10:16.000Z",
-  "updatedAt": "2021-12-04T23:49:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kannagi Satoru",
+    "Yamamoto Kotetsuko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:46.000Z",
+    "updatedAt": "2021-11-17T19:44:14.000Z",
+    "checkedAt": null,
+    "id": 102821,
+    "type": "manga",
+    "title": "Tsukumo no Hanashi",
+    "altTitle": [
+      "つくものはなし"
+    ],
+    "url": "https://myanimelist.net/manga/102821/Tsukumo_no_Hanashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/189829.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "つくものはなし"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kannagi, Satoru",
       "Yamamoto, Kotetsuko"
-    ],
-    "id": 102821,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:02.908Z",
+    "updatedAt": "2022-05-13T12:49:02.908Z",
+    "checkedAt": null,
+    "id": 97866,
     "type": "manga",
     "title": "Tsukumo no Hanashi",
-    "url": "https://myanimelist.net/manga/102821/Tsukumo_no_Hanashi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/189829.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:46.000Z",
-    "updatedAt": "2021-11-17T19:44:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "つくものはなし"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoru Kannagi",
-      "Kotetsuko Yamamoto"
-    ],
-    "id": 97866,
-    "malId": 102821,
-    "type": "manga",
-    "title": "Tsukumo no Hanashi",
     "url": "https://anilist.co/manga/97866",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97866-DfcX3ki591QB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:01.000Z",
-    "updatedAt": "2021-12-18T02:20:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102821/Tsukumo_no_Hanashi"
+    "externalLinks": [],
+    "malId": 102821,
+    "deletedAt": null,
+    "authors": [
+      "Satoru Kannagi",
+      "Kotetsuko Yamamoto"
+    ]
+  }
 }

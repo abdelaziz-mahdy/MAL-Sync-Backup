@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10845,
   "identifier": "yv0z",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 459,
   "aniId": 459,
-  "createdAt": "2020-10-12T15:56:57.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:04.000Z",
+    "updatedAt": "2022-05-14T09:27:09.000Z",
+    "checkedAt": "2022-05-14T09:27:09.000Z",
+    "id": 459,
+    "type": "anime",
+    "title": "One Piece Movie 01",
+    "altTitle": [
+      "One Piece: The Movie",
+      "ONE PIECE"
+    ],
+    "url": "https://myanimelist.net/anime/459/One_Piece_Movie_01",
+    "image": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,23 +46,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "One Piece: The Movie",
-      "ONE PIECE"
-    ],
+    "deletedAt": null,
+    "anidbId": 411
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:44.000Z",
+    "updatedAt": "2022-05-15T12:52:11.000Z",
+    "checkedAt": "2022-05-15T12:52:11.000Z",
     "id": 459,
     "type": "anime",
-    "title": "One Piece Movie 01",
-    "url": "https://myanimelist.net/anime/459/One_Piece_Movie_01",
-    "image": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 411,
-    "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2022-05-02T21:01:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "ONE PIECE (Movie)",
     "altTitle": [
       "ONE PIECE: The Movie",
       "ONE PIECE (Movie)",
@@ -54,18 +63,12 @@
       "One Piece (2000)",
       "One Piece: La Película"
     ],
-    "externalLinks": [],
-    "id": 459,
-    "malId": 459,
-    "type": "anime",
-    "title": "ONE PIECE (Movie)",
     "url": "https://anilist.co/anime/459",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx459-2OTwLud8OnFA.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:44.000Z",
-    "updatedAt": "2022-05-06T04:00:47.000Z",
+    "externalLinks": [],
+    "malId": 459,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/459/One_Piece_Movie_01"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kakine"
-  ],
+  "createdAt": "2020-10-12T16:06:42.000Z",
+  "updatedAt": "2021-12-03T21:51:29.000Z",
+  "checkedAt": null,
+  "id": 9031,
   "identifier": "0759dac7-575b-4eb2-83b8-0c40eb79b4af",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57805,
   "aniId": 88502,
-  "createdAt": "2020-10-12T16:06:42.000Z",
-  "updatedAt": "2021-12-03T21:51:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kakine"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:52.000Z",
+    "updatedAt": "2021-12-18T06:48:26.000Z",
+    "checkedAt": null,
+    "id": 57805,
+    "type": "manga",
+    "title": "Hatsukoi",
     "altTitle": [
       "Hatsu Koi",
       "Himekuri Koimekuri",
@@ -27,21 +33,24 @@
       "No Entry!",
       "ハツこい"
     ],
-    "authors": [
-      "Kakine"
-    ],
-    "id": 57805,
-    "type": "manga",
-    "title": "Hatsukoi",
     "url": "https://myanimelist.net/manga/57805/Hatsukoi",
     "image": "https://cdn.myanimelist.net/images/manga/5/104183.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2021-12-18T06:48:26.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kakine"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:58.353Z",
+    "updatedAt": "2022-05-13T12:59:58.353Z",
+    "checkedAt": null,
+    "id": 88502,
+    "type": "manga",
+    "title": "Hatsukoi",
     "altTitle": [
       "ハツこい",
       "Hatsu Koi",
@@ -51,21 +60,15 @@
       "Knocking",
       "No Entry!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kakine"
-    ],
-    "id": 88502,
-    "malId": 57805,
-    "type": "manga",
-    "title": "Hatsukoi",
     "url": "https://anilist.co/manga/88502",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88502-iKHACJJlAN8z.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:50:32.000Z",
-    "updatedAt": "2021-12-17T23:32:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57805/Hatsukoi"
+    "externalLinks": [],
+    "malId": 57805,
+    "deletedAt": null,
+    "authors": [
+      "Kakine"
+    ]
+  }
 }

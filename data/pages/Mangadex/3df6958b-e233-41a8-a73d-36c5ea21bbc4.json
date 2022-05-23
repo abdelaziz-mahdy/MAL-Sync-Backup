@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Fuetsudo",
-    "Ichimura Hitoshi"
-  ],
+  "createdAt": "2020-10-12T16:17:14.000Z",
+  "updatedAt": "2021-12-07T06:17:13.000Z",
+  "checkedAt": null,
+  "id": 30750,
   "identifier": "3df6958b-e233-41a8-a73d-36c5ea21bbc4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121875,
   "aniId": 111973,
-  "createdAt": "2020-10-12T16:17:14.000Z",
-  "updatedAt": "2021-12-07T06:17:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fuetsudo",
+    "Ichimura Hitoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:08.000Z",
+    "updatedAt": "2021-11-24T15:35:58.000Z",
+    "checkedAt": null,
+    "id": 121875,
+    "type": "manga",
+    "title": "Furukoto Fuhito",
+    "altTitle": [
+      "ふることふひと"
+    ],
+    "url": "https://myanimelist.net/manga/121875/Furukoto_Fuhito",
+    "image": "https://cdn.myanimelist.net/images/manga/5/228917.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ふることふひと"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ichimura, Hitoshi",
       "Fuetsudo"
-    ],
-    "id": 121875,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:41.308Z",
+    "updatedAt": "2022-05-13T12:52:41.308Z",
+    "checkedAt": null,
+    "id": 111973,
     "type": "manga",
     "title": "Furukoto Fuhito",
-    "url": "https://myanimelist.net/manga/121875/Furukoto_Fuhito",
-    "image": "https://cdn.myanimelist.net/images/manga/5/228917.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:08.000Z",
-    "updatedAt": "2021-11-24T15:35:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ふることふひと"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fu Etsudo",
-      "Hitoshi Ichimura"
-    ],
-    "id": 111973,
-    "malId": 121875,
-    "type": "manga",
-    "title": "Furukoto Fuhito",
     "url": "https://anilist.co/manga/111973",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111973-kV0KXAAk1yYU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:26.000Z",
-    "updatedAt": "2021-12-18T07:24:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121875/Furukoto_Fuhito"
+    "externalLinks": [],
+    "malId": 121875,
+    "deletedAt": null,
+    "authors": [
+      "Fu Etsudo",
+      "Hitoshi Ichimura"
+    ]
+  }
 }

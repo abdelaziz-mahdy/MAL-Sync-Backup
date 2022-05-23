@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Terayamaden"
-  ],
+  "createdAt": "2020-10-12T16:16:11.000Z",
+  "updatedAt": "2021-12-06T20:18:23.000Z",
+  "checkedAt": null,
+  "id": 28551,
   "identifier": "d0d28d86-0acd-4b19-8c8a-e1554adf06b3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33967,
   "aniId": 63967,
-  "createdAt": "2020-10-12T16:16:11.000Z",
-  "updatedAt": "2021-12-06T20:18:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Terayamaden"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:48.000Z",
+    "updatedAt": "2022-02-26T23:49:32.000Z",
+    "checkedAt": null,
+    "id": 33967,
+    "type": "manga",
+    "title": "Pretty Rhythm",
+    "altTitle": [
+      "プリティーリズム"
+    ],
+    "url": "https://myanimelist.net/manga/33967/Pretty_Rhythm",
+    "image": "https://cdn.myanimelist.net/images/manga/1/61877.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "プリティーリズム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asabuki, Mari"
-    ],
-    "id": 33967,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:47.757Z",
+    "updatedAt": "2022-05-13T13:03:47.757Z",
+    "checkedAt": null,
+    "id": 63967,
     "type": "manga",
     "title": "Pretty Rhythm",
-    "url": "https://myanimelist.net/manga/33967/Pretty_Rhythm",
-    "image": "https://cdn.myanimelist.net/images/manga/1/61877.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:48.000Z",
-    "updatedAt": "2022-02-26T23:49:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "プリティーリズム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mari Asabuki"
-    ],
-    "id": 63967,
-    "malId": 33967,
-    "type": "manga",
-    "title": "Pretty Rhythm",
     "url": "https://anilist.co/manga/63967",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33967.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:57.000Z",
-    "updatedAt": "2021-12-17T19:30:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33967/Pretty_Rhythm"
+    "externalLinks": [],
+    "malId": 33967,
+    "deletedAt": null,
+    "authors": [
+      "Mari Asabuki"
+    ]
+  }
 }

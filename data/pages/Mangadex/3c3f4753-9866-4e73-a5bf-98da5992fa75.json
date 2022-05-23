@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Noda Satoru"
-  ],
+  "createdAt": "2020-10-12T16:13:55.000Z",
+  "updatedAt": "2022-01-09T13:52:40.000Z",
+  "checkedAt": null,
+  "id": 23875,
   "identifier": "3c3f4753-9866-4e73-a5bf-98da5992fa75",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 55096,
-  "createdAt": "2020-10-12T16:13:55.000Z",
-  "updatedAt": "2022-01-09T13:52:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Noda Satoru"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:16.081Z",
+    "updatedAt": "2022-05-16T05:58:33.000Z",
+    "checkedAt": "2022-05-16T05:58:33.000Z",
+    "id": 55096,
+    "type": "manga",
+    "title": "Gin no Saji",
     "altTitle": [
       "Silver Spoon",
       "銀の匙",
       "ซิลเวอร์สปูน"
     ],
+    "url": "https://anilist.co/manga/55096",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55096-xdMg0fzQY52d.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 25096,
+    "deletedAt": null,
     "authors": [
       "Hiromu Arakawa",
       "Amanda Haley",
@@ -34,18 +48,6 @@
       "Abigail Blackman",
       "Nicole Ng",
       "Troy Toh"
-    ],
-    "id": 55096,
-    "malId": 25096,
-    "type": "manga",
-    "title": "Gin no Saji",
-    "url": "https://anilist.co/manga/55096",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55096-xdMg0fzQY52d.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:52.000Z",
-    "updatedAt": "2022-03-14T10:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

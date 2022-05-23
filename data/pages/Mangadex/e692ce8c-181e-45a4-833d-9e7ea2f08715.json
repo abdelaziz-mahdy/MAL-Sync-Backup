@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Est Em"
-  ],
+  "createdAt": "2020-10-12T16:06:42.000Z",
+  "updatedAt": "2021-12-03T21:51:39.000Z",
+  "checkedAt": null,
+  "id": 9049,
   "identifier": "e692ce8c-181e-45a4-833d-9e7ea2f08715",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 56307,
   "aniId": 88183,
-  "createdAt": "2020-10-12T16:06:42.000Z",
-  "updatedAt": "2021-12-03T21:51:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Est Em"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-05-19T21:22:42.000Z",
+    "checkedAt": "2022-05-19T21:22:42.000Z",
+    "id": 56307,
+    "type": "manga",
+    "title": "Ippo",
+    "altTitle": [
+      "Step",
+      "IPPO"
+    ],
+    "url": "https://myanimelist.net/manga/56307/Ippo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191343.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Step",
-      "IPPO"
-    ],
+    "deletedAt": null,
     "authors": [
       "est em"
-    ],
-    "id": 56307,
-    "type": "manga",
-    "title": "Ippo",
-    "url": "https://myanimelist.net/manga/56307/Ippo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/191343.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:48.000Z",
-    "updatedAt": "2022-01-18T02:34:56.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:15.141Z",
+    "updatedAt": "2022-05-19T21:22:41.000Z",
+    "checkedAt": "2022-05-19T21:22:41.000Z",
+    "id": 88183,
+    "type": "manga",
+    "title": "IPPO",
     "altTitle": [
       "IPPO",
       "Step",
       "イッポ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "est em"
-    ],
-    "id": 88183,
-    "malId": 56307,
-    "type": "manga",
-    "title": "IPPO",
     "url": "https://anilist.co/manga/88183",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88183-ltS5BgpYAuET.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:27.000Z",
-    "updatedAt": "2022-02-23T22:17:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/56307/Ippo"
+    "externalLinks": [],
+    "malId": 56307,
+    "deletedAt": null,
+    "authors": [
+      "est em"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ima Ichiko"
-  ],
+  "createdAt": "2020-10-12T16:05:04.000Z",
+  "updatedAt": "2021-12-03T10:17:59.000Z",
+  "checkedAt": null,
+  "id": 5654,
   "identifier": "58817a2f-4c7b-4fe1-95ba-3bb3767fff94",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4623,
   "aniId": 34623,
-  "createdAt": "2020-10-12T16:05:04.000Z",
-  "updatedAt": "2021-12-03T10:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ima Ichiko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E6%8A%84"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-17T00:55:16.000Z",
+    "checkedAt": "2022-05-17T00:55:16.000Z",
+    "id": 4623,
+    "type": "manga",
+    "title": "Hyakki Yakoushou",
     "altTitle": [
       "Selected Pandemonium",
       "Hyakki Yakou Shou",
@@ -33,21 +34,29 @@
       "Beyond Twilight",
       "百鬼夜行抄"
     ],
-    "authors": [
-      "Ima, Ichiko"
-    ],
-    "id": 4623,
-    "type": "manga",
-    "title": "Hyakki Yakoushou",
     "url": "https://myanimelist.net/manga/4623/Hyakki_Yakoushou",
     "image": "https://cdn.myanimelist.net/images/manga/4/19666.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-03-13T18:59:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E6%8A%84"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ima, Ichiko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:21.031Z",
+    "updatedAt": "2022-05-17T00:55:15.000Z",
+    "checkedAt": "2022-05-17T00:55:15.000Z",
+    "id": 34623,
+    "type": "manga",
+    "title": "Hyakki Yakou Shou",
     "altTitle": [
       "百鬼夜行抄",
       "Selected Pandemonium",
@@ -57,22 +66,16 @@
       "Beyond Twilight",
       "Le Cortège des cent démons"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichiko Ima",
-      "Sylvain Chollet"
-    ],
-    "id": 34623,
-    "malId": 4623,
-    "type": "manga",
-    "title": "Hyakki Yakou Shou",
     "url": "https://anilist.co/manga/34623",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34623-PdYiV1hpkWo5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:35.000Z",
-    "updatedAt": "2021-12-17T12:08:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4623/Hyakki_Yakoushou"
+    "externalLinks": [],
+    "malId": 4623,
+    "deletedAt": null,
+    "authors": [
+      "Ichiko Ima",
+      "Sylvain Chollet"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Plutus"
-  ],
+  "createdAt": "2021-06-03T06:01:34.000Z",
+  "updatedAt": "2022-05-03T09:02:55.000Z",
+  "checkedAt": null,
+  "id": 76046,
   "identifier": "manga-hu984503",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 139473,
   "aniId": 115302,
-  "createdAt": "2021-06-03T06:01:34.000Z",
-  "updatedAt": "2022-05-03T09:02:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Plutus"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "https://page.kakao.com/home?seriesId=54286072"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-09-03T22:46:30.000Z",
+    "updatedAt": "2022-05-16T01:30:07.000Z",
+    "checkedAt": "2022-05-16T01:30:07.000Z",
+    "id": 139473,
+    "type": "manga",
+    "title": "Harley Takes the House",
     "altTitle": [
       "Beware of the Oppas!",
       "Geu Oppa-deureul Josimhae!",
@@ -32,22 +33,30 @@
       "Harley Takes the House",
       "그 오빠들을 조심해!"
     ],
-    "authors": [
-      "Plutus",
-      "Min, Iyeong"
-    ],
-    "id": 139473,
-    "type": "manga",
-    "title": "Harley Takes the House",
     "url": "https://myanimelist.net/manga/139473/Harley_Takes_the_House",
     "image": "https://cdn.myanimelist.net/images/manga/3/249117.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2021-09-03T22:46:30.000Z",
-    "updatedAt": "2022-03-03T23:10:49.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54286072"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Plutus",
+      "Min, Iyeong"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:46.647Z",
+    "updatedAt": "2022-05-16T01:30:07.000Z",
+    "checkedAt": "2022-05-16T01:30:07.000Z",
+    "id": 115302,
+    "type": "manga",
+    "title": "Geu Oppadeul-eul Josimhae!",
     "altTitle": [
       "Harley Takes the House",
       "그 오빠들을 조심해!",
@@ -62,23 +71,17 @@
       " Oppalardan Sakın!",
       "ระวังพี่ชายพวกนั้นให้ดี!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Plutus",
-      "Min-iyeong",
-      "Spoon"
-    ],
-    "id": 115302,
-    "malId": 139473,
-    "type": "manga",
-    "title": "Geu Oppadeul-eul Josimhae!",
     "url": "https://anilist.co/manga/115302",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115302-CCohsBYdFhR0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T20:12:57.000Z",
-    "updatedAt": "2022-02-11T11:39:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/139473/Harley_Takes_the_House"
+    "externalLinks": [],
+    "malId": 139473,
+    "deletedAt": null,
+    "authors": [
+      "Plutus",
+      "Min-iyeong",
+      "Spoon"
+    ]
+  }
 }

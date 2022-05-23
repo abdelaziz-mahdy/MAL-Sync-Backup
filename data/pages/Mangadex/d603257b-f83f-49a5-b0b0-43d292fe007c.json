@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Wagahara Satoshi",
-    "Mishima Kurone"
-  ],
+  "createdAt": "2020-10-12T16:05:09.000Z",
+  "updatedAt": "2021-12-03T10:47:38.000Z",
+  "checkedAt": null,
+  "id": 5827,
   "identifier": "d603257b-f83f-49a5-b0b0-43d292fe007c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43555,
   "aniId": 73555,
-  "createdAt": "2020-10-12T16:05:09.000Z",
-  "updatedAt": "2021-12-03T10:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Wagahara Satoshi",
+    "Mishima Kurone"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:17.000Z",
+    "updatedAt": "2022-05-20T16:40:51.000Z",
+    "checkedAt": "2022-05-20T16:40:51.000Z",
+    "id": 43555,
+    "type": "manga",
+    "title": "Hataraku Maou-sama! High School!",
+    "altTitle": [
+      "Demon Lord at Work! High School!",
+      "The Devil Is A Part-timer! High School!",
+      "はたらく魔王さま! ハイスクール!"
+    ],
+    "url": "https://myanimelist.net/manga/43555/Hataraku_Maou-sama_High_School",
+    "image": "https://cdn.myanimelist.net/images/manga/3/156923.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Demon Lord at Work! High School!",
-      "The Devil Is A Part-timer! High School!",
-      "はたらく魔王さま! ハイスクール!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Wagahara, Satoshi",
       "Mishima, Kurone"
-    ],
-    "id": 43555,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:20.928Z",
+    "updatedAt": "2022-05-20T16:40:50.000Z",
+    "checkedAt": "2022-05-20T16:40:50.000Z",
+    "id": 73555,
     "type": "manga",
     "title": "Hataraku Maou-sama! High School!",
-    "url": "https://myanimelist.net/manga/43555/Hataraku_Maou-sama_High_School",
-    "image": "https://cdn.myanimelist.net/images/manga/3/156923.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:17.000Z",
-    "updatedAt": "2022-01-19T04:04:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Devil Is A Part-timer! High School!",
       "はたらく魔王さま! ハイスクール!",
@@ -54,23 +63,17 @@
       "Demon Lord at Work! High School!",
       "ผู้กล้าซึนซ่าส์กับจอมมารสู้ชีวิต High School"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Satoshi Wagahara",
-      "Kurone Mishima",
-      "029"
-    ],
-    "id": 73555,
-    "malId": 43555,
-    "type": "manga",
-    "title": "Hataraku Maou-sama! High School!",
     "url": "https://anilist.co/manga/73555",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73555-noZcW3aSP8KH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:57.000Z",
-    "updatedAt": "2022-01-22T21:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/43555/Hataraku_Maou-sama_High_School"
+    "externalLinks": [],
+    "malId": 43555,
+    "deletedAt": null,
+    "authors": [
+      "Satoshi Wagahara",
+      "Kurone Mishima",
+      "029"
+    ]
+  }
 }

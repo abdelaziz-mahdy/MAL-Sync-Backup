@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:59:54.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16648,
   "identifier": "azumanga-daioh",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 66,
   "aniId": 66,
-  "createdAt": "2020-10-12T15:59:54.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T09:52:44.000Z",
+    "checkedAt": "2022-05-14T09:52:44.000Z",
+    "id": 66,
+    "type": "anime",
+    "title": "Azumanga Daioh",
+    "altTitle": [
+      "Azumanga Daiou",
+      "Azumanga Daioh: The Animation",
+      "あずまんが大王 THE ANIMATION"
+    ],
+    "url": "https://myanimelist.net/anime/66/Azumanga_Daioh",
+    "image": "https://cdn.myanimelist.net/images/anime/1/66.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,29 +56,25 @@
         "url": "https://www.hidive.com/tv/azumanga-daioh"
       }
     ],
-    "altTitle": [
-      "Azumanga Daiou",
-      "Azumanga Daioh: The Animation",
-      "あずまんが大王 THE ANIMATION"
-    ],
+    "deletedAt": null,
+    "anidbId": 106
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T09:40:11.000Z",
+    "checkedAt": "2022-05-15T09:40:11.000Z",
     "id": 66,
     "type": "anime",
-    "title": "Azumanga Daioh",
-    "url": "https://myanimelist.net/anime/66/Azumanga_Daioh",
-    "image": "https://cdn.myanimelist.net/images/anime/1/66.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 106,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-05-02T01:32:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Azumanga Daiou THE ANIMATION",
     "altTitle": [
       "Azumanga Daioh",
       "あずまんが大王 THE ANIMATION",
       "Azumanga Daioh"
     ],
+    "url": "https://anilist.co/anime/66",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-1LTNhVTnttZv.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -72,17 +85,7 @@
         "url": "https://vrv.co/series/GRNVP1W86/Azumanga-Daioh"
       }
     ],
-    "id": 66,
     "malId": 66,
-    "type": "anime",
-    "title": "Azumanga Daiou THE ANIMATION",
-    "url": "https://anilist.co/anime/66",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-1LTNhVTnttZv.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-04-12T05:07:23.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/66/Azumanga_Daioh"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Zappa Go",
-    "Meguro Sankichi"
-  ],
+  "createdAt": "2020-10-12T16:03:45.000Z",
+  "updatedAt": "2021-12-02T16:46:57.000Z",
+  "checkedAt": null,
+  "id": 2918,
   "identifier": "a821e1b2-eea8-463b-b1ba-3f49478c4aaa",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11684,
   "aniId": 41684,
-  "createdAt": "2020-10-12T16:03:45.000Z",
-  "updatedAt": "2021-12-02T16:46:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zappa Go",
+    "Meguro Sankichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:35.000Z",
+    "updatedAt": "2022-05-19T23:32:20.000Z",
+    "checkedAt": "2022-05-19T23:32:20.000Z",
+    "id": 11684,
+    "type": "manga",
+    "title": "Domina no Do!",
+    "altTitle": [
+      "Dominanodo!",
+      "どみなのド！"
+    ],
+    "url": "https://myanimelist.net/manga/11684/Domina_no_Do",
+    "image": "https://cdn.myanimelist.net/images/manga/1/65839.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dominanodo!",
-      "どみなのド！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Zappa, Gou",
       "Meguro, Sankichi"
-    ],
-    "id": 11684,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:44.998Z",
+    "updatedAt": "2022-05-19T23:32:20.000Z",
+    "checkedAt": "2022-05-19T23:32:20.000Z",
+    "id": 41684,
     "type": "manga",
     "title": "Domina no Do!",
-    "url": "https://myanimelist.net/manga/11684/Domina_no_Do",
-    "image": "https://cdn.myanimelist.net/images/manga/1/65839.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:35.000Z",
-    "updatedAt": "2021-12-21T07:53:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "どみなのド！",
       "Dominanodo!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Zappa",
-      "Sankichi Meguro"
-    ],
-    "id": 41684,
-    "malId": 11684,
-    "type": "manga",
-    "title": "Domina no Do!",
     "url": "https://anilist.co/manga/41684",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41684-3mCZy8lJvIEM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:12.000Z",
-    "updatedAt": "2021-12-17T14:36:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11684/Domina_no_Do"
+    "externalLinks": [],
+    "malId": 11684,
+    "deletedAt": null,
+    "authors": [
+      "Gou Zappa",
+      "Sankichi Meguro"
+    ]
+  }
 }

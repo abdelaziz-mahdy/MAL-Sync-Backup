@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "김강원"
-  ],
+  "createdAt": "2020-10-12T16:03:23.000Z",
+  "updatedAt": "2021-12-02T14:18:28.000Z",
+  "checkedAt": null,
+  "id": 2116,
   "identifier": "01bced4a-4ce7-4309-8e98-a9fc1c89f5c6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 549,
   "aniId": 30549,
-  "createdAt": "2020-10-12T16:03:23.000Z",
-  "updatedAt": "2021-12-02T14:18:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "김강원"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-13T16:24:02.000Z",
+    "checkedAt": "2022-05-13T16:24:02.000Z",
+    "id": 549,
+    "type": "manga",
+    "title": "The Queen's Knight",
+    "altTitle": [
+      "Queen's Knight",
+      "The Queens Knight",
+      "The Queen's Knight",
+      "여왕의 기사"
+    ],
+    "url": "https://myanimelist.net/manga/549/The_Queens_Knight",
+    "image": "https://cdn.myanimelist.net/images/manga/5/1543.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Queen's Knight",
-      "The Queens Knight",
-      "The Queen's Knight",
-      "여왕의 기사"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Kang-Won"
-    ],
-    "id": 549,
-    "type": "manga",
-    "title": "The Queen's Knight",
-    "url": "https://myanimelist.net/manga/549/The_Queens_Knight",
-    "image": "https://cdn.myanimelist.net/images/manga/5/1543.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-01-25T18:30:32.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:41.130Z",
+    "updatedAt": "2022-05-13T12:50:41.130Z",
+    "checkedAt": null,
+    "id": 30549,
+    "type": "manga",
+    "title": "Yeowang-ui Gisa",
     "altTitle": [
       "The Queen's Knight",
       "여왕의 기사",
       "Queen's Knight",
       "The Queens Knight"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kang-Won Kim"
-    ],
-    "id": 30549,
-    "malId": 549,
-    "type": "manga",
-    "title": "Yeowang-ui Gisa",
     "url": "https://anilist.co/manga/30549",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30549-yvfUpeCi0LgO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-17T09:12:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/549/The_Queens_Knight"
+    "externalLinks": [],
+    "malId": 549,
+    "deletedAt": null,
+    "authors": [
+      "Kang-Won Kim"
+    ]
+  }
 }

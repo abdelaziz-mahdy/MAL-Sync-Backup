@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Miura Shion",
-    "Unno Sorata"
-  ],
+  "createdAt": "2020-10-12T16:15:08.000Z",
+  "updatedAt": "2021-12-06T11:17:18.000Z",
+  "checkedAt": null,
+  "id": 26367,
   "identifier": "c2d0f51e-992a-4fec-bb3f-49e1b37544c5",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 66241,
   "aniId": 90367,
-  "createdAt": "2020-10-12T16:15:08.000Z",
-  "updatedAt": "2021-12-06T11:17:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Shion",
+    "Unno Sorata"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:09.000Z",
+    "updatedAt": "2022-05-17T15:24:21.000Z",
+    "checkedAt": "2022-05-17T15:24:21.000Z",
+    "id": 66241,
+    "type": "manga",
+    "title": "Kaze ga Tsuyoku Fuiteiru",
+    "altTitle": [
+      "風が強く吹いている"
+    ],
+    "url": "https://myanimelist.net/manga/66241/Kaze_ga_Tsuyoku_Fuiteiru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/115975.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "風が強く吹いている"
-    ],
+    "deletedAt": null,
     "authors": [
       "Unno, Sorata",
       "Miura, Shion"
-    ],
-    "id": 66241,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:32.718Z",
+    "updatedAt": "2022-05-17T15:24:20.000Z",
+    "checkedAt": "2022-05-17T15:24:20.000Z",
+    "id": 90367,
     "type": "manga",
     "title": "Kaze ga Tsuyoku Fuiteiru",
-    "url": "https://myanimelist.net/manga/66241/Kaze_ga_Tsuyoku_Fuiteiru",
-    "image": "https://cdn.myanimelist.net/images/manga/3/115975.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:09.000Z",
-    "updatedAt": "2021-11-09T17:44:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "風が強く吹いている",
       "Kaze ga Tsuyoku Fuite Iru"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shion Miura",
-      "Sorata Unno"
-    ],
-    "id": 90367,
-    "malId": 66241,
-    "type": "manga",
-    "title": "Kaze ga Tsuyoku Fuiteiru",
     "url": "https://anilist.co/manga/90367",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90367-cckorZoqRhTe.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:57.000Z",
-    "updatedAt": "2021-12-17T00:48:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/66241/Kaze_ga_Tsuyoku_Fuiteiru"
+    "externalLinks": [],
+    "malId": 66241,
+    "deletedAt": null,
+    "authors": [
+      "Shion Miura",
+      "Sorata Unno"
+    ]
+  }
 }

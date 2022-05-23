@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Meiji Kanako"
-  ],
+  "createdAt": "2021-01-05T19:57:19.000Z",
+  "updatedAt": "2021-12-08T10:06:10.000Z",
+  "checkedAt": null,
+  "id": 57380,
   "identifier": "a9c56208-89df-4446-98ea-d31e9a67ad71",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115984,
   "aniId": 111612,
-  "createdAt": "2021-01-05T19:57:19.000Z",
-  "updatedAt": "2021-12-08T10:06:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Meiji Kanako"
+  ],
   "Mal": {
+    "createdAt": "2021-01-05T19:57:16.000Z",
+    "updatedAt": "2022-01-05T20:17:53.000Z",
+    "checkedAt": null,
+    "id": 115984,
+    "type": "manga",
+    "title": "Ippen Sekai",
+    "altTitle": [
+      "一変世界"
+    ],
+    "url": "https://myanimelist.net/manga/115984/Ippen_Sekai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/221437.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "一変世界"
-    ],
+    "deletedAt": null,
     "authors": [
       "Meiji, Kanako"
-    ],
-    "id": 115984,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:18.806Z",
+    "updatedAt": "2022-05-13T13:06:18.806Z",
+    "checkedAt": null,
+    "id": 111612,
     "type": "manga",
     "title": "Ippen Sekai",
-    "url": "https://myanimelist.net/manga/115984/Ippen_Sekai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/221437.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-05T19:57:16.000Z",
-    "updatedAt": "2022-01-05T20:17:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "一変世界"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kanako Meiji"
-    ],
-    "id": 111612,
-    "malId": 115984,
-    "type": "manga",
-    "title": "Ippen Sekai",
     "url": "https://anilist.co/manga/111612",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111612-a5SrhNIptlQn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:21.000Z",
-    "updatedAt": "2021-12-18T07:22:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115984/Ippen_Sekai"
+    "externalLinks": [],
+    "malId": 115984,
+    "deletedAt": null,
+    "authors": [
+      "Kanako Meiji"
+    ]
+  }
 }

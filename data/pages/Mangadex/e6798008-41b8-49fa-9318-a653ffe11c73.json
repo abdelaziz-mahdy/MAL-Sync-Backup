@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawanaka Yasushi"
-  ],
+  "createdAt": "2020-10-12T16:20:42.000Z",
+  "updatedAt": "2021-12-08T01:12:43.000Z",
+  "checkedAt": null,
+  "id": 37744,
   "identifier": "e6798008-41b8-49fa-9318-a653ffe11c73",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 124123,
   "aniId": 113349,
-  "createdAt": "2020-10-12T16:20:42.000Z",
-  "updatedAt": "2021-12-08T01:12:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawanaka Yasushi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2022-04-25T12:01:48.000Z",
+    "checkedAt": null,
+    "id": 124123,
+    "type": "manga",
+    "title": "Onegai, Nugashite.",
+    "altTitle": [
+      "Please, Take It Off.",
+      "お願い、脱がシて。"
+    ],
+    "url": "https://myanimelist.net/manga/124123/Onegai_Nugashite",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226569.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Please, Take It Off.",
-      "お願い、脱がシて。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawanaka, Yasushi"
-    ],
-    "id": 124123,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:24.305Z",
+    "updatedAt": "2022-05-13T13:01:24.305Z",
+    "checkedAt": null,
+    "id": 113349,
     "type": "manga",
     "title": "Onegai, Nugashite.",
-    "url": "https://myanimelist.net/manga/124123/Onegai_Nugashite",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226569.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:12.000Z",
-    "updatedAt": "2022-04-25T12:01:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "お願い、脱がシて",
       "Please, Take It Off."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasushi Kawanaka"
-    ],
-    "id": 113349,
-    "malId": 124123,
-    "type": "manga",
-    "title": "Onegai, Nugashite.",
     "url": "https://anilist.co/manga/113349",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113349-v7a5JuChoExo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:03.000Z",
-    "updatedAt": "2021-12-18T07:52:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124123/Onegai_Nugashite"
+    "externalLinks": [],
+    "malId": 124123,
+    "deletedAt": null,
+    "authors": [
+      "Yasushi Kawanaka"
+    ]
+  }
 }

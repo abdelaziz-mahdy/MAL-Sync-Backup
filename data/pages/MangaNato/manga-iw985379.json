@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kanehito Yamada",
-    "Abe Tsukasa"
-  ],
+  "createdAt": "2021-05-28T19:56:04.000Z",
+  "updatedAt": "2022-05-16T15:14:37.000Z",
+  "checkedAt": "2022-05-16T15:14:26.000Z",
+  "id": 72948,
   "identifier": "manga-iw985379",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 126287,
   "aniId": 118586,
-  "createdAt": "2021-05-28T19:56:04.000Z",
-  "updatedAt": "2021-11-28T20:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanehito Yamada",
+    "Abe Tsukasa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2022-05-14T17:57:05.000Z",
+    "checkedAt": "2022-05-14T17:57:05.000Z",
+    "id": 126287,
+    "type": "manga",
+    "title": "Sousou no Frieren",
+    "altTitle": [
+      "Frieren at the Funeral",
+      "Frieren: Beyond Journey's End",
+      "葬送のフリーレン"
+    ],
+    "url": "https://myanimelist.net/manga/126287/Sousou_no_Frieren",
+    "image": "https://cdn.myanimelist.net/images/manga/3/232121.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,27 +47,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Frieren at the Funeral",
-      "Frieren: Beyond Journey's End",
-      "葬送のフリーレン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Kanehito",
       "Abe, Tsukasa"
-    ],
-    "id": 126287,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:35.193Z",
+    "updatedAt": "2022-05-15T14:02:35.000Z",
+    "checkedAt": "2022-05-15T14:02:35.000Z",
+    "id": 118586,
     "type": "manga",
     "title": "Sousou no Frieren",
-    "url": "https://myanimelist.net/manga/126287/Sousou_no_Frieren",
-    "image": "https://cdn.myanimelist.net/images/manga/3/232121.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2022-04-06T06:30:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Frieren: Beyond Journey’s End",
       "葬送のフリーレン",
@@ -62,23 +71,17 @@
       "Frieren – Nach dem Ende der Reise",
       "葬送的芙莉蓮"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kanehito Yamada",
-      "Tsukasa Abe",
-      "Misa"
-    ],
-    "id": 118586,
-    "malId": 126287,
-    "type": "manga",
-    "title": "Sousou no Frieren",
     "url": "https://anilist.co/manga/118586",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118586-F0Lp86XQV7du.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:13.000Z",
-    "updatedAt": "2022-04-10T14:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/126287/Sousou_no_Frieren"
+    "externalLinks": [],
+    "malId": 126287,
+    "deletedAt": null,
+    "authors": [
+      "Kanehito Yamada",
+      "Tsukasa Abe",
+      "Misa"
+    ]
+  }
 }

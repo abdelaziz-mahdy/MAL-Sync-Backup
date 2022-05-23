@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NIHEI Tsutomu"
-  ],
+  "createdAt": "2022-05-07T02:31:25.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T20:06:59.000Z",
+  "id": 102958,
   "identifier": "abara",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,64 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/414/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T02:31:25.000Z",
-  "updatedAt": "2022-05-07T02:31:25.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 1400,
+  "aniId": 31400,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "NIHEI Tsutomu"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:33.000Z",
+    "updatedAt": "2022-05-13T20:07:03.000Z",
+    "checkedAt": "2022-05-13T20:07:03.000Z",
+    "id": 1400,
+    "type": "manga",
+    "title": "Abara",
+    "altTitle": [
+      "Digimortal",
+      "Abara",
+      "アバラ"
+    ],
+    "url": "https://myanimelist.net/manga/1400/Abara",
+    "image": "https://cdn.myanimelist.net/images/manga/3/171728.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ABARA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nihei, Tsutomu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.325Z",
+    "updatedAt": "2022-05-16T08:05:02.000Z",
+    "checkedAt": "2022-05-16T08:05:02.000Z",
+    "id": 31400,
+    "type": "manga",
+    "title": "Abara",
+    "altTitle": [
+      "アバラ",
+      "Digimortal"
+    ],
+    "url": "https://anilist.co/manga/31400",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31400-6It6WXftUVN3.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1400,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Nihei",
+      "Sheldon Drzka",
+      "Paweł Dybała"
+    ]
+  }
 }

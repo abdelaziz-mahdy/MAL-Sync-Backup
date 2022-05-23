@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Waka Hirako"
-  ],
+  "createdAt": "2020-10-12T16:16:37.000Z",
+  "updatedAt": "2021-12-07T00:18:14.000Z",
+  "checkedAt": null,
+  "id": 29473,
   "identifier": "147c9906-343e-4b16-ae64-5a8974a623a6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123812,
   "aniId": 112579,
-  "createdAt": "2020-10-12T16:16:37.000Z",
-  "updatedAt": "2021-12-07T00:18:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Waka Hirako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-14T19:56:35.000Z",
+    "checkedAt": "2022-05-14T19:56:35.000Z",
+    "id": 123812,
+    "type": "manga",
+    "title": "My Broken Mariko",
+    "altTitle": [
+      "Yiska",
+      "マイ・ブロークン・マリコ"
+    ],
+    "url": "https://myanimelist.net/manga/123812/My_Broken_Mariko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226196.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yiska",
-      "マイ・ブロークン・マリコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hirako, Waka"
-    ],
-    "id": 123812,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:12.805Z",
+    "updatedAt": "2022-05-15T18:26:47.000Z",
+    "checkedAt": "2022-05-15T18:26:47.000Z",
+    "id": 112579,
     "type": "manga",
     "title": "My Broken Mariko",
-    "url": "https://myanimelist.net/manga/123812/My_Broken_Mariko",
-    "image": "https://cdn.myanimelist.net/images/manga/3/226196.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-04-28T05:02:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "My Broken Mariko",
       "マイ・ブロークン・マリコ"
     ],
+    "url": "https://anilist.co/manga/112579",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112579-STxOi2dwQmTZ.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 123812,
+    "deletedAt": null,
     "authors": [
       "Waka Hirako",
       "Amanda Haley",
       "Abigail Blackman",
       "Alex Ponthaut",
       "Marc Bernabé"
-    ],
-    "id": 112579,
-    "malId": 123812,
-    "type": "manga",
-    "title": "My Broken Mariko",
-    "url": "https://anilist.co/manga/112579",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112579-STxOi2dwQmTZ.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-14T00:18:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123812/My_Broken_Mariko"
+    ]
+  }
 }

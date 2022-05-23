@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nanase Aoi"
-  ],
+  "createdAt": "2020-10-12T16:04:41.000Z",
+  "updatedAt": "2021-12-02T22:48:07.000Z",
+  "checkedAt": null,
+  "id": 4820,
   "identifier": "fd7e6a94-5c43-4e5a-809e-ebf9d3f68599",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 295,
   "aniId": 30295,
-  "createdAt": "2020-10-12T16:04:41.000Z",
-  "updatedAt": "2021-12-02T22:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nanase Aoi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-04-26T03:30:27.000Z",
+    "checkedAt": null,
+    "id": 295,
+    "type": "manga",
+    "title": "Angel/Dust Neo",
+    "altTitle": [
+      "ANGEL/DUST neo"
+    ],
+    "url": "https://myanimelist.net/manga/295/Angel_Dust_Neo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179774.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ANGEL/DUST neo"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nanase, Aoi"
-    ],
-    "id": 295,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:58.326Z",
+    "updatedAt": "2022-05-13T12:50:58.326Z",
+    "checkedAt": null,
+    "id": 30295,
     "type": "manga",
     "title": "Angel/Dust Neo",
-    "url": "https://myanimelist.net/manga/295/Angel_Dust_Neo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/179774.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-26T03:30:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エンジェル/ダストネオ",
       "Angel Dust Neo",
       "エンジェルダストネオ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aoi Nanase"
-    ],
-    "id": 30295,
-    "malId": 295,
-    "type": "manga",
-    "title": "Angel/Dust Neo",
     "url": "https://anilist.co/manga/30295",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30295-VHpFTZ9Cvi2Y.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/295/Angel_Dust_Neo"
+    "externalLinks": [],
+    "malId": 295,
+    "deletedAt": null,
+    "authors": [
+      "Aoi Nanase"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shinohara Kenta"
-  ],
+  "createdAt": "2021-06-15T17:27:33.000Z",
+  "updatedAt": "2021-12-15T18:18:24.000Z",
+  "checkedAt": null,
+  "id": 78324,
   "identifier": "manga-bx978606",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98578,
   "aniId": 87442,
-  "createdAt": "2021-06-15T17:27:33.000Z",
-  "updatedAt": "2021-12-15T18:18:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shinohara Kenta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2022-05-14T09:34:10.000Z",
+    "checkedAt": "2022-05-14T09:34:10.000Z",
+    "id": 98578,
+    "type": "manga",
+    "title": "Kanata no Astra",
+    "altTitle": [
+      "Astra Lost in Space",
+      "彼方のアストラ"
+    ],
+    "url": "https://myanimelist.net/manga/98578/Kanata_no_Astra",
+    "image": "https://cdn.myanimelist.net/images/manga/3/180039.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Astra Lost in Space",
-      "彼方のアストラ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinohara, Kenta"
-    ],
-    "id": 98578,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.593Z",
+    "updatedAt": "2022-05-15T20:39:11.000Z",
+    "checkedAt": "2022-05-15T20:39:11.000Z",
+    "id": 87442,
     "type": "manga",
     "title": "Kanata no Astra",
-    "url": "https://myanimelist.net/manga/98578/Kanata_no_Astra",
-    "image": "https://cdn.myanimelist.net/images/manga/3/180039.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2022-03-30T17:01:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Astra Lost in Space",
       "彼方のアストラ"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/astra-lost-in-space"
-      }
-    ],
-    "authors": [
-      "Kenta Shinohara",
-      "Arnaldo Oka"
-    ],
-    "id": 87442,
-    "malId": 98578,
-    "type": "manga",
-    "title": "Kanata no Astra",
     "url": "https://anilist.co/manga/87442",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87442-hLlQTsu1hXC0.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:39.000Z",
-    "updatedAt": "2021-11-26T15:05:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98578/Kanata_no_Astra"
+    "externalLinks": [],
+    "malId": 98578,
+    "deletedAt": null,
+    "authors": [
+      "Kenta Shinohara",
+      "Arnaldo Oka"
+    ]
+  }
 }

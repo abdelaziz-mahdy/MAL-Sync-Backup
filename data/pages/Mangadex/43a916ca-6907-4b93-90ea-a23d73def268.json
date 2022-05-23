@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sawae Pump"
-  ],
+  "createdAt": "2020-10-12T16:12:43.000Z",
+  "updatedAt": "2021-12-05T17:22:19.000Z",
+  "checkedAt": null,
+  "id": 21432,
   "identifier": "43a916ca-6907-4b93-90ea-a23d73def268",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112169,
   "aniId": 114887,
-  "createdAt": "2020-10-12T16:12:43.000Z",
-  "updatedAt": "2021-12-05T17:22:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sawae Pump"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T16:21:08.000Z",
+    "updatedAt": "2022-05-18T04:06:17.000Z",
+    "checkedAt": "2022-05-18T04:06:17.000Z",
+    "id": 112169,
+    "type": "manga",
+    "title": "Panda Tanteisha",
+    "altTitle": [
+      "Panda Detective Agency",
+      "パンダ探偵社"
+    ],
+    "url": "https://myanimelist.net/manga/112169/Panda_Tanteisha",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224920.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Panda Detective Agency",
-      "パンダ探偵社"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sawae, Pump"
-    ],
-    "id": 112169,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:35.454Z",
+    "updatedAt": "2022-05-18T04:06:16.000Z",
+    "checkedAt": "2022-05-18T04:06:16.000Z",
+    "id": 114887,
     "type": "manga",
     "title": "Panda Tanteisha",
-    "url": "https://myanimelist.net/manga/112169/Panda_Tanteisha",
-    "image": "https://cdn.myanimelist.net/images/manga/3/224920.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T16:21:08.000Z",
-    "updatedAt": "2021-12-05T16:49:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "パンダ探偵社",
       "Panda Detective Agency",
       "Panda Detective Company",
       "Panda Tantei-sha"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Pomp Sawae"
-    ],
-    "id": 114887,
-    "malId": 112169,
-    "type": "manga",
-    "title": "Panda Tanteisha",
     "url": "https://anilist.co/manga/114887",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114887-Naly9dkINUL8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T16:21:08.000Z",
-    "updatedAt": "2021-12-18T08:21:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112169/Panda_Tanteisha"
+    "externalLinks": [],
+    "malId": 112169,
+    "deletedAt": null,
+    "authors": [
+      "Pomp Sawae"
+    ]
+  }
 }

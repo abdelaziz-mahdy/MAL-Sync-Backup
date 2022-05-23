@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AKAHORI Satoru"
-  ],
+  "createdAt": "2022-05-08T22:02:05.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T19:53:03.000Z",
+  "id": 103341,
   "identifier": "saber_marionette_j",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,63 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/4556/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-08T22:02:05.000Z",
-  "updatedAt": "2022-05-08T22:02:05.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 506,
+  "aniId": 30506,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "AKAHORI Satoru"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-13T19:53:05.000Z",
+    "checkedAt": "2022-05-13T19:53:05.000Z",
+    "id": 506,
+    "type": "manga",
+    "title": "Saber Marionette J",
+    "altTitle": [
+      "Saber Marionette J",
+      "セイバーマリオネットJ"
+    ],
+    "url": "https://myanimelist.net/manga/506/Saber_Marionette_J",
+    "image": "https://cdn.myanimelist.net/images/manga/3/138531.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Akahori, Satoru",
+      "Kotoyoshi, Yumisuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:46.926Z",
+    "updatedAt": "2022-05-18T13:09:04.000Z",
+    "checkedAt": "2022-05-18T13:09:04.000Z",
+    "id": 30506,
+    "type": "manga",
+    "title": "Saber Marionette J",
+    "altTitle": [
+      "Saber Marionette J",
+      "セイバーマリオネットＪ"
+    ],
+    "url": "https://anilist.co/manga/30506",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30506-HbftynkLNZp3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 506,
+    "deletedAt": null,
+    "authors": [
+      "Satoru Akahori",
+      "Yumisuke Kotoyoshi"
+    ]
+  }
 }

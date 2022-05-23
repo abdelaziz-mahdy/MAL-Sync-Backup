@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:48.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5661,
   "identifier": "kx19",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 1988,
   "aniId": 1988,
-  "createdAt": "2020-10-12T15:52:48.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:24.000Z",
+    "updatedAt": "2022-05-15T07:17:16.000Z",
+    "checkedAt": "2022-05-15T07:17:16.000Z",
+    "id": 1988,
+    "type": "anime",
+    "title": "Himawari!!",
+    "altTitle": [
+      "Himawari Too!!",
+      "ひまわりっ！！"
+    ],
+    "url": "https://myanimelist.net/anime/1988/Himawari",
+    "image": "https://cdn.myanimelist.net/images/anime/9/60061.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,44 +50,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Himawari Too!!",
-      "ひまわりっ！！"
-    ],
+    "deletedAt": null,
+    "anidbId": 4572
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-15T12:18:11.000Z",
+    "checkedAt": "2022-05-15T12:18:11.000Z",
     "id": 1988,
     "type": "anime",
     "title": "Himawari!!",
-    "url": "https://myanimelist.net/anime/1988/Himawari",
-    "image": "https://cdn.myanimelist.net/images/anime/9/60061.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 4572,
-    "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2022-03-31T03:32:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Himawari",
       "ひまわりっ！！"
     ],
+    "url": "https://anilist.co/anime/1988",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1988.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/himawari-too"
       }
     ],
-    "id": 1988,
     "malId": 1988,
-    "type": "anime",
-    "title": "Himawari!!",
-    "url": "https://anilist.co/anime/1988",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1988.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:07.000Z",
-    "updatedAt": "2021-12-17T09:54:26.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/1988/Himawari"
+  }
 }

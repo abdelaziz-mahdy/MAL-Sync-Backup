@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ahndongshik"
-  ],
+  "createdAt": "2022-04-22T11:01:24.000Z",
+  "updatedAt": "2022-04-22T11:30:25.000Z",
+  "checkedAt": null,
+  "id": 101993,
   "identifier": "manga-am953995",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35515,
   "aniId": 65515,
-  "createdAt": "2022-04-22T11:01:24.000Z",
-  "updatedAt": "2022-04-22T11:30:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ahndongshik"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:58.000Z",
+    "updatedAt": "2022-04-22T11:01:25.000Z",
+    "checkedAt": null,
+    "id": 35515,
+    "type": "manga",
+    "title": "Lindbergh",
+    "altTitle": [
+      "リンドバーグ"
+    ],
+    "url": "https://myanimelist.net/manga/35515/Lindbergh",
+    "image": "https://cdn.myanimelist.net/images/manga/2/160497.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "リンドバーグ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ahndongshik"
-    ],
-    "id": 35515,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:50.939Z",
+    "updatedAt": "2022-05-13T13:04:50.939Z",
+    "checkedAt": null,
+    "id": 65515,
     "type": "manga",
     "title": "Lindbergh",
-    "url": "https://myanimelist.net/manga/35515/Lindbergh",
-    "image": "https://cdn.myanimelist.net/images/manga/2/160497.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:58.000Z",
-    "updatedAt": "2022-04-22T11:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lindbergh",
       "リンドバーグ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dong-Shik Ahn"
-    ],
-    "id": 65515,
-    "malId": 35515,
-    "type": "manga",
-    "title": "Lindbergh",
     "url": "https://anilist.co/manga/65515",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65515-IYonL7DV39jL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2021-12-17T19:50:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35515/Lindbergh"
+    "externalLinks": [],
+    "malId": 35515,
+    "deletedAt": null,
+    "authors": [
+      "Dong-Shik Ahn"
+    ]
+  }
 }

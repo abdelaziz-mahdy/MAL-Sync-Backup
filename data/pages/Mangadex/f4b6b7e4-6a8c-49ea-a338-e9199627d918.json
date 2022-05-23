@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ohkami Mineko"
-  ],
+  "createdAt": "2020-10-12T16:03:18.000Z",
+  "updatedAt": "2021-12-02T13:19:07.000Z",
+  "checkedAt": null,
+  "id": 1939,
   "identifier": "f4b6b7e4-6a8c-49ea-a338-e9199627d918",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18014,
   "aniId": 48014,
-  "createdAt": "2020-10-12T16:03:18.000Z",
-  "updatedAt": "2021-12-02T13:19:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohkami Mineko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.shinshokan.com/webwings/title01.html"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:30.000Z",
+    "updatedAt": "2022-05-02T16:02:47.000Z",
+    "checkedAt": null,
+    "id": 18014,
+    "type": "manga",
+    "title": "Jintori Game",
     "altTitle": [
       "Jintori-Gassen",
       "Jinntori Gassenn",
@@ -32,21 +33,29 @@
       "Jintori Kassen",
       "陣取合戦"
     ],
-    "authors": [
-      "Oukami, Mineko"
-    ],
-    "id": 18014,
-    "type": "manga",
-    "title": "Jintori Game",
     "url": "https://myanimelist.net/manga/18014/Jintori_Game",
     "image": "https://cdn.myanimelist.net/images/manga/1/110807.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:30.000Z",
-    "updatedAt": "2022-05-02T16:02:47.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shinshokan.com/webwings/title01.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oukami, Mineko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:23.704Z",
+    "updatedAt": "2022-05-13T12:56:23.704Z",
+    "checkedAt": null,
+    "id": 48014,
+    "type": "manga",
+    "title": "Jintori-Gassen",
     "altTitle": [
       "陣取合戦",
       "Jintori Game",
@@ -54,21 +63,15 @@
       "Jinntori Gassenn",
       "Jinntorigassenn"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mineko Ohkami"
-    ],
-    "id": 48014,
-    "malId": 18014,
-    "type": "manga",
-    "title": "Jintori-Gassen",
     "url": "https://anilist.co/manga/48014",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48014-yFcO0QDq4PHr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:14.000Z",
-    "updatedAt": "2021-12-17T16:40:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/18014/Jintori_Game"
+    "externalLinks": [],
+    "malId": 18014,
+    "deletedAt": null,
+    "authors": [
+      "Mineko Ohkami"
+    ]
+  }
 }

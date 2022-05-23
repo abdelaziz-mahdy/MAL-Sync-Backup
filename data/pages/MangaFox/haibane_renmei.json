@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ABE Yoshitoshi"
-  ],
+  "createdAt": "2021-07-20T16:04:35.000Z",
+  "updatedAt": "2022-01-20T16:34:56.000Z",
+  "checkedAt": null,
+  "id": 82583,
   "identifier": "haibane_renmei",
   "type": "manga",
   "page": "MangaFox",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5356,
   "aniId": 35356,
-  "createdAt": "2021-07-20T16:04:35.000Z",
-  "updatedAt": "2022-01-20T16:34:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "ABE Yoshitoshi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E7%81%B0%E7%BE%BD%E9%80%A3%E7%9B%9F"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:05.000Z",
+    "updatedAt": "2022-05-14T22:21:53.000Z",
+    "checkedAt": "2022-05-14T22:21:53.000Z",
+    "id": 5356,
+    "type": "manga",
+    "title": "Old Home no Haibane-tachi",
     "altTitle": [
       "Ailes Grises",
       "Charcoal Feathers in Old Home",
@@ -32,21 +33,29 @@
       "The Haibanes of Old Home",
       "オールドホームの灰羽達"
     ],
-    "authors": [
-      "Abe, Yoshitoshi"
-    ],
-    "id": 5356,
-    "type": "manga",
-    "title": "Old Home no Haibane-tachi",
     "url": "https://myanimelist.net/manga/5356/Old_Home_no_Haibane-tachi",
     "image": "https://cdn.myanimelist.net/images/manga/1/6747.jpg",
     "category": "Doujinshi",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:05.000Z",
-    "updatedAt": "2022-01-20T16:34:56.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%81%B0%E7%BE%BD%E9%80%A3%E7%9B%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Abe, Yoshitoshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:34.068Z",
+    "updatedAt": "2022-05-17T04:25:24.000Z",
+    "checkedAt": "2022-05-17T04:25:24.000Z",
+    "id": 35356,
+    "type": "manga",
+    "title": "Old Home no Haibanetachi",
     "altTitle": [
       "オールドホームの灰羽達",
       "The Haibanes of Old Home",
@@ -54,21 +63,15 @@
       "Charcoal Feathers in Old Home",
       "Haibane Renmei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshitoshi ABe"
-    ],
-    "id": 35356,
-    "malId": 5356,
-    "type": "manga",
-    "title": "Old Home no Haibanetachi",
     "url": "https://anilist.co/manga/35356",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx35356-INRvoQcYzU3z.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:27.000Z",
-    "updatedAt": "2022-03-28T07:32:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5356/Old_Home_no_Haibane-tachi"
+    "externalLinks": [],
+    "malId": 5356,
+    "deletedAt": null,
+    "authors": [
+      "Yoshitoshi ABe"
+    ]
+  }
 }

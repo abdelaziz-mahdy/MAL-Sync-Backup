@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Makura Shou",
-    "Okano Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:02:29.000Z",
+  "updatedAt": "2021-12-02T07:17:29.000Z",
+  "checkedAt": null,
+  "id": 218,
   "identifier": "aeccf180-8e12-4dc9-90a5-d9b5898e9933",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1044,
   "aniId": 31044,
-  "createdAt": "2020-10-12T16:02:29.000Z",
-  "updatedAt": "2021-12-02T07:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Makura Shou",
+    "Okano Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-22T22:57:52.000Z",
+    "checkedAt": "2022-05-22T22:57:52.000Z",
+    "id": 1044,
+    "type": "manga",
+    "title": "Jigoku Sensei Nube",
+    "altTitle": [
+      "Hell Teacher Nubo",
+      "Hell Teacher Nube",
+      "地獄先生ぬ～べ～"
+    ],
+    "url": "https://myanimelist.net/manga/1044/Jigoku_Sensei_Nube",
+    "image": "https://cdn.myanimelist.net/images/manga/1/601.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hell Teacher Nubo",
-      "Hell Teacher Nube",
-      "地獄先生ぬ～べ～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okano, Takeshi",
       "Makura, Shou"
-    ],
-    "id": 1044,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:11.077Z",
+    "updatedAt": "2022-05-22T22:57:51.000Z",
+    "checkedAt": "2022-05-22T22:57:51.000Z",
+    "id": 31044,
     "type": "manga",
     "title": "Jigoku Sensei Nube",
-    "url": "https://myanimelist.net/manga/1044/Jigoku_Sensei_Nube",
-    "image": "https://cdn.myanimelist.net/images/manga/1/601.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-04-26T02:31:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Hell Teacher Nube",
       "地獄先生ぬ～べ～",
       "Hell Teacher Nubo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Okano",
-      "Shou Makura"
-    ],
-    "id": 31044,
-    "malId": 1044,
-    "type": "manga",
-    "title": "Jigoku Sensei Nube",
     "url": "https://anilist.co/manga/31044",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31044-gx6p19or1r8B.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:39:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1044/Jigoku_Sensei_Nube"
+    "externalLinks": [],
+    "malId": 1044,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Okano",
+      "Shou Makura"
+    ]
+  }
 }

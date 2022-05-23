@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Toyoda Minoru"
-  ],
+  "createdAt": "2020-10-12T16:19:28.000Z",
+  "updatedAt": "2021-12-08T01:09:23.000Z",
+  "checkedAt": null,
+  "id": 35232,
   "identifier": "5db57367-c684-48f5-b005-ca7ee5a32b40",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110341,
   "aniId": 100092,
-  "createdAt": "2020-10-12T16:19:28.000Z",
-  "updatedAt": "2021-12-08T01:09:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toyoda Minoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:18.000Z",
+    "updatedAt": "2022-05-22T04:24:20.000Z",
+    "checkedAt": "2022-05-22T04:24:20.000Z",
+    "id": 110341,
+    "type": "manga",
+    "title": "Kongouji-san wa Mendoukusai",
+    "altTitle": [
+      "金剛寺さんは面倒臭い"
+    ],
+    "url": "https://myanimelist.net/manga/110341/Kongouji-san_wa_Mendoukusai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/207874.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "金剛寺さんは面倒臭い"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toyoda, Minoru"
-    ],
-    "id": 110341,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:17.920Z",
+    "updatedAt": "2022-05-22T04:24:19.000Z",
+    "checkedAt": "2022-05-22T04:24:19.000Z",
+    "id": 100092,
     "type": "manga",
     "title": "Kongouji-san wa Mendoukusai",
-    "url": "https://myanimelist.net/manga/110341/Kongouji-san_wa_Mendoukusai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/207874.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:18.000Z",
-    "updatedAt": "2021-12-07T22:33:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "金剛寺さんは面倒臭い",
       "Kongoji-san wa Mendoukusai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Minoru Toyoda"
-    ],
-    "id": 100092,
-    "malId": 110341,
-    "type": "manga",
-    "title": "Kongouji-san wa Mendoukusai",
     "url": "https://anilist.co/manga/100092",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100092-wq0kv7KqAEor.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T22:23:21.000Z",
-    "updatedAt": "2021-12-18T03:19:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110341/Kongouji-san_wa_Mendoukusai"
+    "externalLinks": [],
+    "malId": 110341,
+    "deletedAt": null,
+    "authors": [
+      "Minoru Toyoda"
+    ]
+  }
 }

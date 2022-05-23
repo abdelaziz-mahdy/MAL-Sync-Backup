@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "LEN[A-7]"
-  ],
+  "createdAt": "2020-10-12T16:20:36.000Z",
+  "updatedAt": "2021-12-08T01:11:53.000Z",
+  "checkedAt": null,
+  "id": 37544,
   "identifier": "12a94373-ef2c-4c07-8a8b-a29e631baf83",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 131768,
   "aniId": 117883,
-  "createdAt": "2020-10-12T16:20:36.000Z",
-  "updatedAt": "2021-12-08T01:11:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "LEN[A-7]"
+  ],
   "Mal": {
+    "createdAt": "2020-12-13T17:18:51.000Z",
+    "updatedAt": "2022-05-16T03:29:42.000Z",
+    "checkedAt": "2022-05-16T03:29:42.000Z",
+    "id": 131768,
+    "type": "manga",
+    "title": "Love Score",
+    "altTitle": [
+      "ラブスコア"
+    ],
+    "url": "https://myanimelist.net/manga/131768/Love_Score",
+    "image": "https://cdn.myanimelist.net/images/manga/3/238299.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ラブスコア"
-    ],
+    "deletedAt": null,
     "authors": [
       "LEN[A-7]"
-    ],
-    "id": 131768,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:40.020Z",
+    "updatedAt": "2022-05-16T03:29:41.000Z",
+    "checkedAt": "2022-05-16T03:29:41.000Z",
+    "id": 117883,
     "type": "manga",
     "title": "Love Score",
-    "url": "https://myanimelist.net/manga/131768/Love_Score",
-    "image": "https://cdn.myanimelist.net/images/manga/3/238299.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-13T17:18:51.000Z",
-    "updatedAt": "2022-01-27T10:01:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ラブスコア"
     ],
-    "externalLinks": [],
-    "authors": [
-      "LEN[A-7]"
-    ],
-    "id": 117883,
-    "malId": 131768,
-    "type": "manga",
-    "title": "Love Score",
     "url": "https://anilist.co/manga/117883",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117883-khxbBzcTa74F.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T00:53:08.000Z",
-    "updatedAt": "2021-12-18T09:20:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/131768/Love_Score"
+    "externalLinks": [],
+    "malId": 131768,
+    "deletedAt": null,
+    "authors": [
+      "LEN[A-7]"
+    ]
+  }
 }

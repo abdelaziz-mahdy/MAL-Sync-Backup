@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kishimoto Masashi"
-  ],
+  "createdAt": "2021-05-31T09:22:21.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74548,
   "identifier": "manga-ng952689",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11,
   "aniId": 30011,
-  "createdAt": "2021-05-31T09:22:21.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kishimoto Masashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-14T10:34:27.000Z",
+    "checkedAt": "2022-05-14T10:34:27.000Z",
+    "id": 11,
+    "type": "manga",
+    "title": "Naruto",
+    "altTitle": [
+      "Naruto",
+      "NARUTO―ナルト―"
+    ],
+    "url": "https://myanimelist.net/manga/11/Naruto",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,37 +41,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Naruto",
-      "NARUTO―ナルト―"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kishimoto, Masashi"
-    ],
-    "id": 11,
-    "type": "manga",
-    "title": "Naruto",
-    "url": "https://myanimelist.net/manga/11/Naruto",
-    "image": "https://cdn.myanimelist.net/images/manga/3/249658.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-25T06:02:49.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.295Z",
+    "updatedAt": "2022-05-15T14:31:23.000Z",
+    "checkedAt": "2022-05-15T14:31:23.000Z",
+    "id": 30011,
+    "type": "manga",
+    "title": "NARUTO",
     "altTitle": [
       "Naruto",
       "NARUTO -ナルト-",
       "נארוטו",
       "Наруто"
     ],
+    "url": "https://anilist.co/manga/30011",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100018"
       }
     ],
+    "malId": 11,
+    "deletedAt": null,
     "authors": [
       "Masashi Kishimoto",
       "Kazuhiro Takahashi",
@@ -82,18 +97,6 @@
       "İlke Güntan",
       "Alp İlkkurşun",
       "Yiğit Urhan"
-    ],
-    "id": 30011,
-    "malId": 11,
-    "type": "manga",
-    "title": "NARUTO",
-    "url": "https://anilist.co/manga/30011",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-05-17T10:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11/Naruto"
+    ]
+  }
 }

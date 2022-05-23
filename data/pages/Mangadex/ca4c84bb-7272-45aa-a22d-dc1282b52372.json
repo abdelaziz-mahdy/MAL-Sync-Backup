@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:05:01.000Z",
+  "updatedAt": "2021-12-03T09:48:07.000Z",
+  "checkedAt": null,
+  "id": 5526,
   "identifier": "ca4c84bb-7272-45aa-a22d-dc1282b52372",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 728,
   "aniId": 30728,
-  "createdAt": "2020-10-12T16:05:01.000Z",
-  "updatedAt": "2021-12-03T09:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E8%85%95%E3%82%A2%E3%83%88%E3%83%A0"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T17:49:39.000Z",
+    "checkedAt": "2022-05-15T17:49:39.000Z",
+    "id": 728,
+    "type": "manga",
+    "title": "Tetsuwan Atom",
     "altTitle": [
       "Mighty Atom",
       "Captain Atom",
@@ -32,46 +33,48 @@
       "Astro Boy",
       "鉄腕アトム"
     ],
-    "authors": [
-      "Tezuka, Osamu"
-    ],
-    "id": 728,
-    "type": "manga",
-    "title": "Tetsuwan Atom",
     "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom",
     "image": "https://cdn.myanimelist.net/images/manga/2/186337.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-02-16T12:47:03.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E8%85%95%E3%82%A2%E3%83%88%E3%83%A0"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tezuka, Osamu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:20.468Z",
+    "updatedAt": "2022-05-15T20:20:23.000Z",
+    "checkedAt": "2022-05-15T20:20:23.000Z",
+    "id": 30728,
+    "type": "manga",
+    "title": "Tetsuwan Atom",
     "altTitle": [
       "Astro Boy",
       "鉄腕 アトム",
       "Tetsuwan Atomu",
       "Mighty Atom"
     ],
+    "url": "https://anilist.co/manga/30728",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30728-pYKB67J1weRa.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 728,
+    "deletedAt": null,
     "authors": [
       "Osamu Tezuka",
       "Frederik Schodt",
       "Jirou Kuwata",
       "Mitsuteru Yokoyama",
       "Shoutarou Ishinomori"
-    ],
-    "id": 30728,
-    "malId": 728,
-    "type": "manga",
-    "title": "Tetsuwan Atom",
-    "url": "https://anilist.co/manga/30728",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30728-pYKB67J1weRa.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2022-02-17T08:17:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/728/Tetsuwan_Atom"
+    ]
+  }
 }

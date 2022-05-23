@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "YUKIMURA Makoto"
-  ],
+  "createdAt": "2020-12-20T13:57:06.000Z",
+  "updatedAt": "2022-05-16T15:21:33.000Z",
+  "checkedAt": "2022-05-16T15:20:32.000Z",
+  "id": 55000,
   "identifier": "vinland-saga",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 642,
   "aniId": 30642,
-  "createdAt": "2020-12-20T13:57:06.000Z",
-  "updatedAt": "2022-01-25T09:30:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "YUKIMURA Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:24.000Z",
+    "updatedAt": "2022-05-14T17:20:10.000Z",
+    "checkedAt": "2022-05-14T17:20:10.000Z",
+    "id": 642,
+    "type": "manga",
+    "title": "Vinland Saga",
+    "altTitle": [
+      "Vinland Saga",
+      "ヴィンランド・サガ"
+    ],
+    "url": "https://myanimelist.net/manga/642/Vinland_Saga",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188925.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,32 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Vinland Saga",
-      "ヴィンランド・サガ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yukimura, Makoto"
-    ],
-    "id": 642,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:36.784Z",
+    "updatedAt": "2022-05-15T13:55:11.000Z",
+    "checkedAt": "2022-05-15T13:55:11.000Z",
+    "id": 30642,
     "type": "manga",
     "title": "Vinland Saga",
-    "url": "https://myanimelist.net/manga/642/Vinland_Saga",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188925.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:24.000Z",
-    "updatedAt": "2022-05-02T19:01:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Vinland Saga",
       "ヴィンランド・サガ",
       "Saga Winlandzka",
       "Сага о Винланде"
     ],
+    "url": "https://anilist.co/manga/30642",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30642-x6RpmbP5mU7q.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 642,
+    "deletedAt": null,
     "authors": [
       "Makoto Yukimura",
       "Stephen Paul",
@@ -64,18 +79,6 @@
       "Xavière Daumarie",
       "Edoardo Serino",
       "Lídia Ivasa"
-    ],
-    "id": 30642,
-    "malId": 642,
-    "type": "manga",
-    "title": "Vinland Saga",
-    "url": "https://anilist.co/manga/30642",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30642-x6RpmbP5mU7q.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2022-02-20T19:17:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/642/Vinland_Saga"
+    ]
+  }
 }

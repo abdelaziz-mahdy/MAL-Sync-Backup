@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsutsui Taishi"
-  ],
+  "createdAt": "2021-05-28T21:54:23.000Z",
+  "updatedAt": "2021-11-28T22:36:34.000Z",
+  "checkedAt": null,
+  "id": 73066,
   "identifier": "manga-xi974943",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103890,
   "aniId": 98235,
-  "createdAt": "2021-05-28T21:54:23.000Z",
-  "updatedAt": "2021-11-28T22:36:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsutsui Taishi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:55.000Z",
+    "updatedAt": "2022-05-15T01:13:05.000Z",
+    "checkedAt": "2022-05-15T01:13:05.000Z",
+    "id": 103890,
+    "type": "manga",
+    "title": "Bokutachi wa Benkyou ga Dekinai",
+    "altTitle": [
+      "BokuBen",
+      "We Can't Study",
+      "We Never Learn",
+      "ぼくたちは勉強ができない"
+    ],
+    "url": "https://myanimelist.net/manga/103890/Bokutachi_wa_Benkyou_ga_Dekinai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/197080.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BokuBen",
-      "We Can't Study",
-      "We Never Learn",
-      "ぼくたちは勉強ができない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsutsui, Taishi"
-    ],
-    "id": 103890,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.661Z",
+    "updatedAt": "2022-05-15T20:55:59.000Z",
+    "checkedAt": "2022-05-15T20:55:59.000Z",
+    "id": 98235,
     "type": "manga",
     "title": "Bokutachi wa Benkyou ga Dekinai",
-    "url": "https://myanimelist.net/manga/103890/Bokutachi_wa_Benkyou_ga_Dekinai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/197080.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:55.000Z",
-    "updatedAt": "2022-05-02T19:31:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "We Never Learn",
       "ぼくたちは勉強ができない",
@@ -54,29 +63,23 @@
       "Boku-tachi wa Benkyou ga Dekinai",
       "เรื่องนี้ตําราไม่มีสอน "
     ],
+    "url": "https://anilist.co/manga/98235",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98235-V6yBxNIrsOp0.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100035"
       }
     ],
+    "malId": 103890,
+    "deletedAt": null,
     "authors": [
       "Taishi Tsutsui",
       "Caleb Cook",
       "Itsuki Saruno",
       "Caio Suzuki"
-    ],
-    "id": 98235,
-    "malId": 103890,
-    "type": "manga",
-    "title": "Bokutachi wa Benkyou ga Dekinai",
-    "url": "https://anilist.co/manga/98235",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98235-V6yBxNIrsOp0.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:05.000Z",
-    "updatedAt": "2022-03-28T03:07:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103890/Bokutachi_wa_Benkyou_ga_Dekinai"
+    ]
+  }
 }

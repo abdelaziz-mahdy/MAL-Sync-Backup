@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Narita Ryohgo",
-    "Shiraume Nazuna"
-  ],
+  "createdAt": "2020-10-12T16:10:21.000Z",
+  "updatedAt": "2021-12-05T00:21:00.000Z",
+  "checkedAt": null,
+  "id": 16948,
   "identifier": "1c822298-a591-4971-b53d-c5a2d138c1fd",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,43 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102259,
   "aniId": 110687,
-  "createdAt": "2020-10-12T16:10:21.000Z",
-  "updatedAt": "2021-12-05T00:21:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Narita Ryohgo",
+    "Shiraume Nazuna"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "クロハと虹介"
-    ],
-    "authors": [
-      "Narita, Ryohgo",
-      "Shiraume, Nazuna"
-    ],
+    "createdAt": "2020-10-12T15:46:44.000Z",
+    "updatedAt": "2022-05-17T17:24:05.000Z",
+    "checkedAt": "2022-05-17T17:24:05.000Z",
     "id": 102259,
     "type": "manga",
     "title": "Kuroha to Nijisuke",
+    "altTitle": [
+      "クロハと虹介"
+    ],
     "url": "https://myanimelist.net/manga/102259/Kuroha_to_Nijisuke",
     "image": "https://cdn.myanimelist.net/images/manga/2/199169.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2021-12-17T12:51:35.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Narita, Ryohgo",
+      "Shiraume, Nazuna"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:08.671Z",
+    "updatedAt": "2022-05-17T17:24:04.000Z",
+    "checkedAt": "2022-05-17T17:24:04.000Z",
+    "id": 110687,
+    "type": "manga",
+    "title": "Kuroha to Nijisuke",
     "altTitle": [
       "クロハと虹介",
       "Kuroha & Nijisuke",
@@ -47,22 +56,16 @@
       "Куроха и Нидзискэ",
       "쿠로하와 니지스케"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryougo Narita",
-      "Nazuna Shiraume"
-    ],
-    "id": 110687,
-    "malId": 102259,
-    "type": "manga",
-    "title": "Kuroha to Nijisuke",
     "url": "https://anilist.co/manga/110687",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110687-WyYO4RhUIM0T.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:55.000Z",
-    "updatedAt": "2021-12-17T14:17:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102259/Kuroha_to_Nijisuke"
+    "externalLinks": [],
+    "malId": 102259,
+    "deletedAt": null,
+    "authors": [
+      "Ryougo Narita",
+      "Nazuna Shiraume"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Okada Kazuto"
-  ],
+  "createdAt": "2021-06-13T16:40:13.000Z",
+  "updatedAt": "2021-12-13T17:18:24.000Z",
+  "checkedAt": null,
+  "id": 78101,
   "identifier": "manga-yp959024",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1501,
   "aniId": 31501,
-  "createdAt": "2021-06-13T16:40:13.000Z",
-  "updatedAt": "2021-12-13T17:18:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okada Kazuto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:34.000Z",
+    "updatedAt": "2022-05-16T01:24:36.000Z",
+    "checkedAt": "2022-05-16T01:24:36.000Z",
+    "id": 1501,
+    "type": "manga",
+    "title": "Sundome",
+    "altTitle": [
+      "Sundome",
+      "すんドめ"
+    ],
+    "url": "https://myanimelist.net/manga/1501/Sundome",
+    "image": "https://cdn.myanimelist.net/images/manga/2/50469.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +45,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sundome",
-      "すんドめ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okada, Kazuto"
-    ],
-    "id": 1501,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:59.092Z",
+    "updatedAt": "2022-05-16T01:25:54.000Z",
+    "checkedAt": "2022-05-16T01:25:54.000Z",
+    "id": 31501,
     "type": "manga",
     "title": "Sundome",
-    "url": "https://myanimelist.net/manga/1501/Sundome",
-    "image": "https://cdn.myanimelist.net/images/manga/2/50469.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:34.000Z",
-    "updatedAt": "2021-12-13T16:48:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sundome",
       "すんドめ"
     ],
+    "url": "https://anilist.co/manga/31501",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31501-CkTWnbcHjT7J.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 1501,
+    "deletedAt": null,
     "authors": [
       "Kazuto Okada",
       "Tania Biswas",
       "Christine Dashiell",
       "Abigail Blackman",
       "Roberto Flores"
-    ],
-    "id": 31501,
-    "malId": 1501,
-    "type": "manga",
-    "title": "Sundome",
-    "url": "https://anilist.co/manga/31501",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31501-CkTWnbcHjT7J.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:46.000Z",
-    "updatedAt": "2021-12-17T10:08:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1501/Sundome"
+    ]
+  }
 }

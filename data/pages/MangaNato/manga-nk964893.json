@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2022-04-12T14:01:24.000Z",
+  "updatedAt": "2022-04-12T14:30:23.000Z",
+  "checkedAt": null,
+  "id": 101243,
   "identifier": "manga-nk964893",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10798,
   "aniId": 40798,
-  "createdAt": "2022-04-12T14:01:24.000Z",
-  "updatedAt": "2022-04-12T14:30:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T15:49:18.000Z",
+    "updatedAt": "2022-05-15T13:25:13.000Z",
+    "checkedAt": "2022-05-15T13:25:13.000Z",
+    "id": 10798,
+    "type": "manga",
+    "title": "Mitsume ga Tooru",
+    "altTitle": [
+      "The Three-eyed One",
+      "三つ目がとおる"
+    ],
+    "url": "https://myanimelist.net/manga/10798/Mitsume_ga_Tooru",
+    "image": "https://cdn.myanimelist.net/images/manga/5/175739.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Three-eyed One",
-      "三つ目がとおる"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 10798,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:02.748Z",
+    "updatedAt": "2022-05-15T17:40:47.000Z",
+    "checkedAt": "2022-05-15T17:40:47.000Z",
+    "id": 40798,
     "type": "manga",
     "title": "Mitsume ga Tooru",
-    "url": "https://myanimelist.net/manga/10798/Mitsume_ga_Tooru",
-    "image": "https://cdn.myanimelist.net/images/manga/5/175739.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T15:49:18.000Z",
-    "updatedAt": "2022-04-12T13:01:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "三つ目がとおる",
       "L'enfant Aux Trois Yeux",
       "The Three-Eyed One"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka"
-    ],
-    "id": 40798,
-    "malId": 10798,
-    "type": "manga",
-    "title": "Mitsume ga Tooru",
     "url": "https://anilist.co/manga/40798",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40798-PqPOdiQ6PBYU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T15:49:18.000Z",
-    "updatedAt": "2021-12-17T14:11:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10798/Mitsume_ga_Tooru"
+    "externalLinks": [],
+    "malId": 10798,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka"
+    ]
+  }
 }

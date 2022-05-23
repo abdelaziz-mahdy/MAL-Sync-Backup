@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Type-Moon",
-    "Task Ohna"
-  ],
+  "createdAt": "2021-05-29T16:42:44.000Z",
+  "updatedAt": "2021-11-29T17:36:24.000Z",
+  "checkedAt": null,
+  "id": 73922,
   "identifier": "manga-kc952437",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88110,
   "aniId": 86182,
-  "createdAt": "2021-05-29T16:42:44.000Z",
-  "updatedAt": "2021-11-29T17:36:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Type-Moon",
+    "Task Ohna"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:56.000Z",
+    "updatedAt": "2022-05-14T17:46:53.000Z",
+    "checkedAt": "2022-05-14T17:46:53.000Z",
+    "id": 88110,
+    "type": "manga",
+    "title": "Fate/stay night: Heaven's Feel",
+    "altTitle": [
+      "Fate/stay night [Heaven's Feel]"
+    ],
+    "url": "https://myanimelist.net/manga/88110/Fate_stay_night__Heavens_Feel",
+    "image": "https://cdn.myanimelist.net/images/manga/1/159383.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fate/stay night [Heaven's Feel]"
-    ],
+    "deletedAt": null,
     "authors": [
       "Type-Moon",
       "Ohna, Task"
-    ],
-    "id": 88110,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:32.182Z",
+    "updatedAt": "2022-05-15T21:04:59.000Z",
+    "checkedAt": "2022-05-15T21:04:59.000Z",
+    "id": 86182,
     "type": "manga",
     "title": "Fate/stay night: Heaven's Feel",
-    "url": "https://myanimelist.net/manga/88110/Fate_stay_night__Heavens_Feel",
-    "image": "https://cdn.myanimelist.net/images/manga/1/159383.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:56.000Z",
-    "updatedAt": "2022-04-30T11:32:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/stay night [Heaven's Feel]"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Type-Moon",
-      "Task Ohna"
-    ],
-    "id": 86182,
-    "malId": 88110,
-    "type": "manga",
-    "title": "Fate/stay night: Heaven's Feel",
     "url": "https://anilist.co/manga/86182",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56182-8kyzt7p6xFDd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2021-12-17T22:31:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88110/Fate_stay_night__Heavens_Feel"
+    "externalLinks": [],
+    "malId": 88110,
+    "deletedAt": null,
+    "authors": [
+      "Type-Moon",
+      "Task Ohna"
+    ]
+  }
 }

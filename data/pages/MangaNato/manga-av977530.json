@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawazoe Taichi"
-  ],
+  "createdAt": "2021-05-29T08:43:04.000Z",
+  "updatedAt": "2021-11-29T09:36:54.000Z",
+  "checkedAt": null,
+  "id": 73571,
   "identifier": "manga-av977530",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 109298,
   "aniId": 99933,
-  "createdAt": "2021-05-29T08:43:04.000Z",
-  "updatedAt": "2021-11-29T09:36:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawazoe Taichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:13.000Z",
+    "updatedAt": "2022-05-14T10:07:32.000Z",
+    "checkedAt": "2022-05-14T10:07:32.000Z",
+    "id": 109298,
+    "type": "manga",
+    "title": "Futoku no Guild",
+    "altTitle": [
+      "Guild of Depravity",
+      "不徳のギルド"
+    ],
+    "url": "https://myanimelist.net/manga/109298/Futoku_no_Guild",
+    "image": "https://cdn.myanimelist.net/images/manga/1/207955.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Guild of Depravity",
-      "不徳のギルド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawazoe, Taichi"
-    ],
-    "id": 109298,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:53.996Z",
+    "updatedAt": "2022-05-18T07:50:13.000Z",
+    "checkedAt": "2022-05-18T07:50:13.000Z",
+    "id": 99933,
     "type": "manga",
     "title": "Futoku no Guild",
-    "url": "https://myanimelist.net/manga/109298/Futoku_no_Guild",
-    "image": "https://cdn.myanimelist.net/images/manga/1/207955.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:13.000Z",
-    "updatedAt": "2022-03-06T21:30:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "不徳のギルド",
       "กิลด์ป่วนก๊วนฮา"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Taichi Kawazoe"
-    ],
-    "id": 99933,
-    "malId": 109298,
-    "type": "manga",
-    "title": "Futoku no Guild",
     "url": "https://anilist.co/manga/99933",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99933-dmH4PNs2jXnt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:05.000Z",
-    "updatedAt": "2022-05-02T23:33:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/109298/Futoku_no_Guild"
+    "externalLinks": [],
+    "malId": 109298,
+    "deletedAt": null,
+    "authors": [
+      "Taichi Kawazoe"
+    ]
+  }
 }

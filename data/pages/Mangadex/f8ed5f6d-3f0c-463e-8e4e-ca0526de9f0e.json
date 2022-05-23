@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Kouji"
-  ],
+  "createdAt": "2020-10-12T16:02:41.000Z",
+  "updatedAt": "2021-12-02T09:16:48.000Z",
+  "checkedAt": null,
+  "id": 669,
   "identifier": "f8ed5f6d-3f0c-463e-8e4e-ca0526de9f0e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5227,
   "aniId": 35227,
-  "createdAt": "2020-10-12T16:02:41.000Z",
-  "updatedAt": "2021-12-02T09:16:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:04.000Z",
+    "updatedAt": "2022-05-14T19:38:06.000Z",
+    "checkedAt": "2022-05-14T19:38:06.000Z",
+    "id": 5227,
+    "type": "manga",
+    "title": "Higanjima",
+    "altTitle": [
+      "彼岸島"
+    ],
+    "url": "https://myanimelist.net/manga/5227/Higanjima",
+    "image": "https://cdn.myanimelist.net/images/manga/3/184564.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "彼岸島"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Koji"
-    ],
-    "id": 5227,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:34.879Z",
+    "updatedAt": "2022-05-19T18:57:35.000Z",
+    "checkedAt": "2022-05-19T18:57:35.000Z",
+    "id": 35227,
     "type": "manga",
     "title": "Higanjima",
-    "url": "https://myanimelist.net/manga/5227/Higanjima",
-    "image": "https://cdn.myanimelist.net/images/manga/3/184564.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:04.000Z",
-    "updatedAt": "2021-12-31T18:54:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼岸島"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Matsumoto"
-    ],
-    "id": 35227,
-    "malId": 5227,
-    "type": "manga",
-    "title": "Higanjima",
     "url": "https://anilist.co/manga/35227",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35227-F9bLj2lpfqAo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:25.000Z",
-    "updatedAt": "2021-12-17T12:15:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5227/Higanjima"
+    "externalLinks": [],
+    "malId": 5227,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Matsumoto"
+    ]
+  }
 }

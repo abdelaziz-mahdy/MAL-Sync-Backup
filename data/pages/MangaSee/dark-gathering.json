@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kondo Kenichi"
-  ],
+  "createdAt": "2022-03-02T23:10:53.000Z",
+  "updatedAt": "2022-03-02T23:40:28.000Z",
+  "checkedAt": null,
+  "id": 97054,
   "identifier": "dark-gathering",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118668,
   "aniId": 109608,
-  "createdAt": "2022-03-02T23:10:53.000Z",
-  "updatedAt": "2022-03-02T23:40:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kondo Kenichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2022-05-18T13:13:55.000Z",
+    "checkedAt": "2022-05-18T13:13:55.000Z",
+    "id": 118668,
+    "type": "manga",
+    "title": "Dark Gathering",
+    "altTitle": [
+      "ダークギャザリング"
+    ],
+    "url": "https://myanimelist.net/manga/118668/Dark_Gathering",
+    "image": "https://cdn.myanimelist.net/images/manga/2/227524.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ダークギャザリング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kondou, Kenichi"
-    ],
-    "id": 118668,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:43.315Z",
+    "updatedAt": "2022-05-18T13:13:53.000Z",
+    "checkedAt": "2022-05-18T13:13:53.000Z",
+    "id": 109608,
     "type": "manga",
     "title": "Dark Gathering",
-    "url": "https://myanimelist.net/manga/118668/Dark_Gathering",
-    "image": "https://cdn.myanimelist.net/images/manga/2/227524.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:54.000Z",
-    "updatedAt": "2022-03-02T23:10:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ダークギャザリング",
       "คู่หูต่างขั้วกับภารกิจกำจัดผี"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenichi Kondou"
-    ],
-    "id": 109608,
-    "malId": 118668,
-    "type": "manga",
-    "title": "Dark Gathering",
     "url": "https://anilist.co/manga/109608",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109608-djHaTTP69uWV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:05.000Z",
-    "updatedAt": "2022-03-14T11:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118668/Dark_Gathering"
+    "externalLinks": [],
+    "malId": 118668,
+    "deletedAt": null,
+    "authors": [
+      "Kenichi Kondou"
+    ]
+  }
 }

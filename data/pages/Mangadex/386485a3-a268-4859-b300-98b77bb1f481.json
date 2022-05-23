@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Date Tsunehiro"
-  ],
+  "createdAt": "2020-10-12T16:10:47.000Z",
+  "updatedAt": "2021-12-05T03:48:59.000Z",
+  "checkedAt": null,
+  "id": 17875,
   "identifier": "386485a3-a268-4859-b300-98b77bb1f481",
   "type": "manga",
   "page": "Mangadex",
@@ -11,37 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 107480,
   "aniId": 99219,
-  "createdAt": "2020-10-12T16:10:47.000Z",
-  "updatedAt": "2021-12-05T03:48:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Date Tsunehiro"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "Cross Account",
-      "Haru yo, Koi!",
-      "Gachipin.",
-      "Gesu no Ongaeshi",
-      "クロスアカウント"
-    ],
-    "authors": [
-      "Date, Tsunehiro"
-    ],
+    "createdAt": "2020-10-12T15:47:06.000Z",
+    "updatedAt": "2022-05-16T22:11:26.000Z",
+    "checkedAt": "2022-05-16T22:11:26.000Z",
     "id": 107480,
     "type": "manga",
     "title": "Cross Account",
+    "altTitle": [
+      "Haru yo, Koi!",
+      "Gachipin.",
+      "Gesu no Ongaeshi",
+      "Cross Account",
+      "クロスアカウント"
+    ],
     "url": "https://myanimelist.net/manga/107480/Cross_Account",
     "image": "https://cdn.myanimelist.net/images/manga/1/201588.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:06.000Z",
-    "updatedAt": "2021-12-23T05:21:47.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Date, Tsunehiro"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:51.018Z",
+    "updatedAt": "2022-05-16T22:11:25.000Z",
+    "checkedAt": "2022-05-16T22:11:25.000Z",
+    "id": 99219,
+    "type": "manga",
+    "title": "Cross Account",
     "altTitle": [
       "クロスアカウント",
       "Haru yo",
@@ -49,21 +58,15 @@
       "Gachipin.",
       "Gesu no Ongaeshi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsunehiro Date"
-    ],
-    "id": 99219,
-    "malId": 107480,
-    "type": "manga",
-    "title": "Cross Account",
     "url": "https://anilist.co/manga/99219",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99219-2JqyQlnSkJFR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:54.000Z",
-    "updatedAt": "2021-12-18T02:51:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/107480/Cross_Account"
+    "externalLinks": [],
+    "malId": 107480,
+    "deletedAt": null,
+    "authors": [
+      "Tsunehiro Date"
+    ]
+  }
 }

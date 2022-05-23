@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Naoya"
-  ],
+  "createdAt": "2020-10-12T16:08:31.000Z",
+  "updatedAt": "2021-12-04T10:52:58.000Z",
+  "checkedAt": null,
+  "id": 12976,
   "identifier": "2d6b1de7-37a9-4620-a565-1fd97c39821a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80187,
   "aniId": 86469,
-  "createdAt": "2020-10-12T16:08:31.000Z",
-  "updatedAt": "2021-12-04T10:52:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Naoya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-17T06:02:01.000Z",
+    "checkedAt": "2022-05-17T06:02:01.000Z",
+    "id": 80187,
+    "type": "manga",
+    "title": "Pochi Kuro",
+    "altTitle": [
+      "ポチクロ"
+    ],
+    "url": "https://myanimelist.net/manga/80187/Pochi_Kuro",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162239.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ポチクロ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Naoya"
-    ],
-    "id": 80187,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:21.716Z",
+    "updatedAt": "2022-05-17T06:02:00.000Z",
+    "checkedAt": "2022-05-17T06:02:00.000Z",
+    "id": 86469,
     "type": "manga",
     "title": "Pochi Kuro",
-    "url": "https://myanimelist.net/manga/80187/Pochi_Kuro",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162239.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-04-21T09:32:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ポチクロ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoya Matsumoto"
-    ],
-    "id": 86469,
-    "malId": 80187,
-    "type": "manga",
-    "title": "Pochi Kuro",
     "url": "https://anilist.co/manga/86469",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86469-gpddwWwpOgOz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-17T22:52:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80187/Pochi_Kuro"
+    "externalLinks": [],
+    "malId": 80187,
+    "deletedAt": null,
+    "authors": [
+      "Naoya Matsumoto"
+    ]
+  }
 }

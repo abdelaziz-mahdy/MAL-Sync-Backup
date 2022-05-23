@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jang Cheol-Byuk",
-    "Zerobic"
-  ],
+  "createdAt": "2021-01-27T21:08:15.000Z",
+  "updatedAt": "2022-02-23T05:17:58.000Z",
+  "checkedAt": null,
+  "id": 60236,
   "identifier": "murim-login",
   "type": "manga",
   "page": "MangaSee",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 120385,
-  "createdAt": "2021-01-27T21:08:15.000Z",
-  "updatedAt": "2022-02-23T05:17:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jang Cheol-Byuk",
+    "Zerobic"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:43.356Z",
+    "updatedAt": "2022-05-16T10:23:05.000Z",
+    "checkedAt": "2022-05-16T10:23:05.000Z",
+    "id": 120385,
+    "type": "manga",
+    "title": "Log-in Murim",
     "altTitle": [
       "로그인 무림",
       "Login Murim",
       "Murim Login"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Zero-BIG",
-      "Cheol-byeok Jang"
-    ],
-    "id": 120385,
-    "malId": null,
-    "type": "manga",
-    "title": "Log-in Murim",
     "url": "https://anilist.co/manga/120385",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120385-4JYGuOR6cn72.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T00:43:40.000Z",
-    "updatedAt": "2022-04-24T11:02:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Zero-BIG",
+      "Cheol-byeok Jang"
+    ]
+  }
 }

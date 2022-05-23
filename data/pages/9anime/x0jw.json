@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:21.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10031,
   "identifier": "x0jw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 581,
   "aniId": 581,
-  "createdAt": "2020-10-12T15:56:21.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-15T00:27:17.000Z",
+    "checkedAt": "2022-05-15T00:27:17.000Z",
+    "id": 581,
+    "type": "anime",
+    "title": "Honoo no Labyrinth",
+    "altTitle": [
+      "Labyrinth Of Flames",
+      "炎のらびりんす"
+    ],
+    "url": "https://myanimelist.net/anime/581/Honoo_no_Labyrinth",
+    "image": "https://cdn.myanimelist.net/images/anime/3/20329.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Labyrinth Of Flames",
-      "炎のらびりんす"
-    ],
+    "deletedAt": null,
+    "anidbId": 515
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:47.000Z",
+    "updatedAt": "2022-05-15T12:12:47.000Z",
+    "checkedAt": "2022-05-15T12:12:47.000Z",
     "id": 581,
     "type": "anime",
     "title": "Honoo no Labyrinth",
-    "url": "https://myanimelist.net/anime/581/Honoo_no_Labyrinth",
-    "image": "https://cdn.myanimelist.net/images/anime/3/20329.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 515,
-    "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2022-03-30T15:33:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Labyrinth of Flames",
       "炎のらびりんす"
     ],
-    "externalLinks": [],
-    "id": 581,
-    "malId": 581,
-    "type": "anime",
-    "title": "Honoo no Labyrinth",
     "url": "https://anilist.co/anime/581",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx581-SzbcPGTZdRNf.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:47.000Z",
-    "updatedAt": "2021-12-17T08:50:27.000Z",
+    "externalLinks": [],
+    "malId": 581,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/581/Honoo_no_Labyrinth"
+  }
 }

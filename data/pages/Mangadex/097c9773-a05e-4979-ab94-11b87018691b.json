@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshizawa Yasumi"
-  ],
+  "createdAt": "2020-10-12T16:15:16.000Z",
+  "updatedAt": "2021-12-06T12:18:48.000Z",
+  "checkedAt": null,
+  "id": 26646,
   "identifier": "097c9773-a05e-4979-ab94-11b87018691b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104809,
   "aniId": 109369,
-  "createdAt": "2020-10-12T16:15:16.000Z",
-  "updatedAt": "2021-12-06T12:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshizawa Yasumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:58.000Z",
+    "updatedAt": "2021-11-18T13:45:40.000Z",
+    "checkedAt": null,
+    "id": 104809,
+    "type": "manga",
+    "title": "Dokonjougaeru",
+    "altTitle": [
+      "ど根性ガエル"
+    ],
+    "url": "https://myanimelist.net/manga/104809/Dokonjougaeru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/192067.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ど根性ガエル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshizawa, Yasumi"
-    ],
-    "id": 104809,
-    "type": "manga",
-    "title": "Dokonjougaeru",
-    "url": "https://myanimelist.net/manga/104809/Dokonjougaeru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/192067.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:58.000Z",
-    "updatedAt": "2021-11-18T13:45:40.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:21.480Z",
+    "updatedAt": "2022-05-13T12:46:21.480Z",
+    "checkedAt": null,
+    "id": 109369,
+    "type": "manga",
+    "title": "Dokonjou Gaeru",
     "altTitle": [
       "The Gutsy Frog",
       "ど根性ガエル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yasumi Yoshizawa"
-    ],
-    "id": 109369,
-    "malId": 104809,
-    "type": "manga",
-    "title": "Dokonjou Gaeru",
     "url": "https://anilist.co/manga/109369",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109369-VUNxwsO6kx1g.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:12.000Z",
-    "updatedAt": "2021-12-18T06:25:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104809/Dokonjougaeru"
+    "externalLinks": [],
+    "malId": 104809,
+    "deletedAt": null,
+    "authors": [
+      "Yasumi Yoshizawa"
+    ]
+  }
 }

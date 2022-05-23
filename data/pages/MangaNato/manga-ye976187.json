@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hijiki"
-  ],
+  "createdAt": "2021-06-10T07:34:14.000Z",
+  "updatedAt": "2021-12-10T08:33:38.000Z",
+  "checkedAt": null,
+  "id": 77573,
   "identifier": "manga-ye976187",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95377,
   "aniId": 98694,
-  "createdAt": "2021-06-10T07:34:14.000Z",
-  "updatedAt": "2021-12-10T08:33:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hijiki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:22.000Z",
+    "updatedAt": "2022-05-15T00:14:41.000Z",
+    "checkedAt": "2022-05-15T00:14:41.000Z",
+    "id": 95377,
+    "type": "manga",
+    "title": "Ayakashi Ko",
+    "altTitle": [
+      "Ayakashiko",
+      "あやかしこ"
+    ],
+    "url": "https://myanimelist.net/manga/95377/Ayakashi_Ko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/169990.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ayakashiko",
-      "あやかしこ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hijiki"
-    ],
-    "id": 95377,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:38.500Z",
+    "updatedAt": "2022-05-16T02:14:14.000Z",
+    "checkedAt": "2022-05-16T02:14:14.000Z",
+    "id": 98694,
     "type": "manga",
     "title": "Ayakashi Ko",
-    "url": "https://myanimelist.net/manga/95377/Ayakashi_Ko",
-    "image": "https://cdn.myanimelist.net/images/manga/3/169990.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:22.000Z",
-    "updatedAt": "2022-02-23T01:49:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あやかしこ",
       "妖怪宅院",
       "Ayakashiko"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hijiki"
-    ],
-    "id": 98694,
-    "malId": 95377,
-    "type": "manga",
-    "title": "Ayakashi Ko",
     "url": "https://anilist.co/manga/98694",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98694-PmhZpAQHzY42.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:59.000Z",
-    "updatedAt": "2021-12-18T02:29:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95377/Ayakashi_Ko"
+    "externalLinks": [],
+    "malId": 95377,
+    "deletedAt": null,
+    "authors": [
+      "Hijiki"
+    ]
+  }
 }

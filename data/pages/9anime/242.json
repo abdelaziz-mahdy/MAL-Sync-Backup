@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:25.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 3,
   "identifier": "242",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 321,
   "aniId": 321,
-  "createdAt": "2020-10-12T15:48:25.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-14T09:50:39.000Z",
+    "checkedAt": "2022-05-14T09:50:39.000Z",
+    "id": 321,
+    "type": "anime",
+    "title": "Najica Dengeki Sakusen",
+    "altTitle": [
+      "Najica Blitz Tactics",
+      "ナジカ電撃作戦"
+    ],
+    "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
+    "image": "https://cdn.myanimelist.net/images/anime/11/22210.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Najica Blitz Tactics",
-      "ナジカ電撃作戦"
-    ],
-    "id": 321,
-    "type": "anime",
-    "title": "Najica Dengeki Sakusen",
-    "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
-    "image": "https://cdn.myanimelist.net/images/anime/11/22210.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 413,
-    "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2022-05-02T00:01:56.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 413
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-15T18:27:23.000Z",
+    "checkedAt": "2022-05-15T18:27:23.000Z",
+    "id": 321,
+    "type": "anime",
+    "title": "Najica Dengeki Sakusen",
     "altTitle": [
       "Najica Blitz Tactics",
       "ナジカ電撃作戦"
     ],
-    "externalLinks": [],
-    "id": 321,
-    "malId": 321,
-    "type": "anime",
-    "title": "Najica Dengeki Sakusen",
     "url": "https://anilist.co/anime/321",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/321.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:37.000Z",
-    "updatedAt": "2022-04-02T16:38:25.000Z",
+    "externalLinks": [],
+    "malId": 321,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen"
+  }
 }

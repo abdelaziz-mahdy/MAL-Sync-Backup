@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gatou Shouji",
-    "Nagai Tomohiro"
-  ],
+  "createdAt": "2020-10-12T16:05:22.000Z",
+  "updatedAt": "2021-12-03T12:17:28.000Z",
+  "checkedAt": null,
+  "id": 6243,
   "identifier": "b1392f5d-ef2e-489d-98e2-35c3ec82cb40",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19682,
   "aniId": 49682,
-  "createdAt": "2020-10-12T16:05:22.000Z",
-  "updatedAt": "2021-12-03T12:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gatou Shouji",
+    "Nagai Tomohiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:45.000Z",
+    "updatedAt": "2022-05-03T00:01:16.000Z",
+    "checkedAt": null,
+    "id": 19682,
+    "type": "manga",
+    "title": "Full Metal Panic! Surplus",
+    "altTitle": [
+      "フルメタル・パニック！ SURPLUS"
+    ],
+    "url": "https://myanimelist.net/manga/19682/Full_Metal_Panic_Surplus",
+    "image": "https://cdn.myanimelist.net/images/manga/1/30689.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "フルメタル・パニック！ SURPLUS"
-    ],
+    "deletedAt": null,
     "authors": [
       "Gatou, Shouji",
       "Nagai, Tomohiro"
-    ],
-    "id": 19682,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:36.628Z",
+    "updatedAt": "2022-05-13T12:42:36.628Z",
+    "checkedAt": null,
+    "id": 49682,
     "type": "manga",
     "title": "Full Metal Panic! Surplus",
-    "url": "https://myanimelist.net/manga/19682/Full_Metal_Panic_Surplus",
-    "image": "https://cdn.myanimelist.net/images/manga/1/30689.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:45.000Z",
-    "updatedAt": "2022-05-03T00:01:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フルメタル・パニック! SURPLUS"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shouji Gatou"
-    ],
-    "id": 49682,
-    "malId": 19682,
-    "type": "manga",
-    "title": "Full Metal Panic! Surplus",
     "url": "https://anilist.co/manga/49682",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19682.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:23.000Z",
-    "updatedAt": "2021-12-17T17:08:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19682/Full_Metal_Panic_Surplus"
+    "externalLinks": [],
+    "malId": 19682,
+    "deletedAt": null,
+    "authors": [
+      "Shouji Gatou"
+    ]
+  }
 }

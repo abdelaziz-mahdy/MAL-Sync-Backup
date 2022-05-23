@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakamoto Akira"
-  ],
+  "createdAt": "2022-02-27T13:53:12.000Z",
+  "updatedAt": "2022-02-27T14:17:40.000Z",
+  "checkedAt": null,
+  "id": 96847,
   "identifier": "manga-oz965508",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20199,
   "aniId": 50199,
-  "createdAt": "2022-02-27T13:53:12.000Z",
-  "updatedAt": "2022-02-27T14:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakamoto Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:48.000Z",
+    "updatedAt": "2022-02-27T13:53:21.000Z",
+    "checkedAt": null,
+    "id": 20199,
+    "type": "manga",
+    "title": "Tokyo Dead Line",
+    "altTitle": [
+      "Tokyo Deadline",
+      "東京デッドライン"
+    ],
+    "url": "https://myanimelist.net/manga/20199/Tokyo_Dead_Line",
+    "image": "https://cdn.myanimelist.net/images/manga/3/31744.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tokyo Deadline",
-      "東京デッドライン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakamoto, Akira"
-    ],
-    "id": 20199,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:07.106Z",
+    "updatedAt": "2022-05-13T12:43:07.106Z",
+    "checkedAt": null,
+    "id": 50199,
     "type": "manga",
     "title": "Tokyo Dead Line",
-    "url": "https://myanimelist.net/manga/20199/Tokyo_Dead_Line",
-    "image": "https://cdn.myanimelist.net/images/manga/3/31744.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:48.000Z",
-    "updatedAt": "2022-02-27T13:53:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "東京デッドライン",
       "Tokyo Deadline"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Sakamoto"
-    ],
-    "id": 50199,
-    "malId": 20199,
-    "type": "manga",
-    "title": "Tokyo Dead Line",
     "url": "https://anilist.co/manga/50199",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20199.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:27.000Z",
-    "updatedAt": "2021-12-17T17:13:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20199/Tokyo_Dead_Line"
+    "externalLinks": [],
+    "malId": 20199,
+    "deletedAt": null,
+    "authors": [
+      "Akira Sakamoto"
+    ]
+  }
 }

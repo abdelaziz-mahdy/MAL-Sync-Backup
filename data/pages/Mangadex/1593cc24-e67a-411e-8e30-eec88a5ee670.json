@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "노경찬",
-    "암현"
-  ],
+  "createdAt": "2020-10-12T16:06:20.000Z",
+  "updatedAt": "2021-12-03T20:17:17.000Z",
+  "checkedAt": null,
+  "id": 8301,
   "identifier": "1593cc24-e67a-411e-8e30-eec88a5ee670",
   "type": "manga",
   "page": "Mangadex",
@@ -12,33 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 85653,
-  "createdAt": "2020-10-12T16:06:20.000Z",
-  "updatedAt": "2021-12-03T20:17:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "노경찬",
+    "암현"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:00.747Z",
+    "updatedAt": "2022-05-14T10:16:14.000Z",
+    "checkedAt": "2022-05-14T10:16:14.000Z",
+    "id": 85653,
+    "type": "manga",
+    "title": "Red Storm",
     "altTitle": [
       "레드스톰"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gyeong-Chan No",
-      "Hyeon Am"
-    ],
-    "id": 85653,
-    "malId": null,
-    "type": "manga",
-    "title": "Red Storm",
     "url": "https://anilist.co/manga/85653",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85653-fYcbxnsSybbY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-22T00:12:58.000Z",
-    "updatedAt": "2022-04-15T12:00:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Gyeong-Chan No",
+      "Hyeon Am"
+    ]
+  }
 }

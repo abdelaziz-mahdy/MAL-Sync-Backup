@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okushou",
-    "Watanabe Shizumu"
-  ],
+  "createdAt": "2021-05-31T09:19:01.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
+  "checkedAt": null,
+  "id": 74497,
   "identifier": "manga-sz953182",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65685,
   "aniId": 85250,
-  "createdAt": "2021-05-31T09:19:01.000Z",
-  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okushou",
+    "Watanabe Shizumu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:08.000Z",
+    "updatedAt": "2022-05-15T02:55:48.000Z",
+    "checkedAt": "2022-05-15T02:55:48.000Z",
+    "id": 65685,
+    "type": "manga",
+    "title": "Real Account",
+    "altTitle": [
+      "Real Account",
+      "リアルアカウント"
+    ],
+    "url": "https://myanimelist.net/manga/65685/Real_Account",
+    "image": "https://cdn.myanimelist.net/images/manga/3/147381.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,26 +46,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Real Account",
-      "リアルアカウント"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Shizumu",
       "Okushou"
-    ],
-    "id": 65685,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:30.444Z",
+    "updatedAt": "2022-05-16T02:07:04.000Z",
+    "checkedAt": "2022-05-16T02:07:04.000Z",
+    "id": 85250,
     "type": "manga",
     "title": "Real Account",
-    "url": "https://myanimelist.net/manga/65685/Real_Account",
-    "image": "https://cdn.myanimelist.net/images/manga/3/147381.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:08.000Z",
-    "updatedAt": "2021-12-30T20:23:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Real Account",
       "リアルアカウント",
@@ -59,22 +68,16 @@
       "ReAcc",
       "ติด ตาม ตาย"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shizumu Watanabe",
-      "Okushou"
-    ],
-    "id": 85250,
-    "malId": 65685,
-    "type": "manga",
-    "title": "Real Account",
     "url": "https://anilist.co/manga/85250",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85250-LnX2FI0J9mVC.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:53.000Z",
-    "updatedAt": "2022-05-01T00:11:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/65685/Real_Account"
+    "externalLinks": [],
+    "malId": 65685,
+    "deletedAt": null,
+    "authors": [
+      "Shizumu Watanabe",
+      "Okushou"
+    ]
+  }
 }

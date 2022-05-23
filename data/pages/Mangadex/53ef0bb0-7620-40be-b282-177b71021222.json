@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Gosho Aoyama",
-    "Various"
-  ],
+  "createdAt": "2020-10-12T16:13:38.000Z",
+  "updatedAt": "2021-12-05T23:17:21.000Z",
+  "checkedAt": null,
+  "id": 23292,
   "identifier": "53ef0bb0-7620-40be-b282-177b71021222",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3202,
   "aniId": 33202,
-  "createdAt": "2020-10-12T16:13:38.000Z",
-  "updatedAt": "2021-12-05T23:17:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Gosho Aoyama",
+    "Various"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:49.000Z",
+    "updatedAt": "2022-05-21T17:46:27.000Z",
+    "checkedAt": "2022-05-21T17:46:27.000Z",
+    "id": 3202,
+    "type": "manga",
+    "title": "Detective Conan Tokubetsu-hen",
+    "altTitle": [
+      "Detective Conan Short Stories",
+      "Meitantei Conan Tokubetsu-hen",
+      "名探偵コナン特別編"
+    ],
+    "url": "https://myanimelist.net/manga/3202/Detective_Conan_Tokubetsu-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/5/78721.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Detective Conan Short Stories",
-      "Meitantei Conan Tokubetsu-hen",
-      "名探偵コナン特別編"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abe, Yutaka",
       "Aoyama, Gosho",
       "Maru, Denjirou"
-    ],
-    "id": 3202,
-    "type": "manga",
-    "title": "Detective Conan Tokubetsu-hen",
-    "url": "https://myanimelist.net/manga/3202/Detective_Conan_Tokubetsu-hen",
-    "image": "https://cdn.myanimelist.net/images/manga/5/78721.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:49.000Z",
-    "updatedAt": "2022-02-13T18:40:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:37.143Z",
+    "updatedAt": "2022-05-21T17:46:26.000Z",
+    "checkedAt": "2022-05-21T17:46:26.000Z",
+    "id": 33202,
+    "type": "manga",
+    "title": "Meitantei Conan: Tokubetsu-hen",
     "altTitle": [
       "Case Closed Short Stories",
       "名探偵コナン特別編",
       "Detective Conan Tokubetsu-Hen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yutaka Abe",
-      "Gosho Aoyama"
-    ],
-    "id": 33202,
-    "malId": 3202,
-    "type": "manga",
-    "title": "Meitantei Conan: Tokubetsu-hen",
     "url": "https://anilist.co/manga/33202",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33202-esrnFt1bPlQW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:05.000Z",
-    "updatedAt": "2021-12-17T11:10:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3202/Detective_Conan_Tokubetsu-hen"
+    "externalLinks": [],
+    "malId": 3202,
+    "deletedAt": null,
+    "authors": [
+      "Yutaka Abe",
+      "Gosho Aoyama"
+    ]
+  }
 }

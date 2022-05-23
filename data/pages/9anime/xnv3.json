@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:30.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10316,
   "identifier": "xnv3",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37433,
   "aniId": 101277,
-  "createdAt": "2020-10-12T15:56:30.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:01.000Z",
+    "updatedAt": "2022-05-14T16:27:44.000Z",
+    "checkedAt": "2022-05-14T16:27:44.000Z",
+    "id": 37433,
+    "type": "anime",
+    "title": "Wakaokami wa Shougakusei!",
+    "altTitle": [
+      "Okko's Inn",
+      "若おかみは小学生！"
+    ],
+    "url": "https://myanimelist.net/anime/37433/Wakaokami_wa_Shougakusei",
+    "image": "https://cdn.myanimelist.net/images/anime/1825/94402.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,40 +55,27 @@
         "url": "http://www.crunchyroll.com/series-281091"
       }
     ],
-    "altTitle": [
-      "Okko's Inn",
-      "若おかみは小学生！"
-    ],
-    "id": 37433,
+    "deletedAt": null,
+    "anidbId": 13875
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:36.000Z",
+    "updatedAt": "2022-05-15T10:05:35.000Z",
+    "checkedAt": "2022-05-15T10:05:35.000Z",
+    "id": 101277,
     "type": "anime",
     "title": "Wakaokami wa Shougakusei!",
-    "url": "https://myanimelist.net/anime/37433/Wakaokami_wa_Shougakusei",
-    "image": "https://cdn.myanimelist.net/images/anime/1825/94402.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13875,
-    "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2022-05-03T00:02:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "若おかみは小学生！",
       "Okko's Inn",
       "Okko y los fantasmas"
     ],
-    "externalLinks": [],
-    "id": 101277,
-    "malId": 37433,
-    "type": "anime",
-    "title": "Wakaokami wa Shougakusei!",
     "url": "https://anilist.co/anime/101277",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101277-xpHIcJx3zL3E.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:36.000Z",
-    "updatedAt": "2022-03-22T01:26:57.000Z",
+    "externalLinks": [],
+    "malId": 37433,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/37433/Wakaokami_wa_Shougakusei"
+  }
 }

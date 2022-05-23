@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Nintendo",
-    "Tazawa Kouji",
-    "Ishikawa Kenji"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:07.000Z",
+  "checkedAt": null,
+  "id": 3357,
   "identifier": "5de460b1-500c-4d16-9e9e-6f4cf554ef6a",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6642,
   "aniId": 36642,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nintendo",
+    "Tazawa Kouji",
+    "Ishikawa Kenji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:11.000Z",
+    "updatedAt": "2022-04-29T18:30:23.000Z",
+    "checkedAt": null,
+    "id": 6642,
+    "type": "manga",
+    "title": "Metroid",
+    "altTitle": [
+      "メトロイド"
+    ],
+    "url": "https://myanimelist.net/manga/6642/Metroid",
+    "image": "https://cdn.myanimelist.net/images/manga/2/153968.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,43 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "メトロイド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tazawa, Kouji",
       "Ishikawa, Kenji"
-    ],
-    "id": 6642,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:08.432Z",
+    "updatedAt": "2022-05-13T12:44:08.432Z",
+    "checkedAt": null,
+    "id": 36642,
     "type": "manga",
     "title": "Metroid",
-    "url": "https://myanimelist.net/manga/6642/Metroid",
-    "image": "https://cdn.myanimelist.net/images/manga/2/153968.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:11.000Z",
-    "updatedAt": "2022-04-29T18:30:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "メトロイド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenji Ishikawa"
-    ],
-    "id": 36642,
-    "malId": 6642,
-    "type": "manga",
-    "title": "Metroid",
     "url": "https://anilist.co/manga/36642",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36642-vJk2kyvKPAx1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:42.000Z",
-    "updatedAt": "2021-12-17T12:46:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6642/Metroid"
+    "externalLinks": [],
+    "malId": 6642,
+    "deletedAt": null,
+    "authors": [
+      "Kenji Ishikawa"
+    ]
+  }
 }

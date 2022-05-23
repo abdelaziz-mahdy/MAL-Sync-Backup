@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Cotoji"
-  ],
+  "createdAt": "2020-10-12T16:11:20.000Z",
+  "updatedAt": "2021-12-05T07:49:01.000Z",
+  "checkedAt": null,
+  "id": 19109,
   "identifier": "5e7e419e-0531-4d8c-b8d1-323c2cee43f0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85191,
   "aniId": 86325,
-  "createdAt": "2020-10-12T16:11:20.000Z",
-  "updatedAt": "2021-12-05T07:49:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cotoji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-15T00:24:17.000Z",
+    "checkedAt": "2022-05-15T00:24:17.000Z",
+    "id": 85191,
+    "type": "manga",
+    "title": "Anne Happy♪",
+    "altTitle": [
+      "Anne Happy: Unhappy Go Lucky!",
+      "あんハピ♪"
+    ],
+    "url": "https://myanimelist.net/manga/85191/Anne_Happy♪",
+    "image": "https://cdn.myanimelist.net/images/manga/1/147679.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Anne Happy: Unhappy Go Lucky!",
-      "あんハピ♪"
-    ],
+    "deletedAt": null,
     "authors": [
       "Cotoji"
-    ],
-    "id": 85191,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:55.343Z",
+    "updatedAt": "2022-05-17T12:28:08.000Z",
+    "checkedAt": "2022-05-17T12:28:08.000Z",
+    "id": 86325,
     "type": "manga",
     "title": "Anne Happy♪",
-    "url": "https://myanimelist.net/manga/85191/Anne_Happy♪",
-    "image": "https://cdn.myanimelist.net/images/manga/1/147679.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2021-11-04T08:36:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Anne Happy: Unhappy Go Lucky!",
       "あんハピ♪",
       "Anne-Happy"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Cotoji",
-      "Amanda Haley",
-      "Rochelle Gancio"
-    ],
-    "id": 86325,
-    "malId": 85191,
-    "type": "manga",
-    "title": "Anne Happy♪",
     "url": "https://anilist.co/manga/86325",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86325-LLD0HVZdx0E8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-17T22:50:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85191/Anne_Happy♪"
+    "externalLinks": [],
+    "malId": 85191,
+    "deletedAt": null,
+    "authors": [
+      "Cotoji",
+      "Amanda Haley",
+      "Rochelle Gancio"
+    ]
+  }
 }

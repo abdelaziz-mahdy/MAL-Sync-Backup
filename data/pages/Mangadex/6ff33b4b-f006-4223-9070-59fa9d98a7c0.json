@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yuzuko Hoshimi"
-  ],
+  "createdAt": "2020-10-12T16:20:39.000Z",
+  "updatedAt": "2021-12-08T01:12:02.000Z",
+  "checkedAt": null,
+  "id": 37629,
   "identifier": "6ff33b4b-f006-4223-9070-59fa9d98a7c0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 127281,
-  "createdAt": "2020-10-12T16:20:39.000Z",
-  "updatedAt": "2021-12-08T01:12:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuzuko Hoshimi"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:35.856Z",
+    "updatedAt": "2022-05-17T14:18:17.000Z",
+    "checkedAt": "2022-05-17T14:18:17.000Z",
+    "id": 127281,
+    "type": "manga",
+    "title": "MAGICA",
     "altTitle": [
       "マジカ",
       "極悪ユートピア",
@@ -27,22 +35,16 @@
       "しあわせの刃",
       "美しい国"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hoshimi  Yuzuko",
-      "Jean-Baptiste Bondis"
-    ],
-    "id": 127281,
-    "malId": null,
-    "type": "manga",
-    "title": "MAGICA",
     "url": "https://anilist.co/manga/127281",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127281-i3mBhf0ljXxX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T00:53:50.000Z",
-    "updatedAt": "2022-05-14T23:00:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Hoshimi  Yuzuko",
+      "Jean-Baptiste Bondis"
+    ]
+  }
 }

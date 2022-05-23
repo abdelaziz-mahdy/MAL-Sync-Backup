@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Anthology"
-  ],
+  "createdAt": "2020-10-12T16:20:04.000Z",
+  "updatedAt": "2021-12-07T23:38:10.000Z",
+  "checkedAt": null,
+  "id": 36444,
   "identifier": "298d6375-babf-47bf-8624-87e6eb84f10e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10580,
   "aniId": 40580,
-  "createdAt": "2020-10-12T16:20:04.000Z",
-  "updatedAt": "2021-12-07T23:38:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Anthology"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-05-13T16:51:50.000Z",
+    "checkedAt": "2022-05-13T16:51:50.000Z",
+    "id": 10580,
+    "type": "manga",
+    "title": "Persona 4",
+    "altTitle": [
+      "Shin Megami Tensei: Persona 4",
+      "P4",
+      "Persona 4",
+      "ペルソナ4"
+    ],
+    "url": "https://myanimelist.net/manga/10580/Persona_4",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217941.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shin Megami Tensei: Persona 4",
-      "P4",
-      "Persona 4",
-      "ペルソナ4"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sogabe, Shuji",
       "Atlus"
-    ],
-    "id": 10580,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:27.808Z",
+    "updatedAt": "2022-05-21T04:57:37.000Z",
+    "checkedAt": "2022-05-21T04:57:37.000Z",
+    "id": 40580,
     "type": "manga",
     "title": "Persona 4",
-    "url": "https://myanimelist.net/manga/10580/Persona_4",
-    "image": "https://cdn.myanimelist.net/images/manga/1/217941.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:28.000Z",
-    "updatedAt": "2022-04-30T01:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ペルソナ4",
       "Shin Megami Tensei: Persona 4",
       "P4"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuji Sogabe",
-      "Atlus",
-      "Nesrine Mezouane"
-    ],
-    "id": 40580,
-    "malId": 10580,
-    "type": "manga",
-    "title": "Persona 4",
     "url": "https://anilist.co/manga/40580",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40580-WkjbJWFwx3nO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:06.000Z",
-    "updatedAt": "2021-12-17T14:08:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10580/Persona_4"
+    "externalLinks": [],
+    "malId": 10580,
+    "deletedAt": null,
+    "authors": [
+      "Shuji Sogabe",
+      "Atlus",
+      "Nesrine Mezouane"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Son Jeho",
-    "Zhena"
-  ],
+  "createdAt": "2020-12-23T08:56:04.000Z",
+  "updatedAt": "2022-05-13T19:50:15.000Z",
+  "checkedAt": "2022-05-13T19:50:15.000Z",
+  "id": 55425,
   "identifier": "eleceed",
   "type": "manga",
   "page": "MangaSee",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 106929,
-  "createdAt": "2020-12-23T08:56:04.000Z",
-  "updatedAt": "2022-03-15T04:00:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Son Jeho",
+    "Zhena"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:32.542Z",
+    "updatedAt": "2022-05-15T18:02:11.000Z",
+    "checkedAt": "2022-05-15T18:02:11.000Z",
+    "id": 106929,
+    "type": "manga",
+    "title": "Eleceed",
     "altTitle": [
       "Eleceed",
       "일렉시드",
       "Eleceed: Velocidad eléctrica"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hye-Jin Kim",
-      "Jae-Ho Son"
-    ],
-    "id": 106929,
-    "malId": null,
-    "type": "manga",
-    "title": "Eleceed",
     "url": "https://anilist.co/manga/106929",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106929-flAUvHZDUz5v.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-21T10:13:08.000Z",
-    "updatedAt": "2022-04-24T23:30:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Hye-Jin Kim",
+      "Jae-Ho Son"
+    ]
+  }
 }

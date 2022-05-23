@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nanami Shingo"
-  ],
+  "createdAt": "2020-10-12T16:07:40.000Z",
+  "updatedAt": "2021-12-04T09:19:00.000Z",
+  "checkedAt": null,
+  "id": 11117,
   "identifier": "c3f8b897-1bc6-43c4-88fe-4513d9ce84c8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 764,
   "aniId": 30764,
-  "createdAt": "2020-10-12T16:07:40.000Z",
-  "updatedAt": "2021-12-04T09:19:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nanami Shingo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-18T19:58:49.000Z",
+    "checkedAt": "2022-05-18T19:58:49.000Z",
+    "id": 764,
+    "type": "manga",
+    "title": "Kamui",
+    "altTitle": [
+      "Kamui",
+      "KAMUI"
+    ],
+    "url": "https://myanimelist.net/manga/764/Kamui",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154482.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kamui",
-      "KAMUI"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nanami, Shingo"
-    ],
-    "id": 764,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:05.342Z",
+    "updatedAt": "2022-05-18T19:58:47.000Z",
+    "checkedAt": "2022-05-18T19:58:47.000Z",
+    "id": 30764,
     "type": "manga",
     "title": "Kamui",
-    "url": "https://myanimelist.net/manga/764/Kamui",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154482.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-02-02T23:51:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kamui",
       "KAMUI"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shingo Nanami"
-    ],
-    "id": 30764,
-    "malId": 764,
-    "type": "manga",
-    "title": "Kamui",
     "url": "https://anilist.co/manga/30764",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30764-R75TTQNbKIYx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-17T09:33:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/764/Kamui"
+    "externalLinks": [],
+    "malId": 764,
+    "deletedAt": null,
+    "authors": [
+      "Shingo Nanami"
+    ]
+  }
 }

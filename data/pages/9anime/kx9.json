@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:48.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5669,
   "identifier": "kx9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32023,
   "aniId": 21471,
-  "createdAt": "2020-10-12T15:52:48.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:41.000Z",
+    "updatedAt": "2022-05-14T18:23:05.000Z",
+    "checkedAt": "2022-05-14T18:23:05.000Z",
+    "id": 32023,
+    "type": "anime",
+    "title": "Bubuki Buranki",
+    "altTitle": [
+      "BBK/BRNK",
+      "ブブキ・ブランキ"
+    ],
+    "url": "https://myanimelist.net/anime/32023/Bubuki_Buranki",
+    "image": "https://cdn.myanimelist.net/images/anime/7/79758.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "http://www.crunchyroll.com/series-269063"
       }
     ],
-    "altTitle": [
-      "BBK/BRNK",
-      "ブブキ・ブランキ"
-    ],
-    "id": 32023,
+    "deletedAt": null,
+    "anidbId": 11761
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:42:59.000Z",
+    "updatedAt": "2022-05-15T14:30:23.000Z",
+    "checkedAt": "2022-05-15T14:30:23.000Z",
+    "id": 21471,
     "type": "anime",
     "title": "Bubuki Buranki",
-    "url": "https://myanimelist.net/anime/32023/Bubuki_Buranki",
-    "image": "https://cdn.myanimelist.net/images/anime/7/79758.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11761,
-    "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2022-04-03T09:03:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BBK/BRNK",
       "ブブキ・ブランキ"
     ],
+    "url": "https://anilist.co/anime/21471",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21471-cG8JwPn9v1d3.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/GRVNE09QY/BBKBRNK"
       }
     ],
-    "id": 21471,
     "malId": 32023,
-    "type": "anime",
-    "title": "Bubuki Buranki",
-    "url": "https://anilist.co/anime/21471",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21471-cG8JwPn9v1d3.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:42:59.000Z",
-    "updatedAt": "2021-12-17T15:01:16.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32023/Bubuki_Buranki"
+  }
 }

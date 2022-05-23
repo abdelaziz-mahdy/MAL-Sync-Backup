@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kobachi Ruka"
-  ],
+  "createdAt": "2020-10-12T16:11:55.000Z",
+  "updatedAt": "2022-04-18T12:00:24.000Z",
+  "checkedAt": null,
+  "id": 20337,
   "identifier": "bc86a871-ddc5-4e42-812a-ccd38101d82e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111857,
   "aniId": 100801,
-  "createdAt": "2020-10-12T16:11:55.000Z",
-  "updatedAt": "2022-04-18T12:00:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kobachi Ruka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2022-05-14T23:57:41.000Z",
+    "checkedAt": "2022-05-14T23:57:41.000Z",
+    "id": 111857,
+    "type": "manga",
+    "title": "Hana ni Arashi",
+    "altTitle": [
+      "Nanoha to Chidori",
+      "はなにあらし"
+    ],
+    "url": "https://myanimelist.net/manga/111857/Hana_ni_Arashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/212605.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nanoha to Chidori",
-      "はなにあらし"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kobachi, Ruka"
-    ],
-    "id": 111857,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:00.840Z",
+    "updatedAt": "2022-05-16T01:59:17.000Z",
+    "checkedAt": "2022-05-16T01:59:17.000Z",
+    "id": 100801,
     "type": "manga",
     "title": "Hana ni Arashi",
-    "url": "https://myanimelist.net/manga/111857/Hana_ni_Arashi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/212605.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2021-11-27T17:36:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "はなにあらし",
       "A Storm of Flowers",
       "Nanoha to Chidori",
       "รักเราดั่งพายุดอกไม้"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ruka Kobachi"
-    ],
-    "id": 100801,
-    "malId": 111857,
-    "type": "manga",
-    "title": "Hana ni Arashi",
     "url": "https://anilist.co/manga/100801",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100801-94JFvdg8Sk9c.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2021-12-08T09:33:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111857/Hana_ni_Arashi"
+    "externalLinks": [],
+    "malId": 111857,
+    "deletedAt": null,
+    "authors": [
+      "Ruka Kobachi"
+    ]
+  }
 }

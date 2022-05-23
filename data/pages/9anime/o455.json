@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:07.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7366,
   "identifier": "o455",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26441,
   "aniId": 20840,
-  "createdAt": "2020-10-12T15:54:07.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:30.000Z",
+    "updatedAt": "2022-05-14T19:02:41.000Z",
+    "checkedAt": "2022-05-14T19:02:41.000Z",
+    "id": 26441,
+    "type": "anime",
+    "title": "Junketsu no Maria",
+    "altTitle": [
+      "Junketsu no Maria: Sorcière de gré, pucelle de force",
+      "Maria the Virgin Witch",
+      "純潔のマリア"
+    ],
+    "url": "https://myanimelist.net/anime/26441/Junketsu_no_Maria",
+    "image": "https://cdn.myanimelist.net/images/anime/1940/98844.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,47 +60,33 @@
         "url": "https://www.funimation.com/shows/maria-the-virgin-witch"
       }
     ],
-    "altTitle": [
-      "Junketsu no Maria: Sorcière de gré, pucelle de force",
-      "Maria the Virgin Witch",
-      "純潔のマリア"
-    ],
-    "id": 26441,
+    "deletedAt": null,
+    "anidbId": 10178
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:42.000Z",
+    "updatedAt": "2022-05-15T13:55:11.000Z",
+    "checkedAt": "2022-05-15T13:55:11.000Z",
+    "id": 20840,
     "type": "anime",
     "title": "Junketsu no Maria",
-    "url": "https://myanimelist.net/anime/26441/Junketsu_no_Maria",
-    "image": "https://cdn.myanimelist.net/images/anime/1940/98844.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10178,
-    "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2022-04-03T01:34:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Maria the Virgin Witch",
       "純潔のマリア",
       "Sorcière de gré",
       " pucelle de force"
     ],
+    "url": "https://anilist.co/anime/20840",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20840-rhZE6bH7HTV4.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/maria-the-virgin-witch/"
       }
     ],
-    "id": 20840,
     "malId": 26441,
-    "type": "anime",
-    "title": "Junketsu no Maria",
-    "url": "https://anilist.co/anime/20840",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20840-rhZE6bH7HTV4.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:42.000Z",
-    "updatedAt": "2022-05-16T10:12:20.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/26441/Junketsu_no_Maria"
+  }
 }

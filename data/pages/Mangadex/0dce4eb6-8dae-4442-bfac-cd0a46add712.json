@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Rikudo Koshi"
-  ],
+  "createdAt": "2021-01-29T12:56:54.000Z",
+  "updatedAt": "2021-12-08T11:37:20.000Z",
+  "checkedAt": null,
+  "id": 60562,
   "identifier": "0dce4eb6-8dae-4442-bfac-cd0a46add712",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33395,
   "aniId": 63395,
-  "createdAt": "2021-01-29T12:56:54.000Z",
-  "updatedAt": "2021-12-08T11:37:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Rikudo Koshi"
+  ],
   "Mal": {
+    "createdAt": "2020-12-25T10:56:24.000Z",
+    "updatedAt": "2021-12-08T11:05:09.000Z",
+    "checkedAt": null,
+    "id": 33395,
+    "type": "manga",
+    "title": "Deathless",
+    "altTitle": [
+      "デスレス"
+    ],
+    "url": "https://myanimelist.net/manga/33395/Deathless",
+    "image": "https://cdn.myanimelist.net/images/manga/2/149201.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "デスレス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Rikudou, Koushi"
-    ],
-    "id": 33395,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:19.694Z",
+    "updatedAt": "2022-05-13T12:58:19.694Z",
+    "checkedAt": null,
+    "id": 63395,
     "type": "manga",
     "title": "Deathless",
-    "url": "https://myanimelist.net/manga/33395/Deathless",
-    "image": "https://cdn.myanimelist.net/images/manga/2/149201.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-12-25T10:56:24.000Z",
-    "updatedAt": "2021-12-08T11:05:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "デスレス",
       "妖力女神"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Koshi Rikudo"
-    ],
-    "id": 63395,
-    "malId": 33395,
-    "type": "manga",
-    "title": "Deathless",
     "url": "https://anilist.co/manga/63395",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63395-h8etgW5VU2WR.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T10:56:52.000Z",
-    "updatedAt": "2021-12-17T19:28:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/33395/Deathless"
+    "externalLinks": [],
+    "malId": 33395,
+    "deletedAt": null,
+    "authors": [
+      "Koshi Rikudo"
+    ]
+  }
 }

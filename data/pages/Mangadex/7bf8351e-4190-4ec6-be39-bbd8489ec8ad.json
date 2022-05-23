@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Mado Nozaki",
-    "Okubashi Mutsumi"
-  ],
+  "createdAt": "2020-11-04T10:28:39.000Z",
+  "updatedAt": "2021-12-08T06:41:12.000Z",
+  "checkedAt": null,
+  "id": 51468,
   "identifier": "7bf8351e-4190-4ec6-be39-bbd8489ec8ad",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104577,
   "aniId": 109518,
-  "createdAt": "2020-11-04T10:28:39.000Z",
-  "updatedAt": "2021-12-08T06:41:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mado Nozaki",
+    "Okubashi Mutsumi"
+  ],
   "Mal": {
+    "createdAt": "2020-11-04T10:28:35.000Z",
+    "updatedAt": "2022-05-19T11:33:08.000Z",
+    "checkedAt": "2022-05-19T11:33:08.000Z",
+    "id": 104577,
+    "type": "manga",
+    "title": "Seikaisuru Kado",
+    "altTitle": [
+      "Kado: The Right Answer",
+      "正解するカド"
+    ],
+    "url": "https://myanimelist.net/manga/104577/Seikaisuru_Kado",
+    "image": "https://cdn.myanimelist.net/images/manga/1/197608.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kado: The Right Answer",
-      "正解するカド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nozaki, Mado",
       "Okuhashi, Mutsumi"
-    ],
-    "id": 104577,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:13.188Z",
+    "updatedAt": "2022-05-19T11:33:07.000Z",
+    "checkedAt": "2022-05-19T11:33:07.000Z",
+    "id": 109518,
     "type": "manga",
     "title": "Seikaisuru Kado",
-    "url": "https://myanimelist.net/manga/104577/Seikaisuru_Kado",
-    "image": "https://cdn.myanimelist.net/images/manga/1/197608.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-04T10:28:35.000Z",
-    "updatedAt": "2021-11-04T10:36:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kado: The Right Answer",
       "正解するカド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mado Nozaki",
-      "Mutsumi Okubashi"
-    ],
-    "id": 109518,
-    "malId": 104577,
-    "type": "manga",
-    "title": "Seikaisuru Kado",
     "url": "https://anilist.co/manga/109518",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109518-dhn0y9YwbnHn.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:12.000Z",
-    "updatedAt": "2021-12-18T06:27:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104577/Seikaisuru_Kado"
+    "externalLinks": [],
+    "malId": 104577,
+    "deletedAt": null,
+    "authors": [
+      "Mado Nozaki",
+      "Mutsumi Okubashi"
+    ]
+  }
 }

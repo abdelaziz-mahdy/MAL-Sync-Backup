@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "YD",
-    "Yanghee"
-  ],
+  "createdAt": "2020-10-12T16:13:30.000Z",
+  "updatedAt": "2021-12-05T22:17:59.000Z",
+  "checkedAt": null,
+  "id": 23024,
   "identifier": "3a53c292-b60c-41c6-8bdf-477e9cb1e91e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4946,
   "aniId": 34946,
-  "createdAt": "2020-10-12T16:13:30.000Z",
-  "updatedAt": "2021-12-05T22:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "YD",
+    "Yanghee"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:02.000Z",
+    "updatedAt": "2022-04-19T10:30:24.000Z",
+    "checkedAt": null,
+    "id": 4946,
+    "type": "manga",
+    "title": "Shirayuki Poppu",
     "altTitle": [
       "Hakusetsu Poppu",
       "Shirayuki Poppu",
@@ -28,21 +34,24 @@
       "White Snow Pop",
       "白雪ポップ"
     ],
-    "authors": [
-      "Oouchi, Natsumi"
-    ],
-    "id": 4946,
-    "type": "manga",
-    "title": "Shirayuki Poppu",
     "url": "https://myanimelist.net/manga/4946/Shirayuki_Poppu",
     "image": "https://cdn.myanimelist.net/images/manga/1/24743.jpg",
     "category": "One-shot",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:02.000Z",
-    "updatedAt": "2022-04-19T10:30:24.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oouchi, Natsumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:15.886Z",
+    "updatedAt": "2022-05-13T12:55:15.886Z",
+    "checkedAt": null,
+    "id": 34946,
+    "type": "manga",
+    "title": "Shirayuki Poppu",
     "altTitle": [
       "White Snow Pop",
       "白雪ポップ",
@@ -50,21 +59,15 @@
       "Shirayuki Poppu",
       "Snow White Pop"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsumi Oouchi"
-    ],
-    "id": 34946,
-    "malId": 4946,
-    "type": "manga",
-    "title": "Shirayuki Poppu",
     "url": "https://anilist.co/manga/34946",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4946.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:38.000Z",
-    "updatedAt": "2021-12-17T12:11:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4946/Shirayuki_Poppu"
+    "externalLinks": [],
+    "malId": 4946,
+    "deletedAt": null,
+    "authors": [
+      "Natsumi Oouchi"
+    ]
+  }
 }

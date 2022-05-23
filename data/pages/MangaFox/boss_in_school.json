@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "LEE Hoon Young"
-  ],
+  "createdAt": "2021-01-29T20:27:28.000Z",
+  "updatedAt": "2022-04-24T14:31:32.000Z",
+  "checkedAt": null,
+  "id": 60615,
   "identifier": "boss_in_school",
   "type": "manga",
   "page": "MangaFox",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 110645,
-  "createdAt": "2021-01-29T20:27:28.000Z",
-  "updatedAt": "2022-04-24T14:31:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "LEE Hoon Young"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:57.508Z",
+    "updatedAt": "2022-05-17T02:26:07.000Z",
+    "checkedAt": "2022-05-17T02:26:07.000Z",
+    "id": 110645,
+    "type": "manga",
+    "title": "Boss in School",
     "altTitle": [
       "Boss in School",
       "보스 인 스쿨",
@@ -28,22 +36,16 @@
       "Un capo de la escuela",
       "El capo del instituto"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ui-Gwon Kim",
-      "Hoon Young Lee"
-    ],
-    "id": 110645,
-    "malId": null,
-    "type": "manga",
-    "title": "Boss in School",
     "url": "https://anilist.co/manga/110645",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110645-GFzx1xEfmtFK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-24T18:08:17.000Z",
-    "updatedAt": "2022-03-30T21:31:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ui-Gwon Kim",
+      "Hoon Young Lee"
+    ]
+  }
 }

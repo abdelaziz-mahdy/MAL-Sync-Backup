@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamada J-Ta"
-  ],
+  "createdAt": "2020-10-12T16:03:17.000Z",
+  "updatedAt": "2021-12-02T13:18:48.000Z",
+  "checkedAt": null,
+  "id": 1922,
   "identifier": "d85a766d-da0b-4930-b8f1-959652c37985",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1643,
   "aniId": 31643,
-  "createdAt": "2020-10-12T16:03:17.000Z",
-  "updatedAt": "2021-12-02T13:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada J-Ta"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-22T19:21:05.000Z",
+    "checkedAt": "2022-05-22T19:21:05.000Z",
+    "id": 1643,
+    "type": "manga",
+    "title": "Asatte no Houkou.",
+    "altTitle": [
+      "Towards the Day After Tomorrow",
+      "A Direction of the Day After Tomorrow",
+      "あさっての方向。"
+    ],
+    "url": "https://myanimelist.net/manga/1643/Asatte_no_Houkou",
+    "image": "https://cdn.myanimelist.net/images/manga/4/33018.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Towards the Day After Tomorrow",
-      "A Direction of the Day After Tomorrow",
-      "あさっての方向。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, J-ta"
-    ],
-    "id": 1643,
-    "type": "manga",
-    "title": "Asatte no Houkou.",
-    "url": "https://myanimelist.net/manga/1643/Asatte_no_Houkou",
-    "image": "https://cdn.myanimelist.net/images/manga/4/33018.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-04-27T03:30:56.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:34.476Z",
+    "updatedAt": "2022-05-22T19:21:04.000Z",
+    "checkedAt": "2022-05-22T19:21:04.000Z",
+    "id": 31643,
+    "type": "manga",
+    "title": "Asatte no Houkou",
     "altTitle": [
       "A Direction of the Day After Tomorrow",
       "あさっての方向。",
       "A Direction of the Day After Tomorrow",
       "Towards the Day After Tomorrow"
     ],
-    "externalLinks": [],
-    "authors": [
-      "J-ta Yamada"
-    ],
-    "id": 31643,
-    "malId": 1643,
-    "type": "manga",
-    "title": "Asatte no Houkou",
     "url": "https://anilist.co/manga/31643",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1643.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:49.000Z",
-    "updatedAt": "2021-12-17T10:11:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1643/Asatte_no_Houkou"
+    "externalLinks": [],
+    "malId": 1643,
+    "deletedAt": null,
+    "authors": [
+      "J-ta Yamada"
+    ]
+  }
 }

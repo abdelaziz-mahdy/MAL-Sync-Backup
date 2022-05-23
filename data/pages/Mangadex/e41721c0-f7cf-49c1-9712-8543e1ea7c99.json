@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Cho Jung-man"
-  ],
+  "createdAt": "2020-10-12T16:02:53.000Z",
+  "updatedAt": "2021-12-02T10:18:57.000Z",
+  "checkedAt": null,
+  "id": 1083,
   "identifier": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5113,
   "aniId": 35113,
-  "createdAt": "2020-10-12T16:02:53.000Z",
-  "updatedAt": "2021-12-02T10:18:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cho Jung-man"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:03.000Z",
+    "updatedAt": "2022-05-15T17:36:52.000Z",
+    "checkedAt": "2022-05-15T17:36:52.000Z",
+    "id": 5113,
+    "type": "manga",
+    "title": "Witch Hunter",
+    "altTitle": [
+      "Witch Buster",
+      "위치헌터"
+    ],
+    "url": "https://myanimelist.net/manga/5113/Witch_Hunter",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198695.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Witch Buster",
-      "위치헌터"
-    ],
+    "deletedAt": null,
     "authors": [
       "Jung-man, CHO"
-    ],
-    "id": 5113,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:48.425Z",
+    "updatedAt": "2022-05-15T20:16:11.000Z",
+    "checkedAt": "2022-05-15T20:16:11.000Z",
+    "id": 35113,
     "type": "manga",
     "title": "Witch Hunter",
-    "url": "https://myanimelist.net/manga/5113/Witch_Hunter",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198695.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:03.000Z",
-    "updatedAt": "2021-12-21T07:52:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Witch Hunter",
       "위치헌터",
@@ -55,21 +64,15 @@
       "Охотник на ведьм",
       "Cadı Avcısı"
     ],
-    "externalLinks": [],
-    "authors": [
-      "CHO Jung-man"
-    ],
-    "id": 35113,
-    "malId": 5113,
-    "type": "manga",
-    "title": "Witch Hunter",
     "url": "https://anilist.co/manga/35113",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35113-pFxDCBI4yqVm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:24.000Z",
-    "updatedAt": "2021-12-17T12:13:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5113/Witch_Hunter"
+    "externalLinks": [],
+    "malId": 5113,
+    "deletedAt": null,
+    "authors": [
+      "CHO Jung-man"
+    ]
+  }
 }

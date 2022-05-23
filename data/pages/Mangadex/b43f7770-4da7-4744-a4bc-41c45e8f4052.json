@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takeda Kazuyoshi",
-    "Hiratsuka Masao"
-  ],
+  "createdAt": "2020-10-12T16:15:40.000Z",
+  "updatedAt": "2021-12-06T15:47:43.000Z",
+  "checkedAt": null,
+  "id": 27493,
   "identifier": "b43f7770-4da7-4744-a4bc-41c45e8f4052",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 97321,
   "aniId": 104997,
-  "createdAt": "2020-10-12T16:15:40.000Z",
-  "updatedAt": "2021-12-06T15:47:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeda Kazuyoshi",
+    "Hiratsuka Masao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:27.000Z",
+    "updatedAt": "2022-05-16T21:34:44.000Z",
+    "checkedAt": "2022-05-16T21:34:44.000Z",
+    "id": 97321,
+    "type": "manga",
+    "title": "Peleliu: Rakuen no Guernica",
+    "altTitle": [
+      "Peleliu: Guernica of Paradise",
+      "ペリリュー～楽園のゲルニカ～"
+    ],
+    "url": "https://myanimelist.net/manga/97321/Peleliu__Rakuen_no_Guernica",
+    "image": "https://cdn.myanimelist.net/images/manga/3/181791.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Peleliu: Guernica of Paradise",
-      "ペリリュー～楽園のゲルニカ～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takeda, Kazuyoshi"
-    ],
-    "id": 97321,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:25.784Z",
+    "updatedAt": "2022-05-16T21:34:42.000Z",
+    "checkedAt": "2022-05-16T21:34:42.000Z",
+    "id": 104997,
     "type": "manga",
     "title": "Peleliu: Rakuen no Guernica",
-    "url": "https://myanimelist.net/manga/97321/Peleliu__Rakuen_no_Guernica",
-    "image": "https://cdn.myanimelist.net/images/manga/3/181791.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:27.000Z",
-    "updatedAt": "2021-12-16T20:18:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ペリリュー～楽園のゲルニカ～",
       "Peleliu: Guernica of Paradise"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuyoshi Takeda"
-    ],
-    "id": 104997,
-    "malId": 97321,
-    "type": "manga",
-    "title": "Peleliu: Rakuen no Guernica",
     "url": "https://anilist.co/manga/104997",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104997-FjEe2pOVMSf1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:09.000Z",
-    "updatedAt": "2021-12-18T04:58:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/97321/Peleliu__Rakuen_no_Guernica"
+    "externalLinks": [],
+    "malId": 97321,
+    "deletedAt": null,
+    "authors": [
+      "Kazuyoshi Takeda"
+    ]
+  }
 }

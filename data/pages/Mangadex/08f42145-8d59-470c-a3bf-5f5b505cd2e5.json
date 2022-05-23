@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hanagata Rei",
-    "Aoyama Kei"
-  ],
+  "createdAt": "2020-10-12T16:03:14.000Z",
+  "updatedAt": "2021-12-02T12:47:16.000Z",
+  "checkedAt": null,
+  "id": 1815,
   "identifier": "08f42145-8d59-470c-a3bf-5f5b505cd2e5",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20379,
   "aniId": 50379,
-  "createdAt": "2020-10-12T16:03:14.000Z",
-  "updatedAt": "2021-12-02T12:47:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanagata Rei",
+    "Aoyama Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:51.000Z",
+    "updatedAt": "2021-12-10T11:34:30.000Z",
+    "checkedAt": null,
+    "id": 20379,
+    "type": "manga",
+    "title": "China Girl",
+    "altTitle": [
+      "チャイナガール"
+    ],
+    "url": "https://myanimelist.net/manga/20379/China_Girl",
+    "image": "https://cdn.myanimelist.net/images/manga/3/56993.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "チャイナガール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoyama, Kei",
       "Hanagata, Rei"
-    ],
-    "id": 20379,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:57.436Z",
+    "updatedAt": "2022-05-13T13:01:57.436Z",
+    "checkedAt": null,
+    "id": 50379,
     "type": "manga",
     "title": "China Girl",
-    "url": "https://myanimelist.net/manga/20379/China_Girl",
-    "image": "https://cdn.myanimelist.net/images/manga/3/56993.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:51.000Z",
-    "updatedAt": "2021-12-10T11:34:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "チャイナガール"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kei Aoyama",
-      "Rei Hanagata"
-    ],
-    "id": 50379,
-    "malId": 20379,
-    "type": "manga",
-    "title": "China Girl",
     "url": "https://anilist.co/manga/50379",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50379-MorfVJHiOCad.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:32.000Z",
-    "updatedAt": "2021-12-17T17:15:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20379/China_Girl"
+    "externalLinks": [],
+    "malId": 20379,
+    "deletedAt": null,
+    "authors": [
+      "Kei Aoyama",
+      "Rei Hanagata"
+    ]
+  }
 }

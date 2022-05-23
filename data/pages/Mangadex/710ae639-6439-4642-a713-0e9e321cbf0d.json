@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Konogi Yoshiru"
-  ],
+  "createdAt": "2020-10-12T16:06:20.000Z",
+  "updatedAt": "2021-12-03T19:18:38.000Z",
+  "checkedAt": null,
+  "id": 8300,
   "identifier": "710ae639-6439-4642-a713-0e9e321cbf0d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 49661,
   "aniId": 79661,
-  "createdAt": "2020-10-12T16:06:20.000Z",
-  "updatedAt": "2021-12-03T19:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Konogi Yoshiru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:33.000Z",
+    "updatedAt": "2022-05-14T18:34:47.000Z",
+    "checkedAt": "2022-05-14T18:34:47.000Z",
+    "id": 49661,
+    "type": "manga",
+    "title": "SE",
+    "altTitle": [
+      "System Engineer",
+      "SE"
+    ],
+    "url": "https://myanimelist.net/manga/49661/SE",
+    "image": "https://cdn.myanimelist.net/images/manga/3/112467.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "System Engineer",
-      "SE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Konogi, Yoshiru"
-    ],
-    "id": 49661,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:09.831Z",
+    "updatedAt": "2022-05-16T18:10:33.000Z",
+    "checkedAt": "2022-05-16T18:10:33.000Z",
+    "id": 79661,
     "type": "manga",
     "title": "SE",
-    "url": "https://myanimelist.net/manga/49661/SE",
-    "image": "https://cdn.myanimelist.net/images/manga/3/112467.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:33.000Z",
-    "updatedAt": "2022-01-24T00:01:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エス-イー",
       "System Engineer"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshiru Konogi"
-    ],
-    "id": 79661,
-    "malId": 49661,
-    "type": "manga",
-    "title": "SE",
     "url": "https://anilist.co/manga/79661",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79661-8p77y9HJSrHQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:42.000Z",
-    "updatedAt": "2021-12-17T21:22:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/49661/SE"
+    "externalLinks": [],
+    "malId": 49661,
+    "deletedAt": null,
+    "authors": [
+      "Yoshiru Konogi"
+    ]
+  }
 }

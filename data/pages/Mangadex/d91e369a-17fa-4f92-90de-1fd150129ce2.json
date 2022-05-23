@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takanashi Mitsuba"
-  ],
+  "createdAt": "2020-10-12T16:03:21.000Z",
+  "updatedAt": "2021-12-02T13:46:46.000Z",
+  "checkedAt": null,
+  "id": 2047,
   "identifier": "d91e369a-17fa-4f92-90de-1fd150129ce2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 634,
   "aniId": 30634,
-  "createdAt": "2020-10-12T16:03:21.000Z",
-  "updatedAt": "2021-12-02T13:46:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takanashi Mitsuba"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E7%B4%85%E8%89%B2HERO"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:24.000Z",
+    "updatedAt": "2022-05-21T22:09:59.000Z",
+    "checkedAt": "2022-05-21T22:09:59.000Z",
+    "id": 634,
+    "type": "manga",
+    "title": "Beniiro Hero",
     "altTitle": [
       "\"Second\"",
       "Sugar",
@@ -32,42 +33,44 @@
       "Crimson Hero",
       "紅色HERO"
     ],
-    "authors": [
-      "Takanashi, Mitsuba"
-    ],
-    "id": 634,
-    "type": "manga",
-    "title": "Beniiro Hero",
     "url": "https://myanimelist.net/manga/634/Beniiro_Hero",
     "image": "https://cdn.myanimelist.net/images/manga/2/165847.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:24.000Z",
-    "updatedAt": "2022-04-09T15:32:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%B4%85%E8%89%B2HERO"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takanashi, Mitsuba"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:53.405Z",
+    "updatedAt": "2022-05-21T22:09:58.000Z",
+    "checkedAt": "2022-05-21T22:09:58.000Z",
+    "id": 30634,
+    "type": "manga",
+    "title": "Beniiro Hero",
     "altTitle": [
       "Crimson Hero",
       "紅色HERO",
       "Beni-iro Hīrō",
       "Beni-iro Hero"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuba Takanashi"
-    ],
-    "id": 30634,
-    "malId": 634,
-    "type": "manga",
-    "title": "Beniiro Hero",
     "url": "https://anilist.co/manga/30634",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30634-LSh2wXdmuCBz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2021-12-17T09:14:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/634/Beniiro_Hero"
+    "externalLinks": [],
+    "malId": 634,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuba Takanashi"
+    ]
+  }
 }

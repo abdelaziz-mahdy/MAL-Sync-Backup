@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizushima Shinji"
-  ],
+  "createdAt": "2020-10-12T16:17:30.000Z",
+  "updatedAt": "2021-12-07T08:18:52.000Z",
+  "checkedAt": null,
+  "id": 31262,
   "identifier": "c83522e6-854c-4af6-bcd7-18013c4d9d98",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 67705,
   "aniId": 90696,
-  "createdAt": "2020-10-12T16:17:30.000Z",
-  "updatedAt": "2021-12-07T08:18:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizushima Shinji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2022-05-22T03:21:35.000Z",
+    "checkedAt": "2022-05-22T03:21:35.000Z",
+    "id": 67705,
+    "type": "manga",
+    "title": "Abu-san",
+    "altTitle": [
+      "あぶさん"
+    ],
+    "url": "https://myanimelist.net/manga/67705/Abu-san",
+    "image": "https://cdn.myanimelist.net/images/manga/2/116449.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あぶさん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizushima, Shinji"
-    ],
-    "id": 67705,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:45.324Z",
+    "updatedAt": "2022-05-22T03:21:34.000Z",
+    "checkedAt": "2022-05-22T03:21:34.000Z",
+    "id": 90696,
     "type": "manga",
     "title": "Abu-san",
-    "url": "https://myanimelist.net/manga/67705/Abu-san",
-    "image": "https://cdn.myanimelist.net/images/manga/2/116449.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:13.000Z",
-    "updatedAt": "2021-11-09T22:45:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あぶさん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinji Mizushima"
-    ],
-    "id": 90696,
-    "malId": 67705,
-    "type": "manga",
-    "title": "Abu-san",
     "url": "https://anilist.co/manga/90696",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90696-BQEH8HrHR5Dm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:00.000Z",
-    "updatedAt": "2021-12-18T00:01:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/67705/Abu-san"
+    "externalLinks": [],
+    "malId": 67705,
+    "deletedAt": null,
+    "authors": [
+      "Shinji Mizushima"
+    ]
+  }
 }

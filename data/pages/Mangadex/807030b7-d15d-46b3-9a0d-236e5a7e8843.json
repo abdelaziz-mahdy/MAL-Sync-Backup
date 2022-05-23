@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mihara Mitsukazu"
-  ],
+  "createdAt": "2020-10-12T16:12:23.000Z",
+  "updatedAt": "2021-12-05T15:51:19.000Z",
+  "checkedAt": null,
+  "id": 21004,
   "identifier": "807030b7-d15d-46b3-9a0d-236e5a7e8843",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 492,
   "aniId": 30492,
-  "createdAt": "2020-10-12T16:12:23.000Z",
-  "updatedAt": "2021-12-05T15:51:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mihara Mitsukazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2021-12-05T15:16:17.000Z",
+    "checkedAt": null,
+    "id": 492,
+    "type": "manga",
+    "title": "R.I.P.",
+    "altTitle": [
+      "R.I.P.",
+      "Requiem in Phonybrian",
+      "Ｒ・Ｉ・Ｐ"
+    ],
+    "url": "https://myanimelist.net/manga/492/RIP",
+    "image": "https://cdn.myanimelist.net/images/manga/1/114751.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "R.I.P.",
-      "Requiem in Phonybrian",
-      "Ｒ・Ｉ・Ｐ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mihara, Mitsukazu"
-    ],
-    "id": 492,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:33.318Z",
+    "updatedAt": "2022-05-13T12:43:33.318Z",
+    "checkedAt": null,
+    "id": 30492,
     "type": "manga",
     "title": "R.I.P.",
-    "url": "https://myanimelist.net/manga/492/RIP",
-    "image": "https://cdn.myanimelist.net/images/manga/1/114751.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2021-12-05T15:16:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "R.I.P.",
       "Ｒ・Ｉ・Ｐ",
       "Requiem in Phonybrian"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsukazu Mihara",
-      "Beni Axia Conrad",
-      "Erika Terriquez"
-    ],
-    "id": 30492,
-    "malId": 492,
-    "type": "manga",
-    "title": "R.I.P.",
     "url": "https://anilist.co/manga/30492",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30492-p9PHvaiAOc4I.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2022-01-16T04:41:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/492/RIP"
+    "externalLinks": [],
+    "malId": 492,
+    "deletedAt": null,
+    "authors": [
+      "Mitsukazu Mihara",
+      "Beni Axia Conrad",
+      "Erika Terriquez"
+    ]
+  }
 }

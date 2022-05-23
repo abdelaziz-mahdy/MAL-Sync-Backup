@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suzuki Sanami"
-  ],
+  "createdAt": "2022-04-09T00:00:34.000Z",
+  "updatedAt": "2022-04-09T00:30:23.000Z",
+  "checkedAt": null,
+  "id": 100918,
   "identifier": "manga-nu990629",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140889,
   "aniId": 137267,
-  "createdAt": "2022-04-09T00:00:34.000Z",
-  "updatedAt": "2022-04-09T00:30:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Sanami"
+  ],
   "Mal": {
+    "createdAt": "2021-12-04T22:47:08.000Z",
+    "updatedAt": "2022-05-15T03:28:53.000Z",
+    "checkedAt": "2022-05-15T03:28:53.000Z",
+    "id": 140889,
+    "type": "manga",
+    "title": "Kajiki no Ryourinin",
+    "altTitle": [
+      "The Kajiki Chef: Divine Cuisine",
+      "神食の料理人"
+    ],
+    "url": "https://myanimelist.net/manga/140889/Kajiki_no_Ryourinin",
+    "image": "https://cdn.myanimelist.net/images/manga/5/252084.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,49 +41,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Kajiki Chef: Divine Cuisine",
-      "神食の料理人"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Sanami"
-    ],
-    "id": 140889,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:40.774Z",
+    "updatedAt": "2022-05-15T18:13:11.000Z",
+    "checkedAt": "2022-05-15T18:13:11.000Z",
+    "id": 137267,
     "type": "manga",
     "title": "Kajiki no Ryourinin",
-    "url": "https://myanimelist.net/manga/140889/Kajiki_no_Ryourinin",
-    "image": "https://cdn.myanimelist.net/images/manga/5/252084.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-04T22:47:08.000Z",
-    "updatedAt": "2022-05-01T18:02:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Kajiki Chef: Divine Cuisine",
       "神食の料理人"
     ],
+    "url": "https://anilist.co/manga/137267",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137267-gQbOPJSVJwWj.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100184"
       }
     ],
+    "malId": 140889,
+    "deletedAt": null,
     "authors": [
       "Sanami Suzuki"
-    ],
-    "id": 137267,
-    "malId": 140889,
-    "type": "manga",
-    "title": "Kajiki no Ryourinin",
-    "url": "https://anilist.co/manga/137267",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137267-gQbOPJSVJwWj.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-07-30T20:52:02.000Z",
-    "updatedAt": "2022-02-04T18:36:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140889/Kajiki_no_Ryourinin"
+    ]
+  }
 }

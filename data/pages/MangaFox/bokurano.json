@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "KITOH Mohiro"
-  ],
+  "createdAt": "2021-12-01T02:07:06.000Z",
+  "updatedAt": "2021-12-01T02:35:34.000Z",
+  "checkedAt": null,
+  "id": 92150,
   "identifier": "bokurano",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 670,
   "aniId": 30670,
-  "createdAt": "2021-12-01T02:07:06.000Z",
-  "updatedAt": "2021-12-01T02:35:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "KITOH Mohiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:24.000Z",
+    "updatedAt": "2022-05-15T00:59:11.000Z",
+    "checkedAt": "2022-05-15T00:59:11.000Z",
+    "id": 670,
+    "type": "manga",
+    "title": "Bokurano",
+    "altTitle": [
+      "Bokura no",
+      "Bokurano ~Mou Hitotsu no Bokurano~",
+      "Bokurano: Ours",
+      "ぼくらの"
+    ],
+    "url": "https://myanimelist.net/manga/670/Bokurano",
+    "image": "https://cdn.myanimelist.net/images/manga/1/57107.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bokura no",
-      "Bokurano ~Mou Hitotsu no Bokurano~",
-      "Bokurano: Ours",
-      "ぼくらの"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kitoh, Mohiro"
-    ],
-    "id": 670,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:11.652Z",
+    "updatedAt": "2022-05-15T19:58:23.000Z",
+    "checkedAt": "2022-05-15T19:58:23.000Z",
+    "id": 30670,
     "type": "manga",
     "title": "Bokurano",
-    "url": "https://myanimelist.net/manga/670/Bokurano",
-    "image": "https://cdn.myanimelist.net/images/manga/1/57107.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:24.000Z",
-    "updatedAt": "2022-04-06T10:31:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bokurano: Ours",
       "ぼくらの",
@@ -57,21 +66,15 @@
       "Bokurano ~Mou Hitotsu no Bokurano~",
       "Bokurano, notre enjeu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mohiro Kitou"
-    ],
-    "id": 30670,
-    "malId": 670,
-    "type": "manga",
-    "title": "Bokurano",
     "url": "https://anilist.co/manga/30670",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30670-pDFNVLQRGfAj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2022-03-13T21:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/670/Bokurano"
+    "externalLinks": [],
+    "malId": 670,
+    "deletedAt": null,
+    "authors": [
+      "Mohiro Kitou"
+    ]
+  }
 }

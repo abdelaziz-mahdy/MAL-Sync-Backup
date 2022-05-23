@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sumino Yoru",
-    "Kirihara Idumi"
-  ],
+  "createdAt": "2020-10-12T16:14:05.000Z",
+  "updatedAt": "2021-12-06T02:47:39.000Z",
+  "checkedAt": null,
+  "id": 24206,
   "identifier": "fb09a201-eaec-4acb-bdff-2f010e8482db",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110160,
   "aniId": 105747,
-  "createdAt": "2020-10-12T16:14:05.000Z",
-  "updatedAt": "2021-12-06T02:47:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sumino Yoru",
+    "Kirihara Idumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:18.000Z",
+    "updatedAt": "2022-05-14T18:04:41.000Z",
+    "checkedAt": "2022-05-14T18:04:41.000Z",
+    "id": 110160,
+    "type": "manga",
+    "title": "Mata, Onaji Yume wo Miteita",
+    "altTitle": [
+      "I Too Saw the Same Dream",
+      "I Had That Same Dream Again",
+      "また、同じ夢を見ていた"
+    ],
+    "url": "https://myanimelist.net/manga/110160/Mata_Onaji_Yume_wo_Miteita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/207726.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I Too Saw the Same Dream",
-      "I Had That Same Dream Again",
-      "また、同じ夢を見ていた"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kirihara, Idumi",
       "Sumino, Yoru"
-    ],
-    "id": 110160,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:42.246Z",
+    "updatedAt": "2022-05-15T14:23:23.000Z",
+    "checkedAt": "2022-05-15T14:23:23.000Z",
+    "id": 105747,
     "type": "manga",
     "title": "Mata, Onaji Yume wo Miteita",
-    "url": "https://myanimelist.net/manga/110160/Mata_Onaji_Yume_wo_Miteita",
-    "image": "https://cdn.myanimelist.net/images/manga/3/207726.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:18.000Z",
-    "updatedAt": "2022-02-15T16:46:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "I Had That Same Dream Again",
       "また、同じ夢を見ていた",
       "I Too Saw the Same Dream",
       "ฝันถึงเรื่องนั้นอีกแล้ว"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoru Sumino",
-      "Izumi Kirihara"
-    ],
-    "id": 105747,
-    "malId": 110160,
-    "type": "manga",
-    "title": "Mata, Onaji Yume wo Miteita",
     "url": "https://anilist.co/manga/105747",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105747-lCVcrqITuq92.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:10.000Z",
-    "updatedAt": "2022-03-05T19:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110160/Mata_Onaji_Yume_wo_Miteita"
+    "externalLinks": [],
+    "malId": 110160,
+    "deletedAt": null,
+    "authors": [
+      "Yoru Sumino",
+      "Izumi Kirihara"
+    ]
+  }
 }

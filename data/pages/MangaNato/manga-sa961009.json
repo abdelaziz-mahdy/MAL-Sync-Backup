@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamada Takatoshi"
-  ],
+  "createdAt": "2021-06-09T08:04:25.000Z",
+  "updatedAt": "2021-12-09T09:03:50.000Z",
+  "checkedAt": null,
+  "id": 77417,
   "identifier": "manga-sa961009",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12086,
   "aniId": 42086,
-  "createdAt": "2021-06-09T08:04:25.000Z",
-  "updatedAt": "2021-12-09T09:03:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Takatoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:43.000Z",
+    "updatedAt": "2022-05-17T13:24:32.000Z",
+    "checkedAt": "2022-05-17T13:24:32.000Z",
+    "id": 12086,
+    "type": "manga",
+    "title": "Dr. Kotou Shinryoujo",
+    "altTitle": [
+      "Doctor Koto Shinryousho",
+      "Dr. Koto's Clinic",
+      "Dr.コトー診療所"
+    ],
+    "url": "https://myanimelist.net/manga/12086/Dr_Kotou_Shinryoujo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179582.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Doctor Koto Shinryousho",
-      "Dr. Koto's Clinic",
-      "Dr.コトー診療所"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Takatoshi"
-    ],
-    "id": 12086,
-    "type": "manga",
-    "title": "Dr. Kotou Shinryoujo",
-    "url": "https://myanimelist.net/manga/12086/Dr_Kotou_Shinryoujo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179582.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:43.000Z",
-    "updatedAt": "2021-12-09T08:33:38.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:46.193Z",
+    "updatedAt": "2022-05-17T13:24:31.000Z",
+    "checkedAt": "2022-05-17T13:24:31.000Z",
+    "id": 42086,
+    "type": "manga",
+    "title": "Dr. Koto Shinryoujo",
     "altTitle": [
       "Dr.コトー診療所",
       "Doctor Koto Shinryousho",
       "Dr. Koto's Clinic"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takatoshi Yamada"
-    ],
-    "id": 42086,
-    "malId": 12086,
-    "type": "manga",
-    "title": "Dr. Koto Shinryoujo",
     "url": "https://anilist.co/manga/42086",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42086-wn2qtwhOKVhT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:17.000Z",
-    "updatedAt": "2021-12-17T14:41:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12086/Dr_Kotou_Shinryoujo"
+    "externalLinks": [],
+    "malId": 12086,
+    "deletedAt": null,
+    "authors": [
+      "Takatoshi Yamada"
+    ]
+  }
 }

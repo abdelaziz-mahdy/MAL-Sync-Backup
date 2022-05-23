@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kai",
-    "Hoshino Madoka"
-  ],
+  "createdAt": "2020-10-12T16:07:19.000Z",
+  "updatedAt": "2021-12-04T02:21:27.000Z",
+  "checkedAt": null,
+  "id": 10369,
   "identifier": "20a55e02-c354-4aba-b859-816dd6d88e1a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69905,
   "aniId": 119164,
-  "createdAt": "2020-10-12T16:07:19.000Z",
-  "updatedAt": "2021-12-04T02:21:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kai",
+    "Hoshino Madoka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:16.000Z",
+    "updatedAt": "2021-11-10T05:44:55.000Z",
+    "checkedAt": null,
+    "id": 69905,
+    "type": "manga",
+    "title": "Shinigami no Kyou",
+    "altTitle": [
+      "Grim Reaper Kyou",
+      "死神のキョウ"
+    ],
+    "url": "https://myanimelist.net/manga/69905/Shinigami_no_Kyou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/119705.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Grim Reaper Kyou",
-      "死神のキョウ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hoshino, Madoka",
       "Kai"
-    ],
-    "id": 69905,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:45.049Z",
+    "updatedAt": "2022-05-13T12:54:45.049Z",
+    "checkedAt": null,
+    "id": 119164,
     "type": "manga",
     "title": "Shinigami no Kyou",
-    "url": "https://myanimelist.net/manga/69905/Shinigami_no_Kyou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/119705.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:16.000Z",
-    "updatedAt": "2021-11-10T05:44:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "死神のキョウ",
       "Grim Reaper Kyou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kasumu Kirino",
-      "Kai",
-      "Madoka Hoshino"
-    ],
-    "id": 119164,
-    "malId": 69905,
-    "type": "manga",
-    "title": "Shinigami no Kyou",
     "url": "https://anilist.co/manga/119164",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119164-s6GAqGfzIYWl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:29.000Z",
-    "updatedAt": "2021-12-18T09:25:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69905/Shinigami_no_Kyou"
+    "externalLinks": [],
+    "malId": 69905,
+    "deletedAt": null,
+    "authors": [
+      "Kasumu Kirino",
+      "Kai",
+      "Madoka Hoshino"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Uzuki Jun"
-  ],
+  "createdAt": "2020-10-12T16:16:39.000Z",
+  "updatedAt": "2021-12-07T00:48:04.000Z",
+  "checkedAt": null,
+  "id": 29539,
   "identifier": "409cb14d-f05f-4aae-8c36-bd89f7c588a4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1020,
   "aniId": 31020,
-  "createdAt": "2020-10-12T16:16:39.000Z",
-  "updatedAt": "2021-12-07T00:48:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Uzuki Jun"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.onedramaqueen.com/blportal/18/AngelDevil/index.php"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2021-12-07T20:33:39.000Z",
+    "checkedAt": null,
+    "id": 1020,
+    "type": "manga",
+    "title": "Ore no Tenshi wa Mayonaka Akuma",
     "altTitle": [
       "Angel & Devil",
       "Angel and Devil",
@@ -33,21 +34,29 @@
       "I'm the Angelic Midnight Demon",
       "俺の天使は真夜中悪魔"
     ],
-    "authors": [
-      "Uzuki, Jun"
-    ],
-    "id": 1020,
-    "type": "manga",
-    "title": "Ore no Tenshi wa Mayonaka Akuma",
     "url": "https://myanimelist.net/manga/1020/Ore_no_Tenshi_wa_Mayonaka_Akuma",
     "image": "https://cdn.myanimelist.net/images/manga/1/5965.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2021-12-07T20:33:39.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.onedramaqueen.com/blportal/18/AngelDevil/index.php"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uzuki, Jun"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:05.395Z",
+    "updatedAt": "2022-05-13T12:45:05.395Z",
+    "checkedAt": null,
+    "id": 31020,
+    "type": "manga",
+    "title": "Ore no Tenshi wa Mayonaka Akuma",
     "altTitle": [
       "Angel & Devil",
       "俺の天使は真夜中悪魔",
@@ -55,21 +64,15 @@
       "Homura",
       "I'm the Angelic Midnight Demon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Uzuki"
-    ],
-    "id": 31020,
-    "malId": 1020,
-    "type": "manga",
-    "title": "Ore no Tenshi wa Mayonaka Akuma",
     "url": "https://anilist.co/manga/31020",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31020-zUEJkl7U0N8N.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:39:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1020/Ore_no_Tenshi_wa_Mayonaka_Akuma"
+    "externalLinks": [],
+    "malId": 1020,
+    "deletedAt": null,
+    "authors": [
+      "Jun Uzuki"
+    ]
+  }
 }

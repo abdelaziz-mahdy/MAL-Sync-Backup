@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Teatline (Tobino Bino)"
-  ],
+  "createdAt": "2020-10-12T16:19:38.000Z",
+  "updatedAt": "2021-12-07T22:37:00.000Z",
+  "checkedAt": null,
+  "id": 35564,
   "identifier": "efa52f67-a5f8-4eab-9e73-025054adae82",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95757,
   "aniId": 87135,
-  "createdAt": "2020-10-12T16:19:38.000Z",
-  "updatedAt": "2021-12-07T22:37:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Teatline (Tobino Bino)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-03-12T18:02:52.000Z",
+    "checkedAt": null,
+    "id": 95757,
+    "type": "manga",
+    "title": "Ensemble Stars!",
+    "altTitle": [
+      "あんさんぶるスターズ！"
+    ],
+    "url": "https://myanimelist.net/manga/95757/Ensemble_Stars",
+    "image": "https://cdn.myanimelist.net/images/manga/3/185370.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +44,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あんさんぶるスターズ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sayo, Ichi"
-    ],
-    "id": 95757,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:06.806Z",
+    "updatedAt": "2022-05-13T12:52:06.806Z",
+    "checkedAt": null,
+    "id": 87135,
     "type": "manga",
     "title": "Ensemble Stars!",
-    "url": "https://myanimelist.net/manga/95757/Ensemble_Stars",
-    "image": "https://cdn.myanimelist.net/images/manga/3/185370.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-03-12T18:02:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ensemble Stars!",
       "あんさんぶるスターズ!",
       "Enstars!",
       "あんスタ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichi Sayo",
-      "Happy Elements KK"
-    ],
-    "id": 87135,
-    "malId": 95757,
-    "type": "manga",
-    "title": "Ensemble Stars!",
     "url": "https://anilist.co/manga/87135",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87135-zlM3UtR2f7HY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-17T23:22:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95757/Ensemble_Stars"
+    "externalLinks": [],
+    "malId": 95757,
+    "deletedAt": null,
+    "authors": [
+      "Ichi Sayo",
+      "Happy Elements KK"
+    ]
+  }
 }

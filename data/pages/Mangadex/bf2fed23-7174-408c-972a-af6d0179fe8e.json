@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohba Tsugumi",
-    "Obata Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:18:27.000Z",
+  "updatedAt": "2021-12-07T17:17:53.000Z",
+  "checkedAt": null,
+  "id": 33186,
   "identifier": "bf2fed23-7174-408c-972a-af6d0179fe8e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,63 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123699,
   "aniId": 115122,
-  "createdAt": "2020-10-12T16:18:27.000Z",
-  "updatedAt": "2021-12-07T17:17:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohba Tsugumi",
+    "Obata Takeshi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-14T23:37:46.000Z",
+    "checkedAt": "2022-05-14T23:37:46.000Z",
+    "id": 123699,
+    "type": "manga",
+    "title": "Death Note: Tokubetsu Yomikiri",
     "altTitle": [
       "Death Note: Special One-Shot",
       "DEATH NOTE 特別読切"
     ],
-    "authors": [
-      "Obata, Takeshi",
-      "Ohba, Tsugumi"
-    ],
-    "id": 123699,
-    "type": "manga",
-    "title": "Death Note: Tokubetsu Yomikiri",
     "url": "https://myanimelist.net/manga/123699/Death_Note__Tokubetsu_Yomikiri",
     "image": "https://cdn.myanimelist.net/images/manga/3/226633.jpg",
     "category": "One-shot",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2021-11-25T01:36:04.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Obata, Takeshi",
+      "Ohba, Tsugumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.172Z",
+    "updatedAt": "2022-05-16T00:33:52.000Z",
+    "checkedAt": "2022-05-16T00:33:52.000Z",
+    "id": 115122,
+    "type": "manga",
+    "title": "DEATH NOTE: Tokubetsu Yomikiri",
     "altTitle": [
       "Death Note: a-Kira",
       "DEATH NOTE 特別読切",
       "デスノート",
       "Death Note: Special One-Shot"
     ],
+    "url": "https://anilist.co/manga/115122",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115122-HWsbTNeZyoFD.jpg",
+    "category": "one_shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/200042"
       }
     ],
+    "malId": 123699,
+    "deletedAt": null,
     "authors": [
       "Takeshi Obata",
       "Tsugumi Ooba",
       "Stephen Paul"
-    ],
-    "id": 115122,
-    "malId": 123699,
-    "type": "manga",
-    "title": "DEATH NOTE: Tokubetsu Yomikiri",
-    "url": "https://anilist.co/manga/115122",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115122-HWsbTNeZyoFD.jpg",
-    "category": "one_shot",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2022-04-30T18:00:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123699/Death_Note__Tokubetsu_Yomikiri"
+    ]
+  }
 }

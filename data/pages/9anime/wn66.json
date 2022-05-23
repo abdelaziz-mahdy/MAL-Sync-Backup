@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:11.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9828,
   "identifier": "wn66",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 139,
   "aniId": 139,
-  "createdAt": "2020-10-12T15:56:11.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T17:30:18.000Z",
+    "checkedAt": "2022-05-14T17:30:18.000Z",
+    "id": 139,
+    "type": "anime",
+    "title": "Hunter x Hunter: Greed Island Final",
+    "altTitle": [
+      "Hunter x Hunter: G I Final",
+      "Hunter x Hunter OVA 3",
+      "HUNTER×HUNTER G・I Final"
+    ],
+    "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final",
+    "image": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,24 +51,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hunter x Hunter: G I Final",
-      "Hunter x Hunter OVA 3",
-      "HUNTER×HUNTER G・I Final"
-    ],
+    "deletedAt": null,
+    "anidbId": 1427
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:27.000Z",
+    "updatedAt": "2022-05-15T16:14:11.000Z",
+    "checkedAt": "2022-05-15T16:14:11.000Z",
     "id": 139,
     "type": "anime",
-    "title": "Hunter x Hunter: Greed Island Final",
-    "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final",
-    "image": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1427,
-    "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2022-04-06T01:00:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "HUNTER×HUNTER: Greed Island Final",
     "altTitle": [
       "HUNTER×HUNTER　G・I　Final",
       "Hunter x Hunter: G I Final",
@@ -59,18 +68,12 @@
       "ハンター×ハンター　G・I　Final",
       "HxH"
     ],
-    "externalLinks": [],
-    "id": 139,
-    "malId": 139,
-    "type": "anime",
-    "title": "HUNTER×HUNTER: Greed Island Final",
     "url": "https://anilist.co/anime/139",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/139-nfieU7SpC6XG.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:27.000Z",
-    "updatedAt": "2022-02-25T04:17:40.000Z",
+    "externalLinks": [],
+    "malId": 139,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
+  }
 }

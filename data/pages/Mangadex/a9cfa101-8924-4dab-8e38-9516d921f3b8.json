@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Harada Shigemitsu",
-    "Hagio Nobuto"
-  ],
+  "createdAt": "2020-10-12T16:02:44.000Z",
+  "updatedAt": "2021-12-02T09:17:39.000Z",
+  "checkedAt": null,
+  "id": 751,
   "identifier": "a9cfa101-8924-4dab-8e38-9516d921f3b8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1143,
   "aniId": 31143,
-  "createdAt": "2020-10-12T16:02:44.000Z",
-  "updatedAt": "2021-12-02T09:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harada Shigemitsu",
+    "Hagio Nobuto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:30.000Z",
+    "updatedAt": "2022-05-15T13:27:32.000Z",
+    "checkedAt": "2022-05-15T13:27:32.000Z",
+    "id": 1143,
+    "type": "manga",
+    "title": "Yuria 100 Shiki",
+    "altTitle": [
+      "Yuria Hyaku Shiki",
+      "Yuria Type 100",
+      "ユリア100式"
+    ],
+    "url": "https://myanimelist.net/manga/1143/Yuria_100_Shiki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/51335.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yuria Hyaku Shiki",
-      "Yuria Type 100",
-      "ユリア100式"
-    ],
+    "deletedAt": null,
     "authors": [
       "Harada, Shigemitsu",
       "Hagio, Nobuto"
-    ],
-    "id": 1143,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:38.353Z",
+    "updatedAt": "2022-05-15T17:41:47.000Z",
+    "checkedAt": "2022-05-15T17:41:47.000Z",
+    "id": 31143,
     "type": "manga",
     "title": "Yuria 100 Shiki",
-    "url": "https://myanimelist.net/manga/1143/Yuria_100_Shiki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/51335.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2022-02-20T23:46:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yuria Type 100",
       "ユリア100式",
@@ -55,22 +64,16 @@
       "由莉亚100式",
       "유리아 100식"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigemitsu Harada",
-      "Nobuto Hagio"
-    ],
-    "id": 31143,
-    "malId": 1143,
-    "type": "manga",
-    "title": "Yuria 100 Shiki",
     "url": "https://anilist.co/manga/31143",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31143-u0Z0HJmgNAvI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:54.000Z",
-    "updatedAt": "2021-12-17T09:42:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1143/Yuria_100_Shiki"
+    "externalLinks": [],
+    "malId": 1143,
+    "deletedAt": null,
+    "authors": [
+      "Shigemitsu Harada",
+      "Nobuto Hagio"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Haida Nanako"
-  ],
+  "createdAt": "2022-05-04T20:02:37.000Z",
+  "updatedAt": "2022-05-14T09:21:47.000Z",
+  "checkedAt": "2022-05-14T09:01:44.000Z",
+  "id": 102672,
   "identifier": "manga-bt979354",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,56 @@
   "image": "https://avt.mkklcdnv6temp.com/38/h/16-1583494842.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T20:02:37.000Z",
-  "updatedAt": "2022-05-04T20:02:37.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 110643,
+  "aniId": 108531,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Haida Nanako"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:19.000Z",
+    "updatedAt": "2022-05-14T09:01:47.000Z",
+    "checkedAt": "2022-05-14T09:01:47.000Z",
+    "id": 110643,
+    "type": "manga",
+    "title": "Boku wo Warui Ko ni Shite",
+    "altTitle": [
+      "僕を悪い子にして"
+    ],
+    "url": "https://myanimelist.net/manga/110643/Boku_wo_Warui_Ko_ni_Shite",
+    "image": "https://cdn.myanimelist.net/images/manga/1/206373.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Haida, Nanako"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:31.261Z",
+    "updatedAt": "2022-05-13T13:05:31.261Z",
+    "checkedAt": null,
+    "id": 108531,
+    "type": "manga",
+    "title": "Boku wo Warui Ko ni Shite",
+    "altTitle": [
+      "僕を悪い子にして",
+      "Boku o Warui Ko ni Shite",
+      "Make me a Bad Boy"
+    ],
+    "url": "https://anilist.co/manga/108531",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108531-di2R54zS5zqY.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 110643,
+    "deletedAt": null,
+    "authors": [
+      "Nanako Hada"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Bandai Namco Games",
-    "Shiramine"
-  ],
+  "createdAt": "2020-10-12T16:08:29.000Z",
+  "updatedAt": "2021-12-04T13:20:18.000Z",
+  "checkedAt": null,
+  "id": 12901,
   "identifier": "410b548c-73c0-44aa-8351-bc0a2cbf373b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 84933,
   "aniId": 93663,
-  "createdAt": "2020-10-12T16:08:29.000Z",
-  "updatedAt": "2021-12-04T13:20:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Bandai Namco Games",
+    "Shiramine"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:42.000Z",
+    "updatedAt": "2022-05-17T20:19:05.000Z",
+    "checkedAt": "2022-05-17T20:19:05.000Z",
+    "id": 84933,
+    "type": "manga",
+    "title": "Tales of Zestiria: Michibiki no Toki",
+    "altTitle": [
+      "Tales of Zestiria: The Time of Guidance",
+      "Tales of Zestiria",
+      "テイルズ オブ ゼスティリア 導きの刻"
+    ],
+    "url": "https://myanimelist.net/manga/84933/Tales_of_Zestiria__Michibiki_no_Toki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/160092.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tales of Zestiria: The Time of Guidance",
-      "Tales of Zestiria",
-      "テイルズ オブ ゼスティリア 導きの刻"
-    ],
+    "deletedAt": null,
     "authors": [
       "Bandai-Namco",
       "Shiramine"
-    ],
-    "id": 84933,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:44.207Z",
+    "updatedAt": "2022-05-17T20:19:02.000Z",
+    "checkedAt": "2022-05-17T20:19:02.000Z",
+    "id": 93663,
     "type": "manga",
     "title": "Tales of Zestiria: Michibiki no Toki",
-    "url": "https://myanimelist.net/manga/84933/Tales_of_Zestiria__Michibiki_no_Toki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/160092.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:42.000Z",
-    "updatedAt": "2022-04-03T01:36:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tales of Zestiria",
       "テイルズ オブ ゼスティリア 導きの刻",
       "Tales of Zestiria: The Time of Guidance"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shiramine"
-    ],
-    "id": 93663,
-    "malId": 84933,
-    "type": "manga",
-    "title": "Tales of Zestiria: Michibiki no Toki",
     "url": "https://anilist.co/manga/93663",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93663-tcKj2FpIxUDv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:36.000Z",
-    "updatedAt": "2021-12-18T00:55:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/84933/Tales_of_Zestiria__Michibiki_no_Toki"
+    "externalLinks": [],
+    "malId": 84933,
+    "deletedAt": null,
+    "authors": [
+      "Shiramine"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Otomo Katsuhiro"
-  ],
+  "createdAt": "2020-10-12T16:03:36.000Z",
+  "updatedAt": "2021-12-02T15:18:38.000Z",
+  "checkedAt": null,
+  "id": 2569,
   "identifier": "175cf215-2122-4656-9fac-37ac092438af",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 664,
   "aniId": 30664,
-  "createdAt": "2020-10-12T16:03:36.000Z",
-  "updatedAt": "2021-12-02T15:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Otomo Katsuhiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:24.000Z",
+    "updatedAt": "2022-05-15T03:20:28.000Z",
+    "checkedAt": "2022-05-15T03:20:28.000Z",
+    "id": 664,
+    "type": "manga",
+    "title": "Akira",
+    "altTitle": [
+      "Akira",
+      "AKIRA"
+    ],
+    "url": "https://myanimelist.net/manga/664/Akira",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157929.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,31 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Akira",
-      "AKIRA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Otomo, Katsuhiro"
-    ],
-    "id": 664,
-    "type": "manga",
-    "title": "Akira",
-    "url": "https://myanimelist.net/manga/664/Akira",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157929.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:24.000Z",
-    "updatedAt": "2022-04-23T16:01:47.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:38.685Z",
+    "updatedAt": "2022-05-15T15:47:23.000Z",
+    "checkedAt": "2022-05-15T15:47:23.000Z",
+    "id": 30664,
+    "type": "manga",
+    "title": "AKIRA",
     "altTitle": [
       "Akira",
       "AKIRA",
       "アキラ"
     ],
+    "url": "https://anilist.co/manga/30664",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30664-JJq9tosQvlpW.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 664,
+    "deletedAt": null,
     "authors": [
       "Katsuhiro Ootomo",
       "Satoshi Takabatake",
@@ -59,19 +74,10 @@
       "Erika Huang",
       "Paweł Dybała",
       "Marc Bernabé",
-      "Yasumitsu Suetake"
-    ],
-    "id": 30664,
-    "malId": 664,
-    "type": "manga",
-    "title": "AKIRA",
-    "url": "https://anilist.co/manga/30664",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30664-JJq9tosQvlpW.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2021-11-09T10:43:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/664/Akira"
+      "Yasumitsu Suetake",
+      "Sylvain Chollet",
+      "Bakayaro!",
+      "Alp İlkkurşun"
+    ]
+  }
 }

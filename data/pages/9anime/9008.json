@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:35.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 287,
   "identifier": "9008",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4166,
   "aniId": 4166,
-  "createdAt": "2020-10-12T15:48:35.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:42.000Z",
+    "updatedAt": "2022-05-14T22:33:53.000Z",
+    "checkedAt": "2022-05-14T22:33:53.000Z",
+    "id": 4166,
+    "type": "anime",
+    "title": "To Heart 2 AD",
+    "altTitle": [
+      "ToHeart 2: Another Days",
+      "To Heart 2: Another Days",
+      "ToHeart2ad",
+      "ToHeart 2 AD",
+      "トゥハート2"
+    ],
+    "url": "https://myanimelist.net/anime/4166/To_Heart_2_AD",
+    "image": "https://cdn.myanimelist.net/images/anime/3/75476.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,44 +53,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ToHeart 2: Another Days",
-      "To Heart 2: Another Days",
-      "ToHeart2ad",
-      "ToHeart 2 AD",
-      "トゥハート2"
-    ],
+    "deletedAt": null,
+    "anidbId": 5592
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:33.000Z",
+    "updatedAt": "2022-05-15T14:13:47.000Z",
+    "checkedAt": "2022-05-15T14:13:47.000Z",
     "id": 4166,
     "type": "anime",
-    "title": "To Heart 2 AD",
-    "url": "https://myanimelist.net/anime/4166/To_Heart_2_AD",
-    "image": "https://cdn.myanimelist.net/images/anime/3/75476.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 5592,
-    "createdAt": "2020-10-12T15:38:42.000Z",
-    "updatedAt": "2022-03-31T16:04:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "ToHeart2ad",
     "altTitle": [
       "ToHeart2ad",
       "ToHeart 2: Another Days",
       "To Heart 2: Another Days",
       "トゥハート2 ad"
     ],
-    "externalLinks": [],
-    "id": 4166,
-    "malId": 4166,
-    "type": "anime",
-    "title": "ToHeart2ad",
     "url": "https://anilist.co/anime/4166",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4166-TtCU6kT3aXVa.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:33.000Z",
-    "updatedAt": "2021-12-17T11:22:47.000Z",
+    "externalLinks": [],
+    "malId": 4166,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4166/To_Heart_2_AD"
+  }
 }

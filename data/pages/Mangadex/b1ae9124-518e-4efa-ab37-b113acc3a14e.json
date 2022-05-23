@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyashita Hideki"
-  ],
+  "createdAt": "2020-10-12T16:12:06.000Z",
+  "updatedAt": "2021-12-05T13:48:49.000Z",
+  "checkedAt": null,
+  "id": 20707,
   "identifier": "b1ae9124-518e-4efa-ab37-b113acc3a14e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100036,
   "aniId": 111120,
-  "createdAt": "2020-10-12T16:12:06.000Z",
-  "updatedAt": "2021-12-05T13:48:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyashita Hideki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:38.000Z",
+    "updatedAt": "2021-11-16T23:57:33.000Z",
+    "checkedAt": null,
+    "id": 100036,
+    "type": "manga",
+    "title": "Sengoku Gonbee",
+    "altTitle": [
+      "センゴク権兵衛"
+    ],
+    "url": "https://myanimelist.net/manga/100036/Sengoku_Gonbee",
+    "image": "https://cdn.myanimelist.net/images/manga/3/181644.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "センゴク権兵衛"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyashita, Hideki"
-    ],
-    "id": 100036,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:22.943Z",
+    "updatedAt": "2022-05-13T12:42:22.943Z",
+    "checkedAt": null,
+    "id": 111120,
     "type": "manga",
     "title": "Sengoku Gonbee",
-    "url": "https://myanimelist.net/manga/100036/Sengoku_Gonbee",
-    "image": "https://cdn.myanimelist.net/images/manga/3/181644.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:38.000Z",
-    "updatedAt": "2021-11-16T23:57:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "センゴク権兵衛",
       "ขุนศึกที่โลกลืม"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideki Miyashita"
-    ],
-    "id": 111120,
-    "malId": 100036,
-    "type": "manga",
-    "title": "Sengoku Gonbee",
     "url": "https://anilist.co/manga/111120",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111120-aKnE5KFzEayI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2022-05-08T13:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100036/Sengoku_Gonbee"
+    "externalLinks": [],
+    "malId": 100036,
+    "deletedAt": null,
+    "authors": [
+      "Hideki Miyashita"
+    ]
+  }
 }

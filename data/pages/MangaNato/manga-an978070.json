@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mebu"
-  ],
+  "createdAt": "2021-06-15T11:27:53.000Z",
+  "updatedAt": "2022-01-09T07:47:58.000Z",
+  "checkedAt": null,
+  "id": 78291,
   "identifier": "manga-an978070",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 69505,
   "aniId": 90988,
-  "createdAt": "2021-06-15T11:27:53.000Z",
-  "updatedAt": "2022-01-09T07:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mebu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:15.000Z",
+    "updatedAt": "2022-05-14T23:27:17.000Z",
+    "checkedAt": "2022-05-14T23:27:17.000Z",
+    "id": 69505,
+    "type": "manga",
+    "title": "Acma:Game",
+    "altTitle": [
+      "Akuma Game",
+      "ACMA：GAME"
+    ],
+    "url": "https://myanimelist.net/manga/69505/Acma_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/1/164639.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Akuma Game",
-      "ACMA：GAME"
-    ],
+    "deletedAt": null,
     "authors": [
       "Megumi, Kouji",
       "Meeb"
-    ],
-    "id": 69505,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:16.433Z",
+    "updatedAt": "2022-05-19T21:22:37.000Z",
+    "checkedAt": "2022-05-19T21:22:37.000Z",
+    "id": 90988,
     "type": "manga",
     "title": "Acma:Game",
-    "url": "https://myanimelist.net/manga/69505/Acma_Game",
-    "image": "https://cdn.myanimelist.net/images/manga/1/164639.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:15.000Z",
-    "updatedAt": "2022-03-20T19:24:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ACMA：GAME -アクマ ゲーム-",
       "Akuma Game"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mebu",
-      "Kouji Megumi"
-    ],
-    "id": 90988,
-    "malId": 69505,
-    "type": "manga",
-    "title": "Acma:Game",
     "url": "https://anilist.co/manga/90988",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90988-S7vx2GIjQ5t7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:29.000Z",
-    "updatedAt": "2021-12-18T00:19:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69505/Acma_Game"
+    "externalLinks": [],
+    "malId": 69505,
+    "deletedAt": null,
+    "authors": [
+      "Mebu",
+      "Kouji Megumi"
+    ]
+  }
 }

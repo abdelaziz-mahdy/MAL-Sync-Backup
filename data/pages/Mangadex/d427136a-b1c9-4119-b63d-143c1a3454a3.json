@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Asano Hajime",
-    "Kikuchi Seiji",
-    "Yoshioka Kimitake"
-  ],
+  "createdAt": "2020-10-12T16:06:19.000Z",
+  "updatedAt": "2021-12-03T19:18:08.000Z",
+  "checkedAt": null,
+  "id": 8247,
   "identifier": "d427136a-b1c9-4119-b63d-143c1a3454a3",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50859,
   "aniId": 80859,
-  "createdAt": "2020-10-12T16:06:19.000Z",
-  "updatedAt": "2021-12-03T19:18:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asano Hajime",
+    "Kikuchi Seiji",
+    "Yoshioka Kimitake"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:37.000Z",
+    "updatedAt": "2022-05-22T12:56:45.000Z",
+    "checkedAt": "2022-05-22T12:56:45.000Z",
+    "id": 50859,
+    "type": "manga",
+    "title": "Soukyuu no Lapis Lazuli",
+    "altTitle": [
+      "The Blue Coffin of Lapis Lazuli",
+      "蒼柩のラピスラズリ"
+    ],
+    "url": "https://myanimelist.net/manga/50859/Soukyuu_no_Lapis_Lazuli",
+    "image": "https://cdn.myanimelist.net/images/manga/3/114455.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,47 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Blue Coffin of Lapis Lazuli",
-      "蒼柩のラピスラズリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asano, Hajime",
       "Yoshioka, Kimitake"
-    ],
-    "id": 50859,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:21.846Z",
+    "updatedAt": "2022-05-22T12:56:45.000Z",
+    "checkedAt": "2022-05-22T12:56:45.000Z",
+    "id": 80859,
     "type": "manga",
     "title": "Soukyuu no Lapis Lazuli",
-    "url": "https://myanimelist.net/manga/50859/Soukyuu_no_Lapis_Lazuli",
-    "image": "https://cdn.myanimelist.net/images/manga/3/114455.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:37.000Z",
-    "updatedAt": "2022-04-10T03:00:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Blue Coffin of Lapis Lazuli",
       "蒼柩のラピスラズリ",
       "Soukyuu no Rapisu Razuri"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Asano",
-      "Kimitake Yoshioka"
-    ],
-    "id": 80859,
-    "malId": 50859,
-    "type": "manga",
-    "title": "Soukyuu no Lapis Lazuli",
     "url": "https://anilist.co/manga/80859",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80859-cXJ15XYOJNBh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:49.000Z",
-    "updatedAt": "2021-12-17T21:26:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50859/Soukyuu_no_Lapis_Lazuli"
+    "externalLinks": [],
+    "malId": 50859,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Asano",
+      "Kimitake Yoshioka"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ueyama Tetsuro"
-  ],
+  "createdAt": "2020-10-12T16:12:18.000Z",
+  "updatedAt": "2021-12-05T15:50:51.000Z",
+  "checkedAt": null,
+  "id": 20920,
   "identifier": "c8509f83-f29a-4d58-a678-b2bb4ed983c1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99383,
   "aniId": 97360,
-  "createdAt": "2020-10-12T16:12:18.000Z",
-  "updatedAt": "2021-12-05T15:50:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ueyama Tetsuro"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T14:22:29.000Z",
+    "updatedAt": "2021-12-05T14:49:53.000Z",
+    "checkedAt": null,
+    "id": 99383,
+    "type": "manga",
+    "title": "Sekiganjuu Mitsuyoshi",
+    "altTitle": [
+      "Solevision Mitsuyoshi",
+      "隻眼獣ミツヨシ"
+    ],
+    "url": "https://myanimelist.net/manga/99383/Sekiganjuu_Mitsuyoshi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179372.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Solevision Mitsuyoshi",
-      "隻眼獣ミツヨシ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ueyama, Tetsuro"
-    ],
-    "id": 99383,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:55.490Z",
+    "updatedAt": "2022-05-13T12:49:55.490Z",
+    "checkedAt": null,
+    "id": 97360,
     "type": "manga",
     "title": "Sekiganjuu Mitsuyoshi",
-    "url": "https://myanimelist.net/manga/99383/Sekiganjuu_Mitsuyoshi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/179372.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T14:22:29.000Z",
-    "updatedAt": "2021-12-05T14:49:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "隻眼獣ミツヨシ",
       "Solevision Mitsuyoshi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tetsuro Ueyama"
-    ],
-    "id": 97360,
-    "malId": 99383,
-    "type": "manga",
-    "title": "Sekiganjuu Mitsuyoshi",
     "url": "https://anilist.co/manga/97360",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97360-itXYW1Jz0jxV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T14:22:29.000Z",
-    "updatedAt": "2021-12-18T01:58:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99383/Sekiganjuu_Mitsuyoshi"
+    "externalLinks": [],
+    "malId": 99383,
+    "deletedAt": null,
+    "authors": [
+      "Tetsuro Ueyama"
+    ]
+  }
 }

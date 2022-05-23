@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hikawa Hekiru"
-  ],
+  "createdAt": "2020-10-12T16:05:52.000Z",
+  "updatedAt": "2021-12-03T15:50:09.000Z",
+  "checkedAt": null,
+  "id": 7264,
   "identifier": "97ace6d3-cc83-4e9b-817c-d7da3c46eee5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3002,
   "aniId": 33002,
-  "createdAt": "2020-10-12T16:05:52.000Z",
-  "updatedAt": "2021-12-03T15:50:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hikawa Hekiru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-03-16T03:59:42.000Z",
+    "checkedAt": null,
+    "id": 3002,
+    "type": "manga",
+    "title": "PaniPoni",
+    "altTitle": [
+      "Pani-Poni",
+      "ぱにぽに"
+    ],
+    "url": "https://myanimelist.net/manga/3002/PaniPoni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/179079.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pani-Poni",
-      "ぱにぽに"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hikawa, Hekiru"
-    ],
-    "id": 3002,
-    "type": "manga",
-    "title": "PaniPoni",
-    "url": "https://myanimelist.net/manga/3002/PaniPoni",
-    "image": "https://cdn.myanimelist.net/images/manga/1/179079.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-03-16T03:59:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:42.728Z",
+    "updatedAt": "2022-05-13T13:04:42.728Z",
+    "checkedAt": null,
+    "id": 33002,
+    "type": "manga",
+    "title": "Pani Poni",
     "altTitle": [
       "ぱにぽに",
       "PaniPoni",
       "Pani-Poni"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hekiru Hikawa"
-    ],
-    "id": 33002,
-    "malId": 3002,
-    "type": "manga",
-    "title": "Pani Poni",
     "url": "https://anilist.co/manga/33002",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33002-6bpHmJCDiWvj.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:17.000Z",
-    "updatedAt": "2021-12-17T11:06:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3002/PaniPoni"
+    "externalLinks": [],
+    "malId": 3002,
+    "deletedAt": null,
+    "authors": [
+      "Hekiru Hikawa"
+    ]
+  }
 }

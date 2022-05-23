@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:31.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1513,
   "identifier": "2v04",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 173,
   "aniId": 173,
-  "createdAt": "2020-10-12T15:49:31.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T20:05:17.000Z",
+    "checkedAt": "2022-05-14T20:05:17.000Z",
+    "id": 173,
+    "type": "anime",
+    "title": "Tactics",
+    "altTitle": [
+      "タクティクス"
+    ],
+    "url": "https://myanimelist.net/anime/173/Tactics",
+    "image": "https://cdn.myanimelist.net/images/anime/8/37549.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,38 +49,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "タクティクス"
-    ],
+    "deletedAt": null,
+    "anidbId": 2182
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T15:58:11.000Z",
+    "checkedAt": "2022-05-15T15:58:11.000Z",
     "id": 173,
     "type": "anime",
-    "title": "Tactics",
-    "url": "https://myanimelist.net/anime/173/Tactics",
-    "image": "https://cdn.myanimelist.net/images/anime/8/37549.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2182,
-    "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2022-03-30T12:00:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "tactics",
     "altTitle": [
       "tactics",
       "タクティクス"
     ],
-    "externalLinks": [],
-    "id": 173,
-    "malId": 173,
-    "type": "anime",
-    "title": "tactics",
     "url": "https://anilist.co/anime/173",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/173.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2021-12-31T06:23:28.000Z",
+    "externalLinks": [],
+    "malId": 173,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/173/Tactics"
+  }
 }

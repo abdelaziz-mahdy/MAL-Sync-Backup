@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:09.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3460,
   "identifier": "7kr1",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2133,
   "aniId": 2133,
-  "createdAt": "2020-10-12T15:51:09.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-14T20:38:47.000Z",
+    "checkedAt": "2022-05-14T20:38:47.000Z",
+    "id": 2133,
+    "type": "anime",
+    "title": "Mari Iyagi",
+    "altTitle": [
+      "My Beautiful Girl Mari",
+      "마리 이야기 (korean)"
+    ],
+    "url": "https://myanimelist.net/anime/2133/Mari_Iyagi",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2276.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Beautiful Girl Mari",
-      "마리 이야기 (korean)"
-    ],
+    "deletedAt": null,
+    "anidbId": 1187
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-15T21:30:35.000Z",
+    "checkedAt": "2022-05-15T21:30:35.000Z",
     "id": 2133,
     "type": "anime",
     "title": "Mari Iyagi",
-    "url": "https://myanimelist.net/anime/2133/Mari_Iyagi",
-    "image": "https://cdn.myanimelist.net/images/anime/1/2276.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 1187,
-    "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2022-03-31T05:00:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "마리 이야기 (korean)",
       "My Beautiful Girl Mari"
     ],
-    "externalLinks": [],
-    "id": 2133,
-    "malId": 2133,
-    "type": "anime",
-    "title": "Mari Iyagi",
     "url": "https://anilist.co/anime/2133",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2133.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:12.000Z",
-    "updatedAt": "2021-12-17T09:57:57.000Z",
+    "externalLinks": [],
+    "malId": 2133,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2133/Mari_Iyagi"
+  }
 }

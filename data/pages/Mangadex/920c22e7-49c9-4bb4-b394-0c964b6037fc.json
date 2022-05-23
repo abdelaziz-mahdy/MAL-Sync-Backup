@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akagawara Modomu"
-  ],
+  "createdAt": "2020-10-12T16:09:44.000Z",
+  "updatedAt": "2021-12-04T19:50:30.000Z",
+  "checkedAt": null,
+  "id": 15597,
   "identifier": "920c22e7-49c9-4bb4-b394-0c964b6037fc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95705,
   "aniId": 96698,
-  "createdAt": "2020-10-12T16:09:44.000Z",
-  "updatedAt": "2021-12-04T19:50:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akagawara Modomu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-18T22:00:55.000Z",
+    "checkedAt": "2022-05-18T22:00:55.000Z",
+    "id": 95705,
+    "type": "manga",
+    "title": "Ani Tomo",
+    "altTitle": [
+      "My Brother's Friend",
+      "兄友"
+    ],
+    "url": "https://myanimelist.net/manga/95705/Ani_Tomo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/176165.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Brother's Friend",
-      "兄友"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akagawara, Modomu"
-    ],
-    "id": 95705,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:21.650Z",
+    "updatedAt": "2022-05-18T22:00:29.000Z",
+    "checkedAt": "2022-05-18T22:00:29.000Z",
+    "id": 96698,
     "type": "manga",
     "title": "Ani Tomo",
-    "url": "https://myanimelist.net/manga/95705/Ani_Tomo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/176165.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-03-26T17:28:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "兄友",
       "AniTomo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Modomu Akagawara"
-    ],
-    "id": 96698,
-    "malId": 95705,
-    "type": "manga",
-    "title": "Ani Tomo",
     "url": "https://anilist.co/manga/96698",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96698-U2WIMkZ2mpL0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-18T01:52:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95705/Ani_Tomo"
+    "externalLinks": [],
+    "malId": 95705,
+    "deletedAt": null,
+    "authors": [
+      "Modomu Akagawara"
+    ]
+  }
 }

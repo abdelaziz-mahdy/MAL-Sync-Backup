@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saori (紗織)"
-  ],
+  "createdAt": "2020-10-12T16:07:15.000Z",
+  "updatedAt": "2021-12-04T01:50:12.000Z",
+  "checkedAt": null,
+  "id": 10208,
   "identifier": "5e401a0d-2a2f-4879-bd5a-2c277828f5bf",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88332,
   "aniId": 117768,
-  "createdAt": "2020-10-12T16:07:15.000Z",
-  "updatedAt": "2021-12-04T01:50:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saori (紗織)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:57.000Z",
+    "updatedAt": "2021-12-31T03:53:28.000Z",
+    "checkedAt": null,
+    "id": 88332,
+    "type": "manga",
+    "title": "Drop",
+    "altTitle": [
+      "drop"
+    ],
+    "url": "https://myanimelist.net/manga/88332/Drop",
+    "image": "https://cdn.myanimelist.net/images/manga/2/153949.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "drop"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saori"
-    ],
-    "id": 88332,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:23.556Z",
+    "updatedAt": "2022-05-13T12:41:23.556Z",
+    "checkedAt": null,
+    "id": 117768,
     "type": "manga",
     "title": "Drop",
-    "url": "https://myanimelist.net/manga/88332/Drop",
-    "image": "https://cdn.myanimelist.net/images/manga/2/153949.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:57.000Z",
-    "updatedAt": "2021-12-31T03:53:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "drop",
       "Oroka na Toomawari",
       "Uwaki na Kizuato"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Saori"
-    ],
-    "id": 117768,
-    "malId": 88332,
-    "type": "manga",
-    "title": "Drop",
     "url": "https://anilist.co/manga/117768",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117768-fUS9dBPH7FYK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:54.000Z",
-    "updatedAt": "2021-12-18T08:56:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88332/Drop"
+    "externalLinks": [],
+    "malId": 88332,
+    "deletedAt": null,
+    "authors": [
+      "Saori"
+    ]
+  }
 }

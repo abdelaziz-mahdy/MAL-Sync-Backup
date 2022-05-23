@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "FUKUSHIMA Teppei"
-  ],
+  "createdAt": "2022-05-10T22:31:45.000Z",
+  "updatedAt": "2022-05-13T18:21:22.000Z",
+  "checkedAt": "2022-05-13T18:03:28.000Z",
+  "id": 103667,
   "identifier": "samurai_usagi",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,62 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/2472/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-10T22:31:45.000Z",
-  "updatedAt": "2022-05-10T22:31:45.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 3796,
+  "aniId": 33796,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "FUKUSHIMA Teppei"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:54.000Z",
+    "updatedAt": "2022-05-13T18:03:32.000Z",
+    "checkedAt": "2022-05-13T18:03:32.000Z",
+    "id": 3796,
+    "type": "manga",
+    "title": "Samurai Usagi",
+    "altTitle": [
+      "Samurai Rabbit",
+      "Yoshi!!",
+      "サムライうさぎ"
+    ],
+    "url": "https://myanimelist.net/manga/3796/Samurai_Usagi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/117635.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Samurai_Usagi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fukushima, Teppei"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:48.168Z",
+    "updatedAt": "2022-05-13T12:40:48.168Z",
+    "checkedAt": null,
+    "id": 33796,
+    "type": "manga",
+    "title": "Samurai Usagi",
+    "altTitle": [
+      "Samurai Rabbit",
+      "サムライうさぎ"
+    ],
+    "url": "https://anilist.co/manga/33796",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33796-Q48pgEB9s06J.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3796,
+    "deletedAt": null,
+    "authors": [
+      "Teppei Fukushima"
+    ]
+  }
 }

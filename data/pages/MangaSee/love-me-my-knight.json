@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TADA Kaoru"
-  ],
+  "createdAt": "2021-06-27T08:19:50.000Z",
+  "updatedAt": "2021-12-27T08:57:58.000Z",
+  "checkedAt": null,
+  "id": 79912,
   "identifier": "love-me-my-knight",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7949,
   "aniId": 37949,
-  "createdAt": "2021-06-27T08:19:50.000Z",
-  "updatedAt": "2021-12-27T08:57:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "TADA Kaoru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:16.000Z",
+    "updatedAt": "2022-05-21T02:44:50.000Z",
+    "checkedAt": "2022-05-21T02:44:50.000Z",
+    "id": 7949,
+    "type": "manga",
+    "title": "Aishite Knight",
+    "altTitle": [
+      "Love Me, My Knight",
+      "愛してナイト"
+    ],
+    "url": "https://myanimelist.net/manga/7949/Aishite_Knight",
+    "image": "https://cdn.myanimelist.net/images/manga/1/178267.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Love Me, My Knight",
-      "愛してナイト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tada, Kaoru"
-    ],
-    "id": 7949,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:03.107Z",
+    "updatedAt": "2022-05-21T02:44:48.000Z",
+    "checkedAt": "2022-05-21T02:44:48.000Z",
+    "id": 37949,
     "type": "manga",
     "title": "Aishite Knight",
-    "url": "https://myanimelist.net/manga/7949/Aishite_Knight",
-    "image": "https://cdn.myanimelist.net/images/manga/1/178267.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:16.000Z",
-    "updatedAt": "2022-01-27T14:00:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Love me, my Knight",
       "愛してナイト",
@@ -51,21 +60,15 @@
       "Aishite Night",
       "Aishite Knight"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaoru Tada"
-    ],
-    "id": 37949,
-    "malId": 7949,
-    "type": "manga",
-    "title": "Aishite Knight",
     "url": "https://anilist.co/manga/37949",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37949-6mYfsqceyzgB.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:56.000Z",
-    "updatedAt": "2022-01-26T17:30:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7949/Aishite_Knight"
+    "externalLinks": [],
+    "malId": 7949,
+    "deletedAt": null,
+    "authors": [
+      "Kaoru Tada"
+    ]
+  }
 }

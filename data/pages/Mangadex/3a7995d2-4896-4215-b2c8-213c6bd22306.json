@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Harukawa Haru"
-  ],
+  "createdAt": "2020-10-12T16:09:31.000Z",
+  "updatedAt": "2021-12-04T18:26:11.000Z",
+  "checkedAt": null,
+  "id": 15150,
   "identifier": "3a7995d2-4896-4215-b2c8-213c6bd22306",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100025,
   "aniId": 86843,
-  "createdAt": "2020-10-12T16:09:31.000Z",
-  "updatedAt": "2021-12-04T18:26:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Harukawa Haru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:38.000Z",
+    "updatedAt": "2021-12-14T03:48:55.000Z",
+    "checkedAt": null,
+    "id": 100025,
+    "type": "manga",
+    "title": "Otometic Syndrome",
+    "altTitle": [
+      "Otome-teki Syndrome",
+      "乙女的〈おとめてぃっく〉シンドローム"
+    ],
+    "url": "https://myanimelist.net/manga/100025/Otometic_Syndrome",
+    "image": "https://cdn.myanimelist.net/images/manga/2/198447.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Otome-teki Syndrome",
-      "乙女的〈おとめてぃっく〉シンドローム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Harukawa, Haru"
-    ],
-    "id": 100025,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:44.341Z",
+    "updatedAt": "2022-05-13T12:46:44.341Z",
+    "checkedAt": null,
+    "id": 86843,
     "type": "manga",
     "title": "Otometic Syndrome",
-    "url": "https://myanimelist.net/manga/100025/Otometic_Syndrome",
-    "image": "https://cdn.myanimelist.net/images/manga/2/198447.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:38.000Z",
-    "updatedAt": "2021-12-14T03:48:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "乙女的シンドローム",
       "Otome-teki Syndrome",
       "Otometeki Shindoromu",
       "乙女的〈おとめてぃっく〉シンドローム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haru Harukawa"
-    ],
-    "id": 86843,
-    "malId": 100025,
-    "type": "manga",
-    "title": "Otometic Syndrome",
     "url": "https://anilist.co/manga/86843",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86843-moCl55ixTl0q.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2021-12-17T22:59:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100025/Otometic_Syndrome"
+    "externalLinks": [],
+    "malId": 100025,
+    "deletedAt": null,
+    "authors": [
+      "Haru Harukawa"
+    ]
+  }
 }

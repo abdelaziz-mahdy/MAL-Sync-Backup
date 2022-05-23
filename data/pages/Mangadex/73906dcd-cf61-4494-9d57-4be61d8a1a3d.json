@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Cho"
-  ],
+  "createdAt": "2020-10-12T16:06:38.000Z",
+  "updatedAt": "2021-12-03T21:18:17.000Z",
+  "checkedAt": null,
+  "id": 8915,
   "identifier": "73906dcd-cf61-4494-9d57-4be61d8a1a3d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 64675,
   "aniId": 85170,
-  "createdAt": "2020-10-12T16:06:38.000Z",
-  "updatedAt": "2021-12-03T21:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Cho"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2021-11-09T12:44:06.000Z",
+    "checkedAt": null,
+    "id": 64675,
+    "type": "manga",
+    "title": "The Dragon Next Door",
+    "altTitle": [
+      "Yongi Sanda",
+      "The Dragon lives...",
+      "용이 산다"
+    ],
+    "url": "https://myanimelist.net/manga/64675/The_Dragon_Next_Door",
+    "image": "https://cdn.myanimelist.net/images/manga/1/110525.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +46,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yongi Sanda",
-      "The Dragon lives...",
-      "용이 산다"
-    ],
+    "deletedAt": null,
     "authors": [
       "Cho"
-    ],
-    "id": 64675,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:36.196Z",
+    "updatedAt": "2022-05-13T12:59:36.196Z",
+    "checkedAt": null,
+    "id": 85170,
     "type": "manga",
     "title": "The Dragon Next Door",
-    "url": "https://myanimelist.net/manga/64675/The_Dragon_Next_Door",
-    "image": "https://cdn.myanimelist.net/images/manga/1/110525.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:06.000Z",
-    "updatedAt": "2021-11-09T12:44:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "용이산다",
       "The Dragon lives..."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Cho"
-    ],
-    "id": 85170,
-    "malId": 64675,
-    "type": "manga",
-    "title": "The Dragon Next Door",
     "url": "https://anilist.co/manga/85170",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85170-VTNePkXsw8C6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:50.000Z",
-    "updatedAt": "2021-12-17T21:55:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/64675/The_Dragon_Next_Door"
+    "externalLinks": [],
+    "malId": 64675,
+    "deletedAt": null,
+    "authors": [
+      "Cho"
+    ]
+  }
 }

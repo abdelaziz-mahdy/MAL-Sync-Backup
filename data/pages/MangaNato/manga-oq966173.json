@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nihei Tsutomu"
-  ],
+  "createdAt": "2021-09-15T09:51:07.000Z",
+  "updatedAt": "2022-03-15T10:29:41.000Z",
+  "checkedAt": null,
+  "id": 87190,
   "identifier": "manga-oq966173",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 465,
   "aniId": 30465,
-  "createdAt": "2021-09-15T09:51:07.000Z",
-  "updatedAt": "2022-03-15T10:29:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nihei Tsutomu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-15T13:02:24.000Z",
+    "checkedAt": "2022-05-15T13:02:24.000Z",
+    "id": 465,
+    "type": "manga",
+    "title": "NOiSE",
+    "altTitle": [
+      "NOiSE",
+      "NOiSE"
+    ],
+    "url": "https://myanimelist.net/manga/465/NOiSE",
+    "image": "https://cdn.myanimelist.net/images/manga/1/177551.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "NOiSE",
-      "NOiSE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nihei, Tsutomu"
-    ],
-    "id": 465,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:23.606Z",
+    "updatedAt": "2022-05-15T17:30:47.000Z",
+    "checkedAt": "2022-05-15T17:30:47.000Z",
+    "id": 30465,
     "type": "manga",
     "title": "NOiSE",
-    "url": "https://myanimelist.net/manga/465/NOiSE",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177551.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-03-15T10:00:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "NOiSE",
       "ノイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsutomu Nihei",
-      "Paweł Dybała",
-      "Stephen Paul"
-    ],
-    "id": 30465,
-    "malId": 465,
-    "type": "manga",
-    "title": "NOiSE",
     "url": "https://anilist.co/manga/30465",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30465-DEA0poczEQVO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2022-04-24T20:30:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/465/NOiSE"
+    "externalLinks": [],
+    "malId": 465,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Nihei",
+      "Paweł Dybała",
+      "Stephen Paul"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshizumi Wataru"
-  ],
+  "createdAt": "2020-10-12T16:05:01.000Z",
+  "updatedAt": "2021-12-03T09:48:17.000Z",
+  "checkedAt": null,
+  "id": 5550,
   "identifier": "2c0d8af0-df86-40d4-91f8-35c3a75c50e8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 949,
   "aniId": 30949,
-  "createdAt": "2020-10-12T16:05:01.000Z",
-  "updatedAt": "2021-12-03T09:48:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshizumi Wataru"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B5%E3%83%A0%E3%81%AA%E5%BD%BC%E5%A5%B3"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-03-01T15:41:30.000Z",
+    "checkedAt": null,
+    "id": 949,
+    "type": "manga",
+    "title": "Handsome na Kanojo",
     "altTitle": [
       "Handsome Girlfriend",
       "Angel & Adventure",
@@ -33,21 +34,29 @@
       "Tenshi to Bouken",
       "ハンサムな彼女"
     ],
-    "authors": [
-      "Yoshizumi, Wataru"
-    ],
-    "id": 949,
-    "type": "manga",
-    "title": "Handsome na Kanojo",
     "url": "https://myanimelist.net/manga/949/Handsome_na_Kanojo",
     "image": "https://cdn.myanimelist.net/images/manga/2/193120.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2022-03-01T15:41:30.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B5%E3%83%A0%E3%81%AA%E5%BD%BC%E5%A5%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshizumi, Wataru"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:17.179Z",
+    "updatedAt": "2022-05-13T13:04:17.179Z",
+    "checkedAt": null,
+    "id": 30949,
+    "type": "manga",
+    "title": "Handsome na Kanojo",
     "altTitle": [
       "ハンサムな彼女",
       "Handsome Girlfriend",
@@ -56,21 +65,15 @@
       "Green Age",
       "Tenshi to Bouken"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Wataru Yoshizumi"
-    ],
-    "id": 30949,
-    "malId": 949,
-    "type": "manga",
-    "title": "Handsome na Kanojo",
     "url": "https://anilist.co/manga/30949",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30949-VSndh2vKxm2U.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2021-12-17T09:37:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/949/Handsome_na_Kanojo"
+    "externalLinks": [],
+    "malId": 949,
+    "deletedAt": null,
+    "authors": [
+      "Wataru Yoshizumi"
+    ]
+  }
 }

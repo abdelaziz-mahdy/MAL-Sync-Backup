@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Buta",
-    "Tereya",
-    "Aya Hazuki"
-  ],
+  "createdAt": "2021-08-25T05:36:33.000Z",
+  "updatedAt": "2022-02-25T06:17:39.000Z",
+  "checkedAt": null,
+  "id": 86193,
   "identifier": "manga-gm983995",
   "type": "manga",
   "page": "MangaNato",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117315,
   "aniId": 105823,
-  "createdAt": "2021-08-25T05:36:33.000Z",
-  "updatedAt": "2022-02-25T06:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Buta",
+    "Tereya",
+    "Aya Hazuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:50.000Z",
+    "updatedAt": "2022-05-19T10:11:41.000Z",
+    "checkedAt": "2022-05-19T10:11:41.000Z",
+    "id": 117315,
+    "type": "manga",
+    "title": "Hello, Hello and Hello",
+    "altTitle": [
+      "Hello, Hello and Hello"
+    ],
+    "url": "https://myanimelist.net/manga/117315/Hello_Hello_and_Hello",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224752.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -27,45 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hello, Hello and Hello"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hazuki, Aya",
       "Teruya"
-    ],
-    "id": 117315,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:08.256Z",
+    "updatedAt": "2022-05-19T10:11:40.000Z",
+    "checkedAt": "2022-05-19T10:11:40.000Z",
+    "id": 105823,
     "type": "manga",
     "title": "Hello, Hello and Hello",
-    "url": "https://myanimelist.net/manga/117315/Hello_Hello_and_Hello",
-    "image": "https://cdn.myanimelist.net/images/manga/2/224752.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:50.000Z",
-    "updatedAt": "2022-02-25T05:47:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Hello,Hello and Hello"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aya Hazuki",
-      "booota",
-      "Teruya"
-    ],
-    "id": 105823,
-    "malId": 117315,
-    "type": "manga",
-    "title": "Hello, Hello and Hello",
     "url": "https://anilist.co/manga/105823",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105823-32ZQBp56aUjh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:55.000Z",
-    "updatedAt": "2021-12-18T05:23:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117315/Hello_Hello_and_Hello"
+    "externalLinks": [],
+    "malId": 117315,
+    "deletedAt": null,
+    "authors": [
+      "Aya Hazuki",
+      "booota",
+      "Teruya"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Afro"
-  ],
+  "createdAt": "2020-10-12T16:10:29.000Z",
+  "updatedAt": "2021-12-05T01:21:00.000Z",
+  "checkedAt": null,
+  "id": 17233,
   "identifier": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94376,
   "aniId": 98351,
-  "createdAt": "2020-10-12T16:10:29.000Z",
-  "updatedAt": "2021-12-05T01:21:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Afro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-14T23:10:47.000Z",
+    "checkedAt": "2022-05-14T23:10:47.000Z",
+    "id": 94376,
+    "type": "manga",
+    "title": "Yuru Camp△",
+    "altTitle": [
+      "Yurukyan",
+      "Laid-Back Camp",
+      "ゆるキャン△"
+    ],
+    "url": "https://myanimelist.net/manga/94376/Yuru_Camp△",
+    "image": "https://cdn.myanimelist.net/images/manga/1/168083.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yurukyan",
-      "Laid-Back Camp",
-      "ゆるキャン△"
-    ],
+    "deletedAt": null,
     "authors": [
       "Afro"
-    ],
-    "id": 94376,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:21.956Z",
+    "updatedAt": "2022-05-15T17:03:35.000Z",
+    "checkedAt": "2022-05-15T17:03:35.000Z",
+    "id": 98351,
     "type": "manga",
     "title": "Yuru Camp△",
-    "url": "https://myanimelist.net/manga/94376/Yuru_Camp△",
-    "image": "https://cdn.myanimelist.net/images/manga/1/168083.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2022-04-26T13:01:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Laid-Back Camp",
       "ゆるキャン△",
@@ -53,25 +62,19 @@
       "Dã ngoại thảnh thơi",
       "Au grand air"
     ],
+    "url": "https://anilist.co/manga/98351",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98351-cv6xQvSwK9GP.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 94376,
+    "deletedAt": null,
     "authors": [
       "Afro",
       "Amber Tamosaitis",
       "DK",
       "Bianca Pistillo",
       "D. Kim"
-    ],
-    "id": 98351,
-    "malId": 94376,
-    "type": "manga",
-    "title": "Yuru Camp△",
-    "url": "https://anilist.co/manga/98351",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98351-cv6xQvSwK9GP.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2022-03-18T17:49:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94376/Yuru_Camp△"
+    ]
+  }
 }

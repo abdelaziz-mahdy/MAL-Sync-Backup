@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kindaichi Renjuurou"
-  ],
+  "createdAt": "2021-02-24T07:56:02.000Z",
+  "updatedAt": "2021-12-08T12:09:00.000Z",
+  "checkedAt": null,
+  "id": 63644,
   "identifier": "ee6264df-0a88-46a8-bb64-5bc64446813c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 91134,
   "aniId": 95434,
-  "createdAt": "2021-02-24T07:56:02.000Z",
-  "updatedAt": "2021-12-08T12:09:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kindaichi Renjuurou"
+  ],
   "Mal": {
+    "createdAt": "2021-02-24T07:55:59.000Z",
+    "updatedAt": "2022-05-23T00:14:16.000Z",
+    "checkedAt": "2022-05-23T00:14:16.000Z",
+    "id": 91134,
+    "type": "manga",
+    "title": "La La La",
+    "altTitle": [
+      "Lalala",
+      "Rarara",
+      "ラララ"
+    ],
+    "url": "https://myanimelist.net/manga/91134/La_La_La",
+    "image": "https://cdn.myanimelist.net/images/manga/3/160076.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lalala",
-      "Rarara",
-      "ラララ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kindaichi, Renjuurou"
-    ],
-    "id": 91134,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:49.751Z",
+    "updatedAt": "2022-05-23T00:14:15.000Z",
+    "checkedAt": "2022-05-23T00:14:15.000Z",
+    "id": 95434,
     "type": "manga",
     "title": "La La La",
-    "url": "https://myanimelist.net/manga/91134/La_La_La",
-    "image": "https://cdn.myanimelist.net/images/manga/3/160076.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-24T07:55:59.000Z",
-    "updatedAt": "2022-03-15T20:33:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ラララ",
       "Lalala",
       "Rarara"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Renjuro Kindaichi"
-    ],
-    "id": 95434,
-    "malId": 91134,
-    "type": "manga",
-    "title": "La La La",
     "url": "https://anilist.co/manga/95434",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx95434-D5U6eGtiA2Q0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:08.000Z",
-    "updatedAt": "2021-12-18T01:25:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/91134/La_La_La"
+    "externalLinks": [],
+    "malId": 91134,
+    "deletedAt": null,
+    "authors": [
+      "Renjuro Kindaichi"
+    ]
+  }
 }

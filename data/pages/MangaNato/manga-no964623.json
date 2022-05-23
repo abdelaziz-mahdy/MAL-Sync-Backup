@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kudo Kazuya"
-  ],
+  "createdAt": "2021-12-21T02:21:56.000Z",
+  "updatedAt": "2021-12-21T02:51:46.000Z",
+  "checkedAt": null,
+  "id": 93442,
   "identifier": "manga-no964623",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 859,
   "aniId": 30859,
-  "createdAt": "2021-12-21T02:21:56.000Z",
-  "updatedAt": "2021-12-21T02:51:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kudo Kazuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-17T02:25:06.000Z",
+    "checkedAt": "2022-05-17T02:25:06.000Z",
+    "id": 859,
+    "type": "manga",
+    "title": "Pineapple Army",
+    "altTitle": [
+      "パイナップルARMY"
+    ],
+    "url": "https://myanimelist.net/manga/859/Pineapple_Army",
+    "image": "https://cdn.myanimelist.net/images/manga/2/35200.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "パイナップルARMY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki",
       "Kudo, Kazuya"
-    ],
-    "id": 859,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:05.740Z",
+    "updatedAt": "2022-05-17T02:25:05.000Z",
+    "checkedAt": "2022-05-17T02:25:05.000Z",
+    "id": 30859,
     "type": "manga",
     "title": "Pineapple Army",
-    "url": "https://myanimelist.net/manga/859/Pineapple_Army",
-    "image": "https://cdn.myanimelist.net/images/manga/2/35200.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-09T15:00:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "パイナップルＡＲＭＹ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Urasawa",
-      "Kazuya Kudo",
-      "Yasushi Hoshino"
-    ],
-    "id": 30859,
-    "malId": 859,
-    "type": "manga",
-    "title": "Pineapple Army",
     "url": "https://anilist.co/manga/30859",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30859-a4SzTBC6xhbc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:35:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/859/Pineapple_Army"
+    "externalLinks": [],
+    "malId": 859,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Urasawa",
+      "Kazuya Kudo",
+      "Yasushi Hoshino"
+    ]
+  }
 }

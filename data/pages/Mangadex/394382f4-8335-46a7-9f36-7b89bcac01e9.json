@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakano Anri"
-  ],
+  "createdAt": "2020-10-12T16:11:50.000Z",
+  "updatedAt": "2021-12-05T11:47:59.000Z",
+  "checkedAt": null,
+  "id": 20178,
   "identifier": "394382f4-8335-46a7-9f36-7b89bcac01e9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 106203,
   "aniId": 102583,
-  "createdAt": "2020-10-12T16:11:50.000Z",
-  "updatedAt": "2021-12-05T11:47:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakano Anri"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:02.000Z",
+    "updatedAt": "2022-02-23T03:17:40.000Z",
+    "checkedAt": null,
+    "id": 106203,
+    "type": "manga",
+    "title": "Sayonara Peter Pan",
+    "altTitle": [
+      "Bye-bye, Peter Pan",
+      "さよならピーターパン"
+    ],
+    "url": "https://myanimelist.net/manga/106203/Sayonara_Peter_Pan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/204421.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bye-bye, Peter Pan",
-      "さよならピーターパン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakano, Anri"
-    ],
-    "id": 106203,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:06.310Z",
+    "updatedAt": "2022-05-13T13:00:06.310Z",
+    "checkedAt": null,
+    "id": 102583,
     "type": "manga",
     "title": "Sayonara Peter Pan",
-    "url": "https://myanimelist.net/manga/106203/Sayonara_Peter_Pan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/204421.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:02.000Z",
-    "updatedAt": "2022-02-23T03:17:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bye-bye, Peter Pan",
       "さよならピーターパン",
       "再见彼得潘",
       "안녕 피터팬"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Anri Sakano"
-    ],
-    "id": 102583,
-    "malId": 106203,
-    "type": "manga",
-    "title": "Sayonara Peter Pan",
     "url": "https://anilist.co/manga/102583",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102583-JBa2eiG5rZGW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:45.000Z",
-    "updatedAt": "2021-12-17T16:48:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/106203/Sayonara_Peter_Pan"
+    "externalLinks": [],
+    "malId": 106203,
+    "deletedAt": null,
+    "authors": [
+      "Anri Sakano"
+    ]
+  }
 }

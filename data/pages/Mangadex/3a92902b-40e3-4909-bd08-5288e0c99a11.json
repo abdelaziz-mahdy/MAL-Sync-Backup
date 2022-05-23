@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakiki Ichiro",
-    "Yabuki Gou"
-  ],
+  "createdAt": "2020-10-12T16:13:08.000Z",
+  "updatedAt": "2021-12-05T19:18:38.000Z",
+  "checkedAt": null,
+  "id": 22251,
   "identifier": "3a92902b-40e3-4909-bd08-5288e0c99a11",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 516,
   "aniId": 30516,
-  "createdAt": "2020-10-12T16:13:08.000Z",
-  "updatedAt": "2021-12-05T19:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakiki Ichiro",
+    "Yabuki Gou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-22T22:30:55.000Z",
+    "checkedAt": "2022-05-22T22:30:55.000Z",
+    "id": 516,
+    "type": "manga",
+    "title": "Scrapped Princess",
+    "altTitle": [
+      "Scrapped Princess",
+      "スクラップド・プリンセス"
+    ],
+    "url": "https://myanimelist.net/manga/516/Scrapped_Princess",
+    "image": "https://cdn.myanimelist.net/images/manga/1/114613.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Scrapped Princess",
-      "スクラップド・プリンセス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakaki, Ichirou",
       "Yabuki, Gou"
-    ],
-    "id": 516,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:49.981Z",
+    "updatedAt": "2022-05-22T22:30:54.000Z",
+    "checkedAt": "2022-05-22T22:30:54.000Z",
+    "id": 30516,
     "type": "manga",
     "title": "Scrapped Princess",
-    "url": "https://myanimelist.net/manga/516/Scrapped_Princess",
-    "image": "https://cdn.myanimelist.net/images/manga/1/114613.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-26T07:31:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Scrapped Princess",
       "スクラップド・プリンセス"
     ],
+    "url": "https://anilist.co/manga/30516",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30516-4hTTVDW8GNil.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 516,
+    "deletedAt": null,
     "authors": [
       "Mogudan",
       "Ichirou Sakaki",
       "Gou Yabuki",
       "Alethea Nibley",
       "Athena Nibley"
-    ],
-    "id": 30516,
-    "malId": 516,
-    "type": "manga",
-    "title": "Scrapped Princess",
-    "url": "https://anilist.co/manga/30516",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30516-4hTTVDW8GNil.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2021-12-17T09:11:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/516/Scrapped_Princess"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Segawa Hajime"
-  ],
+  "createdAt": "2020-10-12T16:02:36.000Z",
+  "updatedAt": "2021-12-02T08:18:39.000Z",
+  "checkedAt": null,
+  "id": 482,
   "identifier": "44ae0a4e-824c-4037-bf6e-530df07f0165",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1102,
   "aniId": 31102,
-  "createdAt": "2020-10-12T16:02:36.000Z",
-  "updatedAt": "2021-12-02T08:18:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Segawa Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:30.000Z",
+    "updatedAt": "2022-05-15T19:11:50.000Z",
+    "checkedAt": "2022-05-15T19:11:50.000Z",
+    "id": 1102,
+    "type": "manga",
+    "title": "Ga-Rei",
+    "altTitle": [
+      "The Enchained Spiritual Beast Ga-Rei",
+      "Ga-Rei",
+      "喰霊"
+    ],
+    "url": "https://myanimelist.net/manga/1102/Ga-Rei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/185812.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Enchained Spiritual Beast Ga-Rei",
-      "Ga-Rei",
-      "喰霊"
-    ],
+    "deletedAt": null,
     "authors": [
       "Segawa, Hajime"
-    ],
-    "id": 1102,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:53.141Z",
+    "updatedAt": "2022-05-15T21:00:23.000Z",
+    "checkedAt": "2022-05-15T21:00:23.000Z",
+    "id": 31102,
     "type": "manga",
     "title": "Ga-Rei",
-    "url": "https://myanimelist.net/manga/1102/Ga-Rei",
-    "image": "https://cdn.myanimelist.net/images/manga/2/185812.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2022-01-14T13:41:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Enchained Spiritual Beast Ga-Rei",
       "喰霊"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Segawa",
-      "Edward Kondo"
-    ],
-    "id": 31102,
-    "malId": 1102,
-    "type": "manga",
-    "title": "Ga-Rei",
     "url": "https://anilist.co/manga/31102",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31102-zqZRMIYPBBSw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:41:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1102/Ga-Rei"
+    "externalLinks": [],
+    "malId": 1102,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Segawa",
+      "Edward Kondo"
+    ]
+  }
 }

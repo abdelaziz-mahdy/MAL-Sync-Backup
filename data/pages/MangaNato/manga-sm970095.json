@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Numa Shun"
-  ],
+  "createdAt": "2021-07-18T13:02:23.000Z",
+  "updatedAt": "2022-01-18T13:35:35.000Z",
+  "checkedAt": null,
+  "id": 82283,
   "identifier": "manga-sm970095",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93065,
   "aniId": 86500,
-  "createdAt": "2021-07-18T13:02:23.000Z",
-  "updatedAt": "2022-01-18T13:35:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Numa Shun"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:11.000Z",
+    "updatedAt": "2022-05-14T19:04:53.000Z",
+    "checkedAt": "2022-05-14T19:04:53.000Z",
+    "id": 93065,
+    "type": "manga",
+    "title": "Samon-kun wa Summoner",
+    "altTitle": [
+      "Moromono no Jijou",
+      "Samon the Summoner",
+      "左門くんはサモナー"
+    ],
+    "url": "https://myanimelist.net/manga/93065/Samon-kun_wa_Summoner",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171382.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Moromono no Jijou",
-      "Samon the Summoner",
-      "左門くんはサモナー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Numa, Shun"
-    ],
-    "id": 93065,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:11.557Z",
+    "updatedAt": "2022-05-13T13:04:11.557Z",
+    "checkedAt": null,
+    "id": 86500,
     "type": "manga",
     "title": "Samon-kun wa Summoner",
-    "url": "https://myanimelist.net/manga/93065/Samon-kun_wa_Summoner",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171382.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:11.000Z",
-    "updatedAt": "2022-01-31T10:51:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Samon the Summoner",
       "左門くんはサモナー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shun Numa"
-    ],
-    "id": 86500,
-    "malId": 93065,
-    "type": "manga",
-    "title": "Samon-kun wa Summoner",
     "url": "https://anilist.co/manga/86500",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56500-2gPrR5Yivjur.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:41.000Z",
-    "updatedAt": "2021-12-17T22:52:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93065/Samon-kun_wa_Summoner"
+    "externalLinks": [],
+    "malId": 93065,
+    "deletedAt": null,
+    "authors": [
+      "Shun Numa"
+    ]
+  }
 }

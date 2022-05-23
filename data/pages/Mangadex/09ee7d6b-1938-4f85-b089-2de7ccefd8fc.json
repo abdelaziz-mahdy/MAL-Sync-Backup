@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Abaraya"
-  ],
+  "createdAt": "2020-10-12T16:16:05.000Z",
+  "updatedAt": "2021-12-06T19:49:03.000Z",
+  "checkedAt": null,
+  "id": 28344,
   "identifier": "09ee7d6b-1938-4f85-b089-2de7ccefd8fc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105181,
   "aniId": 111230,
-  "createdAt": "2020-10-12T16:16:05.000Z",
-  "updatedAt": "2021-12-06T19:49:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Abaraya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2021-12-19T18:49:26.000Z",
+    "checkedAt": null,
+    "id": 105181,
+    "type": "manga",
+    "title": "Nejikemono",
+    "altTitle": [
+      "ねじけもの"
+    ],
+    "url": "https://myanimelist.net/manga/105181/Nejikemono",
+    "image": "https://cdn.myanimelist.net/images/manga/1/197191.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ねじけもの"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abaraya, Takeichi"
-    ],
-    "id": 105181,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:55.010Z",
+    "updatedAt": "2022-05-13T12:54:55.010Z",
+    "checkedAt": null,
+    "id": 111230,
     "type": "manga",
     "title": "Nejikemono",
-    "url": "https://myanimelist.net/manga/105181/Nejikemono",
-    "image": "https://cdn.myanimelist.net/images/manga/1/197191.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2021-12-19T18:49:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ねじけもの"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeichi Abaraya"
-    ],
-    "id": 111230,
-    "malId": 105181,
-    "type": "manga",
-    "title": "Nejikemono",
     "url": "https://anilist.co/manga/111230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111230-fDLa7J3NpFEp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:14.000Z",
-    "updatedAt": "2021-12-18T07:19:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105181/Nejikemono"
+    "externalLinks": [],
+    "malId": 105181,
+    "deletedAt": null,
+    "authors": [
+      "Takeichi Abaraya"
+    ]
+  }
 }

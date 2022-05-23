@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:33.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4059,
   "identifier": "8wxy",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 38201,
   "aniId": 104213,
-  "createdAt": "2020-10-12T15:51:33.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:04.000Z",
+    "updatedAt": "2022-05-13T21:36:31.000Z",
+    "checkedAt": "2022-05-13T21:36:31.000Z",
+    "id": 38201,
+    "type": "anime",
+    "title": "Osomatsu-san Movie",
+    "altTitle": [
+      "Eiga no Osomatsu-san",
+      "Osomatsu-san the Movie",
+      "Mr. Osomatsu the Movie",
+      "えいがのおそ松さん"
+    ],
+    "url": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,46 +57,31 @@
         "url": "http://www.crunchyroll.com/series-267957"
       }
     ],
-    "altTitle": [
-      "Eiga no Osomatsu-san",
-      "Osomatsu-san the Movie",
-      "Mr. Osomatsu the Movie",
-      "えいがのおそ松さん"
-    ],
-    "id": 38201,
-    "type": "anime",
-    "title": "Osomatsu-san Movie",
-    "url": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 14293,
-    "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2022-03-12T19:05:11.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 14293
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:46.000Z",
+    "updatedAt": "2022-05-15T15:49:35.000Z",
+    "checkedAt": "2022-05-15T15:49:35.000Z",
+    "id": 104213,
+    "type": "anime",
+    "title": "Osomatsu-san The Movie",
     "altTitle": [
       "Mr. Osomatsu THE MOVIE",
       "えいがのおそ松さん"
     ],
+    "url": "https://anilist.co/anime/104213",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104213-JRw23GHolMhk.jpg",
+    "category": "movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/mr-osomatsu"
       }
     ],
-    "id": 104213,
     "malId": 38201,
-    "type": "anime",
-    "title": "Osomatsu-san The Movie",
-    "url": "https://anilist.co/anime/104213",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104213-JRw23GHolMhk.jpg",
-    "category": "movie",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:46.000Z",
-    "updatedAt": "2021-12-17T16:55:11.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie"
+  }
 }

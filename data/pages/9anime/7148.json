@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:33.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 231,
   "identifier": "7148",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4773,
   "aniId": 4773,
-  "createdAt": "2020-10-12T15:48:33.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-14T22:16:30.000Z",
+    "checkedAt": "2022-05-14T22:16:30.000Z",
+    "id": 4773,
+    "type": "anime",
+    "title": "Yamato Takeru",
+    "altTitle": [
+      "Maxbot",
+      "ヤマトタケル"
+    ],
+    "url": "https://myanimelist.net/anime/4773/Yamato_Takeru",
+    "image": "https://cdn.myanimelist.net/images/anime/11/20270.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,39 +50,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Maxbot",
-      "ヤマトタケル"
-    ],
+    "deletedAt": null,
+    "anidbId": 2311
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-15T15:52:23.000Z",
+    "checkedAt": "2022-05-15T15:52:23.000Z",
     "id": 4773,
     "type": "anime",
     "title": "Yamato Takeru",
-    "url": "https://myanimelist.net/anime/4773/Yamato_Takeru",
-    "image": "https://cdn.myanimelist.net/images/anime/11/20270.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2311,
-    "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2022-03-31T17:36:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヤマトタケル",
       "Maxbot"
     ],
-    "externalLinks": [],
-    "id": 4773,
-    "malId": 4773,
-    "type": "anime",
-    "title": "Yamato Takeru",
     "url": "https://anilist.co/anime/4773",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4773-c0mTBOjeiZ3N.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:37.000Z",
-    "updatedAt": "2021-12-17T11:27:27.000Z",
+    "externalLinks": [],
+    "malId": 4773,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4773/Yamato_Takeru"
+  }
 }

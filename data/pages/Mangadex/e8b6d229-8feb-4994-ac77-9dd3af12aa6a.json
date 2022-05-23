@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakura Tasuke",
-    "Oda Hiro"
-  ],
+  "createdAt": "2020-10-12T16:17:12.000Z",
+  "updatedAt": "2021-12-07T05:48:04.000Z",
+  "checkedAt": null,
+  "id": 30680,
   "identifier": "e8b6d229-8feb-4994-ac77-9dd3af12aa6a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123306,
   "aniId": 117654,
-  "createdAt": "2020-10-12T16:17:12.000Z",
-  "updatedAt": "2021-12-07T05:48:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakura Tasuke",
+    "Oda Hiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-20T19:12:36.000Z",
+    "checkedAt": "2022-05-20T19:12:36.000Z",
+    "id": 123306,
+    "type": "manga",
+    "title": "Tensei Reijou wa Boukensha wo Kokorozasu",
+    "altTitle": [
+      "The Reincarnated Young Lady Aims to be an Adventurer!",
+      "Holy Guardian Tiger",
+      "転生令嬢は冒険者を志す"
+    ],
+    "url": "https://myanimelist.net/manga/123306/Tensei_Reijou_wa_Boukensha_wo_Kokorozasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245162.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Reincarnated Young Lady Aims to be an Adventurer!",
-      "Holy Guardian Tiger",
-      "転生令嬢は冒険者を志す"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakura, Tasuke",
       "Oda, Hiro"
-    ],
-    "id": 123306,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:08.557Z",
+    "updatedAt": "2022-05-20T19:12:35.000Z",
+    "checkedAt": "2022-05-20T19:12:35.000Z",
+    "id": 117654,
     "type": "manga",
     "title": "Tensei Reijou wa Boukensha wo Kokorozasu",
-    "url": "https://myanimelist.net/manga/123306/Tensei_Reijou_wa_Boukensha_wo_Kokorozasu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/245162.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-02-03T05:51:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "転生令嬢は冒険者を志す",
       "Holy Guardian Tiger"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tasuke Sakura",
-      "TOBI",
-      "Hiro Oda"
-    ],
-    "id": 117654,
-    "malId": 123306,
-    "type": "manga",
-    "title": "Tensei Reijou wa Boukensha wo Kokorozasu",
     "url": "https://anilist.co/manga/117654",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117654-o9TvHtp6TOeo.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-12-18T08:55:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123306/Tensei_Reijou_wa_Boukensha_wo_Kokorozasu"
+    "externalLinks": [],
+    "malId": 123306,
+    "deletedAt": null,
+    "authors": [
+      "Tasuke Sakura",
+      "TOBI",
+      "Hiro Oda"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hoshino Yukinobu"
-  ],
+  "createdAt": "2020-10-12T16:18:57.000Z",
+  "updatedAt": "2021-12-07T21:09:21.000Z",
+  "checkedAt": null,
+  "id": 34184,
   "identifier": "2a5d5bb8-32a2-4c8e-ad78-4007a189d50c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87452,
   "aniId": 100098,
-  "createdAt": "2020-10-12T16:18:57.000Z",
-  "updatedAt": "2021-12-07T21:09:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hoshino Yukinobu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:55.000Z",
+    "updatedAt": "2022-05-16T01:52:50.000Z",
+    "checkedAt": "2022-05-16T01:52:50.000Z",
+    "id": 87452,
+    "type": "manga",
+    "title": "Rainman",
+    "altTitle": [
+      "レインマン"
+    ],
+    "url": "https://myanimelist.net/manga/87452/Rainman",
+    "image": "https://cdn.myanimelist.net/images/manga/1/185361.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "レインマン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hoshino, Yukinobu"
-    ],
-    "id": 87452,
-    "type": "manga",
-    "title": "Rainman",
-    "url": "https://myanimelist.net/manga/87452/Rainman",
-    "image": "https://cdn.myanimelist.net/images/manga/1/185361.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:55.000Z",
-    "updatedAt": "2021-11-13T01:43:37.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:32.196Z",
+    "updatedAt": "2022-05-16T01:52:49.000Z",
+    "checkedAt": "2022-05-16T01:52:49.000Z",
+    "id": 100098,
+    "type": "manga",
+    "title": "Rain Man",
     "altTitle": [
       "レインマン",
       "Rainman"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yukinobu Hoshino"
-    ],
-    "id": 100098,
-    "malId": 87452,
-    "type": "manga",
-    "title": "Rain Man",
     "url": "https://anilist.co/manga/100098",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100098-t15Ss9Ob8SC0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:48.000Z",
-    "updatedAt": "2021-12-18T03:19:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87452/Rainman"
+    "externalLinks": [],
+    "malId": 87452,
+    "deletedAt": null,
+    "authors": [
+      "Yukinobu Hoshino"
+    ]
+  }
 }

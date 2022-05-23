@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:52.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9343,
   "identifier": "vj9v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2592,
   "aniId": 2592,
-  "createdAt": "2020-10-12T15:55:52.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-03-31T08:04:23.000Z",
+    "checkedAt": null,
+    "id": 2592,
+    "type": "anime",
+    "title": "Kimera",
+    "altTitle": [
+      "祈明羅"
+    ],
+    "url": "https://myanimelist.net/anime/2592/Kimera",
+    "image": "https://cdn.myanimelist.net/images/anime/2/3460.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,38 +41,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "祈明羅"
-    ],
+    "deletedAt": null,
+    "anidbId": 1479
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:23.000Z",
+    "updatedAt": "2021-12-17T10:24:27.000Z",
+    "checkedAt": null,
     "id": 2592,
     "type": "anime",
     "title": "Kimera",
-    "url": "https://myanimelist.net/anime/2592/Kimera",
-    "image": "https://cdn.myanimelist.net/images/anime/2/3460.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1479,
-    "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2022-03-31T08:04:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "祈明羅",
       "Ki*Me*Ra"
     ],
-    "externalLinks": [],
-    "id": 2592,
-    "malId": 2592,
-    "type": "anime",
-    "title": "Kimera",
     "url": "https://anilist.co/anime/2592",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2592.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:23.000Z",
-    "updatedAt": "2021-12-17T10:24:27.000Z",
+    "externalLinks": [],
+    "malId": 2592,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2592/Kimera"
+  }
 }

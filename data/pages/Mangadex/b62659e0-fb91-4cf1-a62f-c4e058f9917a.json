@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Magica Quartet",
-    "Gan"
-  ],
+  "createdAt": "2020-10-12T16:09:26.000Z",
+  "updatedAt": "2021-12-04T17:55:24.000Z",
+  "checkedAt": null,
+  "id": 15006,
   "identifier": "b62659e0-fb91-4cf1-a62f-c4e058f9917a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 62673,
   "aniId": 86388,
-  "createdAt": "2020-10-12T16:09:26.000Z",
-  "updatedAt": "2021-12-04T17:55:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Magica Quartet",
+    "Gan"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:04.000Z",
+    "updatedAt": "2022-05-16T21:44:49.000Z",
+    "checkedAt": "2022-05-16T21:44:49.000Z",
+    "id": 62673,
+    "type": "manga",
+    "title": "Mahou Shoujo Suzune★Magica",
+    "altTitle": [
+      "Puella Magi Suzune★Magica",
+      "魔法少女すずね★マギカ"
+    ],
+    "url": "https://myanimelist.net/manga/62673/Mahou_Shoujo_Suzune★Magica",
+    "image": "https://cdn.myanimelist.net/images/manga/3/107537.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Puella Magi Suzune★Magica",
-      "魔法少女すずね★マギカ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Magica Quartet",
       "GAN"
-    ],
-    "id": 62673,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:58.065Z",
+    "updatedAt": "2022-05-16T21:44:48.000Z",
+    "checkedAt": "2022-05-16T21:44:48.000Z",
+    "id": 86388,
     "type": "manga",
     "title": "Mahou Shoujo Suzune★Magica",
-    "url": "https://myanimelist.net/manga/62673/Mahou_Shoujo_Suzune★Magica",
-    "image": "https://cdn.myanimelist.net/images/manga/3/107537.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2022-03-12T13:00:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Puella Magi Suzune Magica",
       "魔法少女すずね★マギカ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gen Urobuchi",
-      "GAN"
-    ],
-    "id": 86388,
-    "malId": 62673,
-    "type": "manga",
-    "title": "Mahou Shoujo Suzune★Magica",
     "url": "https://anilist.co/manga/86388",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56388-RKytYRSFRvOE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:43.000Z",
-    "updatedAt": "2022-03-06T16:29:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/62673/Mahou_Shoujo_Suzune★Magica"
+    "externalLinks": [],
+    "malId": 62673,
+    "deletedAt": null,
+    "authors": [
+      "Gen Urobuchi",
+      "GAN"
+    ]
+  }
 }

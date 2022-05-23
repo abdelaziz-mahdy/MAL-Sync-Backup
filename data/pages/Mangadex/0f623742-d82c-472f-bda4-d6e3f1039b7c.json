@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shirow Masamune"
-  ],
+  "createdAt": "2020-10-12T16:13:03.000Z",
+  "updatedAt": "2021-12-05T18:50:14.000Z",
+  "checkedAt": null,
+  "id": 22098,
   "identifier": "0f623742-d82c-472f-bda4-d6e3f1039b7c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3395,
   "aniId": 33395,
-  "createdAt": "2020-10-12T16:13:03.000Z",
-  "updatedAt": "2021-12-05T18:50:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirow Masamune"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:50.000Z",
+    "updatedAt": "2022-05-16T06:16:00.000Z",
+    "checkedAt": "2022-05-16T06:16:00.000Z",
+    "id": 3395,
+    "type": "manga",
+    "title": "Dominion",
+    "altTitle": [
+      "Dominion F",
+      "Dominion",
+      "DOMINION"
+    ],
+    "url": "https://myanimelist.net/manga/3395/Dominion",
+    "image": "https://cdn.myanimelist.net/images/manga/2/167654.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dominion F",
-      "Dominion",
-      "DOMINION"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shirow, Masamune"
-    ],
-    "id": 3395,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:53.950Z",
+    "updatedAt": "2022-05-16T06:15:59.000Z",
+    "checkedAt": "2022-05-16T06:15:59.000Z",
+    "id": 33395,
     "type": "manga",
     "title": "Dominion",
-    "url": "https://myanimelist.net/manga/3395/Dominion",
-    "image": "https://cdn.myanimelist.net/images/manga/2/167654.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:50.000Z",
-    "updatedAt": "2022-04-28T04:30:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dominion",
       "ドミニオン",
       "Dominion F",
       "Dominion Tank Police"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masamune Shirow"
-    ],
-    "id": 33395,
-    "malId": 3395,
-    "type": "manga",
-    "title": "Dominion",
     "url": "https://anilist.co/manga/33395",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33395-wr6w3LlNoQ9a.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:08.000Z",
-    "updatedAt": "2021-12-17T11:14:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3395/Dominion"
+    "externalLinks": [],
+    "malId": 3395,
+    "deletedAt": null,
+    "authors": [
+      "Masamune Shirow"
+    ]
+  }
 }

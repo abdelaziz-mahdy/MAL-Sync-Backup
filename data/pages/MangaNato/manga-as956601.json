@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asano Hajime"
-  ],
+  "createdAt": "2021-06-09T22:05:51.000Z",
+  "updatedAt": "2021-12-09T23:03:39.000Z",
+  "checkedAt": null,
+  "id": 77509,
   "identifier": "manga-as956601",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21860,
   "aniId": 51860,
-  "createdAt": "2021-06-09T22:05:51.000Z",
-  "updatedAt": "2021-12-09T23:03:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asano Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:59.000Z",
+    "updatedAt": "2022-05-14T18:27:35.000Z",
+    "checkedAt": "2022-05-14T18:27:35.000Z",
+    "id": 21860,
+    "type": "manga",
+    "title": "Mayo Chiki!",
+    "altTitle": [
+      "Mayo Chiki!",
+      "まよチキ！"
+    ],
+    "url": "https://myanimelist.net/manga/21860/Mayo_Chiki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/54741.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mayo Chiki!",
-      "まよチキ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asano, Hajime",
       "Neet"
-    ],
-    "id": 21860,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:57.985Z",
+    "updatedAt": "2022-05-15T19:32:47.000Z",
+    "checkedAt": "2022-05-15T19:32:47.000Z",
+    "id": 51860,
     "type": "manga",
     "title": "Mayo Chiki!",
-    "url": "https://myanimelist.net/manga/21860/Mayo_Chiki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/54741.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:59.000Z",
-    "updatedAt": "2022-02-15T02:47:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "まよチキ！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Asano",
-      "Niito"
-    ],
-    "id": 51860,
-    "malId": 21860,
-    "type": "manga",
-    "title": "Mayo Chiki!",
     "url": "https://anilist.co/manga/51860",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51860-SXYbTnLRQK73.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:45.000Z",
-    "updatedAt": "2021-12-17T17:42:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21860/Mayo_Chiki"
+    "externalLinks": [],
+    "malId": 21860,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Asano",
+      "Niito"
+    ]
+  }
 }

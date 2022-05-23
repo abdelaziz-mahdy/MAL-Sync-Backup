@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shirai Kaiu",
-    "Maruyama Kyousuke"
-  ],
+  "createdAt": "2021-03-01T21:51:06.000Z",
+  "updatedAt": "2021-12-08T12:36:31.000Z",
+  "checkedAt": null,
+  "id": 64270,
   "identifier": "d7c1a441-4e6e-466e-a651-8ac60fb8a186",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 129684,
   "aniId": 108956,
-  "createdAt": "2021-03-01T21:51:06.000Z",
-  "updatedAt": "2021-12-08T12:36:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shirai Kaiu",
+    "Maruyama Kyousuke"
+  ],
   "Mal": {
+    "createdAt": "2021-03-01T21:51:05.000Z",
+    "updatedAt": "2022-03-01T01:21:54.000Z",
+    "checkedAt": null,
+    "id": 129684,
+    "type": "manga",
+    "title": "Ashley Goeth no Yukue",
+    "altTitle": [
+      "The Whereabouts of Ashley Goeth",
+      "アシュリー＝ゲートの行方"
+    ],
+    "url": "https://myanimelist.net/manga/129684/Ashley_Goeth_no_Yukue",
+    "image": "https://cdn.myanimelist.net/images/manga/2/234265.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Whereabouts of Ashley Goeth",
-      "アシュリー＝ゲートの行方"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shirai, Kaiu",
       "Maruyama, Kyousuke"
-    ],
-    "id": 129684,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:41.080Z",
+    "updatedAt": "2022-05-13T12:57:41.080Z",
+    "checkedAt": null,
+    "id": 108956,
     "type": "manga",
     "title": "Ashley Goeth no Yukue",
-    "url": "https://myanimelist.net/manga/129684/Ashley_Goeth_no_Yukue",
-    "image": "https://cdn.myanimelist.net/images/manga/2/234265.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2021-03-01T21:51:05.000Z",
-    "updatedAt": "2022-03-01T01:21:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アシュリー＝ゲートの行方",
       "The Whereabouts of Ashley Goeth"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaiu Shirai",
-      "Rickey"
-    ],
-    "id": 108956,
-    "malId": 129684,
-    "type": "manga",
-    "title": "Ashley Goeth no Yukue",
     "url": "https://anilist.co/manga/108956",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108956-3L8mMAGpywrI.png",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2021-12-18T06:22:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/129684/Ashley_Goeth_no_Yukue"
+    "externalLinks": [],
+    "malId": 129684,
+    "deletedAt": null,
+    "authors": [
+      "Kaiu Shirai",
+      "Rickey"
+    ]
+  }
 }

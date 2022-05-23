@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Akamatsu Ken",
-    "Takuya Fujima"
-  ],
+  "createdAt": "2020-10-12T16:11:26.000Z",
+  "updatedAt": "2021-12-05T08:49:38.000Z",
+  "checkedAt": null,
+  "id": 19324,
   "identifier": "372f7b2f-8061-4d40-a542-4dc0ee7adf9b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 597,
   "aniId": 30597,
-  "createdAt": "2020-10-12T16:11:26.000Z",
-  "updatedAt": "2021-12-05T08:49:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akamatsu Ken",
+    "Takuya Fujima"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2021-11-21T01:54:11.000Z",
+    "checkedAt": null,
+    "id": 597,
+    "type": "manga",
+    "title": "Negima!? Neo",
+    "altTitle": [
+      "Negima!? Neo: Magister Negi Magi",
+      "ネギま!?neo"
+    ],
+    "url": "https://myanimelist.net/manga/597/Negima_Neo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/156574.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Negima!? Neo: Magister Negi Magi",
-      "ネギま!?neo"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akamatsu, Ken",
       "Fujima, Takuya"
-    ],
-    "id": 597,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:32.841Z",
+    "updatedAt": "2022-05-13T12:55:32.841Z",
+    "checkedAt": null,
+    "id": 30597,
     "type": "manga",
     "title": "Negima!? Neo",
-    "url": "https://myanimelist.net/manga/597/Negima_Neo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/156574.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2021-11-21T01:54:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Negima!? Neo",
       "ネギま!?neo",
       "Magister Negi Magi Neo"
     ],
+    "url": "https://anilist.co/manga/30597",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30597-v0OpZAKpkIDx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 597,
+    "deletedAt": null,
     "authors": [
       "Ken Akamatsu",
       "Takuya Fujima",
       "Alethea Nibley",
       "Athena Nibley"
-    ],
-    "id": 30597,
-    "malId": 597,
-    "type": "manga",
-    "title": "Negima!? Neo",
-    "url": "https://anilist.co/manga/30597",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30597-v0OpZAKpkIDx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2021-12-17T09:13:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/597/Negima_Neo"
+    ]
+  }
 }

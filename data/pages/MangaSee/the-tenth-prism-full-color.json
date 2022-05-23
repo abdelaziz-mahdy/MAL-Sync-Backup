@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "MIZUKI Kanaka",
-    "SODA Masahito"
-  ],
+  "createdAt": "2021-06-15T07:27:48.000Z",
+  "updatedAt": "2021-12-15T08:18:35.000Z",
+  "checkedAt": null,
+  "id": 78278,
   "identifier": "the-tenth-prism-full-color",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 72451,
   "aniId": 85501,
-  "createdAt": "2021-06-15T07:27:48.000Z",
-  "updatedAt": "2021-12-15T08:18:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "MIZUKI Kanaka",
+    "SODA Masahito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:19.000Z",
+    "updatedAt": "2022-04-05T02:31:06.000Z",
+    "checkedAt": null,
+    "id": 72451,
+    "type": "manga",
+    "title": "Ten Prism",
+    "altTitle": [
+      "Temprism",
+      "Tenprism",
+      "The Tenth Prism",
+      "テンプリズム"
+    ],
+    "url": "https://myanimelist.net/manga/72451/Ten_Prism",
+    "image": "https://cdn.myanimelist.net/images/manga/1/148315.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,54 +44,39 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Temprism",
-      "Tenprism",
-      "The Tenth Prism",
-      "テンプリズム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Soda, Masahito"
-    ],
-    "id": 72451,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.357Z",
+    "updatedAt": "2022-05-13T13:06:37.357Z",
+    "checkedAt": null,
+    "id": 85501,
     "type": "manga",
     "title": "Ten Prism",
-    "url": "https://myanimelist.net/manga/72451/Ten_Prism",
-    "image": "https://cdn.myanimelist.net/images/manga/1/148315.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2022-04-05T02:31:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Tenth Prism",
       "テンプリズム",
       " Temprism"
     ],
+    "url": "https://anilist.co/manga/85501",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55501-Dgzk2pDEW3xk.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/the-tenth-prism/volumes"
       }
     ],
+    "malId": 72451,
+    "deletedAt": null,
     "authors": [
       "Masahito Soda",
       "Carlo Vanstiphout",
       "David Saylor"
-    ],
-    "id": 85501,
-    "malId": 72451,
-    "type": "manga",
-    "title": "Ten Prism",
-    "url": "https://anilist.co/manga/85501",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55501-Dgzk2pDEW3xk.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:39.000Z",
-    "updatedAt": "2021-12-17T22:01:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/72451/Ten_Prism"
+    ]
+  }
 }

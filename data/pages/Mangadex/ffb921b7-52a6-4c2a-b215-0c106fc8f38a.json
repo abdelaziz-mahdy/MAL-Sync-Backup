@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Rumiko"
-  ],
+  "createdAt": "2020-10-12T16:05:26.000Z",
+  "updatedAt": "2021-12-03T12:48:58.000Z",
+  "checkedAt": null,
+  "id": 6416,
   "identifier": "ffb921b7-52a6-4c2a-b215-0c106fc8f38a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 199,
   "aniId": 30199,
-  "createdAt": "2020-10-12T16:05:26.000Z",
-  "updatedAt": "2021-12-03T12:48:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Rumiko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-05-15T21:24:51.000Z",
+    "checkedAt": "2022-05-15T21:24:51.000Z",
+    "id": 199,
+    "type": "manga",
+    "title": "Ningyo Series",
     "altTitle": [
       "Mermaid Forest",
       "Mermaid's Gaze",
@@ -33,48 +34,49 @@
       "Mermaid Saga",
       "人魚シリーズ"
     ],
-    "authors": [
-      "Takahashi, Rumiko"
-    ],
-    "id": 199,
-    "type": "manga",
-    "title": "Ningyo Series",
     "url": "https://myanimelist.net/manga/199/Ningyo_Series",
     "image": "https://cdn.myanimelist.net/images/manga/2/183364.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-04-26T02:01:07.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%AD%9A%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takahashi, Rumiko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:50.699Z",
+    "updatedAt": "2022-05-15T22:14:23.000Z",
+    "checkedAt": "2022-05-15T22:14:23.000Z",
+    "id": 30199,
+    "type": "manga",
+    "title": "Ningyo no Mori",
     "altTitle": [
       "Mermaid Saga",
       "人魚の森",
       "Mermaid Forest",
       "Mermaid's Forest",
       "高橋留美子♦人魚シリーズ♦",
-      "人魚シリーズ",
-      "Syrenie opowieści"
+      "人魚シリーズ"
     ],
+    "url": "https://anilist.co/manga/30199",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30199-JZJqchi6gkbN.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 199,
+    "deletedAt": null,
     "authors": [
       "Rumiko Takahashi",
       "Nesrine Mezouane",
       "Anne Demars",
       "Rachel Thorn"
-    ],
-    "id": 30199,
-    "malId": 199,
-    "type": "manga",
-    "title": "Ningyo no Mori",
-    "url": "https://anilist.co/manga/30199",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30199-JZJqchi6gkbN.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2022-05-19T17:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/199/Ningyo_Series"
+    ]
+  }
 }

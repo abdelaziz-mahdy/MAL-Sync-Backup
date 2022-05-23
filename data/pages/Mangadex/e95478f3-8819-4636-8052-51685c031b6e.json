@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yajima Masao",
-    "Oze Akira"
-  ],
+  "createdAt": "2020-10-12T16:10:23.000Z",
+  "updatedAt": "2021-12-05T00:53:12.000Z",
+  "checkedAt": null,
+  "id": 17009,
   "identifier": "e95478f3-8819-4636-8052-51685c031b6e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,53 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103543,
   "aniId": 98184,
-  "createdAt": "2020-10-12T16:10:23.000Z",
-  "updatedAt": "2021-12-05T00:53:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yajima Masao",
+    "Oze Akira"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "リュウ"
-    ],
-    "authors": [
-      "Oze, Akira",
-      "Yajima, Masao"
-    ],
+    "createdAt": "2020-10-12T15:46:49.000Z",
+    "updatedAt": "2022-05-18T00:47:40.000Z",
+    "checkedAt": "2022-05-18T00:47:40.000Z",
     "id": 103543,
     "type": "manga",
     "title": "Ryuu",
+    "altTitle": [
+      "リュウ"
+    ],
     "url": "https://myanimelist.net/manga/103543/Ryuu",
     "image": "https://cdn.myanimelist.net/images/manga/3/189537.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:49.000Z",
-    "updatedAt": "2021-12-08T15:04:08.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oze, Akira",
+      "Yajima, Masao"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:49.675Z",
+    "updatedAt": "2022-05-18T00:47:39.000Z",
+    "checkedAt": "2022-05-18T00:47:39.000Z",
+    "id": 98184,
+    "type": "manga",
+    "title": "Ryuu",
     "altTitle": [
       "リュウ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Oze",
-      "Masao Yajima"
-    ],
-    "id": 98184,
-    "malId": 103543,
-    "type": "manga",
-    "title": "Ryuu",
     "url": "https://anilist.co/manga/98184",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98184-0a7NHs3JQVtN.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:04.000Z",
-    "updatedAt": "2021-12-18T02:24:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103543/Ryuu"
+    "externalLinks": [],
+    "malId": 103543,
+    "deletedAt": null,
+    "authors": [
+      "Akira Oze",
+      "Masao Yajima"
+    ]
+  }
 }

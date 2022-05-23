@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kajiwara Osamu"
-  ],
+  "createdAt": "2021-03-16T06:03:23.000Z",
+  "updatedAt": "2022-02-01T23:10:44.000Z",
+  "checkedAt": null,
+  "id": 65833,
   "identifier": "2fd759fc-0c29-490b-86cc-0997c3f99936",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 132897,
-  "createdAt": "2021-03-16T06:03:23.000Z",
-  "updatedAt": "2022-02-01T23:10:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kajiwara Osamu"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:59.660Z",
+    "updatedAt": "2022-05-18T15:27:18.000Z",
+    "checkedAt": "2022-05-18T15:27:18.000Z",
+    "id": 132897,
+    "type": "manga",
+    "title": "Yakunara Mug Cup Mo",
     "altTitle": [
       "Yakunara Mug Cup Mo",
       "やくならマグカップも",
@@ -26,19 +34,13 @@
       "やくも",
       "YAKUMO"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 132897,
-    "malId": null,
-    "type": "manga",
-    "title": "Yakunara Mug Cup Mo",
     "url": "https://anilist.co/manga/132897",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132897-q4dEWuVkSlZ7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-29T10:12:13.000Z",
-    "updatedAt": "2022-01-31T00:51:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": []
+  }
 }

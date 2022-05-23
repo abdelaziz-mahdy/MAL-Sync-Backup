@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Sakura",
-    "Ooga Asagi"
-  ],
+  "createdAt": "2020-10-12T16:02:28.000Z",
+  "updatedAt": "2021-12-02T07:17:17.000Z",
+  "checkedAt": null,
+  "id": 189,
   "identifier": "072399a0-0af3-47cb-9507-ad76234f8a48",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14999,
   "aniId": 44999,
-  "createdAt": "2020-10-12T16:02:28.000Z",
-  "updatedAt": "2021-12-02T07:17:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Sakura",
+    "Ooga Asagi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:09.000Z",
+    "updatedAt": "2022-04-11T16:37:34.000Z",
+    "checkedAt": null,
+    "id": 14999,
+    "type": "manga",
+    "title": "Dohran",
+    "altTitle": [
+      "Douran",
+      "動乱－DOHRAN－"
+    ],
+    "url": "https://myanimelist.net/manga/14999/Dohran",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178541.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Douran",
-      "動乱－DOHRAN－"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooga, Asagi",
       "Matsumoto, Sakura"
-    ],
-    "id": 14999,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:34.992Z",
+    "updatedAt": "2022-05-13T13:01:34.992Z",
+    "checkedAt": null,
+    "id": 44999,
     "type": "manga",
     "title": "Dohran",
-    "url": "https://myanimelist.net/manga/14999/Dohran",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178541.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:09.000Z",
-    "updatedAt": "2022-04-11T16:37:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dohran",
       "動乱",
       "Douran"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asagi Ooga",
-      "Sakura Matsumoto"
-    ],
-    "id": 44999,
-    "malId": 14999,
-    "type": "manga",
-    "title": "Dohran",
     "url": "https://anilist.co/manga/44999",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44999-rGLj3NnIrMMg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:41.000Z",
-    "updatedAt": "2021-12-17T15:41:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14999/Dohran"
+    "externalLinks": [],
+    "malId": 14999,
+    "deletedAt": null,
+    "authors": [
+      "Asagi Ooga",
+      "Sakura Matsumoto"
+    ]
+  }
 }

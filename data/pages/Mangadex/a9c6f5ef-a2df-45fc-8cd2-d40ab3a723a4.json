@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Muhwa",
-    "Wrist"
-  ],
+  "createdAt": "2020-10-12T16:19:31.000Z",
+  "updatedAt": "2022-01-04T19:06:57.000Z",
+  "checkedAt": null,
+  "id": 35337,
   "identifier": "a9c6f5ef-a2df-45fc-8cd2-d40ab3a723a4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,38 +12,40 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 33116,
-  "createdAt": "2020-10-12T16:19:31.000Z",
-  "updatedAt": "2022-01-04T19:06:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Muhwa",
+    "Wrist"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:44.261Z",
+    "updatedAt": "2022-05-15T18:47:11.000Z",
+    "checkedAt": "2022-05-15T18:47:11.000Z",
+    "id": 33116,
+    "type": "manga",
+    "title": "BLACK BIRD",
     "altTitle": [
       "Black Bird",
       "BLACK BIRD",
       "ブラックバード"
     ],
+    "url": "https://anilist.co/manga/33116",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33116-FOUhAgGvymO9.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 3116,
+    "deletedAt": null,
     "authors": [
       "Kanoko Sakurakouji",
       "Gia Cam Luc",
       "Gia Cam Luc",
       "Latty Luc",
       "Latty Luc"
-    ],
-    "id": 33116,
-    "malId": 3116,
-    "type": "manga",
-    "title": "BLACK BIRD",
-    "url": "https://anilist.co/manga/33116",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33116-FOUhAgGvymO9.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:38:04.000Z",
-    "updatedAt": "2022-03-27T23:07:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

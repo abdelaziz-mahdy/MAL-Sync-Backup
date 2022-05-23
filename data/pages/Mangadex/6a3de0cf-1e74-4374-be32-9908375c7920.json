@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Dodal",
-    "Gaje"
-  ],
+  "createdAt": "2020-10-12T16:10:30.000Z",
+  "updatedAt": "2021-12-05T08:47:58.000Z",
+  "checkedAt": null,
+  "id": 17272,
   "identifier": "6a3de0cf-1e74-4374-be32-9908375c7920",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 98845,
-  "createdAt": "2020-10-12T16:10:30.000Z",
-  "updatedAt": "2021-12-05T08:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Dodal",
+    "Gaje"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:39.248Z",
+    "updatedAt": "2022-05-13T12:43:39.248Z",
+    "checkedAt": null,
+    "id": 98845,
+    "type": "manga",
+    "title": "Vanishing Twin",
     "altTitle": [
       "Vanishing Twin",
       "배니싱 트윈"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gaje",
-      "Dodal"
-    ],
-    "id": 98845,
-    "malId": null,
-    "type": "manga",
-    "title": "Vanishing Twin",
     "url": "https://anilist.co/manga/98845",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98845-IwJsqJGNsgZR.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-05T01:19:28.000Z",
-    "updatedAt": "2021-12-21T13:54:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Gaje",
+      "Dodal"
+    ]
+  }
 }

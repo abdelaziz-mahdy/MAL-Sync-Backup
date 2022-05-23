@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Touno Mamare",
-    "Kou"
-  ],
+  "createdAt": "2020-10-12T16:08:56.000Z",
+  "updatedAt": "2021-12-04T14:21:39.000Z",
+  "checkedAt": null,
+  "id": 13903,
   "identifier": "c6d279e2-b977-4b29-be6d-2b4e0b299ba1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95019,
   "aniId": 101333,
-  "createdAt": "2020-10-12T16:08:56.000Z",
-  "updatedAt": "2021-12-04T14:21:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Touno Mamare",
+    "Kou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-01-25T00:00:21.000Z",
+    "checkedAt": null,
+    "id": 95019,
+    "type": "manga",
+    "title": "Log Horizon: Kanami, Go! East!",
+    "altTitle": [
+      "ログ・ホライズン カナミ、ゴー！イースト！"
+    ],
+    "url": "https://myanimelist.net/manga/95019/Log_Horizon__Kanami_Go_East",
+    "image": "https://cdn.myanimelist.net/images/manga/2/179136.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ログ・ホライズン カナミ、ゴー！イースト！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Touno, Mamare",
       "Kou"
-    ],
-    "id": 95019,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:49.999Z",
+    "updatedAt": "2022-05-13T13:02:49.999Z",
+    "checkedAt": null,
+    "id": 101333,
     "type": "manga",
     "title": "Log Horizon: Kanami, Go! East!",
-    "url": "https://myanimelist.net/manga/95019/Log_Horizon__Kanami_Go_East",
-    "image": "https://cdn.myanimelist.net/images/manga/2/179136.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2022-01-25T00:00:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ログ・ホライズン カナミ、ゴー！イースト！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mamare Touno",
-      "Kou"
-    ],
-    "id": 101333,
-    "malId": 95019,
-    "type": "manga",
-    "title": "Log Horizon: Kanami, Go! East!",
     "url": "https://anilist.co/manga/101333",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101333-8GZuI0qqbemK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:57.000Z",
-    "updatedAt": "2021-12-18T03:52:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95019/Log_Horizon__Kanami_Go_East"
+    "externalLinks": [],
+    "malId": 95019,
+    "deletedAt": null,
+    "authors": [
+      "Mamare Touno",
+      "Kou"
+    ]
+  }
 }

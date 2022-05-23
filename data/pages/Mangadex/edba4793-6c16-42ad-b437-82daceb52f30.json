@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "emone"
-  ],
+  "createdAt": "2021-10-09T10:02:22.000Z",
+  "updatedAt": "2022-04-09T10:30:25.000Z",
+  "checkedAt": null,
+  "id": 88243,
   "identifier": "edba4793-6c16-42ad-b437-82daceb52f30",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 123267,
-  "createdAt": "2021-10-09T10:02:22.000Z",
-  "updatedAt": "2022-04-09T10:30:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "emone"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:23.952Z",
+    "updatedAt": "2022-05-13T12:55:23.952Z",
+    "checkedAt": null,
+    "id": 123267,
+    "type": "manga",
+    "title": "Yoru no Suizokukan",
     "altTitle": [
       "夜の水族館",
       "Night at the Aquarium"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Emone"
-    ],
-    "id": 123267,
-    "malId": 125363,
-    "type": "manga",
-    "title": "Yoru no Suizokukan",
     "url": "https://anilist.co/manga/123267",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123267-oqJg0thdgWVB.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-10-09T10:02:40.000Z",
-    "updatedAt": "2022-01-17T18:04:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 125363,
+    "deletedAt": null,
+    "authors": [
+      "Emone"
+    ]
+  }
 }

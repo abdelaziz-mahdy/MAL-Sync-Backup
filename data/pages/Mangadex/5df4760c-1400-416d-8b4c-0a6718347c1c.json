@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "InnerSloth",
-    "Berabou"
-  ],
+  "createdAt": "2022-03-22T05:27:07.000Z",
+  "updatedAt": "2022-03-22T09:07:25.000Z",
+  "checkedAt": null,
+  "id": 99825,
   "identifier": "5df4760c-1400-416d-8b4c-0a6718347c1c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 143336,
   "aniId": 143690,
-  "createdAt": "2022-03-22T05:27:07.000Z",
-  "updatedAt": "2022-03-22T09:07:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "InnerSloth",
+    "Berabou"
+  ],
   "Mal": {
+    "createdAt": "2022-02-28T21:18:23.000Z",
+    "updatedAt": "2022-05-15T03:24:10.000Z",
+    "checkedAt": "2022-05-15T03:24:10.000Z",
+    "id": 143336,
+    "type": "manga",
+    "title": "Among Us",
+    "altTitle": [
+      "Uchuu Jinrou Among Us",
+      "アモングアス"
+    ],
+    "url": "https://myanimelist.net/manga/143336/Among_Us",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256571.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Uchuu Jinrou Among Us",
-      "アモングアス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Berabou"
-    ],
-    "id": 143336,
-    "type": "manga",
-    "title": "Among Us",
-    "url": "https://myanimelist.net/manga/143336/Among_Us",
-    "image": "https://cdn.myanimelist.net/images/manga/1/256571.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2022-02-28T21:18:23.000Z",
-    "updatedAt": "2022-04-01T01:00:43.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:00.980Z",
+    "updatedAt": "2022-05-15T21:25:11.000Z",
+    "checkedAt": "2022-05-15T21:25:11.000Z",
+    "id": 143690,
+    "type": "manga",
+    "title": "AMONG US",
     "altTitle": [
       "AMONG US",
       "アモングアス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Berabou"
-    ],
-    "id": 143690,
-    "malId": 143336,
-    "type": "manga",
-    "title": "AMONG US",
     "url": "https://anilist.co/manga/143690",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143690-8DDyMdD7qCT5.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2022-01-12T17:41:40.000Z",
-    "updatedAt": "2022-03-03T00:10:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143336/Among_Us"
+    "externalLinks": [],
+    "malId": 143336,
+    "deletedAt": null,
+    "authors": [
+      "Berabou"
+    ]
+  }
 }

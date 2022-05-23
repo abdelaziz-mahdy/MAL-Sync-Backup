@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mikimoto Rin"
-  ],
+  "createdAt": "2020-10-12T16:03:16.000Z",
+  "updatedAt": "2021-12-02T13:18:18.000Z",
+  "checkedAt": null,
+  "id": 1873,
   "identifier": "160f5ade-aa78-411d-8d60-31c7c59437e5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10625,
   "aniId": 40625,
-  "createdAt": "2020-10-12T16:03:16.000Z",
-  "updatedAt": "2021-12-02T13:18:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mikimoto Rin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-05-20T20:55:52.000Z",
+    "checkedAt": "2022-05-20T20:55:52.000Z",
+    "id": 10625,
+    "type": "manga",
+    "title": "Kinkyori Renai",
+    "altTitle": [
+      "Close Range Love",
+      "Love's Reach",
+      "近キョリ恋愛"
+    ],
+    "url": "https://myanimelist.net/manga/10625/Kinkyori_Renai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/166815.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Close Range Love",
-      "Love's Reach",
-      "近キョリ恋愛"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mikimoto, Rin"
-    ],
-    "id": 10625,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:32.467Z",
+    "updatedAt": "2022-05-20T20:55:50.000Z",
+    "checkedAt": "2022-05-20T20:55:50.000Z",
+    "id": 40625,
     "type": "manga",
     "title": "Kinkyori Renai",
-    "url": "https://myanimelist.net/manga/10625/Kinkyori_Renai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/166815.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:28.000Z",
-    "updatedAt": "2022-02-22T12:18:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Love's Reach",
       "近キョリ恋愛",
       "Close Range Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rin Mikimoto"
-    ],
-    "id": 40625,
-    "malId": 10625,
-    "type": "manga",
-    "title": "Kinkyori Renai",
     "url": "https://anilist.co/manga/40625",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10625.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:06.000Z",
-    "updatedAt": "2021-12-17T14:09:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10625/Kinkyori_Renai"
+    "externalLinks": [],
+    "malId": 10625,
+    "deletedAt": null,
+    "authors": [
+      "Rin Mikimoto"
+    ]
+  }
 }

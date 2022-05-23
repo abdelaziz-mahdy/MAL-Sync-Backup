@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miura Miu"
-  ],
+  "createdAt": "2020-10-12T16:13:27.000Z",
+  "updatedAt": "2021-12-05T21:49:19.000Z",
+  "checkedAt": null,
+  "id": 22914,
   "identifier": "d27970d4-90ad-433b-86c6-8a0650f8a91c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,52 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110660,
   "aniId": 105054,
-  "createdAt": "2020-10-12T16:13:27.000Z",
-  "updatedAt": "2021-12-05T21:49:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Miu"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "チルドレン"
-    ],
-    "authors": [
-      "Miura, Miu"
-    ],
+    "createdAt": "2020-10-12T15:47:19.000Z",
+    "updatedAt": "2022-05-15T12:19:11.000Z",
+    "checkedAt": "2022-05-15T12:19:11.000Z",
     "id": 110660,
     "type": "manga",
     "title": "Children",
+    "altTitle": [
+      "チルドレン"
+    ],
     "url": "https://myanimelist.net/manga/110660/Children",
     "image": "https://cdn.myanimelist.net/images/manga/3/211019.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:19.000Z",
-    "updatedAt": "2022-03-24T02:57:33.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/children/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miura, Miu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:02.622Z",
+    "updatedAt": "2022-05-15T17:05:59.000Z",
+    "checkedAt": "2022-05-15T17:05:59.000Z",
+    "id": 105054,
+    "type": "manga",
+    "title": "Children",
     "altTitle": [
       "チルドレン",
       "Chirudoren"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Ichiura"
-    ],
-    "id": 105054,
-    "malId": 110660,
-    "type": "manga",
-    "title": "Children",
     "url": "https://anilist.co/manga/105054",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105054-7dOYMGKfKFSh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:15.000Z",
-    "updatedAt": "2021-12-18T04:58:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110660/Children"
+    "externalLinks": [],
+    "malId": 110660,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Ichiura"
+    ]
+  }
 }

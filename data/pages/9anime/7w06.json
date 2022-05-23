@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:14.000Z",
+  "updatedAt": "2021-08-14T14:37:56.000Z",
+  "checkedAt": null,
+  "id": 3596,
   "identifier": "7w06",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22319,
   "aniId": 20605,
-  "createdAt": "2020-10-12T15:51:14.000Z",
-  "updatedAt": "2021-08-14T14:37:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:25.000Z",
+    "updatedAt": "2022-05-14T07:06:25.000Z",
+    "checkedAt": "2022-05-14T07:06:25.000Z",
+    "id": 22319,
+    "type": "anime",
+    "title": "Tokyo Ghoul",
+    "altTitle": [
+      "Tokyo Kushu",
+      "Toukyou Kushu",
+      "Toukyou Ghoul",
+      "Tokyo Ghoul",
+      "東京喰種-トーキョーグール-"
+    ],
+    "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul",
+    "image": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -51,26 +70,16 @@
         "url": "https://shahid.mbc.net/en/series/Tokyo-Ghoul/series-884468"
       }
     ],
-    "altTitle": [
-      "Tokyo Kushu",
-      "Toukyou Kushu",
-      "Toukyou Ghoul",
-      "Tokyo Ghoul",
-      "東京喰種-トーキョーグール-"
-    ],
-    "id": 22319,
+    "deletedAt": null,
+    "anidbId": 10401
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:30.000Z",
+    "updatedAt": "2022-05-15T10:54:59.000Z",
+    "checkedAt": "2022-05-15T10:54:59.000Z",
+    "id": 20605,
     "type": "anime",
     "title": "Tokyo Ghoul",
-    "url": "https://myanimelist.net/anime/22319/Tokyo_Ghoul",
-    "image": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10401,
-    "createdAt": "2020-10-12T15:39:25.000Z",
-    "updatedAt": "2022-04-30T10:32:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tokyo Ghoul",
       "東京喰種 トーキョーグール",
@@ -79,6 +88,10 @@
       "东京食种",
       "طوكيو غول"
     ],
+    "url": "https://anilist.co/anime/20605",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -101,17 +114,7 @@
         "url": "https://vrv.co/series/G6NV7Z50Y/Tokyo-Ghoul"
       }
     ],
-    "id": 20605,
     "malId": 22319,
-    "type": "anime",
-    "title": "Tokyo Ghoul",
-    "url": "https://anilist.co/anime/20605",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20605-fmnHdfurM7m6.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:30.000Z",
-    "updatedAt": "2022-04-30T11:00:32.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+  }
 }

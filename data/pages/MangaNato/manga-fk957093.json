@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawahara Kazune"
-  ],
+  "createdAt": "2021-05-31T16:22:55.000Z",
+  "updatedAt": "2021-12-01T00:44:41.000Z",
+  "checkedAt": null,
+  "id": 75095,
   "identifier": "manga-fk957093",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 591,
   "aniId": 30591,
-  "createdAt": "2021-05-31T16:22:55.000Z",
-  "updatedAt": "2021-12-01T00:44:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawahara Kazune"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A0%A1%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-15T15:19:15.000Z",
+    "checkedAt": "2022-05-15T15:19:15.000Z",
+    "id": 591,
+    "type": "manga",
+    "title": "Koukou Debut",
     "altTitle": [
       "Osananajimi wa Gakunenchou",
       "Enren Debut",
@@ -32,21 +33,29 @@
       "High School Debut",
       "高校デビュー"
     ],
-    "authors": [
-      "Kawahara, Kazune"
-    ],
-    "id": 591,
-    "type": "manga",
-    "title": "Koukou Debut",
     "url": "https://myanimelist.net/manga/591/Koukou_Debut",
     "image": "https://cdn.myanimelist.net/images/manga/5/112439.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-11T09:08:04.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A0%A1%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kawahara, Kazune"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:43.605Z",
+    "updatedAt": "2022-05-15T18:46:59.000Z",
+    "checkedAt": "2022-05-15T18:46:59.000Z",
+    "id": 30591,
+    "type": "manga",
+    "title": "Koukou Debut",
     "altTitle": [
       "High School Debut",
       "高校デビュー",
@@ -55,29 +64,18 @@
       "Koukou Debut Enrenhen",
       "Koko Debut"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/high-school-debut"
-      }
-    ],
+    "url": "https://anilist.co/manga/30591",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30591-TupsoAZxJjg8.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 591,
+    "deletedAt": null,
     "authors": [
       "Kazune Kawahara",
       "Gemma Collinge",
       "Mark Griffin",
       "Mark Griffin"
-    ],
-    "id": 30591,
-    "malId": 591,
-    "type": "manga",
-    "title": "Koukou Debut",
-    "url": "https://anilist.co/manga/30591",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30591-TupsoAZxJjg8.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2021-12-17T09:13:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/591/Koukou_Debut"
+    ]
+  }
 }

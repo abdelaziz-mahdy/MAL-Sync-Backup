@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamataka Morito",
-    "Bones"
-  ],
+  "createdAt": "2020-10-12T16:16:55.000Z",
+  "updatedAt": "2021-12-07T08:17:53.000Z",
+  "checkedAt": null,
+  "id": 30115,
   "identifier": "364eed6a-fc06-49aa-a759-784bd61c3435",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121552,
   "aniId": 111526,
-  "createdAt": "2020-10-12T16:16:55.000Z",
-  "updatedAt": "2021-12-07T08:17:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamataka Morito",
+    "Bones"
+  ],
   "Mal": {
+    "createdAt": "2021-05-06T14:18:21.000Z",
+    "updatedAt": "2022-05-15T13:08:56.000Z",
+    "checkedAt": "2022-05-15T13:08:56.000Z",
+    "id": 121552,
+    "type": "manga",
+    "title": "Carole & Tuesday",
+    "altTitle": [
+      "Carole & Tuesday",
+      "キャロル&チューズデイ"
+    ],
+    "url": "https://myanimelist.net/manga/121552/Carole___Tuesday",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222025.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +46,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Carole & Tuesday",
-      "キャロル&チューズデイ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Shinichiro",
       "Yamataka, Morito"
-    ],
-    "id": 121552,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:34.362Z",
+    "updatedAt": "2022-05-15T17:32:59.000Z",
+    "checkedAt": "2022-05-15T17:32:59.000Z",
+    "id": 111526,
     "type": "manga",
     "title": "Carole & Tuesday",
-    "url": "https://myanimelist.net/manga/121552/Carole___Tuesday",
-    "image": "https://cdn.myanimelist.net/images/manga/3/222025.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-05-06T14:18:21.000Z",
-    "updatedAt": "2021-12-07T03:48:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Carole & Tuesday",
       "キャロル＆チューズデイ",
       "C&T"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinichirou Watanabe",
-      "Morito Yamataka",
-      "Gaëlle Ruel"
-    ],
-    "id": 111526,
-    "malId": 121552,
-    "type": "manga",
-    "title": "Carole & Tuesday",
     "url": "https://anilist.co/manga/111526",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111526-rd8eo8WmAqDl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:25.000Z",
-    "updatedAt": "2021-12-18T07:21:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121552/Carole___Tuesday"
+    "externalLinks": [],
+    "malId": 121552,
+    "deletedAt": null,
+    "authors": [
+      "Shinichirou Watanabe",
+      "Morito Yamataka",
+      "Gaëlle Ruel"
+    ]
+  }
 }

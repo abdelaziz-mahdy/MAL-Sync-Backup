@@ -1,4 +1,21 @@
 {
+  "createdAt": "2020-10-12T16:10:03.000Z",
+  "updatedAt": "2021-12-04T22:18:48.000Z",
+  "checkedAt": null,
+  "id": 16324,
+  "identifier": "6de4345c-8384-40f7-a352-0c9a7784b87d",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Fubin BL (Anthology)",
+  "url": "https://mangadex.org/title/6de4345c-8384-40f7-a352-0c9a7784b87d",
+  "image": "https://uploads.mangadex.org/covers/6de4345c-8384-40f7-a352-0c9a7784b87d/d8a3b9e3-2840-4627-87a8-1c7bd5da8117.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 80955,
+  "aniId": 86225,
+  "deletedAt": null,
   "authors": [
     "Tsuda Yuki",
     "Ukino",
@@ -12,29 +29,13 @@
     "Kumota Haruko",
     "Suzuki Tsuta"
   ],
-  "identifier": "6de4345c-8384-40f7-a352-0c9a7784b87d",
-  "type": "manga",
-  "page": "Mangadex",
-  "title": "Fubin BL (Anthology)",
-  "url": "https://mangadex.org/title/6de4345c-8384-40f7-a352-0c9a7784b87d",
-  "image": "https://uploads.mangadex.org/covers/6de4345c-8384-40f7-a352-0c9a7784b87d/d8a3b9e3-2840-4627-87a8-1c7bd5da8117.jpg",
-  "hentai": false,
-  "sticky": false,
-  "active": true,
-  "actor": null,
-  "malId": 80955,
-  "aniId": 86225,
-  "createdAt": "2020-10-12T16:10:03.000Z",
-  "updatedAt": "2021-12-04T22:18:48.000Z",
-  "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.b-boy.jp/magazine/fubin_bl/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:35.000Z",
+    "updatedAt": "2022-05-21T14:36:22.000Z",
+    "checkedAt": "2022-05-21T14:36:22.000Z",
+    "id": 80955,
+    "type": "manga",
+    "title": "Fubin BL",
     "altTitle": [
       "Okite Saisho ni Suru Koto wa",
       "Parsley to Mini Tomato",
@@ -49,6 +50,18 @@
       "Yasashii dake no",
       "不憫BL"
     ],
+    "url": "https://myanimelist.net/manga/80955/Fubin_BL",
+    "image": "https://cdn.myanimelist.net/images/manga/3/140595.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-boy.jp/magazine/fubin_bl/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Shimura, Takako",
       "Mikage, Tsubaki",
@@ -61,23 +74,25 @@
       "Ukino",
       "Shimizu, Hikari",
       "Tsuda, Yuki"
-    ],
-    "id": 80955,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:26.790Z",
+    "updatedAt": "2022-05-21T14:36:21.000Z",
+    "checkedAt": "2022-05-21T14:36:21.000Z",
+    "id": 86225,
     "type": "manga",
     "title": "Fubin BL",
-    "url": "https://myanimelist.net/manga/80955/Fubin_BL",
-    "image": "https://cdn.myanimelist.net/images/manga/3/140595.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:35.000Z",
-    "updatedAt": "2021-12-19T17:18:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "不憫BL"
     ],
+    "url": "https://anilist.co/manga/86225",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86225-Olo8TwkR0PwU.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 80955,
+    "deletedAt": null,
     "authors": [
       "Nozo Itoi",
       "Hideki Kawai",
@@ -89,18 +104,6 @@
       "Tsuta Suzuki",
       "Ukino",
       "Yuki Tsuda"
-    ],
-    "id": 86225,
-    "malId": 80955,
-    "type": "manga",
-    "title": "Fubin BL",
-    "url": "https://anilist.co/manga/86225",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86225-Olo8TwkR0PwU.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:01.000Z",
-    "updatedAt": "2021-12-04T14:16:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80955/Fubin_BL"
+    ]
+  }
 }

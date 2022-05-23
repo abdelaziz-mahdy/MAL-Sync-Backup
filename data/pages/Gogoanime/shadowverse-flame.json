@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-02T03:31:11.000Z",
+  "updatedAt": "2022-04-02T04:00:20.000Z",
+  "checkedAt": null,
+  "id": 40592,
   "identifier": "shadowverse-flame",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50060,
   "aniId": 140085,
-  "createdAt": "2022-04-02T03:31:11.000Z",
-  "updatedAt": "2022-04-02T04:00:20.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2022-03-30T17:02:38.000Z",
+    "updatedAt": "2022-05-14T16:01:56.000Z",
+    "checkedAt": "2022-05-14T16:01:56.000Z",
+    "id": 50060,
+    "type": "anime",
+    "title": "Shadowverse Flame",
+    "altTitle": [
+      "Shadowverse F",
+      "Shadowverse Flame",
+      "シャドウバースF（フレイム）"
+    ],
+    "url": "https://myanimelist.net/anime/50060/Shadowverse_Flame",
+    "image": "https://cdn.myanimelist.net/images/anime/1877/122972.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,28 +50,30 @@
         "url": "https://en.wikipedia.org/wiki/Shadowverse_(TV_series)"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Shadowverse F",
-      "シャドウバースF（フレイム）"
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-279220"
+      }
     ],
-    "id": 50060,
+    "deletedAt": null,
+    "anidbId": 16855
+  },
+  "Ani": {
+    "createdAt": "2021-10-08T01:32:19.000Z",
+    "updatedAt": "2022-05-15T09:25:35.000Z",
+    "checkedAt": "2022-05-15T09:25:35.000Z",
+    "id": 140085,
     "type": "anime",
     "title": "Shadowverse Flame",
-    "url": "https://myanimelist.net/anime/50060/Shadowverse_Flame",
-    "image": "https://cdn.myanimelist.net/images/anime/1483/120545.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 16855,
-    "createdAt": "2022-03-30T17:02:38.000Z",
-    "updatedAt": "2022-03-30T17:02:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Shadowverse Flame",
       "シャドウバースF（フレイム）"
     ],
+    "url": "https://anilist.co/anime/140085",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140085-3VhIbUc8HKYi.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -65,17 +84,7 @@
         "url": "https://vrv.co/series/GYEX244X6/Shadowverse"
       }
     ],
-    "id": 140085,
     "malId": 50060,
-    "type": "anime",
-    "title": "Shadowverse Flame",
-    "url": "https://anilist.co/anime/140085",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140085-3VhIbUc8HKYi.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-10-08T01:32:19.000Z",
-    "updatedAt": "2022-04-12T23:30:23.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/50060/Shadowverse_Flame"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "SUZUKI Hisashi"
-  ],
+  "createdAt": "2021-08-08T05:17:41.000Z",
+  "updatedAt": "2022-02-08T06:10:08.000Z",
+  "checkedAt": null,
+  "id": 84780,
   "identifier": "mahou_sensou",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55421,
   "aniId": 85270,
-  "createdAt": "2021-08-08T05:17:41.000Z",
-  "updatedAt": "2022-02-08T06:10:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "SUZUKI Hisashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2022-02-08T05:39:37.000Z",
+    "checkedAt": null,
+    "id": 55421,
+    "type": "manga",
+    "title": "Mahou Sensou",
+    "altTitle": [
+      "Magical Warfare",
+      "魔法戦争"
+    ],
+    "url": "https://myanimelist.net/manga/55421/Mahou_Sensou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/158060.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Warfare",
-      "魔法戦争"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suzuki, Hisashi",
       "Ibuki, You"
-    ],
-    "id": 55421,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:58.345Z",
+    "updatedAt": "2022-05-13T12:42:58.345Z",
+    "checkedAt": null,
+    "id": 85270,
     "type": "manga",
     "title": "Mahou Sensou",
-    "url": "https://myanimelist.net/manga/55421/Mahou_Sensou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/158060.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2022-02-08T05:39:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magical Warfare",
       "魔法戦争"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hisashi Suzuki",
-      "Yuu Ibuki"
-    ],
-    "id": 85270,
-    "malId": 55421,
-    "type": "manga",
-    "title": "Mahou Sensou",
     "url": "https://anilist.co/manga/85270",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85270-ougV5PUAP2Uc.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2021-12-17T21:57:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55421/Mahou_Sensou"
+    "externalLinks": [],
+    "malId": 55421,
+    "deletedAt": null,
+    "authors": [
+      "Hisashi Suzuki",
+      "Yuu Ibuki"
+    ]
+  }
 }

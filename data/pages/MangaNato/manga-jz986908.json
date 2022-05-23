@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuruma Ikada"
-  ],
+  "createdAt": "2021-06-14T20:28:45.000Z",
+  "updatedAt": "2022-03-26T20:27:14.000Z",
+  "checkedAt": null,
+  "id": 78244,
   "identifier": "manga-jz986908",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 129621,
   "aniId": 118371,
-  "createdAt": "2021-06-14T20:28:45.000Z",
-  "updatedAt": "2022-03-26T20:27:14.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsuruma Ikada"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T18:21:55.000Z",
+    "updatedAt": "2022-05-13T23:22:16.000Z",
+    "checkedAt": "2022-05-13T23:22:16.000Z",
+    "id": 129621,
+    "type": "manga",
+    "title": "Medalist",
+    "altTitle": [
+      "メダリスト"
+    ],
+    "url": "https://myanimelist.net/manga/129621/Medalist",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235204.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "メダリスト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsurumaikada"
-    ],
-    "id": 129621,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:30.656Z",
+    "updatedAt": "2022-05-15T18:22:23.000Z",
+    "checkedAt": "2022-05-15T18:22:23.000Z",
+    "id": 118371,
     "type": "manga",
     "title": "Medalist",
-    "url": "https://myanimelist.net/manga/129621/Medalist",
-    "image": "https://cdn.myanimelist.net/images/manga/3/235204.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T18:21:55.000Z",
-    "updatedAt": "2022-01-25T04:36:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Medalist",
       "メダリスト",
       "ทอฝันบนลานสเกต"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ikada Tsuruma"
-    ],
-    "id": 118371,
-    "malId": 129621,
-    "type": "manga",
-    "title": "Medalist",
     "url": "https://anilist.co/manga/118371",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118371-d5LTGr44wWSH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:24.000Z",
-    "updatedAt": "2022-04-05T20:00:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/129621/Medalist"
+    "externalLinks": [],
+    "malId": 129621,
+    "deletedAt": null,
+    "authors": [
+      "Ikada Tsuruma"
+    ]
+  }
 }

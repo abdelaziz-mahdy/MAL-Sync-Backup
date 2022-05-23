@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "AKASAKA Aka"
-  ],
+  "createdAt": "2021-08-25T13:07:26.000Z",
+  "updatedAt": "2022-02-25T13:47:39.000Z",
+  "checkedAt": null,
+  "id": 86208,
   "identifier": "ib_instant_bullet",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58313,
   "aniId": 85138,
-  "createdAt": "2021-08-25T13:07:26.000Z",
-  "updatedAt": "2022-02-25T13:47:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "AKASAKA Aka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-14T21:10:41.000Z",
+    "checkedAt": "2022-05-14T21:10:41.000Z",
+    "id": 58313,
+    "type": "manga",
+    "title": "ib: Instant Bullet",
+    "altTitle": [
+      "ib -インスタントバレット-"
+    ],
+    "url": "https://myanimelist.net/manga/58313/ib__Instant_Bullet",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253199.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +44,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ib -インスタントバレット-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Akasaka, Aka"
-    ],
-    "id": 58313,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:44.239Z",
+    "updatedAt": "2022-05-15T17:06:11.000Z",
+    "checkedAt": "2022-05-15T17:06:11.000Z",
+    "id": 85138,
     "type": "manga",
     "title": "ib: Instant Bullet",
-    "url": "https://myanimelist.net/manga/58313/ib__Instant_Bullet",
-    "image": "https://cdn.myanimelist.net/images/manga/1/253199.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2021-12-13T00:33:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ib -インスタントバレット-",
       "ib",
       "Instant Bullet",
       "ib - Instant Bullet"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aka Akasaka"
-    ],
-    "id": 85138,
-    "malId": 58313,
-    "type": "manga",
-    "title": "ib: Instant Bullet",
     "url": "https://anilist.co/manga/85138",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85138-74SNsMS77eTC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T21:54:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58313/ib__Instant_Bullet"
+    "externalLinks": [],
+    "malId": 58313,
+    "deletedAt": null,
+    "authors": [
+      "Aka Akasaka"
+    ]
+  }
 }

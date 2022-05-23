@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hokazono Masaya",
-    "Betten Court"
-  ],
+  "createdAt": "2020-10-12T16:02:42.000Z",
+  "updatedAt": "2021-12-02T09:16:58.000Z",
+  "checkedAt": null,
+  "id": 686,
   "identifier": "ac31b918-9b66-4d50-b1b3-2cce934d13eb",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25396,
   "aniId": 55396,
-  "createdAt": "2020-10-12T16:02:42.000Z",
-  "updatedAt": "2021-12-02T09:16:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hokazono Masaya",
+    "Betten Court"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/明日泥棒_(漫画)"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:18.000Z",
+    "updatedAt": "2022-04-10T01:30:57.000Z",
+    "checkedAt": null,
+    "id": 25396,
+    "type": "manga",
+    "title": "Ashita Dorobou",
     "altTitle": [
       "Thief of Tomorrow",
       "Tomorrow Stealer",
@@ -33,22 +34,30 @@
       "Asu Dorobou",
       "明日泥棒"
     ],
-    "authors": [
-      "Hokazono, Masaya",
-      "Betten, Court"
-    ],
-    "id": 25396,
-    "type": "manga",
-    "title": "Ashita Dorobou",
     "url": "https://myanimelist.net/manga/25396/Ashita_Dorobou",
     "image": "https://cdn.myanimelist.net/images/manga/1/58685.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:18.000Z",
-    "updatedAt": "2022-04-10T01:30:57.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/明日泥棒_(漫画)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hokazono, Masaya",
+      "Betten, Court"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:36.280Z",
+    "updatedAt": "2022-05-13T12:52:36.280Z",
+    "checkedAt": null,
+    "id": 55396,
+    "type": "manga",
+    "title": "Ashita Dorobou",
     "altTitle": [
       "明日泥棒",
       "Thief of Tomorrow",
@@ -56,22 +65,16 @@
       "Tomorrow's Thief",
       "Asu Dorobou"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masaya Hokazono",
-      "Court Betten"
-    ],
-    "id": 55396,
-    "malId": 25396,
-    "type": "manga",
-    "title": "Ashita Dorobou",
     "url": "https://anilist.co/manga/55396",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55396-T0XeOChc4Fre.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:53.000Z",
-    "updatedAt": "2021-12-17T18:35:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25396/Ashita_Dorobou"
+    "externalLinks": [],
+    "malId": 25396,
+    "deletedAt": null,
+    "authors": [
+      "Masaya Hokazono",
+      "Court Betten"
+    ]
+  }
 }

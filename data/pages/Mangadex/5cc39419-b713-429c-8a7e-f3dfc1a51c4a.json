@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Emoto Kazuaki",
-    "Zips",
-    "Ogi Natsumi",
-    "Fujino Kou"
-  ],
+  "createdAt": "2020-10-12T16:08:37.000Z",
+  "updatedAt": "2021-12-04T12:53:28.000Z",
+  "checkedAt": null,
+  "id": 13185,
   "identifier": "5cc39419-b713-429c-8a7e-f3dfc1a51c4a",
   "type": "manga",
   "page": "Mangadex",
@@ -14,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 90755,
   "aniId": 95352,
-  "createdAt": "2020-10-12T16:08:37.000Z",
-  "updatedAt": "2021-12-04T12:53:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Emoto Kazuaki",
+    "Zips",
+    "Ogi Natsumi",
+    "Fujino Kou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:05.000Z",
+    "updatedAt": "2021-12-04T12:20:41.000Z",
+    "checkedAt": null,
+    "id": 90755,
+    "type": "manga",
+    "title": "Heisei Project: Imitation Hero",
+    "altTitle": [
+      "ヘイセイプロジェクト －イミテーションヒーロー－"
+    ],
+    "url": "https://myanimelist.net/manga/90755/Heisei_Project__Imitation_Hero",
+    "image": "https://cdn.myanimelist.net/images/manga/2/159314.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -28,44 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヘイセイプロジェクト －イミテーションヒーロー－"
-    ],
+    "deletedAt": null,
     "authors": [
       "Emoto, Kazuaki",
       "Ogi, Natsumi"
-    ],
-    "id": 90755,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:21.460Z",
+    "updatedAt": "2022-05-13T12:54:21.460Z",
+    "checkedAt": null,
+    "id": 95352,
     "type": "manga",
     "title": "Heisei Project: Imitation Hero",
-    "url": "https://myanimelist.net/manga/90755/Heisei_Project__Imitation_Hero",
-    "image": "https://cdn.myanimelist.net/images/manga/2/159314.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:05.000Z",
-    "updatedAt": "2021-12-04T12:20:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヘイセイプロジェクト －イミテーションヒーロー－"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuaki Emoto",
-      "Natsumi Ogi"
-    ],
-    "id": 95352,
-    "malId": 90755,
-    "type": "manga",
-    "title": "Heisei Project: Imitation Hero",
     "url": "https://anilist.co/manga/95352",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95352-tnflWeZYFFEm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T11:48:57.000Z",
-    "updatedAt": "2021-12-18T01:24:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/90755/Heisei_Project__Imitation_Hero"
+    "externalLinks": [],
+    "malId": 90755,
+    "deletedAt": null,
+    "authors": [
+      "Kazuaki Emoto",
+      "Natsumi Ogi"
+    ]
+  }
 }

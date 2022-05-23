@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yumeno Tsukushi"
-  ],
+  "createdAt": "2020-10-12T16:16:19.000Z",
+  "updatedAt": "2021-12-06T21:47:21.000Z",
+  "checkedAt": null,
+  "id": 28835,
   "identifier": "9df4539e-4aa0-48be-b66d-33068a8d68ee",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120479,
   "aniId": 116598,
-  "createdAt": "2020-10-12T16:16:19.000Z",
-  "updatedAt": "2021-12-06T21:47:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yumeno Tsukushi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:04.000Z",
+    "updatedAt": "2021-11-24T04:37:39.000Z",
+    "checkedAt": null,
+    "id": 120479,
+    "type": "manga",
+    "title": "Watashi no Kamisama",
+    "altTitle": [
+      "私の神様"
+    ],
+    "url": "https://myanimelist.net/manga/120479/Watashi_no_Kamisama",
+    "image": "https://cdn.myanimelist.net/images/manga/1/219567.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "私の神様"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yumeno, Tsukushi"
-    ],
-    "id": 120479,
-    "type": "manga",
-    "title": "Watashi no Kamisama",
-    "url": "https://myanimelist.net/manga/120479/Watashi_no_Kamisama",
-    "image": "https://cdn.myanimelist.net/images/manga/1/219567.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:04.000Z",
-    "updatedAt": "2021-11-24T04:37:39.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:11.776Z",
+    "updatedAt": "2022-05-13T12:54:11.776Z",
+    "checkedAt": null,
+    "id": 116598,
+    "type": "manga",
+    "title": "Watashi no Kami-sama ",
     "altTitle": [
       "私の神様"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsukushi Yumeno"
-    ],
-    "id": 116598,
-    "malId": 120479,
-    "type": "manga",
-    "title": "Watashi no Kami-sama ",
     "url": "https://anilist.co/manga/116598",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116598-t7iv4GgtfZ9T.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:15.000Z",
-    "updatedAt": "2021-12-18T08:51:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120479/Watashi_no_Kamisama"
+    "externalLinks": [],
+    "malId": 120479,
+    "deletedAt": null,
+    "authors": [
+      "Tsukushi Yumeno"
+    ]
+  }
 }

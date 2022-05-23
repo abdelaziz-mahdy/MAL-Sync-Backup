@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hokuou Yuu"
-  ],
+  "createdAt": "2020-10-12T16:07:47.000Z",
+  "updatedAt": "2021-12-04T05:22:02.000Z",
+  "checkedAt": null,
+  "id": 11341,
   "identifier": "b9370e9a-ed6e-4ad9-a28c-a122ba96a9f9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78793,
   "aniId": 85994,
-  "createdAt": "2020-10-12T16:07:47.000Z",
-  "updatedAt": "2021-12-04T05:22:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hokuou Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-03-04T17:00:48.000Z",
+    "checkedAt": null,
+    "id": 78793,
+    "type": "manga",
+    "title": "Takahashi-san ga Kiiteiru.",
+    "altTitle": [
+      "Takahashi is hearing it.",
+      "Takahashi-san is listening.",
+      "高橋さんが聞いている。"
+    ],
+    "url": "https://myanimelist.net/manga/78793/Takahashi-san_ga_Kiiteiru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188934.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,50 +46,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Takahashi is hearing it.",
-      "Takahashi-san is listening.",
-      "高橋さんが聞いている。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hokuou, Yuu"
-    ],
-    "id": 78793,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:37.144Z",
+    "updatedAt": "2022-05-13T13:06:37.144Z",
+    "checkedAt": null,
+    "id": 85994,
     "type": "manga",
     "title": "Takahashi-san ga Kiiteiru.",
-    "url": "https://myanimelist.net/manga/78793/Takahashi-san_ga_Kiiteiru",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188934.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-03-04T17:00:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Takahashi-san is listening",
       "高橋さんが聞いている。"
     ],
+    "url": "https://anilist.co/manga/85994",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85994-acLK66EPJBgx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/takahashi-san-is-listening/volumes"
       }
     ],
+    "malId": 78793,
+    "deletedAt": null,
     "authors": [
       "Yuu Hokuou"
-    ],
-    "id": 85994,
-    "malId": 78793,
-    "type": "manga",
-    "title": "Takahashi-san ga Kiiteiru.",
-    "url": "https://anilist.co/manga/85994",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85994-acLK66EPJBgx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2021-12-17T22:27:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78793/Takahashi-san_ga_Kiiteiru"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chiaki Tarou"
-  ],
+  "createdAt": "2020-10-12T16:20:22.000Z",
+  "updatedAt": "2021-12-08T00:09:04.000Z",
+  "checkedAt": null,
+  "id": 37047,
   "identifier": "d3608ab4-fed0-4f65-856e-55466c931ebe",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130255,
   "aniId": 120702,
-  "createdAt": "2020-10-12T16:20:22.000Z",
-  "updatedAt": "2021-12-08T00:09:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chiaki Tarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-21T04:09:06.000Z",
+    "updatedAt": "2022-05-21T16:03:49.000Z",
+    "checkedAt": "2022-05-21T16:03:49.000Z",
+    "id": 130255,
+    "type": "manga",
+    "title": "Maou no Musume, Sugoku Choroi.",
+    "altTitle": [
+      "The Demon King's Daughter Is Way Too Easy",
+      "魔王の娘、すごくチョロい。"
+    ],
+    "url": "https://myanimelist.net/manga/130255/Maou_no_Musume_Sugoku_Choroi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/238676.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Demon King's Daughter Is Way Too Easy",
-      "魔王の娘、すごくチョロい。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chiaki, Tarou"
-    ],
-    "id": 130255,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:55.790Z",
+    "updatedAt": "2022-05-21T16:03:48.000Z",
+    "checkedAt": "2022-05-21T16:03:48.000Z",
+    "id": 120702,
     "type": "manga",
     "title": "Maou no Musume, Sugoku Choroi.",
-    "url": "https://myanimelist.net/manga/130255/Maou_no_Musume_Sugoku_Choroi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/238676.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-21T04:09:06.000Z",
-    "updatedAt": "2022-04-09T19:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔王の娘、すごくチョロい。",
       "The Demon King's Daughter is Very Simple-Minded",
       "The Demon King's Daughter Is Way Too Easy",
       "The Devil's Daughter Is So Awesome"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tarou Chiaki"
-    ],
-    "id": 120702,
-    "malId": 130255,
-    "type": "manga",
-    "title": "Maou no Musume, Sugoku Choroi.",
     "url": "https://anilist.co/manga/120702",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120702-Tta6DteDMYNJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:30.000Z",
-    "updatedAt": "2021-12-18T09:52:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130255/Maou_no_Musume_Sugoku_Choroi"
+    "externalLinks": [],
+    "malId": 130255,
+    "deletedAt": null,
+    "authors": [
+      "Tarou Chiaki"
+    ]
+  }
 }

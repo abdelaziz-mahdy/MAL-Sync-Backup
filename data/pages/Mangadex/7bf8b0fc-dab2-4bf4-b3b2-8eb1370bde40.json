@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "8go!",
-    "Miyoshi Ayato"
-  ],
+  "createdAt": "2020-12-11T12:48:12.000Z",
+  "updatedAt": "2021-12-08T11:07:01.000Z",
+  "checkedAt": null,
+  "id": 53892,
   "identifier": "7bf8b0fc-dab2-4bf4-b3b2-8eb1370bde40",
   "type": "manga",
   "page": "Mangadex",
@@ -12,33 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 110893,
-  "createdAt": "2020-12-11T12:48:12.000Z",
-  "updatedAt": "2021-12-08T11:07:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "8go!",
+    "Miyoshi Ayato"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:12.351Z",
+    "updatedAt": "2022-05-13T12:45:12.351Z",
+    "checkedAt": null,
+    "id": 110893,
+    "type": "manga",
+    "title": "KareKore!!",
     "altTitle": [
       "カレコレ!!",
       "College Collection"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ayato Miyoshi"
-    ],
-    "id": 110893,
-    "malId": null,
-    "type": "manga",
-    "title": "KareKore!!",
     "url": "https://anilist.co/manga/110893",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110893-rFAwNHRCz5Y2.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-08T08:55:52.000Z",
-    "updatedAt": "2021-12-21T14:55:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ayato Miyoshi"
+    ]
+  }
 }

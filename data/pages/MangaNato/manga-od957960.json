@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yashiro Manabu"
-  ],
+  "createdAt": "2022-05-09T16:01:22.000Z",
+  "updatedAt": "2022-05-13T15:21:23.000Z",
+  "checkedAt": "2022-05-13T15:00:37.000Z",
+  "id": 103488,
   "identifier": "manga-od957960",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,54 @@
   "image": "https://avt.mkklcdnv6temp.com/10/w/5-1583472282.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T16:01:22.000Z",
-  "updatedAt": "2022-05-09T16:01:22.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 28699,
+  "aniId": 58699,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Yashiro Manabu"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:31.000Z",
+    "updatedAt": "2022-05-13T15:00:46.000Z",
+    "checkedAt": "2022-05-13T15:00:46.000Z",
+    "id": 28699,
+    "type": "manga",
+    "title": "Murahagane",
+    "altTitle": [
+      "叢鋼 -ムラハガネ"
+    ],
+    "url": "https://myanimelist.net/manga/28699/Murahagane",
+    "image": "https://cdn.myanimelist.net/images/manga/1/115503.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yashiro, Manabu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:15.380Z",
+    "updatedAt": "2022-05-13T12:49:15.380Z",
+    "checkedAt": null,
+    "id": 58699,
+    "type": "manga",
+    "title": "Murahagane",
+    "altTitle": [
+      "ムラハガネ"
+    ],
+    "url": "https://anilist.co/manga/58699",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b58699-2dkITL3hJgal.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 28699,
+    "deletedAt": null,
+    "authors": [
+      "Manabu Yashiro"
+    ]
+  }
 }

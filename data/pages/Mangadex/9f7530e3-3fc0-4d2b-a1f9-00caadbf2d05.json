@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Narita Ryohgo",
-    "Type-Moon",
-    "Morii Shizuki"
-  ],
+  "createdAt": "2020-10-12T16:08:17.000Z",
+  "updatedAt": "2021-12-04T09:21:11.000Z",
+  "checkedAt": null,
+  "id": 12445,
   "identifier": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83923,
   "aniId": 86753,
-  "createdAt": "2020-10-12T16:08:17.000Z",
-  "updatedAt": "2021-12-04T09:21:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Narita Ryohgo",
+    "Type-Moon",
+    "Morii Shizuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:41.000Z",
+    "updatedAt": "2022-05-15T19:20:08.000Z",
+    "checkedAt": "2022-05-15T19:20:08.000Z",
+    "id": 83923,
+    "type": "manga",
+    "title": "Fate/strange Fake",
+    "altTitle": [
+      "Fate/strange Fake"
+    ],
+    "url": "https://myanimelist.net/manga/83923/Fate_strange_Fake",
+    "image": "https://cdn.myanimelist.net/images/manga/2/145617.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,46 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fate/strange Fake"
-    ],
+    "deletedAt": null,
     "authors": [
       "Narita, Ryohgo",
       "Morii, Shizuki"
-    ],
-    "id": 83923,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:55.100Z",
+    "updatedAt": "2022-05-15T21:05:11.000Z",
+    "checkedAt": "2022-05-15T21:05:11.000Z",
+    "id": 86753,
     "type": "manga",
     "title": "Fate/strange Fake",
-    "url": "https://myanimelist.net/manga/83923/Fate_strange_Fake",
-    "image": "https://cdn.myanimelist.net/images/manga/2/145617.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:41.000Z",
-    "updatedAt": "2022-03-25T11:27:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/strange Fake",
       "フェイト/ストレンジフェイク"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryougo Narita",
-      "Shizuki Morii",
-      "Type-Moon"
-    ],
-    "id": 86753,
-    "malId": 83923,
-    "type": "manga",
-    "title": "Fate/strange Fake",
     "url": "https://anilist.co/manga/86753",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86753-U39qnzjrfCLH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2021-12-17T22:57:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83923/Fate_strange_Fake"
+    "externalLinks": [],
+    "malId": 83923,
+    "deletedAt": null,
+    "authors": [
+      "Ryougo Narita",
+      "Shizuki Morii",
+      "Type-Moon",
+      "Nut Rittrairat"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsukudani Norio"
-  ],
+  "createdAt": "2021-08-21T07:46:06.000Z",
+  "updatedAt": "2022-02-21T08:16:51.000Z",
+  "checkedAt": null,
+  "id": 85920,
   "identifier": "manga-fr957152",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32833,
   "aniId": 62833,
-  "createdAt": "2021-08-21T07:46:06.000Z",
-  "updatedAt": "2022-02-21T08:16:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsukudani Norio"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%81%E3%82%B4%E3%83%88"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:43:46.000Z",
+    "updatedAt": "2022-05-15T01:24:09.000Z",
+    "checkedAt": "2022-05-15T01:24:09.000Z",
+    "id": 32833,
+    "type": "manga",
+    "title": "Himegoto",
     "altTitle": [
       "Hime Goto",
       "Secret Princess Himegoto",
@@ -34,40 +35,42 @@
       "Himegoto (Febri)",
       "ひめゴト"
     ],
-    "authors": [
-      "Tsukudani, Norio"
-    ],
-    "id": 32833,
-    "type": "manga",
-    "title": "Himegoto",
     "url": "https://myanimelist.net/manga/32833/Himegoto",
     "image": "https://cdn.myanimelist.net/images/manga/3/138981.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:43:46.000Z",
-    "updatedAt": "2021-12-07T11:16:41.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%81%E3%82%B4%E3%83%88"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsukudani, Norio"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:46.065Z",
+    "updatedAt": "2022-05-15T21:27:47.000Z",
+    "checkedAt": "2022-05-15T21:27:47.000Z",
+    "id": 62833,
+    "type": "manga",
+    "title": "Himegoto",
     "altTitle": [
       "ひめゴト",
       "Hime Goto"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Norio Tsukudani"
-    ],
-    "id": 62833,
-    "malId": 32833,
-    "type": "manga",
-    "title": "Himegoto",
     "url": "https://anilist.co/manga/62833",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62833-6UI8eMJAsJgk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:52.000Z",
-    "updatedAt": "2021-12-17T19:26:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/32833/Himegoto"
+    "externalLinks": [],
+    "malId": 32833,
+    "deletedAt": null,
+    "authors": [
+      "Norio Tsukudani"
+    ]
+  }
 }

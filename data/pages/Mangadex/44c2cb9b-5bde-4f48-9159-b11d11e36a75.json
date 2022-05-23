@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takahiro",
-    "Kanno Touko"
-  ],
+  "createdAt": "2020-10-12T16:15:09.000Z",
+  "updatedAt": "2021-12-06T11:17:37.000Z",
+  "checkedAt": null,
+  "id": 26392,
   "identifier": "44c2cb9b-5bde-4f48-9159-b11d11e36a75",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 82411,
   "aniId": 86521,
-  "createdAt": "2020-10-12T16:15:09.000Z",
-  "updatedAt": "2021-12-06T11:17:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahiro",
+    "Kanno Touko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:38.000Z",
+    "updatedAt": "2022-05-20T18:10:51.000Z",
+    "checkedAt": "2022-05-20T18:10:51.000Z",
+    "id": 82411,
+    "type": "manga",
+    "title": "Yuuki Yuuna wa Yuusha de Aru",
+    "altTitle": [
+      "Yuuki Yuuna Is a Hero",
+      "結城友奈は勇者である"
+    ],
+    "url": "https://myanimelist.net/manga/82411/Yuuki_Yuuna_wa_Yuusha_de_Aru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/211374.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yuuki Yuuna Is a Hero",
-      "結城友奈は勇者である"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahiro",
       "Kanno, Touko"
-    ],
-    "id": 82411,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:01.478Z",
+    "updatedAt": "2022-05-20T18:10:50.000Z",
+    "checkedAt": "2022-05-20T18:10:50.000Z",
+    "id": 86521,
     "type": "manga",
     "title": "Yuuki Yuuna wa Yuusha de Aru",
-    "url": "https://myanimelist.net/manga/82411/Yuuki_Yuuna_wa_Yuusha_de_Aru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/211374.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:38.000Z",
-    "updatedAt": "2022-04-09T04:33:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "結城友奈は勇者である",
       "Yuuki Yuuna Is a Hero"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takahiro",
-      "Touko Kanno",
-      "BUNBUN"
-    ],
-    "id": 86521,
-    "malId": 82411,
-    "type": "manga",
-    "title": "Yuuki Yuuna wa Yuusha de Aru",
     "url": "https://anilist.co/manga/86521",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86521-4rVJBFYfu7Xp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:05.000Z",
-    "updatedAt": "2021-12-17T22:53:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/82411/Yuuki_Yuuna_wa_Yuusha_de_Aru"
+    "externalLinks": [],
+    "malId": 82411,
+    "deletedAt": null,
+    "authors": [
+      "Takahiro",
+      "Touko Kanno",
+      "BUNBUN"
+    ]
+  }
 }

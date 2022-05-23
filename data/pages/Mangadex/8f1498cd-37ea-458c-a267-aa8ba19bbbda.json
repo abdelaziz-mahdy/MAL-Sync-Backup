@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ha Il-Kwon"
-  ],
+  "createdAt": "2020-10-12T16:04:16.000Z",
+  "updatedAt": "2021-12-02T20:17:27.000Z",
+  "checkedAt": null,
+  "id": 4001,
   "identifier": "8f1498cd-37ea-458c-a267-aa8ba19bbbda",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37801,
   "aniId": 67801,
-  "createdAt": "2020-10-12T16:04:16.000Z",
-  "updatedAt": "2021-12-02T20:17:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ha Il-Kwon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:03.000Z",
+    "updatedAt": "2022-02-21T05:17:49.000Z",
+    "checkedAt": null,
+    "id": 37801,
+    "type": "manga",
+    "title": "Sambong Barber Shop",
+    "altTitle": [
+      "Sambong Ibalso",
+      "삼봉이발소"
+    ],
+    "url": "https://myanimelist.net/manga/37801/Sambong_Barber_Shop",
+    "image": "https://cdn.myanimelist.net/images/manga/2/94285.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sambong Ibalso",
-      "삼봉이발소"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ha, Il-Kwon"
-    ],
-    "id": 37801,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:09.226Z",
+    "updatedAt": "2022-05-13T13:03:09.226Z",
+    "checkedAt": null,
+    "id": 67801,
     "type": "manga",
     "title": "Sambong Barber Shop",
-    "url": "https://myanimelist.net/manga/37801/Sambong_Barber_Shop",
-    "image": "https://cdn.myanimelist.net/images/manga/2/94285.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:03.000Z",
-    "updatedAt": "2022-02-21T05:17:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "삼봉이발소",
       "Sambong Ibalso"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Il-Kwon Ha"
-    ],
-    "id": 67801,
-    "malId": 37801,
-    "type": "manga",
-    "title": "Sambong Barber Shop",
     "url": "https://anilist.co/manga/67801",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37801.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:35.000Z",
-    "updatedAt": "2021-12-17T19:59:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/37801/Sambong_Barber_Shop"
+    "externalLinks": [],
+    "malId": 37801,
+    "deletedAt": null,
+    "authors": [
+      "Il-Kwon Ha"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yazu Michio",
-    "Ena"
-  ],
+  "createdAt": "2020-10-12T16:18:36.000Z",
+  "updatedAt": "2021-12-07T19:19:49.000Z",
+  "checkedAt": null,
+  "id": 33450,
   "identifier": "2e06cadf-5571-4666-98d6-c0191253b69c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125075,
   "aniId": 105115,
-  "createdAt": "2020-10-12T16:18:36.000Z",
-  "updatedAt": "2021-12-07T19:19:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yazu Michio",
+    "Ena"
+  ],
   "Mal": {
+    "createdAt": "2021-01-13T09:39:56.000Z",
+    "updatedAt": "2022-05-16T06:37:13.000Z",
+    "checkedAt": "2022-05-16T06:37:13.000Z",
+    "id": 125075,
+    "type": "manga",
+    "title": "Dokumushi: The Ruins Hotel",
+    "altTitle": [
+      "ドクムシ　the ruins hotel"
+    ],
+    "url": "https://myanimelist.net/manga/125075/Dokumushi__The_Ruins_Hotel",
+    "image": "https://cdn.myanimelist.net/images/manga/2/236189.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ドクムシ　the ruins hotel"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yazu, Michio",
       "Ena"
-    ],
-    "id": 125075,
-    "type": "manga",
-    "title": "Dokumushi: The Ruins Hotel",
-    "url": "https://myanimelist.net/manga/125075/Dokumushi__The_Ruins_Hotel",
-    "image": "https://cdn.myanimelist.net/images/manga/2/236189.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-01-13T09:39:56.000Z",
-    "updatedAt": "2022-05-02T11:01:36.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:35.362Z",
+    "updatedAt": "2022-05-16T06:37:12.000Z",
+    "checkedAt": "2022-05-16T06:37:12.000Z",
+    "id": 105115,
+    "type": "manga",
+    "title": "Doku Mushi: The Ruins Hotel",
     "altTitle": [
       "ドクムシThe Ruins Hotel"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Miscio Yazu",
-      "Ena"
-    ],
-    "id": 105115,
-    "malId": 125075,
-    "type": "manga",
-    "title": "Doku Mushi: The Ruins Hotel",
     "url": "https://anilist.co/manga/105115",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105115-PTHrgXDDyn8x.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2021-12-18T04:59:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125075/Dokumushi__The_Ruins_Hotel"
+    "externalLinks": [],
+    "malId": 125075,
+    "deletedAt": null,
+    "authors": [
+      "Miscio Yazu",
+      "Ena"
+    ]
+  }
 }

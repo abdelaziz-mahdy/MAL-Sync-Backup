@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Marvin. W"
-  ],
+  "createdAt": "2020-10-12T16:19:29.000Z",
+  "updatedAt": "2021-12-07T22:12:02.000Z",
+  "checkedAt": null,
+  "id": 35268,
   "identifier": "2aae997b-d8ab-46a3-9981-a413136a9285",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28633,
   "aniId": 58633,
-  "createdAt": "2020-10-12T16:19:29.000Z",
-  "updatedAt": "2021-12-07T22:12:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Marvin. W"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:31.000Z",
+    "updatedAt": "2022-05-16T06:26:08.000Z",
+    "checkedAt": "2022-05-16T06:26:08.000Z",
+    "id": 28633,
+    "type": "manga",
+    "title": "Morumo 1/10",
+    "altTitle": [
+      "Morumo Juu Bun no Ichi",
+      "MORUMO 1/10"
+    ],
+    "url": "https://myanimelist.net/manga/28633/Morumo_1_10",
+    "image": "https://cdn.myanimelist.net/images/manga/1/137939.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,41 +41,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Morumo Juu Bun no Ichi",
-      "MORUMO 1/10"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aro, Hiroshi"
-    ],
-    "id": 28633,
-    "type": "manga",
-    "title": "Morumo 1/10",
-    "url": "https://myanimelist.net/manga/28633/Morumo_1_10",
-    "image": "https://cdn.myanimelist.net/images/manga/1/137939.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:31.000Z",
-    "updatedAt": "2022-02-19T19:18:02.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
-    "altTitle": [],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Aro"
-    ],
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:32.048Z",
+    "updatedAt": "2022-05-16T06:26:07.000Z",
+    "checkedAt": "2022-05-16T06:26:07.000Z",
     "id": 58633,
-    "malId": 28633,
     "type": "manga",
     "title": "Morumo 1/10",
+    "altTitle": [],
     "url": "https://anilist.co/manga/58633",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28633.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:32.000Z",
-    "updatedAt": "2021-12-17T18:59:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/28633/Morumo_1_10"
+    "externalLinks": [],
+    "malId": 28633,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Aro"
+    ]
+  }
 }

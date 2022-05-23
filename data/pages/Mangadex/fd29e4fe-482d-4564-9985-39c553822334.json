@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Serizawa Nae",
-    "tcnc (Circle)"
-  ],
+  "createdAt": "2020-10-12T16:19:47.000Z",
+  "updatedAt": "2021-12-07T23:06:12.000Z",
+  "checkedAt": null,
+  "id": 35860,
   "identifier": "fd29e4fe-482d-4564-9985-39c553822334",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 97916,
   "aniId": 104517,
-  "createdAt": "2020-10-12T16:19:47.000Z",
-  "updatedAt": "2021-12-07T23:06:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Serizawa Nae",
+    "tcnc (Circle)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:29.000Z",
+    "updatedAt": "2022-05-18T02:46:53.000Z",
+    "checkedAt": "2022-05-18T02:46:53.000Z",
+    "id": 97916,
+    "type": "manga",
+    "title": "Koutetsujou no Kabaneri",
+    "altTitle": [
+      "Kabaneri of the Iron Fortress",
+      "甲鉄城のカバネリ"
+    ],
+    "url": "https://myanimelist.net/manga/97916/Koutetsujou_no_Kabaneri",
+    "image": "https://cdn.myanimelist.net/images/manga/1/186860.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kabaneri of the Iron Fortress",
-      "甲鉄城のカバネリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshida, Shirou"
-    ],
-    "id": 97916,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:21.869Z",
+    "updatedAt": "2022-05-18T02:46:52.000Z",
+    "checkedAt": "2022-05-18T02:46:52.000Z",
+    "id": 104517,
     "type": "manga",
     "title": "Koutetsujou no Kabaneri",
-    "url": "https://myanimelist.net/manga/97916/Koutetsujou_no_Kabaneri",
-    "image": "https://cdn.myanimelist.net/images/manga/1/186860.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:29.000Z",
-    "updatedAt": "2022-02-21T09:47:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "甲鉄城のカバネリ",
       "Kabaneri of the Iron Fortress"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shirou Yoshida"
-    ],
-    "id": 104517,
-    "malId": 97916,
-    "type": "manga",
-    "title": "Koutetsujou no Kabaneri",
     "url": "https://anilist.co/manga/104517",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104517-limQyJNgMMZL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:10.000Z",
-    "updatedAt": "2021-12-18T04:53:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/97916/Koutetsujou_no_Kabaneri"
+    "externalLinks": [],
+    "malId": 97916,
+    "deletedAt": null,
+    "authors": [
+      "Shirou Yoshida"
+    ]
+  }
 }

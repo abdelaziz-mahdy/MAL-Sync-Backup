@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mio Junta"
-  ],
+  "createdAt": "2022-05-09T04:01:24.000Z",
+  "updatedAt": "2022-05-13T16:21:41.000Z",
+  "checkedAt": "2022-05-13T15:20:55.000Z",
+  "id": 103373,
   "identifier": "manga-ma963609",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,58 @@
   "image": "https://avt.mkklcdnv6temp.com/4/n/9-1583480269.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T04:01:24.000Z",
-  "updatedAt": "2022-05-09T04:01:24.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 66571,
+  "aniId": 90435,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Mio Junta"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:10.000Z",
+    "updatedAt": "2022-05-13T15:20:56.000Z",
+    "checkedAt": "2022-05-13T15:20:56.000Z",
+    "id": 66571,
+    "type": "manga",
+    "title": "Renai Moratorium",
+    "altTitle": [
+      "Ren'ai Moratorium",
+      "Love Moratorium",
+      "恋愛モラトリアム"
+    ],
+    "url": "https://myanimelist.net/manga/66571/Renai_Moratorium",
+    "image": "https://cdn.myanimelist.net/images/manga/2/114235.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mio, Junta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:00.256Z",
+    "updatedAt": "2022-05-13T12:48:00.256Z",
+    "checkedAt": null,
+    "id": 90435,
+    "type": "manga",
+    "title": "Renai Moratorium",
+    "altTitle": [
+      "恋愛モラトリアム",
+      "Ren'ai Moratorium",
+      "Love Moratorium"
+    ],
+    "url": "https://anilist.co/manga/90435",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90435-8BEh6ClPXn05.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 66571,
+    "deletedAt": null,
+    "authors": [
+      "Junta Mio"
+    ]
+  }
 }

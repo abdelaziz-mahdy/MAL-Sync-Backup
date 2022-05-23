@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kankitsu Yusura",
-    "Saotome Ageha"
-  ],
+  "createdAt": "2020-10-12T16:14:01.000Z",
+  "updatedAt": "2021-12-06T02:18:11.000Z",
+  "checkedAt": null,
+  "id": 24074,
   "identifier": "a31c3700-7a93-4b64-bfa4-9b09bf3a29dd",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 127484,
   "aniId": 109605,
-  "createdAt": "2020-10-12T16:14:01.000Z",
-  "updatedAt": "2021-12-06T02:18:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kankitsu Yusura",
+    "Saotome Ageha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:23.000Z",
+    "updatedAt": "2022-05-15T04:20:50.000Z",
+    "checkedAt": "2022-05-15T04:20:50.000Z",
+    "id": 127484,
+    "type": "manga",
+    "title": "Ningen Bokujou",
+    "altTitle": [
+      "Human Ranch",
+      "人間牧場"
+    ],
+    "url": "https://myanimelist.net/manga/127484/Ningen_Bokujou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235148.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Human Ranch",
-      "人間牧場"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kankitsu, Yusura",
       "Saotome, Ageha"
-    ],
-    "id": 127484,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:26.252Z",
+    "updatedAt": "2022-05-18T00:51:06.000Z",
+    "checkedAt": "2022-05-18T00:51:06.000Z",
+    "id": 109605,
     "type": "manga",
     "title": "Ningen Bokujou",
-    "url": "https://myanimelist.net/manga/127484/Ningen_Bokujou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/235148.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:23.000Z",
-    "updatedAt": "2021-12-01T11:36:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "人間牧場",
       "Human Ranch",
       "Ningen Makiba",
       "인간목장"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ageha Saotome",
-      "Yusura Kankitsu"
-    ],
-    "id": 109605,
-    "malId": 127484,
-    "type": "manga",
-    "title": "Ningen Bokujou",
     "url": "https://anilist.co/manga/109605",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109605-bymHUfFdLz3s.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:18.000Z",
-    "updatedAt": "2021-12-18T06:28:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127484/Ningen_Bokujou"
+    "externalLinks": [],
+    "malId": 127484,
+    "deletedAt": null,
+    "authors": [
+      "Ageha Saotome",
+      "Yusura Kankitsu"
+    ]
+  }
 }

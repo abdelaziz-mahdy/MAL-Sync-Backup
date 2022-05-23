@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Arakawa Hiromu"
-  ],
+  "createdAt": "2020-10-12T16:21:35.000Z",
+  "updatedAt": "2021-12-08T03:06:52.000Z",
+  "checkedAt": null,
+  "id": 39649,
   "identifier": "f9c9614d-0657-44c6-9c33-47fd58cd51b3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25,
   "aniId": 30025,
-  "createdAt": "2020-10-12T16:21:35.000Z",
-  "updatedAt": "2021-12-08T03:06:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Arakawa Hiromu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-14T23:37:59.000Z",
+    "checkedAt": "2022-05-14T23:37:59.000Z",
+    "id": 25,
+    "type": "manga",
+    "title": "Fullmetal Alchemist",
+    "altTitle": [
+      "Full Metal Alchemist",
+      "Hagane no Renkinjutsushi",
+      "FMA",
+      "HagaRen",
+      "Fullmetal Alchemist Gaiden",
+      "Fullmetal Alchemist",
+      "鋼の錬金術師"
+    ],
+    "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+    "image": "https://cdn.myanimelist.net/images/manga/3/243675.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,30 +50,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Full Metal Alchemist",
-      "Hagane no Renkinjutsushi",
-      "FMA",
-      "HagaRen",
-      "Fullmetal Alchemist Gaiden",
-      "Fullmetal Alchemist",
-      "鋼の錬金術師"
-    ],
+    "deletedAt": null,
     "authors": [
       "Arakawa, Hiromu"
-    ],
-    "id": 25,
-    "type": "manga",
-    "title": "Fullmetal Alchemist",
-    "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
-    "image": "https://cdn.myanimelist.net/images/manga/3/243675.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-08T10:31:05.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:55.092Z",
+    "updatedAt": "2022-05-15T17:46:11.000Z",
+    "checkedAt": "2022-05-15T17:46:11.000Z",
+    "id": 30025,
+    "type": "manga",
+    "title": "Hagane no Renkinjutsushi",
     "altTitle": [
       "Fullmetal Alchemist",
       "鋼の錬金術師",
@@ -64,7 +73,13 @@
       "Fullmetal Alchemist - Ocelový alchymista",
       " Стальной Алхимик"
     ],
+    "url": "https://anilist.co/manga/30025",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30025-H2Es0tn49tir.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 25,
+    "deletedAt": null,
     "authors": [
       "Hiromu Arakawa",
       "Jun Tokou",
@@ -78,18 +93,6 @@
       "Manatsu Suzuki",
       "Kyu Aiya",
       "Hikaru Miyoshi"
-    ],
-    "id": 30025,
-    "malId": 25,
-    "type": "manga",
-    "title": "Hagane no Renkinjutsushi",
-    "url": "https://anilist.co/manga/30025",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30025-H2Es0tn49tir.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-05-05T10:00:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:57:08.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 11106,
   "identifier": "z8x2",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32615,
   "aniId": 21613,
-  "createdAt": "2020-10-12T15:57:08.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:43.000Z",
+    "updatedAt": "2022-05-14T16:04:34.000Z",
+    "checkedAt": "2022-05-14T16:04:34.000Z",
+    "id": 32615,
+    "type": "anime",
+    "title": "Youjo Senki",
+    "altTitle": [
+      "The Military Chronicles of a Little Girl",
+      "Saga of Tanya the Evil",
+      "幼女戦記"
+    ],
+    "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
+    "image": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +60,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "The Military Chronicles of a Little Girl",
-      "Saga of Tanya the Evil",
-      "幼女戦記"
-    ],
-    "id": 32615,
+    "deletedAt": null,
+    "anidbId": 11905
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:02.000Z",
+    "updatedAt": "2022-05-15T09:34:35.000Z",
+    "checkedAt": "2022-05-15T09:34:35.000Z",
+    "id": 21613,
     "type": "anime",
     "title": "Youjo Senki",
-    "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
-    "image": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11905,
-    "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2022-04-02T16:35:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Saga of Tanya the Evil",
       "幼女戦記",
       "幼女战记"
     ],
+    "url": "https://anilist.co/anime/21613",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21613-uh46F6TNGbNf.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -76,17 +89,7 @@
         "url": "https://vrv.co/series/GR9P57W96"
       }
     ],
-    "id": 21613,
     "malId": 32615,
-    "type": "anime",
-    "title": "Youjo Senki",
-    "url": "https://anilist.co/anime/21613",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21613-uh46F6TNGbNf.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:02.000Z",
-    "updatedAt": "2021-12-17T15:20:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32615/Youjo_Senki"
+  }
 }

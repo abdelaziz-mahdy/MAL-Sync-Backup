@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takao Shigeru"
-  ],
+  "createdAt": "2021-12-05T15:16:50.000Z",
+  "updatedAt": "2021-12-05T15:46:06.000Z",
+  "checkedAt": null,
+  "id": 92501,
   "identifier": "manga-rr955700",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 44671,
   "aniId": 74671,
-  "createdAt": "2021-12-05T15:16:50.000Z",
-  "updatedAt": "2021-12-05T15:46:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takao Shigeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:19.000Z",
+    "updatedAt": "2021-11-07T00:05:24.000Z",
+    "checkedAt": null,
+    "id": 44671,
+    "type": "manga",
+    "title": "Madame Petit",
+    "altTitle": [
+      "マダム・プティ"
+    ],
+    "url": "https://myanimelist.net/manga/44671/Madame_Petit",
+    "image": "https://cdn.myanimelist.net/images/manga/1/176951.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "マダム・プティ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takao, Shigeru"
-    ],
-    "id": 44671,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:19.210Z",
+    "updatedAt": "2022-05-13T12:59:19.210Z",
+    "checkedAt": null,
+    "id": 74671,
     "type": "manga",
     "title": "Madame Petit",
-    "url": "https://myanimelist.net/manga/44671/Madame_Petit",
-    "image": "https://cdn.myanimelist.net/images/manga/1/176951.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:19.000Z",
-    "updatedAt": "2021-11-07T00:05:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マダム・プティ",
       "Madam Petit"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shigeru Takao"
-    ],
-    "id": 74671,
-    "malId": 44671,
-    "type": "manga",
-    "title": "Madame Petit",
     "url": "https://anilist.co/manga/74671",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74671-EmrdkYot5Dy7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:01.000Z",
-    "updatedAt": "2021-12-17T20:50:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/44671/Madame_Petit"
+    "externalLinks": [],
+    "malId": 44671,
+    "deletedAt": null,
+    "authors": [
+      "Shigeru Takao"
+    ]
+  }
 }

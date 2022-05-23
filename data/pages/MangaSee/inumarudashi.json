@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "OOISHI Kouji"
-  ],
+  "createdAt": "2021-12-20T03:20:31.000Z",
+  "updatedAt": "2021-12-20T03:48:35.000Z",
+  "checkedAt": null,
+  "id": 93398,
   "identifier": "inumarudashi",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10105,
   "aniId": 40105,
-  "createdAt": "2021-12-20T03:20:31.000Z",
-  "updatedAt": "2021-12-20T03:48:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "OOISHI Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:26.000Z",
+    "updatedAt": "2021-12-20T03:20:37.000Z",
+    "checkedAt": null,
+    "id": 10105,
+    "type": "manga",
+    "title": "Inumarudashi",
+    "altTitle": [
+      "いぬまるだしっ"
+    ],
+    "url": "https://myanimelist.net/manga/10105/Inumarudashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/52041.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +40,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "いぬまるだしっ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooishi, Kouji"
-    ],
-    "id": 10105,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:48.948Z",
+    "updatedAt": "2022-05-13T12:58:48.948Z",
+    "checkedAt": null,
+    "id": 40105,
     "type": "manga",
     "title": "Inumarudashi",
-    "url": "https://myanimelist.net/manga/10105/Inumarudashi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/52041.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:26.000Z",
-    "updatedAt": "2021-12-20T03:20:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "いぬまるだしっ"
     ],
+    "url": "https://anilist.co/manga/40105",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10105.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 10105,
+    "deletedAt": null,
     "authors": [
       "Kouji Ooishi",
       "Yuusaku Shibata",
       "Masahiro Hirakata",
       "Kousuke Hamada",
       "Tasuku Sugie"
-    ],
-    "id": 40105,
-    "malId": 10105,
-    "type": "manga",
-    "title": "Inumarudashi",
-    "url": "https://anilist.co/manga/40105",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10105.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2021-12-17T13:49:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10105/Inumarudashi"
+    ]
+  }
 }

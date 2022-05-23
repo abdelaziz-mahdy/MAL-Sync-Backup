@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hotta Yumi",
-    "Kawano Kei"
-  ],
+  "createdAt": "2020-10-12T16:05:03.000Z",
+  "updatedAt": "2021-12-03T10:17:28.000Z",
+  "checkedAt": null,
+  "id": 5596,
   "identifier": "e0f60f7f-c4ad-408b-ac9d-ecfecdb22af8",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4237,
   "aniId": 34237,
-  "createdAt": "2020-10-12T16:05:03.000Z",
-  "updatedAt": "2021-12-03T10:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hotta Yumi",
+    "Kawano Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:58.000Z",
+    "updatedAt": "2022-04-28T17:02:13.000Z",
+    "checkedAt": null,
+    "id": 4237,
+    "type": "manga",
+    "title": "Yuuto",
+    "altTitle": [
+      "ユート"
+    ],
+    "url": "https://myanimelist.net/manga/4237/Yuuto",
+    "image": "https://cdn.myanimelist.net/images/manga/2/168485.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ユート"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hotta, Yumi",
       "Kawano, Kei"
-    ],
-    "id": 4237,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:38.279Z",
+    "updatedAt": "2022-05-13T13:00:38.279Z",
+    "checkedAt": null,
+    "id": 34237,
     "type": "manga",
     "title": "Yuuto",
-    "url": "https://myanimelist.net/manga/4237/Yuuto",
-    "image": "https://cdn.myanimelist.net/images/manga/2/168485.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:58.000Z",
-    "updatedAt": "2022-04-28T17:02:13.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ユート"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yumi Hotta",
-      "Kei Kawano"
-    ],
-    "id": 34237,
-    "malId": 4237,
-    "type": "manga",
-    "title": "Yuuto",
     "url": "https://anilist.co/manga/34237",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34237-7vb6lPCXy4lt.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:45:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4237/Yuuto"
+    "externalLinks": [],
+    "malId": 4237,
+    "deletedAt": null,
+    "authors": [
+      "Yumi Hotta",
+      "Kei Kawano"
+    ]
+  }
 }

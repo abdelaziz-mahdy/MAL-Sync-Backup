@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kim Carnby",
-    "Team Getname"
-  ],
+  "createdAt": "2020-10-12T16:03:43.000Z",
+  "updatedAt": "2021-12-02T17:18:48.000Z",
+  "checkedAt": null,
+  "id": 2833,
   "identifier": "f9972c2d-b8e0-45e6-a069-8410614e03e7",
   "type": "manga",
   "page": "Mangadex",
@@ -12,34 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 85174,
-  "createdAt": "2020-10-12T16:03:43.000Z",
-  "updatedAt": "2021-12-02T17:18:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kim Carnby",
+    "Team Getname"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:58.144Z",
+    "updatedAt": "2022-05-13T16:37:19.000Z",
+    "checkedAt": "2022-05-13T16:37:19.000Z",
+    "id": 85174,
+    "type": "manga",
+    "title": "Jugeun Mabeopsaui Dosi",
     "altTitle": [
       "죽은 마법사의 도시",
       "City of the Dead Magician",
       "Dead Sorcerer's City"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Carnby Kim"
-    ],
-    "id": 85174,
-    "malId": null,
-    "type": "manga",
-    "title": "Jugeun Mabeopsaui Dosi",
     "url": "https://anilist.co/manga/85174",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55174.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-02T16:31:11.000Z",
-    "updatedAt": "2022-04-24T00:01:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Carnby Kim"
+    ]
+  }
 }

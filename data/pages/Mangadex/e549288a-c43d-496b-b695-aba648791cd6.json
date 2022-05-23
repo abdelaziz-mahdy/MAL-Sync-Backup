@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shouoto Aya"
-  ],
+  "createdAt": "2020-10-12T16:04:34.000Z",
+  "updatedAt": "2021-12-02T22:18:27.000Z",
+  "checkedAt": null,
+  "id": 4605,
   "identifier": "e549288a-c43d-496b-b695-aba648791cd6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34491,
   "aniId": 64491,
-  "createdAt": "2020-10-12T16:04:34.000Z",
-  "updatedAt": "2021-12-02T22:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shouoto Aya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:50.000Z",
+    "updatedAt": "2021-11-13T23:43:50.000Z",
+    "checkedAt": null,
+    "id": 34491,
+    "type": "manga",
+    "title": "Super Darling!",
+    "altTitle": [
+      "Supa Darin!",
+      "Super-Dan!",
+      "スーパーダーリン！"
+    ],
+    "url": "https://myanimelist.net/manga/34491/Super_Darling",
+    "image": "https://cdn.myanimelist.net/images/manga/3/74055.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Supa Darin!",
-      "Super-Dan!",
-      "スーパーダーリン！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shouoto, Aya"
-    ],
-    "id": 34491,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:50.836Z",
+    "updatedAt": "2022-05-13T13:04:50.836Z",
+    "checkedAt": null,
+    "id": 64491,
     "type": "manga",
     "title": "Super Darling!",
-    "url": "https://myanimelist.net/manga/34491/Super_Darling",
-    "image": "https://cdn.myanimelist.net/images/manga/3/74055.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:50.000Z",
-    "updatedAt": "2021-11-13T23:43:50.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スーパーダーリン！",
       "Supa Darin!",
       "Super-Dan!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aya Shouoto"
-    ],
-    "id": 64491,
-    "malId": 34491,
-    "type": "manga",
-    "title": "Super Darling!",
     "url": "https://anilist.co/manga/64491",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64491-P1clTnr5AzvM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:59.000Z",
-    "updatedAt": "2021-12-17T19:33:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/34491/Super_Darling"
+    "externalLinks": [],
+    "malId": 34491,
+    "deletedAt": null,
+    "authors": [
+      "Aya Shouoto"
+    ]
+  }
 }

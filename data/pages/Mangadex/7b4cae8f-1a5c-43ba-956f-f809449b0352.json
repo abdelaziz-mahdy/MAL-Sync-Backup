@@ -1,12 +1,8 @@
 {
-  "authors": [
-    "Homura Subaru",
-    "Konbu Wakame",
-    "Itou Hachi",
-    "Kodama Naoko",
-    "Taiyaki",
-    "Kurukuruhime"
-  ],
+  "createdAt": "2020-10-12T16:17:40.000Z",
+  "updatedAt": "2021-12-07T10:19:29.000Z",
+  "checkedAt": null,
+  "id": 31610,
   "identifier": "7b4cae8f-1a5c-43ba-956f-f809449b0352",
   "type": "manga",
   "page": "Mangadex",
@@ -16,14 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 115010,
-  "createdAt": "2020-10-12T16:17:40.000Z",
-  "updatedAt": "2021-12-07T10:19:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Homura Subaru",
+    "Konbu Wakame",
+    "Itou Hachi",
+    "Kodama Naoko",
+    "Taiyaki",
+    "Kurukuruhime"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:52.938Z",
+    "updatedAt": "2022-05-16T00:44:02.000Z",
+    "checkedAt": "2022-05-16T00:44:02.000Z",
+    "id": 115010,
+    "type": "manga",
+    "title": "Yuri Drill",
     "altTitle": [
       "百合ドリル",
       "yuri-drill",
@@ -31,7 +39,13 @@
       "百合ドリル 応用編",
       "百合ドリル　自由研究編"
     ],
+    "url": "https://anilist.co/manga/115010",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115010-JAc0DriFOUBw.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Manami Sugano",
       "Kurukuru Hime",
@@ -58,18 +72,6 @@
       "Naoko Kodama",
       "Fumiko Takada",
       "Chisako"
-    ],
-    "id": 115010,
-    "malId": null,
-    "type": "manga",
-    "title": "Yuri Drill",
-    "url": "https://anilist.co/manga/115010",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115010-JAc0DriFOUBw.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-07T09:50:00.000Z",
-    "updatedAt": "2021-12-21T15:24:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

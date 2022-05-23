@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ASAGA Iori"
-  ],
+  "createdAt": "2021-08-12T01:39:41.000Z",
+  "updatedAt": "2022-02-12T02:09:37.000Z",
+  "checkedAt": null,
+  "id": 85087,
   "identifier": "dear_sa_chan",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 120573,
   "aniId": 110329,
-  "createdAt": "2021-08-12T01:39:41.000Z",
-  "updatedAt": "2022-02-12T02:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "ASAGA Iori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:04.000Z",
+    "updatedAt": "2022-05-15T17:07:37.000Z",
+    "checkedAt": "2022-05-15T17:07:37.000Z",
+    "id": 120573,
+    "type": "manga",
+    "title": "Sacchan, Boku wa.",
+    "altTitle": [
+      "Dear Sa-chan",
+      "さっちゃん、僕は。"
+    ],
+    "url": "https://myanimelist.net/manga/120573/Sacchan_Boku_wa",
+    "image": "https://cdn.myanimelist.net/images/manga/2/223622.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,50 +41,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dear Sa-chan",
-      "さっちゃん、僕は。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asaga, Iori"
-    ],
-    "id": 120573,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:39.071Z",
+    "updatedAt": "2022-05-15T20:04:23.000Z",
+    "checkedAt": "2022-05-15T20:04:23.000Z",
+    "id": 110329,
     "type": "manga",
     "title": "Sacchan, Boku wa.",
-    "url": "https://myanimelist.net/manga/120573/Sacchan_Boku_wa",
-    "image": "https://cdn.myanimelist.net/images/manga/2/223622.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:04.000Z",
-    "updatedAt": "2022-04-17T16:02:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dear Sa-chan",
       "さっちゃん、僕は。",
       "ซัตจังครับ คือว่าผม"
     ],
+    "url": "https://anilist.co/manga/110329",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110329-DHO99a4VMz1U.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100064"
       }
     ],
+    "malId": 120573,
+    "deletedAt": null,
     "authors": [
       "Iori Asaga"
-    ],
-    "id": 110329,
-    "malId": 120573,
-    "type": "manga",
-    "title": "Sacchan, Boku wa.",
-    "url": "https://anilist.co/manga/110329",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110329-DHO99a4VMz1U.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:58:16.000Z",
-    "updatedAt": "2022-03-14T13:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120573/Sacchan_Boku_wa"
+    ]
+  }
 }

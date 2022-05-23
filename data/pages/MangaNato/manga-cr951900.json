@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaku Yuuji"
-  ],
+  "createdAt": "2021-06-16T04:57:33.000Z",
+  "updatedAt": "2021-12-16T05:48:24.000Z",
+  "checkedAt": null,
+  "id": 78393,
   "identifier": "manga-cr951900",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55323,
   "aniId": 86011,
-  "createdAt": "2021-06-16T04:57:33.000Z",
-  "updatedAt": "2021-12-16T05:48:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaku Yuuji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:46.000Z",
+    "updatedAt": "2022-05-19T21:04:37.000Z",
+    "checkedAt": "2022-05-19T21:04:37.000Z",
+    "id": 55323,
+    "type": "manga",
+    "title": "Fantasma",
+    "altTitle": [
+      "FANTASMA ファンタズマ"
+    ],
+    "url": "https://myanimelist.net/manga/55323/Fantasma",
+    "image": "https://cdn.myanimelist.net/images/manga/3/158522.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "FANTASMA ファンタズマ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaku, Yuuji"
-    ],
-    "id": 55323,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:11.621Z",
+    "updatedAt": "2022-05-19T21:04:37.000Z",
+    "checkedAt": "2022-05-19T21:04:37.000Z",
+    "id": 86011,
     "type": "manga",
     "title": "Fantasma",
-    "url": "https://myanimelist.net/manga/55323/Fantasma",
-    "image": "https://cdn.myanimelist.net/images/manga/3/158522.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:46.000Z",
-    "updatedAt": "2021-12-16T05:18:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "FANTASMA ファンタズマ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuji Kaku"
-    ],
-    "id": 86011,
-    "malId": 55323,
-    "type": "manga",
-    "title": "Fantasma",
     "url": "https://anilist.co/manga/86011",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86011-QRmSn9VWkexY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2021-12-17T22:28:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55323/Fantasma"
+    "externalLinks": [],
+    "malId": 55323,
+    "deletedAt": null,
+    "authors": [
+      "Yuuji Kaku"
+    ]
+  }
 }

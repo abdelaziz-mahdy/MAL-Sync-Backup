@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:02.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3421,
   "identifier": "79y7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2806,
   "aniId": 2806,
-  "createdAt": "2020-10-12T15:51:02.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:33.000Z",
+    "updatedAt": "2022-05-15T01:34:19.000Z",
+    "checkedAt": "2022-05-15T01:34:19.000Z",
+    "id": 2806,
+    "type": "anime",
+    "title": "Yadamon",
+    "altTitle": [
+      "Chibikko Kaijuu Yadamon",
+      "Yadamon: Magical Dreamer",
+      "ヤダモン"
+    ],
+    "url": "https://myanimelist.net/anime/2806/Yadamon",
+    "image": "https://cdn.myanimelist.net/images/anime/4/82764.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Chibikko Kaijuu Yadamon",
-      "Yadamon: Magical Dreamer",
-      "ヤダモン"
-    ],
+    "deletedAt": null,
+    "anidbId": 3337
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:27.000Z",
+    "updatedAt": "2022-05-16T16:33:50.000Z",
+    "checkedAt": "2022-05-16T16:33:50.000Z",
     "id": 2806,
     "type": "anime",
     "title": "Yadamon",
-    "url": "https://myanimelist.net/anime/2806/Yadamon",
-    "image": "https://cdn.myanimelist.net/images/anime/4/82764.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3337,
-    "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2022-03-31T09:35:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yadamon: Magical Dreamer",
       "ヤダモン",
       "Chibikko Kaijuu Yadamon"
     ],
-    "externalLinks": [],
-    "id": 2806,
-    "malId": 2806,
-    "type": "anime",
-    "title": "Yadamon",
     "url": "https://anilist.co/anime/2806",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2806.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:27.000Z",
-    "updatedAt": "2021-12-17T10:29:48.000Z",
+    "externalLinks": [],
+    "malId": 2806,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2806/Yadamon"
+  }
 }

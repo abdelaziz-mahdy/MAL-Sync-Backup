@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nakayama Shigeo",
-    "Saimura Tsukasa"
-  ],
+  "createdAt": "2020-10-12T16:13:05.000Z",
+  "updatedAt": "2021-12-05T18:50:51.000Z",
+  "checkedAt": null,
+  "id": 22166,
   "identifier": "85929264-a1d4-4d71-b59b-696d961fdf28",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95954,
   "aniId": 96739,
-  "createdAt": "2020-10-12T16:13:05.000Z",
-  "updatedAt": "2021-12-05T18:50:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakayama Shigeo",
+    "Saimura Tsukasa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-03-26T01:57:24.000Z",
+    "checkedAt": null,
+    "id": 95954,
+    "type": "manga",
+    "title": "Tokyo Undead",
+    "altTitle": [
+      "Tokyo Undead",
+      "東京アンデッド"
+    ],
+    "url": "https://myanimelist.net/manga/95954/Tokyo_Undead",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171183.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tokyo Undead",
-      "東京アンデッド"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saimura, Tsukasa",
       "Nakayama, Shigeo"
-    ],
-    "id": 95954,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:06.503Z",
+    "updatedAt": "2022-05-13T13:04:06.503Z",
+    "checkedAt": null,
+    "id": 96739,
     "type": "manga",
     "title": "Tokyo Undead",
-    "url": "https://myanimelist.net/manga/95954/Tokyo_Undead",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171183.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-03-26T01:57:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tokyo Undead",
       "東京アンデッド"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsukasa Saimura",
-      "Shigeo Nakayama",
-      "Elina Ishikawa"
-    ],
-    "id": 96739,
-    "malId": 95954,
-    "type": "manga",
-    "title": "Tokyo Undead",
     "url": "https://anilist.co/manga/96739",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96739-jVktlGHnDVhs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-18T01:52:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95954/Tokyo_Undead"
+    "externalLinks": [],
+    "malId": 95954,
+    "deletedAt": null,
+    "authors": [
+      "Tsukasa Saimura",
+      "Shigeo Nakayama",
+      "Elina Ishikawa"
+    ]
+  }
 }

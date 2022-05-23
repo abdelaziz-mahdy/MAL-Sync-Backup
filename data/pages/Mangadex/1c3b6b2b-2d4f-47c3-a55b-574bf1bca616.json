@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Umezawa Shun"
-  ],
+  "createdAt": "2020-11-03T09:22:42.000Z",
+  "updatedAt": "2021-12-08T06:41:02.000Z",
+  "checkedAt": null,
+  "id": 51426,
   "identifier": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130755,
   "aniId": 120638,
-  "createdAt": "2020-11-03T09:22:42.000Z",
-  "updatedAt": "2021-12-08T06:41:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Umezawa Shun"
+  ],
   "Mal": {
+    "createdAt": "2020-11-03T09:22:41.000Z",
+    "updatedAt": "2022-05-15T11:39:10.000Z",
+    "checkedAt": "2022-05-15T11:39:10.000Z",
+    "id": 130755,
+    "type": "manga",
+    "title": "Darwin Jihen",
+    "altTitle": [
+      "Darwin's Incident",
+      "ダーウィン事変"
+    ],
+    "url": "https://myanimelist.net/manga/130755/Darwin_Jihen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236307.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Darwin's Incident",
-      "ダーウィン事変"
-    ],
+    "deletedAt": null,
     "authors": [
       "Umezawa, Shun"
-    ],
-    "id": 130755,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:14.887Z",
+    "updatedAt": "2022-05-15T16:24:59.000Z",
+    "checkedAt": "2022-05-15T16:24:59.000Z",
+    "id": 120638,
     "type": "manga",
     "title": "Darwin Jihen",
-    "url": "https://myanimelist.net/manga/130755/Darwin_Jihen",
-    "image": "https://cdn.myanimelist.net/images/manga/1/236307.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-03T09:22:41.000Z",
-    "updatedAt": "2022-04-10T12:31:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ダーウィン事変",
       "Darwins Incident",
       "El Incidente Darwin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shun Umezawa"
-    ],
-    "id": 120638,
-    "malId": 130755,
-    "type": "manga",
-    "title": "Darwin Jihen",
     "url": "https://anilist.co/manga/120638",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120638-cWwWsAGL3t9d.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:32.000Z",
-    "updatedAt": "2022-05-04T11:30:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130755/Darwin_Jihen"
+    "externalLinks": [],
+    "malId": 130755,
+    "deletedAt": null,
+    "authors": [
+      "Shun Umezawa"
+    ]
+  }
 }

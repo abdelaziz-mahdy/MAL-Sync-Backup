@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu",
-    "Douke Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:17:40.000Z",
+  "updatedAt": "2021-12-07T09:47:22.000Z",
+  "checkedAt": null,
+  "id": 31614,
   "identifier": "15b589d3-f33f-4046-9ea6-b3175f15d30c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23495,
   "aniId": 53495,
-  "createdAt": "2020-10-12T16:17:40.000Z",
-  "updatedAt": "2021-12-07T09:47:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu",
+    "Douke Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:10.000Z",
+    "updatedAt": "2022-05-17T06:47:53.000Z",
+    "checkedAt": "2022-05-17T06:47:53.000Z",
+    "id": 23495,
+    "type": "manga",
+    "title": "Dororo Bon",
+    "altTitle": [
+      "どろろ梵"
+    ],
+    "url": "https://myanimelist.net/manga/23495/Dororo_Bon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/38007.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "どろろ梵"
-    ],
+    "deletedAt": null,
     "authors": [
       "Douke, Daisuke"
-    ],
-    "id": 23495,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:53.010Z",
+    "updatedAt": "2022-05-17T06:47:52.000Z",
+    "checkedAt": "2022-05-17T06:47:52.000Z",
+    "id": 53495,
     "type": "manga",
     "title": "Dororo Bon",
-    "url": "https://myanimelist.net/manga/23495/Dororo_Bon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/38007.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:10.000Z",
-    "updatedAt": "2021-11-03T17:35:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "どろろ梵",
       "Dororo Brahman",
       "どろろぼん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Douke"
-    ],
-    "id": 53495,
-    "malId": 23495,
-    "type": "manga",
-    "title": "Dororo Bon",
     "url": "https://anilist.co/manga/53495",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53495-zX8OO2vvWoLs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:37.000Z",
-    "updatedAt": "2021-12-17T18:08:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23495/Dororo_Bon"
+    "externalLinks": [],
+    "malId": 23495,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Douke"
+    ]
+  }
 }

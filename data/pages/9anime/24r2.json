@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:23.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1276,
   "identifier": "24r2",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 721,
   "aniId": 721,
-  "createdAt": "2020-10-12T15:49:23.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T17:48:59.000Z",
+    "checkedAt": "2022-05-14T17:48:59.000Z",
+    "id": 721,
+    "type": "anime",
+    "title": "Princess Tutu",
+    "altTitle": [
+      "Princess Tutu",
+      "プリンセスチュチュ"
+    ],
+    "url": "https://myanimelist.net/anime/721/Princess_Tutu",
+    "image": "https://cdn.myanimelist.net/images/anime/1145/93646.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "https://www.hidive.com/tv/princess-tutu"
       }
     ],
-    "altTitle": [
-      "Princess Tutu",
-      "プリンセスチュチュ"
-    ],
+    "deletedAt": null,
+    "anidbId": 516
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T10:23:23.000Z",
+    "checkedAt": "2022-05-15T10:23:23.000Z",
     "id": 721,
     "type": "anime",
     "title": "Princess Tutu",
-    "url": "https://myanimelist.net/anime/721/Princess_Tutu",
-    "image": "https://cdn.myanimelist.net/images/anime/1145/93646.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 516,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-04-20T04:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Princess Tutu",
       "プリンセスチュチュ"
     ],
+    "url": "https://anilist.co/anime/721",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx721-yuQXUgrLoQ96.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
         "url": "https://www.hidive.com/tv/princess-tutu"
       }
     ],
-    "id": 721,
     "malId": 721,
-    "type": "anime",
-    "title": "Princess Tutu",
-    "url": "https://anilist.co/anime/721",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx721-yuQXUgrLoQ96.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2021-12-01T03:05:34.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/721/Princess_Tutu"
+  }
 }

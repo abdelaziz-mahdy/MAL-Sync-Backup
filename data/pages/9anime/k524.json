@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:31.000Z",
+  "updatedAt": "2022-01-15T18:11:56.000Z",
+  "checkedAt": null,
+  "id": 5280,
   "identifier": "k524",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40028,
   "aniId": 110277,
-  "createdAt": "2020-10-12T15:52:31.000Z",
-  "updatedAt": "2022-01-15T18:11:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:10.000Z",
+    "updatedAt": "2022-05-13T19:54:15.000Z",
+    "checkedAt": "2022-05-13T19:54:15.000Z",
+    "id": 40028,
+    "type": "anime",
+    "title": "Shingeki no Kyojin: The Final Season",
+    "altTitle": [
+      "Shingeki no Kyojin Season 4",
+      "Attack on Titan Season 4",
+      "Attack on Titan: The Final Season",
+      "進撃の巨人 The Final Season"
+    ],
+    "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -36,31 +54,23 @@
     "legalLinks": [
       {
         "site": "crunchyroll",
-        "url": "http://www.crunchyroll.com/series-254209"
+        "url": "http://www.crunchyroll.com/series-280312"
       },
       {
         "site": "netflix",
         "url": "https://www.netflix.com/title/70299043"
       }
     ],
-    "altTitle": [
-      "Shingeki no Kyojin Season 4",
-      "Attack on Titan: The Final Season",
-      "進撃の巨人 The Final Season"
-    ],
-    "id": 40028,
+    "deletedAt": null,
+    "anidbId": 14977
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:55.000Z",
+    "updatedAt": "2022-05-15T09:57:35.000Z",
+    "checkedAt": "2022-05-15T09:57:35.000Z",
+    "id": 110277,
     "type": "anime",
     "title": "Shingeki no Kyojin: The Final Season",
-    "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14977,
-    "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2022-05-02T14:03:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Attack on Titan Final Season",
       "進撃の巨人 The Final Season",
@@ -81,6 +91,10 @@
       "ผ่าพิภพไททัน Final Season",
       "ผ่าพิภพไททัน ภาค 4"
     ],
+    "url": "https://anilist.co/anime/110277",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-qDRIhu50PXzz.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -107,17 +121,7 @@
         "url": "https://www.crunchyroll.com/attack-on-titan-dubs"
       }
     ],
-    "id": 110277,
     "malId": 40028,
-    "type": "anime",
-    "title": "Shingeki no Kyojin: The Final Season",
-    "url": "https://anilist.co/anime/110277",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-qDRIhu50PXzz.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:55.000Z",
-    "updatedAt": "2022-04-04T15:00:21.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season"
+  }
 }

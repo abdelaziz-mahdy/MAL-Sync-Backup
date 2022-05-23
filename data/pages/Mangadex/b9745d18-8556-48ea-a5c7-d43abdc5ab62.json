@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Trigger",
-    "Yoshinari Yo",
-    "Satou Keisuke"
-  ],
+  "createdAt": "2020-10-12T16:10:21.000Z",
+  "updatedAt": "2021-12-05T00:21:00.000Z",
+  "checkedAt": null,
+  "id": 16949,
   "identifier": "b9745d18-8556-48ea-a5c7-d43abdc5ab62",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104064,
   "aniId": 99089,
-  "createdAt": "2020-10-12T16:10:21.000Z",
-  "updatedAt": "2021-12-05T00:21:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Trigger",
+    "Yoshinari Yo",
+    "Satou Keisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:56.000Z",
+    "updatedAt": "2022-05-21T09:25:57.000Z",
+    "checkedAt": "2022-05-21T09:25:57.000Z",
+    "id": 104064,
+    "type": "manga",
+    "title": "Little Witch Academia",
+    "altTitle": [
+      "Little Witch Academia",
+      "リトルウィッチアカデミア"
+    ],
+    "url": "https://myanimelist.net/manga/104064/Little_Witch_Academia",
+    "image": "https://cdn.myanimelist.net/images/manga/1/196656.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,31 +43,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Little Witch Academia",
-      "リトルウィッチアカデミア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshinari, You",
       "Satou, Keisuke"
-    ],
-    "id": 104064,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:28.276Z",
+    "updatedAt": "2022-05-21T09:25:56.000Z",
+    "checkedAt": "2022-05-21T09:25:56.000Z",
+    "id": 99089,
     "type": "manga",
     "title": "Little Witch Academia",
-    "url": "https://myanimelist.net/manga/104064/Little_Witch_Academia",
-    "image": "https://cdn.myanimelist.net/images/manga/1/196656.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2022-01-29T11:50:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Little Witch Academia",
       "リトルウィッチアカデミア"
     ],
+    "url": "https://anilist.co/manga/99089",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99089-ftSgAunhzubU.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 104064,
+    "deletedAt": null,
     "authors": [
       "Keisuke Sato",
       "Taylor Engel",
@@ -60,18 +75,6 @@
       "Takeshi Kamura",
       "Luise Steggewentz",
       "You Yoshinari"
-    ],
-    "id": 99089,
-    "malId": 104064,
-    "type": "manga",
-    "title": "Little Witch Academia",
-    "url": "https://anilist.co/manga/99089",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99089-ftSgAunhzubU.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:09.000Z",
-    "updatedAt": "2021-12-18T02:50:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104064/Little_Witch_Academia"
+    ]
+  }
 }

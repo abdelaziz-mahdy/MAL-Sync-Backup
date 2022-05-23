@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Furuya Usamaru"
-  ],
+  "createdAt": "2020-10-12T16:02:59.000Z",
+  "updatedAt": "2021-12-02T11:17:36.000Z",
+  "checkedAt": null,
+  "id": 1270,
   "identifier": "aa65bb1d-d37d-4dda-9c34-0a9ffb28f1a0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20097,
   "aniId": 50097,
-  "createdAt": "2020-10-12T16:02:59.000Z",
-  "updatedAt": "2021-12-02T11:17:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Furuya Usamaru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:47.000Z",
+    "updatedAt": "2022-05-15T19:30:32.000Z",
+    "checkedAt": "2022-05-15T19:30:32.000Z",
+    "id": 20097,
+    "type": "manga",
+    "title": "Teiichi no Kuni",
+    "altTitle": [
+      "帝一の國"
+    ],
+    "url": "https://myanimelist.net/manga/20097/Teiichi_no_Kuni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171025.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "帝一の國"
-    ],
+    "deletedAt": null,
     "authors": [
       "Furuya, Usamaru"
-    ],
-    "id": 20097,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:33.596Z",
+    "updatedAt": "2022-05-15T21:09:47.000Z",
+    "checkedAt": "2022-05-15T21:09:47.000Z",
+    "id": 50097,
     "type": "manga",
     "title": "Teiichi no Kuni",
-    "url": "https://myanimelist.net/manga/20097/Teiichi_no_Kuni",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171025.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:47.000Z",
-    "updatedAt": "2021-11-03T10:04:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "帝一の國"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Usamaru Furuya"
-    ],
-    "id": 50097,
-    "malId": 20097,
-    "type": "manga",
-    "title": "Teiichi no Kuni",
     "url": "https://anilist.co/manga/50097",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50097-G474C5BNq8IY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:27.000Z",
-    "updatedAt": "2021-12-17T17:12:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20097/Teiichi_no_Kuni"
+    "externalLinks": [],
+    "malId": 20097,
+    "deletedAt": null,
+    "authors": [
+      "Usamaru Furuya"
+    ]
+  }
 }

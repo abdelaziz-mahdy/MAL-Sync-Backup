@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Igarashi Daisuke"
-  ],
+  "createdAt": "2020-10-12T16:03:30.000Z",
+  "updatedAt": "2021-12-02T14:48:48.000Z",
+  "checkedAt": null,
+  "id": 2363,
   "identifier": "5c961ee8-da09-4a14-9251-9d7bfbf27775",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5655,
   "aniId": 35655,
-  "createdAt": "2020-10-12T16:03:30.000Z",
-  "updatedAt": "2021-12-02T14:48:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Igarashi Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:07.000Z",
+    "updatedAt": "2022-05-15T07:18:10.000Z",
+    "checkedAt": "2022-05-15T07:18:10.000Z",
+    "id": 5655,
+    "type": "manga",
+    "title": "Kaijuu no Kodomo",
+    "altTitle": [
+      "The Sea Monster's Children",
+      "Children of the Sea",
+      "海獣の子供"
+    ],
+    "url": "https://myanimelist.net/manga/5655/Kaijuu_no_Kodomo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/161119.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Sea Monster's Children",
-      "Children of the Sea",
-      "海獣の子供"
-    ],
+    "deletedAt": null,
     "authors": [
       "Igarashi, Daisuke"
-    ],
-    "id": 5655,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:38.394Z",
+    "updatedAt": "2022-05-16T15:01:49.000Z",
+    "checkedAt": "2022-05-16T15:01:49.000Z",
+    "id": 35655,
     "type": "manga",
     "title": "Kaijuu no Kodomo",
-    "url": "https://myanimelist.net/manga/5655/Kaijuu_no_Kodomo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/161119.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:07.000Z",
-    "updatedAt": "2022-03-26T14:29:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Children of the Sea",
       "海獣の子供",
-      "The Sea Monster's Children",
-      "Les enfants de la mer"
+      "The Sea Monster's Children"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Daisuke Igarashi",
-      "Lídia Ivasa"
-    ],
-    "id": 35655,
-    "malId": 5655,
-    "type": "manga",
-    "title": "Kaijuu no Kodomo",
     "url": "https://anilist.co/manga/35655",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35655-E4xz7VxEkmGo.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:32.000Z",
-    "updatedAt": "2022-05-20T07:00:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5655/Kaijuu_no_Kodomo"
+    "externalLinks": [],
+    "malId": 5655,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Igarashi",
+      "Lídia Ivasa"
+    ]
+  }
 }

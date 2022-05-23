@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sano Tae"
-  ],
+  "createdAt": "2020-10-12T16:02:33.000Z",
+  "updatedAt": "2021-12-02T08:17:29.000Z",
+  "checkedAt": null,
+  "id": 368,
   "identifier": "3ca034f1-8523-4d73-94a8-d9891325ff56",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22962,
   "aniId": 52962,
-  "createdAt": "2020-10-12T16:02:33.000Z",
-  "updatedAt": "2021-12-02T08:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sano Tae"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:08.000Z",
+    "updatedAt": "2022-04-03T10:31:35.000Z",
+    "checkedAt": null,
+    "id": 22962,
+    "type": "manga",
+    "title": "Morita-san wa Mukuchi",
+    "altTitle": [
+      "Miss Morita Is Taciturn",
+      "Morita-san wa Mukuchi",
+      "森田さんは無口"
+    ],
+    "url": "https://myanimelist.net/manga/22962/Morita-san_wa_Mukuchi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/194970.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Miss Morita Is Taciturn",
-      "Morita-san wa Mukuchi",
-      "森田さんは無口"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sano, Tae"
-    ],
-    "id": 22962,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:03.184Z",
+    "updatedAt": "2022-05-13T13:04:03.184Z",
+    "checkedAt": null,
+    "id": 52962,
     "type": "manga",
     "title": "Morita-san wa Mukuchi",
-    "url": "https://myanimelist.net/manga/22962/Morita-san_wa_Mukuchi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/194970.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2022-04-03T10:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "森田さんは無口",
       "Miss Morita is Taciturn",
@@ -52,21 +61,15 @@
       "Moritasan ha Mukuchi",
       "Miss Morita Is Taciturn"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tae Sano"
-    ],
-    "id": 52962,
-    "malId": 22962,
-    "type": "manga",
-    "title": "Morita-san wa Mukuchi",
     "url": "https://anilist.co/manga/52962",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22962.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:34.000Z",
-    "updatedAt": "2021-11-22T16:42:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22962/Morita-san_wa_Mukuchi"
+    "externalLinks": [],
+    "malId": 22962,
+    "deletedAt": null,
+    "authors": [
+      "Tae Sano"
+    ]
+  }
 }

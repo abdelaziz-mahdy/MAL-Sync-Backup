@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Gengorou Tagame"
-  ],
+  "createdAt": "2022-05-13T11:01:55.000Z",
+  "updatedAt": "2022-05-13T16:21:41.000Z",
+  "checkedAt": "2022-05-13T15:56:37.000Z",
+  "id": 104019,
   "identifier": "manga-fy983107",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,59 @@
   "image": "https://avt.mkklcdnv6temp.com/26/i/19-1583500143.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-13T11:01:55.000Z",
-  "updatedAt": "2022-05-13T11:01:55.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 112941,
+  "aniId": 104840,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Gengorou Tagame"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:28.000Z",
+    "updatedAt": "2022-05-13T15:56:48.000Z",
+    "checkedAt": "2022-05-13T15:56:48.000Z",
+    "id": 112941,
+    "type": "manga",
+    "title": "Bokura no Shikisai",
+    "altTitle": [
+      "Our Color",
+      "僕らの色彩"
+    ],
+    "url": "https://myanimelist.net/manga/112941/Bokura_no_Shikisai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236709.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tagame, Gengorou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:50.527Z",
+    "updatedAt": "2022-05-13T12:55:50.527Z",
+    "checkedAt": null,
+    "id": 104840,
+    "type": "manga",
+    "title": "Bokura no Shikisai",
+    "altTitle": [
+      "僕らの色彩",
+      "Our Color",
+      "Unsere Farben",
+      "Our colorful days",
+      "Nuestros colores"
+    ],
+    "url": "https://anilist.co/manga/104840",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104840-KC2565UsTw2t.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 112941,
+    "deletedAt": null,
+    "authors": [
+      "Gengorou Tagame"
+    ]
+  }
 }

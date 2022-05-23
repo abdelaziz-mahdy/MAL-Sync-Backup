@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:46.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4294,
   "identifier": "9j30",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 863,
   "aniId": 863,
-  "createdAt": "2020-10-12T15:51:46.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T19:29:05.000Z",
+    "checkedAt": "2022-05-14T19:29:05.000Z",
+    "id": 863,
+    "type": "anime",
+    "title": "Joshikousei: Girl's High",
+    "altTitle": [
+      "Joshi Kousei: Girl's High",
+      "High School Girls",
+      "女子高生 GIRL'S HIGH"
+    ],
+    "url": "https://myanimelist.net/anime/863/Joshikousei__Girls_High",
+    "image": "https://cdn.myanimelist.net/images/anime/5/23224.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,47 +51,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Joshi Kousei: Girl's High",
-      "High School Girls",
-      "女子高生 GIRL'S HIGH"
-    ],
+    "deletedAt": null,
+    "anidbId": 4067
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T13:28:59.000Z",
+    "checkedAt": "2022-05-15T13:28:59.000Z",
     "id": 863,
     "type": "anime",
-    "title": "Joshikousei: Girl's High",
-    "url": "https://myanimelist.net/anime/863/Joshikousei__Girls_High",
-    "image": "https://cdn.myanimelist.net/images/anime/5/23224.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 4067,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-03-30T18:01:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Joshikousei",
     "altTitle": [
       "High School Girls",
       "女子高生",
       "Girl's High",
       "Joshi Kousei"
     ],
+    "url": "https://anilist.co/anime/863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/863.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/girls-high"
       }
     ],
-    "id": 863,
     "malId": 863,
-    "type": "anime",
-    "title": "Joshikousei",
-    "url": "https://anilist.co/anime/863",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/863.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:47.000Z",
-    "updatedAt": "2022-04-04T11:06:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/863/Joshikousei__Girls_High"
+  }
 }

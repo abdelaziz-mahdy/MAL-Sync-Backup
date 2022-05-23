@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kamino Okina",
-    "Sumita Kazasa"
-  ],
+  "createdAt": "2020-10-12T16:07:55.000Z",
+  "updatedAt": "2021-12-04T09:20:00.000Z",
+  "checkedAt": null,
+  "id": 11619,
   "identifier": "54f23b0e-89fc-468c-abc2-44a51d3d4dc2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22685,
   "aniId": 52685,
-  "createdAt": "2020-10-12T16:07:55.000Z",
-  "updatedAt": "2021-12-04T09:20:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kamino Okina",
+    "Sumita Kazasa"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T06:19:28.000Z",
+    "updatedAt": "2022-05-15T17:35:51.000Z",
+    "checkedAt": "2022-05-15T17:35:51.000Z",
+    "id": 22685,
+    "type": "manga",
+    "title": "Kamigariki",
+    "altTitle": [
+      "神狩鬼"
+    ],
+    "url": "https://myanimelist.net/manga/22685/Kamigariki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/36882.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "神狩鬼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sumita, Kazasa"
-    ],
-    "id": 22685,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:08.535Z",
+    "updatedAt": "2022-05-15T20:15:23.000Z",
+    "checkedAt": "2022-05-15T20:15:23.000Z",
+    "id": 52685,
     "type": "manga",
     "title": "Kamigariki",
-    "url": "https://myanimelist.net/manga/22685/Kamigariki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/36882.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T06:19:28.000Z",
-    "updatedAt": "2021-12-04T06:46:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神狩鬼"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuasa Sumita"
-    ],
-    "id": 52685,
-    "malId": 22685,
-    "type": "manga",
-    "title": "Kamigariki",
     "url": "https://anilist.co/manga/52685",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22685.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T06:19:28.000Z",
-    "updatedAt": "2021-12-17T18:02:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22685/Kamigariki"
+    "externalLinks": [],
+    "malId": 22685,
+    "deletedAt": null,
+    "authors": [
+      "Kazuasa Sumita"
+    ]
+  }
 }

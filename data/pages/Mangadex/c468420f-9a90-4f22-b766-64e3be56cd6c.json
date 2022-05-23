@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "플아다",
-    "Bul-sa",
-    "수리",
-    "Jaerim"
-  ],
+  "createdAt": "2021-07-08T00:13:28.000Z",
+  "updatedAt": "2022-01-08T00:18:22.000Z",
+  "checkedAt": null,
+  "id": 81180,
   "identifier": "c468420f-9a90-4f22-b766-64e3be56cd6c",
   "type": "manga",
   "page": "Mangadex",
@@ -14,14 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 134677,
-  "createdAt": "2021-07-08T00:13:28.000Z",
-  "updatedAt": "2022-01-08T00:18:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "플아다",
+    "Bul-sa",
+    "수리",
+    "Jaerim"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:50.584Z",
+    "updatedAt": "2022-05-14T11:30:43.000Z",
+    "checkedAt": "2022-05-14T11:30:43.000Z",
+    "id": 134677,
+    "type": "manga",
+    "title": "Bandeusi Happy Ending",
     "altTitle": [
       "There Must Be Happy Endings",
       "반드시 해피엔딩",
@@ -29,23 +37,17 @@
       "Happy Ending In Need",
       "Must Have a Happy Ending"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Bulsa",
-      "Jaerim",
-      "Peurada"
-    ],
-    "id": 134677,
-    "malId": null,
-    "type": "manga",
-    "title": "Bandeusi Happy Ending",
     "url": "https://anilist.co/manga/134677",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134677-FLo2ir6Rvmzp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-27T03:28:43.000Z",
-    "updatedAt": "2022-04-27T02:32:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Bulsa",
+      "Jaerim",
+      "Peurada"
+    ]
+  }
 }

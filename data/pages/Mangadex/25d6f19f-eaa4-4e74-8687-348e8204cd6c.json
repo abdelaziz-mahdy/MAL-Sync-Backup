@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takanashi Mitsuba"
-  ],
+  "createdAt": "2020-10-12T16:07:16.000Z",
+  "updatedAt": "2021-12-04T01:50:32.000Z",
+  "checkedAt": null,
+  "id": 10245,
   "identifier": "25d6f19f-eaa4-4e74-8687-348e8204cd6c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 66781,
   "aniId": 85627,
-  "createdAt": "2020-10-12T16:07:16.000Z",
-  "updatedAt": "2021-12-04T01:50:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takanashi Mitsuba"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:11.000Z",
+    "updatedAt": "2021-12-01T02:06:07.000Z",
+    "checkedAt": null,
+    "id": 66781,
+    "type": "manga",
+    "title": "Sumika Sumire",
+    "altTitle": [
+      "スミカスミレ"
+    ],
+    "url": "https://myanimelist.net/manga/66781/Sumika_Sumire",
+    "image": "https://cdn.myanimelist.net/images/manga/2/210988.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スミカスミレ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takanashi, Mitsuba"
-    ],
-    "id": 66781,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:37.072Z",
+    "updatedAt": "2022-05-13T12:54:37.072Z",
+    "checkedAt": null,
+    "id": 85627,
     "type": "manga",
     "title": "Sumika Sumire",
-    "url": "https://myanimelist.net/manga/66781/Sumika_Sumire",
-    "image": "https://cdn.myanimelist.net/images/manga/2/210988.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:11.000Z",
-    "updatedAt": "2021-12-01T02:06:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スミカスミレ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuba Takanashi"
-    ],
-    "id": 85627,
-    "malId": 66781,
-    "type": "manga",
-    "title": "Sumika Sumire",
     "url": "https://anilist.co/manga/85627",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85627-ofLr8NLzjVZW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:59.000Z",
-    "updatedAt": "2021-12-17T22:20:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/66781/Sumika_Sumire"
+    "externalLinks": [],
+    "malId": 66781,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuba Takanashi"
+    ]
+  }
 }

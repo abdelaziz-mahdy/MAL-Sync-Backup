@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yui Arimura"
-  ],
+  "createdAt": "2022-05-04T05:32:29.000Z",
+  "updatedAt": "2022-05-14T10:20:01.000Z",
+  "checkedAt": "2022-05-14T10:09:42.000Z",
+  "id": 102597,
   "identifier": "manga-du980777",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,63 @@
   "image": "https://avt.mkklcdnv6temp.com/41/k/17-1583496754.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T05:32:29.000Z",
-  "updatedAt": "2022-05-04T05:32:29.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 121360,
+  "aniId": 107426,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Yui Arimura"
+  ],
+  "Mal": {
+    "createdAt": "2021-06-06T10:19:28.000Z",
+    "updatedAt": "2022-05-14T10:09:50.000Z",
+    "checkedAt": "2022-05-14T10:09:50.000Z",
+    "id": 121360,
+    "type": "manga",
+    "title": "Otaku Onna to Danshikousei",
+    "altTitle": [
+      "Otaku Onna to Danshi Kousei",
+      "Otaku Girl and High School Boy",
+      "オタク女と男子高生"
+    ],
+    "url": "https://myanimelist.net/manga/121360/Otaku_Onna_to_Danshikousei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/240983.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/5407"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Arimura, Yui"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:13.206Z",
+    "updatedAt": "2022-05-17T01:34:51.000Z",
+    "checkedAt": "2022-05-17T01:34:51.000Z",
+    "id": 107426,
+    "type": "manga",
+    "title": "Otaku Onna to Danshi Kosei",
+    "altTitle": [
+      "オタク女と男子高生",
+      "Wotaku Girl and High School Boy",
+      "Otaku Girl and High School Boy"
+    ],
+    "url": "https://anilist.co/manga/107426",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107426-W48KX9f1O8eH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 121360,
+    "deletedAt": null,
+    "authors": [
+      "Yui Arimura"
+    ]
+  }
 }

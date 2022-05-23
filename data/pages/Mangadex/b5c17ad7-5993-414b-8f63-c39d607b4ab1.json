@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kawada"
-  ],
+  "createdAt": "2020-10-12T16:07:51.000Z",
+  "updatedAt": "2021-12-04T05:53:50.000Z",
+  "checkedAt": null,
+  "id": 11493,
   "identifier": "b5c17ad7-5993-414b-8f63-c39d607b4ab1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 79061,
   "aniId": 85612,
-  "createdAt": "2020-10-12T16:07:51.000Z",
-  "updatedAt": "2021-12-04T05:53:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawada"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2022-05-15T10:36:08.000Z",
+    "checkedAt": "2022-05-15T10:36:08.000Z",
+    "id": 79061,
+    "type": "manga",
+    "title": "Hinomaruzumou",
+    "altTitle": [
+      "Sumo of the Rising Sun",
+      "Sumo Wrestler Hinomaru",
+      "Kiseki no Mattanashi Taiketsu!!",
+      "Hinomaru Sumo",
+      "火ノ丸相撲"
+    ],
+    "url": "https://myanimelist.net/manga/79061/Hinomaruzumou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/192657.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,28 +48,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sumo of the Rising Sun",
-      "Sumo Wrestler Hinomaru",
-      "Kiseki no Mattanashi Taiketsu!!",
-      "Hinomaru Sumo",
-      "火ノ丸相撲"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawada"
-    ],
-    "id": 79061,
-    "type": "manga",
-    "title": "Hinomaruzumou",
-    "url": "https://myanimelist.net/manga/79061/Hinomaruzumou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/192657.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:32.000Z",
-    "updatedAt": "2022-03-14T10:30:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.525Z",
+    "updatedAt": "2022-05-15T15:26:59.000Z",
+    "checkedAt": "2022-05-15T15:26:59.000Z",
+    "id": 85612,
+    "type": "manga",
+    "title": "Hinomaru-Zumou",
     "altTitle": [
       "Hinomaru Sumo",
       "火ノ丸相撲",
@@ -58,27 +67,21 @@
       "Sumo Wrestler Hinomaru",
       "ฮิโนะมารุ ซูโม่กะเปี๊ยกฟัดโลก"
     ],
+    "url": "https://anilist.co/manga/85612",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55612.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100031"
       }
     ],
+    "malId": 79061,
+    "deletedAt": null,
     "authors": [
       "Kawada",
       "Kenta Yuzuriha"
-    ],
-    "id": 85612,
-    "malId": 79061,
-    "type": "manga",
-    "title": "Hinomaru-Zumou",
-    "url": "https://anilist.co/manga/85612",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55612.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:54.000Z",
-    "updatedAt": "2022-03-10T19:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/79061/Hinomaruzumou"
+    ]
+  }
 }

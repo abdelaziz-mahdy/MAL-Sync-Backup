@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mitsuhara Shin"
-  ],
+  "createdAt": "2020-10-12T16:08:14.000Z",
+  "updatedAt": "2021-12-04T08:48:48.000Z",
+  "checkedAt": null,
+  "id": 12345,
   "identifier": "bd9cab11-fa1a-4871-8d46-882b8182a0f5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 73373,
   "aniId": 104753,
-  "createdAt": "2020-10-12T16:08:14.000Z",
-  "updatedAt": "2021-12-04T08:48:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mitsuhara Shin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:20.000Z",
+    "updatedAt": "2021-11-10T18:14:46.000Z",
+    "checkedAt": null,
+    "id": 73373,
+    "type": "manga",
+    "title": "Outer Zone",
+    "altTitle": [
+      "The Outer Zone",
+      "アウター・ゾーン"
+    ],
+    "url": "https://myanimelist.net/manga/73373/Outer_Zone",
+    "image": "https://cdn.myanimelist.net/images/manga/3/187161.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Outer Zone",
-      "アウター・ゾーン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mitsuhara, Shin"
-    ],
-    "id": 73373,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:33.761Z",
+    "updatedAt": "2022-05-13T12:45:33.761Z",
+    "checkedAt": null,
+    "id": 104753,
     "type": "manga",
     "title": "Outer Zone",
-    "url": "https://myanimelist.net/manga/73373/Outer_Zone",
-    "image": "https://cdn.myanimelist.net/images/manga/3/187161.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:20.000Z",
-    "updatedAt": "2021-11-10T18:14:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アウター・ゾーン",
       "The Outer Zone"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shin Mitsuhara"
-    ],
-    "id": 104753,
-    "malId": 73373,
-    "type": "manga",
-    "title": "Outer Zone",
     "url": "https://anilist.co/manga/104753",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104753-pNflxxL1b5z5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:41.000Z",
-    "updatedAt": "2021-12-18T04:56:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/73373/Outer_Zone"
+    "externalLinks": [],
+    "malId": 73373,
+    "deletedAt": null,
+    "authors": [
+      "Shin Mitsuhara"
+    ]
+  }
 }

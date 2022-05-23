@@ -1,13 +1,8 @@
 {
-  "authors": [
-    "Takeyama Yuusuke",
-    "Nightow Yasuhiro",
-    "Mizukami Satoshi",
-    "Sagami Akira",
-    "Takauchi Yuuga",
-    "Boichi",
-    "Ark Performance"
-  ],
+  "createdAt": "2020-10-12T16:04:58.000Z",
+  "updatedAt": "2021-12-03T09:46:57.000Z",
+  "checkedAt": null,
+  "id": 5432,
   "identifier": "50a34f67-7adb-42b5-96a8-7ebcc72c9c0c",
   "type": "manga",
   "page": "Mangadex",
@@ -17,22 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 44357,
   "aniId": 74357,
-  "createdAt": "2020-10-12T16:04:58.000Z",
-  "updatedAt": "2021-12-03T09:46:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takeyama Yuusuke",
+    "Nightow Yasuhiro",
+    "Mizukami Satoshi",
+    "Sagami Akira",
+    "Takauchi Yuuga",
+    "Boichi",
+    "Ark Performance"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%B3"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:19.000Z",
+    "updatedAt": "2022-05-19T11:56:58.000Z",
+    "checkedAt": "2022-05-19T11:56:58.000Z",
+    "id": 44357,
+    "type": "manga",
+    "title": "Trigun: Multiple Bullets",
     "altTitle": [
-      "Trigun: Multiple Bullets",
       "Gekijouban Trigun Badlands Rumble: Bangaihen",
       "Trigun: The Lost Plant",
       "Suna no Wakusei no Tami",
@@ -43,8 +43,21 @@
       "Raijin: Risin",
       "Trigun: Rising",
       "Cutting is Fighting",
+      "Trigun: Multiple Bullets",
       "トライガン・マルチプルバレッツ"
     ],
+    "url": "https://myanimelist.net/manga/44357/Trigun__Multiple_Bullets",
+    "image": "https://cdn.myanimelist.net/images/manga/5/86599.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Nightow, Yasuhiro",
       "Boichi",
@@ -53,19 +66,15 @@
       "Takeyama, Yuusuke",
       "Takauchi, Yuuga",
       "Sagami, Akira"
-    ],
-    "id": 44357,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:02.673Z",
+    "updatedAt": "2022-05-19T11:56:57.000Z",
+    "checkedAt": "2022-05-19T11:56:57.000Z",
+    "id": 74357,
     "type": "manga",
     "title": "Trigun: Multiple Bullets",
-    "url": "https://myanimelist.net/manga/44357/Trigun__Multiple_Bullets",
-    "image": "https://cdn.myanimelist.net/images/manga/5/86599.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:19.000Z",
-    "updatedAt": "2021-12-03T09:46:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Trigun: Multiple Bullets",
       "トライガン・マルチプルバレッツ",
@@ -74,7 +83,13 @@
       "Trigun Rising",
       "Trigun: The Lost Plant"
     ],
+    "url": "https://anilist.co/manga/74357",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74357-GCj2ZOu45phY.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 44357,
+    "deletedAt": null,
     "authors": [
       "Yasuhiro Nightow",
       "Boichi",
@@ -83,18 +98,6 @@
       "Satoshi Mizukami",
       "Yuuga Takauchi",
       "Akira Sagami"
-    ],
-    "id": 74357,
-    "malId": 44357,
-    "type": "manga",
-    "title": "Trigun: Multiple Bullets",
-    "url": "https://anilist.co/manga/74357",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74357-GCj2ZOu45phY.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-06-03T09:25:22.000Z",
-    "updatedAt": "2022-05-05T06:31:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/44357/Trigun__Multiple_Bullets"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sanda Makoto",
-    "Nariie Shinichirou"
-  ],
+  "createdAt": "2020-10-12T16:06:50.000Z",
+  "updatedAt": "2021-12-03T22:49:59.000Z",
+  "checkedAt": null,
+  "id": 9326,
   "identifier": "848e4151-34e8-45aa-8bf5-0265554546b4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60427,
   "aniId": 85385,
-  "createdAt": "2020-10-12T16:06:50.000Z",
-  "updatedAt": "2021-12-03T22:49:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sanda Makoto",
+    "Nariie Shinichirou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:55.000Z",
+    "updatedAt": "2022-05-16T09:55:10.000Z",
+    "checkedAt": "2022-05-16T09:55:10.000Z",
+    "id": 60427,
+    "type": "manga",
+    "title": "Cross x Regalia",
+    "altTitle": [
+      "CrossxRegalia",
+      "クロス×レガリア"
+    ],
+    "url": "https://myanimelist.net/manga/60427/Cross_x_Regalia",
+    "image": "https://cdn.myanimelist.net/images/manga/1/133303.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +46,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "CrossxRegalia",
-      "クロス×レガリア"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sanda, Makoto",
       "Naruse, Yoshiki"
-    ],
-    "id": 60427,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:54.524Z",
+    "updatedAt": "2022-05-16T09:55:09.000Z",
+    "checkedAt": "2022-05-16T09:55:09.000Z",
+    "id": 85385,
     "type": "manga",
     "title": "Cross x Regalia",
-    "url": "https://myanimelist.net/manga/60427/Cross_x_Regalia",
-    "image": "https://cdn.myanimelist.net/images/manga/1/133303.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2021-11-10T15:14:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cross x Regalia",
       "クロス×レガリア",
       "Cross Regalia",
       "CrossxRegalia"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Sanda",
-      "Shinichirou Naruie"
-    ],
-    "id": 85385,
-    "malId": 60427,
-    "type": "manga",
-    "title": "Cross x Regalia",
     "url": "https://anilist.co/manga/85385",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/85385-mOHjeNzPi4At.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:39.000Z",
-    "updatedAt": "2021-12-17T21:59:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60427/Cross_x_Regalia"
+    "externalLinks": [],
+    "malId": 60427,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Sanda",
+      "Shinichirou Naruie"
+    ]
+  }
 }

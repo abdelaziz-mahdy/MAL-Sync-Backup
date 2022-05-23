@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tsuge Amayo"
-  ],
+  "createdAt": "2020-10-12T16:08:46.000Z",
+  "updatedAt": "2021-12-04T12:54:38.000Z",
+  "checkedAt": null,
+  "id": 13532,
   "identifier": "f0865f93-1aad-465d-a333-5cad5d955322",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83085,
   "aniId": 93355,
-  "createdAt": "2020-10-12T16:08:46.000Z",
-  "updatedAt": "2021-12-04T12:54:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsuge Amayo"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:38.000Z",
+    "updatedAt": "2021-12-12T16:34:02.000Z",
+    "checkedAt": null,
+    "id": 83085,
+    "type": "manga",
+    "title": "Ai wo Kudasai",
     "altTitle": [
       "Please Love Me",
       "Please Give Me Love",
@@ -27,21 +33,24 @@
       "Umi de Machiawase",
       "愛をください"
     ],
-    "authors": [
-      "Tsuge, Amayo"
-    ],
-    "id": 83085,
-    "type": "manga",
-    "title": "Ai wo Kudasai",
     "url": "https://myanimelist.net/manga/83085/Ai_wo_Kudasai",
     "image": "https://cdn.myanimelist.net/images/manga/3/144179.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:38.000Z",
-    "updatedAt": "2021-12-12T16:34:02.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsuge, Amayo"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:58.557Z",
+    "updatedAt": "2022-05-13T12:58:58.557Z",
+    "checkedAt": null,
+    "id": 93355,
+    "type": "manga",
+    "title": "Ai wo Kudasai",
     "altTitle": [
       "愛をください",
       "Please Love Me",
@@ -49,21 +58,15 @@
       "Kono Doukoukai Tachiirikinshi",
       "Umi de Machiawase"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Amayo Tsuge"
-    ],
-    "id": 93355,
-    "malId": 83085,
-    "type": "manga",
-    "title": "Ai wo Kudasai",
     "url": "https://anilist.co/manga/93355",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93355-e9pWu8bRcpEe.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:52:32.000Z",
-    "updatedAt": "2021-12-18T00:52:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83085/Ai_wo_Kudasai"
+    "externalLinks": [],
+    "malId": 83085,
+    "deletedAt": null,
+    "authors": [
+      "Amayo Tsuge"
+    ]
+  }
 }

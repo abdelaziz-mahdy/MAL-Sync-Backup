@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mito Shinji"
-  ],
+  "createdAt": "2021-10-22T14:29:28.000Z",
+  "updatedAt": "2022-04-22T15:00:26.000Z",
+  "checkedAt": null,
+  "id": 89162,
   "identifier": "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
   "type": "manga",
   "page": "Mangadex",
@@ -11,53 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140551,
   "aniId": 139411,
-  "createdAt": "2021-10-22T14:29:28.000Z",
-  "updatedAt": "2022-04-22T15:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mito Shinji"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-10-02T00:31:22.000Z",
+    "updatedAt": "2022-05-19T13:33:20.000Z",
+    "checkedAt": "2022-05-19T13:33:20.000Z",
+    "id": 140551,
+    "type": "manga",
+    "title": "Atarashii Kimi e",
     "altTitle": [
       "To a New You",
       "新しいきみへ"
     ],
-    "authors": [
-      "Mito, Shinji"
-    ],
-    "id": 140551,
-    "type": "manga",
-    "title": "Atarashii Kimi e",
     "url": "https://myanimelist.net/manga/140551/Atarashii_Kimi_e",
-    "image": "https://cdn.myanimelist.net/images/manga/2/250475.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/3/255852.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-10-02T00:31:22.000Z",
-    "updatedAt": "2021-11-04T06:05:40.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ultra.shueisha.co.jp/manga/manga-4161/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mito, Shinji"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:48.922Z",
+    "updatedAt": "2022-05-19T13:33:19.000Z",
+    "checkedAt": "2022-05-19T13:33:19.000Z",
+    "id": 139411,
+    "type": "manga",
+    "title": "Atarashii Kimi e",
     "altTitle": [
       "新しいきみへ",
       "To a New You "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinji Mito"
-    ],
-    "id": 139411,
-    "malId": 140551,
-    "type": "manga",
-    "title": "Atarashii Kimi e",
     "url": "https://anilist.co/manga/139411",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139411-yAhmrLyEvycV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-21T00:10:46.000Z",
-    "updatedAt": "2022-02-03T19:06:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140551/Atarashii_Kimi_e"
+    "externalLinks": [],
+    "malId": 140551,
+    "deletedAt": null,
+    "authors": [
+      "Shinji Mito"
+    ]
+  }
 }

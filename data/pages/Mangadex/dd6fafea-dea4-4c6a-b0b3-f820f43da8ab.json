@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kakinuma Hideki",
-    "Hasegawa Kouji"
-  ],
+  "createdAt": "2020-10-12T16:05:29.000Z",
+  "updatedAt": "2021-12-03T13:17:38.000Z",
+  "checkedAt": null,
+  "id": 6494,
   "identifier": "dd6fafea-dea4-4c6a-b0b3-f820f43da8ab",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29897,
   "aniId": 59897,
-  "createdAt": "2020-10-12T16:05:29.000Z",
-  "updatedAt": "2021-12-03T13:17:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kakinuma Hideki",
+    "Hasegawa Kouji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:39.000Z",
+    "updatedAt": "2021-12-17T01:19:25.000Z",
+    "checkedAt": null,
+    "id": 29897,
+    "type": "manga",
+    "title": "Alice no Shousei",
+    "altTitle": [
+      "Front Sight of Alice",
+      "アリスの照星"
+    ],
+    "url": "https://myanimelist.net/manga/29897/Alice_no_Shousei",
+    "image": "https://cdn.myanimelist.net/images/manga/1/111951.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Front Sight of Alice",
-      "アリスの照星"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hasegawa, Kouji",
       "Kakinuma, Hideki"
-    ],
-    "id": 29897,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:04.618Z",
+    "updatedAt": "2022-05-13T13:06:04.618Z",
+    "checkedAt": null,
+    "id": 59897,
     "type": "manga",
     "title": "Alice no Shousei",
-    "url": "https://myanimelist.net/manga/29897/Alice_no_Shousei",
-    "image": "https://cdn.myanimelist.net/images/manga/1/111951.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:39.000Z",
-    "updatedAt": "2021-12-17T01:19:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アリスの照星",
       "Front Sight of Alice"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouji Hasegawa",
-      "Hideki Kakinuma"
-    ],
-    "id": 59897,
-    "malId": 29897,
-    "type": "manga",
-    "title": "Alice no Shousei",
     "url": "https://anilist.co/manga/59897",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29897.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2021-12-17T19:04:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/29897/Alice_no_Shousei"
+    "externalLinks": [],
+    "malId": 29897,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Hasegawa",
+      "Hideki Kakinuma"
+    ]
+  }
 }

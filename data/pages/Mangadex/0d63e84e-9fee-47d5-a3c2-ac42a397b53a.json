@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saiki Yuu"
-  ],
+  "createdAt": "2020-10-12T16:19:29.000Z",
+  "updatedAt": "2021-12-07T22:12:01.000Z",
+  "checkedAt": null,
+  "id": 35263,
   "identifier": "0d63e84e-9fee-47d5-a3c2-ac42a397b53a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 128088,
   "aniId": 111758,
-  "createdAt": "2020-10-12T16:19:29.000Z",
-  "updatedAt": "2021-12-07T22:12:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saiki Yuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T18:03:10.000Z",
+    "updatedAt": "2022-05-17T20:36:15.000Z",
+    "checkedAt": "2022-05-17T20:36:15.000Z",
+    "id": 128088,
+    "type": "manga",
+    "title": "Yamaguchi-kun wa Warukunai",
+    "altTitle": [
+      "Yamaguchi-kun is Not Bad",
+      "Yamaguchi-kun Isn't So Bad",
+      "山口くんはワルくない"
+    ],
+    "url": "https://myanimelist.net/manga/128088/Yamaguchi-kun_wa_Warukunai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235051.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yamaguchi-kun is Not Bad",
-      "Yamaguchi-kun Isn't So Bad",
-      "山口くんはワルくない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saiki, Yuu"
-    ],
-    "id": 128088,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:23.546Z",
+    "updatedAt": "2022-05-17T20:36:14.000Z",
+    "checkedAt": "2022-05-17T20:36:14.000Z",
+    "id": 111758,
     "type": "manga",
     "title": "Yamaguchi-kun wa Warukunai",
-    "url": "https://myanimelist.net/manga/128088/Yamaguchi-kun_wa_Warukunai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/235051.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T18:03:10.000Z",
-    "updatedAt": "2022-05-01T07:34:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yamaguchi-kun Isn't So Bad",
       "山口くんはワルくない"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Saiki"
-    ],
-    "id": 111758,
-    "malId": 128088,
-    "type": "manga",
-    "title": "Yamaguchi-kun wa Warukunai",
     "url": "https://anilist.co/manga/111758",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111758-97UhXvEpsXQQ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:21.000Z",
-    "updatedAt": "2022-01-28T22:51:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/128088/Yamaguchi-kun_wa_Warukunai"
+    "externalLinks": [],
+    "malId": 128088,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Saiki"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Hiyori Mikagami",
-    "Hisaka Tooru",
-    "Strange Chameleon (Circle)"
-  ],
+  "createdAt": "2020-10-12T16:17:33.000Z",
+  "updatedAt": "2021-12-07T08:47:02.000Z",
+  "checkedAt": null,
+  "id": 31337,
   "identifier": "5665483c-98ca-4255-bfe8-bc1e07610eed",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1018,
   "aniId": 31018,
-  "createdAt": "2020-10-12T16:17:33.000Z",
-  "updatedAt": "2021-12-07T08:47:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiyori Mikagami",
+    "Hisaka Tooru",
+    "Strange Chameleon (Circle)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-03-26T23:28:16.000Z",
+    "checkedAt": null,
+    "id": 1018,
+    "type": "manga",
+    "title": "Walkin' Butterfly",
+    "altTitle": [
+      "Walkin' Butterfly",
+      "Walkin' Butterfly"
+    ],
+    "url": "https://myanimelist.net/manga/1018/Walkin_Butterfly",
+    "image": "https://cdn.myanimelist.net/images/manga/3/5187.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,44 +43,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Walkin' Butterfly",
-      "Walkin' Butterfly"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tamaki, Chihiro"
-    ],
-    "id": 1018,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:53.597Z",
+    "updatedAt": "2022-05-13T12:44:53.597Z",
+    "checkedAt": null,
+    "id": 31018,
     "type": "manga",
     "title": "Walkin' Butterfly",
-    "url": "https://myanimelist.net/manga/1018/Walkin_Butterfly",
-    "image": "https://cdn.myanimelist.net/images/manga/3/5187.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-03-26T23:28:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Walkin' Butterfly",
       "ウォーキン・バタフライ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chihiro Tamaki"
-    ],
-    "id": 31018,
-    "malId": 1018,
-    "type": "manga",
-    "title": "Walkin' Butterfly",
     "url": "https://anilist.co/manga/31018",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1018.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:39:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1018/Walkin_Butterfly"
+    "externalLinks": [],
+    "malId": 1018,
+    "deletedAt": null,
+    "authors": [
+      "Chihiro Tamaki"
+    ]
+  }
 }

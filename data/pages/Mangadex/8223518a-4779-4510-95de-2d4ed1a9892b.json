@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kurata Hideyuki",
-    "Ayanaga Ran"
-  ],
+  "createdAt": "2020-10-12T16:05:05.000Z",
+  "updatedAt": "2021-12-03T10:18:08.000Z",
+  "checkedAt": null,
+  "id": 5667,
   "identifier": "8223518a-4779-4510-95de-2d4ed1a9892b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 709,
   "aniId": 30709,
-  "createdAt": "2020-10-12T16:05:05.000Z",
-  "updatedAt": "2021-12-03T10:18:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurata Hideyuki",
+    "Ayanaga Ran"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T06:33:03.000Z",
+    "checkedAt": "2022-05-15T06:33:03.000Z",
+    "id": 709,
+    "type": "manga",
+    "title": "R.O.D: Read or Dream",
+    "altTitle": [
+      "RoD",
+      "Read or Dream",
+      "R.O.D -READ OR DREAM-"
+    ],
+    "url": "https://myanimelist.net/manga/709/ROD__Read_or_Dream",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178270.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RoD",
-      "Read or Dream",
-      "R.O.D -READ OR DREAM-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurata, Hideyuki",
       "Ayanaga, Ran"
-    ],
-    "id": 709,
-    "type": "manga",
-    "title": "R.O.D: Read or Dream",
-    "url": "https://myanimelist.net/manga/709/ROD__Read_or_Dream",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178270.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-04-26T06:02:27.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:40.240Z",
+    "updatedAt": "2022-05-15T18:15:23.000Z",
+    "checkedAt": "2022-05-15T18:15:23.000Z",
+    "id": 30709,
+    "type": "manga",
+    "title": "R.O.D: READ OR DREAM",
     "altTitle": [
       "Read or Dream",
       "R.O.D -READ OR DREAM-",
@@ -54,22 +63,16 @@
       "R.O.D.",
       "RoD"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideyuki Kurata",
-      "Ran Ayanaga"
-    ],
-    "id": 30709,
-    "malId": 709,
-    "type": "manga",
-    "title": "R.O.D: READ OR DREAM",
     "url": "https://anilist.co/manga/30709",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30709-GdpLDs1LyE4p.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:41.000Z",
-    "updatedAt": "2022-05-01T17:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/709/ROD__Read_or_Dream"
+    "externalLinks": [],
+    "malId": 709,
+    "deletedAt": null,
+    "authors": [
+      "Hideyuki Kurata",
+      "Ran Ayanaga"
+    ]
+  }
 }

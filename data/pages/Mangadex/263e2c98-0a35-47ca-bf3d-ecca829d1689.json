@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kusanagi Mizuho"
-  ],
+  "createdAt": "2020-10-12T16:07:35.000Z",
+  "updatedAt": "2021-12-04T04:18:00.000Z",
+  "checkedAt": null,
+  "id": 10941,
   "identifier": "263e2c98-0a35-47ca-bf3d-ecca829d1689",
   "type": "manga",
   "page": "Mangadex",
@@ -11,36 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7010,
   "aniId": 37010,
-  "createdAt": "2020-10-12T16:07:35.000Z",
-  "updatedAt": "2021-12-04T04:18:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kusanagi Mizuho"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
-    "altTitle": [
-      "No Good Life",
-      "NG Raifu",
-      "NG Life",
-      "NGライフ; エヌジーライフ"
-    ],
-    "authors": [
-      "Kusanagi, Mizuho"
-    ],
+    "createdAt": "2020-10-12T15:41:12.000Z",
+    "updatedAt": "2022-05-16T10:04:38.000Z",
+    "checkedAt": "2022-05-16T10:04:38.000Z",
     "id": 7010,
     "type": "manga",
     "title": "NG Life",
+    "altTitle": [
+      "No Good Life",
+      "NG Life",
+      "NGライフ"
+    ],
     "url": "https://myanimelist.net/manga/7010/NG_Life",
-    "image": "https://cdn.myanimelist.net/images/manga/5/71979.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259253.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:12.000Z",
-    "updatedAt": "2021-12-27T11:32:10.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/NG%E3%83%A9%E3%82%A4%E3%83%95"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kusanagi, Mizuho"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:45.641Z",
+    "updatedAt": "2022-05-16T10:04:36.000Z",
+    "checkedAt": "2022-05-16T10:04:36.000Z",
+    "id": 37010,
+    "type": "manga",
+    "title": "NG Life",
     "altTitle": [
       "NG Life",
       "NGライフ",
@@ -48,21 +61,15 @@
       "No Good Life",
       "NG Raifu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mizuho Kusanagi"
-    ],
-    "id": 37010,
-    "malId": 7010,
-    "type": "manga",
-    "title": "NG Life",
     "url": "https://anilist.co/manga/37010",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37010-tI8OBoBtWa4b.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:45.000Z",
-    "updatedAt": "2021-12-17T12:49:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7010/NG_Life"
+    "externalLinks": [],
+    "malId": 7010,
+    "deletedAt": null,
+    "authors": [
+      "Mizuho Kusanagi"
+    ]
+  }
 }

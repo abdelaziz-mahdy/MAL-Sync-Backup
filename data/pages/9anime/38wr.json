@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:44.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1764,
   "identifier": "38wr",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3499,
   "aniId": 3499,
-  "createdAt": "2020-10-12T15:49:44.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T21:29:54.000Z",
+    "checkedAt": "2022-05-14T21:29:54.000Z",
+    "id": 3499,
+    "type": "anime",
+    "title": "DinoZone",
+    "altTitle": [
+      "Prehistoric Warriors",
+      "Dinozaurs: The Series",
+      "DinoZaurs",
+      "ダイノゾーン"
+    ],
+    "url": "https://myanimelist.net/anime/3499/DinoZone",
+    "image": "https://cdn.myanimelist.net/images/anime/8/67413.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +52,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Prehistoric Warriors",
-      "Dinozaurs: The Series",
-      "DinoZaurs",
-      "ダイノゾーン"
-    ],
+    "deletedAt": null,
+    "anidbId": 3338
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T22:13:47.000Z",
+    "checkedAt": "2022-05-15T22:13:47.000Z",
     "id": 3499,
     "type": "anime",
     "title": "DinoZone",
-    "url": "https://myanimelist.net/anime/3499/DinoZone",
-    "image": "https://cdn.myanimelist.net/images/anime/8/67413.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 3338,
-    "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2022-03-31T13:05:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "DinoZaurs",
       "ダイノゾーン",
       "Prehistoric Warriors",
       "Dinozaurs: The Series"
     ],
-    "externalLinks": [],
-    "id": 3499,
-    "malId": 3499,
-    "type": "anime",
-    "title": "DinoZone",
     "url": "https://anilist.co/anime/3499",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3499.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:25.000Z",
-    "updatedAt": "2021-12-17T10:57:25.000Z",
+    "externalLinks": [],
+    "malId": 3499,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3499/DinoZone"
+  }
 }

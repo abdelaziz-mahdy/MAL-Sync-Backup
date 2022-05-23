@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hongo Akiyoshi",
-    "Nakashima Yuuki"
-  ],
+  "createdAt": "2020-10-12T16:08:36.000Z",
+  "updatedAt": "2021-12-04T13:20:57.000Z",
+  "checkedAt": null,
+  "id": 13159,
   "identifier": "c1d990dd-9ff2-4e47-b93d-5e56e34c5069",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20561,
   "aniId": 50561,
-  "createdAt": "2020-10-12T16:08:36.000Z",
-  "updatedAt": "2021-12-04T13:20:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hongo Akiyoshi",
+    "Nakashima Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-30T18:40:37.000Z",
+    "updatedAt": "2022-04-21T03:31:37.000Z",
+    "checkedAt": null,
+    "id": 20561,
+    "type": "manga",
+    "title": "Digimon Xros Wars",
+    "altTitle": [
+      "Digimon Cross Wars",
+      "デジモンクロスウォーズ"
+    ],
+    "url": "https://myanimelist.net/manga/20561/Digimon_Xros_Wars",
+    "image": "https://cdn.myanimelist.net/images/manga/1/194129.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Digimon Cross Wars",
-      "デジモンクロスウォーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakashima, Yuuki"
-    ],
-    "id": 20561,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:12.444Z",
+    "updatedAt": "2022-05-13T12:55:12.444Z",
+    "checkedAt": null,
+    "id": 50561,
     "type": "manga",
     "title": "Digimon Xros Wars",
-    "url": "https://myanimelist.net/manga/20561/Digimon_Xros_Wars",
-    "image": "https://cdn.myanimelist.net/images/manga/1/194129.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-30T18:40:37.000Z",
-    "updatedAt": "2022-04-21T03:31:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "デジモンクロスウォーズ",
       "Digimon Cross Wars"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akiyoshi Hongou"
-    ],
-    "id": 50561,
-    "malId": 20561,
-    "type": "manga",
-    "title": "Digimon Xros Wars",
     "url": "https://anilist.co/manga/50561",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20561.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T11:50:29.000Z",
-    "updatedAt": "2021-12-17T17:17:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20561/Digimon_Xros_Wars"
+    "externalLinks": [],
+    "malId": 20561,
+    "deletedAt": null,
+    "authors": [
+      "Akiyoshi Hongou"
+    ]
+  }
 }

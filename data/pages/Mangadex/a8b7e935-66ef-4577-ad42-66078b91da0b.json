@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Han Seram",
-    "TOM (톰)"
-  ],
+  "createdAt": "2020-10-12T16:17:19.000Z",
+  "updatedAt": "2021-12-07T07:53:55.000Z",
+  "checkedAt": null,
+  "id": 30936,
   "identifier": "a8b7e935-66ef-4577-ad42-66078b91da0b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 113837,
-  "createdAt": "2020-10-12T16:17:19.000Z",
-  "updatedAt": "2021-12-07T07:53:55.000Z",
   "deletedAt": null,
+  "authors": [
+    "Han Seram",
+    "TOM (톰)"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:11.707Z",
+    "updatedAt": "2022-05-20T15:00:12.000Z",
+    "checkedAt": "2022-05-20T15:00:12.000Z",
+    "id": 113837,
+    "type": "manga",
+    "title": "Hwangbinimui Bimilsueop",
     "altTitle": [
       "The Secret Life of Empress Isana",
       "황비님의비밀수업",
@@ -31,22 +39,16 @@
       "Kouhi-sama no Secret Lesson",
       "La Leçon Secrete de L'Imperatrice "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Se-Ram Han",
-      "TOM"
-    ],
-    "id": 113837,
-    "malId": null,
-    "type": "manga",
-    "title": "Hwangbinimui Bimilsueop",
     "url": "https://anilist.co/manga/113837",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113837-kFW3J4h8Hxc6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-24T12:08:17.000Z",
-    "updatedAt": "2022-03-20T09:20:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Se-Ram Han",
+      "TOM"
+    ]
+  }
 }

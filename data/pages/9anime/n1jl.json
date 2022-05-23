@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-12-09T13:50:49.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29808,
   "identifier": "n1jl",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41433,
   "aniId": 116566,
-  "createdAt": "2020-12-09T13:50:49.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:15.000Z",
+    "updatedAt": "2022-05-14T10:00:37.000Z",
+    "checkedAt": "2022-05-14T10:00:37.000Z",
+    "id": 41433,
+    "type": "anime",
+    "title": "Akudama Drive",
+    "altTitle": [
+      "Akudama Drive",
+      "アクダマドライブ"
+    ],
+    "url": "https://myanimelist.net/anime/41433/Akudama_Drive",
+    "image": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,6 +51,10 @@
     ],
     "legalLinks": [
       {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282428"
+      },
+      {
         "site": "funimation",
         "url": "https://www.funimation.com/shows/akudama-drive"
       },
@@ -47,28 +67,25 @@
         "url": "https://shahid.mbc.net/en/series/Akudama-Drive/series-822686"
       }
     ],
-    "altTitle": [
-      "Akudama Drive",
-      "アクダマドライブ"
-    ],
-    "id": 41433,
+    "deletedAt": null,
+    "anidbId": 15437
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:05.000Z",
+    "updatedAt": "2022-05-15T09:29:23.000Z",
+    "checkedAt": "2022-05-15T09:29:23.000Z",
+    "id": 116566,
     "type": "anime",
     "title": "Akudama Drive",
-    "url": "https://myanimelist.net/anime/41433/Akudama_Drive",
-    "image": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15437,
-    "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2022-04-03T04:01:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Akudama Drive",
       "アクダマドライブ",
       "아쿠다마 드라이브"
     ],
+    "url": "https://anilist.co/anime/116566",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116566-6qREQAAfbEDi.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -83,17 +100,7 @@
         "url": "https://www.crunchyroll.com/akudama-drive"
       }
     ],
-    "id": 116566,
     "malId": 41433,
-    "type": "anime",
-    "title": "Akudama Drive",
-    "url": "https://anilist.co/anime/116566",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116566-6qREQAAfbEDi.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:05.000Z",
-    "updatedAt": "2022-03-09T15:29:44.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/41433/Akudama_Drive"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yaguchi Takao"
-  ],
+  "createdAt": "2021-02-05T08:19:51.000Z",
+  "updatedAt": "2021-12-08T11:11:31.000Z",
+  "checkedAt": null,
+  "id": 61448,
   "identifier": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10054,
   "aniId": 40054,
-  "createdAt": "2021-02-05T08:19:51.000Z",
-  "updatedAt": "2021-12-08T11:11:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yaguchi Takao"
+  ],
   "Mal": {
+    "createdAt": "2021-02-05T08:19:51.000Z",
+    "updatedAt": "2022-05-15T14:36:29.000Z",
+    "checkedAt": "2022-05-15T14:36:29.000Z",
+    "id": 10054,
+    "type": "manga",
+    "title": "Tsurikichi Sanpei",
+    "altTitle": [
+      "Sanpei the Fisherman",
+      "Fishing-Crazy Sanpei",
+      "Fishing Enthusiast Sanpei",
+      "釣りキチ三平"
+    ],
+    "url": "https://myanimelist.net/manga/10054/Tsurikichi_Sanpei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/170335.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sanpei the Fisherman",
-      "Fishing-Crazy Sanpei",
-      "Fishing Enthusiast Sanpei",
-      "釣りキチ三平"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yaguchi, Takao"
-    ],
-    "id": 10054,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:10.641Z",
+    "updatedAt": "2022-05-15T18:20:59.000Z",
+    "checkedAt": "2022-05-15T18:20:59.000Z",
+    "id": 40054,
     "type": "manga",
     "title": "Tsurikichi Sanpei",
-    "url": "https://myanimelist.net/manga/10054/Tsurikichi_Sanpei",
-    "image": "https://cdn.myanimelist.net/images/manga/3/170335.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-05T08:19:51.000Z",
-    "updatedAt": "2022-02-05T09:06:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sanpei the Fisherman",
       "釣りキチ三平",
@@ -57,21 +66,15 @@
       "Paul le pêcheur",
       "Sanpei the Fisherman"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takao Yaguchi"
-    ],
-    "id": 40054,
-    "malId": 10054,
-    "type": "manga",
-    "title": "Tsurikichi Sanpei",
     "url": "https://anilist.co/manga/40054",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40054-Smxe0bL0oA4a.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2021-12-25T16:28:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10054/Tsurikichi_Sanpei"
+    "externalLinks": [],
+    "malId": 10054,
+    "deletedAt": null,
+    "authors": [
+      "Takao Yaguchi"
+    ]
+  }
 }

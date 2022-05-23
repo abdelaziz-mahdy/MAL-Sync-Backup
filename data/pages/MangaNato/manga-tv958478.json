@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azuma Hideo"
-  ],
+  "createdAt": "2022-04-27T05:31:37.000Z",
+  "updatedAt": "2022-04-27T06:00:26.000Z",
+  "checkedAt": null,
+  "id": 102187,
   "identifier": "manga-tv958478",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10007,
   "aniId": 40007,
-  "createdAt": "2022-04-27T05:31:37.000Z",
-  "updatedAt": "2022-04-27T06:00:26.000Z",
   "deletedAt": null,
+  "authors": [
+    "Azuma Hideo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-05-17T12:13:30.000Z",
+    "checkedAt": "2022-05-17T12:13:30.000Z",
+    "id": 10007,
+    "type": "manga",
+    "title": "Shissou Nikki",
+    "altTitle": [
+      "The Great Escape of the Comic Book Writer",
+      "Disappearance Diary",
+      "失踪日記"
+    ],
+    "url": "https://myanimelist.net/manga/10007/Shissou_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/13392.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Great Escape of the Comic Book Writer",
-      "Disappearance Diary",
-      "失踪日記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Azuma, Hideo"
-    ],
-    "id": 10007,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:39.568Z",
+    "updatedAt": "2022-05-17T12:13:29.000Z",
+    "checkedAt": "2022-05-17T12:13:29.000Z",
+    "id": 40007,
     "type": "manga",
     "title": "Shissou Nikki",
-    "url": "https://myanimelist.net/manga/10007/Shissou_Nikki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/13392.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2022-04-27T05:31:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Disappearance Diary",
       "失踪日記",
       "The Great Escape of the Comic Book Writer"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideo Azuma",
-      "Kumar Sivasubramanian",
-      "Elizabeth Tiernan"
-    ],
-    "id": 40007,
-    "malId": 10007,
-    "type": "manga",
-    "title": "Shissou Nikki",
     "url": "https://anilist.co/manga/40007",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40007-bUJQ7Pod5MNX.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:59.000Z",
-    "updatedAt": "2022-04-27T10:03:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10007/Shissou_Nikki"
+    "externalLinks": [],
+    "malId": 10007,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Azuma",
+      "Kumar Sivasubramanian",
+      "Elizabeth Tiernan"
+    ]
+  }
 }

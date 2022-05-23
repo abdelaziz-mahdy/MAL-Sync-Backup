@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TONO"
-  ],
+  "createdAt": "2022-05-07T12:02:50.000Z",
+  "updatedAt": "2022-05-14T00:21:17.000Z",
+  "checkedAt": "2022-05-13T23:21:22.000Z",
+  "id": 103072,
   "identifier": "karubania_monogatari",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,64 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/30333/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T12:02:50.000Z",
-  "updatedAt": "2022-05-07T12:02:50.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 130071,
+  "aniId": 112408,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "TONO"
+  ],
+  "Mal": {
+    "createdAt": "2021-06-06T16:20:09.000Z",
+    "updatedAt": "2022-05-13T23:21:25.000Z",
+    "checkedAt": "2022-05-13T23:21:25.000Z",
+    "id": 130071,
+    "type": "manga",
+    "title": "Calbania Monogatari",
+    "altTitle": [
+      "Calbania Story",
+      "カルバニア物語"
+    ],
+    "url": "https://myanimelist.net/manga/130071/Calbania_Monogatari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/252634.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E7%89%A9%E8%AA%9E"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "TONO"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:12.937Z",
+    "updatedAt": "2022-05-13T12:43:12.937Z",
+    "checkedAt": null,
+    "id": 112408,
+    "type": "manga",
+    "title": "Karubania Monogatari",
+    "altTitle": [
+      "カルバニア物語",
+      "칼바니아 이야기",
+      "Karpania Monogatari",
+      "Calbania Monogatari",
+      "The Story of Calbania"
+    ],
+    "url": "https://anilist.co/manga/112408",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112408-llY8XVdA8MMA.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130071,
+    "deletedAt": null,
+    "authors": [
+      "TONO"
+    ]
+  }
 }

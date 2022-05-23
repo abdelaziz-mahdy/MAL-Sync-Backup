@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kishimoto Masashi",
-    "Okubo Akira"
-  ],
+  "createdAt": "2020-10-12T16:15:43.000Z",
+  "updatedAt": "2021-12-06T16:20:12.000Z",
+  "checkedAt": null,
+  "id": 27604,
   "identifier": "2ea96ba0-8a6a-441d-bb93-3276abaf91d3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117133,
   "aniId": 106654,
-  "createdAt": "2020-10-12T16:15:43.000Z",
-  "updatedAt": "2021-12-06T16:20:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kishimoto Masashi",
+    "Okubo Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:50.000Z",
+    "updatedAt": "2022-05-15T17:21:32.000Z",
+    "checkedAt": "2022-05-15T17:21:32.000Z",
+    "id": 117133,
+    "type": "manga",
+    "title": "Samurai 8: Hachimaru Den",
+    "altTitle": [
+      "Samurai Eight",
+      "Samurai 8: The Tale of Hachimaru",
+      "サムライ8 八丸伝"
+    ],
+    "url": "https://myanimelist.net/manga/117133/Samurai_8__Hachimaru_Den",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224191.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,60 +47,42 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Samurai Eight",
-      "Samurai 8: The Tale of Hachimaru",
-      "サムライ8 八丸伝"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kishimoto, Masashi",
       "Ookubo, Akira"
-    ],
-    "id": 117133,
-    "type": "manga",
-    "title": "Samurai 8: Hachimaru Den",
-    "url": "https://myanimelist.net/manga/117133/Samurai_8__Hachimaru_Den",
-    "image": "https://cdn.myanimelist.net/images/manga/2/224191.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:50.000Z",
-    "updatedAt": "2022-04-26T09:02:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:47.554Z",
+    "updatedAt": "2022-05-15T20:09:59.000Z",
+    "checkedAt": "2022-05-15T20:09:59.000Z",
+    "id": 106654,
+    "type": "manga",
+    "title": "Samurai 8: Hachimaruden",
     "altTitle": [
       "Samurai 8: The Tale of Hachimaru",
       "サムライ8 八丸伝",
       "Samurai 8 - La légende de Hachimaru"
     ],
+    "url": "https://anilist.co/manga/106654",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106654-bkVZEwY0m8o9.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/shonenjump/chapters/samurai-8"
-      },
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100059"
       }
     ],
+    "malId": 117133,
+    "deletedAt": null,
     "authors": [
       "Masashi Kishimoto",
       "Akira Oukubo",
       "Miyako Slocombe",
       "Carlos Mingo",
       "Irene Tellería Domínguez"
-    ],
-    "id": 106654,
-    "malId": 117133,
-    "type": "manga",
-    "title": "Samurai 8: Hachimaruden",
-    "url": "https://anilist.co/manga/106654",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106654-bkVZEwY0m8o9.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:55.000Z",
-    "updatedAt": "2021-12-18T05:29:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117133/Samurai_8__Hachimaru_Den"
+    ]
+  }
 }

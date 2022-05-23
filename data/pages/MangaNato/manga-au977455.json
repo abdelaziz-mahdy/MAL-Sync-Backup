@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sawada Shin"
-  ],
+  "createdAt": "2021-05-29T12:43:22.000Z",
+  "updatedAt": "2021-11-29T13:36:03.000Z",
+  "checkedAt": null,
+  "id": 73789,
   "identifier": "manga-au977455",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 105182,
   "aniId": 99924,
-  "createdAt": "2021-05-29T12:43:22.000Z",
-  "updatedAt": "2021-11-29T13:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sawada Shin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:59.000Z",
+    "updatedAt": "2022-05-15T22:31:15.000Z",
+    "checkedAt": "2022-05-15T22:31:15.000Z",
+    "id": 105182,
+    "type": "manga",
+    "title": "Violence Action",
+    "altTitle": [
+      "バイオレンスアクション"
+    ],
+    "url": "https://myanimelist.net/manga/105182/Violence_Action",
+    "image": "https://cdn.myanimelist.net/images/manga/2/194155.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,48 +40,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "バイオレンスアクション"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sawada, Shin",
       "Asai, Renji"
-    ],
-    "id": 105182,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:32.767Z",
+    "updatedAt": "2022-05-15T22:35:35.000Z",
+    "checkedAt": "2022-05-15T22:35:35.000Z",
+    "id": 99924,
     "type": "manga",
     "title": "Violence Action",
-    "url": "https://myanimelist.net/manga/105182/Violence_Action",
-    "image": "https://cdn.myanimelist.net/images/manga/2/194155.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:59.000Z",
-    "updatedAt": "2021-11-18T17:14:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "バイオレンスアクション",
       "The Violence Action",
       "Baiorensu Akushun",
       "Action Violence"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Renji Asai",
-      "Shin Sawada",
-      "Maite Madinabeitia"
-    ],
-    "id": 99924,
-    "malId": 105182,
-    "type": "manga",
-    "title": "Violence Action",
     "url": "https://anilist.co/manga/99924",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99924-Kfnp0xCsrY2w.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:14.000Z",
-    "updatedAt": "2021-12-18T02:59:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/105182/Violence_Action"
+    "externalLinks": [],
+    "malId": 105182,
+    "deletedAt": null,
+    "authors": [
+      "Renji Asai",
+      "Shin Sawada",
+      "Maite Madinabeitia"
+    ]
+  }
 }

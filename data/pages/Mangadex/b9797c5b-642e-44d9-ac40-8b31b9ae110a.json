@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itou Hachi"
-  ],
+  "createdAt": "2020-10-12T16:11:52.000Z",
+  "updatedAt": "2021-12-05T11:48:19.000Z",
+  "checkedAt": null,
+  "id": 20213,
   "identifier": "b9797c5b-642e-44d9-ac40-8b31b9ae110a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95165,
   "aniId": 96574,
-  "createdAt": "2020-10-12T16:11:52.000Z",
-  "updatedAt": "2021-12-05T11:48:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itou Hachi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-05-13T23:23:41.000Z",
+    "checkedAt": "2022-05-13T23:23:41.000Z",
+    "id": 95165,
+    "type": "manga",
+    "title": "Tsuki ga Kirei desu ne",
+    "altTitle": [
+      "Isn't the Moon Beautiful",
+      "月が綺麗ですね"
+    ],
+    "url": "https://myanimelist.net/manga/95165/Tsuki_ga_Kirei_desu_ne",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175958.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Isn't the Moon Beautiful",
-      "月が綺麗ですね"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itou, Hachi"
-    ],
-    "id": 95165,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:11.096Z",
+    "updatedAt": "2022-05-15T16:26:47.000Z",
+    "checkedAt": "2022-05-15T16:26:47.000Z",
+    "id": 96574,
     "type": "manga",
     "title": "Tsuki ga Kirei desu ne",
-    "url": "https://myanimelist.net/manga/95165/Tsuki_ga_Kirei_desu_ne",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175958.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2022-04-16T21:31:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "月が綺麗ですね",
       "Isn't the Moon Beautiful",
       "จันทร์เจ้าเฝ้าหารัก"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hachi Itou"
-    ],
-    "id": 96574,
-    "malId": 95165,
-    "type": "manga",
-    "title": "Tsuki ga Kirei desu ne",
     "url": "https://anilist.co/manga/96574",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx96574-mEYUkUXt4vQe.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:57.000Z",
-    "updatedAt": "2022-01-25T13:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95165/Tsuki_ga_Kirei_desu_ne"
+    "externalLinks": [],
+    "malId": 95165,
+    "deletedAt": null,
+    "authors": [
+      "Hachi Itou"
+    ]
+  }
 }

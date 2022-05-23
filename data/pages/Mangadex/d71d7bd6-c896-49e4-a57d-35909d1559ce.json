@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mihara Mitsukazu"
-  ],
+  "createdAt": "2020-10-12T16:03:04.000Z",
+  "updatedAt": "2021-12-02T11:48:38.000Z",
+  "checkedAt": null,
+  "id": 1447,
   "identifier": "d71d7bd6-c896-49e4-a57d-35909d1559ce",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15491,
   "aniId": 45491,
-  "createdAt": "2020-10-12T16:03:04.000Z",
-  "updatedAt": "2021-12-02T11:48:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mihara Mitsukazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:12.000Z",
+    "updatedAt": "2022-05-18T14:21:03.000Z",
+    "checkedAt": "2022-05-18T14:21:03.000Z",
+    "id": 15491,
+    "type": "manga",
+    "title": "Dokuhime",
+    "altTitle": [
+      "Doku Hime",
+      "La Princesse de poison",
+      "Poison Princess",
+      "毒姫"
+    ],
+    "url": "https://myanimelist.net/manga/15491/Dokuhime",
+    "image": "https://cdn.myanimelist.net/images/manga/1/101201.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Doku Hime",
-      "La Princesse de poison",
-      "Poison Princess",
-      "毒姫"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mihara, Mitsukazu"
-    ],
-    "id": 15491,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:44.249Z",
+    "updatedAt": "2022-05-18T14:21:02.000Z",
+    "checkedAt": "2022-05-18T14:21:02.000Z",
+    "id": 45491,
     "type": "manga",
     "title": "Dokuhime",
-    "url": "https://myanimelist.net/manga/15491/Dokuhime",
-    "image": "https://cdn.myanimelist.net/images/manga/1/101201.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:12.000Z",
-    "updatedAt": "2022-03-07T13:30:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "毒姫",
       "Doku Hime",
       "La Princesse de Poison",
       "Poison Princess"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsukazu Mihara"
-    ],
-    "id": 45491,
-    "malId": 15491,
-    "type": "manga",
-    "title": "Dokuhime",
     "url": "https://anilist.co/manga/45491",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45491-NCUhIL1w8MUC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:46.000Z",
-    "updatedAt": "2021-12-17T15:46:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15491/Dokuhime"
+    "externalLinks": [],
+    "malId": 15491,
+    "deletedAt": null,
+    "authors": [
+      "Mitsukazu Mihara"
+    ]
+  }
 }

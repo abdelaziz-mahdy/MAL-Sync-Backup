@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Higashimoto Toshiya"
-  ],
+  "createdAt": "2020-10-12T16:04:50.000Z",
+  "updatedAt": "2021-12-02T23:48:28.000Z",
+  "checkedAt": null,
+  "id": 5130,
   "identifier": "d31ed622-9367-458b-9e75-baaec21425b3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 27777,
   "aniId": 57777,
-  "createdAt": "2020-10-12T16:04:50.000Z",
-  "updatedAt": "2021-12-02T23:48:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higashimoto Toshiya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:29.000Z",
+    "updatedAt": "2021-11-04T14:35:55.000Z",
+    "checkedAt": null,
+    "id": 27777,
+    "type": "manga",
+    "title": "Hadou no Mon",
+    "altTitle": [
+      "Gate to the Path of Destruction",
+      "Road of the Broken",
+      "破道の門"
+    ],
+    "url": "https://myanimelist.net/manga/27777/Hadou_no_Mon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/44709.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gate to the Path of Destruction",
-      "Road of the Broken",
-      "破道の門"
-    ],
+    "deletedAt": null,
     "authors": [
       "Higashimoto, Toshiya"
-    ],
-    "id": 27777,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:34.172Z",
+    "updatedAt": "2022-05-13T12:59:34.172Z",
+    "checkedAt": null,
+    "id": 57777,
     "type": "manga",
     "title": "Hadou no Mon",
-    "url": "https://myanimelist.net/manga/27777/Hadou_no_Mon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/44709.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:29.000Z",
-    "updatedAt": "2021-11-04T14:35:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "破道の門",
       "Gate to the Path of Destruction",
       "Road of the Broken"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toshiya Higashimoto"
-    ],
-    "id": 57777,
-    "malId": 27777,
-    "type": "manga",
-    "title": "Hadou no Mon",
     "url": "https://anilist.co/manga/57777",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27777.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:29.000Z",
-    "updatedAt": "2021-12-17T18:56:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/27777/Hadou_no_Mon"
+    "externalLinks": [],
+    "malId": 27777,
+    "deletedAt": null,
+    "authors": [
+      "Toshiya Higashimoto"
+    ]
+  }
 }

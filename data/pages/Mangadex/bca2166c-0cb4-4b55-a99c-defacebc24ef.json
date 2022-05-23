@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyashita Hiroki"
-  ],
+  "createdAt": "2020-10-12T16:07:43.000Z",
+  "updatedAt": "2021-12-04T05:21:01.000Z",
+  "checkedAt": null,
+  "id": 11201,
   "identifier": "bca2166c-0cb4-4b55-a99c-defacebc24ef",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 50999,
   "aniId": 80999,
-  "createdAt": "2020-10-12T16:07:43.000Z",
-  "updatedAt": "2021-12-04T05:21:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyashita Hiroki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:37.000Z",
+    "updatedAt": "2022-05-18T17:51:15.000Z",
+    "checkedAt": "2022-05-18T17:51:15.000Z",
+    "id": 50999,
+    "type": "manga",
+    "title": "Ryuuma no Gagou",
+    "altTitle": [
+      "The Pseudonym of \"Ryuma\"",
+      "リュウマのガゴウ"
+    ],
+    "url": "https://myanimelist.net/manga/50999/Ryuuma_no_Gagou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/187972.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Pseudonym of \"Ryuma\"",
-      "リュウマのガゴウ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyashita, Hiroki"
-    ],
-    "id": 50999,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:49.266Z",
+    "updatedAt": "2022-05-18T17:51:14.000Z",
+    "checkedAt": "2022-05-18T17:51:14.000Z",
+    "id": 80999,
     "type": "manga",
     "title": "Ryuuma no Gagou",
-    "url": "https://myanimelist.net/manga/50999/Ryuuma_no_Gagou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/187972.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:37.000Z",
-    "updatedAt": "2022-01-08T20:19:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リュウマのガゴウ",
       "The Pseudonym of \"Ryuma\""
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroki Miyashita"
-    ],
-    "id": 80999,
-    "malId": 50999,
-    "type": "manga",
-    "title": "Ryuuma no Gagou",
     "url": "https://anilist.co/manga/80999",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80999-AvXddYM0zEKd.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:49.000Z",
-    "updatedAt": "2021-12-17T21:27:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/50999/Ryuuma_no_Gagou"
+    "externalLinks": [],
+    "malId": 50999,
+    "deletedAt": null,
+    "authors": [
+      "Hiroki Miyashita"
+    ]
+  }
 }

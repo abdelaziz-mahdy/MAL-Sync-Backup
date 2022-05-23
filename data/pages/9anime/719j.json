@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:59.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3309,
   "identifier": "719j",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2285,
   "aniId": 2285,
-  "createdAt": "2020-10-12T15:50:59.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-15T07:21:40.000Z",
+    "checkedAt": "2022-05-15T07:21:40.000Z",
+    "id": 2285,
+    "type": "anime",
+    "title": "D.I.C.E.",
+    "altTitle": [
+      "DICE",
+      "DNA Integrated Cybernetic Enterprises",
+      "DINOBREAKER",
+      "ディノブレイカー"
+    ],
+    "url": "https://myanimelist.net/anime/2285/DICE",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +52,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "DICE",
-      "DNA Integrated Cybernetic Enterprises",
-      "DINOBREAKER",
-      "ディノブレイカー"
-    ],
+    "deletedAt": null,
+    "anidbId": 2433
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-16T06:51:16.000Z",
+    "checkedAt": "2022-05-16T06:51:16.000Z",
     "id": 2285,
     "type": "anime",
     "title": "D.I.C.E.",
-    "url": "https://myanimelist.net/anime/2285/DICE",
-    "image": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2433,
-    "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2022-03-31T06:02:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ディノブレイカー",
       "DICE",
       "DNA Integrated Cybernetic Enterprises",
       "DINOBREAKER"
     ],
-    "externalLinks": [],
-    "id": 2285,
-    "malId": 2285,
-    "type": "anime",
-    "title": "D.I.C.E.",
     "url": "https://anilist.co/anime/2285",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2285.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:14.000Z",
-    "updatedAt": "2021-12-17T10:01:24.000Z",
+    "externalLinks": [],
+    "malId": 2285,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2285/DICE"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Toriyama Akira",
-    "Toyotaro"
-  ],
+  "createdAt": "2020-10-12T16:08:32.000Z",
+  "updatedAt": "2021-12-04T11:21:29.000Z",
+  "checkedAt": null,
+  "id": 12990,
   "identifier": "bf5312c1-e5db-4b4e-b822-9c133ea96f4a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 86671,
   "aniId": 94109,
-  "createdAt": "2020-10-12T16:08:32.000Z",
-  "updatedAt": "2021-12-04T11:21:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toriyama Akira",
+    "Toyotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:52.000Z",
+    "updatedAt": "2022-05-17T13:42:01.000Z",
+    "checkedAt": "2022-05-17T13:42:01.000Z",
+    "id": 86671,
+    "type": "manga",
+    "title": "Dragon Ball Z: Fukkatsu no \"F\"",
+    "altTitle": [
+      "Dragon Ball Z: Revival of F",
+      "Dragon Ball Z: Resurrection of F",
+      "Dragonball Z: Rebirth of F",
+      "ドラゴンボールZ 復活の「F」"
+    ],
+    "url": "https://myanimelist.net/manga/86671/Dragon_Ball_Z__Fukkatsu_no_F",
+    "image": "https://cdn.myanimelist.net/images/manga/2/154240.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,28 +44,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dragon Ball Z: Revival of F",
-      "Dragon Ball Z: Resurrection of F",
-      "Dragonball Z: Rebirth of F",
-      "ドラゴンボールZ 復活の「F」"
-    ],
+    "deletedAt": null,
     "authors": [
       "Toriyama, Akira",
       "Toyotarou"
-    ],
-    "id": 86671,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:45.196Z",
+    "updatedAt": "2022-05-17T13:42:00.000Z",
+    "checkedAt": "2022-05-17T13:42:00.000Z",
+    "id": 94109,
     "type": "manga",
     "title": "Dragon Ball Z: Fukkatsu no \"F\"",
-    "url": "https://myanimelist.net/manga/86671/Dragon_Ball_Z__Fukkatsu_no_F",
-    "image": "https://cdn.myanimelist.net/images/manga/2/154240.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:52.000Z",
-    "updatedAt": "2021-11-12T19:44:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラゴンボールZ 復活の「F」",
       "Dragon Ball Z: Revival of F",
@@ -55,23 +64,17 @@
       "Dragonball Z: Rebirth of F",
       "Dragon Ball Z: Zmartwychwstanie F"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toyotarou",
-      "Akira Toriyama",
-      "Akira Toriyama"
-    ],
-    "id": 94109,
-    "malId": 86671,
-    "type": "manga",
-    "title": "Dragon Ball Z: Fukkatsu no \"F\"",
     "url": "https://anilist.co/manga/94109",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94109-oCtSkyO2NOUW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:45.000Z",
-    "updatedAt": "2021-12-18T00:58:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/86671/Dragon_Ball_Z__Fukkatsu_no_F"
+    "externalLinks": [],
+    "malId": 86671,
+    "deletedAt": null,
+    "authors": [
+      "Toyotarou",
+      "Akira Toriyama",
+      "Akira Toriyama"
+    ]
+  }
 }

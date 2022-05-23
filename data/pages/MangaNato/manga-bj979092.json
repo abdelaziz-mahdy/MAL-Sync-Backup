@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Park Gee"
-  ],
+  "createdAt": "2021-05-29T01:12:33.000Z",
+  "updatedAt": "2021-12-28T21:53:27.000Z",
+  "checkedAt": null,
+  "id": 73231,
   "identifier": "manga-bj979092",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 124272,
   "aniId": 102738,
-  "createdAt": "2021-05-29T01:12:33.000Z",
-  "updatedAt": "2021-12-28T21:53:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Park Gee"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:13.000Z",
+    "updatedAt": "2022-05-16T10:58:38.000Z",
+    "checkedAt": "2022-05-16T10:58:38.000Z",
+    "id": 124272,
+    "type": "manga",
+    "title": "Suicide Boy",
+    "altTitle": [
+      "Jasal Sonyeon",
+      "자살 소년"
+    ],
+    "url": "https://myanimelist.net/manga/124272/Suicide_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226686.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Jasal Sonyeon",
-      "자살 소년"
-    ],
+    "deletedAt": null,
     "authors": [
       "Parkgee"
-    ],
-    "id": 124272,
-    "type": "manga",
-    "title": "Suicide Boy",
-    "url": "https://myanimelist.net/manga/124272/Suicide_Boy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/226686.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:13.000Z",
-    "updatedAt": "2022-03-19T18:49:22.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:15.945Z",
+    "updatedAt": "2022-05-16T10:58:37.000Z",
+    "checkedAt": "2022-05-16T10:58:37.000Z",
+    "id": 102738,
+    "type": "manga",
+    "title": "Jasal Sonyeon",
     "altTitle": [
       "Suicide Boy",
       "자살 소년"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gee Park"
-    ],
-    "id": 102738,
-    "malId": 124272,
-    "type": "manga",
-    "title": "Jasal Sonyeon",
     "url": "https://anilist.co/manga/102738",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102738-sJWf8xlyN6sH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:04.000Z",
-    "updatedAt": "2021-12-18T04:23:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124272/Suicide_Boy"
+    "externalLinks": [],
+    "malId": 124272,
+    "deletedAt": null,
+    "authors": [
+      "Gee Park"
+    ]
+  }
 }

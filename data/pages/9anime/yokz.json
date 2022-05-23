@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:55.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 10772,
   "identifier": "yokz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8235,
   "aniId": 8235,
-  "createdAt": "2020-10-12T15:56:55.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:58.000Z",
+    "updatedAt": "2022-05-15T07:20:52.000Z",
+    "checkedAt": "2022-05-15T07:20:52.000Z",
+    "id": 8235,
+    "type": "anime",
+    "title": "Muumin (1972)",
+    "altTitle": [
+      "Shin Muumin",
+      "New Moomin",
+      "ムーミン"
+    ],
+    "url": "https://myanimelist.net/anime/8235/Muumin_1972",
+    "image": "https://cdn.myanimelist.net/images/anime/5/47155.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shin Muumin",
-      "New Moomin",
-      "ムーミン"
-    ],
+    "deletedAt": null,
+    "anidbId": 1008
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:55.000Z",
+    "updatedAt": "2022-05-15T18:23:11.000Z",
+    "checkedAt": "2022-05-15T18:23:11.000Z",
     "id": 8235,
     "type": "anime",
-    "title": "Muumin (1972)",
-    "url": "https://myanimelist.net/anime/8235/Muumin_1972",
-    "image": "https://cdn.myanimelist.net/images/anime/5/47155.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 1008,
-    "createdAt": "2020-10-12T15:38:58.000Z",
-    "updatedAt": "2022-02-20T04:47:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Moomin (1972)",
     "altTitle": [
       "New Moomin",
       "ムーミン",
       "Shin Muumin"
     ],
-    "externalLinks": [],
-    "id": 8235,
-    "malId": 8235,
-    "type": "anime",
-    "title": "Moomin (1972)",
     "url": "https://anilist.co/anime/8235",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:55.000Z",
-    "updatedAt": "2021-12-17T12:28:45.000Z",
+    "externalLinks": [],
+    "malId": 8235,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/8235/Muumin_1972"
+  }
 }

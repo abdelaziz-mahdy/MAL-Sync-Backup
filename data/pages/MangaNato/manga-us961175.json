@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urasawa Naoki"
-  ],
+  "createdAt": "2022-02-09T06:09:38.000Z",
+  "updatedAt": "2022-02-09T06:39:37.000Z",
+  "checkedAt": null,
+  "id": 95945,
   "identifier": "manga-us961175",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 845,
   "aniId": 30845,
-  "createdAt": "2022-02-09T06:09:38.000Z",
-  "updatedAt": "2022-02-09T06:39:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urasawa Naoki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-15T15:40:23.000Z",
+    "checkedAt": "2022-05-15T15:40:23.000Z",
+    "id": 845,
+    "type": "manga",
+    "title": "Happy!",
+    "altTitle": [
+      "Happy!"
+    ],
+    "url": "https://myanimelist.net/manga/845/Happy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/148293.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Happy!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urasawa, Naoki"
-    ],
-    "id": 845,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:47.871Z",
+    "updatedAt": "2022-05-15T19:00:59.000Z",
+    "checkedAt": "2022-05-15T19:00:59.000Z",
+    "id": 30845,
     "type": "manga",
     "title": "Happy!",
-    "url": "https://myanimelist.net/manga/845/Happy",
-    "image": "https://cdn.myanimelist.net/images/manga/2/148293.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-02-07T21:11:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Happy!",
       "ハッピー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Urasawa",
-      "Yasushi Hoshino"
-    ],
-    "id": 30845,
-    "malId": 845,
-    "type": "manga",
-    "title": "Happy!",
     "url": "https://anilist.co/manga/30845",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30845-MZjQTRCB7W5l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:44.000Z",
-    "updatedAt": "2022-01-11T05:41:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/845/Happy"
+    "externalLinks": [],
+    "malId": 845,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Urasawa",
+      "Yasushi Hoshino",
+      "Tatiana Bonora",
+      "David Gondelaud"
+    ]
+  }
 }

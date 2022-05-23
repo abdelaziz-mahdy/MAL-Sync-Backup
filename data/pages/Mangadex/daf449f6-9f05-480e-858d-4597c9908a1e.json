@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Type-Moon",
-    "French Bread",
-    "Kirishima Takeru"
-  ],
+  "createdAt": "2020-10-12T16:03:49.000Z",
+  "updatedAt": "2021-12-02T16:48:07.000Z",
+  "checkedAt": null,
+  "id": 3029,
   "identifier": "daf449f6-9f05-480e-858d-4597c9908a1e",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25629,
   "aniId": 55629,
-  "createdAt": "2020-10-12T16:03:49.000Z",
-  "updatedAt": "2021-12-02T16:48:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Type-Moon",
+    "French Bread",
+    "Kirishima Takeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:20.000Z",
+    "updatedAt": "2022-05-15T21:23:57.000Z",
+    "checkedAt": "2022-05-15T21:23:57.000Z",
+    "id": 25629,
+    "type": "manga",
+    "title": "Melty Blood X",
+    "altTitle": [
+      "メルティブラッド X"
+    ],
+    "url": "https://myanimelist.net/manga/25629/Melty_Blood_X",
+    "image": "https://cdn.myanimelist.net/images/manga/3/41868.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,43 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "メルティブラッド X"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kirishima, Takeru",
       "Type-Moon"
-    ],
-    "id": 25629,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:33.142Z",
+    "updatedAt": "2022-05-15T22:14:35.000Z",
+    "checkedAt": "2022-05-15T22:14:35.000Z",
+    "id": 55629,
     "type": "manga",
     "title": "Melty Blood X",
-    "url": "https://myanimelist.net/manga/25629/Melty_Blood_X",
-    "image": "https://cdn.myanimelist.net/images/manga/3/41868.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:20.000Z",
-    "updatedAt": "2022-04-04T20:01:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "メルティブラッド X"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeru Kirishima"
-    ],
-    "id": 55629,
-    "malId": 25629,
-    "type": "manga",
-    "title": "Melty Blood X",
     "url": "https://anilist.co/manga/55629",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55629-Fn6lot1bEkFJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:55.000Z",
-    "updatedAt": "2021-12-20T16:18:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25629/Melty_Blood_X"
+    "externalLinks": [],
+    "malId": 25629,
+    "deletedAt": null,
+    "authors": [
+      "Takeru Kirishima"
+    ]
+  }
 }

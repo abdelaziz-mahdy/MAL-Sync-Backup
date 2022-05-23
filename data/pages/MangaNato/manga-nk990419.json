@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hamada Kosuke"
-  ],
+  "createdAt": "2022-01-20T12:35:25.000Z",
+  "updatedAt": "2022-01-20T13:04:04.000Z",
+  "checkedAt": null,
+  "id": 94910,
   "identifier": "manga-nk990419",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 143092,
   "aniId": 142706,
-  "createdAt": "2022-01-20T12:35:25.000Z",
-  "updatedAt": "2022-01-20T13:04:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hamada Kosuke"
+  ],
   "Mal": {
+    "createdAt": "2022-01-08T11:18:45.000Z",
+    "updatedAt": "2022-05-15T04:51:56.000Z",
+    "checkedAt": "2022-05-15T04:51:56.000Z",
+    "id": 143092,
+    "type": "manga",
+    "title": "Re Cervin",
+    "altTitle": [
+      "Le Cervin",
+      "レ・セルバン"
+    ],
+    "url": "https://myanimelist.net/manga/143092/Re_Cervin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/254195.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Le Cervin",
-      "レ・セルバン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hamada, Kousuke"
-    ],
-    "id": 143092,
-    "type": "manga",
-    "title": "Re Cervin",
-    "url": "https://myanimelist.net/manga/143092/Re_Cervin",
-    "image": "https://cdn.myanimelist.net/images/manga/1/254195.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-01-08T11:18:45.000Z",
-    "updatedAt": "2022-03-18T06:49:42.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:47.288Z",
+    "updatedAt": "2022-05-13T12:53:47.288Z",
+    "checkedAt": null,
+    "id": 142706,
+    "type": "manga",
+    "title": "Les Cervin",
     "altTitle": [
       "レ・セルバン",
       "Les Cervan",
       "Re Cervin",
       "Le Cervin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kousuke Hamada"
-    ],
-    "id": 142706,
-    "malId": 143092,
-    "type": "manga",
-    "title": "Les Cervin",
     "url": "https://anilist.co/manga/142706",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142706-m4pkfaAX2t3I.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-01-09T00:17:55.000Z",
-    "updatedAt": "2022-01-11T12:43:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143092/Re_Cervin"
+    "externalLinks": [],
+    "malId": 143092,
+    "deletedAt": null,
+    "authors": [
+      "Kousuke Hamada"
+    ]
+  }
 }

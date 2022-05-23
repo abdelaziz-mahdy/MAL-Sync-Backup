@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kinniku Tarou"
-  ],
+  "createdAt": "2020-10-12T16:12:31.000Z",
+  "updatedAt": "2021-12-05T15:22:18.000Z",
+  "checkedAt": null,
+  "id": 21181,
   "identifier": "7dda2eae-5fce-40fe-a366-be970b42d716",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 60503,
   "aniId": 89053,
-  "createdAt": "2020-10-12T16:12:31.000Z",
-  "updatedAt": "2021-12-05T15:22:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kinniku Tarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:55.000Z",
+    "updatedAt": "2022-04-12T20:01:04.000Z",
+    "checkedAt": null,
+    "id": 60503,
+    "type": "manga",
+    "title": "Smile Style",
+    "altTitle": [
+      "スマイル・スタイル"
+    ],
+    "url": "https://myanimelist.net/manga/60503/Smile_Style",
+    "image": "https://cdn.myanimelist.net/images/manga/3/117391.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スマイル・スタイル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kinniku☆Tarou"
-    ],
-    "id": 60503,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:33.170Z",
+    "updatedAt": "2022-05-13T13:03:33.170Z",
+    "checkedAt": null,
+    "id": 89053,
     "type": "manga",
     "title": "Smile Style",
-    "url": "https://myanimelist.net/manga/60503/Smile_Style",
-    "image": "https://cdn.myanimelist.net/images/manga/3/117391.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2022-04-12T20:01:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スマイル・スタイル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tarou Kinniku"
-    ],
-    "id": 89053,
-    "malId": 60503,
-    "type": "manga",
-    "title": "Smile Style",
     "url": "https://anilist.co/manga/89053",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89053-Utl32KxCETQh.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:39.000Z",
-    "updatedAt": "2021-12-17T23:52:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/60503/Smile_Style"
+    "externalLinks": [],
+    "malId": 60503,
+    "deletedAt": null,
+    "authors": [
+      "Tarou Kinniku"
+    ]
+  }
 }

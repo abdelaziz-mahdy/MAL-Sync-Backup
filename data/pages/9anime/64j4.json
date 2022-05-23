@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:40.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2936,
   "identifier": "64j4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 888,
   "aniId": 888,
-  "createdAt": "2020-10-12T15:50:40.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T21:17:29.000Z",
+    "checkedAt": "2022-05-14T21:17:29.000Z",
+    "id": 888,
+    "type": "anime",
+    "title": "Megami Kouhosei",
+    "altTitle": [
+      "Pilot Candidate",
+      "Candidate for Goddesses",
+      "女神候補生"
+    ],
+    "url": "https://myanimelist.net/anime/888/Megami_Kouhosei",
+    "image": "https://cdn.myanimelist.net/images/anime/11/75472.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,46 +56,32 @@
         "url": "http://www.crunchyroll.com/series-273787"
       }
     ],
-    "altTitle": [
-      "Candidate for Goddess",
-      "Pilot Candidate",
-      "女神候補生"
-    ],
+    "deletedAt": null,
+    "anidbId": 253
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T17:40:35.000Z",
+    "checkedAt": "2022-05-15T17:40:35.000Z",
     "id": 888,
     "type": "anime",
     "title": "Megami Kouhosei",
-    "url": "https://myanimelist.net/anime/888/Megami_Kouhosei",
-    "image": "https://cdn.myanimelist.net/images/anime/11/75472.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 253,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-03-30T18:03:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Pilot Candidate",
       "女神候補生",
       "The Candidate for Goddess"
     ],
+    "url": "https://anilist.co/anime/888",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx888-TJnm7jOD06P1.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/pilot-candidate"
       }
     ],
-    "id": 888,
     "malId": 888,
-    "type": "anime",
-    "title": "Megami Kouhosei",
-    "url": "https://anilist.co/anime/888",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx888-TJnm7jOD06P1.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:47.000Z",
-    "updatedAt": "2021-12-17T08:57:07.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/888/Megami_Kouhosei"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kanzaka Hajime",
-    "Asahi"
-  ],
+  "createdAt": "2020-10-12T16:05:22.000Z",
+  "updatedAt": "2021-12-03T12:17:28.000Z",
+  "checkedAt": null,
+  "id": 6245,
   "identifier": "94e58886-c425-408b-8114-8691cbdcb743",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13980,
   "aniId": 43980,
-  "createdAt": "2020-10-12T16:05:22.000Z",
-  "updatedAt": "2021-12-03T12:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanzaka Hajime",
+    "Asahi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:01.000Z",
+    "updatedAt": "2022-05-01T05:32:42.000Z",
+    "checkedAt": null,
+    "id": 13980,
+    "type": "manga",
+    "title": "Shin Slayers: Falces no Sunadokei",
+    "altTitle": [
+      "New Slayers: The Hourglass of Falces",
+      "新スレイヤーズ ファルシェスの砂時計"
+    ],
+    "url": "https://myanimelist.net/manga/13980/Shin_Slayers__Falces_no_Sunadokei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/20586.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "New Slayers: The Hourglass of Falces",
-      "新スレイヤーズ ファルシェスの砂時計"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanzaka, Hajime",
       "Asahi"
-    ],
-    "id": 13980,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:02.224Z",
+    "updatedAt": "2022-05-13T13:02:02.224Z",
+    "checkedAt": null,
+    "id": 43980,
     "type": "manga",
     "title": "Shin Slayers: Falces no Sunadokei",
-    "url": "https://myanimelist.net/manga/13980/Shin_Slayers__Falces_no_Sunadokei",
-    "image": "https://cdn.myanimelist.net/images/manga/2/20586.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:01.000Z",
-    "updatedAt": "2022-05-01T05:32:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "新スレイヤーズ ファルシェスの砂時計",
       "New Slayers: The Hourglass of Falces"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Kanzaka",
-      "Asahi"
-    ],
-    "id": 43980,
-    "malId": 13980,
-    "type": "manga",
-    "title": "Shin Slayers: Falces no Sunadokei",
     "url": "https://anilist.co/manga/43980",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13980.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:42.000Z",
-    "updatedAt": "2021-12-17T15:16:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/13980/Shin_Slayers__Falces_no_Sunadokei"
+    "externalLinks": [],
+    "malId": 13980,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Kanzaka",
+      "Asahi"
+    ]
+  }
 }

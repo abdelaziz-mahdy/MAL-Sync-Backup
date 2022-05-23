@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ORIMOTO Mimana"
-  ],
+  "createdAt": "2021-12-08T16:03:42.000Z",
+  "updatedAt": "2021-12-08T16:33:38.000Z",
+  "checkedAt": null,
+  "id": 92748,
   "identifier": "bakuon",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 31337,
   "aniId": 61337,
-  "createdAt": "2021-12-08T16:03:42.000Z",
-  "updatedAt": "2021-12-08T16:33:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "ORIMOTO Mimana"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:43.000Z",
+    "updatedAt": "2022-05-21T21:20:21.000Z",
+    "checkedAt": "2022-05-21T21:20:21.000Z",
+    "id": 31337,
+    "type": "manga",
+    "title": "Bakuon!!",
+    "altTitle": [
+      "ばくおん!!"
+    ],
+    "url": "https://myanimelist.net/manga/31337/Bakuon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/114503.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ばくおん!!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Orimoto, Mimana"
-    ],
-    "id": 31337,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:25.789Z",
+    "updatedAt": "2022-05-21T21:20:20.000Z",
+    "checkedAt": "2022-05-21T21:20:20.000Z",
+    "id": 61337,
     "type": "manga",
     "title": "Bakuon!!",
-    "url": "https://myanimelist.net/manga/31337/Bakuon",
-    "image": "https://cdn.myanimelist.net/images/manga/2/114503.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:43.000Z",
-    "updatedAt": "2022-03-30T02:31:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ばくおん！！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mimana Orimoto"
-    ],
-    "id": 61337,
-    "malId": 31337,
-    "type": "manga",
-    "title": "Bakuon!!",
     "url": "https://anilist.co/manga/61337",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61337-QlnNsoEoKGa6.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:46.000Z",
-    "updatedAt": "2021-12-17T19:20:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/31337/Bakuon"
+    "externalLinks": [],
+    "malId": 31337,
+    "deletedAt": null,
+    "authors": [
+      "Mimana Orimoto"
+    ]
+  }
 }

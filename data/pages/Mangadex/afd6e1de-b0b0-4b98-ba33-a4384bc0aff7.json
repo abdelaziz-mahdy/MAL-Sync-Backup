@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iijika Keita"
-  ],
+  "createdAt": "2020-10-12T16:13:59.000Z",
+  "updatedAt": "2021-12-06T01:48:21.000Z",
+  "checkedAt": null,
+  "id": 24005,
   "identifier": "afd6e1de-b0b0-4b98-ba33-a4384bc0aff7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115726,
   "aniId": 112500,
-  "createdAt": "2020-10-12T16:13:59.000Z",
-  "updatedAt": "2021-12-06T01:48:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iijika Keita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2022-05-15T23:18:16.000Z",
+    "checkedAt": "2022-05-15T23:18:16.000Z",
+    "id": 115726,
+    "type": "manga",
+    "title": "Akechi",
+    "altTitle": [
+      "AKECHI"
+    ],
+    "url": "https://myanimelist.net/manga/115726/Akechi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222898.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "AKECHI"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iizuka, Keita"
-    ],
-    "id": 115726,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:00.384Z",
+    "updatedAt": "2022-05-15T23:18:16.000Z",
+    "checkedAt": "2022-05-15T23:18:16.000Z",
+    "id": 112500,
     "type": "manga",
     "title": "Akechi",
-    "url": "https://myanimelist.net/manga/115726/Akechi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/222898.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2021-12-16T11:18:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "AKECHI"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keita Iizuka"
-    ],
-    "id": 112500,
-    "malId": 115726,
-    "type": "manga",
-    "title": "Akechi",
     "url": "https://anilist.co/manga/112500",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112500-QC7cCgDOQLxe.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-18T07:28:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115726/Akechi"
+    "externalLinks": [],
+    "malId": 115726,
+    "deletedAt": null,
+    "authors": [
+      "Keita Iizuka"
+    ]
+  }
 }

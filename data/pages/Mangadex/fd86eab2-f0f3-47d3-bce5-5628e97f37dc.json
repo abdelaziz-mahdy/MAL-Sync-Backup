@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tezuka Osamu"
-  ],
+  "createdAt": "2020-10-12T16:05:24.000Z",
+  "updatedAt": "2021-12-03T12:47:58.000Z",
+  "checkedAt": null,
+  "id": 6336,
   "identifier": "fd86eab2-f0f3-47d3-bce5-5628e97f37dc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1600,
   "aniId": 31600,
-  "createdAt": "2020-10-12T16:05:24.000Z",
-  "updatedAt": "2021-12-03T12:47:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tezuka Osamu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:35.000Z",
+    "updatedAt": "2022-05-15T17:42:12.000Z",
+    "checkedAt": "2022-05-15T17:42:12.000Z",
+    "id": 1600,
+    "type": "manga",
+    "title": "Black Jack",
+    "altTitle": [
+      "Black Jack",
+      "ブラック・ジャック"
+    ],
+    "url": "https://myanimelist.net/manga/1600/Black_Jack",
+    "image": "https://cdn.myanimelist.net/images/manga/2/170232.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,31 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Black Jack",
-      "ブラック・ジャック"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu"
-    ],
-    "id": 1600,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:37.903Z",
+    "updatedAt": "2022-05-15T20:18:11.000Z",
+    "checkedAt": "2022-05-15T20:18:11.000Z",
+    "id": 31600,
     "type": "manga",
     "title": "Black Jack",
-    "url": "https://myanimelist.net/manga/1600/Black_Jack",
-    "image": "https://cdn.myanimelist.net/images/manga/2/170232.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:35.000Z",
-    "updatedAt": "2022-03-01T02:51:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Black Jack",
       "ブラック・ジャック",
       "Burakku Jakku"
     ],
+    "url": "https://anilist.co/manga/31600",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31600-CCA5TUKJBQJh.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 1600,
+    "deletedAt": null,
     "authors": [
       "Osamu Tezuka",
       "Camellia Nieh",
@@ -68,18 +83,6 @@
       "Mitsutoshi Furuya",
       "Buichi Terasawa",
       "Mitsuru Miura"
-    ],
-    "id": 31600,
-    "malId": 1600,
-    "type": "manga",
-    "title": "Black Jack",
-    "url": "https://anilist.co/manga/31600",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31600-CCA5TUKJBQJh.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:47.000Z",
-    "updatedAt": "2022-02-11T06:10:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1600/Black_Jack"
+    ]
+  }
 }

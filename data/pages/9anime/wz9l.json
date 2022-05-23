@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:20.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10009,
   "identifier": "wz9l",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 722,
   "aniId": 722,
-  "createdAt": "2020-10-12T15:56:20.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T22:33:41.000Z",
+    "checkedAt": "2022-05-14T22:33:41.000Z",
+    "id": 722,
+    "type": "anime",
+    "title": "Baby☆Love",
+    "altTitle": [
+      "ベイビィ☆LOVE"
+    ],
+    "url": "https://myanimelist.net/anime/722/Baby☆Love",
+    "image": "https://cdn.myanimelist.net/images/anime/13/10176.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,37 +49,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ベイビィ☆LOVE"
-    ],
+    "deletedAt": null,
+    "anidbId": 2005
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T21:57:35.000Z",
+    "checkedAt": "2022-05-15T21:57:35.000Z",
     "id": 722,
     "type": "anime",
-    "title": "Baby☆Love",
-    "url": "https://myanimelist.net/anime/722/Baby☆Love",
-    "image": "https://cdn.myanimelist.net/images/anime/13/10176.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 2005,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-03-30T17:00:19.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Baby★LOVE",
     "altTitle": [
       "ベイビィ★LOVE"
     ],
-    "externalLinks": [],
-    "id": 722,
-    "malId": 722,
-    "type": "anime",
-    "title": "Baby★LOVE",
     "url": "https://anilist.co/anime/722",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/722.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:43.000Z",
-    "updatedAt": "2021-12-17T08:53:37.000Z",
+    "externalLinks": [],
+    "malId": 722,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/722/Baby☆Love"
+  }
 }

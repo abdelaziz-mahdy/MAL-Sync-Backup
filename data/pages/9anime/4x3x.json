@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:14.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2421,
   "identifier": "4x3x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32555,
   "aniId": 21597,
-  "createdAt": "2020-10-12T15:50:14.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T20:45:11.000Z",
+    "checkedAt": "2022-05-14T20:45:11.000Z",
+    "id": 32555,
+    "type": "anime",
+    "title": "Stella no Mahou",
+    "altTitle": [
+      "Magic of Stella",
+      "ステラのまほう"
+    ],
+    "url": "https://myanimelist.net/anime/32555/Stella_no_Mahou",
+    "image": "https://cdn.myanimelist.net/images/anime/3/81471.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,27 +55,24 @@
         "url": "https://www.hidive.com/tv/magic-of-stella"
       }
     ],
-    "altTitle": [
-      "Magic of Stella",
-      "ステラのまほう"
-    ],
-    "id": 32555,
+    "deletedAt": null,
+    "anidbId": 11883
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:02.000Z",
+    "updatedAt": "2022-05-15T14:51:47.000Z",
+    "checkedAt": "2022-05-15T14:51:47.000Z",
+    "id": 21597,
     "type": "anime",
     "title": "Stella no Mahou",
-    "url": "https://myanimelist.net/anime/32555/Stella_no_Mahou",
-    "image": "https://cdn.myanimelist.net/images/anime/3/81471.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11883,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-03-15T11:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magic of Stella",
       "ステラのまほう"
     ],
+    "url": "https://anilist.co/anime/21597",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21597-iq3QienfwebA.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/GY4PMGXJ6/Magic-of-Stella"
       }
     ],
-    "id": 21597,
     "malId": 32555,
-    "type": "anime",
-    "title": "Stella no Mahou",
-    "url": "https://anilist.co/anime/21597",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21597-iq3QienfwebA.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:02.000Z",
-    "updatedAt": "2022-01-08T23:18:57.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32555/Stella_no_Mahou"
+  }
 }

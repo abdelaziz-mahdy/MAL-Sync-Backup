@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kawahara Reki",
-    "Kiya Shii"
-  ],
+  "createdAt": "2020-10-12T16:08:15.000Z",
+  "updatedAt": "2021-12-04T08:49:07.000Z",
+  "checkedAt": null,
+  "id": 12371,
   "identifier": "f1a177da-99e0-48df-8cdf-5d676803c234",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75103,
   "aniId": 92130,
-  "createdAt": "2020-10-12T16:08:15.000Z",
-  "updatedAt": "2021-12-04T08:49:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kawahara Reki",
+    "Kiya Shii"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2022-05-22T12:29:25.000Z",
+    "checkedAt": "2022-05-22T12:29:25.000Z",
+    "id": 75103,
+    "type": "manga",
+    "title": "Sword Art Online: Calibur",
+    "altTitle": [
+      "Sword Art Online: Calibur",
+      "ソードアート・オンライン キャリバー"
+    ],
+    "url": "https://myanimelist.net/manga/75103/Sword_Art_Online__Calibur",
+    "image": "https://cdn.myanimelist.net/images/manga/2/162192.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sword Art Online: Calibur",
-      "ソードアート・オンライン キャリバー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kiya, Shii",
       "Kawahara, Reki"
-    ],
-    "id": 75103,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:00.488Z",
+    "updatedAt": "2022-05-22T12:29:23.000Z",
+    "checkedAt": "2022-05-22T12:29:23.000Z",
+    "id": 92130,
     "type": "manga",
     "title": "Sword Art Online: Calibur",
-    "url": "https://myanimelist.net/manga/75103/Sword_Art_Online__Calibur",
-    "image": "https://cdn.myanimelist.net/images/manga/2/162192.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2021-12-14T11:18:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sword Art Online: Calibur",
       "ソードアート・オンライン キャリバー",
       "SAO",
       "Sword Art Online: Caliber"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Reki Kawahara",
-      "Shii Kiya"
-    ],
-    "id": 92130,
-    "malId": 75103,
-    "type": "manga",
-    "title": "Sword Art Online: Calibur",
     "url": "https://anilist.co/manga/92130",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx92130-ovooPu5OHRhq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:44.000Z",
-    "updatedAt": "2022-01-22T22:00:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/75103/Sword_Art_Online__Calibur"
+    "externalLinks": [],
+    "malId": 75103,
+    "deletedAt": null,
+    "authors": [
+      "Reki Kawahara",
+      "Shii Kiya"
+    ]
+  }
 }

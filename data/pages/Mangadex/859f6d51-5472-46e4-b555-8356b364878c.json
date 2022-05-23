@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katsura Masakazu"
-  ],
+  "createdAt": "2020-10-12T16:05:28.000Z",
+  "updatedAt": "2021-12-03T13:17:18.000Z",
+  "checkedAt": null,
+  "id": 6465,
   "identifier": "859f6d51-5472-46e4-b555-8356b364878c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 27203,
   "aniId": 57203,
-  "createdAt": "2020-10-12T16:05:28.000Z",
-  "updatedAt": "2021-12-03T13:17:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katsura Masakazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:27.000Z",
+    "updatedAt": "2021-11-04T13:04:21.000Z",
+    "checkedAt": null,
+    "id": 27203,
+    "type": "manga",
+    "title": "Tiger & Bunny",
+    "altTitle": [
+      "Tiger and Bunny",
+      "Taibani",
+      "タイガー・アンド・バニー"
+    ],
+    "url": "https://myanimelist.net/manga/27203/Tiger___Bunny",
+    "image": "https://cdn.myanimelist.net/images/manga/5/44187.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tiger and Bunny",
-      "Taibani",
-      "タイガー・アンド・バニー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katsura, Masakazu",
       "Nishida, Masafumi"
-    ],
-    "id": 27203,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:55.767Z",
+    "updatedAt": "2022-05-13T12:53:55.767Z",
+    "checkedAt": null,
+    "id": 57203,
     "type": "manga",
     "title": "Tiger & Bunny",
-    "url": "https://myanimelist.net/manga/27203/Tiger___Bunny",
-    "image": "https://cdn.myanimelist.net/images/manga/5/44187.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:27.000Z",
-    "updatedAt": "2021-11-04T13:04:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "タイガー・アンド・バニー",
       "Tiger and Bunny",
       "Taibani"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masakazu Katsura",
-      "Masafumi Nishida"
-    ],
-    "id": 57203,
-    "malId": 27203,
-    "type": "manga",
-    "title": "Tiger & Bunny",
     "url": "https://anilist.co/manga/57203",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27203.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:26.000Z",
-    "updatedAt": "2021-12-17T18:54:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/27203/Tiger___Bunny"
+    "externalLinks": [],
+    "malId": 27203,
+    "deletedAt": null,
+    "authors": [
+      "Masakazu Katsura",
+      "Masafumi Nishida"
+    ]
+  }
 }

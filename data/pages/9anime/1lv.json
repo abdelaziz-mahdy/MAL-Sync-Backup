@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:13.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1002,
   "identifier": "1lv",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 13125,
   "aniId": 13125,
-  "createdAt": "2020-10-12T15:49:13.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:12.000Z",
+    "updatedAt": "2022-05-14T16:20:32.000Z",
+    "checkedAt": "2022-05-14T16:20:32.000Z",
+    "id": 13125,
+    "type": "anime",
+    "title": "Shinsekai yori",
+    "altTitle": [
+      "Shin Sekai Yori",
+      "From the New World",
+      "新世界より"
+    ],
+    "url": "https://myanimelist.net/anime/13125/Shinsekai_yori",
+    "image": "https://cdn.myanimelist.net/images/anime/12/36775.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -47,29 +64,25 @@
         "url": "https://shahid.mbc.net/en/series/From-The-New-World/series-910726"
       }
     ],
-    "altTitle": [
-      "Shin Sekai yori",
-      "From the New World",
-      "新世界より"
-    ],
+    "deletedAt": null,
+    "anidbId": 9002
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:13.000Z",
+    "updatedAt": "2022-05-15T09:37:35.000Z",
+    "checkedAt": "2022-05-15T09:37:35.000Z",
     "id": 13125,
     "type": "anime",
     "title": "Shinsekai yori",
-    "url": "https://myanimelist.net/anime/13125/Shinsekai_yori",
-    "image": "https://cdn.myanimelist.net/images/anime/12/36775.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 9002,
-    "createdAt": "2020-10-12T15:39:12.000Z",
-    "updatedAt": "2022-04-05T04:01:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "From the New World",
       "新世界より",
       "Shin Sekai Yori"
     ],
+    "url": "https://anilist.co/anime/13125",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -84,17 +97,7 @@
         "url": "https://vrv.co/series/GR2P51V8R/Shin-Sekai-Yori-From-the-New-World"
       }
     ],
-    "id": 13125,
     "malId": 13125,
-    "type": "anime",
-    "title": "Shinsekai yori",
-    "url": "https://anilist.co/anime/13125",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:40:13.000Z",
-    "updatedAt": "2021-12-17T13:30:13.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/13125/Shinsekai_yori"
+  }
 }

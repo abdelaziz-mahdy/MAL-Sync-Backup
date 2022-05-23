@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Higuchi Daisuke"
-  ],
+  "createdAt": "2022-04-23T23:32:33.000Z",
+  "updatedAt": "2022-04-24T00:00:25.000Z",
+  "checkedAt": null,
+  "id": 102041,
   "identifier": "manga-hc957259",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 52,
   "aniId": 30052,
-  "createdAt": "2022-04-23T23:32:33.000Z",
-  "updatedAt": "2022-04-24T00:00:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higuchi Daisuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-04-09T14:31:16.000Z",
+    "checkedAt": null,
+    "id": 52,
+    "type": "manga",
+    "title": "Whistle!",
+    "altTitle": [
+      "Whistle!",
+      "ホイッスル!"
+    ],
+    "url": "https://myanimelist.net/manga/52/Whistle",
+    "image": "https://cdn.myanimelist.net/images/manga/3/160208.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,30 +41,29 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Whistle!",
-      "ホイッスル!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Higuchi, Daisuke"
-    ],
-    "id": 52,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:33.692Z",
+    "updatedAt": "2022-05-13T12:52:33.692Z",
+    "checkedAt": null,
+    "id": 30052,
     "type": "manga",
     "title": "Whistle!",
-    "url": "https://myanimelist.net/manga/52/Whistle",
-    "image": "https://cdn.myanimelist.net/images/manga/3/160208.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-09T14:31:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Whistle!",
       "ホイッスル！"
     ],
+    "url": "https://anilist.co/manga/30052",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30052-PY5fSW77alKP.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 52,
+    "deletedAt": null,
     "authors": [
       "Daisuke Higuchi",
       "Kazue Katou",
@@ -58,18 +73,6 @@
       "Takanobu Toda",
       "Hideki Yoda",
       "Emi Goroumaru"
-    ],
-    "id": 30052,
-    "malId": 52,
-    "type": "manga",
-    "title": "Whistle!",
-    "url": "https://anilist.co/manga/30052",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30052-PY5fSW77alKP.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/52/Whistle"
+    ]
+  }
 }

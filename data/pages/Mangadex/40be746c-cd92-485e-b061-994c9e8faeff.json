@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watanabe Usoumi"
-  ],
+  "createdAt": "2020-10-12T16:12:27.000Z",
+  "updatedAt": "2021-12-05T14:53:46.000Z",
+  "checkedAt": null,
+  "id": 21087,
   "identifier": "40be746c-cd92-485e-b061-994c9e8faeff",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111858,
   "aniId": 101136,
-  "createdAt": "2020-10-12T16:12:27.000Z",
-  "updatedAt": "2021-12-05T14:53:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watanabe Usoumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2021-11-21T06:12:59.000Z",
+    "checkedAt": null,
+    "id": 111858,
+    "type": "manga",
+    "title": "Eden no Otome",
+    "altTitle": [
+      "Eden no Shojo",
+      "エデンの処女〈おとめ〉"
+    ],
+    "url": "https://myanimelist.net/manga/111858/Eden_no_Otome",
+    "image": "https://cdn.myanimelist.net/images/manga/1/223276.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eden no Shojo",
-      "エデンの処女〈おとめ〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Usoumi"
-    ],
-    "id": 111858,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:21.949Z",
+    "updatedAt": "2022-05-13T12:42:21.949Z",
+    "checkedAt": null,
+    "id": 101136,
     "type": "manga",
     "title": "Eden no Otome",
-    "url": "https://myanimelist.net/manga/111858/Eden_no_Otome",
-    "image": "https://cdn.myanimelist.net/images/manga/1/223276.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2021-11-21T06:12:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エデンの処女",
       "Die Jungfrau im Garten Eden",
       "Eden no Shojo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Usoumi Watanabe"
-    ],
-    "id": 101136,
-    "malId": 111858,
-    "type": "manga",
-    "title": "Eden no Otome",
     "url": "https://anilist.co/manga/101136",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101136-eyMCIVS7LpV5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2021-12-18T03:49:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111858/Eden_no_Otome"
+    "externalLinks": [],
+    "malId": 111858,
+    "deletedAt": null,
+    "authors": [
+      "Usoumi Watanabe"
+    ]
+  }
 }

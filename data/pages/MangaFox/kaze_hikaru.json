@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "WATANABE Taeko"
-  ],
+  "createdAt": "2021-10-06T18:33:22.000Z",
+  "updatedAt": "2022-04-06T19:30:22.000Z",
+  "checkedAt": null,
+  "id": 88121,
   "identifier": "kaze_hikaru",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1072,
   "aniId": 31072,
-  "createdAt": "2021-10-06T18:33:22.000Z",
-  "updatedAt": "2022-04-06T19:30:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "WATANABE Taeko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-21T08:08:08.000Z",
+    "checkedAt": "2022-05-21T08:08:08.000Z",
+    "id": 1072,
+    "type": "manga",
+    "title": "Kaze Hikaru",
+    "altTitle": [
+      "The Wind Shines",
+      "Kaze Hikaru",
+      "風光る"
+    ],
+    "url": "https://myanimelist.net/manga/1072/Kaze_Hikaru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/251088.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Wind Shines",
-      "Kaze Hikaru",
-      "風光る"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Taeko"
-    ],
-    "id": 1072,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:12.214Z",
+    "updatedAt": "2022-05-21T08:08:07.000Z",
+    "checkedAt": "2022-05-21T08:08:07.000Z",
+    "id": 31072,
     "type": "manga",
     "title": "Kaze Hikaru",
-    "url": "https://myanimelist.net/manga/1072/Kaze_Hikaru",
-    "image": "https://cdn.myanimelist.net/images/manga/2/251088.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-04-06T19:00:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kaze Hikaru",
       "風光る",
@@ -52,21 +61,15 @@
       "かぜひかる",
       "El Viento Resplandeciente"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Taeko Watanabe"
-    ],
-    "id": 31072,
-    "malId": 1072,
-    "type": "manga",
-    "title": "Kaze Hikaru",
     "url": "https://anilist.co/manga/31072",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31072-XaRu2fNFcuOP.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2022-03-30T07:00:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1072/Kaze_Hikaru"
+    "externalLinks": [],
+    "malId": 1072,
+    "deletedAt": null,
+    "authors": [
+      "Taeko Watanabe"
+    ]
+  }
 }

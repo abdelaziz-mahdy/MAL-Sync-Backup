@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kim Carnby"
-  ],
+  "createdAt": "2021-07-01T09:50:22.000Z",
+  "updatedAt": "2021-12-31T11:54:00.000Z",
+  "checkedAt": null,
+  "id": 80609,
   "identifier": "manga-co979923",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 124845,
   "aniId": 100954,
-  "createdAt": "2021-07-01T09:50:22.000Z",
-  "updatedAt": "2021-12-31T11:54:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kim Carnby"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:15.000Z",
+    "updatedAt": "2022-05-14T23:35:10.000Z",
+    "checkedAt": "2022-05-14T23:35:10.000Z",
+    "id": 124845,
+    "type": "manga",
+    "title": "Sweet Home",
+    "altTitle": [
+      "Sweet Home",
+      "스위트 홈"
+    ],
+    "url": "https://myanimelist.net/manga/124845/Sweet_Home",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,47 +45,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sweet Home",
-      "스위트 홈"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Carnby",
       "Hwang, Young-chan"
-    ],
-    "id": 124845,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:26.002Z",
+    "updatedAt": "2022-05-15T21:44:35.000Z",
+    "checkedAt": "2022-05-15T21:44:35.000Z",
+    "id": 100954,
     "type": "manga",
     "title": "Sweet Home",
-    "url": "https://myanimelist.net/manga/124845/Sweet_Home",
-    "image": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:15.000Z",
-    "updatedAt": "2022-03-21T09:02:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sweet Home",
       "스위트홈",
       "Dulce Hogar"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Carnby Kim",
-      "Yeong-chan Hwang"
-    ],
-    "id": 100954,
-    "malId": 124845,
-    "type": "manga",
-    "title": "Sweet Home",
     "url": "https://anilist.co/manga/100954",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100954-xY0Vw2sRRo8t.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:08.000Z",
-    "updatedAt": "2022-03-06T09:29:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/124845/Sweet_Home"
+    "externalLinks": [],
+    "malId": 124845,
+    "deletedAt": null,
+    "authors": [
+      "Carnby Kim",
+      "Yeong-chan Hwang"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suetsugu Yuki"
-  ],
+  "createdAt": "2020-10-12T16:05:03.000Z",
+  "updatedAt": "2021-12-03T10:17:19.000Z",
+  "checkedAt": null,
+  "id": 5590,
   "identifier": "b8a8d4e2-421e-4c4b-bc26-160340a5e2fb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 308,
   "aniId": 30308,
-  "createdAt": "2020-10-12T16:05:03.000Z",
-  "updatedAt": "2021-12-03T10:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suetsugu Yuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-14T10:11:52.000Z",
+    "checkedAt": "2022-05-14T10:11:52.000Z",
+    "id": 308,
+    "type": "manga",
+    "title": "Eden no Hana",
+    "altTitle": [
+      "Eden's Flower",
+      "Flower of Eden",
+      "Flower of Eden",
+      "エデンの花"
+    ],
+    "url": "https://myanimelist.net/manga/308/Eden_no_Hana",
+    "image": "https://cdn.myanimelist.net/images/manga/3/40434.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eden's Flower",
-      "Flower of Eden",
-      "Flower of Eden",
-      "エデンの花"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suetsugu, Yuki"
-    ],
-    "id": 308,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:33.742Z",
+    "updatedAt": "2022-05-16T04:13:52.000Z",
+    "checkedAt": "2022-05-16T04:13:52.000Z",
+    "id": 30308,
     "type": "manga",
     "title": "Eden no Hana",
-    "url": "https://myanimelist.net/manga/308/Eden_no_Hana",
-    "image": "https://cdn.myanimelist.net/images/manga/3/40434.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-26T04:00:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エデンの花",
       "Eden's Flower",
       "Flower of Eden"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Suetsugu"
-    ],
-    "id": 30308,
-    "malId": 308,
-    "type": "manga",
-    "title": "Eden no Hana",
     "url": "https://anilist.co/manga/30308",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30308-Nn80L2UQiRa9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/308/Eden_no_Hana"
+    "externalLinks": [],
+    "malId": 308,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Suetsugu"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Elie Choi"
-  ],
+  "createdAt": "2020-10-12T16:15:36.000Z",
+  "updatedAt": "2021-12-06T15:17:34.000Z",
+  "checkedAt": null,
+  "id": 27353,
   "identifier": "4600b0c2-e47b-4157-8338-530a90a2be0f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25297,
   "aniId": 55297,
-  "createdAt": "2020-10-12T16:15:36.000Z",
-  "updatedAt": "2021-12-06T15:17:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Elie Choi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:17.000Z",
+    "updatedAt": "2022-05-13T21:30:48.000Z",
+    "checkedAt": "2022-05-13T21:30:48.000Z",
+    "id": 25297,
+    "type": "manga",
+    "title": "Prison School",
+    "altTitle": [
+      "Kangoku Gakuen",
+      "Prison School",
+      "監獄学園〈プリズンスクール〉"
+    ],
+    "url": "https://myanimelist.net/manga/25297/Prison_School",
+    "image": "https://cdn.myanimelist.net/images/manga/1/204850.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,33 +46,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kangoku Gakuen",
-      "Prison School",
-      "監獄学園〈プリズンスクール〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hiramoto, Akira"
-    ],
-    "id": 25297,
-    "type": "manga",
-    "title": "Prison School",
-    "url": "https://myanimelist.net/manga/25297/Prison_School",
-    "image": "https://cdn.myanimelist.net/images/manga/1/204850.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:17.000Z",
-    "updatedAt": "2022-04-21T11:02:25.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:27.120Z",
+    "updatedAt": "2022-05-15T16:05:11.000Z",
+    "checkedAt": "2022-05-15T16:05:11.000Z",
+    "id": 55297,
+    "type": "manga",
+    "title": "Kangoku Gakuen",
     "altTitle": [
       "Prison School",
       "監獄学園",
       "감옥학원",
       "โรงเรียนคุกนรก"
     ],
+    "url": "https://anilist.co/manga/55297",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55297-4gAl9TLpkhfX.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 25297,
+    "deletedAt": null,
     "authors": [
       "Akira Hiramoto",
       "Ko Ransom",
@@ -63,18 +78,6 @@
       "Anthony Quintessenza",
       "Alexis Eckerman",
       "Florent Gorges"
-    ],
-    "id": 55297,
-    "malId": 25297,
-    "type": "manga",
-    "title": "Kangoku Gakuen",
-    "url": "https://anilist.co/manga/55297",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55297-4gAl9TLpkhfX.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:53.000Z",
-    "updatedAt": "2022-01-25T03:30:12.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25297/Prison_School"
+    ]
+  }
 }

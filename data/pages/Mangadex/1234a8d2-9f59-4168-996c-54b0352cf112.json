@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Namori"
-  ],
+  "createdAt": "2021-01-17T00:33:47.000Z",
+  "updatedAt": "2021-12-08T10:10:10.000Z",
+  "checkedAt": null,
+  "id": 58844,
   "identifier": "1234a8d2-9f59-4168-996c-54b0352cf112",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11593,
   "aniId": 41593,
-  "createdAt": "2021-01-17T00:33:47.000Z",
-  "updatedAt": "2021-12-08T10:10:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Namori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:34.000Z",
+    "updatedAt": "2022-05-15T13:31:38.000Z",
+    "checkedAt": "2022-05-15T13:31:38.000Z",
+    "id": 11593,
+    "type": "manga",
+    "title": "Yuru Yuri",
+    "altTitle": [
+      "Yuruyuri",
+      "Yuru Yuri",
+      "ゆるゆり"
+    ],
+    "url": "https://myanimelist.net/manga/11593/Yuru_Yuri",
+    "image": "https://cdn.myanimelist.net/images/manga/1/53997.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,48 +46,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yuruyuri",
-      "Yuru Yuri",
-      "ゆるゆり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Namori"
-    ],
-    "id": 11593,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:28.242Z",
+    "updatedAt": "2022-05-15T17:45:35.000Z",
+    "checkedAt": "2022-05-15T17:45:35.000Z",
+    "id": 41593,
     "type": "manga",
     "title": "Yuru Yuri",
-    "url": "https://myanimelist.net/manga/11593/Yuru_Yuri",
-    "image": "https://cdn.myanimelist.net/images/manga/1/53997.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:34.000Z",
-    "updatedAt": "2022-04-24T20:31:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yuru Yuri",
       "ゆるゆり",
       "Yuruyuri"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Namori",
-      "Carlo Vanstiphout",
-      "Elina Ishikawa"
-    ],
-    "id": 41593,
-    "malId": 11593,
-    "type": "manga",
-    "title": "Yuru Yuri",
     "url": "https://anilist.co/manga/41593",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41593-F0bPs2QLOuzL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:11.000Z",
-    "updatedAt": "2021-12-17T14:17:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11593/Yuru_Yuri"
+    "externalLinks": [],
+    "malId": 11593,
+    "deletedAt": null,
+    "authors": [
+      "Namori",
+      "Carlo Vanstiphout",
+      "Elina Ishikawa"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:13.000Z",
+  "updatedAt": "2022-02-21T01:46:50.000Z",
+  "checkedAt": null,
+  "id": 986,
   "identifier": "1l0x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 24637,
   "aniId": 145503,
-  "createdAt": "2020-10-12T15:49:13.000Z",
-  "updatedAt": "2022-02-21T01:46:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:28.000Z",
+    "updatedAt": "2022-05-13T23:53:14.000Z",
+    "checkedAt": "2022-05-13T23:53:14.000Z",
+    "id": 24637,
+    "type": "anime",
+    "title": "G-On Riders Special",
+    "altTitle": [
+      "G-On Riders OVA",
+      "Andro White Paper",
+      "G-On Riders Episode 14",
+      "G-on らいだーす"
+    ],
+    "url": "https://myanimelist.net/anime/24637/G-On_Riders_Special",
+    "image": "https://cdn.myanimelist.net/images/anime/2/63413.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,42 +48,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "G-On Riders OVA",
-      "Andro White Paper",
-      "G-On Riders Episode 14",
-      "G-on らいだーす"
-    ],
-    "id": 24637,
-    "type": "anime",
-    "title": "G-On Riders Special",
-    "url": "https://myanimelist.net/anime/24637/G-On_Riders_Special",
-    "image": "https://cdn.myanimelist.net/images/anime/2/63413.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 480,
-    "createdAt": "2020-10-12T15:39:28.000Z",
-    "updatedAt": "2022-04-02T23:01:11.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 480
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-02-21T01:16:51.000Z",
+    "updatedAt": "2022-05-15T21:51:47.000Z",
+    "checkedAt": "2022-05-15T21:51:47.000Z",
+    "id": 145503,
+    "type": "anime",
+    "title": "G-on Riders: Andro Hakusho",
     "altTitle": [
       "G-onらいだーす アンドロ白書",
       "G-on Riders OVA",
       "G-on Riders Special"
     ],
-    "externalLinks": [],
-    "id": 145503,
-    "malId": 24637,
-    "type": "anime",
-    "title": "G-on Riders: Andro Hakusho",
     "url": "https://anilist.co/anime/145503",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2022-02-21T01:16:51.000Z",
-    "updatedAt": "2022-02-21T01:46:51.000Z",
+    "externalLinks": [],
+    "malId": 24637,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/24637/G-On_Riders_Special"
+  }
 }

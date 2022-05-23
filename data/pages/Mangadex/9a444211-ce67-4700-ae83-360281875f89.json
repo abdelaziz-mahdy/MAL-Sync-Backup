@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yuki Nojin"
-  ],
+  "createdAt": "2020-10-12T16:08:23.000Z",
+  "updatedAt": "2021-12-04T10:19:48.000Z",
+  "checkedAt": null,
+  "id": 12696,
   "identifier": "9a444211-ce67-4700-ae83-360281875f89",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 87067,
   "aniId": 98174,
-  "createdAt": "2020-10-12T16:08:23.000Z",
-  "updatedAt": "2021-12-04T10:19:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yuki Nojin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:54.000Z",
+    "updatedAt": "2022-05-15T23:12:24.000Z",
+    "checkedAt": "2022-05-15T23:12:24.000Z",
+    "id": 87067,
+    "type": "manga",
+    "title": "Aoyama Tsukiko desu!",
+    "altTitle": [
+      "I am Aoyama tsukiko!",
+      "青山月子です!"
+    ],
+    "url": "https://myanimelist.net/manga/87067/Aoyama_Tsukiko_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/163931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I am Aoyama tsukiko!",
-      "青山月子です!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yuki, Nojin"
-    ],
-    "id": 87067,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:53.434Z",
+    "updatedAt": "2022-05-15T23:12:23.000Z",
+    "checkedAt": "2022-05-15T23:12:23.000Z",
+    "id": 98174,
     "type": "manga",
     "title": "Aoyama Tsukiko desu!",
-    "url": "https://myanimelist.net/manga/87067/Aoyama_Tsukiko_desu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/163931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:54.000Z",
-    "updatedAt": "2022-01-31T20:51:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "青山月子です!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nojin Yuki"
-    ],
-    "id": 98174,
-    "malId": 87067,
-    "type": "manga",
-    "title": "Aoyama Tsukiko desu!",
     "url": "https://anilist.co/manga/98174",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98174-eIHNb9K0GvMT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:47.000Z",
-    "updatedAt": "2021-12-18T02:23:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/87067/Aoyama_Tsukiko_desu"
+    "externalLinks": [],
+    "malId": 87067,
+    "deletedAt": null,
+    "authors": [
+      "Nojin Yuki"
+    ]
+  }
 }

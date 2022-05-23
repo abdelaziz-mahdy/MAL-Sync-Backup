@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Okura",
-    "Hashii Koma"
-  ],
+  "createdAt": "2020-10-12T16:13:26.000Z",
+  "updatedAt": "2021-12-05T22:48:39.000Z",
+  "checkedAt": null,
+  "id": 22875,
   "identifier": "2e5d5d75-bfd6-4e1d-9abd-db039f88520a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104004,
   "aniId": 103035,
-  "createdAt": "2020-10-12T16:13:26.000Z",
-  "updatedAt": "2021-12-05T22:48:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okura",
+    "Hashii Koma"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:56.000Z",
+    "updatedAt": "2022-05-14T18:48:17.000Z",
+    "checkedAt": "2022-05-14T18:48:17.000Z",
+    "id": 104004,
+    "type": "manga",
+    "title": "Sorairo Flutter",
+    "altTitle": [
+      "That Blue Sky Feeling",
+      "そらいろフラッター"
+    ],
+    "url": "https://myanimelist.net/manga/104004/Sorairo_Flutter",
+    "image": "https://cdn.myanimelist.net/images/manga/3/198401.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,53 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "That Blue Sky Feeling",
-      "そらいろフラッター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hashii, Koma",
       "Okura"
-    ],
-    "id": 104004,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.443Z",
+    "updatedAt": "2022-05-20T20:13:35.000Z",
+    "checkedAt": "2022-05-20T20:13:35.000Z",
+    "id": 103035,
     "type": "manga",
     "title": "Sorairo Flutter",
-    "url": "https://myanimelist.net/manga/104004/Sorairo_Flutter",
-    "image": "https://cdn.myanimelist.net/images/manga/3/198401.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2022-04-11T17:07:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "That Blue Sky Feeling",
       "そらいろフラッター",
       "Comme sur un Nuage"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/that-blue-sky-feeling"
-      }
-    ],
-    "authors": [
-      "Okura",
-      "Koma Hashii",
-      "Jordan Sinnes"
-    ],
-    "id": 103035,
-    "malId": 104004,
-    "type": "manga",
-    "title": "Sorairo Flutter",
     "url": "https://anilist.co/manga/103035",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103035-jUAr8gCIpSsZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-26T15:38:19.000Z",
-    "updatedAt": "2021-12-18T04:25:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104004/Sorairo_Flutter"
+    "externalLinks": [],
+    "malId": 104004,
+    "deletedAt": null,
+    "authors": [
+      "Okura",
+      "Koma Hashii",
+      "Jordan Sinnes"
+    ]
+  }
 }

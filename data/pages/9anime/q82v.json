@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:05.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8349,
   "identifier": "q82v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 115,
   "aniId": 115,
-  "createdAt": "2020-10-12T15:55:05.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T09:35:00.000Z",
+    "checkedAt": "2022-05-14T09:35:00.000Z",
+    "id": 115,
+    "type": "anime",
+    "title": "El Hazard: The Alternative World",
+    "altTitle": [
+      "Ijigen no Sekai El Hazard",
+      "Ijigen no Sekai El-Hazard",
+      "異次元の世界エルハザード"
+    ],
+    "url": "https://myanimelist.net/anime/115/El_Hazard__The_Alternative_World",
+    "image": "https://cdn.myanimelist.net/images/anime/3/61047.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +51,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ijigen no Sekai El Hazard",
-      "Ijigen no Sekai El-Hazard",
-      "異次元の世界エルハザード"
-    ],
+    "deletedAt": null,
+    "anidbId": 207
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T15:17:11.000Z",
+    "checkedAt": "2022-05-15T15:17:11.000Z",
     "id": 115,
     "type": "anime",
-    "title": "El Hazard: The Alternative World",
-    "url": "https://myanimelist.net/anime/115/El_Hazard__The_Alternative_World",
-    "image": "https://cdn.myanimelist.net/images/anime/3/61047.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 207,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-05-02T16:31:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Ijigen no Sekai El Hazard",
     "altTitle": [
       "El Hazard: The Alternative World",
       "異次元の世界エルハザード",
       "Ijigen no Sekai El-Hazard"
     ],
-    "externalLinks": [],
-    "id": 115,
-    "malId": 115,
-    "type": "anime",
-    "title": "Ijigen no Sekai El Hazard",
     "url": "https://anilist.co/anime/115",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115-tHn79Q8ITmBN.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:26.000Z",
-    "updatedAt": "2022-04-29T01:00:22.000Z",
+    "externalLinks": [],
+    "malId": 115,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/115/El_Hazard__The_Alternative_World"
+  }
 }

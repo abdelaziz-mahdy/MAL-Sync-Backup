@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katsura Masakazu"
-  ],
+  "createdAt": "2020-10-12T16:02:52.000Z",
+  "updatedAt": "2021-12-02T10:18:17.000Z",
+  "checkedAt": null,
+  "id": 1025,
   "identifier": "dd3f5e4f-0018-4fba-abe6-daca5a784d3a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1534,
   "aniId": 31534,
-  "createdAt": "2020-10-12T16:02:52.000Z",
-  "updatedAt": "2021-12-02T10:18:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katsura Masakazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:34.000Z",
+    "updatedAt": "2022-05-15T02:47:37.000Z",
+    "checkedAt": "2022-05-15T02:47:37.000Z",
+    "id": 1534,
+    "type": "manga",
+    "title": "Zetman",
+    "altTitle": [
+      "ZETMAN"
+    ],
+    "url": "https://myanimelist.net/manga/1534/Zetman",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188924.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ZETMAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katsura, Masakazu"
-    ],
-    "id": 1534,
-    "type": "manga",
-    "title": "Zetman",
-    "url": "https://myanimelist.net/manga/1534/Zetman",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188924.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:34.000Z",
-    "updatedAt": "2022-03-20T12:50:02.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:16.216Z",
+    "updatedAt": "2022-05-15T14:51:24.000Z",
+    "checkedAt": "2022-05-15T14:51:24.000Z",
+    "id": 31534,
+    "type": "manga",
+    "title": "ZETMAN",
     "altTitle": [
       "ZETMAN-ゼットマン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masakazu Katsura",
-      "Karen Hayashida"
-    ],
-    "id": 31534,
-    "malId": 1534,
-    "type": "manga",
-    "title": "ZETMAN",
     "url": "https://anilist.co/manga/31534",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31534-HBISOyZgyIqj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:47.000Z",
-    "updatedAt": "2022-02-24T14:47:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1534/Zetman"
+    "externalLinks": [],
+    "malId": 1534,
+    "deletedAt": null,
+    "authors": [
+      "Masakazu Katsura",
+      "Karen Hayashida"
+    ]
+  }
 }

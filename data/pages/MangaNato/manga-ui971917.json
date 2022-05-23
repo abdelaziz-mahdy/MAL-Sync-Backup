@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hozumi"
-  ],
+  "createdAt": "2021-08-23T11:40:17.000Z",
+  "updatedAt": "2022-02-23T12:17:51.000Z",
+  "checkedAt": null,
+  "id": 86064,
   "identifier": "manga-ui971917",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99621,
   "aniId": 105751,
-  "createdAt": "2021-08-23T11:40:17.000Z",
-  "updatedAt": "2022-02-23T12:17:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hozumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:33.000Z",
+    "updatedAt": "2022-05-23T08:02:14.000Z",
+    "checkedAt": "2022-05-23T08:02:14.000Z",
+    "id": 99621,
+    "type": "manga",
+    "title": "Boku no Giovanni",
+    "altTitle": [
+      "僕のジョバンニ"
+    ],
+    "url": "https://myanimelist.net/manga/99621/Boku_no_Giovanni",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191546.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "僕のジョバンニ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hozumi"
-    ],
-    "id": 99621,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:06.262Z",
+    "updatedAt": "2022-05-23T08:02:14.000Z",
+    "checkedAt": "2022-05-23T08:02:14.000Z",
+    "id": 105751,
     "type": "manga",
     "title": "Boku no Giovanni",
-    "url": "https://myanimelist.net/manga/99621/Boku_no_Giovanni",
-    "image": "https://cdn.myanimelist.net/images/manga/2/191546.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:33.000Z",
-    "updatedAt": "2022-02-23T11:48:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "僕のジョバンニ",
       "Mi Giovanni"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hozumi",
-      "Judit Moreno"
-    ],
-    "id": 105751,
-    "malId": 99621,
-    "type": "manga",
-    "title": "Boku no Giovanni",
     "url": "https://anilist.co/manga/105751",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105751-t1WRqiXJk2s0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:42.000Z",
-    "updatedAt": "2021-12-18T05:22:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99621/Boku_no_Giovanni"
+    "externalLinks": [],
+    "malId": 99621,
+    "deletedAt": null,
+    "authors": [
+      "Hozumi",
+      "Judit Moreno"
+    ]
+  }
 }

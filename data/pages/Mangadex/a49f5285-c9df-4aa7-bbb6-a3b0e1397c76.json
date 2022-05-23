@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Woon Soo-yeon"
-  ],
+  "createdAt": "2020-10-12T16:02:25.000Z",
+  "updatedAt": "2021-12-02T07:16:08.000Z",
+  "checkedAt": null,
+  "id": 94,
   "identifier": "a49f5285-c9df-4aa7-bbb6-a3b0e1397c76",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4770,
   "aniId": 34770,
-  "createdAt": "2020-10-12T16:02:25.000Z",
-  "updatedAt": "2021-12-02T07:16:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Woon Soo-yeon"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:01.000Z",
+    "updatedAt": "2022-05-16T02:34:21.000Z",
+    "checkedAt": "2022-05-16T02:34:21.000Z",
+    "id": 4770,
+    "type": "manga",
+    "title": "Full House",
+    "altTitle": [
+      "Full House",
+      "풀하우스"
+    ],
+    "url": "https://myanimelist.net/manga/4770/Full_House",
+    "image": "https://cdn.myanimelist.net/images/manga/4/30130.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Full House",
-      "풀하우스"
-    ],
+    "deletedAt": null,
     "authors": [
       "Won, Soo-yeon"
-    ],
-    "id": 4770,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:33.004Z",
+    "updatedAt": "2022-05-16T02:34:19.000Z",
+    "checkedAt": "2022-05-16T02:34:19.000Z",
+    "id": 34770,
     "type": "manga",
     "title": "Full House",
-    "url": "https://myanimelist.net/manga/4770/Full_House",
-    "image": "https://cdn.myanimelist.net/images/manga/4/30130.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:01.000Z",
-    "updatedAt": "2022-04-29T00:01:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Full House",
       "풀하우스"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Su-Yeon Won"
-    ],
-    "id": 34770,
-    "malId": 4770,
-    "type": "manga",
-    "title": "Full House",
     "url": "https://anilist.co/manga/34770",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4770.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:36.000Z",
-    "updatedAt": "2021-12-17T12:10:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4770/Full_House"
+    "externalLinks": [],
+    "malId": 4770,
+    "deletedAt": null,
+    "authors": [
+      "Su-Yeon Won"
+    ]
+  }
 }

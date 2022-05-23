@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nohara Mosae"
-  ],
+  "createdAt": "2021-06-22T08:46:02.000Z",
+  "updatedAt": "2021-12-22T09:22:06.000Z",
+  "checkedAt": null,
+  "id": 79417,
   "identifier": "manga-jy986781",
   "type": "manga",
   "page": "MangaNato",
@@ -11,55 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 129984,
   "aniId": 123687,
-  "createdAt": "2021-06-22T08:46:02.000Z",
-  "updatedAt": "2021-12-22T09:22:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nohara Mosae"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:48:24.000Z",
+    "updatedAt": "2022-05-15T19:17:21.000Z",
+    "checkedAt": "2022-05-15T19:17:21.000Z",
+    "id": 129984,
+    "type": "manga",
+    "title": "Akai Kiri no Naka kara",
     "altTitle": [
       "From the Red Fog",
       "紅い霧の中から"
     ],
-    "authors": [
-      "Nohara, Mosae"
-    ],
-    "id": 129984,
-    "type": "manga",
-    "title": "Akai Kiri no Naka kara",
     "url": "https://myanimelist.net/manga/129984/Akai_Kiri_no_Naka_kara",
     "image": "https://cdn.myanimelist.net/images/manga/1/235991.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:24.000Z",
-    "updatedAt": "2022-02-15T04:17:52.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/gfantasy/story/akaikiri/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nohara, Mosae"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:38.840Z",
+    "updatedAt": "2022-05-15T21:03:35.000Z",
+    "checkedAt": "2022-05-15T21:03:35.000Z",
+    "id": 123687,
+    "type": "manga",
+    "title": "Akai Kiri no Naka kara",
     "altTitle": [
       "From the Red Fog",
       "紅い霧の中から",
       "From the Red Mist",
       "ม่านหมอกสีเลือด ปลายศตวรรษที่ 19"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mosae Nohara"
-    ],
-    "id": 123687,
-    "malId": 129984,
-    "type": "manga",
-    "title": "Akai Kiri no Naka kara",
     "url": "https://anilist.co/manga/123687",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123687-uzkfUrZZo2gK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2022-03-10T19:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/129984/Akai_Kiri_no_Naka_kara"
+    "externalLinks": [],
+    "malId": 129984,
+    "deletedAt": null,
+    "authors": [
+      "Mosae Nohara"
+    ]
+  }
 }

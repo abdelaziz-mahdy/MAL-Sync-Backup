@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Clamp",
-    "Ohkawa Ageha",
-    "Apapa Mokona"
-  ],
+  "createdAt": "2020-10-12T16:08:48.000Z",
+  "updatedAt": "2021-12-04T13:21:47.000Z",
+  "checkedAt": null,
+  "id": 13584,
   "identifier": "e1f16ae6-28c4-4b03-936f-bf4dde8e9684",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113,
   "aniId": 30113,
-  "createdAt": "2020-10-12T16:08:48.000Z",
-  "updatedAt": "2021-12-04T13:21:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp",
+    "Ohkawa Ageha",
+    "Apapa Mokona"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-15T17:54:03.000Z",
+    "checkedAt": "2022-05-15T17:54:02.000Z",
+    "id": 113,
+    "type": "manga",
+    "title": "Clover",
+    "altTitle": [
+      "Clover",
+      "Clover"
+    ],
+    "url": "https://myanimelist.net/manga/113/Clover",
+    "image": "https://cdn.myanimelist.net/images/manga/1/257992.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,31 +43,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Clover",
-      "Clover"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 113,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:06.284Z",
+    "updatedAt": "2022-05-15T20:22:11.000Z",
+    "checkedAt": "2022-05-15T20:22:11.000Z",
+    "id": 30113,
     "type": "manga",
     "title": "Clover",
-    "url": "https://myanimelist.net/manga/113/Clover",
-    "image": "https://cdn.myanimelist.net/images/manga/5/9622.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-03-01T08:48:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Clover",
       "Clover",
       "Trèfle"
     ],
+    "url": "https://anilist.co/manga/30113",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30113-GQ9zbawyrdUc.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 113,
+    "deletedAt": null,
     "authors": [
       "CLAMP",
       "Karen McGillicuddy",
@@ -59,18 +74,6 @@
       "Anne Mallevay",
       "François Jacques",
       "Sébastien Douaud"
-    ],
-    "id": 30113,
-    "malId": 113,
-    "type": "manga",
-    "title": "Clover",
-    "url": "https://anilist.co/manga/30113",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30113-GQ9zbawyrdUc.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2022-03-20T05:19:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113/Clover"
+    ]
+  }
 }

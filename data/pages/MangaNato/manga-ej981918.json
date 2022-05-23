@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tugeneko"
-  ],
+  "createdAt": "2021-09-19T11:10:44.000Z",
+  "updatedAt": "2022-03-19T11:49:22.000Z",
+  "checkedAt": null,
+  "id": 87320,
   "identifier": "manga-ej981918",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112544,
   "aniId": 86741,
-  "createdAt": "2021-09-19T11:10:44.000Z",
-  "updatedAt": "2022-03-19T11:49:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tugeneko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:26.000Z",
+    "updatedAt": "2022-05-15T09:41:08.000Z",
+    "checkedAt": "2022-05-15T09:41:08.000Z",
+    "id": 112544,
+    "type": "manga",
+    "title": "Kare to Caret.",
+    "altTitle": [
+      "Kare to Karetto.",
+      "彼とカレット。"
+    ],
+    "url": "https://myanimelist.net/manga/112544/Kare_to_Caret",
+    "image": "https://cdn.myanimelist.net/images/manga/1/227451.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kare to Karetto.",
-      "彼とカレット。"
-    ],
+    "deletedAt": null,
     "authors": [
       "tugeneko"
-    ],
-    "id": 112544,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:48.815Z",
+    "updatedAt": "2022-05-15T12:01:47.000Z",
+    "checkedAt": "2022-05-15T12:01:47.000Z",
+    "id": 86741,
     "type": "manga",
     "title": "Kare to Caret.",
-    "url": "https://myanimelist.net/manga/112544/Kare_to_Caret",
-    "image": "https://cdn.myanimelist.net/images/manga/1/227451.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:26.000Z",
-    "updatedAt": "2022-03-19T11:19:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "彼とカレット。",
       "Kare to Karetto."
     ],
-    "externalLinks": [],
-    "authors": [
-      "tugeneko"
-    ],
-    "id": 86741,
-    "malId": 112544,
-    "type": "manga",
-    "title": "Kare to Caret.",
     "url": "https://anilist.co/manga/86741",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86741-0FwEDn66COCV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:55.000Z",
-    "updatedAt": "2021-12-17T22:57:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112544/Kare_to_Caret"
+    "externalLinks": [],
+    "malId": 112544,
+    "deletedAt": null,
+    "authors": [
+      "tugeneko"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kuzumochi",
-    "Ryuu"
-  ],
+  "createdAt": "2020-10-12T16:07:37.000Z",
+  "updatedAt": "2021-12-04T04:18:30.000Z",
+  "checkedAt": null,
+  "id": 11002,
   "identifier": "fe0ca912-db5a-4073-a8b6-e303a1d30459",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 74701,
   "aniId": 98087,
-  "createdAt": "2020-10-12T16:07:37.000Z",
-  "updatedAt": "2021-12-04T04:18:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kuzumochi",
+    "Ryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:22.000Z",
+    "updatedAt": "2022-05-22T21:18:08.000Z",
+    "checkedAt": "2022-05-22T21:18:08.000Z",
+    "id": 74701,
+    "type": "manga",
+    "title": "Ore to Kawazu-san no Isekai Hourouki",
+    "altTitle": [
+      "Chronicles of my adventures in another world with Kawazu-san",
+      "俺と蛙さんの異世界放浪記"
+    ],
+    "url": "https://myanimelist.net/manga/74701/Ore_to_Kawazu-san_no_Isekai_Hourouki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/199771.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Chronicles of my adventures in another world with Kawazu-san",
-      "俺と蛙さんの異世界放浪記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kuzumochi",
       "Kasa"
-    ],
-    "id": 74701,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:36.226Z",
+    "updatedAt": "2022-05-22T21:18:07.000Z",
+    "checkedAt": "2022-05-22T21:18:07.000Z",
+    "id": 98087,
     "type": "manga",
     "title": "Ore to Kawazu-san no Isekai Hourouki",
-    "url": "https://myanimelist.net/manga/74701/Ore_to_Kawazu-san_no_Isekai_Hourouki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/199771.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:22.000Z",
-    "updatedAt": "2022-02-15T11:17:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "俺と蛙さんの異世界放浪記",
       "Chronicles of My Adventures in Another World With Kawazu-san",
@@ -54,22 +63,16 @@
       "Wandering Stories in Another World",
       "나와 개구리씨의 이세계 방랑기"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kuzumochi",
-      "Kasa"
-    ],
-    "id": 98087,
-    "malId": 74701,
-    "type": "manga",
-    "title": "Ore to Kawazu-san no Isekai Hourouki",
     "url": "https://anilist.co/manga/98087",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98087-79rabGbD36kk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:44.000Z",
-    "updatedAt": "2021-12-18T01:03:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/74701/Ore_to_Kawazu-san_no_Isekai_Hourouki"
+    "externalLinks": [],
+    "malId": 74701,
+    "deletedAt": null,
+    "authors": [
+      "Kuzumochi",
+      "Kasa"
+    ]
+  }
 }

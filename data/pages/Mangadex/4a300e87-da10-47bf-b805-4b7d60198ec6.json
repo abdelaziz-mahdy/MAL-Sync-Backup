@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Pink_Alien"
-  ],
+  "createdAt": "2020-10-12T16:15:32.000Z",
+  "updatedAt": "2021-12-06T14:48:43.000Z",
+  "checkedAt": null,
+  "id": 27230,
   "identifier": "4a300e87-da10-47bf-b805-4b7d60198ec6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83687,
   "aniId": 87356,
-  "createdAt": "2020-10-12T16:15:32.000Z",
-  "updatedAt": "2021-12-06T14:48:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Pink_Alien"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:40.000Z",
+    "updatedAt": "2022-05-15T13:42:28.000Z",
+    "checkedAt": "2022-05-15T13:42:28.000Z",
+    "id": 83687,
+    "type": "manga",
+    "title": "I Hate",
     "altTitle": [
       "I Love",
       "No Where, Now Here",
@@ -27,21 +33,24 @@
       "About Them",
       "I HATE"
     ],
-    "authors": [
-      "Natsume, Kazuki"
-    ],
-    "id": 83687,
-    "type": "manga",
-    "title": "I Hate",
     "url": "https://myanimelist.net/manga/83687/I_Hate",
     "image": "https://cdn.myanimelist.net/images/manga/2/178060.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:40.000Z",
-    "updatedAt": "2021-11-29T22:35:55.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Natsume, Kazuki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:52.662Z",
+    "updatedAt": "2022-05-15T17:55:47.000Z",
+    "checkedAt": "2022-05-15T17:55:47.000Z",
+    "id": 87356,
+    "type": "manga",
+    "title": "I Hate",
     "altTitle": [
       "I Hate",
       "I Hate",
@@ -50,21 +59,15 @@
       " Now here",
       "Love is here...?"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuki Natsume"
-    ],
-    "id": 87356,
-    "malId": 83687,
-    "type": "manga",
-    "title": "I Hate",
     "url": "https://anilist.co/manga/87356",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87356-SCWcZHH9tLWf.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2022-02-20T13:17:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83687/I_Hate"
+    "externalLinks": [],
+    "malId": 83687,
+    "deletedAt": null,
+    "authors": [
+      "Kazuki Natsume"
+    ]
+  }
 }

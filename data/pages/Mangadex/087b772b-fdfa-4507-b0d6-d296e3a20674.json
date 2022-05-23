@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Overflow",
-    "Sakazuki Homare"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:47:47.000Z",
+  "checkedAt": null,
+  "id": 612,
   "identifier": "087b772b-fdfa-4507-b0d6-d296e3a20674",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1288,
   "aniId": 31288,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Overflow",
+    "Sakazuki Homare"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2022-05-15T17:52:14.000Z",
+    "checkedAt": "2022-05-15T17:52:14.000Z",
+    "id": 1288,
+    "type": "manga",
+    "title": "School Days",
+    "altTitle": [
+      "スクールデイズ"
+    ],
+    "url": "https://myanimelist.net/manga/1288/School_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/11091.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スクールデイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakazuki, Homare",
       "0verflow"
-    ],
-    "id": 1288,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:13.154Z",
+    "updatedAt": "2022-05-15T20:22:11.000Z",
+    "checkedAt": "2022-05-15T20:22:11.000Z",
+    "id": 31288,
     "type": "manga",
     "title": "School Days",
-    "url": "https://myanimelist.net/manga/1288/School_Days",
-    "image": "https://cdn.myanimelist.net/images/manga/3/11091.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:32.000Z",
-    "updatedAt": "2022-03-13T09:00:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "School Days",
       "スクールデイズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Homare Sakazuki",
-      "0verflow"
-    ],
-    "id": 31288,
-    "malId": 1288,
-    "type": "manga",
-    "title": "School Days",
     "url": "https://anilist.co/manga/31288",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31288-70Q71LjczISH.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2022-04-21T17:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1288/School_Days"
+    "externalLinks": [],
+    "malId": 1288,
+    "deletedAt": null,
+    "authors": [
+      "Homare Sakazuki",
+      "0verflow"
+    ]
+  }
 }

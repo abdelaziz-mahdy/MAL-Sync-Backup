@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ogura Shuuichi"
-  ],
+  "createdAt": "2020-10-12T16:12:49.000Z",
+  "updatedAt": "2021-12-05T17:52:16.000Z",
+  "checkedAt": null,
+  "id": 21589,
   "identifier": "65fd07e6-bf5e-49b6-afb7-0aa42dff8276",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117452,
   "aniId": 101890,
-  "createdAt": "2020-10-12T16:12:49.000Z",
-  "updatedAt": "2021-12-05T17:52:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ogura Shuuichi"
+  ],
   "Mal": {
+    "createdAt": "2021-04-21T01:56:57.000Z",
+    "updatedAt": "2021-12-05T17:22:08.000Z",
+    "checkedAt": null,
+    "id": 117452,
+    "type": "manga",
+    "title": "I'll Encount!",
+    "altTitle": [
+      "あいるエンカウント!"
+    ],
+    "url": "https://myanimelist.net/manga/117452/Ill_Encount",
+    "image": "https://cdn.myanimelist.net/images/manga/2/214524.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あいるエンカウント!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ogura, Shuuichi"
-    ],
-    "id": 117452,
-    "type": "manga",
-    "title": "I'll Encount!",
-    "url": "https://myanimelist.net/manga/117452/Ill_Encount",
-    "image": "https://cdn.myanimelist.net/images/manga/2/214524.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-04-21T01:56:57.000Z",
-    "updatedAt": "2021-12-05T17:22:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:32.467Z",
+    "updatedAt": "2022-05-13T12:40:32.467Z",
+    "checkedAt": null,
+    "id": 101890,
+    "type": "manga",
+    "title": "AIRU ENCOUNT!!",
     "altTitle": [
       "あいるエンカウント!",
       "I'LL ENCOUNT!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kouichi Ogura"
-    ],
-    "id": 101890,
-    "malId": 117452,
-    "type": "manga",
-    "title": "AIRU ENCOUNT!!",
     "url": "https://anilist.co/manga/101890",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101890-FwIySzDCBKce.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:55.000Z",
-    "updatedAt": "2021-12-18T03:58:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117452/Ill_Encount"
+    "externalLinks": [],
+    "malId": 117452,
+    "deletedAt": null,
+    "authors": [
+      "Kouichi Ogura"
+    ]
+  }
 }

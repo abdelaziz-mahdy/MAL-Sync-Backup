@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Aoki Aki",
-    "Izumi Kouki"
-  ],
+  "createdAt": "2020-10-12T16:05:38.000Z",
+  "updatedAt": "2021-12-03T14:19:28.000Z",
+  "checkedAt": null,
+  "id": 6804,
   "identifier": "889bc077-15a8-401b-80b0-96ee7e60e65b",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 44883,
   "aniId": 74883,
-  "createdAt": "2020-10-12T16:05:38.000Z",
-  "updatedAt": "2021-12-03T14:19:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aoki Aki",
+    "Izumi Kouki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:20.000Z",
+    "updatedAt": "2022-05-21T00:01:25.000Z",
+    "checkedAt": "2022-05-21T00:01:25.000Z",
+    "id": 44883,
+    "type": "manga",
+    "title": "Akarui Sekai Keikaku",
+    "altTitle": [
+      "Bright World Project",
+      "明るいセカイ計画"
+    ],
+    "url": "https://myanimelist.net/manga/44883/Akarui_Sekai_Keikaku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188911.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bright World Project",
-      "明るいセカイ計画"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aoki, Aki",
       "Izumi, Kouki"
-    ],
-    "id": 44883,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:19.524Z",
+    "updatedAt": "2022-05-21T00:01:24.000Z",
+    "checkedAt": "2022-05-21T00:01:24.000Z",
+    "id": 74883,
     "type": "manga",
     "title": "Akarui Sekai Keikaku",
-    "url": "https://myanimelist.net/manga/44883/Akarui_Sekai_Keikaku",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188911.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:20.000Z",
-    "updatedAt": "2022-01-24T02:30:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Bright World Project",
       "明るいセカイ計画"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aki Aoki",
-      "Kouki Izumi"
-    ],
-    "id": 74883,
-    "malId": 44883,
-    "type": "manga",
-    "title": "Akarui Sekai Keikaku",
     "url": "https://anilist.co/manga/74883",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74883-b30WFrn7pUW9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:26.000Z",
-    "updatedAt": "2021-12-17T20:51:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/44883/Akarui_Sekai_Keikaku"
+    "externalLinks": [],
+    "malId": 44883,
+    "deletedAt": null,
+    "authors": [
+      "Aki Aoki",
+      "Kouki Izumi"
+    ]
+  }
 }

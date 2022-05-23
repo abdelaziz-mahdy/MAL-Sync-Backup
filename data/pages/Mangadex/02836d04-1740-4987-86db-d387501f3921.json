@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nitta Akira"
-  ],
+  "createdAt": "2020-10-12T16:17:57.000Z",
+  "updatedAt": "2021-12-07T12:48:44.000Z",
+  "checkedAt": null,
+  "id": 32215,
   "identifier": "02836d04-1740-4987-86db-d387501f3921",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83485,
   "aniId": 93413,
-  "createdAt": "2020-10-12T16:17:57.000Z",
-  "updatedAt": "2021-12-07T12:48:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nitta Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:39.000Z",
+    "updatedAt": "2021-11-12T04:44:06.000Z",
+    "checkedAt": null,
+    "id": 83485,
+    "type": "manga",
+    "title": "Asobiai",
+    "altTitle": [
+      "あそびあい"
+    ],
+    "url": "https://myanimelist.net/manga/83485/Asobiai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/144795.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あそびあい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nitta, Akira"
-    ],
-    "id": 83485,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:17.024Z",
+    "updatedAt": "2022-05-13T13:04:17.024Z",
+    "checkedAt": null,
+    "id": 93413,
     "type": "manga",
     "title": "Asobiai",
-    "url": "https://myanimelist.net/manga/83485/Asobiai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/144795.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:39.000Z",
-    "updatedAt": "2021-11-12T04:44:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "あそびあい"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira  Nitta"
-    ],
-    "id": 93413,
-    "malId": 83485,
-    "type": "manga",
-    "title": "Asobiai",
     "url": "https://anilist.co/manga/93413",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx93413-levy2Uc8MEf0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:32.000Z",
-    "updatedAt": "2021-12-18T00:53:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83485/Asobiai"
+    "externalLinks": [],
+    "malId": 83485,
+    "deletedAt": null,
+    "authors": [
+      "Akira  Nitta"
+    ]
+  }
 }

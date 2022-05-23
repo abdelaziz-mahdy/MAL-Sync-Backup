@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Momiji Mao",
-    "Komorebi Note (circle)"
-  ],
+  "createdAt": "2020-10-12T16:14:34.000Z",
+  "updatedAt": "2021-12-06T06:19:02.000Z",
+  "checkedAt": null,
+  "id": 25194,
   "identifier": "0070370f-18a6-4289-8d82-8b1d7c7339d9",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57849,
   "aniId": 88512,
-  "createdAt": "2020-10-12T16:14:34.000Z",
-  "updatedAt": "2021-12-06T06:19:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Momiji Mao",
+    "Komorebi Note (circle)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:52.000Z",
+    "updatedAt": "2022-05-14T23:37:40.000Z",
+    "checkedAt": "2022-05-14T23:37:40.000Z",
+    "id": 57849,
+    "type": "manga",
+    "title": "Mawaru Penguindrum",
+    "altTitle": [
+      "PENGUINDRUM",
+      "輪るピングドラム"
+    ],
+    "url": "https://myanimelist.net/manga/57849/Mawaru_Penguindrum",
+    "image": "https://cdn.myanimelist.net/images/manga/3/167525.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "PENGUINDRUM",
-      "輪るピングドラム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shibata, Isuzu"
-    ],
-    "id": 57849,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:54.279Z",
+    "updatedAt": "2022-05-19T21:37:19.000Z",
+    "checkedAt": "2022-05-19T21:37:19.000Z",
+    "id": 88512,
     "type": "manga",
     "title": "Mawaru Penguindrum",
-    "url": "https://myanimelist.net/manga/57849/Mawaru_Penguindrum",
-    "image": "https://cdn.myanimelist.net/images/manga/3/167525.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2022-02-24T03:49:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "PENGUINDRUM",
       "輪るピングドラム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Isuzu Shibata",
-      "Lily Hoshino",
-      "Kunihiko Ikuhara"
-    ],
-    "id": 88512,
-    "malId": 57849,
-    "type": "manga",
-    "title": "Mawaru Penguindrum",
     "url": "https://anilist.co/manga/88512",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88512-PRrh60hIhEkC.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:32.000Z",
-    "updatedAt": "2021-12-17T23:32:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57849/Mawaru_Penguindrum"
+    "externalLinks": [],
+    "malId": 57849,
+    "deletedAt": null,
+    "authors": [
+      "Isuzu Shibata",
+      "Lily Hoshino",
+      "Kunihiko Ikuhara"
+    ]
+  }
 }

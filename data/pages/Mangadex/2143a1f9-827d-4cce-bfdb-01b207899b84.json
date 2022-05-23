@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Miyazaki Tsutomu",
-    "Fukushima Masami"
-  ],
+  "createdAt": "2020-10-12T16:07:54.000Z",
+  "updatedAt": "2021-12-04T06:22:38.000Z",
+  "checkedAt": null,
+  "id": 11614,
   "identifier": "2143a1f9-827d-4cce-bfdb-01b207899b84",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99761,
   "aniId": 97441,
-  "createdAt": "2020-10-12T16:07:54.000Z",
-  "updatedAt": "2021-12-04T06:22:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyazaki Tsutomu",
+    "Fukushima Masami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:34.000Z",
+    "updatedAt": "2022-05-17T17:07:14.000Z",
+    "checkedAt": "2022-05-17T17:07:14.000Z",
+    "id": 99761,
+    "type": "manga",
+    "title": "Saint Muscle",
+    "altTitle": [
+      "Sei Muscle",
+      "聖〈セント〉マッスル"
+    ],
+    "url": "https://myanimelist.net/manga/99761/Saint_Muscle",
+    "image": "https://cdn.myanimelist.net/images/manga/1/180804.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sei Muscle",
-      "聖〈セント〉マッスル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukushima, Masami",
       "Miyazaki, Tsutomu"
-    ],
-    "id": 99761,
-    "type": "manga",
-    "title": "Saint Muscle",
-    "url": "https://myanimelist.net/manga/99761/Saint_Muscle",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180804.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:34.000Z",
-    "updatedAt": "2021-11-16T20:58:05.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:06.573Z",
+    "updatedAt": "2022-05-17T17:07:13.000Z",
+    "checkedAt": "2022-05-17T17:07:13.000Z",
+    "id": 97441,
+    "type": "manga",
+    "title": "Sei Muscle",
     "altTitle": [
       "聖マッスル",
       "San Muscle",
@@ -53,22 +62,16 @@
       "Sento Muscle",
       "St. Muscle"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsutomu Miyazaki",
-      "Masami Fukushima"
-    ],
-    "id": 97441,
-    "malId": 99761,
-    "type": "manga",
-    "title": "Sei Muscle",
     "url": "https://anilist.co/manga/97441",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97441-pJUU3hZ2vHjJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:44.000Z",
-    "updatedAt": "2022-01-15T09:42:06.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99761/Saint_Muscle"
+    "externalLinks": [],
+    "malId": 99761,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Miyazaki",
+      "Masami Fukushima"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takada Shinichirou"
-  ],
+  "createdAt": "2020-10-12T16:13:03.000Z",
+  "updatedAt": "2021-12-05T18:50:20.000Z",
+  "checkedAt": null,
+  "id": 22103,
   "identifier": "430435ab-f359-48de-b79c-6cf262721d9b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111046,
   "aniId": 100393,
-  "createdAt": "2020-10-12T16:13:03.000Z",
-  "updatedAt": "2021-12-05T18:50:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takada Shinichirou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2021-11-20T19:44:16.000Z",
+    "checkedAt": null,
+    "id": 111046,
+    "type": "manga",
+    "title": "E.T.O.",
+    "altTitle": [
+      "E.T.O.",
+      "Emissary Twelve Operations",
+      "E.T.O. [イーティーオー]"
+    ],
+    "url": "https://myanimelist.net/manga/111046/ETO",
+    "image": "https://cdn.myanimelist.net/images/manga/1/203700.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "E.T.O.",
-      "Emissary Twelve Operations",
-      "E.T.O. [イーティーオー]"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takada, Shinichirou"
-    ],
-    "id": 111046,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:48.400Z",
+    "updatedAt": "2022-05-13T12:44:48.400Z",
+    "checkedAt": null,
+    "id": 100393,
     "type": "manga",
     "title": "E.T.O.",
-    "url": "https://myanimelist.net/manga/111046/ETO",
-    "image": "https://cdn.myanimelist.net/images/manga/1/203700.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2021-11-20T19:44:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "E.T.O.",
       "Emissary twelve operations E.T.O"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinichirou Takada"
-    ],
-    "id": 100393,
-    "malId": 111046,
-    "type": "manga",
-    "title": "E.T.O.",
     "url": "https://anilist.co/manga/100393",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100393-umTvQ0EqXgan.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:17.000Z",
-    "updatedAt": "2021-12-18T03:23:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111046/ETO"
+    "externalLinks": [],
+    "malId": 111046,
+    "deletedAt": null,
+    "authors": [
+      "Shinichirou Takada"
+    ]
+  }
 }

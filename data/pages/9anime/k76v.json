@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:33.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5341,
   "identifier": "k76v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34662,
   "aniId": 98035,
-  "createdAt": "2020-10-12T15:52:33.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:51.000Z",
+    "updatedAt": "2022-05-14T16:00:08.000Z",
+    "checkedAt": "2022-05-14T16:00:08.000Z",
+    "id": 34662,
+    "type": "anime",
+    "title": "Fate/Apocrypha",
+    "altTitle": [
+      "Fate/Apocrypha"
+    ],
+    "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha",
+    "image": "https://cdn.myanimelist.net/images/anime/9/86573.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +54,32 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Fate/Apocrypha"
-    ],
-    "id": 34662,
+    "deletedAt": null,
+    "anidbId": 12704
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:22.000Z",
+    "updatedAt": "2022-05-15T10:21:23.000Z",
+    "checkedAt": "2022-05-15T10:21:23.000Z",
+    "id": 98035,
     "type": "anime",
     "title": "Fate/Apocrypha",
-    "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha",
-    "image": "https://cdn.myanimelist.net/images/anime/9/86573.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12704,
-    "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2022-04-11T16:07:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Fate/Apocrypha",
       "Fate/Apocrypha",
       "פייט/אפוקריפה"
     ],
+    "url": "https://anilist.co/anime/98035",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98035-rdkjeqUUsG2j.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/80180849"
       }
     ],
-    "id": 98035,
     "malId": 34662,
-    "type": "anime",
-    "title": "Fate/Apocrypha",
-    "url": "https://anilist.co/anime/98035",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98035-rdkjeqUUsG2j.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:22.000Z",
-    "updatedAt": "2021-12-17T15:30:47.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34662/Fate_Apocrypha"
+  }
 }

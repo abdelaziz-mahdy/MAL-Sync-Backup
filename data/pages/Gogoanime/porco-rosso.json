@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:01:37.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20133,
   "identifier": "porco-rosso",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 416,
   "aniId": 416,
-  "createdAt": "2020-10-12T16:01:37.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-13T21:12:37.000Z",
+    "checkedAt": "2022-05-13T21:12:37.000Z",
+    "id": 416,
+    "type": "anime",
+    "title": "Kurenai no Buta",
+    "altTitle": [
+      "The Scarlet Pig",
+      "Porco Rosso",
+      "紅の豚"
+    ],
+    "url": "https://myanimelist.net/anime/416/Kurenai_no_Buta",
+    "image": "https://cdn.myanimelist.net/images/anime/6/2878.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,47 +56,33 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "The Scarlet Pig",
-      "Porco Rosso",
-      "紅の豚"
-    ],
+    "deletedAt": null,
+    "anidbId": 306
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:40.000Z",
+    "updatedAt": "2022-05-15T10:05:59.000Z",
+    "checkedAt": "2022-05-15T10:05:59.000Z",
     "id": 416,
     "type": "anime",
     "title": "Kurenai no Buta",
-    "url": "https://myanimelist.net/anime/416/Kurenai_no_Buta",
-    "image": "https://cdn.myanimelist.net/images/anime/6/2878.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 306,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-04-19T00:02:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Porco Rosso",
       "紅の豚",
       "The Scarlet Pig",
       "Szkarłatny pilot"
     ],
+    "url": "https://anilist.co/anime/416",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx416-vErUcQ5v7rjo.jpg",
+    "category": "movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/70019060"
       }
     ],
-    "id": 416,
     "malId": 416,
-    "type": "anime",
-    "title": "Kurenai no Buta",
-    "url": "https://anilist.co/anime/416",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx416-vErUcQ5v7rjo.jpg",
-    "category": "movie",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:40.000Z",
-    "updatedAt": "2022-04-08T18:30:23.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/416/Kurenai_no_Buta"
+  }
 }

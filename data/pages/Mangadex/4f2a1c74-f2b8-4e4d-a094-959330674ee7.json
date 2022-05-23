@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Natsumoto Masato"
-  ],
+  "createdAt": "2020-10-12T16:04:48.000Z",
+  "updatedAt": "2021-12-02T23:47:48.000Z",
+  "checkedAt": null,
+  "id": 5068,
   "identifier": "4f2a1c74-f2b8-4e4d-a094-959330674ee7",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3001,
   "aniId": 33001,
-  "createdAt": "2020-10-12T16:04:48.000Z",
-  "updatedAt": "2021-12-02T23:47:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Natsumoto Masato"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2021-12-09T15:33:49.000Z",
+    "checkedAt": null,
+    "id": 3001,
+    "type": "manga",
+    "title": "The King of Fighters: Kyo",
+    "altTitle": [
+      "ザ・キング・オブ・ファイターズ京"
+    ],
+    "url": "https://myanimelist.net/manga/3001/The_King_of_Fighters__Kyo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/155624.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ザ・キング・オブ・ファイターズ京"
-    ],
+    "deletedAt": null,
     "authors": [
       "Masato, Natsumoto"
-    ],
-    "id": 3001,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:38.072Z",
+    "updatedAt": "2022-05-13T13:04:38.072Z",
+    "checkedAt": null,
+    "id": 33001,
     "type": "manga",
     "title": "The King of Fighters: Kyo",
-    "url": "https://myanimelist.net/manga/3001/The_King_of_Fighters__Kyo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/155624.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2021-12-09T15:33:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ザ・キング・オブ・ファイターズ京",
       "KoF Kyo",
       "The King of Fighters Kyo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Natsumoto Masato"
-    ],
-    "id": 33001,
-    "malId": 3001,
-    "type": "manga",
-    "title": "The King of Fighters: Kyo",
     "url": "https://anilist.co/manga/33001",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33001-nkumvAyKEGer.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:17.000Z",
-    "updatedAt": "2021-12-17T11:06:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3001/The_King_of_Fighters__Kyo"
+    "externalLinks": [],
+    "malId": 3001,
+    "deletedAt": null,
+    "authors": [
+      "Natsumoto Masato"
+    ]
+  }
 }

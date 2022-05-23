@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kurumada Masami"
-  ],
+  "createdAt": "2020-10-12T16:07:37.000Z",
+  "updatedAt": "2021-12-04T04:18:31.000Z",
+  "checkedAt": null,
+  "id": 11020,
   "identifier": "7a680caa-3538-40ae-9103-bcb39d53ad0f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14230,
   "aniId": 44230,
-  "createdAt": "2020-10-12T16:07:37.000Z",
-  "updatedAt": "2021-12-04T04:18:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kurumada Masami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:03.000Z",
+    "updatedAt": "2022-04-27T03:01:17.000Z",
+    "checkedAt": null,
+    "id": 14230,
+    "type": "manga",
+    "title": "Fuuma no Kojirou",
+    "altTitle": [
+      "Kojirou of the Wind Spirit Clan",
+      "Kojirou of the Fuuma",
+      "風魔の小次郎"
+    ],
+    "url": "https://myanimelist.net/manga/14230/Fuuma_no_Kojirou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/198355.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kojirou of the Wind Spirit Clan",
-      "Kojirou of the Fuuma",
-      "風魔の小次郎"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kurumada, Masami"
-    ],
-    "id": 14230,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.122Z",
+    "updatedAt": "2022-05-13T13:01:29.122Z",
+    "checkedAt": null,
+    "id": 44230,
     "type": "manga",
     "title": "Fuuma no Kojirou",
-    "url": "https://myanimelist.net/manga/14230/Fuuma_no_Kojirou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/198355.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:03.000Z",
-    "updatedAt": "2022-04-27T03:01:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kojirou of the Wind Spirit Clan",
       "風魔の小次郎",
@@ -52,21 +61,15 @@
       "Fūma no Kojirō",
       "Kojiro of the Fuma"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masami Kurumada"
-    ],
-    "id": 44230,
-    "malId": 14230,
-    "type": "manga",
-    "title": "Fuuma no Kojirou",
     "url": "https://anilist.co/manga/44230",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44230-saioWrrkvNNM.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:45.000Z",
-    "updatedAt": "2021-12-17T15:33:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14230/Fuuma_no_Kojirou"
+    "externalLinks": [],
+    "malId": 14230,
+    "deletedAt": null,
+    "authors": [
+      "Masami Kurumada"
+    ]
+  }
 }

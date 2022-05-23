@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hunting Cap Brothers",
-    "Bau"
-  ],
+  "createdAt": "2020-10-12T16:11:35.000Z",
+  "updatedAt": "2021-12-05T09:49:12.000Z",
+  "checkedAt": null,
+  "id": 19632,
   "identifier": "24f0e606-bd99-449f-bfdf-f18f9e5bd710",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 66739,
   "aniId": 90473,
-  "createdAt": "2020-10-12T16:11:35.000Z",
-  "updatedAt": "2021-12-05T09:49:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hunting Cap Brothers",
+    "Bau"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:11.000Z",
+    "updatedAt": "2022-05-18T14:38:44.000Z",
+    "checkedAt": "2022-05-18T14:38:44.000Z",
+    "id": 66739,
+    "type": "manga",
+    "title": "Sekai Seifuku: Bouryaku no Zvezda",
+    "altTitle": [
+      "世界征服～謀略のズヴィズダー～"
+    ],
+    "url": "https://myanimelist.net/manga/66739/Sekai_Seifuku__Bouryaku_no_Zvezda",
+    "image": "https://cdn.myanimelist.net/images/manga/3/120197.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "世界征服～謀略のズヴィズダー～"
-    ],
+    "deletedAt": null,
     "authors": [
       "Bau",
       "hunting cap brothers",
       "Suzuki, Manatsu"
-    ],
-    "id": 66739,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:00.984Z",
+    "updatedAt": "2022-05-18T14:38:43.000Z",
+    "checkedAt": "2022-05-18T14:38:43.000Z",
+    "id": 90473,
     "type": "manga",
     "title": "Sekai Seifuku: Bouryaku no Zvezda",
-    "url": "https://myanimelist.net/manga/66739/Sekai_Seifuku__Bouryaku_no_Zvezda",
-    "image": "https://cdn.myanimelist.net/images/manga/3/120197.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:11.000Z",
-    "updatedAt": "2021-11-09T19:44:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "世界征服～謀略のズヴィズダー～"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Manatsu Suzuki",
-      "Bau"
-    ],
-    "id": 90473,
-    "malId": 66739,
-    "type": "manga",
-    "title": "Sekai Seifuku: Bouryaku no Zvezda",
     "url": "https://anilist.co/manga/90473",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90473-JM92PFApMXMv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:57.000Z",
-    "updatedAt": "2021-12-18T00:00:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/66739/Sekai_Seifuku__Bouryaku_no_Zvezda"
+    "externalLinks": [],
+    "malId": 66739,
+    "deletedAt": null,
+    "authors": [
+      "Manatsu Suzuki",
+      "Bau"
+    ]
+  }
 }

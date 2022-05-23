@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Aisaki Keiko",
-    "Miyawaki Shintaro"
-  ],
+  "createdAt": "2020-10-12T16:16:44.000Z",
+  "updatedAt": "2021-12-07T01:48:13.000Z",
+  "checkedAt": null,
+  "id": 29738,
   "identifier": "72e595ca-bdfb-4608-9320-b2fbdb349719",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8506,
   "aniId": 38506,
-  "createdAt": "2020-10-12T16:16:44.000Z",
-  "updatedAt": "2021-12-07T01:48:13.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aisaki Keiko",
+    "Miyawaki Shintaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:19.000Z",
+    "updatedAt": "2022-05-15T02:41:28.000Z",
+    "checkedAt": "2022-05-15T02:41:28.000Z",
+    "id": 8506,
+    "type": "manga",
+    "title": "The Rapeman",
+    "altTitle": [
+      "THE レイプマン"
+    ],
+    "url": "https://myanimelist.net/manga/8506/The_Rapeman",
+    "image": "https://cdn.myanimelist.net/images/manga/3/146319.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "THE レイプマン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aisaki, Keiko",
       "Miyawaki, Shintarou"
-    ],
-    "id": 8506,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:07.442Z",
+    "updatedAt": "2022-05-13T12:53:07.442Z",
+    "checkedAt": null,
+    "id": 38506,
     "type": "manga",
     "title": "The Rapeman",
-    "url": "https://myanimelist.net/manga/8506/The_Rapeman",
-    "image": "https://cdn.myanimelist.net/images/manga/3/146319.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:19.000Z",
-    "updatedAt": "2021-12-15T00:48:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Rapeman",
       "The レイプマン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shintarou Miyawaki",
-      "Keiko Aisaki"
-    ],
-    "id": 38506,
-    "malId": 8506,
-    "type": "manga",
-    "title": "The Rapeman",
     "url": "https://anilist.co/manga/38506",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38506-tpbkAiUt6qUO.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:40:47.000Z",
-    "updatedAt": "2021-12-17T13:34:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8506/The_Rapeman"
+    "externalLinks": [],
+    "malId": 8506,
+    "deletedAt": null,
+    "authors": [
+      "Shintarou Miyawaki",
+      "Keiko Aisaki"
+    ]
+  }
 }

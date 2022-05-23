@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Rooster Teeth Productions",
-    "Monty Oum",
-    "Miwa Shirow"
-  ],
+  "createdAt": "2020-10-12T16:09:03.000Z",
+  "updatedAt": "2021-12-04T14:56:10.000Z",
+  "checkedAt": null,
+  "id": 14145,
   "identifier": "1075e0c2-3baf-438e-80d9-f8f788b017cd",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93675,
   "aniId": 86560,
-  "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-12-04T14:56:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Rooster Teeth Productions",
+    "Monty Oum",
+    "Miwa Shirow"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:15.000Z",
+    "updatedAt": "2022-05-14T20:28:23.000Z",
+    "checkedAt": "2022-05-14T20:28:23.000Z",
+    "id": 93675,
+    "type": "manga",
+    "title": "RWBY",
+    "altTitle": [
+      "Ruby",
+      "RWBY",
+      "RWBY"
+    ],
+    "url": "https://myanimelist.net/manga/93675/RWBY",
+    "image": "https://cdn.myanimelist.net/images/manga/2/196046.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,47 +44,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ruby",
-      "RWBY",
-      "RWBY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miwa, Shirow"
-    ],
-    "id": 93675,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:55.607Z",
+    "updatedAt": "2022-05-15T18:36:23.000Z",
+    "checkedAt": "2022-05-15T18:36:23.000Z",
+    "id": 86560,
     "type": "manga",
     "title": "RWBY",
-    "url": "https://myanimelist.net/manga/93675/RWBY",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196046.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:15.000Z",
-    "updatedAt": "2022-01-25T22:30:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "RWBY",
       "RWBY",
       "Ruby"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shirow Miwa",
-      "Monyreak Oum"
-    ],
-    "id": 86560,
-    "malId": 93675,
-    "type": "manga",
-    "title": "RWBY",
     "url": "https://anilist.co/manga/86560",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86560-x93mJ0oEZwcL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2022-04-03T11:30:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93675/RWBY"
+    "externalLinks": [],
+    "malId": 93675,
+    "deletedAt": null,
+    "authors": [
+      "Shirow Miwa",
+      "Monyreak Oum"
+    ]
+  }
 }

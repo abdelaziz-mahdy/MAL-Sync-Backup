@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tagame Gengorou"
-  ],
+  "createdAt": "2021-06-18T17:21:02.000Z",
+  "updatedAt": "2022-04-06T19:00:23.000Z",
+  "checkedAt": null,
+  "id": 78820,
   "identifier": "manga-fj952192",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80375,
   "aniId": 93006,
-  "createdAt": "2021-06-18T17:21:02.000Z",
-  "updatedAt": "2022-04-06T19:00:23.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tagame Gengorou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-14T18:28:59.000Z",
+    "checkedAt": "2022-05-14T18:28:59.000Z",
+    "id": 80375,
+    "type": "manga",
+    "title": "Otouto no Otto",
+    "altTitle": [
+      "My Brother's Husband",
+      "弟の夫"
+    ],
+    "url": "https://myanimelist.net/manga/80375/Otouto_no_Otto",
+    "image": "https://cdn.myanimelist.net/images/manga/2/158104.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Brother's Husband",
-      "弟の夫"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tagame, Gengorou"
-    ],
-    "id": 80375,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:37.610Z",
+    "updatedAt": "2022-05-18T09:39:53.000Z",
+    "checkedAt": "2022-05-18T09:39:53.000Z",
+    "id": 93006,
     "type": "manga",
     "title": "Otouto no Otto",
-    "url": "https://myanimelist.net/manga/80375/Otouto_no_Otto",
-    "image": "https://cdn.myanimelist.net/images/manga/2/158104.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-03-26T13:57:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "My Brother's Husband",
       "弟の夫",
@@ -57,7 +66,13 @@
       "아우의 남편",
       "My Brother's Husband -ด้วยสายใยรัก-"
     ],
+    "url": "https://anilist.co/manga/93006",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93006-YBiDuJHiFDXL.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 80375,
+    "deletedAt": null,
     "authors": [
       "Gengorou Tagame",
       "Caio Suzuki",
@@ -66,18 +81,6 @@
       "Sakura Ilgert",
       "Bom Kim",
       "Anne Ishii"
-    ],
-    "id": 93006,
-    "malId": 80375,
-    "type": "manga",
-    "title": "Otouto no Otto",
-    "url": "https://anilist.co/manga/93006",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93006-YBiDuJHiFDXL.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2022-02-26T00:48:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80375/Otouto_no_Otto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Okada Megumu"
-  ],
+  "createdAt": "2020-10-12T16:10:45.000Z",
+  "updatedAt": "2021-12-05T09:22:11.000Z",
+  "checkedAt": null,
+  "id": 17803,
   "identifier": "1dcc48ba-e371-4028-8ac3-fd90b882edfa",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10220,
   "aniId": 40220,
-  "createdAt": "2020-10-12T16:10:45.000Z",
-  "updatedAt": "2021-12-05T09:22:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okada Megumu"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2021-06-05T03:20:08.000Z",
+    "updatedAt": "2022-04-26T18:32:48.000Z",
+    "checkedAt": null,
+    "id": 10220,
+    "type": "manga",
+    "title": "Shadow Skill",
     "altTitle": [
       "Shadow Skill: Invincibility Fire Ball",
       "Shadow Skill: Black Howling",
@@ -32,42 +33,44 @@
       "Eigi",
       "シャドウ・スキル"
     ],
-    "authors": [
-      "Okada, Megumu"
-    ],
-    "id": 10220,
-    "type": "manga",
-    "title": "Shadow Skill",
     "url": "https://myanimelist.net/manga/10220/Shadow_Skill",
     "image": "https://cdn.myanimelist.net/images/manga/2/117535.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-05T03:20:08.000Z",
-    "updatedAt": "2022-04-26T18:32:48.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Okada, Megumu"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:34.456Z",
+    "updatedAt": "2022-05-13T12:43:34.456Z",
+    "checkedAt": null,
+    "id": 40220,
+    "type": "manga",
+    "title": "Shadow Skill",
     "altTitle": [
       "シャドウスキル",
       "Shadow Skill: Invincibility Fire Ball",
       "Shadow Skill: Black Howling",
       "Shadow Skill: Black Wing"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Megumu Okada"
-    ],
-    "id": 40220,
-    "malId": 10220,
-    "type": "manga",
-    "title": "Shadow Skill",
     "url": "https://anilist.co/manga/40220",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40220-cz7p6aOxcmVV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T03:20:08.000Z",
-    "updatedAt": "2021-12-17T14:04:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10220/Shadow_Skill"
+    "externalLinks": [],
+    "malId": 10220,
+    "deletedAt": null,
+    "authors": [
+      "Megumu Okada"
+    ]
+  }
 }

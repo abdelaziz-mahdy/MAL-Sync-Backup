@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakajima Michitsune"
-  ],
+  "createdAt": "2020-10-12T16:02:48.000Z",
+  "updatedAt": "2021-12-02T09:47:48.000Z",
+  "checkedAt": null,
+  "id": 865,
   "identifier": "398a26c5-04fa-4076-b921-0b0fb44edb10",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25855,
   "aniId": 55855,
-  "createdAt": "2020-10-12T16:02:48.000Z",
-  "updatedAt": "2021-12-02T09:47:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakajima Michitsune"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:23.000Z",
+    "updatedAt": "2022-05-19T23:36:54.000Z",
+    "checkedAt": "2022-05-19T23:36:54.000Z",
+    "id": 25855,
+    "type": "manga",
+    "title": "Gunka no Baltzar",
+    "altTitle": [
+      "Baltzar Militarismus",
+      "軍靴のバルツァー"
+    ],
+    "url": "https://myanimelist.net/manga/25855/Gunka_no_Baltzar",
+    "image": "https://cdn.myanimelist.net/images/manga/1/147023.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Baltzar Militarismus",
-      "軍靴のバルツァー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakajima, Michitsune"
-    ],
-    "id": 25855,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:24.192Z",
+    "updatedAt": "2022-05-19T23:36:54.000Z",
+    "checkedAt": "2022-05-19T23:36:54.000Z",
+    "id": 55855,
     "type": "manga",
     "title": "Gunka no Baltzar",
-    "url": "https://myanimelist.net/manga/25855/Gunka_no_Baltzar",
-    "image": "https://cdn.myanimelist.net/images/manga/1/147023.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:23.000Z",
-    "updatedAt": "2022-01-09T13:47:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "軍靴のバルツァー",
       "Baltzar: La guerre dans le sang",
@@ -51,21 +60,15 @@
       "Gunka no Baltzer",
       "Baltzar: El Arte de la Guerra"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Michitsune Nakajima"
-    ],
-    "id": 55855,
-    "malId": 25855,
-    "type": "manga",
-    "title": "Gunka no Baltzar",
     "url": "https://anilist.co/manga/55855",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55855-m1IhPKDHMW1M.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:56.000Z",
-    "updatedAt": "2021-12-17T18:38:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25855/Gunka_no_Baltzar"
+    "externalLinks": [],
+    "malId": 25855,
+    "deletedAt": null,
+    "authors": [
+      "Michitsune Nakajima"
+    ]
+  }
 }

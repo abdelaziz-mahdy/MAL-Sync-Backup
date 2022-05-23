@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ei Yuzuki",
-    "Maki Hayashi"
-  ],
+  "createdAt": "2021-05-31T13:25:39.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
+  "checkedAt": null,
+  "id": 74882,
   "identifier": "manga-gn983696",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123126,
   "aniId": 113144,
-  "createdAt": "2021-05-31T13:25:39.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ei Yuzuki",
+    "Maki Hayashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:10.000Z",
+    "updatedAt": "2022-02-03T03:22:09.000Z",
+    "checkedAt": null,
+    "id": 123126,
+    "type": "manga",
+    "title": "By Spring",
+    "altTitle": [
+      "バイ・スプリング"
+    ],
+    "url": "https://myanimelist.net/manga/123126/By_Spring",
+    "image": "https://cdn.myanimelist.net/images/manga/1/234164.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "バイ・スプリング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hayashi, Maki",
       "Yuzuki, Ei"
-    ],
-    "id": 123126,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:58.032Z",
+    "updatedAt": "2022-05-13T13:05:58.032Z",
+    "checkedAt": null,
+    "id": 113144,
     "type": "manga",
     "title": "By Spring",
-    "url": "https://myanimelist.net/manga/123126/By_Spring",
-    "image": "https://cdn.myanimelist.net/images/manga/1/234164.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:10.000Z",
-    "updatedAt": "2022-02-03T03:22:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "バイ・スプリング",
       "Buy Spring"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maki Hayashi",
-      "Ei Yuzuki"
-    ],
-    "id": 113144,
-    "malId": 123126,
-    "type": "manga",
-    "title": "By Spring",
     "url": "https://anilist.co/manga/113144",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113144-LQWCRnbsZ3U7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-12-18T07:51:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123126/By_Spring"
+    "externalLinks": [],
+    "malId": 123126,
+    "deletedAt": null,
+    "authors": [
+      "Maki Hayashi",
+      "Ei Yuzuki"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yu Wo"
-  ],
+  "createdAt": "2021-06-14T03:09:31.000Z",
+  "updatedAt": "2021-12-14T07:20:16.000Z",
+  "checkedAt": null,
+  "id": 78161,
   "identifier": "manga-oh952842",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 8456,
   "aniId": 38456,
-  "createdAt": "2021-06-14T03:09:31.000Z",
-  "updatedAt": "2021-12-14T07:20:16.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yu Wo"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://zh.wikipedia.org/wiki/%C2%BD%E7%8E%8B%E5%AD%90"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:18.000Z",
+    "updatedAt": "2022-05-18T00:26:04.000Z",
+    "checkedAt": "2022-05-18T00:26:04.000Z",
+    "id": 8456,
+    "type": "manga",
+    "title": "½ Prince",
     "altTitle": [
       "Half Prince",
       "1/2 Wang zi",
@@ -32,22 +33,30 @@
       "1/2 Prince",
       "½ 王子"
     ],
-    "authors": [
-      "Choi, Hong Chong",
-      "Yu, Wo"
-    ],
-    "id": 8456,
-    "type": "manga",
-    "title": "½ Prince",
     "url": "https://myanimelist.net/manga/8456/½_Prince",
     "image": "https://cdn.myanimelist.net/images/manga/4/79715.jpg",
     "category": "Manhua",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:18.000Z",
-    "updatedAt": "2022-04-18T23:32:26.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://zh.wikipedia.org/wiki/%C2%BD%E7%8E%8B%E5%AD%90"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Choi, Hong Chong",
+      "Yu, Wo"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:14.309Z",
+    "updatedAt": "2022-05-18T00:26:03.000Z",
+    "checkedAt": "2022-05-18T00:26:03.000Z",
+    "id": 38456,
+    "type": "manga",
+    "title": "1/2 Prince",
     "altTitle": [
       "1/2 Prince",
       "½ 王子",
@@ -56,23 +65,17 @@
       "1/2 Ouji",
       "½ Prince"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hongchong Choi",
-      "Yu Wo",
-      "Ya Sha"
-    ],
-    "id": 38456,
-    "malId": 8456,
-    "type": "manga",
-    "title": "1/2 Prince",
     "url": "https://anilist.co/manga/38456",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx38456-ISKkyLAugsjI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:47.000Z",
-    "updatedAt": "2022-02-10T23:09:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8456/½_Prince"
+    "externalLinks": [],
+    "malId": 8456,
+    "deletedAt": null,
+    "authors": [
+      "Hongchong Choi",
+      "Yu Wo",
+      "Ya Sha"
+    ]
+  }
 }

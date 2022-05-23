@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sakurano Itsuki"
-  ],
+  "createdAt": "2020-10-12T16:18:42.000Z",
+  "updatedAt": "2021-12-07T19:51:05.000Z",
+  "checkedAt": null,
+  "id": 33668,
   "identifier": "59c6535f-a03a-4778-bcf4-c8c35f89d35d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2061,
   "aniId": 32061,
-  "createdAt": "2020-10-12T16:18:42.000Z",
-  "updatedAt": "2021-12-07T19:51:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakurano Itsuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:40.000Z",
+    "updatedAt": "2022-01-13T11:12:42.000Z",
+    "checkedAt": null,
+    "id": 2061,
+    "type": "manga",
+    "title": "Sakuran",
+    "altTitle": [
+      "Sakuran",
+      "さくらん"
+    ],
+    "url": "https://myanimelist.net/manga/2061/Sakuran",
+    "image": "https://cdn.myanimelist.net/images/manga/1/158793.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sakuran",
-      "さくらん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Anno, Moyoco"
-    ],
-    "id": 2061,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:02.333Z",
+    "updatedAt": "2022-05-13T12:47:02.333Z",
+    "checkedAt": null,
+    "id": 32061,
     "type": "manga",
     "title": "Sakuran",
-    "url": "https://myanimelist.net/manga/2061/Sakuran",
-    "image": "https://cdn.myanimelist.net/images/manga/1/158793.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:40.000Z",
-    "updatedAt": "2022-01-13T11:12:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sakuran",
       "さくらん",
       "Derangement"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Moyoco Anno"
-    ],
-    "id": 32061,
-    "malId": 2061,
-    "type": "manga",
-    "title": "Sakuran",
     "url": "https://anilist.co/manga/32061",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32061-kw0gD1d6Kn46.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:01.000Z",
-    "updatedAt": "2021-12-17T10:34:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2061/Sakuran"
+    "externalLinks": [],
+    "malId": 2061,
+    "deletedAt": null,
+    "authors": [
+      "Moyoco Anno"
+    ]
+  }
 }

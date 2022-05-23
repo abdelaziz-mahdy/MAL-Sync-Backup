@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Miyatsuki Arata",
-    "Kanzaki Yuuya"
-  ],
+  "createdAt": "2021-06-01T15:46:12.000Z",
+  "updatedAt": "2021-12-01T16:24:17.000Z",
+  "checkedAt": null,
+  "id": 75431,
   "identifier": "manga-wo956171",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75171,
   "aniId": 86819,
-  "createdAt": "2021-06-01T15:46:12.000Z",
-  "updatedAt": "2021-12-01T16:24:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyatsuki Arata",
+    "Kanzaki Yuuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:23.000Z",
+    "updatedAt": "2022-05-19T21:42:26.000Z",
+    "checkedAt": "2022-05-19T21:42:26.000Z",
+    "id": 75171,
+    "type": "manga",
+    "title": "Funouhan",
+    "altTitle": [
+      "Impossibility Defense",
+      "不能犯"
+    ],
+    "url": "https://myanimelist.net/manga/75171/Funouhan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/130237.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,26 +42,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Impossibility Defense",
-      "不能犯"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kanzaki, Yuuya",
       "Miyatsuki, Arata"
-    ],
-    "id": 75171,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:13.091Z",
+    "updatedAt": "2022-05-19T21:42:25.000Z",
+    "checkedAt": "2022-05-19T21:42:25.000Z",
+    "id": 86819,
     "type": "manga",
     "title": "Funouhan",
-    "url": "https://myanimelist.net/manga/75171/Funouhan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/130237.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:23.000Z",
-    "updatedAt": "2021-12-01T16:18:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "不能犯",
       "Impossibility Defense",
@@ -53,23 +62,17 @@
       "Crimen Perfecto",
       "Perfect Crime"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuya Kanzaki",
-      "Arata Miyatsuki",
-      "Erika Abreu"
-    ],
-    "id": 86819,
-    "malId": 75171,
-    "type": "manga",
-    "title": "Funouhan",
     "url": "https://anilist.co/manga/86819",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86819-BCszhVISaMg0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:44.000Z",
-    "updatedAt": "2021-11-28T03:05:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/75171/Funouhan"
+    "externalLinks": [],
+    "malId": 75171,
+    "deletedAt": null,
+    "authors": [
+      "Yuuya Kanzaki",
+      "Arata Miyatsuki",
+      "Erika Abreu"
+    ]
+  }
 }

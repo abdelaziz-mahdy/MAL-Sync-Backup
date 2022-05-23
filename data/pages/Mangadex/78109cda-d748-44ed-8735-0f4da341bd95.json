@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jae Yong Taek",
-    "Kim Jae-han"
-  ],
+  "createdAt": "2020-12-26T17:56:12.000Z",
+  "updatedAt": "2021-12-08T11:37:00.000Z",
+  "checkedAt": null,
+  "id": 55873,
   "identifier": "78109cda-d748-44ed-8735-0f4da341bd95",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 128788,
-  "createdAt": "2020-12-26T17:56:12.000Z",
-  "updatedAt": "2021-12-08T11:37:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jae Yong Taek",
+    "Kim Jae-han"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:49.984Z",
+    "updatedAt": "2022-05-19T19:34:58.000Z",
+    "checkedAt": "2022-05-19T19:34:58.000Z",
+    "id": 128788,
+    "type": "manga",
+    "title": "Terror dae Buhwal",
     "altTitle": [
       "테러대부활",
       "Terror vs Buhwal",
       "Terror vs Revival"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Dong-U Han",
-      "Jin-Ho Ko"
-    ],
-    "id": 128788,
-    "malId": null,
-    "type": "manga",
-    "title": "Terror dae Buhwal",
     "url": "https://anilist.co/manga/128788",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128788-Z0CpromnzSbh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T13:18:57.000Z",
-    "updatedAt": "2022-03-28T07:25:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Dong-U Han",
+      "Jin-Ho Ko"
+    ]
+  }
 }

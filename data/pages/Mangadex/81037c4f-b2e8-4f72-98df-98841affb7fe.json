@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suenobu Keiko"
-  ],
+  "createdAt": "2020-10-12T16:11:05.000Z",
+  "updatedAt": "2021-12-05T05:50:37.000Z",
+  "checkedAt": null,
+  "id": 18554,
   "identifier": "81037c4f-b2e8-4f72-98df-98841affb7fe",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16601,
   "aniId": 46601,
-  "createdAt": "2020-10-12T16:11:05.000Z",
-  "updatedAt": "2021-12-05T05:50:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suenobu Keiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:22.000Z",
+    "updatedAt": "2021-11-21T19:43:08.000Z",
+    "checkedAt": null,
+    "id": 16601,
+    "type": "manga",
+    "title": "Limit",
+    "altTitle": [
+      "Limit",
+      "リミット"
+    ],
+    "url": "https://myanimelist.net/manga/16601/Limit",
+    "image": "https://cdn.myanimelist.net/images/manga/5/87819.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Limit",
-      "リミット"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suenobu, Keiko"
-    ],
-    "id": 16601,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:30.615Z",
+    "updatedAt": "2022-05-13T12:41:30.615Z",
+    "checkedAt": null,
+    "id": 46601,
     "type": "manga",
     "title": "Limit",
-    "url": "https://myanimelist.net/manga/16601/Limit",
-    "image": "https://cdn.myanimelist.net/images/manga/5/87819.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:22.000Z",
-    "updatedAt": "2021-11-21T19:43:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Limit",
       "リミット"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keiko Suenobu",
-      "Fernando Mucioli"
-    ],
-    "id": 46601,
-    "malId": 16601,
-    "type": "manga",
-    "title": "Limit",
     "url": "https://anilist.co/manga/46601",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46601-KoWZEUgRvcUH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2021-12-17T16:11:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16601/Limit"
+    "externalLinks": [],
+    "malId": 16601,
+    "deletedAt": null,
+    "authors": [
+      "Keiko Suenobu",
+      "Fernando Mucioli"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kojima Lalako"
-  ],
+  "createdAt": "2020-10-30T04:14:42.000Z",
+  "updatedAt": "2021-12-08T06:38:12.000Z",
+  "checkedAt": null,
+  "id": 51046,
   "identifier": "108a1aad-3e52-4c38-8a3a-26166b30f90f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25123,
   "aniId": 55123,
-  "createdAt": "2020-10-30T04:14:42.000Z",
-  "updatedAt": "2021-12-08T06:38:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kojima Lalako"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:16.000Z",
+    "updatedAt": "2021-12-20T22:19:52.000Z",
+    "checkedAt": null,
+    "id": 25123,
+    "type": "manga",
+    "title": "Neko no Yomeiri",
+    "altTitle": [
+      "Ninth Life Love",
+      "ねこの嫁入り"
+    ],
+    "url": "https://myanimelist.net/manga/25123/Neko_no_Yomeiri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/85103.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ninth Life Love",
-      "ねこの嫁入り"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kojima, Lalako"
-    ],
-    "id": 25123,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:27.578Z",
+    "updatedAt": "2022-05-13T12:50:27.578Z",
+    "checkedAt": null,
+    "id": 55123,
     "type": "manga",
     "title": "Neko no Yomeiri",
-    "url": "https://myanimelist.net/manga/25123/Neko_no_Yomeiri",
-    "image": "https://cdn.myanimelist.net/images/manga/3/85103.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:16.000Z",
-    "updatedAt": "2021-12-20T22:19:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ninth Life Love",
       "ねこの嫁入り",
       "Cat's Wedding"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Lalako Kojima"
-    ],
-    "id": 55123,
-    "malId": 25123,
-    "type": "manga",
-    "title": "Neko no Yomeiri",
     "url": "https://anilist.co/manga/55123",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55123-5iiCCkclVTjq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:52.000Z",
-    "updatedAt": "2021-12-17T18:33:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25123/Neko_no_Yomeiri"
+    "externalLinks": [],
+    "malId": 25123,
+    "deletedAt": null,
+    "authors": [
+      "Lalako Kojima"
+    ]
+  }
 }

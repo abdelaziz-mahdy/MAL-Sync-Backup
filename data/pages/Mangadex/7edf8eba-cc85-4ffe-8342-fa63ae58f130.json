@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kanyaa"
-  ],
+  "createdAt": "2020-10-12T16:18:45.000Z",
+  "updatedAt": "2022-02-28T08:31:30.000Z",
+  "checkedAt": null,
+  "id": 33760,
   "identifier": "7edf8eba-cc85-4ffe-8342-fa63ae58f130",
   "type": "manga",
   "page": "Mangadex",
@@ -11,33 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 105304,
-  "createdAt": "2020-10-12T16:18:45.000Z",
-  "updatedAt": "2022-02-28T08:31:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kanyaa"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:08.266Z",
+    "updatedAt": "2022-05-16T00:51:36.000Z",
+    "checkedAt": "2022-05-16T00:51:36.000Z",
+    "id": 105304,
+    "type": "manga",
+    "title": "Miageru to Kimi wa",
     "altTitle": [
       "見上げると君は",
       "Looking Up to You"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Kobori"
-    ],
-    "id": 105304,
-    "malId": 116775,
-    "type": "manga",
-    "title": "Miageru to Kimi wa",
     "url": "https://anilist.co/manga/105304",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105304-RYpqQZMPmg8x.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:53.000Z",
-    "updatedAt": "2021-12-18T05:00:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 116775,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Kobori"
+    ]
+  }
 }

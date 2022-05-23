@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Link",
-    "Shouno Kotaro"
-  ],
+  "createdAt": "2021-05-28T18:24:23.000Z",
+  "updatedAt": "2021-11-28T19:07:25.000Z",
+  "checkedAt": null,
+  "id": 72857,
   "identifier": "manga-uu971429",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98752,
   "aniId": 87260,
-  "createdAt": "2021-05-28T18:24:23.000Z",
-  "updatedAt": "2021-11-28T19:07:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Link",
+    "Shouno Kotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:31.000Z",
+    "updatedAt": "2022-05-14T09:30:36.000Z",
+    "checkedAt": "2022-05-14T09:30:36.000Z",
+    "id": 98752,
+    "type": "manga",
+    "title": "Shuumatsu no Harem",
+    "altTitle": [
+      "Shuumatsu no Harem: After World",
+      "World's End Harem: After World",
+      "World's End Harem",
+      "終末のハーレム"
+    ],
+    "url": "https://myanimelist.net/manga/98752/Shuumatsu_no_Harem",
+    "image": "https://cdn.myanimelist.net/images/manga/3/183037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,48 +48,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shuumatsu no Harem: After World",
-      "World's End Harem: After World",
-      "World's End Harem",
-      "終末のハーレム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shono, Kotaro",
       "LINK"
-    ],
-    "id": 98752,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:27.719Z",
+    "updatedAt": "2022-05-15T20:40:59.000Z",
+    "checkedAt": "2022-05-15T20:40:59.000Z",
+    "id": 87260,
     "type": "manga",
     "title": "Shuumatsu no Harem",
-    "url": "https://myanimelist.net/manga/98752/Shuumatsu_no_Harem",
-    "image": "https://cdn.myanimelist.net/images/manga/3/183037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:31.000Z",
-    "updatedAt": "2022-05-01T16:31:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "World's End Harem",
       "終末のハーレム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kotaro Shouno",
-      "LINK"
-    ],
-    "id": 87260,
-    "malId": 98752,
-    "type": "manga",
-    "title": "Shuumatsu no Harem",
     "url": "https://anilist.co/manga/87260",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87260-J9QyBqdME03s.png",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:54:39.000Z",
-    "updatedAt": "2022-01-19T20:34:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98752/Shuumatsu_no_Harem"
+    "externalLinks": [],
+    "malId": 98752,
+    "deletedAt": null,
+    "authors": [
+      "Kotarou Shouno",
+      "LINK"
+    ]
+  }
 }

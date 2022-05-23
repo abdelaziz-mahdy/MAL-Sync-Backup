@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Tsutsui Yasutaka",
-    "Yamazaki Sayaka"
-  ],
+  "createdAt": "2020-10-12T16:14:19.000Z",
+  "updatedAt": "2021-12-06T04:18:47.000Z",
+  "checkedAt": null,
+  "id": 24677,
   "identifier": "3bc77d0c-7500-48f3-8b81-92f8ccda225c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 541,
   "aniId": 30541,
-  "createdAt": "2020-10-12T16:14:19.000Z",
-  "updatedAt": "2021-12-06T04:18:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tsutsui Yasutaka",
+    "Yamazaki Sayaka"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-16T09:34:30.000Z",
+    "checkedAt": "2022-05-16T09:34:30.000Z",
+    "id": 541,
+    "type": "manga",
+    "title": "Nanase",
+    "altTitle": [
+      "Telepathic Wanderers",
+      "NANASE"
+    ],
+    "url": "https://myanimelist.net/manga/541/Nanase",
+    "image": "https://cdn.myanimelist.net/images/manga/1/152337.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Telepathic Wanderers",
-      "NANASE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamazaki, Sayaka",
       "Tsutsui, Yasutaka"
-    ],
-    "id": 541,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:29.145Z",
+    "updatedAt": "2022-05-16T09:34:30.000Z",
+    "checkedAt": "2022-05-16T09:34:30.000Z",
+    "id": 30541,
     "type": "manga",
     "title": "Nanase",
-    "url": "https://myanimelist.net/manga/541/Nanase",
-    "image": "https://cdn.myanimelist.net/images/manga/1/152337.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-04-19T20:30:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Telepathic Wanderers",
       "NANASE"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sayaka Yamazaki",
-      "Yasutaka Tsutsui"
-    ],
-    "id": 30541,
-    "malId": 541,
-    "type": "manga",
-    "title": "Nanase",
     "url": "https://anilist.co/manga/30541",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30541-q2bw77teTfik.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-12-17T09:12:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/541/Nanase"
+    "externalLinks": [],
+    "malId": 541,
+    "deletedAt": null,
+    "authors": [
+      "Sayaka Yamazaki",
+      "Yasutaka Tsutsui"
+    ]
+  }
 }

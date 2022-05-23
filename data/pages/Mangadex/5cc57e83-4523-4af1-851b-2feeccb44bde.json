@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohara Shinji",
-    "Kuroda Iou"
-  ],
+  "createdAt": "2020-10-12T16:05:03.000Z",
+  "updatedAt": "2021-12-03T10:17:30.000Z",
+  "checkedAt": null,
+  "id": 5610,
   "identifier": "5cc57e83-4523-4af1-851b-2feeccb44bde",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 14508,
   "aniId": 44508,
-  "createdAt": "2020-10-12T16:05:03.000Z",
-  "updatedAt": "2021-12-03T10:17:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohara Shinji",
+    "Kuroda Iou"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:06.000Z",
+    "updatedAt": "2022-05-14T09:44:14.000Z",
+    "checkedAt": "2022-05-14T09:44:14.000Z",
+    "id": 14508,
+    "type": "manga",
+    "title": "Kurofune",
     "altTitle": [
       "The Black Ships",
       "My Teacher and I",
@@ -38,22 +44,25 @@
       "Watashi no Sensei",
       "黒船"
     ],
-    "authors": [
-      "Ohara, Shinji",
-      "Kuroda, Iou"
-    ],
-    "id": 14508,
-    "type": "manga",
-    "title": "Kurofune",
     "url": "https://myanimelist.net/manga/14508/Kurofune",
     "image": "https://cdn.myanimelist.net/images/manga/1/103861.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:06.000Z",
-    "updatedAt": "2022-05-01T06:05:20.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ohara, Shinji",
+      "Kuroda, Iou"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:29.670Z",
+    "updatedAt": "2022-05-15T18:46:35.000Z",
+    "checkedAt": "2022-05-15T18:46:35.000Z",
+    "id": 44508,
+    "type": "manga",
+    "title": "Kurofune",
     "altTitle": [
       "黒船",
       "The Black Ships",
@@ -72,22 +81,16 @@
       "Night of the Living Dead",
       "Watashi no Sensei"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Iou Kuroda",
-      "Shinji Ohara"
-    ],
-    "id": 44508,
-    "malId": 14508,
-    "type": "manga",
-    "title": "Kurofune",
     "url": "https://anilist.co/manga/44508",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44508-K1zoy7WSfZgF.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:46.000Z",
-    "updatedAt": "2021-12-17T15:36:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/14508/Kurofune"
+    "externalLinks": [],
+    "malId": 14508,
+    "deletedAt": null,
+    "authors": [
+      "Iou Kuroda",
+      "Shinji Ohara"
+    ]
+  }
 }

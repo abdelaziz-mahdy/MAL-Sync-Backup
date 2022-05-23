@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:05.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8346,
   "identifier": "q7yw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 876,
   "aniId": 876,
-  "createdAt": "2020-10-12T15:55:05.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T19:25:23.000Z",
+    "checkedAt": "2022-05-14T19:25:23.000Z",
+    "id": 876,
+    "type": "anime",
+    "title": "Street Fighter II V",
+    "altTitle": [
+      "Street Fighter 2 V",
+      "Street Fighter II: The Animated Series",
+      "ストリートファイターII V"
+    ],
+    "url": "https://myanimelist.net/anime/876/Street_Fighter_II_V",
+    "image": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -35,39 +52,25 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Street Fighter 2 V",
-      "Street Fighter II: The Animated Series",
-      "ストリートファイターII V"
-    ],
-    "id": 876,
-    "type": "anime",
-    "title": "Street Fighter II V",
-    "url": "https://myanimelist.net/anime/876/Street_Fighter_II_V",
-    "image": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 772,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-03-21T20:58:19.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 772
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T17:24:23.000Z",
+    "checkedAt": "2022-05-15T17:24:23.000Z",
+    "id": 876,
+    "type": "anime",
+    "title": "Street Fighter II V",
     "altTitle": [
       "ストリートファイターII V"
     ],
-    "externalLinks": [],
-    "id": 876,
-    "malId": 876,
-    "type": "anime",
-    "title": "Street Fighter II V",
     "url": "https://anilist.co/anime/876",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/876.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:47.000Z",
-    "updatedAt": "2021-12-17T08:56:47.000Z",
+    "externalLinks": [],
+    "malId": 876,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/876/Street_Fighter_II_V"
+  }
 }

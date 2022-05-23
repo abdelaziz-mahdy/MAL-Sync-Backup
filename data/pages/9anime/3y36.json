@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:57.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1986,
   "identifier": "3y36",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 439,
   "aniId": 439,
-  "createdAt": "2020-10-12T15:49:57.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:04.000Z",
+    "updatedAt": "2022-05-14T20:59:41.000Z",
+    "checkedAt": "2022-05-14T20:59:41.000Z",
+    "id": 439,
+    "type": "anime",
+    "title": "RG Veda",
+    "altTitle": [
+      "RG Veda",
+      "聖伝"
+    ],
+    "url": "https://myanimelist.net/anime/439/RG_Veda",
+    "image": "https://cdn.myanimelist.net/images/anime/1487/112102.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RG Veda",
-      "聖伝"
-    ],
+    "deletedAt": null,
+    "anidbId": 465
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:44.000Z",
+    "updatedAt": "2022-05-16T22:22:22.000Z",
+    "checkedAt": "2022-05-16T22:22:22.000Z",
     "id": 439,
     "type": "anime",
-    "title": "RG Veda",
-    "url": "https://myanimelist.net/anime/439/RG_Veda",
-    "image": "https://cdn.myanimelist.net/images/anime/1487/112102.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 465,
-    "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2022-03-30T14:30:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Seiden: RG VEDA",
     "altTitle": [
       "RG Veda",
       "聖伝-RG VEDA-"
     ],
-    "externalLinks": [],
-    "id": 439,
-    "malId": 439,
-    "type": "anime",
-    "title": "Seiden: RG VEDA",
     "url": "https://anilist.co/anime/439",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b439-A65KabBBQKTY.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:44.000Z",
-    "updatedAt": "2022-03-16T08:49:31.000Z",
+    "externalLinks": [],
+    "malId": 439,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/439/RG_Veda"
+  }
 }

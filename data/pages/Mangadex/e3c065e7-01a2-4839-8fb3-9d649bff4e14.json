@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koga Yuichiro"
-  ],
+  "createdAt": "2020-10-12T16:17:56.000Z",
+  "updatedAt": "2021-12-07T12:48:33.000Z",
+  "checkedAt": null,
+  "id": 32177,
   "identifier": "e3c065e7-01a2-4839-8fb3-9d649bff4e14",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123695,
   "aniId": 112285,
-  "createdAt": "2020-10-12T16:17:56.000Z",
-  "updatedAt": "2021-12-07T12:48:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koga Yuichiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2021-11-25T01:35:45.000Z",
+    "checkedAt": null,
+    "id": 123695,
+    "type": "manga",
+    "title": "Minagoroshi no Arthur",
+    "altTitle": [
+      "King Arthur & Knights of the Round",
+      "Murderous Arthur",
+      "皆殺しのアーサー"
+    ],
+    "url": "https://myanimelist.net/manga/123695/Minagoroshi_no_Arthur",
+    "image": "https://cdn.myanimelist.net/images/manga/1/228102.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "King Arthur & Knights of the Round",
-      "Murderous Arthur",
-      "皆殺しのアーサー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koga, Yuichirou"
-    ],
-    "id": 123695,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:47.008Z",
+    "updatedAt": "2022-05-13T12:57:47.008Z",
+    "checkedAt": null,
+    "id": 112285,
     "type": "manga",
     "title": "Minagoroshi no Arthur",
-    "url": "https://myanimelist.net/manga/123695/Minagoroshi_no_Arthur",
-    "image": "https://cdn.myanimelist.net/images/manga/1/228102.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2021-11-25T01:35:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "皆殺しのアーサー",
       "Arthur of Murder"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuichirou Koga"
-    ],
-    "id": 112285,
-    "malId": 123695,
-    "type": "manga",
-    "title": "Minagoroshi no Arthur",
     "url": "https://anilist.co/manga/112285",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112285-FGlizUwTnfrF.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2021-12-18T07:27:07.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123695/Minagoroshi_no_Arthur"
+    "externalLinks": [],
+    "malId": 123695,
+    "deletedAt": null,
+    "authors": [
+      "Yuichirou Koga"
+    ]
+  }
 }

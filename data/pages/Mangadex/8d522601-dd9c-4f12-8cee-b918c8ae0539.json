@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Jeon Geuk-jin",
-    "Yang Jae Hyun"
-  ],
+  "createdAt": "2020-10-12T16:02:40.000Z",
+  "updatedAt": "2021-12-02T08:47:56.000Z",
+  "checkedAt": null,
+  "id": 622,
   "identifier": "8d522601-dd9c-4f12-8cee-b918c8ae0539",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16166,
   "aniId": 46166,
-  "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-12-02T08:47:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "Jeon Geuk-jin",
+    "Yang Jae Hyun"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:17.000Z",
+    "updatedAt": "2022-05-15T15:45:23.000Z",
+    "checkedAt": "2022-05-15T15:45:23.000Z",
+    "id": 16166,
+    "type": "manga",
+    "title": "Ruler of the Land",
     "altTitle": [
       "Burning Blood Kangho",
       "Yul Hyul Gang Ho",
@@ -31,22 +37,25 @@
       "The Ruler of the Land",
       "열혈강호"
     ],
-    "authors": [
-      "Yang, Jae Hyun",
-      "Jeon, Geuk-jin"
-    ],
-    "id": 16166,
-    "type": "manga",
-    "title": "Ruler of the Land",
     "url": "https://myanimelist.net/manga/16166/Ruler_of_the_Land",
     "image": "https://cdn.myanimelist.net/images/manga/3/172896.jpg",
     "category": "Manhwa",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:17.000Z",
-    "updatedAt": "2022-03-25T23:58:04.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yang, Jae Hyun",
+      "Jeon, Geuk-jin"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:52.436Z",
+    "updatedAt": "2022-05-15T19:06:35.000Z",
+    "checkedAt": "2022-05-15T19:06:35.000Z",
+    "id": 46166,
+    "type": "manga",
+    "title": "Yul Hyul Gang Ho",
     "altTitle": [
       "The Ruler of the Land",
       "열혈강호",
@@ -55,22 +64,16 @@
       "Yul Hyul Kang Ho",
       "นักรบครบสลึง"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jae Hyun Yang",
-      "Geuk-Jin Jeon"
-    ],
-    "id": 46166,
-    "malId": 16166,
-    "type": "manga",
-    "title": "Yul Hyul Gang Ho",
     "url": "https://anilist.co/manga/46166",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46166-0I7QzMdPvI8G.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:52.000Z",
-    "updatedAt": "2022-03-11T06:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16166/Ruler_of_the_Land"
+    "externalLinks": [],
+    "malId": 16166,
+    "deletedAt": null,
+    "authors": [
+      "Jae Hyun Yang",
+      "Geuk-Jin Jeon"
+    ]
+  }
 }

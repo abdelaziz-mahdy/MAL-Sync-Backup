@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Atlus",
-    "Ra-Sen"
-  ],
+  "createdAt": "2021-10-06T20:33:27.000Z",
+  "updatedAt": "2022-04-06T21:30:33.000Z",
+  "checkedAt": null,
+  "id": 88127,
   "identifier": "manga-il985994",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17331,
   "aniId": 47331,
-  "createdAt": "2021-10-06T20:33:27.000Z",
-  "updatedAt": "2022-04-06T21:30:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atlus",
+    "Ra-Sen"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:26.000Z",
+    "updatedAt": "2022-05-19T17:26:06.000Z",
+    "checkedAt": "2022-05-19T17:26:06.000Z",
+    "id": 17331,
+    "type": "manga",
+    "title": "Devil Summoner: Kuzunoha Raidou Tai Kodoku no Marebito",
+    "altTitle": [
+      "Devil Summoner: Raidou Kuzunoha vs The Lone Marebito",
+      "デビルサマナー　葛葉ライドウ対コドクノマレビト"
+    ],
+    "url": "https://myanimelist.net/manga/17331/Devil_Summoner__Kuzunoha_Raidou_Tai_Kodoku_no_Marebito",
+    "image": "https://cdn.myanimelist.net/images/manga/3/26137.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Devil Summoner: Raidou Kuzunoha vs The Lone Marebito",
-      "デビルサマナー　葛葉ライドウ対コドクノマレビト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ayamura, Kirihito",
       "Atlus"
-    ],
-    "id": 17331,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:08.339Z",
+    "updatedAt": "2022-05-19T17:26:05.000Z",
+    "checkedAt": "2022-05-19T17:26:05.000Z",
+    "id": 47331,
     "type": "manga",
     "title": "Devil Summoner: Kuzunoha Raidou Tai Kodoku no Marebito",
-    "url": "https://myanimelist.net/manga/17331/Devil_Summoner__Kuzunoha_Raidou_Tai_Kodoku_no_Marebito",
-    "image": "https://cdn.myanimelist.net/images/manga/3/26137.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:26.000Z",
-    "updatedAt": "2022-04-29T12:31:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "デビルサマナー　葛葉ライドウ対コドクノマレビト",
       "Devil Summoner: Raidou Kuzunoha vs The Lone Marebito"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kirihito Ayamura",
-      "Atlus"
-    ],
-    "id": 47331,
-    "malId": 17331,
-    "type": "manga",
-    "title": "Devil Summoner: Kuzunoha Raidou Tai Kodoku no Marebito",
     "url": "https://anilist.co/manga/47331",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47331-AZqXTIkin8hg.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:05.000Z",
-    "updatedAt": "2021-12-17T16:33:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17331/Devil_Summoner__Kuzunoha_Raidou_Tai_Kodoku_no_Marebito"
+    "externalLinks": [],
+    "malId": 17331,
+    "deletedAt": null,
+    "authors": [
+      "Kirihito Ayamura",
+      "Atlus"
+    ]
+  }
 }

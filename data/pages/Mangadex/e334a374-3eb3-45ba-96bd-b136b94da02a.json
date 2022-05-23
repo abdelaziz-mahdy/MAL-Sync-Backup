@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Inoue Takehiko"
-  ],
+  "createdAt": "2020-10-12T16:04:05.000Z",
+  "updatedAt": "2021-12-02T18:48:06.000Z",
+  "checkedAt": null,
+  "id": 3600,
   "identifier": "e334a374-3eb3-45ba-96bd-b136b94da02a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1221,
   "aniId": 31221,
-  "createdAt": "2020-10-12T16:04:05.000Z",
-  "updatedAt": "2021-12-02T18:48:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inoue Takehiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2022-05-15T15:33:43.000Z",
+    "checkedAt": "2022-05-15T15:33:43.000Z",
+    "id": 1221,
+    "type": "manga",
+    "title": "Buzzer Beater",
+    "altTitle": [
+      "BUZZER BEATER"
+    ],
+    "url": "https://myanimelist.net/manga/1221/Buzzer_Beater",
+    "image": "https://cdn.myanimelist.net/images/manga/3/201886.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +40,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "BUZZER BEATER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inoue, Takehiko"
-    ],
-    "id": 1221,
-    "type": "manga",
-    "title": "Buzzer Beater",
-    "url": "https://myanimelist.net/manga/1221/Buzzer_Beater",
-    "image": "https://cdn.myanimelist.net/images/manga/3/201886.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2022-04-01T22:31:26.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:40.321Z",
+    "updatedAt": "2022-05-15T18:54:47.000Z",
+    "checkedAt": "2022-05-15T18:54:47.000Z",
+    "id": 31221,
+    "type": "manga",
+    "title": "BUZZER BEATER",
     "altTitle": [
       "BUZZER BEATER",
       "BUZZER BEATER",
       "ブザービーター"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takehiko Inoue",
-      "Melissa Chiam"
-    ],
-    "id": 31221,
-    "malId": 1221,
-    "type": "manga",
-    "title": "BUZZER BEATER",
     "url": "https://anilist.co/manga/31221",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31221-51HUcNmPt0uT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:56.000Z",
-    "updatedAt": "2022-03-21T10:28:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1221/Buzzer_Beater"
+    "externalLinks": [],
+    "malId": 1221,
+    "deletedAt": null,
+    "authors": [
+      "Takehiko Inoue",
+      "Melissa Chiam"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Edge Edge",
-    "Husky Guy"
-  ],
+  "createdAt": "2020-12-17T05:56:47.000Z",
+  "updatedAt": "2022-03-03T15:40:29.000Z",
+  "checkedAt": null,
+  "id": 54501,
   "identifier": "s-study",
   "type": "manga",
   "page": "MangaSee",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": null,
   "aniId": 86497,
-  "createdAt": "2020-12-17T05:56:47.000Z",
-  "updatedAt": "2022-03-03T15:40:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Edge Edge",
+    "Husky Guy"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:55.075Z",
+    "updatedAt": "2022-05-18T00:19:50.000Z",
+    "checkedAt": "2022-05-18T00:19:50.000Z",
+    "id": 86497,
+    "type": "manga",
+    "title": "SStudy",
     "altTitle": [
       "SStudy",
       "나성기의 스터디",
@@ -27,22 +35,16 @@
       "Sex Study",
       "Sunggi's Study Group"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Edge Edge",
-      "Husky Nom"
-    ],
-    "id": 86497,
-    "malId": null,
-    "type": "manga",
-    "title": "SStudy",
     "url": "https://anilist.co/manga/86497",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86497-DNF9k9l58W8x.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-02T07:17:03.000Z",
-    "updatedAt": "2021-12-23T21:22:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Edge Edge",
+      "Husky Nom"
+    ]
+  }
 }

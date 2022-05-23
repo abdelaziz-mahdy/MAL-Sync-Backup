@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chiya Toriko"
-  ],
+  "createdAt": "2020-10-12T16:03:23.000Z",
+  "updatedAt": "2021-12-02T14:18:28.000Z",
+  "checkedAt": null,
+  "id": 2131,
   "identifier": "7e0dcfbc-501c-487a-b08b-9d6150196d63",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 943,
   "aniId": 30943,
-  "createdAt": "2020-10-12T16:03:23.000Z",
-  "updatedAt": "2021-12-02T14:18:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chiya Toriko"
+  ],
   "Mal": {
+    "createdAt": "2021-06-02T14:01:22.000Z",
+    "updatedAt": "2021-12-02T14:16:36.000Z",
+    "checkedAt": null,
+    "id": 943,
+    "type": "manga",
+    "title": "Clover",
+    "altTitle": [
+      "Tengoku no Hana Banga-hen: Strawberry Time",
+      "Sugar Baby",
+      "クローバー"
+    ],
+    "url": "https://myanimelist.net/manga/943/Clover",
+    "image": "https://cdn.myanimelist.net/images/manga/2/170881.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tengoku no Hana Banga-hen: Strawberry Time",
-      "Sugar Baby",
-      "クローバー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chiya, Toriko"
-    ],
-    "id": 943,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:44.385Z",
+    "updatedAt": "2022-05-13T13:03:44.385Z",
+    "checkedAt": null,
+    "id": 30943,
     "type": "manga",
     "title": "Clover",
-    "url": "https://myanimelist.net/manga/943/Clover",
-    "image": "https://cdn.myanimelist.net/images/manga/2/170881.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-02T14:01:22.000Z",
-    "updatedAt": "2021-12-02T14:16:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Clover",
       "クローバー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toriko Chiya"
-    ],
-    "id": 30943,
-    "malId": 943,
-    "type": "manga",
-    "title": "Clover",
     "url": "https://anilist.co/manga/30943",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/943.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-02T14:01:22.000Z",
-    "updatedAt": "2021-12-17T09:37:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/943/Clover"
+    "externalLinks": [],
+    "malId": 943,
+    "deletedAt": null,
+    "authors": [
+      "Toriko Chiya"
+    ]
+  }
 }

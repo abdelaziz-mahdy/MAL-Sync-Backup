@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takayoshi Yuri"
-  ],
+  "createdAt": "2020-10-12T16:12:21.000Z",
+  "updatedAt": "2021-12-05T15:51:10.000Z",
+  "checkedAt": null,
+  "id": 20962,
   "identifier": "42b39de2-219b-4d1e-b158-38362d38d710",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111361,
   "aniId": 101378,
-  "createdAt": "2020-10-12T16:12:21.000Z",
-  "updatedAt": "2021-12-05T15:51:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takayoshi Yuri"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T14:50:27.000Z",
+    "updatedAt": "2022-05-18T19:16:27.000Z",
+    "checkedAt": "2022-05-18T19:16:27.000Z",
+    "id": 111361,
+    "type": "manga",
+    "title": "Tokyo Boy Meets Country",
+    "altTitle": [
+      "トーキョーボーイミーツカントリー"
+    ],
+    "url": "https://myanimelist.net/manga/111361/Tokyo_Boy_Meets_Country",
+    "image": "https://cdn.myanimelist.net/images/manga/3/219534.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "トーキョーボーイミーツカントリー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takayoshi, Yuri"
-    ],
-    "id": 111361,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:32.418Z",
+    "updatedAt": "2022-05-18T19:16:25.000Z",
+    "checkedAt": "2022-05-18T19:16:25.000Z",
+    "id": 101378,
     "type": "manga",
     "title": "Tokyo Boy Meets Country",
-    "url": "https://myanimelist.net/manga/111361/Tokyo_Boy_Meets_Country",
-    "image": "https://cdn.myanimelist.net/images/manga/3/219534.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T14:50:27.000Z",
-    "updatedAt": "2022-05-01T07:02:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "トーキョーボーイミーツカントリー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuri Takayoshi"
-    ],
-    "id": 101378,
-    "malId": 111361,
-    "type": "manga",
-    "title": "Tokyo Boy Meets Country",
     "url": "https://anilist.co/manga/101378",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101378-DqvDeBmUpgf2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-23T09:12:58.000Z",
-    "updatedAt": "2021-12-18T03:52:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111361/Tokyo_Boy_Meets_Country"
+    "externalLinks": [],
+    "malId": 111361,
+    "deletedAt": null,
+    "authors": [
+      "Yuri Takayoshi"
+    ]
+  }
 }

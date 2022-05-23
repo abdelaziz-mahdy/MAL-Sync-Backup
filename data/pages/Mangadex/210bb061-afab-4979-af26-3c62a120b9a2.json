@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shuri",
-    "Shiozu"
-  ],
+  "createdAt": "2020-10-12T16:11:33.000Z",
+  "updatedAt": "2021-12-05T09:25:02.000Z",
+  "checkedAt": null,
+  "id": 19570,
   "identifier": "210bb061-afab-4979-af26-3c62a120b9a2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 309,
   "aniId": 30309,
-  "createdAt": "2020-10-12T16:11:33.000Z",
-  "updatedAt": "2021-12-05T09:25:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shuri",
+    "Shiozu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-14T10:35:08.000Z",
+    "checkedAt": "2022-05-14T10:35:08.000Z",
+    "id": 309,
+    "type": "manga",
+    "title": "Ghost!",
+    "altTitle": [
+      "Eerie Queerie",
+      "Ghost",
+      "Eerie Queerie!",
+      "ゴースト！"
+    ],
+    "url": "https://myanimelist.net/manga/309/Ghost",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178258.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,52 +48,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eerie Queerie",
-      "Ghost",
-      "Eerie Queerie!",
-      "ゴースト！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shuri, Shiozu"
-    ],
-    "id": 309,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:39.576Z",
+    "updatedAt": "2022-05-13T12:52:39.576Z",
+    "checkedAt": null,
+    "id": 30309,
     "type": "manga",
     "title": "Ghost!",
-    "url": "https://myanimelist.net/manga/309/Ghost",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178258.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-04-06T19:00:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Eerie Queerie!",
       "ゴースト！",
       "Eerie Queerie",
       "Ghost"
     ],
+    "url": "https://anilist.co/manga/30309",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30309-yUYnOEiGXaWQ.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 309,
+    "deletedAt": null,
     "authors": [
       "Shuri Shiozu",
       "James Dashiell",
       "Abelardo Bigting",
       "Heidi Yamaguchi",
       "Fae Kuen"
-    ],
-    "id": 30309,
-    "malId": 309,
-    "type": "manga",
-    "title": "Ghost!",
-    "url": "https://anilist.co/manga/30309",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30309-yUYnOEiGXaWQ.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/309/Ghost"
+    ]
+  }
 }

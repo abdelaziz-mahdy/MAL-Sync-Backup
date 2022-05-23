@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:49.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8024,
   "identifier": "pnq9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39531,
   "aniId": 108450,
-  "createdAt": "2020-10-12T15:54:49.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T18:37:11.000Z",
+    "checkedAt": "2022-05-14T18:37:11.000Z",
+    "id": 39531,
+    "type": "anime",
+    "title": "Kuutei Dragons",
+    "altTitle": [
+      "Airborne Dragons",
+      "Drifting Dragons",
+      "空挺ドラゴンズ"
+    ],
+    "url": "https://myanimelist.net/anime/39531/Kuutei_Dragons",
+    "image": "https://cdn.myanimelist.net/images/anime/1211/116017.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,47 +56,33 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Airborne Dragons",
-      "Drifting Dragons",
-      "空挺ドラゴンズ"
-    ],
-    "id": 39531,
+    "deletedAt": null,
+    "anidbId": 14755
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:56.000Z",
+    "updatedAt": "2022-05-15T10:30:47.000Z",
+    "checkedAt": "2022-05-15T10:30:47.000Z",
+    "id": 108450,
     "type": "anime",
     "title": "Kuutei Dragons",
-    "url": "https://myanimelist.net/anime/39531/Kuutei_Dragons",
-    "image": "https://cdn.myanimelist.net/images/anime/1211/116017.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14755,
-    "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2022-03-14T14:01:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Drifting Dragons",
       "空挺ドラゴンズ",
       "Queen Zaza – Die letzten Drachenfänger",
       "زازا قاهرة التنانين"
     ],
+    "url": "https://anilist.co/anime/108450",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108450-egUEb5lOpGxS.jpg",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/80992788"
       }
     ],
-    "id": 108450,
     "malId": 39531,
-    "type": "anime",
-    "title": "Kuutei Dragons",
-    "url": "https://anilist.co/anime/108450",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108450-egUEb5lOpGxS.jpg",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:56.000Z",
-    "updatedAt": "2021-12-17T15:01:46.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/39531/Kuutei_Dragons"
+  }
 }

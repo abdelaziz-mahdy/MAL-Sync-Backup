@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-08-15T11:37:03.000Z",
+  "updatedAt": "2021-08-15T12:06:59.000Z",
+  "checkedAt": null,
+  "id": 38305,
   "identifier": "poketoon",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,17 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42161,
   "aniId": 119964,
-  "createdAt": "2021-08-15T11:37:03.000Z",
-  "updatedAt": "2021-08-15T12:06:59.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-14T18:42:23.000Z",
+    "checkedAt": "2022-05-14T18:42:23.000Z",
+    "id": 42161,
+    "type": "anime",
+    "title": "Poketoon",
+    "altTitle": [
+      "Pokétoon",
+      "Zuruggu to Mimikkyu - Chase the Beans",
+      "Hero ni Naritai Yanchamu",
+      "Yume no Tsubomi",
+      "Mattete ne! Koiking",
+      "Gengar ni Nacchatta!?",
+      "Pokapoka Magumaggu House",
+      "ズルッグとミミッキュ"
+    ],
+    "url": "https://myanimelist.net/anime/42161/Poketoon",
+    "image": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
-        "url": "https://www.pokemon.co.jp/"
+        "url": "https://www.pokemon.co.jp/ex/poketoon/"
       },
       {
         "site": "animedb",
@@ -30,27 +52,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Pokétoon",
-      "Chase the Beans",
-      "Zuruggu to Mimikkyu",
-      "Hero ni Naritai Pancham",
-      "Yume no Tsubomi",
-      "ズルッグとミミッキュ"
-    ],
-    "id": 42161,
-    "type": "anime",
-    "title": "Poketoon",
-    "url": "https://myanimelist.net/anime/42161/Poketoon",
-    "image": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 15626,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-04T08:33:53.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 15626
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:06.000Z",
+    "updatedAt": "2022-05-15T09:50:23.000Z",
+    "checkedAt": "2022-05-15T09:50:23.000Z",
+    "id": 119964,
+    "type": "anime",
+    "title": "POKÉTOON",
     "altTitle": [
       "POKÉTOON",
       "Zuruggu to Mimikkyu",
@@ -61,18 +72,12 @@
       "Gengar ni Nacchatta!?",
       "Fubuki no Natsu Yasumi"
     ],
-    "externalLinks": [],
-    "id": 119964,
-    "malId": 42161,
-    "type": "anime",
-    "title": "POKÉTOON",
     "url": "https://anilist.co/anime/119964",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119964-o3oBBpf8XeWc.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:06.000Z",
-    "updatedAt": "2022-04-11T22:07:25.000Z",
+    "externalLinks": [],
+    "malId": 42161,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/42161/Poketoon"
+  }
 }

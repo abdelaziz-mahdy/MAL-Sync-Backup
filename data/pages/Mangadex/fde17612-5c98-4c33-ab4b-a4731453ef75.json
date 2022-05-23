@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoneda Kou"
-  ],
+  "createdAt": "2020-10-12T16:03:01.000Z",
+  "updatedAt": "2021-12-02T11:18:35.000Z",
+  "checkedAt": null,
+  "id": 1359,
   "identifier": "fde17612-5c98-4c33-ab4b-a4731453ef75",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16061,
   "aniId": 46061,
-  "createdAt": "2020-10-12T16:03:01.000Z",
-  "updatedAt": "2021-12-02T11:18:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoneda Kou"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.libre-pub.co.jp/nights/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:16.000Z",
+    "updatedAt": "2022-05-14T09:33:28.000Z",
+    "checkedAt": "2022-05-14T09:33:28.000Z",
+    "id": 16061,
+    "type": "manga",
+    "title": "NightS",
     "altTitle": [
       "Kanjou Spectrum",
       "Reply",
@@ -34,21 +35,29 @@
       "NightS",
       "NightS"
     ],
-    "authors": [
-      "Yoneda, Kou"
-    ],
-    "id": 16061,
-    "type": "manga",
-    "title": "NightS",
     "url": "https://myanimelist.net/manga/16061/NightS",
     "image": "https://cdn.myanimelist.net/images/manga/1/130125.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:16.000Z",
-    "updatedAt": "2022-03-20T23:23:36.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.libre-pub.co.jp/nights/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoneda, Kou"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:59.744Z",
+    "updatedAt": "2022-05-13T13:04:59.744Z",
+    "checkedAt": null,
+    "id": 46061,
+    "type": "manga",
+    "title": "NightS",
     "altTitle": [
       "ナイツ",
       "Kanjou Spectrum",
@@ -59,21 +68,15 @@
       "Three Months After Reply",
       "Night One Month After"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kou Yoneda"
-    ],
-    "id": 46061,
-    "malId": 16061,
-    "type": "manga",
-    "title": "NightS",
     "url": "https://anilist.co/manga/46061",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46061-Ixrn29U7X1Dp.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:43:52.000Z",
-    "updatedAt": "2021-12-17T16:06:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16061/NightS"
+    "externalLinks": [],
+    "malId": 16061,
+    "deletedAt": null,
+    "authors": [
+      "Kou Yoneda"
+    ]
+  }
 }

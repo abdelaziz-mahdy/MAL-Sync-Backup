@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Totoya Kara",
-    "YO-yo Sya (circle)"
-  ],
+  "createdAt": "2020-10-12T16:03:07.000Z",
+  "updatedAt": "2021-12-02T12:17:17.000Z",
+  "checkedAt": null,
+  "id": 1573,
   "identifier": "e368c919-c67b-48ae-a70e-7e0aca267092",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 572,
   "aniId": 30572,
-  "createdAt": "2020-10-12T16:03:07.000Z",
-  "updatedAt": "2021-12-02T12:17:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Totoya Kara",
+    "YO-yo Sya (circle)"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-05-15T21:26:42.000Z",
+    "checkedAt": "2022-05-15T21:26:42.000Z",
+    "id": 572,
+    "type": "manga",
+    "title": "Midori no Hibi",
+    "altTitle": [
+      "Midori's Days",
+      "Midori Days",
+      "美鳥の日々"
+    ],
+    "url": "https://myanimelist.net/manga/572/Midori_no_Hibi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/56681.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Midori's Days",
-      "Midori Days",
-      "美鳥の日々"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inoue, Kazurou"
-    ],
-    "id": 572,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:16.700Z",
+    "updatedAt": "2022-05-15T22:15:59.000Z",
+    "checkedAt": "2022-05-15T22:15:59.000Z",
+    "id": 30572,
     "type": "manga",
     "title": "Midori no Hibi",
-    "url": "https://myanimelist.net/manga/572/Midori_no_Hibi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/56681.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2022-01-04T09:50:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Midori Days",
       "美鳥の日々",
       "Midori's Days",
       "Midori, Échame una Mano"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazurou Inoue"
-    ],
-    "id": 30572,
-    "malId": 572,
-    "type": "manga",
-    "title": "Midori no Hibi",
     "url": "https://anilist.co/manga/30572",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/572.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:36.000Z",
-    "updatedAt": "2021-11-25T07:35:43.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/572/Midori_no_Hibi"
+    "externalLinks": [],
+    "malId": 572,
+    "deletedAt": null,
+    "authors": [
+      "Kazurou Inoue"
+    ]
+  }
 }

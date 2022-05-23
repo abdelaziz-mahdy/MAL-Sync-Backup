@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:01:40.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20232,
   "identifier": "ranma-12",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 210,
   "aniId": 210,
-  "createdAt": "2020-10-12T16:01:40.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T16:38:47.000Z",
+    "checkedAt": "2022-05-14T16:38:47.000Z",
+    "id": 210,
+    "type": "anime",
+    "title": "Ranma ½",
+    "altTitle": [
+      "Ranma 1/2",
+      "Ranma ½ Nettou Hen",
+      "Ranma ½",
+      "らんま1/2"
+    ],
+    "url": "https://myanimelist.net/anime/210/Ranma_½",
+    "image": "https://cdn.myanimelist.net/images/anime/13/6441.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,25 +57,16 @@
         "url": "https://www.funimation.com/shows/ranma-12"
       }
     ],
-    "altTitle": [
-      "Ranma 1/2",
-      "Ranma ½ Nettou Hen",
-      "Ranma ½",
-      "らんま1/2"
-    ],
+    "deletedAt": null,
+    "anidbId": 193
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T10:11:47.000Z",
+    "checkedAt": "2022-05-15T10:11:47.000Z",
     "id": 210,
     "type": "anime",
     "title": "Ranma ½",
-    "url": "https://myanimelist.net/anime/210/Ranma_½",
-    "image": "https://cdn.myanimelist.net/images/anime/13/6441.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 193,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-04-12T19:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "らんま1/2",
       "Ranma 1/2",
@@ -65,6 +74,10 @@
       "ينبوع الأحلام",
       "รันม่า1/2 ไอ้หนุ่มกังฟู "
     ],
+    "url": "https://anilist.co/anime/210",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/210.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
@@ -75,17 +88,7 @@
         "url": "https://www.funimation.com/shows/ranma-12/"
       }
     ],
-    "id": 210,
     "malId": 210,
-    "type": "anime",
-    "title": "Ranma ½",
-    "url": "https://anilist.co/anime/210",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/210.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:34.000Z",
-    "updatedAt": "2022-02-04T14:06:03.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/210/Ranma_½"
+  }
 }

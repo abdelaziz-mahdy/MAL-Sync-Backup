@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yulseo"
-  ],
+  "createdAt": "2020-10-12T16:13:54.000Z",
+  "updatedAt": "2021-12-06T10:18:21.000Z",
+  "checkedAt": null,
+  "id": 23825,
   "identifier": "ab27cda9-b4b7-4450-bdbe-edae6e9ba0bb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 100794,
-  "createdAt": "2020-10-12T16:13:54.000Z",
-  "updatedAt": "2021-12-06T10:18:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yulseo"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:22.181Z",
+    "updatedAt": "2022-05-13T13:00:22.181Z",
+    "checkedAt": null,
+    "id": 100794,
+    "type": "manga",
+    "title": "Hanjip Du Sallim",
     "altTitle": [
       "Another Face of Roommate",
       "한집 두 살림",
@@ -26,19 +34,13 @@
       "2 Houses",
       "Hanjip Du Salrim"
     ],
-    "externalLinks": [],
-    "authors": [],
-    "id": 100794,
-    "malId": null,
-    "type": "manga",
-    "title": "Hanjip Du Sallim",
     "url": "https://anilist.co/manga/100794",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100794-vk3onNrerIQJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-27T23:28:43.000Z",
-    "updatedAt": "2021-12-21T13:58:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": []
+  }
 }

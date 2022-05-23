@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamamoto Shin"
-  ],
+  "createdAt": "2020-10-12T16:09:29.000Z",
+  "updatedAt": "2021-12-04T18:25:30.000Z",
+  "checkedAt": null,
+  "id": 15072,
   "identifier": "36801362-0927-4901-9a91-8a85e73275e4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94701,
   "aniId": 96463,
-  "createdAt": "2020-10-12T16:09:29.000Z",
-  "updatedAt": "2021-12-04T18:25:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamoto Shin"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-05-20T13:22:11.000Z",
+    "checkedAt": "2022-05-20T13:22:11.000Z",
+    "id": 94701,
+    "type": "manga",
+    "title": "Naraku no Adu",
+    "altTitle": [
+      "Narakunoadu",
+      "Adu of Hades",
+      "ナラクノアドゥ"
+    ],
+    "url": "https://myanimelist.net/manga/94701/Naraku_no_Adu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/177769.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Narakunoadu",
-      "Adu of Hades",
-      "ナラクノアドゥ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamoto, Shin"
-    ],
-    "id": 94701,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:17.004Z",
+    "updatedAt": "2022-05-20T13:22:10.000Z",
+    "checkedAt": "2022-05-20T13:22:10.000Z",
+    "id": 96463,
     "type": "manga",
     "title": "Naraku no Adu",
-    "url": "https://myanimelist.net/manga/94701/Naraku_no_Adu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177769.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2021-11-16T10:29:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ナラクノアドゥ",
       "Narakunoadu",
       "Adu of Hades",
       "Twelve Demon Kings"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shin Yamamoto"
-    ],
-    "id": 96463,
-    "malId": 94701,
-    "type": "manga",
-    "title": "Naraku no Adu",
     "url": "https://anilist.co/manga/96463",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b96463-hVj7E4ryRa89.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:56.000Z",
-    "updatedAt": "2021-12-18T01:49:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94701/Naraku_no_Adu"
+    "externalLinks": [],
+    "malId": 94701,
+    "deletedAt": null,
+    "authors": [
+      "Shin Yamamoto"
+    ]
+  }
 }

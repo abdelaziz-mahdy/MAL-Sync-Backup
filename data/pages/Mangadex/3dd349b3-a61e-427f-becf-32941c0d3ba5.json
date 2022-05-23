@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Haga",
-    "Kang Jiyoung"
-  ],
+  "createdAt": "2020-10-12T16:10:59.000Z",
+  "updatedAt": "2021-12-05T09:22:41.000Z",
+  "checkedAt": null,
+  "id": 18309,
   "identifier": "3dd349b3-a61e-427f-becf-32941c0d3ba5",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113555,
   "aniId": 98689,
-  "createdAt": "2020-10-12T16:10:59.000Z",
-  "updatedAt": "2021-12-05T09:22:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Haga",
+    "Kang Jiyoung"
+  ],
   "Mal": {
+    "createdAt": "2021-03-23T17:15:52.000Z",
+    "updatedAt": "2022-05-15T07:26:33.000Z",
+    "checkedAt": "2022-05-15T07:26:33.000Z",
+    "id": 113555,
+    "type": "manga",
+    "title": "King's Maker",
+    "altTitle": [
+      "킹스메이커"
+    ],
+    "url": "https://myanimelist.net/manga/113555/Kings_Maker",
+    "image": "https://cdn.myanimelist.net/images/manga/2/222761.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "킹스메이커"
-    ],
+    "deletedAt": null,
     "authors": [
       "Haga",
       "Kang, Ji-young"
-    ],
-    "id": 113555,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:10.785Z",
+    "updatedAt": "2022-05-18T05:39:38.000Z",
+    "checkedAt": "2022-05-18T05:39:38.000Z",
+    "id": 98689,
     "type": "manga",
     "title": "King's Maker",
-    "url": "https://myanimelist.net/manga/113555/Kings_Maker",
-    "image": "https://cdn.myanimelist.net/images/manga/2/222761.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-03-23T17:15:52.000Z",
-    "updatedAt": "2021-12-05T05:49:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "King's Maker",
       "킹스메이커",
       "Kingseu Meikeo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haga",
-      "Ji-Young Kang"
-    ],
-    "id": 98689,
-    "malId": 113555,
-    "type": "manga",
-    "title": "King's Maker",
     "url": "https://anilist.co/manga/98689",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98689-9wJyiqicaHlD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:01.000Z",
-    "updatedAt": "2021-12-18T02:29:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113555/Kings_Maker"
+    "externalLinks": [],
+    "malId": 113555,
+    "deletedAt": null,
+    "authors": [
+      "Haga",
+      "Ji-Young Kang"
+    ]
+  }
 }

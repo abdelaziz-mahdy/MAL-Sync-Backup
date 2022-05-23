@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:49.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3069,
   "identifier": "6ly9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26085,
   "aniId": 20793,
-  "createdAt": "2020-10-12T15:50:49.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:30.000Z",
+    "updatedAt": "2022-05-14T16:48:26.000Z",
+    "checkedAt": "2022-05-14T16:48:26.000Z",
+    "id": 26085,
+    "type": "anime",
+    "title": "Military!",
+    "altTitle": [
+      "Miritari!",
+      "みりたり!"
+    ],
+    "url": "https://myanimelist.net/anime/26085/Military",
+    "image": "https://cdn.myanimelist.net/images/anime/4/68837.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-264635"
       }
     ],
-    "altTitle": [
-      "Miritari!",
-      "みりたり!"
-    ],
-    "id": 26085,
+    "deletedAt": null,
+    "anidbId": 10751
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:42.000Z",
+    "updatedAt": "2022-05-15T13:44:23.000Z",
+    "checkedAt": "2022-05-15T13:44:23.000Z",
+    "id": 20793,
     "type": "anime",
     "title": "Military!",
-    "url": "https://myanimelist.net/anime/26085/Military",
-    "image": "https://cdn.myanimelist.net/images/anime/4/68837.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10751,
-    "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2022-03-16T17:49:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "みりたり！",
       "Militari!"
     ],
+    "url": "https://anilist.co/anime/20793",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20793-xRbYORwAATLJ.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/military"
       }
     ],
-    "id": 20793,
     "malId": 26085,
-    "type": "anime",
-    "title": "Military!",
-    "url": "https://anilist.co/anime/20793",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20793-xRbYORwAATLJ.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:42.000Z",
-    "updatedAt": "2021-12-17T14:30:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/26085/Military"
+  }
 }

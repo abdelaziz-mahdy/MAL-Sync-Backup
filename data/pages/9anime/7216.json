@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:33.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 234,
   "identifier": "7216",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 935,
   "aniId": 935,
-  "createdAt": "2020-10-12T15:48:33.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:10.000Z",
+    "updatedAt": "2022-05-14T17:46:47.000Z",
+    "checkedAt": "2022-05-14T17:46:47.000Z",
+    "id": 935,
+    "type": "anime",
+    "title": "Witchblade",
+    "altTitle": [
+      "Witchblade",
+      "ウィッチブレイド"
+    ],
+    "url": "https://myanimelist.net/anime/935/Witchblade",
+    "image": "https://cdn.myanimelist.net/images/anime/1/935.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,27 +59,24 @@
         "url": "https://www.funimation.com/shows/witchblade"
       }
     ],
-    "altTitle": [
-      "Witchblade",
-      "ウィッチブレイド"
-    ],
+    "deletedAt": null,
+    "anidbId": 2511
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:51.000Z",
+    "updatedAt": "2022-05-15T11:21:47.000Z",
+    "checkedAt": "2022-05-15T11:21:47.000Z",
     "id": 935,
     "type": "anime",
     "title": "Witchblade",
-    "url": "https://myanimelist.net/anime/935/Witchblade",
-    "image": "https://cdn.myanimelist.net/images/anime/1/935.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2511,
-    "createdAt": "2020-10-12T15:38:10.000Z",
-    "updatedAt": "2022-03-28T07:00:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Witchblade",
       "ウィッチブレイド"
     ],
+    "url": "https://anilist.co/anime/935",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx935-nzFM4wRfrbmt.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -74,17 +87,7 @@
         "url": "http://www.hulu.com/witchblade"
       }
     ],
-    "id": 935,
     "malId": 935,
-    "type": "anime",
-    "title": "Witchblade",
-    "url": "https://anilist.co/anime/935",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx935-nzFM4wRfrbmt.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:51.000Z",
-    "updatedAt": "2021-12-17T08:58:17.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/935/Witchblade"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azutaka"
-  ],
+  "createdAt": "2022-05-04T03:01:33.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T20:04:41.000Z",
+  "id": 102593,
   "identifier": "manga-lm988795",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,57 @@
   "image": "https://avt.mkklcdnv6temp.com/3/t/24-1618023138.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T03:01:33.000Z",
-  "updatedAt": "2022-05-04T03:01:33.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 120734,
+  "aniId": 126014,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Azutaka"
+  ],
+  "Mal": {
+    "createdAt": "2021-04-10T14:21:02.000Z",
+    "updatedAt": "2022-05-13T20:04:45.000Z",
+    "checkedAt": "2022-05-13T20:04:45.000Z",
+    "id": 120734,
+    "type": "manga",
+    "title": "Ii Ko no Furi wa Mou Yameru",
+    "altTitle": [
+      "I Will Stop Pretending to be Pure",
+      "No More Mr. Nice Guy",
+      "イイコのふりはもうやめる"
+    ],
+    "url": "https://myanimelist.net/manga/120734/Ii_Ko_no_Furi_wa_Mou_Yameru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226319.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Azutaka"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:15.440Z",
+    "updatedAt": "2022-05-13T12:47:15.440Z",
+    "checkedAt": null,
+    "id": 126014,
+    "type": "manga",
+    "title": "Iiko no Furi wa Mou Yameru",
+    "altTitle": [
+      "No More Mr. Nice Guy",
+      "イイコのふりはもうやめる"
+    ],
+    "url": "https://anilist.co/manga/126014",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126014-teTKnT23Tc2U.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 120734,
+    "deletedAt": null,
+    "authors": [
+      "Azutaka"
+    ]
+  }
 }

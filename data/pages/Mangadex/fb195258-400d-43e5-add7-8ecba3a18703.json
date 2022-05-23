@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sawamura Mariko"
-  ],
+  "createdAt": "2020-10-12T16:20:10.000Z",
+  "updatedAt": "2021-12-07T23:39:50.000Z",
+  "checkedAt": null,
+  "id": 36653,
   "identifier": "fb195258-400d-43e5-add7-8ecba3a18703",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80555,
   "aniId": 99815,
-  "createdAt": "2020-10-12T16:20:10.000Z",
-  "updatedAt": "2021-12-07T23:39:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sawamura Mariko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-17T08:53:32.000Z",
+    "checkedAt": "2022-05-17T08:53:32.000Z",
+    "id": 80555,
+    "type": "manga",
+    "title": "Mahou Shoujo Ikusei Keikaku",
+    "altTitle": [
+      "Magical Girl Raising Project",
+      "魔法少女育成計画"
+    ],
+    "url": "https://myanimelist.net/manga/80555/Mahou_Shoujo_Ikusei_Keikaku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/163622.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +41,37 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Magical Girl Raising Project",
-      "魔法少女育成計画"
-    ],
+    "deletedAt": null,
     "authors": [
       "Edoya, Pochi",
       "Endou, Asari"
-    ],
-    "id": 80555,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:28.415Z",
+    "updatedAt": "2022-05-17T08:53:30.000Z",
+    "checkedAt": "2022-05-17T08:53:30.000Z",
+    "id": 99815,
     "type": "manga",
     "title": "Mahou Shoujo Ikusei Keikaku",
-    "url": "https://myanimelist.net/manga/80555/Mahou_Shoujo_Ikusei_Keikaku",
-    "image": "https://cdn.myanimelist.net/images/manga/2/163622.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-03-25T03:58:05.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magical Girl Raising Project",
       "魔法少女育成計画",
       "Mahoiku"
     ],
+    "url": "https://anilist.co/manga/99815",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99815-P58gbhwi0owo.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 80555,
+    "deletedAt": null,
     "authors": [
       "Asari Endou",
       "Pochi Edoya",
       "Maruino",
       "Jennifer Ward",
       "Rochelle Gancio"
-    ],
-    "id": 99815,
-    "malId": 80555,
-    "type": "manga",
-    "title": "Mahou Shoujo Ikusei Keikaku",
-    "url": "https://anilist.co/manga/99815",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99815-P58gbhwi0owo.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:01.000Z",
-    "updatedAt": "2021-12-18T02:58:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80555/Mahou_Shoujo_Ikusei_Keikaku"
+    ]
+  }
 }

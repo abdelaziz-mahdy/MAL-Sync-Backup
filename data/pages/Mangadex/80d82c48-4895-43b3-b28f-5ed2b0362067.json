@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hironikuru"
-  ],
+  "createdAt": "2020-10-12T16:19:55.000Z",
+  "updatedAt": "2021-11-22T08:41:58.000Z",
+  "checkedAt": null,
+  "id": 36107,
   "identifier": "80d82c48-4895-43b3-b28f-5ed2b0362067",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 105097,
-  "createdAt": "2020-10-12T16:19:55.000Z",
-  "updatedAt": "2021-11-22T08:41:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hironikuru"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:55.767Z",
+    "updatedAt": "2022-05-15T14:42:47.000Z",
+    "checkedAt": "2022-05-15T14:42:47.000Z",
+    "id": 105097,
+    "type": "manga",
+    "title": "Mieruko-chan",
     "altTitle": [
       "Mieruko-chan",
       "見える子ちゃん",
@@ -32,22 +40,16 @@
       "มิเอรุโกะจัง ใครว่าหนูเห็นผี",
       "Mieruko-chan. Dziewczyna, która widzi więcej"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tomoki Izumi",
-      "Hiromu Nagase"
-    ],
-    "id": 105097,
-    "malId": 116790,
-    "type": "manga",
-    "title": "Mieruko-chan",
     "url": "https://anilist.co/manga/105097",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105097-nMpc8bjBeuXE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:53.000Z",
-    "updatedAt": "2022-04-23T18:00:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 116790,
+    "deletedAt": null,
+    "authors": [
+      "Tomoki Izumi",
+      "Hiromu Nagase"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizuki Shigeru"
-  ],
+  "createdAt": "2020-10-12T16:03:33.000Z",
+  "updatedAt": "2021-12-02T15:17:29.000Z",
+  "checkedAt": null,
+  "id": 2468,
   "identifier": "233df7db-db3e-4133-9d69-44f381f77a8c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10499,
   "aniId": 40499,
-  "createdAt": "2020-10-12T16:03:33.000Z",
-  "updatedAt": "2021-12-02T15:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizuki Shigeru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-05-15T19:12:40.000Z",
+    "checkedAt": "2022-05-15T19:12:40.000Z",
+    "id": 10499,
+    "type": "manga",
+    "title": "GeGeGe no Kitarou",
+    "altTitle": [
+      "GeGeGe no Kitaro",
+      "ゲゲゲの鬼太郎"
+    ],
+    "url": "https://myanimelist.net/manga/10499/GeGeGe_no_Kitarou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/208994.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "GeGeGe no Kitaro",
-      "ゲゲゲの鬼太郎"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizuki, Shigeru"
-    ],
-    "id": 10499,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:45.512Z",
+    "updatedAt": "2022-05-15T21:01:23.000Z",
+    "checkedAt": "2022-05-15T21:01:23.000Z",
+    "id": 40499,
     "type": "manga",
     "title": "GeGeGe no Kitarou",
-    "url": "https://myanimelist.net/manga/10499/GeGeGe_no_Kitarou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/208994.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:28.000Z",
-    "updatedAt": "2022-03-22T18:28:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "GeGeGe no Kitaro",
       "ゲゲゲの鬼太郎; 墓場鬼太郎",
@@ -54,7 +63,13 @@
       "墓場の鬼太郎",
       "Kitaro le repoussant"
     ],
+    "url": "https://anilist.co/manga/40499",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40499-5wwifw9Od7Fy.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 10499,
+    "deletedAt": null,
     "authors": [
       "Shigeru Mizuki",
       "Zack Davisson",
@@ -67,18 +82,6 @@
       "Oji Suzuki",
       "Tatsuya Morino",
       "Mun-Gwang Kim"
-    ],
-    "id": 40499,
-    "malId": 10499,
-    "type": "manga",
-    "title": "GeGeGe no Kitaro",
-    "url": "https://anilist.co/manga/40499",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40499-5wwifw9Od7Fy.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:05.000Z",
-    "updatedAt": "2022-03-18T05:49:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10499/GeGeGe_no_Kitarou"
+    ]
+  }
 }

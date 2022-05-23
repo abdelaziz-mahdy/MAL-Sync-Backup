@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:44.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4187,
   "identifier": "93lq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34402,
   "aniId": 97862,
-  "createdAt": "2020-10-12T15:51:44.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T22:49:05.000Z",
+    "checkedAt": "2022-05-14T22:49:05.000Z",
+    "id": 34402,
+    "type": "anime",
+    "title": "Love Kome: We Love Rice",
+    "altTitle": [
+      "Love Rice",
+      "ラブ米 -WE LOVE RICE-"
+    ],
+    "url": "https://myanimelist.net/anime/34402/Love_Kome__We_Love_Rice",
+    "image": "https://cdn.myanimelist.net/images/anime/5/84377.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-272929"
       }
     ],
-    "altTitle": [
-      "Love Rice",
-      "ラブ米 -WE LOVE RICE-"
-    ],
-    "id": 34402,
+    "deletedAt": null,
+    "anidbId": 12553
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:16.000Z",
+    "updatedAt": "2022-05-15T15:54:47.000Z",
+    "checkedAt": "2022-05-15T15:54:47.000Z",
+    "id": 97862,
     "type": "anime",
     "title": "Love Kome: We Love Rice",
-    "url": "https://myanimelist.net/anime/34402/Love_Kome__We_Love_Rice",
-    "image": "https://cdn.myanimelist.net/images/anime/5/84377.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 12553,
-    "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2022-03-06T18:30:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Love Rice",
       "ラブ米 -We Love Rice-"
     ],
+    "url": "https://anilist.co/anime/97862",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97862-VbUEcxVbADSR.jpg",
+    "category": "tv_short",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/love-rice"
       }
     ],
-    "id": 97862,
     "malId": 34402,
-    "type": "anime",
-    "title": "Love Kome: We Love Rice",
-    "url": "https://anilist.co/anime/97862",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97862-VbUEcxVbADSR.jpg",
-    "category": "tv_short",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:16.000Z",
-    "updatedAt": "2021-12-17T15:28:54.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34402/Love_Kome__We_Love_Rice"
+  }
 }

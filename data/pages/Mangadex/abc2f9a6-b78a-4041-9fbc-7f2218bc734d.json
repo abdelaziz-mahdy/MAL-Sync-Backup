@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Aimoto Shou"
-  ],
+  "createdAt": "2021-12-18T15:18:31.000Z",
+  "updatedAt": "2021-12-18T15:18:31.000Z",
+  "checkedAt": null,
+  "id": 93282,
   "identifier": "abc2f9a6-b78a-4041-9fbc-7f2218bc734d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 142552,
   "aniId": 141803,
-  "createdAt": "2021-12-18T15:18:31.000Z",
-  "updatedAt": "2021-12-18T15:18:31.000Z",
   "deletedAt": null,
+  "authors": [
+    "Aimoto Shou"
+  ],
   "Mal": {
+    "createdAt": "2021-12-18T01:18:54.000Z",
+    "updatedAt": "2022-05-15T18:28:48.000Z",
+    "checkedAt": "2022-05-15T18:28:48.000Z",
+    "id": 142552,
+    "type": "manga",
+    "title": "Fujiko no Kimyou na Shoseijutsu: Whitesnake no Gosan",
+    "altTitle": [
+      "Fujiko's Bizarre Worldly Wisdom: Whitesnake's Miscalculation",
+      "フジコの奇妙な処世術 -ホワイトスネイクの誤算-"
+    ],
+    "url": "https://myanimelist.net/manga/142552/Fujiko_no_Kimyou_na_Shoseijutsu__Whitesnake_no_Gosan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253442.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fujiko's Bizarre Worldly Wisdom: Whitesnake's Miscalculation",
-      "フジコの奇妙な処世術 -ホワイトスネイクの誤算-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Aimoto, Shou"
-    ],
-    "id": 142552,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:45.914Z",
+    "updatedAt": "2022-05-15T20:37:23.000Z",
+    "checkedAt": "2022-05-15T20:37:23.000Z",
+    "id": 141803,
     "type": "manga",
     "title": "Fujiko no Kimyou na Shoseijutsu: Whitesnake no Gosan",
-    "url": "https://myanimelist.net/manga/142552/Fujiko_no_Kimyou_na_Shoseijutsu__Whitesnake_no_Gosan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/253442.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2021-12-18T01:18:54.000Z",
-    "updatedAt": "2022-03-11T11:29:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "フジコの奇妙な処世術 -ホワイトスネイクの誤算-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hirohiko Araki",
-      "Shou Aimoto"
-    ],
-    "id": 141803,
-    "malId": 142552,
-    "type": "manga",
-    "title": "Fujiko no Kimyou na Shoseijutsu: Whitesnake no Gosan",
     "url": "https://anilist.co/manga/141803",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141803-UZbIzVpyrRXM.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-11-18T15:44:03.000Z",
-    "updatedAt": "2021-12-18T12:48:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/142552/Fujiko_no_Kimyou_na_Shoseijutsu__Whitesnake_no_Gosan"
+    "externalLinks": [],
+    "malId": 142552,
+    "deletedAt": null,
+    "authors": [
+      "Hirohiko Araki",
+      "Shou Aimoto"
+    ]
+  }
 }

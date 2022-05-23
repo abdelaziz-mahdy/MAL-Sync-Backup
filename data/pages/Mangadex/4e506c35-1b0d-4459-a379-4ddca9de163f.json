@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asagi Ryuu"
-  ],
+  "createdAt": "2020-10-12T16:11:26.000Z",
+  "updatedAt": "2021-12-05T08:49:37.000Z",
+  "checkedAt": null,
+  "id": 19321,
   "identifier": "4e506c35-1b0d-4459-a379-4ddca9de163f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 325,
   "aniId": 30325,
-  "createdAt": "2020-10-12T16:11:26.000Z",
-  "updatedAt": "2021-12-05T08:49:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asagi Ryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-05-15T05:19:53.000Z",
+    "checkedAt": "2022-05-15T05:19:53.000Z",
+    "id": 325,
+    "type": "manga",
+    "title": "Girls Bravo",
+    "altTitle": [
+      "Girls Bravo",
+      "GIRLS・ブラボー"
+    ],
+    "url": "https://myanimelist.net/manga/325/Girls_Bravo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/54717.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,52 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Girls Bravo",
-      "GIRLS・ブラボー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kaneda, Mario"
-    ],
-    "id": 325,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:43.272Z",
+    "updatedAt": "2022-05-16T15:42:34.000Z",
+    "checkedAt": "2022-05-16T15:42:34.000Z",
+    "id": 30325,
     "type": "manga",
     "title": "Girls Bravo",
-    "url": "https://myanimelist.net/manga/325/Girls_Bravo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/54717.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-03-08T14:59:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Girls Bravo",
       "GIRLSブラボー"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/girls-bravo"
-      }
-    ],
+    "url": "https://anilist.co/manga/30325",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30325-8VPqwYfLQHD2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 325,
+    "deletedAt": null,
     "authors": [
       "Mario Kaneda",
       "Chris Anderson",
       "Asuka Yoshizu",
       "Antje Bockel"
-    ],
-    "id": 30325,
-    "malId": 325,
-    "type": "manga",
-    "title": "Girls Bravo",
-    "url": "https://anilist.co/manga/30325",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30325-8VPqwYfLQHD2.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:08:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/325/Girls_Bravo"
+    ]
+  }
 }

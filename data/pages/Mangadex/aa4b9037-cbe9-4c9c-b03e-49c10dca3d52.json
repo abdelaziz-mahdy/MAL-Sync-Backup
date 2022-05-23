@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshitomi Akihito"
-  ],
+  "createdAt": "2020-10-12T16:04:01.000Z",
+  "updatedAt": "2021-12-02T18:18:06.000Z",
+  "checkedAt": null,
+  "id": 3442,
   "identifier": "aa4b9037-cbe9-4c9c-b03e-49c10dca3d52",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1800,
   "aniId": 31800,
-  "createdAt": "2020-10-12T16:04:01.000Z",
-  "updatedAt": "2021-12-02T18:18:06.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshitomi Akihito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:37.000Z",
+    "updatedAt": "2022-05-15T18:10:45.000Z",
+    "checkedAt": "2022-05-15T18:10:45.000Z",
+    "id": 1800,
+    "type": "manga",
+    "title": "Eat-Man",
+    "altTitle": [
+      "Eat-Man",
+      "EAT-MAN"
+    ],
+    "url": "https://myanimelist.net/manga/1800/Eat-Man",
+    "image": "https://cdn.myanimelist.net/images/manga/2/173371.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eat-Man",
-      "EAT-MAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshitomi, Akihito"
-    ],
-    "id": 1800,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:13.244Z",
+    "updatedAt": "2022-05-15T20:30:59.000Z",
+    "checkedAt": "2022-05-15T20:30:59.000Z",
+    "id": 31800,
     "type": "manga",
     "title": "Eat-Man",
-    "url": "https://myanimelist.net/manga/1800/Eat-Man",
-    "image": "https://cdn.myanimelist.net/images/manga/2/173371.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2022-04-06T19:30:53.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Eat-Man",
       "イートマン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akihito Yoshitomi"
-    ],
-    "id": 31800,
-    "malId": 1800,
-    "type": "manga",
-    "title": "Eat-Man",
     "url": "https://anilist.co/manga/31800",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31800-BC1G7DLgqk8i.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:54.000Z",
-    "updatedAt": "2021-12-17T10:14:44.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1800/Eat-Man"
+    "externalLinks": [],
+    "malId": 1800,
+    "deletedAt": null,
+    "authors": [
+      "Akihito Yoshitomi"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:50.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8086,
   "identifier": "pqmx",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21671,
   "aniId": 20543,
-  "createdAt": "2020-10-12T15:54:50.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:24.000Z",
+    "updatedAt": "2022-05-14T23:10:17.000Z",
+    "checkedAt": "2022-05-14T23:10:17.000Z",
+    "id": 21671,
+    "type": "anime",
+    "title": "Keroro",
+    "altTitle": [
+      "Keroro Gunsou TV 2",
+      "Keroro Gunsou (2014)",
+      "ケロロ"
+    ],
+    "url": "https://myanimelist.net/anime/21671/Keroro",
+    "image": "https://cdn.myanimelist.net/images/anime/12/58163.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,39 +47,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Keroro Gunsou TV 2",
-      "Keroro Gunsou (2014)",
-      "ケロロ"
-    ],
-    "id": 21671,
-    "type": "anime",
-    "title": "Keroro",
-    "url": "https://myanimelist.net/anime/21671/Keroro",
-    "image": "https://cdn.myanimelist.net/images/anime/12/58163.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10306,
-    "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2022-04-02T21:33:32.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 10306
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:28.000Z",
+    "updatedAt": "2022-05-15T17:23:35.000Z",
+    "checkedAt": "2022-05-15T17:23:35.000Z",
+    "id": 20543,
+    "type": "anime",
+    "title": "Keroro",
     "altTitle": [
       "ケロロ"
     ],
-    "externalLinks": [],
-    "id": 20543,
-    "malId": 21671,
-    "type": "anime",
-    "title": "Keroro",
     "url": "https://anilist.co/anime/20543",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20543.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:28.000Z",
-    "updatedAt": "2021-12-17T14:25:15.000Z",
+    "externalLinks": [],
+    "malId": 21671,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/21671/Keroro"
+  }
 }

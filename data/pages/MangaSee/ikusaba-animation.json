@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "NAKADA Takahiro"
-  ],
+  "createdAt": "2021-08-14T03:37:25.000Z",
+  "updatedAt": "2022-02-14T04:09:37.000Z",
+  "checkedAt": null,
+  "id": 85232,
   "identifier": "ikusaba-animation",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 47625,
   "aniId": 77625,
-  "createdAt": "2021-08-14T03:37:25.000Z",
-  "updatedAt": "2022-02-14T04:09:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "NAKADA Takahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:29.000Z",
+    "updatedAt": "2022-05-13T15:24:42.000Z",
+    "checkedAt": "2022-05-13T15:24:42.000Z",
+    "id": 47625,
+    "type": "manga",
+    "title": "Ikusaba Animation",
+    "altTitle": [
+      "戦場アニメーション -IKUSABA ANIMATION-"
+    ],
+    "url": "https://myanimelist.net/manga/47625/Ikusaba_Animation",
+    "image": "https://cdn.myanimelist.net/images/manga/2/92337.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "戦場アニメーション -IKUSABA ANIMATION-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nakada, Takahiro"
-    ],
-    "id": 47625,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:17.955Z",
+    "updatedAt": "2022-05-15T21:42:59.000Z",
+    "checkedAt": "2022-05-15T21:42:59.000Z",
+    "id": 77625,
     "type": "manga",
     "title": "Ikusaba Animation",
-    "url": "https://myanimelist.net/manga/47625/Ikusaba_Animation",
-    "image": "https://cdn.myanimelist.net/images/manga/2/92337.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:29.000Z",
-    "updatedAt": "2021-11-27T01:35:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "戦場アニメーション -IKUSABA ANIMATION-"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takahiro Nakada"
-    ],
-    "id": 77625,
-    "malId": 47625,
-    "type": "manga",
-    "title": "Ikusaba Animation",
     "url": "https://anilist.co/manga/77625",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47625.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:36.000Z",
-    "updatedAt": "2021-12-17T21:00:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/47625/Ikusaba_Animation"
+    "externalLinks": [],
+    "malId": 47625,
+    "deletedAt": null,
+    "authors": [
+      "Takahiro Nakada"
+    ]
+  }
 }

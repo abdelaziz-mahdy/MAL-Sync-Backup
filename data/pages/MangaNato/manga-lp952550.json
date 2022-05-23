@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mashima Etsuya"
-  ],
+  "createdAt": "2021-08-14T00:37:32.000Z",
+  "updatedAt": "2022-02-14T01:10:29.000Z",
+  "checkedAt": null,
+  "id": 85219,
   "identifier": "manga-lp952550",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8889,
   "aniId": 38889,
-  "createdAt": "2021-08-14T00:37:32.000Z",
-  "updatedAt": "2022-02-14T01:10:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mashima Etsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:21.000Z",
+    "updatedAt": "2022-02-14T00:39:48.000Z",
+    "checkedAt": null,
+    "id": 8889,
+    "type": "manga",
+    "title": "Koi Neko",
+    "altTitle": [
+      "コイネコ"
+    ],
+    "url": "https://myanimelist.net/manga/8889/Koi_Neko",
+    "image": "https://cdn.myanimelist.net/images/manga/2/46257.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "コイネコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mashima, Etsuya"
-    ],
-    "id": 8889,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:38.589Z",
+    "updatedAt": "2022-05-13T13:04:38.589Z",
+    "checkedAt": null,
+    "id": 38889,
     "type": "manga",
     "title": "Koi Neko",
-    "url": "https://myanimelist.net/manga/8889/Koi_Neko",
-    "image": "https://cdn.myanimelist.net/images/manga/2/46257.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:21.000Z",
-    "updatedAt": "2022-02-14T00:39:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "コイネコ",
       "Koineko"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Etsuya Mashima"
-    ],
-    "id": 38889,
-    "malId": 8889,
-    "type": "manga",
-    "title": "Koi Neko",
     "url": "https://anilist.co/manga/38889",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8889.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:52.000Z",
-    "updatedAt": "2021-12-17T13:39:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8889/Koi_Neko"
+    "externalLinks": [],
+    "malId": 8889,
+    "deletedAt": null,
+    "authors": [
+      "Etsuya Mashima"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miura Isao"
-  ],
+  "createdAt": "2021-07-20T17:34:58.000Z",
+  "updatedAt": "2022-01-20T18:04:45.000Z",
+  "checkedAt": null,
+  "id": 82592,
   "identifier": "manga-mg963563",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12240,
   "aniId": 42240,
-  "createdAt": "2021-07-20T17:34:58.000Z",
-  "updatedAt": "2022-01-20T18:04:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Isao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:44.000Z",
+    "updatedAt": "2022-05-14T22:00:59.000Z",
+    "checkedAt": "2022-05-14T22:00:59.000Z",
+    "id": 12240,
+    "type": "manga",
+    "title": "Seiken no Blacksmith",
+    "altTitle": [
+      "Seiken no Katanakaji",
+      "The Sacred Sword Blacksmith",
+      "聖剣の刀鍛冶〈ブラックスミス〉"
+    ],
+    "url": "https://myanimelist.net/manga/12240/Seiken_no_Blacksmith",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188847.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,50 +42,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seiken no Katanakaji",
-      "The Sacred Sword Blacksmith",
-      "聖剣の刀鍛冶〈ブラックスミス〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamada, Koutarou",
       "Miura, Isao"
-    ],
-    "id": 12240,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:16.778Z",
+    "updatedAt": "2022-05-21T08:49:54.000Z",
+    "checkedAt": "2022-05-21T08:49:54.000Z",
+    "id": 42240,
     "type": "manga",
     "title": "Seiken no Blacksmith",
-    "url": "https://myanimelist.net/manga/12240/Seiken_no_Blacksmith",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188847.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:44.000Z",
-    "updatedAt": "2022-03-29T18:04:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Sacred Blacksmith",
       "聖剣の刀鍛冶（ブラックスミス）",
       "Seiken no Katanakaji",
       "The Sacred Sword Blacksmith"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Koutarou Yamada",
-      "Isao Miura",
-      "Luna"
-    ],
-    "id": 42240,
-    "malId": 12240,
-    "type": "manga",
-    "title": "Seiken no Blacksmith",
     "url": "https://anilist.co/manga/42240",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12240.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:18.000Z",
-    "updatedAt": "2021-12-17T14:43:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12240/Seiken_no_Blacksmith"
+    "externalLinks": [],
+    "malId": 12240,
+    "deletedAt": null,
+    "authors": [
+      "Koutarou Yamada",
+      "Isao Miura",
+      "Luna"
+    ]
+  }
 }

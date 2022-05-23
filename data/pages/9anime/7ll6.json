@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:11.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3476,
   "identifier": "7ll6",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12005,
   "aniId": 12005,
-  "createdAt": "2020-10-12T15:51:11.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:10.000Z",
+    "updatedAt": "2022-05-16T20:31:36.000Z",
+    "checkedAt": "2022-05-16T20:31:36.000Z",
+    "id": 12005,
+    "type": "anime",
+    "title": "What's Michael?",
+    "altTitle": [
+      "ホワッツ　マイケル？"
+    ],
+    "url": "https://myanimelist.net/anime/12005/Whats_Michael",
+    "image": "https://cdn.myanimelist.net/images/anime/8/57369.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -26,37 +41,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ホワッツ　マイケル？"
-    ],
-    "id": 12005,
-    "type": "anime",
-    "title": "What's Michael?",
-    "url": "https://myanimelist.net/anime/12005/Whats_Michael",
-    "image": "https://cdn.myanimelist.net/images/anime/8/57369.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 5946,
-    "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2022-04-02T12:01:02.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 5946
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:09.000Z",
+    "updatedAt": "2022-05-16T20:31:34.000Z",
+    "checkedAt": "2022-05-16T20:31:34.000Z",
+    "id": 12005,
+    "type": "anime",
+    "title": "What's Michael?",
     "altTitle": [
       "ホワッツ　マイケル？"
     ],
-    "externalLinks": [],
-    "id": 12005,
-    "malId": 12005,
-    "type": "anime",
-    "title": "What's Michael?",
     "url": "https://anilist.co/anime/12005",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12005.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:09.000Z",
-    "updatedAt": "2021-12-17T13:25:42.000Z",
+    "externalLinks": [],
+    "malId": 12005,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/12005/Whats_Michael"
+  }
 }

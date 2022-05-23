@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Area-S (Circle)",
-    "Dra"
-  ],
+  "createdAt": "2020-10-12T16:16:11.000Z",
+  "updatedAt": "2021-12-06T20:18:22.000Z",
+  "checkedAt": null,
+  "id": 28544,
   "identifier": "c51b68fa-39a2-4670-bd35-928268328a22",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 288,
   "aniId": 30288,
-  "createdAt": "2020-10-12T16:16:11.000Z",
-  "updatedAt": "2021-12-06T20:18:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Area-S (Circle)",
+    "Dra"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2021-12-17T12:48:35.000Z",
+    "checkedAt": null,
+    "id": 288,
+    "type": "manga",
+    "title": "Othello",
     "altTitle": [
       "Othello",
       "Snow White in Summer",
@@ -30,21 +36,24 @@
       "Night's Abyss",
       "othello"
     ],
-    "authors": [
-      "Hasumi, Toui"
-    ],
-    "id": 288,
-    "type": "manga",
-    "title": "Othello",
     "url": "https://myanimelist.net/manga/288/Othello",
     "image": "https://cdn.myanimelist.net/images/manga/3/152307.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-12-17T12:48:35.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hasumi, Toui"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:55.246Z",
+    "updatedAt": "2022-05-13T12:49:55.246Z",
+    "checkedAt": null,
+    "id": 30288,
+    "type": "manga",
+    "title": "Othello",
     "altTitle": [
       "Othello",
       "Othello",
@@ -54,21 +63,15 @@
       "Haruka no Fuchi",
       "オセロ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Toui Hasumi"
-    ],
-    "id": 30288,
-    "malId": 288,
-    "type": "manga",
-    "title": "Othello",
     "url": "https://anilist.co/manga/30288",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30288-kCM7dWWVxW6N.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/288/Othello"
+    "externalLinks": [],
+    "malId": 288,
+    "deletedAt": null,
+    "authors": [
+      "Toui Hasumi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chika"
-  ],
+  "createdAt": "2020-10-12T16:02:28.000Z",
+  "updatedAt": "2021-12-02T07:17:19.000Z",
+  "checkedAt": null,
+  "id": 199,
   "identifier": "61b65baf-8ba1-4a7f-bff8-abaaaede7104",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25046,
   "aniId": 55046,
-  "createdAt": "2020-10-12T16:02:28.000Z",
-  "updatedAt": "2021-12-02T07:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chika"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:15.000Z",
+    "updatedAt": "2022-05-14T09:37:02.000Z",
+    "checkedAt": "2022-05-14T09:37:02.000Z",
+    "id": 25046,
+    "type": "manga",
+    "title": "Kore wa Koi no Hanashi",
+    "altTitle": [
+      "This Is a Love Story",
+      "これは恋のはなし"
+    ],
+    "url": "https://myanimelist.net/manga/25046/Kore_wa_Koi_no_Hanashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/196299.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "This Is a Love Story",
-      "これは恋のはなし"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chika"
-    ],
-    "id": 25046,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:07.638Z",
+    "updatedAt": "2022-05-15T17:51:11.000Z",
+    "checkedAt": "2022-05-15T17:51:11.000Z",
+    "id": 55046,
     "type": "manga",
     "title": "Kore wa Koi no Hanashi",
-    "url": "https://myanimelist.net/manga/25046/Kore_wa_Koi_no_Hanashi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196299.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:15.000Z",
-    "updatedAt": "2022-01-21T14:00:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "これは恋のはなし",
       "This is a Tale of Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chika"
-    ],
-    "id": 55046,
-    "malId": 25046,
-    "type": "manga",
-    "title": "Kore wa Koi no Hanashi",
     "url": "https://anilist.co/manga/55046",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25046.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:48.000Z",
-    "updatedAt": "2021-12-17T18:32:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25046/Kore_wa_Koi_no_Hanashi"
+    "externalLinks": [],
+    "malId": 25046,
+    "deletedAt": null,
+    "authors": [
+      "Chika"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Fujiwara Kenichi",
-    "Boichi"
-  ],
+  "createdAt": "2020-10-12T16:09:48.000Z",
+  "updatedAt": "2021-12-04T20:24:01.000Z",
+  "checkedAt": null,
+  "id": 15761,
   "identifier": "a7ca2fdd-2454-49b4-af52-d308217a8001",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93852,
   "aniId": 96249,
-  "createdAt": "2020-10-12T16:09:48.000Z",
-  "updatedAt": "2021-12-04T20:24:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujiwara Kenichi",
+    "Boichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:18.000Z",
+    "updatedAt": "2021-11-08T18:44:35.000Z",
+    "checkedAt": null,
+    "id": 93852,
+    "type": "manga",
+    "title": "Terra Formars Gaiden: Asimov",
+    "altTitle": [
+      "テラフォーマーズ外伝 アシモフ"
+    ],
+    "url": "https://myanimelist.net/manga/93852/Terra_Formars_Gaiden__Asimov",
+    "image": "https://cdn.myanimelist.net/images/manga/3/174427.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "テラフォーマーズ外伝 アシモフ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Boichi",
       "Fujiwara, Kenichi"
-    ],
-    "id": 93852,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:01.785Z",
+    "updatedAt": "2022-05-13T13:06:01.785Z",
+    "checkedAt": null,
+    "id": 96249,
     "type": "manga",
     "title": "Terra Formars Gaiden: Asimov",
-    "url": "https://myanimelist.net/manga/93852/Terra_Formars_Gaiden__Asimov",
-    "image": "https://cdn.myanimelist.net/images/manga/3/174427.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:18.000Z",
-    "updatedAt": "2021-11-08T18:44:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "テラフォーマーズ外伝 アシモフ"
     ],
+    "url": "https://anilist.co/manga/96249",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96249-NXmtNYQ3wRee.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 93852,
+    "deletedAt": null,
     "authors": [
       "Boichi",
       "Kenichi Fujiwara",
       "Yu Sasuga",
       "Kenichi Tachibana"
-    ],
-    "id": 96249,
-    "malId": 93852,
-    "type": "manga",
-    "title": "Terra Formars Gaiden: Asimov",
-    "url": "https://anilist.co/manga/96249",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96249-NXmtNYQ3wRee.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-12-18T01:32:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93852/Terra_Formars_Gaiden__Asimov"
+    ]
+  }
 }

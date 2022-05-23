@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shimabukuro Mitsutoshi"
-  ],
+  "createdAt": "2020-11-16T19:15:11.000Z",
+  "updatedAt": "2021-12-08T07:39:42.000Z",
+  "checkedAt": null,
+  "id": 52415,
   "identifier": "6a0d3c6e-a5d4-4f61-ae5c-fcff2a789145",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130977,
   "aniId": 125829,
-  "createdAt": "2020-11-16T19:15:11.000Z",
-  "updatedAt": "2021-12-08T07:39:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shimabukuro Mitsutoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-11-16T19:15:10.000Z",
+    "updatedAt": "2022-04-19T04:31:45.000Z",
+    "checkedAt": null,
+    "id": 130977,
+    "type": "manga",
+    "title": "Build King",
+    "altTitle": [
+      "Build King",
+      "BUILD KING"
+    ],
+    "url": "https://myanimelist.net/manga/130977/Build_King",
+    "image": "https://cdn.myanimelist.net/images/manga/1/242920.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,29 +45,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Build King",
-      "BUILD KING"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shimabukuro, Mitsutoshi"
-    ],
-    "id": 130977,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:47.240Z",
+    "updatedAt": "2022-05-13T13:06:47.240Z",
+    "checkedAt": null,
+    "id": 125829,
     "type": "manga",
     "title": "Build King",
-    "url": "https://myanimelist.net/manga/130977/Build_King",
-    "image": "https://cdn.myanimelist.net/images/manga/1/242920.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-16T19:15:10.000Z",
-    "updatedAt": "2022-04-19T04:31:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Build King",
       "ビルドキング"
     ],
+    "url": "https://anilist.co/manga/125829",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125829-fURrD2Pclo04.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "VIZ",
@@ -62,22 +75,12 @@
         "url": "https://mangaplus.shueisha.co.jp/titles/100125"
       }
     ],
+    "malId": 130977,
+    "deletedAt": null,
     "authors": [
       "Mitsutoshi Shimabukuro",
       "Christine Dashiell",
       "James Gaubatz"
-    ],
-    "id": 125829,
-    "malId": 130977,
-    "type": "manga",
-    "title": "Build King",
-    "url": "https://anilist.co/manga/125829",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125829-fURrD2Pclo04.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:33.000Z",
-    "updatedAt": "2021-12-18T11:19:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130977/Build_King"
+    ]
+  }
 }

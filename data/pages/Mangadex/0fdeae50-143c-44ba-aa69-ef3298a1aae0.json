@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ohkami Mineko"
-  ],
+  "createdAt": "2021-01-22T19:04:10.000Z",
+  "updatedAt": "2021-12-08T10:37:29.000Z",
+  "checkedAt": null,
+  "id": 59557,
   "identifier": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 303,
   "aniId": 30303,
-  "createdAt": "2021-01-22T19:04:10.000Z",
-  "updatedAt": "2021-12-08T10:37:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohkami Mineko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2022-01-22T20:00:21.000Z",
+    "checkedAt": null,
+    "id": 303,
+    "type": "manga",
+    "title": "Dragon Kishidan",
+    "altTitle": [
+      "Dragon Knights",
+      "ドラゴン騎士団"
+    ],
+    "url": "https://myanimelist.net/manga/303/Dragon_Kishidan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/180630.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dragon Knights",
-      "ドラゴン騎士団"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oukami, Mineko"
-    ],
-    "id": 303,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:07.299Z",
+    "updatedAt": "2022-05-13T12:52:07.299Z",
+    "checkedAt": null,
+    "id": 30303,
     "type": "manga",
     "title": "Dragon Kishidan",
-    "url": "https://myanimelist.net/manga/303/Dragon_Kishidan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/180630.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2022-01-22T20:00:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragon Knights",
       "ドラゴン騎士団",
       "Doragon Kishidan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mineko Ohkami"
-    ],
-    "id": 30303,
-    "malId": 303,
-    "type": "manga",
-    "title": "Dragon Kishidan",
     "url": "https://anilist.co/manga/30303",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30303-lvWvZh3ab1BV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-17T09:07:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/303/Dragon_Kishidan"
+    "externalLinks": [],
+    "malId": 303,
+    "deletedAt": null,
+    "authors": [
+      "Mineko Ohkami"
+    ]
+  }
 }

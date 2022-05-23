@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MATSUMOTO Naoki"
-  ],
+  "createdAt": "2022-04-02T17:30:33.000Z",
+  "updatedAt": "2022-04-02T18:00:22.000Z",
+  "checkedAt": null,
+  "id": 100576,
   "identifier": "irregulars",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 138849,
   "aniId": 135085,
-  "createdAt": "2022-04-02T17:30:33.000Z",
-  "updatedAt": "2022-04-02T18:00:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "MATSUMOTO Naoki"
+  ],
   "Mal": {
+    "createdAt": "2021-12-22T00:22:26.000Z",
+    "updatedAt": "2022-05-16T15:54:40.000Z",
+    "checkedAt": "2022-05-16T15:54:40.000Z",
+    "id": 138849,
+    "type": "manga",
+    "title": "Irregulars",
+    "altTitle": [
+      "イレギュラーズ"
+    ],
+    "url": "https://myanimelist.net/manga/138849/Irregulars",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249281.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "イレギュラーズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Naoki"
-    ],
-    "id": 138849,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:07.328Z",
+    "updatedAt": "2022-05-16T15:54:39.000Z",
+    "checkedAt": "2022-05-16T15:54:39.000Z",
+    "id": 135085,
     "type": "manga",
     "title": "Irregulars",
-    "url": "https://myanimelist.net/manga/138849/Irregulars",
-    "image": "https://cdn.myanimelist.net/images/manga/2/249281.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-22T00:22:26.000Z",
-    "updatedAt": "2022-04-17T16:36:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イレギュラーズ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoki Matsumoto"
-    ],
-    "id": 135085,
-    "malId": 138849,
-    "type": "manga",
-    "title": "Irregulars",
     "url": "https://anilist.co/manga/135085",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135085-U32bYUaYPyGV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T04:48:57.000Z",
-    "updatedAt": "2022-02-28T18:47:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/138849/Irregulars"
+    "externalLinks": [],
+    "malId": 138849,
+    "deletedAt": null,
+    "authors": [
+      "Naoki Matsumoto"
+    ]
+  }
 }

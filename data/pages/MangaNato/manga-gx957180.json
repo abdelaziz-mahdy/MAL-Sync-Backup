@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Minamoto Hisanari"
-  ],
+  "createdAt": "2021-06-16T03:57:34.000Z",
+  "updatedAt": "2021-12-16T04:48:54.000Z",
+  "checkedAt": null,
+  "id": 78391,
   "identifier": "manga-gx957180",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19224,
   "aniId": 49224,
-  "createdAt": "2021-06-16T03:57:34.000Z",
-  "updatedAt": "2021-12-16T04:48:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Minamoto Hisanari"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%B5"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:43.000Z",
+    "updatedAt": "2022-05-23T01:08:21.000Z",
+    "checkedAt": "2022-05-23T01:08:21.000Z",
+    "id": 19224,
+    "type": "manga",
+    "title": "Fu-fu",
     "altTitle": [
       "Fufu",
       "Fu~fu",
@@ -35,42 +36,44 @@
       "Your Name",
       "ふ~ふ"
     ],
-    "authors": [
-      "Minamoto, Hisanari"
-    ],
-    "id": 19224,
-    "type": "manga",
-    "title": "Fu-fu",
     "url": "https://myanimelist.net/manga/19224/Fu-fu",
     "image": "https://cdn.myanimelist.net/images/manga/1/62907.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:43.000Z",
-    "updatedAt": "2021-12-16T04:19:16.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%B5"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Minamoto, Hisanari"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:49.138Z",
+    "updatedAt": "2022-05-23T01:08:20.000Z",
+    "checkedAt": "2022-05-23T01:08:20.000Z",
+    "id": 49224,
+    "type": "manga",
+    "title": "Fu-fu",
     "altTitle": [
       "ふ~ふ",
       "Fufu",
       "Fu~fu",
       "Wife & Wife"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hisanari Minamoto"
-    ],
-    "id": 49224,
-    "malId": 19224,
-    "type": "manga",
-    "title": "Fu-fu",
     "url": "https://anilist.co/manga/49224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49224-iSXjKqRvClLa.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:17.000Z",
-    "updatedAt": "2021-12-17T17:04:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19224/Fu-fu"
+    "externalLinks": [],
+    "malId": 19224,
+    "deletedAt": null,
+    "authors": [
+      "Hisanari Minamoto"
+    ]
+  }
 }

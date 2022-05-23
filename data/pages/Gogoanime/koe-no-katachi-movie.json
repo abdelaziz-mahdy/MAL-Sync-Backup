@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:01:01.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18908,
   "identifier": "koe-no-katachi-movie",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28851,
   "aniId": 20954,
-  "createdAt": "2020-10-12T16:01:01.000Z",
-  "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:33.000Z",
+    "updatedAt": "2022-05-13T20:10:14.000Z",
+    "checkedAt": "2022-05-13T20:10:14.000Z",
+    "id": 28851,
+    "type": "anime",
+    "title": "Koe no Katachi",
+    "altTitle": [
+      "The Shape of Voice",
+      "A Silent Voice",
+      "聲の形"
+    ],
+    "url": "https://myanimelist.net/anime/28851/Koe_no_Katachi",
+    "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,24 +56,16 @@
         "url": "https://www.netflix.com/title/80223226"
       }
     ],
-    "altTitle": [
-      "The Shape of Voice",
-      "A Silent Voice",
-      "聲の形"
-    ],
-    "id": 28851,
+    "deletedAt": null,
+    "anidbId": 10937
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:46.000Z",
+    "updatedAt": "2022-05-15T09:40:11.000Z",
+    "checkedAt": "2022-05-15T09:40:11.000Z",
+    "id": 20954,
     "type": "anime",
     "title": "Koe no Katachi",
-    "url": "https://myanimelist.net/anime/28851/Koe_no_Katachi",
-    "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 10937,
-    "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2022-04-30T19:01:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "A Silent Voice",
       "聲の形",
@@ -70,23 +79,17 @@
       "Una voz silenciosa",
       "La Forme de la voix"
     ],
+    "url": "https://anilist.co/anime/20954",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-UMb6Kl7ZL8Ke.jpg",
+    "category": "movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/80223226"
       }
     ],
-    "id": 20954,
     "malId": 28851,
-    "type": "anime",
-    "title": "Koe no Katachi",
-    "url": "https://anilist.co/anime/20954",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-UMb6Kl7ZL8Ke.jpg",
-    "category": "movie",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:46.000Z",
-    "updatedAt": "2022-04-28T20:30:22.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/28851/Koe_no_Katachi"
+  }
 }

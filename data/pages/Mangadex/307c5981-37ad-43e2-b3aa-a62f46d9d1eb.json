@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamamoto Hideo"
-  ],
+  "createdAt": "2020-10-12T16:08:16.000Z",
+  "updatedAt": "2021-12-04T09:21:10.000Z",
+  "checkedAt": null,
+  "id": 12438,
   "identifier": "307c5981-37ad-43e2-b3aa-a62f46d9d1eb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83641,
   "aniId": 93432,
-  "createdAt": "2020-10-12T16:08:16.000Z",
-  "updatedAt": "2021-12-04T09:21:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamamoto Hideo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:39.000Z",
+    "updatedAt": "2022-04-02T03:02:20.000Z",
+    "checkedAt": null,
+    "id": 83641,
+    "type": "manga",
+    "title": "Hikari-Man",
+    "altTitle": [
+      "HIKARI-MAN"
+    ],
+    "url": "https://myanimelist.net/manga/83641/Hikari-Man",
+    "image": "https://cdn.myanimelist.net/images/manga/2/152021.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "HIKARI-MAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamamoto, Hideo"
-    ],
-    "id": 83641,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:55.878Z",
+    "updatedAt": "2022-05-13T13:05:55.878Z",
+    "checkedAt": null,
+    "id": 93432,
     "type": "manga",
     "title": "Hikari-Man",
-    "url": "https://myanimelist.net/manga/83641/Hikari-Man",
-    "image": "https://cdn.myanimelist.net/images/manga/2/152021.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:39.000Z",
-    "updatedAt": "2022-04-02T03:02:20.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "HIKARI-MAN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideo Yamamoto"
-    ],
-    "id": 93432,
-    "malId": 83641,
-    "type": "manga",
-    "title": "Hikari-Man",
     "url": "https://anilist.co/manga/93432",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx93432-Ve7JepdWO44l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:33.000Z",
-    "updatedAt": "2021-12-18T00:53:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83641/Hikari-Man"
+    "externalLinks": [],
+    "malId": 83641,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Yamamoto"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nagi Wataru"
-  ],
+  "createdAt": "2022-05-04T20:31:26.000Z",
+  "updatedAt": "2022-05-13T21:21:18.000Z",
+  "checkedAt": "2022-05-13T21:14:38.000Z",
+  "id": 102675,
   "identifier": "manga-ad977612",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,55 @@
   "image": "https://avt.mkklcdnv6temp.com/45/y/15-1583493318.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-04T20:31:26.000Z",
-  "updatedAt": "2022-05-04T20:31:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 116091,
+  "aniId": 110931,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Nagi Wataru"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:41.000Z",
+    "updatedAt": "2022-05-13T21:14:40.000Z",
+    "checkedAt": "2022-05-13T21:14:40.000Z",
+    "id": 116091,
+    "type": "manga",
+    "title": "Renai Fuyuki Todoki",
+    "altTitle": [
+      "恋愛不行き届き"
+    ],
+    "url": "https://myanimelist.net/manga/116091/Renai_Fuyuki_Todoki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/224509.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagi, Wataru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:26.430Z",
+    "updatedAt": "2022-05-13T12:50:26.430Z",
+    "checkedAt": null,
+    "id": 110931,
+    "type": "manga",
+    "title": "Renai Fuyuki Todoki",
+    "altTitle": [
+      "Careless Romance",
+      "恋愛不行き届き"
+    ],
+    "url": "https://anilist.co/manga/110931",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110931-E41JxzPZjNwr.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 116091,
+    "deletedAt": null,
+    "authors": [
+      "Wataru Nagi"
+    ]
+  }
 }

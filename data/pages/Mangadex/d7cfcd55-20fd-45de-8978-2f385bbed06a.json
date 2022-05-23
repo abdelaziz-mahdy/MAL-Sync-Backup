@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Akahori Satoru",
-    "Omishi Rei"
-  ],
+  "createdAt": "2020-10-12T16:04:31.000Z",
+  "updatedAt": "2021-12-02T21:49:49.000Z",
+  "checkedAt": null,
+  "id": 4476,
   "identifier": "d7cfcd55-20fd-45de-8978-2f385bbed06a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 140,
   "aniId": 30140,
-  "createdAt": "2020-10-12T16:04:31.000Z",
-  "updatedAt": "2021-12-02T21:49:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "Akahori Satoru",
+    "Omishi Rei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-22T07:32:26.000Z",
+    "checkedAt": "2022-05-22T07:32:26.000Z",
+    "id": 140,
+    "type": "manga",
+    "title": "Bakuretsu Hunters",
+    "altTitle": [
+      "Sorcerer Hunters",
+      "爆れつハンター"
+    ],
+    "url": "https://myanimelist.net/manga/140/Bakuretsu_Hunters",
+    "image": "https://cdn.myanimelist.net/images/manga/2/157573.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sorcerer Hunters",
-      "爆れつハンター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Omishi, Rei",
       "Akahori, Satoru"
-    ],
-    "id": 140,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:32.303Z",
+    "updatedAt": "2022-05-22T07:32:25.000Z",
+    "checkedAt": "2022-05-22T07:32:25.000Z",
+    "id": 30140,
     "type": "manga",
     "title": "Bakuretsu Hunters",
-    "url": "https://myanimelist.net/manga/140/Bakuretsu_Hunters",
-    "image": "https://cdn.myanimelist.net/images/manga/2/157573.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-01-13T21:42:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sorcerer Hunters",
       "爆れつハンター",
       "Bakuretsu Hunter"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rei Omishi",
-      "Satoru Akahori"
-    ],
-    "id": 30140,
-    "malId": 140,
-    "type": "manga",
-    "title": "Bakuretsu Hunters",
     "url": "https://anilist.co/manga/30140",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30140-tWLkU15yKLUN.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:24.000Z",
-    "updatedAt": "2021-11-23T18:05:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/140/Bakuretsu_Hunters"
+    "externalLinks": [],
+    "malId": 140,
+    "deletedAt": null,
+    "authors": [
+      "Rei Omishi",
+      "Satoru Akahori"
+    ]
+  }
 }

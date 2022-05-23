@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ueda Hiroshi"
-  ],
+  "createdAt": "2020-10-12T16:04:41.000Z",
+  "updatedAt": "2021-12-02T22:48:08.000Z",
+  "checkedAt": null,
+  "id": 4827,
   "identifier": "a67c7e9f-a8bd-43ac-8a72-4a1137bd6b99",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6984,
   "aniId": 36984,
-  "createdAt": "2020-10-12T16:04:41.000Z",
-  "updatedAt": "2021-12-02T22:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ueda Hiroshi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E6%AD%A6%E7%A5%9E%E6%88%AF%E6%9B%B2"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:12.000Z",
+    "updatedAt": "2022-04-29T20:30:43.000Z",
+    "checkedAt": null,
+    "id": 6984,
+    "type": "manga",
+    "title": "Bushin Gikyoku",
     "altTitle": [
       "Wargod Opera",
       "Peking Opera",
@@ -32,21 +33,29 @@
       "Beijing Opera",
       "武神戯曲"
     ],
-    "authors": [
-      "Ueda, Hiroshi"
-    ],
-    "id": 6984,
-    "type": "manga",
-    "title": "Bushin Gikyoku",
     "url": "https://myanimelist.net/manga/6984/Bushin_Gikyoku",
     "image": "https://cdn.myanimelist.net/images/manga/1/9367.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:12.000Z",
-    "updatedAt": "2022-04-29T20:30:43.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%AD%A6%E7%A5%9E%E6%88%AF%E6%9B%B2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ueda, Hiroshi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:22.309Z",
+    "updatedAt": "2022-05-13T12:54:22.309Z",
+    "checkedAt": null,
+    "id": 36984,
+    "type": "manga",
+    "title": "Beijing Opera",
     "altTitle": [
       "Beijing Opera",
       "武神戯曲",
@@ -55,21 +64,15 @@
       "Peking Opera",
       "The Story of Beijing Opera"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Ueda"
-    ],
-    "id": 36984,
-    "malId": 6984,
-    "type": "manga",
-    "title": "Beijing Opera",
     "url": "https://anilist.co/manga/36984",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b36984-xWmUoT32xoBi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:45.000Z",
-    "updatedAt": "2021-12-17T12:49:02.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6984/Bushin_Gikyoku"
+    "externalLinks": [],
+    "malId": 6984,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Ueda"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tamaoki Benkyo"
-  ],
+  "createdAt": "2020-10-12T16:07:08.000Z",
+  "updatedAt": "2021-12-04T00:48:59.000Z",
+  "checkedAt": null,
+  "id": 9970,
   "identifier": "0d8f99c2-9d0e-4c07-894c-0f7bfe163e2d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1080,
   "aniId": 31080,
-  "createdAt": "2020-10-12T16:07:08.000Z",
-  "updatedAt": "2021-12-04T00:48:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tamaoki Benkyo"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Blood:_The_Last_Vampire"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-15T22:58:09.000Z",
+    "checkedAt": "2022-05-15T22:58:09.000Z",
+    "id": 1080,
+    "type": "manga",
+    "title": "Blood: The Last Vampire (2002)",
     "altTitle": [
       "Blood",
       "Blood the Last Vampire",
@@ -32,21 +33,29 @@
       "Blood: The Last Vampire 2002",
       "ブラッド ザ・ラストヴァンパイア 2000"
     ],
-    "authors": [
-      "Tamaoki, Benkyou"
-    ],
-    "id": 1080,
-    "type": "manga",
-    "title": "Blood: The Last Vampire (2002)",
     "url": "https://myanimelist.net/manga/1080/Blood__The_Last_Vampire_2002",
     "image": "https://cdn.myanimelist.net/images/manga/3/12321.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2022-03-17T19:21:03.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blood:_The_Last_Vampire"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tamaoki, Benkyou"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:55.657Z",
+    "updatedAt": "2022-05-15T22:58:07.000Z",
+    "checkedAt": "2022-05-15T22:58:07.000Z",
+    "id": 31080,
+    "type": "manga",
+    "title": "Blood: The Last Vampire (2002)",
     "altTitle": [
       "Blood: The Last Vampire 2002",
       "ブラッド ザ・ラストヴァンパイア 2000",
@@ -54,21 +63,15 @@
       "Blood the Last Vampire",
       "Blood the Last Vampire 2000"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Benkyo Tamaoki"
-    ],
-    "id": 31080,
-    "malId": 1080,
-    "type": "manga",
-    "title": "Blood: The Last Vampire (2002)",
     "url": "https://anilist.co/manga/31080",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31080-bya4u2utIcrp.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:53.000Z",
-    "updatedAt": "2021-12-17T09:40:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1080/Blood__The_Last_Vampire_2002"
+    "externalLinks": [],
+    "malId": 1080,
+    "deletedAt": null,
+    "authors": [
+      "Benkyo Tamaoki"
+    ]
+  }
 }

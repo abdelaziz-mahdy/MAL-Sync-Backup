@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morishige Takuma"
-  ],
+  "createdAt": "2021-06-22T00:44:51.000Z",
+  "updatedAt": "2021-12-22T01:23:08.000Z",
+  "checkedAt": null,
+  "id": 79380,
   "identifier": "manga-ns955327",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28091,
   "aniId": 58091,
-  "createdAt": "2021-06-22T00:44:51.000Z",
-  "updatedAt": "2021-12-22T01:23:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morishige Takuma"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:29.000Z",
+    "updatedAt": "2022-05-16T01:03:34.000Z",
+    "checkedAt": "2022-05-16T01:03:34.000Z",
+    "id": 28091,
+    "type": "manga",
+    "title": "Tonari no Seki-kun",
+    "altTitle": [
+      "My Neighbour Seki",
+      "となりの関くん"
+    ],
+    "url": "https://myanimelist.net/manga/28091/Tonari_no_Seki-kun",
+    "image": "https://cdn.myanimelist.net/images/manga/2/74647.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My Neighbour Seki",
-      "となりの関くん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morishige, Takuma"
-    ],
-    "id": 28091,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:50.347Z",
+    "updatedAt": "2022-05-16T01:03:32.000Z",
+    "checkedAt": "2022-05-16T01:03:32.000Z",
+    "id": 58091,
     "type": "manga",
     "title": "Tonari no Seki-kun",
-    "url": "https://myanimelist.net/manga/28091/Tonari_no_Seki-kun",
-    "image": "https://cdn.myanimelist.net/images/manga/2/74647.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:29.000Z",
-    "updatedAt": "2022-04-08T01:30:38.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "My Neighbor Seki",
       "となりの関くん",
@@ -51,25 +60,19 @@
       "Pulpettinaapurit",
       "Séki, mon voisin de classe"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takuma Morishige",
-      "Ana María Caro",
-      "Florent Faguet",
-      "Yuko K.",
-      "Frédéric Guyader"
-    ],
-    "id": 58091,
-    "malId": 28091,
-    "type": "manga",
-    "title": "Tonari no Seki-kun",
     "url": "https://anilist.co/manga/58091",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx58091-XhC5tsFkZImw.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:29.000Z",
-    "updatedAt": "2022-03-15T19:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/28091/Tonari_no_Seki-kun"
+    "externalLinks": [],
+    "malId": 28091,
+    "deletedAt": null,
+    "authors": [
+      "Takuma Morishige",
+      "Ana María Caro",
+      "Florent Faguet",
+      "Yuko Kuramatsu",
+      "Frédéric Guyader"
+    ]
+  }
 }

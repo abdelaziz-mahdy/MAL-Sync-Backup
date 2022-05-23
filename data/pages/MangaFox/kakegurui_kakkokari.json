@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "KAWAMOTO Homura",
-    "KAWAMURA Taku"
-  ],
+  "createdAt": "2021-07-16T06:32:22.000Z",
+  "updatedAt": "2022-01-16T08:11:45.000Z",
+  "checkedAt": null,
+  "id": 82097,
   "identifier": "kakegurui_kakkokari",
   "type": "manga",
   "page": "MangaFox",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 103179,
   "aniId": 99271,
-  "createdAt": "2021-07-16T06:32:22.000Z",
-  "updatedAt": "2022-01-16T08:11:45.000Z",
   "deletedAt": null,
+  "authors": [
+    "KAWAMOTO Homura",
+    "KAWAMURA Taku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:47.000Z",
+    "updatedAt": "2022-05-17T14:45:01.000Z",
+    "checkedAt": "2022-05-17T14:45:01.000Z",
+    "id": 103179,
+    "type": "manga",
+    "title": "Kakegurui (Kari)",
+    "altTitle": [
+      "Kakegurui Temp",
+      "Kakkokari",
+      "賭ケグルイ（仮）"
+    ],
+    "url": "https://myanimelist.net/manga/103179/Kakegurui_Kari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/197426.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +47,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kakegurui Temp",
-      "Kakkokari",
-      "賭ケグルイ（仮）"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawamura, Taku"
-    ],
-    "id": 103179,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:33.639Z",
+    "updatedAt": "2022-05-17T14:45:00.000Z",
+    "checkedAt": "2022-05-17T14:45:00.000Z",
+    "id": 99271,
     "type": "manga",
     "title": "Kakegurui (Kari)",
-    "url": "https://myanimelist.net/manga/103179/Kakegurui_Kari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/197426.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:47.000Z",
-    "updatedAt": "2022-04-18T16:32:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "賭ケグルイ(仮)",
       "Kakegurui Kakkokari",
       "Kakegurui Temp"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Homura Kawamoto",
-      "Taku Kawamura"
-    ],
-    "id": 99271,
-    "malId": 103179,
-    "type": "manga",
-    "title": "Kakegurui (Kari)",
     "url": "https://anilist.co/manga/99271",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99271-xoleWmUxz95d.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:02.000Z",
-    "updatedAt": "2021-12-18T02:52:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103179/Kakegurui_Kari"
+    "externalLinks": [],
+    "malId": 103179,
+    "deletedAt": null,
+    "authors": [
+      "Homura Kawamoto",
+      "Taku Kawamura"
+    ]
+  }
 }

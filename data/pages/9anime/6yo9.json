@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:56.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3263,
   "identifier": "6yo9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 842,
   "aniId": 842,
-  "createdAt": "2020-10-12T15:50:56.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T09:00:55.000Z",
+    "checkedAt": "2022-05-14T09:00:55.000Z",
+    "id": 842,
+    "type": "anime",
+    "title": "Ushio to Tora",
+    "altTitle": [
+      "Ushio & Tora",
+      "Ushio and Tora",
+      "うしおととら"
+    ],
+    "url": "https://myanimelist.net/anime/842/Ushio_to_Tora",
+    "image": "https://cdn.myanimelist.net/images/anime/1443/97136.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,46 +47,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ushio & Tora",
-      "Ushio and Tora",
-      "うしおととら"
-    ],
+    "deletedAt": null,
+    "anidbId": 1360
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T09:40:11.000Z",
+    "checkedAt": "2022-05-15T09:40:11.000Z",
     "id": 842,
     "type": "anime",
     "title": "Ushio to Tora",
-    "url": "https://myanimelist.net/anime/842/Ushio_to_Tora",
-    "image": "https://cdn.myanimelist.net/images/anime/1443/97136.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 1360,
-    "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2022-04-14T22:31:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ushio and Tora",
       "うしおととら",
       "Ushio & Tora"
     ],
+    "url": "https://anilist.co/anime/842",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b842-fVGV9fp1o9io.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/ushio-and-tora"
       }
     ],
-    "id": 842,
     "malId": 842,
-    "type": "anime",
-    "title": "Ushio to Tora",
-    "url": "https://anilist.co/anime/842",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b842-fVGV9fp1o9io.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:46.000Z",
-    "updatedAt": "2021-12-01T08:05:34.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/842/Ushio_to_Tora"
+  }
 }

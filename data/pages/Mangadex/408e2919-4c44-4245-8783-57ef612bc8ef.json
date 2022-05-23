@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Shiroi Hakuto",
-    "Issen"
-  ],
+  "createdAt": "2020-10-12T16:12:03.000Z",
+  "updatedAt": "2022-03-16T08:54:33.000Z",
+  "checkedAt": null,
+  "id": 20589,
   "identifier": "408e2919-4c44-4245-8783-57ef612bc8ef",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 102005,
   "aniId": 108185,
-  "createdAt": "2020-10-12T16:12:03.000Z",
-  "updatedAt": "2022-03-16T08:54:33.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shiroi Hakuto",
+    "Issen"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:44.000Z",
+    "updatedAt": "2022-05-14T23:43:35.000Z",
+    "checkedAt": "2022-05-14T23:43:35.000Z",
+    "id": 102005,
+    "type": "manga",
+    "title": "BanG Dream!",
+    "altTitle": [
+      "Comic-ban BanG Dream!",
+      "コミック版 BanG Dream! バンドリ"
+    ],
+    "url": "https://myanimelist.net/manga/102005/BanG_Dream",
+    "image": "https://cdn.myanimelist.net/images/manga/2/196446.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Comic-ban BanG Dream!",
-      "コミック版 BanG Dream! バンドリ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kashiwabara, Mami"
-    ],
-    "id": 102005,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:23.997Z",
+    "updatedAt": "2022-05-18T15:25:03.000Z",
+    "checkedAt": "2022-05-18T15:25:03.000Z",
+    "id": 108185,
     "type": "manga",
     "title": "BanG Dream!",
-    "url": "https://myanimelist.net/manga/102005/BanG_Dream",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196446.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2022-03-10T21:59:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BanG Dream!",
       "BanG Dream! バンドリ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kou Nakamura",
-      "Mami Kashiwabara",
-      "Bushiroad "
-    ],
-    "id": 108185,
-    "malId": 102005,
-    "type": "manga",
-    "title": "BanG Dream!",
     "url": "https://anilist.co/manga/108185",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108185-jfOZsSQ3L4mf.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:54.000Z",
-    "updatedAt": "2022-03-16T08:54:33.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102005/BanG_Dream"
+    "externalLinks": [],
+    "malId": 102005,
+    "deletedAt": null,
+    "authors": [
+      "Kou Nakamura",
+      "Mami Kashiwabara",
+      "Bushiroad "
+    ]
+  }
 }

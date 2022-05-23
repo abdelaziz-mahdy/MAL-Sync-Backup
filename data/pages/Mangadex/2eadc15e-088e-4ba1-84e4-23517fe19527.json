@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "azmaya (Circle)",
-    "Azuma Aya"
-  ],
+  "createdAt": "2020-10-12T16:17:46.000Z",
+  "updatedAt": "2021-12-07T11:18:53.000Z",
+  "checkedAt": null,
+  "id": 31820,
   "identifier": "2eadc15e-088e-4ba1-84e4-23517fe19527",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108731,
   "aniId": 101519,
-  "createdAt": "2020-10-12T16:17:46.000Z",
-  "updatedAt": "2021-12-07T11:18:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "azmaya (Circle)",
+    "Azuma Aya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:10.000Z",
+    "updatedAt": "2022-05-16T13:49:10.000Z",
+    "checkedAt": "2022-05-16T13:49:10.000Z",
+    "id": 108731,
+    "type": "manga",
+    "title": "Takunomi.",
+    "altTitle": [
+      "たくのみ。"
+    ],
+    "url": "https://myanimelist.net/manga/108731/Takunomi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/200199.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "たくのみ。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hino, Haruto"
-    ],
-    "id": 108731,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:28.064Z",
+    "updatedAt": "2022-05-16T13:49:09.000Z",
+    "checkedAt": "2022-05-16T13:49:09.000Z",
+    "id": 101519,
     "type": "manga",
     "title": "Takunomi.",
-    "url": "https://myanimelist.net/manga/108731/Takunomi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/200199.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:10.000Z",
-    "updatedAt": "2022-01-09T06:18:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "たくのみ。",
       "Drinking Party at Home"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haruto Hino"
-    ],
-    "id": 101519,
-    "malId": 108731,
-    "type": "manga",
-    "title": "Takunomi.",
     "url": "https://anilist.co/manga/101519",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101519-IVZkFl9aORyJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:00.000Z",
-    "updatedAt": "2021-12-18T03:54:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108731/Takunomi"
+    "externalLinks": [],
+    "malId": 108731,
+    "deletedAt": null,
+    "authors": [
+      "Haruto Hino"
+    ]
+  }
 }

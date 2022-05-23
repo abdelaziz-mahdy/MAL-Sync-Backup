@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nakamura Shungiku"
-  ],
+  "createdAt": "2020-10-12T16:07:37.000Z",
+  "updatedAt": "2021-12-04T04:18:30.000Z",
+  "checkedAt": null,
+  "id": 11011,
   "identifier": "530163d8-e607-4fec-ba9a-f6e0cf345a59",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 765,
   "aniId": 30765,
-  "createdAt": "2020-10-12T16:07:37.000Z",
-  "updatedAt": "2021-12-04T04:18:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nakamura Shungiku"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "https://ja.wikipedia.org/wiki/%E7%B4%94%E6%83%85%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-03-15T04:00:30.000Z",
+    "checkedAt": null,
+    "id": 765,
+    "type": "manga",
+    "title": "Junjou Romantica",
     "altTitle": [
       "Pure Romance",
       "Junjou Egoist",
@@ -32,21 +33,29 @@
       "Junjo Romantica",
       "純情ロマンチカ"
     ],
-    "authors": [
-      "Nakamura, Shungiku"
-    ],
-    "id": 765,
-    "type": "manga",
-    "title": "Junjou Romantica",
     "url": "https://myanimelist.net/manga/765/Junjou_Romantica",
     "image": "https://cdn.myanimelist.net/images/manga/5/206960.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-03-15T04:00:30.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%B4%94%E6%83%85%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakamura, Shungiku"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:11.023Z",
+    "updatedAt": "2022-05-13T12:45:11.023Z",
+    "checkedAt": null,
+    "id": 30765,
+    "type": "manga",
+    "title": "Junjou Romantica",
     "altTitle": [
       "Junjo Romantica",
       "純情ロマンチカ",
@@ -54,21 +63,15 @@
       "Jyunjyou Romantica",
       "Junjou Egoist"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shungiku Nakamura"
-    ],
-    "id": 30765,
-    "malId": 765,
-    "type": "manga",
-    "title": "Junjou Romantica",
     "url": "https://anilist.co/manga/30765",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/765-TAPxKFkDrekO.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-17T09:33:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/765/Junjou_Romantica"
+    "externalLinks": [],
+    "malId": 765,
+    "deletedAt": null,
+    "authors": [
+      "Shungiku Nakamura"
+    ]
+  }
 }

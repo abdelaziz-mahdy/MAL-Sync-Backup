@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shiba Mochi"
-  ],
+  "createdAt": "2020-10-12T16:11:58.000Z",
+  "updatedAt": "2021-12-05T12:50:20.000Z",
+  "checkedAt": null,
+  "id": 20422,
   "identifier": "760d68dd-764e-4db8-ab93-5f0c1e7df3b8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,39 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104170,
   "aniId": 100995,
-  "createdAt": "2020-10-12T16:11:58.000Z",
-  "updatedAt": "2021-12-05T12:50:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shiba Mochi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:56.000Z",
+    "updatedAt": "2022-05-16T08:07:20.000Z",
+    "checkedAt": "2022-05-16T08:07:20.000Z",
+    "id": 104170,
+    "type": "manga",
+    "title": "Seishun Kijinden! Nishio Gakuen",
     "altTitle": [
       "Legend of Eccentric Youth! Nishio Academy",
       "青春奇人伝！240学園"
     ],
-    "authors": [
-      "Shiba, Mochi"
-    ],
-    "id": 104170,
-    "type": "manga",
-    "title": "Seishun Kijinden! Nishio Gakuen",
     "url": "https://myanimelist.net/manga/104170/Seishun_Kijinden_Nishio_Gakuen",
     "image": "https://cdn.myanimelist.net/images/manga/3/199140.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2022-01-13T19:41:52.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shiba, Mochi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:21.880Z",
+    "updatedAt": "2022-05-16T08:07:19.000Z",
+    "checkedAt": "2022-05-16T08:07:19.000Z",
+    "id": 100995,
+    "type": "manga",
+    "title": "Seishun Kijinden! Nishio Gakuen",
     "altTitle": [
       "青春奇人伝！240学園",
       "Legend of Eccentric Youth! Nishio Academy"
     ],
+    "url": "https://anilist.co/manga/100995",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100995-2u6dAeuaU4FD.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 104170,
+    "deletedAt": null,
     "authors": [
       "Mochi Shiba",
       "NISIOISIN",
@@ -53,18 +68,6 @@
       "Take",
       "Kinu Nishimura",
       "Foo Midori"
-    ],
-    "id": 100995,
-    "malId": 104170,
-    "type": "manga",
-    "title": "Seishun Kijinden! Nishio Gakuen",
-    "url": "https://anilist.co/manga/100995",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100995-2u6dAeuaU4FD.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:09.000Z",
-    "updatedAt": "2021-12-18T03:30:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104170/Seishun_Kijinden_Nishio_Gakuen"
+    ]
+  }
 }

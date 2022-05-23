@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Hiro",
-    "Matsuda Makoto",
-    "Amano Youichi"
-  ],
+  "createdAt": "2020-10-12T16:02:24.000Z",
+  "updatedAt": "2021-12-02T06:47:17.000Z",
+  "checkedAt": null,
+  "id": 36,
   "identifier": "c837e3ef-7f09-45b4-b1bf-25b3e15a2ae6",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23058,
   "aniId": 53058,
-  "createdAt": "2020-10-12T16:02:24.000Z",
-  "updatedAt": "2021-12-02T06:47:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hiro",
+    "Matsuda Makoto",
+    "Amano Youichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:08.000Z",
+    "updatedAt": "2022-04-05T17:00:43.000Z",
+    "checkedAt": null,
+    "id": 23058,
+    "type": "manga",
+    "title": "Examurai",
+    "altTitle": [
+      "Eguzamurai",
+      "エグザムライ"
+    ],
+    "url": "https://myanimelist.net/manga/23058/Examurai",
+    "image": "https://cdn.myanimelist.net/images/manga/5/39972.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,46 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Eguzamurai",
-      "エグザムライ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Youichi",
       "EXILE"
-    ],
-    "id": 23058,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:53.608Z",
+    "updatedAt": "2022-05-13T12:47:53.608Z",
+    "checkedAt": null,
+    "id": 53058,
     "type": "manga",
     "title": "Examurai",
-    "url": "https://myanimelist.net/manga/23058/Examurai",
-    "image": "https://cdn.myanimelist.net/images/manga/5/39972.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2022-04-05T17:00:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エグザムライ",
       "Eguzamurai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Youichi Amano",
-      "Exile"
-    ],
-    "id": 53058,
-    "malId": 23058,
-    "type": "manga",
-    "title": "Examurai",
     "url": "https://anilist.co/manga/53058",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53058-R2OCSdCVQUC9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:35.000Z",
-    "updatedAt": "2021-12-17T18:05:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23058/Examurai"
+    "externalLinks": [],
+    "malId": 23058,
+    "deletedAt": null,
+    "authors": [
+      "Youichi Amano",
+      "Exile"
+    ]
+  }
 }

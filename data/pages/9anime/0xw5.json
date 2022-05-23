@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:58.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 722,
   "identifier": "0xw5",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 654,
   "aniId": 654,
-  "createdAt": "2020-10-12T15:48:58.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-15T01:29:28.000Z",
+    "checkedAt": "2022-05-15T01:29:28.000Z",
+    "id": 654,
+    "type": "anime",
+    "title": "Galaxy Angel 3 Specials",
+    "altTitle": [
+      "Galaxy Angel AA",
+      "Galaxy Angel AA",
+      "ギャラクシーエンジェルＡＡ"
+    ],
+    "url": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/8/6758.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Galaxy Angel A Specials",
-      "Galaxy Angel AA Specials",
-      "ギャラクシーエンジェルＡ"
-    ],
+    "deletedAt": null,
+    "anidbId": 260
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-16T02:28:23.000Z",
+    "checkedAt": "2022-05-16T02:28:23.000Z",
     "id": 654,
     "type": "anime",
     "title": "Galaxy Angel 3 Specials",
-    "url": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials",
-    "image": "https://cdn.myanimelist.net/images/anime/8/6758.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 260,
-    "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2022-03-30T16:06:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ギャラクシーエンジェルＡ",
       "Galaxy Angel A Specials",
       "Galaxy Angel AA Specials"
     ],
-    "externalLinks": [],
-    "id": 654,
-    "malId": 654,
-    "type": "anime",
-    "title": "Galaxy Angel 3 Specials",
     "url": "https://anilist.co/anime/654",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/654.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:41.000Z",
-    "updatedAt": "2021-12-17T08:52:17.000Z",
+    "externalLinks": [],
+    "malId": 654,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials"
+  }
 }

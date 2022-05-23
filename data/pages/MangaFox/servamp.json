@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TANAKA Strike"
-  ],
+  "createdAt": "2021-08-30T20:06:56.000Z",
+  "updatedAt": "2022-03-01T00:28:44.000Z",
+  "checkedAt": null,
+  "id": 86477,
   "identifier": "servamp",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29887,
   "aniId": 59887,
-  "createdAt": "2021-08-30T20:06:56.000Z",
-  "updatedAt": "2022-03-01T00:28:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "TANAKA Strike"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:39.000Z",
+    "updatedAt": "2022-05-19T21:04:36.000Z",
+    "checkedAt": "2022-05-19T21:04:36.000Z",
+    "id": 29887,
+    "type": "manga",
+    "title": "Servamp",
+    "altTitle": [
+      "Servamp",
+      "SERVAMP -サーヴァンプ-"
+    ],
+    "url": "https://myanimelist.net/manga/29887/Servamp",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151037.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Servamp",
-      "SERVAMP -サーヴァンプ-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tanaka, Strike"
-    ],
-    "id": 29887,
-    "type": "manga",
-    "title": "Servamp",
-    "url": "https://myanimelist.net/manga/29887/Servamp",
-    "image": "https://cdn.myanimelist.net/images/manga/1/151037.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:39.000Z",
-    "updatedAt": "2022-04-14T12:30:25.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:11.879Z",
+    "updatedAt": "2022-05-19T21:04:35.000Z",
+    "checkedAt": "2022-05-19T21:04:35.000Z",
+    "id": 59887,
+    "type": "manga",
+    "title": "SERVAMP",
     "altTitle": [
       "Servamp",
       "SERVAMP -サーヴァンプ-",
@@ -52,21 +61,15 @@
       "Servamps",
       "Survamp"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Strike Tanaka"
-    ],
-    "id": 59887,
-    "malId": 29887,
-    "type": "manga",
-    "title": "SERVAMP",
     "url": "https://anilist.co/manga/59887",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59887-0JeSQsLQ1VO8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2022-04-13T10:31:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/29887/Servamp"
+    "externalLinks": [],
+    "malId": 29887,
+    "deletedAt": null,
+    "authors": [
+      "Strike Tanaka"
+    ]
+  }
 }

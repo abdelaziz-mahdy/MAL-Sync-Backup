@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takami Ryousen",
-    "Honoji"
-  ],
+  "createdAt": "2020-10-12T16:08:35.000Z",
+  "updatedAt": "2021-12-04T11:22:19.000Z",
+  "checkedAt": null,
+  "id": 13098,
   "identifier": "469171aa-78cd-475c-98c5-68475d059dc1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 89703,
   "aniId": 95098,
-  "createdAt": "2020-10-12T16:08:35.000Z",
-  "updatedAt": "2021-12-04T11:22:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takami Ryousen",
+    "Honoji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:00.000Z",
+    "updatedAt": "2022-05-15T06:53:00.000Z",
+    "checkedAt": "2022-05-15T06:52:59.000Z",
+    "id": 89703,
+    "type": "manga",
+    "title": "Isekai Tensei Soudouki",
+    "altTitle": [
+      "Multi-Mind Mayhem",
+      "異世界転生騒動記"
+    ],
+    "url": "https://myanimelist.net/manga/89703/Isekai_Tensei_Soudouki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/186481.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,47 +46,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Multi-Mind Mayhem",
-      "異世界転生騒動記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Honoji",
       "Takami, Ryousen"
-    ],
-    "id": 89703,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:32.040Z",
+    "updatedAt": "2022-05-16T05:58:56.000Z",
+    "checkedAt": "2022-05-16T05:58:56.000Z",
+    "id": 95098,
     "type": "manga",
     "title": "Isekai Tensei Soudouki",
-    "url": "https://myanimelist.net/manga/89703/Isekai_Tensei_Soudouki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/186481.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:00.000Z",
-    "updatedAt": "2022-01-15T16:12:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Multi-Mind Mayhem: Isekai Tensei Soudouki",
       "異世界転生騒動記"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryousen Takami",
-      "Honoji",
-      "Ririnra"
-    ],
-    "id": 95098,
-    "malId": 89703,
-    "type": "manga",
-    "title": "Isekai Tensei Soudouki",
     "url": "https://anilist.co/manga/95098",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95098-wrE4LO1sLJTs.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:02.000Z",
-    "updatedAt": "2021-12-17T12:21:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/89703/Isekai_Tensei_Soudouki"
+    "externalLinks": [],
+    "malId": 89703,
+    "deletedAt": null,
+    "authors": [
+      "Ryousen Takami",
+      "Honoji",
+      "Ririnra"
+    ]
+  }
 }

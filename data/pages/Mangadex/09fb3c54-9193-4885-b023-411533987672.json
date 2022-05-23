@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamazaki Housui"
-  ],
+  "createdAt": "2020-10-12T16:13:04.000Z",
+  "updatedAt": "2021-12-05T18:50:40.000Z",
+  "checkedAt": null,
+  "id": 22135,
   "identifier": "09fb3c54-9193-4885-b023-411533987672",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4260,
   "aniId": 34260,
-  "createdAt": "2020-10-12T16:13:04.000Z",
-  "updatedAt": "2021-12-05T18:50:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamazaki Housui"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:58.000Z",
+    "updatedAt": "2022-05-17T07:01:15.000Z",
+    "checkedAt": "2022-05-17T07:01:15.000Z",
+    "id": 4260,
+    "type": "manga",
+    "title": "Mail",
+    "altTitle": [
+      "Mail",
+      "MAIL メイル"
+    ],
+    "url": "https://myanimelist.net/manga/4260/Mail",
+    "image": "https://cdn.myanimelist.net/images/manga/1/4939.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mail",
-      "MAIL メイル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamazaki, Housui"
-    ],
-    "id": 4260,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:44.046Z",
+    "updatedAt": "2022-05-17T07:01:14.000Z",
+    "checkedAt": "2022-05-17T07:01:14.000Z",
+    "id": 34260,
     "type": "manga",
     "title": "Mail",
-    "url": "https://myanimelist.net/manga/4260/Mail",
-    "image": "https://cdn.myanimelist.net/images/manga/1/4939.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:58.000Z",
-    "updatedAt": "2022-04-08T22:01:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mail",
       "メイル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Housui Yamazaki"
-    ],
-    "id": 34260,
-    "malId": 4260,
-    "type": "manga",
-    "title": "Mail",
     "url": "https://anilist.co/manga/34260",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34260-VozlozPxtjGL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:45:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4260/Mail"
+    "externalLinks": [],
+    "malId": 4260,
+    "deletedAt": null,
+    "authors": [
+      "Housui Yamazaki"
+    ]
+  }
 }

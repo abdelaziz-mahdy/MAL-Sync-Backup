@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Howard Phillips Lovecraft",
-    "Tanabe Gou"
-  ],
+  "createdAt": "2020-10-12T16:15:54.000Z",
+  "updatedAt": "2022-01-09T14:47:59.000Z",
+  "checkedAt": null,
+  "id": 27979,
   "identifier": "3fd39cb5-fcda-4c56-ac1a-96c53be3b476",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 119951,
   "aniId": 111897,
-  "createdAt": "2020-10-12T16:15:54.000Z",
-  "updatedAt": "2022-01-09T14:47:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Howard Phillips Lovecraft",
+    "Tanabe Gou"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-02-23T06:56:12.000Z",
+    "updatedAt": "2022-05-21T16:53:04.000Z",
+    "checkedAt": "2022-05-21T16:53:04.000Z",
+    "id": 119951,
+    "type": "manga",
+    "title": "Outsider",
     "altTitle": [
       "Chuunikai no Aru Ie",
       "Nijuurokunin no Otoko to Hitori no Shoujo",
@@ -30,24 +36,27 @@
       "The Outsider",
       "アウトサイダー"
     ],
+    "url": "https://myanimelist.net/manga/119951/Outsider",
+    "image": "https://cdn.myanimelist.net/images/manga/3/229625.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Lovecraft, H. P.",
       "Tanabe, Gou",
       "Chekhov, Anton",
       "Gorky, Maxim"
-    ],
-    "id": 119951,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:19.020Z",
+    "updatedAt": "2022-05-21T16:52:48.000Z",
+    "checkedAt": "2022-05-21T16:52:48.000Z",
+    "id": 111897,
     "type": "manga",
     "title": "Outsider",
-    "url": "https://myanimelist.net/manga/119951/Outsider",
-    "image": "https://cdn.myanimelist.net/images/manga/3/229625.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-23T06:56:12.000Z",
-    "updatedAt": "2022-04-10T15:03:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アウトサイダー",
       "The Outsider",
@@ -55,22 +64,16 @@
       "Twenty-six Men and a Girl",
       "Ju-ga"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Tanabe",
-      "H. P. Lovecraft"
-    ],
-    "id": 111897,
-    "malId": 119951,
-    "type": "manga",
-    "title": "Outsider",
     "url": "https://anilist.co/manga/111897",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111897-s2hKfE1YSIdF.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-09T14:13:17.000Z",
-    "updatedAt": "2022-01-09T14:18:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/119951/Outsider"
+    "externalLinks": [],
+    "malId": 119951,
+    "deletedAt": null,
+    "authors": [
+      "Gou Tanabe",
+      "H. P. Lovecraft"
+    ]
+  }
 }

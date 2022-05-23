@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Billy"
-  ],
+  "createdAt": "2022-04-06T13:02:04.000Z",
+  "updatedAt": "2022-04-06T13:02:05.000Z",
+  "checkedAt": null,
+  "id": 100776,
   "identifier": "d1355d4f-5877-45ce-9478-95d312c30e05",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 118152,
   "aniId": 116939,
-  "createdAt": "2022-04-06T13:02:04.000Z",
-  "updatedAt": "2022-04-06T13:02:05.000Z",
   "deletedAt": null,
+  "authors": [
+    "Billy"
+  ],
   "Mal": {
+    "createdAt": "2021-07-04T15:02:03.000Z",
+    "updatedAt": "2022-04-06T11:03:33.000Z",
+    "checkedAt": null,
+    "id": 118152,
+    "type": "manga",
+    "title": "Cinema Complex!",
+    "altTitle": [
+      "シネマこんぷれっくす!"
+    ],
+    "url": "https://myanimelist.net/manga/118152/Cinema_Complex",
+    "image": "https://cdn.myanimelist.net/images/manga/1/215638.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "シネマこんぷれっくす!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Billy"
-    ],
-    "id": 118152,
-    "type": "manga",
-    "title": "Cinema Complex!",
-    "url": "https://myanimelist.net/manga/118152/Cinema_Complex",
-    "image": "https://cdn.myanimelist.net/images/manga/1/215638.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-07-04T15:02:03.000Z",
-    "updatedAt": "2022-04-06T11:03:33.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:57.548Z",
+    "updatedAt": "2022-05-13T13:01:57.548Z",
+    "checkedAt": null,
+    "id": 116939,
+    "type": "manga",
+    "title": "Cinema Complex! ",
     "altTitle": [
       "シネマこんぷれっくす! "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Billy"
-    ],
-    "id": 116939,
-    "malId": 118152,
-    "type": "manga",
-    "title": "Cinema Complex! ",
     "url": "https://anilist.co/manga/116939",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116939-E3S1Uk3lf9ja.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-04-06T13:02:05.000Z",
-    "updatedAt": "2022-04-06T13:02:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/118152/Cinema_Complex"
+    "externalLinks": [],
+    "malId": 118152,
+    "deletedAt": null,
+    "authors": [
+      "Billy"
+    ]
+  }
 }

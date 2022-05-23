@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Adachi Mitsuru"
-  ],
+  "createdAt": "2020-10-12T16:02:53.000Z",
+  "updatedAt": "2021-12-02T10:18:28.000Z",
+  "checkedAt": null,
+  "id": 1051,
   "identifier": "c8f40dfe-e2b2-42ea-b336-a66b3db5cd72",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1670,
   "aniId": 31670,
-  "createdAt": "2020-10-12T16:02:53.000Z",
-  "updatedAt": "2021-12-02T10:18:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Adachi Mitsuru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-05-16T01:45:26.000Z",
+    "checkedAt": "2022-05-16T01:45:26.000Z",
+    "id": 1670,
+    "type": "manga",
+    "title": "Bouken Shounen",
+    "altTitle": [
+      "Bôken Shônen",
+      "Adventure Boys",
+      "冒険少年"
+    ],
+    "url": "https://myanimelist.net/manga/1670/Bouken_Shounen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/21734.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Bôken Shônen",
-      "Adventure Boys",
-      "冒険少年"
-    ],
+    "deletedAt": null,
     "authors": [
       "Adachi, Mitsuru"
-    ],
-    "id": 1670,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:58.791Z",
+    "updatedAt": "2022-05-16T01:45:25.000Z",
+    "checkedAt": "2022-05-16T01:45:25.000Z",
+    "id": 31670,
     "type": "manga",
     "title": "Bouken Shounen",
-    "url": "https://myanimelist.net/manga/1670/Bouken_Shounen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/21734.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-03-31T00:37:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "冒険少年",
       "Bôken Shônen",
       "Adventure Boys"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mitsuru Adachi"
-    ],
-    "id": 31670,
-    "malId": 1670,
-    "type": "manga",
-    "title": "Bouken Shounen",
     "url": "https://anilist.co/manga/31670",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31670-BPsyVhAmuXen.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:51.000Z",
-    "updatedAt": "2021-12-17T10:11:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1670/Bouken_Shounen"
+    "externalLinks": [],
+    "malId": 1670,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuru Adachi"
+    ]
+  }
 }

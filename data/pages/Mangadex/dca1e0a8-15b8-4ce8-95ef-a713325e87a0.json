@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hayashi Yuuki"
-  ],
+  "createdAt": "2020-10-12T16:02:23.000Z",
+  "updatedAt": "2021-12-02T06:47:07.000Z",
+  "checkedAt": null,
+  "id": 19,
   "identifier": "dca1e0a8-15b8-4ce8-95ef-a713325e87a0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20882,
   "aniId": 50882,
-  "createdAt": "2020-10-12T16:02:23.000Z",
-  "updatedAt": "2021-12-02T06:47:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hayashi Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:53.000Z",
+    "updatedAt": "2022-04-29T21:02:47.000Z",
+    "checkedAt": null,
+    "id": 20882,
+    "type": "manga",
+    "title": "Kaichuu!",
+    "altTitle": [
+      "Kaichu!",
+      "カイチュー!"
+    ],
+    "url": "https://myanimelist.net/manga/20882/Kaichuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/257988.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kaichu!",
-      "カイチュー!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hayashi, Yuuki"
-    ],
-    "id": 20882,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:07.677Z",
+    "updatedAt": "2022-05-13T13:01:07.677Z",
+    "checkedAt": null,
+    "id": 50882,
     "type": "manga",
     "title": "Kaichuu!",
-    "url": "https://myanimelist.net/manga/20882/Kaichuu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/257988.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:53.000Z",
-    "updatedAt": "2022-04-29T21:02:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "カイチュー!",
       "Kaichu!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki Hayashi"
-    ],
-    "id": 50882,
-    "malId": 20882,
-    "type": "manga",
-    "title": "Kaichuu!",
     "url": "https://anilist.co/manga/50882",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20882.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:35.000Z",
-    "updatedAt": "2021-12-17T17:34:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20882/Kaichuu"
+    "externalLinks": [],
+    "malId": 20882,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Hayashi"
+    ]
+  }
 }

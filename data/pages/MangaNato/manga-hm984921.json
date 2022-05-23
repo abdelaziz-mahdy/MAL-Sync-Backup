@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yu",
-    "優風"
-  ],
+  "createdAt": "2021-07-11T00:44:21.000Z",
+  "updatedAt": "2022-02-11T18:22:41.000Z",
+  "checkedAt": null,
+  "id": 81574,
   "identifier": "manga-hm984921",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 122025,
   "aniId": 111057,
-  "createdAt": "2021-07-11T00:44:21.000Z",
-  "updatedAt": "2022-02-11T18:22:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yu",
+    "優風"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:08.000Z",
+    "updatedAt": "2022-05-17T03:26:09.000Z",
+    "checkedAt": "2022-05-17T03:26:09.000Z",
+    "id": 122025,
+    "type": "manga",
+    "title": "Yome no Manimani",
+    "altTitle": [
+      "嫁のまにまに"
+    ],
+    "url": "https://myanimelist.net/manga/122025/Yome_no_Manimani",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227615.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,42 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "嫁のまにまに"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yuu"
-    ],
-    "id": 122025,
-    "type": "manga",
-    "title": "Yome no Manimani",
-    "url": "https://myanimelist.net/manga/122025/Yome_no_Manimani",
-    "image": "https://cdn.myanimelist.net/images/manga/3/227615.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:08.000Z",
-    "updatedAt": "2022-04-24T03:02:50.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
-    "altTitle": [
-      "嫁のまにまに"
-    ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu"
-    ],
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:28.815Z",
+    "updatedAt": "2022-05-17T03:26:07.000Z",
+    "checkedAt": "2022-05-17T03:26:07.000Z",
     "id": 111057,
-    "malId": 122025,
     "type": "manga",
     "title": "Yome no Mani Mani",
+    "altTitle": [
+      "嫁のまにまに"
+    ],
     "url": "https://anilist.co/manga/111057",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111057-8rMsbpEu9Nit.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:26.000Z",
-    "updatedAt": "2022-02-11T14:39:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122025/Yome_no_Manimani"
+    "externalLinks": [],
+    "malId": 122025,
+    "deletedAt": null,
+    "authors": [
+      "Yuu"
+    ]
+  }
 }

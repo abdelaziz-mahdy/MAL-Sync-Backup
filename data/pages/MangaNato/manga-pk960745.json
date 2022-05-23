@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suenobu Keiko"
-  ],
+  "createdAt": "2021-06-02T19:01:01.000Z",
+  "updatedAt": "2021-12-02T19:47:35.000Z",
+  "checkedAt": null,
+  "id": 75931,
   "identifier": "manga-pk960745",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 407,
   "aniId": 30407,
-  "createdAt": "2021-06-02T19:01:01.000Z",
-  "updatedAt": "2021-12-02T19:47:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suenobu Keiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:21.000Z",
+    "updatedAt": "2022-05-14T23:34:35.000Z",
+    "checkedAt": "2022-05-14T23:34:35.000Z",
+    "id": 407,
+    "type": "manga",
+    "title": "Life",
+    "altTitle": [
+      "Life",
+      "ライフ"
+    ],
+    "url": "https://myanimelist.net/manga/407/Life",
+    "image": "https://cdn.myanimelist.net/images/manga/3/127497.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Life",
-      "ライフ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Suenobu, Keiko"
-    ],
-    "id": 407,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:33.230Z",
+    "updatedAt": "2022-05-16T02:46:26.000Z",
+    "checkedAt": "2022-05-16T02:46:26.000Z",
+    "id": 30407,
     "type": "manga",
     "title": "Life",
-    "url": "https://myanimelist.net/manga/407/Life",
-    "image": "https://cdn.myanimelist.net/images/manga/3/127497.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2021-12-02T19:17:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Life",
       "ライフ",
       "Raifu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keiko Suenobu"
-    ],
-    "id": 30407,
-    "malId": 407,
-    "type": "manga",
-    "title": "Life",
     "url": "https://anilist.co/manga/30407",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30407-BG6p3nsCLVpy.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2021-12-17T09:09:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/407/Life"
+    "externalLinks": [],
+    "malId": 407,
+    "deletedAt": null,
+    "authors": [
+      "Keiko Suenobu"
+    ]
+  }
 }

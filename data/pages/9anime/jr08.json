@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:18.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5002,
   "identifier": "jr08",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40075,
   "aniId": 110371,
-  "createdAt": "2020-10-12T15:52:18.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:11.000Z",
+    "updatedAt": "2022-05-14T18:41:59.000Z",
+    "checkedAt": "2022-05-14T18:41:59.000Z",
+    "id": 40075,
+    "type": "anime",
+    "title": "Koi to Producer: EVOL×LOVE",
+    "altTitle": [
+      "Love and Producer",
+      "Mr Love: Queen's Choice",
+      "恋とプロデューサー~EVOL×LOVE~"
+    ],
+    "url": "https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL×LOVE",
+    "image": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,23 +56,16 @@
         "url": "http://www.crunchyroll.com/series-279602"
       }
     ],
-    "altTitle": [
-      "Mr Love: Queen's Choice",
-      "恋とプロデューサー~EVOL×LOVE~"
-    ],
-    "id": 40075,
+    "deletedAt": null,
+    "anidbId": 15002
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:56.000Z",
+    "updatedAt": "2022-05-15T11:51:11.000Z",
+    "checkedAt": "2022-05-15T11:51:11.000Z",
+    "id": 110371,
     "type": "anime",
     "title": "Koi to Producer: EVOL×LOVE",
-    "url": "https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL×LOVE",
-    "image": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15002,
-    "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2022-02-24T03:49:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mr Love: Queen's Choice",
       "恋とプロデューサー～EVOL×LOVE～",
@@ -63,6 +73,10 @@
       "恋与制作人",
       "Lian Yu Zhizuoren"
     ],
+    "url": "https://anilist.co/anime/110371",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110371-iQC5FQ6FuTuX.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -73,17 +87,7 @@
         "url": "https://vrv.co/series/GYZJNKZVR/Mr-Love-Queens-Choice"
       }
     ],
-    "id": 110371,
     "malId": 40075,
-    "type": "anime",
-    "title": "Koi to Producer: EVOL×LOVE",
-    "url": "https://anilist.co/anime/110371",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110371-iQC5FQ6FuTuX.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:56.000Z",
-    "updatedAt": "2021-12-17T17:27:00.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL×LOVE"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oikawa Tooru"
-  ],
+  "createdAt": "2020-10-12T16:09:20.000Z",
+  "updatedAt": "2022-05-16T15:31:20.000Z",
+  "checkedAt": "2022-05-16T15:30:43.000Z",
+  "id": 14762,
   "identifier": "eb17e1e9-7a26-4173-88fa-6878a7081a59",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94896,
   "aniId": 86855,
-  "createdAt": "2020-10-12T16:09:20.000Z",
-  "updatedAt": "2021-12-04T17:26:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oikawa Tooru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:21.000Z",
+    "updatedAt": "2022-05-15T18:40:49.000Z",
+    "checkedAt": "2022-05-15T18:40:49.000Z",
+    "id": 94896,
+    "type": "manga",
+    "title": "Infection",
+    "altTitle": [
+      "インフェクション"
+    ],
+    "url": "https://myanimelist.net/manga/94896/Infection",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188897.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "インフェクション"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oikawa, Tooru"
-    ],
-    "id": 94896,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:36.625Z",
+    "updatedAt": "2022-05-15T20:42:11.000Z",
+    "checkedAt": "2022-05-15T20:42:11.000Z",
+    "id": 86855,
     "type": "manga",
     "title": "Infection",
-    "url": "https://myanimelist.net/manga/94896/Infection",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188897.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2022-03-25T23:58:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "インフェクション"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tooru Oikawa"
-    ],
-    "id": 86855,
-    "malId": 94896,
-    "type": "manga",
-    "title": "Infection",
     "url": "https://anilist.co/manga/86855",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86855-Y7bogIzdszlY.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:56.000Z",
-    "updatedAt": "2021-12-17T22:59:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94896/Infection"
+    "externalLinks": [],
+    "malId": 94896,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Oikawa"
+    ]
+  }
 }

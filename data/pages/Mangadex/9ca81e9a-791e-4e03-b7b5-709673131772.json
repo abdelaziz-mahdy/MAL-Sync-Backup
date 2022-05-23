@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Noboru Kimura",
-    "Yoshino Hiroyuki",
-    "Satou Kenetsu"
-  ],
+  "createdAt": "2020-10-12T16:04:45.000Z",
+  "updatedAt": "2021-12-02T23:19:42.000Z",
+  "checkedAt": null,
+  "id": 4948,
   "identifier": "9ca81e9a-791e-4e03-b7b5-709673131772",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 441,
   "aniId": 30441,
-  "createdAt": "2020-10-12T16:04:45.000Z",
-  "updatedAt": "2021-12-02T23:19:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Noboru Kimura",
+    "Yoshino Hiroyuki",
+    "Satou Kenetsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2022-05-16T16:03:41.000Z",
+    "checkedAt": "2022-05-16T16:03:41.000Z",
+    "id": 441,
+    "type": "manga",
+    "title": "Mai-HiME",
+    "altTitle": [
+      "Dancing Princess",
+      "Mai HiME",
+      "My HiME",
+      "My Princess",
+      "Princess Mai",
+      "My-HiME",
+      "舞-HiME"
+    ],
+    "url": "https://myanimelist.net/manga/441/Mai-HiME",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178058.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,31 +52,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dancing Princess",
-      "Mai HiME",
-      "My HiME",
-      "My Princess",
-      "Princess Mai",
-      "My-HiME",
-      "舞-HiME"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kimura, Noboru",
       "Satou, Kenetsu"
-    ],
-    "id": 441,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:37.677Z",
+    "updatedAt": "2022-05-16T16:03:40.000Z",
+    "checkedAt": "2022-05-16T16:03:40.000Z",
+    "id": 30441,
     "type": "manga",
     "title": "Mai-HiME",
-    "url": "https://myanimelist.net/manga/441/Mai-HiME",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178058.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:22.000Z",
-    "updatedAt": "2022-04-11T14:37:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "My-HiME",
       "舞-HiME",
@@ -64,25 +73,19 @@
       "My HiME",
       "My Princess"
     ],
+    "url": "https://anilist.co/manga/30441",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30441-Z0Lcx3hXjgDV.png",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 441,
+    "deletedAt": null,
     "authors": [
       "Noboru Kimura",
       "Kenetsu Satou",
       "Hajime Yatate",
       "Gorou Taniguchi",
       "Hiroyuki Yoshino"
-    ],
-    "id": 30441,
-    "malId": 441,
-    "type": "manga",
-    "title": "Mai-HiME",
-    "url": "https://anilist.co/manga/30441",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30441-Z0Lcx3hXjgDV.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:33.000Z",
-    "updatedAt": "2022-02-03T01:23:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/441/Mai-HiME"
+    ]
+  }
 }

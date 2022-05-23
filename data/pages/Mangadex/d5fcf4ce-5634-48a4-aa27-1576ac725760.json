@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Munko"
-  ],
+  "createdAt": "2020-10-12T16:11:14.000Z",
+  "updatedAt": "2021-12-05T06:50:02.000Z",
+  "checkedAt": null,
+  "id": 18860,
   "identifier": "d5fcf4ce-5634-48a4-aa27-1576ac725760",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111815,
   "aniId": 101075,
-  "createdAt": "2020-10-12T16:11:14.000Z",
-  "updatedAt": "2021-12-05T06:50:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Munko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:24.000Z",
+    "updatedAt": "2022-02-27T08:17:41.000Z",
+    "checkedAt": null,
+    "id": 111815,
+    "type": "manga",
+    "title": "Dakara Miyoko Desu",
+    "altTitle": [
+      "Therefore I am Miyoko.",
+      "だから美代子です"
+    ],
+    "url": "https://myanimelist.net/manga/111815/Dakara_Miyoko_Desu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/211349.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Therefore I am Miyoko.",
-      "だから美代子です"
-    ],
+    "deletedAt": null,
     "authors": [
       "Munko"
-    ],
-    "id": 111815,
-    "type": "manga",
-    "title": "Dakara Miyoko Desu",
-    "url": "https://myanimelist.net/manga/111815/Dakara_Miyoko_Desu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/211349.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:24.000Z",
-    "updatedAt": "2022-02-27T08:17:41.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:38.854Z",
+    "updatedAt": "2022-05-13T13:02:38.854Z",
+    "checkedAt": null,
+    "id": 101075,
+    "type": "manga",
+    "title": "Dakara Miyoko desu",
     "altTitle": [
       "だから美代子です",
       "Therefore I am Miyoko."
     ],
-    "externalLinks": [],
-    "authors": [
-      "MUNKO"
-    ],
-    "id": 101075,
-    "malId": 111815,
-    "type": "manga",
-    "title": "Dakara Miyoko desu",
     "url": "https://anilist.co/manga/101075",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101075-aOjwNRT7ilrT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2022-05-10T08:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111815/Dakara_Miyoko_Desu"
+    "externalLinks": [],
+    "malId": 111815,
+    "deletedAt": null,
+    "authors": [
+      "MUNKO"
+    ]
+  }
 }

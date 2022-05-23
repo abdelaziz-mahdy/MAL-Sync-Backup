@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miyanaga Ryu"
-  ],
+  "createdAt": "2020-10-12T16:02:32.000Z",
+  "updatedAt": "2021-12-02T07:47:18.000Z",
+  "checkedAt": null,
+  "id": 333,
   "identifier": "c3bdafd0-396a-46a9-a41a-563db37aa9c2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 22507,
   "aniId": 52507,
-  "createdAt": "2020-10-12T16:02:32.000Z",
-  "updatedAt": "2021-12-02T07:47:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miyanaga Ryu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:03.000Z",
+    "updatedAt": "2021-11-03T11:36:11.000Z",
+    "checkedAt": null,
+    "id": 22507,
+    "type": "manga",
+    "title": "Date Ningen",
+    "altTitle": [
+      "伊達人間"
+    ],
+    "url": "https://myanimelist.net/manga/22507/Date_Ningen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/36511.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,42 +44,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "伊達人間"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miyanaga, Ryu"
-    ],
-    "id": 22507,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:30.415Z",
+    "updatedAt": "2022-05-13T12:43:30.415Z",
+    "checkedAt": null,
+    "id": 52507,
     "type": "manga",
     "title": "Date Ningen",
-    "url": "https://myanimelist.net/manga/22507/Date_Ningen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/36511.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:03.000Z",
-    "updatedAt": "2021-11-03T11:36:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "伊達人間"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryu Miyanaga"
-    ],
-    "id": 52507,
-    "malId": 22507,
-    "type": "manga",
-    "title": "Date Ningen",
     "url": "https://anilist.co/manga/52507",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22507.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:30.000Z",
-    "updatedAt": "2021-12-17T17:46:03.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/22507/Date_Ningen"
+    "externalLinks": [],
+    "malId": 22507,
+    "deletedAt": null,
+    "authors": [
+      "Ryu Miyanaga"
+    ]
+  }
 }

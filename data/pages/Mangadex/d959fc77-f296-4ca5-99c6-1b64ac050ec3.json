@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Horibe Takeo"
-  ],
+  "createdAt": "2020-10-12T16:05:19.000Z",
+  "updatedAt": "2021-12-03T11:49:07.000Z",
+  "checkedAt": null,
+  "id": 6136,
   "identifier": "d959fc77-f296-4ca5-99c6-1b64ac050ec3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 46,
   "aniId": 30046,
-  "createdAt": "2020-10-12T16:05:19.000Z",
-  "updatedAt": "2021-12-03T11:49:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Horibe Takeo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-04-25T22:30:48.000Z",
+    "checkedAt": null,
+    "id": 46,
+    "type": "manga",
+    "title": "Kannade",
+    "altTitle": [
+      "God's Hand",
+      "神撫手"
+    ],
+    "url": "https://myanimelist.net/manga/46/Kannade",
+    "image": "https://cdn.myanimelist.net/images/manga/2/4441.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "God's Hand",
-      "神撫手"
-    ],
+    "deletedAt": null,
     "authors": [
       "Horibe, Takeo"
-    ],
-    "id": 46,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:01.632Z",
+    "updatedAt": "2022-05-13T12:52:01.632Z",
+    "checkedAt": null,
+    "id": 30046,
     "type": "manga",
     "title": "Kannade",
-    "url": "https://myanimelist.net/manga/46/Kannade",
-    "image": "https://cdn.myanimelist.net/images/manga/2/4441.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-25T22:30:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "神撫手"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeo Horibe"
-    ],
-    "id": 30046,
-    "malId": 46,
-    "type": "manga",
-    "title": "Kannade",
     "url": "https://anilist.co/manga/30046",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30046-YOIbhbHFUG8n.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2021-12-22T15:21:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/46/Kannade"
+    "externalLinks": [],
+    "malId": 46,
+    "deletedAt": null,
+    "authors": [
+      "Takeo Horibe"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Dall Nali"
-  ],
+  "createdAt": "2020-10-12T16:17:28.000Z",
+  "updatedAt": "2021-12-07T08:18:12.000Z",
+  "checkedAt": null,
+  "id": 31187,
   "identifier": "27ba1256-251c-4157-b54a-adf37bc4bb17",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25081,
   "aniId": 55081,
-  "createdAt": "2020-10-12T16:17:28.000Z",
-  "updatedAt": "2021-12-07T08:18:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Dall Nali"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:16.000Z",
+    "updatedAt": "2022-05-16T16:31:23.000Z",
+    "checkedAt": "2022-05-16T16:31:23.000Z",
+    "id": 25081,
+    "type": "manga",
+    "title": "Love Stage!!",
+    "altTitle": [
+      "Love Stage!!",
+      "LOVE STAGE!!"
+    ],
+    "url": "https://myanimelist.net/manga/25081/Love_Stage",
+    "image": "https://cdn.myanimelist.net/images/manga/4/41861.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Love Stage!!",
-      "LOVE STAGE!!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuda, Mikiyo",
       "Eiki, Eiki"
-    ],
-    "id": 25081,
-    "type": "manga",
-    "title": "Love Stage!!",
-    "url": "https://myanimelist.net/manga/25081/Love_Stage",
-    "image": "https://cdn.myanimelist.net/images/manga/4/41861.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:16.000Z",
-    "updatedAt": "2022-04-19T20:31:44.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:50.626Z",
+    "updatedAt": "2022-05-16T16:31:21.000Z",
+    "checkedAt": "2022-05-16T16:31:21.000Z",
+    "id": 55081,
+    "type": "manga",
+    "title": "LOVE STAGE!!",
     "altTitle": [
       "Love Stage!!",
       "LOVE STAGE!!",
       "ラブステージ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mikiyo Tsuda",
-      "Eiki Eiki"
-    ],
-    "id": 55081,
-    "malId": 25081,
-    "type": "manga",
-    "title": "LOVE STAGE!!",
     "url": "https://anilist.co/manga/55081",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx55081-K1TjsLMdkyca.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:52.000Z",
-    "updatedAt": "2022-02-21T17:48:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25081/Love_Stage"
+    "externalLinks": [],
+    "malId": 25081,
+    "deletedAt": null,
+    "authors": [
+      "Mikiyo Tsuda",
+      "Eiki Eiki"
+    ]
+  }
 }

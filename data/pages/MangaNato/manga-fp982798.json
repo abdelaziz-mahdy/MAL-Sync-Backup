@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Neji"
-  ],
+  "createdAt": "2021-06-21T17:16:13.000Z",
+  "updatedAt": "2021-12-21T17:52:07.000Z",
+  "checkedAt": null,
+  "id": 79339,
   "identifier": "manga-fp982798",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123507,
   "aniId": 110850,
-  "createdAt": "2021-06-21T17:16:13.000Z",
-  "updatedAt": "2021-12-21T17:52:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Neji"
+  ],
   "Mal": {
+    "createdAt": "2020-11-06T20:28:30.000Z",
+    "updatedAt": "2021-12-21T17:22:37.000Z",
+    "checkedAt": null,
+    "id": 123507,
+    "type": "manga",
+    "title": "Dear Noman",
+    "altTitle": [
+      "Dear NOMAN",
+      "Dear NOMAN"
+    ],
+    "url": "https://myanimelist.net/manga/123507/Dear_Noman",
+    "image": "https://cdn.myanimelist.net/images/manga/2/234993.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dear NOMAN",
-      "Dear NOMAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Neji"
-    ],
-    "id": 123507,
-    "type": "manga",
-    "title": "Dear Noman",
-    "url": "https://myanimelist.net/manga/123507/Dear_Noman",
-    "image": "https://cdn.myanimelist.net/images/manga/2/234993.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-06T20:28:30.000Z",
-    "updatedAt": "2021-12-21T17:22:37.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:33.805Z",
+    "updatedAt": "2022-05-13T12:40:33.805Z",
+    "checkedAt": null,
+    "id": 110850,
+    "type": "manga",
+    "title": "Dear NOMAN",
     "altTitle": [
       "Dear NOMAN",
       "Dear NOMAN",
       "ディアノーマン"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Neji"
-    ],
-    "id": 110850,
-    "malId": 123507,
-    "type": "manga",
-    "title": "Dear NOMAN",
     "url": "https://anilist.co/manga/110850",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110850-Okl7NikCye3C.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-12-18T06:55:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123507/Dear_Noman"
+    "externalLinks": [],
+    "malId": 123507,
+    "deletedAt": null,
+    "authors": [
+      "Neji"
+    ]
+  }
 }

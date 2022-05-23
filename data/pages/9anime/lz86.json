@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T19:10:07.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23883,
   "identifier": "lz86",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 26035,
   "aniId": 110276,
-  "createdAt": "2020-10-12T19:10:07.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T19:09:58.000Z",
+    "updatedAt": "2022-04-03T01:33:42.000Z",
+    "checkedAt": null,
+    "id": 26035,
+    "type": "anime",
+    "title": "Sweet Spot",
+    "altTitle": [
+      "スイートスポット"
+    ],
+    "url": "https://myanimelist.net/anime/26035/Sweet_Spot",
+    "image": "https://cdn.myanimelist.net/images/anime/12/70331.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,38 +45,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スイートスポット"
-    ],
-    "id": 26035,
+    "deletedAt": null,
+    "anidbId": 4254
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:38.000Z",
+    "updatedAt": "2021-12-17T17:26:38.000Z",
+    "checkedAt": null,
+    "id": 110276,
     "type": "anime",
     "title": "Sweet Spot",
-    "url": "https://myanimelist.net/anime/26035/Sweet_Spot",
-    "image": "https://cdn.myanimelist.net/images/anime/12/70331.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 4254,
-    "createdAt": "2020-10-12T19:09:58.000Z",
-    "updatedAt": "2022-04-03T01:33:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スイートスポット",
       "Suiitosupotto"
     ],
-    "externalLinks": [],
-    "id": 110276,
-    "malId": 26035,
-    "type": "anime",
-    "title": "Sweet Spot",
     "url": "https://anilist.co/anime/110276",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110276-eIgmyP0MN62N.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:38.000Z",
-    "updatedAt": "2021-12-17T17:26:38.000Z",
+    "externalLinks": [],
+    "malId": 26035,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/26035/Sweet_Spot"
+  }
 }

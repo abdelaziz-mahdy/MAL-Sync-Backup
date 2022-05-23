@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Non"
-  ],
+  "createdAt": "2020-10-12T16:07:53.000Z",
+  "updatedAt": "2021-12-04T06:22:18.000Z",
+  "checkedAt": null,
+  "id": 11575,
   "identifier": "8f5035b6-bccb-4518-a4e5-af328c93e7ab",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75991,
   "aniId": 86283,
-  "createdAt": "2020-10-12T16:07:53.000Z",
-  "updatedAt": "2021-12-04T06:22:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Non"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:24.000Z",
+    "updatedAt": "2022-05-14T09:51:20.000Z",
+    "checkedAt": "2022-05-14T09:51:20.000Z",
+    "id": 75991,
+    "type": "manga",
+    "title": "Hare-Kon.",
+    "altTitle": [
+      "Harekon.",
+      "Harem Marriage",
+      "ハレ婚。"
+    ],
+    "url": "https://myanimelist.net/manga/75991/Hare-Kon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188794.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Harekon.",
-      "ハレ婚。"
-    ],
+    "deletedAt": null,
     "authors": [
       "NON"
-    ],
-    "id": 75991,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:42.506Z",
+    "updatedAt": "2022-05-15T11:59:23.000Z",
+    "checkedAt": "2022-05-15T11:59:23.000Z",
+    "id": 86283,
     "type": "manga",
     "title": "Hare-Kon.",
-    "url": "https://myanimelist.net/manga/75991/Hare-Kon",
-    "image": "https://cdn.myanimelist.net/images/manga/1/188794.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:24.000Z",
-    "updatedAt": "2022-04-29T04:31:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Harem Marriage",
       "ハレ婚。",
@@ -51,22 +61,16 @@
       "后宫婚",
       "하렘혼"
     ],
-    "externalLinks": [],
-    "authors": [
-      "NON",
-      "Dai Tezuka"
-    ],
-    "id": 86283,
-    "malId": 75991,
-    "type": "manga",
-    "title": "Hare-Kon.",
     "url": "https://anilist.co/manga/86283",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86283-6xPnEtV7JxnZ.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:45.000Z",
-    "updatedAt": "2022-01-22T11:01:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/75991/Hare-Kon"
+    "externalLinks": [],
+    "malId": 75991,
+    "deletedAt": null,
+    "authors": [
+      "NON",
+      "Dai Tezuka"
+    ]
+  }
 }

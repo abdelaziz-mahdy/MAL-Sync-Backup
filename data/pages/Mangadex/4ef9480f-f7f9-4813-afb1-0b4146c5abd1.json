@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Zhui Guang"
-  ],
+  "createdAt": "2020-10-12T16:15:13.000Z",
+  "updatedAt": "2021-12-06T11:47:50.000Z",
+  "checkedAt": null,
+  "id": 26546,
   "identifier": "4ef9480f-f7f9-4813-afb1-0b4146c5abd1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 83,
   "aniId": 30083,
-  "createdAt": "2020-10-12T16:15:13.000Z",
-  "updatedAt": "2021-12-06T11:47:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zhui Guang"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T00:31:23.000Z",
+    "checkedAt": "2022-05-15T00:31:23.000Z",
+    "id": 83,
+    "type": "manga",
+    "title": "Ayashi no Ceres",
+    "altTitle": [
+      "Ceres: Celestial Legend",
+      "妖しのセレス"
+    ],
+    "url": "https://myanimelist.net/manga/83/Ayashi_no_Ceres",
+    "image": "https://cdn.myanimelist.net/images/manga/3/160959.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ceres: Celestial Legend",
-      "妖しのセレス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watase, Yuu"
-    ],
-    "id": 83,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:42.138Z",
+    "updatedAt": "2022-05-15T19:03:23.000Z",
+    "checkedAt": "2022-05-15T19:03:23.000Z",
+    "id": 30083,
     "type": "manga",
     "title": "Ayashi no Ceres",
-    "url": "https://myanimelist.net/manga/83/Ayashi_no_Ceres",
-    "image": "https://cdn.myanimelist.net/images/manga/3/160959.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-08T09:01:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ceres: Celestial Legend",
       "妖しのセレス"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/ceres-celestial-legend"
-      }
-    ],
-    "authors": [
-      "Yuu Watase"
-    ],
-    "id": 30083,
-    "malId": 83,
-    "type": "manga",
-    "title": "Ayashi no Ceres",
     "url": "https://anilist.co/manga/30083",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30083-conBsDOJJOm4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-12-17T08:32:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/83/Ayashi_no_Ceres"
+    "externalLinks": [],
+    "malId": 83,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Watase"
+    ]
+  }
 }

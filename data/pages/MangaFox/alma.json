@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MITO Shinji"
-  ],
+  "createdAt": "2021-08-01T11:18:37.000Z",
+  "updatedAt": "2022-02-01T11:50:42.000Z",
+  "checkedAt": null,
+  "id": 83480,
   "identifier": "alma",
   "type": "manga",
   "page": "MangaFox",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 122117,
   "aniId": 112429,
-  "createdAt": "2021-08-01T11:18:37.000Z",
-  "updatedAt": "2022-02-01T11:50:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "MITO Shinji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:08.000Z",
+    "updatedAt": "2022-05-18T22:45:35.000Z",
+    "checkedAt": "2022-05-18T22:45:35.000Z",
+    "id": 122117,
+    "type": "manga",
+    "title": "Alma",
+    "altTitle": [
+      "アルマ"
+    ],
+    "url": "https://myanimelist.net/manga/122117/Alma",
+    "image": "https://cdn.myanimelist.net/images/manga/1/225995.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "アルマ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mito, Shinji"
-    ],
-    "id": 122117,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:12.576Z",
+    "updatedAt": "2022-05-18T22:45:34.000Z",
+    "checkedAt": "2022-05-18T22:45:34.000Z",
+    "id": 112429,
     "type": "manga",
     "title": "Alma",
-    "url": "https://myanimelist.net/manga/122117/Alma",
-    "image": "https://cdn.myanimelist.net/images/manga/1/225995.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:08.000Z",
-    "updatedAt": "2022-02-01T11:21:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アルマ",
       "Aruma"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinji Mito"
-    ],
-    "id": 112429,
-    "malId": 122117,
-    "type": "manga",
-    "title": "Alma",
     "url": "https://anilist.co/manga/112429",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112429-QSSv7lYCJEBr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:26.000Z",
-    "updatedAt": "2022-02-09T21:40:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/122117/Alma"
+    "externalLinks": [],
+    "malId": 122117,
+    "deletedAt": null,
+    "authors": [
+      "Shinji Mito"
+    ]
+  }
 }

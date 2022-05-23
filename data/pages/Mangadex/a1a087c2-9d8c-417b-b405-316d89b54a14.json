@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Nomura Tetsuya",
-    "Kobayashi Gen",
-    "Amano Shiro"
-  ],
+  "createdAt": "2020-10-12T16:04:07.000Z",
+  "updatedAt": "2021-12-02T19:18:08.000Z",
+  "checkedAt": null,
+  "id": 3668,
   "identifier": "a1a087c2-9d8c-417b-b405-316d89b54a14",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7162,
   "aniId": 37162,
-  "createdAt": "2020-10-12T16:04:07.000Z",
-  "updatedAt": "2021-12-02T19:18:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nomura Tetsuya",
+    "Kobayashi Gen",
+    "Amano Shiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:13.000Z",
+    "updatedAt": "2022-05-19T20:18:53.000Z",
+    "checkedAt": "2022-05-19T20:18:53.000Z",
+    "id": 7162,
+    "type": "manga",
+    "title": "Subarashiki Kono Sekai",
+    "altTitle": [
+      "The World Ends with You",
+      "It's a Wonderful World",
+      "This Wonderful World",
+      "すばらしきこのせかい"
+    ],
+    "url": "https://myanimelist.net/manga/7162/Subarashiki_Kono_Sekai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/11540.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,28 +45,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The World Ends with You",
-      "It's a Wonderful World",
-      "This Wonderful World",
-      "すばらしきこのせかい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amano, Shiro",
       "Nomura, Tetsuya"
-    ],
-    "id": 7162,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:54.570Z",
+    "updatedAt": "2022-05-19T20:18:52.000Z",
+    "checkedAt": "2022-05-19T20:18:52.000Z",
+    "id": 37162,
     "type": "manga",
     "title": "Subarashiki Kono Sekai",
-    "url": "https://myanimelist.net/manga/7162/Subarashiki_Kono_Sekai",
-    "image": "https://cdn.myanimelist.net/images/manga/1/11540.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:13.000Z",
-    "updatedAt": "2022-02-25T08:17:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "すばらしきこのせかい",
       "The World Ends with You",
@@ -56,22 +65,16 @@
       "This Wonderful World",
       "Subarashiki Konosekai"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shiro Amano",
-      "Tetsuya Nomura"
-    ],
-    "id": 37162,
-    "malId": 7162,
-    "type": "manga",
-    "title": "Subarashiki Kono Sekai",
     "url": "https://anilist.co/manga/37162",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7162.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:46.000Z",
-    "updatedAt": "2021-12-17T13:07:16.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7162/Subarashiki_Kono_Sekai"
+    "externalLinks": [],
+    "malId": 7162,
+    "deletedAt": null,
+    "authors": [
+      "Shiro Amano",
+      "Tetsuya Nomura"
+    ]
+  }
 }

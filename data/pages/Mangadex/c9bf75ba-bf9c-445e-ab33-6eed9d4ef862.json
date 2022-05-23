@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Toguchi Ryoji",
-    "Ichimaru Iroha"
-  ],
+  "createdAt": "2022-02-19T17:46:51.000Z",
+  "updatedAt": "2022-02-19T18:16:50.000Z",
+  "checkedAt": null,
+  "id": 96424,
   "identifier": "c9bf75ba-bf9c-445e-ab33-6eed9d4ef862",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 143932,
   "aniId": 145100,
-  "createdAt": "2022-02-19T17:46:51.000Z",
-  "updatedAt": "2022-02-19T18:16:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toguchi Ryoji",
+    "Ichimaru Iroha"
+  ],
   "Mal": {
+    "createdAt": "2022-02-13T12:40:28.000Z",
+    "updatedAt": "2022-04-02T15:00:32.000Z",
+    "checkedAt": null,
+    "id": 143932,
+    "type": "manga",
+    "title": "Million Joe",
+    "altTitle": [
+      "ミリオンジョー"
+    ],
+    "url": "https://myanimelist.net/manga/143932/Million_Joe",
+    "image": "https://cdn.myanimelist.net/images/manga/1/255681.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ミリオンジョー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ichimaru, Iroha",
       "Toguchi, Ryoji"
-    ],
-    "id": 143932,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:59.842Z",
+    "updatedAt": "2022-05-13T13:01:59.842Z",
+    "checkedAt": null,
+    "id": 145100,
     "type": "manga",
     "title": "Million Joe",
-    "url": "https://myanimelist.net/manga/143932/Million_Joe",
-    "image": "https://cdn.myanimelist.net/images/manga/1/255681.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-02-13T12:40:28.000Z",
-    "updatedAt": "2022-04-02T15:00:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ミリオンジョー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichimaru Iroha",
-      "Yusaku Furuya"
-    ],
-    "id": 145100,
-    "malId": 143932,
-    "type": "manga",
-    "title": "Million Joe",
     "url": "https://anilist.co/manga/145100",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145100-BLxU92YBDn57.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-02-12T23:39:37.000Z",
-    "updatedAt": "2022-03-23T15:57:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143932/Million_Joe"
+    "externalLinks": [],
+    "malId": 143932,
+    "deletedAt": null,
+    "authors": [
+      "Ichimaru Iroha",
+      "Yusaku Furuya"
+    ]
+  }
 }

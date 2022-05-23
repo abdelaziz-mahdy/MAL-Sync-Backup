@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kui Ryouko"
-  ],
+  "createdAt": "2021-05-28T19:56:25.000Z",
+  "updatedAt": "2022-05-16T15:14:07.000Z",
+  "checkedAt": "2022-05-16T15:14:00.000Z",
+  "id": 72956,
   "identifier": "manga-vs951827",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 85781,
   "aniId": 86082,
-  "createdAt": "2021-05-28T19:56:25.000Z",
-  "updatedAt": "2021-11-28T20:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kui Ryouko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2022-05-14T18:42:29.000Z",
+    "checkedAt": "2022-05-14T18:42:29.000Z",
+    "id": 85781,
+    "type": "manga",
+    "title": "Dungeon Meshi",
+    "altTitle": [
+      "Dungeon Food",
+      "Delicious in Dungeon",
+      "ダンジョン飯"
+    ],
+    "url": "https://myanimelist.net/manga/85781/Dungeon_Meshi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/148949.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dungeon Food",
-      "Delicious in Dungeon",
-      "ダンジョン飯"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kui, Ryoko"
-    ],
-    "id": 85781,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:47.989Z",
+    "updatedAt": "2022-05-15T14:55:47.000Z",
+    "checkedAt": "2022-05-15T14:55:47.000Z",
+    "id": 86082,
     "type": "manga",
     "title": "Dungeon Meshi",
-    "url": "https://myanimelist.net/manga/85781/Dungeon_Meshi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/148949.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:43.000Z",
-    "updatedAt": "2022-05-01T09:01:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Delicious in Dungeon",
       "ダンジョン飯",
@@ -56,7 +65,13 @@
       "던전밥",
       "สูตรลับตำรับดันเจียน"
     ],
+    "url": "https://anilist.co/manga/86082",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86082-it012qMBU8S8.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 85781,
+    "deletedAt": null,
     "authors": [
       "Ryouko Kui",
       "Sébastien Ludmann",
@@ -67,18 +82,6 @@
       "Sandro Cecchi",
       "Massimiliano Lucidi",
       "Hinoko"
-    ],
-    "id": 86082,
-    "malId": 85781,
-    "type": "manga",
-    "title": "Dungeon Meshi",
-    "url": "https://anilist.co/manga/86082",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86082-it012qMBU8S8.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:38.000Z",
-    "updatedAt": "2022-03-15T04:59:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/85781/Dungeon_Meshi"
+    ]
+  }
 }

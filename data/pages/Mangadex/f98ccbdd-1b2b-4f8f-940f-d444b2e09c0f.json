@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamada Kanehito",
-    "Okazaki Kousuke"
-  ],
+  "createdAt": "2020-10-12T16:19:45.000Z",
+  "updatedAt": "2021-12-07T23:05:43.000Z",
+  "checkedAt": null,
+  "id": 35807,
   "identifier": "f98ccbdd-1b2b-4f8f-940f-d444b2e09c0f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55405,
   "aniId": 87957,
-  "createdAt": "2020-10-12T16:19:45.000Z",
-  "updatedAt": "2021-12-07T23:05:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamada Kanehito",
+    "Okazaki Kousuke"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2021-11-08T11:43:57.000Z",
+    "checkedAt": null,
+    "id": 55405,
+    "type": "manga",
+    "title": "Nanashi wa Ittai Dare deshou?",
+    "altTitle": [
+      "Who in the world is the Namelessness?",
+      "名無しは一体誰でしょう?"
+    ],
+    "url": "https://myanimelist.net/manga/55405/Nanashi_wa_Ittai_Dare_deshou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/107513.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Who in the world is the Namelessness?",
-      "名無しは一体誰でしょう?"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okazaki, Kousuke",
       "Yamada, Kanehito"
-    ],
-    "id": 55405,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:00.895Z",
+    "updatedAt": "2022-05-13T12:57:00.895Z",
+    "checkedAt": null,
+    "id": 87957,
     "type": "manga",
     "title": "Nanashi wa Ittai Dare deshou?",
-    "url": "https://myanimelist.net/manga/55405/Nanashi_wa_Ittai_Dare_deshou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/107513.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2021-11-08T11:43:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "名無しは一体誰でしょう?",
       "Who in the world is the Namelessness?"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kanehito Yamada",
-      "Okazaki Kawaaki"
-    ],
-    "id": 87957,
-    "malId": 55405,
-    "type": "manga",
-    "title": "Nanashi wa Ittai Dare deshou?",
     "url": "https://anilist.co/manga/87957",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87957-IuQamFuwsFDB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2021-12-17T23:28:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55405/Nanashi_wa_Ittai_Dare_deshou"
+    "externalLinks": [],
+    "malId": 55405,
+    "deletedAt": null,
+    "authors": [
+      "Kanehito Yamada",
+      "Okazaki Kawaaki"
+    ]
+  }
 }

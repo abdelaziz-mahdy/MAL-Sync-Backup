@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "LEE Ji Hyong",
-    "Lee Yun-Hee (이윤희)",
-    "Kara (카라)"
-  ],
+  "createdAt": "2020-10-12T16:07:32.000Z",
+  "updatedAt": "2021-12-04T03:51:00.000Z",
+  "checkedAt": null,
+  "id": 10847,
   "identifier": "24a1c9b8-5b23-4e14-a26e-2db93f74da15",
   "type": "manga",
   "page": "Mangadex",
@@ -13,20 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 277,
   "aniId": 30277,
-  "createdAt": "2020-10-12T16:07:32.000Z",
-  "updatedAt": "2021-12-04T03:51:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "LEE Ji Hyong",
+    "Lee Yun-Hee (이윤희)",
+    "Kara (카라)"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Demon_Diary"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:20.000Z",
+    "updatedAt": "2021-12-01T00:07:00.000Z",
+    "checkedAt": null,
+    "id": 277,
+    "type": "manga",
+    "title": "Mawang Ilgi",
     "altTitle": [
       "Demon Diary",
       "Mawan Ilgi",
@@ -35,24 +36,32 @@
       "Terra",
       "마왕일기"
     ],
+    "url": "https://myanimelist.net/manga/277/Mawang_Ilgi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/10201.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Demon_Diary"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Kara",
       "Lee, Ji Hyong",
       "Lee, Soome",
       "Lee, Yun-hee"
-    ],
-    "id": 277,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:20.327Z",
+    "updatedAt": "2022-05-13T12:48:20.327Z",
+    "checkedAt": null,
+    "id": 30277,
     "type": "manga",
     "title": "Mawang Ilgi",
-    "url": "https://myanimelist.net/manga/277/Mawang_Ilgi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/10201.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-12-01T00:07:00.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Demon Diary",
       "마왕일기",
@@ -60,23 +69,17 @@
       "Diary of a Demon King",
       "Crystal Heart"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kara",
-      "Ji-Hyeong Lee",
-      "Yun-Hui Lee"
-    ],
-    "id": 30277,
-    "malId": 277,
-    "type": "manga",
-    "title": "Mawang Ilgi",
     "url": "https://anilist.co/manga/30277",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30277-6NtGp5ELpgZR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-12-31T23:24:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/277/Mawang_Ilgi"
+    "externalLinks": [],
+    "malId": 277,
+    "deletedAt": null,
+    "authors": [
+      "Kara",
+      "Ji-Hyeong Lee",
+      "Yun-Hui Lee"
+    ]
+  }
 }

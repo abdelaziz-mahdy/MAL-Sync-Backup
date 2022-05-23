@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sasou Akira"
-  ],
+  "createdAt": "2020-10-12T16:03:30.000Z",
+  "updatedAt": "2021-12-02T14:49:07.000Z",
+  "checkedAt": null,
+  "id": 2387,
   "identifier": "de985637-2912-4d6d-b7f8-ed74cf445a11",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8477,
   "aniId": 38477,
-  "createdAt": "2020-10-12T16:03:30.000Z",
-  "updatedAt": "2021-12-02T14:49:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sasou Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:19.000Z",
+    "updatedAt": "2022-04-30T05:33:06.000Z",
+    "checkedAt": null,
+    "id": 8477,
+    "type": "manga",
+    "title": "Kodomo no Kodomo",
+    "altTitle": [
+      "Child's Child",
+      "Child of a Child",
+      "コドモのコドモ"
+    ],
+    "url": "https://myanimelist.net/manga/8477/Kodomo_no_Kodomo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/129469.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +42,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Child's Child",
-      "Child of a Child",
-      "コドモのコドモ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sasou, Akira"
-    ],
-    "id": 8477,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:30.465Z",
+    "updatedAt": "2022-05-13T12:49:30.465Z",
+    "checkedAt": null,
+    "id": 38477,
     "type": "manga",
     "title": "Kodomo no Kodomo",
-    "url": "https://myanimelist.net/manga/8477/Kodomo_no_Kodomo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/129469.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:19.000Z",
-    "updatedAt": "2022-04-30T05:33:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "コドモのコドモ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Sasou"
-    ],
-    "id": 38477,
-    "malId": 8477,
-    "type": "manga",
-    "title": "Kodomo no Kodomo",
     "url": "https://anilist.co/manga/38477",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx38477-meh5rLQK1jtY.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:47.000Z",
-    "updatedAt": "2021-12-17T13:34:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8477/Kodomo_no_Kodomo"
+    "externalLinks": [],
+    "malId": 8477,
+    "deletedAt": null,
+    "authors": [
+      "Akira Sasou"
+    ]
+  }
 }

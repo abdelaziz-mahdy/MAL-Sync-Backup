@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:16.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3685,
   "identifier": "804y",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25517,
   "aniId": 20790,
-  "createdAt": "2020-10-12T15:51:16.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T16:22:45.000Z",
+    "checkedAt": "2022-05-14T16:22:45.000Z",
+    "id": 25517,
+    "type": "anime",
+    "title": "Magic Kaito 1412",
+    "altTitle": [
+      "Magic Kaito 2014",
+      "まじっく快斗1412"
+    ],
+    "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+    "image": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,44 +55,31 @@
         "url": "http://www.crunchyroll.com/series-264415"
       }
     ],
-    "altTitle": [
-      "Magic Kaito 2014",
-      "まじっく快斗1412"
-    ],
-    "id": 25517,
+    "deletedAt": null,
+    "anidbId": 10749
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:38.000Z",
+    "updatedAt": "2022-05-15T10:34:23.000Z",
+    "checkedAt": "2022-05-15T10:34:23.000Z",
+    "id": 20790,
     "type": "anime",
     "title": "Magic Kaito 1412",
-    "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
-    "image": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10749,
-    "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2022-04-03T01:04:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Magic Kaito 1412",
       "まじっく快斗1412"
     ],
+    "url": "https://anilist.co/anime/20790",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20790-yR5kJrai3zPg.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/magickaito"
       }
     ],
-    "id": 20790,
     "malId": 25517,
-    "type": "anime",
-    "title": "Magic Kaito 1412",
-    "url": "https://anilist.co/anime/20790",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20790-yR5kJrai3zPg.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:38.000Z",
-    "updatedAt": "2021-12-17T14:30:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/25517/Magic_Kaito_1412"
+  }
 }

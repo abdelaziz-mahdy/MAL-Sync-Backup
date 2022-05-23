@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Souryuu"
-  ],
+  "createdAt": "2021-06-18T12:21:12.000Z",
+  "updatedAt": "2021-12-21T07:59:58.000Z",
+  "checkedAt": null,
+  "id": 78706,
   "identifier": "manga-lj988392",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 131446,
   "aniId": 125060,
-  "createdAt": "2021-06-18T12:21:12.000Z",
-  "updatedAt": "2021-12-21T07:59:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Souryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-11-27T10:01:18.000Z",
+    "updatedAt": "2022-05-16T19:17:15.000Z",
+    "checkedAt": "2022-05-16T19:17:15.000Z",
+    "id": 131446,
+    "type": "manga",
+    "title": "Kouiu no ga Ii",
+    "altTitle": [
+      "こういうのがいい"
+    ],
+    "url": "https://myanimelist.net/manga/131446/Kouiu_no_ga_Ii",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244983.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こういうのがいい"
-    ],
+    "deletedAt": null,
     "authors": [
       "Souryuu"
-    ],
-    "id": 131446,
-    "type": "manga",
-    "title": "Kouiu no ga Ii",
-    "url": "https://myanimelist.net/manga/131446/Kouiu_no_ga_Ii",
-    "image": "https://cdn.myanimelist.net/images/manga/1/244983.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-27T10:01:18.000Z",
-    "updatedAt": "2022-03-05T15:31:59.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:29.828Z",
+    "updatedAt": "2022-05-16T19:17:13.000Z",
+    "checkedAt": "2022-05-16T19:17:13.000Z",
+    "id": 125060,
+    "type": "manga",
+    "title": "Kou Iu no ga Ii",
     "altTitle": [
       "こういうのがいい",
       "This is good",
       "This Kind of Thing is Fine"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Souryu"
-    ],
-    "id": 125060,
-    "malId": 131446,
-    "type": "manga",
-    "title": "Kou Iu no ga Ii",
     "url": "https://anilist.co/manga/125060",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125060-MYjOVpXQtjZv.jpg",
     "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:35.000Z",
-    "updatedAt": "2021-12-18T10:55:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/131446/Kouiu_no_ga_Ii"
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 131446,
+    "deletedAt": null,
+    "authors": [
+      "Souryu"
+    ]
+  }
 }

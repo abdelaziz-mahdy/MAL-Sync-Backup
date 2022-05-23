@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Nagai Go",
-    "Niina Akihiko"
-  ],
+  "createdAt": "2020-10-12T16:05:34.000Z",
+  "updatedAt": "2021-12-03T15:21:20.000Z",
+  "checkedAt": null,
+  "id": 6682,
   "identifier": "aa3d64ec-cae0-4e50-9737-78a57d49279e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8776,
   "aniId": 38776,
-  "createdAt": "2020-10-12T16:05:34.000Z",
-  "updatedAt": "2021-12-03T15:21:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nagai Go",
+    "Niina Akihiko"
+  ],
   "Mal": {
+    "createdAt": "2021-06-03T13:49:37.000Z",
+    "updatedAt": "2022-05-20T02:36:56.000Z",
+    "checkedAt": "2022-05-20T02:36:56.000Z",
+    "id": 8776,
+    "type": "manga",
+    "title": "Mazinger Angel",
+    "altTitle": [
+      "Majinga Enjeru",
+      "マジンガーエンジェル"
+    ],
+    "url": "https://myanimelist.net/manga/8776/Mazinger_Angel",
+    "image": "https://cdn.myanimelist.net/images/manga/2/152695.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Majinga Enjeru",
-      "マジンガーエンジェル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagai, Go",
       "Nina, Akihiko"
-    ],
-    "id": 8776,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:22.490Z",
+    "updatedAt": "2022-05-20T02:36:55.000Z",
+    "checkedAt": "2022-05-20T02:36:55.000Z",
+    "id": 38776,
     "type": "manga",
     "title": "Mazinger Angel",
-    "url": "https://myanimelist.net/manga/8776/Mazinger_Angel",
-    "image": "https://cdn.myanimelist.net/images/manga/2/152695.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-03T13:49:37.000Z",
-    "updatedAt": "2021-12-03T14:17:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マジンガーエンジェル",
       "Majinga Enjeru"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Nagai",
-      "Akihiko Niina"
-    ],
-    "id": 38776,
-    "malId": 8776,
-    "type": "manga",
-    "title": "Mazinger Angel",
     "url": "https://anilist.co/manga/38776",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8776-oUSXDPtFvhQW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-03T13:49:37.000Z",
-    "updatedAt": "2021-12-17T13:37:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8776/Mazinger_Angel"
+    "externalLinks": [],
+    "malId": 8776,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai",
+      "Akihiko Niina"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:51.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3136,
   "identifier": "6pq7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3879,
   "aniId": 3879,
-  "createdAt": "2020-10-12T15:50:51.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:40.000Z",
+    "updatedAt": "2022-05-13T23:19:21.000Z",
+    "checkedAt": "2022-05-13T23:19:21.000Z",
+    "id": 3879,
+    "type": "anime",
+    "title": "Paris no Isabelle",
+    "altTitle": [
+      "Paris no Isabel",
+      "Isabelle of Paris",
+      "Isabell de Paris",
+      "巴里のイザベル"
+    ],
+    "url": "https://myanimelist.net/anime/3879/Paris_no_Isabelle",
+    "image": "https://cdn.myanimelist.net/images/anime/7/64331.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,25 +48,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Paris no Isabel",
-      "Isabelle of Paris",
-      "Isabell de Paris",
-      "巴里のイザベル"
-    ],
+    "deletedAt": null,
+    "anidbId": 3627
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:29.000Z",
+    "updatedAt": "2022-05-18T20:18:34.000Z",
+    "checkedAt": "2022-05-18T20:18:34.000Z",
     "id": 3879,
     "type": "anime",
-    "title": "Paris no Isabelle",
-    "url": "https://myanimelist.net/anime/3879/Paris_no_Isabelle",
-    "image": "https://cdn.myanimelist.net/images/anime/7/64331.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3627,
-    "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2022-03-31T15:03:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Paris no Isabel",
     "altTitle": [
       "巴里のイザベル",
       "Pari no isaberu",
@@ -56,18 +65,12 @@
       "Isabelle of Paris",
       "Isabelle de Paris"
     ],
-    "externalLinks": [],
-    "id": 3879,
-    "malId": 3879,
-    "type": "anime",
-    "title": "Paris no Isabel",
     "url": "https://anilist.co/anime/3879",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3879-7mTBMB3eZldx.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:29.000Z",
-    "updatedAt": "2021-12-17T11:19:04.000Z",
+    "externalLinks": [],
+    "malId": 3879,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3879/Paris_no_Isabelle"
+  }
 }

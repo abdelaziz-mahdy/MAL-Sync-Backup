@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Kudou Toshio",
-    "Idemitsu Hidemaki",
-    "Kawabe Tetsuro"
-  ],
+  "createdAt": "2020-10-12T16:13:48.000Z",
+  "updatedAt": "2021-12-06T00:17:59.000Z",
+  "checkedAt": null,
+  "id": 23649,
   "identifier": "5deeedc4-615a-42b2-856f-02b99e22d201",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 15822,
   "aniId": 45822,
-  "createdAt": "2020-10-12T16:13:48.000Z",
-  "updatedAt": "2021-12-06T00:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kudou Toshio",
+    "Idemitsu Hidemaki",
+    "Kawabe Tetsuro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:14.000Z",
+    "updatedAt": "2022-02-21T09:17:43.000Z",
+    "checkedAt": null,
+    "id": 15822,
+    "type": "manga",
+    "title": "I Am a Turtle",
+    "altTitle": [
+      "Kame Odoru",
+      "I Am a Turtle",
+      "カメオドール"
+    ],
+    "url": "https://myanimelist.net/manga/15822/I_Am_a_Turtle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/23061.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -27,46 +44,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kame Odoru",
-      "I Am a Turtle",
-      "カメオドール"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tamura, Temari"
-    ],
-    "id": 15822,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:29.460Z",
+    "updatedAt": "2022-05-13T13:06:29.460Z",
+    "checkedAt": null,
+    "id": 45822,
     "type": "manga",
     "title": "I Am a Turtle",
-    "url": "https://myanimelist.net/manga/15822/I_Am_a_Turtle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/23061.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:14.000Z",
-    "updatedAt": "2022-02-21T09:17:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "I Am a Turtle",
       "カメオドール",
       "Kame Odoru"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Temari Tamura"
-    ],
-    "id": 45822,
-    "malId": 15822,
-    "type": "manga",
-    "title": "I Am a Turtle",
     "url": "https://anilist.co/manga/45822",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15822.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:49.000Z",
-    "updatedAt": "2021-12-17T16:04:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/15822/I_Am_a_Turtle"
+    "externalLinks": [],
+    "malId": 15822,
+    "deletedAt": null,
+    "authors": [
+      "Temari Tamura"
+    ]
+  }
 }

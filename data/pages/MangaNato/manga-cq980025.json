@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishida Takumi"
-  ],
+  "createdAt": "2022-01-24T07:30:13.000Z",
+  "updatedAt": "2022-01-24T08:00:11.000Z",
+  "checkedAt": null,
+  "id": 95272,
   "identifier": "manga-cq980025",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 99155,
   "aniId": 87405,
-  "createdAt": "2022-01-24T07:30:13.000Z",
-  "updatedAt": "2022-01-24T08:00:11.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishida Takumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:32.000Z",
+    "updatedAt": "2022-05-20T20:40:38.000Z",
+    "checkedAt": "2022-05-20T20:40:38.000Z",
+    "id": 99155,
+    "type": "manga",
+    "title": "Kakafukaka",
+    "altTitle": [
+      "Ka ka Fuka ka",
+      "KKFK",
+      "Kakafukaka",
+      "カカフカカ"
+    ],
+    "url": "https://myanimelist.net/manga/99155/Kakafukaka",
+    "image": "https://cdn.myanimelist.net/images/manga/1/178713.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +47,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ka ka Fuka ka",
-      "KKFK",
-      "Kakafukaka",
-      "カカフカカ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishida, Takumi"
-    ],
-    "id": 99155,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:21.832Z",
+    "updatedAt": "2022-05-20T20:40:37.000Z",
+    "checkedAt": "2022-05-20T20:40:37.000Z",
+    "id": 87405,
     "type": "manga",
     "title": "Kakafukaka",
-    "url": "https://myanimelist.net/manga/99155/Kakafukaka",
-    "image": "https://cdn.myanimelist.net/images/manga/1/178713.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:32.000Z",
-    "updatedAt": "2022-01-20T04:34:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "カカフカカ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takumi Ishida"
-    ],
-    "id": 87405,
-    "malId": 99155,
-    "type": "manga",
-    "title": "Kakafukaka",
     "url": "https://anilist.co/manga/87405",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57405-i7hU7f3WSpU8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:41.000Z",
-    "updatedAt": "2021-12-17T23:26:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/99155/Kakafukaka"
+    "externalLinks": [],
+    "malId": 99155,
+    "deletedAt": null,
+    "authors": [
+      "Takumi Ishida"
+    ]
+  }
 }

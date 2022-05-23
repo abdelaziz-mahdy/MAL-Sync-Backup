@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sun-Wook Jeon",
-    "So-Nan Yoo"
-  ],
+  "createdAt": "2021-05-28T19:55:45.000Z",
+  "updatedAt": "2021-11-28T20:36:03.000Z",
+  "checkedAt": null,
+  "id": 72945,
   "identifier": "manga-ci980191",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 132247,
   "aniId": 105393,
-  "createdAt": "2021-05-28T19:55:45.000Z",
-  "updatedAt": "2021-11-28T20:36:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sun-Wook Jeon",
+    "So-Nan Yoo"
+  ],
   "Mal": {
+    "createdAt": "2021-01-02T20:51:02.000Z",
+    "updatedAt": "2022-05-14T23:49:29.000Z",
+    "checkedAt": "2022-05-14T23:49:29.000Z",
+    "id": 132247,
+    "type": "manga",
+    "title": "A Returner's Magic Should Be Special",
+    "altTitle": [
+      "Gwihwan-jaui Mabeop-eun Teukbyeol-haeya Hamnida",
+      "A Returner's Magic Should Be Special",
+      "귀환자의 마법은 특별해야 합니다"
+    ],
+    "url": "https://myanimelist.net/manga/132247/A_Returners_Magic_Should_Be_Special",
+    "image": "https://cdn.myanimelist.net/images/manga/2/239089.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Gwihwan-jaui Mabeop-eun Teukbyeol-haeya Hamnida",
-      "A Returner's Magic Should Be Special",
-      "귀환자의 마법은 특별해야 합니다"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yu, So-nan",
       "Uk-jakga"
-    ],
-    "id": 132247,
-    "type": "manga",
-    "title": "A Returner's Magic Should Be Special",
-    "url": "https://myanimelist.net/manga/132247/A_Returners_Magic_Should_Be_Special",
-    "image": "https://cdn.myanimelist.net/images/manga/2/239089.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2021-01-02T20:51:02.000Z",
-    "updatedAt": "2022-04-07T11:32:08.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:32.390Z",
+    "updatedAt": "2022-05-15T15:29:47.000Z",
+    "checkedAt": "2022-05-15T15:29:47.000Z",
+    "id": 105393,
+    "type": "manga",
+    "title": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
     "altTitle": [
       "A Returner's Magic Should Be Special",
       "귀환자의 마법은 특별해야 합니다",
@@ -54,22 +63,16 @@
       "พลังขั้นเทพของจอมเวทจุติใหม่",
       "Returner's Special Magic"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sonan Yu",
-      "Ukjakga"
-    ],
-    "id": 105393,
-    "malId": 132247,
-    "type": "manga",
-    "title": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
     "url": "https://anilist.co/manga/105393",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105393-oiHumQoBGKG5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T15:00:06.000Z",
-    "updatedAt": "2022-02-06T03:06:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/132247/A_Returners_Magic_Should_Be_Special"
+    "externalLinks": [],
+    "malId": 132247,
+    "deletedAt": null,
+    "authors": [
+      "Sonan Yu",
+      "Ukjakga"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:37.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2824,
   "identifier": "5x1j",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3588,
   "aniId": 3588,
-  "createdAt": "2020-10-12T15:50:37.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T06:31:22.000Z",
+    "checkedAt": "2022-05-14T06:31:22.000Z",
+    "id": 3588,
+    "type": "anime",
+    "title": "Soul Eater",
+    "altTitle": [
+      "Soul Eater",
+      "ソウルイーター"
+    ],
+    "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+    "image": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,29 +55,26 @@
         "url": "https://www.funimation.com/shows/soul-eater"
       }
     ],
-    "altTitle": [
-      "Soul Eater",
-      "ソウルイーター"
-    ],
+    "deletedAt": null,
+    "anidbId": 5610
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T09:59:35.000Z",
+    "checkedAt": "2022-05-15T09:59:35.000Z",
     "id": 3588,
     "type": "anime",
     "title": "Soul Eater",
-    "url": "https://myanimelist.net/anime/3588/Soul_Eater",
-    "image": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 5610,
-    "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2022-04-30T17:33:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Soul Eater",
       "ソウルイーター",
       "אכלן הנשמות ",
       "סול איטר"
     ],
+    "url": "https://anilist.co/anime/3588",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-CA8LE5gjm9Qx.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
@@ -76,17 +89,7 @@
         "url": "http://www.hulu.com/soul-eater"
       }
     ],
-    "id": 3588,
     "malId": 3588,
-    "type": "anime",
-    "title": "Soul Eater",
-    "url": "https://anilist.co/anime/3588",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-CA8LE5gjm9Qx.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:37:25.000Z",
-    "updatedAt": "2022-04-11T16:37:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3588/Soul_Eater"
+  }
 }

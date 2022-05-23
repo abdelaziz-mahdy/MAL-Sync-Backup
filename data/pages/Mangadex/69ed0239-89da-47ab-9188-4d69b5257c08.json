@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yamahana Noriyuki",
-    "Takahashi Yoshiyuki"
-  ],
+  "createdAt": "2020-10-12T16:15:14.000Z",
+  "updatedAt": "2021-12-06T12:18:19.000Z",
+  "checkedAt": null,
+  "id": 26600,
   "identifier": "69ed0239-89da-47ab-9188-4d69b5257c08",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100363,
   "aniId": 112311,
-  "createdAt": "2020-10-12T16:15:14.000Z",
-  "updatedAt": "2021-12-06T12:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamahana Noriyuki",
+    "Takahashi Yoshiyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:41.000Z",
+    "updatedAt": "2022-02-24T02:19:31.000Z",
+    "checkedAt": null,
+    "id": 100363,
+    "type": "manga",
+    "title": "Masaki no Pan",
+    "altTitle": [
+      "Masaki's Bread",
+      "聖樹のパン"
+    ],
+    "url": "https://myanimelist.net/manga/100363/Masaki_no_Pan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/181879.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Masaki's Bread",
-      "聖樹のパン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamahana, Noriyuki",
       "Takahashi, Yoshiyuki"
-    ],
-    "id": 100363,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:07.168Z",
+    "updatedAt": "2022-05-13T13:00:07.168Z",
+    "checkedAt": null,
+    "id": 112311,
     "type": "manga",
     "title": "Masaki no Pan",
-    "url": "https://myanimelist.net/manga/100363/Masaki_no_Pan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/181879.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:41.000Z",
-    "updatedAt": "2022-02-24T02:19:31.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "聖樹のパン",
       "Masaki's Bread Makes People Happy"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Noriyuki Yamahana",
-      "Yoshiyuki Takahashi"
-    ],
-    "id": 112311,
-    "malId": 100363,
-    "type": "manga",
-    "title": "Masaki no Pan",
     "url": "https://anilist.co/manga/112311",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112311-q9yZTSo88Viv.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:49.000Z",
-    "updatedAt": "2021-12-18T07:27:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100363/Masaki_no_Pan"
+    "externalLinks": [],
+    "malId": 100363,
+    "deletedAt": null,
+    "authors": [
+      "Noriyuki Yamahana",
+      "Yoshiyuki Takahashi"
+    ]
+  }
 }

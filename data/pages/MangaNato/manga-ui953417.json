@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Towoo"
-  ],
+  "createdAt": "2021-06-21T16:46:43.000Z",
+  "updatedAt": "2021-12-21T17:22:37.000Z",
+  "checkedAt": null,
+  "id": 79314,
   "identifier": "manga-ui953417",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94412,
   "aniId": 85878,
-  "createdAt": "2021-06-21T16:46:43.000Z",
-  "updatedAt": "2021-12-21T17:22:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Towoo"
+  ],
   "Mal": {
+    "createdAt": "2020-12-24T08:56:26.000Z",
+    "updatedAt": "2022-03-30T14:01:08.000Z",
+    "checkedAt": null,
+    "id": 94412,
+    "type": "manga",
+    "title": "Deep",
+    "altTitle": [
+      "Deep",
+      "딥(DEEP)"
+    ],
+    "url": "https://myanimelist.net/manga/94412/Deep",
+    "image": "https://cdn.myanimelist.net/images/manga/2/174108.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Deep",
-      "딥(DEEP)"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Tae Heon",
       "Towoo"
-    ],
-    "id": 94412,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:08.865Z",
+    "updatedAt": "2022-05-13T12:54:08.865Z",
+    "checkedAt": null,
+    "id": 85878,
     "type": "manga",
     "title": "Deep",
-    "url": "https://myanimelist.net/manga/94412/Deep",
-    "image": "https://cdn.myanimelist.net/images/manga/2/174108.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-12-24T08:56:26.000Z",
-    "updatedAt": "2022-03-30T14:01:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Deep",
       "딥"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Towoo",
-      "Taeheon Kim"
-    ],
-    "id": 85878,
-    "malId": 94412,
-    "type": "manga",
-    "title": "Deep",
     "url": "https://anilist.co/manga/85878",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85878-JIaBv9ECOWHJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2021-12-17T22:25:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94412/Deep"
+    "externalLinks": [],
+    "malId": 94412,
+    "deletedAt": null,
+    "authors": [
+      "Towoo",
+      "Taeheon Kim"
+    ]
+  }
 }

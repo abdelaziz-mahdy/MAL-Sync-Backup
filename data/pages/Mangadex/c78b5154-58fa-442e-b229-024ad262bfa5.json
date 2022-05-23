@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Segawa Hajime"
-  ],
+  "createdAt": "2020-10-12T16:09:04.000Z",
+  "updatedAt": "2021-12-04T15:20:48.000Z",
+  "checkedAt": null,
+  "id": 14205,
   "identifier": "c78b5154-58fa-442e-b229-024ad262bfa5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93931,
   "aniId": 86580,
-  "createdAt": "2020-10-12T16:09:04.000Z",
-  "updatedAt": "2021-12-04T15:20:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Segawa Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2021-11-15T01:15:17.000Z",
+    "checkedAt": null,
+    "id": 93931,
+    "type": "manga",
+    "title": "Yuureisen Chronicle",
+    "altTitle": [
+      "The Ghost Ship Chronicle",
+      "幽霊船クロニクル"
+    ],
+    "url": "https://myanimelist.net/manga/93931/Yuureisen_Chronicle",
+    "image": "https://cdn.myanimelist.net/images/manga/2/176808.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Ghost Ship Chronicle",
-      "幽霊船クロニクル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Segawa, Hajime"
-    ],
-    "id": 93931,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:49.402Z",
+    "updatedAt": "2022-05-13T12:45:49.402Z",
+    "checkedAt": null,
+    "id": 86580,
     "type": "manga",
     "title": "Yuureisen Chronicle",
-    "url": "https://myanimelist.net/manga/93931/Yuureisen_Chronicle",
-    "image": "https://cdn.myanimelist.net/images/manga/2/176808.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-11-15T01:15:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "幽霊船クロニクル"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Segawa"
-    ],
-    "id": 86580,
-    "malId": 93931,
-    "type": "manga",
-    "title": "Yuureisen Chronicle",
     "url": "https://anilist.co/manga/86580",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56580-OmGT2WtqlOrV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-12-17T22:54:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93931/Yuureisen_Chronicle"
+    "externalLinks": [],
+    "malId": 93931,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Segawa"
+    ]
+  }
 }

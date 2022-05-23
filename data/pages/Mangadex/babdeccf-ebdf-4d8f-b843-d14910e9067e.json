@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Loundraw",
-    "Ino Miyoshi"
-  ],
+  "createdAt": "2022-02-03T21:07:35.000Z",
+  "updatedAt": "2022-03-22T18:28:07.000Z",
+  "checkedAt": null,
+  "id": 95709,
   "identifier": "babdeccf-ebdf-4d8f-b843-d14910e9067e",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 144804,
   "aniId": 140118,
-  "createdAt": "2022-02-03T21:07:35.000Z",
-  "updatedAt": "2022-03-22T18:28:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Loundraw",
+    "Ino Miyoshi"
+  ],
   "Mal": {
+    "createdAt": "2022-03-22T15:57:49.000Z",
+    "updatedAt": "2022-05-15T04:03:20.000Z",
+    "checkedAt": "2022-05-15T04:03:20.000Z",
+    "id": 144804,
+    "type": "manga",
+    "title": "Summer Ghost",
+    "altTitle": [
+      "サマーゴースト"
+    ],
+    "url": "https://myanimelist.net/manga/144804/Summer_Ghost",
+    "image": "https://cdn.myanimelist.net/images/manga/3/256988.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +45,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "サマーゴースト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Otsuichi",
       "Ino, Miyoshi"
-    ],
-    "id": 144804,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:47.717Z",
+    "updatedAt": "2022-05-16T13:53:54.000Z",
+    "checkedAt": "2022-05-16T13:53:54.000Z",
+    "id": 140118,
     "type": "manga",
     "title": "Summer Ghost",
-    "url": "https://myanimelist.net/manga/144804/Summer_Ghost",
-    "image": "https://cdn.myanimelist.net/images/manga/3/256988.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-03-22T15:57:49.000Z",
-    "updatedAt": "2022-03-22T15:57:49.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "サマーゴースト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Otsuichi",
-      "Mikichi Ino",
-      "loundraw"
-    ],
-    "id": 140118,
-    "malId": 144804,
-    "type": "manga",
-    "title": "Summer Ghost",
     "url": "https://anilist.co/manga/140118",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140118-wCfjkij8WUiq.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-10-08T19:02:20.000Z",
-    "updatedAt": "2022-03-13T05:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/144804/Summer_Ghost"
+    "externalLinks": [],
+    "malId": 144804,
+    "deletedAt": null,
+    "authors": [
+      "Otsuichi",
+      "Mikichi Ino",
+      "loundraw"
+    ]
+  }
 }

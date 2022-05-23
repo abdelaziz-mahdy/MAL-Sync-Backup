@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ono Fuyumi",
-    "Fujisaki Ryu"
-  ],
+  "createdAt": "2020-10-12T16:02:33.000Z",
+  "updatedAt": "2021-12-02T08:17:29.000Z",
+  "checkedAt": null,
+  "id": 375,
   "identifier": "8c8bae4c-5dbc-4099-b889-8e118d674c76",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3486,
   "aniId": 33486,
-  "createdAt": "2020-10-12T16:02:33.000Z",
-  "updatedAt": "2021-12-02T08:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ono Fuyumi",
+    "Fujisaki Ryu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:51.000Z",
+    "updatedAt": "2022-05-15T02:00:05.000Z",
+    "checkedAt": "2022-05-15T02:00:05.000Z",
+    "id": 3486,
+    "type": "manga",
+    "title": "Shiki",
+    "altTitle": [
+      "Corpse Demon",
+      "屍鬼"
+    ],
+    "url": "https://myanimelist.net/manga/3486/Shiki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/56519.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Corpse Demon",
-      "屍鬼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujisaki, Ryuu",
       "Ono, Fuyumi"
-    ],
-    "id": 3486,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:11.982Z",
+    "updatedAt": "2022-05-17T20:55:00.000Z",
+    "checkedAt": "2022-05-17T20:55:00.000Z",
+    "id": 33486,
     "type": "manga",
     "title": "Shiki",
-    "url": "https://myanimelist.net/manga/3486/Shiki",
-    "image": "https://cdn.myanimelist.net/images/manga/1/56519.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:51.000Z",
-    "updatedAt": "2022-01-25T23:00:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "屍鬼",
       "Corpse Demon",
       "Death Spirit"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryu Fujisaki",
-      "Fuyumi Ono"
-    ],
-    "id": 33486,
-    "malId": 3486,
-    "type": "manga",
-    "title": "Shiki",
     "url": "https://anilist.co/manga/33486",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33486-Csp6kwFggFCt.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:12.000Z",
-    "updatedAt": "2021-12-17T11:15:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3486/Shiki"
+    "externalLinks": [],
+    "malId": 3486,
+    "deletedAt": null,
+    "authors": [
+      "Ryu Fujisaki",
+      "Fuyumi Ono"
+    ]
+  }
 }

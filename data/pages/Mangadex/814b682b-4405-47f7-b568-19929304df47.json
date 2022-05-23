@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Chama"
-  ],
+  "createdAt": "2020-10-12T16:06:20.000Z",
+  "updatedAt": "2021-12-03T19:18:19.000Z",
+  "checkedAt": null,
+  "id": 8275,
   "identifier": "814b682b-4405-47f7-b568-19929304df47",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 45980,
   "aniId": 75980,
-  "createdAt": "2020-10-12T16:06:20.000Z",
-  "updatedAt": "2021-12-03T19:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chama"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:22.000Z",
+    "updatedAt": "2022-05-16T05:56:55.000Z",
+    "checkedAt": "2022-05-16T05:56:54.000Z",
+    "id": 45980,
+    "type": "manga",
+    "title": "Aiura",
+    "altTitle": [
+      "あいうら"
+    ],
+    "url": "https://myanimelist.net/manga/45980/Aiura",
+    "image": "https://cdn.myanimelist.net/images/manga/2/139507.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "あいうら"
-    ],
+    "deletedAt": null,
     "authors": [
       "Chama"
-    ],
-    "id": 45980,
-    "type": "manga",
-    "title": "Aiura",
-    "url": "https://myanimelist.net/manga/45980/Aiura",
-    "image": "https://cdn.myanimelist.net/images/manga/2/139507.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:22.000Z",
-    "updatedAt": "2022-03-28T13:23:49.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:59.513Z",
+    "updatedAt": "2022-05-16T05:56:53.000Z",
+    "checkedAt": "2022-05-16T05:56:53.000Z",
+    "id": 75980,
+    "type": "manga",
+    "title": "Aiura",
     "altTitle": [
       "あいうら"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Chama"
-    ],
-    "id": 75980,
-    "malId": 45980,
-    "type": "manga",
-    "title": "Aiura",
     "url": "https://anilist.co/manga/75980",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx75980-0sP2pcJ3f0Gr.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:29.000Z",
-    "updatedAt": "2021-11-14T09:43:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/45980/Aiura"
+    "externalLinks": [],
+    "malId": 45980,
+    "deletedAt": null,
+    "authors": [
+      "Chama"
+    ]
+  }
 }

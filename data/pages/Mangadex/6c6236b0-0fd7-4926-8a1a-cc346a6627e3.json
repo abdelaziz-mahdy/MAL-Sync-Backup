@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Toriyama Akira",
-    "Oda Eiichiro"
-  ],
+  "createdAt": "2020-10-12T16:04:57.000Z",
+  "updatedAt": "2021-12-03T00:49:28.000Z",
+  "checkedAt": null,
+  "id": 5373,
   "identifier": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 881,
   "aniId": 30881,
-  "createdAt": "2020-10-12T16:04:57.000Z",
-  "updatedAt": "2021-12-03T00:49:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Toriyama Akira",
+    "Oda Eiichiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-17T09:15:40.000Z",
+    "checkedAt": "2022-05-17T09:15:40.000Z",
+    "id": 881,
+    "type": "manga",
+    "title": "Cross Epoch",
+    "altTitle": [
+      "Cross Epoch",
+      "CROSS EPOCH クロス エポック"
+    ],
+    "url": "https://myanimelist.net/manga/881/Cross_Epoch",
+    "image": "https://cdn.myanimelist.net/images/manga/5/148053.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cross Epoch",
-      "CROSS EPOCH クロス エポック"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oda, Eiichiro",
       "Toriyama, Akira"
-    ],
-    "id": 881,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:06.413Z",
+    "updatedAt": "2022-05-17T09:15:38.000Z",
+    "checkedAt": "2022-05-17T09:15:38.000Z",
+    "id": 30881,
     "type": "manga",
     "title": "Cross Epoch",
-    "url": "https://myanimelist.net/manga/881/Cross_Epoch",
-    "image": "https://cdn.myanimelist.net/images/manga/5/148053.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-02T18:06:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cross Epoch",
       "CROSS EPOCH",
       "Kurosu Epokku"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiichirou Oda",
-      "Akira Toriyama",
-      "Christine Dashiell"
-    ],
-    "id": 30881,
-    "malId": 881,
-    "type": "manga",
-    "title": "Cross Epoch",
     "url": "https://anilist.co/manga/30881",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30881-Zsx7tzEFxjta.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:36:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/881/Cross_Epoch"
+    "externalLinks": [],
+    "malId": 881,
+    "deletedAt": null,
+    "authors": [
+      "Eiichirou Oda",
+      "Akira Toriyama",
+      "Christine Dashiell"
+    ]
+  }
 }

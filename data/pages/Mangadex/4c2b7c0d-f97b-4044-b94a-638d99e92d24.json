@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kamio Youko"
-  ],
+  "createdAt": "2020-10-12T16:04:02.000Z",
+  "updatedAt": "2021-12-02T18:18:36.000Z",
+  "checkedAt": null,
+  "id": 3491,
   "identifier": "4c2b7c0d-f97b-4044-b94a-638d99e92d24",
   "type": "manga",
   "page": "Mangadex",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 877,
   "aniId": 30877,
-  "createdAt": "2020-10-12T16:04:02.000Z",
-  "updatedAt": "2021-12-02T18:18:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kamio Youko"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%82%88%E3%82%8A%E7%94%B7%E5%AD%90"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-15T14:35:50.000Z",
+    "checkedAt": "2022-05-15T14:35:50.000Z",
+    "id": 877,
+    "type": "manga",
+    "title": "Hana yori Dango",
     "altTitle": [
       "HYD",
       "Boys Over Flowers: Jewelry Box",
@@ -32,21 +33,29 @@
       "Boys Over Flowers",
       "花より男子"
     ],
-    "authors": [
-      "Kamio, Yoko"
-    ],
-    "id": 877,
-    "type": "manga",
-    "title": "Hana yori Dango",
     "url": "https://myanimelist.net/manga/877/Hana_yori_Dango",
     "image": "https://cdn.myanimelist.net/images/manga/1/27280.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-03-05T21:01:28.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%82%88%E3%82%8A%E7%94%B7%E5%AD%90"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kamio, Yoko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.891Z",
+    "updatedAt": "2022-05-15T18:20:23.000Z",
+    "checkedAt": "2022-05-15T18:20:23.000Z",
+    "id": 30877,
+    "type": "manga",
+    "title": "Hana Yori Dango",
     "altTitle": [
       "Boys Over Flowers",
       "花より男子(だんご)",
@@ -55,26 +64,15 @@
       "End of the Century",
       "No me lo Digas con Flores"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/boys-over-flowers"
-      }
-    ],
-    "authors": [
-      "Yoko Kamio"
-    ],
-    "id": 30877,
-    "malId": 877,
-    "type": "manga",
-    "title": "Hana Yori Dango",
     "url": "https://anilist.co/manga/30877",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30877-rh2We7eqWcZa.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-12-17T09:36:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/877/Hana_yori_Dango"
+    "externalLinks": [],
+    "malId": 877,
+    "deletedAt": null,
+    "authors": [
+      "Yoko Kamio"
+    ]
+  }
 }

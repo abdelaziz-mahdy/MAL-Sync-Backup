@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:02.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2149,
   "identifier": "46kk",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18557,
   "aniId": 18557,
-  "createdAt": "2020-10-12T15:50:02.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:20.000Z",
+    "updatedAt": "2022-05-14T22:52:41.000Z",
+    "checkedAt": "2022-05-14T22:52:41.000Z",
+    "id": 18557,
+    "type": "anime",
+    "title": "High School Agent",
+    "altTitle": [
+      "ハイスクールAGENT, (ハイスクールAGENT II  Uボートを追え!)"
+    ],
+    "url": "https://myanimelist.net/anime/18557/High_School_Agent",
+    "image": "https://cdn.myanimelist.net/images/anime/5/49631.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,37 +45,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハイスクールAGENT, (ハイスクールAGENT II  Uボートを追え!)"
-    ],
+    "deletedAt": null,
+    "anidbId": 5017
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:33.000Z",
+    "updatedAt": "2022-05-15T22:03:35.000Z",
+    "checkedAt": "2022-05-15T22:03:35.000Z",
     "id": 18557,
     "type": "anime",
-    "title": "High School Agent",
-    "url": "https://myanimelist.net/anime/18557/High_School_Agent",
-    "image": "https://cdn.myanimelist.net/images/anime/5/49631.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 5017,
-    "createdAt": "2020-10-12T15:39:20.000Z",
-    "updatedAt": "2022-04-02T19:02:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "High School AGENT",
     "altTitle": [
       "ハイスクールAGENT"
     ],
-    "externalLinks": [],
-    "id": 18557,
-    "malId": 18557,
-    "type": "anime",
-    "title": "High School AGENT",
     "url": "https://anilist.co/anime/18557",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18557.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:33.000Z",
-    "updatedAt": "2022-02-23T10:48:19.000Z",
+    "externalLinks": [],
+    "malId": 18557,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/18557/High_School_Agent"
+  }
 }

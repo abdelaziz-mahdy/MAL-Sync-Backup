@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kudo Makoto"
-  ],
+  "createdAt": "2020-10-12T16:18:06.000Z",
+  "updatedAt": "2021-12-07T14:18:34.000Z",
+  "checkedAt": null,
+  "id": 32498,
   "identifier": "d7166757-6022-45f7-bab3-ceb92b0f5113",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123694,
   "aniId": 114437,
-  "createdAt": "2020-10-12T16:18:06.000Z",
-  "updatedAt": "2021-12-07T14:18:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kudo Makoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-16T17:44:55.000Z",
+    "checkedAt": "2022-05-16T17:44:55.000Z",
+    "id": 123694,
+    "type": "manga",
+    "title": "Bukiyou na Senpai.",
+    "altTitle": [
+      "Awkward Senpai",
+      "My Awkward Senpai",
+      "不器用な先輩。"
+    ],
+    "url": "https://myanimelist.net/manga/123694/Bukiyou_na_Senpai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/228416.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Awkward Senpai",
-      "My Awkward Senpai",
-      "不器用な先輩。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kudou, Makoto"
-    ],
-    "id": 123694,
-    "type": "manga",
-    "title": "Bukiyou na Senpai.",
-    "url": "https://myanimelist.net/manga/123694/Bukiyou_na_Senpai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/228416.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-04-08T02:00:55.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:58.722Z",
+    "updatedAt": "2022-05-16T17:44:53.000Z",
+    "checkedAt": "2022-05-16T17:44:53.000Z",
+    "id": 114437,
+    "type": "manga",
+    "title": "Bukiyou na Senpai",
     "altTitle": [
       "My Awkward Senpai",
       "不器用な先輩。",
       "ปิ๊งรักรุ่นพี่สายดุ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Makoto Kudou"
-    ],
-    "id": 114437,
-    "malId": 123694,
-    "type": "manga",
-    "title": "Bukiyou na Senpai",
     "url": "https://anilist.co/manga/114437",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114437-AfSBdZ1417ZR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:01.000Z",
-    "updatedAt": "2022-01-11T07:41:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123694/Bukiyou_na_Senpai"
+    "externalLinks": [],
+    "malId": 123694,
+    "deletedAt": null,
+    "authors": [
+      "Makoto Kudou"
+    ]
+  }
 }

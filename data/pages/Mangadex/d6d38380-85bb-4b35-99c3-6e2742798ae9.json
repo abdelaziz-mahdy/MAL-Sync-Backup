@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sasamura Gou"
-  ],
+  "createdAt": "2020-10-12T16:11:31.000Z",
+  "updatedAt": "2021-12-05T09:24:21.000Z",
+  "checkedAt": null,
+  "id": 19503,
   "identifier": "d6d38380-85bb-4b35-99c3-6e2742798ae9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 62877,
   "aniId": 89610,
-  "createdAt": "2020-10-12T16:11:31.000Z",
-  "updatedAt": "2021-12-05T09:24:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sasamura Gou"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:04.000Z",
+    "updatedAt": "2021-12-06T19:16:52.000Z",
+    "checkedAt": null,
+    "id": 62877,
+    "type": "manga",
+    "title": "Pink Gold",
     "altTitle": [
       "Pick Up",
       "A-senpai",
@@ -37,6 +43,13 @@
       "Nikoichi",
       "PINK GOLD ピンクゴールド"
     ],
+    "url": "https://myanimelist.net/manga/62877/Pink_Gold",
+    "image": "https://cdn.myanimelist.net/images/manga/1/107843.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Takaku, Shouko",
       "Yamane, Ayano",
@@ -75,23 +88,25 @@
       "Hashiba, Mizu",
       "Hifumi, Mogezou",
       "Hinako"
-    ],
-    "id": 62877,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:35.142Z",
+    "updatedAt": "2022-05-13T12:41:35.142Z",
+    "checkedAt": null,
+    "id": 89610,
     "type": "manga",
     "title": "Pink Gold",
-    "url": "https://myanimelist.net/manga/62877/Pink_Gold",
-    "image": "https://cdn.myanimelist.net/images/manga/1/107843.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2021-12-06T19:16:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "PINK GOLD ピンクゴールド"
     ],
+    "url": "https://anilist.co/manga/89610",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89610-Z9Ah5wg59j7n.jpg",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 62877,
+    "deletedAt": null,
     "authors": [
       "Kyouko Aiba",
       "Hinako",
@@ -118,18 +133,6 @@
       "Saeko Kamon",
       "Asia Watanabe",
       "Ryou Sakurai"
-    ],
-    "id": 89610,
-    "malId": 62877,
-    "type": "manga",
-    "title": "Pink Gold",
-    "url": "https://anilist.co/manga/89610",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89610-Z9Ah5wg59j7n.jpg",
-    "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:50:47.000Z",
-    "updatedAt": "2021-12-17T23:54:58.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/62877/Pink_Gold"
+    ]
+  }
 }

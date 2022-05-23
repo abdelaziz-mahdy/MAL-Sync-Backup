@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Atsushi Hashimoto"
-  ],
+  "createdAt": "2021-05-31T09:39:54.000Z",
+  "updatedAt": "2021-12-30T07:54:20.000Z",
+  "checkedAt": null,
+  "id": 74688,
   "identifier": "manga-fd982486",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 120974,
   "aniId": 110785,
-  "createdAt": "2021-05-31T09:39:54.000Z",
-  "updatedAt": "2021-12-30T07:54:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atsushi Hashimoto"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:05.000Z",
+    "updatedAt": "2022-05-15T00:48:05.000Z",
+    "checkedAt": "2022-05-15T00:48:05.000Z",
+    "id": 120974,
+    "type": "manga",
+    "title": "2.5-jigen no Yuuwaku",
+    "altTitle": [
+      "2.5 Dimensional Seduction",
+      "2.5次元の誘惑"
+    ],
+    "url": "https://myanimelist.net/manga/120974/25-jigen_no_Yuuwaku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/223019.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "2.5 Dimensional Seduction",
-      "2.5次元の誘惑"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hashimoto, Yuu"
-    ],
-    "id": 120974,
-    "type": "manga",
-    "title": "2.5-jigen no Yuuwaku",
-    "url": "https://myanimelist.net/manga/120974/25-jigen_no_Yuuwaku",
-    "image": "https://cdn.myanimelist.net/images/manga/2/223019.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2022-04-22T01:32:35.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:01.790Z",
+    "updatedAt": "2022-05-15T12:23:35.000Z",
+    "checkedAt": "2022-05-15T12:23:35.000Z",
+    "id": 110785,
+    "type": "manga",
+    "title": "2.5 Jigen no Ririsa",
     "altTitle": [
       "2.5 Dimensional Seduction",
       "2.5次元の誘惑",
@@ -52,21 +61,15 @@
       "Ririsa of 2.5 Dimension",
       "2.5 มิติ ริริสะ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuu Hashimoto"
-    ],
-    "id": 110785,
-    "malId": 120974,
-    "type": "manga",
-    "title": "2.5 Jigen no Ririsa",
     "url": "https://anilist.co/manga/110785",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110785-rO4GO9wtVwM5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:18.000Z",
-    "updatedAt": "2022-01-02T23:53:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/120974/25-jigen_no_Yuuwaku"
+    "externalLinks": [],
+    "malId": 120974,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Hashimoto"
+    ]
+  }
 }

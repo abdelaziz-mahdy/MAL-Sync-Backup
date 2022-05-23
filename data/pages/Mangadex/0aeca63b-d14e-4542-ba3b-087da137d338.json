@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Karuki Haru"
-  ],
+  "createdAt": "2020-10-12T16:21:51.000Z",
+  "updatedAt": "2021-12-08T03:36:50.000Z",
+  "checkedAt": null,
+  "id": 40198,
   "identifier": "0aeca63b-d14e-4542-ba3b-087da137d338",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 112248,
   "aniId": 131285,
-  "createdAt": "2020-10-12T16:21:51.000Z",
-  "updatedAt": "2021-12-08T03:36:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Karuki Haru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:25.000Z",
+    "updatedAt": "2021-11-21T09:43:08.000Z",
+    "checkedAt": null,
+    "id": 112248,
+    "type": "manga",
+    "title": "Mimi-tsuki no Kuro",
+    "altTitle": [
+      "みみつきのクロ"
+    ],
+    "url": "https://myanimelist.net/manga/112248/Mimi-tsuki_no_Kuro",
+    "image": "https://cdn.myanimelist.net/images/manga/3/209863.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "みみつきのクロ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Karuki, Haru"
-    ],
-    "id": 112248,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:46.690Z",
+    "updatedAt": "2022-05-13T13:02:46.690Z",
+    "checkedAt": null,
+    "id": 131285,
     "type": "manga",
     "title": "Mimi-tsuki no Kuro",
-    "url": "https://myanimelist.net/manga/112248/Mimi-tsuki_no_Kuro",
-    "image": "https://cdn.myanimelist.net/images/manga/3/209863.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:25.000Z",
-    "updatedAt": "2021-11-21T09:43:08.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "みみつきのクロ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Haru Karuki"
-    ],
-    "id": 131285,
-    "malId": 112248,
-    "type": "manga",
-    "title": "Mimi-tsuki no Kuro",
     "url": "https://anilist.co/manga/131285",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b131285-0iavxIuaNIWf.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:53.000Z",
-    "updatedAt": "2021-12-18T12:22:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/112248/Mimi-tsuki_no_Kuro"
+    "externalLinks": [],
+    "malId": 112248,
+    "deletedAt": null,
+    "authors": [
+      "Haru Karuki"
+    ]
+  }
 }

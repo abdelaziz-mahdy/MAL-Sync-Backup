@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ikegami Eiichi"
-  ],
+  "createdAt": "2021-09-08T14:34:50.000Z",
+  "updatedAt": "2022-03-08T15:29:44.000Z",
+  "checkedAt": null,
+  "id": 86873,
   "identifier": "manga-nv964930",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16704,
   "aniId": 46704,
-  "createdAt": "2021-09-08T14:34:50.000Z",
-  "updatedAt": "2022-03-08T15:29:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ikegami Eiichi"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.square-enix.co.jp/magazine/yg/introduction/lequios/"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-03-08T14:59:44.000Z",
+    "checkedAt": null,
+    "id": 16704,
+    "type": "manga",
+    "title": "Léquios",
     "altTitle": [
       "Lequios",
       "Rekios",
@@ -32,22 +33,30 @@
       "Requios",
       "レキオス"
     ],
-    "authors": [
-      "Ikegami, Eiichi",
-      "Maeshima, Shigeki"
-    ],
-    "id": 16704,
-    "type": "manga",
-    "title": "Léquios",
     "url": "https://myanimelist.net/manga/16704/Léquios",
     "image": "https://cdn.myanimelist.net/images/manga/2/50119.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:23.000Z",
-    "updatedAt": "2022-03-08T14:59:44.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/magazine/yg/introduction/lequios/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ikegami, Eiichi",
+      "Maeshima, Shigeki"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:39.378Z",
+    "updatedAt": "2022-05-13T12:53:39.378Z",
+    "checkedAt": null,
+    "id": 46704,
+    "type": "manga",
+    "title": "Léquios",
     "altTitle": [
       "レキオス",
       "Lequios",
@@ -55,22 +64,16 @@
       "Rekiosu",
       "Requios"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiichi Ikegami",
-      "Shigeki Maeshima"
-    ],
-    "id": 46704,
-    "malId": 16704,
-    "type": "manga",
-    "title": "Léquios",
     "url": "https://anilist.co/manga/46704",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46704-s53yWa0lj060.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2021-12-17T16:11:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16704/Léquios"
+    "externalLinks": [],
+    "malId": 16704,
+    "deletedAt": null,
+    "authors": [
+      "Eiichi Ikegami",
+      "Shigeki Maeshima"
+    ]
+  }
 }

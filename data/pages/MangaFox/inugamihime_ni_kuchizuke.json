@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "MIYATA Kouji"
-  ],
+  "createdAt": "2022-05-05T02:01:27.000Z",
+  "updatedAt": "2022-05-13T16:21:41.000Z",
+  "checkedAt": "2022-05-13T15:56:22.000Z",
+  "id": 102685,
   "identifier": "inugamihime_ni_kuchizuke",
   "type": "manga",
   "page": "MangaFox",
@@ -10,14 +11,58 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/13870/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-05T02:01:27.000Z",
-  "updatedAt": "2022-05-05T02:01:27.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 43855,
+  "aniId": 73855,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "MIYATA Kouji"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:18.000Z",
+    "updatedAt": "2022-05-13T15:56:24.000Z",
+    "checkedAt": "2022-05-13T15:56:24.000Z",
+    "id": 43855,
+    "type": "manga",
+    "title": "Wanko ni Kuchizuke",
+    "altTitle": [
+      "Inugami-hime ni Kuchizuke",
+      "Why not be my dog",
+      "犬神姫〈わんこ〉にくちづけ"
+    ],
+    "url": "https://myanimelist.net/manga/43855/Wanko_ni_Kuchizuke",
+    "image": "https://cdn.myanimelist.net/images/manga/2/77333.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyata, Kouji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:57.365Z",
+    "updatedAt": "2022-05-13T12:54:57.365Z",
+    "checkedAt": null,
+    "id": 73855,
+    "type": "manga",
+    "title": "Wanko ni Kuchizuke",
+    "altTitle": [
+      "Why not be my dog",
+      "犬神姫にくちづけ",
+      "Inugamihime ni Kuchizuke"
+    ],
+    "url": "https://anilist.co/manga/73855",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43855.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 43855,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Miyata"
+    ]
+  }
 }

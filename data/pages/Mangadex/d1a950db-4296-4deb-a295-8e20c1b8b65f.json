@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Atlus",
-    "Sogabe Shuuji"
-  ],
+  "createdAt": "2020-10-12T16:06:09.000Z",
+  "updatedAt": "2021-12-03T17:49:50.000Z",
+  "checkedAt": null,
+  "id": 7876,
   "identifier": "d1a950db-4296-4deb-a295-8e20c1b8b65f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2566,
   "aniId": 32566,
-  "createdAt": "2020-10-12T16:06:09.000Z",
-  "updatedAt": "2021-12-03T17:49:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Atlus",
+    "Sogabe Shuuji"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:44.000Z",
+    "updatedAt": "2022-05-15T15:14:22.000Z",
+    "checkedAt": "2022-05-15T15:14:22.000Z",
+    "id": 2566,
+    "type": "manga",
+    "title": "Persona 3",
+    "altTitle": [
+      "Shin Megami Tensei: Persona 3",
+      "P3",
+      "Persona 3",
+      "ペルソナ3"
+    ],
+    "url": "https://myanimelist.net/manga/2566/Persona_3",
+    "image": "https://cdn.myanimelist.net/images/manga/1/2888.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,50 +48,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shin Megami Tensei: Persona 3",
-      "P3",
-      "Persona 3",
-      "ペルソナ3"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sogabe, Shuji",
       "Atlus"
-    ],
-    "id": 2566,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:01.688Z",
+    "updatedAt": "2022-05-15T18:42:59.000Z",
+    "checkedAt": "2022-05-15T18:42:59.000Z",
+    "id": 32566,
     "type": "manga",
     "title": "Persona 3",
-    "url": "https://myanimelist.net/manga/2566/Persona_3",
-    "image": "https://cdn.myanimelist.net/images/manga/1/2888.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:44.000Z",
-    "updatedAt": "2022-04-21T13:31:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ペルソナ3",
       "Shin Megami Tensei: Persona 3",
       "P3"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuji Sogabe",
-      "Atlus",
-      "Nesrine Mezouane"
-    ],
-    "id": 32566,
-    "malId": 2566,
-    "type": "manga",
-    "title": "Persona 3",
     "url": "https://anilist.co/manga/32566",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2566.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:12.000Z",
-    "updatedAt": "2022-04-25T11:00:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2566/Persona_3"
+    "externalLinks": [],
+    "malId": 2566,
+    "deletedAt": null,
+    "authors": [
+      "Shuji Sogabe",
+      "Atlus",
+      "Nesrine Mezouane"
+    ]
+  }
 }

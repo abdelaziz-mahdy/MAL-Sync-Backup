@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Zaou Taishi"
-  ],
+  "createdAt": "2020-10-12T16:07:10.000Z",
+  "updatedAt": "2021-12-04T01:17:18.000Z",
+  "checkedAt": null,
+  "id": 10019,
   "identifier": "87a8538b-3f31-4f96-8d8e-196689b1b719",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2449,
   "aniId": 32449,
-  "createdAt": "2020-10-12T16:07:10.000Z",
-  "updatedAt": "2021-12-04T01:17:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Zaou Taishi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:43.000Z",
+    "updatedAt": "2022-04-10T02:00:47.000Z",
+    "checkedAt": null,
+    "id": 2449,
+    "type": "manga",
+    "title": "Koi wa Ina Mono Myouna Mono",
+    "altTitle": [
+      "Koiha Ina Mono Mouna Mono",
+      "Secret Love",
+      "Mysterious Love",
+      "恋は異なもの妙なもの"
+    ],
+    "url": "https://myanimelist.net/manga/2449/Koi_wa_Ina_Mono_Myouna_Mono",
+    "image": "https://cdn.myanimelist.net/images/manga/1/30589.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +43,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Koiha Ina Mono Mouna Mono",
-      "Secret Love",
-      "Mysterious Love",
-      "恋は異なもの妙なもの"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuda, Mikiyo"
-    ],
-    "id": 2449,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:00.431Z",
+    "updatedAt": "2022-05-13T13:01:00.431Z",
+    "checkedAt": null,
+    "id": 32449,
     "type": "manga",
     "title": "Koi wa Ina Mono Myouna Mono",
-    "url": "https://myanimelist.net/manga/2449/Koi_wa_Ina_Mono_Myouna_Mono",
-    "image": "https://cdn.myanimelist.net/images/manga/1/30589.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:43.000Z",
-    "updatedAt": "2022-04-10T02:00:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mysterious Love",
       "恋は異なもの妙なもの",
       "Koiha Ina Mono Mouna Mono",
       "Secret Love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mikiyo Tsuda"
-    ],
-    "id": 32449,
-    "malId": 2449,
-    "type": "manga",
-    "title": "Koi wa Ina Mono Myouna Mono",
     "url": "https://anilist.co/manga/32449",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32449-zAzeHsveb9Cy.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:07.000Z",
-    "updatedAt": "2021-12-17T10:41:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2449/Koi_wa_Ina_Mono_Myouna_Mono"
+    "externalLinks": [],
+    "malId": 2449,
+    "deletedAt": null,
+    "authors": [
+      "Mikiyo Tsuda"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Hirao Tomohide",
-    "Yoda Mizuki"
-  ],
+  "createdAt": "2020-10-12T16:14:41.000Z",
+  "updatedAt": "2021-12-06T07:17:59.000Z",
+  "checkedAt": null,
+  "id": 25447,
   "identifier": "55487d3f-bb46-4c48-933e-80e707a4f3dc",
   "type": "manga",
   "page": "Mangadex",
@@ -12,59 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116975,
   "aniId": 105780,
-  "createdAt": "2020-10-12T16:14:41.000Z",
-  "updatedAt": "2021-12-06T07:17:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hirao Tomohide",
+    "Yoda Mizuki"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:47:49.000Z",
+    "updatedAt": "2022-05-19T10:29:58.000Z",
+    "checkedAt": "2022-05-19T10:29:58.000Z",
+    "id": 116975,
+    "type": "manga",
+    "title": "Ne0;lation",
     "altTitle": [
       "Ne0;lation",
       "ne0;lation"
     ],
-    "authors": [
-      "Yoda, Mizuki",
-      "Hirao, Tomohide"
-    ],
-    "id": 116975,
-    "type": "manga",
-    "title": "Ne0;lation",
     "url": "https://myanimelist.net/manga/116975/Ne0_lation",
     "image": "https://cdn.myanimelist.net/images/manga/1/217671.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:47:49.000Z",
-    "updatedAt": "2021-12-28T16:54:38.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoda, Mizuki",
+      "Hirao, Tomohide"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:51.305Z",
+    "updatedAt": "2022-05-19T10:29:57.000Z",
+    "checkedAt": "2022-05-19T10:29:57.000Z",
+    "id": 105780,
+    "type": "manga",
+    "title": "neØ;lation",
     "altTitle": [
       "ne0;lation",
       "neØ;lation",
       "neolation",
       "neo;lation"
     ],
-    "externalLinks": [],
+    "url": "https://anilist.co/manga/105780",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105780-lE10V0YNFtGz.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/100038"
+      }
+    ],
+    "malId": 116975,
+    "deletedAt": null,
     "authors": [
       "Mizuki Yoda",
       "Hirao Tomohide",
       "Christine Dashiell",
       "Brandon Bovia"
-    ],
-    "id": 105780,
-    "malId": 116975,
-    "type": "manga",
-    "title": "neØ;lation",
-    "url": "https://anilist.co/manga/105780",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105780-lE10V0YNFtGz.png",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:57:53.000Z",
-    "updatedAt": "2022-04-19T04:30:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116975/Ne0_lation"
+    ]
+  }
 }

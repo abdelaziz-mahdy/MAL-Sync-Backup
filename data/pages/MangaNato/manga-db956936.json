@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morita Masanori"
-  ],
+  "createdAt": "2021-07-14T16:22:25.000Z",
+  "updatedAt": "2022-01-14T17:11:59.000Z",
+  "checkedAt": null,
+  "id": 81903,
   "identifier": "manga-db956936",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 915,
   "aniId": 30915,
-  "createdAt": "2021-07-14T16:22:25.000Z",
-  "updatedAt": "2022-01-14T17:11:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morita Masanori"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-15T10:28:44.000Z",
+    "checkedAt": "2022-05-15T10:28:44.000Z",
+    "id": 915,
+    "type": "manga",
+    "title": "Rookies",
+    "altTitle": [
+      "ROOKIES"
+    ],
+    "url": "https://myanimelist.net/manga/915/Rookies",
+    "image": "https://cdn.myanimelist.net/images/manga/1/153289.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +40,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ROOKIES"
-    ],
+    "deletedAt": null,
     "authors": [
       "Morita, Masanori"
-    ],
-    "id": 915,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:11.015Z",
+    "updatedAt": "2022-05-15T15:18:59.000Z",
+    "checkedAt": "2022-05-15T15:18:59.000Z",
+    "id": 30915,
     "type": "manga",
     "title": "Rookies",
-    "url": "https://myanimelist.net/manga/915/Rookies",
-    "image": "https://cdn.myanimelist.net/images/manga/1/153289.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-09T15:00:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ルーキーズ",
       "มือใหม่ไฟแรง"
     ],
+    "url": "https://anilist.co/manga/30915",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30915-bimfJSD4pzdl.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 915,
+    "deletedAt": null,
     "authors": [
       "Masanori Morita",
       "Kenji Nagatomo",
       "Tatsunosuke Sonoda",
       "Fumihiko Oota",
       "Akira Tanaka"
-    ],
-    "id": 30915,
-    "malId": 915,
-    "type": "manga",
-    "title": "Rookies",
-    "url": "https://anilist.co/manga/30915",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30915-bimfJSD4pzdl.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2022-03-14T11:59:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/915/Rookies"
+    ]
+  }
 }

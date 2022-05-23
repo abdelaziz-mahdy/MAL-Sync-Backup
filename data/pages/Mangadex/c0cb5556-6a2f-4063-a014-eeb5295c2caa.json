@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "allen"
-  ],
+  "createdAt": "2020-10-12T16:15:03.000Z",
+  "updatedAt": "2021-12-06T10:50:43.000Z",
+  "checkedAt": null,
+  "id": 26216,
   "identifier": "c0cb5556-6a2f-4063-a014-eeb5295c2caa",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95862,
   "aniId": 96714,
-  "createdAt": "2020-10-12T16:15:03.000Z",
-  "updatedAt": "2021-12-06T10:50:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "allen"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-15T15:36:43.000Z",
+    "checkedAt": "2022-05-15T15:36:43.000Z",
+    "id": 95862,
+    "type": "manga",
+    "title": "Prince of Stride: Galaxy Rush",
+    "altTitle": [
+      "プリンス・オブ・ストライド GALAXY RUSH"
+    ],
+    "url": "https://myanimelist.net/manga/95862/Prince_of_Stride__Galaxy_Rush",
+    "image": "https://cdn.myanimelist.net/images/manga/3/170901.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "プリンス・オブ・ストライド GALAXY RUSH"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sogabe, Shuji",
       "Arai, Teruko"
-    ],
-    "id": 95862,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:49.913Z",
+    "updatedAt": "2022-05-15T18:58:23.000Z",
+    "checkedAt": "2022-05-15T18:58:23.000Z",
+    "id": 96714,
     "type": "manga",
     "title": "Prince of Stride: Galaxy Rush",
-    "url": "https://myanimelist.net/manga/95862/Prince_of_Stride__Galaxy_Rush",
-    "image": "https://cdn.myanimelist.net/images/manga/3/170901.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-04-02T18:03:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "プリンス・オブ・ストライド GALAXY RUSH"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuji Sogabe"
-    ],
-    "id": 96714,
-    "malId": 95862,
-    "type": "manga",
-    "title": "Prince of Stride: Galaxy Rush",
     "url": "https://anilist.co/manga/96714",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96714-b1F3gFJwDu1I.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-18T01:52:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95862/Prince_of_Stride__Galaxy_Rush"
+    "externalLinks": [],
+    "malId": 95862,
+    "deletedAt": null,
+    "authors": [
+      "Shuji Sogabe"
+    ]
+  }
 }

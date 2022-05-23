@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sayo Ichi"
-  ],
+  "createdAt": "2020-10-12T16:20:16.000Z",
+  "updatedAt": "2021-12-08T00:07:25.000Z",
+  "checkedAt": null,
+  "id": 36852,
   "identifier": "badda1e4-6a2a-4e1e-b92f-986c5732439f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115728,
   "aniId": 106056,
-  "createdAt": "2020-10-12T16:20:16.000Z",
-  "updatedAt": "2021-12-08T00:07:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sayo Ichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2022-05-16T10:03:05.000Z",
+    "checkedAt": "2022-05-16T10:03:05.000Z",
+    "id": 115728,
+    "type": "manga",
+    "title": "Monster to Parent",
+    "altTitle": [
+      "Monster & Parent",
+      "モンスターとペアレント"
+    ],
+    "url": "https://myanimelist.net/manga/115728/Monster_to_Parent",
+    "image": "https://cdn.myanimelist.net/images/manga/3/213646.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Monster & Parent",
-      "モンスターとペアレント"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sayo, Ichi"
-    ],
-    "id": 115728,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:47.619Z",
+    "updatedAt": "2022-05-16T10:03:04.000Z",
+    "checkedAt": "2022-05-16T10:03:04.000Z",
+    "id": 106056,
     "type": "manga",
     "title": "Monster to Parent",
-    "url": "https://myanimelist.net/manga/115728/Monster_to_Parent",
-    "image": "https://cdn.myanimelist.net/images/manga/3/213646.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2022-04-05T12:31:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "モンスターとペアレント",
       "Monster & Parent"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichi Sayo"
-    ],
-    "id": 106056,
-    "malId": 115728,
-    "type": "manga",
-    "title": "Monster to Parent",
     "url": "https://anilist.co/manga/106056",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106056-2jKYAkicHchi.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-18T03:00:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115728/Monster_to_Parent"
+    "externalLinks": [],
+    "malId": 115728,
+    "deletedAt": null,
+    "authors": [
+      "Ichi Sayo"
+    ]
+  }
 }

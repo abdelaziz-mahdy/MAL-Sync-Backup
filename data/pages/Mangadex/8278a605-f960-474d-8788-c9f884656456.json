@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Eiki Eiki",
-    "Zaou Taishi"
-  ],
+  "createdAt": "2020-10-12T16:07:48.000Z",
+  "updatedAt": "2021-12-04T09:19:41.000Z",
+  "checkedAt": null,
+  "id": 11371,
   "identifier": "8278a605-f960-474d-8788-c9f884656456",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 179,
   "aniId": 30179,
-  "createdAt": "2020-10-12T16:07:48.000Z",
-  "updatedAt": "2021-12-04T09:19:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Eiki Eiki",
+    "Zaou Taishi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-04T05:51:57.000Z",
+    "updatedAt": "2021-12-04T06:16:16.000Z",
+    "checkedAt": null,
+    "id": 179,
+    "type": "manga",
+    "title": "Color",
+    "altTitle": [
+      "Color",
+      "カラー"
+    ],
+    "url": "https://myanimelist.net/manga/179/Color",
+    "image": "https://cdn.myanimelist.net/images/manga/2/30585.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Color",
-      "カラー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsuda, Mikiyo",
       "Eiki, Eiki"
-    ],
-    "id": 179,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:06.404Z",
+    "updatedAt": "2022-05-13T13:04:06.404Z",
+    "checkedAt": null,
+    "id": 30179,
     "type": "manga",
     "title": "Color",
-    "url": "https://myanimelist.net/manga/179/Color",
-    "image": "https://cdn.myanimelist.net/images/manga/2/30585.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-04T05:51:57.000Z",
-    "updatedAt": "2021-12-04T06:16:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Color",
       "カラー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mikiyo Tsuda",
-      "Eiki Eiki"
-    ],
-    "id": 30179,
-    "malId": 179,
-    "type": "manga",
-    "title": "Color",
     "url": "https://anilist.co/manga/30179",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30179-XSUUsMbi9F8M.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-04T05:51:58.000Z",
-    "updatedAt": "2021-12-17T09:04:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/179/Color"
+    "externalLinks": [],
+    "malId": 179,
+    "deletedAt": null,
+    "authors": [
+      "Mikiyo Tsuda",
+      "Eiki Eiki"
+    ]
+  }
 }

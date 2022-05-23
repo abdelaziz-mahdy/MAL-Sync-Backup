@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katou Motohiro"
-  ],
+  "createdAt": "2020-10-12T16:06:00.000Z",
+  "updatedAt": "2021-12-03T16:50:38.000Z",
+  "checkedAt": null,
+  "id": 7543,
   "identifier": "1aa46304-6aea-4c7b-9d9b-b24b2467263b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6238,
   "aniId": 36238,
-  "createdAt": "2020-10-12T16:06:00.000Z",
-  "updatedAt": "2021-12-03T16:50:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katou Motohiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:10.000Z",
+    "updatedAt": "2022-05-16T17:51:53.000Z",
+    "checkedAt": "2022-05-16T17:51:53.000Z",
+    "id": 6238,
+    "type": "manga",
+    "title": "Rocket Man",
+    "altTitle": [
+      "ロケットマン"
+    ],
+    "url": "https://myanimelist.net/manga/6238/Rocket_Man",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198872.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ロケットマン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Katou, Motohiro"
-    ],
-    "id": 6238,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:22.583Z",
+    "updatedAt": "2022-05-16T17:51:52.000Z",
+    "checkedAt": "2022-05-16T17:51:52.000Z",
+    "id": 36238,
     "type": "manga",
     "title": "Rocket Man",
-    "url": "https://myanimelist.net/manga/6238/Rocket_Man",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198872.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:10.000Z",
-    "updatedAt": "2022-04-29T17:01:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロケットマン",
       "A Boy Meets Rocketman",
       "Rocketman"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Motohiro Katou"
-    ],
-    "id": 36238,
-    "malId": 6238,
-    "type": "manga",
-    "title": "Rocket Man",
     "url": "https://anilist.co/manga/36238",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36238-Gq90VdPMGAVf.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:38.000Z",
-    "updatedAt": "2021-12-17T12:44:30.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6238/Rocket_Man"
+    "externalLinks": [],
+    "malId": 6238,
+    "deletedAt": null,
+    "authors": [
+      "Motohiro Katou"
+    ]
+  }
 }

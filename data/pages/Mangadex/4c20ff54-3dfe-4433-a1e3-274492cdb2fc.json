@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ark Performance"
-  ],
+  "createdAt": "2020-10-12T16:02:35.000Z",
+  "updatedAt": "2021-12-02T08:18:19.000Z",
+  "checkedAt": null,
+  "id": 456,
   "identifier": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25861,
   "aniId": 55861,
-  "createdAt": "2020-10-12T16:02:35.000Z",
-  "updatedAt": "2021-12-02T08:18:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ark Performance"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:23.000Z",
+    "updatedAt": "2022-05-15T16:18:03.000Z",
+    "checkedAt": "2022-05-15T16:18:03.000Z",
+    "id": 25861,
+    "type": "manga",
+    "title": "Aoki Hagane no Arpeggio",
+    "altTitle": [
+      "Arpeggio of Blue Steel",
+      "蒼き鋼のアルペジオ"
+    ],
+    "url": "https://myanimelist.net/manga/25861/Aoki_Hagane_no_Arpeggio",
+    "image": "https://cdn.myanimelist.net/images/manga/3/243931.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,54 +41,41 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Arpeggio of Blue Steel",
-      "蒼き鋼のアルペジオ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ark Performance"
-    ],
-    "id": 25861,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.039Z",
+    "updatedAt": "2022-05-15T19:34:35.000Z",
+    "checkedAt": "2022-05-15T19:34:35.000Z",
+    "id": 55861,
     "type": "manga",
     "title": "Aoki Hagane no Arpeggio",
-    "url": "https://myanimelist.net/manga/25861/Aoki_Hagane_no_Arpeggio",
-    "image": "https://cdn.myanimelist.net/images/manga/3/243931.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:23.000Z",
-    "updatedAt": "2022-01-13T10:11:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Arpeggio of Blue Steel",
       "蒼き鋼のアルペジオ",
       "สงครามเรือรบสยบโลก"
     ],
+    "url": "https://anilist.co/manga/55861",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55861-VWfRRp0t8Pw8.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/arpeggio-of-blue-steel/volumes"
       }
     ],
+    "malId": 25861,
+    "deletedAt": null,
     "authors": [
       "Ark Performance",
       "Greg Moore",
       "Kevin Frane",
       "Jason DeAngelis",
       "Paweł Szczęszek"
-    ],
-    "id": 55861,
-    "malId": 25861,
-    "type": "manga",
-    "title": "Aoki Hagane no Arpeggio",
-    "url": "https://anilist.co/manga/55861",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55861-VWfRRp0t8Pw8.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:56.000Z",
-    "updatedAt": "2022-03-11T10:59:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25861/Aoki_Hagane_no_Arpeggio"
+    ]
+  }
 }

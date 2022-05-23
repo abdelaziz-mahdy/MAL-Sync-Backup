@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iwami Shouko"
-  ],
+  "createdAt": "2020-10-12T16:05:22.000Z",
+  "updatedAt": "2022-05-16T15:29:32.000Z",
+  "checkedAt": "2022-05-16T15:29:25.000Z",
+  "id": 6270,
   "identifier": "fad25040-473d-445c-8a00-9e97e7f91f48",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12242,
   "aniId": 42242,
-  "createdAt": "2020-10-12T16:05:22.000Z",
-  "updatedAt": "2021-12-03T12:17:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iwami Shouko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:44.000Z",
+    "updatedAt": "2022-05-16T15:29:29.000Z",
+    "checkedAt": "2022-05-16T15:29:21.000Z",
+    "id": 12242,
+    "type": "manga",
+    "title": "Kanamemo",
+    "altTitle": [
+      "かなめも"
+    ],
+    "url": "https://myanimelist.net/manga/12242/Kanamemo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/56023.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "かなめも"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwami, Shouko"
-    ],
-    "id": 12242,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:33.287Z",
+    "updatedAt": "2022-05-16T15:30:11.000Z",
+    "checkedAt": "2022-05-16T15:29:57.000Z",
+    "id": 42242,
     "type": "manga",
     "title": "Kanamemo",
-    "url": "https://myanimelist.net/manga/12242/Kanamemo",
-    "image": "https://cdn.myanimelist.net/images/manga/2/56023.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:44.000Z",
-    "updatedAt": "2022-02-07T08:06:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "かなめも"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoko Iwami"
-    ],
-    "id": 42242,
-    "malId": 12242,
-    "type": "manga",
-    "title": "Kanamemo",
     "url": "https://anilist.co/manga/42242",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42242-IH9GsivTx43l.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:18.000Z",
-    "updatedAt": "2021-12-17T14:43:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12242/Kanamemo"
+    "externalLinks": [],
+    "malId": 12242,
+    "deletedAt": null,
+    "authors": [
+      "Shoko Iwami"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:26.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3817,
   "identifier": "87qn",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 818,
   "aniId": 818,
-  "createdAt": "2020-10-12T15:51:26.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T19:46:23.000Z",
+    "checkedAt": "2022-05-14T19:46:23.000Z",
+    "id": 818,
+    "type": "anime",
+    "title": "Sakura Tsuushin",
+    "altTitle": [
+      "Sakura Mail",
+      "Sakura Diaries",
+      "桜通信"
+    ],
+    "url": "https://myanimelist.net/anime/818/Sakura_Tsuushin",
+    "image": "https://cdn.myanimelist.net/images/anime/12/74961.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +47,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sakura Mail",
-      "Sakura Diaries",
-      "桜通信"
-    ],
+    "deletedAt": null,
+    "anidbId": 138
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T15:39:59.000Z",
+    "checkedAt": "2022-05-15T15:39:59.000Z",
     "id": 818,
     "type": "anime",
     "title": "Sakura Tsuushin",
-    "url": "https://myanimelist.net/anime/818/Sakura_Tsuushin",
-    "image": "https://cdn.myanimelist.net/images/anime/12/74961.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 138,
-    "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2022-04-26T03:02:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Sakura Diaries",
       "桜通信",
       "Sakura Mail"
     ],
-    "externalLinks": [],
-    "id": 818,
-    "malId": 818,
-    "type": "anime",
-    "title": "Sakura Tsuushin",
     "url": "https://anilist.co/anime/818",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b818-KJV5rnRLVKGZ.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:34:46.000Z",
-    "updatedAt": "2021-11-22T10:42:37.000Z",
+    "externalLinks": [],
+    "malId": 818,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/818/Sakura_Tsuushin"
+  }
 }

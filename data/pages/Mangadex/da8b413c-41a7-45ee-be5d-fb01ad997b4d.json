@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yamaji Ebine"
-  ],
+  "createdAt": "2020-10-12T16:04:18.000Z",
+  "updatedAt": "2021-12-02T20:17:57.000Z",
+  "checkedAt": null,
+  "id": 4051,
   "identifier": "da8b413c-41a7-45ee-be5d-fb01ad997b4d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3004,
   "aniId": 33004,
-  "createdAt": "2020-10-12T16:04:18.000Z",
-  "updatedAt": "2021-12-02T20:17:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yamaji Ebine"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-04-27T22:00:37.000Z",
+    "checkedAt": null,
+    "id": 3004,
+    "type": "manga",
+    "title": "Indigo Blue",
+    "altTitle": [
+      "インディゴ・ブルー"
+    ],
+    "url": "https://myanimelist.net/manga/3004/Indigo_Blue",
+    "image": "https://cdn.myanimelist.net/images/manga/3/3985.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "インディゴ・ブルー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yamaji, Ebine"
-    ],
-    "id": 3004,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:53.128Z",
+    "updatedAt": "2022-05-13T13:04:53.128Z",
+    "checkedAt": null,
+    "id": 33004,
     "type": "manga",
     "title": "Indigo Blue",
-    "url": "https://myanimelist.net/manga/3004/Indigo_Blue",
-    "image": "https://cdn.myanimelist.net/images/manga/3/3985.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-04-27T22:00:37.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "インディゴ・ブルー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ebine Yamaji"
-    ],
-    "id": 33004,
-    "malId": 3004,
-    "type": "manga",
-    "title": "Indigo Blue",
     "url": "https://anilist.co/manga/33004",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33004-YpYuQQdqW0bA.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:17.000Z",
-    "updatedAt": "2021-12-17T11:06:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3004/Indigo_Blue"
+    "externalLinks": [],
+    "malId": 3004,
+    "deletedAt": null,
+    "authors": [
+      "Ebine Yamaji"
+    ]
+  }
 }

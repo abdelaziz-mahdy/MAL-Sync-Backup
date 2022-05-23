@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:12.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 954,
   "identifier": "1jov",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23089,
   "aniId": 104081,
-  "createdAt": "2020-10-12T15:49:12.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:26.000Z",
+    "updatedAt": "2022-04-02T23:03:52.000Z",
+    "checkedAt": null,
+    "id": 23089,
+    "type": "anime",
+    "title": "Ponsuke no Haru",
+    "altTitle": [
+      "Spring Comes to Ponsuke",
+      "ポン助の春"
+    ],
+    "url": "https://myanimelist.net/anime/23089/Ponsuke_no_Haru",
+    "image": "https://cdn.myanimelist.net/images/anime/4/86272.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -22,39 +38,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Spring Comes to Ponsuke",
-      "ポン助の春"
-    ],
-    "id": 23089,
-    "type": "anime",
-    "title": "Ponsuke no Haru",
-    "url": "https://myanimelist.net/anime/23089/Ponsuke_no_Haru",
-    "image": "https://cdn.myanimelist.net/images/anime/4/86272.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 6851,
-    "createdAt": "2020-10-12T15:39:26.000Z",
-    "updatedAt": "2022-04-02T23:03:52.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 6851
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:33.000Z",
+    "updatedAt": "2021-12-17T16:54:11.000Z",
+    "checkedAt": null,
+    "id": 104081,
+    "type": "anime",
+    "title": "Ponsuke no Haru",
     "altTitle": [
       "Spring Comes to Ponsuke",
       "ポン助の春"
     ],
-    "externalLinks": [],
-    "id": 104081,
-    "malId": 23089,
-    "type": "anime",
-    "title": "Ponsuke no Haru",
     "url": "https://anilist.co/anime/104081",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104081-SkQYdC4kAc58.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:33.000Z",
-    "updatedAt": "2021-12-17T16:54:11.000Z",
+    "externalLinks": [],
+    "malId": 23089,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/23089/Ponsuke_no_Haru"
+  }
 }

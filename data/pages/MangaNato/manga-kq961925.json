@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yabuno Tenya"
-  ],
+  "createdAt": "2021-11-28T05:35:45.000Z",
+  "updatedAt": "2021-11-28T06:05:32.000Z",
+  "checkedAt": null,
+  "id": 91855,
   "identifier": "manga-kq961925",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 19315,
   "aniId": 49315,
-  "createdAt": "2021-11-28T05:35:45.000Z",
-  "updatedAt": "2021-11-28T06:05:32.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yabuno Tenya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:43.000Z",
+    "updatedAt": "2022-05-15T00:35:41.000Z",
+    "checkedAt": "2022-05-15T00:35:41.000Z",
+    "id": 19315,
+    "type": "manga",
+    "title": "Inazuma Eleven",
+    "altTitle": [
+      "Inazuma 11",
+      "イナズマイレブン"
+    ],
+    "url": "https://myanimelist.net/manga/19315/Inazuma_Eleven",
+    "image": "https://cdn.myanimelist.net/images/manga/2/177907.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Inazuma 11",
-      "イナズマイレブン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yabuno, Tenya"
-    ],
-    "id": 19315,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:18.531Z",
+    "updatedAt": "2022-05-15T20:30:11.000Z",
+    "checkedAt": "2022-05-15T20:30:11.000Z",
+    "id": 49315,
     "type": "manga",
     "title": "Inazuma Eleven",
-    "url": "https://myanimelist.net/manga/19315/Inazuma_Eleven",
-    "image": "https://cdn.myanimelist.net/images/manga/2/177907.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:43.000Z",
-    "updatedAt": "2022-04-14T23:32:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "イナズマイレブン",
       "Inazuma 11"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tenya Yabuno",
-      "Edward Kondo"
-    ],
-    "id": 49315,
-    "malId": 19315,
-    "type": "manga",
-    "title": "Inazuma Eleven",
     "url": "https://anilist.co/manga/49315",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49315-2AqZShRMXyfx.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:18.000Z",
-    "updatedAt": "2021-12-17T17:05:11.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/19315/Inazuma_Eleven"
+    "externalLinks": [],
+    "malId": 19315,
+    "deletedAt": null,
+    "authors": [
+      "Tenya Yabuno",
+      "Edward Kondo"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miura Hiraku"
-  ],
+  "createdAt": "2022-05-07T08:01:26.000Z",
+  "updatedAt": "2022-05-13T20:21:20.000Z",
+  "checkedAt": "2022-05-13T19:54:35.000Z",
+  "id": 103053,
   "identifier": "manga-kd961612",
   "type": "manga",
   "page": "MangaNato",
@@ -10,14 +11,60 @@
   "image": "https://avt.mkklcdnv6temp.com/44/m/7-1583477961.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-07T08:01:26.000Z",
-  "updatedAt": "2022-05-07T08:01:26.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 10630,
+  "aniId": 40630,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Miura Hiraku"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:41:28.000Z",
+    "updatedAt": "2022-05-13T19:54:36.000Z",
+    "checkedAt": "2022-05-13T19:54:36.000Z",
+    "id": 10630,
+    "type": "manga",
+    "title": "Akuma na Kuchibiru",
+    "altTitle": [
+      "Koakuma Drops",
+      "Eien no Hidamari",
+      "Katekyo.",
+      "Mamotteagetai!?",
+      "Devilish Lips",
+      "悪魔なクチビル"
+    ],
+    "url": "https://myanimelist.net/manga/10630/Akuma_na_Kuchibiru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/203961.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miura, Hiraku"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:59.970Z",
+    "updatedAt": "2022-05-13T12:59:59.970Z",
+    "checkedAt": null,
+    "id": 40630,
+    "type": "manga",
+    "title": "Akuma na Kuchibiru",
+    "altTitle": [
+      "Devilish Lips",
+      "悪魔なクチビル"
+    ],
+    "url": "https://anilist.co/manga/40630",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10630.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10630,
+    "deletedAt": null,
+    "authors": [
+      "Hiraku Miura"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takao Hiroi",
-    "Kamuro Akira"
-  ],
+  "createdAt": "2020-10-12T16:15:15.000Z",
+  "updatedAt": "2021-12-06T12:18:29.000Z",
+  "checkedAt": null,
+  "id": 26617,
   "identifier": "2ffa56bf-5b5d-42ef-8e08-eefb703a29b2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,15 +12,21 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12678,
   "aniId": 42678,
-  "createdAt": "2020-10-12T16:15:15.000Z",
-  "updatedAt": "2021-12-06T12:18:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takao Hiroi",
+    "Kamuro Akira"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:47.000Z",
+    "updatedAt": "2022-03-01T12:41:09.000Z",
+    "checkedAt": null,
+    "id": 12678,
+    "type": "manga",
+    "title": "Ikenai Otoko",
     "altTitle": [
       "No Good Man",
       "Hopeless Men",
@@ -29,22 +35,25 @@
       "Ikenai Invitation",
       "イケナイ男"
     ],
-    "authors": [
-      "Takao, Hiroi",
-      "Kamuro, Akira"
-    ],
-    "id": 12678,
-    "type": "manga",
-    "title": "Ikenai Otoko",
     "url": "https://myanimelist.net/manga/12678/Ikenai_Otoko",
     "image": "https://cdn.myanimelist.net/images/manga/2/51053.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:47.000Z",
-    "updatedAt": "2022-03-01T12:41:09.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takao, Hiroi",
+      "Kamuro, Akira"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:00.177Z",
+    "updatedAt": "2022-05-13T13:00:00.177Z",
+    "checkedAt": null,
+    "id": 42678,
+    "type": "manga",
+    "title": "Ikenai Otoko",
     "altTitle": [
       "イケナイ男",
       "No Good Man",
@@ -52,22 +61,16 @@
       "Take Love Easy",
       "Ikenai Invitation"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroi Takao",
-      "Akira Kamuro"
-    ],
-    "id": 42678,
-    "malId": 12678,
-    "type": "manga",
-    "title": "Ikenai Otoko",
     "url": "https://anilist.co/manga/42678",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12678.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:25.000Z",
-    "updatedAt": "2021-12-17T15:02:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12678/Ikenai_Otoko"
+    "externalLinks": [],
+    "malId": 12678,
+    "deletedAt": null,
+    "authors": [
+      "Hiroi Takao",
+      "Akira Kamuro"
+    ]
+  }
 }

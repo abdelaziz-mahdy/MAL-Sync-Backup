@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ooishi Naho",
-    "Toriyama Akira"
-  ],
+  "createdAt": "2021-07-13T01:15:11.000Z",
+  "updatedAt": "2022-01-13T02:11:39.000Z",
+  "checkedAt": null,
+  "id": 81768,
   "identifier": "manga-uf956040",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23446,
   "aniId": 53446,
-  "createdAt": "2021-07-13T01:15:11.000Z",
-  "updatedAt": "2022-01-13T02:11:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ooishi Naho",
+    "Toriyama Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:09.000Z",
+    "updatedAt": "2022-01-13T01:41:40.000Z",
+    "checkedAt": null,
+    "id": 23446,
+    "type": "manga",
+    "title": "Dragon Ball SD",
+    "altTitle": [
+      "ドラゴンボールSD"
+    ],
+    "url": "https://myanimelist.net/manga/23446/Dragon_Ball_SD",
+    "image": "https://cdn.myanimelist.net/images/manga/2/135399.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ドラゴンボールSD"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ooishi, Naho"
-    ],
-    "id": 23446,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.980Z",
+    "updatedAt": "2022-05-13T13:01:29.980Z",
+    "checkedAt": null,
+    "id": 53446,
     "type": "manga",
     "title": "Dragon Ball SD",
-    "url": "https://myanimelist.net/manga/23446/Dragon_Ball_SD",
-    "image": "https://cdn.myanimelist.net/images/manga/2/135399.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:09.000Z",
-    "updatedAt": "2022-01-13T01:41:40.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ドラゴンボール エスディー",
       "Dragonball SD"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naho Ooishi"
-    ],
-    "id": 53446,
-    "malId": 23446,
-    "type": "manga",
-    "title": "Dragon Ball SD",
     "url": "https://anilist.co/manga/53446",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23446.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:37.000Z",
-    "updatedAt": "2021-12-17T18:07:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23446/Dragon_Ball_SD"
+    "externalLinks": [],
+    "malId": 23446,
+    "deletedAt": null,
+    "authors": [
+      "Naho Ooishi"
+    ]
+  }
 }

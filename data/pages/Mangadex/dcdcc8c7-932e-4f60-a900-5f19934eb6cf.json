@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ant Studio",
-    "다울"
-  ],
+  "createdAt": "2020-10-12T16:18:42.000Z",
+  "updatedAt": "2022-02-23T18:17:40.000Z",
+  "checkedAt": null,
+  "id": 33680,
   "identifier": "dcdcc8c7-932e-4f60-a900-5f19934eb6cf",
   "type": "manga",
   "page": "Mangadex",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 116506,
-  "createdAt": "2020-10-12T16:18:42.000Z",
-  "updatedAt": "2022-02-23T18:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ant Studio",
+    "다울"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:24.420Z",
+    "updatedAt": "2022-05-13T15:01:08.000Z",
+    "checkedAt": "2022-05-13T15:01:08.000Z",
+    "id": 116506,
+    "type": "manga",
+    "title": "Dungeon Reset",
     "altTitle": [
       "Dungeon Reset",
       "던전 리셋",
@@ -28,24 +36,18 @@
       "ダンジョンリセット",
       "สมรภูมิไม่สิ้นสุด"
     ],
+    "url": "https://anilist.co/manga/116506",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116506-D6cG2hsUzSpx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Rio Skywalker",
       "Da-Ul",
       "Jae-Hyeon Lee",
       "Sunflower"
-    ],
-    "id": 116506,
-    "malId": null,
-    "type": "manga",
-    "title": "Dungeon Reset",
-    "url": "https://anilist.co/manga/116506",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116506-D6cG2hsUzSpx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T19:43:07.000Z",
-    "updatedAt": "2022-03-28T20:54:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

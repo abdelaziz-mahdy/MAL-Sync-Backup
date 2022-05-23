@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kodama Jun"
-  ],
+  "createdAt": "2021-06-01T16:02:57.000Z",
+  "updatedAt": "2021-12-01T16:46:17.000Z",
+  "checkedAt": null,
+  "id": 75500,
   "identifier": "manga-kj988092",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92701,
   "aniId": 100697,
-  "createdAt": "2021-06-01T16:02:57.000Z",
-  "updatedAt": "2021-12-01T16:46:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kodama Jun"
+  ],
   "Mal": {
+    "createdAt": "2021-02-05T18:50:05.000Z",
+    "updatedAt": "2022-05-16T19:30:59.000Z",
+    "checkedAt": "2022-05-16T19:30:59.000Z",
+    "id": 92701,
+    "type": "manga",
+    "title": "Ai-sensei wa Wakaranai",
+    "altTitle": [
+      "I don't know the love",
+      "アイ先生はわからない"
+    ],
+    "url": "https://myanimelist.net/manga/92701/Ai-sensei_wa_Wakaranai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175775.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "I don't know the love",
-      "アイ先生はわからない"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kodama, Jun"
-    ],
-    "id": 92701,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:17.128Z",
+    "updatedAt": "2022-05-16T19:30:59.000Z",
+    "checkedAt": "2022-05-16T19:30:58.000Z",
+    "id": 100697,
     "type": "manga",
     "title": "Ai-sensei wa Wakaranai",
-    "url": "https://myanimelist.net/manga/92701/Ai-sensei_wa_Wakaranai",
-    "image": "https://cdn.myanimelist.net/images/manga/2/175775.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-02-05T18:50:05.000Z",
-    "updatedAt": "2021-12-01T16:18:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アイ先生はわからない",
       "I don't know the love"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Kodama"
-    ],
-    "id": 100697,
-    "malId": 92701,
-    "type": "manga",
-    "title": "Ai-sensei wa Wakaranai",
     "url": "https://anilist.co/manga/100697",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100697-vMP7NAFNnyOM.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:40.000Z",
-    "updatedAt": "2021-12-18T03:27:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92701/Ai-sensei_wa_Wakaranai"
+    "externalLinks": [],
+    "malId": 92701,
+    "deletedAt": null,
+    "authors": [
+      "Jun Kodama"
+    ]
+  }
 }

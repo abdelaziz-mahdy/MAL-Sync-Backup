@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:39.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1577,
   "identifier": "2xw4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 274,
   "aniId": 274,
-  "createdAt": "2020-10-12T15:49:39.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:01.000Z",
+    "updatedAt": "2022-05-14T19:40:29.000Z",
+    "checkedAt": "2022-05-14T19:40:29.000Z",
+    "id": 274,
+    "type": "anime",
+    "title": "Kiddy Grade",
+    "altTitle": [
+      "Kiddy Grade",
+      "キディ・グレイド"
+    ],
+    "url": "https://myanimelist.net/anime/274/Kiddy_Grade",
+    "image": "https://cdn.myanimelist.net/images/anime/3/73995.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,26 +59,23 @@
         "url": "https://www.funimation.com/shows/kiddy-grade"
       }
     ],
-    "altTitle": [
-      "Kiddy Grade",
-      "キディ・グレイド"
-    ],
+    "deletedAt": null,
+    "anidbId": 251
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:36.000Z",
+    "updatedAt": "2022-05-15T12:03:47.000Z",
+    "checkedAt": "2022-05-15T12:03:47.000Z",
     "id": 274,
     "type": "anime",
     "title": "Kiddy Grade",
-    "url": "https://myanimelist.net/anime/274/Kiddy_Grade",
-    "image": "https://cdn.myanimelist.net/images/anime/3/73995.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 251,
-    "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2022-03-13T15:30:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "キディ・グレイド"
     ],
+    "url": "https://anilist.co/anime/274",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx274-pFKbRi3Tg6PH.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
@@ -73,17 +86,7 @@
         "url": "http://www.hulu.com/kiddy-grade"
       }
     ],
-    "id": 274,
     "malId": 274,
-    "type": "anime",
-    "title": "Kiddy Grade",
-    "url": "https://anilist.co/anime/274",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx274-pFKbRi3Tg6PH.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:36.000Z",
-    "updatedAt": "2021-12-10T05:33:38.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/274/Kiddy_Grade"
+  }
 }

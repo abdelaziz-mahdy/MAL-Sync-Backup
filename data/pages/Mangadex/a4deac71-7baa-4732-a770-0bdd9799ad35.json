@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mita Norifusa"
-  ],
+  "createdAt": "2020-10-12T16:13:14.000Z",
+  "updatedAt": "2021-12-05T20:18:38.000Z",
+  "checkedAt": null,
+  "id": 22477,
   "identifier": "a4deac71-7baa-4732-a770-0bdd9799ad35",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111134,
   "aniId": 130764,
-  "createdAt": "2020-10-12T16:13:14.000Z",
-  "updatedAt": "2021-12-05T20:18:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mita Norifusa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:21.000Z",
+    "updatedAt": "2022-04-09T10:31:44.000Z",
+    "checkedAt": null,
+    "id": 111134,
+    "type": "manga",
+    "title": "Dragon Zakura 2",
+    "altTitle": [
+      "Dragon Zakura Two",
+      "Dragon Zakura 2",
+      "ドラゴン桜2"
+    ],
+    "url": "https://myanimelist.net/manga/111134/Dragon_Zakura_2",
+    "image": "https://cdn.myanimelist.net/images/manga/1/208226.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,53 +42,39 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dragon Zakura Two",
-      "Dragon Zakura 2",
-      "ドラゴン桜2"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mita, Norifusa"
-    ],
-    "id": 111134,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.266Z",
+    "updatedAt": "2022-05-13T13:06:36.266Z",
+    "checkedAt": null,
+    "id": 130764,
     "type": "manga",
     "title": "Dragon Zakura 2",
-    "url": "https://myanimelist.net/manga/111134/Dragon_Zakura_2",
-    "image": "https://cdn.myanimelist.net/images/manga/1/208226.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:21.000Z",
-    "updatedAt": "2022-04-09T10:31:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dragon Zakura 2",
       "ドラゴン桜2",
       "Dragon Zakura Two"
     ],
+    "url": "https://anilist.co/manga/130764",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130764-5Kcajv4N4GYB.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/dragon-zakura-2/volumes"
       }
     ],
+    "malId": 111134,
+    "deletedAt": null,
     "authors": [
       "Norifusa Mita",
       "Carlo Vanstiphout",
       "David Rowe-Caplan"
-    ],
-    "id": 130764,
-    "malId": 111134,
-    "type": "manga",
-    "title": "Dragon Zakura 2",
-    "url": "https://anilist.co/manga/130764",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130764-5Kcajv4N4GYB.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:56:18.000Z",
-    "updatedAt": "2021-12-18T12:21:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111134/Dragon_Zakura_2"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:11.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9835,
   "identifier": "wnll",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2158,
   "aniId": 2158,
-  "createdAt": "2020-10-12T15:56:11.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-14T19:57:47.000Z",
+    "checkedAt": "2022-05-14T19:57:47.000Z",
+    "id": 2158,
+    "type": "anime",
+    "title": "Terra e... (TV)",
+    "altTitle": [
+      "Terra e... (2007)",
+      "Terra he...",
+      "Chikyuu he",
+      "Towards the Terra...",
+      "地球へ…"
+    ],
+    "url": "https://myanimelist.net/anime/2158/Terra_e_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1013/117558.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,47 +53,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Terra e... (2007)",
-      "Terra he...",
-      "Chikyuu he",
-      "Towards the Terra...",
-      "地球へ…"
-    ],
+    "deletedAt": null,
+    "anidbId": 5039
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-15T15:34:59.000Z",
+    "checkedAt": "2022-05-15T15:34:59.000Z",
     "id": 2158,
     "type": "anime",
     "title": "Terra e... (TV)",
-    "url": "https://myanimelist.net/anime/2158/Terra_e_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1013/117558.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 5039,
-    "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2022-03-31T05:02:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Toward the Terra (TV)",
       "地球へ… (TV)"
     ],
+    "url": "https://anilist.co/anime/2158",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2158-YNMommJ2VaPZ.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/toward-the-terra"
       }
     ],
-    "id": 2158,
     "malId": 2158,
-    "type": "anime",
-    "title": "Terra e... (TV)",
-    "url": "https://anilist.co/anime/2158",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2158-YNMommJ2VaPZ.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:12.000Z",
-    "updatedAt": "2021-12-05T12:46:06.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2158/Terra_e_TV"
+  }
 }

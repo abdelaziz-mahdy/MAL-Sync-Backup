@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Tsutomu"
-  ],
+  "createdAt": "2020-10-12T16:10:36.000Z",
+  "updatedAt": "2021-11-25T10:36:15.000Z",
+  "checkedAt": null,
+  "id": 17486,
   "identifier": "91137421-8b28-4500-86aa-ef22e838262b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103622,
   "aniId": 98835,
-  "createdAt": "2020-10-12T16:10:36.000Z",
-  "updatedAt": "2021-11-25T10:36:15.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Tsutomu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:49.000Z",
+    "updatedAt": "2022-05-15T06:09:15.000Z",
+    "checkedAt": "2022-05-15T06:09:15.000Z",
+    "id": 103622,
+    "type": "manga",
+    "title": "NeuN",
+    "altTitle": [
+      "9",
+      "Nine",
+      "NeuN"
+    ],
+    "url": "https://myanimelist.net/manga/103622/NeuN",
+    "image": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "9",
-      "Nine",
-      "NeuN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Tsutomu"
-    ],
-    "id": 103622,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:41.553Z",
+    "updatedAt": "2022-05-15T21:28:35.000Z",
+    "checkedAt": "2022-05-15T21:28:35.000Z",
+    "id": 98835,
     "type": "manga",
     "title": "NeuN",
-    "url": "https://myanimelist.net/manga/103622/NeuN",
-    "image": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:49.000Z",
-    "updatedAt": "2022-04-19T11:03:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "NeuN",
       "Nine",
@@ -57,21 +66,15 @@
       "ノイン",
       "นอยน์ เด็กชายหมายเลข 9"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsutomu Takahashi"
-    ],
-    "id": 98835,
-    "malId": 103622,
-    "type": "manga",
-    "title": "NeuN",
     "url": "https://anilist.co/manga/98835",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98835-J7MppqI9oU0E.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:04.000Z",
-    "updatedAt": "2022-03-14T10:29:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103622/NeuN"
+    "externalLinks": [],
+    "malId": 103622,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Takahashi"
+    ]
+  }
 }

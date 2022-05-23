@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:27.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 7795,
   "identifier": "p1p9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2207,
   "aniId": 2207,
-  "createdAt": "2020-10-12T15:54:27.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T23:11:29.000Z",
+    "checkedAt": "2022-05-14T23:11:29.000Z",
+    "id": 2207,
+    "type": "anime",
+    "title": "Hamelin no Violin Hiki: The Movie",
+    "altTitle": [
+      "Violinist of Hameln",
+      "ハーメルンのバイオリン弾き"
+    ],
+    "url": "https://myanimelist.net/anime/2207/Hamelin_no_Violin_Hiki__The_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1260/94835.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +46,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Violinist of Hameln",
-      "ハーメルンのバイオリン弾き"
-    ],
+    "deletedAt": null,
+    "anidbId": 805
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T21:49:11.000Z",
+    "checkedAt": "2022-05-15T21:49:11.000Z",
     "id": 2207,
     "type": "anime",
-    "title": "Hamelin no Violin Hiki: The Movie",
-    "url": "https://myanimelist.net/anime/2207/Hamelin_no_Violin_Hiki__The_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1260/94835.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 805,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2022-03-31T05:30:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Hamelin no Violin Hiki",
     "altTitle": [
       "ハーメルンのバイオリン弾き",
       "Violinist of Hameln: The Movie",
       "Hamelin no Violin Hiki: The Movie",
       "ハーメルンのバイオリン弾き　[劇場版]"
     ],
-    "externalLinks": [],
-    "id": 2207,
-    "malId": 2207,
-    "type": "anime",
-    "title": "Hamelin no Violin Hiki",
     "url": "https://anilist.co/anime/2207",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2207-FP61aHadCoqB.png",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:13.000Z",
-    "updatedAt": "2022-01-26T04:30:33.000Z",
+    "externalLinks": [],
+    "malId": 2207,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2207/Hamelin_no_Violin_Hiki__The_Movie"
+  }
 }

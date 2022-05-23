@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Narumi Naru"
-  ],
+  "createdAt": "2020-10-12T16:07:46.000Z",
+  "updatedAt": "2021-12-04T05:21:52.000Z",
+  "checkedAt": null,
+  "id": 11313,
   "identifier": "5e433b63-7faa-4106-8ec9-802282f322b1",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 77827,
   "aniId": 85703,
-  "createdAt": "2020-10-12T16:07:46.000Z",
-  "updatedAt": "2021-12-04T05:21:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Narumi Naru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2022-05-15T00:49:23.000Z",
+    "checkedAt": "2022-05-15T00:49:22.000Z",
+    "id": 77827,
+    "type": "manga",
+    "title": "Watari-kun no xx ga Houkai Sunzen",
+    "altTitle": [
+      "Watari's XX Is on the Brink of Collapse",
+      "渡くんの××が崩壊寸前"
+    ],
+    "url": "https://myanimelist.net/manga/77827/Watari-kun_no_xx_ga_Houkai_Sunzen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/158603.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Watari's XX Is on the Brink of Collapse",
-      "渡くんの××が崩壊寸前"
-    ],
+    "deletedAt": null,
     "authors": [
       "Narumi, Naru"
-    ],
-    "id": 77827,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:32.730Z",
+    "updatedAt": "2022-05-15T17:13:11.000Z",
+    "checkedAt": "2022-05-15T17:13:11.000Z",
+    "id": 85703,
     "type": "manga",
     "title": "Watari-kun no xx ga Houkai Sunzen",
-    "url": "https://myanimelist.net/manga/77827/Watari-kun_no_xx_ga_Houkai_Sunzen",
-    "image": "https://cdn.myanimelist.net/images/manga/2/158603.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2021-12-01T02:09:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Watari-kun's ****** Is about to Collapse",
       "渡くんの××が崩壊寸前",
       "와타리 군의 XX가 붕괴 직전"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naru Narumi"
-    ],
-    "id": 85703,
-    "malId": 77827,
-    "type": "manga",
-    "title": "Watari-kun no xx ga Houkai Sunzen",
     "url": "https://anilist.co/manga/85703",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85703-xm8ZYtoRieS0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:51.000Z",
-    "updatedAt": "2021-12-17T22:21:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/77827/Watari-kun_no_xx_ga_Houkai_Sunzen"
+    "externalLinks": [],
+    "malId": 77827,
+    "deletedAt": null,
+    "authors": [
+      "Naru Narumi"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kakei Senri"
-  ],
+  "createdAt": "2021-12-04T09:47:18.000Z",
+  "updatedAt": "2022-05-13T17:21:22.000Z",
+  "checkedAt": "2022-05-13T16:31:00.000Z",
+  "id": 92385,
   "identifier": "manga-md990112",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2021-12-04T09:47:18.000Z",
-  "updatedAt": "2022-05-06T00:32:00.000Z",
+  "actorId": 1,
+  "malId": 120006,
+  "aniId": 108011,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Kakei Senri"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:02.000Z",
+    "updatedAt": "2022-05-13T16:31:01.000Z",
+    "checkedAt": "2022-05-13T16:31:01.000Z",
+    "id": 120006,
+    "type": "manga",
+    "title": "Sekai de Tada Hitori no Mamonotsukai: Tenshoku shitara Maou ni Machigawaremashita",
+    "altTitle": [
+      "The Sole Monster Tamer in the World: I was Mistaken as the Demon King When I Changed My Job",
+      "世界でただ一人の魔物使い ～転職したら魔王に間違われました～"
+    ],
+    "url": "https://myanimelist.net/manga/120006/Sekai_de_Tada_Hitori_no_Mamonotsukai__Tenshoku_shitara_Maou_ni_Machigawaremashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/225926.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ganganonline.com/contents/sekai/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kakei, Senri",
+      "Doujima, Norio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:48.829Z",
+    "updatedAt": "2022-05-15T20:33:23.000Z",
+    "checkedAt": "2022-05-15T20:33:23.000Z",
+    "id": 108011,
+    "type": "manga",
+    "title": "Sekai de Tadahitori no Mamono Tsukai: Tenshoku Shitara Maou ni Machigawaremashita",
+    "altTitle": [
+      "世界でただ一人の魔物使い ～転職したら魔王に間違われました～",
+      "The Sole Monster Tamer in the World: I was Mistaken as the Demon King When I Changed My Job"
+    ],
+    "url": "https://anilist.co/manga/108011",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108011-HPwDD1fOKZh1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 120006,
+    "deletedAt": null,
+    "authors": [
+      "Senri Kakei",
+      "Norio Doujima",
+      "hu-ko"
+    ]
+  }
 }

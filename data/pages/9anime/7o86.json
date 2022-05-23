@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:11.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3498,
   "identifier": "7o86",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 380,
   "aniId": 380,
-  "createdAt": "2020-10-12T15:51:11.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T17:11:35.000Z",
+    "checkedAt": "2022-05-14T17:11:35.000Z",
+    "id": 380,
+    "type": "anime",
+    "title": "Fushigi Yuugi OVA",
+    "altTitle": [
+      "Fushigi Yugi OVA 1",
+      "Mysterious Play OVA",
+      "ふしぎ遊戯"
+    ],
+    "url": "https://myanimelist.net/anime/380/Fushigi_Yuugi_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/1171/92443.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,24 +51,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fushigi Yugi OVA 1",
-      "Mysterious Play OVA",
-      "ふしぎ遊戯"
-    ],
+    "deletedAt": null,
+    "anidbId": 163
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T19:07:47.000Z",
+    "checkedAt": "2022-05-15T19:07:47.000Z",
     "id": 380,
     "type": "anime",
     "title": "Fushigi Yuugi OVA",
-    "url": "https://myanimelist.net/anime/380/Fushigi_Yuugi_OVA",
-    "image": "https://cdn.myanimelist.net/images/anime/1171/92443.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 163,
-    "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2022-02-21T13:55:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mysterious Play OVA",
       "ふしぎ遊戯",
@@ -60,6 +69,10 @@
       "Fushigi Yugi: Il Gioco Misterioso",
       "Tajemnica przeszłości"
     ],
+    "url": "https://anilist.co/anime/380",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx380-tInA3xjLzVPD.jpg",
+    "category": "ova",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -70,17 +83,7 @@
         "url": "https://vrv.co/series/GRWE2W42R/Fushigi-Yugi-OVA"
       }
     ],
-    "id": 380,
     "malId": 380,
-    "type": "anime",
-    "title": "Fushigi Yuugi OVA",
-    "url": "https://anilist.co/anime/380",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx380-tInA3xjLzVPD.jpg",
-    "category": "ova",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:39.000Z",
-    "updatedAt": "2021-12-17T08:26:54.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/380/Fushigi_Yuugi_OVA"
+  }
 }

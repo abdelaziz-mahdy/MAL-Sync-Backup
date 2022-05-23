@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Owaru"
-  ],
+  "createdAt": "2020-10-12T16:10:06.000Z",
+  "updatedAt": "2021-12-04T22:48:10.000Z",
+  "checkedAt": null,
+  "id": 16404,
   "identifier": "69873aa6-bade-49a8-995a-cbfc54705562",
   "type": "manga",
   "page": "Mangadex",
@@ -11,35 +12,43 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95835,
   "aniId": 98037,
-  "createdAt": "2020-10-12T16:10:06.000Z",
-  "updatedAt": "2021-12-04T22:48:10.000Z",
   "deletedAt": null,
+  "authors": [
+    "Owaru"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-01T06:38:28.000Z",
+    "checkedAt": null,
+    "id": 95835,
+    "type": "manga",
+    "title": "Hang Out Crisis",
     "altTitle": [
       "Bousou Ryman, Hentai-kei",
       "Bijo to Yajuu",
       "ハングアウトクライシス"
     ],
-    "authors": [
-      "Owal"
-    ],
-    "id": 95835,
-    "type": "manga",
-    "title": "Hang Out Crisis",
     "url": "https://myanimelist.net/manga/95835/Hang_Out_Crisis",
     "image": "https://cdn.myanimelist.net/images/manga/2/180657.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-05-01T06:38:28.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Owal"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:40.534Z",
+    "updatedAt": "2022-05-13T13:05:40.534Z",
+    "checkedAt": null,
+    "id": 98037,
+    "type": "manga",
+    "title": "Bousou Ryman",
     "altTitle": [
       "Hang Out Crisis",
       "ハングアウトクライシス",
@@ -47,21 +56,15 @@
       "Hentaigakari",
       "Beauty and the Beast"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Owal"
-    ],
-    "id": 98037,
-    "malId": 95835,
-    "type": "manga",
-    "title": "Bousou Ryman",
     "url": "https://anilist.co/manga/98037",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98037-UgLZ5STZRNrQ.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-12-18T02:22:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95835/Hang_Out_Crisis"
+    "externalLinks": [],
+    "malId": 95835,
+    "deletedAt": null,
+    "authors": [
+      "Owal"
+    ]
+  }
 }

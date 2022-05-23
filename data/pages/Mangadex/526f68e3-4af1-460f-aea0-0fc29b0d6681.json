@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Koike Kazuo",
-    "Kojima Goseki"
-  ],
+  "createdAt": "2020-10-12T16:04:47.000Z",
+  "updatedAt": "2021-12-02T23:47:28.000Z",
+  "checkedAt": null,
+  "id": 5039,
   "identifier": "526f68e3-4af1-460f-aea0-0fc29b0d6681",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 904,
   "aniId": 30904,
-  "createdAt": "2020-10-12T16:04:47.000Z",
-  "updatedAt": "2021-12-02T23:47:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koike Kazuo",
+    "Kojima Goseki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-14T23:44:47.000Z",
+    "checkedAt": "2022-05-14T23:44:47.000Z",
+    "id": 904,
+    "type": "manga",
+    "title": "Kozure Ookami",
+    "altTitle": [
+      "Lone Wolf and Cub",
+      "Lone Wolf & Cub",
+      "子連れ狼"
+    ],
+    "url": "https://myanimelist.net/manga/904/Kozure_Ookami",
+    "image": "https://cdn.myanimelist.net/images/manga/1/159264.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Lone Wolf and Cub",
-      "Lone Wolf & Cub",
-      "子連れ狼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koike, Kazuo",
       "Kojima, Goseki"
-    ],
-    "id": 904,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:10.829Z",
+    "updatedAt": "2022-05-15T15:53:59.000Z",
+    "checkedAt": "2022-05-15T15:53:59.000Z",
+    "id": 30904,
     "type": "manga",
     "title": "Kozure Ookami",
-    "url": "https://myanimelist.net/manga/904/Kozure_Ookami",
-    "image": "https://cdn.myanimelist.net/images/manga/1/159264.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2022-04-28T09:01:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Lone Wolf and Cub",
       "子連れ狼",
@@ -54,23 +63,17 @@
       "Lobo solitario y su cachorro",
       "Yalnız Kurt ve Yavrusu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kazuo Koike",
-      "Goseki Kojima",
-      "Drik Sada"
-    ],
-    "id": 30904,
-    "malId": 904,
-    "type": "manga",
-    "title": "Kozure Ookami",
     "url": "https://anilist.co/manga/30904",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30904-KRN1WE3ZU3vl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2022-04-15T00:31:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/904/Kozure_Ookami"
+    "externalLinks": [],
+    "malId": 904,
+    "deletedAt": null,
+    "authors": [
+      "Kazuo Koike",
+      "Goseki Kojima",
+      "Drik Sada"
+    ]
+  }
 }

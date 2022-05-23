@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishinomori Shotaro"
-  ],
+  "createdAt": "2020-10-12T16:05:29.000Z",
+  "updatedAt": "2021-12-03T13:17:48.000Z",
+  "checkedAt": null,
+  "id": 6517,
   "identifier": "951034a6-f967-49d0-bbbe-72e2344214f0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30017,
   "aniId": 60017,
-  "createdAt": "2020-10-12T16:05:29.000Z",
-  "updatedAt": "2021-12-03T13:17:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishinomori Shotaro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:40.000Z",
+    "updatedAt": "2022-05-13T19:31:48.000Z",
+    "checkedAt": "2022-05-13T19:31:48.000Z",
+    "id": 30017,
+    "type": "manga",
+    "title": "Ryuu no Michi",
+    "altTitle": [
+      "The Road of Ryuu",
+      "リュウの道"
+    ],
+    "url": "https://myanimelist.net/manga/30017/Ryuu_no_Michi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/178069.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Road of Ryuu",
-      "リュウの道"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishinomori, Shoutarou"
-    ],
-    "id": 30017,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:45.938Z",
+    "updatedAt": "2022-05-16T17:57:31.000Z",
+    "checkedAt": "2022-05-16T17:57:31.000Z",
+    "id": 60017,
     "type": "manga",
     "title": "Ryuu no Michi",
-    "url": "https://myanimelist.net/manga/30017/Ryuu_no_Michi",
-    "image": "https://cdn.myanimelist.net/images/manga/3/178069.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:40.000Z",
-    "updatedAt": "2022-01-10T11:11:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "リュウの道",
       "The Road of Ryu",
       "Le Voyage de Ryu"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shoutarou Ishinomori"
-    ],
-    "id": 60017,
-    "malId": 30017,
-    "type": "manga",
-    "title": "Ryuu no Michi",
     "url": "https://anilist.co/manga/60017",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b60017-IiKlcYjZwkYf.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:39.000Z",
-    "updatedAt": "2022-03-16T09:13:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/30017/Ryuu_no_Michi"
+    "externalLinks": [],
+    "malId": 30017,
+    "deletedAt": null,
+    "authors": [
+      "Shoutarou Ishinomori"
+    ]
+  }
 }

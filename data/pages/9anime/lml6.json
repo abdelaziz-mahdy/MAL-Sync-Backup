@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:06.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 6085,
   "identifier": "lml6",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4934,
   "aniId": 4934,
-  "createdAt": "2020-10-12T15:53:06.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:45.000Z",
+    "updatedAt": "2022-05-23T00:41:32.000Z",
+    "checkedAt": "2022-05-23T00:41:32.000Z",
+    "id": 4934,
+    "type": "anime",
+    "title": "A.F",
+    "altTitle": [
+      "Archetypes Forces",
+      "Ａ.Ｆ"
+    ],
+    "url": "https://myanimelist.net/anime/4934/AF",
+    "image": "https://cdn.myanimelist.net/images/anime/7/9489.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Archetypes Forces",
-      "Ａ.Ｆ"
-    ],
+    "deletedAt": null,
+    "anidbId": 2010
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:41.000Z",
+    "updatedAt": "2022-05-23T00:41:31.000Z",
+    "checkedAt": "2022-05-23T00:41:31.000Z",
     "id": 4934,
     "type": "anime",
-    "title": "A.F",
-    "url": "https://myanimelist.net/anime/4934/AF",
-    "image": "https://cdn.myanimelist.net/images/anime/7/9489.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 2010,
-    "createdAt": "2020-10-12T15:38:45.000Z",
-    "updatedAt": "2022-03-31T18:06:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Ａ.Ｆ",
     "altTitle": [
       "Ａ.Ｆ",
-      "Ａ.Ｆ"
+      "Archetypes Forces"
     ],
-    "externalLinks": [],
-    "id": 4934,
-    "malId": 4934,
-    "type": "anime",
-    "title": "Archetypes Forces",
     "url": "https://anilist.co/anime/4934",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4934.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:41.000Z",
-    "updatedAt": "2021-12-17T11:28:57.000Z",
+    "externalLinks": [],
+    "malId": 4934,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/4934/AF"
+  }
 }

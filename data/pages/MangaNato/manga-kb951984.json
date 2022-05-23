@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Okayado"
-  ],
+  "createdAt": "2021-05-29T11:42:43.000Z",
+  "updatedAt": "2022-05-14T09:39:52.000Z",
+  "checkedAt": "2022-05-14T09:39:52.000Z",
+  "id": 73746,
   "identifier": "manga-kb951984",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 36213,
   "aniId": 66213,
-  "createdAt": "2021-05-29T11:42:43.000Z",
-  "updatedAt": "2021-12-01T19:16:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okayado"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:00.000Z",
+    "updatedAt": "2022-05-14T09:39:54.000Z",
+    "checkedAt": "2022-05-14T09:39:54.000Z",
+    "id": 36213,
+    "type": "manga",
+    "title": "Monster Musume no Iru Nichijou",
+    "altTitle": [
+      "Everyday That There Is a Monster Girl",
+      "MonMusu",
+      "Monster Musume: Everyday Life With Monster Girls",
+      "モンスター娘のいる日常"
+    ],
+    "url": "https://myanimelist.net/manga/36213/Monster_Musume_no_Iru_Nichijou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/161910.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,27 +47,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Everyday That There Is a Monster Girl",
-      "MonMusu",
-      "Monster Musume: Everyday Life With Monster Girls",
-      "モンスター娘のいる日常"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inui, Takemaru"
-    ],
-    "id": 36213,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:24.833Z",
+    "updatedAt": "2022-05-15T17:02:47.000Z",
+    "checkedAt": "2022-05-15T17:02:47.000Z",
+    "id": 66213,
     "type": "manga",
     "title": "Monster Musume no Iru Nichijou",
-    "url": "https://myanimelist.net/manga/36213/Monster_Musume_no_Iru_Nichijou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/161910.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:00.000Z",
-    "updatedAt": "2022-04-22T18:02:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Monster Musume",
       "モンスター娘のいる日常",
@@ -57,21 +66,15 @@
       "몬스터 아가씨가 있는 일상",
       "บันทึกอุ่นรักสาวมอนสเตอร์"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takemaru Inui"
-    ],
-    "id": 66213,
-    "malId": 36213,
-    "type": "manga",
-    "title": "Monster Musume no Iru Nichijou",
     "url": "https://anilist.co/manga/66213",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66213-OK32r4Vhi2jx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:27.000Z",
-    "updatedAt": "2022-01-18T19:04:04.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/36213/Monster_Musume_no_Iru_Nichijou"
+    "externalLinks": [],
+    "malId": 36213,
+    "deletedAt": null,
+    "authors": [
+      "Takemaru Inui"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matsumoto Naoya"
-  ],
+  "createdAt": "2021-05-29T13:13:24.000Z",
+  "updatedAt": "2022-05-16T15:28:55.000Z",
+  "checkedAt": "2022-05-16T15:28:53.000Z",
+  "id": 73812,
   "identifier": "manga-in985922",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 127907,
   "aniId": 120760,
-  "createdAt": "2021-05-29T13:13:24.000Z",
-  "updatedAt": "2022-05-04T20:02:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matsumoto Naoya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:23.000Z",
+    "updatedAt": "2022-05-14T16:50:26.000Z",
+    "checkedAt": "2022-05-14T16:50:26.000Z",
+    "id": 127907,
+    "type": "manga",
+    "title": "Kaijuu 8-gou",
+    "altTitle": [
+      "8Kaijuu",
+      "Monster #8",
+      "Kaiju No. 8",
+      "怪獣8号"
+    ],
+    "url": "https://myanimelist.net/manga/127907/Kaijuu_8-gou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252929.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,33 +43,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "8Kaijuu",
-      "Monster #8",
-      "Kaiju No. 8",
-      "怪獣8号"
-    ],
+    "deletedAt": null,
     "authors": [
       "Matsumoto, Naoya"
-    ],
-    "id": 127907,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:39.683Z",
+    "updatedAt": "2022-05-15T15:16:11.000Z",
+    "checkedAt": "2022-05-15T15:16:11.000Z",
+    "id": 120760,
     "type": "manga",
     "title": "Kaijuu 8-gou",
-    "url": "https://myanimelist.net/manga/127907/Kaijuu_8-gou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/252929.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:23.000Z",
-    "updatedAt": "2022-04-24T05:01:27.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kaiju No.8",
       "怪獣８号",
       "Monster #8",
       "8Kaijuu"
     ],
+    "url": "https://anilist.co/manga/120760",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120760-Cvs9WFqtvVFE.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
@@ -70,6 +83,8 @@
         "url": "https://mangaplus.shueisha.co.jp/titles/200053"
       }
     ],
+    "malId": 127907,
+    "deletedAt": null,
     "authors": [
       "Naoya Matsumoto",
       "David Evelyn",
@@ -81,18 +96,6 @@
       "Ariell Sirmans",
       "Isara Udomphanit",
       "Andrea Maniscalco"
-    ],
-    "id": 120760,
-    "malId": 127907,
-    "type": "manga",
-    "title": "Kaijuu 8-gou",
-    "url": "https://anilist.co/manga/120760",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120760-Cvs9WFqtvVFE.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:59:20.000Z",
-    "updatedAt": "2022-05-11T07:00:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/127907/Kaijuu_8-gou"
+    ]
+  }
 }

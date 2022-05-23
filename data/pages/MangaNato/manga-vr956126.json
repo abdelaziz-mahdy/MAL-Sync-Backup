@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yatate Hajime"
-  ],
+  "createdAt": "2021-06-07T07:20:35.000Z",
+  "updatedAt": "2021-12-07T08:19:04.000Z",
+  "checkedAt": null,
+  "id": 77016,
   "identifier": "manga-vr956126",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 173,
   "aniId": 30173,
-  "createdAt": "2021-06-07T07:20:35.000Z",
-  "updatedAt": "2021-12-07T08:19:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yatate Hajime"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:19.000Z",
+    "updatedAt": "2022-05-16T16:23:50.000Z",
+    "checkedAt": "2022-05-16T16:23:50.000Z",
+    "id": 173,
+    "type": "manga",
+    "title": "Cowboy Bebop",
+    "altTitle": [
+      "Cowboy Bebop",
+      "カウボーイビバップ"
+    ],
+    "url": "https://myanimelist.net/manga/173/Cowboy_Bebop",
+    "image": "https://cdn.myanimelist.net/images/manga/5/166652.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cowboy Bebop",
-      "カウボーイビバップ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Shinichiro",
       "Nanten, Yutaka",
       "Yatate, Hajime"
-    ],
-    "id": 173,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:33.453Z",
+    "updatedAt": "2022-05-16T16:23:49.000Z",
+    "checkedAt": "2022-05-16T16:23:49.000Z",
+    "id": 30173,
     "type": "manga",
     "title": "Cowboy Bebop",
-    "url": "https://myanimelist.net/manga/173/Cowboy_Bebop",
-    "image": "https://cdn.myanimelist.net/images/manga/5/166652.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:19.000Z",
-    "updatedAt": "2022-04-29T23:02:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cowboy Bebop",
       "カウボーイビバップ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shinichirou Watanabe",
-      "Yutaka Nanten",
-      "Hajime Yatate"
-    ],
-    "id": 30173,
-    "malId": 173,
-    "type": "manga",
-    "title": "Cowboy Bebop",
     "url": "https://anilist.co/manga/30173",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30173-SU7cu3H9jLXT.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:26.000Z",
-    "updatedAt": "2021-12-17T09:04:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/173/Cowboy_Bebop"
+    "externalLinks": [],
+    "malId": 173,
+    "deletedAt": null,
+    "authors": [
+      "Shinichirou Watanabe",
+      "Yutaka Nanten",
+      "Hajime Yatate"
+    ]
+  }
 }

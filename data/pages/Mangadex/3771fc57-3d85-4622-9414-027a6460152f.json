@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Willow"
-  ],
+  "createdAt": "2020-10-12T16:08:24.000Z",
+  "updatedAt": "2021-12-04T13:19:58.000Z",
+  "checkedAt": null,
+  "id": 12724,
   "identifier": "3771fc57-3d85-4622-9414-027a6460152f",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103117,
   "aniId": 85983,
-  "createdAt": "2020-10-12T16:08:24.000Z",
-  "updatedAt": "2021-12-04T13:19:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Willow"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:47.000Z",
+    "updatedAt": "2022-05-20T15:18:42.000Z",
+    "checkedAt": "2022-05-20T15:18:42.000Z",
+    "id": 103117,
+    "type": "manga",
+    "title": "My Secret Brother",
+    "altTitle": [
+      "Unstoppable Siblings",
+      "My Secret Brother",
+      "말할 수 없는 남매"
+    ],
+    "url": "https://myanimelist.net/manga/103117/My_Secret_Brother",
+    "image": "https://cdn.myanimelist.net/images/manga/1/198421.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +42,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Unstoppable Siblings",
-      "My Secret Brother",
-      "말할 수 없는 남매"
-    ],
+    "deletedAt": null,
     "authors": [
       "Willow"
-    ],
-    "id": 103117,
-    "type": "manga",
-    "title": "My Secret Brother",
-    "url": "https://myanimelist.net/manga/103117/My_Secret_Brother",
-    "image": "https://cdn.myanimelist.net/images/manga/1/198421.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:47.000Z",
-    "updatedAt": "2022-04-29T10:01:43.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:43.916Z",
+    "updatedAt": "2022-05-20T15:18:41.000Z",
+    "checkedAt": "2022-05-20T15:18:41.000Z",
+    "id": 85983,
+    "type": "manga",
+    "title": "Malhal su Eopneun Nammae",
     "altTitle": [
       "My Secret Brother",
       "말할 수 없는 남매",
       "Unstoppable Siblings"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Willow"
-    ],
-    "id": 85983,
-    "malId": 103117,
-    "type": "manga",
-    "title": "Malhal su Eopneun Nammae",
     "url": "https://anilist.co/manga/85983",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85983-ZKJuS0O65fN9.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:02.000Z",
-    "updatedAt": "2022-03-30T02:00:20.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103117/My_Secret_Brother"
+    "externalLinks": [],
+    "malId": 103117,
+    "deletedAt": null,
+    "authors": [
+      "Willow"
+    ]
+  }
 }

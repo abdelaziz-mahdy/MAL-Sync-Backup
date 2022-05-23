@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Iwatobi Neko"
-  ],
+  "createdAt": "2020-10-12T16:13:27.000Z",
+  "updatedAt": "2021-12-05T21:49:19.000Z",
+  "checkedAt": null,
+  "id": 22915,
   "identifier": "15f51bb6-d2e1-44b1-9ea8-b24f5f50a3c9",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 113657,
   "aniId": 103058,
-  "createdAt": "2020-10-12T16:13:27.000Z",
-  "updatedAt": "2021-12-05T21:49:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Iwatobi Neko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:33.000Z",
+    "updatedAt": "2022-05-15T21:44:08.000Z",
+    "checkedAt": "2022-05-15T21:44:08.000Z",
+    "id": 113657,
+    "type": "manga",
+    "title": "Itou-kun wa Koi wo Shiranai.",
+    "altTitle": [
+      "Itou-kun doesn't understand love.",
+      "伊藤くんは恋を知らない。"
+    ],
+    "url": "https://myanimelist.net/manga/113657/Itou-kun_wa_Koi_wo_Shiranai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/211641.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Itou-kun doesn't understand love.",
-      "伊藤くんは恋を知らない。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Iwatobineko"
-    ],
-    "id": 113657,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:45.694Z",
+    "updatedAt": "2022-05-15T22:21:23.000Z",
+    "checkedAt": "2022-05-15T22:21:23.000Z",
+    "id": 103058,
     "type": "manga",
     "title": "Itou-kun wa Koi wo Shiranai.",
-    "url": "https://myanimelist.net/manga/113657/Itou-kun_wa_Koi_wo_Shiranai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/211641.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:33.000Z",
-    "updatedAt": "2022-01-18T18:04:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "伊藤くんは恋を知らない。",
       "Itou-kun doesn't understand love."
     ],
-    "externalLinks": [],
-    "authors": [
-      "Neko Iwatobi"
-    ],
-    "id": 103058,
-    "malId": 113657,
-    "type": "manga",
-    "title": "Itou-kun wa Koi wo Shiranai.",
     "url": "https://anilist.co/manga/103058",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103058-9NcWJd0yx4ak.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:03.000Z",
-    "updatedAt": "2021-12-18T04:25:36.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/113657/Itou-kun_wa_Koi_wo_Shiranai"
+    "externalLinks": [],
+    "malId": 113657,
+    "deletedAt": null,
+    "authors": [
+      "Neko Iwatobi"
+    ]
+  }
 }

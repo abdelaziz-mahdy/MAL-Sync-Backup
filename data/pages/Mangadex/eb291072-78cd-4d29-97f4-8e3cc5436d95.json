@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukushima Teppei"
-  ],
+  "createdAt": "2020-10-12T16:12:06.000Z",
+  "updatedAt": "2021-12-05T13:48:40.000Z",
+  "checkedAt": null,
+  "id": 20694,
   "identifier": "eb291072-78cd-4d29-97f4-8e3cc5436d95",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 115631,
   "aniId": 104224,
-  "createdAt": "2020-10-12T16:12:06.000Z",
-  "updatedAt": "2021-12-05T13:48:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukushima Teppei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-04-14T16:31:35.000Z",
+    "checkedAt": null,
+    "id": 115631,
+    "type": "manga",
+    "title": "Bokura wa Mahou Shounen",
+    "altTitle": [
+      "ボクらは魔法少年"
+    ],
+    "url": "https://myanimelist.net/manga/115631/Bokura_wa_Mahou_Shounen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220834.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,43 +44,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ボクらは魔法少年"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukushima, Teppei"
-    ],
-    "id": 115631,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:57.083Z",
+    "updatedAt": "2022-05-13T12:43:57.083Z",
+    "checkedAt": null,
+    "id": 104224,
     "type": "manga",
     "title": "Bokura wa Mahou Shounen",
-    "url": "https://myanimelist.net/manga/115631/Bokura_wa_Mahou_Shounen",
-    "image": "https://cdn.myanimelist.net/images/manga/1/220834.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:38.000Z",
-    "updatedAt": "2022-04-14T16:31:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ボクラは魔法少年",
       "We Are Magical Boys"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Teppei Fukushima"
-    ],
-    "id": 104224,
-    "malId": 115631,
-    "type": "manga",
-    "title": "Bokura wa Mahou Shounen",
     "url": "https://anilist.co/manga/104224",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104224-91QZQz1TX7rp.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:18.000Z",
-    "updatedAt": "2021-12-17T15:17:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/115631/Bokura_wa_Mahou_Shounen"
+    "externalLinks": [],
+    "malId": 115631,
+    "deletedAt": null,
+    "authors": [
+      "Teppei Fukushima"
+    ]
+  }
 }

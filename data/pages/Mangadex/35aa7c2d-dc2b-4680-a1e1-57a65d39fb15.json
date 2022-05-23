@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "GONG I",
-    "Kim Mungyeong"
-  ],
+  "createdAt": "2020-10-12T16:18:14.000Z",
+  "updatedAt": "2021-11-25T15:33:12.000Z",
+  "checkedAt": null,
+  "id": 32742,
   "identifier": "35aa7c2d-dc2b-4680-a1e1-57a65d39fb15",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 114666,
-  "createdAt": "2020-10-12T16:18:14.000Z",
-  "updatedAt": "2021-11-25T15:33:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "GONG I",
+    "Kim Mungyeong"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:44.060Z",
+    "updatedAt": "2022-05-13T13:04:44.060Z",
+    "checkedAt": null,
+    "id": 114666,
+    "type": "manga",
+    "title": "Naui Uju",
     "altTitle": [
       "My Universe",
       "나의 우주",
       "My universe"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Mun Gyeong Kim",
-      "Yi Gong"
-    ],
-    "id": 114666,
-    "malId": null,
-    "type": "manga",
-    "title": "Naui Uju",
     "url": "https://anilist.co/manga/114666",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114666-2ViikZFqxUDf.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-07T15:05:50.000Z",
-    "updatedAt": "2022-02-05T19:06:14.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Mun Gyeong Kim",
+      "Yi Gong"
+    ]
+  }
 }

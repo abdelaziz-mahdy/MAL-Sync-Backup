@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Urushibara Michi"
-  ],
+  "createdAt": "2022-04-23T13:33:49.000Z",
+  "updatedAt": "2022-04-23T14:00:25.000Z",
+  "checkedAt": null,
+  "id": 102023,
   "identifier": "manga-bk954093",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40097,
   "aniId": 70097,
-  "createdAt": "2022-04-23T13:33:49.000Z",
-  "updatedAt": "2022-04-23T14:00:25.000Z",
   "deletedAt": null,
+  "authors": [
+    "Urushibara Michi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:06.000Z",
+    "updatedAt": "2022-04-23T13:33:51.000Z",
+    "checkedAt": null,
+    "id": 40097,
+    "type": "manga",
+    "title": "Yorukumo",
+    "altTitle": [
+      "Yuru Kumo",
+      "よるくも"
+    ],
+    "url": "https://myanimelist.net/manga/40097/Yorukumo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/134739.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yuru Kumo",
-      "よるくも"
-    ],
+    "deletedAt": null,
     "authors": [
       "Urushibara, Michi"
-    ],
-    "id": 40097,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:25.139Z",
+    "updatedAt": "2022-05-13T13:02:25.139Z",
+    "checkedAt": null,
+    "id": 70097,
     "type": "manga",
     "title": "Yorukumo",
-    "url": "https://myanimelist.net/manga/40097/Yorukumo",
-    "image": "https://cdn.myanimelist.net/images/manga/1/134739.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:06.000Z",
-    "updatedAt": "2022-04-23T13:33:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "よるくも",
       "Yuru Kumo",
@@ -51,21 +60,15 @@
       "โยรุคุโมะ นักฆ่าในโลกสีเทา",
       "夜蜘蛛"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Michi Urushibara"
-    ],
-    "id": 70097,
-    "malId": 40097,
-    "type": "manga",
-    "title": "Yorukumo",
     "url": "https://anilist.co/manga/70097",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70097-cIw4hc80ngir.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:41.000Z",
-    "updatedAt": "2021-12-17T20:20:26.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/40097/Yorukumo"
+    "externalLinks": [],
+    "malId": 40097,
+    "deletedAt": null,
+    "authors": [
+      "Michi Urushibara"
+    ]
+  }
 }

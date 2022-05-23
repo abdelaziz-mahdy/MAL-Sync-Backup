@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yazu Michio",
-    "Aida Keito"
-  ],
+  "createdAt": "2020-10-12T16:13:22.000Z",
+  "updatedAt": "2022-04-04T20:01:12.000Z",
+  "checkedAt": null,
+  "id": 22758,
   "identifier": "83ca3774-658c-494d-8e88-7b20e93d6e8f",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93444,
   "aniId": 96131,
-  "createdAt": "2020-10-12T16:13:22.000Z",
-  "updatedAt": "2022-04-04T20:01:12.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yazu Michio",
+    "Aida Keito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:13.000Z",
+    "updatedAt": "2022-05-15T14:58:12.000Z",
+    "checkedAt": "2022-05-15T14:58:12.000Z",
+    "id": 93444,
+    "type": "manga",
+    "title": "Dokumushi",
+    "altTitle": [
+      "Doku-mushi",
+      "Killer District",
+      "ドクムシ"
+    ],
+    "url": "https://myanimelist.net/manga/93444/Dokumushi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/165110.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,48 +43,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Doku-mushi",
-      "Killer District",
-      "ドクムシ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yazu, Michio",
       "Aida, Keito"
-    ],
-    "id": 93444,
-    "type": "manga",
-    "title": "Dokumushi",
-    "url": "https://myanimelist.net/manga/93444/Dokumushi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/165110.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:13.000Z",
-    "updatedAt": "2022-05-01T01:34:14.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:21.218Z",
+    "updatedAt": "2022-05-15T18:34:35.000Z",
+    "checkedAt": "2022-05-15T18:34:35.000Z",
+    "id": 96131,
+    "type": "manga",
+    "title": "Doku Mushi",
     "altTitle": [
       "ドクムシ",
       "Dokumushi",
       "Killer District"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Keito Aida",
-      "Miscio Yazu"
-    ],
-    "id": 96131,
-    "malId": 93444,
-    "type": "manga",
-    "title": "Doku Mushi",
     "url": "https://anilist.co/manga/96131",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96131-KTqtHBO3srhp.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:47.000Z",
-    "updatedAt": "2021-12-18T01:31:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93444/Dokumushi"
+    "externalLinks": [],
+    "malId": 93444,
+    "deletedAt": null,
+    "authors": [
+      "Keito Aida",
+      "Miscio Yazu"
+    ]
+  }
 }

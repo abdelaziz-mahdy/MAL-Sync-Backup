@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:38.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 6818,
   "identifier": "mylz",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 34240,
   "aniId": 97731,
-  "createdAt": "2020-10-12T15:53:38.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T19:41:30.000Z",
+    "checkedAt": "2022-05-14T19:41:30.000Z",
+    "id": 34240,
+    "type": "anime",
+    "title": "Shelter (Music)",
+    "altTitle": [
+      "Shelter",
+      "シェルター"
+    ],
+    "url": "https://myanimelist.net/anime/34240/Shelter_Music",
+    "image": "https://cdn.myanimelist.net/images/anime/5/82388.jpg",
+    "category": "Music",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -35,28 +51,25 @@
         "url": "http://www.crunchyroll.com/series-271679"
       }
     ],
-    "altTitle": [
-      "Shelter",
-      "シェルター"
-    ],
-    "id": 34240,
-    "type": "anime",
-    "title": "Shelter (Music)",
-    "url": "https://myanimelist.net/anime/34240/Shelter_Music",
-    "image": "https://cdn.myanimelist.net/images/anime/5/82388.jpg",
-    "category": "Music",
-    "hentai": false,
-    "anidbId": 12482,
-    "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2022-03-31T09:37:15.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 12482
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:15.000Z",
+    "updatedAt": "2022-05-15T11:40:23.000Z",
+    "checkedAt": "2022-05-15T11:40:23.000Z",
+    "id": 97731,
+    "type": "anime",
+    "title": "Shelter",
     "altTitle": [
       "Shelter",
       "シェルター",
       "Shelter The Animation"
     ],
+    "url": "https://anilist.co/anime/97731",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97731-gYxm0WorfNPM.png",
+    "category": "music",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -67,17 +80,7 @@
         "url": "https://vrv.co/series/GYGG09WWY/SHELTER"
       }
     ],
-    "id": 97731,
     "malId": 34240,
-    "type": "anime",
-    "title": "Shelter",
-    "url": "https://anilist.co/anime/97731",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97731-gYxm0WorfNPM.png",
-    "category": "music",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:43:15.000Z",
-    "updatedAt": "2021-12-17T15:28:14.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/34240/Shelter_Music"
+  }
 }

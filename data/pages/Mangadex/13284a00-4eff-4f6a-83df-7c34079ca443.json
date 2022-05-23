@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hazuki Matcha"
-  ],
+  "createdAt": "2020-10-12T16:06:00.000Z",
+  "updatedAt": "2021-12-03T16:50:28.000Z",
+  "checkedAt": null,
+  "id": 7528,
   "identifier": "13284a00-4eff-4f6a-83df-7c34079ca443",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43967,
   "aniId": 73967,
-  "createdAt": "2020-10-12T16:06:00.000Z",
-  "updatedAt": "2021-12-03T16:50:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hazuki Matcha"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:18.000Z",
+    "updatedAt": "2022-05-15T09:38:48.000Z",
+    "checkedAt": "2022-05-15T09:38:48.000Z",
+    "id": 43967,
+    "type": "manga",
+    "title": "Isshuukan Friends.",
+    "altTitle": [
+      "One Week Friends",
+      "一週間フレンズ。"
+    ],
+    "url": "https://myanimelist.net/manga/43967/Isshuukan_Friends",
+    "image": "https://cdn.myanimelist.net/images/manga/3/106681.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,44 +45,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "One Week Friends",
-      "一週間フレンズ。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Hazuki, Matcha"
-    ],
-    "id": 43967,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:06.929Z",
+    "updatedAt": "2022-05-15T11:58:35.000Z",
+    "checkedAt": "2022-05-15T11:58:35.000Z",
+    "id": 73967,
     "type": "manga",
     "title": "Isshuukan Friends.",
-    "url": "https://myanimelist.net/manga/43967/Isshuukan_Friends",
-    "image": "https://cdn.myanimelist.net/images/manga/3/106681.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:18.000Z",
-    "updatedAt": "2021-11-27T10:35:57.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "One Week Friends",
       "一週間フレンズ。"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Maccha Hazuki"
-    ],
-    "id": 73967,
-    "malId": 43967,
-    "type": "manga",
-    "title": "Isshuukan Friends.",
     "url": "https://anilist.co/manga/73967",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx73967-5YNYySbjWx5v.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:00.000Z",
-    "updatedAt": "2021-12-17T20:35:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/43967/Isshuukan_Friends"
+    "externalLinks": [],
+    "malId": 43967,
+    "deletedAt": null,
+    "authors": [
+      "Maccha Hazuki"
+    ]
+  }
 }

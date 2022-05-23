@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Lee Joo-woon",
-    "Taeseong"
-  ],
+  "createdAt": "2022-01-29T11:50:40.000Z",
+  "updatedAt": "2022-01-29T11:50:40.000Z",
+  "checkedAt": null,
+  "id": 95502,
   "identifier": "d3de0128-f60b-4fd2-acc6-fa4735659a34",
   "type": "manga",
   "page": "Mangadex",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 141705,
-  "createdAt": "2022-01-29T11:50:40.000Z",
-  "updatedAt": "2022-01-29T11:50:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Lee Joo-woon",
+    "Taeseong"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:53.775Z",
+    "updatedAt": "2022-05-17T02:45:06.000Z",
+    "checkedAt": "2022-05-17T02:45:06.000Z",
+    "id": 141705,
+    "type": "manga",
+    "title": "Hyeonsil Quest",
     "altTitle": [
       "현실퀘스트",
       "Reality Quest",
       "IRL Quest"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tae-Seong",
-      "Ju-Un Lee"
-    ],
-    "id": 141705,
-    "malId": null,
-    "type": "manga",
-    "title": "Hyeonsil Quest",
     "url": "https://anilist.co/manga/141705",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141705-2OMBDYY5Tguc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-11-15T11:13:47.000Z",
-    "updatedAt": "2022-04-26T02:31:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Tae-Seong",
+      "Ju-Un Lee"
+    ]
+  }
 }

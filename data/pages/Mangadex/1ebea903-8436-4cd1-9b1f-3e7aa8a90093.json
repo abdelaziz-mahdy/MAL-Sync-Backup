@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Watanabe Kana"
-  ],
+  "createdAt": "2020-10-12T16:09:33.000Z",
+  "updatedAt": "2021-12-04T18:52:58.000Z",
+  "checkedAt": null,
+  "id": 15226,
   "identifier": "1ebea903-8436-4cd1-9b1f-3e7aa8a90093",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94088,
   "aniId": 96310,
-  "createdAt": "2020-10-12T16:09:33.000Z",
-  "updatedAt": "2021-12-04T18:52:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Watanabe Kana"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2021-11-15T02:16:07.000Z",
+    "checkedAt": null,
+    "id": 94088,
+    "type": "manga",
+    "title": "Hunky Dory",
+    "altTitle": [
+      "Chikyuu no Onnanoko",
+      "ハンキー・ドリー"
+    ],
+    "url": "https://myanimelist.net/manga/94088/Hunky_Dory",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178500.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +41,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Chikyuu no Onnanoko",
-      "ハンキー・ドリー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Watanabe, Kana"
-    ],
-    "id": 94088,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:01.484Z",
+    "updatedAt": "2022-05-13T12:46:01.484Z",
+    "checkedAt": null,
+    "id": 96310,
     "type": "manga",
     "title": "Hunky Dory",
-    "url": "https://myanimelist.net/manga/94088/Hunky_Dory",
-    "image": "https://cdn.myanimelist.net/images/manga/2/178500.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-11-15T02:16:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ハンキー・ドリー"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kana Watanabe"
-    ],
-    "id": 96310,
-    "malId": 94088,
-    "type": "manga",
-    "title": "Hunky Dory",
     "url": "https://anilist.co/manga/96310",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96310-4PoRopXuvAk7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2021-12-18T01:33:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94088/Hunky_Dory"
+    "externalLinks": [],
+    "malId": 94088,
+    "deletedAt": null,
+    "authors": [
+      "Kana Watanabe"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oniyazu Kakashi"
-  ],
+  "createdAt": "2020-10-12T16:04:00.000Z",
+  "updatedAt": "2021-12-02T18:17:36.000Z",
+  "checkedAt": null,
+  "id": 3395,
   "identifier": "ee0a36a0-9b1a-4d94-90d8-ca9b3cc6bae6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20281,
   "aniId": 50281,
-  "createdAt": "2020-10-12T16:04:00.000Z",
-  "updatedAt": "2021-12-02T18:17:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oniyazu Kakashi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:49.000Z",
+    "updatedAt": "2022-04-05T21:00:33.000Z",
+    "checkedAt": null,
+    "id": 20281,
+    "type": "manga",
+    "title": "Banana no Nana",
+    "altTitle": [
+      "Nana of Banana",
+      "バナナのナナ"
+    ],
+    "url": "https://myanimelist.net/manga/20281/Banana_no_Nana",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188913.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nana of Banana",
-      "バナナのナナ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oniyazu, Kakashi"
-    ],
-    "id": 20281,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:03.032Z",
+    "updatedAt": "2022-05-13T12:53:03.032Z",
+    "checkedAt": null,
+    "id": 50281,
     "type": "manga",
     "title": "Banana no Nana",
-    "url": "https://myanimelist.net/manga/20281/Banana_no_Nana",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188913.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:49.000Z",
-    "updatedAt": "2022-04-05T21:00:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Nana of Banana",
       "バナナのナナ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kakashi Oniyazu"
-    ],
-    "id": 50281,
-    "malId": 20281,
-    "type": "manga",
-    "title": "Banana no Nana",
     "url": "https://anilist.co/manga/50281",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50281-IERa3MACoU9y.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:28.000Z",
-    "updatedAt": "2021-12-17T17:14:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/20281/Banana_no_Nana"
+    "externalLinks": [],
+    "malId": 20281,
+    "deletedAt": null,
+    "authors": [
+      "Kakashi Oniyazu"
+    ]
+  }
 }

@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Himekawa Akira",
-    "Tezuka Osamu",
-    "Tezuka Productions"
-  ],
+  "createdAt": "2020-10-12T16:21:55.000Z",
+  "updatedAt": "2021-12-08T03:37:51.000Z",
+  "checkedAt": null,
+  "id": 40328,
   "identifier": "7e309100-0029-4c3a-b307-4a7798e1d0aa",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3010,
   "aniId": 33010,
-  "createdAt": "2020-10-12T16:21:55.000Z",
-  "updatedAt": "2021-12-08T03:37:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Himekawa Akira",
+    "Tezuka Osamu",
+    "Tezuka Productions"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:47.000Z",
+    "updatedAt": "2022-05-19T12:23:00.000Z",
+    "checkedAt": "2022-05-19T12:23:00.000Z",
+    "id": 3010,
+    "type": "manga",
+    "title": "Astro Boy: Tetsuwan Atom",
+    "altTitle": [
+      "ASTRO BOY 鉄腕アトム"
+    ],
+    "url": "https://myanimelist.net/manga/3010/Astro_Boy__Tetsuwan_Atom",
+    "image": "https://cdn.myanimelist.net/images/manga/3/132309.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,46 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ASTRO BOY 鉄腕アトム"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tezuka, Osamu",
       "Himekawa, Akira"
-    ],
-    "id": 3010,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:24.878Z",
+    "updatedAt": "2022-05-19T12:22:59.000Z",
+    "checkedAt": "2022-05-19T12:22:59.000Z",
+    "id": 33010,
     "type": "manga",
     "title": "Astro Boy: Tetsuwan Atom",
-    "url": "https://myanimelist.net/manga/3010/Astro_Boy__Tetsuwan_Atom",
-    "image": "https://cdn.myanimelist.net/images/manga/3/132309.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2022-01-19T12:34:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ASTRO BOY 鉄腕アトム",
       "ＡＳＴＲＯＢＯＹ 鉄腕アトム"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Osamu Tezuka",
-      "Akira Himekawa",
-      "Ricardo Cruz"
-    ],
-    "id": 33010,
-    "malId": 3010,
-    "type": "manga",
-    "title": "Astro Boy: Tetsuwan Atom",
     "url": "https://anilist.co/manga/33010",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33010-JskmajOCEyaO.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:17.000Z",
-    "updatedAt": "2021-12-17T11:06:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/3010/Astro_Boy__Tetsuwan_Atom"
+    "externalLinks": [],
+    "malId": 3010,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka",
+      "Akira Himekawa",
+      "Ricardo Cruz"
+    ]
+  }
 }

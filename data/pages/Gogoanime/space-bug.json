@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-11-04T21:58:55.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 28883,
   "identifier": "space-bug",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 37787,
   "aniId": 102925,
-  "createdAt": "2020-11-04T21:58:55.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:02.000Z",
+    "updatedAt": "2022-05-15T04:17:16.000Z",
+    "checkedAt": "2022-05-15T04:17:16.000Z",
+    "id": 37787,
+    "type": "anime",
+    "title": "Space Bug",
+    "altTitle": [
+      "The Journey Home",
+      "スペースバグ"
+    ],
+    "url": "https://myanimelist.net/anime/37787/Space_Bug",
+    "image": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -23,6 +39,10 @@
       {
         "site": "animedb",
         "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14054"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22177"
       }
     ],
     "legalLinks": [
@@ -31,44 +51,31 @@
         "url": "http://www.crunchyroll.com/series-276755"
       }
     ],
-    "altTitle": [
-      "The Journey Home",
-      "スペースバグ"
-    ],
-    "id": 37787,
+    "deletedAt": null,
+    "anidbId": 14054
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:42.000Z",
+    "updatedAt": "2022-05-16T03:52:05.000Z",
+    "checkedAt": "2022-05-16T03:52:05.000Z",
+    "id": 102925,
     "type": "anime",
     "title": "Space Bug",
-    "url": "https://myanimelist.net/anime/37787/Space_Bug",
-    "image": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14054,
-    "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2022-03-15T17:30:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Journey Home",
       "スペースバグ"
     ],
+    "url": "https://anilist.co/anime/102925",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102925-VxdddCNVPvac.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/the-journey-home"
       }
     ],
-    "id": 102925,
     "malId": 37787,
-    "type": "anime",
-    "title": "Space Bug",
-    "url": "https://anilist.co/anime/102925",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102925-VxdddCNVPvac.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:42.000Z",
-    "updatedAt": "2021-12-17T16:31:46.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/37787/Space_Bug"
+  }
 }

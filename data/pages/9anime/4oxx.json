@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:11.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2329,
   "identifier": "4oxx",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 33545,
   "aniId": 97961,
-  "createdAt": "2020-10-12T15:50:11.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:47.000Z",
+    "updatedAt": "2022-04-03T12:33:45.000Z",
+    "checkedAt": null,
+    "id": 33545,
+    "type": "anime",
+    "title": "Henna Omamesan",
+    "altTitle": [
+      "Mameshiba",
+      "変なお豆さん"
+    ],
+    "url": "https://myanimelist.net/anime/33545/Henna_Omamesan",
+    "image": "https://cdn.myanimelist.net/images/anime/7/80677.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,39 +42,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mameshiba",
-      "変なお豆さん"
-    ],
-    "id": 33545,
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2021-12-17T15:30:05.000Z",
+    "checkedAt": null,
+    "id": 97961,
     "type": "anime",
     "title": "Henna Omamesan",
-    "url": "https://myanimelist.net/anime/33545/Henna_Omamesan",
-    "image": "https://cdn.myanimelist.net/images/anime/7/80677.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": null,
-    "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2022-04-03T12:33:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "変なお豆さん",
       "Mameshiba"
     ],
-    "externalLinks": [],
-    "id": 97961,
-    "malId": 33545,
-    "type": "anime",
-    "title": "Henna Omamesan",
     "url": "https://anilist.co/anime/97961",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97961-YdzCwH39rr08.png",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:09.000Z",
-    "updatedAt": "2021-12-17T15:30:05.000Z",
+    "externalLinks": [],
+    "malId": 33545,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/33545/Henna_Omamesan"
+  }
 }

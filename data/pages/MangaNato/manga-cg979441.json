@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Nomura Tetsuya",
-    "Shiozawa Takatoshi",
-    "Hiroki Chiba"
-  ],
+  "createdAt": "2021-07-05T07:31:34.000Z",
+  "updatedAt": "2022-01-05T08:18:02.000Z",
+  "checkedAt": null,
+  "id": 80948,
   "identifier": "manga-cg979441",
   "type": "manga",
   "page": "MangaNato",
@@ -13,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32955,
   "aniId": 62955,
-  "createdAt": "2021-07-05T07:31:34.000Z",
-  "updatedAt": "2022-01-05T08:18:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nomura Tetsuya",
+    "Shiozawa Takatoshi",
+    "Hiroki Chiba"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:46.000Z",
+    "updatedAt": "2022-02-16T17:47:41.000Z",
+    "checkedAt": null,
+    "id": 32955,
+    "type": "manga",
+    "title": "Final Fantasy Reishiki",
+    "altTitle": [
+      "Final Fantasy",
+      "FF Type-0",
+      "FF Reishiki",
+      "Final Fantasy Type-0",
+      "FINAL FANTASY 零式"
+    ],
+    "url": "https://myanimelist.net/manga/32955/Final_Fantasy_Reishiki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/120183.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -31,51 +50,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Final Fantasy",
-      "FF Type-0",
-      "FF Reishiki",
-      "Final Fantasy Type-0",
-      "FINAL FANTASY 零式"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shiozawa, Takatoshi",
       "Chiba, Hiroki"
-    ],
-    "id": 32955,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:50.758Z",
+    "updatedAt": "2022-05-13T13:04:50.758Z",
+    "checkedAt": null,
+    "id": 62955,
     "type": "manga",
     "title": "Final Fantasy Reishiki",
-    "url": "https://myanimelist.net/manga/32955/Final_Fantasy_Reishiki",
-    "image": "https://cdn.myanimelist.net/images/manga/2/120183.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:46.000Z",
-    "updatedAt": "2022-02-16T17:47:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ファイナルファンタジー 零式",
       "Final Fantasy Type-0",
       "FF Type-0",
       "FF Reishiki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takatoshi Shiozawa",
-      "Elina Ishikawa"
-    ],
-    "id": 62955,
-    "malId": 32955,
-    "type": "manga",
-    "title": "Final Fantasy Reishiki",
     "url": "https://anilist.co/manga/62955",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62955-lwWxVKeLp1cW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:54.000Z",
-    "updatedAt": "2022-04-11T17:38:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/32955/Final_Fantasy_Reishiki"
+    "externalLinks": [],
+    "malId": 32955,
+    "deletedAt": null,
+    "authors": [
+      "Takatoshi Shiozawa",
+      "Elina Ishikawa"
+    ]
+  }
 }

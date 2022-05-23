@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Morimoriyama"
-  ],
+  "createdAt": "2020-10-12T16:20:14.000Z",
+  "updatedAt": "2022-02-19T10:59:17.000Z",
+  "checkedAt": null,
+  "id": 36770,
   "identifier": "2846b23e-0820-4563-b7a3-53bb8213d3bb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,14 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 82435,
-  "createdAt": "2020-10-12T16:20:14.000Z",
-  "updatedAt": "2022-02-19T10:59:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Morimoriyama"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:38.653Z",
+    "updatedAt": "2022-05-16T17:25:25.000Z",
+    "checkedAt": "2022-05-16T17:25:25.000Z",
+    "id": 82435,
+    "type": "manga",
+    "title": "Ma no Kakera",
     "altTitle": [
       "Fragments of Horror",
       "魔の断片",
@@ -39,21 +47,15 @@
       "Whispering Woman",
       "Ψηφίδες Τρόμου "
     ],
-    "externalLinks": [],
-    "authors": [
-      "Junji Itou"
-    ],
-    "id": 82435,
-    "malId": 52435,
-    "type": "manga",
-    "title": "Ma no Kakera",
     "url": "https://anilist.co/manga/82435",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82435-DEd2WGfj9BFZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:49:56.000Z",
-    "updatedAt": "2022-04-10T21:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": 52435,
+    "deletedAt": null,
+    "authors": [
+      "Junji Itou"
+    ]
+  }
 }

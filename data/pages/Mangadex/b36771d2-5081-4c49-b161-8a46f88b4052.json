@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Amakura Fuyu"
-  ],
+  "createdAt": "2020-10-12T16:14:44.000Z",
+  "updatedAt": "2021-12-06T07:48:36.000Z",
+  "checkedAt": null,
+  "id": 25551,
   "identifier": "b36771d2-5081-4c49-b161-8a46f88b4052",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 117473,
   "aniId": 105706,
-  "createdAt": "2020-10-12T16:14:44.000Z",
-  "updatedAt": "2021-12-06T07:48:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Amakura Fuyu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:50.000Z",
+    "updatedAt": "2022-05-19T02:45:22.000Z",
+    "checkedAt": "2022-05-19T02:45:22.000Z",
+    "id": 117473,
+    "type": "manga",
+    "title": "Heroine Hajimemashita.",
+    "altTitle": [
+      "Heroine, Just Started.",
+      "Heroine for Hire",
+      "ヒロインはじめました。"
+    ],
+    "url": "https://myanimelist.net/manga/117473/Heroine_Hajimemashita",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217708.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Heroine, Just Started.",
-      "Heroine for Hire",
-      "ヒロインはじめました。"
-    ],
+    "deletedAt": null,
     "authors": [
       "Amakura, Fuyu"
-    ],
-    "id": 117473,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:43.307Z",
+    "updatedAt": "2022-05-19T02:45:21.000Z",
+    "checkedAt": "2022-05-19T02:45:21.000Z",
+    "id": 105706,
     "type": "manga",
     "title": "Heroine Hajimemashita.",
-    "url": "https://myanimelist.net/manga/117473/Heroine_Hajimemashita",
-    "image": "https://cdn.myanimelist.net/images/manga/1/217708.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:50.000Z",
-    "updatedAt": "2022-02-19T13:17:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Heroine for Hire",
       "ヒロインはじめました。",
@@ -53,22 +62,16 @@
       "Héroïne malgré moi",
       "Highschool Heldin"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Fuyu Amakura",
-      "Aline Kukor"
-    ],
-    "id": 105706,
-    "malId": 117473,
-    "type": "manga",
-    "title": "Heroine Hajimemashita.",
     "url": "https://anilist.co/manga/105706",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105706-HEgxVNkgO8hW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:55.000Z",
-    "updatedAt": "2021-12-17T18:16:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/117473/Heroine_Hajimemashita"
+    "externalLinks": [],
+    "malId": 117473,
+    "deletedAt": null,
+    "authors": [
+      "Fuyu Amakura",
+      "Aline Kukor"
+    ]
+  }
 }

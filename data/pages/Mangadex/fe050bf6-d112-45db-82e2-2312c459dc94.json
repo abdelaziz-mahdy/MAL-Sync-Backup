@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asagi Ryuu"
-  ],
+  "createdAt": "2020-10-12T16:08:37.000Z",
+  "updatedAt": "2021-12-04T11:53:59.000Z",
+  "checkedAt": null,
+  "id": 13199,
   "identifier": "fe050bf6-d112-45db-82e2-2312c459dc94",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 58293,
   "aniId": 86262,
-  "createdAt": "2020-10-12T16:08:37.000Z",
-  "updatedAt": "2021-12-04T11:53:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asagi Ryuu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:53.000Z",
+    "updatedAt": "2022-05-17T12:39:09.000Z",
+    "checkedAt": "2022-05-17T12:39:09.000Z",
+    "id": 58293,
+    "type": "manga",
+    "title": "15-sai",
+    "altTitle": [
+      "Fifteen",
+      "Age 15",
+      "15才"
+    ],
+    "url": "https://myanimelist.net/manga/58293/15-sai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/128405.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Fifteen",
-      "Age 15",
-      "15才"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asagi, Ryuu"
-    ],
-    "id": 58293,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:44.759Z",
+    "updatedAt": "2022-05-17T12:39:09.000Z",
+    "checkedAt": "2022-05-17T12:39:09.000Z",
+    "id": 86262,
     "type": "manga",
     "title": "15-sai",
-    "url": "https://myanimelist.net/manga/58293/15-sai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/128405.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2021-11-08T20:14:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Age 15",
       "15才",
       "盛开于15岁的那朵花",
       "Fifteen"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ryuu Asagi"
-    ],
-    "id": 86262,
-    "malId": 58293,
-    "type": "manga",
-    "title": "15-sai",
     "url": "https://anilist.co/manga/86262",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86262-HNu3aCMfeEh4.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:33.000Z",
-    "updatedAt": "2021-12-17T22:48:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/58293/15-sai"
+    "externalLinks": [],
+    "malId": 58293,
+    "deletedAt": null,
+    "authors": [
+      "Ryuu Asagi"
+    ]
+  }
 }

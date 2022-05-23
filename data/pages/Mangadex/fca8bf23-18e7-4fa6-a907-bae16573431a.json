@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "SSSS.GRIDMAN",
-    "Konno Yuuki"
-  ],
+  "createdAt": "2020-10-12T16:20:53.000Z",
+  "updatedAt": "2021-12-08T01:36:49.000Z",
+  "checkedAt": null,
+  "id": 38137,
   "identifier": "fca8bf23-18e7-4fa6-a907-bae16573431a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 123613,
   "aniId": 116192,
-  "createdAt": "2020-10-12T16:20:53.000Z",
-  "updatedAt": "2021-12-08T01:36:49.000Z",
   "deletedAt": null,
+  "authors": [
+    "SSSS.GRIDMAN",
+    "Konno Yuuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-19T13:39:39.000Z",
+    "checkedAt": "2022-05-19T13:39:39.000Z",
+    "id": 123613,
+    "type": "manga",
+    "title": "SSSS.Gridman",
+    "altTitle": [
+      "SSSS.GRIDMAN"
+    ],
+    "url": "https://myanimelist.net/manga/123613/SSSSGridman",
+    "image": "https://cdn.myanimelist.net/images/manga/3/236197.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,42 +45,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "SSSS.GRIDMAN"
-    ],
+    "deletedAt": null,
     "authors": [
       "Imano, Yuuki"
-    ],
-    "id": 123613,
-    "type": "manga",
-    "title": "SSSS.Gridman",
-    "url": "https://myanimelist.net/manga/123613/SSSSGridman",
-    "image": "https://cdn.myanimelist.net/images/manga/3/236197.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2022-03-31T22:31:12.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:51.779Z",
+    "updatedAt": "2022-05-19T13:39:38.000Z",
+    "checkedAt": "2022-05-19T13:39:38.000Z",
+    "id": 116192,
+    "type": "manga",
+    "title": "SSSS.GRIDMAN",
     "altTitle": [
       "SSSS.GRIDMAN"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuuki  Konno"
-    ],
-    "id": 116192,
-    "malId": 123613,
-    "type": "manga",
-    "title": "SSSS.GRIDMAN",
     "url": "https://anilist.co/manga/116192",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116192-C6nRzMhJRPR1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:00.000Z",
-    "updatedAt": "2021-12-18T08:48:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/123613/SSSSGridman"
+    "externalLinks": [],
+    "malId": 123613,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki  Konno"
+    ]
+  }
 }

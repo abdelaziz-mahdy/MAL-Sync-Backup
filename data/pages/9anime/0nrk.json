@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-01-27T02:09:38.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 34253,
   "identifier": "0nrk",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 30100,
   "aniId": 99281,
-  "createdAt": "2021-01-27T02:09:38.000Z",
-  "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-12-23T09:56:06.000Z",
+    "updatedAt": "2022-05-14T10:40:05.000Z",
+    "checkedAt": "2022-05-14T10:40:05.000Z",
+    "id": 30100,
+    "type": "anime",
+    "title": "Black Bullet: Tenchuu＊Girls",
+    "altTitle": [
+      "Tenchu Girls CM",
+      "Black Bullet Special",
+      "天誅ガールズ「ミライ＊ガール」"
+    ],
+    "url": "https://myanimelist.net/anime/30100/Black_Bullet__Tenchuu＊Girls",
+    "image": "https://cdn.myanimelist.net/images/anime/1734/122725.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,41 +43,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tenchu Girls CM",
-      "Black Bullet Special",
-      "天誅ガールズ「ミライ＊ガール」"
-    ],
-    "id": 30100,
+    "deletedAt": null,
+    "anidbId": 10181
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:52.000Z",
+    "updatedAt": "2022-05-15T13:16:48.000Z",
+    "checkedAt": "2022-05-15T13:16:48.000Z",
+    "id": 99281,
     "type": "anime",
     "title": "Black Bullet: Tenchuu＊Girls",
-    "url": "https://myanimelist.net/anime/30100/Black_Bullet__Tenchuu＊Girls",
-    "image": "https://cdn.myanimelist.net/images/anime/4/72108.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 10181,
-    "createdAt": "2020-12-23T09:56:06.000Z",
-    "updatedAt": "2022-01-07T08:47:52.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "天誅ガールズ「ミライ＊ガール」",
       "Tenchu Girls CM",
       "Black Bullet Special"
     ],
-    "externalLinks": [],
-    "id": 99281,
-    "malId": 30100,
-    "type": "anime",
-    "title": "Black Bullet: Tenchuu＊Girls",
     "url": "https://anilist.co/anime/99281",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99281-IrFH50eVEo8w.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:52.000Z",
-    "updatedAt": "2021-12-17T15:54:54.000Z",
+    "externalLinks": [],
+    "malId": 30100,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/30100/Black_Bullet__Tenchuu＊Girls"
+  }
 }

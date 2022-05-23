@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Saito Takao"
-  ],
+  "createdAt": "2020-10-12T16:12:01.000Z",
+  "updatedAt": "2021-12-05T12:51:20.000Z",
+  "checkedAt": null,
+  "id": 20523,
   "identifier": "cdf94276-f5d1-4ae0-8c29-e549e67b1ced",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28263,
   "aniId": 58263,
-  "createdAt": "2020-10-12T16:12:01.000Z",
-  "updatedAt": "2021-12-05T12:51:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Saito Takao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:30.000Z",
+    "updatedAt": "2022-05-15T20:06:24.000Z",
+    "checkedAt": "2022-05-15T20:06:24.000Z",
+    "id": 28263,
+    "type": "manga",
+    "title": "Devil King",
+    "altTitle": [
+      "Devil King",
+      "デビルキング"
+    ],
+    "url": "https://myanimelist.net/manga/28263/Devil_King",
+    "image": "https://cdn.myanimelist.net/images/manga/1/45375.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Devil King",
-      "デビルキング"
-    ],
+    "deletedAt": null,
     "authors": [
       "Saitou, Takao"
-    ],
-    "id": 28263,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:14.826Z",
+    "updatedAt": "2022-05-15T21:29:59.000Z",
+    "checkedAt": "2022-05-15T21:29:59.000Z",
+    "id": 58263,
     "type": "manga",
     "title": "Devil King",
-    "url": "https://myanimelist.net/manga/28263/Devil_King",
-    "image": "https://cdn.myanimelist.net/images/manga/1/45375.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:30.000Z",
-    "updatedAt": "2021-11-04T16:07:03.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Devil King",
       "デビルキング"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takao Saitou"
-    ],
-    "id": 58263,
-    "malId": 28263,
-    "type": "manga",
-    "title": "Devil King",
     "url": "https://anilist.co/manga/58263",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28263.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:30.000Z",
-    "updatedAt": "2021-12-17T18:58:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/28263/Devil_King"
+    "externalLinks": [],
+    "malId": 28263,
+    "deletedAt": null,
+    "authors": [
+      "Takao Saitou"
+    ]
+  }
 }

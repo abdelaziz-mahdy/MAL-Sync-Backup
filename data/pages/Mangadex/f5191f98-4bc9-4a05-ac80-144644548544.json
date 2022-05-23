@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Miura Kaze"
-  ],
+  "createdAt": "2021-02-04T19:20:26.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
+  "checkedAt": null,
+  "id": 61386,
   "identifier": "f5191f98-4bc9-4a05-ac80-144644548544",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 135627,
   "aniId": 121765,
-  "createdAt": "2021-02-04T19:20:26.000Z",
-  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Miura Kaze"
+  ],
   "Mal": {
+    "createdAt": "2021-12-08T11:35:59.000Z",
+    "updatedAt": "2022-05-16T10:43:35.000Z",
+    "checkedAt": "2022-05-16T10:43:35.000Z",
+    "id": 135627,
+    "type": "manga",
+    "title": "Spotlight",
+    "altTitle": [
+      "スポットライト"
+    ],
+    "url": "https://myanimelist.net/manga/135627/Spotlight",
+    "image": "https://cdn.myanimelist.net/images/manga/3/243386.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "スポットライト"
-    ],
+    "deletedAt": null,
     "authors": [
       "Miura, Kaze"
-    ],
-    "id": 135627,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:29.808Z",
+    "updatedAt": "2022-05-16T10:43:37.000Z",
+    "checkedAt": "2022-05-16T10:43:37.000Z",
+    "id": 121765,
     "type": "manga",
     "title": "Spotlight",
-    "url": "https://myanimelist.net/manga/135627/Spotlight",
-    "image": "https://cdn.myanimelist.net/images/manga/3/243386.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-12-08T11:35:59.000Z",
-    "updatedAt": "2022-03-13T01:30:43.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "スポットライト"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaze Miura"
-    ],
-    "id": 121765,
-    "malId": 135627,
-    "type": "manga",
-    "title": "Spotlight",
     "url": "https://anilist.co/manga/121765",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121765-Kxxe65m3wBZJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T08:18:58.000Z",
-    "updatedAt": "2021-12-18T10:20:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/135627/Spotlight"
+    "externalLinks": [],
+    "malId": 135627,
+    "deletedAt": null,
+    "authors": [
+      "Kaze Miura"
+    ]
+  }
 }

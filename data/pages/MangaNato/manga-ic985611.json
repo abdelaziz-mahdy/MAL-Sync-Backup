@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujinari Takumi"
-  ],
+  "createdAt": "2021-07-05T14:29:50.000Z",
+  "updatedAt": "2022-01-05T15:17:51.000Z",
+  "checkedAt": null,
+  "id": 80987,
   "identifier": "manga-ic985611",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130940,
   "aniId": 120603,
-  "createdAt": "2021-07-05T14:29:50.000Z",
-  "updatedAt": "2022-01-05T15:17:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujinari Takumi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-07T22:51:57.000Z",
+    "updatedAt": "2022-04-22T13:03:07.000Z",
+    "checkedAt": null,
+    "id": 130940,
+    "type": "manga",
+    "title": "Prometheus no Kasa",
+    "altTitle": [
+      "Prometheus Vinctus",
+      "プロメテウスの枷鎖"
+    ],
+    "url": "https://myanimelist.net/manga/130940/Prometheus_no_Kasa",
+    "image": "https://cdn.myanimelist.net/images/manga/3/236659.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Prometheus Vinctus",
-      "プロメテウスの枷鎖"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fujinari, Takumi"
-    ],
-    "id": 130940,
-    "type": "manga",
-    "title": "Prometheus no Kasa",
-    "url": "https://myanimelist.net/manga/130940/Prometheus_no_Kasa",
-    "image": "https://cdn.myanimelist.net/images/manga/3/236659.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-07T22:51:57.000Z",
-    "updatedAt": "2022-04-22T13:03:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:30.594Z",
+    "updatedAt": "2022-05-13T12:43:30.594Z",
+    "checkedAt": null,
+    "id": 120603,
+    "type": "manga",
+    "title": "Prometheus no Kase Kusari",
     "altTitle": [
       "プロメテウスの枷鎖",
       "Prometheus Chain",
@@ -51,21 +60,15 @@
       "Purometeusu no Kase Kusari",
       "The Chain of Prometheus"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takumi Fujinari"
-    ],
-    "id": 120603,
-    "malId": 130940,
-    "type": "manga",
-    "title": "Prometheus no Kase Kusari",
     "url": "https://anilist.co/manga/120603",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120603-72moOqr6PeiG.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-02T20:30:51.000Z",
-    "updatedAt": "2021-12-18T09:51:48.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130940/Prometheus_no_Kasa"
+    "externalLinks": [],
+    "malId": 130940,
+    "deletedAt": null,
+    "authors": [
+      "Takumi Fujinari"
+    ]
+  }
 }

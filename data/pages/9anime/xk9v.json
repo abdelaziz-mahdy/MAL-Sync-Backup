@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:56:28.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 10261,
   "identifier": "xk9v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 40060,
   "aniId": 110354,
-  "createdAt": "2020-10-12T15:56:28.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:11.000Z",
+    "updatedAt": "2022-05-14T16:40:06.000Z",
+    "checkedAt": "2022-05-14T16:40:06.000Z",
+    "id": 40060,
+    "type": "anime",
+    "title": "BNA",
+    "altTitle": [
+      "Brand New Animal",
+      "BNA: Brand New Animal",
+      "BNA ビー・エヌ・エー"
+    ],
+    "url": "https://myanimelist.net/anime/40060/BNA",
+    "image": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,23 +56,16 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "Brand New Animal",
-      "BNA ビー・エヌ・エー"
-    ],
-    "id": 40060,
+    "deletedAt": null,
+    "anidbId": 14997
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:56.000Z",
+    "updatedAt": "2022-05-15T09:32:47.000Z",
+    "checkedAt": "2022-05-15T09:32:47.000Z",
+    "id": 110354,
     "type": "anime",
     "title": "BNA",
-    "url": "https://myanimelist.net/anime/40060/BNA",
-    "image": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 14997,
-    "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2022-04-18T01:04:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "BNA",
       "BNA ビー・エヌ・エー",
@@ -63,23 +73,17 @@
       "BNA: Brand New Animal",
       "יש חיה כזאת"
     ],
+    "url": "https://anilist.co/anime/110354",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/81220429"
       }
     ],
-    "id": 110354,
     "malId": 40060,
-    "type": "anime",
-    "title": "BNA",
-    "url": "https://anilist.co/anime/110354",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:45:56.000Z",
-    "updatedAt": "2021-12-17T11:02:05.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/40060/BNA"
+  }
 }

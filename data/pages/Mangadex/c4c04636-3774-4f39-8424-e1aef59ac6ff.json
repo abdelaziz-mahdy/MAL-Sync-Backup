@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Noda Hiroshi",
-    "Wakamatsu Takahiro"
-  ],
+  "createdAt": "2020-10-12T16:10:25.000Z",
+  "updatedAt": "2021-12-05T00:53:42.000Z",
+  "checkedAt": null,
+  "id": 17074,
   "identifier": "c4c04636-3774-4f39-8424-e1aef59ac6ff",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103953,
   "aniId": 98147,
-  "createdAt": "2020-10-12T16:10:25.000Z",
-  "updatedAt": "2021-12-05T00:53:42.000Z",
   "deletedAt": null,
+  "authors": [
+    "Noda Hiroshi",
+    "Wakamatsu Takahiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:55.000Z",
+    "updatedAt": "2022-05-17T16:31:56.000Z",
+    "checkedAt": "2022-05-17T16:31:56.000Z",
+    "id": 103953,
+    "type": "manga",
+    "title": "Ningyohime no Gomen ne Gohan",
+    "altTitle": [
+      "The Mermaid Princess's Guilty Meal",
+      "Forbidden Fish is Sweeeetest!!!",
+      "人魚姫のごめんねごはん"
+    ],
+    "url": "https://myanimelist.net/manga/103953/Ningyohime_no_Gomen_ne_Gohan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/196627.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,27 +43,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Mermaid Princess's Guilty Meal",
-      "Forbidden Fish is Sweeeetest!!!",
-      "人魚姫のごめんねごはん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Wakamatsu, Takahiro",
       "Hiroshi, Noda"
-    ],
-    "id": 103953,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:28.672Z",
+    "updatedAt": "2022-05-17T16:31:54.000Z",
+    "checkedAt": "2022-05-17T16:31:54.000Z",
+    "id": 98147,
     "type": "manga",
     "title": "Ningyohime no Gomen ne Gohan",
-    "url": "https://myanimelist.net/manga/103953/Ningyohime_no_Gomen_ne_Gohan",
-    "image": "https://cdn.myanimelist.net/images/manga/1/196627.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:55.000Z",
-    "updatedAt": "2022-02-04T11:36:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "人魚姫のごめんねごはん",
       "The Mermaid Princess's Guilty Meal",
@@ -56,22 +65,16 @@
       "인어공주의 미안한 식사",
       "มื้อสุดเศร้าของเจ้าหญิงเงือก"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hiroshi Noda",
-      "Takahiro Wakamatsu"
-    ],
-    "id": 98147,
-    "malId": 103953,
-    "type": "manga",
-    "title": "Ningyohime no Gomen ne Gohan",
     "url": "https://anilist.co/manga/98147",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98147-x6NS5BYsp4tz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:55:05.000Z",
-    "updatedAt": "2022-02-19T04:46:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103953/Ningyohime_no_Gomen_ne_Gohan"
+    "externalLinks": [],
+    "malId": 103953,
+    "deletedAt": null,
+    "authors": [
+      "Hiroshi Noda",
+      "Takahiro Wakamatsu"
+    ]
+  }
 }

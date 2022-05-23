@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nonomura"
-  ],
+  "createdAt": "2020-10-12T16:16:56.000Z",
+  "updatedAt": "2021-12-07T03:17:22.000Z",
+  "checkedAt": null,
+  "id": 30153,
   "identifier": "ec308ac5-0f25-4559-a31d-05a7010c9678",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1408,
   "aniId": 31408,
-  "createdAt": "2020-10-12T16:16:56.000Z",
-  "updatedAt": "2021-12-07T03:17:22.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nonomura"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:33.000Z",
+    "updatedAt": "2022-05-15T00:42:23.000Z",
+    "checkedAt": "2022-05-15T00:42:23.000Z",
+    "id": 1408,
+    "type": "manga",
+    "title": "The World Is Mine",
+    "altTitle": [
+      "TWIM",
+      "ザ・ワールド・イズ・マイン"
+    ],
+    "url": "https://myanimelist.net/manga/1408/The_World_Is_Mine",
+    "image": "https://cdn.myanimelist.net/images/manga/2/1287.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "TWIM",
-      "ザ・ワールド・イズ・マイン"
-    ],
+    "deletedAt": null,
     "authors": [
       "Arai, Hideki"
-    ],
-    "id": 1408,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:25.990Z",
+    "updatedAt": "2022-05-15T17:24:23.000Z",
+    "checkedAt": "2022-05-15T17:24:23.000Z",
+    "id": 31408,
     "type": "manga",
     "title": "The World Is Mine",
-    "url": "https://myanimelist.net/manga/1408/The_World_Is_Mine",
-    "image": "https://cdn.myanimelist.net/images/manga/2/1287.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2022-04-07T19:31:36.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ザ・ワールド・イズ・マイン",
       "TWIM"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideki Arai"
-    ],
-    "id": 31408,
-    "malId": 1408,
-    "type": "manga",
-    "title": "The World Is Mine",
     "url": "https://anilist.co/manga/31408",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31408-EnQkVthINjOI.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:44.000Z",
-    "updatedAt": "2021-12-17T10:06:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1408/The_World_Is_Mine"
+    "externalLinks": [],
+    "malId": 1408,
+    "deletedAt": null,
+    "authors": [
+      "Hideki Arai"
+    ]
+  }
 }

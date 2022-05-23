@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:44.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9092,
   "identifier": "ryn",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 29035,
   "aniId": 20998,
-  "createdAt": "2020-10-12T15:55:44.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:33.000Z",
+    "updatedAt": "2022-05-14T22:00:22.000Z",
+    "checkedAt": "2022-05-14T22:00:22.000Z",
+    "id": 29035,
+    "type": "anime",
+    "title": "Robot Girls Z Plus",
+    "altTitle": [
+      "Robot Girls Z+",
+      "Robot Girls Z Plus",
+      "ロボットガールズZプラス"
+    ],
+    "url": "https://myanimelist.net/anime/29035/Robot_Girls_Z_Plus",
+    "image": "https://cdn.myanimelist.net/images/anime/9/73636.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,39 +56,25 @@
         "url": "http://www.crunchyroll.com/series-229062"
       }
     ],
-    "altTitle": [
-      "Robot Girls Z+",
-      "Robot Girls Z Plus",
-      "ロボットガールズZプラス"
-    ],
-    "id": 29035,
+    "deletedAt": null,
+    "anidbId": 10999
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:46.000Z",
+    "updatedAt": "2022-05-15T16:57:23.000Z",
+    "checkedAt": "2022-05-15T16:57:23.000Z",
+    "id": 20998,
     "type": "anime",
     "title": "Robot Girls Z Plus",
-    "url": "https://myanimelist.net/anime/29035/Robot_Girls_Z_Plus",
-    "image": "https://cdn.myanimelist.net/images/anime/9/73636.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 10999,
-    "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2022-04-03T03:33:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ロボットガールズＺプラス"
     ],
-    "externalLinks": [],
-    "id": 20998,
-    "malId": 29035,
-    "type": "anime",
-    "title": "Robot Girls Z Plus",
     "url": "https://anilist.co/anime/20998",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20998-gwR0zI63uuzU.jpg",
     "category": "ona",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:46.000Z",
-    "updatedAt": "2021-12-17T14:52:16.000Z",
+    "externalLinks": [],
+    "malId": 29035,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/29035/Robot_Girls_Z_Plus"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Konogi Yoshiru"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:17.000Z",
+  "checkedAt": null,
+  "id": 3524,
   "identifier": "81d1492e-3603-4d65-9da6-4c79a2e5bdd6",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35779,
   "aniId": 65779,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Konogi Yoshiru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2022-05-15T17:00:03.000Z",
+    "checkedAt": "2022-05-15T17:00:03.000Z",
+    "id": 35779,
+    "type": "manga",
+    "title": "Comic☆Studio",
+    "altTitle": [
+      "こみっく☆すたじお"
+    ],
+    "url": "https://myanimelist.net/manga/35779/Comic☆Studio",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171851.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "こみっく☆すたじお"
-    ],
+    "deletedAt": null,
     "authors": [
       "Konogi, Yoshiru"
-    ],
-    "id": 35779,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:27.520Z",
+    "updatedAt": "2022-05-15T19:59:23.000Z",
+    "checkedAt": "2022-05-15T19:59:23.000Z",
+    "id": 65779,
     "type": "manga",
     "title": "Comic☆Studio",
-    "url": "https://myanimelist.net/manga/35779/Comic☆Studio",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171851.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2022-01-19T15:04:15.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "こみっく☆すたじお"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshiru Konogi"
-    ],
-    "id": 65779,
-    "malId": 35779,
-    "type": "manga",
-    "title": "Comic☆Studio",
     "url": "https://anilist.co/manga/65779",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65779-s3efsClAc2lO.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2021-12-17T19:52:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35779/Comic☆Studio"
+    "externalLinks": [],
+    "malId": 35779,
+    "deletedAt": null,
+    "authors": [
+      "Yoshiru Konogi"
+    ]
+  }
 }

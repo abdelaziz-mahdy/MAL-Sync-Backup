@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:56.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1980,
   "identifier": "3xx6",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 432,
   "aniId": 432,
-  "createdAt": "2020-10-12T15:49:56.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:04.000Z",
+    "updatedAt": "2022-05-14T20:21:41.000Z",
+    "checkedAt": "2022-05-14T20:21:41.000Z",
+    "id": 432,
+    "type": "anime",
+    "title": "Iria: Zeiram The Animation",
+    "altTitle": [
+      "Iria: Zeiram The Animation",
+      "イ・リ・ア ゼイラム The Animation"
+    ],
+    "url": "https://myanimelist.net/anime/432/Iria__Zeiram_The_Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/1193/112905.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,41 +46,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Iria: Zeiram The Animation",
-      "イ・リ・ア ゼイラム The Animation"
-    ],
+    "deletedAt": null,
+    "anidbId": 197
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:40.000Z",
+    "updatedAt": "2022-05-15T17:15:35.000Z",
+    "checkedAt": "2022-05-15T17:15:35.000Z",
     "id": 432,
     "type": "anime",
-    "title": "Iria: Zeiram The Animation",
-    "url": "https://myanimelist.net/anime/432/Iria__Zeiram_The_Animation",
-    "image": "https://cdn.myanimelist.net/images/anime/1193/112905.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 197,
-    "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2022-03-30T14:03:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "I Я I A ZЁIЯAM THE ANIMATION",
     "altTitle": [
       "Iria: Zeiram The Animation",
       "I・Я・I・A ZЁIЯAM THE ANIMATION",
       "イ・リ・ア ゼイラム ジ アニメーション",
       "Iria: Zeiram The Bounty Hunter"
     ],
-    "externalLinks": [],
-    "id": 432,
-    "malId": 432,
-    "type": "anime",
-    "title": "I Я I A ZЁIЯAM THE ANIMATION",
     "url": "https://anilist.co/anime/432",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx432-zJOnlSMC93cO.png",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:40.000Z",
-    "updatedAt": "2021-11-18T16:44:03.000Z",
+    "externalLinks": [],
+    "malId": 432,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/432/Iria__Zeiram_The_Animation"
+  }
 }

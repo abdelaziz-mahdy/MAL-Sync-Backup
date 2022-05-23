@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Oda Eiichiro",
-    "Boichi"
-  ],
+  "createdAt": "2022-04-14T23:00:25.000Z",
+  "updatedAt": "2022-04-14T23:30:24.000Z",
+  "checkedAt": null,
+  "id": 101454,
   "identifier": "a8dcc878-deb2-4332-b8b4-ecf9416fe248",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 145980,
   "aniId": 146516,
-  "createdAt": "2022-04-14T23:00:25.000Z",
-  "updatedAt": "2022-04-14T23:30:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oda Eiichiro",
+    "Boichi"
+  ],
   "Mal": {
+    "createdAt": "2022-04-14T14:01:30.000Z",
+    "updatedAt": "2022-05-15T08:08:52.000Z",
+    "checkedAt": "2022-05-15T08:08:52.000Z",
+    "id": 145980,
+    "type": "manga",
+    "title": "One Piece: Nami vs. Kalifa",
+    "altTitle": [
+      "ONE PIECE ナミvsカリファ"
+    ],
+    "url": "https://myanimelist.net/manga/145980/One_Piece__Nami_vs_Kalifa",
+    "image": "https://cdn.myanimelist.net/images/manga/2/258503.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ONE PIECE ナミvsカリファ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oda, Eiichiro",
       "Boichi"
-    ],
-    "id": 145980,
-    "type": "manga",
-    "title": "One Piece: Nami vs. Kalifa",
-    "url": "https://myanimelist.net/manga/145980/One_Piece__Nami_vs_Kalifa",
-    "image": "https://cdn.myanimelist.net/images/manga/2/258503.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2022-04-14T14:01:30.000Z",
-    "updatedAt": "2022-04-14T14:01:30.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:30.750Z",
+    "updatedAt": "2022-05-16T04:53:52.000Z",
+    "checkedAt": "2022-05-16T04:53:52.000Z",
+    "id": 146516,
+    "type": "manga",
+    "title": "Nami vs Kalifa",
     "altTitle": [
       "ナミ vs カリファ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Eiichirou Oda",
-      "Boichi"
-    ],
-    "id": 146516,
-    "malId": 145980,
-    "type": "manga",
-    "title": "Nami vs Kalifa",
     "url": "https://anilist.co/manga/146516",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146516-TkrUTWqxqWci.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2022-03-19T21:49:13.000Z",
-    "updatedAt": "2022-04-18T09:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/145980/One_Piece__Nami_vs_Kalifa"
+    "externalLinks": [],
+    "malId": 145980,
+    "deletedAt": null,
+    "authors": [
+      "Eiichirou Oda",
+      "Boichi"
+    ]
+  }
 }

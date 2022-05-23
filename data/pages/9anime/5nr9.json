@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:30.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2704,
   "identifier": "5nr9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2698,
   "aniId": 2698,
-  "createdAt": "2020-10-12T15:50:30.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-14T23:40:41.000Z",
+    "checkedAt": "2022-05-14T23:40:41.000Z",
+    "id": 2698,
+    "type": "anime",
+    "title": "Sanctuary",
+    "altTitle": [
+      "Sanctuary",
+      "サンクチュアリ"
+    ],
+    "url": "https://myanimelist.net/anime/2698/Sanctuary",
+    "image": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg",
+    "category": "OVA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sanctuary",
-      "サンクチュアリ"
-    ],
-    "id": 2698,
-    "type": "anime",
-    "title": "Sanctuary",
-    "url": "https://myanimelist.net/anime/2698/Sanctuary",
-    "image": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg",
-    "category": "OVA",
-    "hentai": false,
-    "anidbId": 3439,
-    "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2022-03-31T09:01:44.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 3439
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:26.000Z",
+    "updatedAt": "2022-05-17T00:53:59.000Z",
+    "checkedAt": "2022-05-17T00:53:59.000Z",
+    "id": 2698,
+    "type": "anime",
+    "title": "Sanctuary",
     "altTitle": [
       "Sanctuary",
       "サンクチュアリ"
     ],
-    "externalLinks": [],
-    "id": 2698,
-    "malId": 2698,
-    "type": "anime",
-    "title": "Sanctuary",
     "url": "https://anilist.co/anime/2698",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2698-2bBtlm0FewWP.jpg",
     "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:26.000Z",
-    "updatedAt": "2021-12-17T10:27:18.000Z",
+    "externalLinks": [],
+    "malId": 2698,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2698/Sanctuary"
+  }
 }

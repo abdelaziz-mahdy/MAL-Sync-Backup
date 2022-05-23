@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hakuri"
-  ],
+  "createdAt": "2020-10-12T16:11:00.000Z",
+  "updatedAt": "2021-12-05T05:20:03.000Z",
+  "checkedAt": null,
+  "id": 18347,
   "identifier": "8483f361-a149-463d-aada-61fa1d94ff7d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,34 +12,42 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104829,
   "aniId": 100557,
-  "createdAt": "2020-10-12T16:11:00.000Z",
-  "updatedAt": "2021-12-05T05:20:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hakuri"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:46:58.000Z",
+    "updatedAt": "2022-05-15T14:00:49.000Z",
+    "checkedAt": "2022-05-15T14:00:49.000Z",
+    "id": 104829,
+    "type": "manga",
+    "title": "Sachi-iro no One Room",
     "altTitle": [
       "One Room of Happiness",
       "幸色のワンルーム"
     ],
-    "authors": [
-      "Hakuri"
-    ],
-    "id": 104829,
-    "type": "manga",
-    "title": "Sachi-iro no One Room",
     "url": "https://myanimelist.net/manga/104829/Sachi-iro_no_One_Room",
     "image": "https://cdn.myanimelist.net/images/manga/1/192115.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:58.000Z",
-    "updatedAt": "2022-04-13T20:31:04.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hakuri"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.878Z",
+    "updatedAt": "2022-05-15T18:01:35.000Z",
+    "checkedAt": "2022-05-15T18:01:35.000Z",
+    "id": 100557,
+    "type": "manga",
+    "title": "Sachi-iro no One Room",
     "altTitle": [
       "One Room of Happiness",
       "幸色のワンルーム",
@@ -48,28 +57,22 @@
       "Color of Happiness",
       "Una stanza di felicità"
     ],
+    "url": "https://anilist.co/manga/100557",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100557-55nghYjyfP4i.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/one-room-of-happiness/volumes"
       }
     ],
+    "malId": 104829,
+    "deletedAt": null,
     "authors": [
       "Hakuri",
       "Burkhard Höfler",
       "Carlo Vanstiphout"
-    ],
-    "id": 100557,
-    "malId": 104829,
-    "type": "manga",
-    "title": "Sachi-iro no One Room",
-    "url": "https://anilist.co/manga/100557",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100557-55nghYjyfP4i.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:12.000Z",
-    "updatedAt": "2022-03-09T08:59:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104829/Sachi-iro_no_One_Room"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ohba Tsugumi",
-    "Obata Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:04:03.000Z",
+  "updatedAt": "2021-12-02T18:47:27.000Z",
+  "checkedAt": null,
+  "id": 3544,
   "identifier": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
   "type": "manga",
   "page": "Mangadex",
@@ -12,36 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21274,
   "aniId": 51274,
-  "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-12-02T18:47:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ohba Tsugumi",
+    "Obata Takeshi"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:55.000Z",
+    "updatedAt": "2022-05-20T23:49:24.000Z",
+    "checkedAt": "2022-05-20T23:49:24.000Z",
+    "id": 21274,
+    "type": "manga",
+    "title": "Rakko 11-gou",
     "altTitle": [
       "Rakko 11 Go",
       "Otters 11",
       "ラッコ11号"
     ],
-    "authors": [
-      "Obata, Takeshi",
-      "Ohba, Tsugumi"
-    ],
-    "id": 21274,
-    "type": "manga",
-    "title": "Rakko 11-gou",
     "url": "https://myanimelist.net/manga/21274/Rakko_11-gou",
     "image": "https://cdn.myanimelist.net/images/manga/3/34222.jpg",
     "category": "One-shot",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:55.000Z",
-    "updatedAt": "2022-05-03T07:03:03.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Obata, Takeshi",
+      "Ohba, Tsugumi"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:05.750Z",
+    "updatedAt": "2022-05-20T23:49:23.000Z",
+    "checkedAt": "2022-05-20T23:49:23.000Z",
+    "id": 51274,
+    "type": "manga",
+    "title": "Rakko 11-gou",
     "altTitle": [
       "ラッコ11号",
       "Rakko 11 Go",
@@ -49,21 +58,16 @@
       "Otters 11",
       "Otter no. 11"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsugumi Ooba"
-    ],
-    "id": 51274,
-    "malId": 21274,
-    "type": "manga",
-    "title": "Rakko 11-gou",
     "url": "https://anilist.co/manga/51274",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21274.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:38.000Z",
-    "updatedAt": "2021-12-17T17:37:31.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/21274/Rakko_11-gou"
+    "externalLinks": [],
+    "malId": 21274,
+    "deletedAt": null,
+    "authors": [
+      "Tsugumi Ooba",
+      "Takeshi Obata"
+    ]
+  }
 }

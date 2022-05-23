@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Azuma Kiyohiko"
-  ],
+  "createdAt": "2020-10-12T16:02:31.000Z",
+  "updatedAt": "2022-05-16T15:15:08.000Z",
+  "checkedAt": "2022-05-16T15:14:53.000Z",
+  "id": 303,
   "identifier": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 104,
   "aniId": 30104,
-  "createdAt": "2020-10-12T16:02:31.000Z",
-  "updatedAt": "2021-12-02T07:46:58.000Z",
   "deletedAt": null,
+  "authors": [
+    "Azuma Kiyohiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:18.000Z",
+    "updatedAt": "2022-05-14T21:17:41.000Z",
+    "checkedAt": "2022-05-14T21:17:41.000Z",
+    "id": 104,
+    "type": "manga",
+    "title": "Yotsuba to!",
+    "altTitle": [
+      "Yotsuba and!",
+      "Yotsuba&!",
+      "よつばと!"
+    ],
+    "url": "https://myanimelist.net/manga/104/Yotsuba_to",
+    "image": "https://cdn.myanimelist.net/images/manga/5/259524.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,26 +46,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yotsuba and!",
-      "Yotsuba&!",
-      "よつばと!"
-    ],
+    "deletedAt": null,
     "authors": [
       "Azuma, Kiyohiko"
-    ],
-    "id": 104,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:17.418Z",
+    "updatedAt": "2022-05-15T17:16:11.000Z",
+    "checkedAt": "2022-05-15T17:16:11.000Z",
+    "id": 30104,
     "type": "manga",
     "title": "Yotsuba to!",
-    "url": "https://myanimelist.net/manga/104/Yotsuba_to",
-    "image": "https://cdn.myanimelist.net/images/manga/3/57369.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2022-04-12T14:01:24.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yotsuba&!",
       "よつばと！",
@@ -57,23 +66,17 @@
       "Yotsubato",
       "Ёцуба!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kiyohiko Azuma",
-      "Stephen Paul",
-      "Amy Forsyth"
-    ],
-    "id": 30104,
-    "malId": 104,
-    "type": "manga",
-    "title": "Yotsuba to!",
     "url": "https://anilist.co/manga/30104",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30104-Qv5SLPFRRAqJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2022-02-23T14:48:41.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/104/Yotsuba_to"
+    "externalLinks": [],
+    "malId": 104,
+    "deletedAt": null,
+    "authors": [
+      "Kiyohiko Azuma",
+      "Stephen Paul",
+      "Amy Forsyth"
+    ]
+  }
 }

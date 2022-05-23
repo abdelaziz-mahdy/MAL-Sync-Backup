@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Bandai Namco Entertainment",
-    "Ima"
-  ],
+  "createdAt": "2020-10-12T16:14:59.000Z",
+  "updatedAt": "2021-12-06T09:47:29.000Z",
+  "checkedAt": null,
+  "id": 26066,
   "identifier": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 78135,
   "aniId": 85788,
-  "createdAt": "2020-10-12T16:14:59.000Z",
-  "updatedAt": "2021-12-06T09:47:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Bandai Namco Entertainment",
+    "Ima"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:31.000Z",
+    "updatedAt": "2021-12-01T20:16:58.000Z",
+    "checkedAt": null,
+    "id": 78135,
+    "type": "manga",
+    "title": "The iDOLM@STER Million Live!",
+    "altTitle": [
+      "Idolmaster Million Live!",
+      "アイドルマスター ミリオンライブ！"
+    ],
+    "url": "https://myanimelist.net/manga/78135/The_iDOLMSTER_Million_Live",
+    "image": "https://cdn.myanimelist.net/images/manga/3/183369.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,45 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Idolmaster Million Live!",
-      "アイドルマスター ミリオンライブ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Monji, Yuki"
-    ],
-    "id": 78135,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:32.820Z",
+    "updatedAt": "2022-05-13T12:43:32.820Z",
+    "checkedAt": null,
+    "id": 85788,
     "type": "manga",
     "title": "The iDOLM@STER Million Live!",
-    "url": "https://myanimelist.net/manga/78135/The_iDOLMSTER_Million_Live",
-    "image": "https://cdn.myanimelist.net/images/manga/3/183369.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:31.000Z",
-    "updatedAt": "2021-12-01T20:16:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "アイドルマスター ミリオンライブ！",
       "Idolm@ster - Million Live!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuki Monji",
-      "Bandai-Namco Entertainment"
-    ],
-    "id": 85788,
-    "malId": 78135,
-    "type": "manga",
-    "title": "The iDOLM@STER Million Live!",
     "url": "https://anilist.co/manga/85788",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85788-K9HIZBmTCfkU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:52.000Z",
-    "updatedAt": "2021-12-17T22:23:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/78135/The_iDOLMSTER_Million_Live"
+    "externalLinks": [],
+    "malId": 78135,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Monji",
+      "Bandai-Namco Entertainment"
+    ]
+  }
 }

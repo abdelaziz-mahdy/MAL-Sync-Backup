@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Torihara Shu"
-  ],
+  "createdAt": "2020-10-12T16:15:47.000Z",
+  "updatedAt": "2021-12-06T16:49:03.000Z",
+  "checkedAt": null,
+  "id": 27727,
   "identifier": "bc68f74c-de1f-402e-abd4-53aa13c9485b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 990,
   "aniId": 30990,
-  "createdAt": "2020-10-12T16:15:47.000Z",
-  "updatedAt": "2021-12-06T16:49:03.000Z",
   "deletedAt": null,
+  "authors": [
+    "Torihara Shu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2022-02-02T13:51:09.000Z",
+    "checkedAt": null,
+    "id": 990,
+    "type": "manga",
+    "title": "Brother",
+    "altTitle": [
+      "Brother",
+      "BROTHER"
+    ],
+    "url": "https://myanimelist.net/manga/990/Brother",
+    "image": "https://cdn.myanimelist.net/images/manga/1/5465.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Brother",
-      "BROTHER"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ougi, Yuzuha"
-    ],
-    "id": 990,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:06.654Z",
+    "updatedAt": "2022-05-13T12:42:06.654Z",
+    "checkedAt": null,
+    "id": 30990,
     "type": "manga",
     "title": "Brother",
-    "url": "https://myanimelist.net/manga/990/Brother",
-    "image": "https://cdn.myanimelist.net/images/manga/1/5465.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:28.000Z",
-    "updatedAt": "2022-02-02T13:51:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Brother; Brother 2",
       "ＢＲＯＴＨＥＲ; ＢＲＯＴＨＥＲ　　２"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yuzuha Ougi"
-    ],
-    "id": 30990,
-    "malId": 990,
-    "type": "manga",
-    "title": "Brother",
     "url": "https://anilist.co/manga/30990",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/990.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-12-17T09:38:59.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/990/Brother"
+    "externalLinks": [],
+    "malId": 990,
+    "deletedAt": null,
+    "authors": [
+      "Yuzuha Ougi"
+    ]
+  }
 }

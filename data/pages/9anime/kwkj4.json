@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-11T08:40:05.000Z",
+  "updatedAt": "2022-05-16T15:30:11.000Z",
+  "checkedAt": "2022-05-16T15:29:57.000Z",
+  "id": 40716,
   "identifier": "kwkj4",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 48702,
   "aniId": 132171,
-  "createdAt": "2022-04-11T08:40:05.000Z",
-  "updatedAt": "2022-04-11T09:07:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2022-01-30T17:21:30.000Z",
+    "updatedAt": "2022-05-13T21:24:24.000Z",
+    "checkedAt": "2022-05-13T21:24:24.000Z",
+    "id": 48702,
+    "type": "anime",
+    "title": "Dance Dance Danseur",
+    "altTitle": [
+      "Dance Dance Danseur",
+      "ダンス・ダンス・ダンスール"
+    ],
+    "url": "https://myanimelist.net/anime/48702/Dance_Dance_Danseur",
+    "image": "https://cdn.myanimelist.net/images/anime/1571/121381.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -33,28 +49,30 @@
         "url": "https://en.wikipedia.org/wiki/Dance_Dance_Danseur#Anime"
       }
     ],
-    "legalLinks": [],
-    "altTitle": [
-      "Dance Dance Danseur",
-      "ダンス・ダンス・ダンスール"
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282646"
+      }
     ],
-    "id": 48702,
+    "deletedAt": null,
+    "anidbId": 16196
+  },
+  "Ani": {
+    "createdAt": "2021-07-24T02:21:34.000Z",
+    "updatedAt": "2022-05-15T09:21:59.000Z",
+    "checkedAt": "2022-05-15T09:21:59.000Z",
+    "id": 132171,
     "type": "anime",
     "title": "Dance Dance Danseur",
-    "url": "https://myanimelist.net/anime/48702/Dance_Dance_Danseur",
-    "image": "https://cdn.myanimelist.net/images/anime/1571/121381.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 16196,
-    "createdAt": "2022-01-30T17:21:30.000Z",
-    "updatedAt": "2022-04-21T06:02:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Dance Dance Danseur",
       "ダンス・ダンス・ダンスール"
     ],
+    "url": "https://anilist.co/anime/132171",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132171-7eUhRXuzbR20.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -65,17 +83,7 @@
         "url": "https://vrv.co/series/G9VHN9P07/Dance-Dance-Danseur"
       }
     ],
-    "id": 132171,
     "malId": 48702,
-    "type": "anime",
-    "title": "Dance Dance Danseur",
-    "url": "https://anilist.co/anime/132171",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132171-7eUhRXuzbR20.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-07-24T02:21:34.000Z",
-    "updatedAt": "2022-04-16T02:00:25.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/48702/Dance_Dance_Danseur"
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mizuno Minami"
-  ],
+  "createdAt": "2020-10-12T16:05:12.000Z",
+  "updatedAt": "2021-12-03T11:17:19.000Z",
+  "checkedAt": null,
+  "id": 5906,
   "identifier": "25b7a0b9-6653-4a69-86b6-2cc71d0069ab",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 39291,
   "aniId": 69291,
-  "createdAt": "2020-10-12T16:05:12.000Z",
-  "updatedAt": "2021-12-03T11:17:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mizuno Minami"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:05.000Z",
+    "updatedAt": "2022-05-15T10:12:17.000Z",
+    "checkedAt": "2022-05-15T10:12:17.000Z",
+    "id": 39291,
+    "type": "manga",
+    "title": "Nijiiro Days",
+    "altTitle": [
+      "Aru Toshi to Sorekara no Watashitachi",
+      "Shinbun-bu no Yoriko-kun",
+      "Rainbow Days",
+      "虹色デイズ"
+    ],
+    "url": "https://myanimelist.net/manga/39291/Nijiiro_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/192780.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rainbow Days",
-      "Aru Toshi to Sorekara no Watashitachi",
-      "Shinbun-bu no Yoriko-kun",
-      "虹色デイズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mizuno, Minami"
-    ],
-    "id": 39291,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:56.544Z",
+    "updatedAt": "2022-05-15T14:53:35.000Z",
+    "checkedAt": "2022-05-15T14:53:35.000Z",
+    "id": 69291,
     "type": "manga",
     "title": "Nijiiro Days",
-    "url": "https://myanimelist.net/manga/39291/Nijiiro_Days",
-    "image": "https://cdn.myanimelist.net/images/manga/3/192780.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:05.000Z",
-    "updatedAt": "2021-12-01T01:40:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rainbow Days",
       "虹色デイズ",
@@ -54,22 +63,16 @@
       "Beztroskie dni",
       "Hitori de Dekiru mon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Minami Mizuno",
-      "Rui Hase"
-    ],
-    "id": 69291,
-    "malId": 39291,
-    "type": "manga",
-    "title": "Nijiiro Days",
     "url": "https://anilist.co/manga/69291",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69291-yQARtQPdSsb6.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:39.000Z",
-    "updatedAt": "2022-04-10T15:30:23.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/39291/Nijiiro_Days"
+    "externalLinks": [],
+    "malId": 39291,
+    "deletedAt": null,
+    "authors": [
+      "Minami Mizuno",
+      "Rui Hase"
+    ]
+  }
 }

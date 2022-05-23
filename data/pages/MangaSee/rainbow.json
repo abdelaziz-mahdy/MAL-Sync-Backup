@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "ABE George",
-    "KAKIZAKI Masasumi"
-  ],
+  "createdAt": "2021-02-11T11:40:36.000Z",
+  "updatedAt": "2022-01-19T08:34:56.000Z",
+  "checkedAt": null,
+  "id": 62195,
   "identifier": "rainbow",
   "type": "manga",
   "page": "MangaSee",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 7482,
   "aniId": 37482,
-  "createdAt": "2021-02-11T11:40:36.000Z",
-  "updatedAt": "2022-01-19T08:34:56.000Z",
   "deletedAt": null,
+  "authors": [
+    "ABE George",
+    "KAKIZAKI Masasumi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:14.000Z",
+    "updatedAt": "2022-05-13T15:05:08.000Z",
+    "checkedAt": "2022-05-13T15:05:08.000Z",
+    "id": 7482,
+    "type": "manga",
+    "title": "Rainbow: Nisha Rokubou no Shichinin",
+    "altTitle": [
+      "RAINBOW 二舎六房の七人"
+    ],
+    "url": "https://myanimelist.net/manga/7482/Rainbow__Nisha_Rokubou_no_Shichinin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/217981.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,46 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "RAINBOW 二舎六房の七人"
-    ],
+    "deletedAt": null,
     "authors": [
       "Abe, George",
       "Kakizaki, Masasumi"
-    ],
-    "id": 7482,
-    "type": "manga",
-    "title": "Rainbow: Nisha Rokubou no Shichinin",
-    "url": "https://myanimelist.net/manga/7482/Rainbow__Nisha_Rokubou_no_Shichinin",
-    "image": "https://cdn.myanimelist.net/images/manga/2/217981.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:14.000Z",
-    "updatedAt": "2022-04-05T01:00:52.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:07.366Z",
+    "updatedAt": "2022-05-13T15:05:06.000Z",
+    "checkedAt": "2022-05-13T15:05:06.000Z",
+    "id": 37482,
+    "type": "manga",
+    "title": "RAINBOW: Nisha Rokubou no Shichinin",
     "altTitle": [
       "RAINBOW 二舎六房の七人",
       "RAINBOW: The Seven from Cell 6 Block 2",
       "Rainbow, los siete de la celda 6 bloque 2"
     ],
-    "externalLinks": [],
-    "authors": [
-      "George Abe",
-      "Masasumi Kakizaki"
-    ],
-    "id": 37482,
-    "malId": 7482,
-    "type": "manga",
-    "title": "RAINBOW: Nisha Rokubou no Shichinin",
     "url": "https://anilist.co/manga/37482",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37482-Y8a2wjaRzQVH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:52.000Z",
-    "updatedAt": "2022-05-04T19:30:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/7482/Rainbow__Nisha_Rokubou_no_Shichinin"
+    "externalLinks": [],
+    "malId": 7482,
+    "deletedAt": null,
+    "authors": [
+      "George Abe",
+      "Masasumi Kakizaki"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:26:51.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 22249,
   "identifier": "golden-kamuy",
   "type": "anime",
   "page": "Twistmoe",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36028,
   "aniId": 99699,
-  "createdAt": "2020-10-12T16:26:51.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:55.000Z",
+    "updatedAt": "2022-05-14T16:49:59.000Z",
+    "checkedAt": "2022-05-14T16:49:59.000Z",
+    "id": 36028,
+    "type": "anime",
+    "title": "Golden Kamuy",
+    "altTitle": [
+      "Golden Kamuy",
+      "ゴールデンカムイ"
+    ],
+    "url": "https://myanimelist.net/anime/36028/Golden_Kamuy",
+    "image": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +59,26 @@
         "url": "https://www.funimation.com/shows/golden-kamuy"
       }
     ],
-    "altTitle": [
-      "Golden Kamuy",
-      "ゴールデンカムイ"
-    ],
-    "id": 36028,
+    "deletedAt": null,
+    "anidbId": 13337
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-15T10:32:35.000Z",
+    "checkedAt": "2022-05-15T10:32:35.000Z",
+    "id": 99699,
     "type": "anime",
     "title": "Golden Kamuy",
-    "url": "https://myanimelist.net/anime/36028/Golden_Kamuy",
-    "image": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 13337,
-    "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2022-04-01T18:02:21.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Golden Kamuy",
       "ゴールデンカムイ",
       "Golden Kamui",
       "黄金神威"
     ],
+    "url": "https://anilist.co/anime/99699",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99699-fN411nMa7FYn.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -74,19 +87,13 @@
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/golden-kamuy/"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GY8DWQN5Y/Golden-Kamuy"
       }
     ],
-    "id": 99699,
     "malId": 36028,
-    "type": "anime",
-    "title": "Golden Kamuy",
-    "url": "https://anilist.co/anime/99699",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99699-fN411nMa7FYn.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:25.000Z",
-    "updatedAt": "2021-12-17T15:56:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/36028/Golden_Kamuy"
+  }
 }

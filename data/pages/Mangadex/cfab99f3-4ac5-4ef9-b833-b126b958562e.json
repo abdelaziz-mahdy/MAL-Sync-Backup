@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Yoshida Akimi"
-  ],
+  "createdAt": "2020-10-12T16:05:16.000Z",
+  "updatedAt": "2021-12-03T11:48:08.000Z",
+  "checkedAt": null,
+  "id": 6048,
   "identifier": "cfab99f3-4ac5-4ef9-b833-b126b958562e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8168,
   "aniId": 38168,
-  "createdAt": "2020-10-12T16:05:16.000Z",
-  "updatedAt": "2021-12-03T11:48:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yoshida Akimi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:17.000Z",
+    "updatedAt": "2022-05-22T19:34:09.000Z",
+    "checkedAt": "2022-05-22T19:34:09.000Z",
+    "id": 8168,
+    "type": "manga",
+    "title": "Umimachi Diary",
+    "altTitle": [
+      "Kamakura Diary",
+      "海街diary"
+    ],
+    "url": "https://myanimelist.net/manga/8168/Umimachi_Diary",
+    "image": "https://cdn.myanimelist.net/images/manga/3/219711.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kamakura Diary",
-      "海街diary"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yoshida, Akimi"
-    ],
-    "id": 8168,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:11.919Z",
+    "updatedAt": "2022-05-22T19:34:08.000Z",
+    "checkedAt": "2022-05-22T19:34:08.000Z",
+    "id": 38168,
     "type": "manga",
     "title": "Umimachi Diary",
-    "url": "https://myanimelist.net/manga/8168/Umimachi_Diary",
-    "image": "https://cdn.myanimelist.net/images/manga/3/219711.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:17.000Z",
-    "updatedAt": "2022-03-03T15:12:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "海街diary",
       "Umi Machi Diary",
       "Umi Machi Diary 1 Semishigure no Yamugoro",
       "Kamakura Diary"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akimi Yoshida"
-    ],
-    "id": 38168,
-    "malId": 8168,
-    "type": "manga",
-    "title": "Umimachi Diary",
     "url": "https://anilist.co/manga/38168",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38168-M8cxhuxSlXx8.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:58.000Z",
-    "updatedAt": "2021-12-17T13:18:00.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8168/Umimachi_Diary"
+    "externalLinks": [],
+    "malId": 8168,
+    "deletedAt": null,
+    "authors": [
+      "Akimi Yoshida"
+    ]
+  }
 }

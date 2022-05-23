@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oshimi Shuzo"
-  ],
+  "createdAt": "2020-10-12T16:19:04.000Z",
+  "updatedAt": "2021-12-07T21:38:40.000Z",
+  "checkedAt": null,
+  "id": 34462,
   "identifier": "e8ea98f9-2952-4785-a14c-a11ba42cb3d5",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 125492,
   "aniId": 116931,
-  "createdAt": "2020-10-12T16:19:04.000Z",
-  "updatedAt": "2021-12-07T21:38:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oshimi Shuzo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:20.000Z",
+    "updatedAt": "2022-05-14T22:52:59.000Z",
+    "checkedAt": "2022-05-14T22:52:59.000Z",
+    "id": 125492,
+    "type": "manga",
+    "title": "Kusakabe-san",
+    "altTitle": [
+      "Miss Kusakabe",
+      "日下部さん"
+    ],
+    "url": "https://myanimelist.net/manga/125492/Kusakabe-san",
+    "image": "https://cdn.myanimelist.net/images/manga/3/228536.jpg",
+    "category": "One-shot",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,45 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "日下部さん"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oshimi, Shuuzou"
-    ],
-    "id": 125492,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:13.049Z",
+    "updatedAt": "2022-05-19T12:49:35.000Z",
+    "checkedAt": "2022-05-19T12:49:35.000Z",
+    "id": 116931,
     "type": "manga",
     "title": "Kusakabe-san",
-    "url": "https://myanimelist.net/manga/125492/Kusakabe-san",
-    "image": "https://cdn.myanimelist.net/images/manga/3/228536.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:20.000Z",
-    "updatedAt": "2021-11-25T09:36:02.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Miss Kusakabe",
       "日下部さん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuuzou Oshimi",
-      "Molly Rabbitt",
-      "Nicole Dochych"
-    ],
-    "id": 116931,
-    "malId": 125492,
-    "type": "manga",
-    "title": "Kusakabe-san",
     "url": "https://anilist.co/manga/116931",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116931-e4G68c25iaNr.jpg",
     "category": "one_shot",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:10.000Z",
-    "updatedAt": "2021-12-18T08:52:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/125492/Kusakabe-san"
+    "externalLinks": [],
+    "malId": 125492,
+    "deletedAt": null,
+    "authors": [
+      "Shuuzou Oshimi",
+      "Molly Rabbitt",
+      "Nicole Dochych"
+    ]
+  }
 }

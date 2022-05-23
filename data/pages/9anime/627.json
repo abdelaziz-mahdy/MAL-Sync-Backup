@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:48:25.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 17,
   "identifier": "627",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10187,
   "aniId": 10187,
-  "createdAt": "2020-10-12T15:48:25.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:05.000Z",
+    "updatedAt": "2022-05-14T20:47:18.000Z",
+    "checkedAt": "2022-05-14T20:47:18.000Z",
+    "id": 10187,
+    "type": "anime",
+    "title": "HenSemi (TV)",
+    "altTitle": [
+      "Hentai Seiri Seminar",
+      "Hen Zemi",
+      "Abnormal Physiology Seminar",
+      "変ゼミ"
+    ],
+    "url": "https://myanimelist.net/anime/10187/HenSemi_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/12/75839.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +52,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hentai Seiri Seminar",
-      "Hen Zemi",
-      "Abnormal Physiology Seminar",
-      "変ゼミ"
-    ],
+    "deletedAt": null,
+    "anidbId": 8287
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:13.000Z",
+    "updatedAt": "2022-05-15T13:18:47.000Z",
+    "checkedAt": "2022-05-15T13:18:47.000Z",
     "id": 10187,
     "type": "anime",
-    "title": "HenSemi (TV)",
-    "url": "https://myanimelist.net/anime/10187/HenSemi_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/12/75839.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 8287,
-    "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2022-04-02T08:31:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Hen Zemi (TV)",
     "altTitle": [
       "変ゼミ (TV)",
       "Hentai Seiri Seminar",
       "Hen Semi",
       "Abnormal Physiology Seminar"
     ],
-    "externalLinks": [],
-    "id": 10187,
-    "malId": 10187,
-    "type": "anime",
-    "title": "Hen Zemi (TV)",
     "url": "https://anilist.co/anime/10187",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10187-Ce3On9xbKNrK.png",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:13.000Z",
-    "updatedAt": "2021-12-13T02:03:45.000Z",
+    "externalLinks": [],
+    "malId": 10187,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/10187/HenSemi_TV"
+  }
 }

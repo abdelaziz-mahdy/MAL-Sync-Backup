@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ookubo Kei"
-  ],
+  "createdAt": "2020-10-12T16:09:11.000Z",
+  "updatedAt": "2021-12-04T15:53:09.000Z",
+  "checkedAt": null,
+  "id": 14451,
   "identifier": "c66d2a14-e0a2-4488-9023-abdab7249d61",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 75929,
   "aniId": 87466,
-  "createdAt": "2020-10-12T16:09:11.000Z",
-  "updatedAt": "2021-12-04T15:53:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ookubo Kei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:23.000Z",
+    "updatedAt": "2022-05-14T23:56:53.000Z",
+    "checkedAt": "2022-05-14T23:56:53.000Z",
+    "id": 75929,
+    "type": "manga",
+    "title": "Arte",
+    "altTitle": [
+      "Arte",
+      "アルテ"
+    ],
+    "url": "https://myanimelist.net/manga/75929/Arte",
+    "image": "https://cdn.myanimelist.net/images/manga/3/131495.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,25 +41,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Arte",
-      "アルテ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ookubo, Kei"
-    ],
-    "id": 75929,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:52.943Z",
+    "updatedAt": "2022-05-15T17:01:23.000Z",
+    "checkedAt": "2022-05-15T17:01:23.000Z",
+    "id": 87466,
     "type": "manga",
     "title": "Arte",
-    "url": "https://myanimelist.net/manga/75929/Arte",
-    "image": "https://cdn.myanimelist.net/images/manga/3/131495.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:23.000Z",
-    "updatedAt": "2022-01-03T11:54:07.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Arte",
       "アルテ",
@@ -52,22 +61,17 @@
       "Арте",
       "阿爾蒂"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kei Ookubo",
-      "Juan Francisco González"
-    ],
-    "id": 87466,
-    "malId": 75929,
-    "type": "manga",
-    "title": "Arte",
     "url": "https://anilist.co/manga/87466",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87466-5z2dxXoueZnl.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:45.000Z",
-    "updatedAt": "2021-12-17T23:27:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/75929/Arte"
+    "externalLinks": [],
+    "malId": 75929,
+    "deletedAt": null,
+    "authors": [
+      "Kei Ookubo",
+      "Juan Francisco González",
+      "Melody Pages"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:55:57.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 9406,
   "identifier": "vo8v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 36539,
   "aniId": 100305,
-  "createdAt": "2020-10-12T15:55:57.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-14T17:58:35.000Z",
+    "checkedAt": "2022-05-14T17:58:35.000Z",
+    "id": 36539,
+    "type": "anime",
+    "title": "Tsuki ga Kirei Special",
+    "altTitle": [
+      "Tsukigakirei Special",
+      "The Moon is Beautiful Special",
+      "As the Moon, So Beautiful Special",
+      "月がきれい"
+    ],
+    "url": "https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special",
+    "image": "https://cdn.myanimelist.net/images/anime/6/88307.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,41 +52,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Tsukigakirei Special",
-      "The Moon is Beautiful Special",
-      "As the Moon, So Beautiful Special",
-      "月がきれい"
-    ],
-    "id": 36539,
+    "deletedAt": null,
+    "anidbId": 12761
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-15T14:48:00.000Z",
+    "checkedAt": "2022-05-15T14:47:59.000Z",
+    "id": 100305,
     "type": "anime",
     "title": "Tsuki ga Kirei Special",
-    "url": "https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special",
-    "image": "https://cdn.myanimelist.net/images/anime/6/88307.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 12761,
-    "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2021-11-29T19:36:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "月がきれい",
       "as the moon so beautiful"
     ],
-    "externalLinks": [],
-    "id": 100305,
-    "malId": 36539,
-    "type": "anime",
-    "title": "Tsuki ga Kirei Special",
     "url": "https://anilist.co/anime/100305",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100305-CRu6RZ5eINHP.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-05-20T14:44:28.000Z",
-    "updatedAt": "2021-12-17T15:58:45.000Z",
+    "externalLinks": [],
+    "malId": 36539,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special"
+  }
 }

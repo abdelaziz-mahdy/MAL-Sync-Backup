@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Akagawa Sagan"
-  ],
+  "createdAt": "2021-11-11T20:44:47.000Z",
+  "updatedAt": "2022-05-13T19:50:37.000Z",
+  "checkedAt": "2022-05-13T19:49:50.000Z",
+  "id": 90616,
   "identifier": "d61fb44e-03c2-4fb8-93fd-52cb4b222dca",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,60 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2021-11-11T20:44:47.000Z",
-  "updatedAt": "2022-05-11T21:00:43.000Z",
+  "actorId": 1,
+  "malId": 143167,
+  "aniId": 138698,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Akagawa Sagan"
+  ],
+  "Mal": {
+    "createdAt": "2022-05-13T16:52:41.299Z",
+    "updatedAt": "2022-05-13T16:52:41.299Z",
+    "checkedAt": "2022-05-13T16:52:41.000Z",
+    "id": 143167,
+    "type": "manga",
+    "title": "Shikabane to Hanayome",
+    "altTitle": [
+      "The Corpse and the Bride",
+      "屍と花嫁"
+    ],
+    "url": "https://myanimelist.net/manga/143167/Shikabane_to_Hanayome",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254327.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.b-boy.jp/comics/184966"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Akagawa, Sagan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:48.183Z",
+    "updatedAt": "2022-05-13T16:52:41.000Z",
+    "checkedAt": "2022-05-13T16:52:41.000Z",
+    "id": 138698,
+    "type": "manga",
+    "title": "Shikabane to Hanayome",
+    "altTitle": [
+      "屍と花嫁",
+      "The Corpse and the Bride"
+    ],
+    "url": "https://anilist.co/manga/138698",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138698-75KPJkVc8fIE.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143167,
+    "deletedAt": null,
+    "authors": [
+      "Sagan Akagawa"
+    ]
+  }
 }

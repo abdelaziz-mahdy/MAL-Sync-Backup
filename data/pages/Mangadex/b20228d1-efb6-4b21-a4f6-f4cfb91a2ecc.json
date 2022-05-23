@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Suzuki Sanami"
-  ],
+  "createdAt": "2020-10-12T16:08:05.000Z",
+  "updatedAt": "2021-12-04T07:50:41.000Z",
+  "checkedAt": null,
+  "id": 12008,
   "identifier": "b20228d1-efb6-4b21-a4f6-f4cfb91a2ecc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,55 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 82345,
   "aniId": 86622,
-  "createdAt": "2020-10-12T16:08:05.000Z",
-  "updatedAt": "2021-12-04T07:50:41.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Sanami"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:37.000Z",
+    "updatedAt": "2022-05-16T06:09:47.000Z",
+    "checkedAt": "2022-05-16T06:09:47.000Z",
+    "id": 82345,
+    "type": "manga",
+    "title": "Match Shoujo",
     "altTitle": [
       "The Little Match Girl",
       "燐寸少女"
     ],
-    "authors": [
-      "Suzuki, Sanami"
-    ],
-    "id": 82345,
-    "type": "manga",
-    "title": "Match Shoujo",
     "url": "https://myanimelist.net/manga/82345/Match_Shoujo",
     "image": "https://cdn.myanimelist.net/images/manga/2/142527.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:45:37.000Z",
-    "updatedAt": "2022-03-30T01:01:12.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Suzuki, Sanami"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:01.203Z",
+    "updatedAt": "2022-05-16T06:09:45.000Z",
+    "checkedAt": "2022-05-16T06:09:45.000Z",
+    "id": 86622,
+    "type": "manga",
+    "title": "Macchi Shoujo",
     "altTitle": [
       "The Little Match Girl",
       "燐寸少女",
       "Match Shoujo",
       "สาวน้อยไม้ขีดไฟ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Sanami Suzuki"
-    ],
-    "id": 86622,
-    "malId": 82345,
-    "type": "manga",
-    "title": "Macchi Shoujo",
     "url": "https://anilist.co/manga/86622",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86622-r3TCEWam1ngU.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:05.000Z",
-    "updatedAt": "2021-12-10T07:33:40.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/82345/Match_Shoujo"
+    "externalLinks": [],
+    "malId": 82345,
+    "deletedAt": null,
+    "authors": [
+      "Sanami Suzuki"
+    ]
+  }
 }

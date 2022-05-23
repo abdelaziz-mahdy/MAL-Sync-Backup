@@ -1,13 +1,8 @@
 {
-  "authors": [
-    "Alice Blue",
-    "Sakura Ryou",
-    "Norikazu Akira",
-    "Reno Amagi",
-    "Tamaquis Wren",
-    "Ike Reibun",
-    "Kyuushuu Danji"
-  ],
+  "createdAt": "2020-10-12T16:11:57.000Z",
+  "updatedAt": "2021-12-05T12:18:40.000Z",
+  "checkedAt": null,
+  "id": 20392,
   "identifier": "005ff962-889d-4614-82b1-630ff97e846e",
   "type": "manga",
   "page": "Mangadex",
@@ -17,19 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2308,
   "aniId": 32308,
-  "createdAt": "2020-10-12T16:11:57.000Z",
-  "updatedAt": "2021-12-05T12:18:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Alice Blue",
+    "Sakura Ryou",
+    "Norikazu Akira",
+    "Reno Amagi",
+    "Tamaquis Wren",
+    "Ike Reibun",
+    "Kyuushuu Danji"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:42.000Z",
+    "updatedAt": "2022-04-27T13:32:59.000Z",
+    "checkedAt": null,
+    "id": 2308,
+    "type": "manga",
+    "title": "Ore no Shita de Agake",
     "altTitle": [
       "Ore no Shita de Agake Higuchi",
       "俺の下であがけ"
     ],
+    "url": "https://myanimelist.net/manga/2308/Ore_no_Shita_de_Agake",
+    "image": "https://cdn.myanimelist.net/images/manga/2/5987.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Akira, Norikazu",
       "Alice Blue",
@@ -37,24 +50,26 @@
       "Ike, Reibun",
       "Amagi, Reno",
       "Tamaquis, Wren"
-    ],
-    "id": 2308,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:50.236Z",
+    "updatedAt": "2022-05-13T12:45:50.236Z",
+    "checkedAt": null,
+    "id": 32308,
     "type": "manga",
     "title": "Ore no Shita de Agake",
-    "url": "https://myanimelist.net/manga/2308/Ore_no_Shita_de_Agake",
-    "image": "https://cdn.myanimelist.net/images/manga/2/5987.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:42.000Z",
-    "updatedAt": "2022-04-27T13:32:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "俺の下であがけ",
       "Ore no Shita de Agake Higuchi"
     ],
+    "url": "https://anilist.co/manga/32308",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32308-icmsBuomiK7k.jpg",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 2308,
+    "deletedAt": null,
     "authors": [
       "Alice Blue",
       "Reibun Ike",
@@ -63,18 +78,6 @@
       "Norikazu Akira",
       "Ryou Sakura",
       "Hanako Matsuyama"
-    ],
-    "id": 32308,
-    "malId": 2308,
-    "type": "manga",
-    "title": "Ore no Shita de Agake",
-    "url": "https://anilist.co/manga/32308",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32308-icmsBuomiK7k.jpg",
-    "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:37:04.000Z",
-    "updatedAt": "2021-12-17T10:39:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2308/Ore_no_Shita_de_Agake"
+    ]
+  }
 }

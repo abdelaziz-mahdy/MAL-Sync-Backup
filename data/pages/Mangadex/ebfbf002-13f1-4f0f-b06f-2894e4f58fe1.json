@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Chikamoto Dai",
-    "Shinkawa Gonbe"
-  ],
+  "createdAt": "2022-02-27T17:49:48.000Z",
+  "updatedAt": "2022-02-27T18:17:40.000Z",
+  "checkedAt": null,
+  "id": 96853,
   "identifier": "ebfbf002-13f1-4f0f-b06f-2894e4f58fe1",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 143892,
   "aniId": 144619,
-  "createdAt": "2022-02-27T17:49:48.000Z",
-  "updatedAt": "2022-02-27T18:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Chikamoto Dai",
+    "Shinkawa Gonbe"
+  ],
   "Mal": {
+    "createdAt": "2022-02-04T14:06:57.000Z",
+    "updatedAt": "2022-05-15T22:20:05.000Z",
+    "checkedAt": "2022-05-15T22:20:05.000Z",
+    "id": 143892,
+    "type": "manga",
+    "title": "Majo to Kishi wa Ikinokoru",
+    "altTitle": [
+      "Witch and Knight Survive",
+      "The Witch and Knight Will Probably Survive.",
+      "魔女と騎士は生きのこる"
+    ],
+    "url": "https://myanimelist.net/manga/143892/Majo_to_Kishi_wa_Ikinokoru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/255345.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Witch and Knight Survive",
-      "The Witch and Knight Will Probably Survive.",
-      "魔女と騎士は生きのこる"
-    ],
+    "deletedAt": null,
     "authors": [
       "Shinkawa, Gonbee",
       "Chikamoto, Dai"
-    ],
-    "id": 143892,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:46.212Z",
+    "updatedAt": "2022-05-15T22:32:11.000Z",
+    "checkedAt": "2022-05-15T22:32:11.000Z",
+    "id": 144619,
     "type": "manga",
     "title": "Majo to Kishi wa Ikinokoru",
-    "url": "https://myanimelist.net/manga/143892/Majo_to_Kishi_wa_Ikinokoru",
-    "image": "https://cdn.myanimelist.net/images/manga/2/255345.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2022-02-04T14:06:57.000Z",
-    "updatedAt": "2022-04-08T06:30:44.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔女と騎士は生きのこる"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gonbe Shinkawa",
-      "Dai Chikamoto"
-    ],
-    "id": 144619,
-    "malId": 143892,
-    "type": "manga",
-    "title": "Majo to Kishi wa Ikinokoru",
     "url": "https://anilist.co/manga/144619",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144619-kt8CTEztTd6O.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2022-02-01T04:20:42.000Z",
-    "updatedAt": "2022-02-05T06:36:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/143892/Majo_to_Kishi_wa_Ikinokoru"
+    "externalLinks": [],
+    "malId": 143892,
+    "deletedAt": null,
+    "authors": [
+      "Gonbe Shinkawa",
+      "Dai Chikamoto"
+    ]
+  }
 }

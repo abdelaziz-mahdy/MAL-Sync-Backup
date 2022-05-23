@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:54:54.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 8198,
   "identifier": "pywj",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 630,
   "aniId": 630,
-  "createdAt": "2020-10-12T15:54:54.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T21:06:05.000Z",
+    "checkedAt": "2022-05-14T21:06:05.000Z",
+    "id": 630,
+    "type": "anime",
+    "title": "Mahoutsukai Tai! (TV)",
+    "altTitle": [
+      "Magic User's Club",
+      "魔法使いTai!"
+    ],
+    "url": "https://myanimelist.net/anime/630/Mahoutsukai_Tai_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/11/44063.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,28 +59,25 @@
         "url": "https://www.funimation.com/shows/magic-users-club"
       }
     ],
-    "altTitle": [
-      "Magic User's Club",
-      "魔法使いTai!"
-    ],
+    "deletedAt": null,
+    "anidbId": 140
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T20:36:59.000Z",
+    "checkedAt": "2022-05-15T20:36:59.000Z",
     "id": 630,
     "type": "anime",
-    "title": "Mahoutsukai Tai! (TV)",
-    "url": "https://myanimelist.net/anime/630/Mahoutsukai_Tai_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/11/44063.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 140,
-    "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2022-03-30T16:03:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "Mahou Tsukai Tai! (TV)",
     "altTitle": [
       "Magic User's Club! (TV)",
       "魔法使いTai! (TV)",
       "Escola de Bruixes"
     ],
+    "url": "https://anilist.co/anime/630",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx630-KTGunpje4pWz.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -75,17 +88,7 @@
         "url": "https://www.funimation.com/shows/magic-users-club"
       }
     ],
-    "id": 630,
     "malId": 630,
-    "type": "anime",
-    "title": "Mahou Tsukai Tai! (TV)",
-    "url": "https://anilist.co/anime/630",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx630-KTGunpje4pWz.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:41.000Z",
-    "updatedAt": "2022-03-06T23:29:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/630/Mahoutsukai_Tai_TV"
+  }
 }

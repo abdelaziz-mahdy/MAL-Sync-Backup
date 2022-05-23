@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:53:49.000Z",
+  "updatedAt": "2021-05-20T15:21:52.000Z",
+  "checkedAt": null,
+  "id": 6967,
   "identifier": "n5pj",
   "type": "anime",
   "page": "9anime",
@@ -8,20 +12,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 32397,
   "aniId": 21605,
-  "createdAt": "2020-10-12T15:53:49.000Z",
-  "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "animedb",
-        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11855"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T23:20:17.000Z",
+    "checkedAt": "2022-05-14T23:20:17.000Z",
+    "id": 32397,
+    "type": "anime",
+    "title": "Saga-ken wo Meguru Animation",
     "altTitle": [
       "Fuyu no Chikai, Natsu no Matsuri: Takeo no Ookusu",
       "Yakusoku no Utsuwa: Arita no Hatsuko",
@@ -29,34 +30,36 @@
       "Animated Journey Through Saga Prefecture",
       "佐賀県を巡るアニメーション"
     ],
-    "id": 32397,
-    "type": "anime",
-    "title": "Saga-ken wo Meguru Animation",
     "url": "https://myanimelist.net/anime/32397/Saga-ken_wo_Meguru_Animation",
     "image": "https://cdn.myanimelist.net/images/anime/12/77750.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": 11855,
-    "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2022-04-03T09:34:46.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11855"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11855
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:00.000Z",
+    "updatedAt": "2022-05-15T19:19:23.000Z",
+    "checkedAt": "2022-05-15T19:19:23.000Z",
+    "id": 21605,
+    "type": "anime",
+    "title": "Fuyu no Chikai, Natsu no Matsuri: Takeo no Ookusu",
     "altTitle": [
       "冬の誓い　夏の祭り　武雄の大楠"
     ],
-    "externalLinks": [],
-    "id": 21605,
-    "malId": 32397,
-    "type": "anime",
-    "title": "Fuyu no Chikai, Natsu no Matsuri: Takeo no Ookusu",
     "url": "https://anilist.co/anime/21605",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21605-oxWabSBOjRt8.png",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:00.000Z",
-    "updatedAt": "2021-12-17T15:20:34.000Z",
+    "externalLinks": [],
+    "malId": 32397,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/32397/Saga-ken_wo_Meguru_Animation"
+  }
 }

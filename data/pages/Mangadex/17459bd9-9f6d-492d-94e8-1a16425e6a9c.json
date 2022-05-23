@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Guri",
-    "Kikuyarou"
-  ],
+  "createdAt": "2020-10-12T16:15:40.000Z",
+  "updatedAt": "2021-12-06T15:47:52.000Z",
+  "checkedAt": null,
+  "id": 27509,
   "identifier": "17459bd9-9f6d-492d-94e8-1a16425e6a9c",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 121377,
   "aniId": 105162,
-  "createdAt": "2020-10-12T16:15:40.000Z",
-  "updatedAt": "2021-12-06T15:47:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Guri",
+    "Kikuyarou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:48:06.000Z",
+    "updatedAt": "2022-05-19T18:14:01.000Z",
+    "checkedAt": "2022-05-19T18:14:01.000Z",
+    "id": 121377,
+    "type": "manga",
+    "title": "Tanaka no Isekai Nariagari",
+    "altTitle": [
+      "The Rise of Tanaka in Another World",
+      "タナカの異世界成り上がり"
+    ],
+    "url": "https://myanimelist.net/manga/121377/Tanaka_no_Isekai_Nariagari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/229737.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "The Rise of Tanaka in Another World",
-      "タナカの異世界成り上がり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kikuyarou",
       "Guri"
-    ],
-    "id": 121377,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:50.923Z",
+    "updatedAt": "2022-05-19T18:14:00.000Z",
+    "checkedAt": "2022-05-19T18:14:00.000Z",
+    "id": 105162,
     "type": "manga",
     "title": "Tanaka no Isekai Nariagari",
-    "url": "https://myanimelist.net/manga/121377/Tanaka_no_Isekai_Nariagari",
-    "image": "https://cdn.myanimelist.net/images/manga/2/229737.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:48:06.000Z",
-    "updatedAt": "2022-04-04T22:32:23.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "タナカの異世界成り上がり"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Guri",
-      "Rui Suzuki",
-      "Kikuyarou"
-    ],
-    "id": 105162,
-    "malId": 121377,
-    "type": "manga",
-    "title": "Tanaka no Isekai Nariagari",
     "url": "https://anilist.co/manga/105162",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105162-zrlhulHH1Ma1.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:23.000Z",
-    "updatedAt": "2021-12-18T04:59:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/121377/Tanaka_no_Isekai_Nariagari"
+    "externalLinks": [],
+    "malId": 121377,
+    "deletedAt": null,
+    "authors": [
+      "Guri",
+      "Rui Suzuki",
+      "Kikuyarou"
+    ]
+  }
 }

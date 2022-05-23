@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:00.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 2106,
   "identifier": "444o",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 155,
   "aniId": 155,
-  "createdAt": "2020-10-12T15:50:00.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T16:57:35.000Z",
+    "checkedAt": "2022-05-14T16:57:35.000Z",
+    "id": 155,
+    "type": "anime",
+    "title": "X/1999",
+    "altTitle": [
+      "X 1999",
+      "X (1996)",
+      "X - The Movie",
+      "エックス, X/1999"
+    ],
+    "url": "https://myanimelist.net/anime/155/X_1999",
+    "image": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +52,28 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "X 1999",
-      "X (1996)",
-      "X - The Movie",
-      "エックス, X/1999"
-    ],
+    "deletedAt": null,
+    "anidbId": 429
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:27.000Z",
+    "updatedAt": "2022-05-15T19:53:47.000Z",
+    "checkedAt": "2022-05-15T19:53:47.000Z",
     "id": 155,
     "type": "anime",
     "title": "X/1999",
-    "url": "https://myanimelist.net/anime/155/X_1999",
-    "image": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 429,
-    "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2022-03-30T11:33:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "エックス",
       "X - the Movie",
       "X 1999",
       "X (1996)"
     ],
-    "externalLinks": [],
-    "id": 155,
-    "malId": 155,
-    "type": "anime",
-    "title": "X/1999",
     "url": "https://anilist.co/anime/155",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155-tDzea3RpxSZ8.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:27.000Z",
-    "updatedAt": "2021-12-17T08:21:24.000Z",
+    "externalLinks": [],
+    "malId": 155,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/155/X_1999"
+  }
 }

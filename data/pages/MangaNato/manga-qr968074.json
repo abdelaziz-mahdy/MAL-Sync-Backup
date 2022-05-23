@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukumoto Nobuyuki"
-  ],
+  "createdAt": "2021-08-20T15:07:20.000Z",
+  "updatedAt": "2022-02-20T21:16:54.000Z",
+  "checkedAt": null,
+  "id": 85866,
   "identifier": "manga-qr968074",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actorId": 2,
   "malId": 4333,
   "aniId": 34333,
-  "createdAt": "2021-08-20T15:07:20.000Z",
-  "updatedAt": "2022-02-20T21:16:54.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukumoto Nobuyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:58.000Z",
+    "updatedAt": "2022-05-15T00:14:17.000Z",
+    "checkedAt": "2022-05-15T00:14:17.000Z",
+    "id": 4333,
+    "type": "manga",
+    "title": "LifE",
+    "altTitle": [
+      "Seison LifE",
+      "Seizon",
+      "生存―LifE"
+    ],
+    "url": "https://myanimelist.net/manga/4333/LifE",
+    "image": "https://cdn.myanimelist.net/images/manga/2/7204.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +42,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Seison LifE",
-      "Seizon",
-      "生存―LifE"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kawaguchi, Kaiji",
       "Fukumoto, Nobuyuki"
-    ],
-    "id": 4333,
-    "type": "manga",
-    "title": "LifE",
-    "url": "https://myanimelist.net/manga/4333/LifE",
-    "image": "https://cdn.myanimelist.net/images/manga/2/7204.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:58.000Z",
-    "updatedAt": "2022-02-20T15:17:10.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:39.472Z",
+    "updatedAt": "2022-05-15T16:57:35.000Z",
+    "checkedAt": "2022-05-15T16:57:35.000Z",
+    "id": 34333,
+    "type": "manga",
+    "title": "Seizon: LifE",
     "altTitle": [
       "生存―LifE",
       "Seizon -LifE",
       "Seison Life",
       "Seison LifE"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kaiji Kawaguchi",
-      "Nobuyuki Fukumoto"
-    ],
-    "id": 34333,
-    "malId": 4333,
-    "type": "manga",
-    "title": "Seizon: LifE",
     "url": "https://anilist.co/manga/34333",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34333-2YAuxjq578q4.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:28.000Z",
-    "updatedAt": "2021-12-17T11:46:49.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4333/LifE"
+    "externalLinks": [],
+    "malId": 4333,
+    "deletedAt": null,
+    "authors": [
+      "Kaiji Kawaguchi",
+      "Nobuyuki Fukumoto"
+    ]
+  }
 }

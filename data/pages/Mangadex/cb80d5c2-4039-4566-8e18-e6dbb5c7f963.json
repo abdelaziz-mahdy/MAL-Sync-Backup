@@ -1,9 +1,8 @@
 {
-  "authors": [
-    "Higuchi Tatsuhito",
-    "Yoshino Hiroyuki",
-    "Satou Kenetsu"
-  ],
+  "createdAt": "2020-10-12T16:04:48.000Z",
+  "updatedAt": "2021-12-02T23:47:28.000Z",
+  "checkedAt": null,
+  "id": 5044,
   "identifier": "cb80d5c2-4039-4566-8e18-e6dbb5c7f963",
   "type": "manga",
   "page": "Mangadex",
@@ -13,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1254,
   "aniId": 31254,
-  "createdAt": "2020-10-12T16:04:48.000Z",
-  "updatedAt": "2021-12-02T23:47:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higuchi Tatsuhito",
+    "Yoshino Hiroyuki",
+    "Satou Kenetsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:31.000Z",
+    "updatedAt": "2021-12-18T18:18:41.000Z",
+    "checkedAt": null,
+    "id": 1254,
+    "type": "manga",
+    "title": "Mai-Otome Arashi",
+    "altTitle": [
+      "My-Otome Arashi",
+      "My-Otome Arashi",
+      "Mai Otome Arashi"
+    ],
+    "url": "https://myanimelist.net/manga/1254/Mai-Otome_Arashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/5708.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -27,50 +44,36 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "My-Otome Arashi",
-      "My-Otome Arashi",
-      "Mai Otome Arashi"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yatate, Hajime",
       "Satou, Kenetsu",
       "Higuchi, Tatsuhito"
-    ],
-    "id": 1254,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:59.173Z",
+    "updatedAt": "2022-05-13T12:42:59.173Z",
+    "checkedAt": null,
+    "id": 31254,
     "type": "manga",
     "title": "Mai-Otome Arashi",
-    "url": "https://myanimelist.net/manga/1254/Mai-Otome_Arashi",
-    "image": "https://cdn.myanimelist.net/images/manga/2/5708.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:31.000Z",
-    "updatedAt": "2021-12-18T18:18:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "舞ー乙HiME嵐",
       "My-Otome Arashi",
       "Mai Otome Arashi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hajime Yatate",
-      "Kenetsu Satou",
-      "Tatsuto Higuchi"
-    ],
-    "id": 31254,
-    "malId": 1254,
-    "type": "manga",
-    "title": "Mai-Otome Arashi",
     "url": "https://anilist.co/manga/31254",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1254.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:57.000Z",
-    "updatedAt": "2021-12-17T10:03:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1254/Mai-Otome_Arashi"
+    "externalLinks": [],
+    "malId": 1254,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Yatate",
+      "Kenetsu Satou",
+      "Tatsuto Higuchi"
+    ]
+  }
 }

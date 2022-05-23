@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Shin Yandamushi"
-  ],
+  "createdAt": "2020-10-12T16:17:55.000Z",
+  "updatedAt": "2021-12-07T12:48:04.000Z",
+  "checkedAt": null,
+  "id": 32133,
   "identifier": "cafb06ef-c70b-4176-a3d7-1c5c640b553a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 92556,
   "aniId": 86550,
-  "createdAt": "2020-10-12T16:17:55.000Z",
-  "updatedAt": "2021-12-07T12:48:04.000Z",
   "deletedAt": null,
+  "authors": [
+    "Shin Yandamushi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:10.000Z",
+    "updatedAt": "2021-11-14T12:43:59.000Z",
+    "checkedAt": null,
+    "id": 92556,
+    "type": "manga",
+    "title": "Pan de Peace!",
+    "altTitle": [
+      "パンでPeace!"
+    ],
+    "url": "https://myanimelist.net/manga/92556/Pan_de_Peace",
+    "image": "https://cdn.myanimelist.net/images/manga/1/162742.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "パンでPeace!"
-    ],
+    "deletedAt": null,
     "authors": [
       "emily"
-    ],
-    "id": 92556,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:58.504Z",
+    "updatedAt": "2022-05-13T12:42:58.504Z",
+    "checkedAt": null,
+    "id": 86550,
     "type": "manga",
     "title": "Pan de Peace!",
-    "url": "https://myanimelist.net/manga/92556/Pan_de_Peace",
-    "image": "https://cdn.myanimelist.net/images/manga/1/162742.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:10.000Z",
-    "updatedAt": "2021-11-14T12:43:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Pan de Peace!",
       "パンでPeace！"
     ],
-    "externalLinks": [],
-    "authors": [
-      "emily"
-    ],
-    "id": 86550,
-    "malId": 92556,
-    "type": "manga",
-    "title": "Pan de Peace!",
     "url": "https://anilist.co/manga/86550",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86550-YGcmypL4FPm5.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:40.000Z",
-    "updatedAt": "2021-12-17T22:53:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/92556/Pan_de_Peace"
+    "externalLinks": [],
+    "malId": 92556,
+    "deletedAt": null,
+    "authors": [
+      "emily"
+    ]
+  }
 }

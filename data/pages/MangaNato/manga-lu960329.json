@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kuji Shinnosuke",
-    "[Add]"
-  ],
+  "createdAt": "2022-05-09T16:01:28.000Z",
+  "updatedAt": "2022-05-13T18:21:22.000Z",
+  "checkedAt": "2022-05-13T17:30:16.000Z",
+  "id": 103490,
   "identifier": "manga-lu960329",
   "type": "manga",
   "page": "MangaNato",
@@ -11,14 +11,55 @@
   "image": "https://avt.mkklcdnv6temp.com/47/k/6-1583476171.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2022-05-09T16:01:28.000Z",
-  "updatedAt": "2022-05-09T16:01:28.000Z",
+  "active": true,
+  "actorId": null,
+  "malId": 49693,
+  "aniId": 79693,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Kuji Shinnosuke",
+    "[Add]"
+  ],
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:33.000Z",
+    "updatedAt": "2022-05-13T17:30:18.000Z",
+    "checkedAt": "2022-05-13T17:30:18.000Z",
+    "id": 49693,
+    "type": "manga",
+    "title": "Astro",
+    "altTitle": [
+      "アストロ"
+    ],
+    "url": "https://myanimelist.net/manga/49693/Astro",
+    "image": "https://cdn.myanimelist.net/images/manga/1/87589.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuji, Shinnosuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:27.170Z",
+    "updatedAt": "2022-05-16T01:42:34.000Z",
+    "checkedAt": "2022-05-16T01:42:34.000Z",
+    "id": 79693,
+    "type": "manga",
+    "title": "Astro",
+    "altTitle": [
+      "アストロ"
+    ],
+    "url": "https://anilist.co/manga/79693",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b79693-yAS2YTQr1Gdb.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49693,
+    "deletedAt": null,
+    "authors": [
+      "Shinnosuke Kuji"
+    ]
+  }
 }

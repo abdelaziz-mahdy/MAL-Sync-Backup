@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fukumorida Aiko"
-  ],
+  "createdAt": "2021-06-02T01:31:37.000Z",
+  "updatedAt": "2021-12-02T02:16:48.000Z",
+  "checkedAt": null,
+  "id": 75631,
   "identifier": "manga-ae954013",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 57507,
   "aniId": 85516,
-  "createdAt": "2021-06-02T01:31:37.000Z",
-  "updatedAt": "2021-12-02T02:16:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fukumorida Aiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:50.000Z",
+    "updatedAt": "2022-05-15T12:07:09.000Z",
+    "checkedAt": "2022-05-15T12:07:09.000Z",
+    "id": 57507,
+    "type": "manga",
+    "title": "Hayachine!",
+    "altTitle": [
+      "ハヤチネ！"
+    ],
+    "url": "https://myanimelist.net/manga/57507/Hayachine",
+    "image": "https://cdn.myanimelist.net/images/manga/3/188798.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ハヤチネ！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Fukumorita, Aiko"
-    ],
-    "id": 57507,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:50.085Z",
+    "updatedAt": "2022-05-15T16:58:35.000Z",
+    "checkedAt": "2022-05-15T16:58:35.000Z",
+    "id": 85516,
     "type": "manga",
     "title": "Hayachine!",
-    "url": "https://myanimelist.net/manga/57507/Hayachine",
-    "image": "https://cdn.myanimelist.net/images/manga/3/188798.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:50.000Z",
-    "updatedAt": "2021-12-02T01:46:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Hayachine!",
       "ハヤチネ!",
       "Hayachine"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aiko Fukumorita"
-    ],
-    "id": 85516,
-    "malId": 57507,
-    "type": "manga",
-    "title": "Hayachine!",
     "url": "https://anilist.co/manga/85516",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55516.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:30.000Z",
-    "updatedAt": "2021-12-17T22:02:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/57507/Hayachine"
+    "externalLinks": [],
+    "malId": 57507,
+    "deletedAt": null,
+    "authors": [
+      "Aiko Fukumorita"
+    ]
+  }
 }

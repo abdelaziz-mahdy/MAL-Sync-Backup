@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Yasen",
-    "Lemon Frog",
-    "Ssalsoop",
-    "Rada"
-  ],
+  "createdAt": "2020-10-12T16:17:38.000Z",
+  "updatedAt": "2022-02-11T14:39:37.000Z",
+  "checkedAt": null,
+  "id": 31537,
   "identifier": "fe840243-5b68-447a-ab4b-c094eed7d6af",
   "type": "manga",
   "page": "Mangadex",
@@ -14,38 +12,42 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 116264,
-  "createdAt": "2020-10-12T16:17:38.000Z",
-  "updatedAt": "2022-02-11T14:39:37.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yasen",
+    "Lemon Frog",
+    "Ssalsoop",
+    "Rada"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:43.953Z",
+    "updatedAt": "2022-05-13T18:00:16.000Z",
+    "checkedAt": "2022-05-13T18:00:16.000Z",
+    "id": 116264,
+    "type": "manga",
+    "title": "Jinhongui Karma",
     "altTitle": [
       "Crimson Karma",
       "진홍의 카르마",
       "红莲之罪：转生成为女骑士",
       "ชะตาชีวิตลิขิตสีเพลิง"
     ],
+    "url": "https://anilist.co/manga/116264",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116264-k1fdvVj2Ja7p.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
     "authors": [
       "Lemon Gaeguri",
       "Rada",
       "Yasen",
       "Ssalsoop"
-    ],
-    "id": 116264,
-    "malId": null,
-    "type": "manga",
-    "title": "Jinhongui Karma",
-    "url": "https://anilist.co/manga/116264",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116264-k1fdvVj2Ja7p.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-21T14:13:24.000Z",
-    "updatedAt": "2022-05-02T23:33:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    ]
+  }
 }

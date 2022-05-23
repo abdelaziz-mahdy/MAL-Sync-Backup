@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asano Inio"
-  ],
+  "createdAt": "2021-06-21T07:34:18.000Z",
+  "updatedAt": "2021-12-21T07:59:59.000Z",
+  "checkedAt": null,
+  "id": 79196,
   "identifier": "manga-cy959407",
   "type": "manga",
   "page": "MangaNato",
@@ -11,20 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 17353,
   "aniId": 47353,
-  "createdAt": "2021-06-21T07:34:18.000Z",
-  "updatedAt": "2021-12-21T07:59:59.000Z",
   "deletedAt": null,
+  "authors": [
+    "Asano Inio"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%B9%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:42:26.000Z",
+    "updatedAt": "2022-05-14T17:02:38.000Z",
+    "checkedAt": "2022-05-14T17:02:38.000Z",
+    "id": 17353,
+    "type": "manga",
+    "title": "Umibe no Onnanoko",
     "altTitle": [
       "Umibe no Onna-no-Ko",
       "The Girl of the Beach",
@@ -32,21 +33,29 @@
       "A Girl on the Shore",
       "うみべの女の子"
     ],
-    "authors": [
-      "Asano, Inio"
-    ],
-    "id": 17353,
-    "type": "manga",
-    "title": "Umibe no Onnanoko",
     "url": "https://myanimelist.net/manga/17353/Umibe_no_Onnanoko",
     "image": "https://cdn.myanimelist.net/images/manga/3/87179.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:42:26.000Z",
-    "updatedAt": "2022-04-22T22:02:56.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%B9%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Asano, Inio"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:03.524Z",
+    "updatedAt": "2022-05-15T14:28:59.000Z",
+    "checkedAt": "2022-05-15T14:28:59.000Z",
+    "id": 47353,
+    "type": "manga",
+    "title": "Umibe no Onnanoko",
     "altTitle": [
       "A Girl on the Shore",
       "うみべの女の子",
@@ -58,23 +67,17 @@
       "Dziewczyna znad morza",
       "Mädchen am Strand"
     ],
+    "url": "https://anilist.co/manga/47353",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47353-6SV8AMyNBwm6.jpg",
+    "category": "manga",
+    "hentai": true,
     "externalLinks": [],
+    "malId": 17353,
+    "deletedAt": null,
     "authors": [
       "Inio Asano",
       "Jocelyne Allen",
       "Aurélien Estager"
-    ],
-    "id": 47353,
-    "malId": 17353,
-    "type": "manga",
-    "title": "Umibe no Onnanoko",
-    "url": "https://anilist.co/manga/47353",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47353-6SV8AMyNBwm6.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:44:05.000Z",
-    "updatedAt": "2021-12-17T16:33:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/17353/Umibe_no_Onnanoko"
+    ]
+  }
 }

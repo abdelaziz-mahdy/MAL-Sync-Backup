@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sorano Kairi"
-  ],
+  "createdAt": "2020-10-12T16:13:23.000Z",
+  "updatedAt": "2021-12-05T22:48:21.000Z",
+  "checkedAt": null,
+  "id": 22775,
   "identifier": "461dc6ac-f2d4-4893-a7e5-b6c8f0c1c19a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 110012,
   "aniId": 105330,
-  "createdAt": "2020-10-12T16:13:23.000Z",
-  "updatedAt": "2021-12-05T22:48:21.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sorano Kairi"
+  ],
   "Mal": {
+    "createdAt": "2021-06-05T21:21:19.000Z",
+    "updatedAt": "2021-12-05T21:47:59.000Z",
+    "checkedAt": null,
+    "id": 110012,
+    "type": "manga",
+    "title": "Parham Itan",
+    "altTitle": [
+      "Higan Itan",
+      "彼岸〈パーラム〉異譚"
+    ],
+    "url": "https://myanimelist.net/manga/110012/Parham_Itan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/210289.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Higan Itan",
-      "彼岸〈パーラム〉異譚"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sorano, Kairi"
-    ],
-    "id": 110012,
-    "type": "manga",
-    "title": "Parham Itan",
-    "url": "https://myanimelist.net/manga/110012/Parham_Itan",
-    "image": "https://cdn.myanimelist.net/images/manga/3/210289.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-06-05T21:21:19.000Z",
-    "updatedAt": "2021-12-05T21:47:59.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:49.367Z",
+    "updatedAt": "2022-05-13T12:53:49.367Z",
+    "checkedAt": null,
+    "id": 105330,
+    "type": "manga",
+    "title": "Higan Itan",
     "altTitle": [
       "Parham Itan: Tales From Beyond",
       "彼岸異譚",
       "Parham Itan"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kairi Sorano",
-      "Christine Dashiell"
-    ],
-    "id": 105330,
-    "malId": 110012,
-    "type": "manga",
-    "title": "Higan Itan",
     "url": "https://anilist.co/manga/105330",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105330-sDNzYRDWqSGL.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-05T21:21:19.000Z",
-    "updatedAt": "2021-12-18T05:19:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/110012/Parham_Itan"
+    "externalLinks": [],
+    "malId": 110012,
+    "deletedAt": null,
+    "authors": [
+      "Kairi Sorano",
+      "Christine Dashiell"
+    ]
+  }
 }

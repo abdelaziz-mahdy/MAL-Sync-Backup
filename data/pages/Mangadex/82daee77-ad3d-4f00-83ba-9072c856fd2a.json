@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kikuchi Hideyuki",
-    "Hosoma Shin-ichi"
-  ],
+  "createdAt": "2020-10-12T16:09:07.000Z",
+  "updatedAt": "2021-12-04T15:21:28.000Z",
+  "checkedAt": null,
+  "id": 14291,
   "identifier": "82daee77-ad3d-4f00-83ba-9072c856fd2a",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 16349,
   "aniId": 46349,
-  "createdAt": "2020-10-12T16:09:07.000Z",
-  "updatedAt": "2021-12-04T15:21:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kikuchi Hideyuki",
+    "Hosoma Shin-ichi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:21.000Z",
+    "updatedAt": "2022-05-19T10:14:02.000Z",
+    "checkedAt": "2022-05-19T10:14:02.000Z",
+    "id": 16349,
+    "type": "manga",
+    "title": "Makai Toshi Hunter",
+    "altTitle": [
+      "Hell City Hunter",
+      "Monster City Hunter",
+      "Demon City Hunter",
+      "魔界都市ハンター"
+    ],
+    "url": "https://myanimelist.net/manga/16349/Makai_Toshi_Hunter",
+    "image": "https://cdn.myanimelist.net/images/manga/3/32220.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,50 +44,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hell City Hunter",
-      "Monster City Hunter",
-      "Demon City Hunter",
-      "魔界都市ハンター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kikuchi, Hideyuki",
       "Hosoma, Shin-Ichi"
-    ],
-    "id": 16349,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:01.527Z",
+    "updatedAt": "2022-05-19T10:14:01.000Z",
+    "checkedAt": "2022-05-19T10:14:01.000Z",
+    "id": 46349,
     "type": "manga",
     "title": "Makai Toshi Hunter",
-    "url": "https://myanimelist.net/manga/16349/Makai_Toshi_Hunter",
-    "image": "https://cdn.myanimelist.net/images/manga/3/32220.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:21.000Z",
-    "updatedAt": "2022-04-27T00:01:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Demon City Hunter",
       "魔界都市ハンター",
       "Hell City Hunter",
       "Monster City Hunter"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hideyuki Kikuchi",
-      "Shinichi Hosoma"
-    ],
-    "id": 46349,
-    "malId": 16349,
-    "type": "manga",
-    "title": "Makai Toshi Hunter",
     "url": "https://anilist.co/manga/46349",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46349-f4CxOmCjsHuV.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:55.000Z",
-    "updatedAt": "2021-12-17T16:09:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/16349/Makai_Toshi_Hunter"
+    "externalLinks": [],
+    "malId": 16349,
+    "deletedAt": null,
+    "authors": [
+      "Hideyuki Kikuchi",
+      "Shinichi Hosoma"
+    ]
+  }
 }

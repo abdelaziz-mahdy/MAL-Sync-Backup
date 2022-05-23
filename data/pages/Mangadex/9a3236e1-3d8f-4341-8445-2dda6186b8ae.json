@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takaki Kenichiro",
-    "Aoi Manabu"
-  ],
+  "createdAt": "2020-10-12T16:05:26.000Z",
+  "updatedAt": "2021-12-03T12:48:57.000Z",
+  "checkedAt": null,
+  "id": 6412,
   "identifier": "9a3236e1-3d8f-4341-8445-2dda6186b8ae",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 42915,
   "aniId": 72915,
-  "createdAt": "2020-10-12T16:05:26.000Z",
-  "updatedAt": "2021-12-03T12:48:57.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takaki Kenichiro",
+    "Aoi Manabu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:16.000Z",
+    "updatedAt": "2022-02-02T11:51:12.000Z",
+    "checkedAt": null,
+    "id": 42915,
+    "type": "manga",
+    "title": "Senran Kagura: Guren no Uroboros",
+    "altTitle": [
+      "Senran Kagura: Guren no Hebi",
+      "閃乱カグラ -紅蓮の蛇-"
+    ],
+    "url": "https://myanimelist.net/manga/42915/Senran_Kagura__Guren_no_Uroboros",
+    "image": "https://cdn.myanimelist.net/images/manga/1/75647.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,46 +46,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Senran Kagura: Guren no Hebi",
-      "閃乱カグラ -紅蓮の蛇-"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takaki, Kenichirou",
       "Aoi, Manabu"
-    ],
-    "id": 42915,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:36.257Z",
+    "updatedAt": "2022-05-13T13:02:36.257Z",
+    "checkedAt": null,
+    "id": 72915,
     "type": "manga",
     "title": "Senran Kagura: Guren no Uroboros",
-    "url": "https://myanimelist.net/manga/42915/Senran_Kagura__Guren_no_Uroboros",
-    "image": "https://cdn.myanimelist.net/images/manga/1/75647.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:16.000Z",
-    "updatedAt": "2022-02-02T11:51:12.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "閃乱カグラ -紅蓮の蛇-",
       "Senran Kagura: Guren no Hebi"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kenichirou Takaki",
-      "Manabu Aoi"
-    ],
-    "id": 72915,
-    "malId": 42915,
-    "type": "manga",
-    "title": "Senran Kagura: Guren no Uroboros",
     "url": "https://anilist.co/manga/72915",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42915.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:55.000Z",
-    "updatedAt": "2021-12-17T20:31:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/42915/Senran_Kagura__Guren_no_Uroboros"
+    "externalLinks": [],
+    "malId": 42915,
+    "deletedAt": null,
+    "authors": [
+      "Kenichirou Takaki",
+      "Manabu Aoi"
+    ]
+  }
 }

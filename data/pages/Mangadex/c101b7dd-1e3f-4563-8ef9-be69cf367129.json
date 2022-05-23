@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kitayama Yuri",
-    "Minazuki Futago"
-  ],
+  "createdAt": "2020-10-12T16:10:50.000Z",
+  "updatedAt": "2021-12-05T03:50:00.000Z",
+  "checkedAt": null,
+  "id": 18000,
   "identifier": "c101b7dd-1e3f-4563-8ef9-be69cf367129",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 108306,
   "aniId": 99587,
-  "createdAt": "2020-10-12T16:10:50.000Z",
-  "updatedAt": "2021-12-05T03:50:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kitayama Yuri",
+    "Minazuki Futago"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:08.000Z",
+    "updatedAt": "2022-05-15T01:34:35.000Z",
+    "checkedAt": "2022-05-15T01:34:35.000Z",
+    "id": 108306,
+    "type": "manga",
+    "title": "Seirei Gensouki",
+    "altTitle": [
+      "Mythical Spirit Chronicle",
+      "Seirei Gensouki: Spirit Chronicles",
+      "精霊幻想記"
+    ],
+    "url": "https://myanimelist.net/manga/108306/Seirei_Gensouki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/204985.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,52 +47,38 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Mythical Spirit Chronicle",
-      "Seirei Gensouki: Spirit Chronicles",
-      "精霊幻想記"
-    ],
+    "deletedAt": null,
     "authors": [
       "Minazuki, Futago",
       "Kitayama, Yuri"
-    ],
-    "id": 108306,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:40.588Z",
+    "updatedAt": "2022-05-17T04:57:13.000Z",
+    "checkedAt": "2022-05-17T04:57:13.000Z",
+    "id": 99587,
     "type": "manga",
     "title": "Seirei Gensouki",
-    "url": "https://myanimelist.net/manga/108306/Seirei_Gensouki",
-    "image": "https://cdn.myanimelist.net/images/manga/3/204985.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:08.000Z",
-    "updatedAt": "2022-05-01T22:01:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Seirei Gensouki: Spirit Chronicles",
       "精霊幻想記",
       "Seirei Gensouk - Konna Sekai de Deaeta Kimi ni",
       "精霊幻想記 ～こんな世界で出会えた君に～"
     ],
+    "url": "https://anilist.co/manga/99587",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99587-9qEEGLuEnaPx.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 108306,
+    "deletedAt": null,
     "authors": [
       "Yuri Kitayama",
       "Futago Minazuki",
       "Riv",
       "Mana Z.",
       "Kai Kyou"
-    ],
-    "id": 99587,
-    "malId": 108306,
-    "type": "manga",
-    "title": "Seirei Gensouki",
-    "url": "https://anilist.co/manga/99587",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99587-9qEEGLuEnaPx.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:58.000Z",
-    "updatedAt": "2022-01-21T20:00:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/108306/Seirei_Gensouki"
+    ]
+  }
 }

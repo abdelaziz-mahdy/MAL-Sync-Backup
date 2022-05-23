@@ -1,10 +1,8 @@
 {
-  "authors": [
-    "Seo Kouji",
-    "Yoshikawa Miki",
-    "Mashima Hiro",
-    "Katsuki Hikaru"
-  ],
+  "createdAt": "2021-05-28T01:59:15.000Z",
+  "updatedAt": "2021-11-28T02:35:34.000Z",
+  "checkedAt": null,
+  "id": 72771,
   "identifier": "magazine_ohanami",
   "type": "manga",
   "page": "MangaFox",
@@ -14,57 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 88032,
   "aniId": 94538,
-  "createdAt": "2021-05-28T01:59:15.000Z",
-  "updatedAt": "2021-11-28T02:35:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Seo Kouji",
+    "Yoshikawa Miki",
+    "Mashima Hiro",
+    "Katsuki Hikaru"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:45:56.000Z",
+    "updatedAt": "2022-05-16T04:06:51.000Z",
+    "checkedAt": "2022-05-16T04:06:51.000Z",
+    "id": 88032,
+    "type": "manga",
+    "title": "Magazine Ohanami!!",
     "altTitle": [
       "マガジンOHANAMI!!"
     ],
+    "url": "https://myanimelist.net/manga/88032/Magazine_Ohanami",
+    "image": "https://cdn.myanimelist.net/images/manga/1/158913.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
     "authors": [
       "Mashima, Hiro",
       "Seo, Kouji",
       "Yoshikawa, Miki",
       "Katsuki, Hikaru"
-    ],
-    "id": 88032,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:02.390Z",
+    "updatedAt": "2022-05-16T04:06:50.000Z",
+    "checkedAt": "2022-05-16T04:06:49.000Z",
+    "id": 94538,
     "type": "manga",
     "title": "Magazine Ohanami!!",
-    "url": "https://myanimelist.net/manga/88032/Magazine_Ohanami",
-    "image": "https://cdn.myanimelist.net/images/manga/1/158913.jpg",
-    "category": "One-shot",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:56.000Z",
-    "updatedAt": "2022-03-26T18:28:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マガジンOHANAMI!!"
     ],
+    "url": "https://anilist.co/manga/94538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94538-lklTbKo1arv3.jpg",
+    "category": "one_shot",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 88032,
+    "deletedAt": null,
     "authors": [
       "Kouji Seo",
       "Hikaru Katsuki",
       "Miki Yoshikawa",
       "Hiro Mashima"
-    ],
-    "id": 94538,
-    "malId": 88032,
-    "type": "manga",
-    "title": "Magazine Ohanami!!",
-    "url": "https://anilist.co/manga/94538",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94538-lklTbKo1arv3.jpg",
-    "category": "one_shot",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2021-12-18T01:01:46.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/88032/Magazine_Ohanami"
+    ]
+  }
 }

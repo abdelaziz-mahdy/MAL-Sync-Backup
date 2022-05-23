@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "TSUKUDANI Norio"
-  ],
+  "createdAt": "2021-06-13T08:08:27.000Z",
+  "updatedAt": "2021-12-13T09:03:43.000Z",
+  "checkedAt": null,
+  "id": 78050,
   "identifier": "heroine-voice",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 93901,
   "aniId": 98691,
-  "createdAt": "2021-06-13T08:08:27.000Z",
-  "updatedAt": "2021-12-13T09:03:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "TSUKUDANI Norio"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-05-15T18:04:32.000Z",
+    "checkedAt": "2022-05-15T18:04:32.000Z",
+    "id": 93901,
+    "type": "manga",
+    "title": "Heroine Voice",
+    "altTitle": [
+      "ヒロインボイス"
+    ],
+    "url": "https://myanimelist.net/manga/93901/Heroine_Voice",
+    "image": "https://cdn.myanimelist.net/images/manga/3/174706.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヒロインボイス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tsukudani, Norio"
-    ],
-    "id": 93901,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:21.585Z",
+    "updatedAt": "2022-05-15T20:27:11.000Z",
+    "checkedAt": "2022-05-15T20:27:11.000Z",
+    "id": 98691,
     "type": "manga",
     "title": "Heroine Voice",
-    "url": "https://myanimelist.net/manga/93901/Heroine_Voice",
-    "image": "https://cdn.myanimelist.net/images/manga/3/174706.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-12-13T08:34:33.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヒロインボイス"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Norio Tsukudani"
-    ],
-    "id": 98691,
-    "malId": 93901,
-    "type": "manga",
-    "title": "Heroine Voice",
     "url": "https://anilist.co/manga/98691",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98691-PLt1LamoL3Oz.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:49.000Z",
-    "updatedAt": "2021-12-18T02:29:39.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/93901/Heroine_Voice"
+    "externalLinks": [],
+    "malId": 93901,
+    "deletedAt": null,
+    "authors": [
+      "Norio Tsukudani"
+    ]
+  }
 }

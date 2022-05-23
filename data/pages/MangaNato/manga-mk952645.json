@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Takahiro (タカヒロ)",
-    "Tashiro Tetsuya"
-  ],
+  "createdAt": "2021-05-29T09:13:16.000Z",
+  "updatedAt": "2021-11-29T10:06:53.000Z",
+  "checkedAt": null,
+  "id": 73608,
   "identifier": "manga-mk952645",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 25132,
   "aniId": 55132,
-  "createdAt": "2021-05-29T09:13:16.000Z",
-  "updatedAt": "2021-11-29T10:06:53.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahiro (タカヒロ)",
+    "Tashiro Tetsuya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:16.000Z",
+    "updatedAt": "2022-05-15T05:12:14.000Z",
+    "checkedAt": "2022-05-15T05:12:14.000Z",
+    "id": 25132,
+    "type": "manga",
+    "title": "Akame ga Kill!",
+    "altTitle": [
+      "Akame ga Kiru!",
+      "Akame ga Kill!",
+      "アカメが斬る！"
+    ],
+    "url": "https://myanimelist.net/manga/25132/Akame_ga_Kill",
+    "image": "https://cdn.myanimelist.net/images/manga/1/187665.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,34 +47,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Akame ga Kiru!",
-      "Akame ga Kill!",
-      "アカメが斬る！"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tashiro, Tetsuya",
       "Takahiro"
-    ],
-    "id": 25132,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:48.293Z",
+    "updatedAt": "2022-05-15T15:27:23.000Z",
+    "checkedAt": "2022-05-15T15:27:23.000Z",
+    "id": 55132,
     "type": "manga",
     "title": "Akame ga Kill!",
-    "url": "https://myanimelist.net/manga/25132/Akame_ga_Kill",
-    "image": "https://cdn.myanimelist.net/images/manga/1/187665.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:16.000Z",
-    "updatedAt": "2022-04-23T13:03:32.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Akame ga KILL!",
       "アカメが斬る！",
       "Akame ga Kiru!",
       "Red Eyes Sword"
     ],
+    "url": "https://anilist.co/manga/55132",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55132-bhKk5JoXcvdA.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [],
+    "malId": 25132,
+    "deletedAt": null,
     "authors": [
       "Tetsuya Tashiro",
       "Takahiro",
@@ -71,18 +86,6 @@
       "Massimo Stella",
       "Miriam Rossi",
       "Fernando Mucioli"
-    ],
-    "id": 55132,
-    "malId": 25132,
-    "type": "manga",
-    "title": "Akame ga Kill!",
-    "url": "https://anilist.co/manga/55132",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55132-bhKk5JoXcvdA.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:52.000Z",
-    "updatedAt": "2022-05-06T03:00:27.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/25132/Akame_ga_Kill"
+    ]
+  }
 }

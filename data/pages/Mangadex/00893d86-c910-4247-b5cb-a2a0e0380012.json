@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kaito"
-  ],
+  "createdAt": "2020-10-12T16:10:45.000Z",
+  "updatedAt": "2021-12-05T03:18:51.000Z",
+  "checkedAt": null,
+  "id": 17815,
   "identifier": "00893d86-c910-4247-b5cb-a2a0e0380012",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 103942,
   "aniId": 98334,
-  "createdAt": "2020-10-12T16:10:45.000Z",
-  "updatedAt": "2021-12-05T03:18:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kaito"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:55.000Z",
+    "updatedAt": "2022-05-14T23:18:17.000Z",
+    "checkedAt": "2022-05-14T23:18:17.000Z",
+    "id": 103942,
+    "type": "manga",
+    "title": "Ao no Flag",
+    "altTitle": [
+      "Blue Flag",
+      "青のフラッグ"
+    ],
+    "url": "https://myanimelist.net/manga/103942/Ao_no_Flag",
+    "image": "https://cdn.myanimelist.net/images/manga/3/194070.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,36 +41,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Blue Flag",
-      "青のフラッグ"
-    ],
+    "deletedAt": null,
     "authors": [
       "KAITO"
-    ],
-    "id": 103942,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:38.774Z",
+    "updatedAt": "2022-05-15T15:27:23.000Z",
+    "checkedAt": "2022-05-15T15:27:23.000Z",
+    "id": 98334,
     "type": "manga",
     "title": "Ao no Flag",
-    "url": "https://myanimelist.net/manga/103942/Ao_no_Flag",
-    "image": "https://cdn.myanimelist.net/images/manga/3/194070.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:55.000Z",
-    "updatedAt": "2022-02-25T23:18:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Blue Flag",
       "青のフラッグ",
       "Niebieska flaga"
     ],
+    "url": "https://anilist.co/manga/98334",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98334-4GzZcjlCd0z5.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "MangaPlus",
         "url": "https://mangaplus.shueisha.co.jp/titles/100043"
       }
     ],
+    "malId": 103942,
+    "deletedAt": null,
     "authors": [
       "KAITO",
       "Adrienne Beck",
@@ -64,18 +79,6 @@
       "Minna Lin",
       "Nesrine Mezouane",
       "Dirce Miyamura"
-    ],
-    "id": 98334,
-    "malId": 103942,
-    "type": "manga",
-    "title": "Ao no Flag",
-    "url": "https://anilist.co/manga/98334",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98334-4GzZcjlCd0z5.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:55:05.000Z",
-    "updatedAt": "2022-03-09T16:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/103942/Ao_no_Flag"
+    ]
+  }
 }

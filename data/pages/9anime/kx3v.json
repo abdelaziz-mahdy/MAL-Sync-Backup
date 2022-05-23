@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:48.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5663,
   "identifier": "kx3v",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 21835,
   "aniId": 20621,
-  "createdAt": "2020-10-12T15:52:48.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:25.000Z",
+    "updatedAt": "2022-05-14T23:43:05.000Z",
+    "checkedAt": "2022-05-14T23:43:05.000Z",
+    "id": 21835,
+    "type": "anime",
+    "title": "Majin Bone",
+    "altTitle": [
+      "マジンボーン"
+    ],
+    "url": "https://myanimelist.net/anime/21835/Majin_Bone",
+    "image": "https://cdn.myanimelist.net/images/anime/1490/90396.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,42 +54,30 @@
         "url": "http://www.crunchyroll.com/series-260395"
       }
     ],
-    "altTitle": [
-      "マジンボーン"
-    ],
-    "id": 21835,
+    "deletedAt": null,
+    "anidbId": 10354
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:30.000Z",
+    "updatedAt": "2022-05-15T19:27:23.000Z",
+    "checkedAt": "2022-05-15T19:27:23.000Z",
+    "id": 20621,
     "type": "anime",
     "title": "Majin Bone",
-    "url": "https://myanimelist.net/anime/21835/Majin_Bone",
-    "image": "https://cdn.myanimelist.net/images/anime/1490/90396.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10354,
-    "createdAt": "2020-10-12T15:39:25.000Z",
-    "updatedAt": "2022-03-24T12:27:45.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マジンボーン"
     ],
+    "url": "https://anilist.co/anime/20621",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20621-zV3JcVAMqVK8.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "http://www.crunchyroll.com/majin-bone"
       }
     ],
-    "id": 20621,
     "malId": 21835,
-    "type": "anime",
-    "title": "Majin Bone",
-    "url": "https://anilist.co/anime/20621",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20621-zV3JcVAMqVK8.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:30.000Z",
-    "updatedAt": "2021-12-17T14:27:07.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/21835/Majin_Bone"
+  }
 }

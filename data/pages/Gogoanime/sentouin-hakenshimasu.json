@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-04-04T21:08:16.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36195,
   "identifier": "sentouin-hakenshimasu",
   "type": "anime",
   "page": "Gogoanime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 41456,
   "aniId": 116588,
-  "createdAt": "2021-04-04T21:08:16.000Z",
-  "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:40:15.000Z",
+    "updatedAt": "2022-05-14T15:46:10.000Z",
+    "checkedAt": "2022-05-14T15:46:10.000Z",
+    "id": 41456,
+    "type": "anime",
+    "title": "Sentouin, Hakenshimasu!",
+    "altTitle": [
+      "Combatants Will Be Dispatched!",
+      "戦闘員、派遣します！"
+    ],
+    "url": "https://myanimelist.net/anime/41456/Sentouin_Hakenshimasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1444/115118.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,6 +50,10 @@
       }
     ],
     "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-282314"
+      },
       {
         "site": "funimation",
         "url": "https://www.funimation.com/shows/combatants-will-be-dispatched"
@@ -55,23 +75,16 @@
         "url": "https://www.wakanim.tv/"
       }
     ],
-    "altTitle": [
-      "Combatants Will Be Dispatched!",
-      "戦闘員、派遣します！"
-    ],
-    "id": 41456,
+    "deletedAt": null,
+    "anidbId": 15440
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:05.000Z",
+    "updatedAt": "2022-05-15T09:29:47.000Z",
+    "checkedAt": "2022-05-15T09:29:47.000Z",
+    "id": 116588,
     "type": "anime",
     "title": "Sentouin, Hakenshimasu!",
-    "url": "https://myanimelist.net/anime/41456/Sentouin_Hakenshimasu",
-    "image": "https://cdn.myanimelist.net/images/anime/1444/115118.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 15440,
-    "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2022-04-02T05:02:01.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Combatants Will Be Dispatched!",
       "戦闘員、派遣します！",
@@ -80,23 +93,21 @@
       "นักรบสายป่วนออกปฏิบัติกวน ",
       "Les combattants seront déployés !"
     ],
-    "externalLinks": [
-      {
-        "site": "Funimation",
-        "url": "https://www.funimation.com/shows/combatants-will-be-dispatched/"
-      }
-    ],
-    "id": 116588,
-    "malId": 41456,
-    "type": "anime",
-    "title": "Sentouin, Hakenshimasu!",
     "url": "https://anilist.co/anime/116588",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116588-noyscGIN8FIr.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:05.000Z",
-    "updatedAt": "2022-01-24T01:00:13.000Z",
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/combatants-will-be-dispatched/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/combatants-will-be-dispatched"
+      }
+    ],
+    "malId": 41456,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/41456/Sentouin_Hakenshimasu"
+  }
 }

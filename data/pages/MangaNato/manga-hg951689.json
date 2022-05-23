@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Takahashi Tsutomu"
-  ],
+  "createdAt": "2021-06-09T13:34:15.000Z",
+  "updatedAt": "2021-12-09T14:35:00.000Z",
+  "checkedAt": null,
+  "id": 77445,
   "identifier": "manga-hg951689",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10443,
   "aniId": 40443,
-  "createdAt": "2021-06-09T13:34:15.000Z",
-  "updatedAt": "2021-12-09T14:35:00.000Z",
   "deletedAt": null,
+  "authors": [
+    "Takahashi Tsutomu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:27.000Z",
+    "updatedAt": "2022-05-15T07:33:30.000Z",
+    "checkedAt": "2022-05-15T07:33:30.000Z",
+    "id": 10443,
+    "type": "manga",
+    "title": "Bakuon Rettou",
+    "altTitle": [
+      "Detonation Islands",
+      "Sonic Boom Islands",
+      "爆音列島"
+    ],
+    "url": "https://myanimelist.net/manga/10443/Bakuon_Rettou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173111.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,48 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Detonation Islands",
-      "Sonic Boom Islands",
-      "爆音列島"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takahashi, Tsutomu"
-    ],
-    "id": 10443,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:13.129Z",
+    "updatedAt": "2022-05-15T19:39:23.000Z",
+    "checkedAt": "2022-05-15T19:39:23.000Z",
+    "id": 40443,
     "type": "manga",
     "title": "Bakuon Rettou",
-    "url": "https://myanimelist.net/manga/10443/Bakuon_Rettou",
-    "image": "https://cdn.myanimelist.net/images/manga/3/173111.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:27.000Z",
-    "updatedAt": "2022-04-09T03:01:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "爆音列島",
       "Detonation Islands",
       "Sonic Boom Islands"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Tsutomu Takahashi",
-      "Pascale Simon",
-      "Eric Montesinos"
-    ],
-    "id": 40443,
-    "malId": 10443,
-    "type": "manga",
-    "title": "Bakuon Rettou",
     "url": "https://anilist.co/manga/40443",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40443-sjFrtR4EETRD.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:05.000Z",
-    "updatedAt": "2021-12-17T14:07:37.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10443/Bakuon_Rettou"
+    "externalLinks": [],
+    "malId": 10443,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Takahashi",
+      "Pascale Simon",
+      "Eric Montesinos"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:28.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1452,
   "identifier": "2o50",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 7645,
   "aniId": 7645,
-  "createdAt": "2020-10-12T15:49:28.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:56.000Z",
+    "updatedAt": "2022-05-14T16:43:03.000Z",
+    "checkedAt": "2022-05-14T16:43:03.000Z",
+    "id": 7645,
+    "type": "anime",
+    "title": "Heartcatch Precure!",
+    "altTitle": [
+      "Heartcatch Pretty Cure!",
+      "ハートキャッチプリキュア!"
+    ],
+    "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+    "image": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,40 +50,27 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Heartcatch Pretty Cure!",
-      "ハートキャッチプリキュア!"
-    ],
+    "deletedAt": null,
+    "anidbId": 7285
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:50.000Z",
+    "updatedAt": "2022-05-15T13:49:35.000Z",
+    "checkedAt": "2022-05-15T13:49:35.000Z",
     "id": 7645,
     "type": "anime",
     "title": "Heartcatch Precure!",
-    "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
-    "image": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 7285,
-    "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2022-04-02T02:30:41.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Heartcatch Precure!",
       "ハートキャッチプリキュア!",
       "Heartcatch Pretty Cure!"
     ],
-    "externalLinks": [],
-    "id": 7645,
-    "malId": 7645,
-    "type": "anime",
-    "title": "Heartcatch Precure!",
     "url": "https://anilist.co/anime/7645",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7645-YRvajw8WUsfJ.png",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:50.000Z",
-    "updatedAt": "2021-12-17T12:24:45.000Z",
+    "externalLinks": [],
+    "malId": 7645,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/7645/Heartcatch_Precure"
+  }
 }

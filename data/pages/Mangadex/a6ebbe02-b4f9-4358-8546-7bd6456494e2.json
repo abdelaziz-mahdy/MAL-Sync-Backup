@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Yohan",
-    "Zhena"
-  ],
+  "createdAt": "2020-10-12T16:03:59.000Z",
+  "updatedAt": "2021-12-02T18:17:07.000Z",
+  "checkedAt": null,
+  "id": 3362,
   "identifier": "a6ebbe02-b4f9-4358-8546-7bd6456494e2",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35595,
   "aniId": 65595,
-  "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-12-02T18:17:07.000Z",
   "deletedAt": null,
+  "authors": [
+    "Yohan",
+    "Zhena"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:59.000Z",
+    "updatedAt": "2021-11-05T17:05:22.000Z",
+    "checkedAt": null,
+    "id": 35595,
+    "type": "manga",
+    "title": "Pet Diary",
+    "altTitle": [
+      "펫다이어리"
+    ],
+    "url": "https://myanimelist.net/manga/35595/Pet_Diary",
+    "image": "https://cdn.myanimelist.net/images/manga/2/73541.jpg",
+    "category": "Manhwa",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "펫다이어리"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kim, Hye-Jin",
       "Yohan"
-    ],
-    "id": 35595,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:38.298Z",
+    "updatedAt": "2022-05-13T12:46:38.298Z",
+    "checkedAt": null,
+    "id": 65595,
     "type": "manga",
     "title": "Pet Diary",
-    "url": "https://myanimelist.net/manga/35595/Pet_Diary",
-    "image": "https://cdn.myanimelist.net/images/manga/2/73541.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:59.000Z",
-    "updatedAt": "2021-11-05T17:05:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "펫다이어리"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hye-Jin Kim",
-      "Yo-Han"
-    ],
-    "id": 65595,
-    "malId": 35595,
-    "type": "manga",
-    "title": "Pet Diary",
     "url": "https://anilist.co/manga/65595",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35595.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:25.000Z",
-    "updatedAt": "2021-12-17T19:51:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35595/Pet_Diary"
+    "externalLinks": [],
+    "malId": 35595,
+    "deletedAt": null,
+    "authors": [
+      "Hye-Jin Kim",
+      "Yo-Han"
+    ]
+  }
 }

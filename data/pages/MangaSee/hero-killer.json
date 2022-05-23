@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Beolkkul",
-    "Kkulbeol"
-  ],
+  "createdAt": "2021-06-08T18:56:09.000Z",
+  "updatedAt": "2021-12-15T07:18:24.000Z",
+  "checkedAt": null,
+  "id": 77305,
   "identifier": "hero-killer",
   "type": "manga",
   "page": "MangaSee",
@@ -12,35 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 132093,
-  "createdAt": "2021-06-08T18:56:09.000Z",
-  "updatedAt": "2021-12-15T07:18:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Beolkkul",
+    "Kkulbeol"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:20.531Z",
+    "updatedAt": "2022-05-16T13:33:59.000Z",
+    "checkedAt": "2022-05-16T13:33:59.000Z",
+    "id": 132093,
+    "type": "manga",
+    "title": "Hero Killer",
     "altTitle": [
       "Hero Killer",
       "히어로 킬러",
       "La asesina de héroes"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Kkulbeol",
-      "Beolkkul"
-    ],
-    "id": 132093,
-    "malId": null,
-    "type": "manga",
-    "title": "Hero Killer",
     "url": "https://anilist.co/manga/132093",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132093-GLS3FWShrQPV.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-26T21:29:55.000Z",
-    "updatedAt": "2022-05-15T05:30:19.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Kkulbeol",
+      "Beolkkul"
+    ]
+  }
 }

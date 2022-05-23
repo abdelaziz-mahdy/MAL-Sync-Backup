@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Clamp"
-  ],
+  "createdAt": "2021-08-21T14:46:06.000Z",
+  "updatedAt": "2022-02-21T15:17:40.000Z",
+  "checkedAt": null,
+  "id": 85947,
   "identifier": "manga-ud971638",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 98374,
   "aniId": 87296,
-  "createdAt": "2021-08-21T14:46:06.000Z",
-  "updatedAt": "2022-02-21T15:17:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Clamp"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2022-05-15T17:20:13.000Z",
+    "checkedAt": "2022-05-15T17:20:13.000Z",
+    "id": 98374,
+    "type": "manga",
+    "title": "Cardcaptor Sakura: Clear Card-hen",
+    "altTitle": [
+      "Cardcaptor Sakura: Clear Card",
+      "カードキャプターさくら クリアカード編"
+    ],
+    "url": "https://myanimelist.net/manga/98374/Cardcaptor_Sakura__Clear_Card-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/193021.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,35 +41,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Cardcaptor Sakura: Clear Card",
-      "カードキャプターさくら クリアカード編"
-    ],
+    "deletedAt": null,
     "authors": [
       "CLAMP"
-    ],
-    "id": 98374,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.165Z",
+    "updatedAt": "2022-05-15T20:09:23.000Z",
+    "checkedAt": "2022-05-15T20:09:23.000Z",
+    "id": 87296,
     "type": "manga",
     "title": "Cardcaptor Sakura: Clear Card-hen",
-    "url": "https://myanimelist.net/manga/98374/Cardcaptor_Sakura__Clear_Card-hen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/193021.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2022-04-10T20:30:54.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cardcaptor Sakura: Clear Card Arc",
       "カードキャプターさくら クリアカード編"
     ],
+    "url": "https://anilist.co/manga/87296",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87296-4HLEXxFNZyKg.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/cardcaptor-sakura-clear-card/volumes"
       }
     ],
+    "malId": 98374,
+    "deletedAt": null,
     "authors": [
       "Norio Yamakawa",
       "CLAMP",
@@ -61,18 +76,6 @@
       "Edward Kondo",
       "Agnès Pérez Massegú",
       "Devon Corwin"
-    ],
-    "id": 87296,
-    "malId": 98374,
-    "type": "manga",
-    "title": "Cardcaptor Sakura: Clear Card-hen",
-    "url": "https://anilist.co/manga/87296",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87296-4HLEXxFNZyKg.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:12.000Z",
-    "updatedAt": "2021-12-12T19:33:52.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/98374/Cardcaptor_Sakura__Clear_Card-hen"
+    ]
+  }
 }

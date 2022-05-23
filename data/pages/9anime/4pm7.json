@@ -1,4 +1,8 @@
 {
+  "createdAt": "2022-04-05T06:31:04.000Z",
+  "updatedAt": "2022-04-05T08:00:22.000Z",
+  "checkedAt": null,
+  "id": 40635,
   "identifier": "4pm7",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": 31426,
   "aniId": 21433,
-  "createdAt": "2022-04-05T06:31:04.000Z",
-  "updatedAt": "2022-04-05T08:00:22.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:38.000Z",
+    "updatedAt": "2022-05-14T21:09:29.000Z",
+    "checkedAt": "2022-05-14T21:09:29.000Z",
+    "id": 31426,
+    "type": "anime",
+    "title": "Urawa no Usagi-chan Special",
+    "altTitle": [
+      "Urawa no Usagi-chan Episode 13",
+      "浦和の調ちゃん"
+    ],
+    "url": "https://myanimelist.net/anime/31426/Urawa_no_Usagi-chan_Special",
+    "image": "https://cdn.myanimelist.net/images/anime/9/75928.jpg",
+    "category": "Special",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,38 +46,25 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Urawa no Usagi-chan Episode 13",
-      "浦和の調ちゃん"
-    ],
-    "id": 31426,
-    "type": "anime",
-    "title": "Urawa no Usagi-chan Special",
-    "url": "https://myanimelist.net/anime/31426/Urawa_no_Usagi-chan_Special",
-    "image": "https://cdn.myanimelist.net/images/anime/9/75928.jpg",
-    "category": "Special",
-    "hentai": false,
-    "anidbId": 10879,
-    "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2022-04-03T07:31:35.000Z",
-    "deletedAt": null
+    "deletedAt": null,
+    "anidbId": 10879
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2021-10-10T14:32:22.000Z",
+    "updatedAt": "2022-05-15T14:47:35.000Z",
+    "checkedAt": "2022-05-15T14:47:35.000Z",
+    "id": 21433,
+    "type": "anime",
+    "title": "Urawa no Usagi-chan Mihousou-banashi",
     "altTitle": [
       "浦和の調ちゃん 未放送話"
     ],
-    "externalLinks": [],
-    "id": 21433,
-    "malId": 31426,
-    "type": "anime",
-    "title": "Urawa no Usagi-chan Mihousou-banashi",
     "url": "https://anilist.co/anime/21433",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21433-SqRADRmWb7DM.jpg",
     "category": "special",
     "hentai": false,
-    "createdAt": "2021-10-10T14:32:22.000Z",
-    "updatedAt": "2022-04-10T15:01:23.000Z",
+    "externalLinks": [],
+    "malId": 31426,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/31426/Urawa_no_Usagi-chan_Special"
+  }
 }

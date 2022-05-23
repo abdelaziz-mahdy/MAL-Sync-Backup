@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Honma Akira"
-  ],
+  "createdAt": "2020-10-12T16:11:58.000Z",
+  "updatedAt": "2021-12-05T12:50:30.000Z",
+  "checkedAt": null,
+  "id": 20443,
   "identifier": "beb1cce1-04c2-4c61-846a-063580d0d6c0",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 18425,
   "aniId": 48425,
-  "createdAt": "2020-10-12T16:11:58.000Z",
-  "updatedAt": "2021-12-05T12:50:30.000Z",
   "deletedAt": null,
+  "authors": [
+    "Honma Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:42:33.000Z",
+    "updatedAt": "2022-05-02T18:02:18.000Z",
+    "checkedAt": null,
+    "id": 18425,
+    "type": "manga",
+    "title": "Usagi Otoko Tora Otoko",
+    "altTitle": [
+      "Rabbit Man, Tiger Man",
+      "兎オトコ虎オトコ"
+    ],
+    "url": "https://myanimelist.net/manga/18425/Usagi_Otoko_Tora_Otoko",
+    "image": "https://cdn.myanimelist.net/images/manga/2/109573.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Rabbit Man, Tiger Man",
-      "兎オトコ虎オトコ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Honma, Akira"
-    ],
-    "id": 18425,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:49.885Z",
+    "updatedAt": "2022-05-13T12:44:49.885Z",
+    "checkedAt": null,
+    "id": 48425,
     "type": "manga",
     "title": "Usagi Otoko Tora Otoko",
-    "url": "https://myanimelist.net/manga/18425/Usagi_Otoko_Tora_Otoko",
-    "image": "https://cdn.myanimelist.net/images/manga/2/109573.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:33.000Z",
-    "updatedAt": "2022-05-02T18:02:18.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rabbit Man",
       "兎オトコ虎オトコ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Honma"
-    ],
-    "id": 48425,
-    "malId": 18425,
-    "type": "manga",
-    "title": "Usagi Otoko Tora Otoko",
     "url": "https://anilist.co/manga/48425",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18425.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:11.000Z",
-    "updatedAt": "2021-12-17T16:44:08.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/18425/Usagi_Otoko_Tora_Otoko"
+    "externalLinks": [],
+    "malId": 18425,
+    "deletedAt": null,
+    "authors": [
+      "Akira Honma"
+    ]
+  }
 }

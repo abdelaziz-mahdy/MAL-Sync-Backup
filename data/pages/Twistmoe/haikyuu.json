@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T16:26:52.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 22298,
   "identifier": "haikyuu",
   "type": "anime",
   "page": "Twistmoe",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 20583,
   "aniId": 20464,
-  "createdAt": "2020-10-12T16:26:52.000Z",
-  "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:22.000Z",
+    "updatedAt": "2022-05-13T21:36:14.000Z",
+    "checkedAt": "2022-05-13T21:36:14.000Z",
+    "id": 20583,
+    "type": "anime",
+    "title": "Haikyuu!!",
+    "altTitle": [
+      "High Kyuu!!",
+      "HQ!!",
+      "Haikyu!!",
+      "ハイキュー!!"
+    ],
+    "url": "https://myanimelist.net/anime/20583/Haikyuu",
+    "image": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,25 +61,16 @@
         "url": "https://www.netflix.com/"
       }
     ],
-    "altTitle": [
-      "High Kyuu!!",
-      "HQ!!",
-      "Haikyu!!",
-      "ハイキュー!!"
-    ],
-    "id": 20583,
+    "deletedAt": null,
+    "anidbId": 10145
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:37.000Z",
+    "updatedAt": "2022-05-15T09:43:47.000Z",
+    "checkedAt": "2022-05-15T09:43:47.000Z",
+    "id": 20464,
     "type": "anime",
     "title": "Haikyuu!!",
-    "url": "https://myanimelist.net/anime/20583/Haikyuu",
-    "image": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 10145,
-    "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2022-04-02T16:32:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "HAIKYU!!",
       "ハイキュー!!",
@@ -71,6 +80,10 @@
       "Haikyu!! L'asso del volley",
       "ไฮคิว!! คู่ตบฟ้าประทาน"
     ],
+    "url": "https://anilist.co/anime/20464",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
@@ -89,17 +102,7 @@
         "url": "https://vrv.co/series/GY8VM8MWY/Haikyu"
       }
     ],
-    "id": 20464,
     "malId": 20583,
-    "type": "anime",
-    "title": "Haikyuu!!",
-    "url": "https://anilist.co/anime/20464",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:40:37.000Z",
-    "updatedAt": "2022-03-03T12:40:28.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/20583/Haikyuu"
+  }
 }

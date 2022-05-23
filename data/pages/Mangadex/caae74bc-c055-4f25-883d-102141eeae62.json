@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Masaya HONDA",
-    "Nanboku"
-  ],
+  "createdAt": "2021-11-23T17:35:47.000Z",
+  "updatedAt": "2021-11-23T18:05:47.000Z",
+  "checkedAt": null,
+  "id": 91663,
   "identifier": "caae74bc-c055-4f25-883d-102141eeae62",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 70331,
   "aniId": 91161,
-  "createdAt": "2021-11-23T17:35:47.000Z",
-  "updatedAt": "2021-11-23T18:05:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Masaya HONDA",
+    "Nanboku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:16.000Z",
+    "updatedAt": "2022-05-17T10:29:42.000Z",
+    "checkedAt": "2022-05-17T10:29:42.000Z",
+    "id": 70331,
+    "type": "manga",
+    "title": "Char no Nichijou",
+    "altTitle": [
+      "Sha no Nichijou",
+      "Every Day Char",
+      "Char's Daily Life",
+      "シャアの日常"
+    ],
+    "url": "https://myanimelist.net/manga/70331/Char_no_Nichijou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/120465.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,28 +44,19 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sha no Nichijou",
-      "Every Day Char",
-      "Char's Daily Life",
-      "シャアの日常"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nanboku",
       "Honda, Masaya"
-    ],
-    "id": 70331,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:16.618Z",
+    "updatedAt": "2022-05-17T10:29:40.000Z",
+    "checkedAt": "2022-05-17T10:29:40.000Z",
+    "id": 91161,
     "type": "manga",
     "title": "Char no Nichijou",
-    "url": "https://myanimelist.net/manga/70331/Char_no_Nichijou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/120465.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:16.000Z",
-    "updatedAt": "2022-03-01T20:41:59.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Char's Daily Life",
       "シャアの日常",
@@ -55,22 +64,16 @@
       "Every Day Char",
       "Daily Life of Char"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nanboku",
-      "Masaya Honda"
-    ],
-    "id": 91161,
-    "malId": 70331,
-    "type": "manga",
-    "title": "Char no Nichijou",
     "url": "https://anilist.co/manga/91161",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91161-CVGTOjoqQxgR.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-09-14T09:34:41.000Z",
-    "updatedAt": "2021-12-13T23:18:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/70331/Char_no_Nichijou"
+    "externalLinks": [],
+    "malId": 70331,
+    "deletedAt": null,
+    "authors": [
+      "Nanboku",
+      "Masaya Honda"
+    ]
+  }
 }

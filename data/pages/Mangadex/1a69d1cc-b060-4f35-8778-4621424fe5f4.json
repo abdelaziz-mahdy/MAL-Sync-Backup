@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ashinano Hitoshi"
-  ],
+  "createdAt": "2020-10-12T16:02:52.000Z",
+  "updatedAt": "2021-12-02T10:18:27.000Z",
+  "checkedAt": null,
+  "id": 1044,
   "identifier": "1a69d1cc-b060-4f35-8778-4621424fe5f4",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4,
   "aniId": 30004,
-  "createdAt": "2020-10-12T16:02:52.000Z",
-  "updatedAt": "2021-12-02T10:18:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ashinano Hitoshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-14T19:31:17.000Z",
+    "checkedAt": "2022-05-14T19:31:17.000Z",
+    "id": 4,
+    "type": "manga",
+    "title": "Yokohama Kaidashi Kikou",
+    "altTitle": [
+      "Yokohama Shopping Log",
+      "Yokohama Shopping Trip",
+      "Touge",
+      "ヨコハマ買い出し紀行"
+    ],
+    "url": "https://myanimelist.net/manga/4/Yokohama_Kaidashi_Kikou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/171813.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,27 +43,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Yokohama Shopping Log",
-      "Yokohama Shopping Trip",
-      "Touge",
-      "ヨコハマ買い出し紀行"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ashinano, Hitoshi"
-    ],
-    "id": 4,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:49.931Z",
+    "updatedAt": "2022-05-15T15:52:23.000Z",
+    "checkedAt": "2022-05-15T15:52:23.000Z",
+    "id": 30004,
     "type": "manga",
     "title": "Yokohama Kaidashi Kikou",
-    "url": "https://myanimelist.net/manga/4/Yokohama_Kaidashi_Kikou",
-    "image": "https://cdn.myanimelist.net/images/manga/1/171813.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2022-04-11T20:07:34.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Yokohama Kaidashi Kikou",
       "ヨコハマ買い出し紀行",
@@ -56,21 +65,15 @@
       "YKK",
       "Escale à Yokohama"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Hitoshi Ashinano"
-    ],
-    "id": 30004,
-    "malId": 4,
-    "type": "manga",
-    "title": "Yokohama Kaidashi Kikou",
     "url": "https://anilist.co/manga/30004",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30004-8z4fycKY708h.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:33:25.000Z",
-    "updatedAt": "2022-02-16T22:47:01.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4/Yokohama_Kaidashi_Kikou"
+    "externalLinks": [],
+    "malId": 4,
+    "deletedAt": null,
+    "authors": [
+      "Hitoshi Ashinano"
+    ]
+  }
 }

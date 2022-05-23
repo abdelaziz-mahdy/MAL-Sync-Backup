@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Sankaku Head"
-  ],
+  "createdAt": "2020-10-12T16:09:03.000Z",
+  "updatedAt": "2021-12-04T15:20:29.000Z",
+  "checkedAt": null,
+  "id": 14170,
   "identifier": "30483b93-1867-48f2-88fc-aa493644275a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 95652,
   "aniId": 87309,
-  "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-12-04T15:20:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sankaku Head"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:23.000Z",
+    "updatedAt": "2022-05-16T04:34:32.000Z",
+    "checkedAt": "2022-05-16T04:34:32.000Z",
+    "id": 95652,
+    "type": "manga",
+    "title": "Akita Imokko! Ebina-chan",
+    "altTitle": [
+      "Akita Native Little Sister Ebina-chan",
+      "秋田妹！えびなちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/95652/Akita_Imokko_Ebina-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/187219.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Akita Native Little Sister Ebina-chan",
-      "秋田妹！えびなちゃん"
-    ],
+    "deletedAt": null,
     "authors": [
       "SankakuHead"
-    ],
-    "id": 95652,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:58.101Z",
+    "updatedAt": "2022-05-16T04:34:31.000Z",
+    "checkedAt": "2022-05-16T04:34:31.000Z",
+    "id": 87309,
     "type": "manga",
     "title": "Akita Imokko! Ebina-chan",
-    "url": "https://myanimelist.net/manga/95652/Akita_Imokko_Ebina-chan",
-    "image": "https://cdn.myanimelist.net/images/manga/2/187219.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2022-02-21T20:18:10.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Akita Native Little Sister Ebina-chan",
       "秋田妹! えびなちゃん"
     ],
-    "externalLinks": [],
-    "authors": [
-      "SankakuHead",
-      "Ryousuke Nagoshi"
-    ],
-    "id": 87309,
-    "malId": 95652,
-    "type": "manga",
-    "title": "Akita Imokko! Ebina-chan",
     "url": "https://anilist.co/manga/87309",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87309-uHpRlGxw8wPm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:00.000Z",
-    "updatedAt": "2021-11-15T13:13:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/95652/Akita_Imokko_Ebina-chan"
+    "externalLinks": [],
+    "malId": 95652,
+    "deletedAt": null,
+    "authors": [
+      "SankakuHead",
+      "Ryousuke Nagoshi"
+    ]
+  }
 }

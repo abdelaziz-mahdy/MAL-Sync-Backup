@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Higuchi Asa"
-  ],
+  "createdAt": "2021-10-09T12:32:41.000Z",
+  "updatedAt": "2022-04-09T13:30:27.000Z",
+  "checkedAt": null,
+  "id": 88245,
   "identifier": "manga-nn965148",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5948,
   "aniId": 35948,
-  "createdAt": "2021-10-09T12:32:41.000Z",
-  "updatedAt": "2022-04-09T13:30:27.000Z",
   "deletedAt": null,
+  "authors": [
+    "Higuchi Asa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:08.000Z",
+    "updatedAt": "2022-04-09T13:01:17.000Z",
+    "checkedAt": null,
+    "id": 5948,
+    "type": "manga",
+    "title": "Yasashii Watashi",
+    "altTitle": [
+      "ヤサシイワタシ"
+    ],
+    "url": "https://myanimelist.net/manga/5948/Yasashii_Watashi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/7624.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ヤサシイワタシ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Higuchi, Asa"
-    ],
-    "id": 5948,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:17.282Z",
+    "updatedAt": "2022-05-13T12:53:17.282Z",
+    "checkedAt": null,
+    "id": 35948,
     "type": "manga",
     "title": "Yasashii Watashi",
-    "url": "https://myanimelist.net/manga/5948/Yasashii_Watashi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/7624.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:08.000Z",
-    "updatedAt": "2022-04-09T13:01:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ヤサシイワタシ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Asa Higuchi"
-    ],
-    "id": 35948,
-    "malId": 5948,
-    "type": "manga",
-    "title": "Yasashii Watashi",
     "url": "https://anilist.co/manga/35948",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35948-Id9RvGFVw91j.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:35.000Z",
-    "updatedAt": "2021-12-17T12:41:29.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5948/Yasashii_Watashi"
+    "externalLinks": [],
+    "malId": 5948,
+    "deletedAt": null,
+    "authors": [
+      "Asa Higuchi"
+    ]
+  }
 }

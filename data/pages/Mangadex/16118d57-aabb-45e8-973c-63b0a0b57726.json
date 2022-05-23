@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Suzuki Takaaki",
-    "Nogami Takeshi"
-  ],
+  "createdAt": "2020-10-12T16:07:58.000Z",
+  "updatedAt": "2021-12-04T06:48:20.000Z",
+  "checkedAt": null,
+  "id": 11721,
   "identifier": "16118d57-aabb-45e8-973c-63b0a0b57726",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80281,
   "aniId": 92985,
-  "createdAt": "2020-10-12T16:07:58.000Z",
-  "updatedAt": "2021-12-04T06:48:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Suzuki Takaaki",
+    "Nogami Takeshi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-15T19:18:01.000Z",
+    "checkedAt": "2022-05-15T19:18:01.000Z",
+    "id": 80281,
+    "type": "manga",
+    "title": "Girls & Panzer: Ribbon no Musha",
+    "altTitle": [
+      "Girls und Panzer: Ribbon Warrior",
+      "ガールズ&パンツァー リボンの武者"
+    ],
+    "url": "https://myanimelist.net/manga/80281/Girls___Panzer__Ribbon_no_Musha",
+    "image": "https://cdn.myanimelist.net/images/manga/1/150289.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,45 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Girls und Panzer: Ribbon Warrior",
-      "ガールズ&パンツァー リボンの武者"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nogami, Takeshi",
       "Suzuki, Takaaki"
-    ],
-    "id": 80281,
-    "type": "manga",
-    "title": "Girls & Panzer: Ribbon no Musha",
-    "url": "https://myanimelist.net/manga/80281/Girls___Panzer__Ribbon_no_Musha",
-    "image": "https://cdn.myanimelist.net/images/manga/1/150289.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2022-02-24T01:48:41.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:19.149Z",
+    "updatedAt": "2022-05-15T21:03:59.000Z",
+    "checkedAt": "2022-05-15T21:03:59.000Z",
+    "id": 92985,
+    "type": "manga",
+    "title": "Girls und Panzer: Ribbon no Musha",
     "altTitle": [
       "ガールズ&パンツァー リボンの武者",
       "Girls und Panzer: Ribbon Warrior"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Takeshi Nogami"
-    ],
-    "id": 92985,
-    "malId": 80281,
-    "type": "manga",
-    "title": "Girls und Panzer: Ribbon no Musha",
     "url": "https://anilist.co/manga/92985",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx92985-F2ZUOp9M6or6.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2021-12-18T00:49:34.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80281/Girls___Panzer__Ribbon_no_Musha"
+    "externalLinks": [],
+    "malId": 80281,
+    "deletedAt": null,
+    "authors": [
+      "Takeshi Nogami",
+      "Takaaki Suzuki"
+    ]
+  }
 }

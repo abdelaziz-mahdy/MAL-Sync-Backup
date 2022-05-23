@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Itakura Azusa"
-  ],
+  "createdAt": "2021-06-21T20:44:55.000Z",
+  "updatedAt": "2021-12-21T21:21:46.000Z",
+  "checkedAt": null,
+  "id": 79361,
   "identifier": "manga-gc954637",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 65319,
   "aniId": 85605,
-  "createdAt": "2021-06-21T20:44:55.000Z",
-  "updatedAt": "2021-12-21T21:21:46.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itakura Azusa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:07.000Z",
+    "updatedAt": "2022-05-15T17:21:59.000Z",
+    "checkedAt": "2022-05-15T17:21:59.000Z",
+    "id": 65319,
+    "type": "manga",
+    "title": "Girl May Kill",
+    "altTitle": [
+      "Girl May Kill",
+      "ガール メイ キル"
+    ],
+    "url": "https://myanimelist.net/manga/65319/Girl_May_Kill",
+    "image": "https://cdn.myanimelist.net/images/manga/1/112059.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,53 +41,40 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Girl May Kill",
-      "ガール メイ キル"
-    ],
+    "deletedAt": null,
     "authors": [
       "Itakura, Azusa"
-    ],
-    "id": 65319,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:36.452Z",
+    "updatedAt": "2022-05-15T20:10:11.000Z",
+    "checkedAt": "2022-05-15T20:10:11.000Z",
+    "id": 85605,
     "type": "manga",
     "title": "Girl May Kill",
-    "url": "https://myanimelist.net/manga/65319/Girl_May_Kill",
-    "image": "https://cdn.myanimelist.net/images/manga/1/112059.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:07.000Z",
-    "updatedAt": "2021-12-21T20:52:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Girl May Kill",
       "ガール メイ キル",
       "นางฟ้าเพชฌฆาต"
     ],
+    "url": "https://anilist.co/manga/85605",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85605-RId1qxX3w2T2.jpg",
+    "category": "manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Crunchyroll",
         "url": "https://www.crunchyroll.com/comics/manga/girl-may-kill/volumes"
       }
     ],
+    "malId": 65319,
+    "deletedAt": null,
     "authors": [
       "Azusa Itakura",
       "Carlo Vanstiphout",
       "Rebecca Cottrill",
       "Sai Higashi"
-    ],
-    "id": 85605,
-    "malId": 65319,
-    "type": "manga",
-    "title": "Girl May Kill",
-    "url": "https://anilist.co/manga/85605",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85605-RId1qxX3w2T2.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:50:52.000Z",
-    "updatedAt": "2022-02-20T11:46:51.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/65319/Girl_May_Kill"
+    ]
+  }
 }

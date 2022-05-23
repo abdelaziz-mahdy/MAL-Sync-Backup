@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-01-01T13:02:00.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32456,
   "identifier": "kyyw",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 43001,
   "aniId": 127536,
-  "createdAt": "2021-01-01T13:02:00.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2021-01-01T07:16:53.000Z",
+    "updatedAt": "2022-05-14T19:53:11.000Z",
+    "checkedAt": "2022-05-14T19:53:11.000Z",
+    "id": 43001,
+    "type": "anime",
+    "title": "Youjo Shachou",
+    "altTitle": [
+      "Little Girl President",
+      "Cute Executive Officer",
+      "幼女社長"
+    ],
+    "url": "https://myanimelist.net/anime/43001/Youjo_Shachou",
+    "image": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
+    "category": "ONA",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -43,29 +60,25 @@
         "url": "https://ani.gamer.com.tw/"
       }
     ],
-    "altTitle": [
-      "Little Girl President",
-      "Cute Executive Officer",
-      "幼女社長"
-    ],
-    "id": 43001,
+    "deletedAt": null,
+    "anidbId": 15748
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:12.000Z",
+    "updatedAt": "2022-05-15T12:30:23.000Z",
+    "checkedAt": "2022-05-15T12:30:23.000Z",
+    "id": 127536,
     "type": "anime",
     "title": "Youjo Shachou",
-    "url": "https://myanimelist.net/anime/43001/Youjo_Shachou",
-    "image": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
-    "category": "ONA",
-    "hentai": false,
-    "anidbId": 15748,
-    "createdAt": "2021-01-01T07:16:53.000Z",
-    "updatedAt": "2022-04-04T10:01:11.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Cute Executive Officer",
       "幼女社長",
       "Little Girl President"
     ],
+    "url": "https://anilist.co/anime/127536",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127536-349uMg2aOwOL.jpg",
+    "category": "ona",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
@@ -76,17 +89,7 @@
         "url": "https://vrv.co/series/GY5J2DWQY/Cute-Executive-Officer"
       }
     ],
-    "id": 127536,
     "malId": 43001,
-    "type": "anime",
-    "title": "Youjo Shachou",
-    "url": "https://anilist.co/anime/127536",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127536-349uMg2aOwOL.jpg",
-    "category": "ona",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:46:12.000Z",
-    "updatedAt": "2021-12-17T18:23:15.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/43001/Youjo_Shachou"
+  }
 }

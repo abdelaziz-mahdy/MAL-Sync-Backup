@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Kojima Akira"
-  ],
+  "createdAt": "2021-07-04T17:32:19.000Z",
+  "updatedAt": "2022-01-04T18:18:44.000Z",
+  "checkedAt": null,
+  "id": 80907,
   "identifier": "manga-oh958016",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 744,
   "aniId": 30744,
-  "createdAt": "2021-07-04T17:32:19.000Z",
-  "updatedAt": "2022-01-04T18:18:44.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kojima Akira"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-17T05:31:47.000Z",
+    "checkedAt": "2022-05-17T05:31:47.000Z",
+    "id": 744,
+    "type": "manga",
+    "title": "Mahoraba",
+    "altTitle": [
+      "まほらば"
+    ],
+    "url": "https://myanimelist.net/manga/744/Mahoraba",
+    "image": "https://cdn.myanimelist.net/images/manga/3/11382.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "まほらば"
-    ],
+    "deletedAt": null,
     "authors": [
       "Kojima, Akira"
-    ],
-    "id": 744,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:10.898Z",
+    "updatedAt": "2022-05-17T05:31:46.000Z",
+    "checkedAt": "2022-05-17T05:31:46.000Z",
+    "id": 30744,
     "type": "manga",
     "title": "Mahoraba",
-    "url": "https://myanimelist.net/manga/744/Mahoraba",
-    "image": "https://cdn.myanimelist.net/images/manga/3/11382.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2022-01-04T17:49:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "まほらば"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akira Kojima"
-    ],
-    "id": 30744,
-    "malId": 744,
-    "type": "manga",
-    "title": "Mahoraba",
     "url": "https://anilist.co/manga/30744",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30744-qkk6VTdLJNwl.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:43.000Z",
-    "updatedAt": "2021-12-17T09:33:15.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/744/Mahoraba"
+    "externalLinks": [],
+    "malId": 744,
+    "deletedAt": null,
+    "authors": [
+      "Akira Kojima"
+    ]
+  }
 }

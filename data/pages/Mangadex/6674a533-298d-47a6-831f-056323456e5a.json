@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Hanaya En"
-  ],
+  "createdAt": "2020-10-12T16:02:43.000Z",
+  "updatedAt": "2021-12-02T09:17:09.000Z",
+  "checkedAt": null,
+  "id": 712,
   "identifier": "6674a533-298d-47a6-831f-056323456e5a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10109,
   "aniId": 40109,
-  "createdAt": "2020-10-12T16:02:43.000Z",
-  "updatedAt": "2021-12-02T09:17:09.000Z",
   "deletedAt": null,
+  "authors": [
+    "Hanaya En"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:41:26.000Z",
+    "updatedAt": "2022-04-30T19:02:05.000Z",
+    "checkedAt": null,
+    "id": 10109,
+    "type": "manga",
+    "title": "Honnou Chocolat",
     "altTitle": [
       "Instinct Chocolate",
       "Koakuma Gelato",
@@ -28,21 +34,24 @@
       "Yukkuri to, Amaku naru",
       "本能ショコラ"
     ],
-    "authors": [
-      "Hanaya, En"
-    ],
-    "id": 10109,
-    "type": "manga",
-    "title": "Honnou Chocolat",
     "url": "https://myanimelist.net/manga/10109/Honnou_Chocolat",
     "image": "https://cdn.myanimelist.net/images/manga/2/203732.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:41:26.000Z",
-    "updatedAt": "2022-04-30T19:02:05.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanaya, En"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:10.785Z",
+    "updatedAt": "2022-05-13T12:59:10.785Z",
+    "checkedAt": null,
+    "id": 40109,
+    "type": "manga",
+    "title": "Honnou Chocolate",
     "altTitle": [
       "Instinct Chocolate",
       "本能ショコラ",
@@ -51,21 +60,15 @@
       "Hon-Nou Chocolate",
       "Instinct Chocolate"
     ],
-    "externalLinks": [],
-    "authors": [
-      "En Hanaya"
-    ],
-    "id": 40109,
-    "malId": 10109,
-    "type": "manga",
-    "title": "Honnou Chocolate",
     "url": "https://anilist.co/manga/40109",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10109.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:02.000Z",
-    "updatedAt": "2021-12-17T14:03:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/10109/Honnou_Chocolat"
+    "externalLinks": [],
+    "malId": 10109,
+    "deletedAt": null,
+    "authors": [
+      "En Hanaya"
+    ]
+  }
 }

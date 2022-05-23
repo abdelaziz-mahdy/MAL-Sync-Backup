@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Maruo Suehiro"
-  ],
+  "createdAt": "2020-10-12T16:08:06.000Z",
+  "updatedAt": "2021-12-04T07:50:51.000Z",
+  "checkedAt": null,
+  "id": 12033,
   "identifier": "082d9c57-8c00-45f2-8376-49f749cfd85b",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 9057,
   "aniId": 39057,
-  "createdAt": "2020-10-12T16:08:06.000Z",
-  "updatedAt": "2021-12-04T07:50:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Maruo Suehiro"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:22.000Z",
+    "updatedAt": "2022-05-15T21:34:57.000Z",
+    "checkedAt": "2022-05-15T21:34:57.000Z",
+    "id": 9057,
+    "type": "manga",
+    "title": "Shoujo Tsubaki",
+    "altTitle": [
+      "Midori",
+      "Camelia Girl",
+      "Mr. Arashi's Amazing Freak Show",
+      "少女椿"
+    ],
+    "url": "https://myanimelist.net/manga/9057/Shoujo_Tsubaki",
+    "image": "https://cdn.myanimelist.net/images/manga/5/176724.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,47 +43,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Midori",
-      "Camelia Girl",
-      "Mr. Arashi's Amazing Freak Show",
-      "少女椿"
-    ],
+    "deletedAt": null,
     "authors": [
       "Maruo, Suehiro"
-    ],
-    "id": 9057,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:40.127Z",
+    "updatedAt": "2022-05-15T22:18:47.000Z",
+    "checkedAt": "2022-05-15T22:18:47.000Z",
+    "id": 39057,
     "type": "manga",
     "title": "Shoujo Tsubaki",
-    "url": "https://myanimelist.net/manga/9057/Shoujo_Tsubaki",
-    "image": "https://cdn.myanimelist.net/images/manga/5/176724.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:22.000Z",
-    "updatedAt": "2022-04-18T18:01:35.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Mr. Arashi's Amazing Freak Show",
       "少女椿",
       "Midori"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Suehiro Maruo"
-    ],
-    "id": 39057,
-    "malId": 9057,
-    "type": "manga",
-    "title": "Shoujo Tsubaki",
     "url": "https://anilist.co/manga/39057",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39057-mX2ZxGeOYMNJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:53.000Z",
-    "updatedAt": "2021-12-17T13:40:53.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/9057/Shoujo_Tsubaki"
+    "externalLinks": [],
+    "malId": 9057,
+    "deletedAt": null,
+    "authors": [
+      "Suehiro Maruo"
+    ]
+  }
 }

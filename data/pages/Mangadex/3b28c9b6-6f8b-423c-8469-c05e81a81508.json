@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Age",
-    "Takao Ukyou"
-  ],
+  "createdAt": "2020-10-12T16:04:35.000Z",
+  "updatedAt": "2021-12-02T22:18:36.000Z",
+  "checkedAt": null,
+  "id": 4614,
   "identifier": "3b28c9b6-6f8b-423c-8469-c05e81a81508",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4208,
   "aniId": 34208,
-  "createdAt": "2020-10-12T16:04:35.000Z",
-  "updatedAt": "2021-12-02T22:18:36.000Z",
   "deletedAt": null,
+  "authors": [
+    "Age",
+    "Takao Ukyou"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:57.000Z",
+    "updatedAt": "2022-05-14T23:16:23.000Z",
+    "checkedAt": "2022-05-14T23:16:23.000Z",
+    "id": 4208,
+    "type": "manga",
+    "title": "Muv-Luv",
+    "altTitle": [
+      "MuvLuv Extra",
+      "マブラヴ"
+    ],
+    "url": "https://myanimelist.net/manga/4208/Muv-Luv",
+    "image": "https://cdn.myanimelist.net/images/manga/3/135017.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,47 +42,34 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "MuvLuv Extra",
-      "マブラヴ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Takao, Ukyou",
       "Age"
-    ],
-    "id": 4208,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:01.210Z",
+    "updatedAt": "2022-05-17T20:26:23.000Z",
+    "checkedAt": "2022-05-17T20:26:23.000Z",
+    "id": 34208,
     "type": "manga",
     "title": "Muv-Luv",
-    "url": "https://myanimelist.net/manga/4208/Muv-Luv",
-    "image": "https://cdn.myanimelist.net/images/manga/3/135017.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:57.000Z",
-    "updatedAt": "2022-01-15T11:41:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "マブラヴ",
       "Muv-Luv Extra",
       "MuvLuv Extra"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ukyou Kodachi",
-      "Age"
-    ],
-    "id": 34208,
-    "malId": 4208,
-    "type": "manga",
-    "title": "Muv-Luv",
     "url": "https://anilist.co/manga/34208",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34208-tmiFwpOpw5Jb.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:44:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4208/Muv-Luv"
+    "externalLinks": [],
+    "malId": 4208,
+    "deletedAt": null,
+    "authors": [
+      "Ukyou Kodachi",
+      "Age"
+    ]
+  }
 }

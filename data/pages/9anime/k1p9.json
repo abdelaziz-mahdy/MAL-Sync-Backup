@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:23.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 5186,
   "identifier": "k1p9",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2227,
   "aniId": 2227,
-  "createdAt": "2020-10-12T15:52:23.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T23:55:41.000Z",
+    "checkedAt": "2022-05-14T23:55:41.000Z",
+    "id": 2227,
+    "type": "anime",
+    "title": "Lady Lady!!",
+    "altTitle": [
+      "レディレディ！！"
+    ],
+    "url": "https://myanimelist.net/anime/2227/Lady_Lady",
+    "image": "https://cdn.myanimelist.net/images/anime/13/16818.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,22 +45,16 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "レディレディ！！"
-    ],
+    "deletedAt": null,
+    "anidbId": 2068
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T22:50:00.000Z",
+    "checkedAt": "2022-05-15T22:50:00.000Z",
     "id": 2227,
     "type": "anime",
     "title": "Lady Lady!!",
-    "url": "https://myanimelist.net/anime/2227/Lady_Lady",
-    "image": "https://cdn.myanimelist.net/images/anime/13/16818.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2068,
-    "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2022-03-31T05:32:29.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "レディレディ！！",
       "Gwendoline",
@@ -53,18 +62,12 @@
       "Chiquitina",
       "Mała Dama"
     ],
-    "externalLinks": [],
-    "id": 2227,
-    "malId": 2227,
-    "type": "anime",
-    "title": "Lady Lady!!",
     "url": "https://anilist.co/anime/2227",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2227-oKShcZwjNDs5.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:13.000Z",
-    "updatedAt": "2021-12-17T09:59:57.000Z",
+    "externalLinks": [],
+    "malId": 2227,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2227/Lady_Lady"
+  }
 }

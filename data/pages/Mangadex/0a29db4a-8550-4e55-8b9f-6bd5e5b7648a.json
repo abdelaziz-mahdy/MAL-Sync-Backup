@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Okabe Uru"
-  ],
+  "createdAt": "2020-10-12T16:06:47.000Z",
+  "updatedAt": "2021-12-03T22:21:19.000Z",
+  "checkedAt": null,
+  "id": 9204,
   "identifier": "0a29db4a-8550-4e55-8b9f-6bd5e5b7648a",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 59299,
   "aniId": 85663,
-  "createdAt": "2020-10-12T16:06:47.000Z",
-  "updatedAt": "2021-12-03T22:21:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Okabe Uru"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:44:54.000Z",
+    "updatedAt": "2022-05-14T23:27:59.000Z",
+    "checkedAt": "2022-05-14T23:27:59.000Z",
+    "id": 59299,
+    "type": "manga",
+    "title": "Sekai Oni",
+    "altTitle": [
+      "Sekaioni",
+      "World of Demon",
+      "世界鬼"
+    ],
+    "url": "https://myanimelist.net/manga/59299/Sekai_Oni",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157476.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,46 +46,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Sekaioni",
-      "World of Demon",
-      "世界鬼"
-    ],
+    "deletedAt": null,
     "authors": [
       "Okabe, Uru"
-    ],
-    "id": 59299,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:55.786Z",
+    "updatedAt": "2022-05-15T19:09:59.000Z",
+    "checkedAt": "2022-05-15T19:09:59.000Z",
+    "id": 85663,
     "type": "manga",
     "title": "Sekai Oni",
-    "url": "https://myanimelist.net/manga/59299/Sekai_Oni",
-    "image": "https://cdn.myanimelist.net/images/manga/3/157476.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:44:54.000Z",
-    "updatedAt": "2022-02-28T09:20:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "世界鬼",
       " Sekaioni",
       "World of Demon"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Uru Okabe"
-    ],
-    "id": 85663,
-    "malId": 59299,
-    "type": "manga",
-    "title": "Sekai Oni",
     "url": "https://anilist.co/manga/85663",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85663-u1S9VUSeyMgk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:50:37.000Z",
-    "updatedAt": "2021-12-17T22:20:55.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/59299/Sekai_Oni"
+    "externalLinks": [],
+    "malId": 59299,
+    "deletedAt": null,
+    "authors": [
+      "Uru Okabe"
+    ]
+  }
 }

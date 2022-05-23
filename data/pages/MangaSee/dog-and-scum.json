@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "ASAGA Iori"
-  ],
+  "createdAt": "2021-09-12T04:36:27.000Z",
+  "updatedAt": "2022-05-16T15:14:56.000Z",
+  "checkedAt": "2022-05-16T15:14:44.000Z",
+  "id": 87042,
   "identifier": "dog-and-scum",
   "type": "manga",
   "page": "MangaSee",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 138015,
   "aniId": 135930,
-  "createdAt": "2021-09-12T04:36:27.000Z",
-  "updatedAt": "2022-03-12T05:29:48.000Z",
   "deletedAt": null,
+  "authors": [
+    "ASAGA Iori"
+  ],
   "Mal": {
+    "createdAt": "2021-09-12T04:36:35.000Z",
+    "updatedAt": "2022-05-14T09:39:56.000Z",
+    "checkedAt": "2022-05-14T09:39:56.000Z",
+    "id": 138015,
+    "type": "manga",
+    "title": "Inu to Kuzu",
+    "altTitle": [
+      "Dog and Scum",
+      "犬と屑"
+    ],
+    "url": "https://myanimelist.net/manga/138015/Inu_to_Kuzu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250897.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Dog and Scum",
-      "犬と屑"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asaga, Iori"
-    ],
-    "id": 138015,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:05.284Z",
+    "updatedAt": "2022-05-14T09:39:56.000Z",
+    "checkedAt": "2022-05-14T09:39:56.000Z",
+    "id": 135930,
     "type": "manga",
     "title": "Inu to Kuzu",
-    "url": "https://myanimelist.net/manga/138015/Inu_to_Kuzu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/250897.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2021-09-12T04:36:35.000Z",
-    "updatedAt": "2022-04-17T16:02:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "犬と屑",
       "Dog and Scum"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Iori Asaga"
-    ],
-    "id": 135930,
-    "malId": 138015,
-    "type": "manga",
-    "title": "Inu to Kuzu",
     "url": "https://anilist.co/manga/135930",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135930-mxPxahht8jqB.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-21T08:20:50.000Z",
-    "updatedAt": "2022-04-17T17:01:42.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/138015/Inu_to_Kuzu"
+    "externalLinks": [],
+    "malId": 138015,
+    "deletedAt": null,
+    "authors": [
+      "Iori Asaga"
+    ]
+  }
 }

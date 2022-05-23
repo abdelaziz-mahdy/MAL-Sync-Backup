@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Matoba"
-  ],
+  "createdAt": "2020-10-12T16:04:16.000Z",
+  "updatedAt": "2021-12-02T20:17:28.000Z",
+  "checkedAt": null,
+  "id": 4005,
   "identifier": "26f23389-fefb-44d4-84fc-95905743bdfc",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 35313,
   "aniId": 65313,
-  "createdAt": "2020-10-12T16:04:16.000Z",
-  "updatedAt": "2021-12-02T20:17:28.000Z",
   "deletedAt": null,
+  "authors": [
+    "Matoba"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:58.000Z",
+    "updatedAt": "2022-05-15T03:56:48.000Z",
+    "checkedAt": "2022-05-15T03:56:48.000Z",
+    "id": 35313,
+    "type": "manga",
+    "title": "Majo no Shinzou",
+    "altTitle": [
+      "Witch's Heart",
+      "魔女の心臓"
+    ],
+    "url": "https://myanimelist.net/manga/35313/Majo_no_Shinzou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/104305.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Witch's Heart",
-      "魔女の心臓"
-    ],
+    "deletedAt": null,
     "authors": [
       "matoba"
-    ],
-    "id": 35313,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:05.511Z",
+    "updatedAt": "2022-05-16T06:06:30.000Z",
+    "checkedAt": "2022-05-16T06:06:30.000Z",
+    "id": 65313,
     "type": "manga",
     "title": "Majo no Shinzou",
-    "url": "https://myanimelist.net/manga/35313/Majo_no_Shinzou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/104305.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:58.000Z",
-    "updatedAt": "2021-11-13T10:44:14.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "魔女の心臓",
       "마녀의 심장",
       "Witch's Heart"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Matoba"
-    ],
-    "id": 65313,
-    "malId": 35313,
-    "type": "manga",
-    "title": "Majo no Shinzou",
     "url": "https://anilist.co/manga/65313",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65313-adEdUMpn4Whc.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:48:02.000Z",
-    "updatedAt": "2021-12-17T19:49:57.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/35313/Majo_no_Shinzou"
+    "externalLinks": [],
+    "malId": 35313,
+    "deletedAt": null,
+    "authors": [
+      "Matoba"
+    ]
+  }
 }

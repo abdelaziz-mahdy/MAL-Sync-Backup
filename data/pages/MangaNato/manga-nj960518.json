@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Oshimi Shuzo"
-  ],
+  "createdAt": "2021-05-31T09:47:33.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
+  "checkedAt": null,
+  "id": 74810,
   "identifier": "manga-nj960518",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 24705,
   "aniId": 54705,
-  "createdAt": "2021-05-31T09:47:33.000Z",
-  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
+  "authors": [
+    "Oshimi Shuzo"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:14.000Z",
+    "updatedAt": "2022-05-14T09:56:29.000Z",
+    "checkedAt": "2022-05-14T09:56:29.000Z",
+    "id": 24705,
+    "type": "manga",
+    "title": "Aku no Hana",
+    "altTitle": [
+      "Blossom of Evil",
+      "The Flowers of Evil",
+      "惡の華"
+    ],
+    "url": "https://myanimelist.net/manga/24705/Aku_no_Hana",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188918.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Blossom of Evil",
-      "The Flowers of Evil",
-      "惡の華"
-    ],
+    "deletedAt": null,
     "authors": [
       "Oshimi, Shuuzou"
-    ],
-    "id": 24705,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:33.968Z",
+    "updatedAt": "2022-05-15T14:20:23.000Z",
+    "checkedAt": "2022-05-15T14:20:23.000Z",
+    "id": 54705,
     "type": "manga",
     "title": "Aku no Hana",
-    "url": "https://myanimelist.net/manga/24705/Aku_no_Hana",
-    "image": "https://cdn.myanimelist.net/images/manga/2/188918.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:14.000Z",
-    "updatedAt": "2022-04-10T07:31:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "The Flowers of Evil",
       "惡の華",
@@ -54,22 +63,16 @@
       "I fiori del male",
       "As Flores do Mal"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Shuuzou Oshimi",
-      "Thibaud Desbief"
-    ],
-    "id": 54705,
-    "malId": 24705,
-    "type": "manga",
-    "title": "Aku no Hana",
     "url": "https://anilist.co/manga/54705",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54705-YDpCv7Y0KIcx.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:46.000Z",
-    "updatedAt": "2022-04-12T22:00:24.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/24705/Aku_no_Hana"
+    "externalLinks": [],
+    "malId": 24705,
+    "deletedAt": null,
+    "authors": [
+      "Shuuzou Oshimi",
+      "Thibaud Desbief"
+    ]
+  }
 }

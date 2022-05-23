@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:22.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2484,
   "identifier": "52kq",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2369,
   "aniId": 2369,
-  "createdAt": "2020-10-12T15:50:22.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-14T17:39:41.000Z",
+    "checkedAt": "2022-05-14T17:39:41.000Z",
+    "id": 2369,
+    "type": "anime",
+    "title": "Rental Magica",
+    "altTitle": [
+      "Rental Magica",
+      "レンタルマギカ"
+    ],
+    "url": "https://myanimelist.net/anime/2369/Rental_Magica",
+    "image": "https://cdn.myanimelist.net/images/anime/5/73999.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "animedb",
@@ -35,44 +51,31 @@
         "url": "https://www.funimation.com/shows/rental-magica"
       }
     ],
-    "altTitle": [
-      "Rental Magica",
-      "レンタルマギカ"
-    ],
+    "deletedAt": null,
+    "anidbId": 5189
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:16.000Z",
+    "updatedAt": "2022-05-15T14:06:47.000Z",
+    "checkedAt": "2022-05-15T14:06:47.000Z",
     "id": 2369,
     "type": "anime",
     "title": "Rental Magica",
-    "url": "https://myanimelist.net/anime/2369/Rental_Magica",
-    "image": "https://cdn.myanimelist.net/images/anime/5/73999.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 5189,
-    "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2022-03-08T23:30:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rental Magica",
       "レンタルマギカ"
     ],
+    "url": "https://anilist.co/anime/2369",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2369-CfMlUsLn6dvb.png",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Funimation",
         "url": "https://www.funimation.com/shows/rental-magica/"
       }
     ],
-    "id": 2369,
     "malId": 2369,
-    "type": "anime",
-    "title": "Rental Magica",
-    "url": "https://anilist.co/anime/2369",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2369-CfMlUsLn6dvb.png",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:16.000Z",
-    "updatedAt": "2021-12-17T10:19:54.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/2369/Rental_Magica"
+  }
 }

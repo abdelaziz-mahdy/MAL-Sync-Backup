@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:51:31.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 3976,
   "identifier": "8pzv",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,24 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69,
   "aniId": 69,
-  "createdAt": "2020-10-12T15:51:31.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T23:13:05.000Z",
+    "checkedAt": "2022-05-14T23:13:05.000Z",
+    "id": 69,
+    "type": "anime",
+    "title": "Cluster Edge",
+    "altTitle": [
+      "CLUSTER EDGE（クラスターエッジ）"
+    ],
+    "url": "https://myanimelist.net/anime/69/Cluster_Edge",
+    "image": "https://cdn.myanimelist.net/images/anime/1980/103243.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,43 +49,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "CLUSTER EDGE（クラスターエッジ）"
-    ],
+    "deletedAt": null,
+    "anidbId": 2392
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T10:51:35.000Z",
+    "checkedAt": "2022-05-15T10:51:35.000Z",
     "id": 69,
     "type": "anime",
-    "title": "Cluster Edge",
-    "url": "https://myanimelist.net/anime/69/Cluster_Edge",
-    "image": "https://cdn.myanimelist.net/images/anime/1980/103243.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 2392,
-    "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2022-03-30T11:00:28.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "CLUSTER EDGE",
     "altTitle": [
       "CLUSTER EDGE",
       "クラスターエッジ"
     ],
+    "url": "https://anilist.co/anime/69",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/69.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/cluster-edge"
       }
     ],
-    "id": 69,
     "malId": 69,
-    "type": "anime",
-    "title": "CLUSTER EDGE",
-    "url": "https://anilist.co/anime/69",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/69.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:33:26.000Z",
-    "updatedAt": "2022-05-07T15:30:24.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/69/Cluster_Edge"
+  }
 }

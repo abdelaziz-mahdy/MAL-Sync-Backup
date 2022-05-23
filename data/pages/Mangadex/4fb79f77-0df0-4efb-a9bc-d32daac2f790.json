@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mayumushi"
-  ],
+  "createdAt": "2020-10-12T16:16:46.000Z",
+  "updatedAt": "2021-12-07T01:48:34.000Z",
+  "checkedAt": null,
+  "id": 29780,
   "identifier": "4fb79f77-0df0-4efb-a9bc-d32daac2f790",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 28,
   "aniId": 30028,
-  "createdAt": "2020-10-12T16:16:46.000Z",
-  "updatedAt": "2021-12-07T01:48:34.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mayumushi"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2022-05-15T00:21:41.000Z",
+    "checkedAt": "2022-05-15T00:21:41.000Z",
+    "id": 28,
+    "type": "manga",
+    "title": "Nana",
+    "altTitle": [
+      "Nana",
+      "NANA"
+    ],
+    "url": "https://myanimelist.net/manga/28/Nana",
+    "image": "https://cdn.myanimelist.net/images/manga/1/163191.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,46 +41,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Nana",
-      "NANA"
-    ],
+    "deletedAt": null,
     "authors": [
       "Yazawa, Ai"
-    ],
-    "id": 28,
-    "type": "manga",
-    "title": "Nana",
-    "url": "https://myanimelist.net/manga/28/Nana",
-    "image": "https://cdn.myanimelist.net/images/manga/1/163191.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2022-04-14T15:02:07.000Z",
-    "deletedAt": null
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:19.393Z",
+    "updatedAt": "2022-05-15T11:48:23.000Z",
+    "checkedAt": "2022-05-15T11:48:23.000Z",
+    "id": 30028,
+    "type": "manga",
+    "title": "NANA",
     "altTitle": [
       "Nana",
       "NANA",
       "ナナ"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ai Yazawa",
-      "Tomo Kimura"
-    ],
-    "id": 30028,
-    "malId": 28,
-    "type": "manga",
-    "title": "NANA",
     "url": "https://anilist.co/manga/30028",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30028-UxaCSA7qg1u3.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:21.000Z",
-    "updatedAt": "2022-03-05T09:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/28/Nana"
+    "externalLinks": [],
+    "malId": 28,
+    "deletedAt": null,
+    "authors": [
+      "Ai Yazawa",
+      "Tomo Kimura"
+    ]
+  }
 }

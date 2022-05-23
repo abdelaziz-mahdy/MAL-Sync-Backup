@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:50:19.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 2462,
   "identifier": "510m",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 919,
   "aniId": 919,
-  "createdAt": "2020-10-12T15:50:19.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:10.000Z",
+    "updatedAt": "2022-05-14T21:50:17.000Z",
+    "checkedAt": "2022-05-14T21:50:17.000Z",
+    "id": 919,
+    "type": "anime",
+    "title": "Ray The Animation",
+    "altTitle": [
+      "Ray Project",
+      "Ray: The Animation",
+      "Ray The Animation",
+      "RAY THE ANIMATION"
+    ],
+    "url": "https://myanimelist.net/anime/919/Ray_The_Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/11/33315.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -34,47 +52,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Ray Project",
-      "Ray: The Animation",
-      "Ray The Animation",
-      "RAY THE ANIMATION"
-    ],
+    "deletedAt": null,
+    "anidbId": 4049
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:51.000Z",
+    "updatedAt": "2022-05-15T15:56:23.000Z",
+    "checkedAt": "2022-05-15T15:56:23.000Z",
     "id": 919,
     "type": "anime",
-    "title": "Ray The Animation",
-    "url": "https://myanimelist.net/anime/919/Ray_The_Animation",
-    "image": "https://cdn.myanimelist.net/images/anime/11/33315.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 4049,
-    "createdAt": "2020-10-12T15:38:10.000Z",
-    "updatedAt": "2022-01-02T21:53:42.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
+    "title": "RAY THE ANIMATION",
     "altTitle": [
       "Ray",
       "RAY THE ANIMATION",
       "Ray Project"
     ],
+    "url": "https://anilist.co/anime/919",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b919-5Zf4N6Yu3wby.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/ray"
       }
     ],
-    "id": 919,
     "malId": 919,
-    "type": "anime",
-    "title": "RAY THE ANIMATION",
-    "url": "https://anilist.co/anime/919",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b919-5Zf4N6Yu3wby.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:34:51.000Z",
-    "updatedAt": "2022-02-08T02:39:37.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/919/Ray_The_Animation"
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Daybook",
-    "Sushi"
-  ],
+  "createdAt": "2021-06-22T16:45:21.000Z",
+  "updatedAt": "2022-02-13T07:10:08.000Z",
+  "checkedAt": null,
+  "id": 79453,
   "identifier": "manga-ln989196",
   "type": "manga",
   "page": "MangaNato",
@@ -12,14 +12,22 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actorId": 1,
   "malId": null,
   "aniId": 136352,
-  "createdAt": "2021-06-22T16:45:21.000Z",
-  "updatedAt": "2022-02-13T07:10:08.000Z",
   "deletedAt": null,
+  "authors": [
+    "Daybook",
+    "Sushi"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:59.166Z",
+    "updatedAt": "2022-05-17T00:51:58.000Z",
+    "checkedAt": "2022-05-17T00:51:58.000Z",
+    "id": 136352,
+    "type": "manga",
+    "title": "A, Jjom Chameuseyo Yeongjunim!",
     "altTitle": [
       "Patience, My Lady!",
       "아, 쫌 참으세요 영주님!",
@@ -27,22 +35,16 @@
       "Oh, Be Patient My Lady!",
       "Ah, por favor sea paciente, ¡mi señor!"
     ],
-    "externalLinks": [],
-    "authors": [
-      "daybook",
-      "Saeuchobap"
-    ],
-    "id": 136352,
-    "malId": null,
-    "type": "manga",
-    "title": "A, Jjom Chameuseyo Yeongjunim!",
     "url": "https://anilist.co/manga/136352",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136352-aIWjJ2XqWFf7.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-07-04T08:29:51.000Z",
-    "updatedAt": "2022-03-02T23:41:32.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "daybook",
+      "Saeuchobap"
+    ]
+  }
 }

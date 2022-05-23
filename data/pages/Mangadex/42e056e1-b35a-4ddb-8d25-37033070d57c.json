@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ogura Akane"
-  ],
+  "createdAt": "2020-10-12T16:03:58.000Z",
+  "updatedAt": "2021-12-02T17:51:18.000Z",
+  "checkedAt": null,
+  "id": 3324,
   "identifier": "42e056e1-b35a-4ddb-8d25-37033070d57c",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 6624,
   "aniId": 36624,
-  "createdAt": "2020-10-12T16:03:58.000Z",
-  "updatedAt": "2021-12-02T17:51:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ogura Akane"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:11.000Z",
+    "updatedAt": "2022-05-15T15:51:33.000Z",
+    "checkedAt": "2022-05-15T15:51:33.000Z",
+    "id": 6624,
+    "type": "manga",
+    "title": "Zettai Heiwa Daisakusen",
+    "altTitle": [
+      "Peace at Any Price",
+      "The Absolute Strategy of Peace",
+      "絶対平和大作戦"
+    ],
+    "url": "https://myanimelist.net/manga/6624/Zettai_Heiwa_Daisakusen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/170640.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Peace at Any Price",
-      "The Absolute Strategy of Peace",
-      "絶対平和大作戦"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ogura, Akane"
-    ],
-    "id": 6624,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:22.048Z",
+    "updatedAt": "2022-05-15T19:10:23.000Z",
+    "checkedAt": "2022-05-15T19:10:23.000Z",
+    "id": 36624,
     "type": "manga",
     "title": "Zettai Heiwa Daisakusen",
-    "url": "https://myanimelist.net/manga/6624/Zettai_Heiwa_Daisakusen",
-    "image": "https://cdn.myanimelist.net/images/manga/3/170640.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:11.000Z",
-    "updatedAt": "2021-12-27T11:43:48.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "絶対平和大作戦",
       "Absolute Peace Strategy",
@@ -52,21 +61,15 @@
       "The Absolute Strategy of Peace",
       "Absolute Peace Project"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Akane Ogura"
-    ],
-    "id": 36624,
-    "malId": 6624,
-    "type": "manga",
-    "title": "Zettai Heiwa Daisakusen",
     "url": "https://anilist.co/manga/36624",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36624-GitTJCxfnWqW.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:42.000Z",
-    "updatedAt": "2021-12-17T12:46:10.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/6624/Zettai_Heiwa_Daisakusen"
+    "externalLinks": [],
+    "malId": 6624,
+    "deletedAt": null,
+    "authors": [
+      "Akane Ogura"
+    ]
+  }
 }

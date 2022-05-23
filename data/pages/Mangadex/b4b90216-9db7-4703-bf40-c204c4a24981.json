@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Anzai Nobuyuki"
-  ],
+  "createdAt": "2020-10-12T16:04:53.000Z",
+  "updatedAt": "2021-12-03T00:17:29.000Z",
+  "checkedAt": null,
+  "id": 5251,
   "identifier": "b4b90216-9db7-4703-bf40-c204c4a24981",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 5447,
   "aniId": 35447,
-  "createdAt": "2020-10-12T16:04:53.000Z",
-  "updatedAt": "2021-12-03T00:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Anzai Nobuyuki"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:05.000Z",
+    "updatedAt": "2022-04-24T05:32:58.000Z",
+    "checkedAt": null,
+    "id": 5447,
+    "type": "manga",
+    "title": "Rocket Princess",
+    "altTitle": [
+      "R Princess",
+      "R・PRINCESS 〈ロケット・プリンセス〉"
+    ],
+    "url": "https://myanimelist.net/manga/5447/Rocket_Princess",
+    "image": "https://cdn.myanimelist.net/images/manga/1/9973.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "R Princess",
-      "R・PRINCESS 〈ロケット・プリンセス〉"
-    ],
+    "deletedAt": null,
     "authors": [
       "Anzai, Nobuyuki"
-    ],
-    "id": 5447,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:16.209Z",
+    "updatedAt": "2022-05-13T12:54:16.209Z",
+    "checkedAt": null,
+    "id": 35447,
     "type": "manga",
     "title": "Rocket Princess",
-    "url": "https://myanimelist.net/manga/5447/Rocket_Princess",
-    "image": "https://cdn.myanimelist.net/images/manga/1/9973.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:05.000Z",
-    "updatedAt": "2022-04-24T05:32:58.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Rocket Princess",
       "Ｒ・ＰＲＩＮＣＥＳＳ （ロケット・プリンセス）",
       "R Princess"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Nobuyuki Anzai"
-    ],
-    "id": 35447,
-    "malId": 5447,
-    "type": "manga",
-    "title": "Rocket Princess",
     "url": "https://anilist.co/manga/35447",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5447.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:28.000Z",
-    "updatedAt": "2021-12-17T12:19:50.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/5447/Rocket_Princess"
+    "externalLinks": [],
+    "malId": 5447,
+    "deletedAt": null,
+    "authors": [
+      "Nobuyuki Anzai"
+    ]
+  }
 }

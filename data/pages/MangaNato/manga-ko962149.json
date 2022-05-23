@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Inoue Junya"
-  ],
+  "createdAt": "2021-07-06T14:01:56.000Z",
+  "updatedAt": "2022-01-06T14:47:51.000Z",
+  "checkedAt": null,
+  "id": 81064,
   "identifier": "manga-ko962149",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 4215,
   "aniId": 34215,
-  "createdAt": "2021-07-06T14:01:56.000Z",
-  "updatedAt": "2022-01-06T14:47:51.000Z",
   "deletedAt": null,
+  "authors": [
+    "Inoue Junya"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:57.000Z",
+    "updatedAt": "2022-01-06T14:18:22.000Z",
+    "checkedAt": null,
+    "id": 4215,
+    "type": "manga",
+    "title": "Otogi Matsuri",
+    "altTitle": [
+      "Otogi Tatematsuri",
+      "Otogi Matsuri: Dark Offering",
+      "おとぎ奉り"
+    ],
+    "url": "https://myanimelist.net/manga/4215/Otogi_Matsuri",
+    "image": "https://cdn.myanimelist.net/images/manga/1/4886.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Otogi Tatematsuri",
-      "Otogi Matsuri: Dark Offering",
-      "おとぎ奉り"
-    ],
+    "deletedAt": null,
     "authors": [
       "Inoue, Junya"
-    ],
-    "id": 4215,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:38.764Z",
+    "updatedAt": "2022-05-13T12:58:38.764Z",
+    "checkedAt": null,
+    "id": 34215,
     "type": "manga",
     "title": "Otogi Matsuri",
-    "url": "https://myanimelist.net/manga/4215/Otogi_Matsuri",
-    "image": "https://cdn.myanimelist.net/images/manga/1/4886.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:57.000Z",
-    "updatedAt": "2022-01-06T14:18:22.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おとぎ奉り",
       "Otogi Tatematsuri"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Junya Inoue"
-    ],
-    "id": 34215,
-    "malId": 4215,
-    "type": "manga",
-    "title": "Otogi Matsuri",
     "url": "https://anilist.co/manga/34215",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34215-OrrcNekPDdQX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:26.000Z",
-    "updatedAt": "2021-12-17T11:44:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/4215/Otogi_Matsuri"
+    "externalLinks": [],
+    "malId": 4215,
+    "deletedAt": null,
+    "authors": [
+      "Junya Inoue"
+    ]
+  }
 }

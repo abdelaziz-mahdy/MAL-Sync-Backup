@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ono Natsume"
-  ],
+  "createdAt": "2020-10-12T16:06:33.000Z",
+  "updatedAt": "2021-12-03T20:47:38.000Z",
+  "checkedAt": null,
+  "id": 8706,
   "identifier": "bd18f9b7-6144-4ffe-9d97-16dd8e17318e",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 12386,
   "aniId": 42386,
-  "createdAt": "2020-10-12T16:06:33.000Z",
-  "updatedAt": "2021-12-03T20:47:38.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ono Natsume"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:45.000Z",
+    "updatedAt": "2022-05-23T03:16:05.000Z",
+    "checkedAt": "2022-05-23T03:16:05.000Z",
+    "id": 12386,
+    "type": "manga",
+    "title": "Ristorante Paradiso",
+    "altTitle": [
+      "リストランテ・パラディーゾ"
+    ],
+    "url": "https://myanimelist.net/manga/12386/Ristorante_Paradiso",
+    "image": "https://cdn.myanimelist.net/images/manga/1/205426.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,49 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "リストランテ・パラディーゾ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ono, Natsume"
-    ],
-    "id": 12386,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:46.873Z",
+    "updatedAt": "2022-05-23T03:16:04.000Z",
+    "checkedAt": "2022-05-23T03:16:04.000Z",
+    "id": 42386,
     "type": "manga",
     "title": "Ristorante Paradiso",
-    "url": "https://myanimelist.net/manga/12386/Ristorante_Paradiso",
-    "image": "https://cdn.myanimelist.net/images/manga/1/205426.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:45.000Z",
-    "updatedAt": "2022-05-01T03:08:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Ristorante Paradiso",
       "リストランテ・パラディーゾ"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/ristorante-paradiso"
-      }
-    ],
-    "authors": [
-      "Natsume Ono",
-      "Joe Yamazaki"
-    ],
-    "id": 42386,
-    "malId": 12386,
-    "type": "manga",
-    "title": "Ristorante Paradiso",
     "url": "https://anilist.co/manga/42386",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42386-Fa3J0TCaoOyJ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:22.000Z",
-    "updatedAt": "2021-12-17T14:45:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/12386/Ristorante_Paradiso"
+    "externalLinks": [],
+    "malId": 12386,
+    "deletedAt": null,
+    "authors": [
+      "Natsume Ono",
+      "Joe Yamazaki"
+    ]
+  }
 }

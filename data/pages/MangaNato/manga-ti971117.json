@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Horio Seita"
-  ],
+  "createdAt": "2022-04-14T19:30:34.000Z",
+  "updatedAt": "2022-04-14T20:00:24.000Z",
+  "checkedAt": null,
+  "id": 101444,
   "identifier": "manga-ti971117",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 94345,
   "aniId": 99159,
-  "createdAt": "2022-04-14T19:30:34.000Z",
-  "updatedAt": "2022-04-14T20:00:24.000Z",
   "deletedAt": null,
+  "authors": [
+    "Horio Seita"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:20.000Z",
+    "updatedAt": "2022-05-15T17:12:43.000Z",
+    "checkedAt": "2022-05-15T17:12:43.000Z",
+    "id": 94345,
+    "type": "manga",
+    "title": "Kokkoku",
+    "altTitle": [
+      "Kokukoku",
+      "Kokkoku: Moment by Moment",
+      "刻刻"
+    ],
+    "url": "https://myanimelist.net/manga/94345/Kokkoku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/167273.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,45 +42,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Kokukoku",
-      "Kokkoku: Moment by Moment",
-      "刻刻"
-    ],
+    "deletedAt": null,
     "authors": [
       "Horio, Seita"
-    ],
-    "id": 94345,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:59.457Z",
+    "updatedAt": "2022-05-15T20:06:23.000Z",
+    "checkedAt": "2022-05-15T20:06:23.000Z",
+    "id": 99159,
     "type": "manga",
     "title": "Kokkoku",
-    "url": "https://myanimelist.net/manga/94345/Kokkoku",
-    "image": "https://cdn.myanimelist.net/images/manga/3/167273.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2022-04-14T19:31:16.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Kokkoku: Moment by Moment",
       "刻刻"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Seita Horio"
-    ],
-    "id": 99159,
-    "malId": 94345,
-    "type": "manga",
-    "title": "Kokkoku",
     "url": "https://anilist.co/manga/99159",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99159-BhxT794EezUK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:53:52.000Z",
-    "updatedAt": "2021-12-18T02:51:05.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/94345/Kokkoku"
+    "externalLinks": [],
+    "malId": 94345,
+    "deletedAt": null,
+    "authors": [
+      "Seita Horio"
+    ]
+  }
 }

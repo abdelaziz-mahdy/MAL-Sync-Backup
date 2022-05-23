@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "CRG",
-    "Kim Gyu-Sam"
-  ],
+  "createdAt": "2020-10-12T16:14:44.000Z",
+  "updatedAt": "2021-12-06T10:50:02.000Z",
+  "checkedAt": null,
+  "id": 25529,
   "identifier": "51b8571f-7277-4e48-b6e5-58c3ebca1143",
   "type": "manga",
   "page": "Mangadex",
@@ -12,33 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": null,
   "aniId": 125080,
-  "createdAt": "2020-10-12T16:14:44.000Z",
-  "updatedAt": "2021-12-06T10:50:02.000Z",
   "deletedAt": null,
+  "authors": [
+    "CRG",
+    "Kim Gyu-Sam"
+  ],
   "Mal": null,
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:20.154Z",
+    "updatedAt": "2022-05-15T22:30:47.000Z",
+    "checkedAt": "2022-05-15T22:30:47.000Z",
+    "id": 125080,
+    "type": "manga",
+    "title": "Vigilante",
     "altTitle": [
       "비질란테"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gyu-Sam Kim",
-      "CRG"
-    ],
-    "id": 125080,
-    "malId": null,
-    "type": "manga",
-    "title": "Vigilante",
     "url": "https://anilist.co/manga/125080",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125080-CXwcl0G3ko31.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-06-03T11:18:58.000Z",
-    "updatedAt": "2021-12-21T16:58:28.000Z",
-    "deletedAt": null
-  },
-  "malUrl": ""
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Gyu-Sam Kim",
+      "CRG"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Ishiguro Masakazu"
-  ],
+  "createdAt": "2020-10-12T16:11:23.000Z",
+  "updatedAt": "2021-12-05T08:17:50.000Z",
+  "checkedAt": null,
+  "id": 19231,
   "identifier": "eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 111745,
   "aniId": 101942,
-  "createdAt": "2020-10-12T16:11:23.000Z",
-  "updatedAt": "2021-12-05T08:17:50.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishiguro Masakazu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:23.000Z",
+    "updatedAt": "2022-05-14T23:09:41.000Z",
+    "checkedAt": "2022-05-14T23:09:41.000Z",
+    "id": 111745,
+    "type": "manga",
+    "title": "Tengoku Daimakyou",
+    "altTitle": [
+      "Heaven's Great Magical Barrier",
+      "Heavenly Delusion",
+      "天国大魔境"
+    ],
+    "url": "https://myanimelist.net/manga/111745/Tengoku_Daimakyou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/210308.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,26 +42,18 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Heaven's Great Magical Barrier",
-      "Heavenly Delusion",
-      "天国大魔境"
-    ],
+    "deletedAt": null,
     "authors": [
       "Ishiguro, Masakazu"
-    ],
-    "id": 111745,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:02.309Z",
+    "updatedAt": "2022-05-15T21:09:35.000Z",
+    "checkedAt": "2022-05-15T21:09:35.000Z",
+    "id": 101942,
     "type": "manga",
     "title": "Tengoku Daimakyou",
-    "url": "https://myanimelist.net/manga/111745/Tengoku_Daimakyou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/210308.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:23.000Z",
-    "updatedAt": "2022-03-20T17:55:25.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Heavenly Delusion",
       "天国大魔境",
@@ -52,23 +61,17 @@
       "The Heaven Delusion",
       "Heavenly Delusion: Tengoku Daimakyo"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Masakazu Ishiguro",
-      "Ko Ransom",
-      "Brandon Bovia"
-    ],
-    "id": 101942,
-    "malId": 111745,
-    "type": "manga",
-    "title": "Tengoku Daimakyou",
     "url": "https://anilist.co/manga/101942",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101942-yjslDpT6XcpK.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:56:50.000Z",
-    "updatedAt": "2022-03-16T09:22:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/111745/Tengoku_Daimakyou"
+    "externalLinks": [],
+    "malId": 111745,
+    "deletedAt": null,
+    "authors": [
+      "Masakazu Ishiguro",
+      "Ko Ransom",
+      "Brandon Bovia"
+    ]
+  }
 }

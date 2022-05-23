@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Nonomura Saku"
-  ],
+  "createdAt": "2020-10-12T16:09:06.000Z",
+  "updatedAt": "2021-12-04T15:21:19.000Z",
+  "checkedAt": null,
+  "id": 14275,
   "identifier": "8772a20d-3456-4876-9d3f-ed0dcf489a42",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 100090,
   "aniId": 97816,
-  "createdAt": "2020-10-12T16:09:06.000Z",
-  "updatedAt": "2021-12-04T15:21:19.000Z",
   "deletedAt": null,
+  "authors": [
+    "Nonomura Saku"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:46:38.000Z",
+    "updatedAt": "2022-05-21T02:54:44.000Z",
+    "checkedAt": "2022-05-21T02:54:44.000Z",
+    "id": 100090,
+    "type": "manga",
+    "title": "Otonari Complex",
+    "altTitle": [
+      "おとなりコンプレックス"
+    ],
+    "url": "https://myanimelist.net/manga/100090/Otonari_Complex",
+    "image": "https://cdn.myanimelist.net/images/manga/1/181140.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +40,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "おとなりコンプレックス"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nonomura, Saku"
-    ],
-    "id": 100090,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:11.141Z",
+    "updatedAt": "2022-05-21T02:54:43.000Z",
+    "checkedAt": "2022-05-21T02:54:43.000Z",
+    "id": 97816,
     "type": "manga",
     "title": "Otonari Complex",
-    "url": "https://myanimelist.net/manga/100090/Otonari_Complex",
-    "image": "https://cdn.myanimelist.net/images/manga/1/181140.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:38.000Z",
-    "updatedAt": "2021-12-14T03:18:46.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "おとなりコンプレックス",
       "Childhood Friend Complex",
       "Kompleks sąsiada"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Saku Nonomura"
-    ],
-    "id": 97816,
-    "malId": 100090,
-    "type": "manga",
-    "title": "Otonari Complex",
     "url": "https://anilist.co/manga/97816",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97816-qlQAXeVIxJQZ.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:45.000Z",
-    "updatedAt": "2021-12-18T02:20:18.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/100090/Otonari_Complex"
+    "externalLinks": [],
+    "malId": 100090,
+    "deletedAt": null,
+    "authors": [
+      "Saku Nonomura"
+    ]
+  }
 }

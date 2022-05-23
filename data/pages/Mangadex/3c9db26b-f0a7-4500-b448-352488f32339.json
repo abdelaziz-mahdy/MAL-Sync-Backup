@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Sakaki Ichirou",
-    "Kanikama"
-  ],
+  "createdAt": "2020-10-12T16:07:17.000Z",
+  "updatedAt": "2021-12-04T01:50:52.000Z",
+  "checkedAt": null,
+  "id": 10280,
   "identifier": "3c9db26b-f0a7-4500-b448-352488f32339",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 69377,
   "aniId": 123670,
-  "createdAt": "2020-10-12T16:07:17.000Z",
-  "updatedAt": "2021-12-04T01:50:52.000Z",
   "deletedAt": null,
+  "authors": [
+    "Sakaki Ichirou",
+    "Kanikama"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:15.000Z",
+    "updatedAt": "2022-04-17T09:30:30.000Z",
+    "checkedAt": null,
+    "id": 69377,
+    "type": "manga",
+    "title": "Hitsugi no Chaika kka",
+    "altTitle": [
+      "Hitsugime no Chaikakka",
+      "Hitsugi no Chaikakka",
+      "棺姫のチャイカっか"
+    ],
+    "url": "https://myanimelist.net/manga/69377/Hitsugi_no_Chaika_kka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/119685.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,49 +43,35 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Hitsugime no Chaikakka",
-      "Hitsugi no Chaikakka",
-      "棺姫のチャイカっか"
-    ],
+    "deletedAt": null,
     "authors": [
       "Sakaki, Ichirou",
       "Kanikama"
-    ],
-    "id": 69377,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:01.987Z",
+    "updatedAt": "2022-05-13T12:43:01.987Z",
+    "checkedAt": null,
+    "id": 123670,
     "type": "manga",
     "title": "Hitsugi no Chaika kka",
-    "url": "https://myanimelist.net/manga/69377/Hitsugi_no_Chaika_kka",
-    "image": "https://cdn.myanimelist.net/images/manga/3/119685.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:15.000Z",
-    "updatedAt": "2022-04-17T09:30:30.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "棺姫のチャイカっか",
       "Hitsugime no Chaikakka",
       "Hitsugi no Chaikakka"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Ichirou Sakaki",
-      "Kanikama",
-      "Namaniku ATK"
-    ],
-    "id": 123670,
-    "malId": 69377,
-    "type": "manga",
-    "title": "Hitsugi no Chaika kka",
     "url": "https://anilist.co/manga/123670",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123670-q230IapEn0gh.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:03.000Z",
-    "updatedAt": "2021-12-18T10:52:21.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/69377/Hitsugi_no_Chaika_kka"
+    "externalLinks": [],
+    "malId": 69377,
+    "deletedAt": null,
+    "authors": [
+      "Ichirou Sakaki",
+      "Kanikama",
+      "Namaniku ATK"
+    ]
+  }
 }

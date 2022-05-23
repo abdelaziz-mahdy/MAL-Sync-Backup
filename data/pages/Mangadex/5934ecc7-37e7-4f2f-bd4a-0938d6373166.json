@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Koyama Aiko"
-  ],
+  "createdAt": "2020-10-12T16:14:14.000Z",
+  "updatedAt": "2021-12-06T03:48:01.000Z",
+  "checkedAt": null,
+  "id": 24502,
   "identifier": "5934ecc7-37e7-4f2f-bd4a-0938d6373166",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 116485,
   "aniId": 98890,
-  "createdAt": "2020-10-12T16:14:14.000Z",
-  "updatedAt": "2021-12-06T03:48:01.000Z",
   "deletedAt": null,
+  "authors": [
+    "Koyama Aiko"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:47:47.000Z",
+    "updatedAt": "2022-05-19T15:23:54.000Z",
+    "checkedAt": "2022-05-19T15:23:54.000Z",
+    "id": 116485,
+    "type": "manga",
+    "title": "Chirori",
+    "altTitle": [
+      "ちろり"
+    ],
+    "url": "https://myanimelist.net/manga/116485/Chirori",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222072.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,43 +40,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ちろり"
-    ],
+    "deletedAt": null,
     "authors": [
       "Koyama, Aiko"
-    ],
-    "id": 116485,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:03.177Z",
+    "updatedAt": "2022-05-19T15:23:53.000Z",
+    "checkedAt": "2022-05-19T15:23:53.000Z",
+    "id": 98890,
     "type": "manga",
     "title": "Chirori",
-    "url": "https://myanimelist.net/manga/116485/Chirori",
-    "image": "https://cdn.myanimelist.net/images/manga/3/222072.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:47:47.000Z",
-    "updatedAt": "2021-11-22T22:37:09.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Chirori",
       "ちろり"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Aiko Koyama"
-    ],
-    "id": 98890,
-    "malId": 116485,
-    "type": "manga",
-    "title": "Chirori",
     "url": "https://anilist.co/manga/98890",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98890-ldhg5QVq3EfC.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:57:23.000Z",
-    "updatedAt": "2021-12-18T02:48:45.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/116485/Chirori"
+    "externalLinks": [],
+    "malId": 116485,
+    "deletedAt": null,
+    "authors": [
+      "Aiko Koyama"
+    ]
+  }
 }

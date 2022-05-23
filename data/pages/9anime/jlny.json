@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:52:14.000Z",
+  "updatedAt": "2021-05-20T15:21:51.000Z",
+  "checkedAt": null,
+  "id": 4907,
   "identifier": "jlny",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 3112,
   "aniId": 3112,
-  "createdAt": "2020-10-12T15:52:14.000Z",
-  "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-15T00:16:05.000Z",
+    "checkedAt": "2022-05-15T00:16:05.000Z",
+    "id": 3112,
+    "type": "anime",
+    "title": "Papillon Rose",
+    "altTitle": [
+      "Papillon Rose: New Season",
+      "Papillon Rose",
+      "パピヨンローゼ"
+    ],
+    "url": "https://myanimelist.net/anime/3112/Papillon_Rose",
+    "image": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -39,45 +56,31 @@
         "url": "https://www.hidive.com/tv/papillon-rose"
       }
     ],
-    "altTitle": [
-      "Papillon Rose: New Season",
-      "Papillon Rose",
-      "パピヨンローゼ"
-    ],
+    "deletedAt": null,
+    "anidbId": 3996
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2022-05-15T17:49:47.000Z",
+    "checkedAt": "2022-05-15T17:49:47.000Z",
     "id": 3112,
     "type": "anime",
     "title": "Papillon Rose",
-    "url": "https://myanimelist.net/anime/3112/Papillon_Rose",
-    "image": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 3996,
-    "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2022-04-30T04:03:55.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "パピヨンローゼ",
       "Papillon Rose: New Season"
     ],
+    "url": "https://anilist.co/anime/3112",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg",
+    "category": "tv",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "Hidive",
         "url": "https://www.hidive.com/tv/papillon-rose"
       }
     ],
-    "id": 3112,
     "malId": 3112,
-    "type": "anime",
-    "title": "Papillon Rose",
-    "url": "https://anilist.co/anime/3112",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:36:34.000Z",
-    "updatedAt": "2021-12-17T10:52:04.000Z",
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/3112/Papillon_Rose"
+  }
 }

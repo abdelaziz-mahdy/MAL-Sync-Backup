@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Katou Setsuko"
-  ],
+  "createdAt": "2020-10-12T16:07:57.000Z",
+  "updatedAt": "2021-12-04T08:47:47.000Z",
+  "checkedAt": null,
+  "id": 11696,
   "identifier": "42fb8629-5dcc-447d-ba20-bf9b49e0fe0d",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80489,
   "aniId": 93025,
-  "createdAt": "2020-10-12T16:07:57.000Z",
-  "updatedAt": "2021-12-04T08:47:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Katou Setsuko"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2021-06-04T06:49:18.000Z",
+    "updatedAt": "2021-12-04T07:19:48.000Z",
+    "checkedAt": null,
+    "id": 80489,
+    "type": "manga",
+    "title": "Koi no Hajime",
     "altTitle": [
       "Koi no Tsuzuki",
       "Koi no Tsudzuki",
@@ -28,21 +34,24 @@
       "Koi no Yukusaki",
       "恋のはじめ"
     ],
-    "authors": [
-      "Katou, Setsuko"
-    ],
-    "id": 80489,
-    "type": "manga",
-    "title": "Koi no Hajime",
     "url": "https://myanimelist.net/manga/80489/Koi_no_Hajime",
     "image": "https://cdn.myanimelist.net/images/manga/1/139215.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-04T06:49:18.000Z",
-    "updatedAt": "2021-12-04T07:19:48.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Katou, Setsuko"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:17.554Z",
+    "updatedAt": "2022-05-13T12:52:17.554Z",
+    "checkedAt": null,
+    "id": 93025,
+    "type": "manga",
+    "title": "Koi no Hajime",
     "altTitle": [
       "恋のはじめ",
       "Koi no Tsuzuki",
@@ -51,21 +60,15 @@
       "Mebaeru Koi wa",
       "Koi no Yukusaki"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Setsuko Katou"
-    ],
-    "id": 93025,
-    "malId": 80489,
-    "type": "manga",
-    "title": "Koi no Hajime",
     "url": "https://anilist.co/manga/93025",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93025-YzO6CcREO1Y7.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-06-04T06:49:18.000Z",
-    "updatedAt": "2021-12-18T00:49:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80489/Koi_no_Hajime"
+    "externalLinks": [],
+    "malId": 80489,
+    "deletedAt": null,
+    "authors": [
+      "Setsuko Katou"
+    ]
+  }
 }

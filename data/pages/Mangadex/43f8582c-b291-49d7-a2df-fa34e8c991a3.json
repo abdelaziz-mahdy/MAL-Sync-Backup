@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Fujisaka Lyric"
-  ],
+  "createdAt": "2020-10-12T16:14:43.000Z",
+  "updatedAt": "2021-12-06T07:48:17.000Z",
+  "checkedAt": null,
+  "id": 25519,
   "identifier": "43f8582c-b291-49d7-a2df-fa34e8c991a3",
   "type": "manga",
   "page": "Mangadex",
@@ -11,15 +12,20 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 55669,
   "aniId": 88013,
-  "createdAt": "2020-10-12T16:14:43.000Z",
-  "updatedAt": "2021-12-06T07:48:17.000Z",
   "deletedAt": null,
+  "authors": [
+    "Fujisaka Lyric"
+  ],
   "Mal": {
-    "externalLinks": [],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:44:47.000Z",
+    "updatedAt": "2022-03-05T18:31:07.000Z",
+    "checkedAt": null,
+    "id": 55669,
+    "type": "manga",
+    "title": "Lyrical Cute",
     "altTitle": [
       "LQ",
       "Kazutama",
@@ -32,21 +38,24 @@
       "Let Me Hear Your Voice",
       "リリカルきゅーと"
     ],
-    "authors": [
-      "Fujisaka, Lyric"
-    ],
-    "id": 55669,
-    "type": "manga",
-    "title": "Lyrical Cute",
     "url": "https://myanimelist.net/manga/55669/Lyrical_Cute",
     "image": "https://cdn.myanimelist.net/images/manga/1/107249.jpg",
     "category": "Manga",
     "hentai": true,
-    "createdAt": "2020-10-12T15:44:47.000Z",
-    "updatedAt": "2022-03-05T18:31:07.000Z",
-    "deletedAt": null
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fujisaka, Lyric"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:05.757Z",
+    "updatedAt": "2022-05-13T13:02:05.757Z",
+    "checkedAt": null,
+    "id": 88013,
+    "type": "manga",
+    "title": "Lyrical Cute",
     "altTitle": [
       "リリカルきゅーと",
       "LQ",
@@ -59,21 +68,15 @@
       "Mikoi Feeling",
       "Let Me Hear Your Voice"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Lyric Fujisaka"
-    ],
-    "id": 88013,
-    "malId": 55669,
-    "type": "manga",
-    "title": "Lyrical Cute",
     "url": "https://anilist.co/manga/88013",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88013-MzTm3DZiFQos.jpg",
     "category": "manga",
     "hentai": true,
-    "createdAt": "2021-05-20T14:50:02.000Z",
-    "updatedAt": "2021-12-17T23:28:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/55669/Lyrical_Cute"
+    "externalLinks": [],
+    "malId": 55669,
+    "deletedAt": null,
+    "authors": [
+      "Lyric Fujisaka"
+    ]
+  }
 }

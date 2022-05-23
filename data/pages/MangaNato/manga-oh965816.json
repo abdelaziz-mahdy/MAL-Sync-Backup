@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Ishikawa Ken",
-    "Nagai Go"
-  ],
+  "createdAt": "2021-09-03T19:15:59.000Z",
+  "updatedAt": "2022-03-03T20:11:40.000Z",
+  "checkedAt": null,
+  "id": 86656,
   "identifier": "manga-oh965816",
   "type": "manga",
   "page": "MangaNato",
@@ -12,13 +12,29 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 8571,
   "aniId": 38571,
-  "createdAt": "2021-09-03T19:15:59.000Z",
-  "updatedAt": "2022-03-03T20:11:40.000Z",
   "deletedAt": null,
+  "authors": [
+    "Ishikawa Ken",
+    "Nagai Go"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:19.000Z",
+    "updatedAt": "2022-05-15T05:32:02.000Z",
+    "checkedAt": "2022-05-15T05:32:02.000Z",
+    "id": 8571,
+    "type": "manga",
+    "title": "Shin Getter Robo",
+    "altTitle": [
+      "Shin Getter",
+      "真ゲッターロボ"
+    ],
+    "url": "https://myanimelist.net/manga/8571/Shin_Getter_Robo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157458.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -26,46 +42,33 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Shin Getter",
-      "真ゲッターロボ"
-    ],
+    "deletedAt": null,
     "authors": [
       "Nagai, Go",
       "Ishikawa, Ken"
-    ],
-    "id": 8571,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:59.774Z",
+    "updatedAt": "2022-05-15T16:59:35.000Z",
+    "checkedAt": "2022-05-15T16:59:35.000Z",
+    "id": 38571,
     "type": "manga",
     "title": "Shin Getter Robo",
-    "url": "https://myanimelist.net/manga/8571/Shin_Getter_Robo",
-    "image": "https://cdn.myanimelist.net/images/manga/3/157458.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:19.000Z",
-    "updatedAt": "2021-11-07T13:49:06.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "真ゲッターロボ",
       "Shin Getter"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Gou Nagai",
-      "Ken Ishikawa"
-    ],
-    "id": 38571,
-    "malId": 8571,
-    "type": "manga",
-    "title": "Shin Getter Robo",
     "url": "https://anilist.co/manga/38571",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38571-HRpR6KZ3brQ0.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:49.000Z",
-    "updatedAt": "2021-12-30T06:23:38.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/8571/Shin_Getter_Robo"
+    "externalLinks": [],
+    "malId": 8571,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai",
+      "Ken Ishikawa"
+    ]
+  }
 }

@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Retsu"
-  ],
+  "createdAt": "2020-10-12T16:08:09.000Z",
+  "updatedAt": "2021-12-04T08:18:39.000Z",
+  "checkedAt": null,
+  "id": 12159,
   "identifier": "4abeedb9-548c-4932-b2da-9baa8f119fbb",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 80163,
   "aniId": 86054,
-  "createdAt": "2020-10-12T16:08:09.000Z",
-  "updatedAt": "2021-12-04T08:18:39.000Z",
   "deletedAt": null,
+  "authors": [
+    "Retsu"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-05-15T19:05:16.000Z",
+    "checkedAt": "2022-05-15T19:05:16.000Z",
+    "id": 80163,
+    "type": "manga",
+    "title": "Let's! Haikyuu!?",
+    "altTitle": [
+      "Let's! High Kyuu!?",
+      "れっつ! ハイキュー!?"
+    ],
+    "url": "https://myanimelist.net/manga/80163/Lets_Haikyuu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/151837.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -29,45 +45,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Let's! High Kyuu!?",
-      "れっつ! ハイキュー!?"
-    ],
+    "deletedAt": null,
     "authors": [
       "Retsu"
-    ],
-    "id": 80163,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:29.756Z",
+    "updatedAt": "2022-05-15T20:56:23.000Z",
+    "checkedAt": "2022-05-15T20:56:23.000Z",
+    "id": 86054,
     "type": "manga",
     "title": "Let's! Haikyuu!?",
-    "url": "https://myanimelist.net/manga/80163/Lets_Haikyuu",
-    "image": "https://cdn.myanimelist.net/images/manga/3/151837.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:34.000Z",
-    "updatedAt": "2021-11-11T15:44:47.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "れっつ！ハイキュー!?",
       "คู่ตบ(มุก)ฟ้าประทาน"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Retsu",
-      "Haruichi Furudate"
-    ],
-    "id": 86054,
-    "malId": 80163,
-    "type": "manga",
-    "title": "Let's! Haikyuu!?",
     "url": "https://anilist.co/manga/86054",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56054-llsF9Z5hCgFB.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:51:59.000Z",
-    "updatedAt": "2022-03-10T19:29:54.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/80163/Lets_Haikyuu"
+    "externalLinks": [],
+    "malId": 80163,
+    "deletedAt": null,
+    "authors": [
+      "Retsu",
+      "Haruichi Furudate"
+    ]
+  }
 }

@@ -1,4 +1,8 @@
 {
+  "createdAt": "2021-01-06T14:57:51.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 33093,
   "identifier": "j728",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,25 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 10013,
   "aniId": 10013,
-  "createdAt": "2021-01-06T14:57:51.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:04.000Z",
+    "updatedAt": "2022-05-18T16:00:14.000Z",
+    "checkedAt": "2022-05-18T16:00:14.000Z",
+    "id": 10013,
+    "type": "anime",
+    "title": "Shouwa Monogatari (Movie)",
+    "altTitle": [
+      "Showa Monogatari",
+      "昭和物語"
+    ],
+    "url": "https://myanimelist.net/anime/10013/Shouwa_Monogatari_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/8/41119.jpg",
+    "category": "Movie",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,39 +46,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "Showa Monogatari",
-      "昭和物語"
-    ],
+    "deletedAt": null,
+    "anidbId": 8135
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:12.000Z",
+    "updatedAt": "2022-05-18T15:59:49.000Z",
+    "checkedAt": "2022-05-18T15:59:49.000Z",
     "id": 10013,
     "type": "anime",
     "title": "Shouwa Monogatari (Movie)",
-    "url": "https://myanimelist.net/anime/10013/Shouwa_Monogatari_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/8/41119.jpg",
-    "category": "Movie",
-    "hentai": false,
-    "anidbId": 8135,
-    "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2022-04-02T08:01:51.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "昭和物語",
       "Showa Monogatari"
     ],
-    "externalLinks": [],
-    "id": 10013,
-    "malId": 10013,
-    "type": "anime",
-    "title": "Shouwa Monogatari (Movie)",
     "url": "https://anilist.co/anime/10013",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10013.jpg",
     "category": "movie",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:12.000Z",
-    "updatedAt": "2021-12-17T12:58:56.000Z",
+    "externalLinks": [],
+    "malId": 10013,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/10013/Shouwa_Monogatari_Movie"
+  }
 }

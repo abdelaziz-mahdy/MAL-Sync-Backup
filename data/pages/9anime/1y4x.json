@@ -1,4 +1,8 @@
 {
+  "createdAt": "2020-10-12T15:49:21.000Z",
+  "updatedAt": "2021-05-20T15:21:50.000Z",
+  "checkedAt": null,
+  "id": 1177,
   "identifier": "1y4x",
   "type": "anime",
   "page": "9anime",
@@ -8,13 +12,26 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 31777,
   "aniId": 97968,
-  "createdAt": "2020-10-12T15:49:21.000Z",
-  "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "createdAt": "2020-10-12T15:39:40.000Z",
+    "updatedAt": "2022-05-17T11:29:23.000Z",
+    "checkedAt": "2022-05-17T11:29:23.000Z",
+    "id": 31777,
+    "type": "anime",
+    "title": "Neko nanka Yondemo Konai.",
+    "altTitle": [
+      "NekoYon",
+      "Neko Nanka Yonde mo Konai",
+      "猫なんかよんでもこない。"
+    ],
+    "url": "https://myanimelist.net/anime/31777/Neko_nanka_Yondemo_Konai",
+    "image": "https://cdn.myanimelist.net/images/anime/2/76535.jpg",
+    "category": "TV",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -30,40 +47,26 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "NekoYon",
-      "Neko Nanka Yonde mo Konai",
-      "猫なんかよんでもこない。"
-    ],
-    "id": 31777,
+    "deletedAt": null,
+    "anidbId": 11677
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:42:57.000Z",
+    "updatedAt": "2022-05-17T11:29:22.000Z",
+    "checkedAt": "2022-05-17T11:29:22.000Z",
+    "id": 97968,
     "type": "anime",
     "title": "Neko nanka Yondemo Konai.",
-    "url": "https://myanimelist.net/anime/31777/Neko_nanka_Yondemo_Konai",
-    "image": "https://cdn.myanimelist.net/images/anime/2/76535.jpg",
-    "category": "TV",
-    "hentai": false,
-    "anidbId": 11677,
-    "createdAt": "2020-10-12T15:39:40.000Z",
-    "updatedAt": "2022-04-03T08:31:56.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "猫なんかよんでもこない。",
       "NekoYon"
     ],
-    "externalLinks": [],
-    "id": 97968,
-    "malId": 31777,
-    "type": "anime",
-    "title": "Neko nanka Yondemo Konai.",
     "url": "https://anilist.co/anime/97968",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97968-pbq8UfhMbDJC.jpg",
     "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:57.000Z",
-    "updatedAt": "2021-12-17T15:30:14.000Z",
+    "externalLinks": [],
+    "malId": 31777,
     "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/31777/Neko_nanka_Yondemo_Konai"
+  }
 }

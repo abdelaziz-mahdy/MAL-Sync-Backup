@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Tagami Yoshihisa"
-  ],
+  "createdAt": "2020-10-12T16:12:05.000Z",
+  "updatedAt": "2021-12-05T13:19:18.000Z",
+  "checkedAt": null,
+  "id": 20655,
   "identifier": "a6be8fe2-df38-4450-b9f3-78bd6cdcaebf",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 2701,
   "aniId": 32701,
-  "createdAt": "2020-10-12T16:12:05.000Z",
-  "updatedAt": "2021-12-05T13:19:18.000Z",
   "deletedAt": null,
+  "authors": [
+    "Tagami Yoshihisa"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:40:45.000Z",
+    "updatedAt": "2022-05-16T06:17:57.000Z",
+    "checkedAt": "2022-05-16T06:17:57.000Z",
+    "id": 2701,
+    "type": "manga",
+    "title": "Grey",
+    "altTitle": [
+      "GREY"
+    ],
+    "url": "https://myanimelist.net/manga/2701/Grey",
+    "image": "https://cdn.myanimelist.net/images/manga/1/186371.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "GREY"
-    ],
+    "deletedAt": null,
     "authors": [
       "Tagami, Yoshihisa"
-    ],
-    "id": 2701,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:38.042Z",
+    "updatedAt": "2022-05-16T06:17:56.000Z",
+    "checkedAt": "2022-05-16T06:17:56.000Z",
+    "id": 32701,
     "type": "manga",
     "title": "Grey",
-    "url": "https://myanimelist.net/manga/2701/Grey",
-    "image": "https://cdn.myanimelist.net/images/manga/1/186371.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:45.000Z",
-    "updatedAt": "2022-01-04T16:19:26.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "GREY"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Yoshihisa Tagami"
-    ],
-    "id": 32701,
-    "malId": 2701,
-    "type": "manga",
-    "title": "Grey",
     "url": "https://anilist.co/manga/32701",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32701-B44dbMi89MQH.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:37:14.000Z",
-    "updatedAt": "2022-05-06T20:30:56.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/2701/Grey"
+    "externalLinks": [],
+    "malId": 2701,
+    "deletedAt": null,
+    "authors": [
+      "Yoshihisa Tagami"
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Kozumi Shizuo",
-    "Makimura Jun"
-  ],
+  "createdAt": "2020-10-12T16:17:08.000Z",
+  "updatedAt": "2021-12-07T05:18:35.000Z",
+  "checkedAt": null,
+  "id": 30548,
   "identifier": "f4d9e9e0-9108-44ff-b152-fdebc6f42fb5",
   "type": "manga",
   "page": "Mangadex",
@@ -12,20 +12,21 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 1651,
   "aniId": 31651,
-  "createdAt": "2020-10-12T16:17:08.000Z",
-  "updatedAt": "2021-12-07T05:18:35.000Z",
   "deletedAt": null,
+  "authors": [
+    "Kozumi Shizuo",
+    "Makimura Jun"
+  ],
   "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Attacker_You!"
-      }
-    ],
-    "legalLinks": [],
+    "createdAt": "2020-10-12T15:40:36.000Z",
+    "updatedAt": "2022-03-13T07:59:42.000Z",
+    "checkedAt": null,
+    "id": 1651,
+    "type": "manga",
+    "title": "Attacker You!",
     "altTitle": [
       "Attacker Yu!",
       "Mila e Shiro due cuori nella pallavolo",
@@ -35,21 +36,29 @@
       "Attacker You!",
       "アタッカーYOU!"
     ],
-    "authors": [
-      "Makimura, Jun"
-    ],
-    "id": 1651,
-    "type": "manga",
-    "title": "Attacker You!",
     "url": "https://myanimelist.net/manga/1651/Attacker_You",
     "image": "https://cdn.myanimelist.net/images/manga/2/1724.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:40:36.000Z",
-    "updatedAt": "2022-03-13T07:59:42.000Z",
-    "deletedAt": null
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Attacker_You!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Makimura, Jun"
+    ]
   },
-  "Anilist": {
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:17.040Z",
+    "updatedAt": "2022-05-13T12:58:17.040Z",
+    "checkedAt": null,
+    "id": 31651,
+    "type": "manga",
+    "title": "Attacker You!",
     "altTitle": [
       "Attacker You!",
       "アタッカーYOU!",
@@ -58,22 +67,16 @@
       "Jeanne et Serge",
       "Pojedynek Aniolow"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Jun Makimura",
-      "Shizuo Koizumi"
-    ],
-    "id": 31651,
-    "malId": 1651,
-    "type": "manga",
-    "title": "Attacker You!",
     "url": "https://anilist.co/manga/31651",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31651-jkJnpzbHIbdx.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:36:49.000Z",
-    "updatedAt": "2021-12-17T10:11:25.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/1651/Attacker_You"
+    "externalLinks": [],
+    "malId": 1651,
+    "deletedAt": null,
+    "authors": [
+      "Jun Makimura",
+      "Shizuo Koizumi"
+    ]
+  }
 }

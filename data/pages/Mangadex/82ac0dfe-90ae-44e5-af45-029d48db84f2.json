@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Mikamoto Rei"
-  ],
+  "createdAt": "2020-10-12T16:04:53.000Z",
+  "updatedAt": "2021-12-03T00:17:29.000Z",
+  "checkedAt": null,
+  "id": 5255,
   "identifier": "82ac0dfe-90ae-44e5-af45-029d48db84f2",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 11952,
   "aniId": 41952,
-  "createdAt": "2020-10-12T16:04:53.000Z",
-  "updatedAt": "2021-12-03T00:17:29.000Z",
   "deletedAt": null,
+  "authors": [
+    "Mikamoto Rei"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:41:42.000Z",
+    "updatedAt": "2022-05-01T02:32:04.000Z",
+    "checkedAt": null,
+    "id": 11952,
+    "type": "manga",
+    "title": "Satanister",
+    "altTitle": [
+      "サタニスター"
+    ],
+    "url": "https://myanimelist.net/manga/11952/Satanister",
+    "image": "https://cdn.myanimelist.net/images/manga/2/46793.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -25,42 +40,30 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "サタニスター"
-    ],
+    "deletedAt": null,
     "authors": [
       "Mikamoto, Rei"
-    ],
-    "id": 11952,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:50.902Z",
+    "updatedAt": "2022-05-13T13:03:50.902Z",
+    "checkedAt": null,
+    "id": 41952,
     "type": "manga",
     "title": "Satanister",
-    "url": "https://myanimelist.net/manga/11952/Satanister",
-    "image": "https://cdn.myanimelist.net/images/manga/2/46793.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:42.000Z",
-    "updatedAt": "2022-05-01T02:32:04.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "サタニスター"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Rei Mikamoto"
-    ],
-    "id": 41952,
-    "malId": 11952,
-    "type": "manga",
-    "title": "Satanister",
     "url": "https://anilist.co/manga/41952",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41952-MTr6IjxxWAbj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:16.000Z",
-    "updatedAt": "2021-12-17T14:40:17.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/11952/Satanister"
+    "externalLinks": [],
+    "malId": 11952,
+    "deletedAt": null,
+    "authors": [
+      "Rei Mikamoto"
+    ]
+  }
 }

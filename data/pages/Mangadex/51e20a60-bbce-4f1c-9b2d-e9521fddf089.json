@@ -1,8 +1,8 @@
 {
-  "authors": [
-    "Itou Seikou",
-    "Asada Torao"
-  ],
+  "createdAt": "2020-10-12T16:09:39.000Z",
+  "updatedAt": "2021-12-04T19:23:47.000Z",
+  "checkedAt": null,
+  "id": 15441,
   "identifier": "51e20a60-bbce-4f1c-9b2d-e9521fddf089",
   "type": "manga",
   "page": "Mangadex",
@@ -12,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 23337,
   "aniId": 53337,
-  "createdAt": "2020-10-12T16:09:39.000Z",
-  "updatedAt": "2021-12-04T19:23:47.000Z",
   "deletedAt": null,
+  "authors": [
+    "Itou Seikou",
+    "Asada Torao"
+  ],
   "Mal": {
+    "createdAt": "2020-10-12T15:43:09.000Z",
+    "updatedAt": "2022-03-30T13:36:39.000Z",
+    "checkedAt": null,
+    "id": 23337,
+    "type": "manga",
+    "title": "Ultrabaroque Deprogrammer",
+    "altTitle": [
+      "ウルトラバロック・デプログラマー"
+    ],
+    "url": "https://myanimelist.net/manga/23337/Ultrabaroque_Deprogrammer",
+    "image": "https://cdn.myanimelist.net/images/manga/2/184202.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "wikipedia",
@@ -26,43 +41,31 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "ウルトラバロック・デプログラマー"
-    ],
+    "deletedAt": null,
     "authors": [
       "Asada, Torao"
-    ],
-    "id": 23337,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:20.138Z",
+    "updatedAt": "2022-05-13T12:51:20.138Z",
+    "checkedAt": null,
+    "id": 53337,
     "type": "manga",
     "title": "Ultrabaroque Deprogrammer",
-    "url": "https://myanimelist.net/manga/23337/Ultrabaroque_Deprogrammer",
-    "image": "https://cdn.myanimelist.net/images/manga/2/184202.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:43:09.000Z",
-    "updatedAt": "2022-03-30T13:36:39.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "ウルトラバロック・デプログラマー",
       "Ultra Baroque Deprogrammer"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Torao Asada"
-    ],
-    "id": 53337,
-    "malId": 23337,
-    "type": "manga",
-    "title": "Ultrabaroque Deprogrammer",
     "url": "https://anilist.co/manga/53337",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53337-KQvIwskiptTE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:36.000Z",
-    "updatedAt": "2021-12-17T18:07:09.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/23337/Ultrabaroque_Deprogrammer"
+    "externalLinks": [],
+    "malId": 23337,
+    "deletedAt": null,
+    "authors": [
+      "Torao Asada"
+    ]
+  }
 }

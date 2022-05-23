@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Naoe"
-  ],
+  "createdAt": "2022-02-02T12:21:16.000Z",
+  "updatedAt": "2022-02-02T12:50:43.000Z",
+  "checkedAt": null,
+  "id": 95668,
   "identifier": "manga-iw986105",
   "type": "manga",
   "page": "MangaNato",
@@ -11,13 +12,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actorId": null,
   "malId": 130029,
   "aniId": 123657,
-  "createdAt": "2022-02-02T12:21:16.000Z",
-  "updatedAt": "2022-02-02T12:50:43.000Z",
   "deletedAt": null,
+  "authors": [
+    "Naoe"
+  ],
   "Mal": {
+    "createdAt": "2020-11-04T09:24:25.000Z",
+    "updatedAt": "2022-05-15T04:02:14.000Z",
+    "checkedAt": "2022-05-15T04:02:14.000Z",
+    "id": 130029,
+    "type": "manga",
+    "title": "Tokyo Aliens",
+    "altTitle": [
+      "Tokyo Aliens",
+      "東京エイリアンズ"
+    ],
+    "url": "https://myanimelist.net/manga/130029/Tokyo_Aliens",
+    "image": "https://cdn.myanimelist.net/images/manga/3/234828.jpg",
+    "category": "Manga",
+    "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
@@ -25,44 +41,32 @@
       }
     ],
     "legalLinks": [],
-    "altTitle": [
-      "東京エイリアンズ"
-    ],
+    "deletedAt": null,
     "authors": [
       "NAOE"
-    ],
-    "id": 130029,
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:32.021Z",
+    "updatedAt": "2022-05-17T22:58:00.000Z",
+    "checkedAt": "2022-05-17T22:58:00.000Z",
+    "id": 123657,
     "type": "manga",
     "title": "Tokyo Aliens",
-    "url": "https://myanimelist.net/manga/130029/Tokyo_Aliens",
-    "image": "https://cdn.myanimelist.net/images/manga/3/234828.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-11-04T09:24:25.000Z",
-    "updatedAt": "2022-02-02T12:21:17.000Z",
-    "deletedAt": null
-  },
-  "Anilist": {
     "altTitle": [
       "Tokyo Aliens",
       "東京エイリアンズ",
       "โตเกียวเอเลี่ยน"
     ],
-    "externalLinks": [],
-    "authors": [
-      "Naoe"
-    ],
-    "id": 123657,
-    "malId": 130029,
-    "type": "manga",
-    "title": "Tokyo Aliens",
     "url": "https://anilist.co/manga/123657",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123657-e7ZvAdxPZYgI.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2022-03-05T01:59:47.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/130029/Tokyo_Aliens"
+    "externalLinks": [],
+    "malId": 130029,
+    "deletedAt": null,
+    "authors": [
+      "Naoe"
+    ]
+  }
 }

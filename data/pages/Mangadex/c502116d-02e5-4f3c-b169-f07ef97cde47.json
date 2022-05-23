@@ -1,7 +1,8 @@
 {
-  "authors": [
-    "Asazuki Norito"
-  ],
+  "createdAt": "2021-11-09T20:13:34.000Z",
+  "updatedAt": "2022-05-14T10:42:10.000Z",
+  "checkedAt": "2022-05-14T09:52:32.000Z",
+  "id": 90478,
   "identifier": "c502116d-02e5-4f3c-b169-f07ef97cde47",
   "type": "manga",
   "page": "Mangadex",
@@ -11,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
-  "createdAt": "2021-11-09T20:13:34.000Z",
-  "updatedAt": "2022-05-09T20:30:44.000Z",
+  "actorId": 1,
+  "malId": 139128,
+  "aniId": 129651,
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "authors": [
+    "Asazuki Norito"
+  ],
+  "Mal": {
+    "createdAt": "2021-12-08T14:31:58.000Z",
+    "updatedAt": "2022-05-14T10:41:51.000Z",
+    "checkedAt": "2022-05-14T10:41:51.000Z",
+    "id": 139128,
+    "type": "manga",
+    "title": "Shousetsu to, Shounen to, Sailor Fuku.",
+    "altTitle": [
+      "Novels, a Boy and a Sailor Uniform",
+      "小説と、少年と、セーラー服。"
+    ],
+    "url": "https://myanimelist.net/manga/139128/Shousetsu_to_Shounen_to_Sailor_Fuku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249682.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Asazuki, Norito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:56.323Z",
+    "updatedAt": "2022-05-14T09:52:32.000Z",
+    "checkedAt": "2022-05-14T09:52:32.000Z",
+    "id": 129651,
+    "type": "manga",
+    "title": "Shousetsu to, Shounen to, Sailor Fuku.",
+    "altTitle": [
+      "小説と、少年と、セーラー服。"
+    ],
+    "url": "https://anilist.co/manga/129651",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129651-M3hrUue9n3mz.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 139128,
+    "deletedAt": null,
+    "authors": [
+      "Norito Asazuki"
+    ]
+  }
 }
