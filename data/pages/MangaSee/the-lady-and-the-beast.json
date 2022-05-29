@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-06T15:07:24.000Z",
-  "updatedAt": "2021-12-21T21:21:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T20:06:07.000Z",
+  "checkedAt": "2022-05-27T20:00:03.000Z",
   "id": 57518,
   "identifier": "the-lady-and-the-beast",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147313,
   "aniId": 123995,
   "deletedAt": null,
   "authors": [
     "Hongseul",
     "The Maginot LIne"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-27T20:00:04.525Z",
+    "updatedAt": "2022-05-27T20:00:04.525Z",
+    "checkedAt": "2022-05-27T20:00:04.000Z",
+    "id": 147313,
+    "type": "manga",
+    "title": "The Lady and the Beast",
+    "altTitle": [
+      "Geunyeo-wa Yasu",
+      "The Lady and the Beast",
+      "그녀와 야수"
+    ],
+    "url": "https://myanimelist.net/manga/147313/The_Lady_and_the_Beast",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261232.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55566760"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maginot Seon",
+      "Hongseul"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:51:39.131Z",
-    "updatedAt": "2022-05-15T18:05:23.000Z",
-    "checkedAt": "2022-05-15T18:05:23.000Z",
+    "updatedAt": "2022-05-28T08:49:44.000Z",
+    "checkedAt": "2022-05-28T08:49:44.000Z",
     "id": 123995,
     "type": "manga",
     "title": "Geunyowa Yasu",
@@ -43,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147313,
     "deletedAt": null,
     "authors": [
       "Maginot Seon",

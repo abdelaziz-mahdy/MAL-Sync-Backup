@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T13:31:37.000Z",
-  "updatedAt": "2021-12-01T00:44:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:20:08.000Z",
+  "checkedAt": "2022-05-25T13:31:26.000Z",
   "id": 74965,
   "identifier": "manga-ef982288",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 146750,
   "aniId": 108952,
   "deletedAt": null,
   "authors": [
     "Kim Carnby"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-25T13:30:50.505Z",
+    "updatedAt": "2022-05-25T13:30:50.505Z",
+    "checkedAt": "2022-05-25T13:30:50.000Z",
+    "id": 146750,
+    "type": "manga",
+    "title": "Pigpen",
+    "altTitle": [
+      "Dwaejiuri",
+      "Pigpen",
+      "돼지우리"
+    ],
+    "url": "https://myanimelist.net/manga/146750/Pigpen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/260276.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=724854"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Carnby",
+      "Cheon, Beom Sick"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:57:18.766Z",
-    "updatedAt": "2022-05-15T22:25:47.000Z",
-    "checkedAt": "2022-05-15T22:25:47.000Z",
+    "updatedAt": "2022-05-27T10:35:24.000Z",
+    "checkedAt": "2022-05-27T10:35:24.000Z",
     "id": 108952,
     "type": "manga",
     "title": "Dwaejiuri",
@@ -38,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146750,
     "deletedAt": null,
     "authors": [
       "Carnby Kim",

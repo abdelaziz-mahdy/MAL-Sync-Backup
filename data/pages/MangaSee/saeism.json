@@ -1,24 +1,73 @@
 {
   "createdAt": "2021-04-03T21:09:11.000Z",
-  "updatedAt": "2022-04-03T22:06:56.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T11:20:00.000Z",
+  "checkedAt": "2022-05-26T20:00:26.000Z",
   "id": 68343,
   "identifier": "saeism",
   "type": "manga",
   "page": "MangaSee",
-  "title": "Saeism",
+  "title": "The Love and Creed of Sae Maki",
   "url": "https://mangasee123.com/manga/Saeism",
   "image": "https://cover.nep.li/cover/Saeism.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 88645,
+  "aniId": 94741,
   "deletedAt": null,
   "authors": [
     "UCHIMIZU Tohru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:58.000Z",
+    "updatedAt": "2022-05-26T19:35:42.000Z",
+    "checkedAt": "2022-05-26T19:35:42.000Z",
+    "id": 88645,
+    "type": "manga",
+    "title": "Sae-ism",
+    "altTitle": [
+      "Help",
+      "Sae-ism: Second Season",
+      "The Love and Creed of Sae Maki",
+      "サエイズム"
+    ],
+    "url": "https://myanimelist.net/manga/88645/Sae-ism",
+    "image": "https://cdn.myanimelist.net/images/manga/1/154638.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mangacross.jp/comics/saeism"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uchimizu, Tooru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:53.134Z",
+    "updatedAt": "2022-05-26T19:35:40.000Z",
+    "checkedAt": "2022-05-26T19:35:40.000Z",
+    "id": 94741,
+    "type": "manga",
+    "title": "Sae-ism",
+    "altTitle": [
+      "The Love and Creed of Sae Maki",
+      "サエイズム"
+    ],
+    "url": "https://anilist.co/manga/94741",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94741-hbMXCBWmZ1Ez.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 88645,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Uchimizu"
+    ]
+  }
 }

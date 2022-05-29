@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:11.000Z",
-  "updatedAt": "2021-12-06T10:49:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:16:52.000Z",
+  "checkedAt": "2022-05-25T13:31:08.000Z",
   "id": 24412,
   "identifier": "e7d7219c-a12b-484f-b29d-6013beac61b2",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 146774,
   "aniId": 105429,
   "deletedAt": null,
   "authors": [
     "Park Eunhyuk"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-25T13:30:54.985Z",
+    "updatedAt": "2022-05-25T13:30:54.985Z",
+    "checkedAt": "2022-05-25T13:30:54.000Z",
+    "id": 146774,
+    "type": "manga",
+    "title": "Random Chat",
+    "altTitle": [
+      "The Girl From Random Chatting!",
+      "Random Chatting-ui Geunyeo",
+      "Random Chat",
+      "랜덤채팅의 그녀!"
+    ],
+    "url": "https://myanimelist.net/manga/146774/Random_Chat",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259537.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=702608"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Eun Hyuk"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:50.282Z",
-    "updatedAt": "2022-05-13T14:59:08.000Z",
-    "checkedAt": "2022-05-13T14:59:08.000Z",
+    "updatedAt": "2022-05-27T10:37:09.000Z",
+    "checkedAt": "2022-05-27T10:37:09.000Z",
     "id": 105429,
     "type": "manga",
     "title": "Random Chatting Geunyeo!",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146774,
     "deletedAt": null,
     "authors": [
       "Eun-Hyeok Park"

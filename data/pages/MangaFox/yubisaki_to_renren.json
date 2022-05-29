@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-29T08:19:38.000Z",
-  "updatedAt": "2021-12-29T08:25:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T06:20:00.000Z",
+  "checkedAt": "2022-05-25T06:00:50.000Z",
   "id": 80091,
   "identifier": "yubisaki_to_renren",
   "type": "manga",
@@ -11,14 +11,73 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/31258/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 121504,
+  "aniId": 111189,
   "deletedAt": null,
   "authors": [
     "MORISHITA Suu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:07.000Z",
+    "updatedAt": "2022-05-14T09:02:30.000Z",
+    "checkedAt": "2022-05-14T09:02:30.000Z",
+    "id": 121504,
+    "type": "manga",
+    "title": "Yubisaki to Renren",
+    "altTitle": [
+      "A Sign of Affection",
+      "ゆびさきと恋々"
+    ],
+    "url": "https://myanimelist.net/manga/121504/Yubisaki_to_Renren",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226867.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://go-dessert.jp/kc/renren/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Morishita, Suu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:35.878Z",
+    "updatedAt": "2022-05-15T17:54:47.000Z",
+    "checkedAt": "2022-05-15T17:54:47.000Z",
+    "id": 111189,
+    "type": "manga",
+    "title": "Yubisaki to Renren",
+    "altTitle": [
+      "A Sign of Affection",
+      "ゆびさきと恋々",
+      "Ein Zeichen der Zuneigung",
+      "손끝과 연연",
+      "Signos de Afecto"
+    ],
+    "url": "https://anilist.co/manga/111189",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111189-tvPJRVj5nGic.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/comics/manga/a-sign-of-affection/volumes"
+      }
+    ],
+    "malId": 121504,
+    "deletedAt": null,
+    "authors": [
+      "Suu Morishita",
+      "Carlo Vanstiphout",
+      "Christine Dashiell",
+      "Lys Blakeslee",
+      "So-Hyeon Park"
+    ]
+  }
 }

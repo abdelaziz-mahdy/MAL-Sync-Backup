@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-01T23:34:19.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T20:12:54.000Z",
+  "checkedAt": "2022-05-27T20:01:13.000Z",
   "id": 90089,
   "identifier": "hanlim_gym",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147277,
   "aniId": 130231,
   "deletedAt": null,
   "authors": [
     "Hyeseong"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-27T20:00:16.512Z",
+    "updatedAt": "2022-05-27T20:00:16.512Z",
+    "checkedAt": "2022-05-27T20:00:16.000Z",
+    "id": 147277,
+    "type": "manga",
+    "title": "Hanlim Gym",
+    "altTitle": [
+      "Hanlim Cheyukgwan",
+      "Hanlim Gym",
+      "한림체육관"
+    ],
+    "url": "https://myanimelist.net/manga/147277/Hanlim_Gym",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261220.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=743139"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hyeseong",
+      "Lee, Sukjae"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:00:08.588Z",
-    "updatedAt": "2022-05-15T16:53:35.000Z",
-    "checkedAt": "2022-05-15T16:53:35.000Z",
+    "updatedAt": "2022-05-28T08:51:08.000Z",
+    "checkedAt": "2022-05-28T08:51:08.000Z",
     "id": 130231,
     "type": "manga",
     "title": "Hallim Cheyukgwan",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147277,
     "deletedAt": null,
     "authors": [
       "Seok-Jae Lee",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-30T12:33:45.000Z",
-  "updatedAt": "2022-04-30T12:33:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T08:20:00.000Z",
+  "checkedAt": "2022-05-25T07:30:51.000Z",
   "id": 102349,
   "identifier": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
   "type": "manga",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146732,
+  "aniId": 147664,
   "deletedAt": null,
   "authors": [
     "Amamori Takibi",
     "Itachi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T07:30:51.584Z",
+    "updatedAt": "2022-05-25T07:30:51.584Z",
+    "checkedAt": "2022-05-25T07:30:51.000Z",
+    "id": 146732,
+    "type": "manga",
+    "title": "Make Heroine ga Oosugiru! @comic",
+    "altTitle": [
+      "Too Many Losing Heroines!",
+      "負けヒロインが多すぎる！@comic"
+    ],
+    "url": "https://myanimelist.net/manga/146732/Make_Heroine_ga_Oosugiru_comic",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259423.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Itachi",
+      "Amamori, Takibi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:20.915Z",
+    "updatedAt": "2022-05-25T08:02:51.000Z",
+    "checkedAt": "2022-05-25T08:02:51.000Z",
+    "id": 147664,
+    "type": "manga",
+    "title": "Make Heroine ga Oosugiru! @comic",
+    "altTitle": [
+      "負けヒロインが多すぎる！@comic"
+    ],
+    "url": "https://anilist.co/manga/147664",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147664-3Olw8V3MdC8e.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146732,
+    "deletedAt": null,
+    "authors": [
+      "Takibi Amamori",
+      "Muru Imigi",
+      "Itachi"
+    ]
+  }
 }

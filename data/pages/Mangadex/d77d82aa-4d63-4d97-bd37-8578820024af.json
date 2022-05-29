@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:33.000Z",
-  "updatedAt": "2021-12-08T01:11:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-26T15:24:04.000Z",
+  "checkedAt": "2022-05-26T12:00:19.000Z",
   "id": 37426,
   "identifier": "d77d82aa-4d63-4d97-bd37-8578820024af",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147052,
   "aniId": 121276,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "Hwang Dotol",
     "MSG"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-26T12:00:19.734Z",
+    "updatedAt": "2022-05-26T12:00:19.734Z",
+    "checkedAt": "2022-05-26T12:00:19.000Z",
+    "id": 147052,
+    "type": "manga",
+    "title": "The First Night With the Duke",
+    "altTitle": [
+      "Namju-ui Cheonnalbam-eul Gajyeo Beoryeotda",
+      "The First Night With the Duke",
+      "남주의 첫날밤을 가져버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/147052/The_First_Night_With_the_Duke",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260822.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=749639"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hwang, Dotol",
+      "MSG"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:00:35.032Z",
-    "updatedAt": "2022-05-13T15:54:55.000Z",
-    "checkedAt": "2022-05-13T15:54:55.000Z",
+    "updatedAt": "2022-05-27T10:36:12.000Z",
+    "checkedAt": "2022-05-27T10:36:12.000Z",
     "id": 121276,
     "type": "manga",
     "title": "Namjuui Cheonnalbameul Gajyeobeoryeotda",
@@ -42,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147052,
     "deletedAt": null,
     "authors": [
       "MSG",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-24T05:15:14.000Z",
-  "updatedAt": "2022-04-20T19:01:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T11:20:00.000Z",
+  "checkedAt": "2022-05-26T12:00:11.000Z",
   "id": 79602,
   "identifier": "manga-lk988619",
   "type": "manga",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 142721,
+  "aniId": 109269,
   "deletedAt": null,
   "authors": [
     "Bandalbanji",
     "Eddie"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-23T05:00:22.000Z",
+    "updatedAt": "2022-05-14T20:05:30.000Z",
+    "checkedAt": "2022-05-14T20:05:30.000Z",
+    "id": 142721,
+    "type": "manga",
+    "title": "What's Wrong with You, Duke?",
+    "altTitle": [
+      "Why Are You Doing This, Duke?",
+      "Wae Ireoseyo, Gongjak-nim!",
+      "What's Wrong with You, Duke?",
+      "왜 이러세요, 공작님!"
+    ],
+    "url": "https://myanimelist.net/manga/142721/Whats_Wrong_with_You_Duke",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253711.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/52353163"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bandalbanji",
+      "Eddie"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:50.954Z",
+    "updatedAt": "2022-05-27T10:35:16.000Z",
+    "checkedAt": "2022-05-27T10:35:16.000Z",
+    "id": 109269,
+    "type": "manga",
+    "title": "Wae Ileoseyo, Gongjag-nim!",
+    "altTitle": [
+      "What's Wrong with You, Duke?",
+      "왜 이러세요, 공작님!",
+      "Why Are You Doing This, Duke?",
+      "冷血公爵の心変わり",
+      "Wae Ileoseyo, Gongjagnim!"
+    ],
+    "url": "https://anilist.co/manga/109269",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109269-RLcLBSMfLMeu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142721,
+    "deletedAt": null,
+    "authors": [
+      "Bandalbanji",
+      "Eddie"
+    ]
+  }
 }

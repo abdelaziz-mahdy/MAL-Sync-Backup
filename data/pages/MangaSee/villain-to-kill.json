@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-18T19:04:40.000Z",
-  "updatedAt": "2022-05-14T09:39:51.000Z",
+  "updatedAt": "2022-05-27T11:20:00.000Z",
   "checkedAt": "2022-05-14T09:39:51.000Z",
   "id": 66064,
   "identifier": "villain-to-kill",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147191,
+  "aniId": 130149,
   "deletedAt": null,
   "authors": [
     "EunJi",
     "Pupin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T01:00:01.221Z",
+    "updatedAt": "2022-05-25T01:00:01.221Z",
+    "checkedAt": "2022-05-25T01:00:01.000Z",
+    "id": 147191,
+    "type": "manga",
+    "title": "Villain to Kill",
+    "altTitle": [
+      "Villain to Kill",
+      "빌런투킬"
+    ],
+    "url": "https://myanimelist.net/manga/147191/Villain_to_Kill",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260735.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=765156"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fupin",
+      "Eunji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:43.036Z",
+    "updatedAt": "2022-05-27T10:37:21.000Z",
+    "checkedAt": "2022-05-27T10:37:21.000Z",
+    "id": 130149,
+    "type": "manga",
+    "title": "Villain to Kill",
+    "altTitle": [
+      "Villain to Kill",
+      "빌런투킬",
+      "Un villano para matar"
+    ],
+    "url": "https://anilist.co/manga/130149",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130149-y63hveWF28Sb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147191,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Ji",
+      "Pyupin"
+    ]
+  }
 }

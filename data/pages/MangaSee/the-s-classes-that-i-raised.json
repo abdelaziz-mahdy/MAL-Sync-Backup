@@ -1,19 +1,19 @@
 {
   "createdAt": "2021-12-09T16:04:47.000Z",
-  "updatedAt": "2022-02-08T06:09:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T10:32:12.000Z",
+  "checkedAt": "2022-05-26T20:00:14.000Z",
   "id": 92835,
   "identifier": "the-s-classes-that-i-raised",
   "type": "manga",
   "page": "MangaSee",
-  "title": "The S-Classes That I Raised",
+  "title": "My S-Class Hunters",
   "url": "https://mangasee123.com/manga/The-S-Classes-That-I-Raised",
   "image": "https://cover.nep.li/cover/The-S-Classes-That-I-Raised.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147202,
   "aniId": 141958,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Geunseo",
     "Seri"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-26T20:00:15.292Z",
+    "updatedAt": "2022-05-26T20:00:15.292Z",
+    "checkedAt": "2022-05-26T20:00:15.000Z",
+    "id": 147202,
+    "type": "manga",
+    "title": "My S-Class Hunters",
+    "altTitle": [
+      "The S-Classes That I Raised",
+      "Naega Kiun S-geup-deul",
+      "My S-Class Hunters",
+      "내가 키운 S급들"
+    ],
+    "url": "https://myanimelist.net/manga/147202/My_S-Class_Hunters",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261094.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784248"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Biwan",
+      "Geunseo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:55:37.072Z",
-    "updatedAt": "2022-05-15T16:40:35.000Z",
-    "checkedAt": "2022-05-15T16:40:35.000Z",
+    "updatedAt": "2022-05-27T10:38:44.000Z",
+    "checkedAt": "2022-05-27T10:38:44.000Z",
     "id": 141958,
     "type": "manga",
     "title": "Naega Kiun S-Geupdeul",
@@ -41,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147202,
     "deletedAt": null,
     "authors": [
       "Biwan",

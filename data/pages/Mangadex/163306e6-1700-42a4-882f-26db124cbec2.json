@@ -1,24 +1,74 @@
 {
   "createdAt": "2021-02-25T22:25:59.000Z",
-  "updatedAt": "2021-12-08T12:09:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T21:07:53.000Z",
+  "checkedAt": "2022-05-27T20:01:28.000Z",
   "id": 63808,
   "identifier": "163306e6-1700-42a4-882f-26db124cbec2",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hero Killer",
   "url": "https://mangadex.org/title/163306e6-1700-42a4-882f-26db124cbec2",
-  "image": "https://uploads.mangadex.org/covers/163306e6-1700-42a4-882f-26db124cbec2/73c3a525-4be5-4d52-ade8-db0a0ab8271d.png",
+  "image": "https://uploads.mangadex.org/covers/163306e6-1700-42a4-882f-26db124cbec2/649d7c41-83fc-49ca-b271-abb21b882042.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147290,
+  "aniId": 132093,
   "deletedAt": null,
   "authors": [
     "꿀벌 / 벌꿀"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-27T20:00:18.593Z",
+    "updatedAt": "2022-05-27T20:00:18.593Z",
+    "checkedAt": "2022-05-27T20:00:18.000Z",
+    "id": 147290,
+    "type": "manga",
+    "title": "Hero Killer",
+    "altTitle": [
+      "Hero Killer",
+      "히어로 킬러"
+    ],
+    "url": "https://myanimelist.net/manga/147290/Hero_Killer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261229.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=766563"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kkulbeol",
+      "Beolkkul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:20.531Z",
+    "updatedAt": "2022-05-28T08:50:44.000Z",
+    "checkedAt": "2022-05-28T08:50:44.000Z",
+    "id": 132093,
+    "type": "manga",
+    "title": "Hero Killer",
+    "altTitle": [
+      "Hero Killer",
+      "히어로 킬러",
+      "La asesina de héroes"
+    ],
+    "url": "https://anilist.co/manga/132093",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132093-GLS3FWShrQPV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147290,
+    "deletedAt": null,
+    "authors": [
+      "Kkulbeol",
+      "Beolkkul"
+    ]
+  }
 }

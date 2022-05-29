@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-12T15:16:41.000Z",
-  "updatedAt": "2021-12-08T11:07:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:14:20.000Z",
+  "checkedAt": "2022-05-25T13:31:27.000Z",
   "id": 53973,
   "identifier": "6a9baffb-505e-49c1-9b28-94521fdd5b2b",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 143627,
   "aniId": 127868,
   "deletedAt": null,
   "authors": [
@@ -24,11 +24,44 @@
     "여슬기",
     "Yeo Seulgi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-03-29T22:02:13.000Z",
+    "updatedAt": "2022-05-17T02:56:30.000Z",
+    "checkedAt": "2022-05-17T02:56:30.000Z",
+    "id": 143627,
+    "type": "manga",
+    "title": "My Gently Raised Beast",
+    "altTitle": [
+      "I Raised the Beast Well",
+      "Gopge Ki-woss-deoni, Jimseung",
+      "My Gently Raised Beast",
+      "곱게 키웠더니, 짐승"
+    ],
+    "url": "https://myanimelist.net/manga/143627/My_Gently_Raised_Beast",
+    "image": "https://cdn.myanimelist.net/images/manga/2/254956.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=761104"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/곱게_키웠더니,_짐승"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ireun-kkot",
+      "Yeo-seulgi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:45.445Z",
-    "updatedAt": "2022-05-16T05:37:52.000Z",
-    "checkedAt": "2022-05-16T05:37:52.000Z",
+    "updatedAt": "2022-05-27T10:36:37.000Z",
+    "checkedAt": "2022-05-27T10:36:37.000Z",
     "id": 127868,
     "type": "manga",
     "title": "Gopge Kiwotdeoni, Jimseung",
@@ -45,7 +78,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 143627,
     "deletedAt": null,
     "authors": [
       "Teava",

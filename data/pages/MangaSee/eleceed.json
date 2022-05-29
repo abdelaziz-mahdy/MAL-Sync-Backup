@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-23T08:56:04.000Z",
-  "updatedAt": "2022-05-13T19:50:15.000Z",
+  "updatedAt": "2022-05-24T19:05:18.000Z",
   "checkedAt": "2022-05-13T19:50:15.000Z",
   "id": 55425,
   "identifier": "eleceed",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147171,
   "aniId": 106929,
   "deletedAt": null,
   "authors": [
     "Son Jeho",
     "Zhena"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-24T18:00:03.603Z",
+    "updatedAt": "2022-05-24T18:00:03.603Z",
+    "checkedAt": "2022-05-24T18:00:03.000Z",
+    "id": 147171,
+    "type": "manga",
+    "title": "Eleceed",
+    "altTitle": [
+      "Eleceed",
+      "일렉시드"
+    ],
+    "url": "https://myanimelist.net/manga/147171/Eleceed",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260660.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=717481"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Hye-Jin",
+      "Son, Jae-Ho"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:32.542Z",
-    "updatedAt": "2022-05-15T18:02:11.000Z",
-    "checkedAt": "2022-05-15T18:02:11.000Z",
+    "updatedAt": "2022-05-24T19:07:30.000Z",
+    "checkedAt": "2022-05-24T19:07:30.000Z",
     "id": 106929,
     "type": "manga",
     "title": "Eleceed",
@@ -38,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147171,
     "deletedAt": null,
     "authors": [
       "Hye-Jin Kim",

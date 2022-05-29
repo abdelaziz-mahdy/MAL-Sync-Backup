@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-24T16:25:49.000Z",
-  "updatedAt": "2022-01-14T09:41:42.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:14:07.000Z",
+  "checkedAt": "2022-05-25T13:30:51.000Z",
   "id": 63688,
   "identifier": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 146114,
   "aniId": 130300,
   "deletedAt": null,
   "authors": [
@@ -22,11 +22,40 @@
     "Roal",
     "Candlebambi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-25T13:30:52.979Z",
+    "updatedAt": "2022-05-25T13:30:52.979Z",
+    "checkedAt": "2022-05-25T13:30:52.000Z",
+    "id": 146114,
+    "type": "manga",
+    "title": "Father, I Don't Want This Marriage",
+    "altTitle": [
+      "Daddy, I Don't Want to Marry!",
+      "Appa, Na I Gyeolhon An Hallae-yo!",
+      "Father, I Don't Want This Marriage",
+      "아빠, 나 이 결혼 안 할래요!"
+    ],
+    "url": "https://myanimelist.net/manga/146114/Father_I_Dont_Want_This_Marriage",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258743.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56556599"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hong, Heesu",
+      "Roal"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:06:20.354Z",
-    "updatedAt": "2022-05-15T15:03:59.000Z",
-    "checkedAt": "2022-05-15T15:03:59.000Z",
+    "updatedAt": "2022-05-27T10:37:24.000Z",
+    "checkedAt": "2022-05-27T10:37:24.000Z",
     "id": 130300,
     "type": "manga",
     "title": "Appa, Na I Gyeolhon An Hallaeyo!",
@@ -43,7 +72,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146114,
     "deletedAt": null,
     "authors": [
       "Hee-Su Hong",

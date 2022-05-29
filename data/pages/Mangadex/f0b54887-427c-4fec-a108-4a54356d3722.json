@@ -1,24 +1,72 @@
 {
   "createdAt": "2021-11-18T04:14:03.000Z",
-  "updatedAt": "2021-11-18T04:14:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T10:33:42.000Z",
+  "checkedAt": "2022-05-27T09:30:00.000Z",
   "id": 90970,
   "identifier": "f0b54887-427c-4fec-a108-4a54356d3722",
   "type": "manga",
   "page": "Mangadex",
   "title": "Fuu-chan's Hole",
   "url": "https://mangadex.org/title/f0b54887-427c-4fec-a108-4a54356d3722",
-  "image": "https://uploads.mangadex.org/covers/f0b54887-427c-4fec-a108-4a54356d3722/b8497c19-4051-4b79-b716-650ae1578ecf.jpg",
+  "image": "https://uploads.mangadex.org/covers/f0b54887-427c-4fec-a108-4a54356d3722/17fbac1c-94bf-4e3e-baed-8b910e54cdf1.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 141955,
+  "aniId": 137766,
   "deletedAt": null,
   "authors": [
     "Bou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-11-18T21:14:55.000Z",
+    "updatedAt": "2022-05-23T16:34:14.000Z",
+    "checkedAt": "2022-05-23T16:34:14.000Z",
+    "id": 141955,
+    "type": "manga",
+    "title": "Fuu-chan no Ana",
+    "altTitle": [
+      "Fuu-chan's Hole",
+      "A Hole Of Fuu-chan",
+      "ふーちゃんの穴"
+    ],
+    "url": "https://myanimelist.net/manga/141955/Fuu-chan_no_Ana",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252561.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/fuchan/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:28.609Z",
+    "updatedAt": "2022-05-23T16:34:13.000Z",
+    "checkedAt": "2022-05-23T16:34:13.000Z",
+    "id": 137766,
+    "type": "manga",
+    "title": "Fuu-chan no Ana",
+    "altTitle": [
+      "ふーちゃんの穴",
+      "A Hole of Fuu-chan"
+    ],
+    "url": "https://anilist.co/manga/137766",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137766-3r0g9n4n95bc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 141955,
+    "deletedAt": null,
+    "authors": [
+      "Bou"
+    ]
+  }
 }

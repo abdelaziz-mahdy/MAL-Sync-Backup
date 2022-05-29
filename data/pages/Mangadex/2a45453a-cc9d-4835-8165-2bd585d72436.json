@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:22.000Z",
-  "updatedAt": "2021-12-05T22:48:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-26T15:23:54.000Z",
+  "checkedAt": "2022-05-26T12:02:12.000Z",
   "id": 22751,
   "identifier": "2a45453a-cc9d-4835-8165-2bd585d72436",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 141623,
   "aniId": 101441,
   "deletedAt": null,
   "authors": [
     "koer"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-26T12:02:18.553Z",
+    "updatedAt": "2022-05-26T12:02:18.553Z",
+    "checkedAt": "2022-05-26T12:02:18.000Z",
+    "id": 141623,
+    "type": "manga",
+    "title": "Girl in the Birdcage",
+    "altTitle": [
+      "Saejang-ui Sonyeo",
+      "Girl in the Birdcage",
+      "새장의 소녀"
+    ],
+    "url": "https://myanimelist.net/manga/141623/Girl_in_the_Birdcage",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260640.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/cage"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Koer"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:47:39.468Z",
-    "updatedAt": "2022-05-13T12:47:39.468Z",
-    "checkedAt": null,
+    "updatedAt": "2022-05-27T10:34:35.000Z",
+    "checkedAt": "2022-05-27T10:34:35.000Z",
     "id": 101441,
     "type": "manga",
     "title": "Saejangui Sonyeo",
@@ -33,11 +60,11 @@
       "Cage"
     ],
     "url": "https://anilist.co/manga/101441",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101441-iZ9Df7aj8Edw.png",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101441-BPxKPHP22jUh.png",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 141623,
     "deletedAt": null,
     "authors": [
       "koer"

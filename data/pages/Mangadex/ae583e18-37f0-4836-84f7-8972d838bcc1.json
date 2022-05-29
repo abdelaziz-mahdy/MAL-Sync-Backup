@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:03.000Z",
-  "updatedAt": "2022-04-29T23:32:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T20:12:51.000Z",
+  "checkedAt": "2022-05-27T17:30:06.000Z",
   "id": 34421,
   "identifier": "ae583e18-37f0-4836-84f7-8972d838bcc1",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147311,
   "aniId": 111407,
   "deletedAt": null,
   "authors": [
     "ZOYANG"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-27T17:30:14.573Z",
+    "updatedAt": "2022-05-27T17:30:14.573Z",
+    "checkedAt": "2022-05-27T17:30:14.000Z",
+    "id": 147311,
+    "type": "manga",
+    "title": "No Scope",
+    "altTitle": [
+      "Hard Carry",
+      "No Scope",
+      "하드캐리"
+    ],
+    "url": "https://myanimelist.net/manga/147311/No_Scope",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261217.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=710761"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Zoyang"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:23.248Z",
-    "updatedAt": "2022-05-13T16:31:08.000Z",
-    "checkedAt": "2022-05-13T16:31:08.000Z",
+    "updatedAt": "2022-05-28T08:49:24.000Z",
+    "checkedAt": "2022-05-28T08:49:24.000Z",
     "id": 111407,
     "type": "manga",
     "title": "Hard Carry",
@@ -36,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147311,
     "deletedAt": null,
     "authors": [
       "Chaoyang"

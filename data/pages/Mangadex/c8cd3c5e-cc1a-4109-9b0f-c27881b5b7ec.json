@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:56.000Z",
-  "updatedAt": "2022-02-05T16:36:14.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-27T21:07:58.000Z",
+  "checkedAt": "2022-05-27T20:30:02.000Z",
   "id": 32157,
   "identifier": "c8cd3c5e-cc1a-4109-9b0f-c27881b5b7ec",
   "type": "manga",
@@ -12,14 +12,39 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 123278,
   "deletedAt": null,
   "authors": [
     "Ryu Hyang",
     "Hee Won"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:24.570Z",
+    "updatedAt": "2022-05-27T18:41:17.000Z",
+    "checkedAt": "2022-05-27T18:41:17.000Z",
+    "id": 123278,
+    "type": "manga",
+    "title": "Golden Time",
+    "altTitle": [
+      "Golden Time",
+      "골든 타임",
+      "Ombres et Lumières",
+      "Goldeun Taim",
+      "ช่วงเวลาแห่งแสงสีทอง"
+    ],
+    "url": "https://anilist.co/manga/123278",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123278-uop92nhqmk4T.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Hyang Ryu",
+      "Hee Won"
+    ]
+  }
 }

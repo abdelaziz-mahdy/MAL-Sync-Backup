@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-14T10:12:27.484Z",
-  "updatedAt": "2022-05-14T10:12:29.000Z",
+  "updatedAt": "2022-05-25T22:19:37.000Z",
   "checkedAt": "2022-05-14T10:12:27.000Z",
   "id": 104349,
   "identifier": "f0f62b75-5989-4f32-9b59-ab56abe35fc1",
@@ -12,19 +12,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 146878,
   "aniId": 132144,
   "deletedAt": null,
   "authors": [
     "Biga",
     "LICO"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-25T13:00:14.755Z",
+    "updatedAt": "2022-05-25T13:00:14.755Z",
+    "checkedAt": "2022-05-25T13:00:14.000Z",
+    "id": 146878,
+    "type": "manga",
+    "title": "Return of the Blossoming Blade",
+    "altTitle": [
+      "Return of the Mount Hua Sect",
+      "Return of the Flowery Mountain Sect",
+      "Hwasan Gwihwan",
+      "Return of the Blossoming Blade",
+      "화산귀환"
+    ],
+    "url": "https://myanimelist.net/manga/146878/Return_of_the_Blossoming_Blade",
+    "image": "https://cdn.myanimelist.net/images/manga/2/260760.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=769209"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "LICO",
+      "Biga"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:24.882Z",
-    "updatedAt": "2022-05-14T10:12:27.000Z",
-    "checkedAt": "2022-05-14T10:12:27.000Z",
+    "updatedAt": "2022-05-27T10:37:49.000Z",
+    "checkedAt": "2022-05-27T10:37:49.000Z",
     "id": 132144,
     "type": "manga",
     "title": "Hwasangwihwan",
@@ -41,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146878,
     "deletedAt": null,
     "authors": [
       "LICO",

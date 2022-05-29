@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-08T02:16:48.000Z",
-  "updatedAt": "2022-01-13T21:41:53.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:18:45.000Z",
+  "checkedAt": "2022-05-25T13:00:59.000Z",
   "id": 51803,
   "identifier": "9ecd208c-c592-4462-9f57-4d7d4a9f956f",
   "type": "manga",
@@ -12,19 +12,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 146966,
   "aniId": 126297,
   "deletedAt": null,
   "authors": [
     "YC",
     "Rakhyun"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-25T13:00:09.385Z",
+    "updatedAt": "2022-05-25T13:00:09.385Z",
+    "checkedAt": "2022-05-25T13:00:09.000Z",
+    "id": 146966,
+    "type": "manga",
+    "title": "Teenage Mercenary",
+    "altTitle": [
+      "Mercenary Enrollment",
+      "High School Mercenary",
+      "Iphak Yongbyeong",
+      "Teenage Mercenary",
+      "입학용병"
+    ],
+    "url": "https://myanimelist.net/manga/146966/Teenage_Mercenary",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260540.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=758150"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "YC",
+      "Rakhyun"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:51:21.136Z",
-    "updatedAt": "2022-05-15T03:30:04.000Z",
-    "checkedAt": "2022-05-15T03:30:04.000Z",
+    "updatedAt": "2022-05-27T10:36:36.000Z",
+    "checkedAt": "2022-05-27T10:36:36.000Z",
     "id": 126297,
     "type": "manga",
     "title": "Iphagyongbyeong",
@@ -34,14 +64,15 @@
       "Mercenary Enrollment",
       "入學傭兵",
       "พี่ชายสายบอดี้การ์ด",
-      "Mercenario adolescente"
+      "Mercenario adolescente",
+      "High School Mercenary"
     ],
     "url": "https://anilist.co/manga/126297",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126297-SPiM7QtUnJ4P.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146966,
     "deletedAt": null,
     "authors": [
       "YC",

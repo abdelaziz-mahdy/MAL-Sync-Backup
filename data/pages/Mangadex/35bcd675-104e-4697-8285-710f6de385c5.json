@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:25.000Z",
-  "updatedAt": "2022-04-29T22:02:35.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-25T22:16:19.000Z",
+  "checkedAt": "2022-05-25T13:31:07.000Z",
   "id": 37172,
   "identifier": "35bcd675-104e-4697-8285-710f6de385c5",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 144441,
   "aniId": 120806,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Yu-Iran",
     "Jagae"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-03-23T01:27:34.000Z",
+    "updatedAt": "2022-05-14T20:11:23.000Z",
+    "checkedAt": "2022-05-14T20:11:23.000Z",
+    "id": 144441,
+    "type": "manga",
+    "title": "A Villainess for the Tyrant",
+    "altTitle": [
+      "A Villain Is a Good Match for a Tyrant",
+      "Pokgun-ege-neun Angnyeo-ga Eoullinda",
+      "A Villainess for the Tyrant",
+      "폭군에게는 악녀가 어울린다"
+    ],
+    "url": "https://myanimelist.net/manga/144441/A_Villainess_for_the_Tyrant",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256474.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/폭군에게는-악녀가-어울린다/55203755"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yu-iran",
+      "Jagae"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:04:24.829Z",
-    "updatedAt": "2022-05-15T15:10:11.000Z",
-    "checkedAt": "2022-05-15T15:10:11.000Z",
+    "updatedAt": "2022-05-27T10:36:09.000Z",
+    "checkedAt": "2022-05-27T10:36:09.000Z",
     "id": 120806,
     "type": "manga",
     "title": "Poggunegeneun Agnyeoga Eoullinda",
@@ -44,7 +73,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 144441,
     "deletedAt": null,
     "authors": [
       "Na-Jeon",
