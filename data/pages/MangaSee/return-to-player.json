@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-20T10:03:44.000Z",
-  "updatedAt": "2022-05-13T16:17:13.000Z",
+  "updatedAt": "2022-06-02T12:20:00.000Z",
   "checkedAt": "2022-05-13T16:17:13.000Z",
   "id": 59247,
   "identifier": "return-to-player",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147538,
+  "aniId": 124577,
   "deletedAt": null,
   "authors": [
     "idk"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-01T21:00:01.041Z",
+    "updatedAt": "2022-06-01T21:00:01.041Z",
+    "checkedAt": "2022-06-01T21:00:01.000Z",
+    "id": 147538,
+    "type": "manga",
+    "title": "Return to Player",
+    "altTitle": [
+      "Return to Player",
+      "리턴 투 플레이어"
+    ],
+    "url": "https://myanimelist.net/manga/147538/Return_to_Player",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261719.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=752414"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Index",
+      "Sehon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:09.398Z",
+    "updatedAt": "2022-06-02T12:06:48.000Z",
+    "checkedAt": "2022-06-02T12:06:48.000Z",
+    "id": 124577,
+    "type": "manga",
+    "title": "Return to Player",
+    "altTitle": [
+      "Return to Player",
+      "리턴 투 플레이어"
+    ],
+    "url": "https://anilist.co/manga/124577",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124577-UkF19gsGyBoG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147538,
+    "deletedAt": null,
+    "authors": [
+      "Index",
+      "Sehon",
+      "UMKY"
+    ]
+  }
 }

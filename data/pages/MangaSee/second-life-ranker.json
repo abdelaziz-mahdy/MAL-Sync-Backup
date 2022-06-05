@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-12T18:20:48.000Z",
-  "updatedAt": "2022-05-13T16:30:24.000Z",
+  "updatedAt": "2022-06-01T14:20:00.000Z",
   "checkedAt": "2022-05-13T16:30:24.000Z",
   "id": 53984,
   "identifier": "second-life-ranker",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147324,
+  "aniId": 109957,
   "deletedAt": null,
   "authors": [
     "Nong Nong",
     "Sa Doyeon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-28T05:30:17.589Z",
+    "updatedAt": "2022-05-28T05:30:17.589Z",
+    "checkedAt": "2022-05-28T05:30:17.000Z",
+    "id": 147324,
+    "type": "manga",
+    "title": "Second Life Ranker",
+    "altTitle": [
+      "Dubeon Saneun Ranker",
+      "Second Life Ranker",
+      "두 번 사는 랭커"
+    ],
+    "url": "https://myanimelist.net/manga/147324/Second_Life_Ranker",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261257.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/52697368"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sadoyeon",
+      "Nongnong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:34.234Z",
+    "updatedAt": "2022-05-28T08:50:34.000Z",
+    "checkedAt": "2022-05-28T08:50:34.000Z",
+    "id": 109957,
+    "type": "manga",
+    "title": "Dubeon Saneun Ranker",
+    "altTitle": [
+      "Second Life Ranker",
+      "두번사는랭커",
+      "The Ranker Who Lives Twice",
+      "Ranker Who Lives a Second Time",
+      "두 번 사는 랭커",
+      "เกมชีวิตที่สอง ของแรงเกอร์"
+    ],
+    "url": "https://anilist.co/manga/109957",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109957-EgJWdR7l9TBG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147324,
+    "deletedAt": null,
+    "authors": [
+      "Nong Nong",
+      "Do-Yeon Sa",
+      "Na-Ra"
+    ]
+  }
 }

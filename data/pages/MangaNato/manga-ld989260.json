@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-05T18:00:43.000Z",
-  "updatedAt": "2022-05-28T16:30:11.000Z",
+  "updatedAt": "2022-05-29T17:30:09.000Z",
   "checkedAt": "2022-05-28T16:30:11.000Z",
   "id": 80998,
   "identifier": "manga-ld989260",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147337,
   "aniId": 137595,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,42 @@
     "Pasa",
     "Taru"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-28T16:30:13.798Z",
+    "updatedAt": "2022-05-28T16:30:13.798Z",
+    "checkedAt": "2022-05-28T16:30:13.000Z",
+    "id": 147337,
+    "type": "manga",
+    "title": "66,666 Years: Advent of the Dark Mage",
+    "altTitle": [
+      "The Dark Magician Transmigrates After 66666 Years",
+      "Black Mage Reborn After 66666 Years",
+      "66666-nyeon Man-e Hwangsaenghan Heukmabeopsa",
+      "66,666 Years: Advent of the Dark Mage",
+      "66666년 만에 환생한 흑마법사"
+    ],
+    "url": "https://myanimelist.net/manga/147337/66666_Years__Advent_of_the_Dark_Mage",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261306.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=775141"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Pasa",
+      "Hwabong",
+      "Taru"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:35.858Z",
-    "updatedAt": "2022-05-14T07:04:30.000Z",
-    "checkedAt": "2022-05-14T07:04:30.000Z",
+    "updatedAt": "2022-05-30T06:09:55.000Z",
+    "checkedAt": "2022-05-30T06:09:55.000Z",
     "id": 137595,
     "type": "manga",
     "title": "66666-nyeonmane Hwansaenghan Heungmabeopsa",
@@ -41,7 +72,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147337,
     "deletedAt": null,
     "authors": [
       "Ta-Ru",

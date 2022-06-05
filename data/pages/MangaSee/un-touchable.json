@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-19T23:31:24.000Z",
-  "updatedAt": "2022-03-27T05:57:15.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-01T08:20:00.000Z",
+  "checkedAt": "2022-05-30T18:00:14.000Z",
   "id": 72161,
   "identifier": "un-touchable",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147396,
+  "aniId": 85621,
   "deletedAt": null,
   "authors": [
     "Massstar"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T18:00:17.841Z",
+    "updatedAt": "2022-05-30T18:00:17.841Z",
+    "checkedAt": "2022-05-30T18:00:17.000Z",
+    "id": 147396,
+    "type": "manga",
+    "title": "unTouchable",
+    "altTitle": [
+      "unTouchable",
+      "언터처블"
+    ],
+    "url": "https://myanimelist.net/manga/147396/unTouchable",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261479.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=612769"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Massstar"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:03.844Z",
+    "updatedAt": "2022-06-01T07:24:28.000Z",
+    "checkedAt": "2022-06-01T07:24:28.000Z",
+    "id": 85621,
+    "type": "manga",
+    "title": "unTOUCHable",
+    "altTitle": [
+      "UnTouchable",
+      "언터처블"
+    ],
+    "url": "https://anilist.co/manga/85621",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/85621-N6fhAEf9J7Q5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147396,
+    "deletedAt": null,
+    "authors": [
+      "Massstar"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-27T12:39:17.000Z",
-  "updatedAt": "2022-03-15T16:29:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-02T12:20:00.000Z",
+  "checkedAt": "2022-06-01T18:00:02.000Z",
   "id": 60185,
   "identifier": "god_of_blackfield",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147532,
+  "aniId": 118267,
   "deletedAt": null,
   "authors": [
     "Kumo (雲)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-01T18:00:09.885Z",
+    "updatedAt": "2022-06-01T18:00:09.885Z",
+    "checkedAt": "2022-06-01T18:00:09.000Z",
+    "id": 147532,
+    "type": "manga",
+    "title": "God of Blackfield",
+    "altTitle": [
+      "God of Blackfield",
+      "갓 오브 블랙필드"
+    ],
+    "url": "https://myanimelist.net/manga/147532/God_of_Blackfield",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261694.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/54498159"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mujang",
+      "Shin, Inseong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:14.421Z",
+    "updatedAt": "2022-06-02T12:06:42.000Z",
+    "checkedAt": "2022-06-02T12:06:42.000Z",
+    "id": 118267,
+    "type": "manga",
+    "title": "God of Blackfield",
+    "altTitle": [
+      "갓 오브 블랙필드",
+      "ゴッド オブ ブラックフィールド"
+    ],
+    "url": "https://anilist.co/manga/118267",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118267-hfGEZNguWhiq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147532,
+    "deletedAt": null,
+    "authors": [
+      "Insung Shin",
+      "Mujang",
+      "Un"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-26T09:30:07.228Z",
-  "updatedAt": "2022-05-26T09:30:08.000Z",
+  "updatedAt": "2022-06-04T19:07:50.000Z",
   "checkedAt": "2022-05-26T09:30:07.000Z",
   "id": 105483,
   "identifier": "3f239644-1a77-4f08-8dc7-80f3d044376d",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 142469,
+  "aniId": 140269,
   "deletedAt": null,
   "authors": [
     "FUSHI Ashikumo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T09:30:08.427Z",
+    "updatedAt": "2022-05-26T09:30:08.427Z",
+    "checkedAt": "2022-05-26T09:30:08.000Z",
+    "id": 142469,
+    "type": "manga",
+    "title": "Daija ni Totsuida Musume",
+    "altTitle": [
+      "The Girl Who Married the Big Snake",
+      "大蛇に嫁いだ娘"
+    ],
+    "url": "https://myanimelist.net/manga/142469/Daija_ni_Totsuida_Musume",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253410.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/7237"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fushiashikumo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:56.603Z",
+    "updatedAt": "2022-05-28T20:02:58.000Z",
+    "checkedAt": "2022-05-28T20:02:58.000Z",
+    "id": 140269,
+    "type": "manga",
+    "title": "Orochi ni Totsuida Musume",
+    "altTitle": [
+      "大蛇に嫁いだ娘"
+    ],
+    "url": "https://anilist.co/manga/140269",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140269-DDlCVjMp7jVK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Kumo Fushiashi"
+    ]
+  }
 }

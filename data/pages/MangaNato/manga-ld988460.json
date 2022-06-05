@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-07T13:05:50.000Z",
-  "updatedAt": "2021-12-07T13:18:17.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-30T06:05:15.000Z",
+  "checkedAt": "2022-05-29T11:00:17.000Z",
   "id": 77053,
   "identifier": "manga-ld988460",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147331,
   "aniId": 128366,
   "deletedAt": null,
   "authors": [
     "Alpha Tart"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-29T11:00:02.683Z",
+    "updatedAt": "2022-05-29T11:00:02.683Z",
+    "checkedAt": "2022-05-29T11:00:02.000Z",
+    "id": 147331,
+    "type": "manga",
+    "title": "Men of the Harem",
+    "altTitle": [
+      "Harem-ui Namja-deul",
+      "Men of the Harem",
+      "하렘의 남자들"
+    ],
+    "url": "https://myanimelist.net/manga/147331/Men_of_the_Harem",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261348.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=760001"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Alphatart",
+      "Yeongbin"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:30.031Z",
-    "updatedAt": "2022-05-13T23:32:24.000Z",
-    "checkedAt": "2022-05-13T23:32:24.000Z",
+    "updatedAt": "2022-05-30T06:09:34.000Z",
+    "checkedAt": "2022-05-30T06:09:34.000Z",
     "id": 128366,
     "type": "manga",
     "title": "Harem-ui Namjadeul",
@@ -38,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147331,
     "deletedAt": null,
     "authors": [
       "Alpha Tart",

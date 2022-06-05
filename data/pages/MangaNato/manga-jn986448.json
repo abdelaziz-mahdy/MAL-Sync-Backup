@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-28T23:24:25.000Z",
-  "updatedAt": "2022-05-15T00:30:00.000Z",
+  "updatedAt": "2022-05-30T06:06:05.000Z",
   "checkedAt": "2022-05-15T00:30:00.000Z",
   "id": 73155,
   "identifier": "manga-jn986448",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147317,
   "aniId": 123573,
   "deletedAt": null,
   "authors": [
     "Elegant Yoo Ryeo Han 유려한"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-28T19:00:08.872Z",
+    "updatedAt": "2022-05-28T19:00:08.872Z",
+    "checkedAt": "2022-05-28T19:00:08.000Z",
+    "id": 147317,
+    "type": "manga",
+    "title": "Lout of Count's Family",
+    "altTitle": [
+      "Trash of the Count's Family",
+      "Baekjak Gaui Mangnani-ga Doeeotda",
+      "Lout of Count's Family",
+      "백작가의 망나니가 되었다"
+    ],
+    "url": "https://myanimelist.net/manga/147317/Lout_of_Counts_Family",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261316.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55553244"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yu, Ryeo Han",
+      "PAN4"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:56.212Z",
-    "updatedAt": "2022-05-13T21:34:56.000Z",
-    "checkedAt": "2022-05-13T21:34:56.000Z",
+    "updatedAt": "2022-05-30T06:09:23.000Z",
+    "checkedAt": "2022-05-30T06:09:23.000Z",
     "id": 123573,
     "type": "manga",
     "title": "Baekjakgaui Mangnaniga Doeeotda",
@@ -42,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147317,
     "deletedAt": null,
     "authors": [
       "Ryeo-Han Yu",

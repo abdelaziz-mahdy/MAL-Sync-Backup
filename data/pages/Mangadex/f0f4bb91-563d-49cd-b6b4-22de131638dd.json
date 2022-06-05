@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-23T01:57:45.000Z",
-  "updatedAt": "2022-05-28T20:00:17.000Z",
+  "updatedAt": "2022-05-29T17:27:33.000Z",
   "checkedAt": "2022-05-28T20:00:17.000Z",
   "id": 99867,
   "identifier": "f0f4bb91-563d-49cd-b6b4-22de131638dd",
@@ -12,13 +12,58 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 145484,
+  "aniId": 136921,
   "deletedAt": null,
   "authors": [
     "Yuino Chiri"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-28T20:00:16.931Z",
+    "updatedAt": "2022-05-28T20:00:16.931Z",
+    "checkedAt": "2022-05-28T20:00:16.000Z",
+    "id": 145484,
+    "type": "manga",
+    "title": "Okiku-san wa Ichatsukitai",
+    "altTitle": [
+      "お菊さんはいちゃ憑きたい"
+    ],
+    "url": "https://myanimelist.net/manga/145484/Okiku-san_wa_Ichatsukitai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257951.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CW01202378010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yuino, Chiri"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:09.618Z",
+    "updatedAt": "2022-05-28T20:00:17.000Z",
+    "checkedAt": "2022-05-28T20:00:17.000Z",
+    "id": 136921,
+    "type": "manga",
+    "title": "Okiku-san wa Icha Tsukitai",
+    "altTitle": [
+      "お菊さんはいちゃ憑きたい"
+    ],
+    "url": "https://anilist.co/manga/136921",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136921-7cTdqxzvbQwJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145484,
+    "deletedAt": null,
+    "authors": [
+      "Chiri Yuino"
+    ]
+  }
 }

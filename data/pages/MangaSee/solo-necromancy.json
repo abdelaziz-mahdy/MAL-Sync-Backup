@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-12-09T16:34:03.000Z",
-  "updatedAt": "2022-05-13T15:19:07.000Z",
+  "updatedAt": "2022-06-02T15:50:27.000Z",
   "checkedAt": "2022-05-13T15:19:07.000Z",
   "id": 92836,
   "identifier": "solo-necromancy",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147450,
+  "aniId": 139572,
   "deletedAt": null,
   "authors": [
     "Kim DongJoon",
     "Kim KyungYeol"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T23:00:17.101Z",
+    "updatedAt": "2022-05-30T23:00:17.101Z",
+    "checkedAt": "2022-05-30T23:00:17.000Z",
+    "id": 147450,
+    "type": "manga",
+    "title": "The Lone Necromancer",
+    "altTitle": [
+      "Na Honja Necromancer",
+      "The Lone Necromancer",
+      "나 혼자 네크로맨서"
+    ],
+    "url": "https://myanimelist.net/manga/147450/The_Lone_Necromancer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261510.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=780170"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jijeomjang",
+      "Kim, Dong-jun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:48.431Z",
+    "updatedAt": "2022-06-01T07:26:36.000Z",
+    "checkedAt": "2022-06-01T07:26:36.000Z",
+    "id": 139572,
+    "type": "manga",
+    "title": "Na Honja Necromancer",
+    "altTitle": [
+      "The Lone Necromancer",
+      "나 혼자 네크로맨서",
+      "The Only Necromancer",
+      "Solo Necromancy"
+    ],
+    "url": "https://anilist.co/manga/139572",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139572-e3vwLcOVQISn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147450,
+    "deletedAt": null,
+    "authors": [
+      "Jijeomjang",
+      "Gyeong-Yeol Kim",
+      "Dong-Jun Kim"
+    ]
+  }
 }

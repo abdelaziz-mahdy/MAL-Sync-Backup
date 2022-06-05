@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-23T17:05:47.000Z",
-  "updatedAt": "2022-03-12T20:31:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-31T18:52:42.000Z",
+  "checkedAt": "2022-05-30T22:00:13.000Z",
   "id": 91657,
   "identifier": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 146745,
+  "aniId": 141658,
   "deletedAt": null,
   "authors": [
     "Ikari Manatsu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T22:00:13.566Z",
+    "updatedAt": "2022-05-30T22:00:13.566Z",
+    "checkedAt": "2022-05-30T22:00:13.000Z",
+    "id": 146745,
+    "type": "manga",
+    "title": "Kurai Ano Ko to Shitai Koto",
+    "altTitle": [
+      "くらいあの子としたいこと"
+    ],
+    "url": "https://myanimelist.net/manga/146745/Kurai_Ano_Ko_to_Shitai_Koto",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259434.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/55442"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ikari, Manatsu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:22.868Z",
+    "updatedAt": "2022-05-30T22:00:13.000Z",
+    "checkedAt": "2022-05-30T22:00:13.000Z",
+    "id": 141658,
+    "type": "manga",
+    "title": "Kurai Ano Ko to Shitai Koto",
+    "altTitle": [
+      "くらいあの子としたいこと"
+    ],
+    "url": "https://anilist.co/manga/141658",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141658-9PHtRepCEmZ9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146745,
+    "deletedAt": null,
+    "authors": [
+      "Manatsu Ikari"
+    ]
+  }
 }

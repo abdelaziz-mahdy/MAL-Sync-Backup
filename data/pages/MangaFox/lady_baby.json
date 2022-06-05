@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-24T00:46:03.000Z",
-  "updatedAt": "2022-01-20T07:35:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-02T12:20:00.000Z",
+  "checkedAt": "2022-06-01T18:00:12.000Z",
   "id": 66832,
   "identifier": "lady_baby",
   "type": "manga",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147534,
+  "aniId": 109271,
   "deletedAt": null,
   "authors": [
     "Ju hyeon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-01T18:00:14.677Z",
+    "updatedAt": "2022-06-01T18:00:14.677Z",
+    "checkedAt": "2022-06-01T18:00:14.000Z",
+    "id": 147534,
+    "type": "manga",
+    "title": "Lady Baby",
+    "altTitle": [
+      "Lady Baby",
+      "레이디 베이비"
+    ],
+    "url": "https://myanimelist.net/manga/147534/Lady_Baby",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261699.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=51706124"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ju, Haeon",
+      "Pinkmint"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:02.169Z",
+    "updatedAt": "2022-06-02T12:06:04.000Z",
+    "checkedAt": "2022-06-02T12:06:04.000Z",
+    "id": 109271,
+    "type": "manga",
+    "title": "Lady Baby",
+    "altTitle": [
+      "Lady Baby",
+      "레이디 베이비",
+      "重生为女婴",
+      "Леди малышка",
+      "La dama bebé",
+      "Hanımefendi Bebek"
+    ],
+    "url": "https://anilist.co/manga/109271",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109271-vu5tbssFrNOt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147534,
+    "deletedAt": null,
+    "authors": [
+      "Hae-On Ju",
+      "Pingmin",
+      "SUKJA"
+    ]
+  }
 }

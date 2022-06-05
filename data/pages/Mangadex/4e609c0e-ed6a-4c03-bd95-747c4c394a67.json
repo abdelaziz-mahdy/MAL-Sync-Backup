@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-08T12:01:05.000Z",
-  "updatedAt": "2022-04-08T15:46:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-31T18:54:59.000Z",
+  "checkedAt": "2022-05-31T07:30:04.000Z",
   "id": 100893,
   "identifier": "4e609c0e-ed6a-4c03-bd95-747c4c394a67",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 1,
+  "actorId": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 147345,
   "deletedAt": null,
   "authors": [
     "Saitou Yuu"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:38.122Z",
+    "updatedAt": "2022-05-31T07:13:21.000Z",
+    "checkedAt": "2022-05-31T07:13:21.000Z",
+    "id": 147345,
+    "type": "manga",
+    "title": "Tokyo ni Somara Rehen Ko",
+    "altTitle": [
+      "東京に染まられへん子",
+      " A Girl Who Hasn't Adjusted to Life in Tokyo ",
+      "没沾染上东京气息的她"
+    ],
+    "url": "https://anilist.co/manga/147345",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147345-9ZBu6YXc3qgZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Saitou"
+    ]
+  }
 }

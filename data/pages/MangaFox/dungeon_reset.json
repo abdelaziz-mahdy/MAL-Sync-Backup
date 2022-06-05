@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-26T04:13:09.000Z",
-  "updatedAt": "2022-03-21T15:57:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-01T08:20:00.000Z",
+  "checkedAt": "2022-05-30T17:30:06.000Z",
   "id": 59961,
   "identifier": "dungeon_reset",
   "type": "manga",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147438,
+  "aniId": 116506,
   "deletedAt": null,
   "authors": [
     "Ant Studio",
     "Daul"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T17:30:05.860Z",
+    "updatedAt": "2022-05-30T17:30:05.860Z",
+    "checkedAt": "2022-05-30T17:30:05.000Z",
+    "id": 147438,
+    "type": "manga",
+    "title": "Dungeon Reset",
+    "altTitle": [
+      "Dungeon Reset",
+      "던전 리셋"
+    ],
+    "url": "https://myanimelist.net/manga/147438/Dungeon_Reset",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261491.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54471153"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ant Studio",
+      "Daul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:24.420Z",
+    "updatedAt": "2022-06-01T07:25:20.000Z",
+    "checkedAt": "2022-06-01T07:25:20.000Z",
+    "id": 116506,
+    "type": "manga",
+    "title": "Dungeon Reset",
+    "altTitle": [
+      "Dungeon Reset",
+      "던전 리셋",
+      "Tencen Liseys",
+      "Deonjeon Riset",
+      "ダンジョンリセット",
+      "สมรภูมิไม่สิ้นสุด"
+    ],
+    "url": "https://anilist.co/manga/116506",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116506-D6cG2hsUzSpx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147438,
+    "deletedAt": null,
+    "authors": [
+      "Rio Skywalker",
+      "Da-Ul",
+      "Jae-Hyeon Lee",
+      "Sunflower"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-02-03T15:40:40.000Z",
-  "updatedAt": "2022-05-13T16:43:13.000Z",
+  "updatedAt": "2022-05-31T19:20:00.000Z",
   "checkedAt": "2022-05-13T16:43:13.000Z",
   "id": 61280,
   "identifier": "actually-i-was-the-real-one",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 146716,
+  "aniId": 124783,
   "deletedAt": null,
   "authors": [
     "Sam Woel",
     "Yuwoon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T23:30:07.543Z",
+    "updatedAt": "2022-05-26T23:30:07.543Z",
+    "checkedAt": "2022-05-26T23:30:07.000Z",
+    "id": 146716,
+    "type": "manga",
+    "title": "I Am the Real One",
+    "altTitle": [
+      "Actually, I Was the Real One",
+      "Actually, I'm the Real One",
+      "Sasir-eun Naega Jinjja-yeotda",
+      "I Am the Real One",
+      "사실은 내가 진짜였다"
+    ],
+    "url": "https://myanimelist.net/manga/146716/I_Am_the_Real_One",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261138.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/55721630"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Samwol",
+      "Yuun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:35.229Z",
+    "updatedAt": "2022-05-27T10:36:25.000Z",
+    "checkedAt": "2022-05-27T10:36:25.000Z",
+    "id": 124783,
+    "type": "manga",
+    "title": "Sasireun Naega Jinjjayeotda",
+    "altTitle": [
+      "I Am the Real One",
+      "사실은 내가 진짜였다",
+      "Actually, I Was the Real One",
+      "実は私が本物だった"
+    ],
+    "url": "https://anilist.co/manga/124783",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124783-bxAjbDVNhuYa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146716,
+    "deletedAt": null,
+    "authors": [
+      "Yuwoon",
+      "Samwol",
+      "Dwaeji Cake"
+    ]
+  }
 }

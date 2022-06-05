@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-30T09:30:28.000Z",
-  "updatedAt": "2022-03-30T09:30:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-01T07:23:12.000Z",
+  "checkedAt": "2022-05-31T22:00:09.000Z",
   "id": 100304,
   "identifier": "0998984d-78ba-4c6d-b2b7-7c3bbe3a9759",
   "type": "manga",
@@ -11,19 +11,46 @@
   "image": "https://uploads.mangadex.org/covers/0998984d-78ba-4c6d-b2b7-7c3bbe3a9759/695c110e-24a8-4b30-a27b-a29a19fe3cd4.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 147502,
   "aniId": 144006,
   "deletedAt": null,
   "authors": [
     "Yuju"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-05-31T22:00:11.563Z",
+    "updatedAt": "2022-05-31T22:00:11.563Z",
+    "checkedAt": "2022-05-31T22:00:11.000Z",
+    "id": 147502,
+    "type": "manga",
+    "title": "My Reason to Die",
+    "altTitle": [
+      "Naega Jukgi-ro Gyeolsimhan Geos-eun",
+      "My Reason to Die",
+      "내가 죽기로 결심한 것은"
+    ],
+    "url": "https://myanimelist.net/manga/147502/My_Reason_to_Die",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261655.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=783523"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yuju"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:55:37.292Z",
-    "updatedAt": "2022-05-15T16:40:59.000Z",
-    "checkedAt": "2022-05-15T16:40:59.000Z",
+    "updatedAt": "2022-06-01T07:26:54.000Z",
+    "checkedAt": "2022-06-01T07:26:54.000Z",
     "id": 144006,
     "type": "manga",
     "title": "Naega Jukgiro Gyeolsimhan Geoseun",
@@ -37,7 +64,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147502,
     "deletedAt": null,
     "authors": [
       "YUJU"

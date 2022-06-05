@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-26T16:39:27.000Z",
-  "updatedAt": "2022-02-24T02:47:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-31T19:20:00.000Z",
+  "checkedAt": "2022-05-31T06:30:00.000Z",
   "id": 72692,
   "identifier": "get_schooled",
   "type": "manga",
@@ -12,13 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 146875,
+  "aniId": 128521,
   "deletedAt": null,
   "authors": [
     "CHAE Yong Taek"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T13:30:27.863Z",
+    "updatedAt": "2022-05-25T13:30:27.863Z",
+    "checkedAt": "2022-05-25T13:30:27.000Z",
+    "id": 146875,
+    "type": "manga",
+    "title": "Get Schooled",
+    "altTitle": [
+      "True Education",
+      "Chamgyoyuk",
+      "Get Schooled",
+      "참교육"
+    ],
+    "url": "https://myanimelist.net/manga/146875/Get_Schooled",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260759.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=758037"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Chae, Yongtaek",
+      "Han, Garam"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:32.739Z",
+    "updatedAt": "2022-05-27T10:36:48.000Z",
+    "checkedAt": "2022-05-27T10:36:48.000Z",
+    "id": 128521,
+    "type": "manga",
+    "title": "Chamgyoyuk",
+    "altTitle": [
+      "Get Schooled",
+      "참교육",
+      "True Education",
+      "The Real Lesson",
+      "極權教師",
+      "การศึกษาที่แท้จริง",
+      "鉄槌教師"
+    ],
+    "url": "https://anilist.co/manga/128521",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128521-e97aqKfciLy5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146875,
+    "deletedAt": null,
+    "authors": [
+      "Ga-Ram Han",
+      "Yong-Taek Chae"
+    ]
+  }
 }

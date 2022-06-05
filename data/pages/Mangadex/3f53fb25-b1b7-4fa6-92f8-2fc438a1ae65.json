@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-18T08:23:16.591Z",
-  "updatedAt": "2022-05-18T08:23:16.000Z",
+  "updatedAt": "2022-06-04T19:20:00.000Z",
   "checkedAt": "2022-05-18T08:23:16.000Z",
   "id": 104749,
   "identifier": "3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65",
@@ -12,15 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147202,
+  "aniId": 141958,
   "deletedAt": null,
   "authors": [
     "근서",
     "Seri (세리)",
     "Biwan (비완)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T20:00:15.292Z",
+    "updatedAt": "2022-05-26T20:00:15.292Z",
+    "checkedAt": "2022-05-26T20:00:15.000Z",
+    "id": 147202,
+    "type": "manga",
+    "title": "My S-Class Hunters",
+    "altTitle": [
+      "The S-Classes That I Raised",
+      "Naega Kiun S-geup-deul",
+      "My S-Class Hunters",
+      "내가 키운 S급들"
+    ],
+    "url": "https://myanimelist.net/manga/147202/My_S-Class_Hunters",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261094.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784248"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Biwan",
+      "Geunseo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:37.072Z",
+    "updatedAt": "2022-05-27T10:38:44.000Z",
+    "checkedAt": "2022-05-27T10:38:44.000Z",
+    "id": 141958,
+    "type": "manga",
+    "title": "Naega Kiun S-Geupdeul",
+    "altTitle": [
+      "My S-Class Hunters",
+      "내가 키운 S급들",
+      "The S-Classes That I Raised",
+      "The S-Grades I Raised",
+      "My S-Class Hunters"
+    ],
+    "url": "https://anilist.co/manga/141958",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141958-jweXxbMcWGOv.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147202,
+    "deletedAt": null,
+    "authors": [
+      "Biwan",
+      "seri",
+      "Geun-Seo"
+    ]
+  }
 }

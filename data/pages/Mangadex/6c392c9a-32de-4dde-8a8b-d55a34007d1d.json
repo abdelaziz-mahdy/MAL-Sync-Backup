@@ -1,25 +1,75 @@
 {
   "createdAt": "2020-10-12T16:14:38.000Z",
-  "updatedAt": "2021-12-06T06:49:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-30T06:05:57.000Z",
+  "checkedAt": "2022-05-30T03:00:02.000Z",
   "id": 25328,
   "identifier": "6c392c9a-32de-4dde-8a8b-d55a34007d1d",
   "type": "manga",
   "page": "Mangadex",
   "title": "The Devil's Boy",
   "url": "https://mangadex.org/title/6c392c9a-32de-4dde-8a8b-d55a34007d1d",
-  "image": "https://uploads.mangadex.org/covers/6c392c9a-32de-4dde-8a8b-d55a34007d1d/028bb203-27d0-4eaa-a2d1-ea08c6f0b274.jpg",
+  "image": "https://uploads.mangadex.org/covers/6c392c9a-32de-4dde-8a8b-d55a34007d1d/38a68c37-2cd8-4c87-a715-f96c9f9cff10.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 132533,
+  "aniId": 102246,
   "deletedAt": null,
   "authors": [
     "Kirin",
     "Jihyun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T03:00:02.049Z",
+    "updatedAt": "2022-05-30T03:00:02.049Z",
+    "checkedAt": "2022-05-30T03:00:02.000Z",
+    "id": 132533,
+    "type": "manga",
+    "title": "The Devil's Boy",
+    "altTitle": [
+      "Angma-ui Sonyeon",
+      "The Devil's Boy",
+      "악마의 소년"
+    ],
+    "url": "https://myanimelist.net/manga/132533/The_Devils_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259978.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/demon"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kwon, Kirin",
+      "Yun, Jihyun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:45.768Z",
+    "updatedAt": "2022-05-30T18:14:55.000Z",
+    "checkedAt": "2022-05-30T18:14:55.000Z",
+    "id": 102246,
+    "type": "manga",
+    "title": "Angmaui Sonyeon",
+    "altTitle": [
+      "The Devil's Boy",
+      "악마의 소년"
+    ],
+    "url": "https://anilist.co/manga/102246",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b102246-4tsqsxpinRyT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 132533,
+    "deletedAt": null,
+    "authors": [
+      "Kirin",
+      "Jihyun"
+    ]
+  }
 }

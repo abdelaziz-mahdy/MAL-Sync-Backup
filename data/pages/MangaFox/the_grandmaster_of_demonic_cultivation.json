@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-05T23:03:21.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-04T21:20:00.000Z",
+  "checkedAt": "2022-06-04T21:00:58.000Z",
   "id": 71155,
   "identifier": "the_grandmaster_of_demonic_cultivation",
   "type": "manga",
@@ -11,14 +11,76 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/27123/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 137200,
+  "aniId": 101563,
   "deletedAt": null,
   "authors": [
     "Mo Xiang Tong Xiu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-09-23T16:41:58.000Z",
+    "updatedAt": "2022-05-15T00:23:41.000Z",
+    "checkedAt": "2022-05-15T00:23:41.000Z",
+    "id": 137200,
+    "type": "manga",
+    "title": "Mo Dao Zu Shi",
+    "altTitle": [
+      "The Grandmaster of Demonic Cultivation",
+      "The Founder of Diabolism",
+      "The Master of Diabolism",
+      "魔道祖师"
+    ],
+    "url": "https://myanimelist.net/manga/137200/Mo_Dao_Zu_Shi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246585.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.kuaikanmanhua.com/web/topic/1749/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/魔道祖师_(小说)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mo Xiang Tong Xiu",
+      "Luo Di Cheng Qiu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:27.930Z",
+    "updatedAt": "2022-05-15T15:27:11.000Z",
+    "checkedAt": "2022-05-15T15:27:11.000Z",
+    "id": 101563,
+    "type": "manga",
+    "title": "Modao Zushi",
+    "altTitle": [
+      "The Master of Diabolism",
+      "魔道祖师",
+      "The Founder of Diabolism",
+      "The Grandmaster of Demonic Cultivation",
+      "Mo Dao Zu Shi",
+      "赤笛云琴记",
+      "The Untamed",
+      "마도조사",
+      "O Fundador da Cultivação Demoníaca"
+    ],
+    "url": "https://anilist.co/manga/101563",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101563-nTBq5IEYYWbX.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137200,
+    "deletedAt": null,
+    "authors": [
+      "Mo Xiang Tong Xiu",
+      "Luo Di Cheng Qiu"
+    ]
+  }
 }

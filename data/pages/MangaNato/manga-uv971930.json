@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-10T18:08:28.000Z",
-  "updatedAt": "2022-03-25T05:27:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-30T18:20:00.000Z",
+  "checkedAt": "2022-05-30T18:00:14.000Z",
   "id": 77648,
   "identifier": "manga-uv971930",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147397,
+  "aniId": 97615,
   "deletedAt": null,
   "authors": [
     "Song Ah Min"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T18:00:15.836Z",
+    "updatedAt": "2022-05-30T18:00:15.836Z",
+    "checkedAt": "2022-05-30T18:00:15.000Z",
+    "id": 147397,
+    "type": "manga",
+    "title": "Nano List",
+    "altTitle": [
+      "Nano List",
+      "나노리스트"
+    ],
+    "url": "https://myanimelist.net/manga/147397/Nano_List",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261488.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=670150"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Min, Songah"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:47.426Z",
+    "updatedAt": "2022-05-30T18:14:38.000Z",
+    "checkedAt": "2022-05-30T18:14:38.000Z",
+    "id": 97615,
+    "type": "manga",
+    "title": "Nano List",
+    "altTitle": [
+      "Nano List",
+      "나노리스트"
+    ],
+    "url": "https://anilist.co/manga/97615",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97615-IQv0LhyE3QuM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147397,
+    "deletedAt": null,
+    "authors": [
+      "Song-A Min"
+    ]
+  }
 }

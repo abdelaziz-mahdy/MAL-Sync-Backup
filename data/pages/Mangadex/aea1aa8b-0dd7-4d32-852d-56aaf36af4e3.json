@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:06.000Z",
-  "updatedAt": "2021-12-04T15:51:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-01T19:39:22.000Z",
+  "checkedAt": "2022-06-01T18:00:19.000Z",
   "id": 14256,
   "identifier": "aea1aa8b-0dd7-4d32-852d-56aaf36af4e3",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147530,
   "aniId": 86640,
   "deletedAt": null,
   "authors": [
     "RYU Ki-Woon",
     "Moon Jung-Hoo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-01T18:00:19.589Z",
+    "updatedAt": "2022-06-01T18:00:19.589Z",
+    "checkedAt": "2022-06-01T18:00:19.000Z",
+    "id": 147530,
+    "type": "manga",
+    "title": "Gosu",
+    "altTitle": [
+      "The Master",
+      "Gosu",
+      "고수"
+    ],
+    "url": "https://myanimelist.net/manga/147530/Gosu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261692.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=662774"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mun, Jung-Hoo",
+      "Ryu, Ki Woon"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:37.232Z",
-    "updatedAt": "2022-05-13T21:35:12.000Z",
-    "checkedAt": "2022-05-13T21:35:12.000Z",
+    "updatedAt": "2022-06-02T12:05:54.000Z",
+    "checkedAt": "2022-06-02T12:05:54.000Z",
     "id": 86640,
     "type": "manga",
     "title": "Gosu",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147530,
     "deletedAt": null,
     "authors": [
       "Jeong-Hu Mun",

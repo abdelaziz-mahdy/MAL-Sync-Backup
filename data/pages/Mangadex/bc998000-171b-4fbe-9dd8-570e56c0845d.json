@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-12T11:46:17.000Z",
-  "updatedAt": "2022-04-12T12:01:56.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-01T07:23:23.000Z",
+  "checkedAt": "2022-06-01T00:30:08.000Z",
   "id": 88480,
   "identifier": "bc998000-171b-4fbe-9dd8-570e56c0845d",
   "type": "manga",
@@ -11,15 +11,41 @@
   "image": "https://uploads.mangadex.org/covers/bc998000-171b-4fbe-9dd8-570e56c0845d/8ff12aef-a3c2-4557-9d30-bd56a9a53dbe.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 139138,
   "aniId": 136253,
   "deletedAt": null,
   "authors": [
     "Yodokawa"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-02-27T17:18:50.000Z",
+    "updatedAt": "2022-05-15T05:13:35.000Z",
+    "checkedAt": "2022-05-15T05:13:35.000Z",
+    "id": 139138,
+    "type": "manga",
+    "title": "Maitsuki Niwa-tsuki Ooya-tsuki",
+    "altTitle": [
+      "Monthly /With Garden /With Ooya",
+      "毎月庭つき大家つき"
+    ],
+    "url": "https://myanimelist.net/manga/139138/Maitsuki_Niwa-tsuki_Ooya-tsuki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/255487.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.webnewtype.com/contents/monthly/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yodokawa"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:46:58.709Z",
     "updatedAt": "2022-05-18T17:33:44.000Z",

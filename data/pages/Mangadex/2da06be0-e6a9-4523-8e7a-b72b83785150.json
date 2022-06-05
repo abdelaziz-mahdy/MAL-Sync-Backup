@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-11T09:11:06.000Z",
-  "updatedAt": "2021-12-08T11:38:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-03T14:14:00.000Z",
+  "checkedAt": "2022-06-03T08:30:02.000Z",
   "id": 62180,
   "identifier": "2da06be0-e6a9-4523-8e7a-b72b83785150",
   "type": "manga",
@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 133795,
   "deletedAt": null,
   "authors": [
     "해무리"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:14.944Z",
+    "updatedAt": "2022-06-03T08:30:02.000Z",
+    "checkedAt": "2022-06-03T08:30:02.000Z",
+    "id": 133795,
+    "type": "manga",
+    "title": "Olgami",
+    "altTitle": [
+      "올가미",
+      "Loop"
+    ],
+    "url": "https://anilist.co/manga/133795",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b133795-3Af4KP0JZjpV.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Haemuri"
+    ]
+  }
 }

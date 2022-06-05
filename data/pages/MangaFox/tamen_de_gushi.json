@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-21T04:04:42.000Z",
-  "updatedAt": "2022-04-02T02:31:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-05-31T19:20:00.000Z",
+  "checkedAt": "2022-05-31T08:30:02.000Z",
   "id": 66427,
   "identifier": "tamen_de_gushi",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 93516,
+  "aniId": 85734,
   "deletedAt": null,
   "authors": [
     "Tan Jiu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:14.000Z",
+    "updatedAt": "2022-05-14T18:25:47.000Z",
+    "checkedAt": "2022-05-14T18:25:47.000Z",
+    "id": 93516,
+    "type": "manga",
+    "title": "SQ: Begin W/Your Name!",
+    "altTitle": [
+      "Their Story",
+      "Tamen De Gushi",
+      "SQ: Cong Ni De Mingzi Kaishi",
+      "SQ: Begin With Your Name!",
+      "SQ从你的名字开始"
+    ],
+    "url": "https://myanimelist.net/manga/93516/SQ__Begin_W_Your_Name",
+    "image": "https://cdn.myanimelist.net/images/manga/3/165495.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tanjiu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:21.768Z",
+    "updatedAt": "2022-05-15T22:22:23.000Z",
+    "checkedAt": "2022-05-15T22:22:23.000Z",
+    "id": 85734,
+    "type": "manga",
+    "title": "Tamen De Gushi",
+    "altTitle": [
+      "SQ: Begin W/Your Name!",
+      "她们的故事",
+      "Their Story",
+      "SQ: Cong Ni De Mingzi Kaishi",
+      "SQ: Begin With Your Name!",
+      "SQ从你的名字开始",
+      "SQ 1 君の名前から始まる"
+    ],
+    "url": "https://anilist.co/manga/85734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85734-yllpIVoPjADr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 93516,
+    "deletedAt": null,
+    "authors": [
+      "Tan Jiu"
+    ]
+  }
 }
