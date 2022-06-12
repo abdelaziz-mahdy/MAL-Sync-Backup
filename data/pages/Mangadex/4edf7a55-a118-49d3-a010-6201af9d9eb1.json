@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:51.000Z",
-  "updatedAt": "2021-12-07T12:16:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T15:26:00.000Z",
+  "checkedAt": "2022-06-07T14:01:14.000Z",
   "id": 31983,
   "identifier": "4edf7a55-a118-49d3-a010-6201af9d9eb1",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147771,
   "aniId": 113524,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Pear Juice",
     "Jade"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T14:01:14.922Z",
+    "updatedAt": "2022-06-07T14:01:14.922Z",
+    "checkedAt": "2022-06-07T14:01:14.000Z",
+    "id": 147771,
+    "type": "manga",
+    "title": "I Was Tricked Into This Fake Marriage!",
+    "altTitle": [
+      "This Is an Obvious Fraudulent Marriage",
+      "Igeon Myeongbaekhan Sagi Gyeolhon-ida",
+      "I Was Tricked Into This Fake Marriage!",
+      "이건 명백한 사기결혼이다"
+    ],
+    "url": "https://myanimelist.net/manga/147771/I_Was_Tricked_Into_This_Fake_Marriage",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262238.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/53949651"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Haedam",
+      "Baejeup"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:00.511Z",
-    "updatedAt": "2022-05-21T21:53:14.000Z",
-    "checkedAt": "2022-05-21T21:53:14.000Z",
+    "updatedAt": "2022-06-08T07:52:07.000Z",
+    "checkedAt": "2022-06-08T07:52:07.000Z",
     "id": 113524,
     "type": "manga",
     "title": "Igeon Myeongbaekan Sagigyeolhonida",
@@ -39,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147771,
     "deletedAt": null,
     "authors": [
       "Haedam Bak",

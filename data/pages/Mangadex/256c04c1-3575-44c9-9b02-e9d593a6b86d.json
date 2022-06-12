@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-27T16:11:47.000Z",
-  "updatedAt": "2021-12-08T11:37:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T13:31:04.000Z",
+  "checkedAt": "2022-06-07T13:30:29.000Z",
   "id": 55994,
   "identifier": "256c04c1-3575-44c9-9b02-e9d593a6b86d",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147735,
   "aniId": 128000,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "Blue Lagoon",
     "Rata"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T13:30:29.885Z",
+    "updatedAt": "2022-06-07T13:30:29.885Z",
+    "checkedAt": "2022-06-07T13:30:29.000Z",
+    "id": 147735,
+    "type": "manga",
+    "title": "The Tyrant's Guardian Is an Evil Witch",
+    "altTitle": [
+      "Pokgun-ui Bohoja-neun Agyeok Manyeo-imnida",
+      "The Tyrant's Guardian Is an Evil Witch",
+      "폭군의 보호자는 악역 마녀입니다"
+    ],
+    "url": "https://myanimelist.net/manga/147735/The_Tyrants_Guardian_Is_an_Evil_Witch",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262090.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56113952"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bluelagoon",
+      "Rata"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:40:19.545Z",
-    "updatedAt": "2022-06-04T02:40:52.000Z",
-    "checkedAt": "2022-06-04T02:40:52.000Z",
+    "updatedAt": "2022-06-08T07:53:31.000Z",
+    "checkedAt": "2022-06-08T07:53:31.000Z",
     "id": 128000,
     "type": "manga",
     "title": "Pokgunui Bohojaneun Agyeong Manyeoimnida",
@@ -40,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147735,
     "deletedAt": null,
     "authors": [
       "Rata",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-08-02T23:18:40.000Z",
-  "updatedAt": "2022-02-02T23:21:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T08:20:00.000Z",
+  "checkedAt": "2022-06-10T00:00:00.000Z",
   "id": 83671,
   "identifier": "how_to_become_a_dragon",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147921,
+  "aniId": 118600,
   "deletedAt": null,
   "authors": [
     "eon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-10T00:00:02.273Z",
+    "updatedAt": "2022-06-10T00:00:02.273Z",
+    "checkedAt": "2022-06-10T00:00:02.000Z",
+    "id": 147921,
+    "type": "manga",
+    "title": "How to Become a Dragon",
+    "altTitle": [
+      "Hapgyeok Sikyeo Juseyong",
+      "How to Become a Dragon",
+      "합격시켜주세용"
+    ],
+    "url": "https://myanimelist.net/manga/147921/How_to_Become_a_Dragon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262534.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=728128"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "eon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:49.658Z",
+    "updatedAt": "2022-06-10T07:27:43.000Z",
+    "checkedAt": "2022-06-10T07:27:43.000Z",
+    "id": 118600,
+    "type": "manga",
+    "title": "Hapgyeok Sikyeo Juseyong",
+    "altTitle": [
+      "How to Become a Dragon",
+      "합격시켜주세용",
+      "Pass the Exam of Dragon"
+    ],
+    "url": "https://anilist.co/manga/118600",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118600-RZVayDGPLAzp.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147921,
+    "deletedAt": null,
+    "authors": [
+      "eon"
+    ]
+  }
 }

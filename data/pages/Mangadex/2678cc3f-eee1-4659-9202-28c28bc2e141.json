@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-01T07:52:37.000Z",
-  "updatedAt": "2021-12-08T08:35:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T07:25:41.000Z",
+  "checkedAt": "2022-06-09T23:00:02.000Z",
   "id": 53353,
   "identifier": "2678cc3f-eee1-4659-9202-28c28bc2e141",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 124483,
+  "aniId": 123760,
   "deletedAt": null,
   "authors": [
     "Nori5rou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-24T22:19:31.000Z",
+    "updatedAt": "2022-05-14T17:57:35.000Z",
+    "checkedAt": "2022-05-14T17:57:35.000Z",
+    "id": 124483,
+    "type": "manga",
+    "title": "Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+    "altTitle": [
+      "今泉ん家はどうやらギャルの溜まり場になってるらしい"
+    ],
+    "url": "https://myanimelist.net/manga/124483/Imaizumin_Chi_wa_Douyara_Gal_no_Tamariba_ni_Natteru_Rashii",
+    "image": "https://cdn.myanimelist.net/images/manga/1/242797.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nori, Gorou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:40.272Z",
+    "updatedAt": "2022-05-15T19:16:11.000Z",
+    "checkedAt": "2022-05-15T19:16:11.000Z",
+    "id": 123760,
+    "type": "manga",
+    "title": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+    "altTitle": [
+      "Imaizumi Brings All The Gyarus To His House",
+      "今泉ん家はどうやらギャルの溜まり場になってるらしい",
+      "Imaizumi's house is a place for gals to gather"
+    ],
+    "url": "https://anilist.co/manga/123760",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123760-W8sG2KNAXjs4.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 124483,
+    "deletedAt": null,
+    "authors": [
+      "Gorou Nori"
+    ]
+  }
 }

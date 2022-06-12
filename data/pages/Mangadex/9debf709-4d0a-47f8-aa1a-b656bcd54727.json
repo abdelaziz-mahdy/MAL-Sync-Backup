@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-14T09:23:09.207Z",
-  "updatedAt": "2022-05-14T09:23:10.000Z",
+  "updatedAt": "2022-06-09T07:59:51.000Z",
   "checkedAt": "2022-05-14T09:23:09.000Z",
   "id": 104202,
   "identifier": "9debf709-4d0a-47f8-aa1a-b656bcd54727",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147847,
   "aniId": 136204,
   "deletedAt": null,
   "authors": [
@@ -22,15 +22,46 @@
     "Upudubu (우푸)",
     "Altoran (알토란)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-08T20:31:29.496Z",
+    "updatedAt": "2022-06-08T20:31:29.496Z",
+    "checkedAt": "2022-06-08T20:31:29.000Z",
+    "id": 147847,
+    "type": "manga",
+    "title": "Descended from Divinity",
+    "altTitle": [
+      "The Heavenly Demon Can't Live a Normal Life",
+      "Cheonma-neun Pyeongbeom-hage Sal Su Eopda",
+      "Descended from Divinity",
+      "천마는 평범하게 살 수 없다"
+    ],
+    "url": "https://myanimelist.net/manga/147847/Descended_from_Divinity",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262444.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=774358"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sancheon",
+      "Altoran",
+      "Upu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:41:48.596Z",
-    "updatedAt": "2022-05-14T09:23:09.000Z",
-    "checkedAt": "2022-05-14T09:23:09.000Z",
+    "updatedAt": "2022-06-09T08:03:26.000Z",
+    "checkedAt": "2022-06-09T08:03:26.000Z",
     "id": 136204,
     "type": "manga",
     "title": "Cheonmaneun Pyeongbeomhage Sal Su Eopda",
     "altTitle": [
+      "Descended from Divinity",
       "천마는 평범하게 살 수 없다",
       "The Heavenly Demon Can’t Live a Normal Life"
     ],
@@ -39,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147847,
     "deletedAt": null,
     "authors": [
       "Altoran",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-08-08T05:18:22.000Z",
-  "updatedAt": "2022-02-08T05:40:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-08T08:20:00.000Z",
+  "checkedAt": "2022-06-07T14:30:13.000Z",
   "id": 84786,
   "identifier": "101st_female_protagonist",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147509,
+  "aniId": 112346,
   "deletedAt": null,
   "authors": [
     "Menanik"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T14:30:15.435Z",
+    "updatedAt": "2022-06-07T14:30:15.435Z",
+    "checkedAt": "2022-06-07T14:30:15.000Z",
+    "id": 147509,
+    "type": "manga",
+    "title": "The 101st Heroine",
+    "altTitle": [
+      "The 101st Female Protagonist",
+      "101 Beonjjae Yeojuingong",
+      "The 101st Heroine",
+      "101번째 여주인공"
+    ],
+    "url": "https://myanimelist.net/manga/147509/The_101st_Heroine",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261843.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/53353413"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Menanick",
+      "Studio D"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:18.658Z",
+    "updatedAt": "2022-06-08T07:51:50.000Z",
+    "checkedAt": "2022-06-08T07:51:50.000Z",
+    "id": 112346,
+    "type": "manga",
+    "title": "101 Beonjjae Yeojuingong",
+    "altTitle": [
+      "The 101st Heroine",
+      "101번째 여주인공",
+      "101st Female Protagonist  "
+    ],
+    "url": "https://anilist.co/manga/112346",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112346-XAoVlv4hUQXr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147509,
+    "deletedAt": null,
+    "authors": [
+      "Menanik",
+      "Studio D"
+    ]
+  }
 }

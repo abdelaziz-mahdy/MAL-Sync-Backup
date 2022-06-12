@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-30T16:52:19.000Z",
-  "updatedAt": "2022-05-07T14:30:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T15:23:17.000Z",
+  "checkedAt": "2022-06-07T14:01:08.000Z",
   "id": 53314,
   "identifier": "7b7ea081-437c-4b8d-9274-84b12457dea5",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147664,
   "aniId": 127084,
   "deletedAt": null,
   "authors": [
@@ -22,11 +22,39 @@
     "Sanho",
     "Eongsseu"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T14:00:18.633Z",
+    "updatedAt": "2022-06-07T14:00:18.633Z",
+    "checkedAt": "2022-06-07T14:00:18.000Z",
+    "id": 147664,
+    "type": "manga",
+    "title": "I Married the Male Lead's Dad",
+    "altTitle": [
+      "Namju-ui Eomma-ga Doeeo Beoryeotda",
+      "I Married the Male Lead's Dad",
+      "남주의 엄마가 되어버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/147664/I_Married_the_Male_Leads_Dad",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261927.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56070306"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ko, Eunchae",
+      "Eongsseu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:19.478Z",
-    "updatedAt": "2022-05-16T00:50:36.000Z",
-    "checkedAt": "2022-05-16T00:50:36.000Z",
+    "updatedAt": "2022-06-08T07:57:11.000Z",
+    "checkedAt": "2022-06-08T07:57:11.000Z",
     "id": 127084,
     "type": "manga",
     "title": "Namjuui Eommaga Doeeobeolyeossda",
@@ -43,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147664,
     "deletedAt": null,
     "authors": [
       "Eongsu",

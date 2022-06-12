@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-05T06:19:07.000Z",
-  "updatedAt": "2022-02-22T13:47:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T13:30:48.000Z",
+  "checkedAt": "2022-06-07T13:00:00.000Z",
   "id": 76627,
   "identifier": "manga-gt984154",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147728,
   "aniId": 115387,
   "deletedAt": null,
   "authors": [
     "Lee Haron"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:02.320Z",
+    "updatedAt": "2022-06-07T13:00:02.320Z",
+    "checkedAt": "2022-06-07T13:00:02.000Z",
+    "id": 147728,
+    "type": "manga",
+    "title": "Villainess in Love",
+    "altTitle": [
+      "Angnyeo-ui Namju-nim",
+      "Villainess in Love",
+      "악녀의 남주님"
+    ],
+    "url": "https://myanimelist.net/manga/147728/Villainess_in_Love",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262070.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/54129892"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Haron",
+      "R Su Eopseum"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:00:29.352Z",
-    "updatedAt": "2022-05-15T21:13:59.000Z",
-    "checkedAt": "2022-05-15T21:13:59.000Z",
+    "updatedAt": "2022-06-08T07:52:11.000Z",
+    "checkedAt": "2022-06-08T07:52:11.000Z",
     "id": 115387,
     "type": "manga",
     "title": "Angnyeoui Namjunim",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147728,
     "deletedAt": null,
     "authors": [
       "Ha-Ron Lee",

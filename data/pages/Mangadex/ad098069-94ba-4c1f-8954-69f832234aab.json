@@ -1,19 +1,19 @@
 {
   "createdAt": "2020-12-04T16:23:01.000Z",
-  "updatedAt": "2021-12-08T09:07:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T07:25:25.000Z",
+  "checkedAt": "2022-06-10T00:00:08.000Z",
   "id": 53515,
   "identifier": "ad098069-94ba-4c1f-8954-69f832234aab",
   "type": "manga",
   "page": "Mangadex",
-  "title": "The Villainess's Days are Numbered!",
+  "title": "The Villainess' Days Are Numbered!",
   "url": "https://mangadex.org/title/ad098069-94ba-4c1f-8954-69f832234aab",
-  "image": "https://uploads.mangadex.org/covers/ad098069-94ba-4c1f-8954-69f832234aab/e296f66d-c352-4a9d-9057-8f2d54d6616a.png",
+  "image": "https://uploads.mangadex.org/covers/ad098069-94ba-4c1f-8954-69f832234aab/6a57a637-a120-42e6-9212-1070b7efb6fe.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147920,
   "aniId": 127233,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "Ryuho",
     "Salmon"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-10T00:00:09.813Z",
+    "updatedAt": "2022-06-10T00:00:09.813Z",
+    "checkedAt": "2022-06-10T00:00:09.000Z",
+    "id": 147920,
+    "type": "manga",
+    "title": "The Villainess's Days are Numbered!",
+    "altTitle": [
+      "Sihanbu Angnyeo-ui Happy Ending",
+      "The Villainess's Days are Numbered!",
+      "시한부 악녀의 해피엔딩"
+    ],
+    "url": "https://myanimelist.net/manga/147920/The_Villainesss_Days_are_Numbered",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262529.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56095545"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Harasyo",
+      "Yeoneo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:40:28.141Z",
-    "updatedAt": "2022-05-21T03:36:05.000Z",
-    "checkedAt": "2022-05-21T03:36:05.000Z",
+    "updatedAt": "2022-06-10T07:28:07.000Z",
+    "checkedAt": "2022-06-10T07:28:07.000Z",
     "id": 127233,
     "type": "manga",
     "title": "Sihanbu Agnyeoui Happy Ending",
@@ -40,12 +68,12 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147920,
     "deletedAt": null,
     "authors": [
       "Harasyo",
       "Yeoneo",
-      "Ryuho"
+      "Ryu-Ho"
     ]
   }
 }

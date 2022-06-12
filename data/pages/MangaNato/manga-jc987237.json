@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-31T09:49:13.000Z",
-  "updatedAt": "2022-05-25T13:00:29.000Z",
+  "updatedAt": "2022-06-09T08:20:00.000Z",
   "checkedAt": "2022-05-25T13:00:29.000Z",
   "id": 74840,
   "identifier": "manga-jc987237",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147821,
+  "aniId": 126972,
   "deletedAt": null,
   "authors": [
     "Susu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-08T20:31:31.223Z",
+    "updatedAt": "2022-06-08T20:31:31.223Z",
+    "checkedAt": "2022-06-08T20:31:31.000Z",
+    "id": 147821,
+    "type": "manga",
+    "title": "Angel or Villainess",
+    "altTitle": [
+      "Angelic Lady",
+      "Angel or Villainess",
+      "엔젤릭 레이디"
+    ],
+    "url": "https://myanimelist.net/manga/147821/Angel_or_Villainess",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262396.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56005508"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Susu",
+      "Waffle Poo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:20.120Z",
+    "updatedAt": "2022-06-09T08:02:22.000Z",
+    "checkedAt": "2022-06-09T08:02:22.000Z",
+    "id": 126972,
+    "type": "manga",
+    "title": "Angelic Lady",
+    "altTitle": [
+      "Angel or Villainess",
+      "엔젤릭 레이디"
+    ],
+    "url": "https://anilist.co/manga/126972",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126972-RUdvx0AcG4Xc.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147821,
+    "deletedAt": null,
+    "authors": [
+      "Susu",
+      "Waffle Su"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-23T12:00:02.686Z",
-  "updatedAt": "2022-05-23T12:00:02.000Z",
+  "updatedAt": "2022-06-10T07:26:02.000Z",
   "checkedAt": "2022-05-23T12:00:02.000Z",
   "id": 105139,
   "identifier": "a7aa4e42-734c-4b35-a0d2-d366320ae604",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147909,
   "aniId": 123680,
   "deletedAt": null,
   "authors": [
     "Chen Guojian"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-10T00:00:21.692Z",
+    "updatedAt": "2022-06-10T00:00:21.692Z",
+    "checkedAt": "2022-06-10T00:00:21.000Z",
+    "id": 147909,
+    "type": "manga",
+    "title": "My Sister Picked Up the Male Lead",
+    "altTitle": [
+      "Eonni-ga Namja Juingong-eul Juwo Watda",
+      "My Sister Picked Up the Male Lead",
+      "언니가 남자 주인공을 주워 왔다"
+    ],
+    "url": "https://myanimelist.net/manga/147909/My_Sister_Picked_Up_the_Male_Lead",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262516.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/55522808"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Moon, Sihyun",
+      "Dyubu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:59.112Z",
-    "updatedAt": "2022-05-23T12:00:02.000Z",
-    "checkedAt": "2022-05-23T12:00:02.000Z",
+    "updatedAt": "2022-06-10T07:27:55.000Z",
+    "checkedAt": "2022-06-10T07:27:55.000Z",
     "id": 123680,
     "type": "manga",
     "title": "Eonniga Namja Juingongeul Juwo Watda",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147909,
     "deletedAt": null,
     "authors": [
       "Si-Hyun Mun",

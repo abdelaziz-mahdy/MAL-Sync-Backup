@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-18T18:05:02.000Z",
-  "updatedAt": "2022-05-13T16:40:08.000Z",
+  "updatedAt": "2022-06-10T08:20:00.000Z",
   "checkedAt": "2022-05-13T16:40:08.000Z",
   "id": 66053,
   "identifier": "the-tutorial-is-too-hard",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146856,
+  "aniId": 129632,
   "deletedAt": null,
   "authors": [
     "Gandara"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T13:31:10.261Z",
+    "updatedAt": "2022-05-25T13:31:10.261Z",
+    "checkedAt": "2022-05-25T13:31:10.000Z",
+    "id": 146856,
+    "type": "manga",
+    "title": "The Tutorial Is Too Tough!",
+    "altTitle": [
+      "The Tutorial Is Too Hard!",
+      "Tutorial-i Neomu Eoryeopda",
+      "The Tutorial Is Too Tough!",
+      "튜토리얼이 너무 어렵다"
+    ],
+    "url": "https://myanimelist.net/manga/146856/The_Tutorial_Is_Too_Tough",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260757.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56443245"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gandara",
+      "Imae, Daiki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:15.209Z",
+    "updatedAt": "2022-05-27T10:37:13.000Z",
+    "checkedAt": "2022-05-27T10:37:13.000Z",
+    "id": 129632,
+    "type": "manga",
+    "title": "Tutorial Neomu Eoryeopda",
+    "altTitle": [
+      "The Tutorial Is Too Tough!",
+      "튜토리얼이 너무 어렵다",
+      "The Tutorial is Too Hard",
+      "มิติโหด โหมดฝึกหัด"
+    ],
+    "url": "https://anilist.co/manga/129632",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129632-ArHo6qvYQoHs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146856,
+    "deletedAt": null,
+    "authors": [
+      "Gandara",
+      "Imae Daiki"
+    ]
+  }
 }

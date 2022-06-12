@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-04T12:06:35.000Z",
-  "updatedAt": "2022-02-04T12:06:35.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T15:19:52.000Z",
+  "checkedAt": "2022-06-07T14:30:03.000Z",
   "id": 95732,
   "identifier": "c538a02d-4903-4f0e-8c01-c1918f805470",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147480,
   "aniId": 133466,
   "deletedAt": null,
   "authors": [
@@ -22,11 +22,40 @@
     "Yullimni",
     "Coconut Berry"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T14:30:03.667Z",
+    "updatedAt": "2022-06-07T14:30:03.667Z",
+    "checkedAt": "2022-06-07T14:30:03.000Z",
+    "id": 147480,
+    "type": "manga",
+    "title": "A Heart for the Emperor",
+    "altTitle": [
+      "Hwangje-ege Heart-reul Simeo Juseyo",
+      "A Heart for the Emperor",
+      "황제에게 하트를 심어주세요"
+    ],
+    "url": "https://myanimelist.net/manga/147480/A_Heart_for_the_Emperor",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261656.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=775318"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "6S",
+      "Yullimni",
+      "Coconutberry"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:51:21.891Z",
-    "updatedAt": "2022-05-21T23:00:14.000Z",
-    "checkedAt": "2022-05-21T23:00:14.000Z",
+    "updatedAt": "2022-06-08T07:55:57.000Z",
+    "checkedAt": "2022-06-08T07:55:57.000Z",
     "id": 133466,
     "type": "manga",
     "title": "Hwangjeege Hateureul Sim-eojuseyo",
@@ -40,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147480,
     "deletedAt": null,
     "authors": [
       "Lim-Ni Yul",

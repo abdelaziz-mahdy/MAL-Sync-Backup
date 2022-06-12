@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-03T10:49:35.000Z",
-  "updatedAt": "2022-05-14T09:33:28.000Z",
+  "updatedAt": "2022-06-09T08:20:00.000Z",
   "checkedAt": "2022-05-14T09:33:28.000Z",
   "id": 57042,
   "identifier": "nano_machine",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147863,
+  "aniId": 120980,
   "deletedAt": null,
   "authors": [
     "Han-Joong-Wueol-Ya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-09T00:30:08.832Z",
+    "updatedAt": "2022-06-09T00:30:08.832Z",
+    "checkedAt": "2022-06-09T00:30:08.000Z",
+    "id": 147863,
+    "type": "manga",
+    "title": "Nano Machine",
+    "altTitle": [
+      "Nano Machine",
+      "나노마신"
+    ],
+    "url": "https://myanimelist.net/manga/147863/Nano_Machine",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262455.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=747271"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanjung Wolya",
+      "Geumgang Bulgoe"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:58.167Z",
+    "updatedAt": "2022-06-09T08:01:36.000Z",
+    "checkedAt": "2022-06-09T08:01:36.000Z",
+    "id": 120980,
+    "type": "manga",
+    "title": "Nano Machine",
+    "altTitle": [
+      "Nano Machine",
+      "나노마신",
+      "Nano Mashin",
+      "นาโนมาชิน",
+      "某天成为魔神",
+      "奈米魔神",
+      "ナノ魔神"
+    ],
+    "url": "https://anilist.co/manga/120980",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120980-Sf8QHHuOuJXQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147863,
+    "deletedAt": null,
+    "authors": [
+      "Jeolmu  Hyeon",
+      "Gangbulgoe Geum"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-31T14:09:04.000Z",
-  "updatedAt": "2022-05-13T20:30:38.000Z",
+  "updatedAt": "2022-06-08T08:20:00.000Z",
   "checkedAt": "2022-05-13T20:30:38.000Z",
   "id": 56456,
   "identifier": "d-i-c-e-the-cube-that-changes-everything",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147443,
+  "aniId": 85208,
   "deletedAt": null,
   "authors": [
     "YUN Hyunseok"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T14:30:21.327Z",
+    "updatedAt": "2022-06-07T14:30:21.327Z",
+    "checkedAt": "2022-06-07T14:30:21.000Z",
+    "id": 147443,
+    "type": "manga",
+    "title": "Dice",
+    "altTitle": [
+      "Dice: The Cube that Changes Everything",
+      "Dice",
+      "다이스"
+    ],
+    "url": "https://myanimelist.net/manga/147443/Dice",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261754.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=557676"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yun, Hyunseok"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:05.403Z",
+    "updatedAt": "2022-06-08T07:54:21.000Z",
+    "checkedAt": "2022-06-08T07:54:21.000Z",
+    "id": 85208,
+    "type": "manga",
+    "title": "DICE",
+    "altTitle": [
+      "DICE: The Cube that Changes Everything",
+      "다이스 (DICE)"
+    ],
+    "url": "https://anilist.co/manga/85208",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85208-n0QziNqEbcGV.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147443,
+    "deletedAt": null,
+    "authors": [
+      "Hyun-Seok Yun"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-11T05:34:12.000Z",
-  "updatedAt": "2021-12-13T09:58:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T20:33:43.000Z",
+  "checkedAt": "2022-06-10T19:02:22.000Z",
   "id": 92924,
   "identifier": "eeda43f1-cdca-4f0f-bc7a-ed1bc5308451",
   "type": "manga",
@@ -12,15 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147930,
+  "aniId": 139322,
   "deletedAt": null,
   "authors": [
     "로판맛집",
     "골지",
     "이레"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-10T19:02:38.804Z",
+    "updatedAt": "2022-06-10T19:02:38.804Z",
+    "checkedAt": "2022-06-10T19:02:38.000Z",
+    "id": 147930,
+    "type": "manga",
+    "title": "Taming the Marquess",
+    "altTitle": [
+      "Michin Hujak-eul Gil Deurigo Maratda",
+      "Taming the Marquess",
+      "미친 후작을 길들이고 말았다"
+    ],
+    "url": "https://myanimelist.net/manga/147930/Taming_the_Marquess",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262561.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=778325"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rofan Matjip",
+      "Ire"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:24.662Z",
+    "updatedAt": "2022-06-06T11:46:25.000Z",
+    "checkedAt": "2022-06-06T11:46:25.000Z",
+    "id": 139322,
+    "type": "manga",
+    "title": "Michin Hujageul Gildeurigo Maratda",
+    "altTitle": [
+      "Taming the Marquess",
+      "미친 후작을 길들이고 말았다",
+      "I Tamed the Mad Marquis  ",
+      "I Tamed the Crazy Marquis  "
+    ],
+    "url": "https://anilist.co/manga/139322",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139322-uwgFZeYyyZiF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ropanmatjip",
+      "Yureteu",
+      "Golji",
+      "Gangajijoa",
+      "Ire"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:08:21.000Z",
-  "updatedAt": "2022-01-27T20:01:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T15:22:39.000Z",
+  "checkedAt": "2022-06-07T14:00:48.000Z",
   "id": 12613,
   "identifier": "1f5ade21-96a2-48a3-92e4-a8cac0c655e7",
   "type": "manga",
@@ -12,24 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147536,
   "aniId": 85869,
   "deletedAt": null,
   "authors": [
     "이도경",
     "남희성",
     "그림자story",
-    "김준형",
+    "Junhyung Kim (김준형)",
     "박정열",
     "신C",
     "(김태형) Kim Tae-Hyung"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-07T14:00:35.745Z",
+    "updatedAt": "2022-06-07T14:00:35.745Z",
+    "checkedAt": "2022-06-07T14:00:35.000Z",
+    "id": 147536,
+    "type": "manga",
+    "title": "The Legendary Moonlight Sculptor",
+    "altTitle": [
+      "Dalbit Jogaksa",
+      "The Legendary Moonlight Sculptor",
+      "달빛조각사"
+    ],
+    "url": "https://myanimelist.net/manga/147536/The_Legendary_Moonlight_Sculptor",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261859.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/47196143"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%B9%9B%EC%A1%B0%EA%B0%81%EC%82%AC"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Tae-Hyung",
+      "Nam, Heesung",
+      "Shin C",
+      "Park, Jeongyeol"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:21.682Z",
-    "updatedAt": "2022-05-17T13:51:48.000Z",
-    "checkedAt": "2022-05-17T13:51:48.000Z",
+    "updatedAt": "2022-06-08T07:50:25.000Z",
+    "checkedAt": "2022-06-08T07:50:25.000Z",
     "id": 85869,
     "type": "manga",
     "title": "Dalbitjogaksa",
@@ -48,7 +82,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147536,
     "deletedAt": null,
     "authors": [
       "Hee Sung Nam",

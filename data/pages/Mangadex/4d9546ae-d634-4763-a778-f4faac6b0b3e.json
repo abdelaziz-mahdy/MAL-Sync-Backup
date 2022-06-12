@@ -1,24 +1,70 @@
 {
   "createdAt": "2022-04-16T07:31:26.000Z",
-  "updatedAt": "2022-04-16T07:31:26.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T15:27:31.000Z",
+  "checkedAt": "2022-06-07T14:30:25.000Z",
   "id": 101588,
   "identifier": "4d9546ae-d634-4763-a778-f4faac6b0b3e",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hai Shinigami to Fushi no Neko",
   "url": "https://mangadex.org/title/4d9546ae-d634-4763-a778-f4faac6b0b3e",
-  "image": "https://uploads.mangadex.org/covers/4d9546ae-d634-4763-a778-f4faac6b0b3e/9224c370-2927-4378-a7e3-4b00f1d55e27.jpg",
+  "image": "https://uploads.mangadex.org/covers/4d9546ae-d634-4763-a778-f4faac6b0b3e/4d8bfe98-2bfc-48a5-8981-18ab3b1ed52d.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 146500,
+  "aniId": 150380,
   "deletedAt": null,
   "authors": [
     "Hojoy"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-30T18:02:04.000Z",
+    "updatedAt": "2022-05-18T19:24:45.000Z",
+    "checkedAt": "2022-05-18T19:24:45.000Z",
+    "id": 146500,
+    "type": "manga",
+    "title": "Hai Shinigami to Fushi no Neko",
+    "altTitle": [
+      "灰死神と不死の猫"
+    ],
+    "url": "https://myanimelist.net/manga/146500/Hai_Shinigami_to_Fushi_no_Neko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259133.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kansai.mag-garden.co.jp/shinigami/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hojoy"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-07T14:30:26.022Z",
+    "updatedAt": "2022-06-07T14:30:26.022Z",
+    "checkedAt": "2022-06-07T14:30:26.000Z",
+    "id": 150380,
+    "type": "manga",
+    "title": "Hai Shinigami to Fushi no Neko",
+    "altTitle": [
+      "灰死神と不死の猫",
+      "Ash Grim Reaper and Immortal Cat"
+    ],
+    "url": "https://anilist.co/manga/150380",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150380-72pYwXQqQV5e.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146500,
+    "deletedAt": null,
+    "authors": [
+      "Hojoy"
+    ]
+  }
 }

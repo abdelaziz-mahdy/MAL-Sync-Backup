@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-31T06:30:32.000Z",
-  "updatedAt": "2022-03-31T06:30:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T06:00:07.000Z",
+  "checkedAt": "2022-06-07T06:00:07.000Z",
   "id": 100381,
   "identifier": "fe9b4485-550a-4823-84eb-8680283b5d9f",
   "type": "manga",
@@ -11,10 +11,10 @@
   "image": "https://uploads.mangadex.org/covers/fe9b4485-550a-4823-84eb-8680283b5d9f/27f72cc0-b4f7-4ff1-a2b9-c940230b317a.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 146492,
   "deletedAt": null,
   "authors": [
     "Baku Yumemakura",
@@ -22,5 +22,27 @@
     "Fujita Yuria"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:51.996Z",
+    "updatedAt": "2022-05-22T11:10:58.000Z",
+    "checkedAt": "2022-05-22T11:10:58.000Z",
+    "id": 146492,
+    "type": "manga",
+    "title": "Manga - Yuuenchi: Baki Gaiden",
+    "altTitle": [
+      "漫画 ゆうえんち-バキ外伝"
+    ],
+    "url": "https://anilist.co/manga/146492",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146492-1q8Mzo1VX8Kk.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Yuria Fujita",
+      "Keisuke Itagaki",
+      "Baku Yumemakura"
+    ]
+  }
 }

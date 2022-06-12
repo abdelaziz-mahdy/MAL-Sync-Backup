@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-28T06:21:40.000Z",
-  "updatedAt": "2022-01-28T06:50:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-08T08:20:00.000Z",
+  "checkedAt": "2022-06-08T04:00:14.000Z",
   "id": 83176,
   "identifier": "flat-a-o-g-i-r-i-natsu",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 10874,
+  "aniId": 40874,
   "deletedAt": null,
   "authors": [
     "AOGIRI Natsu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:41:30.000Z",
+    "updatedAt": "2022-05-15T22:12:04.000Z",
+    "checkedAt": "2022-05-15T22:12:04.000Z",
+    "id": 10874,
+    "type": "manga",
+    "title": "Flat",
+    "altTitle": [
+      "Fuyume",
+      "Winter Sprouts",
+      "flat"
+    ],
+    "url": "https://myanimelist.net/manga/10874/Flat",
+    "image": "https://cdn.myanimelist.net/images/manga/1/47835.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Flat_(漫画)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aogiri, Natsu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:54.379Z",
+    "updatedAt": "2022-05-15T22:29:47.000Z",
+    "checkedAt": "2022-05-15T22:29:47.000Z",
+    "id": 40874,
+    "type": "manga",
+    "title": "flat",
+    "altTitle": [
+      "flat",
+      "Winter Sprouts"
+    ],
+    "url": "https://anilist.co/manga/40874",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40874-XgN6YiWG5Zg8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10874,
+    "deletedAt": null,
+    "authors": [
+      "Natsu Aogiri"
+    ]
+  }
 }

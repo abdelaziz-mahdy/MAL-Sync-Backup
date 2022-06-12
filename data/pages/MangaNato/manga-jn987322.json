@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T09:05:07.000Z",
-  "updatedAt": "2022-01-10T17:42:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T07:25:39.000Z",
+  "checkedAt": "2022-06-10T00:00:10.000Z",
   "id": 74294,
   "identifier": "manga-jn987322",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147920,
   "aniId": 127233,
   "deletedAt": null,
   "authors": [
     "Harasyo",
     "류호"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-10T00:00:09.813Z",
+    "updatedAt": "2022-06-10T00:00:09.813Z",
+    "checkedAt": "2022-06-10T00:00:09.000Z",
+    "id": 147920,
+    "type": "manga",
+    "title": "The Villainess's Days are Numbered!",
+    "altTitle": [
+      "Sihanbu Angnyeo-ui Happy Ending",
+      "The Villainess's Days are Numbered!",
+      "시한부 악녀의 해피엔딩"
+    ],
+    "url": "https://myanimelist.net/manga/147920/The_Villainesss_Days_are_Numbered",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262529.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56095545"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Harasyo",
+      "Yeoneo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:40:28.141Z",
-    "updatedAt": "2022-05-21T03:36:05.000Z",
-    "checkedAt": "2022-05-21T03:36:05.000Z",
+    "updatedAt": "2022-06-10T07:28:07.000Z",
+    "checkedAt": "2022-06-10T07:28:07.000Z",
     "id": 127233,
     "type": "manga",
     "title": "Sihanbu Agnyeoui Happy Ending",
@@ -39,12 +67,12 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147920,
     "deletedAt": null,
     "authors": [
       "Harasyo",
       "Yeoneo",
-      "Ryuho"
+      "Ryu-Ho"
     ]
   }
 }

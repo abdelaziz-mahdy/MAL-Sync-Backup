@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-12T16:18:59.000Z",
-  "updatedAt": "2022-05-16T15:30:16.000Z",
+  "updatedAt": "2022-06-07T12:25:45.000Z",
   "checkedAt": "2022-05-16T15:30:01.000Z",
   "id": 34267,
   "identifier": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147727,
   "aniId": 117460,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "이동욱",
     "Team Argo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-05T19:00:11.267Z",
+    "updatedAt": "2022-06-05T19:00:11.267Z",
+    "checkedAt": "2022-06-05T19:00:11.000Z",
+    "id": 147727,
+    "type": "manga",
+    "title": "Overgeared",
+    "altTitle": [
+      "Temmppal",
+      "Overgeared",
+      "템빨"
+    ],
+    "url": "https://myanimelist.net/manga/147727/Overgeared",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262068.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54727849"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Saenal",
+      "Team Argo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:45.944Z",
-    "updatedAt": "2022-05-14T09:39:08.000Z",
-    "checkedAt": "2022-05-14T09:39:08.000Z",
+    "updatedAt": "2022-06-07T12:30:49.000Z",
+    "checkedAt": "2022-06-07T12:30:49.000Z",
     "id": 117460,
     "type": "manga",
     "title": "Temppal",
@@ -38,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147727,
     "deletedAt": null,
     "authors": [
       "Team Argo",

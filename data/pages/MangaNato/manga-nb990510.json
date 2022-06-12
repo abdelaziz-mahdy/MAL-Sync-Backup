@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-02-15T12:47:11.000Z",
-  "updatedAt": "2022-05-17T01:00:15.000Z",
+  "updatedAt": "2022-06-07T13:20:00.000Z",
   "checkedAt": "2022-05-17T01:00:15.000Z",
   "id": 96283,
   "identifier": "manga-nb990510",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147217,
+  "aniId": 144957,
   "deletedAt": null,
   "authors": [
     "Sing N Song (싱숑)",
     "S-Cynan"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T11:30:15.299Z",
+    "updatedAt": "2022-05-26T11:30:15.299Z",
+    "checkedAt": "2022-05-26T11:30:15.000Z",
+    "id": 147217,
+    "type": "manga",
+    "title": "The World After the Fall",
+    "altTitle": [
+      "Myeolmang Ihu-ui Segye",
+      "The World After the Fall",
+      "멸망 이후의 세계"
+    ],
+    "url": "https://myanimelist.net/manga/147217/The_World_After_the_Fall",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260852.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=789979"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "sing N song",
+      "Undead Gamja"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:00.517Z",
+    "updatedAt": "2022-05-27T10:38:28.000Z",
+    "checkedAt": "2022-05-27T10:38:28.000Z",
+    "id": 144957,
+    "type": "manga",
+    "title": "Myeolmang Ihuui Segye",
+    "altTitle": [
+      "The World After the Fall",
+      "멸망 이후의 세계",
+      "The World After the End"
+    ],
+    "url": "https://anilist.co/manga/144957",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144957-h0qIwRwxOEdg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147217,
+    "deletedAt": null,
+    "authors": [
+      " Sing-Shong",
+      "S-Cynan",
+      "Eondedeu Gamja"
+    ]
+  }
 }

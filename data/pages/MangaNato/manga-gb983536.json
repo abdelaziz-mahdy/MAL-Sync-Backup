@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T09:20:41.000Z",
-  "updatedAt": "2022-04-18T13:00:25.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-09T07:56:44.000Z",
+  "checkedAt": "2022-06-08T20:31:29.000Z",
   "id": 74522,
   "identifier": "manga-gb983536",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147827,
   "aniId": 106098,
   "deletedAt": null,
   "authors": [
     "Ellianyang"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-08T20:30:44.726Z",
+    "updatedAt": "2022-06-08T20:30:44.726Z",
+    "checkedAt": "2022-06-08T20:30:44.000Z",
+    "id": 147827,
+    "type": "manga",
+    "title": "Miss Not-So Sidekick",
+    "altTitle": [
+      "Gugyeonghaneun Deulleoriyang",
+      "Miss Not-So Sidekick",
+      "구경하는 들러리양"
+    ],
+    "url": "https://myanimelist.net/manga/147827/Miss_Not-So_Sidekick",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262407.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/50645379"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ellianyang",
+      "Yumyum"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:49.446Z",
-    "updatedAt": "2022-05-15T22:12:35.000Z",
-    "checkedAt": "2022-05-15T22:12:35.000Z",
+    "updatedAt": "2022-06-09T08:00:54.000Z",
+    "checkedAt": "2022-06-09T08:00:54.000Z",
     "id": 106098,
     "type": "manga",
     "title": "Gugyeonghaneun Deulleoriyang",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147827,
     "deletedAt": null,
     "authors": [
       "Ellian Yang",

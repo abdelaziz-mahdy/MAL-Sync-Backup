@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-02T14:00:34.000Z",
-  "updatedAt": "2022-04-02T14:00:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-07T12:26:03.000Z",
+  "checkedAt": "2022-06-05T19:00:11.000Z",
   "id": 100570,
   "identifier": "king_of_ghosts",
   "type": "manga",
@@ -12,18 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147737,
   "aniId": 141956,
   "deletedAt": null,
   "authors": [
     "Son Kofu"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-05T19:00:35.274Z",
+    "updatedAt": "2022-06-05T19:00:35.274Z",
+    "checkedAt": "2022-06-05T19:00:35.000Z",
+    "id": 147737,
+    "type": "manga",
+    "title": "Ghost King",
+    "altTitle": [
+      "Demonic Spirit King",
+      "Phantom Spirit King",
+      "King of Ghosts",
+      "Ghost King",
+      "귀령왕"
+    ],
+    "url": "https://myanimelist.net/manga/147737/Ghost_King",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262094.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784837"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Jinseok",
+      "Son, Gohu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:55:25.465Z",
-    "updatedAt": "2022-05-18T21:30:13.000Z",
-    "checkedAt": "2022-05-18T21:30:13.000Z",
+    "updatedAt": "2022-06-07T12:31:49.000Z",
+    "checkedAt": "2022-06-07T12:31:49.000Z",
     "id": 141956,
     "type": "manga",
     "title": "Gwiryeongwang",
@@ -40,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147737,
     "deletedAt": null,
     "authors": [
       "Go-Hu Son",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:34.000Z",
-  "updatedAt": "2022-01-15T06:12:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-09T07:59:33.000Z",
+  "checkedAt": "2022-06-08T20:32:04.000Z",
   "id": 37467,
   "identifier": "102ed7d8-8db3-43cd-bfa8-db4e6370530a",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147842,
   "aniId": 123770,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Shin Leeho (신이호)",
     "Nubi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-08T20:32:43.586Z",
+    "updatedAt": "2022-06-08T20:32:43.586Z",
+    "checkedAt": "2022-06-08T20:32:43.000Z",
+    "id": 147842,
+    "type": "manga",
+    "title": "They Only Remembered Her",
+    "altTitle": [
+      "Truthfully, They Only Remembered Her",
+      "Sasil, Geudeul-eun Ojik Geunyeo-man-eul Gieokhago Isseotseumnida",
+      "They Only Remembered Her",
+      "사실, 그들은 오직 그녀만을 기억하고 있었습니다"
+    ],
+    "url": "https://myanimelist.net/manga/147842/They_Only_Remembered_Her",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262427.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/55011578"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu, Heon",
+      "Shin, Yiho"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:34.893Z",
-    "updatedAt": "2022-05-20T01:00:12.000Z",
-    "checkedAt": "2022-05-20T01:00:12.000Z",
+    "updatedAt": "2022-06-09T08:01:41.000Z",
+    "checkedAt": "2022-06-09T08:01:41.000Z",
     "id": 123770,
     "type": "manga",
     "title": "Sasil, Geudeureun Ojing Geunyeomaneul Gieokago Isseotseumnida",
@@ -43,7 +72,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147842,
     "deletedAt": null,
     "authors": [
       "Lee-Ho Shin",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-08-08T05:17:51.000Z",
-  "updatedAt": "2022-02-08T05:40:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-10T08:20:00.000Z",
+  "checkedAt": "2022-06-09T18:30:10.000Z",
   "id": 84781,
   "identifier": "priscilla_s_marriage_request",
   "type": "manga",
@@ -12,13 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147903,
+  "aniId": 115268,
   "deletedAt": null,
   "authors": [
     "Lim Seo-rim"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-09T18:30:11.883Z",
+    "updatedAt": "2022-06-09T18:30:11.883Z",
+    "checkedAt": "2022-06-09T18:30:11.000Z",
+    "id": 147903,
+    "type": "manga",
+    "title": "Priscilla's Marriage Proposal",
+    "altTitle": [
+      "Priscilla's Marriage Request",
+      "Priscilla-ui Gyeolhon Uiroe",
+      "Priscilla's Marriage Proposal",
+      "프리실라의 결혼 의뢰"
+    ],
+    "url": "https://myanimelist.net/manga/147903/Priscillas_Marriage_Proposal",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262505.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54029469"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lim, Seorim",
+      "Merona"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:14.184Z",
+    "updatedAt": "2022-06-10T07:27:31.000Z",
+    "checkedAt": "2022-06-10T07:27:31.000Z",
+    "id": 115268,
+    "type": "manga",
+    "title": "Priscilla Gyeolhon Uiroe",
+    "altTitle": [
+      "Priscilla's Marriage Proposal",
+      "프리실라의 결혼 의뢰",
+      "Priscilla's Marriage Request",
+      "Proposición de matrimonio de Priscilla",
+      "La commission du mariage de Priscilla",
+      "Peurisillaui Gyeolhon Uiroe",
+      "คำขอแต่งงานของพริซซิลลา"
+    ],
+    "url": "https://anilist.co/manga/115268",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115268-ub1iKXLEwUjD.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147903,
+    "deletedAt": null,
+    "authors": [
+      "Seo-Rim Lim",
+      "Melona "
+    ]
+  }
 }
