@@ -8,11 +8,11 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 | Page      | Total | MalID | noMalID | AniID | noAniID |
 | --------- | ----- | ----- | ------- | ----- | ------- |
 | 9anime    | 14040 | 13625 | 415     | 13155 | 885     |
-| Gogoanime | 9502  | 9166  | 336     | 9079  | 423     |
-| Mangadex  | 51024 | 26518 | 24506   | 28979 | 22045   |
-| MangaFox  | 10323 | 6173  | 4150    | 6285  | 4038    |
+| Gogoanime | 9504  | 9168  | 336     | 9080  | 424     |
+| Mangadex  | 51035 | 26525 | 24510   | 28990 | 22045   |
+| MangaFox  | 10325 | 6174  | 4151    | 6286  | 4039    |
 | MangaSee  | 6747  | 5763  | 984     | 5877  | 870     |
-| MangaNato | 14367 | 7984  | 6383    | 8975  | 5392    |
+| MangaNato | 14372 | 7989  | 6383    | 8977  | 5395    |
 <!--/statstable-->
 
 ## Structure

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:52:27.948Z",
-  "updatedAt": "2022-05-13T12:52:27.948Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T09:00:00.000Z",
+  "checkedAt": "2022-06-12T09:00:00.000Z",
   "id": 87139,
   "type": "manga",
   "title": "Dusk Howler",
@@ -20,5 +20,56 @@
     "Crew",
     "Tae-sun"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ec535b09-51d7-4bd2-bb53-f854a90629f5": {
+        "createdAt": "2020-10-12T16:11:48.000Z",
+        "updatedAt": "2021-12-05T12:50:00.000Z",
+        "checkedAt": null,
+        "id": 20083,
+        "identifier": "ec535b09-51d7-4bd2-bb53-f854a90629f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dusk Howler",
+        "url": "https://mangadex.org/title/ec535b09-51d7-4bd2-bb53-f854a90629f5",
+        "image": "https://uploads.mangadex.org/covers/ec535b09-51d7-4bd2-bb53-f854a90629f5/f73b79b7-a04b-4316-b331-76327b363329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 98126,
+        "aniId": 87139,
+        "deletedAt": null,
+        "authors": [
+          "태선",
+          "크루"
+        ]
+      }
+    },
+    "MangaSee": {
+      "dusk-howler": {
+        "createdAt": "2021-05-05T10:33:34.000Z",
+        "updatedAt": "2021-12-21T07:59:58.000Z",
+        "checkedAt": null,
+        "id": 71083,
+        "identifier": "dusk-howler",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dusk Howler",
+        "url": "https://mangasee123.com/manga/Dusk-Howler",
+        "image": "https://cover.nep.li/cover/Dusk-Howler.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": null,
+        "aniId": 87139,
+        "deletedAt": null,
+        "authors": [
+          "Crew",
+          "Teosan"
+        ]
+      }
+    }
+  }
 }

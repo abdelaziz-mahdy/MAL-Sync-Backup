@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:49:55.246Z",
-  "updatedAt": "2022-05-13T12:49:55.246Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T07:02:04.000Z",
+  "checkedAt": "2022-06-12T07:02:04.000Z",
   "id": 30288,
   "type": "manga",
   "title": "Othello",
@@ -24,5 +24,55 @@
   "authors": [
     "Toui Hasumi"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c51b68fa-39a2-4670-bd35-928268328a22": {
+        "createdAt": "2020-10-12T16:16:11.000Z",
+        "updatedAt": "2021-12-06T20:18:22.000Z",
+        "checkedAt": null,
+        "id": 28544,
+        "identifier": "c51b68fa-39a2-4670-bd35-928268328a22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Hello Hello I'm Here (Doujinshi)",
+        "url": "https://mangadex.org/title/c51b68fa-39a2-4670-bd35-928268328a22",
+        "image": "https://uploads.mangadex.org/covers/c51b68fa-39a2-4670-bd35-928268328a22/f1a9f43d-a8f3-4f84-a606-8cd977137ae1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 288,
+        "aniId": 30288,
+        "deletedAt": null,
+        "authors": [
+          "Area-S (Circle)",
+          "Dra"
+        ]
+      }
+    },
+    "MangaFox": {
+      "othello_yaoi": {
+        "createdAt": "2021-01-23T18:52:07.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "checkedAt": null,
+        "id": 59668,
+        "identifier": "othello_yaoi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Othello (Yaoi)",
+        "url": "https://fanfox.net/manga/othello_yaoi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/290/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 288,
+        "aniId": 30288,
+        "deletedAt": null,
+        "authors": [
+          "HASUMI Toui"
+        ]
+      }
+    }
+  }
 }

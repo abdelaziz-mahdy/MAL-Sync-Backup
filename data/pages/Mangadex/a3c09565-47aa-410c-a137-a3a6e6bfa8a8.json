@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-20T21:03:26.000Z",
-  "updatedAt": "2022-01-21T15:46:54.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T13:37:09.000Z",
+  "checkedAt": "2022-06-12T13:00:02.000Z",
   "id": 95000,
   "identifier": "a3c09565-47aa-410c-a137-a3a6e6bfa8a8",
   "type": "manga",
@@ -13,13 +13,67 @@
   "sticky": false,
   "active": true,
   "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "malId": 146879,
+  "aniId": 141626,
   "deletedAt": null,
   "authors": [
+    "Toy",
     "Park Tae Joon",
-    "정종택"
+    "정종택",
+    "Jeongjongtaek"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T13:00:41.093Z",
+    "updatedAt": "2022-05-25T13:00:41.093Z",
+    "checkedAt": "2022-05-25T13:00:41.000Z",
+    "id": 146879,
+    "type": "manga",
+    "title": "Manager Kim",
+    "altTitle": [
+      "Directory Kim",
+      "Kim Bujang",
+      "Manager Kim",
+      "김부장"
+    ],
+    "url": "https://myanimelist.net/manga/146879/Manager_Kim",
+    "image": "https://cdn.myanimelist.net/images/manga/3/260734.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=783053"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Toy",
+      "Jeong, Jongtaek"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:25.121Z",
+    "updatedAt": "2022-05-27T10:38:46.000Z",
+    "checkedAt": "2022-05-27T10:38:46.000Z",
+    "id": 141626,
+    "type": "manga",
+    "title": "Kim Bujang",
+    "altTitle": [
+      "Manager Kim",
+      "김부장",
+      "Manager Kim"
+    ],
+    "url": "https://anilist.co/manga/141626",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141626-2AQM2uUYS8wC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146879,
+    "deletedAt": null,
+    "authors": [
+      "Toy",
+      "Jong-Taek Jeong"
+    ]
+  }
 }

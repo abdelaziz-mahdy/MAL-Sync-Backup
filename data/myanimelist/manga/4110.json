@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T15:40:56.000Z",
-  "updatedAt": "2022-02-02T21:51:14.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T03:06:45.000Z",
+  "checkedAt": "2022-06-12T03:06:45.000Z",
   "id": 4110,
   "type": "manga",
   "title": "Cronos Haze",
@@ -18,5 +18,54 @@
   "authors": [
     "Takano, Masayuki"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4d34e5e5-2526-4d46-96cf-782b09988ab1": {
+        "createdAt": "2020-10-12T16:05:34.000Z",
+        "updatedAt": "2021-12-03T13:49:59.000Z",
+        "checkedAt": null,
+        "id": 6655,
+        "identifier": "4d34e5e5-2526-4d46-96cf-782b09988ab1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cronos Haze",
+        "url": "https://mangadex.org/title/4d34e5e5-2526-4d46-96cf-782b09988ab1",
+        "image": "https://uploads.mangadex.org/covers/4d34e5e5-2526-4d46-96cf-782b09988ab1/6e60f0c9-e0f9-4cf0-83ec-55fc0d45754f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4110,
+        "aniId": 34110,
+        "deletedAt": null,
+        "authors": [
+          "Takano Masayuki"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-sd960960": {
+        "createdAt": "2021-08-02T21:21:25.000Z",
+        "updatedAt": "2022-02-02T21:52:44.000Z",
+        "checkedAt": null,
+        "id": 83636,
+        "identifier": "manga-sd960960",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cronos Haze",
+        "url": "https://manganato.com/manga-sd960960",
+        "image": "https://avt.mkklcdnv6temp.com/21/i/7-1583477061.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4110,
+        "aniId": 34110,
+        "deletedAt": null,
+        "authors": [
+          "Takano Masayuki"
+        ]
+      }
+    }
+  }
 }

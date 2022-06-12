@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:48:01.423Z",
-  "updatedAt": "2022-05-13T12:48:01.423Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T04:13:43.000Z",
+  "checkedAt": "2022-06-12T04:13:43.000Z",
   "id": 99395,
   "type": "manga",
   "title": "Liquor & Cigarette",
@@ -15,12 +15,83 @@
   "url": "https://anilist.co/manga/99395",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99395-3DkqwKcR6r6Y.jpg",
   "category": "manga",
-  "hentai": false,
+  "hentai": true,
   "externalLinks": [],
   "malId": 102516,
   "deletedAt": null,
   "authors": [
     "Ranmaru Zaria"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6c1c3278-86e1-41ab-a6e2-9296f5e89c0e": {
+        "createdAt": "2020-10-12T16:10:30.000Z",
+        "updatedAt": "2021-12-05T01:21:10.000Z",
+        "checkedAt": null,
+        "id": 17249,
+        "identifier": "6c1c3278-86e1-41ab-a6e2-9296f5e89c0e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Liquor & Cigarette",
+        "url": "https://mangadex.org/title/6c1c3278-86e1-41ab-a6e2-9296f5e89c0e",
+        "image": "https://uploads.mangadex.org/covers/6c1c3278-86e1-41ab-a6e2-9296f5e89c0e/f7564c2b-5428-418e-bf9c-4917d0dae865.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 102516,
+        "aniId": 99395,
+        "deletedAt": null,
+        "authors": [
+          "Zariya Ranmaru"
+        ]
+      },
+      "80174ace-fbc1-41e2-b904-8d227692d11f": {
+        "createdAt": "2020-10-12T16:19:30.000Z",
+        "updatedAt": "2021-12-07T22:12:30.000Z",
+        "checkedAt": null,
+        "id": 35306,
+        "identifier": "80174ace-fbc1-41e2-b904-8d227692d11f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Liquor Gummies",
+        "url": "https://mangadex.org/title/80174ace-fbc1-41e2-b904-8d227692d11f",
+        "image": "https://uploads.mangadex.org/covers/80174ace-fbc1-41e2-b904-8d227692d11f/5a78f779-524b-4696-9294-6ba5b7003800.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 102516,
+        "aniId": 99395,
+        "deletedAt": null,
+        "authors": [
+          "抽筋可乐_Alice"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-xa975309": {
+        "createdAt": "2021-06-15T15:27:43.000Z",
+        "updatedAt": "2021-12-15T16:19:35.000Z",
+        "checkedAt": null,
+        "id": 78307,
+        "identifier": "manga-xa975309",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Liquor & Cigarette",
+        "url": "https://manganato.com/manga-xa975309",
+        "image": "https://avt.mkklcdnv6temp.com/7/y/15-1583491750.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 102516,
+        "aniId": 99395,
+        "deletedAt": null,
+        "authors": [
+          "Zaria"
+        ]
+      }
+    }
+  }
 }

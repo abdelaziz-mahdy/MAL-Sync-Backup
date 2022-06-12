@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-07T08:20:00.000Z",
-  "updatedAt": "2021-12-07T08:46:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T03:05:02.000Z",
+  "checkedAt": "2022-06-12T03:05:02.000Z",
   "id": 114959,
   "type": "manga",
   "title": "Nakimushi Yowamushi Shokatsu Koumei",
@@ -25,5 +25,56 @@
     "Sakemi, Kenichi",
     "Iori, Tabasa"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4d064ded-b3ac-4d78-b4b2-12984bf4a97b": {
+        "createdAt": "2020-10-12T16:17:29.000Z",
+        "updatedAt": "2021-12-07T10:18:52.000Z",
+        "checkedAt": null,
+        "id": 31204,
+        "identifier": "4d064ded-b3ac-4d78-b4b2-12984bf4a97b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cowardly Crybaby Shokatsu Koumei",
+        "url": "https://mangadex.org/title/4d064ded-b3ac-4d78-b4b2-12984bf4a97b",
+        "image": "https://uploads.mangadex.org/covers/4d064ded-b3ac-4d78-b4b2-12984bf4a97b/33040efe-d791-4840-b3e3-69e92967bac2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 114959,
+        "aniId": null,
+        "deletedAt": null,
+        "authors": [
+          "Sakemi Kenichi",
+          "Iori Tabasa"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-gk983393": {
+        "createdAt": "2021-12-31T11:25:42.000Z",
+        "updatedAt": "2021-12-31T11:25:42.000Z",
+        "checkedAt": null,
+        "id": 93998,
+        "identifier": "manga-gk983393",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cowardly Crybaby Shokatsu Koumei",
+        "url": "https://readmanganato.com/manga-gk983393",
+        "image": "https://avt.mkklcdnv6temp.com/36/w/19-1583500528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 114959,
+        "aniId": null,
+        "deletedAt": null,
+        "authors": [
+          "Tabasa Iori",
+          "Kenichi Sakemi"
+        ]
+      }
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T15:42:53.000Z",
-  "updatedAt": "2022-04-29T21:02:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T12:24:00.000Z",
+  "checkedAt": "2022-06-12T12:24:00.000Z",
   "id": 20882,
   "type": "manga",
   "title": "Kaichuu!",
@@ -24,5 +24,54 @@
   "authors": [
     "Hayashi, Yuuki"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "dca1e0a8-15b8-4ce8-95ef-a713325e87a0": {
+        "createdAt": "2020-10-12T16:02:23.000Z",
+        "updatedAt": "2021-12-02T06:47:07.000Z",
+        "checkedAt": null,
+        "id": 19,
+        "identifier": "dca1e0a8-15b8-4ce8-95ef-a713325e87a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaichuu!",
+        "url": "https://mangadex.org/title/dca1e0a8-15b8-4ce8-95ef-a713325e87a0",
+        "image": "https://uploads.mangadex.org/covers/dca1e0a8-15b8-4ce8-95ef-a713325e87a0/0c1a1d1c-d6af-4772-b70c-ede5ff3a14b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20882,
+        "aniId": 50882,
+        "deletedAt": null,
+        "authors": [
+          "Hayashi Yuuki"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-pi966643": {
+        "createdAt": "2022-04-29T21:02:37.000Z",
+        "updatedAt": "2022-04-29T21:30:23.000Z",
+        "checkedAt": null,
+        "id": 102305,
+        "identifier": "manga-pi966643",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kaichu!",
+        "url": "https://manganato.com/manga-pi966643",
+        "image": "https://avt.mkklcdnv6temp.com/49/g/10-1583483953.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20882,
+        "aniId": 50882,
+        "deletedAt": null,
+        "authors": [
+          "Hayashi Yuuki"
+        ]
+      }
+    }
+  }
 }
