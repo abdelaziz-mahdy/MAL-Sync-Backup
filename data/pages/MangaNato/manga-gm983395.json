@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-13T01:08:22.000Z",
-  "updatedAt": "2022-05-19T12:00:15.000Z",
+  "updatedAt": "2022-06-14T05:20:00.000Z",
   "checkedAt": "2022-05-19T12:00:15.000Z",
   "id": 78008,
   "identifier": "manga-gm983395",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148050,
+  "aniId": 112653,
   "deletedAt": null,
   "authors": [
     "Suyeong Han",
     "Dogyung Lee"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-13T01:30:04.186Z",
+    "updatedAt": "2022-06-13T01:30:04.186Z",
+    "checkedAt": "2022-06-13T01:30:04.000Z",
+    "id": 148050,
+    "type": "manga",
+    "title": "His Majesty's Secret Heroine",
+    "altTitle": [
+      "Yeon Lokheun",
+      "His Majesty's Secret Heroine",
+      "연록흔"
+    ],
+    "url": "https://myanimelist.net/manga/148050/His_Majestys_Secret_Heroine",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262698.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/51793959"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Soo-young",
+      "Lee, Do-kyung"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:01.579Z",
+    "updatedAt": "2022-06-14T05:14:10.000Z",
+    "checkedAt": "2022-06-14T05:14:10.000Z",
+    "id": 112653,
+    "type": "manga",
+    "title": "Yeon Lok Heun",
+    "altTitle": [
+      "His Majesty's Secret Heroine",
+      "연록흔"
+    ],
+    "url": "https://anilist.co/manga/112653",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112653-rsmOiWLtIZRo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148050,
+    "deletedAt": null,
+    "authors": [
+      "Soo-young Han",
+      "Do-Kyung Lee"
+    ]
+  }
 }

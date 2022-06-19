@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-24T21:00:36.417Z",
-  "updatedAt": "2022-05-24T21:00:36.000Z",
+  "updatedAt": "2022-06-17T09:20:00.000Z",
   "checkedAt": "2022-05-24T21:00:36.000Z",
   "id": 105301,
   "identifier": "622357dd-d603-4fcd-931f-9f7ac44940eb",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148173,
+  "aniId": 138570,
   "deletedAt": null,
   "authors": [
     "Kim Dazzi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-16T08:00:13.635Z",
+    "updatedAt": "2022-06-16T08:00:13.635Z",
+    "checkedAt": "2022-06-16T08:00:13.000Z",
+    "id": 148173,
+    "type": "manga",
+    "title": "Tacit",
+    "altTitle": [
+      "Tacit",
+      "태시트"
+    ],
+    "url": "https://myanimelist.net/manga/148173/Tacit",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262939.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=766966"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Dazzi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:00.406Z",
+    "updatedAt": "2022-06-17T08:55:19.000Z",
+    "checkedAt": "2022-06-17T08:55:19.000Z",
+    "id": 138570,
+    "type": "manga",
+    "title": "TACIT",
+    "altTitle": [
+      "TACIT",
+      "태시트"
+    ],
+    "url": "https://anilist.co/manga/138570",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138570-XFxujigPuQMu.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148173,
+    "deletedAt": null,
+    "authors": [
+      "Dazzi Kim"
+    ]
+  }
 }

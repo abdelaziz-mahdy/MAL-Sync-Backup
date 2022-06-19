@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:07:45.000Z",
-  "updatedAt": "2021-12-04T05:21:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-13T20:20:00.000Z",
+  "checkedAt": "2022-06-13T18:00:15.000Z",
   "id": 11271,
   "identifier": "31277fc7-9a89-4f53-a379-3f5dd44ddeca",
   "type": "manga",
@@ -12,14 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 79173,
+  "aniId": 85857,
   "deletedAt": null,
   "authors": [
     "Sunrise",
     "Takeshita Kenjirou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:33.000Z",
+    "updatedAt": "2022-05-15T02:21:34.000Z",
+    "checkedAt": "2022-05-15T02:21:34.000Z",
+    "id": 79173,
+    "type": "manga",
+    "title": "Cross Ange: Tenshi to Ryuu no Rondo",
+    "altTitle": [
+      "Cross Ange: Tenshi to Ryuu no Rinbu",
+      "Cross Ange: Rondo of Angels and Dragons",
+      "クロスアンジュ 天使と竜の輪舞〈ロンド〉"
+    ],
+    "url": "https://myanimelist.net/manga/79173/Cross_Ange__Tenshi_to_Ryuu_no_Rondo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/148231.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CW01000037010000_68/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5_%E5%A4%A9%E4%BD%BF%E3%81%A8%E7%AB%9C%E3%81%AE%E8%BC%AA%E8%88%9E"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yatate, Hajime",
+      "Takeshita, Kenjirou",
+      "Higuchi, Tatsuto"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:17.164Z",
+    "updatedAt": "2022-05-17T04:53:31.000Z",
+    "checkedAt": "2022-05-17T04:53:31.000Z",
+    "id": 85857,
+    "type": "manga",
+    "title": "Cross Ange: Tenshi to Ryuu no Rondo",
+    "altTitle": [
+      "クロスアンジュ 天使と竜の輪舞",
+      "Cross Ange - Rondo of Angels and Dragons",
+      "クロスアンジュ 天使と竜の輪舞〈ロンド〉"
+    ],
+    "url": "https://anilist.co/manga/85857",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85857-4qiYfWnWJH9u.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 79173,
+    "deletedAt": null,
+    "authors": [
+      "Hajime Yatate",
+      "Kenjirou Takeshita",
+      "Tatsuto Higuchi"
+    ]
+  }
 }

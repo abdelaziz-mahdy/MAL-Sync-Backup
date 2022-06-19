@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:18:28.000Z",
-  "updatedAt": "2021-12-07T19:50:15.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T20:00:56.000Z",
+  "checkedAt": "2022-06-12T20:00:31.000Z",
   "id": 33228,
   "identifier": "67775d70-4007-4358-9bd4-d5dc79c9e280",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148029,
   "aniId": 115524,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "Song Seori",
     "Gamunbi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-12T20:00:26.638Z",
+    "updatedAt": "2022-06-12T20:00:26.638Z",
+    "checkedAt": "2022-06-12T20:00:26.000Z",
+    "id": 148029,
+    "type": "manga",
+    "title": "Lamia Orphe is Dead",
+    "altTitle": [
+      "Lamia Orphe-ga Jugeotda",
+      "Lamia Orphe is Dead",
+      "라미아 오르페가 죽었다"
+    ],
+    "url": "https://myanimelist.net/manga/148029/Lamia_Orphe_is_Dead",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262676.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54378450"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Song, Seori",
+      "Gamunbi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:48:14.235Z",
-    "updatedAt": "2022-05-19T04:06:05.000Z",
-    "checkedAt": "2022-05-19T04:06:05.000Z",
+    "updatedAt": "2022-06-14T05:14:31.000Z",
+    "checkedAt": "2022-06-14T05:14:31.000Z",
     "id": 115524,
     "type": "manga",
     "title": "Lamia Orphe Jugeossda",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148029,
     "deletedAt": null,
     "authors": [
       "Gamunbi",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:12.000Z",
-  "updatedAt": "2022-04-29T22:32:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-16T15:38:35.000Z",
+  "checkedAt": "2022-06-15T21:30:17.000Z",
   "id": 36725,
   "identifier": "3deba31a-3242-4d07-add5-22de2fa7d089",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148160,
   "aniId": 121327,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,41 @@
     "Shinmallang",
     "Jestkyo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-15T21:30:17.189Z",
+    "updatedAt": "2022-06-15T21:30:17.189Z",
+    "checkedAt": "2022-06-15T21:30:17.000Z",
+    "id": 148160,
+    "type": "manga",
+    "title": "A Villain Demands to Be Loved",
+    "altTitle": [
+      "The Villain Demands I Love Him",
+      "I'm Being Forced to Love by a Villain",
+      "Akdang-ege Sarang-eul Gangyobatgo Itseumnida",
+      "A Villain Demands to Be Loved",
+      "악당에게 사랑을 강요받고 있습니다"
+    ],
+    "url": "https://myanimelist.net/manga/148160/A_Villain_Demands_to_Be_Loved",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262896.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55136850"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Omijacheong",
+      "Shinmallang"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:05:11.419Z",
-    "updatedAt": "2022-05-17T19:21:03.000Z",
-    "checkedAt": "2022-05-17T19:21:03.000Z",
+    "updatedAt": "2022-06-17T08:54:14.000Z",
+    "checkedAt": "2022-06-17T08:54:14.000Z",
     "id": 121327,
     "type": "manga",
     "title": "Akdangege Sarangeul Gangyobatgo Itseumnida",
@@ -41,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148160,
     "deletedAt": null,
     "authors": [
       "Shinmallang",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-13T21:39:10.000Z",
-  "updatedAt": "2021-12-09T11:34:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T07:57:28.000Z",
+  "checkedAt": "2022-06-14T19:00:36.000Z",
   "id": 65522,
   "identifier": "arcane-sniper",
   "type": "manga",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148108,
   "aniId": 129918,
   "deletedAt": null,
   "authors": [
     "LEE Subaek"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-14T19:00:15.288Z",
+    "updatedAt": "2022-06-14T19:00:15.288Z",
+    "checkedAt": "2022-06-14T19:00:15.000Z",
+    "id": 148108,
+    "type": "manga",
+    "title": "Mystic Musketeer",
+    "altTitle": [
+      "Arcane Sniper",
+      "Matan-ui Sasu",
+      "Mystic Musketeer",
+      "마탄의 사수"
+    ],
+    "url": "https://myanimelist.net/manga/148108/Mystic_Musketeer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262802.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56520811"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Subaek",
+      "Glpi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:56.298Z",
-    "updatedAt": "2022-05-16T00:21:16.000Z",
-    "checkedAt": "2022-05-16T00:21:16.000Z",
+    "updatedAt": "2022-06-15T08:01:26.000Z",
+    "checkedAt": "2022-06-15T08:01:26.000Z",
     "id": 129918,
     "type": "manga",
     "title": "Matan-ui Sasu",
@@ -39,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148108,
     "deletedAt": null,
     "authors": [
       "Syaimel",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:58:18.762Z",
-  "updatedAt": "2022-06-06T12:20:23.000Z",
-  "checkedAt": "2022-06-06T12:20:23.000Z",
+  "updatedAt": "2022-06-14T05:14:19.000Z",
+  "checkedAt": "2022-06-14T05:14:19.000Z",
   "id": 117923,
   "type": "manga",
   "title": "Hwangbinim? Hwangbinim!",
@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148069,
   "deletedAt": null,
   "authors": [
     "Eun-Tae Seong",
@@ -28,8 +28,8 @@
     "Mangadex": {
       "551c987c-fe56-41b1-98f8-fbc87f4048da": {
         "createdAt": "2020-10-12T16:17:38.000Z",
-        "updatedAt": "2021-12-07T10:19:27.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-06-14T05:11:12.000Z",
+        "checkedAt": "2022-06-13T21:03:03.000Z",
         "id": 31542,
         "identifier": "551c987c-fe56-41b1-98f8-fbc87f4048da",
         "type": "manga",
@@ -40,8 +40,8 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 148069,
         "aniId": 117923,
         "deletedAt": null,
         "authors": [
@@ -72,6 +72,31 @@
         "deletedAt": null,
         "authors": [
           "Seong Euntae"
+        ]
+      }
+    },
+    "MangaFox": {
+      "empress_empress": {
+        "createdAt": "2022-06-13T21:03:19.612Z",
+        "updatedAt": "2022-06-14T05:20:00.000Z",
+        "checkedAt": "2022-06-13T21:03:19.000Z",
+        "id": 107244,
+        "identifier": "empress_empress",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Empress? Empress!",
+        "url": "https://fanfox.net/manga/empress_empress/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38603/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 148069,
+        "aniId": 117923,
+        "deletedAt": null,
+        "authors": [
+          "kkiming",
+          "SEONG Eun-tae"
         ]
       }
     }

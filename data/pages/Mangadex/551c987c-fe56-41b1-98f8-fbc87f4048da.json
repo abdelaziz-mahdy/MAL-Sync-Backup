@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:38.000Z",
-  "updatedAt": "2021-12-07T10:19:27.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-14T05:11:12.000Z",
+  "checkedAt": "2022-06-13T21:03:03.000Z",
   "id": 31542,
   "identifier": "551c987c-fe56-41b1-98f8-fbc87f4048da",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148069,
   "aniId": 117923,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Kkiming",
     "N'oah"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-13T21:03:04.351Z",
+    "updatedAt": "2022-06-13T21:03:04.351Z",
+    "checkedAt": "2022-06-13T21:03:04.000Z",
+    "id": 148069,
+    "type": "manga",
+    "title": "Empress? Empress!",
+    "altTitle": [
+      "I Don't Want to Be Empress!",
+      "Hwangbi-nim? Hwangbi-nim!",
+      "Empress? Empress!",
+      "황비님? 황비님!"
+    ],
+    "url": "https://myanimelist.net/manga/148069/Empress_Empress",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262729.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/53439714"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kkiming",
+      "N'oah"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:58:18.762Z",
-    "updatedAt": "2022-06-06T12:20:23.000Z",
-    "checkedAt": "2022-06-06T12:20:23.000Z",
+    "updatedAt": "2022-06-14T05:14:19.000Z",
+    "checkedAt": "2022-06-14T05:14:19.000Z",
     "id": 117923,
     "type": "manga",
     "title": "Hwangbinim? Hwangbinim!",
@@ -41,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148069,
     "deletedAt": null,
     "authors": [
       "Eun-Tae Seong",

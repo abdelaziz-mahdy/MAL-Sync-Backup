@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-12T06:25:42.000Z",
-  "updatedAt": "2022-05-22T20:00:28.000Z",
+  "updatedAt": "2022-06-17T09:20:00.000Z",
   "checkedAt": "2022-05-22T20:00:28.000Z",
   "id": 71705,
   "identifier": "the-tyrants-tutor",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148157,
+  "aniId": 129716,
   "deletedAt": null,
   "authors": [
     "Chae Yoohwa"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-15T21:30:13.354Z",
+    "updatedAt": "2022-06-15T21:30:13.354Z",
+    "checkedAt": "2022-06-15T21:30:13.000Z",
+    "id": 148157,
+    "type": "manga",
+    "title": "The Tyrant's Tutor",
+    "altTitle": [
+      "I'll Become the Tyrant's Tutor",
+      "Pokgun-ui Gajeonggyosa-ga Doegetseumnida",
+      "The Tyrant's Tutor",
+      "폭군의 가정교사가 되겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/148157/The_Tyrants_Tutor",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262893.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56503801"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Chae, Yuhwa",
+      "Maru Gongbang"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:50.699Z",
+    "updatedAt": "2022-06-17T08:54:41.000Z",
+    "checkedAt": "2022-06-17T08:54:41.000Z",
+    "id": 129716,
+    "type": "manga",
+    "title": "Pokgunui Gajeonggyosaga Doegetseumnida",
+    "altTitle": [
+      "The Tyrant's Tutor",
+      "폭군의 가정교사가 되겠습니다",
+      "I'll Become the Tyrant's Tutor  ",
+      "Pokgun-ui Gajeonggyosa-ga Doegetseumnida",
+      "I Became the Tyrant’s Secretary"
+    ],
+    "url": "https://anilist.co/manga/129716",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129716-ei8rAu3KCGAw.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148157,
+    "deletedAt": null,
+    "authors": [
+      "Yoo-Hwa Chae",
+      "Du-Syu"
+    ]
+  }
 }

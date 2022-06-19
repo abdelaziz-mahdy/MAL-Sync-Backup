@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-15T18:02:55.000Z",
-  "updatedAt": "2022-04-14T23:30:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T09:20:00.000Z",
+  "checkedAt": "2022-06-16T17:30:07.000Z",
   "id": 65779,
   "identifier": "974aabfb-dc1c-4753-816c-4ac120d91399",
   "type": "manga",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148207,
+  "aniId": 131366,
   "deletedAt": null,
   "authors": [
     "Lee Halin",
     "Jiya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-16T18:00:01.633Z",
+    "updatedAt": "2022-06-16T18:00:01.633Z",
+    "checkedAt": "2022-06-16T18:00:01.000Z",
+    "id": 148207,
+    "type": "manga",
+    "title": "The Return of Elena the Knight",
+    "altTitle": [
+      "Doraon Yeogisa",
+      "The Return of Elena the Knight",
+      "돌아온 여기사"
+    ],
+    "url": "https://myanimelist.net/manga/148207/The_Return_of_Elena_the_Knight",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263005.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=772691"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Harin",
+      "Haneulmireu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:28.061Z",
+    "updatedAt": "2022-06-17T08:55:02.000Z",
+    "checkedAt": "2022-06-17T08:55:02.000Z",
+    "id": 131366,
+    "type": "manga",
+    "title": "Doraon Yeogisa",
+    "altTitle": [
+      "The Return of Elena the Knight",
+      "돌아온 여기사",
+      "Return of the Female Knight",
+      "ROTFK",
+      "This Company Returned"
+    ],
+    "url": "https://anilist.co/manga/131366",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131366-TP1tWDaEOPoD.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148207,
+    "deletedAt": null,
+    "authors": [
+      "Ha-Rin Lee",
+      "Chen-Yong"
+    ]
+  }
 }

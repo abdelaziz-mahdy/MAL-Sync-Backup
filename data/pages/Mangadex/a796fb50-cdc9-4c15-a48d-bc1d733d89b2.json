@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-28T18:15:03.000Z",
-  "updatedAt": "2022-04-29T22:02:54.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T19:13:05.000Z",
+  "checkedAt": "2022-06-12T14:30:14.000Z",
   "id": 64094,
   "identifier": "a796fb50-cdc9-4c15-a48d-bc1d733d89b2",
   "type": "manga",
@@ -12,21 +12,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147995,
   "aniId": 130511,
   "deletedAt": null,
   "authors": [
-    "가빈지",
-    "앵무새",
-    "스튜디오 크힛",
-    "박정재"
+    "GaVinGe (가빈지)",
+    "Parrot Kim (앵무새)",
+    "Studio Khit (스튜디오 크힛)",
+    "Tae_A (박정재)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-12T14:30:01.777Z",
+    "updatedAt": "2022-06-12T14:30:01.777Z",
+    "checkedAt": "2022-06-12T14:30:01.000Z",
+    "id": 147995,
+    "type": "manga",
+    "title": "The Player Who Can't Level Up",
+    "altTitle": [
+      "Level Up Mothaneun Player",
+      "The Player Who Can't Level Up",
+      "레벨업 못하는 플레이어"
+    ],
+    "url": "https://myanimelist.net/manga/147995/The_Player_Who_Cant_Level_Up",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262642.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56611441"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "GaVinGe",
+      "Park, Jeongjae"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:19.819Z",
-    "updatedAt": "2022-05-13T20:06:09.000Z",
-    "checkedAt": "2022-05-13T20:06:09.000Z",
+    "updatedAt": "2022-06-14T05:18:03.000Z",
+    "checkedAt": "2022-06-14T05:18:03.000Z",
     "id": 130511,
     "type": "manga",
     "title": "Level-Up Motaneun Player",
@@ -43,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147995,
     "deletedAt": null,
     "authors": [
       "Bin-Ji Ga",

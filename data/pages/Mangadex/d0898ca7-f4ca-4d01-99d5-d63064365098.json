@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:15:19.000Z",
-  "updatedAt": "2021-12-06T13:49:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T07:31:51.000Z",
+  "checkedAt": "2022-06-16T18:30:16.000Z",
   "id": 26750,
   "identifier": "d0898ca7-f4ca-4d01-99d5-d63064365098",
   "type": "manga",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148202,
   "aniId": 109270,
   "deletedAt": null,
   "authors": [
     "Yoo Soo Wan",
     "Nau"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-16T18:00:13.304Z",
+    "updatedAt": "2022-06-16T18:00:13.304Z",
+    "checkedAt": "2022-06-16T18:00:13.000Z",
+    "id": 148202,
+    "type": "manga",
+    "title": "Lady Beast",
+    "altTitle": [
+      "Lady Beast",
+      "레이디 비스트"
+    ],
+    "url": "https://myanimelist.net/manga/148202/Lady_Beast",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262999.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=51570934"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoo, Suwan",
+      "Now"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:56.306Z",
-    "updatedAt": "2022-05-27T18:44:24.000Z",
-    "checkedAt": "2022-05-27T18:44:24.000Z",
+    "updatedAt": "2022-06-17T08:53:33.000Z",
+    "checkedAt": "2022-06-17T08:53:33.000Z",
     "id": 109270,
     "type": "manga",
     "title": "Lady Beast",
@@ -40,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148202,
     "deletedAt": null,
     "authors": [
       "Now",

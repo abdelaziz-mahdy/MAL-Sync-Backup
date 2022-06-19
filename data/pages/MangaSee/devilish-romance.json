@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-23T20:45:31.000Z",
-  "updatedAt": "2022-05-13T16:24:41.000Z",
+  "updatedAt": "2022-06-17T09:20:00.000Z",
   "checkedAt": "2022-05-13T16:24:41.000Z",
   "id": 66805,
   "identifier": "devilish-romance",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148163,
+  "aniId": 127927,
   "deletedAt": null,
   "authors": [
     "LEE Kong-joo",
     "White Eagle"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-16T08:30:03.591Z",
+    "updatedAt": "2022-06-16T08:30:03.591Z",
+    "checkedAt": "2022-06-16T08:30:03.000Z",
+    "id": 148163,
+    "type": "manga",
+    "title": "Devilish Romance",
+    "altTitle": [
+      "Hell Romance",
+      "Devilish Romance",
+      "헬로맨스"
+    ],
+    "url": "https://myanimelist.net/manga/148163/Devilish_Romance",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262903.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=754872"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Kong-joo",
+      "Hayan Doksuri"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:08.454Z",
+    "updatedAt": "2022-06-17T08:54:28.000Z",
+    "checkedAt": "2022-06-17T08:54:28.000Z",
+    "id": 127927,
+    "type": "manga",
+    "title": "Hell Romance",
+    "altTitle": [
+      "Devilish Romance",
+      "헬로맨스",
+      "Devil's Romance"
+    ],
+    "url": "https://anilist.co/manga/127927",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127927-aPOoPu5u9obf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148163,
+    "deletedAt": null,
+    "authors": [
+      "Hayandogsuli",
+      "Kong-Joo Lee"
+    ]
+  }
 }

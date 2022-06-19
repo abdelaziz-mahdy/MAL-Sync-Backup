@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-24T21:19:06.000Z",
-  "updatedAt": "2022-03-24T21:57:14.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T08:20:00.000Z",
+  "checkedAt": "2022-06-14T22:00:00.000Z",
   "id": 66941,
   "identifier": "as_long_as_you_like_it",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148121,
+  "aniId": 109268,
   "deletedAt": null,
   "authors": [
     "Gwon Jeong A"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-14T22:00:01.896Z",
+    "updatedAt": "2022-06-14T22:00:01.896Z",
+    "checkedAt": "2022-06-14T22:00:01.000Z",
+    "id": 148121,
+    "type": "manga",
+    "title": "As You Like It, Margrave",
+    "altTitle": [
+      "Tteut-daero Haseyo",
+      "As You Like It, Margrave",
+      "뜻대로 하세요"
+    ],
+    "url": "https://myanimelist.net/manga/148121/As_You_Like_It_Margrave",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262833.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=50791167"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kwon, Jungah"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:45.233Z",
+    "updatedAt": "2022-06-15T07:59:00.000Z",
+    "checkedAt": "2022-06-15T07:59:00.000Z",
+    "id": 109268,
+    "type": "manga",
+    "title": "Tteusdaelo Haseyo",
+    "altTitle": [
+      "As You Like It, Margrave",
+      "뜻대로 하세요",
+      "As Long as You Like It",
+      "爵世戀人"
+    ],
+    "url": "https://anilist.co/manga/109268",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109268-uGLHYLz7lJ7U.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148121,
+    "deletedAt": null,
+    "authors": [
+      "Jeong Ah Gwon"
+    ]
+  }
 }

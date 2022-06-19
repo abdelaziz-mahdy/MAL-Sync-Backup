@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-30T13:21:58.000Z",
-  "updatedAt": "2022-06-04T18:31:10.000Z",
+  "updatedAt": "2022-06-15T08:20:00.000Z",
   "checkedAt": "2022-06-04T18:31:10.000Z",
   "id": 83353,
   "identifier": "manga-ki951465",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148124,
+  "aniId": 85142,
   "deletedAt": null,
   "authors": [
     "Kim Eun-Hyo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-14T22:30:15.458Z",
+    "updatedAt": "2022-06-14T22:30:15.458Z",
+    "checkedAt": "2022-06-14T22:30:15.000Z",
+    "id": 148124,
+    "type": "manga",
+    "title": "Soul Cartel",
+    "altTitle": [
+      "Soul Cartel",
+      "소울카르텔"
+    ],
+    "url": "https://myanimelist.net/manga/148124/Soul_Cartel",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262835.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=423384"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jiya",
+      "Haram"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:05.789Z",
+    "updatedAt": "2022-06-15T08:01:02.000Z",
+    "checkedAt": "2022-06-15T08:01:02.000Z",
+    "id": 85142,
+    "type": "manga",
+    "title": "Soul Cartel",
+    "altTitle": [
+      "Soul Cartel",
+      "소울 카르텔"
+    ],
+    "url": "https://anilist.co/manga/85142",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55142.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148124,
+    "deletedAt": null,
+    "authors": [
+      "Eunhyo Kim",
+      "Yeong-Ji Kim"
+    ]
+  }
 }

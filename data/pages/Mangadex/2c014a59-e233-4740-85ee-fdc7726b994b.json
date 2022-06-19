@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:07:39.000Z",
-  "updatedAt": "2021-12-04T04:51:09.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T08:20:00.000Z",
+  "checkedAt": "2022-06-14T19:00:22.000Z",
   "id": 11069,
   "identifier": "2c014a59-e233-4740-85ee-fdc7726b994b",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148112,
+  "aniId": 97759,
   "deletedAt": null,
   "authors": [
     "Youngpaka"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-14T19:00:25.508Z",
+    "updatedAt": "2022-06-14T19:00:25.508Z",
+    "checkedAt": "2022-06-14T19:00:25.000Z",
+    "id": 148112,
+    "type": "manga",
+    "title": "New Normal: Class 8",
+    "altTitle": [
+      "Normal Class 8",
+      "Pyeongbeomhan 8-ban",
+      "New Normal: Class 8",
+      "평범한 8반"
+    ],
+    "url": "https://myanimelist.net/manga/148112/New_Normal__Class_8",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262809.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=597478"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Youngpaca"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:44.544Z",
+    "updatedAt": "2022-06-15T08:03:29.000Z",
+    "checkedAt": "2022-06-15T08:03:29.000Z",
+    "id": 97759,
+    "type": "manga",
+    "title": "Pyeongbeomhan 8-ban",
+    "altTitle": [
+      "New Normal: Class 8",
+      "평범한 8반"
+    ],
+    "url": "https://anilist.co/manga/97759",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97759-OaFShJT5CuqB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148112,
+    "deletedAt": null,
+    "authors": [
+      "Youngpaka"
+    ]
+  }
 }

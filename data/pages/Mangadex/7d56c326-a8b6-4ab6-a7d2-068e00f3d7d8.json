@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-18T17:34:34.000Z",
-  "updatedAt": "2022-02-24T22:17:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-14T06:20:00.000Z",
+  "checkedAt": "2022-06-13T21:01:14.000Z",
   "id": 66048,
   "identifier": "7d56c326-a8b6-4ab6-a7d2-068e00f3d7d8",
   "type": "manga",
@@ -12,15 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148072,
+  "aniId": 131612,
   "deletedAt": null,
   "authors": [
     "라돌",
     "Andersen",
     "아마"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-13T21:01:16.347Z",
+    "updatedAt": "2022-06-13T21:01:16.347Z",
+    "checkedAt": "2022-06-13T21:01:16.000Z",
+    "id": 148072,
+    "type": "manga",
+    "title": "Don't Call Javotte an Evil Stepsister",
+    "altTitle": [
+      "Javotte-eul Sae Eonni-rago Bureuji Maseyo",
+      "Don't Call Javotte an Evil Stepsister",
+      "자보트를 새 언니라고 부르지 마세요"
+    ],
+    "url": "https://myanimelist.net/manga/148072/Dont_Call_Javotte_an_Evil_Stepsister",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262749.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/56669883"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Andersenlove",
+      "Ama"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:31.528Z",
+    "updatedAt": "2022-06-14T05:21:08.000Z",
+    "checkedAt": "2022-06-14T05:21:08.000Z",
+    "id": 131612,
+    "type": "manga",
+    "title": "Javotte-reul Sae Eonnirago Bureuji Maseyo",
+    "altTitle": [
+      "Don't Call Javotte an Evil Stepsister",
+      "자보트를 새 언니라고 부르지 마세요",
+      "DCMS",
+      " Don't Call Me Sister",
+      "Jaboteureul Sae Eonnirago Bureuji Maseyo",
+      "ข้าไม่ใช่พี่สาวใจร้ายสักหน่อย!"
+    ],
+    "url": "https://anilist.co/manga/131612",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131612-KGNmG6ZFCM2M.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148072,
+    "deletedAt": null,
+    "authors": [
+      "Andersen Love",
+      "A-Ma",
+      "Ra-Dol"
+    ]
+  }
 }

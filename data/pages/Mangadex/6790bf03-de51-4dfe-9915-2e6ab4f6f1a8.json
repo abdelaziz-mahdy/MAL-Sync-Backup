@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:37.000Z",
-  "updatedAt": "2021-12-05T10:19:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-12T19:13:20.000Z",
+  "checkedAt": "2022-06-12T14:30:14.000Z",
   "id": 19734,
   "identifier": "6790bf03-de51-4dfe-9915-2e6ab4f6f1a8",
   "type": "manga",
@@ -12,14 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147043,
+  "aniId": 137997,
   "deletedAt": null,
   "authors": [
     "Natsumi Yu",
     "PINTA"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-12T14:30:14.323Z",
+    "updatedAt": "2022-06-12T14:30:14.323Z",
+    "checkedAt": "2022-06-12T14:30:14.000Z",
+    "id": 147043,
+    "type": "manga",
+    "title": "Zero no Daikenja: Wakagaetta Saikyou Kenja wa Shoutai wo Kakushite Nariagaru",
+    "altTitle": [
+      "ゼロの大賢者 ～若返った最強賢者は正体を隠して成り上がる～"
+    ],
+    "url": "https://myanimelist.net/manga/147043/Zero_no_Daikenja__Wakagaetta_Saikyou_Kenja_wa_Shoutai_wo_Kakushite_Nariagaru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260352.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CW01200281010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Natsumi, Yuu",
+      "Pinta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:56.145Z",
+    "updatedAt": "2022-06-14T05:11:50.000Z",
+    "checkedAt": "2022-06-14T05:11:50.000Z",
+    "id": 137997,
+    "type": "manga",
+    "title": "Zero no Dai Kenja: Wakagaetta Saikyou Kenja wa Shoutai wo Kakushite Nariagaru",
+    "altTitle": [
+      "ゼロの大賢者 ～若返った最強賢者は正体を隠して成り上がる～"
+    ],
+    "url": "https://anilist.co/manga/137997",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137997-cO3dBvPWMDmo.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147043,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Natsumi",
+      "Iyo Yoshida",
+      "PINTA"
+    ]
+  }
 }

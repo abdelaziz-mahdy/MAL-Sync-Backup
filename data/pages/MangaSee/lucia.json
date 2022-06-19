@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-03T00:33:32.000Z",
-  "updatedAt": "2022-05-13T16:32:43.000Z",
+  "updatedAt": "2022-06-15T08:20:00.000Z",
   "checkedAt": "2022-05-13T16:32:43.000Z",
   "id": 70854,
   "identifier": "lucia",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148104,
+  "aniId": 109438,
   "deletedAt": null,
   "authors": [
     "Haneul Garigi",
     "Taruvi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-14T19:00:13.055Z",
+    "updatedAt": "2022-06-14T19:00:13.055Z",
+    "checkedAt": "2022-06-14T19:00:13.000Z",
+    "id": 148104,
+    "type": "manga",
+    "title": "Lucia",
+    "altTitle": [
+      "Lucia",
+      "루시아"
+    ],
+    "url": "https://myanimelist.net/manga/148104/Lucia",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262799.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/52638309"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Haneul Garigi",
+      "Taruvi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:54.721Z",
+    "updatedAt": "2022-06-15T07:59:03.000Z",
+    "checkedAt": "2022-06-15T07:59:03.000Z",
+    "id": 109438,
+    "type": "manga",
+    "title": "Lucia",
+    "altTitle": [
+      "Lucia",
+      "루시아",
+      "ลูเซีย เจ้าหญิงผู้ถูกลืม"
+    ],
+    "url": "https://anilist.co/manga/109438",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109438-3dMQj5GCvWel.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148104,
+    "deletedAt": null,
+    "authors": [
+      "Taruvi",
+      "Haneul Garigi"
+    ]
+  }
 }

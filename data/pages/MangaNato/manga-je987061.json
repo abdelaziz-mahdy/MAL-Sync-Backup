@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-12T03:08:39.000Z",
-  "updatedAt": "2022-02-14T00:40:00.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-16T15:38:07.000Z",
+  "checkedAt": "2022-06-16T08:00:16.000Z",
   "id": 77842,
   "identifier": "manga-je987061",
   "type": "manga",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148170,
   "aniId": 125653,
   "deletedAt": null,
   "authors": [
     "수색영장"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-16T08:00:05.757Z",
+    "updatedAt": "2022-06-16T08:00:05.757Z",
+    "checkedAt": "2022-06-16T08:00:05.000Z",
+    "id": 148170,
+    "type": "manga",
+    "title": "Farmer of Spirits",
+    "altTitle": [
+      "Spirit Farmer",
+      "Jeongnyeong Nongsakkun",
+      "Farmer of Spirits",
+      "정령 농사꾼"
+    ],
+    "url": "https://myanimelist.net/manga/148170/Farmer_of_Spirits",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262929.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55541933"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Susaegyeongjang",
+      "Gusigi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:52.500Z",
-    "updatedAt": "2022-05-15T20:39:23.000Z",
-    "checkedAt": "2022-05-15T20:39:23.000Z",
+    "updatedAt": "2022-06-17T08:54:32.000Z",
+    "checkedAt": "2022-06-17T08:54:32.000Z",
     "id": 125653,
     "type": "manga",
     "title": "Jeonglyeong Nongsakkun",
@@ -37,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148170,
     "deletedAt": null,
     "authors": [
       "Gusigi",

@@ -1,19 +1,19 @@
 {
   "createdAt": "2021-03-02T14:20:55.000Z",
-  "updatedAt": "2022-01-21T09:00:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-16T15:40:00.000Z",
+  "checkedAt": "2022-06-15T18:31:29.000Z",
   "id": 64329,
   "identifier": "138bec6a-f95b-48b9-8c55-fe5a254ac819",
   "type": "manga",
   "page": "Mangadex",
-  "title": "What It Means to be You",
+  "title": "What It Means to Be You",
   "url": "https://mangadex.org/title/138bec6a-f95b-48b9-8c55-fe5a254ac819",
-  "image": "https://uploads.mangadex.org/covers/138bec6a-f95b-48b9-8c55-fe5a254ac819/77206bb9-503a-498a-a0f5-227499a7f104.jpg",
+  "image": "https://uploads.mangadex.org/covers/138bec6a-f95b-48b9-8c55-fe5a254ac819/671b4531-103a-4b71-b02b-65e5a1416586.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148149,
   "aniId": 130660,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Ocean",
     "Ranyong"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-15T18:30:13.605Z",
+    "updatedAt": "2022-06-15T18:30:13.605Z",
+    "checkedAt": "2022-06-15T18:30:13.000Z",
+    "id": 148149,
+    "type": "manga",
+    "title": "What It Means to Be You",
+    "altTitle": [
+      "To Help You Understand",
+      "Dangsinui Ihae-reul Dopgi Wihayeo",
+      "What It Means to Be You",
+      "당신의 이해를 돕기 위하여"
+    ],
+    "url": "https://myanimelist.net/manga/148149/What_It_Means_to_Be_You",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262878.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56657309"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Bora",
+      "Ocean"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:52:36.935Z",
-    "updatedAt": "2022-05-22T21:36:26.000Z",
-    "checkedAt": "2022-05-22T21:36:26.000Z",
+    "updatedAt": "2022-06-17T08:55:05.000Z",
+    "checkedAt": "2022-06-17T08:55:05.000Z",
     "id": 130660,
     "type": "manga",
     "title": "Dangsinui Ihaereul Dopgi Wihayeo",
@@ -39,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148149,
     "deletedAt": null,
     "authors": [
       "Ra-Nyong",

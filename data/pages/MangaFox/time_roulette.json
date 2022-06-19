@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-04T03:38:10.000Z",
-  "updatedAt": "2022-02-12T22:10:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-14T05:20:00.000Z",
+  "checkedAt": "2022-06-12T15:30:00.000Z",
   "id": 80811,
   "identifier": "time_roulette",
   "type": "manga",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148026,
+  "aniId": 138576,
   "deletedAt": null,
   "authors": [
     "Choi Yegyoon",
     "[Add]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-12T15:30:01.507Z",
+    "updatedAt": "2022-06-12T15:30:01.507Z",
+    "checkedAt": "2022-06-12T15:30:01.000Z",
+    "id": 148026,
+    "type": "manga",
+    "title": "Time Roulette",
+    "altTitle": [
+      "Time Roulette",
+      "타임룰렛"
+    ],
+    "url": "https://myanimelist.net/manga/148026/Time_Roulette",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262670.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/57179774"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Choi, Ye-gyun",
+      "Bae, Samgong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:53.294Z",
+    "updatedAt": "2022-06-14T05:19:06.000Z",
+    "checkedAt": "2022-06-14T05:19:06.000Z",
+    "id": 138576,
+    "type": "manga",
+    "title": "Time Roulette",
+    "altTitle": [
+      "Time Roulette",
+      "타임룰렛"
+    ],
+    "url": "https://anilist.co/manga/138576",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138576-nnYMV5yzw446.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148026,
+    "deletedAt": null,
+    "authors": [
+      "Ye-Gyun Choi",
+      "Samgong Bae",
+      "Sinyu"
+    ]
+  }
 }

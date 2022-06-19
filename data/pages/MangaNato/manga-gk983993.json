@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-03T04:00:54.000Z",
-  "updatedAt": "2022-01-14T11:41:42.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T09:20:00.000Z",
+  "checkedAt": "2022-06-15T18:00:37.000Z",
   "id": 76025,
   "identifier": "manga-gk983993",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148145,
+  "aniId": 121286,
   "deletedAt": null,
   "authors": [
     "Woo Na Young"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-15T18:00:01.603Z",
+    "updatedAt": "2022-06-15T18:00:01.603Z",
+    "checkedAt": "2022-06-15T18:00:01.000Z",
+    "id": 148145,
+    "type": "manga",
+    "title": "Elskar",
+    "altTitle": [
+      "Elscar",
+      "Elskar",
+      "엘스카르"
+    ],
+    "url": "https://myanimelist.net/manga/148145/Elskar",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262872.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Woo, Na-young"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:30.198Z",
+    "updatedAt": "2022-06-17T08:53:57.000Z",
+    "checkedAt": "2022-06-17T08:53:57.000Z",
+    "id": 121286,
+    "type": "manga",
+    "title": "Elskar",
+    "altTitle": [
+      "Elskar",
+      "엘스카르",
+      "Elseukareu",
+      "Elskar อัญมณีแห่งคำมั่นสัญญา"
+    ],
+    "url": "https://anilist.co/manga/121286",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121286-KfebHXptTqS5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148145,
+    "deletedAt": null,
+    "authors": [
+      "Na Young Woo"
+    ]
+  }
 }

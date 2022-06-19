@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-04-28T09:51:01.000Z",
-  "updatedAt": "2022-02-03T05:50:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T08:20:00.000Z",
+  "checkedAt": "2022-06-15T18:00:35.000Z",
   "id": 70423,
   "identifier": "a-tyrants-first-love",
   "type": "manga",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148143,
+  "aniId": 114521,
   "deletedAt": null,
   "authors": [
     "Chihuahua",
     "Kim Su-oh"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-15T18:00:15.322Z",
+    "updatedAt": "2022-06-15T18:00:15.322Z",
+    "checkedAt": "2022-06-15T18:00:15.000Z",
+    "id": 148143,
+    "type": "manga",
+    "title": "A Tyrant's First Love",
+    "altTitle": [
+      "Pokgun Hwangje-ui Cheotsarang",
+      "A Tyrant's First Love",
+      "폭군황제의 첫사랑"
+    ],
+    "url": "https://myanimelist.net/manga/148143/A_Tyrants_First_Love",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262870.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54103714"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Suo",
+      "Chiwa"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:19.637Z",
+    "updatedAt": "2022-06-17T07:55:28.000Z",
+    "checkedAt": "2022-06-17T07:55:28.000Z",
+    "id": 114521,
+    "type": "manga",
+    "title": "Pokgunhangjeui Jeotsarang",
+    "altTitle": [
+      "A Tyrant's First Love",
+      "폭군황제의 첫사랑",
+      "The Tyrant's First Love",
+      "Poggun Hwangje-ui Cheos-salang",
+      " 侍女的帝君"
+    ],
+    "url": "https://anilist.co/manga/114521",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114521-yM5a0taf7X2b.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148143,
+    "deletedAt": null,
+    "authors": [
+      "Su-O Kim",
+      "Chiwa"
+    ]
+  }
 }

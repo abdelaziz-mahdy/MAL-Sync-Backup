@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:45.000Z",
-  "updatedAt": "2022-02-12T02:09:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T15:20:00.000Z",
+  "checkedAt": "2022-06-15T08:30:09.000Z",
   "id": 37852,
   "identifier": "2177b7e5-6ac8-4feb-bb50-59fa5bc27a99",
   "type": "manga",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 144353,
+  "aniId": 117942,
   "deletedAt": null,
   "authors": [
     "Amara",
     "Sasaki Izumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-15T08:30:09.448Z",
+    "updatedAt": "2022-06-15T08:30:09.448Z",
+    "checkedAt": "2022-06-15T08:30:09.000Z",
+    "id": 144353,
+    "type": "manga",
+    "title": "Neko to Ryuu",
+    "altTitle": [
+      "The Cat and the Dragon",
+      "猫と竜"
+    ],
+    "url": "https://myanimelist.net/manga/144353/Neko_to_Ryuu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256353.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://konomanga.jp/manga/nekoryuu"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Amara",
+      "Sasaki, Izumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:01.536Z",
+    "updatedAt": "2022-05-13T13:00:01.536Z",
+    "checkedAt": null,
+    "id": 117942,
+    "type": "manga",
+    "title": "Neko to Ryuu",
+    "altTitle": [
+      "猫と竜"
+    ],
+    "url": "https://anilist.co/manga/117942",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117942-N0Mou273d16e.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144353,
+    "deletedAt": null,
+    "authors": [
+      "Amara",
+      "Izumi Sasaki",
+      "Mai Ookuma"
+    ]
+  }
 }

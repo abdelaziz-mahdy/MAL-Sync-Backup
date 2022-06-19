@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:07:32.000Z",
-  "updatedAt": "2021-12-04T03:50:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T08:20:00.000Z",
+  "checkedAt": "2022-06-14T18:00:14.000Z",
   "id": 10826,
   "identifier": "da377928-3106-4e7a-b4d1-367c72249e8f",
   "type": "manga",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 80495,
+  "aniId": 93026,
   "deletedAt": null,
   "authors": [
     "Kancolle Administration Chinjufu",
     "Hiroichi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2022-06-13T19:00:53.000Z",
+    "checkedAt": "2022-06-13T19:00:53.000Z",
+    "id": 80495,
+    "type": "manga",
+    "title": "Kantai Collection: Tomarigi no Chinjufu",
+    "altTitle": [
+      "KanColle",
+      "艦隊これくしょん -艦これ- 止まり木の鎮守府"
+    ],
+    "url": "https://myanimelist.net/manga/80495/Kantai_Collection__Tomarigi_no_Chinjufu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/202183.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hiroichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:22.726Z",
+    "updatedAt": "2022-06-13T19:00:51.000Z",
+    "checkedAt": "2022-06-13T19:00:51.000Z",
+    "id": 93026,
+    "type": "manga",
+    "title": "Kantai Collection: Tomarigi no Chinjufu",
+    "altTitle": [
+      "艦隊これくしょん -艦これ- 止まり木の鎮守府",
+      "KanColle",
+      "Kankore"
+    ],
+    "url": "https://anilist.co/manga/93026",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93026-XJxvrAAEARbO.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 80495,
+    "deletedAt": null,
+    "authors": [
+      "Hiroichi"
+    ]
+  }
 }

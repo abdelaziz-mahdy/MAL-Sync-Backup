@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-22T08:18:32.000Z",
-  "updatedAt": "2022-02-22T08:18:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T09:20:00.000Z",
+  "checkedAt": "2022-06-16T08:00:15.000Z",
   "id": 96597,
   "identifier": "i_woke_up_as_the_villain",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148175,
+  "aniId": 126298,
   "deletedAt": null,
   "authors": [
     "So yu hyun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-16T08:00:15.213Z",
+    "updatedAt": "2022-06-16T08:00:15.213Z",
+    "checkedAt": "2022-06-16T08:00:15.000Z",
+    "id": 148175,
+    "type": "manga",
+    "title": "I Woke Up as the Villain",
+    "altTitle": [
+      "Trapped in a Webnovel as a Good for Nothing",
+      "Na Honja Soseol Sok Mangnani",
+      "I Woke Up as the Villain",
+      "나 혼자 소설 속 망나니"
+    ],
+    "url": "https://myanimelist.net/manga/148175/I_Woke_Up_as_the_Villain",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262941.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55452034"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Soo, Yuhyeon",
+      "Arlg"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:29.429Z",
+    "updatedAt": "2022-06-17T08:54:27.000Z",
+    "checkedAt": "2022-06-17T08:54:27.000Z",
+    "id": 126298,
+    "type": "manga",
+    "title": "Na Honja Soseol Sok Mangnani",
+    "altTitle": [
+      "I Woke Up as the Villain",
+      "나 혼자 소설 속 망나니",
+      "Trapped in a Webnovel as a Good-for-Nothing  "
+    ],
+    "url": "https://anilist.co/manga/126298",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126298-8Hy3AqaClf8Q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148175,
+    "deletedAt": null,
+    "authors": [
+      "Arlg",
+      "Yu-Hyun So"
+    ]
+  }
 }

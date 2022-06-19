@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:18:40.000Z",
-  "updatedAt": "2021-12-07T19:20:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-16T15:37:56.000Z",
+  "checkedAt": "2022-06-16T08:30:08.000Z",
   "id": 33584,
   "identifier": "2e886d68-1fb5-423b-9d09-2af0d8e0de5d",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148167,
   "aniId": 123018,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,39 @@
     "Gong Eunhwa",
     "Piak"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-16T08:00:18.728Z",
+    "updatedAt": "2022-06-16T08:00:18.728Z",
+    "checkedAt": "2022-06-16T08:00:18.000Z",
+    "id": 148167,
+    "type": "manga",
+    "title": "The Evil Cinderella Needs a Villain",
+    "altTitle": [
+      "Saakhan Cinderella-egen Akdang-i Piryohae",
+      "The Evil Cinderella Needs a Villain",
+      "사악한 신데렐라에겐 악당이 필요해"
+    ],
+    "url": "https://myanimelist.net/manga/148167/The_Evil_Cinderella_Needs_a_Villain",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262917.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53331198"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gong, Eunhwa",
+      "Bbiyak"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:56:02.625Z",
-    "updatedAt": "2022-05-15T21:02:35.000Z",
-    "checkedAt": "2022-05-15T21:02:35.000Z",
+    "updatedAt": "2022-06-17T08:54:03.000Z",
+    "checkedAt": "2022-06-17T08:54:03.000Z",
     "id": 123018,
     "type": "manga",
     "title": "Saaghan Cindirellaegen Agdai Piryohae",
@@ -41,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148167,
     "deletedAt": null,
     "authors": [
       "Eun-Hwa Gong",

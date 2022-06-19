@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:44:57.371Z",
-  "updatedAt": "2022-05-13T12:44:57.371Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-18T09:22:24.000Z",
+  "checkedAt": "2022-06-18T09:22:24.000Z",
   "id": 133931,
   "type": "manga",
   "title": "11me",
@@ -15,11 +15,61 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148225,
   "deletedAt": null,
   "authors": [
     "Jae-Yeong Yeong",
     "Ji-Ae Go"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d48e44b6-f5ec-4825-846d-4c4d64072990": {
+        "createdAt": "2020-10-12T16:19:00.000Z",
+        "updatedAt": "2022-06-18T10:20:00.000Z",
+        "checkedAt": "2022-06-17T10:00:40.000Z",
+        "id": 34321,
+        "identifier": "d48e44b6-f5ec-4825-846d-4c4d64072990",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "11 of Me",
+        "url": "https://mangadex.org/title/d48e44b6-f5ec-4825-846d-4c4d64072990",
+        "image": "https://uploads.mangadex.org/covers/d48e44b6-f5ec-4825-846d-4c4d64072990/700c13a3-903f-43df-a171-1d5298d4c7e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 148225,
+        "aniId": 133931,
+        "deletedAt": null,
+        "authors": [
+          "Ko Ji-Ae",
+          "Young Jaeyoung"
+        ]
+      }
+    },
+    "MangaFox": {
+      "11me": {
+        "createdAt": "2022-06-17T10:00:46.787Z",
+        "updatedAt": "2022-06-17T17:42:20.000Z",
+        "checkedAt": "2022-06-17T10:00:46.000Z",
+        "id": 107528,
+        "identifier": "11me",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "11me",
+        "url": "https://fanfox.net/manga/11me/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36351/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 148225,
+        "aniId": 133931,
+        "deletedAt": null,
+        "authors": [
+          "Ko Ji-Ae"
+        ]
+      }
+    }
+  }
 }

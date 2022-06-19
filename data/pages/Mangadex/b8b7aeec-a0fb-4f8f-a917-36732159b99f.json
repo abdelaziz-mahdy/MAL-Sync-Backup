@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-19T21:46:18.000Z",
-  "updatedAt": "2022-04-20T07:27:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T14:56:27.000Z",
+  "checkedAt": "2022-06-15T09:00:05.000Z",
   "id": 91045,
   "identifier": "b8b7aeec-a0fb-4f8f-a917-36732159b99f",
   "type": "manga",
@@ -12,18 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 1,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147544,
   "aniId": 139611,
   "deletedAt": null,
   "authors": [
     "Nakano Sora"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-15T09:00:05.345Z",
+    "updatedAt": "2022-06-15T09:00:05.345Z",
+    "checkedAt": "2022-06-15T09:00:05.000Z",
+    "id": 147544,
+    "type": "manga",
+    "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+    "altTitle": [
+      "A Dark Elf with a Slightly Overwhelming Love Chased Me All the Way from Another World",
+      "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた"
+    ],
+    "url": "https://myanimelist.net/manga/147544/Chotto_dake_Ai_ga_Omoi_Dark_Elf_ga_Isekai_kara_Oikaketekita",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261929.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gammaplus.takeshobo.co.jp/manga/aigaomoi_darkelf/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nakano, Sora"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:51:31.293Z",
-    "updatedAt": "2022-05-18T16:27:48.000Z",
-    "checkedAt": "2022-05-18T16:27:48.000Z",
+    "updatedAt": "2022-06-17T08:55:27.000Z",
+    "checkedAt": "2022-06-17T08:55:27.000Z",
     "id": 139611,
     "type": "manga",
     "title": "Chotto Dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
@@ -35,7 +61,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147544,
     "deletedAt": null,
     "authors": [
       "Sora Nakano"

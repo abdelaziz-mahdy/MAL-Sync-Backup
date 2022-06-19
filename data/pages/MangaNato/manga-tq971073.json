@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-09T18:05:36.000Z",
-  "updatedAt": "2021-12-09T18:34:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-16T23:20:00.000Z",
+  "checkedAt": "2022-06-16T22:30:00.000Z",
   "id": 77486,
   "identifier": "manga-tq971073",
   "type": "manga",
@@ -11,14 +11,63 @@
   "image": "https://avt.mkklcdnv6temp.com/38/u/13-1583489135.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 124145,
+  "aniId": 87416,
   "deletedAt": null,
   "authors": [
     "Hwan Daeng"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-02T17:54:21.000Z",
+    "updatedAt": "2022-05-18T07:35:03.000Z",
+    "checkedAt": "2022-05-18T07:35:03.000Z",
+    "id": 124145,
+    "type": "manga",
+    "title": "Gilgamesh",
+    "altTitle": [
+      "Epic of Gilgamesh",
+      "Ae Neulgeuni",
+      "애늙은이"
+    ],
+    "url": "https://myanimelist.net/manga/124145/Gilgamesh",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226439.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/gilgamesh"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hwan Daeng"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:21.117Z",
+    "updatedAt": "2022-05-18T07:35:02.000Z",
+    "checkedAt": "2022-05-18T07:35:02.000Z",
+    "id": 87416,
+    "type": "manga",
+    "title": "Aeneulgeuni",
+    "altTitle": [
+      "Gilgamesh",
+      "애늙은이",
+      "Epic of Gilgamesh"
+    ],
+    "url": "https://anilist.co/manga/87416",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87416-GQS10SbYums6.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 124145,
+    "deletedAt": null,
+    "authors": [
+      "Hwan-Daeng"
+    ]
+  }
 }

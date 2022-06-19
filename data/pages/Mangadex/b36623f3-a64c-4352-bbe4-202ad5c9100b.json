@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-21T09:49:57.000Z",
-  "updatedAt": "2022-02-17T20:47:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T07:56:20.000Z",
+  "checkedAt": "2022-06-14T21:00:00.000Z",
   "id": 52748,
   "identifier": "b36623f3-a64c-4352-bbe4-202ad5c9100b",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148118,
   "aniId": 126608,
   "deletedAt": null,
   "authors": [
     "신필",
     "방개"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-14T21:00:01.613Z",
+    "updatedAt": "2022-06-14T21:00:01.613Z",
+    "checkedAt": "2022-06-14T21:00:01.000Z",
+    "id": 148118,
+    "type": "manga",
+    "title": "Leveling Up Alone",
+    "altTitle": [
+      "Honja Level Up Hamnida",
+      "Leveling Up Alone",
+      "혼자 레벨업 합니다"
+    ],
+    "url": "https://myanimelist.net/manga/148118/Leveling_Up_Alone",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262826.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/55815081"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sinfeel",
+      "Banggae"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:56:36.055Z",
-    "updatedAt": "2022-05-16T11:01:49.000Z",
-    "checkedAt": "2022-05-16T11:01:49.000Z",
+    "updatedAt": "2022-06-15T08:00:59.000Z",
+    "checkedAt": "2022-06-15T08:00:59.000Z",
     "id": 126608,
     "type": "manga",
     "title": "Honja Level Up Hamnida",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148118,
     "deletedAt": null,
     "authors": [
       "Sinpil",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-09-29T22:37:02.000Z",
-  "updatedAt": "2022-03-29T23:00:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T09:20:00.000Z",
+  "checkedAt": "2022-06-16T18:00:02.000Z",
   "id": 87827,
   "identifier": "lady_beast",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148202,
+  "aniId": 109270,
   "deletedAt": null,
   "authors": [
     "Yusu Hwan"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-16T18:00:13.304Z",
+    "updatedAt": "2022-06-16T18:00:13.304Z",
+    "checkedAt": "2022-06-16T18:00:13.000Z",
+    "id": 148202,
+    "type": "manga",
+    "title": "Lady Beast",
+    "altTitle": [
+      "Lady Beast",
+      "레이디 비스트"
+    ],
+    "url": "https://myanimelist.net/manga/148202/Lady_Beast",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262999.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=51570934"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoo, Suwan",
+      "Now"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:56.306Z",
+    "updatedAt": "2022-06-17T08:53:33.000Z",
+    "checkedAt": "2022-06-17T08:53:33.000Z",
+    "id": 109270,
+    "type": "manga",
+    "title": "Lady Beast",
+    "altTitle": [
+      "Lady Beast",
+      "레이디 비스트",
+      "Lady Beast〜レディービースト〜",
+      "Леди бестия",
+      "被诅咒的婚约"
+    ],
+    "url": "https://anilist.co/manga/109270",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109270-JvRCWF3SrwmY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148202,
+    "deletedAt": null,
+    "authors": [
+      "Now",
+      "Su-Wan Yoo"
+    ]
+  }
 }

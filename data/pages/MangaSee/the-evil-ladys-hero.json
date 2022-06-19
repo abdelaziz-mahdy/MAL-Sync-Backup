@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-04-08T09:21:21.000Z",
-  "updatedAt": "2022-04-11T13:37:52.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-15T15:20:00.000Z",
+  "checkedAt": "2022-06-15T10:00:14.000Z",
   "id": 68836,
   "identifier": "the-evil-ladys-hero",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147728,
+  "aniId": 115387,
   "deletedAt": null,
   "authors": [
     "Lee Haron"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:02.320Z",
+    "updatedAt": "2022-06-07T13:00:02.320Z",
+    "checkedAt": "2022-06-07T13:00:02.000Z",
+    "id": 147728,
+    "type": "manga",
+    "title": "Villainess in Love",
+    "altTitle": [
+      "Angnyeo-ui Namju-nim",
+      "Villainess in Love",
+      "악녀의 남주님"
+    ],
+    "url": "https://myanimelist.net/manga/147728/Villainess_in_Love",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262070.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/54129892"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Haron",
+      "R Su Eopseum"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:29.352Z",
+    "updatedAt": "2022-06-08T07:52:11.000Z",
+    "checkedAt": "2022-06-08T07:52:11.000Z",
+    "id": 115387,
+    "type": "manga",
+    "title": "Angnyeoui Namjunim",
+    "altTitle": [
+      "Villainess in Love",
+      "악녀의 남주님",
+      "The Evil Lady's Hero"
+    ],
+    "url": "https://anilist.co/manga/115387",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115387-Wa1UXNXKHGYz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147728,
+    "deletedAt": null,
+    "authors": [
+      "Ha-Ron Lee",
+      "RSueopeum"
+    ]
+  }
 }

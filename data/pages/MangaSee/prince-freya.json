@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-20T10:03:44.000Z",
-  "updatedAt": "2022-01-20T10:34:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-17T18:20:00.000Z",
+  "checkedAt": "2022-06-17T17:00:14.000Z",
   "id": 59246,
   "identifier": "prince-freya",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 108897,
+  "aniId": 102419,
   "deletedAt": null,
   "authors": [
     "ISHIHARA Keiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:11.000Z",
+    "updatedAt": "2022-05-15T15:44:11.000Z",
+    "checkedAt": "2022-05-15T15:44:11.000Z",
+    "id": 108897,
+    "type": "manga",
+    "title": "Itsuwari no Freja",
+    "altTitle": [
+      "Artificial Freja",
+      "Prince Freya",
+      "偽りのフレイヤ"
+    ],
+    "url": "https://myanimelist.net/manga/108897/Itsuwari_no_Freja",
+    "image": "https://cdn.myanimelist.net/images/manga/3/208596.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ishihara, Keiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:41.938Z",
+    "updatedAt": "2022-05-15T19:04:47.000Z",
+    "checkedAt": "2022-05-15T19:04:47.000Z",
+    "id": 102419,
+    "type": "manga",
+    "title": "Itsuwari no Freja",
+    "altTitle": [
+      "Prince Freya",
+      "偽りのフレイヤ",
+      "Imitation Freja",
+      "Artificial Freja",
+      "Freya: L'ombre du prince",
+      "Freyja - Fałszywy książę"
+    ],
+    "url": "https://anilist.co/manga/102419",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102419-9tkCb3dcTRNX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 108897,
+    "deletedAt": null,
+    "authors": [
+      "Keiko Ishihara",
+      "Emi Louie-Nishikawa",
+      "John Werry"
+    ]
+  }
 }

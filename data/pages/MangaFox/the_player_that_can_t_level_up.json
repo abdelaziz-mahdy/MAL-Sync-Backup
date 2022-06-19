@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-02T16:22:24.000Z",
-  "updatedAt": "2022-05-24T16:00:00.000Z",
+  "updatedAt": "2022-06-14T05:20:00.000Z",
   "checkedAt": "2022-05-24T16:00:00.000Z",
   "id": 64336,
   "identifier": "the_player_that_can_t_level_up",
@@ -12,11 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147995,
+  "aniId": 130511,
   "deletedAt": null,
   "authors": [],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-12T14:30:01.777Z",
+    "updatedAt": "2022-06-12T14:30:01.777Z",
+    "checkedAt": "2022-06-12T14:30:01.000Z",
+    "id": 147995,
+    "type": "manga",
+    "title": "The Player Who Can't Level Up",
+    "altTitle": [
+      "Level Up Mothaneun Player",
+      "The Player Who Can't Level Up",
+      "레벨업 못하는 플레이어"
+    ],
+    "url": "https://myanimelist.net/manga/147995/The_Player_Who_Cant_Level_Up",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262642.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56611441"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "GaVinGe",
+      "Park, Jeongjae"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:19.819Z",
+    "updatedAt": "2022-06-14T05:18:03.000Z",
+    "checkedAt": "2022-06-14T05:18:03.000Z",
+    "id": 130511,
+    "type": "manga",
+    "title": "Level-Up Motaneun Player",
+    "altTitle": [
+      "The Player Who Can't Level Up",
+      "레벨업 못하는 플레이어",
+      "The Player That Can't Level Up",
+      " Player Who Can’t Level Up",
+      "เพลเยอร์เลเวลไม่อัป",
+      "无法升级的玩家"
+    ],
+    "url": "https://anilist.co/manga/130511",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130511-4O6dF8oaiVJh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147995,
+    "deletedAt": null,
+    "authors": [
+      "Bin-Ji Ga",
+      "Jeong-Jae Park",
+      "Aengmusae"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-21T15:41:01.000Z",
-  "updatedAt": "2022-06-06T12:30:16.000Z",
+  "updatedAt": "2022-06-18T10:20:00.000Z",
   "checkedAt": "2022-06-06T12:30:16.000Z",
   "id": 87422,
   "identifier": "manga-mf989688",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148212,
+  "aniId": 139339,
   "deletedAt": null,
   "authors": [
     "유야",
     "티카티카"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-17T10:00:17.284Z",
+    "updatedAt": "2022-06-17T10:00:17.284Z",
+    "checkedAt": "2022-06-17T10:00:17.000Z",
+    "id": 148212,
+    "type": "manga",
+    "title": "Into the Light, Once Again",
+    "altTitle": [
+      "Dasi Hanbeon, Bit Sogeuro",
+      "Into the Light, Once Again",
+      "다시 한번, 빛 속으로"
+    ],
+    "url": "https://myanimelist.net/manga/148212/Into_the_Light_Once_Again",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263016.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57770713"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tikatika",
+      "Yuya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:08.542Z",
+    "updatedAt": "2022-06-18T09:21:41.000Z",
+    "checkedAt": "2022-06-18T09:21:41.000Z",
+    "id": 139339,
+    "type": "manga",
+    "title": "Dasi Han Beon, Bin Sogeuro",
+    "altTitle": [
+      "Into the Light, Once Again",
+      "다시 한 번, 빛 속으로",
+      "Into the Light Once Again",
+      "Once Again Into the Light, Alone",
+      "重迎曙光"
+    ],
+    "url": "https://anilist.co/manga/139339",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139339-VnROu4poh9rw.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148212,
+    "deletedAt": null,
+    "authors": [
+      "Tikatika",
+      "Yuya"
+    ]
+  }
 }
