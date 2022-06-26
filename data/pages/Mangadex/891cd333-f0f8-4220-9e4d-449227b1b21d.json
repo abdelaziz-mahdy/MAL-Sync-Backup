@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:42.000Z",
-  "updatedAt": "2021-12-07T10:49:05.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-23T14:01:24.000Z",
+  "checkedAt": "2022-06-22T20:31:05.000Z",
   "id": 31687,
   "identifier": "891cd333-f0f8-4220-9e4d-449227b1b21d",
   "type": "manga",
@@ -12,33 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148439,
   "aniId": 120435,
   "deletedAt": null,
   "authors": [
-    "Jung Ha Rim",
+    "Jung Ha Rim (정하림)",
     "Kim Yeon Woo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-22T20:30:03.231Z",
+    "updatedAt": "2022-06-22T20:30:03.231Z",
+    "checkedAt": "2022-06-22T20:30:03.000Z",
+    "id": 148439,
+    "type": "manga",
+    "title": "Crush of a Lifetime",
+    "altTitle": [
+      "The Omniscient POV of an Unrequited Love",
+      "Jeonjijeok Jjaksarang Sijeom",
+      "Crush of a Lifetime",
+      "전지적 짝사랑 시점"
+    ],
+    "url": "https://myanimelist.net/manga/148439/Crush_of_a_Lifetime",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263394.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53930051"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jeong, Halim",
+      "Kim, Yeonwoo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:55.634Z",
-    "updatedAt": "2022-05-17T13:32:07.000Z",
-    "checkedAt": "2022-05-17T13:32:07.000Z",
+    "updatedAt": "2022-06-23T14:04:16.000Z",
+    "checkedAt": "2022-06-23T14:04:16.000Z",
     "id": 120435,
     "type": "manga",
     "title": "Jeonjijeong Jjaksarang Sijeom",
     "altTitle": [
       "Crush of a Lifetime",
       "전지적 짝사랑 시점",
-      "The Omniscient Point of View of an Unrequited Love"
+      "The Omniscient Point of View of an Unrequited Love",
+      "全知单恋视角",
+      "Crush of Lifetime",
+      "Tớ Crush Cậu Mất Rồi!"
     ],
     "url": "https://anilist.co/manga/120435",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120435-I0S0uxQ8FEXo.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148439,
     "deletedAt": null,
     "authors": [
       "Ha-Rim Jung",

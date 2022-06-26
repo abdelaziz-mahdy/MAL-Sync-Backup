@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-18T21:00:01.044Z",
-  "updatedAt": "2022-06-18T21:00:01.044Z",
+  "updatedAt": "2022-06-19T17:20:00.000Z",
   "checkedAt": "2022-06-18T21:00:01.000Z",
   "id": 107656,
   "identifier": "mukoubuchi",
@@ -11,14 +11,63 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/17309/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 47094,
+  "aniId": 77094,
   "deletedAt": null,
   "authors": [
     "AMAJISHI Etsuya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:28.000Z",
+    "updatedAt": "2022-05-14T09:30:20.000Z",
+    "checkedAt": "2022-05-14T09:30:20.000Z",
+    "id": 47094,
+    "type": "manga",
+    "title": "Mukoubuchi: Kou-Rate Uramahjong Retsuden",
+    "altTitle": [
+      "むこうぶち 高レート裏麻雀列伝"
+    ],
+    "url": "https://myanimelist.net/manga/47094/Mukoubuchi__Kou-Rate_Uramahjong_Retsuden",
+    "image": "https://cdn.myanimelist.net/images/manga/1/167471.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%80%E3%81%93%E3%81%86%E3%81%B6%E3%81%A1"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Amajishi, Etsuya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:29.117Z",
+    "updatedAt": "2022-06-19T01:13:52.000Z",
+    "checkedAt": "2022-06-19T01:13:52.000Z",
+    "id": 77094,
+    "type": "manga",
+    "title": "Mukoubuchi: Kou-Rate Uramahjong Retsuden",
+    "altTitle": [
+      "むこうぶち　高レート裏麻雀列伝",
+      "Mukoubuchi: Kou Rate Ura Maajan Retsuden",
+      "Mukoubuchi: The Tale of High-Stakes Underground Mahjong",
+      "むこうぶち",
+      "Mukoubuchi"
+    ],
+    "url": "https://anilist.co/manga/77094",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx77094-QvnQ4ZAbjUpZ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 47094,
+    "deletedAt": null,
+    "authors": [
+      "Etsuya Amajishi"
+    ]
+  }
 }

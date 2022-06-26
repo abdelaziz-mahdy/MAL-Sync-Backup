@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-31T17:01:23.000Z",
-  "updatedAt": "2022-04-01T14:04:54.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-19T17:20:00.000Z",
+  "checkedAt": "2022-06-19T02:30:05.000Z",
   "id": 100395,
   "identifier": "manga-bw978905",
   "type": "manga",
@@ -13,12 +13,56 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 114374,
+  "aniId": 103195,
   "deletedAt": null,
   "authors": [
     "Kouji Megumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:35.000Z",
+    "updatedAt": "2022-05-18T14:57:12.000Z",
+    "checkedAt": "2022-05-18T14:57:12.000Z",
+    "id": 114374,
+    "type": "manga",
+    "title": "This Man: Sono Kao wo Mita Mono ni wa Shi wo",
+    "altTitle": [
+      "This Man: Death to Those Who See That Face",
+      "This Man その顔を見た者には死を"
+    ],
+    "url": "https://myanimelist.net/manga/114374/This_Man__Sono_Kao_wo_Mita_Mono_ni_wa_Shi_wo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/210788.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Megumi, Kouji",
+      "Karin, Sora"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:28.836Z",
+    "updatedAt": "2022-05-18T14:57:10.000Z",
+    "checkedAt": "2022-05-18T14:57:10.000Z",
+    "id": 103195,
+    "type": "manga",
+    "title": "THIS MAN: Sono Kao wo Mita Mono ni wa Shi wo",
+    "altTitle": [
+      "THIS MAN その顔を見た者には死を",
+      "This Man: Death to Those Who See That Face"
+    ],
+    "url": "https://anilist.co/manga/103195",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103195-5qzNoMX38Y0M.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 114374,
+    "deletedAt": null,
+    "authors": [
+      "Sora Karin",
+      "Kouji Megumi"
+    ]
+  }
 }

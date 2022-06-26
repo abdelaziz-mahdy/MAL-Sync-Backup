@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-04-22T10:58:00.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-20T12:20:00.000Z",
+  "checkedAt": "2022-06-20T10:00:01.000Z",
   "id": 69966,
   "identifier": "spirit_blade_mountain",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 121252,
+  "aniId": 86733,
   "deletedAt": null,
   "authors": [
     "Xian Man"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:06.000Z",
+    "updatedAt": "2022-05-20T16:36:41.000Z",
+    "checkedAt": "2022-05-20T16:36:41.000Z",
+    "id": 121252,
+    "type": "manga",
+    "title": "Congqian Youzuo Lingjianshan",
+    "altTitle": [
+      "Spirit Blade Mountain",
+      "Once Upon a Time There Was a Spirit Sword Mountain",
+      "从前有座灵剑山"
+    ],
+    "url": "https://myanimelist.net/manga/121252/Congqian_Youzuo_Lingjianshan",
+    "image": "https://cdn.myanimelist.net/images/manga/2/229748.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ac.qq.com/Comic/comicInfo/id/524356"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E4%BB%8E%E5%89%8D%E6%9C%89%E5%BA%A7%E7%81%B5%E5%89%91%E5%B1%B1"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Guowang Bixia",
+      "Zhuhua",
+      "Junxiaomo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:05.703Z",
+    "updatedAt": "2022-05-20T16:36:40.000Z",
+    "checkedAt": "2022-05-20T16:36:40.000Z",
+    "id": 86733,
+    "type": "manga",
+    "title": "Ling Jian Shan",
+    "altTitle": [
+      "从前有座灵剑山",
+      "Spirit Blade Mountain"
+    ],
+    "url": "https://anilist.co/manga/86733",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b86733-yzdWUPjKNudI.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 121252,
+    "deletedAt": null,
+    "authors": []
+  }
 }

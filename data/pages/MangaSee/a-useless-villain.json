@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-19T16:02:36.000Z",
-  "updatedAt": "2022-05-13T19:31:42.000Z",
+  "updatedAt": "2022-06-23T14:20:00.000Z",
   "checkedAt": "2022-05-13T19:31:42.000Z",
   "id": 82373,
   "identifier": "a-useless-villain",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148430,
+  "aniId": 130913,
   "deletedAt": null,
   "authors": [
     "HEEN Yeoul",
     "LEE Changjun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-22T11:00:13.126Z",
+    "updatedAt": "2022-06-22T11:00:13.126Z",
+    "checkedAt": "2022-06-22T11:00:13.000Z",
+    "id": 148430,
+    "type": "manga",
+    "title": "A Useless Villain",
+    "altTitle": [
+      "Muneung Villain",
+      "A Useless Villain",
+      "무능빌런"
+    ],
+    "url": "https://myanimelist.net/manga/148430/A_Useless_Villain",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263342.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784827"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Chang Jun",
+      "Huinyeoul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:21.045Z",
+    "updatedAt": "2022-06-23T14:03:01.000Z",
+    "checkedAt": "2022-06-23T14:03:01.000Z",
+    "id": 130913,
+    "type": "manga",
+    "title": "Muneung Villain",
+    "altTitle": [
+      "A Useless Villain",
+      "무능빌런",
+      "Muneungbilleon",
+      "Incompetent Villain"
+    ],
+    "url": "https://anilist.co/manga/130913",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130913-MCYVmuqIrzoz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148430,
+    "deletedAt": null,
+    "authors": [
+      "Huinyeoul",
+      "Chang-Jun Lee"
+    ]
+  }
 }

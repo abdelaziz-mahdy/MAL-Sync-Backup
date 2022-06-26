@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T09:13:00.000Z",
-  "updatedAt": "2022-04-06T18:32:26.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-23T14:01:01.000Z",
+  "checkedAt": "2022-06-23T01:30:08.000Z",
   "id": 74409,
   "identifier": "manga-hc984585",
   "type": "manga",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148428,
   "aniId": 115240,
   "deletedAt": null,
   "authors": [
     "Hyung Min Kim"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-23T01:30:09.841Z",
+    "updatedAt": "2022-06-23T01:30:09.841Z",
+    "checkedAt": "2022-06-23T01:30:09.000Z",
+    "id": 148428,
+    "type": "manga",
+    "title": "Child of the Sheath",
+    "altTitle": [
+      "Sword Sheath's Child",
+      "Kaljib-ui Ai",
+      "Child of the Sheath",
+      "칼집의 아이"
+    ],
+    "url": "https://myanimelist.net/manga/148428/Child_of_the_Sheath",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263427.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54303649"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yang, Kyung-il",
+      "Kim, Hyung Min"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:44:43.845Z",
-    "updatedAt": "2022-05-16T13:06:00.000Z",
-    "checkedAt": "2022-05-16T13:06:00.000Z",
+    "updatedAt": "2022-06-23T14:04:49.000Z",
+    "checkedAt": "2022-06-23T14:04:49.000Z",
     "id": 115240,
     "type": "manga",
     "title": "Kaljibui Ai",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148428,
     "deletedAt": null,
     "authors": [
       "Kyung-Il Yang",

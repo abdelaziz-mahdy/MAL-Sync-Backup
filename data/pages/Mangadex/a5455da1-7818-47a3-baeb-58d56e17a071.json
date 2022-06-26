@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-05T01:02:25.000Z",
-  "updatedAt": "2022-05-14T09:30:56.000Z",
+  "updatedAt": "2022-06-20T07:46:55.000Z",
   "checkedAt": "2022-05-13T15:50:17.000Z",
   "id": 102683,
   "identifier": "a5455da1-7818-47a3-baeb-58d56e17a071",
@@ -12,13 +12,33 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134246,
   "deletedAt": null,
   "authors": [
     "Haruki"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:43.316Z",
+    "updatedAt": "2022-05-13T15:50:17.000Z",
+    "checkedAt": "2022-05-13T15:50:17.000Z",
+    "id": 134246,
+    "type": "manga",
+    "title": "Bandai Neko no Tama-san",
+    "altTitle": [
+      "番台猫のタマさん"
+    ],
+    "url": "https://anilist.co/manga/134246",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134246-IR8a6f4r1T4X.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Haruki"
+    ]
+  }
 }

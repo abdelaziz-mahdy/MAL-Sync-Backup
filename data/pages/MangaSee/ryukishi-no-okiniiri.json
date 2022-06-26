@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-04-23T19:57:08.000Z",
-  "updatedAt": "2022-06-15T12:30:14.000Z",
+  "updatedAt": "2022-06-20T17:20:00.000Z",
   "checkedAt": "2022-06-15T12:30:14.000Z",
   "id": 70118,
   "identifier": "ryukishi-no-okiniiri",
@@ -11,15 +11,68 @@
   "image": "https://cover.nep.li/cover/Ryukishi-no-Okiniiri.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 143370,
+  "aniId": 107576,
   "deletedAt": null,
   "authors": [
     "AOZAKI Ritsu",
     "Orikawa Asagi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-09T03:01:36.000Z",
+    "updatedAt": "2022-05-24T13:02:02.000Z",
+    "checkedAt": "2022-05-24T13:02:02.000Z",
+    "id": 143370,
+    "type": "manga",
+    "title": "Ryuukishi no Okiniiri",
+    "altTitle": [
+      "The Dragon Knight's Favorite",
+      "The Dragon Knight's Beloved",
+      "竜騎士のお気に入り"
+    ],
+    "url": "https://myanimelist.net/manga/143370/Ryuukishi_no_Okiniiri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254862.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ichijinsha.co.jp/stories/comic-zerosum/ryukishi/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aozaki, Ritsu",
+      "Orikawa, Asagi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:14.785Z",
+    "updatedAt": "2022-05-24T13:02:00.000Z",
+    "checkedAt": "2022-05-24T13:02:00.000Z",
+    "id": 107576,
+    "type": "manga",
+    "title": "Ryuukishi no Okiniiri",
+    "altTitle": [
+      "The Dragon Knight’s Beloved",
+      "竜騎士のお気に入り",
+      "The Dragon Knight's Favorite",
+      "용기사의 최애 그녀"
+    ],
+    "url": "https://anilist.co/manga/107576",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107576-pWGpxsHPxAB4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143370,
+    "deletedAt": null,
+    "authors": [
+      "Ritsu Aozaki",
+      "Akito Itou",
+      "Asagi Arikawa"
+    ]
+  }
 }

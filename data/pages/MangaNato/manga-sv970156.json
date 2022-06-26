@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-28T17:54:10.000Z",
-  "updatedAt": "2022-05-17T09:30:00.000Z",
+  "updatedAt": "2022-06-19T17:20:00.000Z",
   "checkedAt": "2022-05-17T09:30:00.000Z",
   "id": 72835,
   "identifier": "manga-sv970156",
@@ -12,11 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146944,
+  "aniId": 101134,
   "deletedAt": null,
   "authors": [],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T12:01:26.890Z",
+    "updatedAt": "2022-05-26T12:01:26.890Z",
+    "checkedAt": "2022-05-26T12:01:26.000Z",
+    "id": 146944,
+    "type": "manga",
+    "title": "Hardcore Leveling Warrior",
+    "altTitle": [
+      "Yeol Level Jeonsa",
+      "Yeolleb Warrior",
+      "Hardcore Leveling Warrior",
+      "열렙전사"
+    ],
+    "url": "https://myanimelist.net/manga/146944/Hardcore_Leveling_Warrior",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260783.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=670152"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Sehoon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:07.513Z",
+    "updatedAt": "2022-05-27T10:36:49.000Z",
+    "checkedAt": "2022-05-27T10:36:49.000Z",
+    "id": 101134,
+    "type": "manga",
+    "title": "Yeollepjeonsa",
+    "altTitle": [
+      "Hardcore Leveling Warrior",
+      "열렙전사"
+    ],
+    "url": "https://anilist.co/manga/101134",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101134-dVwkuaNbSxGS.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146944,
+    "deletedAt": null,
+    "authors": [
+      "Se-Hun Kim"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-23T06:05:52.000Z",
-  "updatedAt": "2021-12-05T17:48:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-23T14:20:00.000Z",
+  "checkedAt": "2022-06-20T20:30:02.000Z",
   "id": 66717,
   "identifier": "the_readymade_queen",
   "type": "manga",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148394,
+  "aniId": 116884,
   "deletedAt": null,
   "authors": [
     "Adobedam",
     "Kub"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-20T20:30:01.965Z",
+    "updatedAt": "2022-06-20T20:30:01.965Z",
+    "checkedAt": "2022-06-20T20:30:01.000Z",
+    "id": 148394,
+    "type": "manga",
+    "title": "The Readymade Queen",
+    "altTitle": [
+      "The Ready-Made Queen",
+      "The Readymade Queen",
+      "레디메이드퀸"
+    ],
+    "url": "https://myanimelist.net/manga/148394/The_Readymade_Queen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263270.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54393978"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Eododam",
+      "Kub",
+      "109"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:57.930Z",
+    "updatedAt": "2022-06-23T14:02:01.000Z",
+    "checkedAt": "2022-06-23T14:02:01.000Z",
+    "id": 116884,
+    "type": "manga",
+    "title": "Readymade Queen",
+    "altTitle": [
+      "The Readymade Queen",
+      "레디메이드퀸",
+      "Ledimeideukwin",
+      "現成女王",
+      "替身女王"
+    ],
+    "url": "https://anilist.co/manga/116884",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116884-7j3wghM8BcDX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148394,
+    "deletedAt": null,
+    "authors": [
+      "KUB",
+      "Adobedam"
+    ]
+  }
 }

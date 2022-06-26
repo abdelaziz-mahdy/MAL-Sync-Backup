@@ -1,25 +1,80 @@
 {
   "createdAt": "2020-10-12T16:20:59.000Z",
-  "updatedAt": "2021-12-08T01:38:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-25T13:16:59.000Z",
+  "checkedAt": "2022-06-24T22:00:02.000Z",
   "id": 38374,
   "identifier": "a5b2d690-dcec-458e-af97-b1b50bdf580f",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Dictatorship",
+  "title": "The Dictator",
   "url": "https://mangadex.org/title/a5b2d690-dcec-458e-af97-b1b50bdf580f",
-  "image": "https://uploads.mangadex.org/covers/a5b2d690-dcec-458e-af97-b1b50bdf580f/997779b4-ea32-4e77-8bbc-e00e7f41ec26.png",
+  "image": "https://uploads.mangadex.org/covers/a5b2d690-dcec-458e-af97-b1b50bdf580f/a4aedc11-a6ca-4c19-8cfc-0f6c3d0e470a.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148519,
+  "aniId": 129124,
   "deletedAt": null,
   "authors": [
-    "김신형",
+    "Rossi (KIM Shin-hyung)",
     "Ullpe"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-24T22:00:03.092Z",
+    "updatedAt": "2022-06-24T22:00:03.092Z",
+    "checkedAt": "2022-06-24T22:00:03.000Z",
+    "id": 148519,
+    "type": "manga",
+    "title": "The Dictator",
+    "altTitle": [
+      "Dictatorship",
+      "Dokjae",
+      "The Dictator",
+      "독재"
+    ],
+    "url": "https://myanimelist.net/manga/148519/The_Dictator",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263526.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54224754"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Sinhyeong",
+      "Ullpe"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:36.858Z",
+    "updatedAt": "2022-05-17T08:11:07.000Z",
+    "checkedAt": "2022-05-17T08:11:07.000Z",
+    "id": 129124,
+    "type": "manga",
+    "title": "Dokjae",
+    "altTitle": [
+      "The Dictator",
+      "독재",
+      "Dogjae",
+      "Dictatorship",
+      "独裁"
+    ],
+    "url": "https://anilist.co/manga/129124",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129124-AXEPKsrjnbuH.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ullpe",
+      "Shin-Hyeong Kim",
+      "Go-Yeong Ma"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T15:37:40.000Z",
-  "updatedAt": "2021-12-01T15:55:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-22T15:20:00.000Z",
+  "checkedAt": "2022-06-22T11:00:43.000Z",
   "id": 75302,
   "identifier": "manga-jd986512",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 102998,
+  "aniId": 122250,
   "deletedAt": null,
   "authors": [
     "Murata Kouji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-22T04:39:22.000Z",
+    "updatedAt": "2022-05-30T05:20:01.000Z",
+    "checkedAt": "2022-05-30T05:20:01.000Z",
+    "id": 102998,
+    "type": "manga",
+    "title": "Tenohira ni Ai wo!",
+    "altTitle": [
+      "てのひらにアイを！"
+    ],
+    "url": "https://myanimelist.net/manga/102998/Tenohira_ni_Ai_wo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/187056.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Murata, Kouji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:02.572Z",
+    "updatedAt": "2022-05-30T05:20:00.000Z",
+    "checkedAt": "2022-05-30T05:20:00.000Z",
+    "id": 122250,
+    "type": "manga",
+    "title": "Tenohira ni Ai wo!",
+    "altTitle": [
+      "てのひらにアイを！",
+      "Te no Hira ni Ai wo!"
+    ],
+    "url": "https://anilist.co/manga/122250",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122250-HdxJkbCFT2qH.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 102998,
+    "deletedAt": null,
+    "authors": [
+      "Koji Murata"
+    ]
+  }
 }

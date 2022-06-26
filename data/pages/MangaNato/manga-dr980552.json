@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-30T00:42:34.000Z",
-  "updatedAt": "2022-01-02T23:53:52.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-19T17:19:42.000Z",
+  "checkedAt": "2022-06-19T13:00:04.000Z",
   "id": 74122,
   "identifier": "manga-dr980552",
   "type": "manga",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147704,
+  "aniId": 106680,
   "deletedAt": null,
   "authors": [
     "Cotun",
     "Shiya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:34.527Z",
+    "updatedAt": "2022-06-07T13:00:34.527Z",
+    "checkedAt": "2022-06-07T13:00:34.000Z",
+    "id": 147704,
+    "type": "manga",
+    "title": "I Belong to House Castielo",
+    "altTitle": [
+      "I Am a Child of This House",
+      "Naneun I Jip Ai",
+      "I Belong to House Castielo",
+      "나는 이 집 아이"
+    ],
+    "url": "https://myanimelist.net/manga/147704/I_Belong_to_House_Castielo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261994.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/51415682"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Siya",
+      "Cotton"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:12.021Z",
+    "updatedAt": "2022-06-08T07:51:25.000Z",
+    "checkedAt": "2022-06-08T07:51:25.000Z",
+    "id": 106680,
+    "type": "manga",
+    "title": "Naneun I Jib Ai",
+    "altTitle": [
+      "I Belong to House Castielo",
+      "나는 이 집 아이",
+      "I Am a Child of This House",
+      "ある日、私は冷血公爵の娘になった"
+    ],
+    "url": "https://anilist.co/manga/106680",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106680-swPajQCJOlY0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147704,
+    "deletedAt": null,
+    "authors": [
+      "Siya",
+      "Koteun"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:02.000Z",
-  "updatedAt": "2021-12-05T05:20:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-20T07:47:14.000Z",
+  "checkedAt": "2022-06-20T06:30:02.000Z",
   "id": 18426,
   "identifier": "c98fb1ae-a702-4207-bb84-9f26b58a680a",
   "type": "manga",
@@ -12,14 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131839,
+  "aniId": 146649,
   "deletedAt": null,
   "authors": [
     "Bo He Ying Xiang",
     "Ask Studio"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-12T19:01:47.000Z",
+    "updatedAt": "2022-05-15T01:54:48.000Z",
+    "checkedAt": "2022-05-15T01:54:48.000Z",
+    "id": 131839,
+    "type": "manga",
+    "title": "Zuihou de Zhaohuan Shi",
+    "altTitle": [
+      "The Last Summoner",
+      "最后的召唤师"
+    ],
+    "url": "https://myanimelist.net/manga/131839/Zuihou_de_Zhaohuan_Shi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253493.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "ASK Studio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:10.544Z",
+    "updatedAt": "2022-05-16T19:54:24.000Z",
+    "checkedAt": "2022-05-16T19:54:24.000Z",
+    "id": 146649,
+    "type": "manga",
+    "title": "Zuihou De Zhaohuan Shi",
+    "altTitle": [
+      "最后的召唤师",
+      "The Last Summoner"
+    ],
+    "url": "https://anilist.co/manga/146649",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146649-rs5jmIxqqbCS.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 131839,
+    "deletedAt": null,
+    "authors": [
+      "Bohe Yingxiang",
+      "Bohe Yingxiang",
+      "DAN",
+      "Xia Kou Naliang",
+      "JEAN"
+    ]
+  }
 }

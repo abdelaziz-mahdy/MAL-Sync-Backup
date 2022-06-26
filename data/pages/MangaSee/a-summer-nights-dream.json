@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-08-16T19:07:30.000Z",
-  "updatedAt": "2022-05-13T16:41:54.000Z",
+  "updatedAt": "2022-06-23T14:20:00.000Z",
   "checkedAt": "2022-05-13T16:41:54.000Z",
   "id": 85423,
   "identifier": "a-summer-nights-dream",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148429,
+  "aniId": 137286,
   "deletedAt": null,
   "authors": [
     "KIM Soo-bak"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-22T11:00:04.887Z",
+    "updatedAt": "2022-06-22T11:00:04.887Z",
+    "checkedAt": "2022-06-22T11:00:04.000Z",
+    "id": 148429,
+    "type": "manga",
+    "title": "A Summer Night's Dream",
+    "altTitle": [
+      "Hannyeoreum, Bam-ui Kkum",
+      "A Summer Night's Dream",
+      "한여름, 밤의 꿈"
+    ],
+    "url": "https://myanimelist.net/manga/148429/A_Summer_Nights_Dream",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263341.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784822"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Subak",
+      "Kan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:26.170Z",
+    "updatedAt": "2022-06-23T14:06:31.000Z",
+    "checkedAt": "2022-06-23T14:06:31.000Z",
+    "id": 137286,
+    "type": "manga",
+    "title": "Hanyeoreum, Bamui Kkum",
+    "altTitle": [
+      "A Summer Night's Dream",
+      "한여름, 밤의 꿈"
+    ],
+    "url": "https://anilist.co/manga/137286",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137286-Sd1MKrh3Babt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148429,
+    "deletedAt": null,
+    "authors": [
+      "Kan",
+      "Su-Bak Kim"
+    ]
+  }
 }

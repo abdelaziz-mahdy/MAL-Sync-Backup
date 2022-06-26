@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T15:36:59.000Z",
-  "updatedAt": "2021-12-01T15:55:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-22T08:20:00.000Z",
+  "checkedAt": "2022-06-22T02:30:00.000Z",
   "id": 75288,
   "identifier": "manga-fq982373",
   "type": "manga",
@@ -12,15 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 124972,
+  "aniId": 110827,
   "deletedAt": null,
   "authors": [
     "Kajou Sesshu (Kyou Zip)",
     "Miya Kinojo",
     "Hanajiro Abe"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:16.000Z",
+    "updatedAt": "2022-05-30T04:45:09.000Z",
+    "checkedAt": "2022-05-30T04:45:09.000Z",
+    "id": 124972,
+    "type": "manga",
+    "title": "Frontier Diary: Motokizoku no Isekai Henkyou Seikatsu Nikki",
+    "altTitle": [
+      "フロンティアダイアリー ～元貴族の異世界辺境生活日記"
+    ],
+    "url": "https://myanimelist.net/manga/124972/Frontier_Diary__Motokizoku_no_Isekai_Henkyou_Seikatsu_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227796.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF00000097010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kinojou, Miya",
+      "Abe, Hanajirou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:49.249Z",
+    "updatedAt": "2022-05-30T04:45:08.000Z",
+    "checkedAt": "2022-05-30T04:45:08.000Z",
+    "id": 110827,
+    "type": "manga",
+    "title": "Frontier Diary: Motokizoku no Isekai Henkyo Seikatsu Nikki",
+    "altTitle": [
+      "フロンティアダイアリー　～元貴族の異世界辺境生活日記"
+    ],
+    "url": "https://anilist.co/manga/110827",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110827-jirgfdLfLFbZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 124972,
+    "deletedAt": null,
+    "authors": [
+      "Miya Kinojo",
+      "Kyou Zip",
+      "Hanajiro Abe"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-26T19:58:27.000Z",
-  "updatedAt": "2022-03-27T15:09:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-19T17:19:41.000Z",
+  "checkedAt": "2022-06-19T16:31:06.000Z",
   "id": 40528,
   "identifier": "zl1zm",
   "type": "anime",
@@ -13,9 +13,61 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 49275,
+  "aniId": 135923,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-09-25T09:46:24.000Z",
+    "updatedAt": "2022-05-14T09:41:06.000Z",
+    "checkedAt": "2022-05-14T09:41:06.000Z",
+    "id": 49275,
+    "type": "anime",
+    "title": "Renou Xueyuan",
+    "altTitle": [
+      "Elf Academy",
+      "人偶学园"
+    ],
+    "url": "https://myanimelist.net/anime/49275/Renou_Xueyuan",
+    "image": "https://cdn.myanimelist.net/images/anime/1506/116008.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bgm.tv/subject/340275"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16436"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://movie.douban.com/subject/35521886/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16436
+  },
+  "Ani": {
+    "createdAt": "2021-06-21T01:20:50.000Z",
+    "updatedAt": "2022-06-19T17:19:41.000Z",
+    "checkedAt": "2022-06-19T17:19:41.000Z",
+    "id": 135923,
+    "type": "anime",
+    "title": "Renou Xueyuan",
+    "altTitle": [
+      "ELF Academy",
+      "人偶学园",
+      "Doll School",
+      "人偶學園"
+    ],
+    "url": "https://anilist.co/anime/135923",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135923-2C6OyzrAf3is.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49275,
+    "deletedAt": null
+  }
 }

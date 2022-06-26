@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:26.000Z",
-  "updatedAt": "2021-12-07T08:18:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-21T13:35:53.000Z",
+  "checkedAt": "2022-06-21T00:00:09.000Z",
   "id": 31119,
   "identifier": "42ff706e-5f8d-4c6a-aa85-1da68fdbda50",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148401,
   "aniId": 113340,
   "deletedAt": null,
   "authors": [
     "이원식",
     "꿀찬"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-21T00:00:09.110Z",
+    "updatedAt": "2022-06-21T00:00:09.110Z",
+    "checkedAt": "2022-06-21T00:00:09.000Z",
+    "id": 148401,
+    "type": "manga",
+    "title": "Death's Game",
+    "altTitle": [
+      "Ije Got Jukseumnida",
+      "Death's Game",
+      "이제 곧 죽습니다"
+    ],
+    "url": "https://myanimelist.net/manga/148401/Deaths_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263278.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=727189"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Won-Sik",
+      "Ggulchan"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:00:34.242Z",
-    "updatedAt": "2022-05-16T02:17:16.000Z",
-    "checkedAt": "2022-05-16T02:17:16.000Z",
+    "updatedAt": "2022-06-22T08:08:41.000Z",
+    "checkedAt": "2022-06-22T08:08:41.000Z",
     "id": 113340,
     "type": "manga",
     "title": "Ije God Chugseubnida",
@@ -40,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148401,
     "deletedAt": null,
     "authors": [
       "Won-Sik Lee",

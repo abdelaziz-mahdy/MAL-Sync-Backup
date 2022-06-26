@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:03:20.285Z",
-  "updatedAt": "2022-05-19T03:55:51.000Z",
-  "checkedAt": "2022-05-19T03:55:51.000Z",
+  "updatedAt": "2022-06-23T14:04:30.000Z",
+  "checkedAt": "2022-06-23T14:04:30.000Z",
   "id": 132827,
   "type": "manga",
   "title": "Geurimja Sinbu",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148435,
   "deletedAt": null,
   "authors": [
     "Sae-In Lee",
@@ -24,8 +24,8 @@
     "MangaSee": {
       "shadow-bride": {
         "createdAt": "2021-05-20T17:43:19.000Z",
-        "updatedAt": "2021-11-20T22:49:07.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-06-22T19:52:55.000Z",
+        "checkedAt": "2022-06-22T18:00:14.000Z",
         "id": 72209,
         "identifier": "shadow-bride",
         "type": "manga",
@@ -36,8 +36,8 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 148435,
         "aniId": 132827,
         "deletedAt": null,
         "authors": [
@@ -50,8 +50,8 @@
     "MangaNato": {
       "manga-lg989115": {
         "createdAt": "2021-06-05T02:20:58.000Z",
-        "updatedAt": "2021-12-05T02:51:45.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-06-22T19:53:08.000Z",
+        "checkedAt": "2022-06-22T18:30:36.000Z",
         "id": 76613,
         "identifier": "manga-lg989115",
         "type": "manga",
@@ -62,14 +62,39 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 148435,
         "aniId": 132827,
         "deletedAt": null,
         "authors": [
           "Gamja",
           "Lee Sae In",
           "Lim Soo Bean"
+        ]
+      }
+    },
+    "MangaFox": {
+      "shadow_bride": {
+        "createdAt": "2022-06-22T18:00:05.729Z",
+        "updatedAt": "2022-06-22T19:53:06.000Z",
+        "checkedAt": "2022-06-22T18:00:05.000Z",
+        "id": 107972,
+        "identifier": "shadow_bride",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shadow Bride",
+        "url": "https://fanfox.net/manga/shadow_bride/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38408/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 148435,
+        "aniId": 132827,
+        "deletedAt": null,
+        "authors": [
+          "Gamja",
+          "LEE Sae In"
         ]
       }
     }

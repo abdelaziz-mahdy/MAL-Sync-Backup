@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-04T23:26:46.000Z",
-  "updatedAt": "2021-12-08T09:40:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-20T14:42:48.000Z",
+  "checkedAt": "2022-06-20T12:30:09.000Z",
   "id": 57273,
   "identifier": "889b5623-ecd6-4e6b-a41f-93e85c326e1d",
   "type": "manga",
@@ -12,14 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129060,
+  "aniId": 139485,
   "deletedAt": null,
   "authors": [
     "Studio Wasabi",
     "Konno Paru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-20T14:42:46.445Z",
+    "updatedAt": "2022-06-20T14:42:46.445Z",
+    "checkedAt": "2022-06-20T14:42:46.000Z",
+    "id": 129060,
+    "type": "manga",
+    "title": "Ookami Game",
+    "altTitle": [
+      "Wolf Game",
+      "狼ゲーム"
+    ],
+    "url": "https://myanimelist.net/manga/129060/Ookami_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235505.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Konno, Paru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:31.863Z",
+    "updatedAt": "2022-06-20T12:30:09.000Z",
+    "checkedAt": "2022-06-20T12:30:09.000Z",
+    "id": 139485,
+    "type": "manga",
+    "title": "Ookami Game",
+    "altTitle": [
+      "狼ゲーム"
+    ],
+    "url": "https://anilist.co/manga/139485",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139485-1OGAPFtd6apo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129060,
+    "deletedAt": null,
+    "authors": [
+      "Paru Konno",
+      "Studio Wasabi"
+    ]
+  }
 }
