@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-27T14:49:20.000Z",
-  "updatedAt": "2022-05-13T23:32:22.000Z",
+  "updatedAt": "2022-07-02T15:20:00.000Z",
   "checkedAt": "2022-05-13T23:32:22.000Z",
   "id": 67396,
   "identifier": "men-of-the-harem",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147331,
+  "aniId": 128366,
   "deletedAt": null,
   "authors": [
     "Alpha Tart",
     "Herelee",
     "Yeongbin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-29T11:00:02.683Z",
+    "updatedAt": "2022-05-29T11:00:02.683Z",
+    "checkedAt": "2022-05-29T11:00:02.000Z",
+    "id": 147331,
+    "type": "manga",
+    "title": "Men of the Harem",
+    "altTitle": [
+      "Harem-ui Namja-deul",
+      "Men of the Harem",
+      "하렘의 남자들"
+    ],
+    "url": "https://myanimelist.net/manga/147331/Men_of_the_Harem",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261348.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=760001"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Alphatart",
+      "Yeongbin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:30.031Z",
+    "updatedAt": "2022-05-30T06:09:34.000Z",
+    "checkedAt": "2022-05-30T06:09:34.000Z",
+    "id": 128366,
+    "type": "manga",
+    "title": "Harem-ui Namjadeul",
+    "altTitle": [
+      "Men of the Harem",
+      "하렘의 남자들",
+      "Le harem de l’impératrice",
+      "Los hombres de mi harén"
+    ],
+    "url": "https://anilist.co/manga/128366",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128366-b30WKs6PotQW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147331,
+    "deletedAt": null,
+    "authors": [
+      "Alpha Tart",
+      "Youngbin",
+      "Chireon"
+    ]
+  }
 }

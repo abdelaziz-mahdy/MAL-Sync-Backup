@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-13T16:35:16.000Z",
-  "updatedAt": "2022-05-13T19:55:56.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-13T19:55:56.000Z",
   "id": 87099,
   "identifier": "golem-dungeon-rush",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148558,
+  "aniId": 124092,
   "deletedAt": null,
   "authors": [
     "Choi Hwansung"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-25T21:00:14.091Z",
+    "updatedAt": "2022-06-25T21:00:14.091Z",
+    "checkedAt": "2022-06-25T21:00:14.000Z",
+    "id": 148558,
+    "type": "manga",
+    "title": "Golem Dungeon Rush",
+    "altTitle": [
+      "Capture the Golem and Escape Poverty",
+      "Golem Japgo Heuksujeo Talchul",
+      "Golem Dungeon Rush",
+      "골렘 잡고 흙수저 탈출"
+    ],
+    "url": "https://myanimelist.net/manga/148558/Golem_Dungeon_Rush",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263580.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55532874"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Choi, Hwansung"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:35.156Z",
+    "updatedAt": "2022-06-28T12:37:46.000Z",
+    "checkedAt": "2022-06-28T12:37:46.000Z",
+    "id": 124092,
+    "type": "manga",
+    "title": "Golem Japgo Heuksujeo Talchul",
+    "altTitle": [
+      "Golem Dungeon Rush",
+      "골렘 잡고 흙수저 탈출",
+      "Capture the Golem and Escape Poverty"
+    ],
+    "url": "https://anilist.co/manga/124092",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124092-vAhUMw5e2f8X.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148558,
+    "deletedAt": null,
+    "authors": [
+      "Hwan-Seong Choi"
+    ]
+  }
 }

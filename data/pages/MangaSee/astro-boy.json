@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-27T19:09:35.000Z",
-  "updatedAt": "2022-01-27T19:30:17.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-27T14:20:00.000Z",
+  "checkedAt": "2022-06-26T18:00:14.000Z",
   "id": 60219,
   "identifier": "astro-boy",
   "type": "manga",
@@ -12,13 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 728,
+  "aniId": 30728,
   "deletedAt": null,
   "authors": [
     "TEZUKA Osamu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2022-05-15T17:49:39.000Z",
+    "checkedAt": "2022-05-15T17:49:39.000Z",
+    "id": 728,
+    "type": "manga",
+    "title": "Tetsuwan Atom",
+    "altTitle": [
+      "Mighty Atom",
+      "Captain Atom",
+      "Atom Taishi",
+      "Astro Boy",
+      "鉄腕アトム"
+    ],
+    "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom",
+    "image": "https://cdn.myanimelist.net/images/manga/2/186337.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%89%84%E8%85%95%E3%82%A2%E3%83%88%E3%83%A0"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tezuka, Osamu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:20.468Z",
+    "updatedAt": "2022-05-15T20:20:23.000Z",
+    "checkedAt": "2022-05-15T20:20:23.000Z",
+    "id": 30728,
+    "type": "manga",
+    "title": "Tetsuwan Atom",
+    "altTitle": [
+      "Astro Boy",
+      "鉄腕 アトム",
+      "Tetsuwan Atomu",
+      "Mighty Atom"
+    ],
+    "url": "https://anilist.co/manga/30728",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30728-pYKB67J1weRa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 728,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka",
+      "Frederik Schodt",
+      "Jirou Kuwata",
+      "Mitsuteru Yokoyama",
+      "Shoutarou Ishinomori"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-29T16:51:05.000Z",
-  "updatedAt": "2022-05-13T19:32:35.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-13T19:32:35.000Z",
   "id": 80426,
   "identifier": "take-me-im-yours",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148654,
+  "aniId": 111934,
   "deletedAt": null,
   "authors": [
     "One Punch Rabbit",
     "RoseBean"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-27T23:00:40.768Z",
+    "updatedAt": "2022-06-27T23:00:40.768Z",
+    "checkedAt": "2022-06-27T23:00:40.000Z",
+    "id": 148654,
+    "type": "manga",
+    "title": "Take Me, I'm Yours",
+    "altTitle": [
+      "Nal Gajeoyo",
+      "Take Me, I'm Yours",
+      "날 가져요"
+    ],
+    "url": "https://myanimelist.net/manga/148654/Take_Me_Im_Yours",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263764.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=721459"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "RoseBean",
+      "One Punch Rabbit"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:13.532Z",
+    "updatedAt": "2022-06-28T12:37:28.000Z",
+    "checkedAt": "2022-06-28T12:37:28.000Z",
+    "id": 111934,
+    "type": "manga",
+    "title": "Nal Gajyeoyo",
+    "altTitle": [
+      "Take Me, I'm Yours",
+      "날 가져요",
+      "Take Me"
+    ],
+    "url": "https://anilist.co/manga/111934",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111934-dVpoVzrf3o6u.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148654,
+    "deletedAt": null,
+    "authors": [
+      "Rose Bin",
+      "One Punch Rabbit"
+    ]
+  }
 }

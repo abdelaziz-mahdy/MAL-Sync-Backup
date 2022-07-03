@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-04T11:57:31.000Z",
-  "updatedAt": "2022-01-15T16:51:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-27T14:05:46.000Z",
+  "checkedAt": "2022-06-26T15:30:16.000Z",
   "id": 57218,
   "identifier": "97190cb0-91d7-409f-bcb3-f16443f479e4",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148601,
   "aniId": 130603,
   "deletedAt": null,
   "authors": [
     "Park Tae Joon",
     "Joo-in Kim"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-26T15:30:09.922Z",
+    "updatedAt": "2022-06-26T15:30:09.922Z",
+    "checkedAt": "2022-06-26T15:30:09.000Z",
+    "id": 148601,
+    "type": "manga",
+    "title": "Tales of Greed",
+    "altTitle": [
+      "Yongmang Ilgi",
+      "Tales of Greed",
+      "욕망일기"
+    ],
+    "url": "https://myanimelist.net/manga/148601/Tales_of_Greed",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263653.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=762071"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Juin",
+      "Park Tae-jun Manhwa Hoesa"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:03.304Z",
-    "updatedAt": "2022-05-14T09:37:41.000Z",
-    "checkedAt": "2022-05-14T09:37:41.000Z",
+    "updatedAt": "2022-06-27T14:12:00.000Z",
+    "checkedAt": "2022-06-27T14:12:00.000Z",
     "id": 130603,
     "type": "manga",
     "title": "Yongmangilgi",
@@ -41,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148601,
     "deletedAt": null,
     "authors": [
       "Ju-In Kim",

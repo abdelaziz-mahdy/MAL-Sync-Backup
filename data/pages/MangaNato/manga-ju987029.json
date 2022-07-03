@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T15:42:23.000Z",
-  "updatedAt": "2022-05-14T09:02:54.000Z",
+  "updatedAt": "2022-06-29T07:20:00.000Z",
   "checkedAt": "2022-05-14T09:02:54.000Z",
   "id": 73882,
   "identifier": "manga-ju987029",
@@ -12,13 +12,73 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 139468,
+  "aniId": 127483,
   "deletedAt": null,
   "authors": [
     "Hansan Iga"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-26T12:00:11.048Z",
+    "updatedAt": "2022-05-26T12:00:11.048Z",
+    "checkedAt": "2022-05-26T12:00:11.000Z",
+    "id": 139468,
+    "type": "manga",
+    "title": "Severe Trauma Center: Golden Hour",
+    "altTitle": [
+      "Jungjeung-oesang Center: Golden Hour",
+      "중증외상센터 : 골든아워"
+    ],
+    "url": "https://myanimelist.net/manga/139468/Severe_Trauma_Center__Golden_Hour",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249110.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=738174"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/중증외상센터_:_골든아워"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hansan, Leega",
+      "Hong, Bichi-ra"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:15.117Z",
+    "updatedAt": "2022-05-27T10:36:21.000Z",
+    "checkedAt": "2022-05-27T10:36:21.000Z",
+    "id": 127483,
+    "type": "manga",
+    "title": "Jungjeungoesang Center: Golden Hour",
+    "altTitle": [
+      "중증외상센터 : 골든 아워",
+      "Golden Hour of the Severe Acute Trauma Center",
+      "Golden Hour",
+      "Trauma Center: Golden Hour",
+      "Trauma Center",
+      "Golden Hour ชั่วโมงโกงความตาย",
+      "外傷重症中心：黃金救援"
+    ],
+    "url": "https://anilist.co/manga/127483",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127483-Fuq9VMM3mwPg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 139468,
+    "deletedAt": null,
+    "authors": [
+      "Bichira Hong",
+      "Saniga Han",
+      "Saniga Han",
+      "Byeol Byeol"
+    ]
+  }
 }

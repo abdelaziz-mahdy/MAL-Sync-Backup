@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-04T04:46:56.000Z",
-  "updatedAt": "2022-04-08T02:00:35.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-01T08:20:00.000Z",
+  "checkedAt": "2022-06-30T19:00:42.000Z",
   "id": 92374,
   "identifier": "1a6e2402-576b-4f32-9157-db3d74510c53",
   "type": "manga",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148760,
+  "aniId": 141616,
   "deletedAt": null,
   "authors": [
-    "연슬아",
-    "야마겟돈"
+    "Yeon Seul Ah",
+    "Yamageddon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-30T19:01:31.871Z",
+    "updatedAt": "2022-06-30T19:01:31.871Z",
+    "checkedAt": "2022-06-30T19:01:31.000Z",
+    "id": 148760,
+    "type": "manga",
+    "title": "The Hidden Saintess",
+    "altTitle": [
+      "Sumgyeojin Seongnyeo",
+      "The Hidden Saintess",
+      "숨겨진 성녀"
+    ],
+    "url": "https://myanimelist.net/manga/148760/The_Hidden_Saintess",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263940.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=781339"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yeon, Seulah",
+      "Yamageddon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:25.575Z",
+    "updatedAt": "2022-07-01T07:23:48.000Z",
+    "checkedAt": "2022-07-01T07:23:48.000Z",
+    "id": 141616,
+    "type": "manga",
+    "title": "Supgyeojin Seongnyeo",
+    "altTitle": [
+      "The Hidden Saintess",
+      "숩겨진 성녀"
+    ],
+    "url": "https://anilist.co/manga/141616",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141616-JuU9mNYIdc3W.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148760,
+    "deletedAt": null,
+    "authors": [
+      "Seur-A Yeon",
+      "Yamagetdon",
+      "Won-Sik Lee"
+    ]
+  }
 }

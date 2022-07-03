@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:56:42.740Z",
-  "updatedAt": "2022-05-13T12:56:42.740Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-30T07:37:58.000Z",
+  "checkedAt": "2022-06-30T07:37:58.000Z",
   "id": 131474,
   "type": "manga",
   "title": "Sarameun gochyeo Sseuneun ge Aaniya!",
@@ -15,18 +15,43 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148741,
   "deletedAt": null,
   "authors": [
     "Il-Ha Goo",
     "Yeom-Ra"
   ],
   "Pages": {
+    "Mangadex": {
+      "66564f5d-4d96-4b10-b2e3-2d08a4ce35c1": {
+        "createdAt": "2021-03-05T09:20:39.000Z",
+        "updatedAt": "2022-06-30T08:20:00.000Z",
+        "checkedAt": "2022-06-30T07:00:23.000Z",
+        "id": 64662,
+        "identifier": "66564f5d-4d96-4b10-b2e3-2d08a4ce35c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You Can't Change A Person!",
+        "url": "https://mangadex.org/title/66564f5d-4d96-4b10-b2e3-2d08a4ce35c1",
+        "image": "https://uploads.mangadex.org/covers/66564f5d-4d96-4b10-b2e3-2d08a4ce35c1/4c2a23d5-3e9b-4b2c-bd13-f8a87fc9d4a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148741,
+        "aniId": 131474,
+        "deletedAt": null,
+        "authors": [
+          "Yeom-ra",
+          "Goo Il-ha"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-lz988434": {
         "createdAt": "2021-06-06T13:19:07.000Z",
-        "updatedAt": "2021-12-06T13:50:59.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-06-30T07:37:03.000Z",
+        "checkedAt": "2022-06-30T07:00:52.000Z",
         "id": 76878,
         "identifier": "manga-lz988434",
         "type": "manga",
@@ -37,12 +62,36 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 148741,
         "aniId": 131474,
         "deletedAt": null,
         "authors": [
           "Yeom-Ra"
+        ]
+      }
+    },
+    "MangaFox": {
+      "you_can_t_change_a_person": {
+        "createdAt": "2022-06-30T07:00:52.496Z",
+        "updatedAt": "2022-06-30T08:20:00.000Z",
+        "checkedAt": "2022-06-30T07:00:52.000Z",
+        "id": 108528,
+        "identifier": "you_can_t_change_a_person",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "You Can't Change a Person!",
+        "url": "https://fanfox.net/manga/you_can_t_change_a_person/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39119/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148741,
+        "aniId": 131474,
+        "deletedAt": null,
+        "authors": [
+          "Yeomra"
         ]
       }
     }

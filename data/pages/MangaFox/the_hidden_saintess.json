@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-20T20:54:16.000Z",
-  "updatedAt": "2022-03-20T20:54:16.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-01T08:20:00.000Z",
+  "checkedAt": "2022-06-30T19:00:42.000Z",
   "id": 99779,
   "identifier": "the_hidden_saintess",
   "type": "manga",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148760,
+  "aniId": 141616,
   "deletedAt": null,
   "authors": [
     "Yeon Seul-ah",
     "[Add]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-30T19:01:31.871Z",
+    "updatedAt": "2022-06-30T19:01:31.871Z",
+    "checkedAt": "2022-06-30T19:01:31.000Z",
+    "id": 148760,
+    "type": "manga",
+    "title": "The Hidden Saintess",
+    "altTitle": [
+      "Sumgyeojin Seongnyeo",
+      "The Hidden Saintess",
+      "숨겨진 성녀"
+    ],
+    "url": "https://myanimelist.net/manga/148760/The_Hidden_Saintess",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263940.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=781339"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yeon, Seulah",
+      "Yamageddon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:25.575Z",
+    "updatedAt": "2022-07-01T07:23:48.000Z",
+    "checkedAt": "2022-07-01T07:23:48.000Z",
+    "id": 141616,
+    "type": "manga",
+    "title": "Supgyeojin Seongnyeo",
+    "altTitle": [
+      "The Hidden Saintess",
+      "숩겨진 성녀"
+    ],
+    "url": "https://anilist.co/manga/141616",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141616-JuU9mNYIdc3W.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148760,
+    "deletedAt": null,
+    "authors": [
+      "Seur-A Yeon",
+      "Yamagetdon",
+      "Won-Sik Lee"
+    ]
+  }
 }

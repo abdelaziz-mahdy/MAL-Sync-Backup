@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:47.000Z",
-  "updatedAt": "2021-12-04T20:23:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-29T07:20:00.000Z",
+  "checkedAt": "2022-06-28T22:00:09.000Z",
   "id": 15723,
   "identifier": "41f9def5-f530-40cb-8d7a-b1fbfe82174d",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148699,
+  "aniId": 122537,
   "deletedAt": null,
   "authors": [
-    "미티"
+    "Miti (미티)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-28T22:00:22.729Z",
+    "updatedAt": "2022-06-28T22:00:22.729Z",
+    "checkedAt": "2022-06-28T22:00:22.000Z",
+    "id": 148699,
+    "type": "manga",
+    "title": "Ctrl+Z",
+    "altTitle": [
+      "Ctrl+Z",
+      "컨트롤제트"
+    ],
+    "url": "https://myanimelist.net/manga/148699/Ctrl_Z",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263818.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=666671"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "MiTi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:50.863Z",
+    "updatedAt": "2022-06-29T07:04:38.000Z",
+    "checkedAt": "2022-06-29T07:04:38.000Z",
+    "id": 122537,
+    "type": "manga",
+    "title": "Ctrl + Z",
+    "altTitle": [
+      "Ctrl + Z",
+      "컨트롤제트"
+    ],
+    "url": "https://anilist.co/manga/122537",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122537-mdhSU2VJf7xj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148699,
+    "deletedAt": null,
+    "authors": [
+      "MiTi"
+    ]
+  }
 }

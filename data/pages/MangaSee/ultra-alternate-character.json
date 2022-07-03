@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-12-07T18:16:29.000Z",
-  "updatedAt": "2022-05-13T16:24:17.000Z",
+  "updatedAt": "2022-06-29T07:20:00.000Z",
   "checkedAt": "2022-05-13T16:24:17.000Z",
   "id": 92679,
   "identifier": "ultra-alternate-character",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148713,
+  "aniId": 141955,
   "deletedAt": null,
   "authors": [
     "JIXKSEE"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-28T22:00:10.748Z",
+    "updatedAt": "2022-06-28T22:00:10.748Z",
+    "checkedAt": "2022-06-28T22:00:10.000Z",
+    "id": 148713,
+    "type": "manga",
+    "title": "Ultra-Alternate Character",
+    "altTitle": [
+      "Ultra Alter",
+      "Choegang Bukae",
+      "Ultra-Alternate Character",
+      "최강부캐"
+    ],
+    "url": "https://myanimelist.net/manga/148713/Ultra-Alternate_Character",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263835.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=778580"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jixksee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:19.746Z",
+    "updatedAt": "2022-06-29T07:05:16.000Z",
+    "checkedAt": "2022-06-29T07:05:16.000Z",
+    "id": 141955,
+    "type": "manga",
+    "title": "Choegangbukae",
+    "altTitle": [
+      "Ultra-Alternate Character",
+      "최강부캐",
+      "Ultra Alter"
+    ],
+    "url": "https://anilist.co/manga/141955",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141955-TqO8ZF8Ir5nU.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148713,
+    "deletedAt": null,
+    "authors": [
+      "JIXKSEE"
+    ]
+  }
 }

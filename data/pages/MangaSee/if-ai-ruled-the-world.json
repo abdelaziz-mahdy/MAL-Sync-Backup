@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-17T15:25:39.000Z",
-  "updatedAt": "2022-05-14T09:35:14.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-14T09:35:14.000Z",
   "id": 72045,
   "identifier": "if-ai-ruled-the-world",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148646,
+  "aniId": 132705,
   "deletedAt": null,
   "authors": [
     "Hoopa",
     "POGO"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-27T23:00:02.051Z",
+    "updatedAt": "2022-06-27T23:00:02.051Z",
+    "checkedAt": "2022-06-27T23:00:02.000Z",
+    "id": 148646,
+    "type": "manga",
+    "title": "If AI Ruled the World",
+    "altTitle": [
+      "If AI Rules the World",
+      "AI-ga Sesang-eul Jibaehandamyeon",
+      "If AI Ruled the World",
+      "AI가 세상을 지배한다면"
+    ],
+    "url": "https://myanimelist.net/manga/148646/If_AI_Ruled_the_World",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263746.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=755674"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Pogo",
+      "Hoopa"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:15.361Z",
+    "updatedAt": "2022-06-28T12:39:15.000Z",
+    "checkedAt": "2022-06-28T12:39:15.000Z",
+    "id": 132705,
+    "type": "manga",
+    "title": "AIga Sesangeul Jibaehandamyeon",
+    "altTitle": [
+      "If AI Ruled the World",
+      "AI가 세상을 지배한다면",
+      "If AI Rules the World",
+      "如果AI统治世界"
+    ],
+    "url": "https://anilist.co/manga/132705",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132705-6BjRegalJnF9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148646,
+    "deletedAt": null,
+    "authors": [
+      "HOOPA",
+      "POGO"
+    ]
+  }
 }

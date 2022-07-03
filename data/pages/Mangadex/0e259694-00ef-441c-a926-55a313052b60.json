@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-12T08:22:17.000Z",
-  "updatedAt": "2021-12-08T10:08:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-27T06:00:18.000Z",
+  "checkedAt": "2022-06-27T06:00:18.000Z",
   "id": 58303,
   "identifier": "0e259694-00ef-441c-a926-55a313052b60",
   "type": "manga",
@@ -11,15 +11,37 @@
   "image": "https://uploads.mangadex.org/covers/0e259694-00ef-441c-a926-55a313052b60/efdeb0c6-24a8-4715-a3d3-010bae4d1f3d.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 115982,
   "deletedAt": null,
   "authors": [
     "Kumo Atarou",
     "Komi Shinya"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:09.498Z",
+    "updatedAt": "2022-06-27T04:48:37.000Z",
+    "checkedAt": "2022-06-27T04:48:37.000Z",
+    "id": 115982,
+    "type": "manga",
+    "title": "Ex-Arm: Another Code",
+    "altTitle": [
+      "エクスアーム アナザーコード"
+    ],
+    "url": "https://anilist.co/manga/115982",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115982-XQOmpA9qvrtk.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Atarou Kuma",
+      "Shinya Komi",
+      "HiRock"
+    ]
+  }
 }

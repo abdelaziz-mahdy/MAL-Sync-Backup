@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:04:36.061Z",
-  "updatedAt": "2022-05-13T15:55:55.000Z",
-  "checkedAt": "2022-05-13T15:55:55.000Z",
+  "updatedAt": "2022-06-27T14:10:00.000Z",
+  "checkedAt": "2022-06-27T14:10:00.000Z",
   "id": 136937,
   "type": "manga",
   "title": "Goemulgongjagui Ttal",
@@ -14,18 +14,43 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148611,
   "deletedAt": null,
   "authors": [
     "Challan",
     "Ba-Da Han"
   ],
   "Pages": {
+    "MangaFox": {
+      "monster_duke_s_daughter": {
+        "createdAt": "2021-05-01T06:01:53.000Z",
+        "updatedAt": "2022-06-27T14:20:00.000Z",
+        "checkedAt": "2022-05-25T04:00:50.000Z",
+        "id": 70696,
+        "identifier": "monster_duke_s_daughter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monster Duke's Daughter",
+        "url": "https://fanfox.net/manga/monster_duke_s_daughter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36487/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148611,
+        "aniId": 136937,
+        "deletedAt": null,
+        "authors": [
+          "kds9120",
+          "[Add]"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-jt987176": {
         "createdAt": "2021-06-02T13:01:45.000Z",
-        "updatedAt": "2022-01-21T19:30:11.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-06-27T14:04:07.000Z",
+        "checkedAt": "2022-06-27T11:00:08.000Z",
         "id": 75780,
         "identifier": "manga-jt987176",
         "type": "manga",
@@ -36,12 +61,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 2,
-        "malId": null,
+        "actorId": 1,
+        "malId": 148611,
         "aniId": 136937,
         "deletedAt": null,
         "authors": [
           "Kds9120"
+        ]
+      }
+    },
+    "Mangadex": {
+      "e7b92d8b-ae1d-4968-aab4-de5d62213075": {
+        "createdAt": "2022-06-27T11:00:02.120Z",
+        "updatedAt": "2022-06-27T14:04:04.000Z",
+        "checkedAt": "2022-06-27T11:00:02.000Z",
+        "id": 108296,
+        "identifier": "e7b92d8b-ae1d-4968-aab4-de5d62213075",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Monster Duke's Daughter",
+        "url": "https://mangadex.org/title/e7b92d8b-ae1d-4968-aab4-de5d62213075",
+        "image": "https://uploads.mangadex.org/covers/e7b92d8b-ae1d-4968-aab4-de5d62213075/919adc00-ba2a-4b7a-9418-fdc11981bff8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148611,
+        "aniId": 136937,
+        "deletedAt": null,
+        "authors": [
+          "Han ocean (한바다)",
+          "Chal Lan (잔잔)"
         ]
       }
     }

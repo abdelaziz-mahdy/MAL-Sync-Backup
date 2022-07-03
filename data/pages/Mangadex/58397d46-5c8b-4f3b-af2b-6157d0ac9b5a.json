@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-14T14:41:48.137Z",
-  "updatedAt": "2022-05-14T14:41:48.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-14T14:41:48.000Z",
   "id": 104391,
   "identifier": "58397d46-5c8b-4f3b-af2b-6157d0ac9b5a",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148659,
+  "aniId": 134327,
   "deletedAt": null,
   "authors": [
     "침략자(정도현)",
     "백도선"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-27T23:00:42.964Z",
+    "updatedAt": "2022-06-27T23:00:42.964Z",
+    "checkedAt": "2022-06-27T23:00:42.000Z",
+    "id": 148659,
+    "type": "manga",
+    "title": "My 990 Thousand Past Lives Help Me",
+    "altTitle": [
+      "990k Ex-Life Hunter",
+      "99-man Jeonsaeng-i Nal Dowajwo",
+      "My 990 Thousand Past Lives Help Me",
+      "99만 전생이 날 도와줘"
+    ],
+    "url": "https://myanimelist.net/manga/148659/My_990_Thousand_Past_Lives_Help_Me",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263772.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57066277"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maru Gongbang",
+      "Chimnyakja"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:02.944Z",
+    "updatedAt": "2022-06-28T12:38:48.000Z",
+    "checkedAt": "2022-06-28T12:38:48.000Z",
+    "id": 134327,
+    "type": "manga",
+    "title": "99 man Jeonsaengi Nal Dowajwo",
+    "altTitle": [
+      "My 990 Thousand Past Lives Help Me",
+      "99만 전생이 날 도와줘",
+      "900,000 past lives help me",
+      "990k ex life hunter",
+      "990,000 อดีตชาติ ช่วยฉันที"
+    ],
+    "url": "https://anilist.co/manga/134327",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134327-uezxezLxdWxb.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148659,
+    "deletedAt": null,
+    "authors": [
+      "Invader",
+      "Do-Seon Baek"
+    ]
+  }
 }

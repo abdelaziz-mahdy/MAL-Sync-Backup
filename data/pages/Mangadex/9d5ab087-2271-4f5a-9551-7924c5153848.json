@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-04T14:30:02.095Z",
-  "updatedAt": "2022-06-04T14:30:02.095Z",
+  "updatedAt": "2022-06-30T07:37:10.000Z",
   "checkedAt": "2022-06-04T14:30:02.000Z",
   "id": 106356,
   "identifier": "9d5ab087-2271-4f5a-9551-7924c5153848",
@@ -11,15 +11,65 @@
   "image": "https://uploads.mangadex.org/covers/9d5ab087-2271-4f5a-9551-7924c5153848/870a735f-fe6c-4ff3-9f9c-0e3117a9662b.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 148749,
+  "aniId": 138659,
   "deletedAt": null,
   "authors": [
     "Myeong Rang",
     "Sulmo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-30T07:00:23.122Z",
+    "updatedAt": "2022-06-30T07:00:23.122Z",
+    "checkedAt": "2022-06-30T07:00:23.000Z",
+    "id": 148749,
+    "type": "manga",
+    "title": "Mage Again",
+    "altTitle": [
+      "Mabeopsa Ranghae",
+      "Mage Again",
+      "마법사랑해"
+    ],
+    "url": "https://myanimelist.net/manga/148749/Mage_Again",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263894.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=776655"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Myoung Rang",
+      "Cheong, Seolmo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:15.452Z",
+    "updatedAt": "2022-06-30T07:38:48.000Z",
+    "checkedAt": "2022-06-30T07:38:48.000Z",
+    "id": 138659,
+    "type": "manga",
+    "title": "Mabeopsaranghae",
+    "altTitle": [
+      "Mage Again",
+      "마법사랑해"
+    ],
+    "url": "https://anilist.co/manga/138659",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138659-kmogH32JwqLs.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148749,
+    "deletedAt": null,
+    "authors": [
+      "Myeong Rang",
+      "Seol-Mo Cheong"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-02T13:01:45.000Z",
-  "updatedAt": "2022-01-21T19:30:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-27T14:04:07.000Z",
+  "checkedAt": "2022-06-27T11:00:08.000Z",
   "id": 75780,
   "identifier": "manga-jt987176",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148611,
   "aniId": 136937,
   "deletedAt": null,
   "authors": [
     "Kds9120"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-27T11:00:06.718Z",
+    "updatedAt": "2022-06-27T11:00:06.718Z",
+    "checkedAt": "2022-06-27T11:00:06.000Z",
+    "id": 148611,
+    "type": "manga",
+    "title": "Monster Duke's Daughter",
+    "altTitle": [
+      "Goemul Gongjak-ui Ttal",
+      "Monster Duke's Daughter",
+      "괴물공작의 딸"
+    ],
+    "url": "https://myanimelist.net/manga/148611/Monster_Dukes_Daughter",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263680.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=765158"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Bada",
+      "Challan"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:04:36.061Z",
-    "updatedAt": "2022-05-13T15:55:55.000Z",
-    "checkedAt": "2022-05-13T15:55:55.000Z",
+    "updatedAt": "2022-06-27T14:10:00.000Z",
+    "checkedAt": "2022-06-27T14:10:00.000Z",
     "id": 136937,
     "type": "manga",
     "title": "Goemulgongjagui Ttal",
@@ -36,7 +64,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148611,
     "deletedAt": null,
     "authors": [
       "Challan",

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-01-12T08:42:08.000Z",
-  "updatedAt": "2022-05-13T15:25:16.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-13T15:25:16.000Z",
   "id": 94564,
   "identifier": "questism",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148666,
+  "aniId": 140837,
   "deletedAt": null,
   "authors": [
     "TAEWAN",
     "Yu Nuni"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-28T10:00:03.738Z",
+    "updatedAt": "2022-06-28T10:00:03.738Z",
+    "checkedAt": "2022-06-28T10:00:03.000Z",
+    "id": 148666,
+    "type": "manga",
+    "title": "Questism",
+    "altTitle": [
+      "Quest Jisang Juui",
+      "Questism",
+      "퀘스트지상주의"
+    ],
+    "url": "https://myanimelist.net/manga/148666/Questism",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263787.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=783052"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yununi",
+      "Taewan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:23.363Z",
+    "updatedAt": "2022-06-28T12:38:20.000Z",
+    "checkedAt": "2022-06-28T12:38:20.000Z",
+    "id": 140837,
+    "type": "manga",
+    "title": "Quest Jisangjuui",
+    "altTitle": [
+      "QUESTISM",
+      "퀘스트지상주의",
+      "Quest Supremacy"
+    ],
+    "url": "https://anilist.co/manga/140837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140837-xkIGjyOCjd1m.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148666,
+    "deletedAt": null,
+    "authors": [
+      "Nu-Ni Yoo",
+      "Tae-Wan"
+    ]
+  }
 }

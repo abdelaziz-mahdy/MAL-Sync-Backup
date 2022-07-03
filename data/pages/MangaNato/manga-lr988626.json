@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T06:44:14.000Z",
-  "updatedAt": "2022-05-24T14:30:05.000Z",
+  "updatedAt": "2022-06-27T14:20:00.000Z",
   "checkedAt": "2022-05-24T14:30:05.000Z",
   "id": 73476,
   "identifier": "manga-lr988626",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148559,
+  "aniId": 111799,
   "deletedAt": null,
   "authors": [
     "Noey"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-25T21:00:16.297Z",
+    "updatedAt": "2022-06-25T21:00:16.297Z",
+    "checkedAt": "2022-06-25T21:00:16.000Z",
+    "id": 148559,
+    "type": "manga",
+    "title": "Rumor Has It",
+    "altTitle": [
+      "Gatabutata",
+      "Rumor Has It",
+      "가타부타타"
+    ],
+    "url": "https://myanimelist.net/manga/148559/Rumor_Has_It",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263581.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=729040"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sungeo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:07.089Z",
+    "updatedAt": "2022-06-27T14:08:00.000Z",
+    "checkedAt": "2022-06-27T14:08:00.000Z",
+    "id": 111799,
+    "type": "manga",
+    "title": "Gatabutata",
+    "altTitle": [
+      "Rumor Has It",
+      "가타부타타"
+    ],
+    "url": "https://anilist.co/manga/111799",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111799-LaBFrmi9giQW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148559,
+    "deletedAt": null,
+    "authors": [
+      "Sunga"
+    ]
+  }
 }

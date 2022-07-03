@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-04T20:16:30.000Z",
-  "updatedAt": "2022-05-18T18:30:00.000Z",
+  "updatedAt": "2022-06-28T13:20:00.000Z",
   "checkedAt": "2022-05-18T18:30:00.000Z",
   "id": 86702,
   "identifier": "manga-mv989630",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148561,
+  "aniId": 139568,
   "deletedAt": null,
   "authors": [
     "시세",
     "죠이뽕"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-25T21:00:17.382Z",
+    "updatedAt": "2022-06-25T21:00:17.382Z",
+    "checkedAt": "2022-06-25T21:00:17.000Z",
+    "id": 148561,
+    "type": "manga",
+    "title": "It Was a Mistake, Grand Duke!",
+    "altTitle": [
+      "Grand Duke, It Was a Mistake!",
+      "Daegong-nim, Silsu-yeosseoyo!",
+      "It Was a Mistake, Grand Duke!",
+      "대공님, 실수였어요!"
+    ],
+    "url": "https://myanimelist.net/manga/148561/It_Was_a_Mistake_Grand_Duke",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263587.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=784518"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sisse",
+      "Joypyonn"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:25.473Z",
+    "updatedAt": "2022-06-28T12:41:42.000Z",
+    "checkedAt": "2022-06-28T12:41:42.000Z",
+    "id": 139568,
+    "type": "manga",
+    "title": "Daegongnim, Silsuyeosseoyo! ",
+    "altTitle": [
+      "It Was a Mistake, Grand Duke!",
+      "대공님, 실수였어요!",
+      "Grand Duke, It Was a Mistake!",
+      "大公爵，我不是故意的！",
+      "Grand duc, c'était une erreur !"
+    ],
+    "url": "https://anilist.co/manga/139568",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139568-I7ghR8FzyAgP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148561,
+    "deletedAt": null,
+    "authors": [
+      "Sisse",
+      "Joippyong"
+    ]
+  }
 }

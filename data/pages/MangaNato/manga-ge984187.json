@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T23:31:51.000Z",
-  "updatedAt": "2022-04-17T03:32:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-27T14:20:00.000Z",
+  "checkedAt": "2022-06-26T16:00:00.000Z",
   "id": 75599,
   "identifier": "manga-ge984187",
   "type": "manga",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147747,
+  "aniId": 115257,
   "deletedAt": null,
   "authors": [
     "Aperta",
     "Chyobab"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:30:41.935Z",
+    "updatedAt": "2022-06-07T13:30:41.935Z",
+    "checkedAt": "2022-06-07T13:30:41.000Z",
+    "id": 147747,
+    "type": "manga",
+    "title": "The Tyrant's Sister",
+    "altTitle": [
+      "Living as the Tyrant's Older Sister",
+      "Pokgun-ui Nuna-ro Sanda-neun Geos-eun",
+      "The Tyrant's Sister",
+      "폭군의 누나로 산다는 것은"
+    ],
+    "url": "https://myanimelist.net/manga/147747/The_Tyrants_Sister",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262133.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54150926"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aperta",
+      "Chyobap"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:22.072Z",
+    "updatedAt": "2022-06-08T07:53:01.000Z",
+    "checkedAt": "2022-06-08T07:53:01.000Z",
+    "id": 115257,
+    "type": "manga",
+    "title": "Pokgunui Nunaro Sandaneun Geoseun",
+    "altTitle": [
+      "The Tyrant's Sister",
+      "폭군의 누나로 산다는 것은",
+      "Poggunui Nunalo Sandaneun Geoseun",
+      "Vivir Como La Hermana De Un Tirano",
+      "Living as the Tyrant's Older Sister"
+    ],
+    "url": "https://anilist.co/manga/115257",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115257-LxnXIoTv51So.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147747,
+    "deletedAt": null,
+    "authors": [
+      "choebab",
+      "Aperta "
+    ]
+  }
 }

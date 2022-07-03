@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-01T18:31:29.000Z",
-  "updatedAt": "2022-05-01T18:31:36.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-06-28T13:20:00.000Z",
+  "checkedAt": "2022-06-27T23:02:23.000Z",
   "id": 102429,
   "identifier": "shark_kim_woo_seop",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148655,
+  "aniId": 131468,
   "deletedAt": null,
   "authors": [
     "Luck"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-27T23:02:39.650Z",
+    "updatedAt": "2022-06-27T23:02:39.650Z",
+    "checkedAt": "2022-06-27T23:02:39.000Z",
+    "id": 148655,
+    "type": "manga",
+    "title": "Shark",
+    "altTitle": [
+      "샤크"
+    ],
+    "url": "https://myanimelist.net/manga/148655/Shark",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263765.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=48990437"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Un",
+      "Kim, U-seop"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:08.753Z",
+    "updatedAt": "2022-06-28T12:37:08.000Z",
+    "checkedAt": "2022-06-28T12:37:08.000Z",
+    "id": 131468,
+    "type": "manga",
+    "title": "Shark",
+    "altTitle": [
+      "샤크",
+      "Syakeu"
+    ],
+    "url": "https://anilist.co/manga/131468",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131468-ib04zRmHiBwy.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148655,
+    "deletedAt": null,
+    "authors": [
+      "Un",
+      "Woo-Seop Kim"
+    ]
+  }
 }

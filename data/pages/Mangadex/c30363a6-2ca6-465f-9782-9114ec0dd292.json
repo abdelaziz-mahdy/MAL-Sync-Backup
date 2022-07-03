@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-24T05:00:02.113Z",
-  "updatedAt": "2022-06-24T05:00:03.000Z",
+  "updatedAt": "2022-06-27T14:20:00.000Z",
   "checkedAt": "2022-06-24T05:00:02.000Z",
   "id": 108077,
   "identifier": "c30363a6-2ca6-465f-9782-9114ec0dd292",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136393,
+  "aniId": 131399,
   "deletedAt": null,
   "authors": [
     "Oomitabi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-24T05:00:03.397Z",
+    "updatedAt": "2022-06-24T05:00:03.397Z",
+    "checkedAt": "2022-06-24T05:00:03.000Z",
+    "id": 136393,
+    "type": "manga",
+    "title": "Doppel-san",
+    "altTitle": [
+      "ドッペルさん"
+    ],
+    "url": "https://myanimelist.net/manga/136393/Doppel-san",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244536.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.yanmaga.jp/c/doppelsan/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oomi, Tabi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:33.287Z",
+    "updatedAt": "2022-06-24T15:10:14.000Z",
+    "checkedAt": "2022-06-24T15:10:14.000Z",
+    "id": 131399,
+    "type": "manga",
+    "title": "Doppel-san",
+    "altTitle": [
+      "ドッペルさん"
+    ],
+    "url": "https://anilist.co/manga/131399",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131399-wUPREqWAm5YC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136393,
+    "deletedAt": null,
+    "authors": [
+      "Tabi Oomi"
+    ]
+  }
 }

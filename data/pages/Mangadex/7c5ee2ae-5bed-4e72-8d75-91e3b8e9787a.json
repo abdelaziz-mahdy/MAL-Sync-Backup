@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-02-13T12:09:37.000Z",
-  "updatedAt": "2022-06-03T14:30:02.000Z",
+  "updatedAt": "2022-06-29T07:03:13.000Z",
   "checkedAt": "2022-06-03T14:30:02.000Z",
   "id": 96150,
   "identifier": "7c5ee2ae-5bed-4e72-8d75-91e3b8e9787a",
@@ -12,14 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147799,
+  "aniId": 150193,
   "deletedAt": null,
   "authors": [
     "Nekoko.",
     "Brocco Lee"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T15:00:27.160Z",
+    "updatedAt": "2022-06-07T15:00:27.160Z",
+    "checkedAt": "2022-06-07T15:00:27.000Z",
+    "id": 147799,
+    "type": "manga",
+    "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+    "altTitle": [
+      "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
+      "追放された転生重騎士はゲーム知識で無双する"
+    ],
+    "url": "https://myanimelist.net/manga/147799/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262304.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Necoco",
+      "Brocco, Lee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-31T11:30:13.626Z",
+    "updatedAt": "2022-06-30T07:38:30.000Z",
+    "checkedAt": "2022-06-30T07:38:30.000Z",
+    "id": 150193,
+    "type": "manga",
+    "title": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
+    "altTitle": [
+      "追放された転生重騎士はゲーム知識で無双する",
+      "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge"
+    ],
+    "url": "https://anilist.co/manga/150193",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150193-XBdISLm3IDr1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147799,
+    "deletedAt": null,
+    "authors": [
+      "Nekoko",
+      "Lee Brocco",
+      "Jaian"
+    ]
+  }
 }

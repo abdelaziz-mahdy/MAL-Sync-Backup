@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:56:03.548Z",
-  "updatedAt": "2022-05-14T07:03:54.000Z",
-  "checkedAt": "2022-05-14T07:03:54.000Z",
+  "updatedAt": "2022-06-27T14:12:54.000Z",
+  "checkedAt": "2022-06-27T14:12:54.000Z",
   "id": 136331,
   "type": "manga",
   "title": "8-Class Mabeopsaui Hoegwi",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148190,
   "deletedAt": null,
   "authors": [
     "Ryu-Song",
@@ -45,12 +45,35 @@
         "authors": [
           "Ryu Song"
         ]
+      },
+      "manga-ln989322": {
+        "createdAt": "2021-07-18T13:02:23.000Z",
+        "updatedAt": "2022-06-27T14:20:00.000Z",
+        "checkedAt": "2022-05-14T10:05:53.000Z",
+        "id": 82282,
+        "identifier": "manga-ln989322",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Return Of The 8Th Class Magician",
+        "url": "https://readmanganato.com/manga-ln989322",
+        "image": "https://avt.mkklcdnv6temp.com/25/z/24-1626596195.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148190,
+        "aniId": 136331,
+        "deletedAt": null,
+        "authors": [
+          "Girdap",
+          "Jaeyoon"
+        ]
       }
     },
     "Mangadex": {
       "b2ae13e3-bea1-4f11-bfbe-4269f66e74f8": {
         "createdAt": "2021-12-12T16:34:14.000Z",
-        "updatedAt": "2022-06-06T09:30:09.000Z",
+        "updatedAt": "2022-06-27T14:04:02.000Z",
         "checkedAt": "2022-06-06T09:30:09.000Z",
         "id": 92975,
         "identifier": "b2ae13e3-bea1-4f11-bfbe-4269f66e74f8",
@@ -62,13 +85,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 148190,
         "aniId": 136331,
         "deletedAt": null,
         "authors": [
           "Ryu Song (류송)",
           "Tess (테스)"
+        ]
+      }
+    },
+    "MangaFox": {
+      "the_return_of_the_8th_class_mage": {
+        "createdAt": "2022-04-18T15:03:20.000Z",
+        "updatedAt": "2022-06-27T14:20:00.000Z",
+        "checkedAt": "2022-05-24T16:30:49.000Z",
+        "id": 101787,
+        "identifier": "the_return_of_the_8th_class_mage",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Return of the 8th Class Mage",
+        "url": "https://fanfox.net/manga/the_return_of_the_8th_class_mage/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/41418/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148190,
+        "aniId": 136331,
+        "deletedAt": null,
+        "authors": [
+          "Ryu Song"
         ]
       }
     }

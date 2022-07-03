@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-04-18T15:03:20.000Z",
-  "updatedAt": "2022-05-24T16:30:49.000Z",
+  "updatedAt": "2022-06-27T14:20:00.000Z",
   "checkedAt": "2022-05-24T16:30:49.000Z",
   "id": 101787,
   "identifier": "the_return_of_the_8th_class_mage",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148190,
+  "aniId": 136331,
   "deletedAt": null,
   "authors": [
     "Ryu Song"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-26T19:00:12.133Z",
+    "updatedAt": "2022-06-26T19:00:12.133Z",
+    "checkedAt": "2022-06-26T19:00:12.000Z",
+    "id": 148190,
+    "type": "manga",
+    "title": "The Return of the 8th Class Mage",
+    "altTitle": [
+      "The Return of the 8th Class Magician",
+      "8 Class Mabeopsa-ui Hoegwi",
+      "The Return of the 8th Class Mage",
+      "8클래스 마법사의 회귀"
+    ],
+    "url": "https://myanimelist.net/manga/148190/The_Return_of_the_8th_Class_Mage",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263074.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57140255"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu Song",
+      "Tess"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:03.548Z",
+    "updatedAt": "2022-06-27T14:12:54.000Z",
+    "checkedAt": "2022-06-27T14:12:54.000Z",
+    "id": 136331,
+    "type": "manga",
+    "title": "8-Class Mabeopsaui Hoegwi",
+    "altTitle": [
+      "The Return of the 8th Class Mage",
+      "8클래스 마법사의 회귀",
+      "Return of the 8th Class Magician",
+      "8 Class Mabeopsaui Hoegwi"
+    ],
+    "url": "https://anilist.co/manga/136331",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136331-OE9aIUbmfwR4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148190,
+    "deletedAt": null,
+    "authors": [
+      "Ryu-Song",
+      "Tess"
+    ]
+  }
 }

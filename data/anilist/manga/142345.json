@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:41:26.557Z",
-  "updatedAt": "2022-05-17T02:56:51.000Z",
-  "checkedAt": "2022-05-17T02:56:51.000Z",
+  "updatedAt": "2022-06-27T14:09:22.000Z",
+  "checkedAt": "2022-06-27T14:09:22.000Z",
   "id": 142345,
   "type": "manga",
   "title": "Ureojuseyo, Hwangtaejanim",
@@ -15,16 +15,40 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148562,
   "deletedAt": null,
   "authors": [
     "Duckdam"
   ],
   "Pages": {
+    "Mangadex": {
+      "bef92053-805c-4f0f-87a1-02eaa355b6f6": {
+        "createdAt": "2021-11-11T18:15:37.000Z",
+        "updatedAt": "2022-06-27T14:20:00.000Z",
+        "checkedAt": "2022-06-25T21:00:19.000Z",
+        "id": 90598,
+        "identifier": "bef92053-805c-4f0f-87a1-02eaa355b6f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Please Cry, Crown Prince",
+        "url": "https://mangadex.org/title/bef92053-805c-4f0f-87a1-02eaa355b6f6",
+        "image": "https://uploads.mangadex.org/covers/bef92053-805c-4f0f-87a1-02eaa355b6f6/520e3e68-9f9d-48ce-966d-88e0707adca1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148562,
+        "aniId": 142345,
+        "deletedAt": null,
+        "authors": [
+          "Duck담"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-my990033": {
         "createdAt": "2021-11-23T21:35:58.000Z",
-        "updatedAt": "2022-06-25T21:00:00.000Z",
+        "updatedAt": "2022-06-26T13:45:34.000Z",
         "checkedAt": "2022-06-25T21:00:00.000Z",
         "id": 91676,
         "identifier": "manga-my990033",
@@ -36,12 +60,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 1,
-        "malId": null,
+        "actorId": 2,
+        "malId": 148562,
         "aniId": 142345,
         "deletedAt": null,
         "authors": [
           "Duck담"
+        ]
+      }
+    },
+    "MangaFox": {
+      "please_cry_crown_prince": {
+        "createdAt": "2022-06-25T21:00:00.517Z",
+        "updatedAt": "2022-06-27T14:20:00.000Z",
+        "checkedAt": "2022-06-25T21:00:00.000Z",
+        "id": 108186,
+        "identifier": "please_cry_crown_prince",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Please Cry, Crown Prince",
+        "url": "https://fanfox.net/manga/please_cry_crown_prince/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39955/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148562,
+        "aniId": 142345,
+        "deletedAt": null,
+        "authors": [
+          "Duck Dam",
+          "[Add]"
         ]
       }
     }
