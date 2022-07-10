@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-02T21:31:41.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-06T12:20:00.000Z",
+  "checkedAt": "2022-07-05T21:00:02.000Z",
   "id": 75962,
   "identifier": "manga-il985820",
   "type": "manga",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148957,
+  "aniId": 120437,
   "deletedAt": null,
   "authors": [
     "Kim Jisuk",
     "Woodland"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-05T21:00:01.962Z",
+    "updatedAt": "2022-07-05T21:00:01.962Z",
+    "checkedAt": "2022-07-05T21:00:01.000Z",
+    "id": 148957,
+    "type": "manga",
+    "title": "The Pharmacy Where the Wolf Howls",
+    "altTitle": [
+      "Wolf Crying Pharmacy",
+      "Neukdae-ga Uneun Yakguk",
+      "The Pharmacy Where the Wolf Howls",
+      "늑대가 우는 약국"
+    ],
+    "url": "https://myanimelist.net/manga/148957/The_Pharmacy_Where_the_Wolf_Howls",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264280.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53805174"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Jisuk",
+      "Sillok"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:06.557Z",
+    "updatedAt": "2022-07-06T11:52:21.000Z",
+    "checkedAt": "2022-07-06T11:52:21.000Z",
+    "id": 120437,
+    "type": "manga",
+    "title": "Neukdaega Uneun Yakguk",
+    "altTitle": [
+      "The Pharmacy Where the Wolf Howls",
+      "늑대가 우는 약국",
+      "Wolf Crying Pharmacy",
+      "The Pharmacy Where the Wolf Cries"
+    ],
+    "url": "https://anilist.co/manga/120437",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120437-LwjKTyOzL4rp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148957,
+    "deletedAt": null,
+    "authors": [
+      "Jisuk Kim",
+      "Woodland"
+    ]
+  }
 }

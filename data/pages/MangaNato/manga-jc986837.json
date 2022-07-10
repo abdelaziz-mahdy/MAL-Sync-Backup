@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-27T20:19:29.000Z",
-  "updatedAt": "2021-12-27T20:23:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T08:20:00.000Z",
+  "checkedAt": "2022-07-03T21:00:33.000Z",
   "id": 79955,
   "identifier": "manga-jc986837",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148861,
+  "aniId": 115643,
   "deletedAt": null,
   "authors": [
     "Han Kyoung Charl"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-03T21:01:05.341Z",
+    "updatedAt": "2022-07-03T21:01:05.341Z",
+    "checkedAt": "2022-07-03T21:01:05.000Z",
+    "id": 148861,
+    "type": "manga",
+    "title": "Summer Breeze",
+    "altTitle": [
+      "썸머 브리즈"
+    ],
+    "url": "https://myanimelist.net/manga/148861/Summer_Breeze",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264137.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=732056"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Kyoung-chal"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:29.404Z",
+    "updatedAt": "2022-07-04T08:11:29.000Z",
+    "checkedAt": "2022-07-04T08:11:29.000Z",
+    "id": 115643,
+    "type": "manga",
+    "title": "Summer Breeze",
+    "altTitle": [
+      "썸머 브리즈"
+    ],
+    "url": "https://anilist.co/manga/115643",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115643-ZkntbTSiJ60T.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148861,
+    "deletedAt": null,
+    "authors": [
+      "Gyeong-Chal Han"
+    ]
+  }
 }

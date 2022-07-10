@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-28T21:55:13.000Z",
-  "updatedAt": "2022-01-12T12:13:05.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T08:09:18.000Z",
+  "checkedAt": "2022-07-03T16:00:15.000Z",
   "id": 73080,
   "identifier": "manga-lf988862",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148853,
   "aniId": 133140,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Km",
     "Mint"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-03T16:00:10.511Z",
+    "updatedAt": "2022-07-03T16:00:10.511Z",
+    "checkedAt": "2022-07-03T16:00:10.000Z",
+    "id": 148853,
+    "type": "manga",
+    "title": "My Three Tyrant Brothers",
+    "altTitle": [
+      "Pokgun Oppa-ga Sesiraeyo",
+      "My Three Tyrant Brothers",
+      "폭군 오빠가 셋이래요"
+    ],
+    "url": "https://myanimelist.net/manga/148853/My_Three_Tyrant_Brothers",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264124.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56910985"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jomil",
+      "Parkha",
+      "Eundu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:42:44.766Z",
-    "updatedAt": "2022-05-15T18:50:59.000Z",
-    "checkedAt": "2022-05-15T18:50:59.000Z",
+    "updatedAt": "2022-07-04T08:14:00.000Z",
+    "checkedAt": "2022-07-04T08:14:00.000Z",
     "id": 133140,
     "type": "manga",
     "title": "Pokgun Oppaga Sesiraeyo",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148853,
     "deletedAt": null,
     "authors": [
       "Jomil",

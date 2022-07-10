@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-02-28T09:22:12.000Z",
-  "updatedAt": "2022-05-29T19:00:25.000Z",
+  "updatedAt": "2022-07-06T18:51:03.000Z",
   "checkedAt": "2022-05-29T19:00:25.000Z",
   "id": 96905,
   "identifier": "a-chance-at-last",
@@ -12,19 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148997,
   "aniId": 142878,
   "deletedAt": null,
   "authors": [
     "Dindon",
     "Seo Hye-eun"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-06T17:30:58.416Z",
+    "updatedAt": "2022-07-06T17:30:58.416Z",
+    "checkedAt": "2022-07-06T17:30:58.000Z",
+    "id": 148997,
+    "type": "manga",
+    "title": "A Chance at Last",
+    "altTitle": [
+      "From Now On, Romance",
+      "Ije-ya Yeonae",
+      "A Chance at Last",
+      "이제야 연애"
+    ],
+    "url": "https://myanimelist.net/manga/148997/A_Chance_at_Last",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264426.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=780881"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Seo, Hye-eun",
+      "Dindon"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:43.676Z",
-    "updatedAt": "2022-05-18T01:53:56.000Z",
-    "checkedAt": "2022-05-18T01:53:56.000Z",
+    "updatedAt": "2022-07-07T09:32:39.000Z",
+    "checkedAt": "2022-07-07T09:32:39.000Z",
     "id": 142878,
     "type": "manga",
     "title": "Ijeya Yeonae",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148997,
     "deletedAt": null,
     "authors": [
       "Hye-Eun Seo",

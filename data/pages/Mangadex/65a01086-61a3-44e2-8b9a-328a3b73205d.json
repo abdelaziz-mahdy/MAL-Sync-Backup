@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:14.000Z",
-  "updatedAt": "2022-02-09T07:09:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T08:05:54.000Z",
+  "checkedAt": "2022-07-03T11:00:12.000Z",
   "id": 22459,
   "identifier": "65a01086-61a3-44e2-8b9a-328a3b73205d",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 127265,
+  "aniId": 97641,
   "deletedAt": null,
   "authors": [
     "Pito"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-03T11:00:12.272Z",
+    "updatedAt": "2022-07-03T11:00:12.272Z",
+    "checkedAt": "2022-07-03T11:00:12.000Z",
+    "id": 127265,
+    "type": "manga",
+    "title": "Her Pet",
+    "altTitle": [
+      "Geunyeoui Amkae",
+      "Her Pet",
+      "그녀의 암캐"
+    ],
+    "url": "https://myanimelist.net/manga/127265/Her_Pet",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259809.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/her_dog"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Pito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:01.499Z",
+    "updatedAt": "2022-07-03T11:00:12.000Z",
+    "checkedAt": "2022-07-03T11:00:12.000Z",
+    "id": 97641,
+    "type": "manga",
+    "title": "Her Pet",
+    "altTitle": [
+      "Her Pet",
+      "그녀의 암캐",
+      "Her Dog",
+      "Her Bitch",
+      "她的宠物狗"
+    ],
+    "url": "https://anilist.co/manga/97641",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97641-76i753eubAH0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 127265,
+    "deletedAt": null,
+    "authors": [
+      "Pito"
+    ]
+  }
 }

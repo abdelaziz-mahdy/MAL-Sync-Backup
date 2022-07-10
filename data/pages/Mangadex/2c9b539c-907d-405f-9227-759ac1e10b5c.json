@@ -1,25 +1,77 @@
 {
   "createdAt": "2021-03-12T23:39:13.000Z",
-  "updatedAt": "2021-12-08T13:06:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-07T10:20:00.000Z",
+  "checkedAt": "2022-07-06T17:30:55.000Z",
   "id": 65423,
   "identifier": "2c9b539c-907d-405f-9227-759ac1e10b5c",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Marilyn Likes Lariensa Too Much!",
+  "title": "The Protection of Lariensa Gelinus",
   "url": "https://mangadex.org/title/2c9b539c-907d-405f-9227-759ac1e10b5c",
   "image": "https://uploads.mangadex.org/covers/2c9b539c-907d-405f-9227-759ac1e10b5c/17738c54-c6a4-4b59-9f58-ad8ab1752832.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148995,
+  "aniId": 131262,
   "deletedAt": null,
   "authors": [
-    "지예수(한설온)",
-    "먼지 작가님"
+    "Han Seol On",
+    "O.M.G"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-06T17:30:33.928Z",
+    "updatedAt": "2022-07-06T17:30:33.928Z",
+    "checkedAt": "2022-07-06T17:30:33.000Z",
+    "id": 148995,
+    "type": "manga",
+    "title": "The Protection of Lariensa Gelinus",
+    "altTitle": [
+      "Marilyn Likes Lariensa Too Much!",
+      "Marilyn-eun Lariensa-reul Neomu Joahae!",
+      "The Protection of Lariensa Gelinus",
+      "마릴린은 라리엔사를 너무 좋아해!"
+    ],
+    "url": "https://myanimelist.net/manga/148995/The_Protection_of_Lariensa_Gelinus",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264420.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56673416"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Sulon",
+      "Meonji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:41.218Z",
+    "updatedAt": "2022-07-07T09:29:07.000Z",
+    "checkedAt": "2022-07-07T09:29:07.000Z",
+    "id": 131262,
+    "type": "manga",
+    "title": "Marilyn-eun Lariensa-reul Neomu Joahae!",
+    "altTitle": [
+      "The Protection of Lariensa Gelinus",
+      "마릴린은 라리엔사를 너무 좋아해!",
+      "Marilyn Likes Lariensa Too Much!"
+    ],
+    "url": "https://anilist.co/manga/131262",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131262-wqgJ60yHk4Zi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148995,
+    "deletedAt": null,
+    "authors": [
+      "Jiyesu",
+      "Meon-Ji"
+    ]
+  }
 }

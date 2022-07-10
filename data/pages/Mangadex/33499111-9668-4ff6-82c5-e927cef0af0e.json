@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-30T02:54:20.000Z",
-  "updatedAt": "2022-01-01T21:27:25.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-09T10:20:00.000Z",
+  "checkedAt": "2022-07-09T07:30:04.000Z",
   "id": 93940,
   "identifier": "33499111-9668-4ff6-82c5-e927cef0af0e",
   "type": "manga",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149103,
+  "aniId": 138625,
   "deletedAt": null,
   "authors": [
     "Lazy Fish",
     "Solti",
     "Dancheong"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T07:30:26.300Z",
+    "updatedAt": "2022-07-09T07:30:26.300Z",
+    "checkedAt": "2022-07-09T07:30:26.000Z",
+    "id": 149103,
+    "type": "manga",
+    "title": "I Didn't Mean to Seduce the Male Lead!",
+    "altTitle": [
+      "Namju-reul Kkosi-ryeodeon Geon Anieotseumnida",
+      "I Didn't Mean to Seduce the Male Lead!",
+      "남주를 꼬시려던 건 아니었습니다"
+    ],
+    "url": "https://myanimelist.net/manga/149103/I_Didnt_Mean_to_Seduce_the_Male_Lead",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264601.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57616572"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lazypiece",
+      "Salty"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:08.373Z",
+    "updatedAt": "2022-07-09T09:40:20.000Z",
+    "checkedAt": "2022-07-09T09:40:20.000Z",
+    "id": 138625,
+    "type": "manga",
+    "title": "Namjureul Kkosiryeodeon Geon Anieotseumnida",
+    "altTitle": [
+      "I Didn't Mean to Seduce the Male Lead!",
+      "남주를 꼬시려던 건 아니었습니다",
+      "I Didn't Mean to Seduce the Male Lead",
+      "ฉันไม่ได้อ่อยท่านเคานต์จริงๆ นะ"
+    ],
+    "url": "https://anilist.co/manga/138625",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138625-DJPvJG9BcYzI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149103,
+    "deletedAt": null,
+    "authors": [
+      "Lazy Piece",
+      "Salty",
+      "Dancheong"
+    ]
+  }
 }

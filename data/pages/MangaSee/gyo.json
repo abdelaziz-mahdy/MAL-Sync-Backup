@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-02T21:20:22.000Z",
-  "updatedAt": "2022-01-02T21:53:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T19:53:59.000Z",
+  "checkedAt": "2022-07-04T08:30:13.000Z",
   "id": 56968,
   "identifier": "gyo",
   "type": "manga",
@@ -12,13 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 909,
+  "aniId": 30909,
   "deletedAt": null,
   "authors": [
     "ITOU Junji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-16T11:06:44.000Z",
+    "checkedAt": "2022-05-16T11:06:44.000Z",
+    "id": 909,
+    "type": "manga",
+    "title": "Gyo: Ugomeku Bukimi",
+    "altTitle": [
+      "The Sad Tale of the Principal Post",
+      "The Enigma of Amigara Fault",
+      "Daikokubashira Hiwa",
+      "Ashura no Dansou no Kai",
+      "Gyo: The Death-Stench Creeps",
+      "ギョ うごめく不気味"
+    ],
+    "url": "https://myanimelist.net/manga/909/Gyo__Ugomeku_Bukimi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/88711.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ito, Junji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:37.809Z",
+    "updatedAt": "2022-05-16T11:06:42.000Z",
+    "checkedAt": "2022-05-16T11:06:42.000Z",
+    "id": 30909,
+    "type": "manga",
+    "title": "Gyo: Ugomeku Bukimi",
+    "altTitle": [
+      "Gyo",
+      "ギョうごめく不気味",
+      "The Sad Tale of the Principal Post",
+      "The Enigma of Amigara Fault",
+      "ปลามรณะ"
+    ],
+    "url": "https://anilist.co/manga/30909",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30909-B28a64isOJC2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 909,
+    "deletedAt": null,
+    "authors": [
+      "Junji Itou",
+      "Arnaldo Oka"
+    ]
+  }
 }

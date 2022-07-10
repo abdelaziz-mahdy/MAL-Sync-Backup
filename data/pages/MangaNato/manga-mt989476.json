@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-08-09T13:09:29.000Z",
-  "updatedAt": "2022-05-30T17:30:10.000Z",
+  "updatedAt": "2022-07-07T09:26:45.000Z",
   "checkedAt": "2022-05-30T17:30:10.000Z",
   "id": 84920,
   "identifier": "manga-mt989476",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149001,
   "aniId": 136734,
   "deletedAt": null,
   "authors": [
     "Kim Joon-Hyung",
     "Gongdeuntab"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-06T19:00:15.653Z",
+    "updatedAt": "2022-07-06T19:00:15.653Z",
+    "checkedAt": "2022-07-06T19:00:15.000Z",
+    "id": 149001,
+    "type": "manga",
+    "title": "The Book of Lagier",
+    "altTitle": [
+      "Lagier-ui Seo",
+      "The Book of Lagier",
+      "라지에르의 서"
+    ],
+    "url": "https://myanimelist.net/manga/149001/The_Book_of_Lagier",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264432.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57419661"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gongdeuntap",
+      "Siroo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:43.135Z",
-    "updatedAt": "2022-05-19T21:23:02.000Z",
-    "checkedAt": "2022-05-19T21:23:02.000Z",
+    "updatedAt": "2022-07-07T09:30:29.000Z",
+    "checkedAt": "2022-07-07T09:30:29.000Z",
     "id": 136734,
     "type": "manga",
     "title": "Lagier-ui Seo",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149001,
     "deletedAt": null,
     "authors": [
       "Jun-Hyeong Kim",

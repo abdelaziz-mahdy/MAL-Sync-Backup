@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-12T11:46:54.000Z",
-  "updatedAt": "2022-04-30T09:01:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-09T09:38:23.000Z",
+  "checkedAt": "2022-07-09T07:30:00.000Z",
   "id": 88525,
   "identifier": "80024c98-4498-4fa6-8328-61ceed882267",
   "type": "manga",
@@ -12,19 +12,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149111,
   "aniId": 139293,
   "deletedAt": null,
   "authors": [
     "Gwaaen",
+    "G-ANNE",
     "Kim Peul"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-09T07:30:02.084Z",
+    "updatedAt": "2022-07-09T07:30:02.084Z",
+    "checkedAt": "2022-07-09T07:30:02.000Z",
+    "id": 149111,
+    "type": "manga",
+    "title": "I Wasn't the Cinderella",
+    "altTitle": [
+      "Cinderella Wasn't Me",
+      "Cinderella-neun Naega Anieotda",
+      "I Wasn't the Cinderella",
+      "신데렐라는 내가 아니었다"
+    ],
+    "url": "https://myanimelist.net/manga/149111/I_Wasnt_the_Cinderella",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264614.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57814038"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gwaaen",
+      "Doba"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:36.960Z",
-    "updatedAt": "2022-05-23T04:29:49.000Z",
-    "checkedAt": "2022-05-23T04:29:48.000Z",
+    "updatedAt": "2022-07-09T09:40:25.000Z",
+    "checkedAt": "2022-07-09T09:40:25.000Z",
     "id": 139293,
     "type": "manga",
     "title": "Cinderella-neun Naega Anieotda",
@@ -38,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149111,
     "deletedAt": null,
     "authors": [
       "G-ANNE",

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-22T21:59:11.000Z",
-  "updatedAt": "2021-12-08T07:12:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-06T11:50:58.000Z",
+  "checkedAt": "2022-07-05T21:30:24.000Z",
   "id": 50393,
   "identifier": "8c88d78c-bb6a-41cd-bcb3-71735f55e0dd",
   "type": "manga",
@@ -12,19 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148959,
   "aniId": 125583,
   "deletedAt": null,
   "authors": [
-    "Yoo Song Joo",
+    "Songjoo Yoo (유송주)",
     "블랑피카"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-05T21:30:07.600Z",
+    "updatedAt": "2022-07-05T21:30:07.600Z",
+    "checkedAt": "2022-07-05T21:30:07.000Z",
+    "id": 148959,
+    "type": "manga",
+    "title": "As You Wish, My Lady",
+    "altTitle": [
+      "As the Lady Wishes",
+      "Agassi Tteut-daero",
+      "As You Wish, My Lady",
+      "아가씨 뜻대로"
+    ],
+    "url": "https://myanimelist.net/manga/148959/As_You_Wish_My_Lady",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264282.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55842267"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoo, Sonjoo",
+      "Blanc Fika"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:56:30.442Z",
-    "updatedAt": "2022-05-13T20:05:51.000Z",
-    "checkedAt": "2022-05-13T20:05:51.000Z",
+    "updatedAt": "2022-07-06T11:52:38.000Z",
+    "checkedAt": "2022-07-06T11:52:38.000Z",
     "id": 125583,
     "type": "manga",
     "title": "Agassi Tteutdaero",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148959,
     "deletedAt": null,
     "authors": [
       "Song-Ju Yu",

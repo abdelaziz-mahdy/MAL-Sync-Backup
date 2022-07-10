@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-01T06:22:17.000Z",
-  "updatedAt": "2021-12-08T08:35:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T08:03:25.000Z",
+  "checkedAt": "2022-07-03T16:30:02.000Z",
   "id": 53349,
   "identifier": "efe4fd60-c53a-4f79-a92f-55dd694d762d",
   "type": "manga",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 135336,
+  "aniId": 131018,
   "deletedAt": null,
   "authors": [
     "Sabi Spoon",
     "Hibipon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-05-05T17:03:02.000Z",
+    "updatedAt": "2022-06-05T13:49:46.000Z",
+    "checkedAt": "2022-06-05T13:49:46.000Z",
+    "id": 135336,
+    "type": "manga",
+    "title": "Chikashitsu Dungeon: Binbou Kyoudai wa Goraku wo Motomete Saikyou e",
+    "altTitle": [
+      "Basement Dungeon: Poor Brother and Sister Become the Strongest in Search of Entertainment",
+      "地下室ダンジョン ～貧乏兄妹は娯楽を求めて最強へ～"
+    ],
+    "url": "https://myanimelist.net/manga/135336/Chikashitsu_Dungeon__Binbou_Kyoudai_wa_Goraku_wo_Motomete_Saikyou_e",
+    "image": "https://cdn.myanimelist.net/images/manga/3/243096.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/49313"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hibipon",
+      "Sabi Spoon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:52.967Z",
+    "updatedAt": "2022-06-05T13:49:45.000Z",
+    "checkedAt": "2022-06-05T13:49:45.000Z",
+    "id": 131018,
+    "type": "manga",
+    "title": "Chikashitsu Dungeon: Binbou Kyoudai wa Goraku wo Motomete Saikyou e",
+    "altTitle": [
+      "地下室ダンジョン ～貧乏兄妹は娯楽を求めて最強へ～"
+    ],
+    "url": "https://anilist.co/manga/131018",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131018-m17yc4iHwG5C.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 135336,
+    "deletedAt": null,
+    "authors": [
+      "keepout",
+      "Spoon Sabi",
+      "Ponhibi"
+    ]
+  }
 }

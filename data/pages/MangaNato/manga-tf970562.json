@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-02T23:00:11.818Z",
-  "updatedAt": "2022-07-02T23:00:11.818Z",
+  "updatedAt": "2022-07-04T08:20:00.000Z",
   "checkedAt": "2022-07-02T23:00:11.000Z",
   "id": 108736,
   "identifier": "manga-tf970562",
@@ -11,14 +11,57 @@
   "image": "https://avt.mkklcdnv6temp.com/29/w/13-1583488808.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 96637,
+  "aniId": 87390,
   "deletedAt": null,
   "authors": [
     "Asada Nemui"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:25.000Z",
+    "updatedAt": "2022-05-23T04:12:03.000Z",
+    "checkedAt": "2022-05-23T04:12:03.000Z",
+    "id": 96637,
+    "type": "manga",
+    "title": "Dear, My God",
+    "altTitle": [
+      "Hanabanashi",
+      "Dear, MY GOD"
+    ],
+    "url": "https://myanimelist.net/manga/96637/Dear_My_God",
+    "image": "https://cdn.myanimelist.net/images/manga/2/180882.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Asada, Nemui"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:01.281Z",
+    "updatedAt": "2022-05-23T04:12:01.000Z",
+    "checkedAt": "2022-05-23T04:12:01.000Z",
+    "id": 87390,
+    "type": "manga",
+    "title": "Dear, My God",
+    "altTitle": [
+      "ディア、マイゴッド",
+      "Hanabanashi",
+      "My God"
+    ],
+    "url": "https://anilist.co/manga/87390",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87390-1sNUMuLIjZ7a.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 96637,
+    "deletedAt": null,
+    "authors": [
+      "Nemui Asada"
+    ]
+  }
 }

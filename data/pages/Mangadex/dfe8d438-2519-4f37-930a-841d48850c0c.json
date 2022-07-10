@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-26T21:00:00.878Z",
-  "updatedAt": "2022-05-26T21:00:02.000Z",
+  "updatedAt": "2022-07-08T07:20:00.000Z",
   "checkedAt": "2022-05-26T21:00:00.000Z",
   "id": 105522,
   "identifier": "dfe8d438-2519-4f37-930a-841d48850c0c",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149054,
+  "aniId": 139080,
   "deletedAt": null,
   "authors": [
     "Dingjol (딩졸)",
@@ -22,6 +22,62 @@
     "Contents Lab. Blue (콘텐츠랩블루)",
     "Jhin (진)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-07T20:00:45.845Z",
+    "updatedAt": "2022-07-07T20:00:45.845Z",
+    "checkedAt": "2022-07-07T20:00:45.000Z",
+    "id": 149054,
+    "type": "manga",
+    "title": "Knockin' on the Dungeon Door",
+    "altTitle": [
+      "Dungeon House",
+      "Too Much Dangerous Outside the House",
+      "Jip Bakk-eun Wiheomhae",
+      "Knockin' on the Dungeon Door",
+      "집 밖은 위험해"
+    ],
+    "url": "https://myanimelist.net/manga/149054/Knockin_on_the_Dungeon_Door",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264505.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57469462"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jeongmin",
+      "Jin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:43.723Z",
+    "updatedAt": "2022-07-08T07:16:32.000Z",
+    "checkedAt": "2022-07-08T07:16:32.000Z",
+    "id": 139080,
+    "type": "manga",
+    "title": "Jip Bakkeun Wiheomhae",
+    "altTitle": [
+      "Knockin' on the Dungeon Door",
+      "집 밖은 위험해",
+      "Dungeon House",
+      "Too Much Dangerous Outside the House",
+      "家の外は危ない"
+    ],
+    "url": "https://anilist.co/manga/139080",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139080-dBgUfHRSM2Bd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149054,
+    "deletedAt": null,
+    "authors": [
+      "Jeon-Min",
+      "Jin",
+      "Content Lab Blue"
+    ]
+  }
 }

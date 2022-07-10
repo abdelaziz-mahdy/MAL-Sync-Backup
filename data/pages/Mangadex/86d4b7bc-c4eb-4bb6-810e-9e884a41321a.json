@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-11T09:21:35.000Z",
-  "updatedAt": "2022-06-23T08:00:08.000Z",
+  "updatedAt": "2022-07-05T13:46:32.000Z",
   "checkedAt": "2022-06-23T08:00:06.000Z",
   "id": 58134,
   "identifier": "86d4b7bc-c4eb-4bb6-810e-9e884a41321a",
@@ -12,14 +12,62 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147305,
+  "aniId": 132041,
   "deletedAt": null,
   "authors": [
     "Yuu Araoshi",
     "Rena Suzune"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-23T08:00:08.154Z",
+    "updatedAt": "2022-06-23T08:00:08.154Z",
+    "checkedAt": "2022-06-23T08:00:08.000Z",
+    "id": 147305,
+    "type": "manga",
+    "title": "Yuri Love Slave: Futari dake no Houkago",
+    "altTitle": [
+      "百合ラブスレイブ　ふたりだけの放課後"
+    ],
+    "url": "https://myanimelist.net/manga/147305/Yuri_Love_Slave__Futari_dake_no_Houkago",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261290.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comic-valkyrie.com/yuriloveslave/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Araoshi, Yuu",
+      "Suzune, Rena"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:41.774Z",
+    "updatedAt": "2022-07-05T13:49:39.000Z",
+    "checkedAt": "2022-07-05T13:49:39.000Z",
+    "id": 132041,
+    "type": "manga",
+    "title": "Yuri Love Slave: Futari Dake no Houkago",
+    "altTitle": [
+      "百合ラブスレイブ ふたりだけの放課後"
+    ],
+    "url": "https://anilist.co/manga/132041",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132041-pc2G9KaSRzgO.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 147305,
+    "deletedAt": null,
+    "authors": [
+      "Rena Suzunone",
+      "Yuu Araoshi",
+      "Rena Suzunone"
+    ]
+  }
 }

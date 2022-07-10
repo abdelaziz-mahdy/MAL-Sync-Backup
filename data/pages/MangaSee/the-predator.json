@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-11-16T22:57:39.000Z",
-  "updatedAt": "2022-06-13T07:00:23.000Z",
+  "updatedAt": "2022-07-05T14:20:00.000Z",
   "checkedAt": "2022-06-13T07:00:23.000Z",
   "id": 90835,
   "identifier": "the-predator",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148915,
+  "aniId": 138660,
   "deletedAt": null,
   "authors": [
     "Chi Chi",
     "Shin Heebin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-04T22:30:01.753Z",
+    "updatedAt": "2022-07-04T22:30:01.753Z",
+    "checkedAt": "2022-07-04T22:30:01.000Z",
+    "id": 148915,
+    "type": "manga",
+    "title": "The Predator",
+    "altTitle": [
+      "Posikdongmul",
+      "The Predator",
+      "포식동물"
+    ],
+    "url": "https://myanimelist.net/manga/148915/The_Predator",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264233.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=773417"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shin, Heebin",
+      "Chihun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:20.468Z",
+    "updatedAt": "2022-07-05T13:50:38.000Z",
+    "checkedAt": "2022-07-05T13:50:38.000Z",
+    "id": 138660,
+    "type": "manga",
+    "title": "Posikdongmul",
+    "altTitle": [
+      "The Predator",
+      "포식동물",
+      "Predatory Animals"
+    ],
+    "url": "https://anilist.co/manga/138660",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138660-LDLHEW1zVAnR.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148915,
+    "deletedAt": null,
+    "authors": [
+      "Hui-Bin Sin",
+      "Chi-Hun"
+    ]
+  }
 }

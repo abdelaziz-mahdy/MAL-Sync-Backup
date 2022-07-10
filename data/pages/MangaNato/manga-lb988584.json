@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T09:03:57.000Z",
-  "updatedAt": "2021-11-28T08:36:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-05T13:47:53.000Z",
+  "checkedAt": "2022-07-05T06:00:37.000Z",
   "id": 74279,
   "identifier": "manga-lb988584",
   "type": "manga",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148921,
   "aniId": 121632,
   "deletedAt": null,
   "authors": [
     "Kim Myeongmi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-05T06:00:10.560Z",
+    "updatedAt": "2022-07-05T06:00:10.560Z",
+    "checkedAt": "2022-07-05T06:00:10.000Z",
+    "id": 148921,
+    "type": "manga",
+    "title": "An Hour of Romance",
+    "altTitle": [
+      "1/24 Romance",
+      "24-bun-ui 1 Romance",
+      "An Hour of Romance",
+      "24분의 1 로맨스"
+    ],
+    "url": "https://myanimelist.net/manga/148921/An_Hour_of_Romance",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264239.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=54464663"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Myeongmi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:58.898Z",
-    "updatedAt": "2022-05-17T23:18:46.000Z",
-    "checkedAt": "2022-05-17T23:18:46.000Z",
+    "updatedAt": "2022-07-06T11:52:28.000Z",
+    "checkedAt": "2022-07-06T11:52:28.000Z",
     "id": 121632,
     "type": "manga",
     "title": "24 Bunui 1 Romance",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148921,
     "deletedAt": null,
     "authors": [
       "Myeongmi Kim"

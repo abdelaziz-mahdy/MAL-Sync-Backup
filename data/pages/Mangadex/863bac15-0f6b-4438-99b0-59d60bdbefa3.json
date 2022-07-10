@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-24T17:12:59.000Z",
-  "updatedAt": "2021-12-08T10:38:09.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-09T14:20:00.000Z",
+  "checkedAt": "2022-07-09T10:00:02.000Z",
   "id": 59727,
   "identifier": "863bac15-0f6b-4438-99b0-59d60bdbefa3",
   "type": "manga",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136202,
+  "aniId": 112985,
   "deletedAt": null,
   "authors": [
     "Voltage",
     "Sakurano Mika"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-09T17:34:50.000Z",
+    "updatedAt": "2022-05-21T04:51:01.000Z",
+    "checkedAt": "2022-05-21T04:51:01.000Z",
+    "id": 136202,
+    "type": "manga",
+    "title": "Ano Yoru kara Kimi ni Koishiteta",
+    "altTitle": [
+      "Irresistible Mistakes",
+      "あの夜からキミに恋してた"
+    ],
+    "url": "https://myanimelist.net/manga/136202/Ano_Yoru_kara_Kimi_ni_Koishiteta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244249.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakurano, Mika"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:19.503Z",
+    "updatedAt": "2022-05-21T04:51:00.000Z",
+    "checkedAt": "2022-05-21T04:51:00.000Z",
+    "id": 112985,
+    "type": "manga",
+    "title": "Ano Yoru kara Kimi ni Koi Shiteta",
+    "altTitle": [
+      "あの夜からキミに恋してた",
+      "Irresistible Mistakes",
+      "一夜倾情 "
+    ],
+    "url": "https://anilist.co/manga/112985",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112985-7vd0gJlK5v9j.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136202,
+    "deletedAt": null,
+    "authors": [
+      "Mika Sakurano"
+    ]
+  }
 }

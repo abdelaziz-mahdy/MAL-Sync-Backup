@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:58:51.909Z",
-  "updatedAt": "2022-05-15T09:49:47.000Z",
-  "checkedAt": "2022-05-15T09:49:47.000Z",
+  "updatedAt": "2022-07-08T07:16:38.000Z",
+  "checkedAt": "2022-07-08T07:16:38.000Z",
   "id": 138666,
   "type": "manga",
   "title": "Ygret",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149029,
   "deletedAt": null,
   "authors": [
     "Deun-Tap Gong",
@@ -26,8 +26,8 @@
     "MangaNato": {
       "manga-ma989509": {
         "createdAt": "2021-08-17T10:07:00.000Z",
-        "updatedAt": "2022-05-02T10:33:29.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-07T09:27:41.000Z",
+        "checkedAt": "2022-07-07T09:00:26.000Z",
         "id": 85519,
         "identifier": "manga-ma989509",
         "type": "manga",
@@ -38,12 +38,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
+        "actorId": 1,
+        "malId": 149029,
+        "aniId": 138666,
+        "deletedAt": null,
+        "authors": [
+          "Updating"
+        ]
+      }
+    },
+    "Mangadex": {
+      "56d45142-7e9e-4f46-9b40-0f0e11f0b3cd": {
+        "createdAt": "2022-07-07T09:00:00.735Z",
+        "updatedAt": "2022-07-07T09:00:01.000Z",
+        "checkedAt": "2022-07-07T09:00:00.000Z",
+        "id": 109058,
+        "identifier": "56d45142-7e9e-4f46-9b40-0f0e11f0b3cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Egret: The Great Sage",
+        "url": "https://mangadex.org/title/56d45142-7e9e-4f46-9b40-0f0e11f0b3cd",
+        "image": "https://uploads.mangadex.org/covers/56d45142-7e9e-4f46-9b40-0f0e11f0b3cd/8835462d-56bf-41d4-a4ae-b59b923b62e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
         "actorId": null,
         "malId": null,
         "aniId": 138666,
         "deletedAt": null,
         "authors": [
-          "Updating"
+          "GongDeunTop (공든탑)",
+          "MAJI (진심)"
         ]
       }
     }

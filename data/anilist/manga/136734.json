@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:43:43.135Z",
-  "updatedAt": "2022-05-19T21:23:02.000Z",
-  "checkedAt": "2022-05-19T21:23:02.000Z",
+  "updatedAt": "2022-07-07T09:30:29.000Z",
+  "checkedAt": "2022-07-07T09:30:29.000Z",
   "id": 136734,
   "type": "manga",
   "title": "Lagier-ui Seo",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149001,
   "deletedAt": null,
   "authors": [
     "Jun-Hyeong Kim",
@@ -25,7 +25,7 @@
     "MangaNato": {
       "manga-mt989476": {
         "createdAt": "2021-08-09T13:09:29.000Z",
-        "updatedAt": "2022-05-30T17:30:10.000Z",
+        "updatedAt": "2022-07-07T09:26:45.000Z",
         "checkedAt": "2022-05-30T17:30:10.000Z",
         "id": 84920,
         "identifier": "manga-mt989476",
@@ -37,8 +37,8 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149001,
         "aniId": 136734,
         "deletedAt": null,
         "authors": [
@@ -47,10 +47,35 @@
         ]
       }
     },
+    "MangaFox": {
+      "the_book_of_lagier": {
+        "createdAt": "2021-10-22T11:58:37.000Z",
+        "updatedAt": "2022-07-07T10:20:00.000Z",
+        "checkedAt": "2022-07-06T19:00:14.000Z",
+        "id": 89156,
+        "identifier": "the_book_of_lagier",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Book of Lagier",
+        "url": "https://fanfox.net/manga/the_book_of_lagier/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39018/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149001,
+        "aniId": 136734,
+        "deletedAt": null,
+        "authors": [
+          "GongDeunTab",
+          "KIM Joon-Hyung"
+        ]
+      }
+    },
     "Mangadex": {
       "ebe32bf7-56e8-40d6-b1e7-22e87c8b3b42": {
         "createdAt": "2022-05-30T17:30:27.680Z",
-        "updatedAt": "2022-05-30T17:30:27.680Z",
+        "updatedAt": "2022-07-06T19:00:15.000Z",
         "checkedAt": "2022-05-30T17:30:27.000Z",
         "id": 105905,
         "identifier": "ebe32bf7-56e8-40d6-b1e7-22e87c8b3b42",
@@ -61,9 +86,9 @@
         "image": "https://uploads.mangadex.org/covers/ebe32bf7-56e8-40d6-b1e7-22e87c8b3b42/5b48d0dd-8ea6-486c-a666-c1bc7a34cfe9.jpg",
         "hentai": false,
         "sticky": false,
-        "active": false,
+        "active": true,
         "actorId": null,
-        "malId": null,
+        "malId": 149001,
         "aniId": 136734,
         "deletedAt": null,
         "authors": [

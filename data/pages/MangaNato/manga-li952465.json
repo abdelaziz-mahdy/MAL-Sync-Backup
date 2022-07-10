@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-22T09:33:59.000Z",
-  "updatedAt": "2022-07-02T20:00:00.000Z",
+  "updatedAt": "2022-07-04T08:20:00.000Z",
   "checkedAt": "2022-07-02T20:00:00.000Z",
   "id": 82742,
   "identifier": "manga-li952465",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148827,
+  "aniId": 86087,
   "deletedAt": null,
   "authors": [
     "Dey"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-02T20:00:01.921Z",
+    "updatedAt": "2022-07-02T20:00:01.921Z",
+    "checkedAt": "2022-07-02T20:00:01.000Z",
+    "id": 148827,
+    "type": "manga",
+    "title": "Dead Days",
+    "altTitle": [
+      "Dead Days",
+      "데드데이즈"
+    ],
+    "url": "https://myanimelist.net/manga/148827/Dead_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264037.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=628998"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dey"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:36.465Z",
+    "updatedAt": "2022-07-04T08:10:52.000Z",
+    "checkedAt": "2022-07-04T08:10:52.000Z",
+    "id": 86087,
+    "type": "manga",
+    "title": "DEAD DAYS",
+    "altTitle": [
+      "DEAD DAYS",
+      "데드데이즈 (DEAD DAYS)",
+      "活屍日誌 - DEAD DAYS",
+      "DEAD DAYS:死亡之日",
+      "DEAD DAYS - Gumeun Fantastic Series 1",
+      "วันโลกดับ"
+    ],
+    "url": "https://anilist.co/manga/86087",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56087-Z3Nhqymp7PB7.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148827,
+    "deletedAt": null,
+    "authors": [
+      "DEY"
+    ]
+  }
 }

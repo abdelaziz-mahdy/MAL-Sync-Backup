@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-04T12:20:18.000Z",
-  "updatedAt": "2022-02-19T18:46:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-06T12:20:00.000Z",
+  "checkedAt": "2022-07-06T08:30:10.000Z",
   "id": 76435,
   "identifier": "manga-ks987501",
   "type": "manga",
@@ -12,15 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148971,
+  "aniId": 128170,
   "deletedAt": null,
   "authors": [
     "Dagabi",
     "Flower J",
     "Jin Soye"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-06T08:30:01.442Z",
+    "updatedAt": "2022-07-06T08:30:01.442Z",
+    "checkedAt": "2022-07-06T08:30:01.000Z",
+    "id": 148971,
+    "type": "manga",
+    "title": "Faking It in Style",
+    "altTitle": [
+      "Show Window-ui Pumgyeok",
+      "Faking It in Style",
+      "쇼윈도의 품격"
+    ],
+    "url": "https://myanimelist.net/manga/148971/Faking_It_in_Style",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264299.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55518661"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jin, Soye",
+      "Dagabi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:55.889Z",
+    "updatedAt": "2022-07-06T11:52:47.000Z",
+    "checkedAt": "2022-07-06T11:52:47.000Z",
+    "id": 128170,
+    "type": "manga",
+    "title": "Syowindoui Pumgyeok",
+    "altTitle": [
+      "Faking It In Style",
+      "쇼윈도의 품격"
+    ],
+    "url": "https://anilist.co/manga/128170",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128170-IKncOeLX5eqG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148971,
+    "deletedAt": null,
+    "authors": [
+      "Kkot J",
+      "Dagabi"
+    ]
+  }
 }

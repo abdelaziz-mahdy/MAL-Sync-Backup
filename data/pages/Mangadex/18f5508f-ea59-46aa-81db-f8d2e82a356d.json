@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-07T11:00:02.090Z",
-  "updatedAt": "2022-06-07T11:00:02.000Z",
+  "updatedAt": "2022-07-08T07:20:00.000Z",
   "checkedAt": "2022-06-07T11:00:02.000Z",
   "id": 106657,
   "identifier": "18f5508f-ea59-46aa-81db-f8d2e82a356d",
@@ -12,15 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149050,
+  "aniId": 140759,
   "deletedAt": null,
   "authors": [
     "SEO Li-ha",
     "Seogak",
     "San (산)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-07T20:01:41.016Z",
+    "updatedAt": "2022-07-07T20:01:41.016Z",
+    "checkedAt": "2022-07-07T20:01:41.000Z",
+    "id": 149050,
+    "type": "manga",
+    "title": "Villains Behind the Curtains",
+    "altTitle": [
+      "I Lost the Leash of the Yandere Male Lead",
+      "Heungmag-ui Mokjur-eul Notcheo Beoryeotda",
+      "Villains Behind the Curtains",
+      "흑막의 목줄을 놓쳐버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/149050/Villains_Behind_the_Curtains",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264502.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58078660"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Flangby",
+      "J00"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:59.118Z",
+    "updatedAt": "2022-07-08T07:18:35.000Z",
+    "checkedAt": "2022-07-08T07:18:35.000Z",
+    "id": 140759,
+    "type": "manga",
+    "title": "Heungmagui Mokjureul Nochyeobeoryeotda",
+    "altTitle": [
+      "Villains Behind the Curtains",
+      "흑막의 목줄을 놓쳐버렸다",
+      "I Lost the Leash of the Yandere Male Lead",
+      "I Lost the Leash of the Blackened Male Lead",
+      "The Collar is Broken"
+    ],
+    "url": "https://anilist.co/manga/140759",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140759-WKXfhvdIvHUP.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149050,
+    "deletedAt": null,
+    "authors": [
+      "J00",
+      "Flangbee"
+    ]
+  }
 }

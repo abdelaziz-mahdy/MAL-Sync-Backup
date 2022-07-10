@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-13T16:29:56.000Z",
-  "updatedAt": "2022-05-28T21:00:07.000Z",
+  "updatedAt": "2022-07-07T10:20:00.000Z",
   "checkedAt": "2022-05-28T21:00:06.000Z",
   "id": 88685,
   "identifier": "92f5df1a-6807-4fc4-9264-4dabce304b85",
@@ -12,15 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148999,
+  "aniId": 136799,
   "deletedAt": null,
   "authors": [
     "용두식",
     "Nam Yoo Hyun",
     "Upudubu (우푸)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-06T19:00:17.161Z",
+    "updatedAt": "2022-07-06T19:00:17.161Z",
+    "checkedAt": "2022-07-06T19:00:17.000Z",
+    "id": 148999,
+    "type": "manga",
+    "title": "Elizabeth of Velpera",
+    "altTitle": [
+      "Pure White Elizabeth",
+      "Sunbaeg-ui Elizabeth",
+      "Elizabeth of Velpera",
+      "순백의 엘리사벳"
+    ],
+    "url": "https://myanimelist.net/manga/148999/Elizabeth_of_Velpera",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264429.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57369918"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Upu",
+      "Nam, Yuhyeon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:05.276Z",
+    "updatedAt": "2022-07-07T09:30:44.000Z",
+    "checkedAt": "2022-07-07T09:30:44.000Z",
+    "id": 136799,
+    "type": "manga",
+    "title": "Sunbaegui Elizabeth",
+    "altTitle": [
+      "Elizabeth of Velpera",
+      "순백의 엘리사벳",
+      "Pure White Elizabeth",
+      "อลิซาเบธผู้บริสุทธิ์"
+    ],
+    "url": "https://anilist.co/manga/136799",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136799-EeI7dLgyrYWh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148999,
+    "deletedAt": null,
+    "authors": [
+      "UPU",
+      "Du-Sik Yong",
+      "Yu-Hyeon Nam",
+      "Hae-Won",
+      "Ri Kim"
+    ]
+  }
 }

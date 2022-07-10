@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:10:07.000Z",
-  "updatedAt": "2022-01-20T21:00:12.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-04T08:04:57.000Z",
+  "checkedAt": "2022-07-03T11:00:03.000Z",
   "id": 16456,
   "identifier": "71937147-e3e7-4ba6-9cd9-912b8289223d",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 141635,
+  "aniId": 99360,
   "deletedAt": null,
   "authors": [
     "Gom Mali"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-03T11:00:03.526Z",
+    "updatedAt": "2022-07-03T11:00:03.526Z",
+    "checkedAt": "2022-07-03T11:00:03.000Z",
+    "id": 141635,
+    "type": "manga",
+    "title": "Everyday Lily",
+    "altTitle": [
+      "Baekhab-eun Ilsang",
+      "Everyday Lily",
+      "백합은 일상"
+    ],
+    "url": "https://myanimelist.net/manga/141635/Everyday_Lily",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263831.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/gl_is_life"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gom Mali"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:56.627Z",
+    "updatedAt": "2022-07-04T08:10:55.000Z",
+    "checkedAt": "2022-07-04T08:10:55.000Z",
+    "id": 99360,
+    "type": "manga",
+    "title": "Everyday Lily",
+    "altTitle": [
+      "백합은 일상",
+      "Everyday Yuri"
+    ],
+    "url": "https://anilist.co/manga/99360",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99360-Kq1AGeWeuOyr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 141635,
+    "deletedAt": null,
+    "authors": [
+      "Gom Mali"
+    ]
+  }
 }

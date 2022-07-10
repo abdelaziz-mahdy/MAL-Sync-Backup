@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-11T20:39:45.000Z",
-  "updatedAt": "2022-02-11T20:39:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-09T10:20:00.000Z",
+  "checkedAt": "2022-07-09T07:30:00.000Z",
   "id": 96082,
   "identifier": "the_villainess_becomes_the_leading_lady",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149108,
+  "aniId": 135838,
   "deletedAt": null,
   "authors": [
     "Yurinhae"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T07:30:27.323Z",
+    "updatedAt": "2022-07-09T07:30:27.323Z",
+    "checkedAt": "2022-07-09T07:30:27.000Z",
+    "id": 149108,
+    "type": "manga",
+    "title": "The Villainess Becomes the Leading Lady",
+    "altTitle": [
+      "Even Though I'm the Villainess, I'll Become the Heroine!",
+      "Angnyeo-jiman Yeojuingong-i Doegetseumnida",
+      "The Villainess Becomes the Leading Lady",
+      "악녀지만 여주인공이 되겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/149108/The_Villainess_Becomes_the_Leading_Lady",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264611.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57073756"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maru Gongbang",
+      "Yoo, Rinhae"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:48.787Z",
+    "updatedAt": "2022-07-09T09:40:07.000Z",
+    "checkedAt": "2022-07-09T09:40:07.000Z",
+    "id": 135838,
+    "type": "manga",
+    "title": "Angnyeojiman Yeojuingongi Doegetseumnida",
+    "altTitle": [
+      "The Villainess Becomes the Leading Lady",
+      "악녀지만 여주인공이 되겠습니다",
+      "Even Though I’m the Villainess, I’ll Become the Heroine!"
+    ],
+    "url": "https://anilist.co/manga/135838",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135838-VIe0RH4qsxO3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149108,
+    "deletedAt": null,
+    "authors": [
+      "Rin-Hae Yoo",
+      "Dwaeji Cake"
+    ]
+  }
 }
