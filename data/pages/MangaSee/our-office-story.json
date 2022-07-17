@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-14T15:57:57.000Z",
-  "updatedAt": "2022-06-06T19:00:39.000Z",
+  "updatedAt": "2022-07-11T06:20:00.000Z",
   "checkedAt": "2022-06-06T19:00:39.000Z",
   "id": 78216,
   "identifier": "our-office-story",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148244,
+  "aniId": 125229,
   "deletedAt": null,
   "authors": [
     "KIM Jane",
     "Wasakbasak"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:33.407Z",
+    "updatedAt": "2022-07-10T21:00:33.407Z",
+    "checkedAt": "2022-07-10T21:00:33.000Z",
+    "id": 148244,
+    "type": "manga",
+    "title": "The Nuna at Our Office",
+    "altTitle": [
+      "My Office Noona's Story",
+      "Office Nuna Iyagi",
+      "The Nuna at Our Office",
+      "오피스 누나 이야기"
+    ],
+    "url": "https://myanimelist.net/manga/148244/The_Nuna_at_Our_Office",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263536.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=755694"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Palmeiro",
+      "Wasakbasak"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:13.757Z",
+    "updatedAt": "2022-07-11T06:08:17.000Z",
+    "checkedAt": "2022-07-11T06:08:17.000Z",
+    "id": 125229,
+    "type": "manga",
+    "title": "Office Nuna Iyagi",
+    "altTitle": [
+      "The Nuna at Our Office",
+      "오피스 누나 이야기",
+      "The Story About My Office Noona",
+      "My Office Noona's Story",
+      "Opiseu Nuna Iyagi"
+    ],
+    "url": "https://anilist.co/manga/125229",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125229-zkOg3ElI35Jl.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148244,
+    "deletedAt": null,
+    "authors": [
+      "Wasakbasak",
+      "Jane Kim"
+    ]
+  }
 }

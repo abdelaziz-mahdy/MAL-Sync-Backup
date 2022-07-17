@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-21T07:27:11.000Z",
-  "updatedAt": "2022-05-14T09:36:41.000Z",
+  "updatedAt": "2022-07-10T18:20:00.000Z",
   "checkedAt": "2022-05-14T09:36:41.000Z",
   "id": 79150,
   "identifier": "manga-lc989185",
@@ -12,13 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148679,
+  "aniId": 133708,
   "deletedAt": null,
   "authors": [
     "Hong Dae Eui"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-01T13:30:01.220Z",
+    "updatedAt": "2022-07-01T13:30:01.220Z",
+    "checkedAt": "2022-07-01T13:30:01.000Z",
+    "id": 148679,
+    "type": "manga",
+    "title": "The Lord of Coins",
+    "altTitle": [
+      "The Lord's Coins Aren't Decreasing?!",
+      "Yeongju-nim-ui Coin-i Julji Aneum?!",
+      "The Lord of Coins",
+      "영주님의 코인이 줄지 않음?!"
+    ],
+    "url": "https://myanimelist.net/manga/148679/The_Lord_of_Coins",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263911.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56998709"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mokhyun",
+      "Trouvere"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:16.649Z",
+    "updatedAt": "2022-07-04T08:13:57.000Z",
+    "checkedAt": "2022-07-04T08:13:57.000Z",
+    "id": 133708,
+    "type": "manga",
+    "title": "Yeongjunimui Koini Julji Aneum?!",
+    "altTitle": [
+      "The Lord of Coins",
+      "영주님의 코인이 줄지 않음?!",
+      "Does the Lord's Coin Not Shrink?!",
+      "The Lord's Coins Aren’t Decreasing?!",
+      "领主大人的金币用不完",
+      "คอยน์เจ้าเมืองไม่ลดลงเลย?!"
+    ],
+    "url": "https://anilist.co/manga/133708",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133708-jbCAFEttCAZp.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148679,
+    "deletedAt": null,
+    "authors": [
+      "Mok-Hyeon",
+      "Dae-Ui Hong",
+      "Teurubereu"
+    ]
+  }
 }

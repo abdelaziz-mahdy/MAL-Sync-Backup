@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-02T04:31:26.000Z",
-  "updatedAt": "2022-03-23T21:57:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-11T06:05:31.000Z",
+  "checkedAt": "2022-07-10T23:00:08.000Z",
   "id": 75661,
   "identifier": "manga-je987261",
   "type": "manga",
@@ -12,18 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147328,
   "aniId": 129956,
   "deletedAt": null,
   "authors": [
     "도가도"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T23:00:10.595Z",
+    "updatedAt": "2022-07-10T23:00:10.595Z",
+    "checkedAt": "2022-07-10T23:00:10.000Z",
+    "id": 147328,
+    "type": "manga",
+    "title": "A Man's Man",
+    "altTitle": [
+      "Real Man",
+      "The Man",
+      "Sangnamja",
+      "A Man's Man",
+      "상남자"
+    ],
+    "url": "https://myanimelist.net/manga/147328/A_Mans_Man",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263998.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=751168"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dogado",
+      "Kim, Taegung"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:58:24.731Z",
-    "updatedAt": "2022-05-13T16:42:26.000Z",
-    "checkedAt": "2022-05-13T16:42:26.000Z",
+    "updatedAt": "2022-07-11T15:17:16.000Z",
+    "checkedAt": "2022-07-11T15:17:16.000Z",
     "id": 129956,
     "type": "manga",
     "title": "Sangnamja",
@@ -34,14 +64,15 @@
       "Manly Man",
       "The Man",
       "男子汉",
-      "Real Man"
+      "Real Man",
+      "男子漢"
     ],
     "url": "https://anilist.co/manga/129956",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129956-VsrhLZ3qpJL2.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147328,
     "deletedAt": null,
     "authors": [
       "Tae-Gung Kim",

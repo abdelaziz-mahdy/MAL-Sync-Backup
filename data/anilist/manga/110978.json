@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:55:16.912Z",
-  "updatedAt": "2022-05-27T14:03:17.000Z",
-  "checkedAt": "2022-05-27T14:03:17.000Z",
+  "updatedAt": "2022-07-13T08:57:49.000Z",
+  "checkedAt": "2022-07-13T08:57:49.000Z",
   "id": 110978,
   "type": "manga",
   "title": "Beatrice",
@@ -13,7 +13,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149251,
   "deletedAt": null,
   "authors": [
     "Cierra",
@@ -24,8 +24,8 @@
     "Mangadex": {
       "8f66ebd9-e17f-4d70-9814-a4ebf1e1d453": {
         "createdAt": "2020-10-12T16:16:28.000Z",
-        "updatedAt": "2022-03-29T11:01:03.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-13T08:56:33.000Z",
+        "checkedAt": "2022-07-13T00:30:00.000Z",
         "id": 29167,
         "identifier": "8f66ebd9-e17f-4d70-9814-a4ebf1e1d453",
         "type": "manga",
@@ -36,8 +36,8 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149251,
         "aniId": 110978,
         "deletedAt": null,
         "authors": [
@@ -46,11 +46,35 @@
         ]
       }
     },
+    "MangaFox": {
+      "beatrice": {
+        "createdAt": "2021-02-07T19:50:20.000Z",
+        "updatedAt": "2022-07-13T09:20:00.000Z",
+        "checkedAt": "2022-07-13T00:30:02.000Z",
+        "id": 61675,
+        "identifier": "beatrice",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Beatrice",
+        "url": "https://fanfox.net/manga/beatrice/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30999/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149251,
+        "aniId": 110978,
+        "deletedAt": null,
+        "authors": [
+          "Masheri"
+        ]
+      }
+    },
     "MangaSee": {
       "beatrice": {
         "createdAt": "2021-03-13T18:39:34.000Z",
-        "updatedAt": "2021-12-06T06:49:11.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-13T08:57:06.000Z",
+        "checkedAt": "2022-07-13T00:30:14.000Z",
         "id": 65497,
         "identifier": "beatrice",
         "type": "manga",
@@ -61,13 +85,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149251,
         "aniId": 110978,
         "deletedAt": null,
         "authors": [
           "Cierra",
           "MaCherie"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-er982274": {
+        "createdAt": "2021-05-29T09:43:24.000Z",
+        "updatedAt": "2022-07-13T09:20:00.000Z",
+        "checkedAt": "2022-06-06T12:30:12.000Z",
+        "id": 73626,
+        "identifier": "manga-er982274",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Beatrice",
+        "url": "https://readmanganato.com/manga-er982274",
+        "image": "https://avt.mkklcdnv6temp.com/45/p/18-1583498871.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149251,
+        "aniId": 110978,
+        "deletedAt": null,
+        "authors": [
+          "Ma Cherie"
         ]
       }
     }

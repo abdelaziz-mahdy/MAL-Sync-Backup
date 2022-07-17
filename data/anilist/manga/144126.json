@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:06:26.838Z",
-  "updatedAt": "2022-05-16T03:00:38.000Z",
-  "checkedAt": "2022-05-16T03:00:38.000Z",
+  "updatedAt": "2022-07-10T09:28:15.000Z",
+  "checkedAt": "2022-07-10T09:28:15.000Z",
   "id": 144126,
   "type": "manga",
   "title": "1 Level Player",
@@ -15,17 +15,41 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149138,
   "deletedAt": null,
   "authors": [
     "Eun-U Bang",
     "Chi-Hyeon Song"
   ],
   "Pages": {
+    "MangaSee": {
+      "level-1-player": {
+        "createdAt": "2022-04-09T15:31:57.000Z",
+        "updatedAt": "2022-07-10T10:20:00.000Z",
+        "checkedAt": "2022-05-13T21:23:20.000Z",
+        "id": 100956,
+        "identifier": "level-1-player",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Level 1 Player",
+        "url": "https://mangasee123.com/manga/Level-1-Player",
+        "image": "https://cover.nep.li/cover/Level-1-Player.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149138,
+        "aniId": 144126,
+        "deletedAt": null,
+        "authors": [
+          "Bang Eun-woo"
+        ]
+      }
+    },
     "Mangadex": {
       "ae19717e-e443-42bd-b9f7-d15417431bb0": {
         "createdAt": "2022-05-16T03:00:36.955Z",
-        "updatedAt": "2022-05-16T03:00:36.000Z",
+        "updatedAt": "2022-07-10T09:26:39.000Z",
         "checkedAt": "2022-05-16T03:00:36.000Z",
         "id": 104575,
         "identifier": "ae19717e-e443-42bd-b9f7-d15417431bb0",
@@ -37,13 +61,39 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149138,
         "aniId": 144126,
         "deletedAt": null,
         "authors": [
           "송치현",
           "방은우"
+        ]
+      }
+    },
+    "MangaFox": {
+      "level_1_player": {
+        "createdAt": "2022-05-19T07:30:09.028Z",
+        "updatedAt": "2022-07-10T10:20:00.000Z",
+        "checkedAt": "2022-05-19T07:30:09.000Z",
+        "id": 104829,
+        "identifier": "level_1_player",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Level 1 Player",
+        "url": "https://fanfox.net/manga/level_1_player/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/41903/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149138,
+        "aniId": 144126,
+        "deletedAt": null,
+        "authors": [
+          "Bang Eun-woo",
+          "[Add]",
+          "Song Si-hyeon"
         ]
       }
     }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T09:43:24.000Z",
-  "updatedAt": "2022-06-06T12:30:12.000Z",
+  "updatedAt": "2022-07-13T09:20:00.000Z",
   "checkedAt": "2022-06-06T12:30:12.000Z",
   "id": 73626,
   "identifier": "manga-er982274",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149251,
+  "aniId": 110978,
   "deletedAt": null,
   "authors": [
     "Ma Cherie"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-13T00:30:01.765Z",
+    "updatedAt": "2022-07-13T00:30:01.765Z",
+    "checkedAt": "2022-07-13T00:30:01.000Z",
+    "id": 149251,
+    "type": "manga",
+    "title": "Beatrice",
+    "altTitle": [
+      "베아트리체"
+    ],
+    "url": "https://myanimelist.net/manga/149251/Beatrice",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264797.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/53150006"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ma Cherie",
+      "Cierra"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:16.912Z",
+    "updatedAt": "2022-07-13T08:57:49.000Z",
+    "checkedAt": "2022-07-13T08:57:49.000Z",
+    "id": 110978,
+    "type": "manga",
+    "title": "Beatrice",
+    "altTitle": [
+      "베아트리체"
+    ],
+    "url": "https://anilist.co/manga/110978",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110978-8AT5VbfmHYZy.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149251,
+    "deletedAt": null,
+    "authors": [
+      "Cierra",
+      "MaCherie",
+      "Laphet"
+    ]
+  }
 }

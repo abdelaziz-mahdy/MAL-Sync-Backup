@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-28T21:53:43.000Z",
-  "updatedAt": "2022-05-18T12:00:00.000Z",
+  "updatedAt": "2022-07-10T22:32:49.000Z",
   "checkedAt": "2022-05-18T12:00:00.000Z",
   "id": 73056,
   "identifier": "manga-gg983941",
@@ -12,26 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148678,
   "aniId": 114198,
   "deletedAt": null,
   "authors": [
     "Ro Yujin",
     "Ahn Jonghyeok"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T20:30:13.343Z",
+    "updatedAt": "2022-07-10T20:30:13.343Z",
+    "checkedAt": "2022-07-10T20:30:13.000Z",
+    "id": 148678,
+    "type": "manga",
+    "title": "The Second Coming of Gluttony",
+    "altTitle": [
+      "Tamsig-ui Jaerim",
+      "The Second Coming of Gluttony",
+      "탐식의 재림"
+    ],
+    "url": "https://myanimelist.net/manga/148678/The_Second_Coming_of_Gluttony",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264671.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53979714"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ro, Yu-jin",
+      "Ahn, Jonghyuk"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:43:01.127Z",
-    "updatedAt": "2022-05-16T04:30:24.000Z",
-    "checkedAt": "2022-05-16T04:30:24.000Z",
+    "updatedAt": "2022-07-11T06:08:06.000Z",
+    "checkedAt": "2022-07-11T06:08:06.000Z",
     "id": 114198,
     "type": "manga",
     "title": "Tamsigui Jaerim",
     "altTitle": [
+      "The Second Coming of Gluttony",
       "탐식의 재림",
       "The Second Coming of Avarice",
-      "The Second Coming of Gluttony  ",
       "Tamsigui Jaelim"
     ],
     "url": "https://anilist.co/manga/114198",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148678,
     "deletedAt": null,
     "authors": [
       "Yu-Jin  Ro",

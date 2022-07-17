@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T14:43:13.000Z",
-  "updatedAt": "2022-06-13T21:31:58.000Z",
+  "updatedAt": "2022-07-12T19:30:16.000Z",
   "checkedAt": "2022-06-13T21:31:58.000Z",
   "id": 73852,
   "identifier": "manga-lv989078",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 149238,
   "aniId": 134451,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Han Ryui",
     "Samweoleh"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-12T19:00:10.329Z",
+    "updatedAt": "2022-07-12T19:00:10.329Z",
+    "checkedAt": "2022-07-12T19:00:10.000Z",
+    "id": 149238,
+    "type": "manga",
+    "title": "The Falcon Princess",
+    "altTitle": [
+      "Carrier Falcon Princess",
+      "Jeollyeongsae Wangnyeo-nim",
+      "The Falcon Princess",
+      "전령새 왕녀님"
+    ],
+    "url": "https://myanimelist.net/manga/149238/The_Falcon_Princess",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264776.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57066133"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dongjeon",
+      "Hanryui"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:41.875Z",
-    "updatedAt": "2022-05-15T19:07:59.000Z",
-    "checkedAt": "2022-05-15T19:07:59.000Z",
+    "updatedAt": "2022-07-13T08:58:18.000Z",
+    "checkedAt": "2022-07-13T08:58:18.000Z",
     "id": 134451,
     "type": "manga",
     "title": "Jeollyeongsae Wangnyeo-nim",
@@ -44,7 +73,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149238,
     "deletedAt": null,
     "authors": [
       "Dongjeon",

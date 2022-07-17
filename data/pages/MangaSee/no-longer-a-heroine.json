@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-11T07:21:02.000Z",
-  "updatedAt": "2022-05-13T16:24:21.000Z",
+  "updatedAt": "2022-07-11T06:20:00.000Z",
   "checkedAt": "2022-05-13T16:24:21.000Z",
   "id": 58122,
   "identifier": "no-longer-a-heroine",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147987,
+  "aniId": 123489,
   "deletedAt": null,
   "authors": [
     "Maenggi Ki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:30:16.462Z",
+    "updatedAt": "2022-07-10T21:30:16.462Z",
+    "checkedAt": "2022-07-10T21:30:16.000Z",
+    "id": 147987,
+    "type": "manga",
+    "title": "No Longer a Heroine!",
+    "altTitle": [
+      "Yeoju Silgyeok!",
+      "No Longer a Heroine!",
+      "여주실격!"
+    ],
+    "url": "https://myanimelist.net/manga/147987/No_Longer_a_Heroine",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262734.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=738143"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ki, Maenggi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:20.262Z",
+    "updatedAt": "2022-07-11T06:08:12.000Z",
+    "checkedAt": "2022-07-11T06:08:12.000Z",
+    "id": 123489,
+    "type": "manga",
+    "title": "Yeojusilgyeog!",
+    "altTitle": [
+      "No Longer A Heroine!",
+      "여주실격!",
+      "女主失格！",
+      "L'héroïne disqualifiée !",
+      "HER SECRET!",
+      "여주실격!"
+    ],
+    "url": "https://anilist.co/manga/123489",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123489-IrKY8xsD3ylx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147987,
+    "deletedAt": null,
+    "authors": [
+      "Maeng-Gi Ki"
+    ]
+  }
 }

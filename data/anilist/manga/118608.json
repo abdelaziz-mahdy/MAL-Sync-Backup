@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:49:58.596Z",
-  "updatedAt": "2022-05-15T21:00:35.000Z",
-  "checkedAt": "2022-05-15T21:00:35.000Z",
+  "updatedAt": "2022-07-14T13:59:57.000Z",
+  "checkedAt": "2022-07-14T13:59:57.000Z",
   "id": 118608,
   "type": "manga",
   "title": "The Live",
@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 147646,
   "deletedAt": null,
   "authors": [
     "Ant Studio",
@@ -29,25 +29,50 @@
     "Mangadex": {
       "0f13d05a-dacf-43ff-93ca-165523e55a46": {
         "createdAt": "2020-10-12T16:19:03.000Z",
-        "updatedAt": "2021-12-07T21:38:11.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-14T13:59:21.000Z",
+        "checkedAt": "2022-07-14T13:00:02.000Z",
         "id": 34420,
         "identifier": "0f13d05a-dacf-43ff-93ca-165523e55a46",
         "type": "manga",
         "page": "Mangadex",
         "title": "The Live",
         "url": "https://mangadex.org/title/0f13d05a-dacf-43ff-93ca-165523e55a46",
-        "image": "https://uploads.mangadex.org/covers/0f13d05a-dacf-43ff-93ca-165523e55a46/0a529764-81ae-4d92-8394-68e0f4744b57.png",
+        "image": "https://uploads.mangadex.org/covers/0f13d05a-dacf-43ff-93ca-165523e55a46/35700a24-c75d-4a1a-b631-3f617c2f1841.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 147646,
         "aniId": 118608,
         "deletedAt": null,
         "authors": [
-          "Black Ajin",
+          "B. Ain (흑아인)",
           "Ant Studio"
+        ]
+      }
+    },
+    "MangaSee": {
+      "the-live": {
+        "createdAt": "2021-01-28T21:51:41.000Z",
+        "updatedAt": "2022-07-14T14:20:00.000Z",
+        "checkedAt": "2022-05-15T21:00:14.000Z",
+        "id": 60485,
+        "identifier": "the-live",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Live",
+        "url": "https://mangasee123.com/manga/The-Live",
+        "image": "https://cover.nep.li/cover/The-Live.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 147646,
+        "aniId": 118608,
+        "deletedAt": null,
+        "authors": [
+          "Ant Studio",
+          "Black Ajin"
         ]
       }
     },

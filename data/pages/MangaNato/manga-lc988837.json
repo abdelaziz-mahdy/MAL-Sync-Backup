@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-04T17:49:18.000Z",
-  "updatedAt": "2022-05-15T23:00:00.000Z",
+  "updatedAt": "2022-07-14T14:20:00.000Z",
   "checkedAt": "2022-05-15T23:00:00.000Z",
   "id": 76543,
   "identifier": "manga-lc988837",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149263,
+  "aniId": 132833,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-13T15:30:02.493Z",
+    "updatedAt": "2022-07-13T15:30:02.493Z",
+    "checkedAt": "2022-07-13T15:30:02.000Z",
+    "id": 149263,
+    "type": "manga",
+    "title": "Duchess in the Glass House",
+    "altTitle": [
+      "Duchess in the Glass House",
+      "유리온실의 공작 부인"
+    ],
+    "url": "https://myanimelist.net/manga/149263/Duchess_in_the_Glass_House",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264816.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56619134"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Suo",
+      "Tak Lee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:53.046Z",
+    "updatedAt": "2022-07-14T14:00:28.000Z",
+    "checkedAt": "2022-07-14T14:00:28.000Z",
+    "id": 132833,
+    "type": "manga",
+    "title": "Yurionsir-ui Gongjang Buin",
+    "altTitle": [
+      "Duchess in the Glass House",
+      "유리온실의 공작 부인",
+      "The Duchess of the Glass Greenhouse"
+    ],
+    "url": "https://anilist.co/manga/132833",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132833-uzr2CoaPz7JJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149263,
+    "deletedAt": null,
+    "authors": [
+      "Tangni",
+      "Su-O Kim"
+    ]
+  }
 }

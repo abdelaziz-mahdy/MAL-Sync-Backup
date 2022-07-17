@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-03T21:00:34.121Z",
-  "updatedAt": "2022-07-03T21:00:34.000Z",
+  "updatedAt": "2022-07-11T06:20:00.000Z",
   "checkedAt": "2022-07-03T21:00:34.000Z",
   "id": 108805,
   "identifier": "escort_warrior",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149168,
+  "aniId": 134064,
   "deletedAt": null,
   "authors": [
     "CHO Hyung-Keun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:30:02.387Z",
+    "updatedAt": "2022-07-10T21:30:02.387Z",
+    "checkedAt": "2022-07-10T21:30:02.000Z",
+    "id": 149168,
+    "type": "manga",
+    "title": "Escort Warrior",
+    "altTitle": [
+      "Jang-ssi Sega Howi Musa",
+      "장씨세가 호위무사"
+    ],
+    "url": "https://myanimelist.net/manga/149168/Escort_Warrior",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264686.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=728750"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Cho, Hyung Geun",
+      "Kim, Inho"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:24.071Z",
+    "updatedAt": "2022-07-11T06:08:20.000Z",
+    "checkedAt": "2022-07-11T06:08:20.000Z",
+    "id": 134064,
+    "type": "manga",
+    "title": "Jangssisega Howimusa",
+    "altTitle": [
+      "장씨세가 호위무사",
+      "Escort Warrior"
+    ],
+    "url": "https://anilist.co/manga/134064",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134064-1fzlzL8Kze66.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149168,
+    "deletedAt": null,
+    "authors": [
+      "Hyeong-Geun Jo",
+      "In-Ho Kim"
+    ]
+  }
 }

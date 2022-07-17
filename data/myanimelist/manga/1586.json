@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-04T07:48:34.000Z",
-  "updatedAt": "2022-01-04T07:48:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-16T20:04:21.000Z",
+  "checkedAt": "2022-07-16T20:04:21.000Z",
   "id": 1586,
   "type": "manga",
   "title": "Princess Prince",
@@ -20,24 +20,28 @@
     "Taniguchi, Tomoko"
   ],
   "Pages": {
-    "AniMixPlay": {
-      "1586": {
-        "identifier": "1586",
+    "Mangadex": {
+      "6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb": {
+        "createdAt": "2022-07-17T02:00:23.426Z",
+        "updatedAt": "2022-07-17T02:00:23.000Z",
+        "checkedAt": "2022-07-17T02:00:23.000Z",
+        "id": 110257,
+        "identifier": "6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Princess Prince",
+        "url": "https://mangadex.org/title/6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb",
+        "image": "https://uploads.mangadex.org/covers/6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb/7099af63-bf91-40ae-aee5-d9c3628ca9b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
         "malId": 1586,
-        "type": "anime",
-        "page": "AniMixPlay",
-        "title": "Aoi Umi no Tristia",
-        "url": "https://animixplay.to/anime/1586"
-      }
-    },
-    "YugenAnime": {
-      "5704": {
-        "identifier": "5704",
-        "malId": 1586,
-        "type": "anime",
-        "page": "YugenAnime",
-        "title": "Aoi Umi no Tristia",
-        "url": "https://yugen.to/anime/5704/aoi-umi-no-tristia/"
+        "aniId": 31586,
+        "deletedAt": null,
+        "authors": [
+          "Taniguchi Tomoko"
+        ]
       }
     }
   }

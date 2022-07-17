@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-07T22:02:54.000Z",
-  "updatedAt": "2022-06-14T02:31:31.000Z",
+  "updatedAt": "2022-07-10T18:56:17.000Z",
   "checkedAt": "2022-06-14T02:31:31.000Z",
   "id": 88184,
   "identifier": "return-of-the-legendary-spear-knight",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149163,
   "aniId": 141479,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Studio Ignis",
     "Teacher Jo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T18:30:05.957Z",
+    "updatedAt": "2022-07-10T18:30:05.957Z",
+    "checkedAt": "2022-07-10T18:30:05.000Z",
+    "id": 149163,
+    "type": "manga",
+    "title": "The Legendary Spearman Returns",
+    "altTitle": [
+      "Return of the Legendary Spear Knight",
+      "Yeokdaegeup Changgisa-ui Hoegwi",
+      "The Legendary Spearman Returns",
+      "역대급 창기사의 회귀"
+    ],
+    "url": "https://myanimelist.net/manga/149163/The_Legendary_Spearman_Returns",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264678.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57451201"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jo-seonsaengnim",
+      "Studio Inus"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:58:36.825Z",
-    "updatedAt": "2022-05-15T19:42:47.000Z",
-    "checkedAt": "2022-05-15T19:42:47.000Z",
+    "updatedAt": "2022-07-11T06:10:50.000Z",
+    "checkedAt": "2022-07-11T06:10:50.000Z",
     "id": 141479,
     "type": "manga",
     "title": "Yeokdaegeup Changgisaui Hoegwi",
@@ -34,14 +63,15 @@
       "역대급 창기사의 회귀",
       "Return of The Unrivaled Spear Knight",
       "Return of the Legendary Spear Knight",
-      "歴代級槍騎士の回帰"
+      "歴代級槍騎士の回帰",
+      "การกลับมาของอัศวินผู้ใช้หอกแห่งยุค"
     ],
     "url": "https://anilist.co/manga/141479",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141479-9h8eyaxyRZP8.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149163,
     "deletedAt": null,
     "authors": [
       "Studio Inus",

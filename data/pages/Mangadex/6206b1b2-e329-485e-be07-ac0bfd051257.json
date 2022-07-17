@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:25.000Z",
-  "updatedAt": "2021-12-05T22:48:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-10T22:32:30.000Z",
+  "checkedAt": "2022-07-10T21:00:53.000Z",
   "id": 22856,
   "identifier": "6206b1b2-e329-485e-be07-ac0bfd051257",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148141,
   "aniId": 110166,
   "deletedAt": null,
   "authors": [
     "Han Dong Woo",
     "Lee Doo-Hee"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:01.303Z",
+    "updatedAt": "2022-07-10T21:00:01.303Z",
+    "checkedAt": "2022-07-10T21:00:01.000Z",
+    "id": 148141,
+    "type": "manga",
+    "title": "The World Is Money and Power",
+    "altTitle": [
+      "Sesang-eun Don-gwa Gwollyeok",
+      "The World Is Money and Power",
+      "세상은 돈과 권력"
+    ],
+    "url": "https://myanimelist.net/manga/148141/The_World_Is_Money_and_Power",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263550.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=710747"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Dongwoo",
+      "Lee, Dohee"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:50:52.019Z",
-    "updatedAt": "2022-05-13T15:05:40.000Z",
-    "checkedAt": "2022-05-13T15:05:40.000Z",
+    "updatedAt": "2022-07-11T06:09:29.000Z",
+    "checkedAt": "2022-07-11T06:09:29.000Z",
     "id": 110166,
     "type": "manga",
     "title": "Sesangeun Dongwa Gwollyeok",
@@ -40,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148141,
     "deletedAt": null,
     "authors": [
       "Dong-U Han",

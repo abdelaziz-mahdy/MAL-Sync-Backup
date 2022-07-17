@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-09-10T16:05:06.000Z",
-  "updatedAt": "2022-03-10T16:29:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-15T09:20:00.000Z",
+  "checkedAt": "2022-07-15T01:00:00.000Z",
   "id": 86962,
   "identifier": "the_symbiotic_relationship_between_a_panther_and_a_rabbit",
   "type": "manga",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147981,
+  "aniId": 134556,
   "deletedAt": null,
   "authors": [
     "Yasingmeongneunjung"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:30:01.068Z",
+    "updatedAt": "2022-07-10T21:30:01.068Z",
+    "checkedAt": "2022-07-10T21:30:01.000Z",
+    "id": 147981,
+    "type": "manga",
+    "title": "Little Rabbit and the Big Bad Leopard",
+    "altTitle": [
+      "The Symbiotic Relationship Between a Panther and a Rabbit",
+      "Tokki-wa Heukpyobeom-ui Gongsaeng Gwangye",
+      "Little Rabbit and the Big Bad Leopard",
+      "토끼와 흑표범의 공생관계"
+    ],
+    "url": "https://myanimelist.net/manga/147981/Little_Rabbit_and_the_Big_Bad_Leopard",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262637.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57095432"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yasik Meongneunjung",
+      "Sadam"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:37.929Z",
+    "updatedAt": "2022-07-11T06:11:56.000Z",
+    "checkedAt": "2022-07-11T06:11:56.000Z",
+    "id": 134556,
+    "type": "manga",
+    "title": "Tokkiwa Heukpyobeomui Gongsaeng Gwangye",
+    "altTitle": [
+      "Little Rabbit and the Big Bad Leopard",
+      "토끼와 흑표범의 공생 관계",
+      "A Symbiotic Relationship Between a Rabbit and a Black Panther",
+      "ภาวะพึ่งพาของเสือดำตัวร้ายกับกระต่ายตัวจิ๋ว"
+    ],
+    "url": "https://anilist.co/manga/134556",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134556-lnmQlzpeOrMi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147981,
+    "deletedAt": null,
+    "authors": [
+      "Mok-In",
+      "Yasingmeongneunjung",
+      "Sa-Dam"
+    ]
+  }
 }

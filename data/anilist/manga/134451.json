@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:45:41.875Z",
-  "updatedAt": "2022-05-15T19:07:59.000Z",
-  "checkedAt": "2022-05-15T19:07:59.000Z",
+  "updatedAt": "2022-07-13T08:58:18.000Z",
+  "checkedAt": "2022-07-13T08:58:18.000Z",
   "id": 134451,
   "type": "manga",
   "title": "Jeollyeongsae Wangnyeo-nim",
@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149238,
   "deletedAt": null,
   "authors": [
     "Dongjeon",
@@ -30,7 +30,7 @@
     "MangaNato": {
       "manga-lv989078": {
         "createdAt": "2021-05-29T14:43:13.000Z",
-        "updatedAt": "2022-06-13T21:31:58.000Z",
+        "updatedAt": "2022-07-12T19:30:16.000Z",
         "checkedAt": "2022-06-13T21:31:58.000Z",
         "id": 73852,
         "identifier": "manga-lv989078",
@@ -42,14 +42,88 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 149238,
         "aniId": 134451,
         "deletedAt": null,
         "authors": [
           "Dongjeon",
           "Han Ryui",
           "Samweoleh"
+        ]
+      }
+    },
+    "Mangadex": {
+      "5eca1bbe-a2b3-4fa4-a07c-1e921be8c1d8": {
+        "createdAt": "2021-10-28T03:45:57.000Z",
+        "updatedAt": "2022-07-13T09:20:00.000Z",
+        "checkedAt": "2022-06-15T16:30:06.000Z",
+        "id": 89785,
+        "identifier": "5eca1bbe-a2b3-4fa4-a07c-1e921be8c1d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Carrier Falcon Princess",
+        "url": "https://mangadex.org/title/5eca1bbe-a2b3-4fa4-a07c-1e921be8c1d8",
+        "image": "https://uploads.mangadex.org/covers/5eca1bbe-a2b3-4fa4-a07c-1e921be8c1d8/e31ac3c1-9aaa-4dd4-93f3-d102bd0b25e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149238,
+        "aniId": 134451,
+        "deletedAt": null,
+        "authors": [
+          "Sam Woel",
+          "Han Ryui",
+          "Coin (동전)"
+        ]
+      }
+    },
+    "MangaFox": {
+      "carrier_falcon_princess": {
+        "createdAt": "2021-12-04T10:46:07.000Z",
+        "updatedAt": "2022-07-13T09:20:00.000Z",
+        "checkedAt": "2022-07-12T19:00:13.000Z",
+        "id": 92389,
+        "identifier": "carrier_falcon_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Carrier Falcon Princess",
+        "url": "https://fanfox.net/manga/carrier_falcon_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38434/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149238,
+        "aniId": 134451,
+        "deletedAt": null,
+        "authors": [
+          "한류이",
+          "[Add]"
+        ]
+      },
+      "the_falcon_princess": {
+        "createdAt": "2022-07-12T19:00:10.816Z",
+        "updatedAt": "2022-07-12T19:31:11.000Z",
+        "checkedAt": "2022-07-12T19:00:10.000Z",
+        "id": 109454,
+        "identifier": "the_falcon_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Falcon Princess",
+        "url": "https://fanfox.net/manga/the_falcon_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/41617/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149238,
+        "aniId": 134451,
+        "deletedAt": null,
+        "authors": [
+          "Hanryui",
+          "SWE"
         ]
       }
     }

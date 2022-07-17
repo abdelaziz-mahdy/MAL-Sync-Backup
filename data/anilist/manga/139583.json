@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:47:16.987Z",
-  "updatedAt": "2022-05-27T18:36:21.000Z",
-  "checkedAt": "2022-05-27T18:36:21.000Z",
+  "updatedAt": "2022-07-14T14:00:16.000Z",
+  "checkedAt": "2022-07-14T14:00:16.000Z",
   "id": 139583,
   "type": "manga",
   "title": "Useon Namdongsaengbuteo Sumgija",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149267,
   "deletedAt": null,
   "authors": [
     "Ji-Hu Chae",
@@ -27,8 +27,8 @@
     "MangaNato": {
       "manga-mi989591": {
         "createdAt": "2021-08-25T16:36:36.000Z",
-        "updatedAt": "2022-01-03T12:24:11.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-14T13:59:24.000Z",
+        "checkedAt": "2022-07-13T19:00:13.000Z",
         "id": 86212,
         "identifier": "manga-mi989591",
         "type": "manga",
@@ -39,13 +39,62 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149267,
         "aniId": 139583,
         "deletedAt": null,
         "authors": [
           "채지후",
           "천리"
+        ]
+      }
+    },
+    "Mangadex": {
+      "24302640-2313-4f9c-8149-b572ec450907": {
+        "createdAt": "2021-12-30T14:53:29.000Z",
+        "updatedAt": "2022-07-14T14:20:00.000Z",
+        "checkedAt": "2022-07-13T19:00:02.000Z",
+        "id": 93959,
+        "identifier": "24302640-2313-4f9c-8149-b572ec450907",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Let’s Hide My Younger Brother First",
+        "url": "https://mangadex.org/title/24302640-2313-4f9c-8149-b572ec450907",
+        "image": "https://uploads.mangadex.org/covers/24302640-2313-4f9c-8149-b572ec450907/77d920af-abbf-416e-9056-87164929f635.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149267,
+        "aniId": 139583,
+        "deletedAt": null,
+        "authors": [
+          "Chae Ji-hoo  ",
+          "ZIHO"
+        ]
+      }
+    },
+    "MangaFox": {
+      "first_let_s_hide_my_younger_brother": {
+        "createdAt": "2022-07-13T19:00:13.157Z",
+        "updatedAt": "2022-07-14T14:20:00.000Z",
+        "checkedAt": "2022-07-13T19:00:13.000Z",
+        "id": 109608,
+        "identifier": "first_let_s_hide_my_younger_brother",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "First, Let's Hide My Younger Brother",
+        "url": "https://fanfox.net/manga/first_let_s_hide_my_younger_brother/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36991/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149267,
+        "aniId": 139583,
+        "deletedAt": null,
+        "authors": [
+          "채지후"
         ]
       }
     }

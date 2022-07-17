@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-23T21:22:07.000Z",
-  "updatedAt": "2021-12-24T10:28:15.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-12T20:20:00.000Z",
+  "checkedAt": "2022-07-11T18:00:15.000Z",
   "id": 93553,
   "identifier": "946ff973-95b5-4f57-8e81-7c4674ea50dc",
   "type": "manga",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147489,
+  "aniId": 135369,
   "deletedAt": null,
   "authors": [
     "문성호",
     "진설우",
     "활성곰"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-31T16:30:17.074Z",
+    "updatedAt": "2022-05-31T16:30:17.074Z",
+    "checkedAt": "2022-05-31T16:30:17.000Z",
+    "id": 147489,
+    "type": "manga",
+    "title": "The Druid of Seoul Station",
+    "altTitle": [
+      "Seoul-yeok Druid",
+      "The Druid of Seoul Station",
+      "서울역 드루이드"
+    ],
+    "url": "https://myanimelist.net/manga/147489/The_Druid_of_Seoul_Station",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261632.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=773476"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jin, Seolwoo",
+      "Hwalseonggom"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:42.070Z",
+    "updatedAt": "2022-06-01T07:26:11.000Z",
+    "checkedAt": "2022-06-01T07:26:11.000Z",
+    "id": 135369,
+    "type": "manga",
+    "title": "Seoulyeok Druid",
+    "altTitle": [
+      "The Druid of Seoul Station",
+      "서울역 드루이드",
+      "Seoul Station Druid",
+      "ดรูอิดแห่งสถานีโซล"
+    ],
+    "url": "https://anilist.co/manga/135369",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135369-uSOpgGsmylOW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147489,
+    "deletedAt": null,
+    "authors": [
+      "Hwalseonggom",
+      "Seol-Woo Jin",
+      "Seong-Ho Moon"
+    ]
+  }
 }

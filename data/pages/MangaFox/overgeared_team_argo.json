@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-19T10:58:08.000Z",
-  "updatedAt": "2022-03-12T02:29:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-13T18:20:00.000Z",
+  "checkedAt": "2022-07-13T17:30:02.000Z",
   "id": 54854,
   "identifier": "overgeared_team_argo",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147727,
+  "aniId": 117460,
   "deletedAt": null,
   "authors": [
     "Dong Wook Lee"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-05T19:00:11.267Z",
+    "updatedAt": "2022-06-05T19:00:11.267Z",
+    "checkedAt": "2022-06-05T19:00:11.000Z",
+    "id": 147727,
+    "type": "manga",
+    "title": "Overgeared",
+    "altTitle": [
+      "Temmppal",
+      "Overgeared",
+      "템빨"
+    ],
+    "url": "https://myanimelist.net/manga/147727/Overgeared",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262068.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54727849"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Saenal",
+      "Team Argo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:45.944Z",
+    "updatedAt": "2022-06-07T12:30:49.000Z",
+    "checkedAt": "2022-06-07T12:30:49.000Z",
+    "id": 117460,
+    "type": "manga",
+    "title": "Temppal",
+    "altTitle": [
+      "Overgeared",
+      "템빨"
+    ],
+    "url": "https://anilist.co/manga/117460",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117460-46JbftfHSXoc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147727,
+    "deletedAt": null,
+    "authors": [
+      "Team Argo",
+      "Sae-Nal Park",
+      "Dong-Wook Lee"
+    ]
+  }
 }

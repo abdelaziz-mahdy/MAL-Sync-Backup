@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T15:46:26.000Z",
-  "updatedAt": "2022-01-28T01:50:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-17T01:02:29.000Z",
+  "checkedAt": "2022-07-17T01:02:29.000Z",
   "id": 96899,
   "type": "manga",
   "title": "Bar Lemon Heart",
@@ -23,5 +23,40 @@
   "authors": [
     "Furuya, Mitsutoshi"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ec7b12f9-cb72-49ee-8cb7-881caa84f618": {
+        "createdAt": "2022-07-17T01:02:29.977Z",
+        "updatedAt": "2022-07-17T01:02:29.000Z",
+        "checkedAt": "2022-07-17T01:02:29.000Z",
+        "id": 110237,
+        "identifier": "ec7b12f9-cb72-49ee-8cb7-881caa84f618",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bar Lemon Heart",
+        "url": "https://mangadex.org/title/ec7b12f9-cb72-49ee-8cb7-881caa84f618",
+        "image": "https://uploads.mangadex.org/covers/ec7b12f9-cb72-49ee-8cb7-881caa84f618/91ed688f-42b4-4d6a-8d64-69e63c58ca3e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 96899,
+        "aniId": 98304,
+        "deletedAt": null,
+        "authors": [
+          "Mitsutoshi Furuya"
+        ]
+      }
+    },
+    "MangaReader": {
+      "19530": {
+        "identifier": "19530",
+        "malId": 96899,
+        "type": "manga",
+        "page": "MangaReader",
+        "title": "Bar Lemon Heart",
+        "url": "https://mangareader.to/bar-lemon-heart-19530"
+      }
+    }
+  }
 }

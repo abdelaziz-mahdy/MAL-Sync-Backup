@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-31T16:52:15.000Z",
-  "updatedAt": "2022-07-09T17:00:01.000Z",
+  "updatedAt": "2022-07-10T09:23:07.000Z",
   "checkedAt": "2022-07-09T17:00:01.000Z",
   "id": 83429,
   "identifier": "the_princess_pretends_to_be_crazy",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149130,
   "aniId": 136350,
   "deletedAt": null,
   "authors": [
     "Dalseul"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-09T17:00:06.612Z",
+    "updatedAt": "2022-07-09T17:00:06.612Z",
+    "checkedAt": "2022-07-09T17:00:06.000Z",
+    "id": 149130,
+    "type": "manga",
+    "title": "Crazy Like a Fox",
+    "altTitle": [
+      "The Princess Pretends to Be Crazy",
+      "Wangnyeo-neun Michin Cheogeul Hada",
+      "Crazy Like a Fox",
+      "왕녀는 미친 척을 한다"
+    ],
+    "url": "https://myanimelist.net/manga/149130/Crazy_Like_a_Fox",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264631.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57369799"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dalseul",
+      "Rohan"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:57:48.840Z",
-    "updatedAt": "2022-05-15T20:11:47.000Z",
-    "checkedAt": "2022-05-15T20:11:47.000Z",
+    "updatedAt": "2022-07-10T09:27:53.000Z",
+    "checkedAt": "2022-07-10T09:27:53.000Z",
     "id": 136350,
     "type": "manga",
     "title": "Wangnyeoneun Michin Cheogeul Handa",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149130,
     "deletedAt": null,
     "authors": [
       "Dalseul",

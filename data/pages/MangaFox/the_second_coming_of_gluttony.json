@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-12T06:51:57.000Z",
-  "updatedAt": "2022-02-15T01:17:42.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-11T06:20:00.000Z",
+  "checkedAt": "2022-07-10T20:30:09.000Z",
   "id": 58287,
   "identifier": "the_second_coming_of_gluttony",
   "type": "manga",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148678,
+  "aniId": 114198,
   "deletedAt": null,
   "authors": [
     "Ro Yu-jin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T20:30:13.343Z",
+    "updatedAt": "2022-07-10T20:30:13.343Z",
+    "checkedAt": "2022-07-10T20:30:13.000Z",
+    "id": 148678,
+    "type": "manga",
+    "title": "The Second Coming of Gluttony",
+    "altTitle": [
+      "Tamsig-ui Jaerim",
+      "The Second Coming of Gluttony",
+      "탐식의 재림"
+    ],
+    "url": "https://myanimelist.net/manga/148678/The_Second_Coming_of_Gluttony",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264671.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53979714"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ro, Yu-jin",
+      "Ahn, Jonghyuk"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:01.127Z",
+    "updatedAt": "2022-07-11T06:08:06.000Z",
+    "checkedAt": "2022-07-11T06:08:06.000Z",
+    "id": 114198,
+    "type": "manga",
+    "title": "Tamsigui Jaerim",
+    "altTitle": [
+      "The Second Coming of Gluttony",
+      "탐식의 재림",
+      "The Second Coming of Avarice",
+      "Tamsigui Jaelim"
+    ],
+    "url": "https://anilist.co/manga/114198",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114198-IoEiKxA59K1u.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148678,
+    "deletedAt": null,
+    "authors": [
+      "Yu-Jin  Ro",
+      "Jong-Il Kim",
+      "Jong-Hyeok An"
+    ]
+  }
 }

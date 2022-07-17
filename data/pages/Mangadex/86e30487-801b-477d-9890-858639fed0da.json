@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-12T16:19:25.000Z",
-  "updatedAt": "2022-06-09T19:00:08.000Z",
+  "updatedAt": "2022-07-11T06:20:00.000Z",
   "checkedAt": "2022-06-09T19:00:08.000Z",
   "id": 35169,
   "identifier": "86e30487-801b-477d-9890-858639fed0da",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148746,
+  "aniId": 137336,
   "deletedAt": null,
   "authors": [
     "Woo Seora",
     "Pompom Mello"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T20:30:29.903Z",
+    "updatedAt": "2022-07-10T20:30:29.903Z",
+    "checkedAt": "2022-07-10T20:30:29.000Z",
+    "id": 148746,
+    "type": "manga",
+    "title": "The Princess's Doll Shop",
+    "altTitle": [
+      "Hwangnyeo-nim-ui Inhyeong Gage",
+      "The Princess's Doll Shop",
+      "황녀님의 인형가게"
+    ],
+    "url": "https://myanimelist.net/manga/148746/The_Princesss_Doll_Shop",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264303.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57475581"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "On, Uyeon",
+      "Pompom Melo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:19.778Z",
+    "updatedAt": "2022-07-11T06:09:58.000Z",
+    "checkedAt": "2022-07-11T06:09:58.000Z",
+    "id": 137336,
+    "type": "manga",
+    "title": "Hwangnyeonimui Inhyeonggage",
+    "altTitle": [
+      "The Princess's Doll Shop",
+      "황녀님의 인형가게",
+      "The Princess' Doll Shop"
+    ],
+    "url": "https://anilist.co/manga/137336",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137336-t3Ol9KcKzPHu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148746,
+    "deletedAt": null,
+    "authors": [
+      "U-Yeon On",
+      "POMPOM MELO"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:04:35.860Z",
-  "updatedAt": "2022-05-25T21:30:23.000Z",
-  "checkedAt": "2022-05-25T21:30:23.000Z",
+  "updatedAt": "2022-07-14T20:28:14.000Z",
+  "checkedAt": "2022-07-14T20:28:14.000Z",
   "id": 135401,
   "type": "manga",
   "title": "Dr. Choi Tae-Soo",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149281,
   "deletedAt": null,
   "authors": [
     "Se-Kwon Oh",
@@ -35,7 +35,7 @@
     "MangaNato": {
       "manga-lr989074": {
         "createdAt": "2021-05-31T13:27:36.000Z",
-        "updatedAt": "2022-06-13T22:01:19.000Z",
+        "updatedAt": "2022-07-14T20:27:51.000Z",
         "checkedAt": "2022-06-13T22:01:19.000Z",
         "id": 74909,
         "identifier": "manga-lr989074",
@@ -48,13 +48,66 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 149281,
         "aniId": 135401,
         "deletedAt": null,
         "authors": [
           "Cho Seok-Ho",
           "Kim Han-Seok",
           "Lim Seong-Wook (Crocodile Studio)"
+        ]
+      }
+    },
+    "Mangadex": {
+      "fe3335b6-883e-4e42-bd83-35ea16fc4605": {
+        "createdAt": "2022-05-25T14:00:04.807Z",
+        "updatedAt": "2022-07-14T21:20:00.000Z",
+        "checkedAt": "2022-05-25T14:00:04.000Z",
+        "id": 105422,
+        "identifier": "fe3335b6-883e-4e42-bd83-35ea16fc4605",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A True Doctor",
+        "url": "https://mangadex.org/title/fe3335b6-883e-4e42-bd83-35ea16fc4605",
+        "image": "https://uploads.mangadex.org/covers/fe3335b6-883e-4e42-bd83-35ea16fc4605/3d16e3a9-3d45-4b6e-a99e-b2b9d92d586b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149281,
+        "aniId": 135401,
+        "deletedAt": null,
+        "authors": [
+          "STORYLAB",
+          "Cho Seok-ho (조석호)",
+          "Kim Hanseok (김한석)",
+          "Lim Seong-wook (임성욱)",
+          "Oh Se Kwon (오세권)",
+          "DURUFIX"
+        ]
+      }
+    },
+    "MangaFox": {
+      "a_true_doctor": {
+        "createdAt": "2022-06-13T14:00:03.405Z",
+        "updatedAt": "2022-07-14T21:20:00.000Z",
+        "checkedAt": "2022-06-13T14:00:03.000Z",
+        "id": 107204,
+        "identifier": "a_true_doctor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "A True Doctor",
+        "url": "https://fanfox.net/manga/a_true_doctor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/42742/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149281,
+        "aniId": 135401,
+        "deletedAt": null,
+        "authors": [
+          "Cho Seokho"
         ]
       }
     }

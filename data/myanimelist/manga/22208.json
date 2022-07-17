@@ -32,7 +32,7 @@
     "MangaFox": {
       "futago_no_kishi": {
         "createdAt": "2022-04-12T13:31:15.000Z",
-        "updatedAt": "2022-04-12T13:31:25.000Z",
+        "updatedAt": "2022-07-16T10:20:00.000Z",
         "checkedAt": null,
         "id": 101235,
         "identifier": "futago_no_kishi",
@@ -46,11 +46,45 @@
         "active": true,
         "actorId": null,
         "malId": 22208,
-        "aniId": null,
+        "aniId": 52208,
         "deletedAt": null,
         "authors": [
           "TEZUKA Osamu"
         ]
+      }
+    },
+    "Mangadex": {
+      "8f041088-d2be-4432-8a75-208133d47a95": {
+        "createdAt": "2022-07-16T09:32:03.724Z",
+        "updatedAt": "2022-07-16T09:32:03.000Z",
+        "checkedAt": "2022-07-16T09:32:03.000Z",
+        "id": 109888,
+        "identifier": "8f041088-d2be-4432-8a75-208133d47a95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Twin Knights",
+        "url": "https://mangadex.org/title/8f041088-d2be-4432-8a75-208133d47a95",
+        "image": "https://uploads.mangadex.org/covers/8f041088-d2be-4432-8a75-208133d47a95/ff67b407-be65-4504-b9e6-d9b2ae324b1a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22208,
+        "aniId": 52208,
+        "deletedAt": null,
+        "authors": [
+          "Tezuka Osamu"
+        ]
+      }
+    },
+    "MangaReader": {
+      "10420": {
+        "identifier": "10420",
+        "malId": 22208,
+        "type": "manga",
+        "page": "MangaReader",
+        "title": "Futago no Kishi",
+        "url": "https://mangareader.to/the-twin-knights-10420"
       }
     }
   }

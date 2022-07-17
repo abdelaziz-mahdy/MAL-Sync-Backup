@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-21T17:03:58.000Z",
-  "updatedAt": "2022-01-12T02:11:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-11T06:20:00.000Z",
+  "checkedAt": "2022-07-10T20:00:00.000Z",
   "id": 82703,
   "identifier": "manga-gs983527",
   "type": "manga",
@@ -12,13 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149167,
+  "aniId": 109440,
   "deletedAt": null,
   "authors": [
     "Min"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T20:00:01.836Z",
+    "updatedAt": "2022-07-10T20:00:01.836Z",
+    "checkedAt": "2022-07-10T20:00:01.000Z",
+    "id": 149167,
+    "type": "manga",
+    "title": "The Lady with a Mask",
+    "altTitle": [
+      "Masked Woman",
+      "Gamyeon Sseun Yeoja",
+      "The Lady with a Mask",
+      "가면 쓴 여자"
+    ],
+    "url": "https://myanimelist.net/manga/149167/The_Lady_with_a_Mask",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264684.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=51194922"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Min",
+      "Merin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:06.241Z",
+    "updatedAt": "2022-07-11T06:06:10.000Z",
+    "checkedAt": "2022-07-11T06:06:10.000Z",
+    "id": 109440,
+    "type": "manga",
+    "title": "Gamyeon Sseun Yeoja",
+    "altTitle": [
+      "The Lady with a Mask",
+      "가면 쓴 여자",
+      "Masked Woman",
+      "Bas les Masques !",
+      "Женщина в маске",
+      "戴假面的女人"
+    ],
+    "url": "https://anilist.co/manga/109440",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109440-Vo4jNsFyT2zg.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149167,
+    "deletedAt": null,
+    "authors": [
+      "Hanna Park",
+      "MIN",
+      "Merin"
+    ]
+  }
 }

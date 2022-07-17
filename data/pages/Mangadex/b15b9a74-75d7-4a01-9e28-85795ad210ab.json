@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-03T18:54:03.000Z",
-  "updatedAt": "2022-05-08T18:31:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-10T22:32:40.000Z",
+  "checkedAt": "2022-07-10T21:00:55.000Z",
   "id": 94162,
   "identifier": "b15b9a74-75d7-4a01-9e28-85795ad210ab",
   "type": "manga",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148267,
   "aniId": 144027,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Sol Leesu",
     "POYA"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:13.543Z",
+    "updatedAt": "2022-07-10T21:00:13.543Z",
+    "checkedAt": "2022-07-10T21:00:13.000Z",
+    "id": 148267,
+    "type": "manga",
+    "title": "The Siren: Becoming the Villain's Family",
+    "altTitle": [
+      "I Became the Villain's Contract Family",
+      "Siren: Akdang-gwa Gyeyak Gajog-i Doeeotda",
+      "The Siren: Becoming the Villain's Family",
+      "세이렌: 악당과 계약가족이 되었다"
+    ],
+    "url": "https://myanimelist.net/manga/148267/The_Siren__Becoming_the_Villains_Family",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263336.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57860238"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sol, Leesu",
+      "Poya"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:57:32.990Z",
-    "updatedAt": "2022-05-16T20:24:02.000Z",
-    "checkedAt": "2022-05-16T20:24:02.000Z",
+    "updatedAt": "2022-07-11T06:11:46.000Z",
+    "checkedAt": "2022-07-11T06:11:46.000Z",
     "id": 144027,
     "type": "manga",
     "title": "Seiren: Akdanggwa Gyeyang Gajogi Doeeotda",
@@ -40,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148267,
     "deletedAt": null,
     "authors": [
       "Li-Soo Seol",

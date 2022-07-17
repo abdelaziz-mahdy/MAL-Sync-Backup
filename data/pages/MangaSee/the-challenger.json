@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-06T20:33:11.000Z",
-  "updatedAt": "2022-03-29T22:02:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-14T13:59:39.000Z",
+  "checkedAt": "2022-07-13T19:00:16.000Z",
   "id": 88125,
   "identifier": "the-challenger",
   "type": "manga",
@@ -12,22 +12,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149274,
   "aniId": 139500,
   "deletedAt": null,
   "authors": [
     "Keyboard"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-13T19:00:12.481Z",
+    "updatedAt": "2022-07-13T19:00:12.481Z",
+    "checkedAt": "2022-07-13T19:00:12.000Z",
+    "id": 149274,
+    "type": "manga",
+    "title": "The Challenger",
+    "altTitle": [
+      "The Challenger",
+      "더 챌린저"
+    ],
+    "url": "https://myanimelist.net/manga/149274/The_Challenger",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264828.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57834955"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "TryTry",
+      "Keyboard"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:04:51.418Z",
-    "updatedAt": "2022-05-15T02:00:00.000Z",
-    "checkedAt": "2022-05-15T02:00:00.000Z",
+    "updatedAt": "2022-07-14T14:00:21.000Z",
+    "checkedAt": "2022-07-14T14:00:21.000Z",
     "id": 139500,
     "type": "manga",
     "title": "The Challenger",
     "altTitle": [
+      "The Challenger",
       "더 챌린저"
     ],
     "url": "https://anilist.co/manga/139500",
@@ -35,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149274,
     "deletedAt": null,
     "authors": [
       "Keyboard",

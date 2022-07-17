@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-19T18:31:49.000Z",
-  "updatedAt": "2022-01-08T13:48:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-11T06:20:00.000Z",
+  "checkedAt": "2022-07-10T21:00:52.000Z",
   "id": 72149,
   "identifier": "dark_mortal",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148159,
+  "aniId": 116768,
   "deletedAt": null,
   "authors": [
     "Lee Jeo Nyeok"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:27.625Z",
+    "updatedAt": "2022-07-10T21:00:27.625Z",
+    "checkedAt": "2022-07-10T21:00:27.000Z",
+    "id": 148159,
+    "type": "manga",
+    "title": "Dark Mortal",
+    "altTitle": [
+      "Geomeun Ingan",
+      "Dark Mortal",
+      "검은인간"
+    ],
+    "url": "https://myanimelist.net/manga/148159/Dark_Mortal",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263011.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=718021"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Jeonyeok"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:58.390Z",
+    "updatedAt": "2022-07-11T06:06:08.000Z",
+    "checkedAt": "2022-07-11T06:06:08.000Z",
+    "id": 116768,
+    "type": "manga",
+    "title": "Geomeun Ingan",
+    "altTitle": [
+      "Dark Mortal",
+      "검은인간",
+      "Geom-eun In-gan",
+      "Kawan Kelam"
+    ],
+    "url": "https://anilist.co/manga/116768",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116768-lYPIhbYUojSM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148159,
+    "deletedAt": null,
+    "authors": [
+      "Jeo-Nyeok Lee"
+    ]
+  }
 }

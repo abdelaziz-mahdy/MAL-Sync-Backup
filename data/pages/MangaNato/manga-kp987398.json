@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-28T22:54:33.000Z",
-  "updatedAt": "2022-05-18T08:20:12.000Z",
+  "updatedAt": "2022-07-16T09:20:00.000Z",
   "checkedAt": "2022-05-18T08:20:12.000Z",
   "id": 73148,
   "identifier": "manga-kp987398",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 143627,
+  "aniId": 127868,
   "deletedAt": null,
   "authors": [
     "Ireunkkot",
@@ -22,6 +22,66 @@
     "이른꽃",
     "티바"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-29T22:02:13.000Z",
+    "updatedAt": "2022-05-17T02:56:30.000Z",
+    "checkedAt": "2022-05-17T02:56:30.000Z",
+    "id": 143627,
+    "type": "manga",
+    "title": "My Gently Raised Beast",
+    "altTitle": [
+      "I Raised the Beast Well",
+      "Gopge Ki-woss-deoni, Jimseung",
+      "My Gently Raised Beast",
+      "곱게 키웠더니, 짐승"
+    ],
+    "url": "https://myanimelist.net/manga/143627/My_Gently_Raised_Beast",
+    "image": "https://cdn.myanimelist.net/images/manga/2/254956.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=761104"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/곱게_키웠더니,_짐승"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ireun-kkot",
+      "Yeo-seulgi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:45.445Z",
+    "updatedAt": "2022-05-27T10:36:37.000Z",
+    "checkedAt": "2022-05-27T10:36:37.000Z",
+    "id": 127868,
+    "type": "manga",
+    "title": "Gopge Kiwotdeoni, Jimseung",
+    "altTitle": [
+      "My Gently Raised Beast",
+      "곱게 키웠더니, 짐승",
+      "I Raised the Beast Well",
+      "我的野蠻萌友",
+      "我的野蛮萌友",
+      "Cómo domar una fiera encantadora"
+    ],
+    "url": "https://anilist.co/manga/127868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127868-oVxq2qkYVS4L.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143627,
+    "deletedAt": null,
+    "authors": [
+      "Teava",
+      "Seul-Gi Yeo",
+      "Ireunkkot  "
+    ]
+  }
 }

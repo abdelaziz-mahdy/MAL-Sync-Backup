@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:59:13.318Z",
-  "updatedAt": "2022-05-15T15:01:47.000Z",
-  "checkedAt": "2022-05-15T15:01:47.000Z",
+  "updatedAt": "2022-07-10T18:12:50.000Z",
+  "checkedAt": "2022-07-10T18:12:50.000Z",
   "id": 133038,
   "type": "manga",
   "title": "Jangneureul Bakkwobodorok Hagetseumnida",
@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149161,
   "deletedAt": null,
   "authors": [
     "Ga-Rin",
@@ -30,8 +30,8 @@
     "MangaNato": {
       "manga-lj988944": {
         "createdAt": "2021-05-28T21:24:43.000Z",
-        "updatedAt": "2022-01-08T06:48:02.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-10T18:06:44.000Z",
+        "checkedAt": "2022-07-10T17:30:00.000Z",
         "id": 73049,
         "identifier": "manga-lj988944",
         "type": "manga",
@@ -42,13 +42,62 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149161,
         "aniId": 133038,
         "deletedAt": null,
         "authors": [
           "Garin",
           "Ken"
+        ]
+      }
+    },
+    "Mangadex": {
+      "ccf19b16-e6c5-4f16-b327-8399e61c2e5b": {
+        "createdAt": "2021-10-10T12:02:24.000Z",
+        "updatedAt": "2022-07-10T18:20:00.000Z",
+        "checkedAt": "2022-05-25T00:30:14.000Z",
+        "id": 88330,
+        "identifier": "ccf19b16-e6c5-4f16-b327-8399e61c2e5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "It’s Time to Change the Genre",
+        "url": "https://mangadex.org/title/ccf19b16-e6c5-4f16-b327-8399e61c2e5b",
+        "image": "https://uploads.mangadex.org/covers/ccf19b16-e6c5-4f16-b327-8399e61c2e5b/a0c2afce-25de-4255-a652-a70c06cb2881.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149161,
+        "aniId": 133038,
+        "deletedAt": null,
+        "authors": [
+          "KEN",
+          "Garine"
+        ]
+      }
+    },
+    "MangaFox": {
+      "the_villainess_flips_the_script": {
+        "createdAt": "2022-02-17T20:47:03.000Z",
+        "updatedAt": "2022-07-10T18:20:00.000Z",
+        "checkedAt": "2022-07-10T17:30:01.000Z",
+        "id": 96361,
+        "identifier": "the_villainess_flips_the_script",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Villainess Flips the Script",
+        "url": "https://fanfox.net/manga/the_villainess_flips_the_script/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/41460/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149161,
+        "aniId": 133038,
+        "deletedAt": null,
+        "authors": [
+          "KEN (켄)"
         ]
       }
     }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-14T07:03:43.983Z",
-  "updatedAt": "2022-05-14T07:03:50.000Z",
+  "updatedAt": "2022-07-10T22:30:38.000Z",
   "checkedAt": "2022-05-14T07:03:43.000Z",
   "id": 104172,
   "identifier": "561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147981,
   "aniId": 134556,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "야식먹는중",
     "Sadam"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T21:30:01.068Z",
+    "updatedAt": "2022-07-10T21:30:01.068Z",
+    "checkedAt": "2022-07-10T21:30:01.000Z",
+    "id": 147981,
+    "type": "manga",
+    "title": "Little Rabbit and the Big Bad Leopard",
+    "altTitle": [
+      "The Symbiotic Relationship Between a Panther and a Rabbit",
+      "Tokki-wa Heukpyobeom-ui Gongsaeng Gwangye",
+      "Little Rabbit and the Big Bad Leopard",
+      "토끼와 흑표범의 공생관계"
+    ],
+    "url": "https://myanimelist.net/manga/147981/Little_Rabbit_and_the_Big_Bad_Leopard",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262637.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57095432"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yasik Meongneunjung",
+      "Sadam"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:57:37.929Z",
-    "updatedAt": "2022-05-14T07:03:43.000Z",
-    "checkedAt": "2022-05-14T07:03:43.000Z",
+    "updatedAt": "2022-07-11T06:11:56.000Z",
+    "checkedAt": "2022-07-11T06:11:56.000Z",
     "id": 134556,
     "type": "manga",
     "title": "Tokkiwa Heukpyobeomui Gongsaeng Gwangye",
@@ -40,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147981,
     "deletedAt": null,
     "authors": [
       "Mok-In",

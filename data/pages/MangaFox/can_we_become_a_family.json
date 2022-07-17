@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-08T12:02:21.000Z",
-  "updatedAt": "2022-06-20T13:00:00.000Z",
+  "updatedAt": "2022-07-10T10:20:00.000Z",
   "checkedAt": "2022-06-20T13:00:00.000Z",
   "id": 88207,
   "identifier": "can_we_become_a_family",
@@ -12,13 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149140,
+  "aniId": 140658,
   "deletedAt": null,
   "authors": [
     "Han Yi Rim"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T22:30:16.798Z",
+    "updatedAt": "2022-07-09T22:30:16.798Z",
+    "checkedAt": "2022-07-09T22:30:16.000Z",
+    "id": 149140,
+    "type": "manga",
+    "title": "Can We Become Family?",
+    "altTitle": [
+      "Can We Become a Family?",
+      "Uri-ga Gajog-i Doel Su Isseulkkayo?",
+      "Can We Become Family?",
+      "우리가 가족이 될 수 있을까요?"
+    ],
+    "url": "https://myanimelist.net/manga/149140/Can_We_Become_Family",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264643.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57809482"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanirim",
+      "Matcha Vienna"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:47.060Z",
+    "updatedAt": "2022-07-10T09:28:03.000Z",
+    "checkedAt": "2022-07-10T09:28:03.000Z",
+    "id": 140658,
+    "type": "manga",
+    "title": "Uriga Gajogi Doel Su Isseulkkayo?",
+    "altTitle": [
+      "Can We Become Family?",
+      "우리가 가족이 될 수 있을까요?",
+      "Family Is Needed",
+      "Can We Become a Family?",
+      "Kazoku Gokko wa Mou Yamemasu (家族ごっこはもうやめます)",
+      "พวกเราจะเป็นครอบครัวเดียวกันได้ไหมนะ?"
+    ],
+    "url": "https://anilist.co/manga/140658",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140658-uBKGWRdfejEM.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149140,
+    "deletedAt": null,
+    "authors": [
+      "Matcha Vienna",
+      "I-Rim Han"
+    ]
+  }
 }

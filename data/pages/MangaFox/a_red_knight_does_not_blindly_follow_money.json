@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-29T09:54:59.000Z",
-  "updatedAt": "2021-12-29T10:32:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-13T09:20:00.000Z",
+  "checkedAt": "2022-07-11T16:00:38.000Z",
   "id": 80264,
   "identifier": "a_red_knight_does_not_blindly_follow_money",
   "type": "manga",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149188,
+  "aniId": 135574,
   "deletedAt": null,
   "authors": [
     "Rosiwon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-11T16:00:40.805Z",
+    "updatedAt": "2022-07-11T16:00:40.805Z",
+    "checkedAt": "2022-07-11T16:00:40.000Z",
+    "id": 149188,
+    "type": "manga",
+    "title": "The Red Knight Seeks No Reward",
+    "altTitle": [
+      "A Red Knight Does Not Blindly Follow Money",
+      "Jeokgisa-neun Nunmeon Don-eul Jotji Anneunda",
+      "The Red Knight Seeks No Reward",
+      "적기사는 눈먼 돈을 좇지 않는다"
+    ],
+    "url": "https://myanimelist.net/manga/149188/The_Red_Knight_Seeks_No_Reward",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264720.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57142071"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rosiwon",
+      "Song, Jaemin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:04.689Z",
+    "updatedAt": "2022-07-13T08:58:39.000Z",
+    "checkedAt": "2022-07-13T08:58:39.000Z",
+    "id": 135574,
+    "type": "manga",
+    "title": "Jeokgisaneun Nunmeon Doneul Jotji Anneunda",
+    "altTitle": [
+      "The Red Knight Seeks No Reward",
+      "적기사는 눈먼 돈을 좇지 않는다",
+      "Red Knights Don't Chase Blind Money",
+      "A Red Knight Does Not Blindly Follow Money"
+    ],
+    "url": "https://anilist.co/manga/135574",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135574-KRD5Xn2MSmVi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149188,
+    "deletedAt": null,
+    "authors": [
+      "Si-Won Ro",
+      "Jae-Min Song"
+    ]
+  }
 }

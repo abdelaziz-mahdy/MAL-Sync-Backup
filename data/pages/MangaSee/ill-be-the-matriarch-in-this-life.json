@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-13T19:39:11.000Z",
-  "updatedAt": "2022-05-14T05:00:14.000Z",
+  "updatedAt": "2022-07-15T09:20:00.000Z",
   "checkedAt": "2022-05-14T05:00:14.000Z",
   "id": 65503,
   "identifier": "ill-be-the-matriarch-in-this-life",
@@ -12,14 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147692,
+  "aniId": 130429,
   "deletedAt": null,
   "authors": [
     "Ant Studio",
     "KIM Roah"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-05T06:30:09.313Z",
+    "updatedAt": "2022-06-05T06:30:09.313Z",
+    "checkedAt": "2022-06-05T06:30:09.000Z",
+    "id": 147692,
+    "type": "manga",
+    "title": "I Shall Master This Family",
+    "altTitle": [
+      "In This Life, I Will Be the Lord",
+      "Ibeon Saeng-eun Gaju-ga Doegetseumnida",
+      "I Shall Master This Family",
+      "이번 생은 가주가 되겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/147692/I_Shall_Master_This_Family",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261961.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56566288"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Roah",
+      "Mon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:51.155Z",
+    "updatedAt": "2022-06-08T07:53:43.000Z",
+    "checkedAt": "2022-06-08T07:53:43.000Z",
+    "id": 130429,
+    "type": "manga",
+    "title": "Ibeon Saengeun Gajuga Doegetseumnida",
+    "altTitle": [
+      "I Shall Master this Family!",
+      "이번 생은 가주가 되겠습니다",
+      "I'll Be the Matriarch in This Life",
+      "En cette vie, je deviendrai la cheffe de famille",
+      "In This Life, I Will Be the Lord",
+      "Nesta vida, eu serei a matriarca",
+      "На сей раз я - хозяйка этой жизни"
+    ],
+    "url": "https://anilist.co/manga/130429",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130429-7z0Fk2q5Yhcw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147692,
+    "deletedAt": null,
+    "authors": [
+      "Roah Kim",
+      "Mon"
+    ]
+  }
 }

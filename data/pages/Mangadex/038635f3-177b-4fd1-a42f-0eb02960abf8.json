@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-21T15:30:07.005Z",
-  "updatedAt": "2022-05-21T15:30:07.000Z",
+  "updatedAt": "2022-07-10T22:31:48.000Z",
   "checkedAt": "2022-05-21T15:30:07.000Z",
   "id": 105005,
   "identifier": "038635f3-177b-4fd1-a42f-0eb02960abf8",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149165,
   "aniId": 137836,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,40 @@
     "Lisabel",
     "PINA"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T20:00:13.760Z",
+    "updatedAt": "2022-07-10T20:00:13.760Z",
+    "checkedAt": "2022-07-10T20:00:13.000Z",
+    "id": 149165,
+    "type": "manga",
+    "title": "Becoming the Dark Hero's Daughter",
+    "altTitle": [
+      "How to Be a Dark Hero's Daughter",
+      "Dark Hero-ui Ttar-i Doeneun Beop",
+      "Becoming the Dark Hero's Daughter",
+      "다크 히어로의 딸이 되는 법"
+    ],
+    "url": "https://myanimelist.net/manga/149165/Becoming_the_Dark_Heros_Daughter",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264680.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57514873"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lisabel",
+      "Pina"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:15.318Z",
-    "updatedAt": "2022-05-21T07:14:19.000Z",
-    "checkedAt": "2022-05-21T07:14:19.000Z",
+    "updatedAt": "2022-07-11T06:09:52.000Z",
+    "checkedAt": "2022-07-11T06:09:52.000Z",
     "id": 137836,
     "type": "manga",
     "title": "Dark Hero-ui Ttari Doeneun Beop",
@@ -41,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149165,
     "deletedAt": null,
     "authors": [
       "PINA",

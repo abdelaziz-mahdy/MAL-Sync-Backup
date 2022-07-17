@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-07T14:06:30.000Z",
-  "updatedAt": "2021-12-07T14:19:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-13T09:20:00.000Z",
+  "checkedAt": "2022-07-12T10:00:11.000Z",
   "id": 77057,
   "identifier": "follow_the_bread_crumbs",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149200,
+  "aniId": 134167,
   "deletedAt": null,
   "authors": [
     "Soreumidang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-12T10:00:23.581Z",
+    "updatedAt": "2022-07-12T10:00:23.581Z",
+    "checkedAt": "2022-07-12T10:00:23.000Z",
+    "id": 149200,
+    "type": "manga",
+    "title": "Follow the Bread Crumbs",
+    "altTitle": [
+      "Follow the Bread Crumbs",
+      "키워서 잡아먹혔다"
+    ],
+    "url": "https://myanimelist.net/manga/149200/Follow_the_Bread_Crumbs",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264751.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57669745"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gyeoni",
+      "Soreum-idang"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:02.662Z",
+    "updatedAt": "2022-07-13T08:58:23.000Z",
+    "checkedAt": "2022-07-13T08:58:23.000Z",
+    "id": 134167,
+    "type": "manga",
+    "title": "Kiwoseo Jabameokyeotda",
+    "altTitle": [
+      "Follow the Bread Crumbs",
+      "키워서 잡아먹혔다",
+      "Siguiendo las Migas de Pan"
+    ],
+    "url": "https://anilist.co/manga/134167",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134167-8d1JvEpgIZ5w.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149200,
+    "deletedAt": null,
+    "authors": [
+      "Soreumidang",
+      "Gyeoni"
+    ]
+  }
 }

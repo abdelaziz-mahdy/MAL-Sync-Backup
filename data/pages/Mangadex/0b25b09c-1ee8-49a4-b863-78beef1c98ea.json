@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-12T16:21:04.000Z",
-  "updatedAt": "2022-06-03T20:30:02.000Z",
+  "updatedAt": "2022-07-12T19:32:27.000Z",
   "checkedAt": "2022-06-03T20:30:02.000Z",
   "id": 38560,
   "identifier": "0b25b09c-1ee8-49a4-b863-78beef1c98ea",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 149191,
   "aniId": 123512,
   "deletedAt": null,
   "authors": [
@@ -21,15 +21,44 @@
     "Yoo Jung Kwan (유중관)",
     "Cha Woo Min (차우민)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-12T10:00:32.757Z",
+    "updatedAt": "2022-07-12T10:00:32.757Z",
+    "checkedAt": "2022-07-12T10:00:32.000Z",
+    "id": 149191,
+    "type": "manga",
+    "title": "Karsearin: Adventures of a Red Dragon",
+    "altTitle": [
+      "Kalsarin",
+      "Karsearin: Adventures of a Red Dragon",
+      "카르세아린"
+    ],
+    "url": "https://myanimelist.net/manga/149191/Karsearin__Adventures_of_a_Red_Dragon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264730.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55414849"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yim, Kyung-bae",
+      "Cha, Woo-min"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:54:24.334Z",
-    "updatedAt": "2022-06-03T20:30:02.000Z",
-    "checkedAt": "2022-06-03T20:30:02.000Z",
+    "updatedAt": "2022-07-13T08:58:06.000Z",
+    "checkedAt": "2022-07-13T08:58:06.000Z",
     "id": 123512,
     "type": "manga",
     "title": "Carsearin",
     "altTitle": [
+      "Karsearin: Adventures of a Red Dragon",
       "카르세아린",
       "Kalsarin"
     ],
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149191,
     "deletedAt": null,
     "authors": [
       "Kyung-bae Lim",

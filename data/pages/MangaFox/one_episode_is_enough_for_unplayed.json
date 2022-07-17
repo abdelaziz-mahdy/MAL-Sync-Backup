@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-10T23:44:08.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-11T06:20:00.000Z",
+  "checkedAt": "2022-07-10T20:30:04.000Z",
   "id": 90543,
   "identifier": "one_episode_is_enough_for_unplayed",
   "type": "manga",
@@ -12,14 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148710,
+  "aniId": 148191,
   "deletedAt": null,
   "authors": [
     "Haluhansum",
     "[Add]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T20:30:09.473Z",
+    "updatedAt": "2022-07-10T20:30:09.473Z",
+    "checkedAt": "2022-07-10T20:30:09.000Z",
+    "id": 148710,
+    "type": "manga",
+    "title": "A Single Round at Romance Is Enough!",
+    "altTitle": [
+      "One Episode Is Enough for Unplayed",
+      "First Round in the Dating Simulator is Enough!",
+      "One Playthrough is Enough!",
+      "Miyeonsi-neun 1-hoe Charo Jokhada",
+      "A Single Round at Romance Is Enough!",
+      "미연시는 1회차로 족하다"
+    ],
+    "url": "https://myanimelist.net/manga/148710/A_Single_Round_at_Romance_Is_Enough",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264222.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57947743"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Haruhansum",
+      "Micha"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:43.703Z",
+    "updatedAt": "2022-07-11T06:11:23.000Z",
+    "checkedAt": "2022-07-11T06:11:23.000Z",
+    "id": 148191,
+    "type": "manga",
+    "title": "Miyeonsineun 1-hoecharo Jokada",
+    "altTitle": [
+      "A Single Round at Romance is Enough!",
+      "미연시는 1회차로 족하다",
+      "First Round in the Dating Simulator is Enough!",
+      "One Episode Is Enough for Unplayed",
+      "One Playthrough is Enough!"
+    ],
+    "url": "https://anilist.co/manga/148191",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx148191-EMku001HQMVP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148710,
+    "deletedAt": null,
+    "authors": [
+      "Mi-Chya",
+      "Haruhansum",
+      "Gi-Mae"
+    ]
+  }
 }

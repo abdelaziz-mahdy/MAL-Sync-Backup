@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:05:04.810Z",
-  "updatedAt": "2022-05-13T13:05:04.810Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-16T08:30:31.000Z",
+  "checkedAt": "2022-07-16T08:30:31.000Z",
   "id": 111086,
   "type": "manga",
   "title": "God Bless You",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149355,
   "deletedAt": null,
   "authors": [
     "Raeju Mi"
@@ -23,8 +23,8 @@
     "Mangadex": {
       "7fe9f906-1ba3-46f2-954d-6523efdcbf52": {
         "createdAt": "2020-10-12T16:16:41.000Z",
-        "updatedAt": "2021-12-10T11:47:59.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-16T08:45:59.000Z",
+        "checkedAt": "2022-07-16T08:30:31.000Z",
         "id": 29623,
         "identifier": "7fe9f906-1ba3-46f2-954d-6523efdcbf52",
         "type": "manga",
@@ -36,11 +36,35 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 149355,
         "aniId": 111086,
         "deletedAt": null,
         "authors": [
           "meeraejoo"
+        ]
+      }
+    },
+    "MangaFox": {
+      "god_bless_you": {
+        "createdAt": "2022-07-16T08:30:31.858Z",
+        "updatedAt": "2022-07-16T09:20:00.000Z",
+        "checkedAt": "2022-07-16T08:30:31.000Z",
+        "id": 109864,
+        "identifier": "god_bless_you",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "God Bless You",
+        "url": "https://fanfox.net/manga/god_bless_you/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31474/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149355,
+        "aniId": 111086,
+        "deletedAt": null,
+        "authors": [
+          "MilaeJu (미래주)"
         ]
       }
     }

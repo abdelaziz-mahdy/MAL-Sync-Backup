@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-20T11:46:46.000Z",
-  "updatedAt": "2022-01-20T12:04:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-14T14:20:00.000Z",
+  "checkedAt": "2022-07-14T10:30:06.000Z",
   "id": 82541,
   "identifier": "manga-it985476",
   "type": "manga",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 134246,
+  "aniId": 118868,
   "deletedAt": null,
   "authors": [
     "Funa",
     "Neko Mint"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-09T10:05:48.000Z",
+    "updatedAt": "2022-05-20T20:01:49.000Z",
+    "checkedAt": "2022-05-20T20:01:49.000Z",
+    "id": 134246,
+    "type": "manga",
+    "title": "Watashi, Nichijou wa Heikinchi de tte Itta yo ne!",
+    "altTitle": [
+      "Didn't I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
+      "私、日常は平均値でって言ったよね!"
+    ],
+    "url": "https://myanimelist.net/manga/134246/Watashi_Nichijou_wa_Heikinchi_de_tte_Itta_yo_ne",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245725.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comic-earthstar.jp/detail/noukin4koma/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Moritaka, Yuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:35.503Z",
+    "updatedAt": "2022-05-20T20:01:48.000Z",
+    "checkedAt": "2022-05-20T20:01:48.000Z",
+    "id": 118868,
+    "type": "manga",
+    "title": "Watashi, Nichijou wa Heikinchi de tte Itta yo ne!",
+    "altTitle": [
+      "Didn’t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
+      "私、日常は平均値でって言ったよね！",
+      "Didn't I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!"
+    ],
+    "url": "https://anilist.co/manga/118868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118868-awSY9jG3eWtz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 134246,
+    "deletedAt": null,
+    "authors": [
+      "FUNA",
+      "Itsuki Akata",
+      "Yuuki Moritaka"
+    ]
+  }
 }

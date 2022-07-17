@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-16T14:24:46.000Z",
-  "updatedAt": "2022-05-15T09:30:39.000Z",
+  "updatedAt": "2022-07-11T06:20:00.000Z",
   "checkedAt": "2022-05-15T09:30:39.000Z",
   "id": 71994,
   "identifier": "the-world-is-money-and-power",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148141,
+  "aniId": 110166,
   "deletedAt": null,
   "authors": [
     "Han Dong U",
     "Li Do Hui"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:01.303Z",
+    "updatedAt": "2022-07-10T21:00:01.303Z",
+    "checkedAt": "2022-07-10T21:00:01.000Z",
+    "id": 148141,
+    "type": "manga",
+    "title": "The World Is Money and Power",
+    "altTitle": [
+      "Sesang-eun Don-gwa Gwollyeok",
+      "The World Is Money and Power",
+      "세상은 돈과 권력"
+    ],
+    "url": "https://myanimelist.net/manga/148141/The_World_Is_Money_and_Power",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263550.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=710747"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Dongwoo",
+      "Lee, Dohee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:52.019Z",
+    "updatedAt": "2022-07-11T06:09:29.000Z",
+    "checkedAt": "2022-07-11T06:09:29.000Z",
+    "id": 110166,
+    "type": "manga",
+    "title": "Sesangeun Dongwa Gwollyeok",
+    "altTitle": [
+      "The World is Money and Power",
+      "세상은 돈과 권력",
+      "This World Is Money and Power",
+      "Money and the Power",
+      "Materialism"
+    ],
+    "url": "https://anilist.co/manga/110166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110166-YtfuTk7JDBtD.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148141,
+    "deletedAt": null,
+    "authors": [
+      "Dong-U Han",
+      "Doo-Hee Lee"
+    ]
+  }
 }

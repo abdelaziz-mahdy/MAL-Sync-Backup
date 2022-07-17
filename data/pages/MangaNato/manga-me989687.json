@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-21T05:41:34.000Z",
-  "updatedAt": "2022-05-25T08:30:00.000Z",
+  "updatedAt": "2022-07-15T09:20:00.000Z",
   "checkedAt": "2022-05-25T08:30:00.000Z",
   "id": 87403,
   "identifier": "manga-me989687",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149111,
+  "aniId": 139293,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T07:30:02.084Z",
+    "updatedAt": "2022-07-09T07:30:02.084Z",
+    "checkedAt": "2022-07-09T07:30:02.000Z",
+    "id": 149111,
+    "type": "manga",
+    "title": "I Wasn't the Cinderella",
+    "altTitle": [
+      "Cinderella Wasn't Me",
+      "Cinderella-neun Naega Anieotda",
+      "I Wasn't the Cinderella",
+      "신데렐라는 내가 아니었다"
+    ],
+    "url": "https://myanimelist.net/manga/149111/I_Wasnt_the_Cinderella",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264614.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57814038"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gwaaen",
+      "Doba"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:36.960Z",
+    "updatedAt": "2022-07-09T09:40:25.000Z",
+    "checkedAt": "2022-07-09T09:40:25.000Z",
+    "id": 139293,
+    "type": "manga",
+    "title": "Cinderella-neun Naega Anieotda",
+    "altTitle": [
+      "I Wasn't the Cinderella",
+      "신데렐라는 내가 아니었다",
+      "Cinderella Wasn't Me"
+    ],
+    "url": "https://anilist.co/manga/139293",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139293-Lms0tOyU5Z3l.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149111,
+    "deletedAt": null,
+    "authors": [
+      "G-ANNE",
+      "Do-Ba"
+    ]
+  }
 }

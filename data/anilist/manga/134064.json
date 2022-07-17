@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:59:24.071Z",
-  "updatedAt": "2022-05-16T03:58:41.000Z",
-  "checkedAt": "2022-05-16T03:58:41.000Z",
+  "updatedAt": "2022-07-11T06:08:20.000Z",
+  "checkedAt": "2022-07-11T06:08:20.000Z",
   "id": 134064,
   "type": "manga",
   "title": "Jangssisega Howimusa",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149168,
   "deletedAt": null,
   "authors": [
     "Hyeong-Geun Jo",
@@ -24,8 +24,8 @@
     "Mangadex": {
       "c62909e6-7da3-465e-aef5-766036721199": {
         "createdAt": "2020-11-02T06:43:40.000Z",
-        "updatedAt": "2022-01-13T19:19:00.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-10T22:31:35.000Z",
+        "checkedAt": "2022-07-10T21:30:16.000Z",
         "id": 51324,
         "identifier": "c62909e6-7da3-465e-aef5-766036721199",
         "type": "manga",
@@ -37,19 +37,19 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 149168,
         "aniId": 134064,
         "deletedAt": null,
         "authors": [
-          "조형근",
-          "김인호"
+          "Hyung Geun Cho (조형근)",
+          "ino (김인호)"
         ]
       }
     },
     "MangaNato": {
       "manga-kc987411": {
         "createdAt": "2021-05-29T07:14:57.000Z",
-        "updatedAt": "2022-05-23T12:00:15.000Z",
+        "updatedAt": "2022-07-10T22:31:54.000Z",
         "checkedAt": "2022-05-23T12:00:15.000Z",
         "id": 73499,
         "identifier": "manga-kc987411",
@@ -61,12 +61,36 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149168,
         "aniId": 134064,
         "deletedAt": null,
         "authors": [
           "Hyung-Keun Cho/inho Kim"
+        ]
+      }
+    },
+    "MangaFox": {
+      "escort_warrior": {
+        "createdAt": "2022-07-03T21:00:34.121Z",
+        "updatedAt": "2022-07-11T06:20:00.000Z",
+        "checkedAt": "2022-07-03T21:00:34.000Z",
+        "id": 108805,
+        "identifier": "escort_warrior",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Escort Warrior",
+        "url": "https://fanfox.net/manga/escort_warrior/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38535/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149168,
+        "aniId": 134064,
+        "deletedAt": null,
+        "authors": [
+          "CHO Hyung-Keun"
         ]
       }
     }

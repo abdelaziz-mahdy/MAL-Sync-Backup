@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-25T14:00:04.807Z",
-  "updatedAt": "2022-05-25T14:00:09.000Z",
+  "updatedAt": "2022-07-14T21:20:00.000Z",
   "checkedAt": "2022-05-25T14:00:04.000Z",
   "id": 105422,
   "identifier": "fe3335b6-883e-4e42-bd83-35ea16fc4605",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149281,
+  "aniId": 135401,
   "deletedAt": null,
   "authors": [
     "STORYLAB",
@@ -24,6 +24,71 @@
     "Oh Se Kwon (오세권)",
     "DURUFIX"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-14T19:00:15.551Z",
+    "updatedAt": "2022-07-14T19:00:15.551Z",
+    "checkedAt": "2022-07-14T19:00:15.000Z",
+    "id": 149281,
+    "type": "manga",
+    "title": "A True Doctor",
+    "altTitle": [
+      "Doctor Choi Taesoo",
+      "Dr. Choi Tae-Soo",
+      "A True Doctor",
+      "닥터 최태수"
+    ],
+    "url": "https://myanimelist.net/manga/149281/A_True_Doctor",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264843.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=49793269"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Cho, Seokho",
+      "Oh, Sekwon",
+      "Durufix",
+      "Lim, Seongwook",
+      "Kim, Seoksu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:35.860Z",
+    "updatedAt": "2022-07-14T20:28:14.000Z",
+    "checkedAt": "2022-07-14T20:28:14.000Z",
+    "id": 135401,
+    "type": "manga",
+    "title": "Dr. Choi Tae-Soo",
+    "altTitle": [
+      "A True Doctor",
+      "닥터 최태수"
+    ],
+    "url": "https://anilist.co/manga/135401",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135401-mOZGBhAyf0lg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149281,
+    "deletedAt": null,
+    "authors": [
+      "Se-Kwon Oh",
+      "Seong-Wook Im",
+      "Han-Seok Kim",
+      "DURUFIX",
+      "Seok-Ho Jo",
+      "Kang-Hoon Kim",
+      "Sa-Rang Kim",
+      "Eu-Ri Jo",
+      "Seok-Ho Jo",
+      "Sin-Hae Jeong",
+      "Kongtae",
+      "Team 201",
+      "Seok-Ho Jo"
+    ]
+  }
 }

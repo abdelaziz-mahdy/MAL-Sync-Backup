@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:04:49.849Z",
-  "updatedAt": "2022-06-17T03:17:06.000Z",
-  "checkedAt": "2022-06-17T03:17:06.000Z",
+  "updatedAt": "2022-07-14T14:00:08.000Z",
+  "checkedAt": "2022-07-14T14:00:08.000Z",
   "id": 116971,
   "type": "manga",
   "title": "Huin Saseum Ingrid",
@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149262,
   "deletedAt": null,
   "authors": [
     "Huinultari",
@@ -25,20 +25,20 @@
     "Mangadex": {
       "aa8290de-c522-40d2-8eb9-842b4f69e8b8": {
         "createdAt": "2020-10-12T16:20:56.000Z",
-        "updatedAt": "2021-12-08T02:07:05.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-13T17:56:46.000Z",
+        "checkedAt": "2022-07-13T15:30:11.000Z",
         "id": 38246,
         "identifier": "aa8290de-c522-40d2-8eb9-842b4f69e8b8",
         "type": "manga",
         "page": "Mangadex",
         "title": "Ingrid, the White Deer",
         "url": "https://mangadex.org/title/aa8290de-c522-40d2-8eb9-842b4f69e8b8",
-        "image": "https://uploads.mangadex.org/covers/aa8290de-c522-40d2-8eb9-842b4f69e8b8/b465f1e1-3776-422d-a8ea-6b040dc6dda0.jpg",
+        "image": "https://uploads.mangadex.org/covers/aa8290de-c522-40d2-8eb9-842b4f69e8b8/f5ff4784-edc9-46c9-a07f-50929bb1cc1d.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 149262,
         "aniId": 116971,
         "deletedAt": null,
         "authors": [
@@ -50,8 +50,8 @@
     "MangaNato": {
       "manga-hx984932": {
         "createdAt": "2021-05-28T21:24:43.000Z",
-        "updatedAt": "2022-05-13T15:09:48.986Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-13T17:57:16.000Z",
+        "checkedAt": "2022-07-13T15:30:13.000Z",
         "id": 73048,
         "identifier": "manga-hx984932",
         "type": "manga",
@@ -62,13 +62,38 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 1,
-        "malId": null,
+        "actorId": 2,
+        "malId": 149262,
         "aniId": 116971,
         "deletedAt": null,
         "authors": [
           "Red Parsley",
           "Whitefence"
+        ]
+      }
+    },
+    "MangaFox": {
+      "white_deer_ingrid": {
+        "createdAt": "2021-08-03T23:50:18.000Z",
+        "updatedAt": "2022-07-14T14:20:00.000Z",
+        "checkedAt": "2022-07-13T15:30:00.000Z",
+        "id": 83836,
+        "identifier": "white_deer_ingrid",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "White Deer Ingrid!",
+        "url": "https://fanfox.net/manga/white_deer_ingrid/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33212/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149262,
+        "aniId": 116971,
+        "deletedAt": null,
+        "authors": [
+          "Red Parsley",
+          "WhiteFence"
         ]
       }
     }

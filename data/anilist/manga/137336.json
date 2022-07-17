@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:54:19.778Z",
-  "updatedAt": "2022-05-17T15:57:32.000Z",
-  "checkedAt": "2022-05-17T15:57:32.000Z",
+  "updatedAt": "2022-07-11T06:09:58.000Z",
+  "checkedAt": "2022-07-11T06:09:58.000Z",
   "id": 137336,
   "type": "manga",
   "title": "Hwangnyeonimui Inhyeonggage",
@@ -15,18 +15,43 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 148746,
   "deletedAt": null,
   "authors": [
     "U-Yeon On",
     "POMPOM MELO"
   ],
   "Pages": {
+    "Mangadex": {
+      "86e30487-801b-477d-9890-858639fed0da": {
+        "createdAt": "2020-10-12T16:19:25.000Z",
+        "updatedAt": "2022-07-11T06:20:00.000Z",
+        "checkedAt": "2022-06-09T19:00:08.000Z",
+        "id": 35169,
+        "identifier": "86e30487-801b-477d-9890-858639fed0da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Princess' Doll Shop",
+        "url": "https://mangadex.org/title/86e30487-801b-477d-9890-858639fed0da",
+        "image": "https://uploads.mangadex.org/covers/86e30487-801b-477d-9890-858639fed0da/44e5d7e9-9fd6-4f6e-9828-df94df377dba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148746,
+        "aniId": 137336,
+        "deletedAt": null,
+        "authors": [
+          "Woo Seora",
+          "Pompom Mello"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-ll989346": {
         "createdAt": "2021-07-25T05:51:47.000Z",
-        "updatedAt": "2022-02-02T20:20:43.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-10T22:31:03.000Z",
+        "checkedAt": "2022-07-10T20:30:25.000Z",
         "id": 82939,
         "identifier": "manga-ll989346",
         "type": "manga",
@@ -37,13 +62,37 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 2,
-        "malId": null,
+        "actorId": 1,
+        "malId": 148746,
         "aniId": 137336,
         "deletedAt": null,
         "authors": [
           "Pompom Melo",
           "우서라"
+        ]
+      }
+    },
+    "MangaFox": {
+      "the_princess_s_doll_shop": {
+        "createdAt": "2021-08-06T10:20:44.000Z",
+        "updatedAt": "2022-07-11T06:20:00.000Z",
+        "checkedAt": "2022-07-10T20:30:15.000Z",
+        "id": 84386,
+        "identifier": "the_princess_s_doll_shop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Princess's Doll Shop",
+        "url": "https://fanfox.net/manga/the_princess_s_doll_shop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38895/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 148746,
+        "aniId": 137336,
+        "deletedAt": null,
+        "authors": [
+          "On Woo Yeon"
         ]
       }
     }

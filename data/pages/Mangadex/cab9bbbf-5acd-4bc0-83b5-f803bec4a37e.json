@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-31T21:01:45.000Z",
-  "updatedAt": "2022-07-09T22:31:10.000Z",
+  "updatedAt": "2022-07-10T09:25:21.000Z",
   "checkedAt": "2022-07-09T22:31:10.000Z",
   "id": 60903,
   "identifier": "cab9bbbf-5acd-4bc0-83b5-f803bec4a37e",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149141,
   "aniId": 130222,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,38 @@
     "REDZIN",
     "Silva (REDICE Studio)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-09T22:30:15.667Z",
+    "updatedAt": "2022-07-09T22:30:15.667Z",
+    "checkedAt": "2022-07-09T22:30:15.000Z",
+    "id": 149141,
+    "type": "manga",
+    "title": "Mookhyang: The Origin",
+    "altTitle": [
+      "Mookhyang: The Origin",
+      "묵향 디 오리진"
+    ],
+    "url": "https://myanimelist.net/manga/149141/Mookhyang__The_Origin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264645.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56458652"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jeon, Dong-jo",
+      "Silva"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:18.152Z",
-    "updatedAt": "2022-05-20T16:22:32.000Z",
-    "checkedAt": "2022-05-20T16:22:32.000Z",
+    "updatedAt": "2022-07-10T09:27:22.000Z",
+    "checkedAt": "2022-07-10T09:27:22.000Z",
     "id": 130222,
     "type": "manga",
     "title": "Muk-Hyang: The Origin",
@@ -38,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149141,
     "deletedAt": null,
     "authors": [
       "Dong-Jo Jeon",

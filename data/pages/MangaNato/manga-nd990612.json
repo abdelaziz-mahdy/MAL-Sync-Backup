@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-23T19:57:23.000Z",
-  "updatedAt": "2022-05-23T21:00:05.000Z",
+  "updatedAt": "2022-07-16T08:46:19.000Z",
   "checkedAt": "2022-05-23T21:00:05.000Z",
   "id": 99891,
   "identifier": "manga-nd990612",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142629,
+  "aniId": 143516,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-18T04:34:35.000Z",
+    "updatedAt": "2022-05-13T23:39:19.000Z",
+    "checkedAt": "2022-05-13T23:39:19.000Z",
+    "id": 142629,
+    "type": "manga",
+    "title": "Exorcist wo Otosenai",
+    "altTitle": [
+      "Make the Exorcist Fall in Love",
+      "エクソシストを堕とせない"
+    ],
+    "url": "https://myanimelist.net/manga/142629/Exorcist_wo_Otosenai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259197.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/3269754496649675685"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fukayama, Masuku",
+      "Arima, Aruma"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:38.713Z",
+    "updatedAt": "2022-05-13T23:39:19.000Z",
+    "checkedAt": "2022-05-13T23:39:19.000Z",
+    "id": 143516,
+    "type": "manga",
+    "title": "Exorcist wo Otosenai  ",
+    "altTitle": [
+      "エクソシストを堕とせない",
+      "Make the Exorcist Fall in Love"
+    ],
+    "url": "https://anilist.co/manga/143516",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143516-kIK4iJpcCH30.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142629,
+    "deletedAt": null,
+    "authors": [
+      "Aruma Arima",
+      "Masuku Fukayama"
+    ]
+  }
 }

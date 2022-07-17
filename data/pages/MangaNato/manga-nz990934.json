@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-01T14:00:28.809Z",
-  "updatedAt": "2022-06-01T14:00:28.000Z",
+  "updatedAt": "2022-07-10T22:30:25.000Z",
   "checkedAt": "2022-06-01T14:00:28.000Z",
   "id": 106079,
   "identifier": "manga-nz990934",
@@ -12,23 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148421,
   "aniId": 145134,
   "deletedAt": null,
   "authors": [
     "Dongshin Park",
     "Byeong-Ik Cho"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:03.798Z",
+    "updatedAt": "2022-07-10T21:00:03.798Z",
+    "checkedAt": "2022-07-10T21:00:03.000Z",
+    "id": 148421,
+    "type": "manga",
+    "title": "The Divine Surgeon",
+    "altTitle": [
+      "I Reincarnated as a Legendary Surgeon",
+      "Hwata-ga Doen Oegwa Uisa",
+      "The Divine Surgeon",
+      "화타가 된 외과의사"
+    ],
+    "url": "https://myanimelist.net/manga/148421/The_Divine_Surgeon",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264210.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58725187"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Dongshin",
+      "Choi, Byungick"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:05:02.247Z",
-    "updatedAt": "2022-05-13T14:54:19.000Z",
-    "checkedAt": "2022-05-13T14:54:19.000Z",
+    "updatedAt": "2022-07-11T06:11:58.000Z",
+    "checkedAt": "2022-07-11T06:11:58.000Z",
     "id": 145134,
     "type": "manga",
     "title": "Hwataga Doen Oegwauisa",
     "altTitle": [
+      "The Divine Surgeon",
       "화타가 된 외과의사",
       "I Reincarnated as a Legendary Surgeon"
     ],
@@ -37,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148421,
     "deletedAt": null,
     "authors": [
       "Syaimel",

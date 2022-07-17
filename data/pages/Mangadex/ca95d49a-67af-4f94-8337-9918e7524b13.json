@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-02T23:00:04.077Z",
-  "updatedAt": "2022-07-02T23:00:04.000Z",
+  "updatedAt": "2022-07-15T09:20:00.000Z",
   "checkedAt": "2022-07-02T23:00:04.000Z",
   "id": 108735,
   "identifier": "ca95d49a-67af-4f94-8337-9918e7524b13",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149304,
+  "aniId": 141345,
   "deletedAt": null,
   "authors": [
     "Na Yoo Hye",
     "Nagyeom"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-14T20:30:11.566Z",
+    "updatedAt": "2022-07-14T20:30:11.566Z",
+    "checkedAt": "2022-07-14T20:30:11.000Z",
+    "id": 149304,
+    "type": "manga",
+    "title": "A Match Made in Mana",
+    "altTitle": [
+      "Leylin of Turin",
+      "Turine-ui Lilienne",
+      "A Match Made in Mana",
+      "튜린의 릴리엔"
+    ],
+    "url": "https://myanimelist.net/manga/149304/A_Match_Made_in_Mana",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264876.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58167902"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Na, Yoohye",
+      "Nagyeom"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:00.633Z",
+    "updatedAt": "2022-07-15T09:15:54.000Z",
+    "checkedAt": "2022-07-15T09:15:54.000Z",
+    "id": 141345,
+    "type": "manga",
+    "title": "Turin-ui Lillian",
+    "altTitle": [
+      "A Match Made in Mana",
+      "튜린의 릴리엔",
+      "Lillian of Turin"
+    ],
+    "url": "https://anilist.co/manga/141345",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141345-CDY7VoP4pEGt.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149304,
+    "deletedAt": null,
+    "authors": [
+      "Nagyeom",
+      "Yu-Hye Na"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T05:44:55.000Z",
-  "updatedAt": "2022-05-13T16:52:00.000Z",
+  "updatedAt": "2022-07-12T19:33:05.000Z",
   "checkedAt": "2022-05-13T16:52:00.000Z",
   "id": 73444,
   "identifier": "manga-lc988711",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147505,
+  "aniId": 126594,
   "deletedAt": null,
   "authors": [
     "Zero Water",
     "Umkey"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-01T08:30:05.481Z",
+    "updatedAt": "2022-06-01T08:30:05.481Z",
+    "checkedAt": "2022-06-01T08:30:05.000Z",
+    "id": 147505,
+    "type": "manga",
+    "title": "Dungeons & Artifacts",
+    "altTitle": [
+      "Dungeon Ssibeo Meongneun Artifact",
+      "Dungeons & Artifacts",
+      "던전 씹어먹는 아티팩트"
+    ],
+    "url": "https://myanimelist.net/manga/147505/Dungeons___Artifacts",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261658.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=758439"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Zerowater",
+      "UMKY"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:18.103Z",
+    "updatedAt": "2022-06-27T14:08:36.000Z",
+    "checkedAt": "2022-06-27T14:08:36.000Z",
+    "id": 126594,
+    "type": "manga",
+    "title": "Dungeon Ssibeomeongneun Artifacts",
+    "altTitle": [
+      "Dungeons & Artifacts",
+      "던전 씹어먹는 아티팩트",
+      "Dungeons and Artifacts",
+      "อาร์ติแฟกต์ถล่มดันเจี้ยน"
+    ],
+    "url": "https://anilist.co/manga/126594",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126594-UYXGqmTDMhw7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147505,
+    "deletedAt": null,
+    "authors": [
+      "UMKY",
+      "Zero Water"
+    ]
+  }
 }

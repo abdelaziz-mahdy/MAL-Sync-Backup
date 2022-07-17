@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:03:43.000Z",
-  "updatedAt": "2021-12-02T17:18:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-10T22:32:34.000Z",
+  "checkedAt": "2022-07-10T21:00:53.000Z",
   "id": 2833,
   "identifier": "f9972c2d-b8e0-45e6-a069-8410614e03e7",
   "type": "manga",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 148097,
   "aniId": 85174,
   "deletedAt": null,
   "authors": [
     "Kim Carnby",
     "Team Getname"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-10T21:00:25.266Z",
+    "updatedAt": "2022-07-10T21:00:25.266Z",
+    "checkedAt": "2022-07-10T21:00:25.000Z",
+    "id": 148097,
+    "type": "manga",
+    "title": "City of Dead Sorcerers",
+    "altTitle": [
+      "Dead Sorcerer's City",
+      "Jugeun Mabeopsa-ui Dosi",
+      "죽은 마법사의 도시"
+    ],
+    "url": "https://myanimelist.net/manga/148097/City_of_Dead_Sorcerers",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264618.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=409629"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Carnby"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:58.144Z",
-    "updatedAt": "2022-05-13T16:37:19.000Z",
-    "checkedAt": "2022-05-13T16:37:19.000Z",
+    "updatedAt": "2022-07-13T08:57:18.000Z",
+    "checkedAt": "2022-07-13T08:57:18.000Z",
     "id": 85174,
     "type": "manga",
     "title": "Jugeun Mabeopsaui Dosi",
@@ -38,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148097,
     "deletedAt": null,
     "authors": [
       "Carnby Kim"

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-02-21T13:17:02.000Z",
-  "updatedAt": "2022-07-09T21:00:37.000Z",
+  "updatedAt": "2022-07-10T18:20:00.000Z",
   "checkedAt": "2022-07-09T21:00:37.000Z",
   "id": 96538,
   "identifier": "manga-ev981578",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149137,
+  "aniId": 109439,
   "deletedAt": null,
   "authors": [
     "Jeong Won Song",
     "Chung Lee"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T21:00:10.517Z",
+    "updatedAt": "2022-07-09T21:00:10.517Z",
+    "checkedAt": "2022-07-09T21:00:10.000Z",
+    "id": 149137,
+    "type": "manga",
+    "title": "Wedding Impossible",
+    "altTitle": [
+      "Wedding Impossible",
+      "웨딩 임파서블"
+    ],
+    "url": "https://myanimelist.net/manga/149137/Wedding_Impossible",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264639.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=50886943"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Song, Jeongwon",
+      "E. Cheong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:00.896Z",
+    "updatedAt": "2022-07-10T18:11:27.000Z",
+    "checkedAt": "2022-07-10T18:11:27.000Z",
+    "id": 109439,
+    "type": "manga",
+    "title": "Wedding Impossible",
+    "altTitle": [
+      "Wedding Impossible",
+      "웨딩 임파서블",
+      "Marriage Impossible"
+    ],
+    "url": "https://anilist.co/manga/109439",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109439-ff2yGibxBvnu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149137,
+    "deletedAt": null,
+    "authors": [
+      "Cheong Lee",
+      "Jeong Won Song"
+    ]
+  }
 }
