@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T19:43:05.000Z",
-  "updatedAt": "2022-05-27T07:30:09.000Z",
+  "updatedAt": "2022-07-17T16:20:00.000Z",
   "checkedAt": "2022-05-27T07:30:09.000Z",
   "id": 74076,
   "identifier": "manga-hz984934",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147841,
+  "aniId": 116675,
   "deletedAt": null,
   "authors": [
     "인타임"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-08T20:32:00.658Z",
+    "updatedAt": "2022-06-08T20:32:00.658Z",
+    "checkedAt": "2022-06-08T20:32:00.000Z",
+    "id": 147841,
+    "type": "manga",
+    "title": "I Login Alone",
+    "altTitle": [
+      "I Log In Alone",
+      "Na Hollo Login",
+      "I Login Alone",
+      "나 홀로 로그인"
+    ],
+    "url": "https://myanimelist.net/manga/147841/I_Login_Alone",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262424.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54269969"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Toy Car",
+      "Rose Studio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:13.019Z",
+    "updatedAt": "2022-06-09T08:01:24.000Z",
+    "checkedAt": "2022-06-09T08:01:24.000Z",
+    "id": 116675,
+    "type": "manga",
+    "title": "Na Hollo Login",
+    "altTitle": [
+      "I Log In Alone",
+      "나 홀로 로그인",
+      "Solo Login",
+      " I Log In Alone"
+    ],
+    "url": "https://anilist.co/manga/116675",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116675-jeOSJ7THOZd7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147841,
+    "deletedAt": null,
+    "authors": [
+      "INTIME",
+      "Rose Studio"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-04T17:16:56.000Z",
-  "updatedAt": "2022-03-07T08:00:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-23T16:20:01.000Z",
+  "checkedAt": "2022-07-23T13:00:05.000Z",
   "id": 92426,
   "identifier": "manga-mr990126",
   "type": "manga",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 145123,
+  "aniId": 134988,
   "deletedAt": null,
   "authors": [
     "Keke Kitaya",
     "Manimani Ononata"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-07T15:30:44.000Z",
+    "updatedAt": "2022-05-13T15:52:09.000Z",
+    "checkedAt": "2022-05-13T15:52:09.000Z",
+    "id": 145123,
+    "type": "manga",
+    "title": "Tsukushitagari na Uchi no Yome ni Tsuite Deretemo Ii ka?",
+    "altTitle": [
+      "Can I Brag About My Very Devoted Wife to You?",
+      "Can I Be Loving Towards My Wife Who Wants to Do All Kinds of Things?",
+      "We Started a So Sweet Newlywed Life.",
+      "尽くしたがりなうちの嫁についてデレてもいいか？"
+    ],
+    "url": "https://myanimelist.net/manga/145123/Tsukushitagari_na_Uchi_no_Yome_ni_Tsuite_Deretemo_Ii_ka",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257305.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/53510"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ononata, Manimani",
+      "Kitaya, Keke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:16.750Z",
+    "updatedAt": "2022-05-13T15:52:09.000Z",
+    "checkedAt": "2022-05-13T15:52:09.000Z",
+    "id": 134988,
+    "type": "manga",
+    "title": "Tsukushitagari na Uchi no Yome ni Tsuite Deretemo Ii ka?",
+    "altTitle": [
+      "尽くしたがりなうちの嫁についてデレてもいいか？",
+      "Can I Be Loving Towards My Wife Who Wants to Do All Kinds of Things?  "
+    ],
+    "url": "https://anilist.co/manga/134988",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134988-9EWh3UG7nbcd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145123,
+    "deletedAt": null,
+    "authors": [
+      "Manimani Ononata",
+      "Keke Kitaya",
+      "Ayami"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-10T09:02:58.000Z",
-  "updatedAt": "2022-05-13T15:43:26.000Z",
+  "updatedAt": "2022-07-19T09:12:48.000Z",
   "checkedAt": "2022-05-13T15:43:26.000Z",
   "id": 88318,
   "identifier": "earth-savior-selection",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149457,
+  "aniId": 138917,
   "deletedAt": null,
   "authors": [
     "Ha Jungsoo",
     "Oetu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-18T16:30:13.234Z",
+    "updatedAt": "2022-07-18T16:30:13.234Z",
+    "checkedAt": "2022-07-18T16:30:13.000Z",
+    "id": 149457,
+    "type": "manga",
+    "title": "The Earth's Chosen Savior",
+    "altTitle": [
+      "The Earth Savior Selection",
+      "Jigusik Guwonja Jeonhyeong",
+      "The Earth's Chosen Savior",
+      "지구식 구원자 전형"
+    ],
+    "url": "https://myanimelist.net/manga/149457/The_Earths_Chosen_Savior",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265075.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=777829"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oetu",
+      "Ha, Jungsoo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:25.616Z",
+    "updatedAt": "2022-07-19T09:06:43.000Z",
+    "checkedAt": "2022-07-19T09:06:43.000Z",
+    "id": 138917,
+    "type": "manga",
+    "title": "Jigusik Guwonja Jeonhyeong",
+    "altTitle": [
+      "The Earth's Chosen Savior",
+      "지구식 구원자 전형",
+      "The Earth Savior Selection"
+    ],
+    "url": "https://anilist.co/manga/138917",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138917-y7anqkKff2U2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149457,
+    "deletedAt": null,
+    "authors": [
+      "Jeong-Su Ha",
+      "Oetu",
+      "Ye-Heum Lee"
+    ]
+  }
 }

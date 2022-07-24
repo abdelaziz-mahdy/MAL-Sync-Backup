@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-11-15T17:58:07.000Z",
-  "updatedAt": "2022-05-13T15:41:10.000Z",
+  "updatedAt": "2022-07-22T08:01:55.000Z",
   "checkedAt": "2022-05-13T15:41:10.000Z",
   "id": 90789,
   "identifier": "fake-humans",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149566,
   "aniId": null,
   "deletedAt": null,
   "authors": [
@@ -21,6 +21,34 @@
     "Banyan",
     "kim-badak"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-21T22:00:08.613Z",
+    "updatedAt": "2022-07-21T22:00:08.613Z",
+    "checkedAt": "2022-07-21T22:00:08.000Z",
+    "id": 149566,
+    "type": "manga",
+    "title": "Fake Humans",
+    "altTitle": [
+      "Gajja Ingan",
+      "Fake Humans",
+      "가짜인간"
+    ],
+    "url": "https://myanimelist.net/manga/149566/Fake_Humans",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265293.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=766504"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Badak",
+      "Banyan"
+    ]
+  },
   "Ani": null
 }

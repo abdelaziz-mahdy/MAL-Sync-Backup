@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-20T03:20:22.000Z",
-  "updatedAt": "2022-04-17T00:31:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-17T12:01:17.000Z",
+  "checkedAt": "2022-07-17T12:01:17.000Z",
   "id": 15025,
   "type": "manga",
   "title": "Mushrambo",
@@ -28,7 +28,7 @@
     "MangaNato": {
       "manga-kj962066": {
         "createdAt": "2021-07-20T03:20:02.000Z",
-        "updatedAt": "2022-01-20T03:37:06.000Z",
+        "updatedAt": "2022-07-17T12:20:00.000Z",
         "checkedAt": null,
         "id": 82448,
         "identifier": "manga-kj962066",
@@ -42,10 +42,35 @@
         "active": true,
         "actorId": null,
         "malId": 15025,
-        "aniId": null,
+        "aniId": 45025,
         "deletedAt": null,
         "authors": [
           "Yoshihiro Iwamoto"
+        ]
+      }
+    },
+    "Mangadex": {
+      "a3a18f80-9d38-43d5-8d88-ae2317768fd2": {
+        "createdAt": "2022-07-17T12:01:18.102Z",
+        "updatedAt": "2022-07-17T12:01:18.000Z",
+        "checkedAt": "2022-07-17T12:01:18.000Z",
+        "id": 110296,
+        "identifier": "a3a18f80-9d38-43d5-8d88-ae2317768fd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mushrambo",
+        "url": "https://mangadex.org/title/a3a18f80-9d38-43d5-8d88-ae2317768fd2",
+        "image": "https://uploads.mangadex.org/covers/a3a18f80-9d38-43d5-8d88-ae2317768fd2/6d437d9c-7d71-45c4-bd76-f000f81e5d8f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15025,
+        "aniId": 45025,
+        "deletedAt": null,
+        "authors": [
+          "Izumi Toudou",
+          "Iwamoto Yoshihiro"
         ]
       }
     }

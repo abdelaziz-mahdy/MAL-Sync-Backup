@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-16T20:01:15.693Z",
-  "updatedAt": "2022-07-16T20:01:15.693Z",
+  "updatedAt": "2022-07-17T10:20:00.000Z",
   "checkedAt": "2022-07-16T20:01:15.000Z",
   "id": 110128,
   "identifier": "64f52610-002a-42a1-bfad-7e12eb1db6d4",
@@ -11,14 +11,68 @@
   "image": "https://uploads.mangadex.org/covers/64f52610-002a-42a1-bfad-7e12eb1db6d4/70dc2f02-17f5-48cb-98ab-2519deb769c2.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 877,
+  "aniId": 30877,
   "deletedAt": null,
   "authors": [
     "Kamio Youko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:27.000Z",
+    "updatedAt": "2022-05-15T14:35:50.000Z",
+    "checkedAt": "2022-05-15T14:35:50.000Z",
+    "id": 877,
+    "type": "manga",
+    "title": "Hana yori Dango",
+    "altTitle": [
+      "HYD",
+      "Boys Over Flowers: Jewelry Box",
+      "End of the Century",
+      "Boys Over Flowers",
+      "花より男子"
+    ],
+    "url": "https://myanimelist.net/manga/877/Hana_yori_Dango",
+    "image": "https://cdn.myanimelist.net/images/manga/1/27280.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%82%88%E3%82%8A%E7%94%B7%E5%AD%90"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kamio, Yoko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:41.891Z",
+    "updatedAt": "2022-05-15T18:20:23.000Z",
+    "checkedAt": "2022-05-15T18:20:23.000Z",
+    "id": 30877,
+    "type": "manga",
+    "title": "Hana Yori Dango",
+    "altTitle": [
+      "Boys Over Flowers",
+      "花より男子(だんご)",
+      "HYD",
+      "Boys Over Flowers: Jewelry Box",
+      "End of the Century",
+      "No me lo Digas con Flores"
+    ],
+    "url": "https://anilist.co/manga/30877",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30877-rh2We7eqWcZa.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 877,
+    "deletedAt": null,
+    "authors": [
+      "Yoko Kamio"
+    ]
+  }
 }

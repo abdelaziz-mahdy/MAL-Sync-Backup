@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-10T22:13:30.000Z",
-  "updatedAt": "2021-12-08T07:37:12.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-19T09:04:10.000Z",
+  "checkedAt": "2022-07-19T01:00:00.000Z",
   "id": 52020,
   "identifier": "d2846b58-5cf4-4115-8e1e-c7c7f20e65f4",
   "type": "manga",
@@ -12,14 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 143021,
   "deletedAt": null,
   "authors": [
     "Oshikawa Untaro",
     "Edogawa Edogawa"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-07-19T00:30:31.761Z",
+    "updatedAt": "2022-07-19T00:30:31.761Z",
+    "checkedAt": "2022-07-19T00:30:31.000Z",
+    "id": 143021,
+    "type": "manga",
+    "title": "LOST: Shisousha-tachi",
+    "altTitle": [
+      "LOST 失踪者達"
+    ],
+    "url": "https://anilist.co/manga/143021",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143021-LcxWuY0a6ijC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Edogawa Edogawa",
+      "Untarou Oshikawa"
+    ]
+  }
 }

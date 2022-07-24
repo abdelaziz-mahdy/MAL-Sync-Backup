@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-14T17:58:49.000Z",
-  "updatedAt": "2022-05-13T16:30:48.000Z",
+  "updatedAt": "2022-07-19T09:12:46.000Z",
   "checkedAt": "2022-05-13T16:30:48.000Z",
   "id": 88764,
   "identifier": "the-monsters-bride",
@@ -12,15 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149454,
+  "aniId": 111106,
   "deletedAt": null,
   "authors": [
     "Im Eun",
     "Salmonity",
     "Sangbeom"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-18T16:30:14.584Z",
+    "updatedAt": "2022-07-18T16:30:14.584Z",
+    "checkedAt": "2022-07-18T16:30:14.000Z",
+    "id": 149454,
+    "type": "manga",
+    "title": "The Monster's Bride",
+    "altTitle": [
+      "The Bride of a Monster",
+      "Goemul Sinbu",
+      "The Monster's Bride",
+      "괴물신부"
+    ],
+    "url": "https://myanimelist.net/manga/149454/The_Monsters_Bride",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265072.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=728751"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Steak",
+      "Limeun",
+      "Salmoniti",
+      "Sangbeom"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:33.830Z",
+    "updatedAt": "2022-07-19T09:05:06.000Z",
+    "checkedAt": "2022-07-19T09:05:06.000Z",
+    "id": 111106,
+    "type": "manga",
+    "title": "Goemulsinbu",
+    "altTitle": [
+      "The Monster's Bride",
+      "괴물신부",
+      "Bride's Monster",
+      "The Bride of A Monster"
+    ],
+    "url": "https://anilist.co/manga/111106",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111106-8zlCFV6M4eTi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149454,
+    "deletedAt": null,
+    "authors": [
+      "Steak"
+    ]
+  }
 }

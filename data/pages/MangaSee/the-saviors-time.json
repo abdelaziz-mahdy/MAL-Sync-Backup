@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-12T20:25:23.000Z",
-  "updatedAt": "2022-07-16T18:30:46.000Z",
+  "updatedAt": "2022-07-19T09:12:47.000Z",
   "checkedAt": "2022-07-16T18:30:46.000Z",
   "id": 71735,
   "identifier": "the-saviors-time",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149371,
+  "aniId": 132624,
   "deletedAt": null,
   "authors": [
     "SONG Geukjang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-16T18:31:19.183Z",
+    "updatedAt": "2022-07-16T18:31:19.183Z",
+    "checkedAt": "2022-07-16T18:31:19.000Z",
+    "id": 149371,
+    "type": "manga",
+    "title": "The Savior's Time",
+    "altTitle": [
+      "Guju-ui Sigan",
+      "The Savior's Time",
+      "구주의 시간"
+    ],
+    "url": "https://myanimelist.net/manga/149371/The_Saviors_Time",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264975.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=746835"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Song, Geukjang"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:18.827Z",
+    "updatedAt": "2022-07-19T09:07:47.000Z",
+    "checkedAt": "2022-07-19T09:07:47.000Z",
+    "id": 132624,
+    "type": "manga",
+    "title": "Gujuui Sigan",
+    "altTitle": [
+      "The Savior's Time",
+      "구주의시간"
+    ],
+    "url": "https://anilist.co/manga/132624",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132624-b1rroRwfW1na.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149371,
+    "deletedAt": null,
+    "authors": [
+      "Geukjang Song"
+    ]
+  }
 }

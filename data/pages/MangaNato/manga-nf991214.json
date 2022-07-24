@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-16T03:30:04.495Z",
-  "updatedAt": "2022-06-16T03:30:04.000Z",
+  "updatedAt": "2022-07-20T08:20:00.000Z",
   "checkedAt": "2022-06-16T03:30:04.000Z",
   "id": 107416,
   "identifier": "manga-nf991214",
@@ -12,15 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149463,
+  "aniId": 150744,
   "deletedAt": null,
   "authors": [
     "Two-Zero",
     "Niccolo (니콜로)",
     "Plana (플랜에이)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-19T10:30:03.120Z",
+    "updatedAt": "2022-07-19T10:30:03.120Z",
+    "checkedAt": "2022-07-19T10:30:03.000Z",
+    "id": 149463,
+    "type": "manga",
+    "title": "The Esper's Game",
+    "altTitle": [
+      "Superhuman Battlefield",
+      "Choin-ui Game",
+      "The Esper's Game",
+      "초인의 게임"
+    ],
+    "url": "https://myanimelist.net/manga/149463/The_Espers_Game",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265097.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=795658"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Niccolo",
+      "Plan A"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-20T19:30:07.697Z",
+    "updatedAt": "2022-07-20T07:48:10.000Z",
+    "checkedAt": "2022-07-20T07:48:10.000Z",
+    "id": 150744,
+    "type": "manga",
+    "title": "Choinui Geim",
+    "altTitle": [
+      "The Esper's Game",
+      "초인의 게임",
+      "Superhuman Battlefield",
+      "Superman's Game"
+    ],
+    "url": "https://anilist.co/manga/150744",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150744-oItNn4LvB2Pc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149463,
+    "deletedAt": null,
+    "authors": [
+      "Plan A",
+      "Two-zero",
+      "Niccolo"
+    ]
+  }
 }

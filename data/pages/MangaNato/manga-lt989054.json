@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-31T13:25:07.000Z",
-  "updatedAt": "2022-06-06T13:30:00.000Z",
+  "updatedAt": "2022-07-20T21:20:00.000Z",
   "checkedAt": "2022-06-06T13:30:00.000Z",
   "id": 74878,
   "identifier": "manga-lt989054",
@@ -12,15 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149469,
+  "aniId": 134321,
   "deletedAt": null,
   "authors": [
     "금 연재",
     "스크류뿅뿅",
     "열두"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-19T10:30:10.488Z",
+    "updatedAt": "2022-07-19T10:30:10.488Z",
+    "checkedAt": "2022-07-19T10:30:10.000Z",
+    "id": 149469,
+    "type": "manga",
+    "title": "The Emperor's Mask",
+    "altTitle": [
+      "The Emperor's Mask",
+      "황제의 가면"
+    ],
+    "url": "https://myanimelist.net/manga/149469/The_Emperors_Mask",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265115.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57063419"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yeoldu",
+      "Screw Ppyongppyong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:29.508Z",
+    "updatedAt": "2022-07-20T20:35:27.000Z",
+    "checkedAt": "2022-07-20T20:35:27.000Z",
+    "id": 134321,
+    "type": "manga",
+    "title": "Hwangjeui Gamyeon",
+    "altTitle": [
+      "The Emperor's Mask",
+      "황제의 가면",
+      "Emperor's Mask",
+      "La máscara del Emperador",
+      "皇帝的假面",
+      "皇帝の仮面",
+      "Koutei no Kamen"
+    ],
+    "url": "https://anilist.co/manga/134321",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134321-VuoCWFXwrgqW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149469,
+    "deletedAt": null,
+    "authors": [
+      "Yeoldu",
+      "Screw Ppyongppyong"
+    ]
+  }
 }

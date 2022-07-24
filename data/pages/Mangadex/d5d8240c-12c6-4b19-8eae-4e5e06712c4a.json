@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:47.000Z",
-  "updatedAt": "2022-02-13T13:09:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-21T17:37:18.000Z",
+  "checkedAt": "2022-07-18T18:00:08.000Z",
   "id": 40067,
   "identifier": "d5d8240c-12c6-4b19-8eae-4e5e06712c4a",
   "type": "manga",
@@ -12,14 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147736,
+  "aniId": 128965,
   "deletedAt": null,
   "authors": [
-    "Flavie",
+    "Flavi (플라비)",
     "Jang Green"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-18T18:00:08.133Z",
+    "updatedAt": "2022-07-18T18:00:08.133Z",
+    "checkedAt": "2022-07-18T18:00:08.000Z",
+    "id": 147736,
+    "type": "manga",
+    "title": "'Til Debt Do Us Part",
+    "altTitle": [
+      "A Bittersweet Couple",
+      "Dalkom Salbyeolhan Bubu",
+      "'Til Debt Do Us Part",
+      "달콤살벌한 부부"
+    ],
+    "url": "https://myanimelist.net/manga/147736/Til_Debt_Do_Us_Part",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262678.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=753856"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Flowbee",
+      "Janggreen"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:25.420Z",
+    "updatedAt": "2022-07-22T08:02:44.000Z",
+    "checkedAt": "2022-07-22T08:02:44.000Z",
+    "id": 128965,
+    "type": "manga",
+    "title": "Dalkomsalbeolhan Bubu",
+    "altTitle": [
+      "'Til Debt Do Us Part",
+      "달콤살벌한 부부",
+      "A Sweet and Bitter Couple",
+      "A Sweet and Bloody Couple",
+      "Bitter Sweet Marriage",
+      "我的契约爱人",
+      "相愛相殺的夫妻",
+      "A Bittersweet Couple"
+    ],
+    "url": "https://anilist.co/manga/128965",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128965-Rji5krqeWGuE.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Flavie",
+      "Green Jang"
+    ]
+  }
 }

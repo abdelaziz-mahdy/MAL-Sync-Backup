@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-19T18:18:44.000Z",
-  "updatedAt": "2022-01-19T18:34:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-20T21:20:00.000Z",
+  "checkedAt": "2022-07-20T12:00:16.000Z",
   "id": 82414,
   "identifier": "golden_spoon",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149494,
+  "aniId": 126149,
   "deletedAt": null,
   "authors": [
     "HD3"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-20T12:00:47.933Z",
+    "updatedAt": "2022-07-20T12:00:47.933Z",
+    "checkedAt": "2022-07-20T12:00:47.000Z",
+    "id": 149494,
+    "type": "manga",
+    "title": "The Golden Spoon",
+    "altTitle": [
+      "Geumsujeo",
+      "The Golden Spoon",
+      "금수저"
+    ],
+    "url": "https://myanimelist.net/manga/149494/The_Golden_Spoon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265160.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=679567"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "HD3"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:25.247Z",
+    "updatedAt": "2022-07-20T20:34:54.000Z",
+    "checkedAt": "2022-07-20T20:34:54.000Z",
+    "id": 126149,
+    "type": "manga",
+    "title": "Geumsujeo",
+    "altTitle": [
+      "The Golden Spoon",
+      "금수저",
+      "Golden Spoon"
+    ],
+    "url": "https://anilist.co/manga/126149",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126149-Lfvdku0cLOVa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149494,
+    "deletedAt": null,
+    "authors": [
+      "Seong Hyeondong"
+    ]
+  }
 }

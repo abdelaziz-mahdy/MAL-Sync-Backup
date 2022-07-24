@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-16T22:31:23.715Z",
-  "updatedAt": "2022-07-16T22:31:23.715Z",
+  "updatedAt": "2022-07-17T10:03:07.000Z",
   "checkedAt": "2022-07-16T22:31:23.000Z",
   "id": 110199,
   "identifier": "ba626b68-8cad-438c-8b7e-c8ec26c480ff",
@@ -11,14 +11,40 @@
   "image": "https://uploads.mangadex.org/covers/ba626b68-8cad-438c-8b7e-c8ec26c480ff/df7a1329-f28b-4e4e-a98b-ee73605ea098.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 22910,
   "aniId": null,
   "deletedAt": null,
   "authors": [
     "Ueda Masashi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2020-11-02T07:14:00.000Z",
+    "updatedAt": "2022-06-20T21:27:01.000Z",
+    "checkedAt": "2022-06-20T21:27:01.000Z",
+    "id": 22910,
+    "type": "manga",
+    "title": "Kobo-chan",
+    "altTitle": [
+      "Kobo, the Li'l Rascal",
+      "コボちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/22910/Kobo-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/37121.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9C%E3%81%A1%E3%82%83%E3%82%93"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ueda, Masashi"
+    ]
+  },
   "Ani": null
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-27T20:49:30.000Z",
-  "updatedAt": "2022-05-13T20:30:46.000Z",
+  "updatedAt": "2022-07-23T16:20:01.000Z",
   "checkedAt": "2022-05-13T20:30:46.000Z",
   "id": 67442,
   "identifier": "the-strongest-florist",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147742,
+  "aniId": 119713,
   "deletedAt": null,
   "authors": [
     "Joo Hyeonhu",
     "Kumtata"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:30:17.193Z",
+    "updatedAt": "2022-06-07T13:30:17.193Z",
+    "checkedAt": "2022-06-07T13:30:17.000Z",
+    "id": 147742,
+    "type": "manga",
+    "title": "The Strongest Florist",
+    "altTitle": [
+      "Kkonman Kiuneunde Neomu Gangham",
+      "The Strongest Florist",
+      "꽃만 키우는데 너무강함"
+    ],
+    "url": "https://myanimelist.net/manga/147742/The_Strongest_Florist",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262122.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=741825"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kumtata",
+      "Joo, Hyunhoo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:08.930Z",
+    "updatedAt": "2022-06-08T07:52:23.000Z",
+    "checkedAt": "2022-06-08T07:52:23.000Z",
+    "id": 119713,
+    "type": "manga",
+    "title": "Kkonman Kiuneunde Neomugangham",
+    "altTitle": [
+      "The Strongest Florist",
+      "꽃만 키우는데 너무강함"
+    ],
+    "url": "https://anilist.co/manga/119713",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119713-NajUeEaEFMmX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147742,
+    "deletedAt": null,
+    "authors": [
+      "Kumtata",
+      "Hyeonhu Joo"
+    ]
+  }
 }

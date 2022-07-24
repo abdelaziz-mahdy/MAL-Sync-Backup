@@ -1,44 +1,75 @@
 {
   "createdAt": "2022-05-24T20:30:35.178Z",
-  "updatedAt": "2022-05-24T20:30:35.000Z",
-  "checkedAt": "2022-05-24T20:30:35.000Z",
+  "updatedAt": "2022-07-20T20:31:31.000Z",
+  "checkedAt": "2022-07-20T20:31:29.000Z",
   "id": 105292,
   "identifier": "the-tax-reaper",
   "type": "manga",
   "page": "MangaSee",
   "title": "The Tax Reaper",
   "url": "https://mangasee123.com/manga/The-Tax-Reaper",
-  "image": "https://cover.nep.li/cover/The-Tax-Reaper.jpg",
+  "image": "https://temp.compsci88.com/cover/The-Tax-Reaper.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149513,
   "aniId": 144443,
   "deletedAt": null,
   "authors": [
     "Elgar",
     "WintersleepTurtle"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-20T16:00:00.962Z",
+    "updatedAt": "2022-07-20T16:00:00.962Z",
+    "checkedAt": "2022-07-20T16:00:00.000Z",
+    "id": 149513,
+    "type": "manga",
+    "title": "The Tax Reaper",
+    "altTitle": [
+      "National Tax Service Thug",
+      "Guksecheong Mangnani",
+      "The Tax Reaper",
+      "국세청 망나니"
+    ],
+    "url": "https://myanimelist.net/manga/149513/The_Tax_Reaper",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265212.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=785727"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dongmyeon Geobugi",
+      "Since"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:46:42.612Z",
-    "updatedAt": "2022-05-24T20:30:35.000Z",
-    "checkedAt": "2022-05-24T20:30:35.000Z",
+    "updatedAt": "2022-07-20T20:35:31.000Z",
+    "checkedAt": "2022-07-20T20:35:31.000Z",
     "id": 144443,
     "type": "manga",
     "title": "Guksecheong Mangnani",
     "altTitle": [
       "The Tax Reaper",
       "국세청 망나니",
-      "The Bastard of National Tax Service"
+      "The Bastard of National Tax Service",
+      "National Tax Service Thug",
+      "无税可逃"
     ],
     "url": "https://anilist.co/manga/144443",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144443-4KgocMciZ8il.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149513,
     "deletedAt": null,
     "authors": [
       "Dongmyeongeobugi",

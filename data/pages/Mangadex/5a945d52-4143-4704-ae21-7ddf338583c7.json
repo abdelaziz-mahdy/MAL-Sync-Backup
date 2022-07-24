@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-17T20:30:02.099Z",
-  "updatedAt": "2022-06-17T20:30:02.000Z",
+  "updatedAt": "2022-07-21T08:43:23.000Z",
   "checkedAt": "2022-06-17T20:30:02.000Z",
   "id": 107572,
   "identifier": "5a945d52-4143-4704-ae21-7ddf338583c7",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 151220,
   "deletedAt": null,
   "authors": [
     "Jehaeng Musang (제행무상)",
@@ -22,5 +22,28 @@
     "Park Sung-Woo (박성우)"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-07-04T17:30:08.703Z",
+    "updatedAt": "2022-07-04T17:30:08.703Z",
+    "checkedAt": "2022-07-04T17:30:08.000Z",
+    "id": 151220,
+    "type": "manga",
+    "title": "Haksageomjeon",
+    "altTitle": [
+      "학사검전",
+      "Records of the Swordsman Scholar"
+    ],
+    "url": "https://anilist.co/manga/151220",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151220-Duquvq5Flof4.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Sung-Woo Park",
+      "Hyeon-U Choe",
+      "Jehaengmusang"
+    ]
+  }
 }

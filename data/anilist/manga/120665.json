@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:51:20.498Z",
-  "updatedAt": "2022-07-11T21:50:48.000Z",
-  "checkedAt": "2022-07-11T21:50:48.000Z",
+  "updatedAt": "2022-07-20T20:35:02.000Z",
+  "checkedAt": "2022-07-20T20:35:02.000Z",
   "id": 120665,
   "type": "manga",
   "title": "Lilac 200%",
@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149515,
   "deletedAt": null,
   "authors": [
     "Ui Yeoung"
@@ -24,8 +24,8 @@
     "Mangadex": {
       "352d9c9f-4b3c-4310-81fd-b9a10a924027": {
         "createdAt": "2020-10-12T16:19:15.000Z",
-        "updatedAt": "2021-12-09T08:34:40.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-20T20:34:21.000Z",
+        "checkedAt": "2022-07-20T16:30:15.000Z",
         "id": 34829,
         "identifier": "352d9c9f-4b3c-4310-81fd-b9a10a924027",
         "type": "manga",
@@ -36,8 +36,32 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 149515,
+        "aniId": 120665,
+        "deletedAt": null,
+        "authors": [
+          "Aniyoung"
+        ]
+      }
+    },
+    "MangaFox": {
+      "200_lilac": {
+        "createdAt": "2022-07-20T16:30:01.978Z",
+        "updatedAt": "2022-07-20T21:20:00.000Z",
+        "checkedAt": "2022-07-20T16:30:01.000Z",
+        "id": 110773,
+        "identifier": "200_lilac",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "200% Lilac",
+        "url": "https://fanfox.net/manga/200_lilac/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33732/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 149515,
         "aniId": 120665,
         "deletedAt": null,
         "authors": [

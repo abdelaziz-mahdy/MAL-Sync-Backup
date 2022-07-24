@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-12T11:44:58.000Z",
-  "updatedAt": "2022-06-02T18:00:02.000Z",
+  "updatedAt": "2022-07-19T09:12:48.000Z",
   "checkedAt": "2022-06-02T18:00:02.000Z",
   "id": 88467,
   "identifier": "0b74bd1a-0aca-4fb3-9a09-79c2d2bce904",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149374,
+  "aniId": 134446,
   "deletedAt": null,
   "authors": [
     "USOI",
     "Maryang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-16T18:30:01.960Z",
+    "updatedAt": "2022-07-16T18:30:01.960Z",
+    "checkedAt": "2022-07-16T18:30:01.000Z",
+    "id": 149374,
+    "type": "manga",
+    "title": "Our Little Empress",
+    "altTitle": [
+      "Baby Empress",
+      "Agi Hwanghu-nim",
+      "Our Little Empress",
+      "아기 황후님"
+    ],
+    "url": "https://myanimelist.net/manga/149374/Our_Little_Empress",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264979.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56987114"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yusoy",
+      "Maryang",
+      "taco"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:14.352Z",
+    "updatedAt": "2022-07-19T09:05:50.000Z",
+    "checkedAt": "2022-07-19T09:05:50.000Z",
+    "id": 134446,
+    "type": "manga",
+    "title": "Agi Hwanghunim",
+    "altTitle": [
+      "Our Little Empress",
+      "아기 황후님",
+      "Baby Empress",
+      "จักรพรรดินีตัวน้อย"
+    ],
+    "url": "https://anilist.co/manga/134446",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134446-hAivSleFUjA9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149374,
+    "deletedAt": null,
+    "authors": [
+      "Usoi",
+      "Maryang",
+      "nokcy"
+    ]
+  }
 }

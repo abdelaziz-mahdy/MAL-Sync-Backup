@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-26T06:29:45.000Z",
-  "updatedAt": "2022-07-05T23:00:10.000Z",
+  "updatedAt": "2022-07-23T16:20:01.000Z",
   "checkedAt": "2022-07-05T23:00:10.000Z",
   "id": 99981,
   "identifier": "manga-no990623",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147138,
+  "aniId": 147879,
   "deletedAt": null,
   "authors": [
     "Nagase"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-27T07:30:11.036Z",
+    "updatedAt": "2022-05-27T07:30:11.036Z",
+    "checkedAt": "2022-05-27T07:30:11.000Z",
+    "id": 147138,
+    "type": "manga",
+    "title": "Gakuen Mono no Otome Game no Sekai ni Tensei shita kedo, Cheat-mochi no Haikei Danshi Seito Datta you desu.",
+    "altTitle": [
+      "学園物の乙女ゲームの世界に転生したけど、チート持ちの背景男子生徒だったようです。"
+    ],
+    "url": "https://myanimelist.net/manga/147138/Gakuen_Mono_no_Otome_Game_no_Sekai_ni_Tensei_shita_kedo_Cheat-mochi_no_Haikei_Danshi_Seito_Datta_you_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260687.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gaugau.futabanet.jp/list/work/615fb68877656145b30a0000"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hozumi, Kazoe",
+      "Nagase"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:37.571Z",
+    "updatedAt": "2022-07-07T09:32:51.000Z",
+    "checkedAt": "2022-07-07T09:32:51.000Z",
+    "id": 147879,
+    "type": "manga",
+    "title": "Gakuenmono no Otome Game no Sekai ni Tensei Shita kedo, Cheat Mochi no Haikei Danshi Seitodatta You desu.",
+    "altTitle": [
+      "学園物の乙女ゲームの世界に転生したけど、チート持ちの背景男子生徒だったようです。"
+    ],
+    "url": "https://anilist.co/manga/147879",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147879-hXADiLn2kh8Q.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147138,
+    "deletedAt": null,
+    "authors": [
+      "Kazoe Hozumi",
+      "Nagase"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-16T22:00:50.147Z",
-  "updatedAt": "2022-07-16T22:00:50.147Z",
+  "updatedAt": "2022-07-17T10:20:00.000Z",
   "checkedAt": "2022-07-16T22:00:50.000Z",
   "id": 110186,
   "identifier": "8d547387-d8eb-4762-a407-d82dc148a2c0",
@@ -11,14 +11,59 @@
   "image": "https://uploads.mangadex.org/covers/8d547387-d8eb-4762-a407-d82dc148a2c0/b4ba5b5f-5d3c-4d31-92fb-bbbd7c42ad19.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 22204,
+  "aniId": 52204,
   "deletedAt": null,
   "authors": [
     "Tezuka Osamu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-22T00:48:31.000Z",
+    "updatedAt": "2022-07-16T22:00:52.000Z",
+    "checkedAt": "2022-07-16T22:00:52.000Z",
+    "id": 22204,
+    "type": "manga",
+    "title": "Faust",
+    "altTitle": [
+      "ファウスト"
+    ],
+    "url": "https://myanimelist.net/manga/22204/Faust",
+    "image": "https://cdn.myanimelist.net/images/manga/4/175751.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tezukaosamu.net/en/manga/418.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tezuka, Osamu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:54.700Z",
+    "updatedAt": "2022-05-13T13:04:54.700Z",
+    "checkedAt": null,
+    "id": 52204,
+    "type": "manga",
+    "title": "Faust",
+    "altTitle": [
+      "ファウスト"
+    ],
+    "url": "https://anilist.co/manga/52204",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52204-82EfnBHwD2YX.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 22204,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka"
+    ]
+  }
 }
