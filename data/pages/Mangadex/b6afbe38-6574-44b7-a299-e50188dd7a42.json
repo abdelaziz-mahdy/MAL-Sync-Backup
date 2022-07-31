@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:50.000Z",
-  "updatedAt": "2021-12-07T12:16:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-25T15:13:56.000Z",
+  "checkedAt": "2022-07-25T09:30:12.000Z",
   "id": 31947,
   "identifier": "b6afbe38-6574-44b7-a299-e50188dd7a42",
   "type": "manga",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 149638,
   "aniId": 113545,
   "deletedAt": null,
   "authors": [
     "MasterGin",
     "Chungnyun"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-25T09:30:13.873Z",
+    "updatedAt": "2022-07-25T09:30:13.873Z",
+    "checkedAt": "2022-07-25T09:30:13.000Z",
+    "id": 149638,
+    "type": "manga",
+    "title": "Angel Buddy",
+    "altTitle": [
+      "Angel Buddy",
+      "엔젤 버디"
+    ],
+    "url": "https://myanimelist.net/manga/149638/Angel_Buddy",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265382.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53526936"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "MasterGin",
+      "Chungnyun"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:55:56.512Z",
-    "updatedAt": "2022-05-27T20:18:13.000Z",
-    "checkedAt": "2022-05-27T20:18:13.000Z",
+    "updatedAt": "2022-07-25T15:59:29.000Z",
+    "checkedAt": "2022-07-25T15:59:29.000Z",
     "id": 113545,
     "type": "manga",
     "title": "Angel Buddy",
@@ -39,7 +66,7 @@
     "category": "manga",
     "hentai": true,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149638,
     "deletedAt": null,
     "authors": [
       "MasterGin",

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-13T21:31:40.911Z",
-  "updatedAt": "2022-05-13T21:31:41.000Z",
+  "updatedAt": "2022-07-25T15:58:29.000Z",
   "checkedAt": "2022-05-13T21:31:40.000Z",
   "id": 104086,
   "identifier": "8d6585c1-ddea-4fcb-8e3b-b1191b653831",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 146867,
   "aniId": 148677,
   "deletedAt": null,
   "authors": [
     "Jeon Geuk-jin",
     "Park Jin-Hwan"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-09T21:00:40.323Z",
+    "updatedAt": "2022-07-09T21:00:40.323Z",
+    "checkedAt": "2022-07-09T21:00:40.000Z",
+    "id": 146867,
+    "type": "manga",
+    "title": "Eternal Force",
+    "altTitle": [
+      "The Breaker 3: Eternal Force",
+      "이터널 포스"
+    ],
+    "url": "https://myanimelist.net/manga/146867/Eternal_Force",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264156.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=794383"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Jin-Hwan",
+      "Jeon, Geuk-jin"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:01:21.443Z",
-    "updatedAt": "2022-05-13T21:31:41.000Z",
-    "checkedAt": "2022-05-13T21:31:41.000Z",
+    "updatedAt": "2022-07-25T16:01:35.000Z",
+    "checkedAt": "2022-07-25T16:01:35.000Z",
     "id": 148677,
     "type": "manga",
     "title": "Eternal Force",
@@ -39,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146867,
     "deletedAt": null,
     "authors": [
       "Geuk-Jin Jeon",

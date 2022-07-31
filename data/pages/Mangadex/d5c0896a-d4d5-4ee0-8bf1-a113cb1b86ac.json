@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-05T04:00:05.979Z",
-  "updatedAt": "2022-06-05T04:00:05.000Z",
+  "updatedAt": "2022-07-29T08:20:06.000Z",
   "checkedAt": "2022-06-05T04:00:05.000Z",
   "id": 106433,
   "identifier": "d5c0896a-d4d5-4ee0-8bf1-a113cb1b86ac",
@@ -12,15 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149801,
+  "aniId": 150836,
   "deletedAt": null,
   "authors": [
     "Tana (타나)",
     "sayren",
     "WAG"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-28T15:30:01.118Z",
+    "updatedAt": "2022-07-28T15:30:01.118Z",
+    "checkedAt": "2022-07-28T15:30:01.000Z",
+    "id": 149801,
+    "type": "manga",
+    "title": "Academy's Undercover Professor",
+    "altTitle": [
+      "I Got a Fake Job at the Academy",
+      "Academy-e Wijang Chwieop Danghaetda",
+      "아카데미에 위장취업당했다"
+    ],
+    "url": "https://myanimelist.net/manga/149801/Academys_Undercover_Professor",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265658.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=795529"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sayren",
+      "WAG"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-12T20:30:12.607Z",
+    "updatedAt": "2022-07-29T08:08:44.000Z",
+    "checkedAt": "2022-07-29T08:08:44.000Z",
+    "id": 150836,
+    "type": "manga",
+    "title": "Academy Wijangchwieopdanghaetda",
+    "altTitle": [
+      "아카데미에 위장취업당했다",
+      "Academy's Undercover Professor",
+      "I Got a Fake Job at the Academy"
+    ],
+    "url": "https://anilist.co/manga/150836",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150836-FXuV5c2qp73m.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149801,
+    "deletedAt": null,
+    "authors": [
+      "sayren",
+      "Tana",
+      "WAG"
+    ]
+  }
 }

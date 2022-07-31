@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T18:02:13.000Z",
-  "updatedAt": "2021-12-01T18:16:55.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-27T08:01:41.000Z",
+  "checkedAt": "2022-07-27T06:00:03.000Z",
   "id": 75533,
   "identifier": "manga-vm951569",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 67979,
+  "aniId": 85277,
   "deletedAt": null,
   "authors": [
     "Somato"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2022-05-19T07:54:42.000Z",
+    "checkedAt": "2022-05-19T07:54:42.000Z",
+    "id": 67979,
+    "type": "manga",
+    "title": "Kuro",
+    "altTitle": [
+      "Black",
+      "黒─kuro─"
+    ],
+    "url": "https://myanimelist.net/manga/67979/Kuro",
+    "image": "https://cdn.myanimelist.net/images/manga/3/179213.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tonarinoyj.jp/manga/kuro/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Soumatou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:38.153Z",
+    "updatedAt": "2022-05-19T07:54:41.000Z",
+    "checkedAt": "2022-05-19T07:54:41.000Z",
+    "id": 85277,
+    "type": "manga",
+    "title": "Kuro",
+    "altTitle": [
+      "黒",
+      "Black"
+    ],
+    "url": "https://anilist.co/manga/85277",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85277-uqm7IhDFAw3i.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 67979,
+    "deletedAt": null,
+    "authors": [
+      "Soumatou"
+    ]
+  }
 }

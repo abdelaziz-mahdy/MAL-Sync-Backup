@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:53:31.260Z",
-  "updatedAt": "2022-05-27T05:49:40.000Z",
-  "checkedAt": "2022-05-27T05:49:40.000Z",
+  "updatedAt": "2022-07-26T14:52:11.000Z",
+  "checkedAt": "2022-07-26T14:52:11.000Z",
   "id": 140655,
   "type": "manga",
   "title": "Deoneun Mon Bon Cheokaji Ankiro Haetda",
@@ -9,14 +9,15 @@
     "No More Turning A Blind Eye",
     "더는 못 본 척하지 않기로 했다",
     " I Can No Longer Pretend I Don’t See It",
-    "Can’t pretend to be blind anymore"
+    "Can’t pretend to be blind anymore",
+    "เคาน์เตสคนนี้จะไม่แกล้งโง่อีกแล้ว"
   ],
   "url": "https://anilist.co/manga/140655",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140655-yAAf915BjmeV.png",
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149715,
   "deletedAt": null,
   "authors": [
     "Jae-Hyeon Lee",
@@ -27,8 +28,8 @@
     "MangaNato": {
       "manga-mq989851": {
         "createdAt": "2021-10-17T22:28:57.000Z",
-        "updatedAt": "2022-05-13T15:09:48.986Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-26T08:25:31.000Z",
+        "checkedAt": "2022-07-26T08:00:08.000Z",
         "id": 88974,
         "identifier": "manga-mq989851",
         "type": "manga",
@@ -40,12 +41,38 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 149715,
         "aniId": 140655,
         "deletedAt": null,
         "authors": [
           "Dama",
           "율비 작가님"
+        ]
+      }
+    },
+    "Mangadex": {
+      "08622bdc-a48f-4f99-b57a-ee5a1b685bc2": {
+        "createdAt": "2021-11-07T14:48:26.000Z",
+        "updatedAt": "2022-07-26T14:49:36.000Z",
+        "checkedAt": "2022-07-26T08:00:08.000Z",
+        "id": 90364,
+        "identifier": "08622bdc-a48f-4f99-b57a-ee5a1b685bc2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "No More Turning a Blind Eye",
+        "url": "https://mangadex.org/title/08622bdc-a48f-4f99-b57a-ee5a1b685bc2",
+        "image": "https://uploads.mangadex.org/covers/08622bdc-a48f-4f99-b57a-ee5a1b685bc2/33f3c95a-bcd2-4f6d-a383-0a4b03cb826f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149715,
+        "aniId": 140655,
+        "deletedAt": null,
+        "authors": [
+          "Yulbi",
+          "DAMA",
+          "Lee Jaehyun"
         ]
       }
     }

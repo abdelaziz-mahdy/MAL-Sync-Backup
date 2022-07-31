@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-04T18:31:11.303Z",
-  "updatedAt": "2022-06-04T18:31:11.000Z",
+  "updatedAt": "2022-07-30T18:38:38.000Z",
   "checkedAt": "2022-06-04T18:31:11.000Z",
   "id": 106392,
   "identifier": "manga-nn990948",
@@ -12,15 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149128,
+  "aniId": 151121,
   "deletedAt": null,
   "authors": [
     "Lasne (라스네)",
     "Goppipullin (고삐풀린)",
     "Han Seong-Woo (한성우)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T17:00:12.446Z",
+    "updatedAt": "2022-07-09T17:00:12.446Z",
+    "checkedAt": "2022-07-09T17:00:12.000Z",
+    "id": 149128,
+    "type": "manga",
+    "title": "Knight Under My Heart",
+    "altTitle": [
+      "Knight Under Heart",
+      "Knight Under My Heart",
+      "나이트 언더 하트"
+    ],
+    "url": "https://myanimelist.net/manga/149128/Knight_Under_My_Heart",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264627.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=790880"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rasne",
+      "Han, Sungwoo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-20T01:30:00.268Z",
+    "updatedAt": "2022-07-10T09:30:18.000Z",
+    "checkedAt": "2022-07-10T09:30:18.000Z",
+    "id": 151121,
+    "type": "manga",
+    "title": "Knight Under Heart",
+    "altTitle": [
+      "Knight Under My Heart",
+      "나이트 언더 하트",
+      "Night Under Heart"
+    ],
+    "url": "https://anilist.co/manga/151121",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151121-PHGOmf5pepxl.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149128,
+    "deletedAt": null,
+    "authors": [
+      "Seong-U Han",
+      "Goppipullin",
+      "Raseune"
+    ]
+  }
 }

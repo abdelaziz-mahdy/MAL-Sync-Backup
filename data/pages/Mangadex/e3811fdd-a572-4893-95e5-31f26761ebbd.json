@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-26T22:00:09.093Z",
-  "updatedAt": "2022-05-26T22:00:09.000Z",
+  "updatedAt": "2022-07-25T15:58:33.000Z",
   "checkedAt": "2022-05-26T22:00:09.000Z",
   "id": 105527,
   "identifier": "e3811fdd-a572-4893-95e5-31f26761ebbd",
@@ -12,33 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149572,
   "aniId": 143512,
   "deletedAt": null,
   "authors": [
     "Jubi (주비)",
     "Miyul (미율)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-25T08:30:25.318Z",
+    "updatedAt": "2022-07-25T08:30:25.318Z",
+    "checkedAt": "2022-07-25T08:30:25.000Z",
+    "id": 149572,
+    "type": "manga",
+    "title": "The Stormy Inn",
+    "altTitle": [
+      "Storm Inn",
+      "Pungun Gaekjan",
+      "The Stormy Inn",
+      "풍운객잔"
+    ],
+    "url": "https://myanimelist.net/manga/149572/The_Stormy_Inn",
+    "image": "https://cdn.myanimelist.net/images/manga/3/265301.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58306830"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Juvi",
+      "Miyul"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:57:16.385Z",
-    "updatedAt": "2022-05-20T17:33:03.000Z",
-    "checkedAt": "2022-05-20T17:33:03.000Z",
+    "updatedAt": "2022-07-25T16:01:51.000Z",
+    "checkedAt": "2022-07-25T16:01:51.000Z",
     "id": 143512,
     "type": "manga",
     "title": "Pungungaekjan",
     "altTitle": [
       "The Stormy Inn",
       "풍운객잔",
-      "Storm Inn"
+      "Storm Inn",
+      "風雲客桟"
     ],
     "url": "https://anilist.co/manga/143512",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143512-O3onSqHHNXdH.png",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149572,
     "deletedAt": null,
     "authors": [
       "Jubi",

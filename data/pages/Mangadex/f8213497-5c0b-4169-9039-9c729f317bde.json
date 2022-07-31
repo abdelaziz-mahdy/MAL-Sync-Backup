@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-08-18T14:09:04.000Z",
-  "updatedAt": "2022-05-17T11:30:02.000Z",
+  "updatedAt": "2022-07-30T13:20:00.000Z",
   "checkedAt": "2022-05-17T11:30:02.000Z",
   "id": 85649,
   "identifier": "f8213497-5c0b-4169-9039-9c729f317bde",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149301,
+  "aniId": 146498,
   "deletedAt": null,
   "authors": [
     "Lee Jiha"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-14T19:00:09.814Z",
+    "updatedAt": "2022-07-14T19:00:09.814Z",
+    "checkedAt": "2022-07-14T19:00:09.000Z",
+    "id": 149301,
+    "type": "manga",
+    "title": "Writing My Male Lead's Happily Ever After",
+    "altTitle": [
+      "I Will Take Responsibility for the Welfare of the Male Lead",
+      "Namju-ui Bokji-reul Chaegimjigetseumnida",
+      "Writing My Male Lead's Happily Ever After",
+      "남주의 복지를 책임지겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/149301/Writing_My_Male_Leads_Happily_Ever_After",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264870.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58799509"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Jiha",
+      "Gaetteok"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:47.445Z",
+    "updatedAt": "2022-07-14T20:28:49.000Z",
+    "checkedAt": "2022-07-14T20:28:49.000Z",
+    "id": 146498,
+    "type": "manga",
+    "title": "Namjuui Bokjireul Chaegimjigetseumnida",
+    "altTitle": [
+      "Writing My Male Lead's Happily Ever After",
+      "남주의 복지를 책임지겠습니다",
+      "I Will Take Responsibility for the Welfare of the Male Lead"
+    ],
+    "url": "https://anilist.co/manga/146498",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146498-8ajuYPghgpoO.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149301,
+    "deletedAt": null,
+    "authors": [
+      "Ji-Ha Lee",
+      "Ant Studio",
+      "Gae-Tteok"
+    ]
+  }
 }

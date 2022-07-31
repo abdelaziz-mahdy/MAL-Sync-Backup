@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-11T18:00:18.009Z",
-  "updatedAt": "2022-07-11T18:00:18.000Z",
+  "updatedAt": "2022-07-25T15:58:45.000Z",
   "checkedAt": "2022-07-11T18:00:18.000Z",
   "id": 109383,
   "identifier": "manga-ow991579",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149579,
   "aniId": 148369,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,38 @@
     "Shion",
     "Ilye"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-25T09:30:40.798Z",
+    "updatedAt": "2022-07-25T09:30:40.798Z",
+    "checkedAt": "2022-07-25T09:30:40.000Z",
+    "id": 149579,
+    "type": "manga",
+    "title": "I Was Planning to Become a Loyal Sword",
+    "altTitle": [
+      "I Tried to Be a Loyal Sword",
+      "충직한 검이 되려 했는데"
+    ],
+    "url": "https://myanimelist.net/manga/149579/I_Was_Planning_to_Become_a_Loyal_Sword",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265306.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/59087644"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Si-ion",
+      "ilye"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-06-14T05:30:50.851Z",
-    "updatedAt": "2022-06-14T05:30:50.851Z",
-    "checkedAt": "2022-06-14T05:30:50.000Z",
+    "updatedAt": "2022-07-25T16:01:59.000Z",
+    "checkedAt": "2022-07-25T16:01:59.000Z",
     "id": 148369,
     "type": "manga",
     "title": "Chungjikan Geomi Doeryeo Haenneunde",
@@ -39,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149579,
     "deletedAt": null,
     "authors": [
       "Seomda",

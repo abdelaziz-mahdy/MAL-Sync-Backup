@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-04-20T00:32:04.000Z",
-  "updatedAt": "2022-06-14T05:30:50.000Z",
+  "updatedAt": "2022-07-25T16:20:00.000Z",
   "checkedAt": "2022-06-14T05:30:50.000Z",
   "id": 101919,
   "identifier": "9e02520f-11b9-4e29-a882-9d79034347a8",
@@ -13,14 +13,65 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 149579,
+  "aniId": 148369,
   "deletedAt": null,
   "authors": [
     "Seomda",
     "Shion",
     "ilye"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-25T09:30:40.798Z",
+    "updatedAt": "2022-07-25T09:30:40.798Z",
+    "checkedAt": "2022-07-25T09:30:40.000Z",
+    "id": 149579,
+    "type": "manga",
+    "title": "I Was Planning to Become a Loyal Sword",
+    "altTitle": [
+      "I Tried to Be a Loyal Sword",
+      "충직한 검이 되려 했는데"
+    ],
+    "url": "https://myanimelist.net/manga/149579/I_Was_Planning_to_Become_a_Loyal_Sword",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265306.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/59087644"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Si-ion",
+      "ilye"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-14T05:30:50.851Z",
+    "updatedAt": "2022-07-25T16:01:59.000Z",
+    "checkedAt": "2022-07-25T16:01:59.000Z",
+    "id": 148369,
+    "type": "manga",
+    "title": "Chungjikan Geomi Doeryeo Haenneunde",
+    "altTitle": [
+      "충직한 검이 되려 했는데",
+      "I Was Planning to Become a Loyal Sword",
+      "I Tried To Be Her Loyal Sword"
+    ],
+    "url": "https://anilist.co/manga/148369",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx148369-hRGCyv2yj3gn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149579,
+    "deletedAt": null,
+    "authors": [
+      "Seomda",
+      "ilye",
+      "I-On Si"
+    ]
+  }
 }

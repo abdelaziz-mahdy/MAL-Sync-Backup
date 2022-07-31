@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-14T18:42:18.000Z",
-  "updatedAt": "2022-01-14T18:42:18.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-25T16:20:00.000Z",
+  "checkedAt": "2022-07-25T09:30:10.000Z",
   "id": 94680,
   "identifier": "the_bad_ending_of_an_otome",
   "type": "manga",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149637,
+  "aniId": 143859,
   "deletedAt": null,
   "authors": [
     "Cheomji",
     "Geum Nunsae"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-25T09:30:12.191Z",
+    "updatedAt": "2022-07-25T09:30:12.191Z",
+    "checkedAt": "2022-07-25T09:30:12.000Z",
+    "id": 149637,
+    "type": "manga",
+    "title": "The Bad Ending of an Otome",
+    "altTitle": [
+      "The Otome Game's Bad Ending",
+      "The Bad Ending of the Otome Game",
+      "그 오토메 게임의 배드엔딩"
+    ],
+    "url": "https://myanimelist.net/manga/149637/The_Bad_Ending_of_an_Otome",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265381.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57923995"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Geumnunsae",
+      "Cheongwon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:28.673Z",
+    "updatedAt": "2022-07-25T16:00:27.000Z",
+    "checkedAt": "2022-07-25T16:00:27.000Z",
+    "id": 143859,
+    "type": "manga",
+    "title": "Geu Otome Game-ui Bad Ending",
+    "altTitle": [
+      "그 오토메 게임의 배드엔딩"
+    ],
+    "url": "https://anilist.co/manga/143859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143859-h5UAkETdLjgx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149637,
+    "deletedAt": null,
+    "authors": [
+      "Cheongwon",
+      "Cheomji",
+      "Nun-Sae Geum"
+    ]
+  }
 }

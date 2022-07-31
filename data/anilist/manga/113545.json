@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:55:56.512Z",
-  "updatedAt": "2022-05-27T20:18:13.000Z",
-  "checkedAt": "2022-05-27T20:18:13.000Z",
+  "updatedAt": "2022-07-25T15:59:29.000Z",
+  "checkedAt": "2022-07-25T15:59:29.000Z",
   "id": 113545,
   "type": "manga",
   "title": "Angel Buddy",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": true,
   "externalLinks": [],
-  "malId": null,
+  "malId": 149638,
   "deletedAt": null,
   "authors": [
     "MasterGin",
@@ -26,8 +26,8 @@
     "Mangadex": {
       "b6afbe38-6574-44b7-a299-e50188dd7a42": {
         "createdAt": "2020-10-12T16:17:50.000Z",
-        "updatedAt": "2021-12-07T12:16:24.000Z",
-        "checkedAt": null,
+        "updatedAt": "2022-07-25T15:13:56.000Z",
+        "checkedAt": "2022-07-25T09:30:12.000Z",
         "id": 31947,
         "identifier": "b6afbe38-6574-44b7-a299-e50188dd7a42",
         "type": "manga",
@@ -38,13 +38,61 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 149638,
         "aniId": 113545,
         "deletedAt": null,
         "authors": [
           "MasterGin",
           "Chungnyun"
+        ]
+      }
+    },
+    "MangaFox": {
+      "angel_buddy": {
+        "createdAt": "2021-01-04T17:27:11.000Z",
+        "updatedAt": "2022-07-25T16:20:00.000Z",
+        "checkedAt": "2022-07-25T09:30:25.000Z",
+        "id": 57254,
+        "identifier": "angel_buddy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angel Buddy",
+        "url": "https://fanfox.net/manga/angel_buddy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32175/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 149638,
+        "aniId": 113545,
+        "deletedAt": null,
+        "authors": [
+          "MasterGin"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-hj984366": {
+        "createdAt": "2022-07-25T09:30:26.695Z",
+        "updatedAt": "2022-07-25T16:20:00.000Z",
+        "checkedAt": "2022-07-25T09:30:26.000Z",
+        "id": 111082,
+        "identifier": "manga-hj984366",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Angel Buddy",
+        "url": "https://readmanganato.com/manga-hj984366",
+        "image": "https://avt.mkklcdnv6temp.com/23/l/20-1583501925.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 149638,
+        "aniId": 113545,
+        "deletedAt": null,
+        "authors": [
+          "Mastergin"
         ]
       }
     }

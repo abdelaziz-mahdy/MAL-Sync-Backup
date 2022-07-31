@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-17T19:29:28.000Z",
-  "updatedAt": "2022-05-13T15:09:48.986Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-29T20:20:00.000Z",
+  "checkedAt": "2022-07-29T20:00:05.000Z",
   "id": 78606,
   "identifier": "manga-kc987711",
   "type": "manga",
@@ -11,14 +11,64 @@
   "image": "https://avt.mkklcdnv6temp.com/8/z/23-1611245659.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 137774,
+  "aniId": 140392,
   "deletedAt": null,
   "authors": [
     "Ichimura Tetsunosuke"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-08-27T12:37:04.000Z",
+    "updatedAt": "2022-05-20T16:18:55.000Z",
+    "checkedAt": "2022-05-20T16:18:55.000Z",
+    "id": 137774,
+    "type": "manga",
+    "title": "Suteishi Yuusha, Maou no Shita de Restart",
+    "altTitle": [
+      "The Another World Demon King's Successor",
+      "捨て石勇者、魔王の下でリスタート"
+    ],
+    "url": "https://myanimelist.net/manga/137774/Suteishi_Yuusha_Maou_no_Shita_de_Restart",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256664.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comic-valkyrie.com/suteisiyusya"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shiroie, Mika",
+      "Ichimura, Tetsunosuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:54.337Z",
+    "updatedAt": "2022-05-20T16:18:54.000Z",
+    "checkedAt": "2022-05-20T16:18:54.000Z",
+    "id": 140392,
+    "type": "manga",
+    "title": "Suteishi Yuusha, Maou no Shita de Restart",
+    "altTitle": [
+      "捨て石勇者、魔王の下でリスタート",
+      "The Another World Demon King's Successor"
+    ],
+    "url": "https://anilist.co/manga/140392",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140392-QaWjrcjLdsF8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137774,
+    "deletedAt": null,
+    "authors": [
+      "Mika Shiroie",
+      "Eisei Iida",
+      "218"
+    ]
+  }
 }

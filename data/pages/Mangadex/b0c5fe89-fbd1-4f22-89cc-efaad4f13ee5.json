@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-04-06T03:00:23.000Z",
-  "updatedAt": "2022-05-14T09:42:19.000Z",
+  "updatedAt": "2022-07-25T15:13:43.000Z",
   "checkedAt": "2022-05-14T09:42:19.000Z",
   "id": 100744,
   "identifier": "b0c5fe89-fbd1-4f22-89cc-efaad4f13ee5",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 149580,
   "aniId": 146025,
   "deletedAt": null,
   "authors": [
     "강다혜",
     "Bubllea"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-25T08:30:09.318Z",
+    "updatedAt": "2022-07-25T08:30:09.318Z",
+    "checkedAt": "2022-07-25T08:30:09.000Z",
+    "id": 149580,
+    "type": "manga",
+    "title": "The Wizard Is Poor",
+    "altTitle": [
+      "The Sorcerer Is Poor",
+      "마법사는 가난해"
+    ],
+    "url": "https://myanimelist.net/manga/149580/The_Wizard_Is_Poor",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265307.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58177418"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bubllea",
+      "Kang, Dahye"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:00.373Z",
-    "updatedAt": "2022-05-14T09:42:19.000Z",
-    "checkedAt": "2022-05-14T09:42:19.000Z",
+    "updatedAt": "2022-07-25T16:00:56.000Z",
+    "checkedAt": "2022-07-25T16:00:56.000Z",
     "id": 146025,
     "type": "manga",
     "title": "Mabeopsaneun Gananhae",
@@ -39,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149580,
     "deletedAt": null,
     "authors": [
       "Da-Hye Kang",

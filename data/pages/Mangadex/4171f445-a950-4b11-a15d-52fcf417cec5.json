@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-22T20:30:10.508Z",
-  "updatedAt": "2022-06-22T20:30:10.000Z",
+  "updatedAt": "2022-07-26T08:25:25.000Z",
   "checkedAt": "2022-06-22T20:30:10.000Z",
   "id": 107991,
   "identifier": "4171f445-a950-4b11-a15d-52fcf417cec5",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149720,
   "aniId": null,
   "deletedAt": null,
   "authors": [
@@ -21,6 +21,32 @@
     "Oh Yoon",
     "Galpi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-26T08:00:01.472Z",
+    "updatedAt": "2022-07-26T08:00:01.472Z",
+    "checkedAt": "2022-07-26T08:00:01.000Z",
+    "id": 149720,
+    "type": "manga",
+    "title": "Little Princess Mint",
+    "altTitle": [
+      "소공녀 민트"
+    ],
+    "url": "https://myanimelist.net/manga/149720/Little_Princess_Mint",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265497.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=787061"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Galpi",
+      "Oh, Yoon"
+    ]
+  },
   "Ani": null
 }

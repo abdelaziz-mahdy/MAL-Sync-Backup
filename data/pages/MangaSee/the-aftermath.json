@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-10-14T18:59:25.000Z",
-  "updatedAt": "2022-05-13T15:41:38.000Z",
+  "updatedAt": "2022-07-25T16:20:00.000Z",
   "checkedAt": "2022-05-13T15:41:38.000Z",
   "id": 88775,
   "identifier": "the-aftermath",
@@ -8,17 +8,65 @@
   "page": "MangaSee",
   "title": "The Aftermath",
   "url": "https://mangasee123.com/manga/The-Aftermath",
-  "image": "https://cover.nep.li/cover/The-Aftermath.jpg",
+  "image": "https://temp.compsci88.com/cover/The-Aftermath.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149593,
+  "aniId": 139497,
   "deletedAt": null,
   "authors": [
     "Bongsoo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-25T08:30:07.437Z",
+    "updatedAt": "2022-07-25T08:30:07.437Z",
+    "checkedAt": "2022-07-25T08:30:07.000Z",
+    "id": 149593,
+    "type": "manga",
+    "title": "The Aftermath",
+    "altTitle": [
+      "Sseom Naeil",
+      "The Aftermath",
+      "썸내일"
+    ],
+    "url": "https://myanimelist.net/manga/149593/The_Aftermath",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265319.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=768470"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bongsu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:36.236Z",
+    "updatedAt": "2022-07-25T16:00:45.000Z",
+    "checkedAt": "2022-07-25T16:00:45.000Z",
+    "id": 139497,
+    "type": "manga",
+    "title": "Sseomnaeil",
+    "altTitle": [
+      "The Aftermath",
+      "썸내일"
+    ],
+    "url": "https://anilist.co/manga/139497",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139497-QlIx366sykDv.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149593,
+    "deletedAt": null,
+    "authors": [
+      "Bongsoo"
+    ]
+  }
 }

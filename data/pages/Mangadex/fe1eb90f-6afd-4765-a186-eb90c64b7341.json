@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-19T21:30:02.112Z",
-  "updatedAt": "2022-05-19T21:30:02.000Z",
+  "updatedAt": "2022-07-24T14:20:01.000Z",
   "checkedAt": "2022-05-19T21:30:02.000Z",
   "id": 104879,
   "identifier": "fe1eb90f-6afd-4765-a186-eb90c64b7341",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136647,
+  "aniId": 124545,
   "deletedAt": null,
   "authors": [
     "Ganari Ryu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-22T14:32:26.000Z",
+    "updatedAt": "2022-05-17T02:21:15.000Z",
+    "checkedAt": "2022-05-17T02:21:15.000Z",
+    "id": 136647,
+    "type": "manga",
+    "title": "Azur Lane the Animation: Anata no Aoki Kouro ni Shukufuku wo",
+    "altTitle": [
+      "Azur Lane the Animation Bless Your Blue Route",
+      "アズールレーン THE ANIMATION あなたの碧き航路に祝福を"
+    ],
+    "url": "https://myanimelist.net/manga/136647/Azur_Lane_the_Animation__Anata_no_Aoki_Kouro_ni_Shukufuku_wo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246177.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ichijinsha.co.jp/stories/comic-rex/azurlane_anime/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%BC%E3%83%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "ichinomi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:13.088Z",
+    "updatedAt": "2022-05-17T02:21:13.000Z",
+    "checkedAt": "2022-05-17T02:21:13.000Z",
+    "id": 124545,
+    "type": "manga",
+    "title": "Azur Lane THE ANIMATION: Anata no Aoki Kouro ni Shukufuku wo  ",
+    "altTitle": [
+      "アズールレーン THE ANIMATION あなたの碧き航路に祝福を",
+      "Azur Lane the Animation Bless Your Blue Route"
+    ],
+    "url": "https://anilist.co/manga/124545",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124545-yldgWmAcJPTh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136647,
+    "deletedAt": null,
+    "authors": [
+      "ichinomi"
+    ]
+  }
 }

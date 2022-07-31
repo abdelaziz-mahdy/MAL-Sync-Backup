@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-11T21:44:11.000Z",
-  "updatedAt": "2021-12-08T07:37:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-29T11:20:00.000Z",
+  "checkedAt": "2022-07-29T11:00:04.000Z",
   "id": 52090,
   "identifier": "239e9cf8-11f5-4cd8-a63b-4b3f74cea9b1",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129007,
+  "aniId": 126338,
   "deletedAt": null,
   "authors": [
     "Murashita Q-Zou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-28T06:01:50.000Z",
+    "updatedAt": "2022-06-16T14:02:10.000Z",
+    "checkedAt": "2022-06-16T14:02:10.000Z",
+    "id": 129007,
+    "type": "manga",
+    "title": "Ijimekaeshi.: Fukushuu no Calendrier",
+    "altTitle": [
+      "Ijimekaeshi.: Fukushuu no 31",
+      "Bullying back. The vengeance of 31.",
+      "Calendar of Vengeance",
+      "Payback to those that bullied me. This is the revenge of 31.",
+      "Calendrier Vengeur",
+      "イジメカエシ。-復讐の31〈カランドリエ〉-"
+    ],
+    "url": "https://myanimelist.net/manga/129007/Ijimekaeshi__Fukushuu_no_Calendrier",
+    "image": "https://cdn.myanimelist.net/images/manga/2/237046.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/ijimekaeshi/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Murashita, Q-Zou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:18.077Z",
+    "updatedAt": "2022-06-16T14:02:09.000Z",
+    "checkedAt": "2022-06-16T14:02:09.000Z",
+    "id": 126338,
+    "type": "manga",
+    "title": "Ijimekaeshi.: Fukushuu no Calendrier",
+    "altTitle": [
+      "イジメカエシ。-復讐の31〈カランドリエ〉-",
+      "Calendrier Vengeur"
+    ],
+    "url": "https://anilist.co/manga/126338",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126338-1MYCrsRP3DyK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129007,
+    "deletedAt": null,
+    "authors": [
+      "Q-Zou Murashita"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-26T08:26:26.000Z",
-  "updatedAt": "2022-05-13T16:36:19.000Z",
+  "updatedAt": "2022-07-25T16:20:00.000Z",
   "checkedAt": "2022-05-13T16:36:19.000Z",
   "id": 55826,
   "identifier": "medical-return",
@@ -8,18 +8,71 @@
   "page": "MangaSee",
   "title": "Medical Return",
   "url": "https://mangasee123.com/manga/Medical-Return",
-  "image": "https://cover.nep.li/cover/Medical-Return.jpg",
+  "image": "https://temp.compsci88.com/cover/Medical-Return.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147069,
+  "aniId": 112197,
   "deletedAt": null,
   "authors": [
     "Yeon Jae Joong",
     "yuin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-12T23:30:08.973Z",
+    "updatedAt": "2022-07-12T23:30:08.973Z",
+    "checkedAt": "2022-07-12T23:30:08.000Z",
+    "id": 147069,
+    "type": "manga",
+    "title": "Medical Return",
+    "altTitle": [
+      "Medical Rebirth",
+      "Medical Hwansaeng",
+      "메디컬 환생"
+    ],
+    "url": "https://myanimelist.net/manga/147069/Medical_Return",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264301.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=53607472"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yuin",
+      "Kidari Studio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:22.930Z",
+    "updatedAt": "2022-07-25T15:59:00.000Z",
+    "checkedAt": "2022-07-25T15:59:00.000Z",
+    "id": 112197,
+    "type": "manga",
+    "title": "Medical Hwansaeng",
+    "altTitle": [
+      "메디컬 환생",
+      "Medical Return",
+      "Medical Reincarnation",
+      "Medical Rebirth",
+      "リターン～ある外科医の逆襲～"
+    ],
+    "url": "https://anilist.co/manga/112197",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112197-XU4bF5n9YW1e.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147069,
+    "deletedAt": null,
+    "authors": [
+      "Yu-In",
+      "Kidari Studio"
+    ]
+  }
 }

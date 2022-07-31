@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-07T03:46:44.000Z",
-  "updatedAt": "2021-12-07T03:46:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-25T08:20:02.000Z",
+  "checkedAt": "2022-07-25T05:00:00.000Z",
   "id": 92631,
   "identifier": "i_became_the_wife_of_the_male_lead",
   "type": "manga",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147661,
+  "aniId": 138655,
   "deletedAt": null,
   "authors": [
     "Frika"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T14:01:29.265Z",
+    "updatedAt": "2022-06-07T14:01:29.265Z",
+    "checkedAt": "2022-06-07T14:01:29.000Z",
+    "id": 147661,
+    "type": "manga",
+    "title": "Author of My Own Destiny",
+    "altTitle": [
+      "I Became the Wife of the Male Lead",
+      "Nae Namja Juingong-ui Anae-ga Doeeotda",
+      "Author of My Own Destiny",
+      "내 남자 주인공의 아내가 되었다"
+    ],
+    "url": "https://myanimelist.net/manga/147661/Author_of_My_Own_Destiny",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261950.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://page.kakao.com/home/57746592"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gyeoulip",
+      "Jeokbal"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:54.635Z",
+    "updatedAt": "2022-06-09T08:02:49.000Z",
+    "checkedAt": "2022-06-09T08:02:49.000Z",
+    "id": 138655,
+    "type": "manga",
+    "title": "Nae Namja Juingongui Anaega Doeeotda",
+    "altTitle": [
+      "Author of My Own Destiny",
+      "내 남자 주인공의 아내가 되었다",
+      "I Became the Wife of the Male Lead",
+      "ฉันกลายเป็นภรรยาของพระเอก"
+    ],
+    "url": "https://anilist.co/manga/138655",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138655-To2KsL5SUilz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147661,
+    "deletedAt": null,
+    "authors": [
+      "Gyeourip",
+      "Jeok-Bal",
+      "Pu-Rik"
+    ]
+  }
 }
