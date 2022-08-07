@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-17T16:56:26.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-02T08:30:43.000Z",
+  "checkedAt": "2022-08-02T08:00:21.000Z",
   "id": 72051,
   "identifier": "the-dukes-servant",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 111109,
   "deletedAt": null,
   "authors": [
     "A Chim",
@@ -22,5 +22,27 @@
     "O Yun"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:58.253Z",
+    "updatedAt": "2022-06-15T22:53:12.000Z",
+    "checkedAt": "2022-06-15T22:53:12.000Z",
+    "id": 111109,
+    "type": "manga",
+    "title": "Rinji Aen Rinjian",
+    "altTitle": [
+      "The Duke's Servant",
+      "린지 앤 린지안"
+    ],
+    "url": "https://anilist.co/manga/111109",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111109-JHBOivjaYU9w.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Chim Ah",
+      "Yoon Oh"
+    ]
+  }
 }

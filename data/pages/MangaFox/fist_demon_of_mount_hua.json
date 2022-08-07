@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-18T10:03:23.000Z",
-  "updatedAt": "2022-02-09T09:11:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-06T00:20:00.000Z",
+  "checkedAt": "2022-08-04T22:30:02.000Z",
   "id": 66022,
   "identifier": "fist_demon_of_mount_hua",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 150088,
+  "aniId": 130210,
   "deletedAt": null,
   "authors": [
     "JIN Sungyu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-04T22:30:03.212Z",
+    "updatedAt": "2022-08-04T22:30:03.212Z",
+    "checkedAt": "2022-08-04T22:30:03.000Z",
+    "id": 150088,
+    "type": "manga",
+    "title": "Fist Demon of Mount Hua",
+    "altTitle": [
+      "Hwasan Gwonma",
+      "화산권마"
+    ],
+    "url": "https://myanimelist.net/manga/150088/Fist_Demon_of_Mount_Hua",
+    "image": "https://cdn.myanimelist.net/images/manga/1/266143.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56505406"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Woogack",
+      "Jin, Seongyu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:14.816Z",
+    "updatedAt": "2022-08-05T23:33:23.000Z",
+    "checkedAt": "2022-08-05T23:33:23.000Z",
+    "id": 130210,
+    "type": "manga",
+    "title": "Hwasangwonma",
+    "altTitle": [
+      "화산권마",
+      "Fist demon of Mount Hua",
+      "The Fist Demon of Mount Hua"
+    ],
+    "url": "https://anilist.co/manga/130210",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130210-uTICEzqOLxFg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 150088,
+    "deletedAt": null,
+    "authors": [
+      "Seon-Gyu Jin",
+      "U-Gak"
+    ]
+  }
 }

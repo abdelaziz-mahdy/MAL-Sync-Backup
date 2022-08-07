@@ -1,24 +1,78 @@
 {
   "createdAt": "2022-02-20T17:47:08.000Z",
-  "updatedAt": "2022-02-20T17:48:06.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-02T19:50:39.000Z",
+  "checkedAt": "2022-08-02T18:30:04.000Z",
   "id": 96471,
   "identifier": "fdfa6ff7-05a3-45da-9565-9d4029b9f25c",
   "type": "manga",
   "page": "Mangadex",
   "title": "Chikyuu no Ko",
   "url": "https://mangadex.org/title/fdfa6ff7-05a3-45da-9565-9d4029b9f25c",
-  "image": "https://uploads.mangadex.org/covers/fdfa6ff7-05a3-45da-9565-9d4029b9f25c/c272adb0-051b-4e16-8664-fc31b4f69316.jpg",
+  "image": "https://uploads.mangadex.org/covers/fdfa6ff7-05a3-45da-9565-9d4029b9f25c/e965e234-4d68-487a-a635-4cd861ecef5e.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 144308,
+  "aniId": 144861,
   "deletedAt": null,
   "authors": [
     "Shinkai Hideo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-22T08:18:30.000Z",
+    "updatedAt": "2022-05-15T00:40:23.000Z",
+    "checkedAt": "2022-05-15T00:40:23.000Z",
+    "id": 144308,
+    "type": "manga",
+    "title": "Chikyuu no Ko",
+    "altTitle": [
+      "Earthchild",
+      "地球の子"
+    ],
+    "url": "https://myanimelist.net/manga/144308/Chikyuu_no_Ko",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256035.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.shonenjump.com/j/rensai/chikyu.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shinkai, Hideo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:40.827Z",
+    "updatedAt": "2022-05-15T17:11:23.000Z",
+    "checkedAt": "2022-05-15T17:11:23.000Z",
+    "id": 144861,
+    "type": "manga",
+    "title": "Chikyuu no Ko",
+    "altTitle": [
+      "Earthchild",
+      "地球の子"
+    ],
+    "url": "https://anilist.co/manga/144861",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144861-bwiXWH1WaaRA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/100186"
+      }
+    ],
+    "malId": 144308,
+    "deletedAt": null,
+    "authors": [
+      "Hideo Shinkai",
+      "Steve Dutro",
+      "Caleb Cook"
+    ]
+  }
 }

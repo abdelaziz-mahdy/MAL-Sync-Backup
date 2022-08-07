@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-05T22:00:52.362Z",
-  "updatedAt": "2022-06-05T22:00:52.000Z",
+  "updatedAt": "2022-08-01T06:20:01.000Z",
   "checkedAt": "2022-06-05T22:00:52.000Z",
   "id": 106521,
   "identifier": "122a56e4-38e1-4685-933b-6667259746f3",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149903,
+  "aniId": 151118,
   "deletedAt": null,
   "authors": [
     "Chorok Cha",
     "MARU COMICS"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-31T22:30:01.236Z",
+    "updatedAt": "2022-07-31T22:30:01.236Z",
+    "checkedAt": "2022-07-31T22:30:01.000Z",
+    "id": 149903,
+    "type": "manga",
+    "title": "The Lazy Swordmaster",
+    "altTitle": [
+      "Nataehan Swordmaster",
+      "나태한 소드마스터"
+    ],
+    "url": "https://myanimelist.net/manga/149903/The_Lazy_Swordmaster",
+    "image": "https://cdn.myanimelist.net/images/manga/1/265832.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59000298"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maru Gongbang",
+      "Chorokcha"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-20T00:00:00.927Z",
+    "updatedAt": "2022-08-01T06:03:53.000Z",
+    "checkedAt": "2022-08-01T06:03:53.000Z",
+    "id": 151118,
+    "type": "manga",
+    "title": "Nataehan Swordmaster",
+    "altTitle": [
+      "나태한 소드마스터",
+      "The Lazy Swordmaster"
+    ],
+    "url": "https://anilist.co/manga/151118",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151118-ITfhcVCLlQI7.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149903,
+    "deletedAt": null,
+    "authors": [
+      "Chorok Cha",
+      "MARUCOMICS"
+    ]
+  }
 }

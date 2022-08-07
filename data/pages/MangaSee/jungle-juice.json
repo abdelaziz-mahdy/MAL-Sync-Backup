@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-16T03:02:50.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-07-31T17:18:44.000Z",
   "checkedAt": "2022-05-15T06:30:14.000Z",
   "id": 65815,
   "identifier": "jungle-juice",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 147053,
   "aniId": 128882,
   "deletedAt": null,
   "authors": [
     "HYEONG EUN",
     "JUDER"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-17T15:00:03.175Z",
+    "updatedAt": "2022-07-17T15:00:03.175Z",
+    "checkedAt": "2022-07-17T15:00:03.000Z",
+    "id": 147053,
+    "type": "manga",
+    "title": "Jungle Juice",
+    "altTitle": [
+      "Jungle Juice",
+      "정글쥬스"
+    ],
+    "url": "https://myanimelist.net/manga/147053/Jungle_Juice",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260827.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=762279"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Juder",
+      "Hyeong Eun"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:51.284Z",
-    "updatedAt": "2022-05-15T06:30:15.000Z",
-    "checkedAt": "2022-05-15T06:30:15.000Z",
+    "updatedAt": "2022-08-01T06:03:15.000Z",
+    "checkedAt": "2022-08-01T06:03:15.000Z",
     "id": 128882,
     "type": "manga",
     "title": "Jungle Juice",
@@ -39,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147053,
     "deletedAt": null,
     "authors": [
       "JUDER",

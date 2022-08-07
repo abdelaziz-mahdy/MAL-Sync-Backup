@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-12-01T12:37:50.000Z",
-  "updatedAt": "2022-06-24T23:30:08.000Z",
+  "updatedAt": "2022-08-01T09:20:01.000Z",
   "checkedAt": "2022-06-24T23:30:08.000Z",
   "id": 92221,
   "identifier": "b50bbe13-9287-4d06-9569-b40fb6593913",
@@ -13,14 +13,67 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 149003,
+  "aniId": 142817,
   "deletedAt": null,
   "authors": [
     "이한성",
     "깅삵",
     "하비"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-06T22:00:13.239Z",
+    "updatedAt": "2022-07-06T22:00:13.239Z",
+    "checkedAt": "2022-07-06T22:00:13.000Z",
+    "id": 149003,
+    "type": "manga",
+    "title": "My Daughter, the Music Prodigy",
+    "altTitle": [
+      "My Daughter Is a Musical Genius",
+      "Nae Ttar-eun Eumak Cheonjae",
+      "My Daughter, the Music Prodigy",
+      "내 딸은 음악천재"
+    ],
+    "url": "https://myanimelist.net/manga/149003/My_Daughter_the_Music_Prodigy",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264439.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58321797"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Hansung",
+      "Harvey"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:54.118Z",
+    "updatedAt": "2022-07-07T09:30:51.000Z",
+    "checkedAt": "2022-07-07T09:30:51.000Z",
+    "id": 142817,
+    "type": "manga",
+    "title": "Nae Ttareun Eumakcheonjae",
+    "altTitle": [
+      "My Daughter, the Music Prodigy",
+      "내 딸은 음악천재",
+      "My Daughter is a Musician",
+      "My Daughter is a Music Genius"
+    ],
+    "url": "https://anilist.co/manga/142817",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142817-aYnE2AvV5Qc8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149003,
+    "deletedAt": null,
+    "authors": [
+      "Han-Seong Lee",
+      "Ging-Sak"
+    ]
+  }
 }

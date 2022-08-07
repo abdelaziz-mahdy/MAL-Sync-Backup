@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-20T20:34:03.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-07-31T12:45:26.000Z",
+  "checkedAt": "2022-07-31T12:45:23.000Z",
   "id": 59326,
   "identifier": "worn-and-torn-newbie",
   "type": "manga",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147843,
+  "aniId": 127102,
   "deletedAt": null,
   "authors": [
     "Bonui",
     "Redice Studio"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-08T20:30:46.933Z",
+    "updatedAt": "2022-06-08T20:30:46.933Z",
+    "checkedAt": "2022-06-08T20:30:46.000Z",
+    "id": 147843,
+    "type": "manga",
+    "title": "The Worn and Torn Newbie",
+    "altTitle": [
+      "Dalko Dareun Newbie",
+      "The Worn and Torn Newbie",
+      "닳고닳은 뉴비"
+    ],
+    "url": "https://myanimelist.net/manga/147843/The_Worn_and_Torn_Newbie",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262430.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56109623"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lego Babasseo",
+      "Boniee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:56.164Z",
+    "updatedAt": "2022-06-09T08:02:04.000Z",
+    "checkedAt": "2022-06-09T08:02:04.000Z",
+    "id": 127102,
+    "type": "manga",
+    "title": "Dalko Dareun Newbie",
+    "altTitle": [
+      "The Worn and Torn Newbie",
+      "닳고 닳은 뉴비",
+      "Dalko Dareun Nyubi",
+      "มือใหม่พันธุ์เก๋า"
+    ],
+    "url": "https://anilist.co/manga/127102",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127102-UUP1Oj14Wd4Y.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147843,
+    "deletedAt": null,
+    "authors": [
+      "Gisanjeok Go",
+      "Bonui  "
+    ]
+  }
 }

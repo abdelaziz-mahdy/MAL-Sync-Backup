@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:51:22.092Z",
-  "updatedAt": "2022-05-13T12:51:22.092Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-03T03:00:20.000Z",
+  "checkedAt": "2022-08-03T03:00:20.000Z",
   "id": 135258,
   "type": "manga",
   "title": "A-Teen",
@@ -19,5 +19,31 @@
     "LICO",
     "Playlist"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6f599ebb-e55c-4bfb-88e0-43a11db7d988": {
+        "createdAt": "2022-08-03T03:00:20.562Z",
+        "updatedAt": "2022-08-03T03:00:20.000Z",
+        "checkedAt": "2022-08-03T03:00:20.000Z",
+        "id": 111702,
+        "identifier": "6f599ebb-e55c-4bfb-88e0-43a11db7d988",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A-Teen",
+        "url": "https://mangadex.org/title/6f599ebb-e55c-4bfb-88e0-43a11db7d988",
+        "image": "https://uploads.mangadex.org/covers/6f599ebb-e55c-4bfb-88e0-43a11db7d988/c518cf87-dae3-49f1-b5d1-1aefcfa16e7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": null,
+        "aniId": 135258,
+        "deletedAt": null,
+        "authors": [
+          "Playlist",
+          "LICO"
+        ]
+      }
+    }
+  }
 }
