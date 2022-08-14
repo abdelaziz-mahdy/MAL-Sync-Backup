@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-22T03:23:56.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-08-09T20:20:00.000Z",
   "checkedAt": "2022-06-14T01:30:36.000Z",
   "id": 55267,
   "identifier": "hero-i-quit-a-long-time-ago",
@@ -12,14 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 133966,
+  "aniId": 101242,
   "deletedAt": null,
   "authors": [
     "Hai Luo",
     "Wu Liao Kan Kan Tian"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-25T01:30:32.000Z",
+    "updatedAt": "2022-05-14T22:11:30.000Z",
+    "checkedAt": "2022-05-14T22:11:30.000Z",
+    "id": 133966,
+    "type": "manga",
+    "title": "Yingxiong Zai Lin",
+    "altTitle": [
+      "Hero? I Quit a Long Time Ago",
+      "Yingxiong? Wo Zao Jiu Bu Dang Le",
+      "Hero Return",
+      "英雄再临"
+    ],
+    "url": "https://myanimelist.net/manga/133966/Yingxiong_Zai_Lin",
+    "image": "https://cdn.myanimelist.net/images/manga/3/253227.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mm.sfacg.com/b/YXWZJBDL/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Wuliao Kan Kan Tian",
+      "Hailuo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:32.742Z",
+    "updatedAt": "2022-05-15T20:13:11.000Z",
+    "checkedAt": "2022-05-15T20:13:11.000Z",
+    "id": 101242,
+    "type": "manga",
+    "title": "Yingxiong? Wo Zao Jiu Budangle",
+    "altTitle": [
+      "The Return of the Superhero",
+      "英雄？我早就不当了",
+      "Hero? I Quit A Long Time Ago",
+      "英雄再临"
+    ],
+    "url": "https://anilist.co/manga/101242",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101242-MiTlNk6LWBlc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 133966,
+    "deletedAt": null,
+    "authors": [
+      "Wuliao Kankan Tian",
+      "Hai Luo",
+      "SF Qing Xiaoshuo"
+    ]
+  }
 }

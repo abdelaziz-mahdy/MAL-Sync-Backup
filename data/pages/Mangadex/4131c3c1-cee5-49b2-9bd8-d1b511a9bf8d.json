@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-29T04:30:02.103Z",
-  "updatedAt": "2022-07-29T04:30:02.000Z",
+  "updatedAt": "2022-08-13T16:10:30.000Z",
   "checkedAt": "2022-07-29T04:30:02.000Z",
   "id": 111298,
   "identifier": "4131c3c1-cee5-49b2-9bd8-d1b511a9bf8d",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 150424,
   "aniId": null,
   "deletedAt": null,
   "authors": [
@@ -22,6 +22,35 @@
     "TOGI(COPIN)",
     "머연(COPIN)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-08-13T06:30:01.401Z",
+    "updatedAt": "2022-08-13T06:30:01.401Z",
+    "checkedAt": "2022-08-13T06:30:01.000Z",
+    "id": 150424,
+    "type": "manga",
+    "title": "King of the Mound",
+    "altTitle": [
+      "Absolute on the Mound",
+      "Mound Wi-ui Jeoldaeja",
+      "마운드 위의 절대자"
+    ],
+    "url": "https://myanimelist.net/manga/150424/King_of_the_Mound",
+    "image": "https://cdn.myanimelist.net/images/manga/3/266585.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59843045"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "D-Dart",
+      "Meoyeon",
+      "Togi"
+    ]
+  },
   "Ani": null
 }

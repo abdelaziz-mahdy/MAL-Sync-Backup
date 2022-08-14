@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-04T20:30:14.262Z",
-  "updatedAt": "2022-08-05T17:41:57.000Z",
+  "updatedAt": "2022-08-07T11:20:00.000Z",
   "checkedAt": "2022-08-04T20:30:14.000Z",
   "id": 42311,
   "identifier": "m2vl8",
@@ -12,10 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 37885,
+  "aniId": 102352,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:03.000Z",
+    "updatedAt": "2022-05-14T10:04:27.000Z",
+    "checkedAt": "2022-05-14T10:04:27.000Z",
+    "id": 37885,
+    "type": "anime",
+    "title": "Super Dragon Ball Heroes",
+    "altTitle": [
+      "スーパードラゴンボールヒーローズ"
+    ],
+    "url": "https://myanimelist.net/anime/37885/Super_Dragon_Ball_Heroes",
+    "image": "https://cdn.myanimelist.net/images/anime/1480/92990.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.carddass.com/dbh/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14086"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21495"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Heroes"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14086
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:42.000Z",
+    "updatedAt": "2022-05-15T12:00:11.000Z",
+    "checkedAt": "2022-05-15T12:00:11.000Z",
+    "id": 102352,
+    "type": "anime",
+    "title": "Super Dragon Ball Heroes",
+    "altTitle": [
+      "スーパードラゴンボールヒーローズ",
+      "SBDH",
+      "Dragon Ball Heroes",
+      "Super Dragon Ball Heroes: Universe Mission",
+      "Super Dragon Ball Heroes: Big Bang Mission",
+      "Super Dragon Ball Heroes: Ultra God Mission"
+    ],
+    "url": "https://anilist.co/anime/102352",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37885,
+    "deletedAt": null
+  }
 }

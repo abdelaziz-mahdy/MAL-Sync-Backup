@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:18:49.000Z",
-  "updatedAt": "2021-12-07T20:34:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-07T10:15:48.000Z",
+  "checkedAt": "2022-08-07T05:00:02.000Z",
   "id": 33896,
   "identifier": "b3f2b248-80be-454c-89c6-e500e2b95664",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 146540,
   "deletedAt": null,
   "authors": [
     "윤여음",
@@ -22,5 +22,27 @@
     "HABAN"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:15.966Z",
+    "updatedAt": "2022-08-07T05:00:02.000Z",
+    "checkedAt": "2022-08-07T05:00:02.000Z",
+    "id": 146540,
+    "type": "manga",
+    "title": "Chakan Eonnineun Eopda",
+    "altTitle": [
+      "착한 언니는 없다",
+      "The Kind Older Sister Is No More"
+    ],
+    "url": "https://anilist.co/manga/146540",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146540-sKeeZH3Ft2dF.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Haban",
+      "Yeo-Eum Yun"
+    ]
+  }
 }

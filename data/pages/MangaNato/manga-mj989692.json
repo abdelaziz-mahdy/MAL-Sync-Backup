@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-21T16:41:05.000Z",
-  "updatedAt": "2022-05-28T05:30:31.000Z",
+  "updatedAt": "2022-08-12T11:20:00.000Z",
   "checkedAt": "2022-05-28T05:30:31.000Z",
   "id": 87425,
   "identifier": "manga-mj989692",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147528,
+  "aniId": 137714,
   "deletedAt": null,
   "authors": [
     "Ryon"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-04T13:30:01.995Z",
+    "updatedAt": "2022-06-04T13:30:01.995Z",
+    "checkedAt": "2022-06-04T13:30:01.000Z",
+    "id": 147528,
+    "type": "manga",
+    "title": "Jirai nan desu ka? Chihara-san",
+    "altTitle": [
+      "That Girl is Cute... But Dangerous?",
+      "地雷なんですか?地原さん"
+    ],
+    "url": "https://myanimelist.net/manga/147528/Jirai_nan_desu_ka_Chihara-san",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261825.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ganma.jp/chiharasan"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:23.120Z",
+    "updatedAt": "2022-06-07T12:31:37.000Z",
+    "checkedAt": "2022-06-07T12:31:37.000Z",
+    "id": 137714,
+    "type": "manga",
+    "title": "Jirai Nan desu ka? Chihara-san",
+    "altTitle": [
+      "地雷なんですか？地原さん",
+      "That Girl Is Cute... But Dangerous?",
+      "Jirai Nandesuka? Chihara-san"
+    ],
+    "url": "https://anilist.co/manga/137714",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137714-jj15a9Z5mMsL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147528,
+    "deletedAt": null,
+    "authors": [
+      "Ryon"
+    ]
+  }
 }

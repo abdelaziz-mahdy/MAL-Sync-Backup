@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-08-20T00:37:10.000Z",
-  "updatedAt": "2022-08-07T01:00:15.000Z",
+  "updatedAt": "2022-08-07T10:20:01.000Z",
   "checkedAt": "2022-08-07T01:00:15.000Z",
   "id": 85835,
   "identifier": "springtime-by-the-window",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 139831,
+  "aniId": 128727,
   "deletedAt": null,
   "authors": [
     "Suzuyuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-07T01:00:16.815Z",
+    "updatedAt": "2022-08-07T01:00:16.815Z",
+    "checkedAt": "2022-08-07T01:00:16.000Z",
+    "id": 139831,
+    "type": "manga",
+    "title": "Madogiwa no Aoi Haru",
+    "altTitle": [
+      "Springtime by the Window",
+      "まどぎわの青い春"
+    ],
+    "url": "https://myanimelist.net/manga/139831/Madogiwa_no_Aoi_Haru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249556.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pash-up.jp/content/00000148"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Suzuyuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:03.966Z",
+    "updatedAt": "2022-08-07T01:01:15.000Z",
+    "checkedAt": "2022-08-07T01:01:15.000Z",
+    "id": 128727,
+    "type": "manga",
+    "title": "Madogiwa no Aoi Haru",
+    "altTitle": [
+      "Springtime by the Window",
+      "まどぎわの青い春"
+    ],
+    "url": "https://anilist.co/manga/128727",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128727-Uws5iYCpUvqv.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 139831,
+    "deletedAt": null,
+    "authors": [
+      "Suzuyuki"
+    ]
+  }
 }

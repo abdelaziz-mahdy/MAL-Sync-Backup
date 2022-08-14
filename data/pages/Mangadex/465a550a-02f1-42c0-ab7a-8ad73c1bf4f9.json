@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-07T01:00:46.885Z",
-  "updatedAt": "2022-08-07T01:00:46.885Z",
+  "updatedAt": "2022-08-07T11:20:00.000Z",
   "checkedAt": "2022-08-07T01:00:46.000Z",
   "id": 111949,
   "identifier": "465a550a-02f1-42c0-ab7a-8ad73c1bf4f9",
@@ -11,14 +11,57 @@
   "image": "https://uploads.mangadex.org/covers/465a550a-02f1-42c0-ab7a-8ad73c1bf4f9/786aeca1-dce1-4a7f-9136-74bdae1947d4.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 54817,
+  "aniId": 84817,
   "deletedAt": null,
   "authors": [
     "Ogura Akane"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:46.000Z",
+    "updatedAt": "2022-05-14T19:06:05.000Z",
+    "checkedAt": "2022-05-14T19:06:05.000Z",
+    "id": 54817,
+    "type": "manga",
+    "title": "Kanojo ni Naru Hi",
+    "altTitle": [
+      "Becoming a Girl One Day",
+      "彼女になる日"
+    ],
+    "url": "https://myanimelist.net/manga/54817/Kanojo_ni_Naru_Hi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/127733.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ogura, Akane"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:04.146Z",
+    "updatedAt": "2022-05-16T04:59:18.000Z",
+    "checkedAt": "2022-05-16T04:59:18.000Z",
+    "id": 84817,
+    "type": "manga",
+    "title": "Kanojo ni Naru Hi",
+    "altTitle": [
+      "彼女になる日",
+      "The Day He Becomes a Woman",
+      "Becoming a Girl One Day"
+    ],
+    "url": "https://anilist.co/manga/84817",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx84817-F02aJLBd4RJQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 54817,
+    "deletedAt": null,
+    "authors": [
+      "Akane Ogura"
+    ]
+  }
 }
