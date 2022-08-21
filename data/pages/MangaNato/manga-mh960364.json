@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-16T09:27:33.000Z",
-  "updatedAt": "2021-12-16T09:48:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-15T20:20:00.000Z",
+  "checkedAt": "2022-08-15T18:00:06.000Z",
   "id": 78421,
   "identifier": "manga-mh960364",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 1076,
+  "aniId": 31076,
   "deletedAt": null,
   "authors": [
     "Ryu Geum Chel"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2022-05-16T07:50:35.000Z",
+    "checkedAt": "2022-05-16T07:50:35.000Z",
+    "id": 1076,
+    "type": "manga",
+    "title": "Vagrant Soldier Ares",
+    "altTitle": [
+      "Ares: Drifter Mercenaries",
+      "떠돌이 용병 아레스"
+    ],
+    "url": "https://myanimelist.net/manga/1076/Vagrant_Soldier_Ares",
+    "image": "https://cdn.myanimelist.net/images/manga/2/129069.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ares_%28manhwa%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu, Geum Chel"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:33.867Z",
+    "updatedAt": "2022-05-16T07:50:34.000Z",
+    "checkedAt": "2022-05-16T07:50:34.000Z",
+    "id": 31076,
+    "type": "manga",
+    "title": "Tteodori Yongbyeong Ares",
+    "altTitle": [
+      "Ares",
+      "떠돌이 용병 아레스",
+      "The Vagrant Soldier Ares",
+      "Ares - Drifter Mercenaries"
+    ],
+    "url": "https://anilist.co/manga/31076",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31076-zLUiq2ZO0A2F.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1076,
+    "deletedAt": null,
+    "authors": [
+      "Geum Chel Ryu"
+    ]
+  }
 }

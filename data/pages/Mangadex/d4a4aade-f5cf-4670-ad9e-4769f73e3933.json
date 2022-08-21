@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-07T16:50:26.000Z",
-  "updatedAt": "2021-12-08T11:12:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-16T08:40:17.000Z",
+  "checkedAt": "2022-08-15T23:30:02.000Z",
   "id": 61656,
   "identifier": "d4a4aade-f5cf-4670-ad9e-4769f73e3933",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147417,
+  "aniId": 138553,
   "deletedAt": null,
   "authors": [
     "Aimai Mii"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-07T19:00:10.159Z",
+    "updatedAt": "2022-08-07T19:00:10.159Z",
+    "checkedAt": "2022-08-07T19:00:10.000Z",
+    "id": 147417,
+    "type": "manga",
+    "title": "Nani ka to Mujikaku na Joshi",
+    "altTitle": [
+      "The Manager and The Oblivious Waitress",
+      "何かと無自覚な女子"
+    ],
+    "url": "https://myanimelist.net/manga/147417/Nani_ka_to_Mujikaku_na_Joshi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261452.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_EB00203037010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aimai, Mii"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:17.511Z",
+    "updatedAt": "2022-08-16T08:45:08.000Z",
+    "checkedAt": "2022-08-16T08:45:08.000Z",
+    "id": 138553,
+    "type": "manga",
+    "title": "Nani ka to Mujikaku na Joshi",
+    "altTitle": [
+      "何かと無自覚な女子",
+      "Tenchou to Mujikakuna Tennin  "
+    ],
+    "url": "https://anilist.co/manga/138553",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b138553-L9f8dqxjKSWx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147417,
+    "deletedAt": null,
+    "authors": [
+      "Mii Aimai"
+    ]
+  }
 }

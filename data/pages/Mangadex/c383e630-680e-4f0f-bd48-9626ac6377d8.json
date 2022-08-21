@@ -1,24 +1,70 @@
 {
   "createdAt": "2021-02-21T12:03:42.000Z",
-  "updatedAt": "2021-12-08T12:07:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-16T09:20:00.000Z",
+  "checkedAt": "2022-08-15T23:30:10.000Z",
   "id": 63307,
   "identifier": "c383e630-680e-4f0f-bd48-9626ac6377d8",
   "type": "manga",
   "page": "Mangadex",
-  "title": "My Idol is now my Older Brother!",
+  "title": "My Idol Is Now My Older Brother!",
   "url": "https://mangadex.org/title/c383e630-680e-4f0f-bd48-9626ac6377d8",
   "image": "https://uploads.mangadex.org/covers/c383e630-680e-4f0f-bd48-9626ac6377d8/c55219b4-81c2-40db-a619-597c3373e78c.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142795,
+  "aniId": 137197,
   "deletedAt": null,
   "authors": [
     "Kumanami Sae"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-31T00:30:03.200Z",
+    "updatedAt": "2022-05-31T00:30:03.200Z",
+    "checkedAt": "2022-05-31T00:30:03.000Z",
+    "id": 142795,
+    "type": "manga",
+    "title": "Oshi ga Ani ni Narimashita",
+    "altTitle": [
+      "My Idol is now my Older Brother!",
+      "推しが兄になりました"
+    ],
+    "url": "https://myanimelist.net/manga/142795/Oshi_ga_Ani_ni_Narimashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254723.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ganganonline.com/title/1234"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kumanami, Sae"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:56.221Z",
+    "updatedAt": "2022-08-15T23:00:57.000Z",
+    "checkedAt": "2022-08-15T23:00:57.000Z",
+    "id": 137197,
+    "type": "manga",
+    "title": "Oshi ga Ani ni Narimashita",
+    "altTitle": [
+      "推しが兄になりました"
+    ],
+    "url": "https://anilist.co/manga/137197",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137197-zc1fvwReLq4H.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142795,
+    "deletedAt": null,
+    "authors": [
+      "Sae Kumanami"
+    ]
+  }
 }

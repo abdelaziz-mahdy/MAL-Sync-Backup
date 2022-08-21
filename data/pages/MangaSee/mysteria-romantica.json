@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-13T21:30:27.135Z",
-  "updatedAt": "2022-08-13T21:30:27.135Z",
+  "updatedAt": "2022-08-16T09:20:00.000Z",
   "checkedAt": "2022-08-13T21:30:27.000Z",
   "id": 112406,
   "identifier": "mysteria-romantica",
@@ -11,14 +11,57 @@
   "image": "https://temp.compsci88.com/cover/Mysteria-Romantica.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 79467,
+  "aniId": 139895,
   "deletedAt": null,
   "authors": [
     "AIKAWA Saki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:33.000Z",
+    "updatedAt": "2022-07-04T22:07:22.000Z",
+    "checkedAt": "2022-07-04T22:07:22.000Z",
+    "id": 79467,
+    "type": "manga",
+    "title": "Meikyuu Romantica",
+    "altTitle": [
+      "迷宮ロマンチカ"
+    ],
+    "url": "https://myanimelist.net/manga/79467/Meikyuu_Romantica",
+    "image": "https://cdn.myanimelist.net/images/manga/1/178038.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aikawa, Saki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:13.856Z",
+    "updatedAt": "2022-07-04T22:07:20.000Z",
+    "checkedAt": "2022-07-04T22:07:20.000Z",
+    "id": 139895,
+    "type": "manga",
+    "title": "Meikyuu Romantica",
+    "altTitle": [
+      "MYSTERIA ROMANTICA",
+      "迷宮ロマンチカ",
+      "Maze Romantica",
+      "迷宫罗曼史"
+    ],
+    "url": "https://anilist.co/manga/139895",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139895-lJFxMunjc5fF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 79467,
+    "deletedAt": null,
+    "authors": [
+      "Saki Aikawa"
+    ]
+  }
 }

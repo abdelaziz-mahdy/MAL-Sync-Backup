@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-09T01:00:58.000Z",
-  "updatedAt": "2022-03-09T01:00:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-18T18:00:16.000Z",
+  "checkedAt": "2022-08-18T18:00:16.000Z",
   "id": 4084,
   "type": "manga",
   "title": "Nanaka 6/17",
@@ -23,7 +23,7 @@
     "MangaFox": {
       "nanaka_6_17": {
         "createdAt": "2022-03-09T01:01:01.000Z",
-        "updatedAt": "2022-03-09T01:01:01.000Z",
+        "updatedAt": "2022-08-18T18:20:00.000Z",
         "checkedAt": null,
         "id": 97919,
         "identifier": "nanaka_6_17",
@@ -37,10 +37,34 @@
         "active": true,
         "actorId": null,
         "malId": 4084,
-        "aniId": null,
+        "aniId": 34084,
         "deletedAt": null,
         "authors": [
           "YAGAMI Ken"
+        ]
+      }
+    },
+    "Mangadex": {
+      "add8e562-d190-4232-8eb9-14ccc995e33c": {
+        "createdAt": "2022-08-18T18:00:17.205Z",
+        "updatedAt": "2022-08-18T18:00:17.000Z",
+        "checkedAt": "2022-08-18T18:00:17.000Z",
+        "id": 112688,
+        "identifier": "add8e562-d190-4232-8eb9-14ccc995e33c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanaka 6/17",
+        "url": "https://mangadex.org/title/add8e562-d190-4232-8eb9-14ccc995e33c",
+        "image": "https://uploads.mangadex.org/covers/add8e562-d190-4232-8eb9-14ccc995e33c/1aec2792-81d2-428a-9c91-c35692b7337c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4084,
+        "aniId": 34084,
+        "deletedAt": null,
+        "authors": [
+          "Yagami Ken"
         ]
       }
     }

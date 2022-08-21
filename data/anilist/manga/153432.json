@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-08-07T21:30:16.234Z",
-  "updatedAt": "2022-08-07T21:30:16.234Z",
-  "checkedAt": "2022-08-07T21:30:16.000Z",
+  "updatedAt": "2022-08-16T08:48:14.000Z",
+  "checkedAt": "2022-08-16T08:48:14.000Z",
   "id": 153432,
   "type": "manga",
   "title": "Sasinpyowol",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 150422,
   "deletedAt": null,
   "authors": [
     "Mok-In",
@@ -22,10 +22,36 @@
     "INKYO"
   ],
   "Pages": {
+    "Mangadex": {
+      "32156657-0ea8-48a3-81fe-a29bb1f90219": {
+        "createdAt": "2022-07-16T12:31:45.880Z",
+        "updatedAt": "2022-08-16T09:20:00.000Z",
+        "checkedAt": "2022-07-16T12:31:45.000Z",
+        "id": 110014,
+        "identifier": "32156657-0ea8-48a3-81fe-a29bb1f90219",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Reaper of the Drifting Moon",
+        "url": "https://mangadex.org/title/32156657-0ea8-48a3-81fe-a29bb1f90219",
+        "image": "https://uploads.mangadex.org/covers/32156657-0ea8-48a3-81fe-a29bb1f90219/bf14418b-852f-4892-ab9a-bbd75b98ee37.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 150422,
+        "aniId": 153432,
+        "deletedAt": null,
+        "authors": [
+          "Mok-In (목인)",
+          "Ugak (우각)",
+          "INKYO"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-od991712": {
         "createdAt": "2022-07-17T12:30:09.791Z",
-        "updatedAt": "2022-08-08T12:26:51.000Z",
+        "updatedAt": "2022-08-16T08:42:28.000Z",
         "checkedAt": "2022-07-17T12:30:09.000Z",
         "id": 110342,
         "identifier": "manga-od991712",
@@ -37,14 +63,38 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 2,
-        "malId": null,
+        "actorId": 1,
+        "malId": 150422,
         "aniId": 153432,
         "deletedAt": null,
         "authors": [
           "Ugak (우각)",
           "Mok-In (목인)",
           "Inkyo"
+        ]
+      }
+    },
+    "MangaFox": {
+      "reaper_of_the_drifting_moon": {
+        "createdAt": "2022-07-21T22:30:02.020Z",
+        "updatedAt": "2022-08-16T09:20:00.000Z",
+        "checkedAt": "2022-07-21T22:30:01.000Z",
+        "id": 110860,
+        "identifier": "reaper_of_the_drifting_moon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Reaper of the Drifting Moon",
+        "url": "https://fanfox.net/manga/reaper_of_the_drifting_moon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43229/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 150422,
+        "aniId": 153432,
+        "deletedAt": null,
+        "authors": [
+          "Woo-Gak"
         ]
       }
     }

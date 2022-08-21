@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-31T09:49:13.000Z",
-  "updatedAt": "2022-01-01T13:23:53.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-16T18:20:00.000Z",
+  "checkedAt": "2022-08-16T10:00:03.000Z",
   "id": 74839,
   "identifier": "manga-fn983348",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 143068,
+  "aniId": 114427,
   "deletedAt": null,
   "authors": [
     "Han Xu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-16T10:00:12.810Z",
+    "updatedAt": "2022-08-16T10:00:12.810Z",
+    "checkedAt": "2022-08-16T10:00:12.000Z",
+    "id": 143068,
+    "type": "manga",
+    "title": "Zaidu Yu Ni",
+    "altTitle": [
+      "Once More",
+      "再度与你"
+    ],
+    "url": "https://myanimelist.net/manga/143068/Zaidu_Yu_Ni",
+    "image": "https://cdn.myanimelist.net/images/manga/2/257387.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.kuaikanmanhua.com/web/topic/4832/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanxu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:14.022Z",
+    "updatedAt": "2022-05-13T13:06:14.022Z",
+    "checkedAt": null,
+    "id": 114427,
+    "type": "manga",
+    "title": "Zai Du Yu Ni",
+    "altTitle": [
+      "Once More",
+      "再度与你",
+      "Again With You"
+    ],
+    "url": "https://anilist.co/manga/114427",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114427-NwfuvWkYrBCB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143068,
+    "deletedAt": null,
+    "authors": [
+      "Han Xu"
+    ]
+  }
 }

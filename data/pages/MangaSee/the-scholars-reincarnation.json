@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-30T09:55:07.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-08-19T17:20:00.000Z",
   "checkedAt": "2022-05-14T09:54:55.000Z",
   "id": 56244,
   "identifier": "the-scholars-reincarnation",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147924,
+  "aniId": 97770,
   "deletedAt": null,
   "authors": [
     "Soo Yu Hyun",
     "YumClap"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-10T10:00:01.641Z",
+    "updatedAt": "2022-06-10T10:00:01.641Z",
+    "checkedAt": "2022-06-10T10:00:01.000Z",
+    "id": 147924,
+    "type": "manga",
+    "title": "Reborn as a Scholar",
+    "altTitle": [
+      "The Scholar's Reincarnation",
+      "Haksa Jaesaeng",
+      "Reborn as a Scholar",
+      "학사재생"
+    ],
+    "url": "https://myanimelist.net/manga/147924/Reborn_as_a_Scholar",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262538.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/49039315"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Soo, Yuhyeon",
+      "Yumjjakjjak"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:42.614Z",
+    "updatedAt": "2022-06-14T05:11:39.000Z",
+    "checkedAt": "2022-06-14T05:11:39.000Z",
+    "id": 97770,
+    "type": "manga",
+    "title": "Hagsajaesaeng",
+    "altTitle": [
+      "Reborn as a Scholar",
+      "학사재생",
+      "The Scholar's Reincarnation",
+      "学士再生"
+    ],
+    "url": "https://anilist.co/manga/97770",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97770-weDchWK871LI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147924,
+    "deletedAt": null,
+    "authors": [
+      "Yu-Hyun So",
+      "Jack Jack Yum"
+    ]
+  }
 }

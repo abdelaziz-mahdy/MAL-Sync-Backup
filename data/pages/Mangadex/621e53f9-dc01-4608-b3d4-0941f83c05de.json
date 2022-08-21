@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-13T08:28:53.000Z",
-  "updatedAt": "2022-08-14T02:00:13.000Z",
+  "updatedAt": "2022-08-14T13:24:57.000Z",
   "checkedAt": "2022-08-14T02:00:13.000Z",
   "id": 58470,
   "identifier": "621e53f9-dc01-4608-b3d4-0941f83c05de",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 145663,
+  "aniId": 120649,
   "deletedAt": null,
   "authors": [
     "Sal Jiang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-14T02:00:15.608Z",
+    "updatedAt": "2022-08-14T02:00:15.608Z",
+    "checkedAt": "2022-08-14T02:00:15.000Z",
+    "id": 145663,
+    "type": "manga",
+    "title": "Ayaka-chan wa Hiroko-senpai ni Koishiteru",
+    "altTitle": [
+      "Ayaka Is in Love X Love X Love with Hiroko",
+      "Ayaka is in Love with Hiroko!",
+      "彩香ちゃんは弘子先輩に恋してる"
+    ],
+    "url": "https://myanimelist.net/manga/145663/Ayaka-chan_wa_Hiroko-senpai_ni_Koishiteru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/258175.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-action.com/episode/13933686331668792399"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jiang, Sal"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:58.581Z",
+    "updatedAt": "2022-08-14T02:00:13.000Z",
+    "checkedAt": "2022-08-14T02:00:13.000Z",
+    "id": 120649,
+    "type": "manga",
+    "title": "Ayaka-chan wa Hiroko Senpai ni Koishiteru",
+    "altTitle": [
+      "彩香ちゃんは弘子先輩に恋してる",
+      "Ayaka-chan wa Hiroko Senpai wo Otoshitai",
+      "彩香ちゃんは弘子先輩を落としたい"
+    ],
+    "url": "https://anilist.co/manga/120649",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120649-CZ8m58N9eDk2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145663,
+    "deletedAt": null,
+    "authors": [
+      "Sal Jiang"
+    ]
+  }
 }

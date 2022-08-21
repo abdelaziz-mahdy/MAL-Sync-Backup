@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-13T20:01:24.827Z",
-  "updatedAt": "2022-08-13T20:01:24.827Z",
+  "updatedAt": "2022-08-14T14:20:00.000Z",
   "checkedAt": "2022-08-13T20:01:24.000Z",
   "id": 112400,
   "identifier": "daughter-of-the-emperor-volume-version",
@@ -11,15 +11,68 @@
   "image": "https://temp.compsci88.com/cover/Daughter-of-the-Emperor-Volume-Version.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 2,
+  "malId": 115751,
+  "aniId": 99128,
   "deletedAt": null,
   "authors": [
     "RINO",
     "Yunsul"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2022-05-14T07:07:06.000Z",
+    "checkedAt": "2022-05-14T07:07:06.000Z",
+    "id": 115751,
+    "type": "manga",
+    "title": "Daughter of the Emperor",
+    "altTitle": [
+      "Hwangje-ui Oedongttal",
+      "Daughter of the Emperor",
+      "황제의 외동딸"
+    ],
+    "url": "https://myanimelist.net/manga/115751/Daughter_of_the_Emperor",
+    "image": "https://cdn.myanimelist.net/images/manga/2/222277.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/47686939"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yunsul",
+      "Rino"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:13.579Z",
+    "updatedAt": "2022-05-17T05:25:41.000Z",
+    "checkedAt": "2022-05-17T05:25:41.000Z",
+    "id": 99128,
+    "type": "manga",
+    "title": "Hwangje-ui Oedongttal",
+    "altTitle": [
+      "Daughter of the Emperor",
+      "황제의 외동딸",
+      "Koutei no Hitorimusume",
+      "皇帝の一人娘",
+      "คุณลูกสาวผู้น่ารักของจักรพรรดิบ้าเลือด"
+    ],
+    "url": "https://anilist.co/manga/99128",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99128-TEFmI7S8Lczm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 115751,
+    "deletedAt": null,
+    "authors": [
+      "Rino",
+      "Yunsul"
+    ]
+  }
 }
