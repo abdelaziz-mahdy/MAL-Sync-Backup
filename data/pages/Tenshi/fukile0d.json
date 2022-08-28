@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-21T01:30:07.697Z",
-  "updatedAt": "2022-08-21T01:30:07.000Z",
+  "updatedAt": "2022-08-21T02:20:00.000Z",
   "checkedAt": "2022-08-21T01:30:07.000Z",
   "id": 42754,
   "identifier": "fukile0d",
@@ -14,7 +14,7 @@
   "active": true,
   "actorId": null,
   "malId": 22199,
-  "aniId": null,
+  "aniId": 20613,
   "deletedAt": null,
   "Mal": {
     "createdAt": "2020-10-12T15:39:25.000Z",
@@ -63,5 +63,47 @@
     "deletedAt": null,
     "anidbId": 10407
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:30.000Z",
+    "updatedAt": "2022-05-15T09:49:35.000Z",
+    "checkedAt": "2022-05-15T09:49:35.000Z",
+    "id": 20613,
+    "type": "anime",
+    "title": "Akame ga Kill!",
+    "altTitle": [
+      "Akame ga Kill!",
+      "アカメが斬る！",
+      "Akame ga Kiru!",
+      "أكامي: قاتلة بالإكراه!",
+      "Red Eyes Sword"
+    ],
+    "url": "https://anilist.co/anime/20613",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-4VGGPacciJBL.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/akame-ga-kill"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/akame-ga-kill"
+      },
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/akame-ga-kill"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/80052714"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GY2P14QEY/Akame-ga-Kill"
+      }
+    ],
+    "malId": 22199,
+    "deletedAt": null
+  }
 }

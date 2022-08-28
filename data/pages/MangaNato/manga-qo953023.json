@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T15:44:33.000Z",
-  "updatedAt": "2021-12-01T15:55:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-24T15:20:01.000Z",
+  "checkedAt": "2022-08-23T19:30:00.000Z",
   "id": 75406,
   "identifier": "manga-qo953023",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 42905,
+  "aniId": 72905,
   "deletedAt": null,
   "authors": [
     "Shin Weol"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:16.000Z",
+    "updatedAt": "2022-05-18T12:51:56.000Z",
+    "checkedAt": "2022-05-18T12:51:56.000Z",
+    "id": 42905,
+    "type": "manga",
+    "title": "Abide in the Wind",
+    "altTitle": [
+      "Abide by the Wind",
+      "바람이 머무는 난"
+    ],
+    "url": "https://myanimelist.net/manga/42905/Abide_in_the_Wind",
+    "image": "https://cdn.myanimelist.net/images/manga/3/97161.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.naver.com/webtoon/list.nhn?titleId=414609"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shinweol"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:42.495Z",
+    "updatedAt": "2022-05-18T12:51:54.000Z",
+    "checkedAt": "2022-05-18T12:51:54.000Z",
+    "id": 72905,
+    "type": "manga",
+    "title": "Barami Meomuneun Nan",
+    "altTitle": [
+      "바람이 머무는 난",
+      "Abide in the Wind",
+      "Abide by the Wind"
+    ],
+    "url": "https://anilist.co/manga/72905",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72905-j772UNTzDqUc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 42905,
+    "deletedAt": null,
+    "authors": [
+      "Weol Shin"
+    ]
+  }
 }

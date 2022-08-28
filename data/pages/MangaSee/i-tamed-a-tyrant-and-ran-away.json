@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-21T23:33:50.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-08-22T15:20:00.000Z",
   "checkedAt": "2022-05-13T16:49:13.000Z",
   "id": 59469,
   "identifier": "i-tamed-a-tyrant-and-ran-away",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147711,
+  "aniId": 128589,
   "deletedAt": null,
   "authors": [
     "Daon Studio",
     "Melting",
     "Yu Soi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:14.288Z",
+    "updatedAt": "2022-06-07T13:00:14.288Z",
+    "checkedAt": "2022-06-07T13:00:14.000Z",
+    "id": 147711,
+    "type": "manga",
+    "title": "The Taming of the Tyrant",
+    "altTitle": [
+      "I Tamed a Tyrant and Ran Away",
+      "Pokgun-eul Gildeurido Domangcheo Beoryeotda",
+      "The Taming of the Tyrant",
+      "폭군을 길들이고 도망쳐버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/147711/The_Taming_of_the_Tyrant",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262009.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56310553"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yusoy",
+      "Melting"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:33.934Z",
+    "updatedAt": "2022-06-08T07:53:47.000Z",
+    "checkedAt": "2022-06-08T07:53:47.000Z",
+    "id": 128589,
+    "type": "manga",
+    "title": "Pogguneur Girdeurigo Domachyeobeoryeossda",
+    "altTitle": [
+      "The Taming of the Tyrant",
+      "폭군을 길들이고 도망쳐버렸다",
+      "I Tamed a Tyrant and Ran Away",
+      "ฉันลวงทรราชให้ภักดีแล้วหนีจาก"
+    ],
+    "url": "https://anilist.co/manga/128589",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128589-P9XuzZR57E40.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147711,
+    "deletedAt": null,
+    "authors": [
+      "Usoi",
+      "Melting"
+    ]
+  }
 }

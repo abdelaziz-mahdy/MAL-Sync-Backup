@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-19T13:19:30.000Z",
-  "updatedAt": "2021-12-08T07:41:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-25T18:21:48.000Z",
+  "checkedAt": "2022-08-24T22:00:01.000Z",
   "id": 52630,
   "identifier": "ea8cf38b-3295-4f2b-aab5-1227985a3588",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 142015,
+  "aniId": 141936,
   "deletedAt": null,
   "authors": [
     "Ko-dai"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-24T22:00:01.492Z",
+    "updatedAt": "2022-08-24T22:00:01.492Z",
+    "checkedAt": "2022-08-24T22:00:01.000Z",
+    "id": 142015,
+    "type": "manga",
+    "title": "Sono Otaku, Moto Koroshiya.",
+    "altTitle": [
+      "The Geek Ex-Hitman",
+      "そのヲタク、元殺し屋。"
+    ],
+    "url": "https://myanimelist.net/manga/142015/Sono_Otaku_Moto_Koroshiya",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252664.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/shonenace/contents/449/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ko-dai"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:36.518Z",
+    "updatedAt": "2022-08-24T22:00:01.000Z",
+    "checkedAt": "2022-08-24T22:00:01.000Z",
+    "id": 141936,
+    "type": "manga",
+    "title": "Sono Wotaku, Moto Koroshiya.",
+    "altTitle": [
+      "The Geek Ex-Hitman",
+      "そのヲタク、元殺し屋。"
+    ],
+    "url": "https://anilist.co/manga/141936",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141936-zkJ5jyhfMkTc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142015,
+    "deletedAt": null,
+    "authors": [
+      "Ko-dai"
+    ]
+  }
 }

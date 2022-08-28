@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-29T17:43:44.000Z",
-  "updatedAt": "2021-11-29T18:07:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-24T15:20:01.000Z",
+  "checkedAt": "2022-08-23T19:30:03.000Z",
   "id": 73982,
   "identifier": "manga-gb983710",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 99787,
+  "aniId": 114187,
   "deletedAt": null,
   "authors": [
     "Yamada Gregorius"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:34.000Z",
+    "updatedAt": "2022-05-15T03:37:07.000Z",
+    "checkedAt": "2022-05-15T03:37:07.000Z",
+    "id": 99787,
+    "type": "manga",
+    "title": "Ryuu to Yuusha to Haitatsunin",
+    "altTitle": [
+      "竜と勇者と配達人"
+    ],
+    "url": "https://myanimelist.net/manga/99787/Ryuu_to_Yuusha_to_Haitatsunin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191164.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tonarinoyj.jp/manga/haitatsunin/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamada, Gregorious"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:45.781Z",
+    "updatedAt": "2022-05-16T01:27:39.000Z",
+    "checkedAt": "2022-05-16T01:27:39.000Z",
+    "id": 114187,
+    "type": "manga",
+    "title": "Ryuu to Yuusha to Haitatsunin",
+    "altTitle": [
+      "竜と勇者と配達人",
+      "The Dragon, the Hero, and the Courier"
+    ],
+    "url": "https://anilist.co/manga/114187",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114187-EYp73Bd1dngQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 99787,
+    "deletedAt": null,
+    "authors": [
+      "Yamada Gregorius"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-25T16:13:02.000Z",
-  "updatedAt": "2022-02-26T16:19:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-22T15:11:30.000Z",
+  "checkedAt": "2022-08-22T13:30:00.000Z",
   "id": 59910,
   "identifier": "5292f5e9-9276-4fb6-943a-e28bc7206b62",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130861,
   "deletedAt": null,
   "authors": [
     "LB",
@@ -22,5 +22,29 @@
     "Yooeun"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:14.099Z",
+    "updatedAt": "2022-05-24T07:47:47.000Z",
+    "checkedAt": "2022-05-24T07:47:47.000Z",
+    "id": 130861,
+    "type": "manga",
+    "title": "Minamgwa Yasu",
+    "altTitle": [
+      "The Beau and the Beast",
+      "미남과 야수",
+      "Charming and the Beast"
+    ],
+    "url": "https://anilist.co/manga/130861",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130861-qcpmdqsXQNNH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Willbright",
+      "Eun-Yu",
+      "LB"
+    ]
+  }
 }

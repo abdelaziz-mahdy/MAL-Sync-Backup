@@ -1,25 +1,72 @@
 {
   "createdAt": "2021-03-05T15:20:15.000Z",
-  "updatedAt": "2021-12-08T12:38:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-27T12:44:01.000Z",
+  "checkedAt": "2022-08-26T15:00:16.000Z",
   "id": 64677,
   "identifier": "e9418542-04e4-4e61-a860-dff4547fd69b",
   "type": "manga",
   "page": "Mangadex",
   "title": "Bentouya-san no Omotenashi",
   "url": "https://mangadex.org/title/e9418542-04e4-4e61-a860-dff4547fd69b",
-  "image": "https://uploads.mangadex.org/covers/e9418542-04e4-4e61-a860-dff4547fd69b/0bfd8646-2e0d-42c7-a63c-ca647e492eaa.jpg",
+  "image": "https://uploads.mangadex.org/covers/e9418542-04e4-4e61-a860-dff4547fd69b/9d96afbd-9ebf-49ac-803e-a6555692004b.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 140550,
+  "aniId": 137536,
   "deletedAt": null,
   "authors": [
     "Kita Midori",
     "Tomine Naruse"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-20T09:18:09.000Z",
+    "updatedAt": "2022-06-07T01:48:06.000Z",
+    "checkedAt": "2022-06-07T01:48:06.000Z",
+    "id": 140550,
+    "type": "manga",
+    "title": "Bentouya-san no Omotenashi",
+    "altTitle": [
+      "弁当屋さんのおもてなし"
+    ],
+    "url": "https://myanimelist.net/manga/140550/Bentouya-san_no_Omotenashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250492.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CB01201334010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tomine, Naruse",
+      "Kita, Midori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:27.066Z",
+    "updatedAt": "2022-06-07T01:48:06.000Z",
+    "checkedAt": "2022-06-07T01:48:06.000Z",
+    "id": 137536,
+    "type": "manga",
+    "title": "Bentouya-san no Omotenashi  ",
+    "altTitle": [
+      "弁当屋さんのおもてなし"
+    ],
+    "url": "https://anilist.co/manga/137536",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137536-h1z60IPXsA8p.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140550,
+    "deletedAt": null,
+    "authors": [
+      "Naruse Tomine",
+      "Midori Kita"
+    ]
+  }
 }
