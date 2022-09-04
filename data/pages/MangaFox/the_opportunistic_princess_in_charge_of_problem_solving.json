@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-30T06:52:48.000Z",
-  "updatedAt": "2022-01-30T07:20:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-01T09:20:00.000Z",
+  "checkedAt": "2022-08-31T21:31:12.000Z",
   "id": 83337,
   "identifier": "the_opportunistic_princess_in_charge_of_problem_solving",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 123797,
+  "aniId": 113588,
   "deletedAt": null,
   "authors": [
     "Mamechoro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-20T19:29:54.000Z",
+    "checkedAt": "2022-05-20T19:29:54.000Z",
+    "id": 123797,
+    "type": "manga",
+    "title": "Watashi wa Gotsugou Shugi na Kaiketsu Tantou no Oujo de Aru",
+    "altTitle": [
+      "I'm an Opportunistic Princess In-Charge of Solving Things",
+      "私はご都合主義な解決担当の王女である"
+    ],
+    "url": "https://myanimelist.net/manga/123797/Watashi_wa_Gotsugou_Shugi_na_Kaiketsu_Tantou_no_Oujo_de_Aru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/233378.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_FL00201307010000_68/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoneda, Kazusa",
+      "Mamechoro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:49.587Z",
+    "updatedAt": "2022-05-20T19:29:53.000Z",
+    "checkedAt": "2022-05-20T19:29:53.000Z",
+    "id": 113588,
+    "type": "manga",
+    "title": "Watashi wa Gotsugou Shugi na Kaiketsu Tantou no Oujo de Aru",
+    "altTitle": [
+      "私はご都合主義な解決担当の王女である",
+      "The Opportunistic Princess in Charge of Problem Solving",
+      "I'm an Opportunistic Princess In-Charge of Solving Things"
+    ],
+    "url": "https://anilist.co/manga/113588",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113588-rnhr31eRH6Nr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 123797,
+    "deletedAt": null,
+    "authors": [
+      "Kazusa Yoneda",
+      "Mitsuya Fuji",
+      "Mamechoro"
+    ]
+  }
 }

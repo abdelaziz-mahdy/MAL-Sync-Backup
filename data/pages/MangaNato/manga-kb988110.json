@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-31T09:45:44.000Z",
-  "updatedAt": "2022-05-18T08:20:32.000Z",
+  "updatedAt": "2022-08-29T21:20:01.000Z",
   "checkedAt": "2022-05-18T08:20:32.000Z",
   "id": 74784,
   "identifier": "manga-kb988110",
@@ -12,13 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147650,
+  "aniId": 129758,
   "deletedAt": null,
   "authors": [
     "Han Yi Rim"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-04T02:30:14.949Z",
+    "updatedAt": "2022-06-04T02:30:14.949Z",
+    "checkedAt": "2022-06-04T02:30:14.000Z",
+    "id": 147650,
+    "type": "manga",
+    "title": "The Villainess is a Marionette",
+    "altTitle": [
+      "Angnyeo-neun Marionette",
+      "The Villainess is a Marionette",
+      "악녀는 마리오네트"
+    ],
+    "url": "https://myanimelist.net/manga/147650/The_Villainess_is_a_Marionette",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261895.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56422254"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanirim",
+      "Manggle"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:41.981Z",
+    "updatedAt": "2022-06-07T12:31:07.000Z",
+    "checkedAt": "2022-06-07T12:31:07.000Z",
+    "id": 129758,
+    "type": "manga",
+    "title": "Agnyeoneun Marionette",
+    "altTitle": [
+      "The Villainess is a Marionette",
+      "악녀는 마리오네트",
+      "The Villainess Is a Marionette",
+      "Agnyeoneun Malioneteu",
+      "恶女是提线木偶",
+      "นางร้ายหุ่นเชิด"
+    ],
+    "url": "https://anilist.co/manga/129758",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129758-3VpObYcgeT1j.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147650,
+    "deletedAt": null,
+    "authors": [
+      "Yi-Rim Han",
+      "Dokjeom",
+      "Moo Ban"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-09T20:30:35.000Z",
-  "updatedAt": "2022-05-13T23:46:41.000Z",
+  "updatedAt": "2022-08-29T20:36:25.000Z",
   "checkedAt": "2022-05-13T23:46:41.000Z",
   "id": 98065,
   "identifier": "manga-nf990588",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 141245,
+  "aniId": 151000,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-09T20:30:45.000Z",
+    "updatedAt": "2022-05-13T21:14:13.000Z",
+    "checkedAt": "2022-05-13T21:14:13.000Z",
+    "id": 141245,
+    "type": "manga",
+    "title": "Kuroneko to Heishi",
+    "altTitle": [
+      "Black Cat and Soldier",
+      "黒猫と兵士"
+    ],
+    "url": "https://myanimelist.net/manga/141245/Kuroneko_to_Heishi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256690.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/3269754496525458183"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aoi, Banri"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-08-29T02:30:00.492Z",
+    "updatedAt": "2022-08-29T02:30:00.492Z",
+    "checkedAt": "2022-08-29T02:30:00.000Z",
+    "id": 151000,
+    "type": "manga",
+    "title": "Kuroneko to Heishi",
+    "altTitle": [
+      "黒猫と兵士",
+      "Black Cat and Soldier"
+    ],
+    "url": "https://anilist.co/manga/151000",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151000-Y07UpINazSVR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 141245,
+    "deletedAt": null,
+    "authors": [
+      "Banri Aoi "
+    ]
+  }
 }

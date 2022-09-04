@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-18T20:30:35.094Z",
-  "updatedAt": "2022-05-18T20:30:40.000Z",
+  "updatedAt": "2022-08-29T20:38:04.000Z",
   "checkedAt": "2022-05-18T20:30:35.000Z",
   "id": 104811,
   "identifier": "manga-nl990868",
@@ -12,18 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 151070,
   "aniId": 112674,
   "deletedAt": null,
   "authors": [
     "Mago"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-08-29T10:00:04.513Z",
+    "updatedAt": "2022-08-29T10:00:04.513Z",
+    "checkedAt": "2022-08-29T10:00:03.000Z",
+    "id": 151070,
+    "type": "manga",
+    "title": "The Skeleton Becomes a Cat Dad",
+    "altTitle": [
+      "Skeleton Dad",
+      "Metamorphosis",
+      "Hwangol Taltae",
+      "The Skeleton Becomes a Cat Dad",
+      "환골탈태"
+    ],
+    "url": "https://myanimelist.net/manga/151070/The_Skeleton_Becomes_a_Cat_Dad",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267574.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=51703113"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mago"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:44:09.490Z",
-    "updatedAt": "2022-05-18T20:30:40.000Z",
-    "checkedAt": "2022-05-18T20:30:40.000Z",
+    "updatedAt": "2022-08-29T20:42:05.000Z",
+    "checkedAt": "2022-08-29T20:42:05.000Z",
     "id": 112674,
     "type": "manga",
     "title": "Hwangoltaltae",
@@ -40,7 +69,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151070,
     "deletedAt": null,
     "authors": [
       "Mago"

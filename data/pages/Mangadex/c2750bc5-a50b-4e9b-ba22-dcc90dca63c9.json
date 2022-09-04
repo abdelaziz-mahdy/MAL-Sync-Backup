@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-11T17:40:56.000Z",
-  "updatedAt": "2021-12-08T11:39:00.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-31T11:20:01.000Z",
+  "checkedAt": "2022-08-31T05:00:02.000Z",
   "id": 62211,
   "identifier": "c2750bc5-a50b-4e9b-ba22-dcc90dca63c9",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 138968,
+  "aniId": 108485,
   "deletedAt": null,
   "authors": [
     "Masaki Shii"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-31T05:00:03.955Z",
+    "updatedAt": "2022-08-31T05:00:03.955Z",
+    "checkedAt": "2022-08-31T05:00:03.000Z",
+    "id": 138968,
+    "type": "manga",
+    "title": "Soushoku Joshi Paopao-senpai",
+    "altTitle": [
+      "Herbivore Girl Paopao-senpai",
+      "草食女子パオパオ先輩"
+    ],
+    "url": "https://myanimelist.net/manga/138968/Soushoku_Joshi_Paopao-senpai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/252060.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shii, Masaki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:23.743Z",
+    "updatedAt": "2022-05-13T13:01:23.743Z",
+    "checkedAt": null,
+    "id": 108485,
+    "type": "manga",
+    "title": "Soushoku Joshi Paopao-senpai",
+    "altTitle": [
+      "草食女子パオパオ先輩",
+      "Sōshoku Joshi Paopao-senpai"
+    ],
+    "url": "https://anilist.co/manga/108485",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108485-FnUXLwcmHgP6.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 138968,
+    "deletedAt": null,
+    "authors": [
+      "Masaki Shii"
+    ]
+  }
 }

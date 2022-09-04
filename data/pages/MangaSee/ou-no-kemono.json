@@ -1,24 +1,72 @@
 {
   "createdAt": "2021-03-02T16:22:33.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-08-30T16:20:00.000Z",
+  "checkedAt": "2022-08-30T01:30:15.000Z",
   "id": 64337,
   "identifier": "ou-no-kemono",
   "type": "manga",
   "page": "MangaSee",
-  "title": "Ou no Kemono",
+  "title": "The King's Beast",
   "url": "https://mangasee123.com/manga/Ou-no-Kemono",
   "image": "https://temp.compsci88.com/cover/Ou-no-Kemono.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 123397,
+  "aniId": 107544,
   "deletedAt": null,
   "authors": [
     "TOUMA Rei"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2022-05-15T15:24:53.000Z",
+    "checkedAt": "2022-05-15T15:24:53.000Z",
+    "id": 123397,
+    "type": "manga",
+    "title": "Ou no Kemono: Enpei no Arcana",
+    "altTitle": [
+      "The King's Beast",
+      "王の獣～掩蔽のアルカナ～"
+    ],
+    "url": "https://myanimelist.net/manga/123397/Ou_no_Kemono__Enpei_no_Arcana",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235255.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://cheese.shogakukan.co.jp/category/toma_rei_002/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Touma, Rei"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:12.379Z",
+    "updatedAt": "2022-05-15T18:51:11.000Z",
+    "checkedAt": "2022-05-15T18:51:11.000Z",
+    "id": 107544,
+    "type": "manga",
+    "title": "Ou no Kemono: Enpei no Arcana",
+    "altTitle": [
+      "The King's Beast",
+      "王の獣～掩蔽のアルカナ～",
+      "King's Beast"
+    ],
+    "url": "https://anilist.co/manga/107544",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107544-r0fa0H1KDoOD.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 123397,
+    "deletedAt": null,
+    "authors": [
+      "Rei Touma"
+    ]
+  }
 }

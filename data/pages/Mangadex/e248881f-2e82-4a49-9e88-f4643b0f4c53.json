@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-26T16:00:07.200Z",
-  "updatedAt": "2022-08-26T16:00:07.200Z",
+  "updatedAt": "2022-08-29T21:20:01.000Z",
   "checkedAt": "2022-08-26T16:00:07.000Z",
   "id": 113223,
   "identifier": "e248881f-2e82-4a49-9e88-f4643b0f4c53",
@@ -11,14 +11,69 @@
   "image": "https://uploads.mangadex.org/covers/e248881f-2e82-4a49-9e88-f4643b0f4c53/ee099100-2f02-4442-b918-a837b1133d6d.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 61097,
+  "aniId": 85296,
   "deletedAt": null,
   "authors": [
     "Kanno Aya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:59.000Z",
+    "updatedAt": "2022-08-29T20:38:35.000Z",
+    "checkedAt": "2022-08-29T20:38:35.000Z",
+    "id": 61097,
+    "type": "manga",
+    "title": "Baraou no Souretsu",
+    "altTitle": [
+      "The Rose King's Funeral Procession",
+      "Requiem of the Rose King",
+      "薔薇王の葬列"
+    ],
+    "url": "https://myanimelist.net/manga/61097/Baraou_no_Souretsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262927.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%96%94%E8%96%87%E7%8E%8B%E3%81%AE%E8%91%AC%E5%88%97"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kanno, Aya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:26.255Z",
+    "updatedAt": "2022-05-15T18:45:59.000Z",
+    "checkedAt": "2022-05-15T18:45:59.000Z",
+    "id": 85296,
+    "type": "manga",
+    "title": "Baraou no Souretsu",
+    "altTitle": [
+      "Requiem of the Rose King",
+      "薔薇王の葬列",
+      "Bara-ou no Souretsu",
+      "The Rose King's Funeral Procession",
+      "Requiem Króla Róż",
+      "Réquiem por el Rey de la Rosa",
+      "พันธนาการแห่งราชันย์กุหลาบ"
+    ],
+    "url": "https://anilist.co/manga/85296",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85296-jPSdIR16W6VT.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 61097,
+    "deletedAt": null,
+    "authors": [
+      "Aya Kanno",
+      "Ana María Caro",
+      "William Shakespeare"
+    ]
+  }
 }

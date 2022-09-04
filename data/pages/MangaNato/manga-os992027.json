@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-21T11:00:09.897Z",
-  "updatedAt": "2022-08-21T11:00:09.000Z",
+  "updatedAt": "2022-09-01T09:07:36.000Z",
   "checkedAt": "2022-08-21T11:00:09.000Z",
   "id": 112890,
   "identifier": "manga-os992027",
@@ -12,15 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151111,
+  "aniId": 153994,
   "deletedAt": null,
   "authors": [
     "Sand Fairy (샌드페어리)",
     "Ppilippala (삐리빠라)",
     "Todac_S (쓩늉)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-31T21:30:31.611Z",
+    "updatedAt": "2022-08-31T21:30:31.611Z",
+    "checkedAt": "2022-08-31T21:30:31.000Z",
+    "id": 151111,
+    "type": "manga",
+    "title": "My School Life Pretending to Be a Worthless Person",
+    "altTitle": [
+      "Pyegeubin Cheokhaetdeon Hakgyo Saenghwal",
+      "폐급인 척했던 학교생활"
+    ],
+    "url": "https://myanimelist.net/manga/151111/My_School_Life_Pretending_to_Be_a_Worthless_Person",
+    "image": "https://cdn.myanimelist.net/images/manga/3/267741.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59989217"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Syungnyung",
+      "Sand Fairy"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-08-24T16:30:07.971Z",
+    "updatedAt": "2022-08-24T16:30:07.971Z",
+    "checkedAt": "2022-08-24T16:30:07.000Z",
+    "id": 153994,
+    "type": "manga",
+    "title": "Pyegeubin Cheokaetdeon Hakgyosaenghwal",
+    "altTitle": [
+      "폐급인 척했던 학교생활",
+      "My School Life Pretending To Be a Worthless Person"
+    ],
+    "url": "https://anilist.co/manga/153994",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153994-O5C49ETPQRAw.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Sand Fairy",
+      "Ssyung-Nyung",
+      "Ppirippara"
+    ]
+  }
 }

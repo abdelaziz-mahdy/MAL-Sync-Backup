@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-02-01T17:01:55.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-08-29T20:40:42.000Z",
   "checkedAt": "2022-05-13T14:59:08.000Z",
   "id": 61041,
   "identifier": "the-girl-from-random-chatting",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146774,
+  "aniId": 105429,
   "deletedAt": null,
   "authors": [
     "PARK Eunhyuk"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-25T13:30:54.985Z",
+    "updatedAt": "2022-05-25T13:30:54.985Z",
+    "checkedAt": "2022-05-25T13:30:54.000Z",
+    "id": 146774,
+    "type": "manga",
+    "title": "Random Chat",
+    "altTitle": [
+      "The Girl From Random Chatting!",
+      "Random Chatting-ui Geunyeo",
+      "Random Chat",
+      "랜덤채팅의 그녀!"
+    ],
+    "url": "https://myanimelist.net/manga/146774/Random_Chat",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259537.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=702608"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Eun Hyuk"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:50.282Z",
+    "updatedAt": "2022-05-27T10:37:09.000Z",
+    "checkedAt": "2022-05-27T10:37:09.000Z",
+    "id": 105429,
+    "type": "manga",
+    "title": "Random Chatting Geunyeo!",
+    "altTitle": [
+      "Random Chat",
+      "랜덤채팅의 그녀!",
+      "Raendeomchaetingui Geunyeo!",
+      "The Girl from Random Chatting!",
+      "สาวจากแรนดอมแชต"
+    ],
+    "url": "https://anilist.co/manga/105429",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105429-D1j9UTuApGRs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146774,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Hyeok Park"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-24T19:06:59.000Z",
-  "updatedAt": "2021-11-24T19:06:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-01T09:06:58.000Z",
+  "checkedAt": "2022-08-31T21:30:28.000Z",
   "id": 91707,
   "identifier": "manga-fp983024",
   "type": "manga",
@@ -12,15 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122144,
+  "aniId": 104995,
   "deletedAt": null,
   "authors": [
     "Tsuyoshi Watanabe",
     "Souichi Itou",
     "Houjou Shinkurou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-03-22T06:05:05.000Z",
+    "updatedAt": "2022-06-27T20:33:03.000Z",
+    "checkedAt": "2022-06-27T20:33:03.000Z",
+    "id": 122144,
+    "type": "manga",
+    "title": "Jouhai Shougun, Mata Yabureru",
+    "altTitle": [
+      "常敗将軍、また敗れる"
+    ],
+    "url": "https://myanimelist.net/manga/122144/Jouhai_Shougun_Mata_Yabureru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/234847.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://firecross.jp/comic/series/319"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Watanabe, Tsuyoshi",
+      "Houjou, Shinkurou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:14.556Z",
+    "updatedAt": "2022-06-27T20:33:02.000Z",
+    "checkedAt": "2022-06-27T20:33:02.000Z",
+    "id": 104995,
+    "type": "manga",
+    "title": "Johai Shogun, Mata Yabureru",
+    "altTitle": [
+      "常敗将軍、また敗れる",
+      "Zyouhai",
+      "Jouhai Shogun, Mata Yabu reru",
+      "常敗將軍又戰敗了 "
+    ],
+    "url": "https://anilist.co/manga/104995",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104995-RYzU5A7CAHPh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 122144,
+    "deletedAt": null,
+    "authors": [
+      "Shinkuro Houjou",
+      "Tsuyoshi Watanabe",
+      "Souichi Itou"
+    ]
+  }
 }

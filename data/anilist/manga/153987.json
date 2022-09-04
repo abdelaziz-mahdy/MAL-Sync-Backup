@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-08-24T17:30:05.167Z",
-  "updatedAt": "2022-08-24T17:30:05.167Z",
-  "checkedAt": "2022-08-24T17:30:05.000Z",
+  "updatedAt": "2022-08-29T20:47:53.000Z",
+  "checkedAt": "2022-08-29T20:47:53.000Z",
   "id": 153987,
   "type": "manga",
   "title": "Jonjae",
@@ -14,13 +14,38 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 150840,
   "deletedAt": null,
   "authors": [
     "Kim Kyeong-Joon",
     "Gwang-Jin"
   ],
   "Pages": {
+    "MangaNato": {
+      "manga-ov992030": {
+        "createdAt": "2022-08-22T13:00:05.577Z",
+        "updatedAt": "2022-08-29T21:20:01.000Z",
+        "checkedAt": "2022-08-22T13:00:05.000Z",
+        "id": 112960,
+        "identifier": "manga-ov992030",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Existence",
+        "url": "https://readmanganato.com/manga-ov992030",
+        "image": "https://avt.mkklcdnv6temp.com/41/c/26-1661168534.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 150840,
+        "aniId": 153987,
+        "deletedAt": null,
+        "authors": [
+          "Gwang Jin",
+          "Kim Kyeong-Jun"
+        ]
+      }
+    },
     "Mangadex": {
       "5752a34f-2905-42d2-8817-5f4a0f0479e6": {
         "createdAt": "2022-08-24T17:30:05.181Z",
@@ -43,6 +68,30 @@
         "authors": [
           "Kwang jin (광진)",
           "Kim Kyeong-jun (김경준)"
+        ]
+      }
+    },
+    "MangaFox": {
+      "existence_gwang_jin": {
+        "createdAt": "2022-08-24T22:30:09.341Z",
+        "updatedAt": "2022-08-29T21:20:01.000Z",
+        "checkedAt": "2022-08-24T22:30:09.000Z",
+        "id": 113109,
+        "identifier": "existence_gwang_jin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Existence (Gwang Jin)",
+        "url": "https://fanfox.net/manga/existence_gwang_jin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43506/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 150840,
+        "aniId": 153987,
+        "deletedAt": null,
+        "authors": [
+          "Gwang Jin"
         ]
       }
     }
