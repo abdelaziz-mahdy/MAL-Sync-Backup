@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-29T11:43:22.000Z",
-  "updatedAt": "2022-01-14T08:43:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-10T13:20:00.000Z",
+  "checkedAt": "2022-09-09T22:00:28.000Z",
   "id": 73754,
   "identifier": "manga-kp987924",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 143926,
+  "aniId": 146832,
   "deletedAt": null,
   "authors": [
     "Fujisaki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-14T11:18:21.000Z",
+    "updatedAt": "2022-06-07T14:49:12.000Z",
+    "checkedAt": "2022-06-07T14:49:12.000Z",
+    "id": 143926,
+    "type": "manga",
+    "title": "Level 99 Boukensha ni Yoru Hajimete no Ryouchi Keiei",
+    "altTitle": [
+      "Territory Management for the First Time, by the Adventurers of Level 99",
+      "レベル99冒険者によるはじめての領地経営"
+    ],
+    "url": "https://myanimelist.net/manga/143926/Level_99_Boukensha_ni_Yoru_Hajimete_no_Ryouchi_Keiei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/255431.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gaugau.futabanet.jp/list/work/5dd6651677656140ea020000"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kujira",
+      "Fujisaki",
+      "Pakupaku"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:32.216Z",
+    "updatedAt": "2022-06-07T14:49:11.000Z",
+    "checkedAt": "2022-06-07T14:49:11.000Z",
+    "id": 146832,
+    "type": "manga",
+    "title": "Level 99 Bouken-Sha Ni Yoru Hajimete No Ryouchi Keiei",
+    "altTitle": [
+      "Territory Management For The First Time, By The Adventurers Of Level 99",
+      "レベル99冒険者によるはじめての領地経営"
+    ],
+    "url": "https://anilist.co/manga/146832",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146832-CRTysCh9iJYu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143926,
+    "deletedAt": null,
+    "authors": [
+      "Fujisaki",
+      "Kurokawa",
+      "KUJIRA",
+      "Pakupaku"
+    ]
+  }
 }

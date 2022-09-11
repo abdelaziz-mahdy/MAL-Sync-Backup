@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-17T23:30:01.176Z",
-  "updatedAt": "2022-08-18T03:00:03.000Z",
+  "updatedAt": "2022-09-04T18:24:39.000Z",
   "checkedAt": "2022-08-17T23:30:01.000Z",
   "id": 112654,
   "identifier": "38ba5ae8-5f2f-4fb4-b77c-d2137d27c931",
@@ -12,23 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 151294,
   "aniId": 141623,
   "deletedAt": null,
   "authors": [
     "Nangsun (낭선)",
     "Kim Soon-tae (김순태)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-04T18:00:10.631Z",
+    "updatedAt": "2022-09-04T18:00:10.631Z",
+    "checkedAt": "2022-09-04T18:00:10.000Z",
+    "id": 151294,
+    "type": "manga",
+    "title": "Tale of the Floating Sages",
+    "altTitle": [
+      "Call of the Spear",
+      "Nangseon Story",
+      "Nangseon Gihwandam",
+      "Tale of the Floating Sages",
+      "낭선기환담"
+    ],
+    "url": "https://myanimelist.net/manga/151294/Tale_of_the_Floating_Sages",
+    "image": "https://cdn.myanimelist.net/images/manga/3/267953.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56952321"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nangseon",
+      "Kim, Suntae"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:46:05.635Z",
-    "updatedAt": "2022-05-29T12:44:24.000Z",
-    "checkedAt": "2022-05-29T12:44:24.000Z",
+    "updatedAt": "2022-09-06T09:08:03.000Z",
+    "checkedAt": "2022-09-06T09:08:03.000Z",
     "id": 141623,
     "type": "manga",
     "title": "Nangseongihwandam",
     "altTitle": [
+      "Tale of the Floating Sages",
       "낭선기환담",
       "The Story of Thorny Spear",
       "Call of the Spear",
@@ -39,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151294,
     "deletedAt": null,
     "authors": [
       "Soon-Tae Kim",

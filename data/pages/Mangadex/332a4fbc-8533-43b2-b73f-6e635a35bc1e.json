@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-26T02:12:59.000Z",
-  "updatedAt": "2021-12-08T10:38:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-05T05:00:04.000Z",
+  "checkedAt": "2022-09-05T05:00:04.000Z",
   "id": 59949,
   "identifier": "332a4fbc-8533-43b2-b73f-6e635a35bc1e",
   "type": "manga",
@@ -11,14 +11,34 @@
   "image": "https://uploads.mangadex.org/covers/332a4fbc-8533-43b2-b73f-6e635a35bc1e/215f8ba5-918b-4c56-bd5e-2d5d6564949d.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 117353,
   "deletedAt": null,
   "authors": [
     "Sasaki Minoru"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:03.216Z",
+    "updatedAt": "2022-05-28T02:22:24.000Z",
+    "checkedAt": "2022-05-28T02:22:24.000Z",
+    "id": 117353,
+    "type": "manga",
+    "title": "Ojou-sama kara Hajimeru Kekkon Seikatsu ",
+    "altTitle": [
+      "お嬢さまから始める結婚生活"
+    ],
+    "url": "https://anilist.co/manga/117353",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117353-22XtB7ofbCC4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Minoru Sasaki"
+    ]
+  }
 }

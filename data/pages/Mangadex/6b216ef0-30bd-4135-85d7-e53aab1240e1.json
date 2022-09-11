@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:29.000Z",
-  "updatedAt": "2022-02-07T13:39:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-07T17:20:00.000Z",
+  "checkedAt": "2022-09-06T18:00:10.000Z",
   "id": 39418,
   "identifier": "6b216ef0-30bd-4135-85d7-e53aab1240e1",
   "type": "manga",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 132449,
+  "aniId": 130009,
   "deletedAt": null,
   "authors": [
     "Tomono Kouko",
     "Nekota Taishi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-06T18:00:09.984Z",
+    "updatedAt": "2022-09-06T18:00:09.984Z",
+    "checkedAt": "2022-09-06T18:00:09.000Z",
+    "id": 132449,
+    "type": "manga",
+    "title": "Tsuihou sareta Akuyaku Reijou desu ga, Mofumofu-tsuki!? Slow Life Hajimemashita",
+    "altTitle": [
+      "I'm a Banished Villainess, but I'm Accompanied by a Fluffy Creature?! My Peaceful Life Starts",
+      "追放された悪役令嬢ですが、モフモフ付き!?スローライフはじめました"
+    ],
+    "url": "https://myanimelist.net/manga/132449/Tsuihou_sareta_Akuyaku_Reijou_desu_ga_Mofumofu-tsuki_Slow_Life_Hajimemashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249392.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tomono, Kouko",
+      "Nekota, Taishi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:14.827Z",
+    "updatedAt": "2022-09-06T18:01:39.000Z",
+    "checkedAt": "2022-09-06T18:01:39.000Z",
+    "id": 130009,
+    "type": "manga",
+    "title": "Tsuihou Sareta Akuyaku Reijou desu ga, Mofumofu-tsuki!? Slow Life Hajimemashita",
+    "altTitle": [
+      "追放された悪役令嬢ですが、モフモフ付き⁉スローライフはじめました"
+    ],
+    "url": "https://anilist.co/manga/130009",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130009-ObULepnOZHD3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 132449,
+    "deletedAt": null,
+    "authors": [
+      "Kouko Tomono",
+      "Taishi Nekota"
+    ]
+  }
 }

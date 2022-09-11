@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-15T15:05:55.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-07T17:04:42.000Z",
+  "checkedAt": "2022-09-07T05:30:15.000Z",
   "id": 62581,
   "identifier": "the-princess-in-the-dumpster",
   "type": "manga",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147726,
+  "aniId": 124271,
   "deletedAt": null,
   "authors": [
     "Harasyo",
     "Herua"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:20.448Z",
+    "updatedAt": "2022-06-07T13:00:20.448Z",
+    "checkedAt": "2022-06-07T13:00:20.000Z",
+    "id": 147726,
+    "type": "manga",
+    "title": "Princess in the Rough",
+    "altTitle": [
+      "The Princess in the Dumpster",
+      "Sseuregijang Sok Hwangnyeo-nim",
+      "Princess in the Rough",
+      "쓰레기장 속 황녀님"
+    ],
+    "url": "https://myanimelist.net/manga/147726/Princess_in_the_Rough",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262065.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/55166366"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Harasyo",
+      "Haerua"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:35.180Z",
+    "updatedAt": "2022-06-08T07:52:59.000Z",
+    "checkedAt": "2022-06-08T07:52:59.000Z",
+    "id": 124271,
+    "type": "manga",
+    "title": "Sseuregijang Song Hwangnyeonim",
+    "altTitle": [
+      "Princess in the Rough",
+      "쓰레기장 속 황녀님",
+      "The Princess in the Dumpster",
+      "La princesa imperial que salió del basurero",
+      "Putri yang Telantar"
+    ],
+    "url": "https://anilist.co/manga/124271",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124271-HXKirYwdDcyt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147726,
+    "deletedAt": null,
+    "authors": [
+      "Haerua",
+      "Harasyo",
+      "cocorip"
+    ]
+  }
 }

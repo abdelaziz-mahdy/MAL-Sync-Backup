@@ -1,12 +1,13 @@
 {
   "createdAt": "2022-08-10T21:00:11.290Z",
-  "updatedAt": "2022-08-10T21:00:11.290Z",
-  "checkedAt": "2022-08-10T21:00:11.000Z",
+  "updatedAt": "2022-09-09T19:14:57.000Z",
+  "checkedAt": "2022-09-09T19:14:57.000Z",
   "id": 152703,
   "type": "manga",
   "title": "Tada de wa Dakaremasen",
   "altTitle": [
-    "タダでは抱かれません"
+    "タダでは抱かれません",
+    "I Won't Sleep with You for Free"
   ],
   "url": "https://anilist.co/manga/152703",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152703-viHFdQpbtHI2.png",
@@ -22,7 +23,7 @@
     "Mangadex": {
       "73962987-7e02-4126-8405-4d75c2188d7f": {
         "createdAt": "2022-08-10T21:00:10.355Z",
-        "updatedAt": "2022-08-10T21:00:11.000Z",
+        "updatedAt": "2022-09-09T19:03:45.000Z",
         "checkedAt": "2022-08-10T21:00:10.000Z",
         "id": 112228,
         "identifier": "73962987-7e02-4126-8405-4d75c2188d7f",
@@ -34,8 +35,32 @@
         "hentai": true,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 150240,
+        "aniId": 152703,
+        "deletedAt": null,
+        "authors": [
+          "Hinohara Fuki"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-ok992067": {
+        "createdAt": "2022-08-24T18:30:13.643Z",
+        "updatedAt": "2022-09-09T19:03:49.000Z",
+        "checkedAt": "2022-08-24T18:30:13.000Z",
+        "id": 113096,
+        "identifier": "manga-ok992067",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Won't Sleep With You For Free",
+        "url": "https://readmanganato.com/manga-ok992067",
+        "image": "https://avt.mkklcdnv6temp.com/42/o/27-1661355716.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 150240,
         "aniId": 152703,
         "deletedAt": null,
         "authors": [
