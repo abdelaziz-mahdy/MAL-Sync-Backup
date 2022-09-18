@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-30T05:20:11.000Z",
-  "updatedAt": "2021-12-30T05:23:27.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-15T08:20:00.000Z",
+  "checkedAt": "2022-09-15T00:00:05.000Z",
   "id": 80504,
   "identifier": "manga-ku988355",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 133964,
+  "aniId": 130294,
   "deletedAt": null,
   "authors": [
     "Mikura Naru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-02-27T11:43:51.000Z",
+    "updatedAt": "2022-05-15T01:52:18.000Z",
+    "checkedAt": "2022-05-15T01:52:18.000Z",
+    "id": 133964,
+    "type": "manga",
+    "title": "Zombie darake no Kono Sekai dewa Sex shinai to Ikinokorenai",
+    "altTitle": [
+      "ゾンビだらけのこの世界ではセックスしないと生き残れない"
+    ],
+    "url": "https://myanimelist.net/manga/133964/Zombie_darake_no_Kono_Sekai_dewa_Sex_shinai_to_Ikinokorenai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/241319.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Himeno, Komomo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:48.388Z",
+    "updatedAt": "2022-05-16T18:34:34.000Z",
+    "checkedAt": "2022-05-16T18:34:34.000Z",
+    "id": 130294,
+    "type": "manga",
+    "title": "Zombie darake no Kono Sekai de wa Sex shinai to Ikinokorenai",
+    "altTitle": [
+      "ゾンビだらけのこの世界ではセックスしないと生き残れない",
+      "Survive in the Zombie World With Sex"
+    ],
+    "url": "https://anilist.co/manga/130294",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130294-thdjAXiCNqfR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 133964,
+    "deletedAt": null,
+    "authors": [
+      "Naru Mikura"
+    ]
+  }
 }

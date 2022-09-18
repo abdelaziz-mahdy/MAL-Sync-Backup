@@ -1,24 +1,79 @@
 {
   "createdAt": "2021-02-08T18:10:32.000Z",
-  "updatedAt": "2021-12-08T11:37:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-12T14:20:00.000Z",
+  "checkedAt": "2022-09-12T12:30:11.000Z",
   "id": 61805,
   "identifier": "7b29f645-7dbf-46b1-8534-b70b5859c49a",
   "type": "manga",
   "page": "Mangadex",
-  "title": "An animal hospital in the border area",
+  "title": "An Animal Hospital in the Border Area",
   "url": "https://mangadex.org/title/7b29f645-7dbf-46b1-8534-b70b5859c49a",
   "image": "https://uploads.mangadex.org/covers/7b29f645-7dbf-46b1-8534-b70b5859c49a/353323c7-bfd2-4111-a9be-8c9b355b39a3.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151535,
+  "aniId": 143373,
   "deletedAt": null,
   "authors": [
     "최팔호"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-12T12:30:11.616Z",
+    "updatedAt": "2022-09-12T12:30:11.616Z",
+    "checkedAt": "2022-09-12T12:30:11.000Z",
+    "id": 151535,
+    "type": "manga",
+    "title": "The Legendary Beasts Animal Hospital",
+    "altTitle": [
+      "An Animal Hospital in the Border Area",
+      "Jeopgyeongjiyeog-ui Dongmul Byeongwon",
+      "The Legendary Beasts Animal Hospital",
+      "접경지역의 동물병원"
+    ],
+    "url": "https://myanimelist.net/manga/151535/The_Legendary_Beasts_Animal_Hospital",
+    "image": "https://cdn.myanimelist.net/images/manga/1/268326.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56012666"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ecira",
+      "Choi, Palho"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:56.902Z",
+    "updatedAt": "2022-09-12T14:09:45.000Z",
+    "checkedAt": "2022-09-12T14:09:45.000Z",
+    "id": 143373,
+    "type": "manga",
+    "title": "Jeopgyeongjiyeogui Dongmul Byeongwon",
+    "altTitle": [
+      "The Legendary Beasts Animal Hospital",
+      "접경지역의 동물병원",
+      "An Animal Hospital in the Border Area",
+      "An Animal Hospital Near The Border Area",
+      "โรงพยาบาลสัตว์ไร้พรมแดน"
+    ],
+    "url": "https://anilist.co/manga/143373",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143373-cMt7wGZiszwJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151535,
+    "deletedAt": null,
+    "authors": [
+      "Hari",
+      "Man-Dal",
+      "Pal-Ho Choi"
+    ]
+  }
 }

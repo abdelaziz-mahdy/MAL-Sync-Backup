@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-04T02:30:04.396Z",
-  "updatedAt": "2022-09-04T02:30:05.000Z",
+  "updatedAt": "2022-09-11T17:16:40.000Z",
   "checkedAt": "2022-09-04T02:30:04.000Z",
   "id": 113838,
   "identifier": "9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
@@ -12,19 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 150973,
   "aniId": 151808,
   "deletedAt": null,
   "authors": [
     "Spider Lily",
     "Yasunori Bizen"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-06T14:00:05.528Z",
+    "updatedAt": "2022-09-06T14:00:05.528Z",
+    "checkedAt": "2022-09-06T14:00:05.000Z",
+    "id": 150973,
+    "type": "manga",
+    "title": "Lycoris Recoil",
+    "altTitle": [
+      "リコリス・リコイル"
+    ],
+    "url": "https://myanimelist.net/manga/150973/Lycoris_Recoil",
+    "image": "https://cdn.myanimelist.net/images/manga/3/268049.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Bizen, Yasunori"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-09-04T02:30:04.387Z",
-    "updatedAt": "2022-09-04T02:30:04.387Z",
-    "checkedAt": "2022-09-04T02:30:04.000Z",
+    "updatedAt": "2022-09-12T14:10:57.000Z",
+    "checkedAt": "2022-09-12T14:10:57.000Z",
     "id": 151808,
     "type": "manga",
     "title": "Lycoris Recoil",
@@ -36,7 +61,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 150973,
     "deletedAt": null,
     "authors": [
       "Yasunori Bizen"

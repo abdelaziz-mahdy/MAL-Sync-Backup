@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-01-06T06:48:18.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-09-15T17:15:25.000Z",
   "checkedAt": "2022-05-14T10:13:46.000Z",
   "id": 94299,
   "identifier": "heavenly-demon-instructor",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148958,
+  "aniId": 143352,
   "deletedAt": null,
   "authors": [
     "Jodol"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-05T21:30:01.775Z",
+    "updatedAt": "2022-07-05T21:30:01.775Z",
+    "checkedAt": "2022-07-05T21:30:01.000Z",
+    "id": 148958,
+    "type": "manga",
+    "title": "My Master Is a Backseat Gamer",
+    "altTitle": [
+      "Heavenly Demon Instructor",
+      "Backseating Heavenly Demon",
+      "Hunsu Duneun Cheonma-nim",
+      "My Master Is a Backseat Gamer",
+      "훈수 두는 천마님"
+    ],
+    "url": "https://myanimelist.net/manga/148958/My_Master_Is_a_Backseat_Gamer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264281.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58315333"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hwabong",
+      "Jodol"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:55.023Z",
+    "updatedAt": "2022-07-06T11:53:05.000Z",
+    "checkedAt": "2022-07-06T11:53:05.000Z",
+    "id": 143352,
+    "type": "manga",
+    "title": "Hunsu Duneun Cheonmanim",
+    "altTitle": [
+      "My Master is a Backseat Gamer",
+      "훈수 두는 천마님",
+      "Heavenly Demon Instructor"
+    ],
+    "url": "https://anilist.co/manga/143352",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143352-bDvxqCcDrH7v.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148958,
+    "deletedAt": null,
+    "authors": [
+      "Ja-Kka Kim",
+      "Hwa-Bong",
+      "Jo-Dol"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-10T12:00:09.693Z",
-  "updatedAt": "2022-09-10T12:00:11.000Z",
+  "updatedAt": "2022-09-11T17:20:00.000Z",
   "checkedAt": "2022-09-10T12:00:09.000Z",
   "id": 114181,
   "identifier": "81cb9baa-4f9c-4cf5-aada-34e0a17dde33",
@@ -12,13 +12,53 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 50883,
+  "aniId": 80883,
   "deletedAt": null,
   "authors": [
     "Itosugi Masahiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-10T12:00:10.993Z",
+    "updatedAt": "2022-09-10T12:00:10.993Z",
+    "checkedAt": "2022-09-10T12:00:10.000Z",
+    "id": 50883,
+    "type": "manga",
+    "title": "All I Need",
+    "altTitle": [
+      "オールアイニード"
+    ],
+    "url": "https://myanimelist.net/manga/50883/All_I_Need",
+    "image": "https://cdn.myanimelist.net/images/manga/1/110403.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Itosugi, Masahiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-09-11T11:00:03.162Z",
+    "updatedAt": "2022-09-11T11:00:03.162Z",
+    "checkedAt": "2022-09-11T11:00:03.000Z",
+    "id": 80883,
+    "type": "manga",
+    "title": "All I Need",
+    "altTitle": [
+      "オールアイニード"
+    ],
+    "url": "https://anilist.co/manga/80883",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50883.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 50883,
+    "deletedAt": null,
+    "authors": [
+      "Masahiro Itosugi"
+    ]
+  }
 }

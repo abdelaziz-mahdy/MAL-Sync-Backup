@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:45:46.964Z",
-  "updatedAt": "2022-05-13T12:45:46.964Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-14T02:00:13.000Z",
+  "checkedAt": "2022-09-14T02:00:13.000Z",
   "id": 123187,
   "type": "manga",
   "title": "Sonyeojaepan",
@@ -22,5 +22,31 @@
     "Rujeuna",
     "Borocom"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "db0d31e4-cd0f-4775-95aa-9c65c4081186": {
+        "createdAt": "2020-11-19T19:20:51.000Z",
+        "updatedAt": "2022-09-15T07:53:25.000Z",
+        "checkedAt": "2022-09-14T02:00:12.000Z",
+        "id": 52645,
+        "identifier": "db0d31e4-cd0f-4775-95aa-9c65c4081186",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Girl's Trial",
+        "url": "https://mangadex.org/title/db0d31e4-cd0f-4775-95aa-9c65c4081186",
+        "image": "https://uploads.mangadex.org/covers/db0d31e4-cd0f-4775-95aa-9c65c4081186/429f72fd-b64e-4741-a8ad-f8d97c46a4aa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": null,
+        "aniId": 123187,
+        "deletedAt": null,
+        "authors": [
+          "Rusena (루즌아)",
+          "보로콤"
+        ]
+      }
+    }
+  }
 }

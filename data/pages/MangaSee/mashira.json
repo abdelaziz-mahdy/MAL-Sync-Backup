@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-02T04:30:14.172Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-09-16T16:20:00.000Z",
   "checkedAt": "2022-06-02T04:30:14.000Z",
   "id": 106130,
   "identifier": "mashira",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 107930,
+  "aniId": 99325,
   "deletedAt": null,
   "authors": [
     "UCHIMIZU Tooru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:07.000Z",
+    "updatedAt": "2022-05-16T04:39:53.000Z",
+    "checkedAt": "2022-05-16T04:39:53.000Z",
+    "id": 107930,
+    "type": "manga",
+    "title": "Mashira: Satsuriku no Mura",
+    "altTitle": [
+      "マシラ ―殺戮の村―"
+    ],
+    "url": "https://myanimelist.net/manga/107930/Mashira__Satsuriku_no_Mura",
+    "image": "https://cdn.myanimelist.net/images/manga/1/201023.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://chancro.jp/comics/mashira"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uchimizu, Tooru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:23.287Z",
+    "updatedAt": "2022-05-16T04:39:52.000Z",
+    "checkedAt": "2022-05-16T04:39:52.000Z",
+    "id": 99325,
+    "type": "manga",
+    "title": "Mashira: Satsuriku no Mura",
+    "altTitle": [
+      "マシラ ―殺戮の村―",
+      "Mashira - The Village of Slaughter"
+    ],
+    "url": "https://anilist.co/manga/99325",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99325-go9Zfk1YIGaT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 107930,
+    "deletedAt": null,
+    "authors": [
+      "Tooru Uchimizu"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:56.000Z",
-  "updatedAt": "2021-12-07T23:08:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-16T16:14:48.000Z",
+  "checkedAt": "2022-09-16T13:30:13.000Z",
   "id": 36138,
   "identifier": "33833f5c-6556-45af-ae5b-93629bbcee2d",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 144531,
+  "aniId": 123007,
   "deletedAt": null,
   "authors": [
     "Edogawa Osamu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-16T13:30:03.457Z",
+    "updatedAt": "2022-09-16T13:30:03.457Z",
+    "checkedAt": "2022-09-16T13:30:03.000Z",
+    "id": 144531,
+    "type": "manga",
+    "title": "Mother",
+    "altTitle": [
+      "Countdown",
+      "Nigai Akumu",
+      "Bitter Nightmare",
+      "Aijin to Boku",
+      "Maou no Kubi",
+      "Anokoro Taxi",
+      "マザー"
+    ],
+    "url": "https://myanimelist.net/manga/144531/Mother",
+    "image": "https://cdn.myanimelist.net/images/manga/1/256592.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Edogawa, Osamu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:02.045Z",
+    "updatedAt": "2022-09-16T13:30:13.000Z",
+    "checkedAt": "2022-09-16T13:30:13.000Z",
+    "id": 123007,
+    "type": "manga",
+    "title": "Mother",
+    "altTitle": [
+      "マザー"
+    ],
+    "url": "https://anilist.co/manga/123007",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123007-ea5y7RDXqpHd.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144531,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Edogawa"
+    ]
+  }
 }

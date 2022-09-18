@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-03-14T17:09:22.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-09-12T14:20:00.000Z",
   "checkedAt": "2022-05-13T16:40:42.000Z",
   "id": 65647,
   "identifier": "doctors-rebirth",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 151060,
+  "aniId": 129579,
   "deletedAt": null,
   "authors": [
     "Dobin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-10T20:00:01.217Z",
+    "updatedAt": "2022-09-10T20:00:01.217Z",
+    "checkedAt": "2022-09-10T20:00:01.000Z",
+    "id": 151060,
+    "type": "manga",
+    "title": "Doctor's Rebirth",
+    "altTitle": [
+      "Uiwon, Dasi Salda",
+      "의원, 다시 살다"
+    ],
+    "url": "https://myanimelist.net/manga/151060/Doctors_Rebirth",
+    "image": "https://cdn.myanimelist.net/images/manga/3/267931.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55989064"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Taesun",
+      "Dobin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:03.254Z",
+    "updatedAt": "2022-09-12T14:09:25.000Z",
+    "checkedAt": "2022-09-12T14:09:25.000Z",
+    "id": 129579,
+    "type": "manga",
+    "title": "Uiwon, Dasi Salda",
+    "altTitle": [
+      "의원, 다시 살다",
+      "Doctor’s Rebirth"
+    ],
+    "url": "https://anilist.co/manga/129579",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129579-4CjDJYnWI8el.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151060,
+    "deletedAt": null,
+    "authors": [
+      "Tae-sun",
+      "Do-Bin"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:55:02.045Z",
-  "updatedAt": "2022-05-13T12:55:02.045Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-16T13:30:13.000Z",
+  "checkedAt": "2022-09-16T13:30:13.000Z",
   "id": 123007,
   "type": "manga",
   "title": "Mother",
@@ -18,5 +18,30 @@
   "authors": [
     "Osamu Edogawa"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "33833f5c-6556-45af-ae5b-93629bbcee2d": {
+        "createdAt": "2020-10-12T16:19:56.000Z",
+        "updatedAt": "2022-09-16T16:14:48.000Z",
+        "checkedAt": "2022-09-16T13:30:13.000Z",
+        "id": 36138,
+        "identifier": "33833f5c-6556-45af-ae5b-93629bbcee2d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mother",
+        "url": "https://mangadex.org/title/33833f5c-6556-45af-ae5b-93629bbcee2d",
+        "image": "https://uploads.mangadex.org/covers/33833f5c-6556-45af-ae5b-93629bbcee2d/3f314314-d463-44f6-9466-2fc928cb28bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 144531,
+        "aniId": 123007,
+        "deletedAt": null,
+        "authors": [
+          "Edogawa Osamu"
+        ]
+      }
+    }
+  }
 }

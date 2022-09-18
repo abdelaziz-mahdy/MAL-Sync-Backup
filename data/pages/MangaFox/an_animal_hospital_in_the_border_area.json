@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-08-08T19:39:53.000Z",
-  "updatedAt": "2022-02-08T20:09:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-12T14:20:00.000Z",
+  "checkedAt": "2022-09-12T12:30:12.000Z",
   "id": 84872,
   "identifier": "an_animal_hospital_in_the_border_area",
   "type": "manga",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151535,
+  "aniId": 143373,
   "deletedAt": null,
   "authors": [
     "Ecira",
     "Hari"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-12T12:30:11.616Z",
+    "updatedAt": "2022-09-12T12:30:11.616Z",
+    "checkedAt": "2022-09-12T12:30:11.000Z",
+    "id": 151535,
+    "type": "manga",
+    "title": "The Legendary Beasts Animal Hospital",
+    "altTitle": [
+      "An Animal Hospital in the Border Area",
+      "Jeopgyeongjiyeog-ui Dongmul Byeongwon",
+      "The Legendary Beasts Animal Hospital",
+      "접경지역의 동물병원"
+    ],
+    "url": "https://myanimelist.net/manga/151535/The_Legendary_Beasts_Animal_Hospital",
+    "image": "https://cdn.myanimelist.net/images/manga/1/268326.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56012666"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ecira",
+      "Choi, Palho"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:56.902Z",
+    "updatedAt": "2022-09-12T14:09:45.000Z",
+    "checkedAt": "2022-09-12T14:09:45.000Z",
+    "id": 143373,
+    "type": "manga",
+    "title": "Jeopgyeongjiyeogui Dongmul Byeongwon",
+    "altTitle": [
+      "The Legendary Beasts Animal Hospital",
+      "접경지역의 동물병원",
+      "An Animal Hospital in the Border Area",
+      "An Animal Hospital Near The Border Area",
+      "โรงพยาบาลสัตว์ไร้พรมแดน"
+    ],
+    "url": "https://anilist.co/manga/143373",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143373-cMt7wGZiszwJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151535,
+    "deletedAt": null,
+    "authors": [
+      "Hari",
+      "Man-Dal",
+      "Pal-Ho Choi"
+    ]
+  }
 }
