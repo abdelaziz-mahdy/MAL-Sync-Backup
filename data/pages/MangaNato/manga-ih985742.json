@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-04T23:19:49.000Z",
-  "updatedAt": "2022-06-13T22:02:10.000Z",
+  "updatedAt": "2022-09-19T19:20:00.000Z",
   "checkedAt": "2022-06-13T22:02:10.000Z",
   "id": 76587,
   "identifier": "manga-ih985742",
@@ -12,13 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147713,
+  "aniId": 120088,
   "deletedAt": null,
   "authors": [
     "자은향"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:00:09.326Z",
+    "updatedAt": "2022-06-07T13:00:09.326Z",
+    "checkedAt": "2022-06-07T13:00:09.000Z",
+    "id": 147713,
+    "type": "manga",
+    "title": "Just Leave Me Be",
+    "altTitle": [
+      "I Want You to Throw Me Away",
+      "Na-reul Beoryeo Juseyo",
+      "Just Leave Me Be",
+      "나를 버려주세요"
+    ],
+    "url": "https://myanimelist.net/manga/147713/Just_Leave_Me_Be",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262026.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54934782"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jaeunhyang",
+      "Chero"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:13.541Z",
+    "updatedAt": "2022-06-08T07:54:26.000Z",
+    "checkedAt": "2022-06-08T07:54:26.000Z",
+    "id": 120088,
+    "type": "manga",
+    "title": "Nareul Beoryeojuseyo",
+    "altTitle": [
+      "Just Leave Me Be",
+      "나를 버려주세요",
+      "I Want You to Throw Me Away",
+      "Please Leave Me Behind",
+      "Please Throw Me Away",
+      "私を捨ててください",
+      "请拋弃我",
+      "Throw Me Away"
+    ],
+    "url": "https://anilist.co/manga/120088",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120088-mtk6tyI00u7a.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147713,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Hyang Ja",
+      "Chero",
+      "Kotavi"
+    ]
+  }
 }

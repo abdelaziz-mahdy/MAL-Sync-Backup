@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-31T18:00:11.733Z",
-  "updatedAt": "2022-05-31T18:00:11.000Z",
+  "updatedAt": "2022-09-20T08:20:00.000Z",
   "checkedAt": "2022-05-31T18:00:11.000Z",
   "id": 106001,
   "identifier": "8ce397a7-62e7-4aae-8c38-ae1cf72fd5a4",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 151757,
+  "aniId": 135015,
   "deletedAt": null,
   "authors": [
     "Dopamine (도파민)",
     "Gu-sa (구사)",
     "(김태형) Kim Tae-Hyung"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-19T17:00:01.524Z",
+    "updatedAt": "2022-09-19T17:00:01.524Z",
+    "checkedAt": "2022-09-19T17:00:01.000Z",
+    "id": 151757,
+    "type": "manga",
+    "title": "My Royal Awakening",
+    "altTitle": [
+      "I Shall Live as a Prince",
+      "Daegun-euro Sareoriratda",
+      "My Royal Awakening",
+      "대군으로 살어리랏다"
+    ],
+    "url": "https://myanimelist.net/manga/151757/My_Royal_Awakening",
+    "image": "https://cdn.myanimelist.net/images/manga/1/268652.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=55591955"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Tae-Hyung",
+      "Gusa"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:48.039Z",
+    "updatedAt": "2022-09-20T07:58:12.000Z",
+    "checkedAt": "2022-09-20T07:58:12.000Z",
+    "id": 135015,
+    "type": "manga",
+    "title": "Daeguneuro Sareoriratda",
+    "altTitle": [
+      "My Royal Awakening",
+      "대군으로 살어리랏다",
+      "I Shall Live as a Prince"
+    ],
+    "url": "https://anilist.co/manga/135015",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135015-VnuJlXrJmMUA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151757,
+    "deletedAt": null,
+    "authors": [
+      "Gusa",
+      "Tae-Hyeong Kim",
+      "Dopamine"
+    ]
+  }
 }

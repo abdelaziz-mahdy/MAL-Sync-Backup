@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-03T01:34:07.000Z",
-  "updatedAt": "2022-09-17T16:30:18.000Z",
+  "updatedAt": "2022-09-18T15:38:12.000Z",
   "checkedAt": "2022-09-17T16:30:18.000Z",
   "id": 80685,
   "identifier": "manga-gw983479",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148136,
+  "aniId": 115848,
   "deletedAt": null,
   "authors": [
     "Jae Ah",
     "Han Ga Ram"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-26T19:00:03.446Z",
+    "updatedAt": "2022-06-26T19:00:03.446Z",
+    "checkedAt": "2022-06-26T19:00:03.000Z",
+    "id": 148136,
+    "type": "manga",
+    "title": "Neolithic Girl",
+    "altTitle": [
+      "Cavewoman",
+      "Sinseokgi-nyeo",
+      "Neolithic Girl",
+      "신석기녀"
+    ],
+    "url": "https://myanimelist.net/manga/148136/Neolithic_Girl",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263361.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=703308"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jaeah",
+      "Han, Garam"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:51.604Z",
+    "updatedAt": "2022-06-27T14:07:12.000Z",
+    "checkedAt": "2022-06-27T14:07:12.000Z",
+    "id": 115848,
+    "type": "manga",
+    "title": "Sinseoggi Nyeo",
+    "altTitle": [
+      "Neolithic Girl",
+      "신석기녀",
+      "Neolith Girl",
+      "Cavewoman"
+    ],
+    "url": "https://anilist.co/manga/115848",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115848-NwR3chJmAAQQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148136,
+    "deletedAt": null,
+    "authors": [
+      "Jaea",
+      "Ga-Ram Han"
+    ]
+  }
 }

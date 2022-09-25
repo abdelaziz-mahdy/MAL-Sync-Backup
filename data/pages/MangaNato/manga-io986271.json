@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-29T10:13:36.000Z",
-  "updatedAt": "2021-11-29T10:37:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-20T07:56:20.000Z",
+  "checkedAt": "2022-09-19T21:30:05.000Z",
   "id": 73678,
   "identifier": "manga-io986271",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 127112,
+  "aniId": 121410,
   "deletedAt": null,
   "authors": [
     "Kaya (カヤ)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-09T19:13:45.000Z",
+    "updatedAt": "2022-05-24T19:05:44.000Z",
+    "checkedAt": "2022-05-24T19:05:44.000Z",
+    "id": 127112,
+    "type": "manga",
+    "title": "Tensei Youjo wa Akiramenai",
+    "altTitle": [
+      "Reincarnation's little girl never gives up",
+      "転生幼女はあきらめない"
+    ],
+    "url": "https://myanimelist.net/manga/127112/Tensei_Youjo_wa_Akiramenai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/242354.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magcomi.com/episode/13933686331650787935"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mikabe, Sesuna",
+      "Kaya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:54.199Z",
+    "updatedAt": "2022-05-24T19:05:43.000Z",
+    "checkedAt": "2022-05-24T19:05:43.000Z",
+    "id": 121410,
+    "type": "manga",
+    "title": "Tensei Youjo wa Akiramenai",
+    "altTitle": [
+      "転生幼女はあきらめない",
+      "Reincarnation's little girl never gives up",
+      "The Reborn Little Girl Won't Give Up",
+      "Reincarnated Little Girl Never Gives Up"
+    ],
+    "url": "https://anilist.co/manga/121410",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121410-8e2IxYEkwEh4.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 127112,
+    "deletedAt": null,
+    "authors": [
+      "Kaya",
+      "Sesuna Mikabe",
+      "Mo"
+    ]
+  }
 }

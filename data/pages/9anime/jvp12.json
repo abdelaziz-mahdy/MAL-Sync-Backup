@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-20T13:00:06.470Z",
-  "updatedAt": "2022-07-20T14:00:05.000Z",
+  "updatedAt": "2022-09-20T07:55:54.000Z",
   "checkedAt": "2022-07-20T13:00:06.000Z",
   "id": 41486,
   "identifier": "jvp12",
@@ -12,15 +12,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 51492,
   "aniId": 148334,
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-22T04:30:02.842Z",
+    "updatedAt": "2022-07-22T04:30:02.842Z",
+    "checkedAt": "2022-07-22T04:30:02.000Z",
+    "id": 51492,
+    "type": "anime",
+    "title": "Xian Mu",
+    "altTitle": [
+      "仙墓"
+    ],
+    "url": "https://myanimelist.net/anime/51492/Xian_Mu",
+    "image": "https://cdn.myanimelist.net/images/anime/1317/122191.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/x/mzc0020017vjb8z.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
   "Ani": {
     "createdAt": "2022-05-03T06:30:22.000Z",
-    "updatedAt": "2022-07-20T22:00:02.000Z",
-    "checkedAt": "2022-07-20T22:00:02.000Z",
+    "updatedAt": "2022-09-20T07:57:38.000Z",
+    "checkedAt": "2022-09-20T07:57:38.000Z",
     "id": 148334,
     "type": "anime",
     "title": "Xian Mu",
@@ -33,7 +56,7 @@
     "category": "ona",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 51492,
     "deletedAt": null
   }
 }

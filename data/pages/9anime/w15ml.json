@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-24T09:30:08.461Z",
-  "updatedAt": "2022-08-24T09:30:08.000Z",
+  "updatedAt": "2022-09-18T15:37:56.000Z",
   "checkedAt": "2022-08-24T09:30:08.000Z",
   "id": 42809,
   "identifier": "w15ml",
@@ -12,15 +12,40 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 53055,
   "aniId": 146886,
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-18T09:00:11.277Z",
+    "updatedAt": "2022-09-18T09:00:11.277Z",
+    "checkedAt": "2022-09-18T09:00:11.000Z",
+    "id": 53055,
+    "type": "anime",
+    "title": "Jian Yu Yuanzheng: Insomnia De Naxie Shier",
+    "altTitle": [
+      "AFK Arena",
+      "Just Esperia Things",
+      "剑与远征-伊索米亚的那些事儿"
+    ],
+    "url": "https://myanimelist.net/anime/53055/Jian_Yu_Yuanzheng__Insomnia_De_Naxie_Shier",
+    "image": "https://cdn.myanimelist.net/images/anime/1535/128040.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28237065/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
   "Ani": {
     "createdAt": "2022-03-30T13:30:17.000Z",
-    "updatedAt": "2022-09-03T21:00:01.000Z",
-    "checkedAt": "2022-09-03T21:00:01.000Z",
+    "updatedAt": "2022-09-20T07:57:40.000Z",
+    "checkedAt": "2022-09-20T07:57:40.000Z",
     "id": 146886,
     "type": "anime",
     "title": "Jian Yu Yuanzheng - Insomnia De Naxie Shier",
@@ -34,7 +59,7 @@
     "category": "ona",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 53055,
     "deletedAt": null
   }
 }

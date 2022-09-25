@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-01T16:01:19.000Z",
-  "updatedAt": "2021-12-01T16:24:18.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-18T15:20:00.000Z",
+  "checkedAt": "2022-09-18T08:00:00.000Z",
   "id": 75477,
   "identifier": "manga-gz983434",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 123519,
+  "aniId": 116981,
   "deletedAt": null,
   "authors": [
     "Shinichirou Nariie"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-04T06:54:45.000Z",
+    "updatedAt": "2022-05-22T21:38:03.000Z",
+    "checkedAt": "2022-05-22T21:38:03.000Z",
+    "id": 123519,
+    "type": "manga",
+    "title": "Food Court de, Mata Ashita.",
+    "altTitle": [
+      "See You at the Food Court Tomorrow.",
+      "Food Court de Joshikousei ga Shaberu daku",
+      "See You Tomorrow at the Food Court",
+      "フードコートで、また明日。"
+    ],
+    "url": "https://myanimelist.net/manga/123519/Food_Court_de_Mata_Ashita",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245136.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.webnewtype.com/contents/foodcourtjk/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Naruse, Yoshiki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:42.202Z",
+    "updatedAt": "2022-05-22T21:38:01.000Z",
+    "checkedAt": "2022-05-22T21:38:01.000Z",
+    "id": 116981,
+    "type": "manga",
+    "title": "Food Court de, Mata Ashita.",
+    "altTitle": [
+      "See You Tomorrow at the Food Court",
+      "フードコートで、また明日。",
+      "Food Court de Joshikousei ga Shaberu dake",
+      "フードコートで女子高生が喋るだけ"
+    ],
+    "url": "https://anilist.co/manga/116981",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116981-jnWUzccvQtLY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 123519,
+    "deletedAt": null,
+    "authors": [
+      "Shinichirou Naruie"
+    ]
+  }
 }

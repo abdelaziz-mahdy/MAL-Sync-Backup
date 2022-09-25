@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-29T01:12:23.000Z",
-  "updatedAt": "2022-05-13T21:31:02.000Z",
+  "updatedAt": "2022-09-18T16:20:00.000Z",
   "checkedAt": "2022-05-13T21:31:02.000Z",
   "id": 73226,
   "identifier": "manga-jy987133",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147916,
+  "aniId": 125377,
   "deletedAt": null,
   "authors": [
     "Vertwo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-10T00:00:07.825Z",
+    "updatedAt": "2022-06-10T00:00:07.825Z",
+    "checkedAt": "2022-06-10T00:00:07.000Z",
+    "id": 147916,
+    "type": "manga",
+    "title": "The Max Level Returner",
+    "altTitle": [
+      "Na Honja Man-Level Gwihanja",
+      "The Max Level Returner",
+      "나 혼자 만렙 귀환자"
+    ],
+    "url": "https://myanimelist.net/manga/147916/The_Max_Level_Returner",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262521.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/55822637"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Honey",
+      "Vertwo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:03.156Z",
+    "updatedAt": "2022-06-10T07:28:10.000Z",
+    "checkedAt": "2022-06-10T07:28:10.000Z",
+    "id": 125377,
+    "type": "manga",
+    "title": "Na Honja Mallep Gwihwanja",
+    "altTitle": [
+      "The Max Level Returner",
+      "나 혼자 만렙 귀환자",
+      "Max Level Returner",
+      "MLR"
+    ],
+    "url": "https://anilist.co/manga/125377",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125377-Vu0XBoZwMufm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147916,
+    "deletedAt": null,
+    "authors": [
+      "Ji-Deuk Lee",
+      "Honey",
+      "Vertwo"
+    ]
+  }
 }

@@ -7,13 +7,13 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 <!--statstable-->
 | Page      | Total | MalID | noMalID | AniID | noAniID |
 | --------- | ----- | ----- | ------- | ----- | ------- |
-| 9anime    | 10772 | 10373 | 399     | 9881  | 891     |
-| Gogoanime | 10193 | 9759  | 434     | 9594  | 599     |
-| Tenshi    | 492   | 486   | 6       | 483   | 9       |
-| Mangadex  | 55791 | 27812 | 27979   | 30305 | 25486   |
-| MangaFox  | 11083 | 6787  | 4296    | 6846  | 4237    |
-| MangaSee  | 6901  | 6092  | 809     | 6129  | 772     |
-| MangaNato | 16136 | 9104  | 7032    | 9968  | 6168    |
+| 9anime    | 10797 | 10397 | 400     | 9893  | 904     |
+| Gogoanime | 10202 | 9767  | 435     | 9600  | 602     |
+| Tenshi    | 508   | 501   | 7       | 498   | 10      |
+| Mangadex  | 56079 | 27878 | 28201   | 30376 | 25703   |
+| MangaFox  | 11114 | 6806  | 4308    | 6861  | 4253    |
+| MangaSee  | 6901  | 6095  | 806     | 6135  | 766     |
+| MangaNato | 16295 | 9182  | 7113    | 10050 | 6245    |
 <!--/statstable-->
 
 ## Structure

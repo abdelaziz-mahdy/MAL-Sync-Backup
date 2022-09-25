@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-12-09T16:04:43.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-09-22T21:20:00.000Z",
   "checkedAt": "2022-05-13T20:09:29.000Z",
   "id": 92834,
   "identifier": "rookie-talent-agent-knows-it-all",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151778,
+  "aniId": 138624,
   "deletedAt": null,
   "authors": [
     "HYEON Shin",
     "Muta"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-20T22:00:03.887Z",
+    "updatedAt": "2022-09-20T22:00:03.887Z",
+    "checkedAt": "2022-09-20T22:00:03.000Z",
+    "id": 151778,
+    "type": "manga",
+    "title": "Rookie Talent Agent Knows It All",
+    "altTitle": [
+      "1st Year Max Level Manager",
+      "1-nyeoncha Man-Level Manager",
+      "Rookie Talent Agent Knows It All",
+      "1년차 만렙 매니저"
+    ],
+    "url": "https://myanimelist.net/manga/151778/Rookie_Talent_Agent_Knows_It_All",
+    "image": "https://cdn.myanimelist.net/images/manga/1/268683.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57369982"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hyeonsin",
+      "Muta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:03.289Z",
+    "updatedAt": "2022-09-22T20:22:22.000Z",
+    "checkedAt": "2022-09-22T20:22:22.000Z",
+    "id": 138624,
+    "type": "manga",
+    "title": "1-nyeoncha Mallem Maenijeo",
+    "altTitle": [
+      "Rookie Talent Agent Knows It All",
+      "1년차 만렙 매니저",
+      "1st Year Max Level Manager  "
+    ],
+    "url": "https://anilist.co/manga/138624",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138624-YfgMnloqSoHU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151778,
+    "deletedAt": null,
+    "authors": [
+      "Mu-Ta",
+      "Hyeon-Sin"
+    ]
+  }
 }

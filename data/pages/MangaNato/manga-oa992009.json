@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-17T10:30:00.717Z",
-  "updatedAt": "2022-08-17T10:30:00.000Z",
+  "updatedAt": "2022-09-18T14:41:05.000Z",
   "checkedAt": "2022-08-17T10:30:00.000Z",
   "id": 112632,
   "identifier": "manga-oa992009",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 151680,
   "aniId": 146354,
   "deletedAt": null,
   "authors": [
@@ -21,15 +21,43 @@
     "Hezio95",
     "Pearlluck"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-17T22:30:01.043Z",
+    "updatedAt": "2022-09-17T22:30:01.043Z",
+    "checkedAt": "2022-09-17T22:30:01.000Z",
+    "id": 151680,
+    "type": "manga",
+    "title": "Rescue System",
+    "altTitle": [
+      "Rescue System",
+      "레스큐 시스템"
+    ],
+    "url": "https://myanimelist.net/manga/151680/Rescue_System",
+    "image": "https://cdn.myanimelist.net/images/manga/3/268571.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58825252"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Guyu",
+      "Hong, Sangki"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:35.994Z",
-    "updatedAt": "2022-05-19T22:33:48.000Z",
-    "checkedAt": "2022-05-19T22:33:48.000Z",
+    "updatedAt": "2022-09-20T07:59:07.000Z",
+    "checkedAt": "2022-09-20T07:59:07.000Z",
     "id": 146354,
     "type": "manga",
     "title": "Rescue System",
     "altTitle": [
+      "Rescue System",
       "레스큐 시스템"
     ],
     "url": "https://anilist.co/manga/146354",
@@ -37,7 +65,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151680,
     "deletedAt": null,
     "authors": [
       "Sang-Gi Hong",

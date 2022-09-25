@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-13T13:00:02.095Z",
-  "updatedAt": "2022-07-13T13:00:02.000Z",
+  "updatedAt": "2022-09-18T15:38:45.000Z",
   "checkedAt": "2022-07-13T13:00:02.000Z",
   "id": 109589,
   "identifier": "83cc2814-04e4-4434-9876-ba7eaafd32f5",
@@ -12,19 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 151603,
   "aniId": 149330,
   "deletedAt": null,
   "authors": [
     "Rascca",
     "fn_momo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-16T19:00:01.499Z",
+    "updatedAt": "2022-09-16T19:00:01.499Z",
+    "checkedAt": "2022-09-16T19:00:01.000Z",
+    "id": 151603,
+    "type": "manga",
+    "title": "In This Life, I Am the Master",
+    "altTitle": [
+      "이번 생은 내가 주인입니다"
+    ],
+    "url": "https://myanimelist.net/manga/151603/In_This_Life_I_Am_the_Master",
+    "image": "https://cdn.myanimelist.net/images/manga/1/268474.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/59111743"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Momo",
+      "Rascca"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-18T23:00:01.269Z",
-    "updatedAt": "2022-05-18T23:00:01.269Z",
-    "checkedAt": "2022-05-18T23:00:01.000Z",
+    "updatedAt": "2022-09-20T07:58:54.000Z",
+    "checkedAt": "2022-09-20T07:58:54.000Z",
     "id": 149330,
     "type": "manga",
     "title": "Ibeon Saengeun Naega Juinimnida",
@@ -37,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151603,
     "deletedAt": null,
     "authors": [
       "Rascca",

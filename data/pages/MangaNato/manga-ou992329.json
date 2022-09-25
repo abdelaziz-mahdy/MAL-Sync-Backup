@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-15T02:30:05.167Z",
-  "updatedAt": "2022-09-15T02:30:05.000Z",
+  "updatedAt": "2022-09-24T16:20:00.000Z",
   "checkedAt": "2022-09-15T02:30:05.000Z",
   "id": 114475,
   "identifier": "manga-ou992329",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 138347,
+  "aniId": 136449,
   "deletedAt": null,
   "authors": [
     "Shitaranana"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-11-28T12:37:05.000Z",
+    "updatedAt": "2022-05-18T16:32:37.000Z",
+    "checkedAt": "2022-05-18T16:32:37.000Z",
+    "id": 138347,
+    "type": "manga",
+    "title": "Musabime Nemuri wa Shite Kurenaku mo Nai",
+    "altTitle": [
+      "結目ねむりはシテくれなくもない"
+    ],
+    "url": "https://myanimelist.net/manga/138347/Musabime_Nemuri_wa_Shite_Kurenaku_mo_Nai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/252752.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://dengekidaioh.jp/product/musubimenemuri"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shitara, Nana"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:20.606Z",
+    "updatedAt": "2022-06-28T12:38:39.000Z",
+    "checkedAt": "2022-06-28T12:38:39.000Z",
+    "id": 136449,
+    "type": "manga",
+    "title": "Musubime Nemuri wa Shitekure na Kumo Nai",
+    "altTitle": [
+      "結目ねむりはシテくれなくもない"
+    ],
+    "url": "https://anilist.co/manga/136449",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136449-1WUx3qFXncej.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 138347,
+    "deletedAt": null,
+    "authors": [
+      "Shitaranana"
+    ]
+  }
 }

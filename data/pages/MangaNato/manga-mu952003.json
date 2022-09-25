@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-01T14:50:18.000Z",
-  "updatedAt": "2021-12-31T14:53:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-19T19:18:28.000Z",
+  "checkedAt": "2022-09-18T22:00:06.000Z",
   "id": 80617,
   "identifier": "manga-mu952003",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 87659,
+  "aniId": 86596,
   "deletedAt": null,
   "authors": [
     "Aki Eda"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:55.000Z",
+    "updatedAt": "2022-05-16T09:31:30.000Z",
+    "checkedAt": "2022-05-16T09:31:30.000Z",
+    "id": 87659,
+    "type": "manga",
+    "title": "Koi wa Hikari",
+    "altTitle": [
+      "Love is Light",
+      "恋は光"
+    ],
+    "url": "https://myanimelist.net/manga/87659/Koi_wa_Hikari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/152602.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%AF%E5%85%89"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aki★Eda"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:10.217Z",
+    "updatedAt": "2022-05-16T09:31:28.000Z",
+    "checkedAt": "2022-05-16T09:31:28.000Z",
+    "id": 86596,
+    "type": "manga",
+    "title": "Koi wa Hikari",
+    "altTitle": [
+      "Koi wa Hikari",
+      "恋は光",
+      "Light is Love"
+    ],
+    "url": "https://anilist.co/manga/86596",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86596-NuJNVRXJ4afj.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 87659,
+    "deletedAt": null,
+    "authors": [
+      "Aki Eda"
+    ]
+  }
 }

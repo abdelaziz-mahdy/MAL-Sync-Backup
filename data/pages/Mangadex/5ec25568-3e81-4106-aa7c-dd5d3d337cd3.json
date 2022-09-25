@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-10T03:00:03.439Z",
-  "updatedAt": "2022-09-10T03:00:03.000Z",
+  "updatedAt": "2022-09-19T19:17:56.000Z",
   "checkedAt": "2022-09-10T03:00:03.000Z",
   "id": 114154,
   "identifier": "5ec25568-3e81-4106-aa7c-dd5d3d337cd3",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 151467,
+  "aniId": 154234,
   "deletedAt": null,
   "authors": [
     "Shota Kuda"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-19T09:00:00.966Z",
+    "updatedAt": "2022-09-19T09:00:00.966Z",
+    "checkedAt": "2022-09-19T09:00:00.000Z",
+    "id": 151467,
+    "type": "manga",
+    "title": "Gal Assistant",
+    "altTitle": [
+      "ぎゃるアシ"
+    ],
+    "url": "https://myanimelist.net/manga/151467/Gal_Assistant",
+    "image": "https://cdn.myanimelist.net/images/manga/3/268433.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/316112896806667120"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuda, Shouta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-09-10T03:00:14.142Z",
+    "updatedAt": "2022-09-20T07:59:15.000Z",
+    "checkedAt": "2022-09-20T07:59:15.000Z",
+    "id": 154234,
+    "type": "manga",
+    "title": "Gal Assi",
+    "altTitle": [
+      "ぎゃるアシ ",
+      "Gal Assistant",
+      "Gyaru Assistant"
+    ],
+    "url": "https://anilist.co/manga/154234",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154234-gPozLuHOmbzM.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151467,
+    "deletedAt": null,
+    "authors": [
+      "Shouta Kyuuda"
+    ]
+  }
 }
