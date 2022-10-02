@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-28T19:23:45.000Z",
-  "updatedAt": "2022-06-06T13:00:01.000Z",
+  "updatedAt": "2022-09-29T14:20:00.000Z",
   "checkedAt": "2022-06-06T13:00:01.000Z",
   "id": 72908,
   "identifier": "manga-kk988045",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 147901,
+  "aniId": 129917,
   "deletedAt": null,
   "authors": [
     "수수",
     "연재중"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-09T18:30:16.679Z",
+    "updatedAt": "2022-06-09T18:30:16.679Z",
+    "checkedAt": "2022-06-09T18:30:16.000Z",
+    "id": 147901,
+    "type": "manga",
+    "title": "I Don't Love You Anymore",
+    "altTitle": [
+      "Deo Isang Saranghaji Anneunda",
+      "I Don't Love You Anymore",
+      "더 이상 사랑하지 않는다"
+    ],
+    "url": "https://myanimelist.net/manga/147901/I_Dont_Love_You_Anymore",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262500.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/56215360"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Eun, Hayoon",
+      "Susu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:51.130Z",
+    "updatedAt": "2022-06-10T07:28:28.000Z",
+    "checkedAt": "2022-06-10T07:28:28.000Z",
+    "id": 129917,
+    "type": "manga",
+    "title": "Deo Isang Saranghaji Anneunda",
+    "altTitle": [
+      "I Don't Love You Anymore",
+      "더 이상 사랑하지 않는다",
+      " I Don't Love You Anymore"
+    ],
+    "url": "https://anilist.co/manga/129917",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129917-FE3ul4gPtzeM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147901,
+    "deletedAt": null,
+    "authors": [
+      "Susu",
+      "Hae-Yun Eun"
+    ]
+  }
 }

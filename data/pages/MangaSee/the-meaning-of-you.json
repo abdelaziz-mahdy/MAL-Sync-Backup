@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-13T18:34:51.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-09-25T17:29:15.000Z",
   "checkedAt": "2022-06-21T00:30:23.000Z",
   "id": 87106,
   "identifier": "the-meaning-of-you",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 152020,
   "aniId": null,
   "deletedAt": null,
   "authors": [
@@ -21,6 +21,34 @@
     "LEE Sorog",
     "Yeyoung"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-25T17:00:13.802Z",
+    "updatedAt": "2022-09-25T17:00:13.802Z",
+    "checkedAt": "2022-09-25T17:00:13.000Z",
+    "id": 152020,
+    "type": "manga",
+    "title": "The Meaning of You",
+    "altTitle": [
+      "Your Meaning",
+      "The Meaning of You",
+      "너의 의미"
+    ],
+    "url": "https://myanimelist.net/manga/152020/The_Meaning_of_You",
+    "image": "https://cdn.myanimelist.net/images/manga/3/269087.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/56193888"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Tilda",
+      "Lee, Sorok"
+    ]
+  },
   "Ani": null
 }

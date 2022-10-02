@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-24T22:00:34.024Z",
-  "updatedAt": "2022-06-24T22:00:34.000Z",
+  "updatedAt": "2022-09-25T17:28:40.000Z",
   "checkedAt": "2022-06-24T22:00:34.000Z",
   "id": 108121,
   "identifier": "d27fa8ed-dfe7-4bd2-aff5-46119875ffe8",
@@ -12,19 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 151594,
   "aniId": 146990,
   "deletedAt": null,
   "authors": [
     "Woo Su bin",
     "Shainea"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-24T19:00:02.780Z",
+    "updatedAt": "2022-09-24T19:00:02.780Z",
+    "checkedAt": "2022-09-24T19:00:02.000Z",
+    "id": 151594,
+    "type": "manga",
+    "title": "From Maid to Queen",
+    "altTitle": [
+      "From Maid to Queen",
+      "하녀, 여왕이 되다"
+    ],
+    "url": "https://myanimelist.net/manga/151594/From_Maid_to_Queen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/268565.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/58876824"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shainea",
+      "Woo, Subin"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:15.243Z",
-    "updatedAt": "2022-06-24T22:00:34.000Z",
-    "checkedAt": "2022-06-24T22:00:34.000Z",
+    "updatedAt": "2022-09-28T11:03:08.000Z",
+    "checkedAt": "2022-09-28T11:03:08.000Z",
     "id": 146990,
     "type": "manga",
     "title": "Hanyeo, Yeowangi Doeda",
@@ -37,12 +64,13 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151594,
     "deletedAt": null,
     "authors": [
       "Hyeon",
       "Su-Bin U",
-      "Shainea"
+      "Shainea",
+      "Eul-Won Go"
     ]
   }
 }

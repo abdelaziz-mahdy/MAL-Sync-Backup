@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-24T01:25:40.000Z",
-  "updatedAt": "2022-02-24T01:48:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-09-28T00:30:01.000Z",
+  "checkedAt": "2022-09-28T00:30:01.000Z",
   "id": 63619,
   "identifier": "black_survival",
   "type": "manga",
@@ -11,14 +11,37 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/17741/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 99433,
   "deletedAt": null,
   "authors": [
     "Kwon Na Hyun"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:01.685Z",
+    "updatedAt": "2022-06-27T22:06:09.000Z",
+    "checkedAt": "2022-06-27T22:06:09.000Z",
+    "id": 99433,
+    "type": "manga",
+    "title": "Black Survival",
+    "altTitle": [
+      "Black Survival",
+      "블랙 서바이벌 - 그들이 살아남는 법",
+      "黑色幸存者"
+    ],
+    "url": "https://anilist.co/manga/99433",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99433-HF0gGwuvu13i.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Na Hyun Kwon",
+      "K"
+    ]
+  }
 }

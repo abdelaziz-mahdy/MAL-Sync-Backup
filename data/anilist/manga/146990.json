@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:45:15.243Z",
-  "updatedAt": "2022-06-24T22:00:34.000Z",
-  "checkedAt": "2022-06-24T22:00:34.000Z",
+  "updatedAt": "2022-09-28T11:03:08.000Z",
+  "checkedAt": "2022-09-28T11:03:08.000Z",
   "id": 146990,
   "type": "manga",
   "title": "Hanyeo, Yeowangi Doeda",
@@ -14,18 +14,19 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 151594,
   "deletedAt": null,
   "authors": [
     "Hyeon",
     "Su-Bin U",
-    "Shainea"
+    "Shainea",
+    "Eul-Won Go"
   ],
   "Pages": {
     "Mangadex": {
       "d27fa8ed-dfe7-4bd2-aff5-46119875ffe8": {
         "createdAt": "2022-06-24T22:00:34.024Z",
-        "updatedAt": "2022-06-24T22:00:34.000Z",
+        "updatedAt": "2022-09-25T17:28:40.000Z",
         "checkedAt": "2022-06-24T22:00:34.000Z",
         "id": 108121,
         "identifier": "d27fa8ed-dfe7-4bd2-aff5-46119875ffe8",
@@ -37,13 +38,38 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 2,
+        "malId": 151594,
         "aniId": 146990,
         "deletedAt": null,
         "authors": [
           "Woo Su bin",
           "Shainea"
+        ]
+      }
+    },
+    "MangaFox": {
+      "from_maid_to_queen": {
+        "createdAt": "2022-09-24T19:00:22.692Z",
+        "updatedAt": "2022-09-28T11:20:00.000Z",
+        "checkedAt": "2022-09-24T19:00:22.000Z",
+        "id": 115074,
+        "identifier": "from_maid_to_queen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "From Maid to Queen",
+        "url": "https://fanfox.net/manga/from_maid_to_queen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/41899/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 151594,
+        "aniId": 146990,
+        "deletedAt": null,
+        "authors": [
+          "Woo Su bin",
+          "[Add]"
         ]
       }
     }

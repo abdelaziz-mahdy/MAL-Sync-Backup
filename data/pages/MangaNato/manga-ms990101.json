@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-11-30T22:39:07.000Z",
-  "updatedAt": "2022-05-14T09:26:20.000Z",
+  "updatedAt": "2022-09-25T18:20:00.000Z",
   "checkedAt": "2022-05-14T09:26:20.000Z",
   "id": 92131,
   "identifier": "manga-ms990101",
@@ -12,14 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 150560,
+  "aniId": 141316,
   "deletedAt": null,
   "authors": [
     "Sanbo",
     "In Yong"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-19T16:00:13.927Z",
+    "updatedAt": "2022-08-19T16:00:13.927Z",
+    "checkedAt": "2022-08-19T16:00:13.000Z",
+    "id": 150560,
+    "type": "manga",
+    "title": "The Reborn Ranker Chronicles",
+    "altTitle": [
+      "Reincarnation of the Murim Clan's Former Ranker",
+      "Murim Sega Jeonsaeng Ranker",
+      "The Reborn Ranker Chronicles",
+      "무림세가 전생랭커"
+    ],
+    "url": "https://myanimelist.net/manga/150560/The_Reborn_Ranker_Chronicles",
+    "image": "https://cdn.myanimelist.net/images/manga/3/266880.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58108830"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sanbo",
+      "Inyong"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:45.862Z",
+    "updatedAt": "2022-08-29T20:45:28.000Z",
+    "checkedAt": "2022-08-29T20:45:28.000Z",
+    "id": 141316,
+    "type": "manga",
+    "title": "Murimsega Jeonsaengnaengkeo",
+    "altTitle": [
+      "The Reborn Ranker Chronicles",
+      "무림세가 전생랭커",
+      "Reincarnation of the Murim Clan’s Former Ranker",
+      "The Previous Life Murim Ranker",
+      "不死王的轮回"
+    ],
+    "url": "https://anilist.co/manga/141316",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141316-sgRotqliCTJX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 150560,
+    "deletedAt": null,
+    "authors": [
+      "StudioPlumB",
+      "Sanbo",
+      "In-Yong"
+    ]
+  }
 }

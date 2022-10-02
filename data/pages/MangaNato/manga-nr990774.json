@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-04-19T08:31:23.000Z",
-  "updatedAt": "2022-05-16T16:00:21.000Z",
+  "updatedAt": "2022-09-25T18:20:00.000Z",
   "checkedAt": "2022-05-16T16:00:21.000Z",
   "id": 101874,
   "identifier": "manga-nr990774",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148432,
+  "aniId": 145538,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-23T07:00:13.585Z",
+    "updatedAt": "2022-06-23T07:00:13.585Z",
+    "checkedAt": "2022-06-23T07:00:13.000Z",
+    "id": 148432,
+    "type": "manga",
+    "title": "The Crow's Prince",
+    "altTitle": [
+      "Of All Things, I Became a Crow",
+      "Hapir-imyeon Kkamagwi-ga Doeeo Beoryeotda",
+      "The Crow's Prince",
+      "하필이면 까마귀가 되어버렸다"
+    ],
+    "url": "https://myanimelist.net/manga/148432/The_Crows_Prince",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263429.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58649535"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Silvestar",
+      "Glee"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:14.573Z",
+    "updatedAt": "2022-06-23T14:04:53.000Z",
+    "checkedAt": "2022-06-23T14:04:53.000Z",
+    "id": 145538,
+    "type": "manga",
+    "title": "Hapirimyeon Kkamagwiga Doeeobeoryeotda",
+    "altTitle": [
+      "The Crow's Prince",
+      "하필이면 까마귀가 되어버렸다",
+      "Of all things, I Became a Crow.",
+      "I Have Become a Crow"
+    ],
+    "url": "https://anilist.co/manga/145538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145538-BJPvlJi94fUE.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148432,
+    "deletedAt": null,
+    "authors": [
+      "Geulli",
+      "Silvesta"
+    ]
+  }
 }

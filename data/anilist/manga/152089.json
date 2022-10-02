@@ -1,20 +1,23 @@
 {
   "createdAt": "2022-07-10T16:00:11.672Z",
-  "updatedAt": "2022-07-10T16:00:11.672Z",
-  "checkedAt": "2022-07-10T16:00:11.000Z",
+  "updatedAt": "2022-09-28T11:03:00.000Z",
+  "checkedAt": "2022-09-28T11:03:00.000Z",
   "id": 152089,
   "type": "manga",
   "title": "Hwangnyeo, Michin Kkocheuro Pieonada",
   "altTitle": [
     "황녀, 미친 꽃으로 피어나다",
-    "Princess Blooms into a Crazy Flower"
+    "Princess Blooms into a Crazy Flower",
+    "Princess Blooms as a Crazy Flower",
+    " La Princesa Florece Como Una Flor Loca",
+    "A Princesa Floresce como uma Flor Maluca"
   ],
   "url": "https://anilist.co/manga/152089",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152089-73WQgdssFJwM.png",
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 151824,
   "deletedAt": null,
   "authors": [
     "Mun-To",
@@ -25,7 +28,7 @@
     "MangaNato": {
       "manga-ni991317": {
         "createdAt": "2022-06-22T19:30:14.863Z",
-        "updatedAt": "2022-07-10T18:07:08.000Z",
+        "updatedAt": "2022-09-25T17:34:18.000Z",
         "checkedAt": "2022-06-22T19:30:14.000Z",
         "id": 107983,
         "identifier": "manga-ni991317",
@@ -37,13 +40,39 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": 1,
-        "malId": null,
+        "actorId": 2,
+        "malId": 151824,
         "aniId": 152089,
         "deletedAt": null,
         "authors": [
           "Han Bo-Yeon",
           "Hwang Man-Ju"
+        ]
+      }
+    },
+    "Mangadex": {
+      "7cf5586c-bd7e-4850-83c0-d58af561bf47": {
+        "createdAt": "2022-06-24T11:30:09.432Z",
+        "updatedAt": "2022-09-28T11:20:00.000Z",
+        "checkedAt": "2022-06-24T11:30:09.000Z",
+        "id": 108093,
+        "identifier": "7cf5586c-bd7e-4850-83c0-d58af561bf47",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Princess Blooms into a Crazy Flower",
+        "url": "https://mangadex.org/title/7cf5586c-bd7e-4850-83c0-d58af561bf47",
+        "image": "https://uploads.mangadex.org/covers/7cf5586c-bd7e-4850-83c0-d58af561bf47/37c4f8d8-815b-4861-8425-ceda17190429.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 151824,
+        "aniId": 152089,
+        "deletedAt": null,
+        "authors": [
+          "Han Bo-Yeon",
+          "Hwang Man-ju",
+          "Munto (문토)"
         ]
       }
     }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-29T21:30:06.689Z",
-  "updatedAt": "2022-08-29T21:30:06.000Z",
+  "updatedAt": "2022-09-25T17:28:32.000Z",
   "checkedAt": "2022-08-29T21:30:06.000Z",
   "id": 113480,
   "identifier": "the_baby_land_lord_is_retiring",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 151997,
   "aniId": 146024,
   "deletedAt": null,
   "authors": [
@@ -22,29 +22,61 @@
     "Toyosae",
     "[Add]"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-25T12:00:00.870Z",
+    "updatedAt": "2022-09-25T12:00:00.870Z",
+    "checkedAt": "2022-09-25T12:00:00.000Z",
+    "id": 151997,
+    "type": "manga",
+    "title": "The Little Landlady",
+    "altTitle": [
+      "The Baby Land Lord Is Retiring",
+      "The Baby Building Owner Is Retiring",
+      "The Little Landlady",
+      "아기 건물주는 이만 은퇴합니다"
+    ],
+    "url": "https://myanimelist.net/manga/151997/The_Little_Landlady",
+    "image": "https://cdn.myanimelist.net/images/manga/1/269010.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/58712950"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sam, Baekhwa",
+      "Pilmyeong"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:52:54.835Z",
-    "updatedAt": "2022-05-24T22:49:23.000Z",
-    "checkedAt": "2022-05-24T22:49:23.000Z",
+    "updatedAt": "2022-09-28T11:03:54.000Z",
+    "checkedAt": "2022-09-28T11:03:54.000Z",
     "id": 146024,
     "type": "manga",
     "title": "Agi Geonmuljuneun Iman Euntoehamnida",
     "altTitle": [
+      "The Little Landlady",
       "아기 건물주는 이만 은퇴합니다",
-      "The Baby Land Lord Is Retiring"
+      "The Baby Land Lord Is Retiring",
+      "赤ちゃん建築家、これにて引退させていただきます"
     ],
     "url": "https://anilist.co/manga/146024",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146024-2QoDFpoW3Kyf.png",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 151997,
     "deletedAt": null,
     "authors": [
       "Toyosae",
       "Pil-Myeong",
-      "Sambaek Wa"
+      "Sambaek Wa",
+      "Nodeul"
     ]
   }
 }

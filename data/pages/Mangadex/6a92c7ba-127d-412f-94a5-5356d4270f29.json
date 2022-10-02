@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-05-18T14:00:00.523Z",
-  "updatedAt": "2022-05-18T14:00:00.000Z",
+  "updatedAt": "2022-09-27T20:26:44.000Z",
   "checkedAt": "2022-05-18T14:00:00.000Z",
   "id": 104762,
   "identifier": "6a92c7ba-127d-412f-94a5-5356d4270f29",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 152082,
   "aniId": 146165,
   "deletedAt": null,
   "authors": [
@@ -21,15 +21,44 @@
     "Seo Hwaye",
     "STUDIO107 (Ultra Media)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-27T14:00:13.899Z",
+    "updatedAt": "2022-09-27T14:00:13.899Z",
+    "checkedAt": "2022-09-27T14:00:13.000Z",
+    "id": 152082,
+    "type": "manga",
+    "title": "The Admiral's Monstrous Wife",
+    "altTitle": [
+      "The Admiral's Monster Wife",
+      "The Admiral's Monstrous Wife",
+      "제독의 괴물아내"
+    ],
+    "url": "https://myanimelist.net/manga/152082/The_Admirals_Monstrous_Wife",
+    "image": "https://cdn.myanimelist.net/images/manga/2/269190.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/58318624"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "STUDIO107",
+      "Seo, Hwayhe"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:05:39.532Z",
-    "updatedAt": "2022-05-18T14:00:00.000Z",
-    "checkedAt": "2022-05-18T14:00:00.000Z",
+    "updatedAt": "2022-09-28T11:02:33.000Z",
+    "checkedAt": "2022-09-28T11:02:33.000Z",
     "id": 146165,
     "type": "manga",
     "title": "Jedogui Goemuranae",
     "altTitle": [
+      "The Admiral's Monstrous Wife",
       "제독의 괴물아내",
       "The Admiral's Monster Wife"
     ],
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 152082,
     "deletedAt": null,
     "authors": [
       "Sinyu",

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-18T17:00:07.296Z",
-  "updatedAt": "2022-06-18T17:00:07.000Z",
+  "updatedAt": "2022-09-28T11:20:00.000Z",
   "checkedAt": "2022-06-18T17:00:07.000Z",
   "id": 107636,
   "identifier": "79fba185-fccf-4c95-b84e-15b478d08b24",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 150279,
+  "aniId": 141889,
   "deletedAt": null,
   "authors": [
     "Okazawa Rokujuuyon",
     "SAIPACo."
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-09T13:30:02.978Z",
+    "updatedAt": "2022-08-09T13:30:02.978Z",
+    "checkedAt": "2022-08-09T13:30:02.000Z",
+    "id": 150279,
+    "type": "manga",
+    "title": "Maken Kajishi ni Naritakute!",
+    "altTitle": [
+      "I Want to Be a Magic Blacksmith!",
+      "魔剣鍛冶師になりたくて!"
+    ],
+    "url": "https://myanimelist.net/manga/150279/Maken_Kajishi_ni_Naritakute",
+    "image": "https://cdn.myanimelist.net/images/manga/3/266381.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gmaga.co/c/makenkajishi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Okazawa, Rokujuuyon",
+      "Matsuoka, Yoshinori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:35.895Z",
+    "updatedAt": "2022-08-16T08:48:08.000Z",
+    "checkedAt": "2022-08-16T08:48:08.000Z",
+    "id": 141889,
+    "type": "manga",
+    "title": "Maken Tanyashi ni Naritakute!",
+    "altTitle": [
+      "魔剣鍛冶師になりたくて！",
+      "I want to be a magic blacksmith!"
+    ],
+    "url": "https://anilist.co/manga/141889",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141889-bZ1gRCGE7SFr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 150279,
+    "deletedAt": null,
+    "authors": [
+      "Yoshinori Matsuoka",
+      "Rokujuuyon Okazawa",
+      "SAIPACo."
+    ]
+  }
 }
