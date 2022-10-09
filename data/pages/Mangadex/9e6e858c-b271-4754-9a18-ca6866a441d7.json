@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-06T12:00:53.000Z",
-  "updatedAt": "2022-04-06T12:00:53.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-07T21:42:45.000Z",
+  "checkedAt": "2022-10-06T10:30:16.000Z",
   "id": 100770,
   "identifier": "9e6e858c-b271-4754-9a18-ca6866a441d7",
   "type": "manga",
@@ -12,15 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 152328,
+  "aniId": 143804,
   "deletedAt": null,
   "authors": [
     "Iro (이로)",
     "Yeoon Han",
     "YUL"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-06T10:30:17.069Z",
+    "updatedAt": "2022-10-06T10:30:17.069Z",
+    "checkedAt": "2022-10-06T10:30:17.000Z",
+    "id": 152328,
+    "type": "manga",
+    "title": "Preventing the Making of a Tyrant",
+    "altTitle": [
+      "How to Stop the Tyrant's Blackening",
+      "Preventing the Making of a Tyrant",
+      "폭군의 흑화를 막는 법"
+    ],
+    "url": "https://myanimelist.net/manga/152328/Preventing_the_Making_of_a_Tyrant",
+    "image": "https://cdn.myanimelist.net/images/manga/2/269729.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/58382298"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Yeoon",
+      "Yul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:31.445Z",
+    "updatedAt": "2022-05-26T22:37:55.000Z",
+    "checkedAt": "2022-05-26T22:37:55.000Z",
+    "id": 143804,
+    "type": "manga",
+    "title": "Pokgunui Heukwareul Mangneun Beop",
+    "altTitle": [
+      "Preventing the Making of a Tyrant",
+      "폭군의 흑화를 막는 법",
+      "怎样阻止皇帝的黑化"
+    ],
+    "url": "https://anilist.co/manga/143804",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143804-IclJw8NfaQ1t.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "YUL",
+      "Yeo-On Han",
+      "Iro"
+    ]
+  }
 }

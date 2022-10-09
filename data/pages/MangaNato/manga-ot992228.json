@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-02T11:30:10.582Z",
-  "updatedAt": "2022-09-02T11:30:10.000Z",
+  "updatedAt": "2022-10-03T15:19:31.000Z",
   "checkedAt": "2022-09-02T11:30:10.000Z",
   "id": 113729,
   "identifier": "manga-ot992228",
@@ -12,15 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 151183,
+  "aniId": 151360,
   "deletedAt": null,
   "authors": [
     "Kabegiwa Aizaki",
     "Uda Mamyo",
     "Shiki Mutsuko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-07T20:00:11.318Z",
+    "updatedAt": "2022-09-07T20:00:11.318Z",
+    "checkedAt": "2022-09-07T20:00:11.000Z",
+    "id": 151183,
+    "type": "manga",
+    "title": "Douka Ore wo Hanatteoite Kure: Nazeka Bocchi no Owatta Koukou Seikatsu wo Kanojo ga Kaeyou to Shitekuru",
+    "altTitle": [
+      "Please Leave Me Alone: For Some Reason, She Wants to Change a Lone Wolf's Helpless High School Life",
+      "どうか俺を放っておいてくれ なぜかぼっちの終わった高校生活を彼女が変えようとしてくる"
+    ],
+    "url": "https://myanimelist.net/manga/151183/Douka_Ore_wo_Hanatteoite_Kure__Nazeka_Bocchi_no_Owatta_Koukou_Seikatsu_wo_Kanojo_ga_Kaeyou_to_Shitekuru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/268046.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/doukaorewo"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aizaki, Kabegiwa",
+      "Shiki, Mutsuko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-08-29T18:00:37.286Z",
+    "updatedAt": "2022-09-12T14:10:50.000Z",
+    "checkedAt": "2022-09-12T14:10:50.000Z",
+    "id": 151360,
+    "type": "manga",
+    "title": "Douka Ore wo Hanatte Oitekure: Naze ka Bocchi no Owatta Koukou Seikatsu wo Kanojo ga Kaeyou to Shitekuru",
+    "altTitle": [
+      "どうか俺を放っておいてくれ〜なぜかぼっちの終わった高校生活を彼女が変えようとしてくる 〜"
+    ],
+    "url": "https://anilist.co/manga/151360",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151360-NedVmztQPcM1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151183,
+    "deletedAt": null,
+    "authors": [
+      "Aizaki Kabegiwa",
+      "Mamyoda",
+      "Mutsuko Shiki"
+    ]
+  }
 }

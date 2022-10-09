@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-29T08:21:39.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-10-06T09:20:00.000Z",
   "checkedAt": "2022-05-13T16:42:26.000Z",
   "id": 80104,
   "identifier": "a-mans-man",
@@ -12,15 +12,74 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147328,
+  "aniId": 129956,
   "deletedAt": null,
   "authors": [
     "Dogado",
     "HA Neulso",
     "KIM Tae-gung"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T23:00:10.595Z",
+    "updatedAt": "2022-07-10T23:00:10.595Z",
+    "checkedAt": "2022-07-10T23:00:10.000Z",
+    "id": 147328,
+    "type": "manga",
+    "title": "A Man's Man",
+    "altTitle": [
+      "Real Man",
+      "The Man",
+      "Sangnamja",
+      "A Man's Man",
+      "상남자"
+    ],
+    "url": "https://myanimelist.net/manga/147328/A_Mans_Man",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263998.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=751168"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dogado",
+      "Kim, Taegung"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:24.731Z",
+    "updatedAt": "2022-07-11T15:17:16.000Z",
+    "checkedAt": "2022-07-11T15:17:16.000Z",
+    "id": 129956,
+    "type": "manga",
+    "title": "Sangnamja",
+    "altTitle": [
+      "A Man's Man",
+      "상남자",
+      "A Man Among Men",
+      "Manly Man",
+      "The Man",
+      "男子汉",
+      "Real Man",
+      "男子漢"
+    ],
+    "url": "https://anilist.co/manga/129956",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129956-VsrhLZ3qpJL2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147328,
+    "deletedAt": null,
+    "authors": [
+      "Tae-Gung Kim",
+      "DOGADO",
+      "Haneulso"
+    ]
+  }
 }

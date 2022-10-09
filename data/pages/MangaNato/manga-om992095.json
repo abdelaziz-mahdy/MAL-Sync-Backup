@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-28T21:30:10.293Z",
-  "updatedAt": "2022-08-28T21:30:10.000Z",
+  "updatedAt": "2022-10-03T15:18:03.000Z",
   "checkedAt": "2022-08-28T21:30:10.000Z",
   "id": 113398,
   "identifier": "manga-om992095",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 149800,
+  "aniId": 152104,
   "deletedAt": null,
   "authors": [
     "Ibarfsp",
     "Jeon Wook"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-28T10:00:01.700Z",
+    "updatedAt": "2022-07-28T10:00:01.700Z",
+    "checkedAt": "2022-07-28T10:00:01.000Z",
+    "id": 149800,
+    "type": "manga",
+    "title": "I Became a Renowned Family's Sword Prodigy",
+    "altTitle": [
+      "Widaehan Gamun-ui Geomsul Cheonjaega Doeeotda",
+      "위대한 가문의 검술 천재가 되었다"
+    ],
+    "url": "https://myanimelist.net/manga/149800/I_Became_a_Renowned_Familys_Sword_Prodigy",
+    "image": "https://cdn.myanimelist.net/images/manga/3/265618.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=796534"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Maru Gongbang",
+      "Jeonwook"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-07-11T02:30:00.889Z",
+    "updatedAt": "2022-07-29T08:08:48.000Z",
+    "checkedAt": "2022-07-29T08:08:48.000Z",
+    "id": 152104,
+    "type": "manga",
+    "title": "Widaehan Gamunui Geomsul Cheonjaega Doeeotda",
+    "altTitle": [
+      "위대한 가문의 검술 천재가 되었다",
+      "I Became a Renowned Family's Sword Prodigy   "
+    ],
+    "url": "https://anilist.co/manga/152104",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152104-zHrzuI97N2GQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149800,
+    "deletedAt": null,
+    "authors": [
+      "Uk Jeon",
+      "Dong-Seop Lee"
+    ]
+  }
 }
