@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-09-30T11:03:43.000Z",
-  "updatedAt": "2022-10-08T20:30:04.000Z",
+  "updatedAt": "2022-10-10T11:20:00.000Z",
   "checkedAt": "2022-10-08T20:30:04.000Z",
   "id": 87848,
   "identifier": "manga-dv980630",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 115366,
+  "aniId": 106909,
   "deletedAt": null,
   "authors": [
     "Yuki Fujitsuka"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2022-05-16T18:57:55.000Z",
+    "checkedAt": "2022-05-16T18:57:55.000Z",
+    "id": 115366,
+    "type": "manga",
+    "title": "Tonari wa Nani wo Kuu Hito zo: Horoyoi",
+    "altTitle": [
+      "トナリはなにを食う人ぞ ほろよい"
+    ],
+    "url": "https://myanimelist.net/manga/115366/Tonari_wa_Nani_wo_Kuu_Hito_zo__Horoyoi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/223511.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://manga-park.com/title/853"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fujitsuka, Yuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:46.496Z",
+    "updatedAt": "2022-05-16T18:57:54.000Z",
+    "checkedAt": "2022-05-16T18:57:54.000Z",
+    "id": 106909,
+    "type": "manga",
+    "title": "Tonari wa Nani wo Kuu Hito zo: Horoyoi",
+    "altTitle": [
+      "トナリはなにを食う人ぞ　ほろよい",
+      "トナリはなにを食う人ぞ ほろよい"
+    ],
+    "url": "https://anilist.co/manga/106909",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106909-CCGmowf74Ltl.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 115366,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Fujitsuka"
+    ]
+  }
 }

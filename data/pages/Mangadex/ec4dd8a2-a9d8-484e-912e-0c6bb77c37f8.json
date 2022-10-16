@@ -1,24 +1,71 @@
 {
   "createdAt": "2020-10-12T16:21:10.000Z",
-  "updatedAt": "2021-12-08T02:08:06.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-11T15:08:37.000Z",
+  "checkedAt": "2022-10-11T13:00:04.000Z",
   "id": 38769,
   "identifier": "ec4dd8a2-a9d8-484e-912e-0c6bb77c37f8",
   "type": "manga",
   "page": "Mangadex",
   "title": "Black & White",
   "url": "https://mangadex.org/title/ec4dd8a2-a9d8-484e-912e-0c6bb77c37f8",
-  "image": "https://uploads.mangadex.org/covers/ec4dd8a2-a9d8-484e-912e-0c6bb77c37f8/2e100d86-a4e6-48e2-9d48-1a431ad1c509.jpg",
+  "image": "https://uploads.mangadex.org/covers/ec4dd8a2-a9d8-484e-912e-0c6bb77c37f8/853f1e7a-d10e-427e-808d-79fd62eb2a34.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 135933,
+  "aniId": 116737,
   "deletedAt": null,
   "authors": [
     "Sal Jiang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-11T13:00:04.551Z",
+    "updatedAt": "2022-10-11T13:00:04.551Z",
+    "checkedAt": "2022-10-11T13:00:04.000Z",
+    "id": 135933,
+    "type": "manga",
+    "title": "Shiro to Kuro: Black & White",
+    "altTitle": [
+      "Black and White: Tough Love at the Office",
+      "白と黒～Black & White～"
+    ],
+    "url": "https://myanimelist.net/manga/135933/Shiro_to_Kuro__Black___White",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245895.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://j-nbooks.jp/comic/original.php?oKey=187"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jiang, Sal"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:26.593Z",
+    "updatedAt": "2022-10-11T13:00:04.000Z",
+    "checkedAt": "2022-10-11T13:00:04.000Z",
+    "id": 116737,
+    "type": "manga",
+    "title": "Shiro to Kuro: Black & White",
+    "altTitle": [
+      "Black and White: Tough Love at the Office",
+      "白と黒～Black & White～"
+    ],
+    "url": "https://anilist.co/manga/116737",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116737-R3TbKEbRjXYi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 135933,
+    "deletedAt": null,
+    "authors": [
+      "Sal Jiang"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-01T03:00:00.247Z",
-  "updatedAt": "2022-07-01T03:00:00.000Z",
+  "updatedAt": "2022-10-10T11:20:00.000Z",
   "checkedAt": "2022-07-01T03:00:00.000Z",
   "id": 108607,
   "identifier": "7742a0a0-4120-4fb7-820d-5bb91b89f425",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 152399,
+  "aniId": 152422,
   "deletedAt": null,
   "authors": [
     "Eunyoul (은열)",
     "GLEE (글리)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-09T21:30:01.797Z",
+    "updatedAt": "2022-10-09T21:30:01.797Z",
+    "checkedAt": "2022-10-09T21:30:01.000Z",
+    "id": 152399,
+    "type": "manga",
+    "title": "Heavenly Sword's Grand Saga",
+    "altTitle": [
+      "Thousand Sword Techniques",
+      "Cheongeom Gihyeop",
+      "천검기협"
+    ],
+    "url": "https://myanimelist.net/manga/152399/Heavenly_Swords_Grand_Saga",
+    "image": "https://cdn.myanimelist.net/images/manga/1/269947.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59701325"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Glee",
+      "Eunyeol"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-07-17T14:00:51.587Z",
+    "updatedAt": "2022-10-10T10:53:29.000Z",
+    "checkedAt": "2022-10-10T10:53:29.000Z",
+    "id": 152422,
+    "type": "manga",
+    "title": "Cheongeomgihyeop",
+    "altTitle": [
+      "천검기협",
+      " Heavenly Sword's Grand Saga",
+      "Thousand Sword Techniques"
+    ],
+    "url": "https://anilist.co/manga/152422",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152422-D9NbExBqC4GR.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 152399,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Yeol  ",
+      "Geulli",
+      "Story Plus",
+      "Han-Seok Kim"
+    ]
+  }
 }

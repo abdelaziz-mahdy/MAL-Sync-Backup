@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-19T19:00:09.295Z",
-  "updatedAt": "2022-07-19T19:00:09.000Z",
+  "updatedAt": "2022-10-10T11:20:00.000Z",
   "checkedAt": "2022-07-19T19:00:09.000Z",
   "id": 110717,
   "identifier": "second_try_idol",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 152410,
+  "aniId": 139459,
   "deletedAt": null,
   "authors": [
     "HaeRyang",
@@ -22,6 +22,60 @@
     "Tinta",
     "[Add]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-09T21:30:13.758Z",
+    "updatedAt": "2022-10-09T21:30:13.758Z",
+    "checkedAt": "2022-10-09T21:30:13.000Z",
+    "id": 152410,
+    "type": "manga",
+    "title": "Second Try Idol",
+    "altTitle": [
+      "Once Again Idol",
+      "Dasi Hanbeon Idol",
+      "Second Try Idol",
+      "다시 한번 아이돌"
+    ],
+    "url": "https://myanimelist.net/manga/152410/Second_Try_Idol",
+    "image": "https://cdn.myanimelist.net/images/manga/1/269945.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/57711142"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tinta",
+      "May Studio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:09.374Z",
+    "updatedAt": "2022-10-10T10:53:41.000Z",
+    "checkedAt": "2022-10-10T10:53:41.000Z",
+    "id": 139459,
+    "type": "manga",
+    "title": "Dasi Hanbeon Idol",
+    "altTitle": [
+      "Second Try Idol",
+      "다시 한번 아이돌",
+      "Once Again Idol",
+      "もう一度アイドル"
+    ],
+    "url": "https://anilist.co/manga/139459",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139459-0bfKr3hsP2jx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 152410,
+    "deletedAt": null,
+    "authors": [
+      "Hae-Ryang",
+      "Tin-Ta",
+      "Mei Studio"
+    ]
+  }
 }

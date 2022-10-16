@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-03T15:00:02.077Z",
-  "updatedAt": "2022-07-03T15:00:02.000Z",
+  "updatedAt": "2022-10-14T16:20:05.000Z",
   "checkedAt": "2022-07-03T15:00:02.000Z",
   "id": 108780,
   "identifier": "1392c7aa-dac2-4fef-ba3f-8db01da2b068",
@@ -12,13 +12,60 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 143340,
+  "aniId": 128935,
   "deletedAt": null,
   "authors": [
     "Ikkado Ito"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-13T17:10:34.000Z",
+    "updatedAt": "2022-06-02T19:35:15.000Z",
+    "checkedAt": "2022-06-02T19:35:15.000Z",
+    "id": 143340,
+    "type": "manga",
+    "title": "Boku wa Oniku ja Nai",
+    "altTitle": [
+      "I'm Not Meat: Get Your Filthy Paws Off Me!",
+      "僕はお肉じゃない"
+    ],
+    "url": "https://myanimelist.net/manga/143340/Boku_wa_Oniku_ja_Nai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/254647.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bigcomicbros.net/work/33176/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Itou, Ikkado"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:40.967Z",
+    "updatedAt": "2022-06-02T19:35:15.000Z",
+    "checkedAt": "2022-06-02T19:35:15.000Z",
+    "id": 128935,
+    "type": "manga",
+    "title": "Boku wa Oniku Janai",
+    "altTitle": [
+      "I’m Not Meat: Get Your Filthy Paws Off Me!",
+      "僕はお肉じゃない"
+    ],
+    "url": "https://anilist.co/manga/128935",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128935-ZbyJ1Q2pI8Rz.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 143340,
+    "deletedAt": null,
+    "authors": [
+      "Ikkado Itou"
+    ]
+  }
 }

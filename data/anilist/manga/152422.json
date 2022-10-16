@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-07-17T14:00:51.587Z",
-  "updatedAt": "2022-07-17T14:00:51.587Z",
-  "checkedAt": "2022-07-17T14:00:51.000Z",
+  "updatedAt": "2022-10-10T10:53:29.000Z",
+  "checkedAt": "2022-10-10T10:53:29.000Z",
   "id": 152422,
   "type": "manga",
   "title": "Cheongeomgihyeop",
@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 152399,
   "deletedAt": null,
   "authors": [
     "Eun-Yeol  ",
@@ -24,10 +24,35 @@
     "Han-Seok Kim"
   ],
   "Pages": {
+    "Mangadex": {
+      "7742a0a0-4120-4fb7-820d-5bb91b89f425": {
+        "createdAt": "2022-07-01T03:00:00.247Z",
+        "updatedAt": "2022-10-10T11:20:00.000Z",
+        "checkedAt": "2022-07-01T03:00:00.000Z",
+        "id": 108607,
+        "identifier": "7742a0a0-4120-4fb7-820d-5bb91b89f425",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heavenly Sword’s Grand Saga",
+        "url": "https://mangadex.org/title/7742a0a0-4120-4fb7-820d-5bb91b89f425",
+        "image": "https://uploads.mangadex.org/covers/7742a0a0-4120-4fb7-820d-5bb91b89f425/10563f11-d6cc-4b17-b877-268339f91240.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 152399,
+        "aniId": 152422,
+        "deletedAt": null,
+        "authors": [
+          "Eunyoul (은열)",
+          "GLEE (글리)"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-on991548": {
         "createdAt": "2022-07-08T05:30:13.299Z",
-        "updatedAt": "2022-07-19T09:04:19.000Z",
+        "updatedAt": "2022-10-10T10:47:44.000Z",
         "checkedAt": "2022-07-08T05:30:13.000Z",
         "id": 109128,
         "identifier": "manga-on991548",
@@ -40,12 +65,36 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 152399,
         "aniId": 152422,
         "deletedAt": null,
         "authors": [
           "Eunyoul (은열)",
           "Glee (글리)"
+        ]
+      }
+    },
+    "MangaFox": {
+      "heavenly_sword_s_grand_saga": {
+        "createdAt": "2022-07-25T01:30:06.104Z",
+        "updatedAt": "2022-10-10T11:20:00.000Z",
+        "checkedAt": "2022-07-25T01:30:06.000Z",
+        "id": 111065,
+        "identifier": "heavenly_sword_s_grand_saga",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heavenly Sword's Grand Saga",
+        "url": "https://fanfox.net/manga/heavenly_sword_s_grand_saga/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43103/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 152399,
+        "aniId": 152422,
+        "deletedAt": null,
+        "authors": [
+          "Eunyoul"
         ]
       }
     }

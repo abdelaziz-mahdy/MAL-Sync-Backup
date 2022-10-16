@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:00:02.679Z",
-  "updatedAt": "2022-05-13T13:00:02.679Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-11T19:27:49.000Z",
+  "checkedAt": "2022-10-11T19:27:49.000Z",
   "id": 132279,
   "type": "manga",
   "title": "Hikari no Hako",
@@ -19,7 +19,33 @@
   "deletedAt": null,
   "authors": [
     "Seiko Erisawa",
-    "Miyako Slocombe"
+    "Miyako Slocombe",
+    "Daniel Komen"
   ],
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "box-of-light": {
+        "createdAt": "2022-10-11T13:31:15.838Z",
+        "updatedAt": "2022-10-11T14:20:00.000Z",
+        "checkedAt": "2022-10-11T13:31:15.000Z",
+        "id": 116137,
+        "identifier": "box-of-light",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Box of Light",
+        "url": "https://mangasee123.com/manga/Box-of-Light",
+        "image": "https://temp.compsci88.com/cover/Box-of-Light.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 137944,
+        "aniId": 132279,
+        "deletedAt": null,
+        "authors": [
+          "ERISAWA Seiko"
+        ]
+      }
+    }
+  }
 }

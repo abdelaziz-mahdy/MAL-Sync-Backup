@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-19T19:00:08.328Z",
-  "updatedAt": "2022-07-19T19:00:08.000Z",
+  "updatedAt": "2022-10-10T10:48:07.000Z",
   "checkedAt": "2022-07-19T19:00:08.000Z",
   "id": 110715,
   "identifier": "d4736298-558d-43e2-bb76-4f17acf05117",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 152410,
   "aniId": 139459,
   "deletedAt": null,
   "authors": [
@@ -22,11 +22,40 @@
     "Lee Ye Rin",
     "MAY STUDIO"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-10-09T21:30:13.758Z",
+    "updatedAt": "2022-10-09T21:30:13.758Z",
+    "checkedAt": "2022-10-09T21:30:13.000Z",
+    "id": 152410,
+    "type": "manga",
+    "title": "Second Try Idol",
+    "altTitle": [
+      "Once Again Idol",
+      "Dasi Hanbeon Idol",
+      "Second Try Idol",
+      "다시 한번 아이돌"
+    ],
+    "url": "https://myanimelist.net/manga/152410/Second_Try_Idol",
+    "image": "https://cdn.myanimelist.net/images/manga/1/269945.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/57711142"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tinta",
+      "May Studio"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:01:09.374Z",
-    "updatedAt": "2022-06-02T02:21:26.000Z",
-    "checkedAt": "2022-06-02T02:21:26.000Z",
+    "updatedAt": "2022-10-10T10:53:41.000Z",
+    "checkedAt": "2022-10-10T10:53:41.000Z",
     "id": 139459,
     "type": "manga",
     "title": "Dasi Hanbeon Idol",
@@ -41,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 152410,
     "deletedAt": null,
     "authors": [
       "Hae-Ryang",
