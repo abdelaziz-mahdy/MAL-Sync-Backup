@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-10-15T16:30:12.729Z",
-  "updatedAt": "2022-10-15T16:30:12.000Z",
+  "updatedAt": "2022-10-17T07:07:12.000Z",
   "checkedAt": "2022-10-15T16:30:12.000Z",
   "id": 116327,
   "identifier": "5a5e46cd-4e77-4124-af01-7774e74d6498",
@@ -12,18 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 152638,
   "aniId": 143656,
   "deletedAt": null,
   "authors": [
     "Sekiguchi Tarou"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-10-16T21:00:10.944Z",
+    "updatedAt": "2022-10-16T21:00:10.944Z",
+    "checkedAt": "2022-10-16T21:00:10.000Z",
+    "id": 152638,
+    "type": "manga",
+    "title": "Kimi wa Sukinosaurus",
+    "altTitle": [
+      "You are Sukinosaurus",
+      "君はスキノサウルス"
+    ],
+    "url": "https://myanimelist.net/manga/152638/Kimi_wa_Sukinosaurus",
+    "image": "https://cdn.myanimelist.net/images/manga/1/270259.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gmaga.co/c/sukinosaurus/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sekiguchi, Tarou"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-10-15T16:30:12.719Z",
-    "updatedAt": "2022-10-15T16:30:12.719Z",
-    "checkedAt": "2022-10-15T16:30:12.000Z",
+    "updatedAt": "2022-10-17T07:09:46.000Z",
+    "checkedAt": "2022-10-17T07:09:46.000Z",
     "id": 143656,
     "type": "manga",
     "title": "Kimi wa Sukinosaurus",
@@ -36,7 +62,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 152638,
     "deletedAt": null,
     "authors": [
       "Taro Sekiguchi"

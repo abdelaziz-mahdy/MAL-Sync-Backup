@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-10-15T16:00:14.217Z",
-  "updatedAt": "2022-10-15T16:00:14.000Z",
+  "updatedAt": "2022-10-20T16:20:00.000Z",
   "checkedAt": "2022-10-15T16:00:14.000Z",
   "id": 116325,
   "identifier": "girl-crush",
@@ -12,13 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142097,
+  "aniId": 128406,
   "deletedAt": null,
   "authors": [
     "TAYAMA Midori"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T21:00:08.709Z",
+    "updatedAt": "2022-06-07T21:00:08.709Z",
+    "checkedAt": "2022-06-07T21:00:08.000Z",
+    "id": 142097,
+    "type": "manga",
+    "title": "Girl Crush",
+    "altTitle": [
+      "ガールクラッシュ"
+    ],
+    "url": "https://myanimelist.net/manga/142097/Girl_Crush",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252737.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comikey.com/comics/girl-crush-manga/50/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": []
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:09.381Z",
+    "updatedAt": "2022-09-22T20:21:44.000Z",
+    "checkedAt": "2022-09-22T20:21:44.000Z",
+    "id": 128406,
+    "type": "manga",
+    "title": "Girl Crush",
+    "altTitle": [
+      "Girl Crush",
+      "ガールクラッシュ"
+    ],
+    "url": "https://anilist.co/manga/128406",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128406-CoM1eJXdBCqV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142097,
+    "deletedAt": null,
+    "authors": [
+      "Midori Tayama"
+    ]
+  }
 }

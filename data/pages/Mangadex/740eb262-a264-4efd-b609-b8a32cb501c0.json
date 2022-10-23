@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:03.000Z",
-  "updatedAt": "2021-12-05T05:49:37.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-17T07:20:00.000Z",
+  "checkedAt": "2022-10-16T21:00:00.000Z",
   "id": 18453,
   "identifier": "740eb262-a264-4efd-b609-b8a32cb501c0",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 152664,
+  "aniId": 100443,
   "deletedAt": null,
   "authors": [
     "MooMen"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-16T21:00:03.711Z",
+    "updatedAt": "2022-10-16T21:00:03.711Z",
+    "checkedAt": "2022-10-16T21:00:03.000Z",
+    "id": 152664,
+    "type": "manga",
+    "title": "Escape Devildom",
+    "altTitle": [
+      "Magye Talchullok",
+      "Escape Devildom",
+      "마계탈출록"
+    ],
+    "url": "https://myanimelist.net/manga/152664/Escape_Devildom",
+    "image": "https://cdn.myanimelist.net/images/manga/3/270306.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/devildom"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mumen"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:35.199Z",
+    "updatedAt": "2022-10-17T07:08:27.000Z",
+    "checkedAt": "2022-10-17T07:08:27.000Z",
+    "id": 100443,
+    "type": "manga",
+    "title": "Magyetalchullok",
+    "altTitle": [
+      "Escape Devildom",
+      "마계탈출록"
+    ],
+    "url": "https://anilist.co/manga/100443",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100443-hROu48iX8t5w.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 152664,
+    "deletedAt": null,
+    "authors": [
+      "Mumen"
+    ]
+  }
 }

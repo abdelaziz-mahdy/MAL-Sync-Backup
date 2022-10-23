@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-06T15:50:27.000Z",
-  "updatedAt": "2022-02-06T03:36:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-18T16:07:06.000Z",
+  "checkedAt": "2022-10-18T11:30:00.000Z",
   "id": 64778,
   "identifier": "i_m_destined_for_greatness",
   "type": "manga",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148028,
+  "aniId": 114847,
   "deletedAt": null,
   "authors": [
     "Author Bot"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-12T15:30:09.413Z",
+    "updatedAt": "2022-06-12T15:30:09.413Z",
+    "checkedAt": "2022-06-12T15:30:09.000Z",
+    "id": 148028,
+    "type": "manga",
+    "title": "I'm Destined to Greatness",
+    "altTitle": [
+      "I'm Destined for Greatness!",
+      "Naneun Doel Nomida",
+      "I'm Destined to Greatness",
+      "나는 될놈이다"
+    ],
+    "url": "https://myanimelist.net/manga/148028/Im_Destined_to_Greatness",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262672.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/53159236"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Geulsseuneun Gigye",
+      "Seo, Yunkyo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:57.846Z",
+    "updatedAt": "2022-06-14T05:18:45.000Z",
+    "checkedAt": "2022-06-14T05:18:45.000Z",
+    "id": 114847,
+    "type": "manga",
+    "title": "Naneun Doel Nomida",
+    "altTitle": [
+      "I'm Destined to Greatness",
+      "나는 될 놈이다",
+      "I'm Destined For Greatness!",
+      "Мне предначертано величие!",
+      "ผมคือเพลเยอร์ผู้มากับโชค"
+    ],
+    "url": "https://anilist.co/manga/114847",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114847-WznYo3AwCl6y.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148028,
+    "deletedAt": null,
+    "authors": [
+      "Yoon-Kyu Seo",
+      "Geulsseuneungigye"
+    ]
+  }
 }

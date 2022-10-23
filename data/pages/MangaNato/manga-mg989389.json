@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-30T13:22:31.000Z",
-  "updatedAt": "2022-05-14T09:22:30.000Z",
+  "updatedAt": "2022-10-18T16:06:53.000Z",
   "checkedAt": "2022-05-14T09:22:30.000Z",
   "id": 83355,
   "identifier": "manga-mg989389",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148615,
+  "aniId": 137168,
   "deletedAt": null,
   "authors": [
     "Updating"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-12T17:30:04.008Z",
+    "updatedAt": "2022-08-12T17:30:04.008Z",
+    "checkedAt": "2022-08-12T17:30:03.000Z",
+    "id": 148615,
+    "type": "manga",
+    "title": "The Story of a Low-Rank Soldier Becoming a Monarch",
+    "altTitle": [
+      "Maldan Byeongsa-eseo Gunju-kkaji",
+      "말단 병사에서 군주까지"
+    ],
+    "url": "https://myanimelist.net/manga/148615/The_Story_of_a_Low-Rank_Soldier_Becoming_a_Monarch",
+    "image": "https://cdn.myanimelist.net/images/manga/1/264880.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56065304"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Soul Pung",
+      "2631"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:20.137Z",
+    "updatedAt": "2022-09-06T09:07:35.000Z",
+    "checkedAt": "2022-09-06T09:07:35.000Z",
+    "id": 137168,
+    "type": "manga",
+    "title": "Maldan Byeongsaeseo Gunjukkaji",
+    "altTitle": [
+      "말단 병사에서 군주까지",
+      "From the Lowest Foot Soldier to the King ",
+      "The Story of a Low-Rank Soldier Becoming a Monarch  "
+    ],
+    "url": "https://anilist.co/manga/137168",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137168-rrbeYeWrI08D.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148615,
+    "deletedAt": null,
+    "authors": [
+      "doip",
+      "Soulpung",
+      "2631"
+    ]
+  }
 }

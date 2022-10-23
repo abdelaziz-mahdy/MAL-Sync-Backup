@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-23T10:57:24.000Z",
-  "updatedAt": "2022-08-25T18:22:56.000Z",
+  "updatedAt": "2022-10-17T07:07:28.000Z",
   "checkedAt": "2022-08-24T19:00:10.000Z",
   "id": 99876,
   "identifier": "6f7b4a77-31ca-4ba6-a4a1-ecaa6a66ee1e",
@@ -12,19 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
+  "actorId": 1,
+  "malId": 152572,
   "aniId": 153996,
   "deletedAt": null,
   "authors": [
     "Akagane Musashi",
     "Kouichi Tamura"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-10-16T22:30:02.409Z",
+    "updatedAt": "2022-10-16T22:30:02.409Z",
+    "checkedAt": "2022-10-16T22:30:02.000Z",
+    "id": 152572,
+    "type": "manga",
+    "title": "Yuiitsu Muni no Saikyou Tamer: Kuni no Subete no Guild de Monzenbarai sareta kara, Takoku ni Itte Slow Life shimasu",
+    "altTitle": [
+      "唯一無二の最強テイマー～国の全てのギルドで門前払いされたから、他国に行ってスローライフします～"
+    ],
+    "url": "https://myanimelist.net/manga/152572/Yuiitsu_Muni_no_Saikyou_Tamer__Kuni_no_Subete_no_Guild_de_Monzenbarai_sareta_kara_Takoku_ni_Itte_Slow_Life_shimasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/270320.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.123hon.com/nova/web-comic/s_tamer/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tamura, Kouichi",
+      "Akagane, Musashi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-08-24T19:00:11.135Z",
-    "updatedAt": "2022-08-24T19:00:11.135Z",
-    "checkedAt": "2022-08-24T19:00:11.000Z",
+    "updatedAt": "2022-10-17T07:08:38.000Z",
+    "checkedAt": "2022-10-17T07:08:38.000Z",
     "id": 153996,
     "type": "manga",
     "title": "Yuiitsu Muni no Saikyou Tamer: Kuni no Subete no Guild de Monzembaraisareta kara, Takoku ni Itte Slow-Life Shimasu",
@@ -37,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 152572,
     "deletedAt": null,
     "authors": [
       "Musashi Akagane",
