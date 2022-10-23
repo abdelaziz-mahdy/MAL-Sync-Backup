@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.6.3
         with:
-          owner: MALSync
           base: master
           head: master
 
@@ -22,7 +21,8 @@ jobs:
       - name: Install dependencies
         run: |
             pip install --upgrade pip
-            pip install pillow git+https://github.com/justfoolingaround/animdl.git
+            pip install tqdm
+            pip install pathlib
       - name: Run generator.py
         run: |
-            python "generator.py"
+            python "mapper.py"
