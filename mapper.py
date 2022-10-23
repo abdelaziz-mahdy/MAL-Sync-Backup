@@ -3,8 +3,8 @@ from pathlib import Path
 from shlex import split
 import json as json
 import tqdm as tqdm
-myAnimeListDir = Path("./myanimelist/anime")
-gogoAnimeDir = Path("./pages/gogoanime")
+myAnimeListDir = Path("./data/myanimelist/anime")
+gogoAnimeDir = Path("./data/pages/gogoanime")
 Map={}
 for file in tqdm.tqdm(list(myAnimeListDir.iterdir())):
     if file.is_file():
