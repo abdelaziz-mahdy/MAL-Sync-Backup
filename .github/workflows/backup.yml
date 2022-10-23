@@ -24,6 +24,14 @@ jobs:
             pip install --upgrade pip
             pip install tqdm
             pip install pathlib
-      - name: Run generator.py
+      - name: Run mapper.py
         run: |
             python "mapper.py"
+
+      - name: Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Chore: Benchmark Update"
+          file_pattern: "api/*"
+          repository: .
+          skip_fetch: false
