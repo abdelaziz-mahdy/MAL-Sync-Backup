@@ -10,11 +10,6 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: tgymnich/fork-sync@v1.6.3
-        with:
-          github_token: ${secrets.GITHUB_TOKEN}
-          base: master
-          head: master
 
       - name: Clone repo
         uses: actions/checkout@v2
