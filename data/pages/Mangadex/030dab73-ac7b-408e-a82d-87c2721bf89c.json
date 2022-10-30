@@ -1,24 +1,71 @@
 {
   "createdAt": "2021-02-15T16:35:52.000Z",
-  "updatedAt": "2021-12-08T11:40:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-24T15:20:00.000Z",
+  "checkedAt": "2022-10-24T15:00:12.000Z",
   "id": 62589,
   "identifier": "030dab73-ac7b-408e-a82d-87c2721bf89c",
   "type": "manga",
   "page": "Mangadex",
   "title": "Dairoku Sense",
   "url": "https://mangadex.org/title/030dab73-ac7b-408e-a82d-87c2721bf89c",
-  "image": "https://uploads.mangadex.org/covers/030dab73-ac7b-408e-a82d-87c2721bf89c/04db296a-c71b-47cb-b02e-3321a05be5e6.png",
+  "image": "https://uploads.mangadex.org/covers/030dab73-ac7b-408e-a82d-87c2721bf89c/e8ae7ff6-6ac7-40c0-80d7-21e37104b295.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 136967,
+  "aniId": 126042,
   "deletedAt": null,
   "authors": [
     "Nagato Chihiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-08T09:55:51.000Z",
+    "updatedAt": "2022-05-26T01:48:50.000Z",
+    "checkedAt": "2022-05-26T01:48:50.000Z",
+    "id": 136967,
+    "type": "manga",
+    "title": "Dairoku Sense",
+    "altTitle": [
+      "The Sixth Sense",
+      "ダイロクセンス"
+    ],
+    "url": "https://myanimelist.net/manga/136967/Dairoku_Sense",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246048.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/13933686331787442126"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagato, Chihiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:29.387Z",
+    "updatedAt": "2022-05-26T01:48:49.000Z",
+    "checkedAt": "2022-05-26T01:48:49.000Z",
+    "id": 126042,
+    "type": "manga",
+    "title": "Dairoku Sense",
+    "altTitle": [
+      "ダイロクセンス",
+      "The Sixth Sense"
+    ],
+    "url": "https://anilist.co/manga/126042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126042-Wn4U2kKtXCW4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136967,
+    "deletedAt": null,
+    "authors": [
+      "Chihiro Nagato"
+    ]
+  }
 }

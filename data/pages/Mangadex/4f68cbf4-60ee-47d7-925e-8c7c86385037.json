@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-12T16:17:31.000Z",
-  "updatedAt": "2022-10-21T21:00:00.000Z",
+  "updatedAt": "2022-10-23T15:08:33.000Z",
   "checkedAt": "2022-10-21T21:00:00.000Z",
   "id": 31279,
   "identifier": "4f68cbf4-60ee-47d7-925e-8c7c86385037",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 130694,
+  "aniId": 134970,
   "deletedAt": null,
   "authors": [
     "Niichi",
@@ -43,6 +43,74 @@
     "Kunyu",
     "Yaponishi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-01T06:31:32.000Z",
+    "updatedAt": "2022-05-14T09:47:44.000Z",
+    "checkedAt": "2022-05-14T09:47:44.000Z",
+    "id": 130694,
+    "type": "manga",
+    "title": "Majo Shuukai: Anthology Comic",
+    "altTitle": [
+      "Majo Shuukai de Aimashou",
+      "Let's Meet at the Witches' Gathering",
+      "魔女集会アンソロジーコミック"
+    ],
+    "url": "https://myanimelist.net/manga/130694/Majo_Shuukai__Anthology_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254559.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Isaki, Uta",
+      "majoccoid",
+      "Oono, Imo",
+      "Yashio, Goyou",
+      "Goumoto",
+      "Watari, Sae",
+      "Nekonome, Hideo",
+      "Takase, Asuka"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:24.198Z",
+    "updatedAt": "2022-05-30T05:24:27.000Z",
+    "checkedAt": "2022-05-30T05:24:27.000Z",
+    "id": 134970,
+    "type": "manga",
+    "title": "Majo Shuukai Anthology Comic",
+    "altTitle": [
+      "魔女集会アンソロジーコミック",
+      "Let's Meet at The Witches' Gathering",
+      "魔女集会で会いましょう",
+      "Majo Shuukai de Aimashou",
+      "Majo Shukai Anthology Comic"
+    ],
+    "url": "https://anilist.co/manga/134970",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134970-KuM3FyYOxRGz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130694,
+    "deletedAt": null,
+    "authors": [
+      "Uta Isaki",
+      "Imo Oono",
+      "Asuka Takase",
+      "Barako",
+      "Hideo Nekonome",
+      "Sae Watari",
+      "majoccoid",
+      "Goyou Yashio",
+      "Hakuri",
+      "Kaoru Saki",
+      "Nagusa Ada",
+      "Minoru Asaya",
+      "An Ogura",
+      "Goumoto",
+      "Teiji Doumiya",
+      "Regura Nakamura"
+    ]
+  }
 }
