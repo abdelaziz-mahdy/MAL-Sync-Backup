@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-10-20T23:00:00.402Z",
-  "updatedAt": "2022-10-20T23:00:00.000Z",
+  "updatedAt": "2022-10-23T22:20:00.000Z",
   "checkedAt": "2022-10-20T23:00:00.000Z",
   "id": 116621,
   "identifier": "20d72207-e32f-4d20-94e1-86417b54b9da",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 145498,
+  "aniId": 133953,
   "deletedAt": null,
   "authors": [
     "Atekichi",
     "Keiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-22T14:30:02.543Z",
+    "updatedAt": "2022-10-22T14:30:02.543Z",
+    "checkedAt": "2022-10-22T14:30:02.000Z",
+    "id": 145498,
+    "type": "manga",
+    "title": "Heroine? Seijo? Iie, All Works Maid desu (Hoko)! @comic",
+    "altTitle": [
+      "Heroine? Saint? No, I'm the \"Almighty Maid\" (Pride)!",
+      "ヒロイン?聖女?いいえ、オールワークスメイドです(誇)! @COMIC"
+    ],
+    "url": "https://myanimelist.net/manga/145498/Heroine_Seijo_Iie_All_Works_Maid_desu_Hoko_comic",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257857.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Atekichi",
+      "Keiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:34.518Z",
+    "updatedAt": "2022-10-22T15:06:34.000Z",
+    "checkedAt": "2022-10-22T15:06:34.000Z",
+    "id": 133953,
+    "type": "manga",
+    "title": "Heroine? Seijo? Iie, All Works Maid desu (ko)! @COMIC",
+    "altTitle": [
+      "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！＠COMIC"
+    ],
+    "url": "https://anilist.co/manga/133953",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133953-yPjarZqKY6Dc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145498,
+    "deletedAt": null,
+    "authors": [
+      "Keiko",
+      "Atekichi"
+    ]
+  }
 }

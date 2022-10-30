@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-29T17:00:08.030Z",
-  "updatedAt": "2022-07-29T17:00:08.000Z",
+  "updatedAt": "2022-10-23T22:03:47.000Z",
   "checkedAt": "2022-07-29T17:00:08.000Z",
   "id": 111328,
   "identifier": "manga-oe991839",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 152726,
   "aniId": 148207,
   "deletedAt": null,
   "authors": [
     "Lucky Nine (럭키나인)",
     "Randel (란델)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-10-22T12:00:02.100Z",
+    "updatedAt": "2022-10-22T12:00:02.100Z",
+    "checkedAt": "2022-10-22T12:00:02.000Z",
+    "id": 152726,
+    "type": "manga",
+    "title": "One-of-a-Kind Irregular",
+    "altTitle": [
+      "1 in 7 Billion Irregular",
+      "70-eokbun-ui 1-ui Irregular",
+      "70억분의 1의 이레귤러"
+    ],
+    "url": "https://myanimelist.net/manga/152726/One-of-a-Kind_Irregular",
+    "image": "https://cdn.myanimelist.net/images/manga/2/270570.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59150128"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Randel",
+      "Gujaro"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:05:08.003Z",
-    "updatedAt": "2022-05-16T14:02:50.000Z",
-    "checkedAt": "2022-05-16T14:02:50.000Z",
+    "updatedAt": "2022-10-24T15:37:20.000Z",
+    "checkedAt": "2022-10-24T15:37:20.000Z",
     "id": 148207,
     "type": "manga",
     "title": "70-eokbunui 1-ui Irregular",
@@ -38,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 152726,
     "deletedAt": null,
     "authors": [
       "Gujaro",

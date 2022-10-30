@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-26T09:00:03.470Z",
-  "updatedAt": "2022-08-26T09:00:03.000Z",
+  "updatedAt": "2022-10-25T09:32:23.000Z",
   "checkedAt": "2022-08-26T09:00:03.000Z",
   "id": 113203,
   "identifier": "let_my_fall_be_brilliant",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149718,
+  "aniId": 147098,
   "deletedAt": null,
   "authors": [
     "Miwool"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-26T08:00:34.107Z",
+    "updatedAt": "2022-07-26T08:00:34.107Z",
+    "checkedAt": "2022-07-26T08:00:34.000Z",
+    "id": 149718,
+    "type": "manga",
+    "title": "My Dazzling Downfall",
+    "altTitle": [
+      "My Dazzling Downfall",
+      "나의 추락이 찬란하도록"
+    ],
+    "url": "https://myanimelist.net/manga/149718/My_Dazzling_Downfall",
+    "image": "https://cdn.myanimelist.net/images/manga/3/265494.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58236102"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miwool",
+      "BV"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:27.603Z",
+    "updatedAt": "2022-07-26T14:52:26.000Z",
+    "checkedAt": "2022-07-26T14:52:26.000Z",
+    "id": 147098,
+    "type": "manga",
+    "title": "Naui Churagi Challanhadorok",
+    "altTitle": [
+      "My Dazzling Downfall",
+      "나의 추락이 찬란하도록",
+      "この破滅が光となるように"
+    ],
+    "url": "https://anilist.co/manga/147098",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147098-nWlGspEl1RXu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149718,
+    "deletedAt": null,
+    "authors": [
+      "Miul",
+      "BV"
+    ]
+  }
 }
