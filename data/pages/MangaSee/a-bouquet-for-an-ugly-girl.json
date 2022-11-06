@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-27T09:49:42.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-04T13:55:53.000Z",
+  "checkedAt": "2022-11-04T05:30:17.000Z",
   "id": 67380,
   "identifier": "a-bouquet-for-an-ugly-girl",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 108492,
+  "aniId": 114645,
   "deletedAt": null,
   "authors": [
     "SAKURA Roku"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:09.000Z",
+    "updatedAt": "2022-05-15T21:06:45.000Z",
+    "checkedAt": "2022-05-15T21:06:45.000Z",
+    "id": 108492,
+    "type": "manga",
+    "title": "Busu ni Hanataba wo.",
+    "altTitle": [
+      "ブスに花束を。"
+    ],
+    "url": "https://myanimelist.net/manga/108492/Busu_ni_Hanataba_wo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/200089.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakura, Roku"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:51.520Z",
+    "updatedAt": "2022-05-15T22:09:11.000Z",
+    "checkedAt": "2022-05-15T22:09:11.000Z",
+    "id": 114645,
+    "type": "manga",
+    "title": "Busu ni Hanataba wo.",
+    "altTitle": [
+      "ブスに花束を。",
+      "A Bouquet for an Ugly Girl",
+      "April showers bring forth May flowers"
+    ],
+    "url": "https://anilist.co/manga/114645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114645-5ReiW1OXIhgH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 108492,
+    "deletedAt": null,
+    "authors": [
+      "Roku Sakura"
+    ]
+  }
 }

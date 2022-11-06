@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-11T17:30:18.843Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-10-30T23:10:19.000Z",
   "checkedAt": "2022-06-11T17:30:18.000Z",
   "id": 107056,
   "identifier": "yuri-espoir",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 120837,
+  "aniId": 109710,
   "deletedAt": null,
   "authors": [
     "Naoimai"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-11T17:30:19.676Z",
+    "updatedAt": "2022-06-11T17:30:19.676Z",
+    "checkedAt": "2022-06-11T17:30:19.000Z",
+    "id": 120837,
+    "type": "manga",
+    "title": "Yuri de Naru♥Espoir",
+    "altTitle": [
+      "Yuri Espoir",
+      "ゆりでなる♥えすぽわーる"
+    ],
+    "url": "https://myanimelist.net/manga/120837/Yuri_de_Naru♥Espoir",
+    "image": "https://cdn.myanimelist.net/images/manga/1/230344.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comic-ryu.jp/_yuridenaru/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Naoi, Mai"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:23.340Z",
+    "updatedAt": "2022-06-11T18:23:23.000Z",
+    "checkedAt": "2022-06-11T18:23:23.000Z",
+    "id": 109710,
+    "type": "manga",
+    "title": "Yuri de Naru♥Espoir",
+    "altTitle": [
+      "Yuri Espoir",
+      "ゆりでなる♥えすぽわーる",
+      "Yuri de Naru Esupowaaru"
+    ],
+    "url": "https://anilist.co/manga/109710",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109710-icZPLGs7BXPQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 120837,
+    "deletedAt": null,
+    "authors": [
+      "Nao Imai"
+    ]
+  }
 }

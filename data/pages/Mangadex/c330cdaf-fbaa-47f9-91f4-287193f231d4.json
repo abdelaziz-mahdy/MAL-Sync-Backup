@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:10:45.000Z",
-  "updatedAt": "2021-12-05T03:18:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-10-31T16:20:00.000Z",
+  "checkedAt": "2022-10-31T16:00:02.000Z",
   "id": 17817,
   "identifier": "c330cdaf-fbaa-47f9-91f4-287193f231d4",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 117818,
+  "aniId": 115332,
   "deletedAt": null,
   "authors": [
     "Kiduki Kako"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-02-25T21:25:50.000Z",
+    "updatedAt": "2022-05-16T11:23:17.000Z",
+    "checkedAt": "2022-05-16T11:23:17.000Z",
+    "id": 117818,
+    "type": "manga",
+    "title": "Mofukano Potpourri",
+    "altTitle": [
+      "もふかのポプリ"
+    ],
+    "url": "https://myanimelist.net/manga/117818/Mofukano_Potpourri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/227694.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-ryu.jp/_mofuka/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kizuki, Kako"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:29.223Z",
+    "updatedAt": "2022-05-16T11:23:16.000Z",
+    "checkedAt": "2022-05-16T11:23:16.000Z",
+    "id": 115332,
+    "type": "manga",
+    "title": "Mofu Kano Pot-pourri",
+    "altTitle": [
+      "もふかのポプリ"
+    ],
+    "url": "https://anilist.co/manga/115332",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115332-JwHkUiNo2DHZ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 117818,
+    "deletedAt": null,
+    "authors": [
+      "Kako Kizuki"
+    ]
+  }
 }

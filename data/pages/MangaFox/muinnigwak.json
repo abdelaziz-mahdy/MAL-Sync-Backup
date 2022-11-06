@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-02-12T18:09:40.000Z",
-  "updatedAt": "2022-10-13T06:30:01.000Z",
+  "updatedAt": "2022-10-30T23:20:00.000Z",
   "checkedAt": "2022-10-13T06:30:01.000Z",
   "id": 96122,
   "identifier": "muinnigwak",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 152792,
+  "aniId": 135464,
   "deletedAt": null,
   "authors": [
     "Woo-Gak"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-29T20:00:01.641Z",
+    "updatedAt": "2022-10-29T20:00:01.641Z",
+    "checkedAt": "2022-10-29T20:00:01.000Z",
+    "id": 152792,
+    "type": "manga",
+    "title": "Martial Artist Lee Gwak",
+    "altTitle": [
+      "Muin Lee Gwak",
+      "무인이곽"
+    ],
+    "url": "https://myanimelist.net/manga/152792/Martial_Artist_Lee_Gwak",
+    "image": "https://cdn.myanimelist.net/images/manga/3/270667.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/56662907"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu, Geum Chel",
+      "Woogack"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:40.091Z",
+    "updatedAt": "2022-10-30T23:15:44.000Z",
+    "checkedAt": "2022-10-30T23:15:43.000Z",
+    "id": 135464,
+    "type": "manga",
+    "title": "Muinigwak",
+    "altTitle": [
+      "무인이곽",
+      "Uninhabited Wall",
+      "Unmanned Kwak",
+      "Martial Artist Lee Gwak"
+    ],
+    "url": "https://anilist.co/manga/135464",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135464-YigSmlOQY7zI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 152792,
+    "deletedAt": null,
+    "authors": [
+      "U-Gak",
+      "Geum Chel Ryu"
+    ]
+  }
 }

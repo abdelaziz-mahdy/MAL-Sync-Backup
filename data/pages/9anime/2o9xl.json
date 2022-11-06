@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-01T21:03:31.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-02T17:20:00.000Z",
+  "checkedAt": "2022-11-02T02:00:08.000Z",
   "id": 40862,
   "identifier": "2o9xl",
   "type": "anime",
@@ -13,9 +13,61 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 31923,
+  "aniId": 21447,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-02T02:00:11.188Z",
+    "updatedAt": "2022-11-02T02:00:11.188Z",
+    "checkedAt": "2022-11-02T02:00:11.000Z",
+    "id": 31923,
+    "type": "anime",
+    "title": "Mini Hama: Minimum Hamatora Movies",
+    "altTitle": [
+      "Minimum-Hamatora",
+      "Mini Hama Gekijouban Specials",
+      "Mini Hama Episodes 9 and 10",
+      "劇場版 ミニはま -MINIMUM HAMATORA-"
+    ],
+    "url": "https://myanimelist.net/anime/31923/Mini_Hama__Minimum_Hamatora_Movies",
+    "image": "https://cdn.myanimelist.net/images/anime/7/76836.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hamatorapj.com/fw/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11728"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hamatora"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11728
+  },
+  "Ani": {
+    "createdAt": "2021-08-17T08:07:00.000Z",
+    "updatedAt": "2022-11-02T02:03:44.000Z",
+    "checkedAt": "2022-11-02T02:03:44.000Z",
+    "id": 21447,
+    "type": "anime",
+    "title": "Mini Hama Movie",
+    "altTitle": [
+      "劇場版 ミニはま",
+      "MINIMUM-HAMATORA Movie"
+    ],
+    "url": "https://anilist.co/anime/21447",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21447-BXuSvBKf4Y6Y.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 31923,
+    "deletedAt": null
+  }
 }

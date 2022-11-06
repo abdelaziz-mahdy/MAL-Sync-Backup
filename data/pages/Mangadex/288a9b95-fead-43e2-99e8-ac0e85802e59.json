@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-22T04:27:59.000Z",
-  "updatedAt": "2022-03-22T04:27:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-01T22:10:30.000Z",
+  "checkedAt": "2022-10-31T20:00:06.000Z",
   "id": 99822,
   "identifier": "288a9b95-fead-43e2-99e8-ac0e85802e59",
   "type": "manga",
@@ -12,18 +12,43 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 2,
+  "malId": 148055,
   "aniId": 142513,
   "deletedAt": null,
   "authors": [
     "Uguisu Sachiko"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-10-31T20:00:06.308Z",
+    "updatedAt": "2022-10-31T20:00:06.308Z",
+    "checkedAt": "2022-10-31T20:00:06.000Z",
+    "id": 148055,
+    "type": "manga",
+    "title": "Kono Ko ja Nai!",
+    "altTitle": [
+      "この子じゃない!"
+    ],
+    "url": "https://myanimelist.net/manga/148055/Kono_Ko_ja_Nai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/262871.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-action.com/episode/3269754496613224591"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uguisu, Sachiko"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:59:30.527Z",
-    "updatedAt": "2022-05-30T07:10:37.000Z",
-    "checkedAt": "2022-05-30T07:10:37.000Z",
+    "updatedAt": "2022-11-02T16:24:24.000Z",
+    "checkedAt": "2022-11-02T16:24:24.000Z",
     "id": 142513,
     "type": "manga",
     "title": "Kono Ko ja Nai!",
@@ -35,7 +60,7 @@
     "category": "one_shot",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 148055,
     "deletedAt": null,
     "authors": [
       "Sachiko Uguisu"
