@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-02T16:00:16.178Z",
-  "updatedAt": "2022-06-02T16:00:16.000Z",
+  "updatedAt": "2022-11-02T17:20:00.000Z",
   "checkedAt": "2022-06-02T16:00:16.000Z",
   "id": 106177,
   "identifier": "manga-nc990937",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153083,
+  "aniId": 151212,
   "deletedAt": null,
   "authors": [
     "Voke",
@@ -22,6 +22,57 @@
     "Lorenzo (로렌조)",
     "Hammi (함미)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-31T23:00:13.491Z",
+    "updatedAt": "2022-10-31T23:00:13.491Z",
+    "checkedAt": "2022-10-31T23:00:13.000Z",
+    "id": 153083,
+    "type": "manga",
+    "title": "To Hell With Being a Saint, I'm a Doctor",
+    "altTitle": [
+      "Seongja-neun Gaeppul, Hyeondae Uihak-ui Himida",
+      "성자는 개뿔, 현대의학의 힘이다"
+    ],
+    "url": "https://myanimelist.net/manga/153083/To_Hell_With_Being_a_Saint_Im_a_Doctor",
+    "image": "https://cdn.myanimelist.net/images/manga/1/271069.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59422125"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Goriff",
+      "Hammi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-21T17:30:00.284Z",
+    "updatedAt": "2022-11-02T16:25:18.000Z",
+    "checkedAt": "2022-11-02T16:25:18.000Z",
+    "id": 151212,
+    "type": "manga",
+    "title": "Seongjaneun Gaeppul, Hyeondaeuihagui Himida",
+    "altTitle": [
+      "성자는 개뿔, 현대의학의 힘이다",
+      "To Hell With Being A Saint, I’m A Doctor"
+    ],
+    "url": "https://anilist.co/manga/151212",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151212-Nn1gQhovExZk.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153083,
+    "deletedAt": null,
+    "authors": [
+      "Ham-Mi",
+      "Goriff",
+      "Lorenzo",
+      "Voke"
+    ]
+  }
 }

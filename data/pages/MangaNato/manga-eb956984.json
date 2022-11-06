@@ -1,24 +1,73 @@
 {
   "createdAt": "2021-07-15T11:20:51.000Z",
-  "updatedAt": "2022-01-15T11:42:26.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-03T09:20:00.000Z",
+  "checkedAt": "2022-11-02T22:00:11.000Z",
   "id": 81990,
   "identifier": "manga-eb956984",
   "type": "manga",
   "page": "MangaNato",
   "title": "Trace",
-  "url": "https://readmanganato.com/manga-eb956984",
+  "url": "https://chapmanganato.com/manga-eb956984",
   "image": "https://avt.mkklcdnv6temp.com/32/b/4-1583471004.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 16791,
+  "aniId": 46791,
   "deletedAt": null,
   "authors": [
     "Nasty Cat"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:42:23.000Z",
+    "updatedAt": "2022-05-16T06:07:12.000Z",
+    "checkedAt": "2022-05-16T06:07:12.000Z",
+    "id": 16791,
+    "type": "manga",
+    "title": "Trace",
+    "altTitle": [
+      "트레이스"
+    ],
+    "url": "https://myanimelist.net/manga/16791/Trace",
+    "image": "https://cdn.myanimelist.net/images/manga/3/144971.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://cartoon.media.daum.net/webtoon/view/trace"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Trace_(webtoon)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Go, Yeong-Hun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:35.225Z",
+    "updatedAt": "2022-05-16T06:07:17.000Z",
+    "checkedAt": "2022-05-16T06:07:17.000Z",
+    "id": 46791,
+    "type": "manga",
+    "title": "Trace",
+    "altTitle": [
+      "트레이스"
+    ],
+    "url": "https://anilist.co/manga/46791",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46791-WIoMxT1mRVtm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 16791,
+    "deletedAt": null,
+    "authors": [
+      "Yeong-Hun Go"
+    ]
+  }
 }
