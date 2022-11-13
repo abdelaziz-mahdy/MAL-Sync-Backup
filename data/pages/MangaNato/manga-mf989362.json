@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-07-27T13:21:35.000Z",
-  "updatedAt": "2022-05-16T15:30:22.000Z",
+  "updatedAt": "2022-11-08T22:58:37.000Z",
   "checkedAt": "2022-05-16T15:30:07.000Z",
   "id": 83130,
   "identifier": "manga-mf989362",
@@ -12,18 +12,46 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147577,
   "aniId": 137304,
   "deletedAt": null,
   "authors": [
     "유진성"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-14T02:31:33.687Z",
+    "updatedAt": "2022-06-14T02:31:33.687Z",
+    "checkedAt": "2022-06-14T02:31:33.000Z",
+    "id": 147577,
+    "type": "manga",
+    "title": "Return of the Mad Demon",
+    "altTitle": [
+      "Gwangma Hoegwi",
+      "Return of the Mad Demon",
+      "광마회귀"
+    ],
+    "url": "https://myanimelist.net/manga/147577/Return_of_the_Mad_Demon",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261793.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=776601"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yu, Jinsung",
+      "Ihy"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:51:04.137Z",
-    "updatedAt": "2022-05-13T16:36:28.000Z",
-    "checkedAt": "2022-05-13T16:36:28.000Z",
+    "updatedAt": "2022-11-10T19:43:13.000Z",
+    "checkedAt": "2022-11-10T19:43:13.000Z",
     "id": 137304,
     "type": "manga",
     "title": "Gwangmahoegwi",
@@ -31,14 +59,16 @@
       "Return of the Mad Demon",
       "광마회귀",
       "The Return of the Crazy Demon",
-      "อสูรคลั่งผู้หวนคืน"
+      "อสูรคลั่งผู้หวนคืน",
+      "狂魔重生記",
+      "狂魔重生"
     ],
     "url": "https://anilist.co/manga/137304",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137304-BGeSKgGow18v.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147577,
     "deletedAt": null,
     "authors": [
       "JP",
