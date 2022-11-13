@@ -1,13 +1,14 @@
 {
   "createdAt": "2022-05-13T12:58:49.879Z",
-  "updatedAt": "2022-05-13T12:58:49.879Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-07T20:01:40.000Z",
+  "checkedAt": "2022-11-07T20:01:40.000Z",
   "id": 113065,
   "type": "manga",
   "title": "Box: Hako no Naka ni Nanika Iru",
   "altTitle": [
     "BOX～箱の中に何かいる～",
-    "Box - What's in the Box?"
+    "Box - What's in the Box?",
+    "Box. Hay algo dentro de la caja"
   ],
   "url": "https://anilist.co/manga/113065",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113065-FZOiTeKQsjjI.jpg",
@@ -17,7 +18,33 @@
   "malId": 111368,
   "deletedAt": null,
   "authors": [
-    "Daijiro Morohoshi"
+    "Daijiro Morohoshi",
+    "Marc Bernabé"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "96105ea3-930a-47fa-9b5f-cbb69d84a0eb": {
+        "createdAt": "2022-11-10T14:00:16.419Z",
+        "updatedAt": "2022-11-10T14:00:16.000Z",
+        "checkedAt": "2022-11-10T14:00:16.000Z",
+        "id": 117642,
+        "identifier": "96105ea3-930a-47fa-9b5f-cbb69d84a0eb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BOX - Something's in the Box",
+        "url": "https://mangadex.org/title/96105ea3-930a-47fa-9b5f-cbb69d84a0eb",
+        "image": "https://uploads.mangadex.org/covers/96105ea3-930a-47fa-9b5f-cbb69d84a0eb/be254222-5026-4244-beab-995b65d267d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": null,
+        "aniId": 113065,
+        "deletedAt": null,
+        "authors": [
+          "Morohoshi Daijirou"
+        ]
+      }
+    }
+  }
 }

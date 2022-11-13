@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-05-31T09:44:53.000Z",
-  "updatedAt": "2022-07-19T04:00:00.000Z",
+  "updatedAt": "2022-11-10T20:20:00.000Z",
   "checkedAt": "2022-07-19T04:00:00.000Z",
   "id": 74770,
   "identifier": "manga-gm983469",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147168,
+  "aniId": 103854,
   "deletedAt": null,
   "authors": [
     "Ryu Hyang"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-27T20:01:00.527Z",
+    "updatedAt": "2022-05-27T20:01:00.527Z",
+    "checkedAt": "2022-05-27T20:01:00.000Z",
+    "id": 147168,
+    "type": "manga",
+    "title": "Light and Shadow",
+    "altTitle": [
+      "Bit-gwa Geurimja",
+      "Golden Time",
+      "Light and Shadow",
+      "빛과 그림자"
+    ],
+    "url": "https://myanimelist.net/manga/147168/Light_and_Shadow",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261202.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=49314208"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu Hyang",
+      "Heewon"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:15.927Z",
+    "updatedAt": "2022-05-28T08:48:53.000Z",
+    "checkedAt": "2022-05-28T08:48:53.000Z",
+    "id": 103854,
+    "type": "manga",
+    "title": "Bitgwa Geurimja",
+    "altTitle": [
+      "Light and Shadow",
+      "빛과 그림자",
+      "光と影"
+    ],
+    "url": "https://anilist.co/manga/103854",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103854-kqOb6lSugEam.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147168,
+    "deletedAt": null,
+    "authors": [
+      "Hyang Ryu",
+      "Hee Won"
+    ]
+  }
 }

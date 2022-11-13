@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-05T19:00:11.118Z",
-  "updatedAt": "2022-11-05T19:00:11.118Z",
+  "updatedAt": "2022-11-06T15:20:00.000Z",
   "checkedAt": "2022-11-05T19:00:11.000Z",
   "id": 117432,
   "identifier": "manga-eb982058",
@@ -11,15 +11,63 @@
   "image": "https://avt.mkklcdnv6temp.com/37/o/18-1583498554.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 11439,
+  "aniId": 41439,
   "deletedAt": null,
   "authors": [
     "Kenichi Sakemi",
     "Kondo Katsuya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:41:33.000Z",
+    "updatedAt": "2022-11-05T19:00:12.000Z",
+    "checkedAt": "2022-11-05T19:00:12.000Z",
+    "id": 11439,
+    "type": "manga",
+    "title": "D'Arc : Jeanne D'Arc Den",
+    "altTitle": [
+      "Jeanne D'Arc",
+      "Joan of Ark",
+      "Darc.",
+      "ジャンヌ・ダルク伝"
+    ],
+    "url": "https://myanimelist.net/manga/11439/DArc___Jeanne_DArc_Den",
+    "image": "https://cdn.myanimelist.net/images/manga/1/15742.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kondou, Katsuya",
+      "Sakemi, Kenichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:45.632Z",
+    "updatedAt": "2022-11-12T11:28:47.000Z",
+    "checkedAt": "2022-11-12T11:28:47.000Z",
+    "id": 41439,
+    "type": "manga",
+    "title": "D'Arc : Jeanne D'Arc Den",
+    "altTitle": [
+      "ジャンヌ・ダルク伝",
+      "Jeanne D'Arc",
+      "Joan of Ark",
+      "Darc."
+    ],
+    "url": "https://anilist.co/manga/41439",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11439.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 11439,
+    "deletedAt": null,
+    "authors": [
+      "Katsuya Kondou",
+      "Kenichi Sakemi"
+    ]
+  }
 }
