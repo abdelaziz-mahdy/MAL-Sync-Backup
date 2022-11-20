@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-01-14T12:42:17.000Z",
-  "updatedAt": "2022-11-12T05:00:00.000Z",
+  "updatedAt": "2022-11-14T10:20:00.000Z",
   "checkedAt": "2022-11-12T05:00:00.000Z",
   "id": 39814,
   "identifier": "800rq",
@@ -12,10 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 6331,
+  "aniId": 6331,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:51.000Z",
+    "updatedAt": "2022-05-15T08:11:14.000Z",
+    "checkedAt": "2022-05-15T08:11:14.000Z",
+    "id": 6331,
+    "type": "anime",
+    "title": "Ten Little Gall Force",
+    "altTitle": [
+      "Super Deformed Double Feature",
+      "テンリトルガルフォース"
+    ],
+    "url": "https://myanimelist.net/anime/6331/Ten_Little_Gall_Force",
+    "image": "https://cdn.myanimelist.net/images/anime/5/26536.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2888"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=958"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gall_Force#Mainstream Series"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2888
+  },
+  "Ani": {
+    "createdAt": "2021-08-18T02:07:00.000Z",
+    "updatedAt": "2022-05-16T08:36:24.000Z",
+    "checkedAt": "2022-05-16T08:36:24.000Z",
+    "id": 6331,
+    "type": "anime",
+    "title": "The Ten Little Gall Force",
+    "altTitle": [
+      "テンリトルガルフォース",
+      "Super Deformed Double Feature"
+    ],
+    "url": "https://anilist.co/anime/6331",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6331.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6331,
+    "deletedAt": null
+  }
 }

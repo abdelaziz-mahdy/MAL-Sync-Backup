@@ -1,24 +1,71 @@
 {
   "createdAt": "2021-07-30T16:22:22.000Z",
-  "updatedAt": "2022-01-30T16:50:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-16T08:20:00.000Z",
+  "checkedAt": "2022-11-15T17:00:02.000Z",
   "id": 83371,
   "identifier": "manga-bg954063",
   "type": "manga",
   "page": "MangaNato",
   "title": "Lucky Star",
-  "url": "https://readmanganato.com/manga-bg954063",
+  "url": "https://chapmanganato.com/manga-bg954063",
   "image": "https://avt.mkklcdnv6temp.com/45/j/2-1583467436.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 587,
+  "aniId": 30587,
   "deletedAt": null,
   "authors": [
     "Yoshimizu Kagami"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:23.000Z",
+    "updatedAt": "2022-11-16T07:38:14.000Z",
+    "checkedAt": "2022-11-16T07:38:14.000Z",
+    "id": 587,
+    "type": "manga",
+    "title": "Lucky☆Star",
+    "altTitle": [
+      "Lucky☆Star",
+      "らき☆すた"
+    ],
+    "url": "https://myanimelist.net/manga/587/Lucky☆Star",
+    "image": "https://cdn.myanimelist.net/images/manga/3/265400.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%89%E3%81%8D%E2%98%86%E3%81%99%E3%81%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshimizu, Kagami"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:44.476Z",
+    "updatedAt": "2022-05-15T20:12:23.000Z",
+    "checkedAt": "2022-05-15T20:12:23.000Z",
+    "id": 30587,
+    "type": "manga",
+    "title": "Lucky☆Star",
+    "altTitle": [
+      "Lucky☆Star",
+      "らき☆すた"
+    ],
+    "url": "https://anilist.co/manga/30587",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30587-hfs5q5ZQw065.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 587,
+    "deletedAt": null,
+    "authors": [
+      "Kagami Yoshimizu"
+    ]
+  }
 }

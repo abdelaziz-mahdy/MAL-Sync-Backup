@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-29T22:00:31.131Z",
-  "updatedAt": "2022-07-29T22:00:31.000Z",
+  "updatedAt": "2022-11-14T09:26:18.000Z",
   "checkedAt": "2022-07-29T22:00:31.000Z",
   "id": 111414,
   "identifier": "290e310d-d865-4e1e-a6a5-ccab2dbe8445",
@@ -12,13 +12,58 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149662,
+  "aniId": 152483,
   "deletedAt": null,
   "authors": [
     "Nagashii Kouhei"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-29T22:00:31.819Z",
+    "updatedAt": "2022-07-29T22:00:31.819Z",
+    "checkedAt": "2022-07-29T22:00:31.000Z",
+    "id": 149662,
+    "type": "manga",
+    "title": "Scary Campus College University",
+    "altTitle": [
+      "スケアリー・キャンパス・カレッジ・ユニバーシティ"
+    ],
+    "url": "https://myanimelist.net/manga/149662/Scary_Campus_College_University",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265528.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.yanmaga.jp/c/SCCU/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagashii, Kouhei"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-11-13T01:00:00.314Z",
+    "updatedAt": "2022-11-13T01:00:00.314Z",
+    "checkedAt": "2022-11-13T01:00:00.000Z",
+    "id": 152483,
+    "type": "manga",
+    "title": "Scary Campus College University",
+    "altTitle": [
+      "スケアリー・キャンパス・カレッジ・ユニバーシティ"
+    ],
+    "url": "https://anilist.co/manga/152483",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx152483-Gwq05oW7g4ZV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149662,
+    "deletedAt": null,
+    "authors": [
+      "Kouhei Nagashii"
+    ]
+  }
 }

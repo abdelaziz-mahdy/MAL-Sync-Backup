@@ -1,24 +1,71 @@
 {
   "createdAt": "2022-03-20T10:19:36.000Z",
-  "updatedAt": "2022-03-20T10:19:36.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-18T07:17:31.000Z",
+  "checkedAt": "2022-11-17T14:00:02.000Z",
   "id": 99676,
   "identifier": "13ecfc67-9481-4045-974a-292c81288077",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Brides of Iberis",
+  "title": "Iberis no Hanayome",
   "url": "https://mangadex.org/title/13ecfc67-9481-4045-974a-292c81288077",
-  "image": "https://uploads.mangadex.org/covers/13ecfc67-9481-4045-974a-292c81288077/100ef22e-15a5-43ad-9b71-0c04ed3455f1.png",
+  "image": "https://uploads.mangadex.org/covers/13ecfc67-9481-4045-974a-292c81288077/eed9c8d2-6a56-4fa7-b1e2-944f51c6969f.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 145948,
+  "aniId": 143535,
   "deletedAt": null,
   "authors": [
     "Akiyama Haru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-28T21:00:07.725Z",
+    "updatedAt": "2022-06-28T21:00:07.725Z",
+    "checkedAt": "2022-06-28T21:00:07.000Z",
+    "id": 145948,
+    "type": "manga",
+    "title": "Iberis no Hanayome",
+    "altTitle": [
+      "Brides of Iberis",
+      "イベリスの花嫁"
+    ],
+    "url": "https://myanimelist.net/manga/145948/Iberis_no_Hanayome",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262449.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bigcomicbros.net/work/70323/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Akiyama, Haru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:19.438Z",
+    "updatedAt": "2022-07-27T17:56:15.000Z",
+    "checkedAt": "2022-07-27T17:56:15.000Z",
+    "id": 143535,
+    "type": "manga",
+    "title": "Iberis no Hanayome",
+    "altTitle": [
+      "イベリスの花嫁",
+      "Brides of Iberis"
+    ],
+    "url": "https://anilist.co/manga/143535",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143535-uvWc8t18hia6.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145948,
+    "deletedAt": null,
+    "authors": [
+      "Haru Akiyama"
+    ]
+  }
 }

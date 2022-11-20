@@ -1,12 +1,13 @@
 {
   "createdAt": "2022-05-13T13:03:19.662Z",
-  "updatedAt": "2022-05-13T13:03:19.662Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-17T14:30:10.000Z",
+  "checkedAt": "2022-11-17T14:30:10.000Z",
   "id": 123354,
   "type": "manga",
   "title": "Revelation",
   "altTitle": [
-    "レベレーション"
+    "レベレーション",
+    "レベレーション (啓示)"
   ],
   "url": "https://anilist.co/manga/123354",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123354-ocaCcLanLtvy.jpg",
@@ -18,5 +19,30 @@
   "authors": [
     "Ryouko Yamagishi"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4fcd33e8-92d0-45db-93a8-374c3dd639f6": {
+        "createdAt": "2022-11-17T14:30:10.154Z",
+        "updatedAt": "2022-11-17T14:30:10.000Z",
+        "checkedAt": "2022-11-17T14:30:10.000Z",
+        "id": 118051,
+        "identifier": "4fcd33e8-92d0-45db-93a8-374c3dd639f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Revelation (YAMAGISHI Ryouko)",
+        "url": "https://mangadex.org/title/4fcd33e8-92d0-45db-93a8-374c3dd639f6",
+        "image": "https://uploads.mangadex.org/covers/4fcd33e8-92d0-45db-93a8-374c3dd639f6/0a7ce1e6-dbfc-4004-a214-a541ad0a84b5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 136768,
+        "aniId": 123354,
+        "deletedAt": null,
+        "authors": [
+          "Yamagishi Ryouko"
+        ]
+      }
+    }
+  }
 }
