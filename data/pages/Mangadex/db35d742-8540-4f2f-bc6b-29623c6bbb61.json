@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-23T16:36:08.000Z",
-  "updatedAt": "2021-11-23T16:36:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-16T07:37:41.000Z",
+  "checkedAt": "2022-11-14T18:30:12.000Z",
   "id": 91653,
   "identifier": "db35d742-8540-4f2f-bc6b-29623c6bbb61",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142637,
+  "aniId": 141593,
   "deletedAt": null,
   "authors": [
     "Karasuya Satoshi",
@@ -34,6 +34,77 @@
     "Hareno Chiame",
     "Miduki Aki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-03T11:53:53.000Z",
+    "updatedAt": "2022-05-15T15:20:39.000Z",
+    "checkedAt": "2022-05-15T15:20:39.000Z",
+    "id": 142637,
+    "type": "manga",
+    "title": "Mieruko-chan: Koushiki Anthology Comic",
+    "altTitle": [
+      "Mieruko-chan Official Anthology Comic",
+      "見える子ちゃん 公式アンソロジーコミック"
+    ],
+    "url": "https://myanimelist.net/manga/142637/Mieruko-chan__Koushiki_Anthology_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253743.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%A6%8B%E3%81%88%E3%82%8B%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Katayama, Yousuke",
+      "Nishi, Yoshiyuki",
+      "Dowman, Sayman",
+      "Karasuya, Satoshi",
+      "Noroi, Michiru",
+      "Harenochiame",
+      "Arita, Imari",
+      "Goumoto",
+      "Kageyama, Shu",
+      "Sorakura, Shikiji",
+      "Nabeya, Yakan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:15.321Z",
+    "updatedAt": "2022-05-15T18:47:59.000Z",
+    "checkedAt": "2022-05-15T18:47:59.000Z",
+    "id": 141593,
+    "type": "manga",
+    "title": "Mieruko-chan Koushiki Anthology Comic",
+    "altTitle": [
+      "見える子ちゃん 公式アンソロジーコミック"
+    ],
+    "url": "https://anilist.co/manga/141593",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141593-UkoBa4Uvv25n.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142637,
+    "deletedAt": null,
+    "authors": [
+      "Tomoki Izumi",
+      "Norio Sakurai",
+      "Satoshi Karasuya",
+      "Yoshiyuki Nishi",
+      "Chiame Hareno",
+      "Sayman Dowman",
+      "Imari Arita",
+      "Kageyama Shuu",
+      "Yousuke Katayama",
+      "Goumoto",
+      "Michiru Noroi",
+      "Shijiki Sorakura",
+      "Dora Urasaka",
+      "Ichiko Bukiyama",
+      "Yakan Nabeya",
+      "Aki Mizuki"
+    ]
+  }
 }
