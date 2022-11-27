@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-11T20:30:19.926Z",
-  "updatedAt": "2022-08-11T20:30:19.000Z",
+  "updatedAt": "2022-11-24T10:20:03.000Z",
   "checkedAt": "2022-08-11T20:30:19.000Z",
   "id": 112293,
   "identifier": "1b2a2d45-b9c5-4d53-9fcb-dda7b3cd5d2e",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 150639,
+  "aniId": 153975,
   "deletedAt": null,
   "authors": [
     "Ju Hyeon",
     "Molko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-23T09:30:01.420Z",
+    "updatedAt": "2022-11-23T09:30:01.420Z",
+    "checkedAt": "2022-11-23T09:30:01.000Z",
+    "id": 150639,
+    "type": "manga",
+    "title": "Forget About My Husband, I'd Rather Go Make Money",
+    "altTitle": [
+      "Forget My Husband, I'll Go Make Money",
+      "남편은 됐고, 돈이나 벌렵니다"
+    ],
+    "url": "https://myanimelist.net/manga/150639/Forget_About_My_Husband_Id_Rather_Go_Make_Money",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267054.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59978716"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ju, Haeon",
+      "Molko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-08-25T01:00:14.813Z",
+    "updatedAt": "2022-08-25T01:00:14.813Z",
+    "checkedAt": "2022-08-25T01:00:14.000Z",
+    "id": 153975,
+    "type": "manga",
+    "title": "Nampyeoneun Dwaetgo, Donina Beollyeomnida",
+    "altTitle": [
+      "남편은 됐고, 돈이나 벌렵니다",
+      "Forget About My Husband, I'd Rather Go Make Money",
+      "I’m Done with My Husband, I’ll Go and Make Money"
+    ],
+    "url": "https://anilist.co/manga/153975",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153975-qOM20QfRhNA0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Hae-On Ju",
+      "Moo Ban",
+      "Mol-Ko"
+    ]
+  }
 }

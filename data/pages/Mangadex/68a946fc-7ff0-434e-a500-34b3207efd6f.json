@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-10-25T07:30:02.118Z",
-  "updatedAt": "2022-10-25T07:30:02.118Z",
+  "updatedAt": "2022-11-21T21:50:47.000Z",
   "checkedAt": "2022-10-25T07:30:02.000Z",
   "id": 116808,
   "identifier": "68a946fc-7ff0-434e-a500-34b3207efd6f",
@@ -11,10 +11,10 @@
   "image": "https://uploads.mangadex.org/covers/68a946fc-7ff0-434e-a500-34b3207efd6f/5fddeea0-f7a3-4e20-8063-928921bf4ffe.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
+  "active": true,
+  "actorId": 1,
   "malId": 139707,
-  "aniId": null,
+  "aniId": 146111,
   "deletedAt": null,
   "authors": [
     "Yuzumoto Haruto",
@@ -47,5 +47,28 @@
       "magako"
     ]
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:48.307Z",
+    "updatedAt": "2022-11-22T11:06:02.000Z",
+    "checkedAt": "2022-11-22T11:06:02.000Z",
+    "id": 146111,
+    "type": "manga",
+    "title": "Class no Bocchi Gal wo Omochikaeri Shite Seisokei Bijin ni Shite Yatta Hanashi",
+    "altTitle": [
+      "クラスのぼっちギャルをお持ち帰りして清楚系美人にしてやった話"
+    ],
+    "url": "https://anilist.co/manga/146111",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146111-my1m5qm0wmqZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Asagiya",
+      "Haruto Yuzumoto",
+      "magako",
+      "Hajime Nanase"
+    ]
+  }
 }

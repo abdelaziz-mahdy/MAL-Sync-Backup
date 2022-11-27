@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-01-04T17:49:25.000Z",
-  "updatedAt": "2022-05-26T18:30:03.000Z",
+  "updatedAt": "2022-11-21T22:20:01.000Z",
   "checkedAt": "2022-05-26T18:30:03.000Z",
   "id": 94264,
   "identifier": "manga-nl990368",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149572,
+  "aniId": 143512,
   "deletedAt": null,
   "authors": [
     "Jubi",
     "Miyul"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-25T08:30:25.318Z",
+    "updatedAt": "2022-07-25T08:30:25.318Z",
+    "checkedAt": "2022-07-25T08:30:25.000Z",
+    "id": 149572,
+    "type": "manga",
+    "title": "The Stormy Inn",
+    "altTitle": [
+      "Storm Inn",
+      "Pungun Gaekjan",
+      "The Stormy Inn",
+      "풍운객잔"
+    ],
+    "url": "https://myanimelist.net/manga/149572/The_Stormy_Inn",
+    "image": "https://cdn.myanimelist.net/images/manga/3/265301.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=58306830"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Juvi",
+      "Miyul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:16.385Z",
+    "updatedAt": "2022-07-25T16:01:51.000Z",
+    "checkedAt": "2022-07-25T16:01:51.000Z",
+    "id": 143512,
+    "type": "manga",
+    "title": "Pungungaekjan",
+    "altTitle": [
+      "The Stormy Inn",
+      "풍운객잔",
+      "Storm Inn",
+      "風雲客桟"
+    ],
+    "url": "https://anilist.co/manga/143512",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143512-O3onSqHHNXdH.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149572,
+    "deletedAt": null,
+    "authors": [
+      "Jubi",
+      "Miyul"
+    ]
+  }
 }

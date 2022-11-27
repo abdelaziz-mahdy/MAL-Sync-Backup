@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-06-02T19:31:42.000Z",
-  "updatedAt": "2022-06-14T00:31:09.000Z",
+  "updatedAt": "2022-11-21T22:20:01.000Z",
   "checkedAt": "2022-06-14T00:31:09.000Z",
   "id": 75942,
   "identifier": "manga-kb987710",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 144203,
+  "aniId": 148603,
   "deletedAt": null,
   "authors": [
     "Amaharu Niko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-09T03:01:06.000Z",
+    "updatedAt": "2022-05-13T19:36:56.000Z",
+    "checkedAt": "2022-05-13T19:36:56.000Z",
+    "id": 144203,
+    "type": "manga",
+    "title": "Moto Dorei desu ga, Oni no Dorei wo Kattemitara Seiryoku ga Tsuyosugiru node Sutetai......",
+    "altTitle": [
+      "I'm a Former Slave, but I Tried to Buy an Oni Slave Who I Later Found to Have Too Much Energy, so I Want to Throw Him Away...",
+      "元奴隷ですが、鬼の奴隷を買ってみたら精力が強すぎるので捨てたい……"
+    ],
+    "url": "https://myanimelist.net/manga/144203/Moto_Dorei_desu_ga_Oni_no_Dorei_wo_Kattemitara_Seiryoku_ga_Tsuyosugiru_node_Sutetai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/255903.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-boost.com/series/271"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Saitou, Misaki",
+      "Amaharu, Niko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:36.970Z",
+    "updatedAt": "2022-05-20T19:22:09.000Z",
+    "checkedAt": "2022-05-20T19:22:09.000Z",
+    "id": 148603,
+    "type": "manga",
+    "title": "Moto Dorei desu ga, Oni no Dorei wo Kattemitara Seiryoku ga Tsuyosugiru node Sutetai......",
+    "altTitle": [
+      "元奴隷ですが、鬼の奴隷を買ってみたら精力が強すぎるので捨てたい……",
+      "Moto Dorei Desu ga, Oni no Dorei wo Katte Mitara Seiryoku ga Tsuyosugiru node Sutetai...",
+      "I'm a Former Slave, but I Tried to Buy an Oni Slave Who I Later Found to Have Too Much Energy, so I Want to Throw Him Away...",
+      "I'm a Former Slave, but I Tried to Buy an Oni Slave Who I Later Found to Have Too Much Energy So I Want to Throw Him Away...",
+      "I Bought a Demon Slave but It's Too Strong That I Want to Throw It Away..."
+    ],
+    "url": "https://anilist.co/manga/148603",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx148603-2ELYNebfIKcl.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144203,
+    "deletedAt": null,
+    "authors": [
+      "Misaki Saitou",
+      "Nico Amaharu"
+    ]
+  }
 }
