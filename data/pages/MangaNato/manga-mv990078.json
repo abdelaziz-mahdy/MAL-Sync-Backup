@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-11-28T07:05:42.000Z",
-  "updatedAt": "2022-11-19T21:00:03.000Z",
+  "updatedAt": "2022-11-21T22:20:01.000Z",
   "checkedAt": "2022-11-19T21:00:03.000Z",
   "id": 91856,
   "identifier": "manga-mv990078",
@@ -12,14 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136234,
+  "aniId": 128240,
   "deletedAt": null,
   "authors": [
     "Tsukiyo Namida.",
     "Nagao-Ken"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-10-10T18:42:57.000Z",
+    "updatedAt": "2022-05-18T09:13:07.000Z",
+    "checkedAt": "2022-05-18T09:13:07.000Z",
+    "id": 136234,
+    "type": "manga",
+    "title": "Kaifuku Jutsushi no Omotenashi",
+    "altTitle": [
+      "Hospitality of Healer",
+      "回復術士のおもてなし"
+    ],
+    "url": "https://myanimelist.net/manga/136234/Kaifuku_Jutsushi_no_Omotenashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/248797.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/youngaceup/contents/1000156/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki//回復術士のやり直し"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagao, Kudan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:16.755Z",
+    "updatedAt": "2022-05-18T09:13:06.000Z",
+    "checkedAt": "2022-05-18T09:13:06.000Z",
+    "id": 128240,
+    "type": "manga",
+    "title": "Kaifuku Jutsushi no Omotenashi",
+    "altTitle": [
+      "回復術士のおもてなし",
+      "Hospitality of Healer"
+    ],
+    "url": "https://anilist.co/manga/128240",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128240-qti1KBSKuGRx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136234,
+    "deletedAt": null,
+    "authors": [
+      "Rui Tsukiyo",
+      "Siokonbu",
+      "Ken Nagao"
+    ]
+  }
 }

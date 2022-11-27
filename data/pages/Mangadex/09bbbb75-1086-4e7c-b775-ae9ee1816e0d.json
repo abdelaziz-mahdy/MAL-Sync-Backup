@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-03T21:00:16.066Z",
-  "updatedAt": "2022-11-03T21:00:16.000Z",
+  "updatedAt": "2022-11-26T16:22:44.000Z",
   "checkedAt": "2022-11-03T21:00:16.000Z",
   "id": 117319,
   "identifier": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
@@ -12,14 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 152946,
+  "aniId": 156553,
   "deletedAt": null,
   "authors": [
     "One",
     "Azuma Kyoutarou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-25T22:00:02.043Z",
+    "updatedAt": "2022-11-25T22:00:02.043Z",
+    "checkedAt": "2022-11-25T22:00:02.000Z",
+    "id": 152946,
+    "type": "manga",
+    "title": "Versus",
+    "altTitle": [
+      "Vs.",
+      "バーサス"
+    ],
+    "url": "https://myanimelist.net/manga/152946/Versus",
+    "image": "https://cdn.myanimelist.net/images/manga/2/272533.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonen-sirius.com/series/sirius/versus/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "ONE",
+      "Azuma, Kyoutarou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-11-25T22:00:00.325Z",
+    "updatedAt": "2022-11-25T22:00:00.325Z",
+    "checkedAt": "2022-11-25T22:00:00.000Z",
+    "id": 156553,
+    "type": "manga",
+    "title": "Versus",
+    "altTitle": [
+      "バーサス"
+    ],
+    "url": "https://anilist.co/manga/156553",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156553-SW4RSAVXdXTw.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "ONE",
+      "Kyoutarou Azuma"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-04T01:30:43.700Z",
-  "updatedAt": "2022-09-04T01:30:44.000Z",
+  "updatedAt": "2022-11-21T21:48:48.000Z",
   "checkedAt": "2022-09-04T01:30:43.000Z",
   "id": 113836,
   "identifier": "manga-op992250",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": 150498,
-  "aniId": null,
+  "aniId": 153682,
   "deletedAt": null,
   "authors": [
     "Ongoo (옹구)"
@@ -46,5 +46,27 @@
       "Dai"
     ]
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-08-22T00:30:03.993Z",
+    "updatedAt": "2022-11-22T11:05:46.000Z",
+    "checkedAt": "2022-11-22T11:05:46.000Z",
+    "id": 153682,
+    "type": "manga",
+    "title": "ZomGan",
+    "altTitle": [
+      "ZomGan",
+      "좀간"
+    ],
+    "url": "https://anilist.co/manga/153682",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153682-SOcrYiiJKaXc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ongoo",
+      "Dai"
+    ]
+  }
 }

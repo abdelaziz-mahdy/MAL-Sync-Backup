@@ -1,20 +1,21 @@
 {
   "createdAt": "2022-11-04T12:00:01.948Z",
-  "updatedAt": "2022-11-04T12:00:01.948Z",
-  "checkedAt": "2022-11-04T12:00:01.000Z",
+  "updatedAt": "2022-11-22T11:06:06.000Z",
+  "checkedAt": "2022-11-22T11:06:06.000Z",
   "id": 156193,
   "type": "manga",
   "title": "Gucheongugeom",
   "altTitle": [
     "구천구검",
-    "Heavenly Inquisition Sword"
+    "Heavenly Inquisition Sword",
+    "Nine Heavens Swordmaster"
   ],
   "url": "https://anilist.co/manga/156193",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156193-T1rNMq2Vxs0Y.jpg",
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 153509,
   "deletedAt": null,
   "authors": [
     "Jin-Haeng Jo",
@@ -25,7 +26,7 @@
     "MangaNato": {
       "manga-pw992931": {
         "createdAt": "2022-11-01T09:00:05.155Z",
-        "updatedAt": "2022-11-04T13:55:58.000Z",
+        "updatedAt": "2022-11-21T21:48:46.000Z",
         "checkedAt": "2022-11-01T09:00:05.000Z",
         "id": 117166,
         "identifier": "manga-pw992931",
@@ -38,11 +39,61 @@
         "sticky": false,
         "active": true,
         "actorId": 1,
-        "malId": null,
+        "malId": 153509,
         "aniId": 156193,
         "deletedAt": null,
         "authors": [
           "Cardok",
+          "Jo Jin Young"
+        ]
+      }
+    },
+    "Mangadex": {
+      "c730e74b-cd7c-4a41-bbc6-ffb4693404dc": {
+        "createdAt": "2022-11-02T13:00:06.534Z",
+        "updatedAt": "2022-11-22T11:20:00.000Z",
+        "checkedAt": "2022-11-02T13:00:06.000Z",
+        "id": 117243,
+        "identifier": "c730e74b-cd7c-4a41-bbc6-ffb4693404dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nine Heavens Swordmaster",
+        "url": "https://mangadex.org/title/c730e74b-cd7c-4a41-bbc6-ffb4693404dc",
+        "image": "https://uploads.mangadex.org/covers/c730e74b-cd7c-4a41-bbc6-ffb4693404dc/5d365412-a713-4fab-bd82-e81a5a1e84a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153509,
+        "aniId": 156193,
+        "deletedAt": null,
+        "authors": [
+          "Jo Jin Young",
+          "Cardok",
+          "Saint Nine"
+        ]
+      }
+    },
+    "MangaFox": {
+      "heavenly_inquisition_sword": {
+        "createdAt": "2022-11-20T17:00:02.082Z",
+        "updatedAt": "2022-11-21T21:48:34.000Z",
+        "checkedAt": "2022-11-20T17:00:02.000Z",
+        "id": 118270,
+        "identifier": "heavenly_inquisition_sword",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heavenly Inquisition Sword",
+        "url": "https://fanfox.net/manga/heavenly_inquisition_sword/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/44030/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153509,
+        "aniId": 156193,
+        "deletedAt": null,
+        "authors": [
           "Jo Jin Young"
         ]
       }

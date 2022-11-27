@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-09T04:30:05.076Z",
-  "updatedAt": "2022-06-09T04:30:05.000Z",
+  "updatedAt": "2022-11-21T21:51:05.000Z",
   "checkedAt": "2022-06-09T04:30:05.000Z",
   "id": 106815,
   "identifier": "manga-nd991112",
@@ -12,19 +12,48 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 153399,
   "aniId": 150319,
   "deletedAt": null,
   "authors": [
     "Myosu (묘수)",
     "Leopeu (러프)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-11-20T17:30:13.609Z",
+    "updatedAt": "2022-11-20T17:30:13.609Z",
+    "checkedAt": "2022-11-20T17:30:13.000Z",
+    "id": 153399,
+    "type": "manga",
+    "title": "Chronicles of the Martial God's Return",
+    "altTitle": [
+      "Chronicles of a Returner",
+      "Record of Return",
+      "Musin Gwihwanrok",
+      "무신귀환록"
+    ],
+    "url": "https://myanimelist.net/manga/153399/Chronicles_of_the_Martial_Gods_Return",
+    "image": "https://cdn.myanimelist.net/images/manga/3/271901.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59492385"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Myosu",
+      "Rough"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-06-03T18:30:02.606Z",
-    "updatedAt": "2022-06-03T18:30:02.606Z",
-    "checkedAt": "2022-06-03T18:30:02.000Z",
+    "updatedAt": "2022-11-22T11:05:27.000Z",
+    "checkedAt": "2022-11-22T11:05:27.000Z",
     "id": 150319,
     "type": "manga",
     "title": "Musingwihwallok",
@@ -38,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 153399,
     "deletedAt": null,
     "authors": [
       "Myosu",

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-06-01T02:30:06.370Z",
-  "updatedAt": "2022-06-01T02:30:06.000Z",
+  "updatedAt": "2022-11-22T11:20:00.000Z",
   "checkedAt": "2022-06-01T02:30:06.000Z",
   "id": 106033,
   "identifier": "54e1b971-fe2c-4720-b96b-4dc049863ae7",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153399,
+  "aniId": 150319,
   "deletedAt": null,
   "authors": [
     "Myosu (묘수)",
     "Leopeu (러프)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-20T17:30:13.609Z",
+    "updatedAt": "2022-11-20T17:30:13.609Z",
+    "checkedAt": "2022-11-20T17:30:13.000Z",
+    "id": 153399,
+    "type": "manga",
+    "title": "Chronicles of the Martial God's Return",
+    "altTitle": [
+      "Chronicles of a Returner",
+      "Record of Return",
+      "Musin Gwihwanrok",
+      "무신귀환록"
+    ],
+    "url": "https://myanimelist.net/manga/153399/Chronicles_of_the_Martial_Gods_Return",
+    "image": "https://cdn.myanimelist.net/images/manga/3/271901.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59492385"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Myosu",
+      "Rough"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-06-03T18:30:02.606Z",
+    "updatedAt": "2022-11-22T11:05:27.000Z",
+    "checkedAt": "2022-11-22T11:05:27.000Z",
+    "id": 150319,
+    "type": "manga",
+    "title": "Musingwihwallok",
+    "altTitle": [
+      "무신귀환록",
+      "Chronicles Of The Martial God’s Return",
+      "Chronicles of a Returner"
+    ],
+    "url": "https://anilist.co/manga/150319",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150319-Q5hDqxkIk2LR.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153399,
+    "deletedAt": null,
+    "authors": [
+      "Myosu",
+      "Reopeu"
+    ]
+  }
 }
