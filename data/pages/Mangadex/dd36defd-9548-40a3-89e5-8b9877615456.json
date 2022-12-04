@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-14T14:41:49.334Z",
-  "updatedAt": "2022-05-14T14:41:49.000Z",
-  "checkedAt": "2022-05-14T14:41:49.000Z",
+  "updatedAt": "2022-12-04T01:27:20.000Z",
+  "checkedAt": "2022-12-03T04:30:16.000Z",
   "id": 104392,
   "identifier": "dd36defd-9548-40a3-89e5-8b9877615456",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140467,
   "deletedAt": null,
   "authors": [
     "Oh Son Do Son"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:41.074Z",
+    "updatedAt": "2022-12-03T04:30:16.000Z",
+    "checkedAt": "2022-12-03T04:30:16.000Z",
+    "id": 140467,
+    "type": "manga",
+    "title": "Guard Pass  ",
+    "altTitle": [
+      "가드패스"
+    ],
+    "url": "https://anilist.co/manga/140467",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140467-BmeIY0rALIFb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Osondoson"
+    ]
+  }
 }

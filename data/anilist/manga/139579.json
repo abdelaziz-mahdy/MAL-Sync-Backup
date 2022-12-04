@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:46:42.049Z",
-  "updatedAt": "2022-05-13T12:46:42.049Z",
-  "checkedAt": null,
+  "updatedAt": "2022-11-30T20:00:27.000Z",
+  "checkedAt": "2022-11-30T20:00:27.000Z",
   "id": 139579,
   "type": "manga",
   "title": "Monkey Peak the Rock",
@@ -17,7 +17,33 @@
   "deletedAt": null,
   "authors": [
     "Kouji Shinasaka",
-    "Takahiro Kumeta"
+    "Akihiro Kumeta"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "eb02e6fa-2b2d-43b6-9805-928d533c34e9": {
+        "createdAt": "2021-01-31T06:02:24.000Z",
+        "updatedAt": "2022-11-30T22:26:33.000Z",
+        "checkedAt": "2022-11-30T20:00:27.000Z",
+        "id": 60790,
+        "identifier": "eb02e6fa-2b2d-43b6-9805-928d533c34e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Monkey Peak the Rock",
+        "url": "https://mangadex.org/title/eb02e6fa-2b2d-43b6-9805-928d533c34e9",
+        "image": "https://uploads.mangadex.org/covers/eb02e6fa-2b2d-43b6-9805-928d533c34e9/4850b39f-862a-4ec4-9bbe-df2b87d55f6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 140476,
+        "aniId": 139579,
+        "deletedAt": null,
+        "authors": [
+          "Shinasaka Kouji",
+          "Kumeta Akihiro"
+        ]
+      }
+    }
+  }
 }
