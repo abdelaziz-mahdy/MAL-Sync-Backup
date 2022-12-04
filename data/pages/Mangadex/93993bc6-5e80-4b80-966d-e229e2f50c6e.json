@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-26T20:00:04.243Z",
-  "updatedAt": "2022-11-26T20:00:04.243Z",
+  "updatedAt": "2022-11-27T16:20:00.000Z",
   "checkedAt": "2022-11-26T20:00:04.000Z",
   "id": 118628,
   "identifier": "93993bc6-5e80-4b80-966d-e229e2f50c6e",
@@ -11,14 +11,64 @@
   "image": "",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 3614,
+  "aniId": 33614,
   "deletedAt": null,
   "authors": [
     "Asano Inio"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:52.000Z",
+    "updatedAt": "2022-12-01T10:40:53.000Z",
+    "checkedAt": "2022-12-01T10:40:53.000Z",
+    "id": 3614,
+    "type": "manga",
+    "title": "Subarashii Sekai",
+    "altTitle": [
+      "WaWW",
+      "What a Wonderful World!",
+      "素晴らしい世界"
+    ],
+    "url": "https://myanimelist.net/manga/3614/Subarashii_Sekai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/147085.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Asano, Inio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.969Z",
+    "updatedAt": "2022-12-02T18:16:09.000Z",
+    "checkedAt": "2022-12-02T18:16:08.000Z",
+    "id": 33614,
+    "type": "manga",
+    "title": "Subarashii Sekai",
+    "altTitle": [
+      "What a Wonderful World!",
+      "素晴らしい世界",
+      "Subarashi Sekai",
+      "WaWW",
+      "Un monde formidable",
+      "Un mundo maravilloso"
+    ],
+    "url": "https://anilist.co/manga/33614",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33614-HgDjCwY2Rw5A.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3614,
+    "deletedAt": null,
+    "authors": [
+      "Inio Asano",
+      "Thibaud Desbief",
+      "Marc Bernabé",
+      "Caio Pacheco"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-20T14:44:32.000Z",
-  "updatedAt": "2022-05-15T16:11:35.000Z",
-  "checkedAt": "2022-05-15T16:11:35.000Z",
+  "updatedAt": "2022-12-02T03:55:46.000Z",
+  "checkedAt": "2022-12-02T03:55:46.000Z",
   "id": 101016,
   "type": "anime",
   "title": "Itou Junji: Collection - Tomie",
@@ -18,6 +18,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/junji-ito-collection"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/junji-ito-collection/"
     }
   ],
   "malId": 36992,
@@ -60,6 +64,25 @@
         "sticky": false,
         "active": true,
         "actorId": null,
+        "malId": 36992,
+        "aniId": 101016,
+        "deletedAt": null
+      },
+      "tomie-dub": {
+        "createdAt": "2022-12-02T16:00:31.403Z",
+        "updatedAt": "2022-12-02T19:20:00.000Z",
+        "checkedAt": "2022-12-02T16:00:31.000Z",
+        "id": 43865,
+        "identifier": "tomie-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tomie (Dub)",
+        "url": "https://gogoanime.ar/category/tomie-dub",
+        "image": "https://gogocdn.net/cover/tomie-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
         "malId": 36992,
         "aniId": 101016,
         "deletedAt": null
