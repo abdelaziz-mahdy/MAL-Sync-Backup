@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-12-13T07:48:53.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
+  "updatedAt": "2022-12-05T09:20:00.000Z",
   "checkedAt": "2022-05-22T14:30:14.000Z",
   "id": 54036,
   "identifier": "i-am-the-sorcerer-king",
@@ -12,14 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148040,
+  "aniId": 110042,
   "deletedAt": null,
   "authors": [
     "Decaspell",
     "Miro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-12T23:00:00.755Z",
+    "updatedAt": "2022-06-12T23:00:00.755Z",
+    "checkedAt": "2022-06-12T23:00:00.000Z",
+    "id": 148040,
+    "type": "manga",
+    "title": "I Am the Sorcerer King",
+    "altTitle": [
+      "Naneun Madowang-ida",
+      "I Am the Sorcerer King",
+      "나는 마도왕이다"
+    ],
+    "url": "https://myanimelist.net/manga/148040/I_Am_the_Sorcerer_King",
+    "image": "https://cdn.myanimelist.net/images/manga/2/262692.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/52902073"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Decaspell",
+      "Miro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:18.421Z",
+    "updatedAt": "2022-06-14T05:13:39.000Z",
+    "checkedAt": "2022-06-14T05:13:39.000Z",
+    "id": 110042,
+    "type": "manga",
+    "title": "Naneun Madowangida",
+    "altTitle": [
+      "I Am the Sorcerer King",
+      "나는 마도왕이다",
+      "I Am The Sorcerer King"
+    ],
+    "url": "https://anilist.co/manga/110042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110042-cHMKKa0lxiaJ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148040,
+    "deletedAt": null,
+    "authors": [
+      "MIRO",
+      "Decaspell"
+    ]
+  }
 }

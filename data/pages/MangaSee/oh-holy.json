@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-01T15:20:53.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": "2022-05-14T10:17:16.000Z",
+  "updatedAt": "2022-12-10T17:23:22.000Z",
+  "checkedAt": "2022-12-09T14:01:19.000Z",
   "id": 56745,
   "identifier": "oh-holy",
   "type": "manga",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147464,
+  "aniId": 86703,
   "deletedAt": null,
   "authors": [
     "Ah Hyun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T14:30:12.778Z",
+    "updatedAt": "2022-06-07T14:30:12.778Z",
+    "checkedAt": "2022-06-07T14:30:12.000Z",
+    "id": 147464,
+    "type": "manga",
+    "title": "Oh! Holy",
+    "altTitle": [
+      "Oh! Lord Jesus",
+      "O! Ju Yesu-yeo",
+      "Oh! Holy",
+      "오!주예수여"
+    ],
+    "url": "https://myanimelist.net/manga/147464/Oh_Holy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261816.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=655744"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ah Hyun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:20.143Z",
+    "updatedAt": "2022-06-08T07:50:36.000Z",
+    "checkedAt": "2022-06-08T07:50:36.000Z",
+    "id": 86703,
+    "type": "manga",
+    "title": "O! Juyesuyeo",
+    "altTitle": [
+      "Oh! Holy",
+      "오!주예수여",
+      "oh!朱叶素",
+      "Oh! Lord Jesus",
+      "我的靈異女友",
+      "O!Juyesuyeo"
+    ],
+    "url": "https://anilist.co/manga/86703",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86703-o5wSYnfiJUbe.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147464,
+    "deletedAt": null,
+    "authors": [
+      "A-Hyeon"
+    ]
+  }
 }

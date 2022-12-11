@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-17T12:59:07.000Z",
-  "updatedAt": "2022-04-17T18:00:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-05T20:20:00.000Z",
+  "checkedAt": "2022-12-05T19:00:01.000Z",
   "id": 88940,
   "identifier": "c0f8aafc-6338-4f97-a988-4400bf0e5f0c",
   "type": "manga",
@@ -12,15 +12,69 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147333,
+  "aniId": 139660,
   "deletedAt": null,
   "authors": [
     "영",
     "이범배",
     "제리볼"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-29T11:00:27.407Z",
+    "updatedAt": "2022-05-29T11:00:27.407Z",
+    "checkedAt": "2022-05-29T11:00:27.000Z",
+    "id": 147333,
+    "type": "manga",
+    "title": "Perfect Marriage Revenge",
+    "altTitle": [
+      "Wanbyeokhan Gyeolhon-ui Jeongseok",
+      "Perfect Marriage Revenge",
+      "완벽한 결혼의 정석"
+    ],
+    "url": "https://myanimelist.net/manga/147333/Perfect_Marriage_Revenge",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261351.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=775631"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yibambe",
+      "Jerryball"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:09.455Z",
+    "updatedAt": "2022-05-30T06:10:29.000Z",
+    "checkedAt": "2022-05-30T06:10:29.000Z",
+    "id": 139660,
+    "type": "manga",
+    "title": "Wanbyeokan Gyeolhonui Jeongseok",
+    "altTitle": [
+      "Perfect Marriage Revenge",
+      "완벽한 결혼의 정석",
+      "The Essence Of A Perfect Marriage",
+      "The Perfect Way To Get Married",
+      "วิวาห์ลวงชวนให้รัก"
+    ],
+    "url": "https://anilist.co/manga/139660",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139660-YWOmJwFmsIkm.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147333,
+    "deletedAt": null,
+    "authors": [
+      "Yeong",
+      "Beom-Bae Lee",
+      "Ri-Bol Je"
+    ]
+  }
 }
