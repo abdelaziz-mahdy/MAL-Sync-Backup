@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-26T08:26:17.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-05T09:20:00.000Z",
+  "checkedAt": "2022-12-04T07:30:35.000Z",
   "id": 55822,
   "identifier": "leveling-up-by-only-eating",
   "type": "manga",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147731,
+  "aniId": 119143,
   "deletedAt": null,
   "authors": [
     "Koge",
     "PARK Min Gyu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T13:30:19.090Z",
+    "updatedAt": "2022-06-07T13:30:19.090Z",
+    "checkedAt": "2022-06-07T13:30:19.000Z",
+    "id": 147731,
+    "type": "manga",
+    "title": "Gourmet Gaming",
+    "altTitle": [
+      "Bamman Meokgo Level Up",
+      "Gourmet Gaming",
+      "밥만 먹고 레벨업"
+    ],
+    "url": "https://myanimelist.net/manga/147731/Gourmet_Gaming",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262084.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home/54801072"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Mingyu",
+      "Coge"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:52.718Z",
+    "updatedAt": "2022-06-08T07:52:31.000Z",
+    "checkedAt": "2022-06-08T07:52:31.000Z",
+    "id": 119143,
+    "type": "manga",
+    "title": "Babman Meoggo Level Up",
+    "altTitle": [
+      "Gourmet Gaming",
+      "밥만 먹고 레벨업",
+      " Leveling Up, by Only Eating!",
+      "กินจุทะลุเลเวล"
+    ],
+    "url": "https://anilist.co/manga/119143",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119143-3lA3h6f4JscA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147731,
+    "deletedAt": null,
+    "authors": [
+      "Koge",
+      "Min-Gyu Park"
+    ]
+  }
 }

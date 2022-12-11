@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-11T15:21:44.000Z",
-  "updatedAt": "2022-10-06T16:00:16.000Z",
+  "updatedAt": "2022-12-10T22:14:35.000Z",
   "checkedAt": "2022-10-06T16:00:16.000Z",
   "id": 58198,
   "identifier": "86ec2ad8-295d-4198-aa37-bcb0d5eb3e2b",
@@ -12,14 +12,56 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149030,
+  "aniId": 156823,
   "deletedAt": null,
   "authors": [
     "Kaji Kengo",
     "Okamura Kenji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-10T22:14:33.971Z",
+    "updatedAt": "2022-12-10T22:14:33.971Z",
+    "checkedAt": "2022-12-10T22:14:33.000Z",
+    "id": 149030,
+    "type": "manga",
+    "title": "Shangri-La",
+    "altTitle": [
+      "シャングリラ"
+    ],
+    "url": "https://myanimelist.net/manga/149030/Shangri-La",
+    "image": "https://cdn.myanimelist.net/images/manga/1/266328.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Okamura, Kenji",
+      "Kaji, Kengo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-12-10T22:00:14.789Z",
+    "updatedAt": "2022-12-10T22:00:14.789Z",
+    "checkedAt": "2022-12-10T22:00:14.000Z",
+    "id": 156823,
+    "type": "manga",
+    "title": "Shangri-La",
+    "altTitle": [
+      "シャングリラ"
+    ],
+    "url": "https://anilist.co/manga/156823",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b156823-4veT79nGQgzb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149030,
+    "deletedAt": null,
+    "authors": [
+      "Kengo Kaji",
+      "Kenji Okamura"
+    ]
+  }
 }

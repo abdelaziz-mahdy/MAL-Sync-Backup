@@ -1,24 +1,70 @@
 {
   "createdAt": "2022-05-14T09:03:33.351Z",
-  "updatedAt": "2022-05-14T09:03:35.000Z",
-  "checkedAt": "2022-05-14T09:03:33.000Z",
+  "updatedAt": "2022-12-05T09:13:58.000Z",
+  "checkedAt": "2022-12-04T21:30:11.000Z",
   "id": 104194,
   "identifier": "e405fe69-18bf-4dee-b10e-9a783811467e",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hoshi Tsukai Selena",
   "url": "https://mangadex.org/title/e405fe69-18bf-4dee-b10e-9a783811467e",
-  "image": "https://uploads.mangadex.org/covers/e405fe69-18bf-4dee-b10e-9a783811467e/0a743c5d-3a54-4500-b2f7-2e9ec175a66e.jpg",
+  "image": "https://uploads.mangadex.org/covers/e405fe69-18bf-4dee-b10e-9a783811467e/332ebee8-1310-471e-9412-416949f05cb7.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 150770,
+  "aniId": 140680,
   "deletedAt": null,
   "authors": [
     "LEN[A-7]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-27T01:00:15.877Z",
+    "updatedAt": "2022-08-27T01:00:15.877Z",
+    "checkedAt": "2022-08-27T01:00:15.000Z",
+    "id": 150770,
+    "type": "manga",
+    "title": "Hoshitsukai Selena",
+    "altTitle": [
+      "Selena the Star Druidas",
+      "星使いセレナ"
+    ],
+    "url": "https://myanimelist.net/manga/150770/Hoshitsukai_Selena",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267307.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://afternoon.kodansha.co.jp/c/hoshitsukaiselena/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "LEN[A-7]"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:48.042Z",
+    "updatedAt": "2022-05-25T23:29:41.000Z",
+    "checkedAt": "2022-05-25T23:29:41.000Z",
+    "id": 140680,
+    "type": "manga",
+    "title": "Hoshi Tsukai Serena",
+    "altTitle": [
+      "星使いセレナ"
+    ],
+    "url": "https://anilist.co/manga/140680",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140680-K2Q7z6HXlNdx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "LEN[A-7]"
+    ]
+  }
 }

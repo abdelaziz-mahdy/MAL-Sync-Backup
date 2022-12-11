@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:40:19.090Z",
-  "updatedAt": "2022-05-13T12:40:19.090Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-04T18:42:27.000Z",
+  "checkedAt": "2022-12-04T18:42:27.000Z",
   "id": 123136,
   "type": "manga",
   "title": "Shijuuhatte Anthology: Hihou-kan",
@@ -41,5 +41,67 @@
     "Natsu Ichi",
     "Motonari Takaoka"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8d235299-449a-47e6-85a4-23d9ecadf883": {
+        "createdAt": "2022-12-04T19:00:23.494Z",
+        "updatedAt": "2022-12-05T09:13:50.000Z",
+        "checkedAt": "2022-12-04T19:00:23.000Z",
+        "id": 119155,
+        "identifier": "8d235299-449a-47e6-85a4-23d9ecadf883",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shijuuhatte - Hihou-kan (Anthology)",
+        "url": "https://mangadex.org/title/8d235299-449a-47e6-85a4-23d9ecadf883",
+        "image": "https://uploads.mangadex.org/covers/8d235299-449a-47e6-85a4-23d9ecadf883/7fdb5006-f5ab-4145-8008-28bc5b899018.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": null,
+        "aniId": 123136,
+        "deletedAt": null,
+        "authors": [
+          "Fujimura Ayao",
+          "Maki Ruis",
+          "Shisito Karari",
+          "Hirakita Yuya",
+          "Mito Hitomi",
+          "Kamiya Memo",
+          "Yamasaki Uni",
+          "Seina Anji",
+          "Kamogawa Tsuna",
+          "Misaki Kou",
+          "Amamiya Kayou",
+          "Janome",
+          "Namie Shizuku"
+        ]
+      }
+    },
+    "MangaFox": {
+      "shijuuhatte_anthology_hihou_kan": {
+        "createdAt": "2022-12-04T19:30:01.257Z",
+        "updatedAt": "2022-12-04T19:30:01.000Z",
+        "checkedAt": "2022-12-04T19:30:01.000Z",
+        "id": 119157,
+        "identifier": "shijuuhatte_anthology_hihou_kan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shijuuhatte Anthology - Hihou-kan",
+        "url": "https://fanfox.net/manga/shijuuhatte_anthology_hihou_kan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30137/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": null,
+        "aniId": 123136,
+        "deletedAt": null,
+        "authors": [
+          "FUJIMURA Ayao",
+          "HIRAKITA Yuya"
+        ]
+      }
+    }
+  }
 }

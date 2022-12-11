@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-16T08:00:10.033Z",
-  "updatedAt": "2022-05-16T08:00:10.000Z",
-  "checkedAt": "2022-05-16T08:00:10.000Z",
+  "updatedAt": "2022-12-05T09:12:40.000Z",
+  "checkedAt": "2022-12-04T23:00:02.000Z",
   "id": 104593,
   "identifier": "90c12eeb-af02-43d4-aafd-d9aa5aafcaba",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149389,
+  "aniId": 140458,
   "deletedAt": null,
   "authors": [
     "Enoshima Daisuke"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-04T23:00:02.897Z",
+    "updatedAt": "2022-12-04T23:00:02.897Z",
+    "checkedAt": "2022-12-04T23:00:02.000Z",
+    "id": 149389,
+    "type": "manga",
+    "title": "Jinzou Ningen 100",
+    "altTitle": [
+      "人造人間100"
+    ],
+    "url": "https://myanimelist.net/manga/149389/Jinzou_Ningen_100",
+    "image": "https://cdn.myanimelist.net/images/manga/1/272896.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Enoshima, Daisuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:51.989Z",
+    "updatedAt": "2022-10-13T06:27:48.000Z",
+    "checkedAt": "2022-10-13T06:27:48.000Z",
+    "id": 140458,
+    "type": "manga",
+    "title": "Jinzou Ningen 100",
+    "altTitle": [
+      "人造人間100"
+    ],
+    "url": "https://anilist.co/manga/140458",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140458-Cp7g66Uii1T8.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Daisuke Enoshima"
+    ]
+  }
 }

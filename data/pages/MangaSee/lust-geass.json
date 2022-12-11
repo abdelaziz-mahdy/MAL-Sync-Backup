@@ -21,8 +21,8 @@
   ],
   "Mal": {
     "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2022-05-15T17:32:09.000Z",
-    "checkedAt": "2022-05-15T17:32:09.000Z",
+    "updatedAt": "2022-12-05T05:14:18.000Z",
+    "checkedAt": "2022-12-05T05:14:18.000Z",
     "id": 115847,
     "type": "manga",
     "title": "Lust Geass",
@@ -33,7 +33,12 @@
     "image": "https://cdn.myanimelist.net/images/manga/2/213306.jpg",
     "category": "Manga",
     "hentai": false,
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/youngace/contents/343/"
+      }
+    ],
     "legalLinks": [],
     "deletedAt": null,
     "authors": [
@@ -42,8 +47,8 @@
   },
   "Ani": {
     "createdAt": "2022-05-13T12:46:02.498Z",
-    "updatedAt": "2022-05-15T20:13:35.000Z",
-    "checkedAt": "2022-05-15T20:13:35.000Z",
+    "updatedAt": "2022-12-05T05:14:16.000Z",
+    "checkedAt": "2022-12-05T05:14:16.000Z",
     "id": 104502,
     "type": "manga",
     "title": "Lust Geass",
@@ -53,7 +58,7 @@
     "url": "https://anilist.co/manga/104502",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104502-ep5Qy7fSF0U8.jpg",
     "category": "manga",
-    "hentai": false,
+    "hentai": true,
     "externalLinks": [],
     "malId": 115847,
     "deletedAt": null,

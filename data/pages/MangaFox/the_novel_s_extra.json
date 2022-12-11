@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-14T19:00:10.462Z",
-  "updatedAt": "2022-07-14T19:00:10.000Z",
+  "updatedAt": "2022-12-05T09:20:00.000Z",
   "checkedAt": "2022-07-14T19:00:10.000Z",
   "id": 109716,
   "identifier": "the_novel_s_extra",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148985,
+  "aniId": 152128,
   "deletedAt": null,
   "authors": [
     "Jee Gab Song"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-01T18:00:05.545Z",
+    "updatedAt": "2022-08-01T18:00:05.545Z",
+    "checkedAt": "2022-08-01T18:00:05.000Z",
+    "id": 148985,
+    "type": "manga",
+    "title": "The Novel's Extra",
+    "altTitle": [
+      "Soseol Sok Extra",
+      "소설 속 엑스트라"
+    ],
+    "url": "https://myanimelist.net/manga/148985/The_Novels_Extra",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265163.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59365151"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ji, Gapsong",
+      "Carrot Studio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-07-11T15:00:00.620Z",
+    "updatedAt": "2022-11-02T16:25:34.000Z",
+    "checkedAt": "2022-11-02T16:25:34.000Z",
+    "id": 152128,
+    "type": "manga",
+    "title": "Soseol Sok Extra",
+    "altTitle": [
+      "소설 속 엑스트라",
+      "The Novel's Extra (2022)",
+      "The Novel's Extra (Remake)"
+    ],
+    "url": "https://anilist.co/manga/152128",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b152128-q1FksFz94LE9.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148985,
+    "deletedAt": null,
+    "authors": [
+      "Gap-Song Ji",
+      "Seul-Gi Park",
+      "Ju-Hui O"
+    ]
+  }
 }
