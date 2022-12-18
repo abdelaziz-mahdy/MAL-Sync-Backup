@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-03-30T11:00:29.000Z",
-  "updatedAt": "2022-12-11T00:00:09.000Z",
+  "updatedAt": "2022-12-11T20:20:00.000Z",
   "checkedAt": "2022-12-11T00:00:09.000Z",
   "id": 100306,
   "identifier": "1a6808a3-2041-4f0e-9029-33be97db135d",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 144895,
+  "aniId": 147844,
   "deletedAt": null,
   "authors": [
     "Uda Nozomi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-09T16:01:08.000Z",
+    "updatedAt": "2022-05-29T05:57:43.000Z",
+    "checkedAt": "2022-05-29T05:57:43.000Z",
+    "id": 144895,
+    "type": "manga",
+    "title": "Doukyonin no Sano-kun wa Tada no Yuunou na Tantou Henshuu desu",
+    "altTitle": [
+      "My Capable Editor and Housemate, Sano-kun.",
+      "同居人の佐野くんはただの有能な担当編集です"
+    ],
+    "url": "https://myanimelist.net/manga/144895/Doukyonin_no_Sano-kun_wa_Tada_no_Yuunou_na_Tantou_Henshuu_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257983.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ganganonline.com/title/1270"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uda, Nozomi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:25.950Z",
+    "updatedAt": "2022-05-29T05:57:42.000Z",
+    "checkedAt": "2022-05-29T05:57:42.000Z",
+    "id": 147844,
+    "type": "manga",
+    "title": "Doukyonin no Sano-kun wa Tada no Yuunou na Tantou Henshuu desu",
+    "altTitle": [
+      "同居人の佐野くんはただの有能な担当編集です",
+      "My Capable Editor and Housemate, Sano-kun."
+    ],
+    "url": "https://anilist.co/manga/147844",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147844-536tWi9OcUnf.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144895,
+    "deletedAt": null,
+    "authors": [
+      "Nozomi Uda"
+    ]
+  }
 }

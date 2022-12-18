@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-08-28T14:30:12.978Z",
-  "updatedAt": "2022-08-28T14:30:12.978Z",
-  "checkedAt": "2022-08-28T14:30:12.000Z",
+  "updatedAt": "2022-12-13T15:53:05.000Z",
+  "checkedAt": "2022-12-13T15:53:05.000Z",
   "id": 153869,
   "type": "manga",
   "title": "Gyugyeok Oe Hyeoltong Cheonjae",
@@ -14,7 +14,7 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 153898,
   "deletedAt": null,
   "authors": [
     "ZAINO",
@@ -22,6 +22,33 @@
     "Kkudadak"
   ],
   "Pages": {
+    "Mangadex": {
+      "8e9c0fe2-68d4-4224-9f96-ac51464eb94a": {
+        "createdAt": "2022-08-04T02:00:05.374Z",
+        "updatedAt": "2022-12-13T16:20:01.000Z",
+        "checkedAt": "2022-08-04T02:00:05.000Z",
+        "id": 111753,
+        "identifier": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Genius of the Unique Lineage",
+        "url": "https://mangadex.org/title/8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+        "image": "https://uploads.mangadex.org/covers/8e9c0fe2-68d4-4224-9f96-ac51464eb94a/6d943f10-6cfb-4fc7-8203-a8cf8bc89870.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153898,
+        "aniId": 153869,
+        "deletedAt": null,
+        "authors": [
+          "SOULPUNG (소울풍)",
+          "ZAINO",
+          "kkudadak (꾸다닥)",
+          "Clover (클로버)"
+        ]
+      }
+    },
     "MangaNato": {
       "manga-pf992488": {
         "createdAt": "2022-09-20T05:30:00.330Z",
@@ -46,6 +73,30 @@
           "Soulpung (소울풍)",
           "Kkudadak (꾸다닥)",
           "Clover (클로버)"
+        ]
+      }
+    },
+    "MangaFox": {
+      "extraordinary_descent_genius": {
+        "createdAt": "2022-09-23T08:00:13.144Z",
+        "updatedAt": "2022-12-13T16:20:01.000Z",
+        "checkedAt": "2022-09-23T08:00:13.000Z",
+        "id": 114926,
+        "identifier": "extraordinary_descent_genius",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Extraordinary Descent Genius",
+        "url": "https://fanfox.net/manga/extraordinary_descent_genius/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43684/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153898,
+        "aniId": 153869,
+        "deletedAt": null,
+        "authors": [
+          "ZAINO"
         ]
       }
     }

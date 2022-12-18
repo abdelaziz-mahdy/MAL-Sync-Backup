@@ -1,22 +1,101 @@
 {
   "createdAt": "2022-05-13T12:43:37.993Z",
-  "updatedAt": "2022-05-21T13:30:47.000Z",
-  "checkedAt": "2022-05-21T13:30:47.000Z",
+  "updatedAt": "2022-12-11T06:00:09.000Z",
+  "checkedAt": "2022-12-11T06:00:09.000Z",
   "id": 147997,
   "type": "manga",
   "title": "Seihantai na Kimi to Boku",
   "altTitle": [
+    "You and I are Polar Opposites",
     "正反対な君と僕"
   ],
   "url": "https://anilist.co/manga/147997",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147997-DHhjOLO1V3Df.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147997-QSf3nuWPkYcE.jpg",
   "category": "manga",
   "hentai": false,
-  "externalLinks": [],
-  "malId": null,
+  "externalLinks": [
+    {
+      "site": "MangaPlus",
+      "url": "https://mangaplus.shueisha.co.jp/titles/100200"
+    }
+  ],
+  "malId": 147091,
   "deletedAt": null,
   "authors": [
-    "Koucha Asagawa"
+    "Koucha Agasawa"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "eb95c066-5f46-483a-af69-a83b5cf324ee": {
+        "createdAt": "2022-05-21T13:30:08.037Z",
+        "updatedAt": "2022-12-11T06:20:00.000Z",
+        "checkedAt": "2022-12-11T06:00:09.000Z",
+        "id": 104993,
+        "identifier": "eb95c066-5f46-483a-af69-a83b5cf324ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seihantaina Kimi to Boku",
+        "url": "https://mangadex.org/title/eb95c066-5f46-483a-af69-a83b5cf324ee",
+        "image": "https://uploads.mangadex.org/covers/eb95c066-5f46-483a-af69-a83b5cf324ee/ae64e955-480b-4e2f-a31c-cf960a89525f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 147091,
+        "aniId": 147997,
+        "deletedAt": null,
+        "authors": [
+          "Agasawa Koucha"
+        ]
+      }
+    },
+    "MangaSee": {
+      "you-and-i-are-polar-opposites": {
+        "createdAt": "2022-06-25T06:00:27.264Z",
+        "updatedAt": "2022-12-11T06:20:00.000Z",
+        "checkedAt": "2022-06-25T06:00:27.000Z",
+        "id": 108144,
+        "identifier": "you-and-i-are-polar-opposites",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "You and I are Polar Opposites",
+        "url": "https://mangasee123.com/manga/You-and-I-are-Polar-Opposites",
+        "image": "https://temp.compsci88.com/cover/You-and-I-are-Polar-Opposites.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 147091,
+        "aniId": 147997,
+        "deletedAt": null,
+        "authors": [
+          "AGASAWA Koucha"
+        ]
+      }
+    },
+    "MangaFox": {
+      "seihantai_na_kimi_to_boku": {
+        "createdAt": "2022-07-04T03:30:02.728Z",
+        "updatedAt": "2022-12-11T06:20:00.000Z",
+        "checkedAt": "2022-07-04T03:30:02.000Z",
+        "id": 108822,
+        "identifier": "seihantai_na_kimi_to_boku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seihantai na Kimi to Boku",
+        "url": "https://fanfox.net/manga/seihantai_na_kimi_to_boku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43086/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 147091,
+        "aniId": 147997,
+        "deletedAt": null,
+        "authors": [
+          "AGASAWA Koucha"
+        ]
+      }
+    }
+  }
 }

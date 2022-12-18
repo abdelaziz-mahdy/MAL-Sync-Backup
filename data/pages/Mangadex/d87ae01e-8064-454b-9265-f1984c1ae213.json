@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:04.000Z",
-  "updatedAt": "2021-12-07T21:38:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-14T07:17:13.000Z",
+  "checkedAt": "2022-12-14T07:00:02.000Z",
   "id": 34439,
   "identifier": "d87ae01e-8064-454b-9265-f1984c1ae213",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 131477,
   "aniId": 119304,
   "deletedAt": null,
   "authors": [
     "Nishiwatari Maki"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2021-12-02T17:46:16.000Z",
+    "updatedAt": "2022-12-14T06:40:40.000Z",
+    "checkedAt": "2022-12-14T06:40:40.000Z",
+    "id": 131477,
+    "type": "manga",
+    "title": "Eigo xx Sensei (Kari)",
+    "altTitle": [
+      "English XX Sensei (Temporary)",
+      "Eigo Chome Chome Sensei Kakkokari",
+      "英語××センセイ（仮）"
+    ],
+    "url": "https://myanimelist.net/manga/131477/Eigo_xx_Sensei_Kari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246757.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.yanmaga.jp/c/eigo-chome-chome/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nishiwatari, Maki"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:41:23.835Z",
-    "updatedAt": "2022-07-25T18:31:44.000Z",
-    "checkedAt": "2022-07-25T18:31:44.000Z",
+    "updatedAt": "2022-12-15T08:00:35.000Z",
+    "checkedAt": "2022-12-15T08:00:35.000Z",
     "id": 119304,
     "type": "manga",
     "title": "Eigo××Sensei (Kari)",
@@ -32,15 +59,14 @@
       " Eigo Chome Chome Sensei (Kari)   ",
       "Eigo Chome Chome Sensei Kakkokari",
       "Eigo ×× Sensei",
-      "English XX Sensei",
-      "English XX Sensei (Temporary)"
+      "English XX Sensei"
     ],
     "url": "https://anilist.co/manga/119304",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119304-Qv2uyoV657My.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 131477,
     "deletedAt": null,
     "authors": [
       "Maki Nishiwatari"

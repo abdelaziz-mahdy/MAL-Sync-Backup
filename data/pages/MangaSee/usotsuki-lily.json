@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-05-12T04:55:10.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-18T01:20:01.000Z",
+  "checkedAt": "2022-12-17T03:30:14.000Z",
   "id": 71701,
   "identifier": "usotsuki-lily",
   "type": "manga",
@@ -12,13 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 19111,
+  "aniId": 49111,
   "deletedAt": null,
   "authors": [
     "KOMURA Ayumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:42:42.000Z",
+    "updatedAt": "2022-12-17T02:58:10.000Z",
+    "checkedAt": "2022-12-17T02:58:10.000Z",
+    "id": 19111,
+    "type": "manga",
+    "title": "Usotsuki Lily",
+    "altTitle": [
+      "UsoLily",
+      "Sweets Honey",
+      "Amber",
+      "Liar Lily",
+      "うそつきリリィ"
+    ],
+    "url": "https://myanimelist.net/manga/19111/Usotsuki_Lily",
+    "image": "https://cdn.myanimelist.net/images/manga/2/31018.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9D%E3%81%A4%E3%81%8D%E3%83%AA%E3%83%AA%E3%82%A3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Komura, Ayumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:02.620Z",
+    "updatedAt": "2022-12-17T02:58:08.000Z",
+    "checkedAt": "2022-12-17T02:58:08.000Z",
+    "id": 49111,
+    "type": "manga",
+    "title": "Usotsuki Lily",
+    "altTitle": [
+      "うそつきリリィ",
+      "Liar Lily",
+      "UsoLily",
+      "Sweets Honey",
+      "Amber"
+    ],
+    "url": "https://anilist.co/manga/49111",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx49111-62wa0y8YZDgz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 19111,
+    "deletedAt": null,
+    "authors": [
+      "Ayumi Komura"
+    ]
+  }
 }

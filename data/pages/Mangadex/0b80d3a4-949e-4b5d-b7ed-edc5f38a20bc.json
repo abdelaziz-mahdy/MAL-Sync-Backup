@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-08T15:10:39.000Z",
-  "updatedAt": "2021-12-08T12:39:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-16T04:00:02.000Z",
+  "checkedAt": "2022-12-16T04:00:02.000Z",
   "id": 64953,
   "identifier": "0b80d3a4-949e-4b5d-b7ed-edc5f38a20bc",
   "type": "manga",
@@ -11,15 +11,37 @@
   "image": "https://uploads.mangadex.org/covers/0b80d3a4-949e-4b5d-b7ed-edc5f38a20bc/f6e1b721-9f45-4c3a-824e-d4276650a934.jpg",
   "hentai": true,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 122725,
   "deletedAt": null,
   "authors": [
-    "Viagra",
+    "Viagra (비아그라)",
     "Sexy Bong"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:42.274Z",
+    "updatedAt": "2022-05-30T20:51:19.000Z",
+    "checkedAt": "2022-05-30T20:51:19.000Z",
+    "id": 122725,
+    "type": "manga",
+    "title": "Sugmo",
+    "altTitle": [
+      "My Aunt",
+      "숙모"
+    ],
+    "url": "https://anilist.co/manga/122725",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b122725-ZUjS5HIDhhcG.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Viagra",
+      "Sexy Bong"
+    ]
+  }
 }

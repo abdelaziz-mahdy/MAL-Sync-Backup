@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-30T23:41:05.000Z",
-  "updatedAt": "2022-06-17T06:00:13.000Z",
+  "updatedAt": "2022-12-13T16:20:01.000Z",
   "checkedAt": "2022-06-17T06:00:13.000Z",
   "id": 51124,
   "identifier": "1693697a-783c-4d3c-a2d3-dc069e137a23",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147769,
+  "aniId": 126986,
   "deletedAt": null,
   "authors": [
     "Wanan"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-05T23:31:20.608Z",
+    "updatedAt": "2022-12-05T23:31:20.608Z",
+    "checkedAt": "2022-12-05T23:31:20.000Z",
+    "id": 147769,
+    "type": "manga",
+    "title": "No Home",
+    "altTitle": [
+      "Jib-i Eopseo",
+      "집이 없어"
+    ],
+    "url": "https://myanimelist.net/manga/147769/No_Home",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264873.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=721433"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Wanan"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:39.711Z",
+    "updatedAt": "2022-12-13T15:38:35.000Z",
+    "checkedAt": "2022-12-13T15:38:35.000Z",
+    "id": 126986,
+    "type": "manga",
+    "title": "Jibi Eopseo",
+    "altTitle": [
+      "집이 없어",
+      "Homeless",
+      "No Home"
+    ],
+    "url": "https://anilist.co/manga/126986",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126986-hgpeh6RNaUpq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147769,
+    "deletedAt": null,
+    "authors": [
+      "Wanan"
+    ]
+  }
 }
