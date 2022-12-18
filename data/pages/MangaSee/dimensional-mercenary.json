@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-26T08:26:17.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": "2022-05-23T01:30:14.000Z",
+  "updatedAt": "2022-12-13T18:20:00.000Z",
+  "checkedAt": "2022-12-12T18:32:07.000Z",
   "id": 55824,
   "identifier": "dimensional-mercenary",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153972,
+  "aniId": 111590,
   "deletedAt": null,
   "authors": [
     "Keum Ho"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-12T18:30:17.775Z",
+    "updatedAt": "2022-12-12T18:30:17.775Z",
+    "checkedAt": "2022-12-12T18:30:17.000Z",
+    "id": 153972,
+    "type": "manga",
+    "title": "Dimensional Mercenary",
+    "altTitle": [
+      "Ichawon Yongbyeong",
+      "이차원 용병"
+    ],
+    "url": "https://myanimelist.net/manga/153972/Dimensional_Mercenary",
+    "image": "https://cdn.myanimelist.net/images/manga/2/272981.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/50465822"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Jae-Hwan",
+      "Ballo",
+      "Keumho"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:23.844Z",
+    "updatedAt": "2022-12-13T17:37:17.000Z",
+    "checkedAt": "2022-12-13T17:37:17.000Z",
+    "id": 111590,
+    "type": "manga",
+    "title": "Ichawon Yongbyeong",
+    "altTitle": [
+      "이차원 용병",
+      "Two-Dimensional Mercenary",
+      "Dimensional Mercenary"
+    ],
+    "url": "https://anilist.co/manga/111590",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111590-eZtxpwtbuOq2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153972,
+    "deletedAt": null,
+    "authors": [
+      "Jae-Hwan Kim",
+      "Ballo",
+      "Geum-Ho"
+    ]
+  }
 }

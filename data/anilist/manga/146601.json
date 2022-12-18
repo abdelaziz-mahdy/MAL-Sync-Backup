@@ -1,13 +1,14 @@
 {
   "createdAt": "2022-05-13T12:58:47.017Z",
-  "updatedAt": "2022-05-27T18:44:48.000Z",
-  "checkedAt": "2022-05-27T18:44:48.000Z",
+  "updatedAt": "2022-12-16T13:56:08.000Z",
+  "checkedAt": "2022-12-16T13:56:08.000Z",
   "id": 146601,
   "type": "manga",
   "title": "Sarangiraseo",
   "altTitle": [
     "Because It's Love",
-    "사랑이라서"
+    "사랑이라서",
+    "因为爱情"
   ],
   "url": "https://anilist.co/manga/146601",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146601-eYhQEIPlg4RX.jpg",
@@ -21,5 +22,30 @@
     "Cheongdamdong Geonmulju",
     "JUY"
   ],
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "because_it_s_love": {
+        "createdAt": "2022-12-16T14:00:27.548Z",
+        "updatedAt": "2022-12-16T14:00:27.000Z",
+        "checkedAt": "2022-12-16T14:00:27.000Z",
+        "id": 119889,
+        "identifier": "because_it_s_love",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Because It's Love",
+        "url": "https://fanfox.net/manga/because_it_s_love/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43401/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": null,
+        "aniId": 146601,
+        "deletedAt": null,
+        "authors": [
+          "Park Sae Byeol"
+        ]
+      }
+    }
+  }
 }

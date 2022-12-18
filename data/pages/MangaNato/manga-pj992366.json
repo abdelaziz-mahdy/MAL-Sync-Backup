@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-17T15:00:02.501Z",
-  "updatedAt": "2022-09-18T15:37:05.000Z",
+  "updatedAt": "2022-12-11T20:01:16.000Z",
   "checkedAt": "2022-09-17T15:00:02.000Z",
   "id": 114593,
   "identifier": "manga-pj992366",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149872,
   "aniId": 150750,
   "deletedAt": null,
   "authors": [
@@ -21,11 +21,41 @@
     "Zusiha",
     "Stardustvia"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-09-18T10:30:02.368Z",
+    "updatedAt": "2022-09-18T10:30:02.368Z",
+    "checkedAt": "2022-09-18T10:30:02.000Z",
+    "id": 149872,
+    "type": "manga",
+    "title": "Charming the Duke of the North",
+    "altTitle": [
+      "I Will Seduce the Northern Duke",
+      "I Seduced the Northern Duke",
+      "Bukbu Gongjak-nim-eul Yuhok Hagetseumnida",
+      "Charming the Duke of the North",
+      "북부 공작님을 유혹하겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/149872/Charming_the_Duke_of_the_North",
+    "image": "https://cdn.myanimelist.net/images/manga/3/266139.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=794421"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ju, Siha",
+      "Eunhasu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-09-06T10:30:03.781Z",
-    "updatedAt": "2022-09-06T10:30:03.781Z",
-    "checkedAt": "2022-09-06T10:30:03.000Z",
+    "updatedAt": "2022-12-13T15:43:24.000Z",
+    "checkedAt": "2022-12-13T15:43:24.000Z",
     "id": 150750,
     "type": "manga",
     "title": "Bukbu Gongjangnimeul Yuhokagetseumnida",
@@ -33,14 +63,16 @@
       "Charming the Duke of the North",
       "북부 공작님을 유혹하겠습니다",
       "I Will Seduce the Northern Duke",
-      "诱惑北部公爵"
+      "诱惑北部公爵",
+      "Je vais séduire le Duc du Nord",
+      "魅惑北方公爵"
     ],
     "url": "https://anilist.co/manga/150750",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150750-ooSC8UpWL0aH.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 149872,
     "deletedAt": null,
     "authors": [
       "Siha Ju",

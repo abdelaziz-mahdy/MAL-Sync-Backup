@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-22T19:30:02.316Z",
-  "updatedAt": "2022-11-22T19:30:02.000Z",
+  "updatedAt": "2022-12-18T01:13:11.000Z",
   "checkedAt": "2022-11-22T19:30:02.000Z",
   "id": 118404,
   "identifier": "8a016804-2164-4244-9117-52860776e939",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153691,
+  "aniId": 156399,
   "deletedAt": null,
   "authors": [
     "Ohno Tsutomu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-15T22:30:01.826Z",
+    "updatedAt": "2022-12-15T22:30:01.826Z",
+    "checkedAt": "2022-12-15T22:30:01.000Z",
+    "id": 153691,
+    "type": "manga",
+    "title": "Kishi Danchou no Elf-san datte Otome ga Shitai.",
+    "altTitle": [
+      "Even the Captain Knight, Miss Elf, Wants to be a Maiden.",
+      "騎士団長のエルフさんだって乙女がしたい。"
+    ],
+    "url": "https://myanimelist.net/manga/153691/Kishi_Danchou_no_Elf-san_datte_Otome_ga_Shitai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/272468.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/yg/introduction/kishi/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oono, Tsutomu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-12-17T20:00:02.766Z",
+    "updatedAt": "2022-12-17T20:00:02.766Z",
+    "checkedAt": "2022-12-17T20:00:02.000Z",
+    "id": 156399,
+    "type": "manga",
+    "title": "Kishidan no Elf-san Datte Otome ga Shitai.",
+    "altTitle": [
+      "騎士団長のエルフさんだって乙女がしたい。",
+      "Even the Captain Knight, Miss Elf, Wants to be a Maiden."
+    ],
+    "url": "https://anilist.co/manga/156399",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156399-GOYg0fz2FUZn.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153691,
+    "deletedAt": null,
+    "authors": [
+      "Tsutomu Oono"
+    ]
+  }
 }

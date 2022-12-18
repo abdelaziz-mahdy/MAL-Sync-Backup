@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-22T20:00:07.298Z",
-  "updatedAt": "2022-11-23T17:52:31.000Z",
+  "updatedAt": "2022-12-18T01:13:23.000Z",
   "checkedAt": "2022-11-22T20:00:07.000Z",
   "id": 43714,
   "identifier": "qxzv3",
@@ -13,32 +13,62 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": 48824,
-  "aniId": null,
+  "malId": 53670,
+  "aniId": 138416,
   "deletedAt": null,
   "Mal": {
-    "createdAt": "2021-11-23T16:36:08.000Z",
-    "updatedAt": "2022-11-30T20:02:25.000Z",
-    "checkedAt": "2022-11-30T20:02:25.000Z",
-    "id": 48824,
+    "createdAt": "2022-12-15T21:30:02.564Z",
+    "updatedAt": "2022-12-15T21:30:02.564Z",
+    "checkedAt": "2022-12-15T21:30:02.000Z",
+    "id": 53670,
     "type": "anime",
-    "title": "Blue Archive",
+    "title": "Blue Archive: Beautiful Day Dreamer",
     "altTitle": [
-      "ブルーアーカイブ"
+      "Blue Archive: Beautiful Day Dreamer",
+      "【ブルアカ】「beautiful day dreamer」"
     ],
-    "url": "https://myanimelist.net/anime/48824/Blue_Archive",
-    "image": "https://cdn.myanimelist.net/images/anime/1521/114598.jpg",
+    "url": "https://myanimelist.net/anime/53670/Blue_Archive__Beautiful_Day_Dreamer",
+    "image": "https://cdn.myanimelist.net/images/anime/1635/131498.jpg",
     "category": "ONA",
     "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
-        "url": "https://bluearchive.jp/"
+        "url": "https://bluearchive.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17730"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=26639"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blue_Archive"
       }
     ],
     "legalLinks": [],
     "deletedAt": null,
-    "anidbId": null
+    "anidbId": 17730
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2021-08-28T00:36:33.000Z",
+    "updatedAt": "2022-12-16T05:56:56.000Z",
+    "checkedAt": "2022-12-16T05:56:56.000Z",
+    "id": 138416,
+    "type": "anime",
+    "title": "Blue Archive Anime PV",
+    "altTitle": [
+      "ブルーアーカイブ アニメPV"
+    ],
+    "url": "https://anilist.co/anime/138416",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138416-Ez4Zd3nd3oz3.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 48824,
+    "deletedAt": null
+  }
 }
