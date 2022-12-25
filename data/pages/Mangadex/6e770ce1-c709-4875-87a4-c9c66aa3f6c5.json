@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-12-05T14:30:02.300Z",
-  "updatedAt": "2022-12-05T14:30:02.000Z",
+  "updatedAt": "2022-12-21T13:31:08.000Z",
   "checkedAt": "2022-12-05T14:30:02.000Z",
   "id": 119217,
   "identifier": "6e770ce1-c709-4875-87a4-c9c66aa3f6c5",
@@ -12,18 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 154181,
   "aniId": 147412,
   "deletedAt": null,
   "authors": [
     "Gingami"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-12-20T22:00:09.570Z",
+    "updatedAt": "2022-12-20T22:00:09.570Z",
+    "checkedAt": "2022-12-20T22:00:09.000Z",
+    "id": 154181,
+    "type": "manga",
+    "title": "Tengoku de Akuma ga Boku wo Miwaku suru",
+    "altTitle": [
+      "The Devil Fascinates Me in Heavenly Prison.",
+      "天獄で悪魔がボクを魅惑する"
+    ],
+    "url": "https://myanimelist.net/manga/154181/Tengoku_de_Akuma_ga_Boku_wo_Miwaku_suru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/273725.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/57593"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gingami, Meteor"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:02:42.829Z",
-    "updatedAt": "2022-12-06T06:00:25.000Z",
-    "checkedAt": "2022-12-06T06:00:25.000Z",
+    "updatedAt": "2022-12-22T13:23:13.000Z",
+    "checkedAt": "2022-12-22T13:23:13.000Z",
     "id": 147412,
     "type": "manga",
     "title": "Tengoku de Akuma ga Boku wo Miwaku Suru",
@@ -36,7 +62,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 154181,
     "deletedAt": null,
     "authors": [
       "Meteo Gingami"

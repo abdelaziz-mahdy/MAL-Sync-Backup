@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-27T12:00:08.570Z",
-  "updatedAt": "2022-09-27T12:00:10.000Z",
+  "updatedAt": "2022-12-22T14:20:00.000Z",
   "checkedAt": "2022-09-27T12:00:08.000Z",
   "id": 115303,
   "identifier": "manga-pn992596",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137004,
+  "aniId": 134166,
   "deletedAt": null,
   "authors": [
     "Amano Seiju",
     "天乃聖樹"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-10-18T10:29:52.000Z",
+    "updatedAt": "2022-12-03T00:07:58.000Z",
+    "checkedAt": "2022-12-03T00:07:58.000Z",
+    "id": 137004,
+    "type": "manga",
+    "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+    "altTitle": [
+      "クラスの大嫌いな女子と結婚することになった。"
+    ],
+    "url": "https://myanimelist.net/manga/137004/Class_no_Daikirai_na_Joshi_to_Kekkon_suru_Koto_ni_Natta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253679.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/shonenace/contents/532"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Amano, Seiju",
+      "Mosskonbu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:56.977Z",
+    "updatedAt": "2022-12-03T00:07:57.000Z",
+    "checkedAt": "2022-12-03T00:07:57.000Z",
+    "id": 134166,
+    "type": "manga",
+    "title": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
+    "altTitle": [
+      "クラスの大嫌いな女子と結婚することになった。",
+      "I’m Getting Married to a Girl I Hate in My Class"
+    ],
+    "url": "https://anilist.co/manga/134166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134166-HmoOMdtUI5xS.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137004,
+    "deletedAt": null,
+    "authors": [
+      "Nanami Narumi",
+      "Seiju Amano",
+      "Mosskonbu"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-10-14T16:00:00.479Z",
-  "updatedAt": "2022-10-14T16:00:00.479Z",
-  "checkedAt": "2022-10-14T16:00:00.000Z",
+  "updatedAt": "2022-12-19T16:31:10.000Z",
+  "checkedAt": "2022-12-19T16:31:10.000Z",
   "id": 155618,
   "type": "manga",
   "title": "Hoegwiro Chowolhaneun Daemadosa",
@@ -14,12 +14,63 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 153859,
   "deletedAt": null,
   "authors": [
     "Nu-Ri Hanbit",
     "Muljanggu",
     "Chang-Ju Hong"
   ],
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-pg992715": {
+        "createdAt": "2022-10-06T09:00:02.822Z",
+        "updatedAt": "2022-12-19T17:20:00.000Z",
+        "checkedAt": "2022-10-06T09:00:02.000Z",
+        "id": 115794,
+        "identifier": "manga-pg992715",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Archmage Transcending Through Regression",
+        "url": "https://manganato.com/manga-pg992715",
+        "image": "https://avt.mkklcdnv6temp.com/18/s/27-1665027889.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153859,
+        "aniId": 155618,
+        "deletedAt": null,
+        "authors": [
+          "Attr"
+        ]
+      }
+    },
+    "Mangadex": {
+      "f019b88d-d1c9-461c-851a-7690df063496": {
+        "createdAt": "2022-12-19T04:00:00.664Z",
+        "updatedAt": "2022-12-19T16:29:41.000Z",
+        "checkedAt": "2022-12-19T04:00:00.000Z",
+        "id": 120024,
+        "identifier": "f019b88d-d1c9-461c-851a-7690df063496",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Archmage Who Transcends by Returning",
+        "url": "https://mangadex.org/title/f019b88d-d1c9-461c-851a-7690df063496",
+        "image": "https://uploads.mangadex.org/covers/f019b88d-d1c9-461c-851a-7690df063496/c1e7b397-8d9c-4c04-820f-361557663cb7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 153859,
+        "aniId": 155618,
+        "deletedAt": null,
+        "authors": [
+          "Hong Chang Joo",
+          "Hanbit Nuri",
+          "Mul Jang Gu"
+        ]
+      }
+    }
+  }
 }

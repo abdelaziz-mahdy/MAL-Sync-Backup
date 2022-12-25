@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-20T03:30:11.782Z",
-  "updatedAt": "2022-05-20T03:30:11.000Z",
-  "checkedAt": "2022-05-20T03:30:11.000Z",
+  "updatedAt": "2022-12-23T12:38:01.000Z",
+  "checkedAt": "2022-12-22T22:00:08.000Z",
   "id": 104903,
   "identifier": "93b3ac9c-81d9-4702-936a-80966e9aa247",
   "type": "manga",
@@ -12,14 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129960,
+  "aniId": 149944,
   "deletedAt": null,
   "authors": [
     "Akita Yoshinobu",
     "Yagami Yu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-20T03:30:11.772Z",
+    "updatedAt": "2022-12-06T08:01:51.000Z",
+    "checkedAt": "2022-12-06T08:01:51.000Z",
+    "id": 129960,
+    "type": "manga",
+    "title": "Majutsushi Orphen: Mubou-hen",
+    "altTitle": [
+      "Sorcerous Stabber Orphen: Reckless Journey",
+      "魔術士オーフェン 無謀編"
+    ],
+    "url": "https://myanimelist.net/manga/129960/Majutsushi_Orphen__Mubou-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/234562.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": []
+  },
+  "Ani": {
+    "createdAt": "2022-12-22T22:00:08.788Z",
+    "updatedAt": "2022-12-22T22:00:08.788Z",
+    "checkedAt": "2022-12-22T22:00:08.000Z",
+    "id": 149944,
+    "type": "manga",
+    "title": "Majutsushi Orphen: Mubou-hen",
+    "altTitle": [
+      "Sorcerous Stabber Orphen: The Reckless Journey",
+      "魔術士オーフェン 無謀編"
+    ],
+    "url": "https://anilist.co/manga/149944",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx149944-4KjC5VL4yGjD.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129960,
+    "deletedAt": null,
+    "authors": [
+      "Yoshinobu Akita",
+      "Yu Yagami",
+      "Raquel Viadel"
+    ]
+  }
 }
