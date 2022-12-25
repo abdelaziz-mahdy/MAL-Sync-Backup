@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:15:34.000Z",
-  "updatedAt": "2021-12-06T15:17:02.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-20T09:20:01.000Z",
+  "checkedAt": "2022-12-20T01:30:00.000Z",
   "id": 27290,
   "identifier": "f27a23c7-d321-430b-ae44-e1795a68b835",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 117130,
+  "aniId": 120279,
   "deletedAt": null,
   "authors": [
     "Kurumada Masami"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-29T16:30:03.100Z",
+    "updatedAt": "2022-09-29T16:30:03.100Z",
+    "checkedAt": "2022-09-29T16:30:03.000Z",
+    "id": 117130,
+    "type": "manga",
+    "title": "Saint Seiya: Origin",
+    "altTitle": [
+      "聖闘士星矢ORIGIN"
+    ],
+    "url": "https://myanimelist.net/manga/117130/Saint_Seiya__Origin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/241631.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kurumada, Masami"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:03.193Z",
+    "updatedAt": "2022-10-25T12:46:44.000Z",
+    "checkedAt": "2022-10-25T12:46:44.000Z",
+    "id": 120279,
+    "type": "manga",
+    "title": "Saint Seiya: Origin",
+    "altTitle": [
+      "聖闘士聖矢ORIGIN"
+    ],
+    "url": "https://anilist.co/manga/120279",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120279-XsmkvuVrLxVM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 117130,
+    "deletedAt": null,
+    "authors": [
+      "Masami Kurumada"
+    ]
+  }
 }

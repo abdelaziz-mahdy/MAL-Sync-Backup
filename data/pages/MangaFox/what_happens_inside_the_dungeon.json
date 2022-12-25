@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-30T12:31:51.000Z",
-  "updatedAt": "2022-05-25T07:00:49.000Z",
-  "checkedAt": "2022-05-25T07:00:49.000Z",
+  "updatedAt": "2022-12-20T17:20:01.000Z",
+  "checkedAt": "2022-12-20T15:00:00.000Z",
   "id": 60677,
   "identifier": "what_happens_inside_the_dungeon",
   "type": "manga",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148422,
+  "aniId": 117728,
   "deletedAt": null,
   "authors": [
     "Reva",
     "[Add]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-22T19:00:01.954Z",
+    "updatedAt": "2022-06-22T19:00:01.954Z",
+    "checkedAt": "2022-06-22T19:00:01.000Z",
+    "id": 148422,
+    "type": "manga",
+    "title": "What Happens Inside the Dungeon",
+    "altTitle": [
+      "Dungeon Sok Sajeong",
+      "What Happens Inside the Dungeon",
+      "던전 속 사정"
+    ],
+    "url": "https://myanimelist.net/manga/148422/What_Happens_Inside_the_Dungeon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263315.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/dungeon"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Reva"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:51.956Z",
+    "updatedAt": "2022-09-06T09:06:57.000Z",
+    "checkedAt": "2022-09-06T09:06:57.000Z",
+    "id": 117728,
+    "type": "manga",
+    "title": "Dungeon Sog Sajeog",
+    "altTitle": [
+      "What Happens Inside the Dungeon",
+      "던전 속 사정",
+      "Deonjeon Song Sajeong",
+      "Dungeon Sok Sajeong"
+    ],
+    "url": "https://anilist.co/manga/117728",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117728-yyM2IhWDzJ6a.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 148422,
+    "deletedAt": null,
+    "authors": [
+      "Reva"
+    ]
+  }
 }
