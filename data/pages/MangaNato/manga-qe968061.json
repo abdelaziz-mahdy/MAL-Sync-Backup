@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-06-29T17:50:17.000Z",
-  "updatedAt": "2021-12-29T17:53:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-27T15:20:00.000Z",
+  "checkedAt": "2022-12-27T13:00:05.000Z",
   "id": 80442,
   "identifier": "manga-qe968061",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 9986,
+  "aniId": 39986,
   "deletedAt": null,
   "authors": [
     "Hanmura Ryo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:41:25.000Z",
+    "updatedAt": "2022-12-17T14:33:39.000Z",
+    "checkedAt": "2022-12-17T14:33:39.000Z",
+    "id": 9986,
+    "type": "manga",
+    "title": "Sengoku Jieitai 1549",
+    "altTitle": [
+      "Samurai Commando: Mission 1549",
+      "戦国自衛隊1549"
+    ],
+    "url": "https://myanimelist.net/manga/9986/Sengoku_Jieitai_1549",
+    "image": "https://cdn.myanimelist.net/images/manga/3/86427.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E8%87%AA%E8%A1%9B%E9%9A%8A1549"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fukui, Harutoshi",
+      "Ark Performance"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:39.412Z",
+    "updatedAt": "2022-12-17T14:33:38.000Z",
+    "checkedAt": "2022-12-17T14:33:38.000Z",
+    "id": 39986,
+    "type": "manga",
+    "title": "Sengoku Jieitai 1549",
+    "altTitle": [
+      "Samurai Commando: Mission 1549",
+      "戦国自衛隊1549"
+    ],
+    "url": "https://anilist.co/manga/39986",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9986.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 9986,
+    "deletedAt": null,
+    "authors": [
+      "Harutoshi Fukui",
+      "Ark Performance"
+    ]
+  }
 }

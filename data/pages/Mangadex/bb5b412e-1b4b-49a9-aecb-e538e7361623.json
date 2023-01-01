@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-09T14:30:14.577Z",
-  "updatedAt": "2022-11-09T14:30:27.000Z",
+  "updatedAt": "2022-12-26T15:44:16.000Z",
   "checkedAt": "2022-11-09T14:30:14.000Z",
   "id": 117611,
   "identifier": "bb5b412e-1b4b-49a9-aecb-e538e7361623",
@@ -12,8 +12,8 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 154453,
   "aniId": 154793,
   "deletedAt": null,
   "authors": [
@@ -21,28 +21,55 @@
     "Lee Ye-ji",
     "Hwa Eum-jo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-12-24T21:30:13.536Z",
+    "updatedAt": "2022-12-24T21:30:13.536Z",
+    "checkedAt": "2022-12-24T21:30:13.000Z",
+    "id": 154453,
+    "type": "manga",
+    "title": "Extraordinary Attorney Woo",
+    "altTitle": [
+      "Extraordinary Attorney Woo",
+      "이상한 변호사 우영우"
+    ],
+    "url": "https://myanimelist.net/manga/154453/Extraordinary_Attorney_Woo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/273919.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=798173"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yuil",
+      "Hwaumjo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-11-09T14:30:27.722Z",
-    "updatedAt": "2022-11-09T14:30:27.722Z",
-    "checkedAt": "2022-11-09T14:30:27.000Z",
+    "updatedAt": "2022-12-26T15:47:59.000Z",
+    "checkedAt": "2022-12-26T15:47:59.000Z",
     "id": 154793,
     "type": "manga",
     "title": "Isanghan Byeonhosa U Yeong-U",
     "altTitle": [
+      "Extraordinary Attorney Woo",
       "이상한 변호사 우영우",
       "Isanghan Byeonhosa Woo Young-Woo",
       "非常律师禹英禑",
       "非常律師禹英禑",
-      "อูยองอู ทนายอัจฉริยะ",
-      "Extraordinary Attorney Woo"
+      "อูยองอู ทนายอัจฉริยะ"
     ],
     "url": "https://anilist.co/manga/154793",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154793-9gFxpr4JLVFH.jpg",
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 154453,
     "deletedAt": null,
     "authors": [
       "Ye-Ji Lee",

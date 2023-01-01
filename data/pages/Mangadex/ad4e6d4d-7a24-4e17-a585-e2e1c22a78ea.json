@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-12T08:09:32.000Z",
-  "updatedAt": "2021-12-08T12:40:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-31T23:30:08.000Z",
+  "checkedAt": "2022-12-31T23:30:08.000Z",
   "id": 65352,
   "identifier": "ad4e6d4d-7a24-4e17-a585-e2e1c22a78ea",
   "type": "manga",
@@ -11,14 +11,35 @@
   "image": "https://uploads.mangadex.org/covers/ad4e6d4d-7a24-4e17-a585-e2e1c22a78ea/d9ef1ed4-1509-44e5-90eb-02f0ea687638.jpg",
   "hentai": true,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 110873,
   "deletedAt": null,
   "authors": [
     "Ddasoom"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:18.866Z",
+    "updatedAt": "2022-12-31T23:17:35.000Z",
+    "checkedAt": "2022-12-31T23:17:35.000Z",
+    "id": 110873,
+    "type": "manga",
+    "title": "Mallanghan Geui",
+    "altTitle": [
+      "My Special Squishy Someone",
+      "말랑한 그이"
+    ],
+    "url": "https://anilist.co/manga/110873",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110873-2drJ0HPDdWyF.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ddasoom"
+    ]
+  }
 }

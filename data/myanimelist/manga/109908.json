@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-08T09:30:24.000Z",
-  "updatedAt": "2022-04-08T09:30:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-31T08:00:03.000Z",
+  "checkedAt": "2022-12-31T08:00:03.000Z",
   "id": 109908,
   "type": "manga",
   "title": "Zanshou no Teikoku",
@@ -12,17 +12,38 @@
   "image": "https://cdn.myanimelist.net/images/manga/1/201641.jpg",
   "category": "Manga",
   "hentai": false,
-  "externalLinks": [
-    {
-      "site": "officialsite",
-      "url": "https://bigcomicbros.net/work/6182/"
-    }
-  ],
+  "externalLinks": [],
   "legalLinks": [],
   "deletedAt": null,
   "authors": [
     "Fujisawa, Yuki",
     "Inai, Yuuto"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "81c68a5d-00ab-45a9-a0b9-0b4c91139c95": {
+        "createdAt": "2022-12-31T08:00:03.574Z",
+        "updatedAt": "2022-12-31T08:00:03.000Z",
+        "checkedAt": "2022-12-31T08:00:03.000Z",
+        "id": 120788,
+        "identifier": "81c68a5d-00ab-45a9-a0b9-0b4c91139c95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zanshou no Teikoku",
+        "url": "https://mangadex.org/title/81c68a5d-00ab-45a9-a0b9-0b4c91139c95",
+        "image": "https://uploads.mangadex.org/covers/81c68a5d-00ab-45a9-a0b9-0b4c91139c95/3e4af971-f03e-4aa3-88d3-e63aff8b37f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 109908,
+        "aniId": null,
+        "deletedAt": null,
+        "authors": [
+          "Fujisawa Yuki",
+          "Inai Yuuto"
+        ]
+      }
+    }
+  }
 }
