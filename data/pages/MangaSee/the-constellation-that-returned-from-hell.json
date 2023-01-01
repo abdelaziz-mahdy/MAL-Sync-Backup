@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-04-10T15:21:30.000Z",
-  "updatedAt": "2022-12-18T04:30:06.000Z",
+  "updatedAt": "2022-12-26T16:20:00.000Z",
   "checkedAt": "2022-12-18T04:30:06.000Z",
   "id": 69011,
   "identifier": "the-constellation-that-returned-from-hell",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147569,
+  "aniId": 132457,
   "deletedAt": null,
   "authors": [
     "idk"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-10T01:00:17.073Z",
+    "updatedAt": "2022-09-10T01:00:17.073Z",
+    "checkedAt": "2022-09-10T01:00:17.000Z",
+    "id": 147569,
+    "type": "manga",
+    "title": "The Celestial Returned from Hell",
+    "altTitle": [
+      "The Constellation That Returned From Hell",
+      "Jiok-eseo Doraon Seongjwa-nim",
+      "The Celestial Returned from Hell",
+      "지옥에서 돌아온 성좌님"
+    ],
+    "url": "https://myanimelist.net/manga/147569/The_Celestial_Returned_from_Hell",
+    "image": "https://cdn.myanimelist.net/images/manga/3/263913.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=56677367"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Geulsseuneun Gigye",
+      "Sichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:58.757Z",
+    "updatedAt": "2022-12-26T15:47:13.000Z",
+    "checkedAt": "2022-12-26T15:47:13.000Z",
+    "id": 132457,
+    "type": "manga",
+    "title": "Jiogeseo Doraon Seongjwanim",
+    "altTitle": [
+      "The Celestial Returned from Hell",
+      "지옥에서 돌아온 성좌님",
+      "The Constellation That Returned From Hell"
+    ],
+    "url": "https://anilist.co/manga/132457",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132457-sGQqSZbDoKJR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147569,
+    "deletedAt": null,
+    "authors": [
+      "Geulsseuneungigye",
+      "Sichi"
+    ]
+  }
 }

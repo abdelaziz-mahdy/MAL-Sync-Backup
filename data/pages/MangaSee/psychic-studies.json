@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-28T09:23:31.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": "2022-05-16T04:00:03.000Z",
+  "updatedAt": "2022-12-31T15:20:00.000Z",
+  "checkedAt": "2022-12-31T14:00:14.000Z",
   "id": 96911,
   "identifier": "psychic-studies",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147668,
+  "aniId": 145859,
   "deletedAt": null,
   "authors": [
     "Park Eun-hyuk"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T23:00:12.517Z",
+    "updatedAt": "2022-07-10T23:00:12.517Z",
+    "checkedAt": "2022-07-10T23:00:12.000Z",
+    "id": 147668,
+    "type": "manga",
+    "title": "Psychic Studies",
+    "altTitle": [
+      "Hypnosis School",
+      "Choemyeon Hakgyo",
+      "Psychic Studies",
+      "최면학교"
+    ],
+    "url": "https://myanimelist.net/manga/147668/Psychic_Studies",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264436.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=776656"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Eun Hyuk"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:10.013Z",
+    "updatedAt": "2022-07-11T15:17:36.000Z",
+    "checkedAt": "2022-07-11T15:17:36.000Z",
+    "id": 145859,
+    "type": "manga",
+    "title": "Choemyeonhakgyo",
+    "altTitle": [
+      "Psychic Studies",
+      "최면학교"
+    ],
+    "url": "https://anilist.co/manga/145859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145859-xAvEqYTagVhs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147668,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Hyeok Park"
+    ]
+  }
 }

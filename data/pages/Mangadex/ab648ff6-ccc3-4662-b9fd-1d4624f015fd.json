@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-10-12T16:19:27.000Z",
-  "updatedAt": "2022-06-03T05:00:07.000Z",
-  "checkedAt": "2022-06-03T05:00:07.000Z",
+  "updatedAt": "2022-12-26T15:43:24.000Z",
+  "checkedAt": "2022-12-25T23:00:13.000Z",
   "id": 35200,
   "identifier": "ab648ff6-ccc3-4662-b9fd-1d4624f015fd",
   "type": "manga",
   "page": "Mangadex",
   "title": "Golden Guy",
   "url": "https://mangadex.org/title/ab648ff6-ccc3-4662-b9fd-1d4624f015fd",
-  "image": "https://uploads.mangadex.org/covers/ab648ff6-ccc3-4662-b9fd-1d4624f015fd/29fbc310-1305-4304-bd9c-c93f4714a95d.jpg",
+  "image": "https://uploads.mangadex.org/covers/ab648ff6-ccc3-4662-b9fd-1d4624f015fd/ee0e8ec1-7086-43cd-8346-a03b930c6557.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151106,
+  "aniId": 142279,
   "deletedAt": null,
   "authors": [
     "Watanabe Jun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-24T22:00:01.363Z",
+    "updatedAt": "2022-11-24T22:00:01.363Z",
+    "checkedAt": "2022-11-24T22:00:01.000Z",
+    "id": 151106,
+    "type": "manga",
+    "title": "Golden Guy",
+    "altTitle": [
+      "ゴールデン・ガイ"
+    ],
+    "url": "https://myanimelist.net/manga/151106/Golden_Guy",
+    "image": "https://cdn.myanimelist.net/images/manga/3/270681.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Watanabe, Jun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:32.028Z",
+    "updatedAt": "2022-12-27T09:53:04.000Z",
+    "checkedAt": "2022-12-27T09:53:04.000Z",
+    "id": 142279,
+    "type": "manga",
+    "title": "Golden Guy",
+    "altTitle": [
+      "ゴールデン・ガイ"
+    ],
+    "url": "https://anilist.co/manga/142279",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142279-LhceafWkTQEN.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151106,
+    "deletedAt": null,
+    "authors": [
+      "Jun Watanabe"
+    ]
+  }
 }

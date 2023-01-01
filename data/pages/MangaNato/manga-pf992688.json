@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-10-05T13:00:09.498Z",
-  "updatedAt": "2022-10-05T13:00:09.000Z",
+  "updatedAt": "2022-12-29T18:20:03.000Z",
   "checkedAt": "2022-10-05T13:00:09.000Z",
   "id": 115738,
   "identifier": "manga-pf992688",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 148365,
+  "aniId": 147587,
   "deletedAt": null,
   "authors": [
     "Hanheun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-28T08:30:02.149Z",
+    "updatedAt": "2022-08-28T08:30:02.149Z",
+    "checkedAt": "2022-08-28T08:30:02.000Z",
+    "id": 148365,
+    "type": "manga",
+    "title": "Marriage of Convenience",
+    "altTitle": [
+      "The Marriage Business",
+      "Gyeolhon Jangsa",
+      "결혼 장사"
+    ],
+    "url": "https://myanimelist.net/manga/148365/Marriage_of_Convenience",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265093.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=59033754"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ant Studio",
+      "Ken"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:20.447Z",
+    "updatedAt": "2022-09-06T09:08:55.000Z",
+    "checkedAt": "2022-09-06T09:08:55.000Z",
+    "id": 147587,
+    "type": "manga",
+    "title": "Gyeolhon Jangsa",
+    "altTitle": [
+      "결혼 장사",
+      "Marriage of Convenience",
+      "The Marriage Business"
+    ],
+    "url": "https://anilist.co/manga/147587",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147587-pMknDRWHBgtQ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148365,
+    "deletedAt": null,
+    "authors": [
+      "Ant Studio",
+      "KEN",
+      "Hanheun"
+    ]
+  }
 }

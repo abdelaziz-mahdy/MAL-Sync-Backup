@@ -1,25 +1,78 @@
 {
   "createdAt": "2020-10-12T16:04:04.000Z",
-  "updatedAt": "2021-12-02T18:47:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2022-12-26T15:43:29.000Z",
+  "checkedAt": "2022-12-25T23:30:18.000Z",
   "id": 3566,
   "identifier": "ae039b61-72e2-4513-b091-bd7426d2ee44",
   "type": "manga",
   "page": "Mangadex",
   "title": "Tiger & Bunny",
   "url": "https://mangadex.org/title/ae039b61-72e2-4513-b091-bd7426d2ee44",
-  "image": "https://uploads.mangadex.org/covers/ae039b61-72e2-4513-b091-bd7426d2ee44/43583370-710b-43d6-94b4-92acd892f9b0.jpg",
+  "image": "https://uploads.mangadex.org/covers/ae039b61-72e2-4513-b091-bd7426d2ee44/dcf66b4a-cedc-4875-a081-de7d9c84a4ce.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 29553,
+  "aniId": 59553,
   "deletedAt": null,
   "authors": [
     "Sunrise",
     "Sakakibara Mizuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:34.000Z",
+    "updatedAt": "2022-12-18T13:39:21.000Z",
+    "checkedAt": "2022-12-18T13:39:21.000Z",
+    "id": 29553,
+    "type": "manga",
+    "title": "Tiger & Bunny",
+    "altTitle": [
+      "Tiger and Bunny",
+      "Taibani",
+      "Tiger & Bunny",
+      "TIGER & BUNNY"
+    ],
+    "url": "https://myanimelist.net/manga/29553/Tiger___Bunny",
+    "image": "https://cdn.myanimelist.net/images/manga/1/161787.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/TIGER_%26_BUNNY"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakakibara, Mizuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:48.545Z",
+    "updatedAt": "2022-12-18T13:39:21.000Z",
+    "checkedAt": "2022-12-18T13:39:21.000Z",
+    "id": 59553,
+    "type": "manga",
+    "title": "Tiger & Bunny",
+    "altTitle": [
+      "Tiger & Bunny",
+      "タイガー・アンド・バニー",
+      "Tiger and Bunny",
+      "Taibani"
+    ],
+    "url": "https://anilist.co/manga/59553",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59553-xA0VLsOLqr6i.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 29553,
+    "deletedAt": null,
+    "authors": [
+      "Mizuki Sakakibara",
+      "Erika Abreu",
+      "Joel Dias"
+    ]
+  }
 }

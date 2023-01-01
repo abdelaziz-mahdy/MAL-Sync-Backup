@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-12-24T17:30:12.296Z",
-  "updatedAt": "2022-12-24T17:30:12.296Z",
+  "updatedAt": "2022-12-26T16:20:00.000Z",
   "checkedAt": "2022-12-24T17:30:12.000Z",
   "id": 44131,
   "identifier": "9vxqysb6",
@@ -11,11 +11,95 @@
   "image": "https://tenshi.moe/images/anime/u1fwixcq4-6118d41c15c8e404615489.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actorId": 1,
+  "malId": 45577,
+  "aniId": 127721,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-12-30T07:55:18.000Z",
+    "updatedAt": "2022-12-01T17:43:02.000Z",
+    "checkedAt": "2022-12-01T17:43:02.000Z",
+    "id": 45577,
+    "type": "anime",
+    "title": "IDOLiSH7 Third Beat!",
+    "altTitle": [
+      "IDOLiSH7 3rd Season",
+      "Idolish Seven 3rd Season",
+      "IDOLISH7 Third BEAT!",
+      "アイドリッシュセブン Third BEAT!"
+    ],
+    "url": "https://myanimelist.net/anime/45577/IDOLiSH7_Third_Beat",
+    "image": "https://cdn.myanimelist.net/images/anime/1646/115723.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://idolish7.com/aninana/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15955"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24195"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Idolish7#Anime"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-274671"
+      },
+      {
+        "site": "aniplustv",
+        "url": "http://www.aniplustv.com/"
+      },
+      {
+        "site": "bahamutanimecrazy",
+        "url": "https://ani.gamer.com.tw/"
+      },
+      {
+        "site": "laftel",
+        "url": "https://laftel.net/"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 15955
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:15.000Z",
+    "updatedAt": "2022-12-01T17:43:10.000Z",
+    "checkedAt": "2022-12-01T17:43:10.000Z",
+    "id": 127721,
+    "type": "anime",
+    "title": "IDOLiSH7: Third BEAT!",
+    "altTitle": [
+      "IDOLiSH7 Third BEAT!",
+      "アイドリッシュセブン Third BEAT!",
+      "IDOLiSH7 3",
+      "ไอดอลลิช 7 เธิร์ดบีท "
+    ],
+    "url": "https://anilist.co/anime/127721",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127721-RDMdW18EePJi.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/idolish7"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRE50NQV6/IDOLiSH7"
+      }
+    ],
+    "malId": 45577,
+    "deletedAt": null
+  }
 }
