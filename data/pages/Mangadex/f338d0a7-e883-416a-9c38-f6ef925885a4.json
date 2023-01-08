@@ -1,24 +1,70 @@
 {
   "createdAt": "2020-10-26T19:42:30.000Z",
-  "updatedAt": "2021-12-08T06:08:23.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-04T17:26:33.000Z",
+  "checkedAt": "2023-01-04T15:30:32.000Z",
   "id": 50723,
   "identifier": "f338d0a7-e883-416a-9c38-f6ef925885a4",
   "type": "manga",
   "page": "Mangadex",
   "title": "Disaster Fox Kuzure-chan",
   "url": "https://mangadex.org/title/f338d0a7-e883-416a-9c38-f6ef925885a4",
-  "image": "https://uploads.mangadex.org/covers/f338d0a7-e883-416a-9c38-f6ef925885a4/3d927c84-b721-4dda-b0d2-9329d5d97d9c.jpg",
+  "image": "https://uploads.mangadex.org/covers/f338d0a7-e883-416a-9c38-f6ef925885a4/4b8964e4-21be-4ee4-915e-891d1af4f52e.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 140302,
+  "aniId": 120971,
   "deletedAt": null,
   "authors": [
     "Ukan Muri"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-04T17:26:17.343Z",
+    "updatedAt": "2023-01-04T17:26:17.343Z",
+    "checkedAt": "2023-01-04T17:26:17.000Z",
+    "id": 140302,
+    "type": "manga",
+    "title": "Wazawai Kitsune no Kuzure-chan",
+    "altTitle": [
+      "災い狐のくずれちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/140302/Wazawai_Kitsune_no_Kuzure-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/250170.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-ryu.jp/_kuzurechan/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ukanmuri"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:07.817Z",
+    "updatedAt": "2023-01-04T15:30:36.000Z",
+    "checkedAt": "2023-01-04T15:30:36.000Z",
+    "id": 120971,
+    "type": "manga",
+    "title": "Wazawai Kitsune no Kuzurechan",
+    "altTitle": [
+      "災い狐のくずれちゃん",
+      "災禍之狐的久津禮"
+    ],
+    "url": "https://anilist.co/manga/120971",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120971-8p48uiIRvt1z.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140302,
+    "deletedAt": null,
+    "authors": [
+      "Ukanmuri"
+    ]
+  }
 }

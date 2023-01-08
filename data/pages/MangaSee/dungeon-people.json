@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-21T17:30:18.292Z",
-  "updatedAt": "2022-11-21T17:30:18.000Z",
+  "updatedAt": "2023-01-04T14:20:00.000Z",
   "checkedAt": "2022-11-21T17:30:18.000Z",
   "id": 118333,
   "identifier": "dungeon-people",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136528,
+  "aniId": 134121,
   "deletedAt": null,
   "authors": [
     "FUTAMI Sui"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-21T18:00:09.912Z",
+    "updatedAt": "2022-11-21T18:00:09.912Z",
+    "checkedAt": "2022-11-21T18:00:09.000Z",
+    "id": 136528,
+    "type": "manga",
+    "title": "Dungeon no Naka no Hito",
+    "altTitle": [
+      "Dungeon People",
+      "ダンジョンの中のひと"
+    ],
+    "url": "https://myanimelist.net/manga/136528/Dungeon_no_Naka_no_Hito",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244530.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-action.com/episode/13933686331665056851"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Futami, Sui"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:35.676Z",
+    "updatedAt": "2022-11-21T23:06:06.000Z",
+    "checkedAt": "2022-11-21T23:06:06.000Z",
+    "id": 134121,
+    "type": "manga",
+    "title": "Dungeon no Naka no Hito",
+    "altTitle": [
+      "Dungeon People",
+      "ダンジョンの中のひと",
+      "Au cœur du donjon",
+      "Au coeur du donjon "
+    ],
+    "url": "https://anilist.co/manga/134121",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134121-OehExfhVVGdq.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136528,
+    "deletedAt": null,
+    "authors": [
+      "Sui Hutami",
+      "Deniz Amasya"
+    ]
+  }
 }

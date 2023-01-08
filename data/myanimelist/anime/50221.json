@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-06-17T12:30:52.363Z",
-  "updatedAt": "2022-06-17T12:30:52.363Z",
-  "checkedAt": "2022-06-17T12:30:52.000Z",
+  "updatedAt": "2023-01-03T15:53:20.000Z",
+  "checkedAt": "2023-01-03T15:53:20.000Z",
   "id": 50221,
   "type": "anime",
   "title": "Shine Post",
@@ -18,19 +18,32 @@
       "url": "https://anime.shinepost.jp/"
     },
     {
-      "site": "animedb",
-      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16937"
+      "site": "anidb",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16937"
     },
     {
-      "site": "animenewsnetwork",
-      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24908"
+      "site": "ann",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24908"
     },
     {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Shine_Post#Anime"
     }
   ],
-  "legalLinks": [],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/"
+    },
+    {
+      "site": "aniplusasia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "aniplustv",
+      "url": "http://www.aniplustv.com/"
+    }
+  ],
   "deletedAt": null,
   "anidbId": 16937,
   "Pages": {
@@ -105,16 +118,6 @@
         "page": "animepahe",
         "title": "Shine Post",
         "url": "https://animepahe.com/a/4842"
-      }
-    },
-    "AniMixPlay": {
-      "50221": {
-        "identifier": "50221",
-        "malId": 50221,
-        "type": "anime",
-        "page": "AniMixPlay",
-        "title": "Shine Post",
-        "url": "https://animixplay.to/anime/50221"
       }
     },
     "YugenAnime": {
