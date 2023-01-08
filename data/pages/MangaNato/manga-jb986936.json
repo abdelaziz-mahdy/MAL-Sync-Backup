@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-07-22T13:04:12.000Z",
-  "updatedAt": "2022-01-22T13:30:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-05T16:59:18.000Z",
+  "checkedAt": "2023-01-05T13:30:19.000Z",
   "id": 82752,
   "identifier": "manga-jb986936",
   "type": "manga",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 132736,
+  "aniId": 120155,
   "deletedAt": null,
   "authors": [
     "Nikaidou Ko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-01-15T16:02:40.000Z",
+    "updatedAt": "2022-12-06T12:54:43.000Z",
+    "checkedAt": "2022-12-06T12:54:43.000Z",
+    "id": 132736,
+    "type": "manga",
+    "title": "Arigatou tte Itte: Nikaidou Kou Tanpenshuu",
+    "altTitle": [
+      "Anata no Tonari nimo: Oni",
+      "Sensei ga Suki",
+      "Anata no Tonari nimo: Hito",
+      "Hisuiiro no Hitomi",
+      "Run!",
+      "Yottsu no Donuts",
+      "Koi no Swing-by",
+      "Say Thank You: Collected Short Stories of Kou Nikaidou",
+      "二階堂幸短編集　ありがとうって言って"
+    ],
+    "url": "https://myanimelist.net/manga/132736/Arigatou_tte_Itte__Nikaidou_Kou_Tanpenshuu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239723.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-days.com/episode/13933686331644003577"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nikaidou, Kou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:38.659Z",
+    "updatedAt": "2022-12-06T12:54:42.000Z",
+    "checkedAt": "2022-12-06T12:54:42.000Z",
+    "id": 120155,
+    "type": "manga",
+    "title": "Nikaidou Kou Tanpenshuu: Arigatou tte Itte",
+    "altTitle": [
+      "二階堂幸短編集　ありがとうって言って",
+      "Say Thank You"
+    ],
+    "url": "https://anilist.co/manga/120155",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120155-Xx3lQG1ZUSmR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 132736,
+    "deletedAt": null,
+    "authors": [
+      "Kou Nikaidou"
+    ]
+  }
 }

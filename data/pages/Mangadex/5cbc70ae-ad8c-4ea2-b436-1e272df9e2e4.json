@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-31T09:00:02.177Z",
-  "updatedAt": "2022-08-31T09:00:02.000Z",
+  "updatedAt": "2023-01-04T17:26:15.000Z",
   "checkedAt": "2022-08-31T09:00:02.000Z",
   "id": 113582,
   "identifier": "5cbc70ae-ad8c-4ea2-b436-1e272df9e2e4",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 151025,
+  "aniId": 153508,
   "deletedAt": null,
   "authors": [
     "Mitsuki Midori",
@@ -22,6 +22,59 @@
     "Arusechika",
     "Arata Iri"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-21T23:30:07.833Z",
+    "updatedAt": "2022-09-21T23:30:07.833Z",
+    "checkedAt": "2022-09-21T23:30:07.000Z",
+    "id": 151025,
+    "type": "manga",
+    "title": "Goodbye Sengen",
+    "altTitle": [
+      "グッバイ宣言"
+    ],
+    "url": "https://myanimelist.net/manga/151025/Goodbye_Sengen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267673.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://dengekidaioh.jp/product/goodbye/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80#%E6%BC%AB%E7%94%BB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Arata, Iri",
+      "Mitsuki, Midori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-04T16:30:10.214Z",
+    "updatedAt": "2023-01-04T16:30:10.214Z",
+    "checkedAt": "2023-01-04T16:30:10.000Z",
+    "id": 153508,
+    "type": "manga",
+    "title": "Goodbye Sengen",
+    "altTitle": [
+      "グッバイ宣言"
+    ],
+    "url": "https://anilist.co/manga/153508",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153508-L1WFbjS9dGPu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151025,
+    "deletedAt": null,
+    "authors": [
+      "Iri Arata",
+      "Chika Aruse",
+      "Chinozo",
+      "Midori Sangatsu"
+    ]
+  }
 }

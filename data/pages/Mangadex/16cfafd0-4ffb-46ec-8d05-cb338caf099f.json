@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:51.000Z",
-  "updatedAt": "2021-12-05T11:48:09.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-05T10:43:23.000Z",
+  "checkedAt": "2023-01-04T20:30:10.000Z",
   "id": 20197,
   "identifier": "16cfafd0-4ffb-46ec-8d05-cb338caf099f",
   "type": "manga",
@@ -12,13 +12,57 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 113369,
+  "aniId": 108724,
   "deletedAt": null,
   "authors": [
     "Aiue Oka"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-01-31T15:01:53.000Z",
+    "updatedAt": "2022-12-01T01:13:28.000Z",
+    "checkedAt": "2022-12-01T01:13:28.000Z",
+    "id": 113369,
+    "type": "manga",
+    "title": "Ijirare: Fukushuu Saimin",
+    "altTitle": [
+      "Bullied ~Revenge Hypnosis~",
+      "イジラレ~復讐催眠~"
+    ],
+    "url": "https://myanimelist.net/manga/113369/Ijirare__Fukushuu_Saimin",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239001.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Aiue, Oka"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:48.941Z",
+    "updatedAt": "2022-12-04T19:18:02.000Z",
+    "checkedAt": "2022-12-04T19:18:02.000Z",
+    "id": 108724,
+    "type": "manga",
+    "title": "Ijirare: Fukushuu Saimin",
+    "altTitle": [
+      "Bullied ~Revenge Hypnosis~",
+      "イジラレ ～復讐催眠～",
+      "Izirare ~Hukusyu Saimin~",
+      " Hipnoza - zemsta ofiary "
+    ],
+    "url": "https://anilist.co/manga/108724",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108724-K0sz50MXSt68.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 113369,
+    "deletedAt": null,
+    "authors": [
+      "Aiue Oka"
+    ]
+  }
 }

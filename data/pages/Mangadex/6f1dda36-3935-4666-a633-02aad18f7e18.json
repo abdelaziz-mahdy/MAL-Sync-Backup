@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-31T04:40:56.000Z",
-  "updatedAt": "2021-12-08T06:39:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-03T13:25:39.000Z",
+  "checkedAt": "2023-01-02T21:30:07.000Z",
   "id": 51138,
   "identifier": "6f1dda36-3935-4666-a633-02aad18f7e18",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131047,
+  "aniId": 124134,
   "deletedAt": null,
   "authors": [
     "Jorori"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-02T21:30:03.464Z",
+    "updatedAt": "2023-01-02T21:30:03.464Z",
+    "checkedAt": "2023-01-02T21:30:03.000Z",
+    "id": 131047,
+    "type": "manga",
+    "title": "Junai.",
+    "altTitle": [
+      "Pure Love",
+      "Jun'ai.",
+      "純愛。"
+    ],
+    "url": "https://myanimelist.net/manga/131047/Junai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/240979.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Jorori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:25.059Z",
+    "updatedAt": "2023-01-02T21:30:07.000Z",
+    "checkedAt": "2023-01-02T21:30:07.000Z",
+    "id": 124134,
+    "type": "manga",
+    "title": "Junai.",
+    "altTitle": [
+      "純愛。",
+      "Pure Love."
+    ],
+    "url": "https://anilist.co/manga/124134",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124134-Mj2w2Jz5fMMl.jpg",
+    "category": "one_shot",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 131047,
+    "deletedAt": null,
+    "authors": [
+      "Jorori"
+    ]
+  }
 }

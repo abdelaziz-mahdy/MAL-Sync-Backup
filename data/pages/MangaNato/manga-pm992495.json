@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-20T17:00:00.214Z",
-  "updatedAt": "2022-09-20T17:00:00.000Z",
+  "updatedAt": "2023-01-02T09:20:00.000Z",
   "checkedAt": "2022-09-20T17:00:00.000Z",
   "id": 114823,
   "identifier": "manga-pm992495",
@@ -12,11 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 154338,
+  "aniId": 154905,
   "deletedAt": null,
   "authors": [],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-25T19:30:01.726Z",
+    "updatedAt": "2022-12-25T19:30:01.726Z",
+    "checkedAt": "2022-12-25T19:30:01.000Z",
+    "id": 154338,
+    "type": "manga",
+    "title": "I'll Be the Warrior's Mother",
+    "altTitle": [
+      "I Will Become the Hero's Mother",
+      "용사의 어머니가 되겠습니다"
+    ],
+    "url": "https://myanimelist.net/manga/154338/Ill_Be_the_Warriors_Mother",
+    "image": "https://cdn.myanimelist.net/images/manga/3/273759.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/59787998"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ellianyang",
+      "Capu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-09-21T21:30:00.827Z",
+    "updatedAt": "2023-01-02T09:12:41.000Z",
+    "checkedAt": "2023-01-02T09:12:41.000Z",
+    "id": 154905,
+    "type": "manga",
+    "title": "Yongsaui Eomeoniga Doegetseumnida",
+    "altTitle": [
+      "용사의 어머니가 되겠습니다",
+      " I'll Become the Mother of the Hero"
+    ],
+    "url": "https://anilist.co/manga/154905",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154905-nEv2MhY09Xru.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 154338,
+    "deletedAt": null,
+    "authors": [
+      "Ellianyang",
+      "Kapu"
+    ]
+  }
 }
