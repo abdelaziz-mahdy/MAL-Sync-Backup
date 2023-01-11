@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-07-25T01:00:05.857Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
+  "updatedAt": "2023-01-09T09:20:00.000Z",
   "checkedAt": "2022-07-25T01:00:05.000Z",
   "id": 41578,
   "identifier": "q5wn",
@@ -12,56 +12,97 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 13709,
-  "aniId": 13709,
+  "actorId": 1,
+  "malId": 1292,
+  "aniId": 1292,
   "deletedAt": null,
   "Mal": {
-    "createdAt": "2020-10-12T15:39:13.000Z",
-    "updatedAt": "2022-11-30T17:47:56.000Z",
-    "checkedAt": "2022-11-30T17:47:56.000Z",
-    "id": 13709,
+    "createdAt": "2020-10-12T15:38:15.000Z",
+    "updatedAt": "2022-12-01T05:54:35.000Z",
+    "checkedAt": "2022-12-01T05:54:35.000Z",
+    "id": 1292,
     "type": "anime",
-    "title": "Afro Samurai Movie",
+    "title": "Afro Samurai",
     "altTitle": [
-      "Afro Samurai the Movie",
-      "AFRO SAMURAI　劇場版"
+      "Afro Samurai",
+      "アフロサムライ"
     ],
-    "url": "https://myanimelist.net/anime/13709/Afro_Samurai_Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/8/38065.jpg",
-    "category": "Movie",
+    "url": "https://myanimelist.net/anime/1292/Afro_Samurai",
+    "image": "https://cdn.myanimelist.net/images/anime/3/15874.jpg",
+    "category": "TV",
     "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
-        "url": "http://www.gonzo.co.jp/archives/afro-samurai/index.html"
+        "url": "http://www.afrosamurai.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2656"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5275"
       },
       {
         "site": "wikipedia",
         "url": "http://en.wikipedia.org/wiki/Afro_Samurai"
       }
     ],
-    "legalLinks": [],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-283044"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/afro-samurai"
+      },
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/"
+      },
+      {
+        "site": "tubitv",
+        "url": "https://tubitv.com/series/3400/afro-samurai"
+      }
+    ],
     "deletedAt": null,
-    "anidbId": null
+    "anidbId": 2656
   },
   "Ani": {
-    "createdAt": "2021-05-20T14:40:16.000Z",
-    "updatedAt": "2022-12-01T16:33:55.000Z",
-    "checkedAt": "2022-12-01T16:33:55.000Z",
-    "id": 13709,
+    "createdAt": "2021-05-20T14:35:03.000Z",
+    "updatedAt": "2022-12-02T05:41:04.000Z",
+    "checkedAt": "2022-12-02T05:41:04.000Z",
+    "id": 1292,
     "type": "anime",
-    "title": "AFRO SAMURAI Movie",
+    "title": "Afro Samurai",
     "altTitle": [
-      "Afro Samurai the Movie",
-      "AFRO SAMURAI 劇場版"
+      "アフロサムライ"
     ],
-    "url": "https://anilist.co/anime/13709",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13709-nUNyhw7NOiLr.png",
-    "category": "movie",
+    "url": "https://anilist.co/anime/1292",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1292-FcyYgq7Ly34H.png",
+    "category": "tv",
     "hentai": false,
-    "externalLinks": [],
-    "malId": 13709,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "http://www.funimation.com/shows/afro-samurai/"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/afro-samurai"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/70204947"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/afro-samurai"
+      }
+    ],
+    "malId": 1292,
     "deletedAt": null
   }
 }

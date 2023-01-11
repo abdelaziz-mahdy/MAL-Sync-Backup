@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-19T03:34:44.000Z",
-  "updatedAt": "2021-12-08T13:09:00.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-09T09:20:00.000Z",
+  "checkedAt": "2023-01-08T08:30:08.000Z",
   "id": 66100,
   "identifier": "0a34f2ce-bd2b-48ee-a984-e54e44525d95",
   "type": "manga",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147368,
+  "aniId": 142894,
   "deletedAt": null,
   "authors": [
     "Lee Surim",
     "Bam Manju"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-28T22:00:01.801Z",
+    "updatedAt": "2022-10-28T22:00:01.801Z",
+    "checkedAt": "2022-10-28T22:00:01.000Z",
+    "id": 147368,
+    "type": "manga",
+    "title": "My In-Laws are Obsessed with Me",
+    "altTitle": [
+      "Si-World-ga Naege Jipchak Handa",
+      "My In-Laws are Obsessed with Me",
+      "시월드가 내게 집착한다"
+    ],
+    "url": "https://myanimelist.net/manga/147368/My_In-Laws_are_Obsessed_with_Me",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261398.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=785251"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Yoonseol",
+      "Seungu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:14.954Z",
+    "updatedAt": "2023-01-09T09:04:52.000Z",
+    "checkedAt": "2023-01-09T09:04:52.000Z",
+    "id": 142894,
+    "type": "manga",
+    "title": "Siwoldeuga Naege Jipchakanda",
+    "altTitle": [
+      "My In-Laws are Obsessed with Me",
+      "시월드가 내게 집착한다"
+    ],
+    "url": "https://anilist.co/manga/142894",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142894-JL9XAyKAyMc9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147368,
+    "deletedAt": null,
+    "authors": [
+      "Seungu",
+      "Yun-Seol Han"
+    ]
+  }
 }

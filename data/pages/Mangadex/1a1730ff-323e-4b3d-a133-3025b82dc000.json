@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-06-09T14:30:07.898Z",
-  "updatedAt": "2022-06-09T14:30:07.000Z",
-  "checkedAt": "2022-06-09T14:30:07.000Z",
+  "updatedAt": "2023-01-09T09:01:18.000Z",
+  "checkedAt": "2023-01-09T06:30:09.000Z",
   "id": 106862,
   "identifier": "1a1730ff-323e-4b3d-a133-3025b82dc000",
   "type": "manga",
@@ -12,14 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 149983,
   "aniId": null,
   "deletedAt": null,
   "authors": [
     "Kim Soong-nyeon",
-    " Gwangsan"
+    "Gwang San"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2023-01-09T06:30:12.030Z",
+    "updatedAt": "2023-01-09T06:30:12.030Z",
+    "checkedAt": "2023-01-09T06:30:12.000Z",
+    "id": 149983,
+    "type": "manga",
+    "title": "Death Row Boy",
+    "altTitle": [
+      "Sahyeong Sonyeon",
+      "사형소년"
+    ],
+    "url": "https://myanimelist.net/manga/149983/Death_Row_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/3/271291.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=795262"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kim, Sungnyung",
+      "Gwangsan"
+    ]
+  },
   "Ani": null
 }

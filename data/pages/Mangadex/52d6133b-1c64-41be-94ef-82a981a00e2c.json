@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:06.000Z",
-  "updatedAt": "2021-12-07T23:38:42.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-10T23:20:17.000Z",
+  "checkedAt": "2023-01-10T21:30:03.000Z",
   "id": 36517,
   "identifier": "52d6133b-1c64-41be-94ef-82a981a00e2c",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 100715,
+  "aniId": 120809,
   "deletedAt": null,
   "authors": [
     "Kamena Yuu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-02-08T12:41:15.000Z",
+    "updatedAt": "2023-01-04T10:40:40.000Z",
+    "checkedAt": "2023-01-04T10:40:40.000Z",
+    "id": 100715,
+    "type": "manga",
+    "title": "Kimi ga Suki",
+    "altTitle": [
+      "Kaerimichi.",
+      "Ichiban Chikaku ni",
+      "Hore Ai",
+      "Kotomi no Himitsu",
+      "Houkago Momoka",
+      "Loveroach",
+      "Omoikomi≒Kanchigai?",
+      "Irresistible love for you",
+      "キミが好き"
+    ],
+    "url": "https://myanimelist.net/manga/100715/Kimi_ga_Suki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/182410.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hanafuda, Sakura"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:39.836Z",
+    "updatedAt": "2023-01-10T21:30:03.000Z",
+    "checkedAt": "2023-01-10T21:30:03.000Z",
+    "id": 120809,
+    "type": "manga",
+    "title": "Kimi ga, Suki.",
+    "altTitle": [
+      "きみが、すき。",
+      "I'm Into You"
+    ],
+    "url": "https://anilist.co/manga/120809",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120809-i3zgmKtkbAZe.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 100715,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Kamena"
+    ]
+  }
 }
