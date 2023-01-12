@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-03T17:10:39.000Z",
-  "updatedAt": "2022-03-03T17:10:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-10T10:56:37.000Z",
+  "checkedAt": "2023-01-10T10:56:37.000Z",
   "id": 101359,
   "type": "manga",
   "title": "Ambrosia no Nedan",
@@ -26,14 +26,28 @@
     "Yuduka, Masanari"
   ],
   "Pages": {
-    "Comick": {
-      "wuxnjSls": {
-        "identifier": "wuxnjSls",
-        "malId": 101359,
+    "Mangadex": {
+      "b156fb99-61bf-4233-9559-54078343f82c": {
+        "createdAt": "2023-01-10T11:30:01.168Z",
+        "updatedAt": "2023-01-10T11:30:01.000Z",
+        "checkedAt": "2023-01-10T11:30:01.000Z",
+        "id": 121651,
+        "identifier": "b156fb99-61bf-4233-9559-54078343f82c",
         "type": "manga",
-        "page": "Comick",
+        "page": "Mangadex",
         "title": "Ambrosia no Nedan",
-        "url": "https://comick.app/comic/ambrosia-no-nedan"
+        "url": "https://mangadex.org/title/b156fb99-61bf-4233-9559-54078343f82c",
+        "image": "https://uploads.mangadex.org/covers/b156fb99-61bf-4233-9559-54078343f82c/b6920269-6a34-4384-8dda-d46e6a917f19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 101359,
+        "aniId": 115487,
+        "deletedAt": null,
+        "authors": [
+          "Yuzuka Masanari"
+        ]
       }
     }
   }

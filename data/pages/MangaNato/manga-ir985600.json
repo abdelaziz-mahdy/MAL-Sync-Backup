@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-12-28T17:53:38.000Z",
-  "updatedAt": "2022-10-16T04:00:00.000Z",
+  "updatedAt": "2023-01-10T10:20:05.000Z",
   "checkedAt": "2022-10-16T04:00:00.000Z",
   "id": 93876,
   "identifier": "manga-ir985600",
@@ -12,13 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 154778,
+  "aniId": 122398,
   "deletedAt": null,
   "authors": [
     "Kingsnal - 킹스날"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-09T23:00:03.473Z",
+    "updatedAt": "2023-01-09T23:00:03.473Z",
+    "checkedAt": "2023-01-09T23:00:03.000Z",
+    "id": 154778,
+    "type": "manga",
+    "title": "Game of Doppelganger",
+    "altTitle": [
+      "Doppelganger-ui Game",
+      "도플갱어의 게임"
+    ],
+    "url": "https://myanimelist.net/manga/154778/Game_of_Doppelganger",
+    "image": "https://cdn.myanimelist.net/images/manga/1/274755.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=728007"
+      },
+      {
+        "site": "namu.wiki",
+        "url": "https://namu.wiki/w/%EB%8F%84%ED%94%8C%EA%B0%B1%EC%96%B4%EC%9D%98%20%EA%B2%8C%EC%9E%84"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kingsenal",
+      "Jwiju"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:47.612Z",
+    "updatedAt": "2023-01-10T09:42:57.000Z",
+    "checkedAt": "2023-01-10T09:42:57.000Z",
+    "id": 122398,
+    "type": "manga",
+    "title": "Doppelganger Game",
+    "altTitle": [
+      "도플갱어의 게임",
+      "Game of Doppelgänger",
+      "Jeu de Double"
+    ],
+    "url": "https://anilist.co/manga/122398",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122398-5JnXiUDjqpji.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 154778,
+    "deletedAt": null,
+    "authors": [
+      "Kingsnal",
+      "Jui-Joo"
+    ]
+  }
 }

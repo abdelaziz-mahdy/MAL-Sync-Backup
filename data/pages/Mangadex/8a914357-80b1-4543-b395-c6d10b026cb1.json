@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:21.000Z",
-  "updatedAt": "2021-12-05T20:49:19.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-10T13:53:59.000Z",
+  "checkedAt": "2023-01-10T13:30:07.000Z",
   "id": 22717,
   "identifier": "8a914357-80b1-4543-b395-c6d10b026cb1",
   "type": "manga",
@@ -12,15 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 113244,
+  "aniId": 106916,
   "deletedAt": null,
   "authors": [
     "Fgo Project",
     "Type-Moon",
     "Riyo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:31.000Z",
+    "updatedAt": "2022-12-10T18:52:01.000Z",
+    "checkedAt": "2022-12-10T18:52:01.000Z",
+    "id": 113244,
+    "type": "manga",
+    "title": "Manga de Wakaru! Fate/Grand Order",
+    "altTitle": [
+      "Motto Manga de Wakaru! Fate/Grand Order",
+      "Masumasu Manga de Wakaru! Fate/Grand Order",
+      "Learning with Manga! Fate/Grand Order",
+      "マンガで分かる! Fate/Grand Order"
+    ],
+    "url": "https://myanimelist.net/manga/113244/Manga_de_Wakaru_Fate_Grand_Order",
+    "image": "https://cdn.myanimelist.net/images/manga/2/223914.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.fate-go.jp/manga_fgo/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Fate/Grand_Order"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Riyo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:22.987Z",
+    "updatedAt": "2022-12-10T18:52:00.000Z",
+    "checkedAt": "2022-12-10T18:52:00.000Z",
+    "id": 106916,
+    "type": "manga",
+    "title": "Manga de Wakaru! Fate/Grand Order",
+    "altTitle": [
+      "Learning with Manga! Fate/Grand Order",
+      "マンガでわかる！Fate/Grand Order",
+      "Manga de Wakaru! FGO",
+      "Learning with Manga! FGO"
+    ],
+    "url": "https://anilist.co/manga/106916",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106916-KRLSpjA9KUVA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 113244,
+    "deletedAt": null,
+    "authors": [
+      "Riyo",
+      "Type-Moon"
+    ]
+  }
 }
