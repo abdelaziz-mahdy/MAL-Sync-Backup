@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-08-21T08:16:10.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": "2022-05-14T11:30:42.000Z",
+  "updatedAt": "2023-01-12T10:20:00.000Z",
+  "checkedAt": "2023-01-12T10:00:02.000Z",
   "id": 85923,
   "identifier": "there-must-be-happy-endings",
   "type": "manga",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147415,
+  "aniId": 134677,
   "deletedAt": null,
   "authors": [
     "Bulsa",
     "Flada"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-30T18:00:19.979Z",
+    "updatedAt": "2022-12-26T15:36:52.000Z",
+    "checkedAt": "2022-12-26T15:36:52.000Z",
+    "id": 147415,
+    "type": "manga",
+    "title": "There Must Be Happy Endings",
+    "altTitle": [
+      "Bandeusi Happy Ending",
+      "There Must Be Happy Endings",
+      "반드시 해피엔딩"
+    ],
+    "url": "https://myanimelist.net/manga/147415/There_Must_Be_Happy_Endings",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261490.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Flada",
+      "Jaerim"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:50.584Z",
+    "updatedAt": "2022-12-26T15:36:51.000Z",
+    "checkedAt": "2022-12-26T15:36:51.000Z",
+    "id": 134677,
+    "type": "manga",
+    "title": "Bandeusi Happy Ending",
+    "altTitle": [
+      "There Must Be Happy Endings",
+      "반드시 해피엔딩",
+      "Surely a Happy Ending",
+      "Happy Ending In Need",
+      "Must Have a Happy Ending"
+    ],
+    "url": "https://anilist.co/manga/134677",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134677-FLo2ir6Rvmzp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147415,
+    "deletedAt": null,
+    "authors": [
+      "Bulsa",
+      "Jaerim",
+      "Peurada"
+    ]
+  }
 }

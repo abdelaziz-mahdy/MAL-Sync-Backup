@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-04-19T08:15:20.000Z",
-  "updatedAt": "2022-04-19T08:30:23.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-11T23:30:02.000Z",
+  "checkedAt": "2023-01-11T23:30:02.000Z",
   "id": 69709,
   "identifier": "villain_initialization",
   "type": "manga",
@@ -11,14 +11,38 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/32983/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 123140,
   "deletedAt": null,
   "authors": [
     "CuZn Moyou Tangman Culture"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:51.727Z",
+    "updatedAt": "2022-12-09T03:48:57.000Z",
+    "checkedAt": "2022-12-09T03:48:57.000Z",
+    "id": 123140,
+    "type": "manga",
+    "title": "Fanpai Chushihua",
+    "altTitle": [
+      "Villain Initialization",
+      "反派初始化",
+      "The Reversal"
+    ],
+    "url": "https://anilist.co/manga/123140",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123140-vClrWNJ8Gt0h.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "CuZn  ",
+      "Tang Man Wenhua  ",
+      "Mo You  "
+    ]
+  }
 }

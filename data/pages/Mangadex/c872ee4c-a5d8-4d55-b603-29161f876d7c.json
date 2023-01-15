@@ -1,26 +1,76 @@
 {
   "createdAt": "2022-05-25T17:00:01.420Z",
-  "updatedAt": "2022-05-25T22:20:05.000Z",
-  "checkedAt": "2022-05-25T17:00:01.000Z",
+  "updatedAt": "2023-01-12T09:38:26.000Z",
+  "checkedAt": "2023-01-12T02:30:06.000Z",
   "id": 105428,
   "identifier": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
   "type": "manga",
   "page": "Mangadex",
   "title": "Star Wars - The Mandalorian",
   "url": "https://mangadex.org/title/c872ee4c-a5d8-4d55-b603-29161f876d7c",
-  "image": "https://uploads.mangadex.org/covers/c872ee4c-a5d8-4d55-b603-29161f876d7c/be10e942-0ff4-459d-9cc8-8798f44b9cd0.png",
+  "image": "https://uploads.mangadex.org/covers/c872ee4c-a5d8-4d55-b603-29161f876d7c/9d6a7963-2c81-4cac-8b53-148e9a993c1d.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148848,
+  "aniId": 147995,
   "deletedAt": null,
   "authors": [
     "Lucas Film",
     "Walt Disney Company",
     "Oosawa Yuusuke"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-12T02:30:06.803Z",
+    "updatedAt": "2023-01-12T02:30:06.803Z",
+    "checkedAt": "2023-01-12T02:30:06.000Z",
+    "id": 148848,
+    "type": "manga",
+    "title": "Star Wars: Mandalorian",
+    "altTitle": [
+      "Star Wars: The Mandalorian",
+      "スター・ウォーズ：マンダロリアン"
+    ],
+    "url": "https://myanimelist.net/manga/148848/Star_Wars__Mandalorian",
+    "image": "https://cdn.myanimelist.net/images/manga/1/273894.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/biggangan/introduction/mandalorian/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/マンダロリアン_(テレビドラマ)#漫画"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Oosawa, Yuusuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:27.057Z",
+    "updatedAt": "2022-12-27T21:32:27.000Z",
+    "checkedAt": "2022-12-27T21:32:27.000Z",
+    "id": 147995,
+    "type": "manga",
+    "title": "Star Wars: Mandalorian",
+    "altTitle": [
+      "スター・ウォーズ：マンダロリアン"
+    ],
+    "url": "https://anilist.co/manga/147995",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147995-uwJb51wjiIFz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Yuusuke Oosawa"
+    ]
+  }
 }

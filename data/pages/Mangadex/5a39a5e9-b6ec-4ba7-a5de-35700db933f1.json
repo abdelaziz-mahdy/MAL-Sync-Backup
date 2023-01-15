@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-12T19:35:45.000Z",
-  "updatedAt": "2021-12-08T11:39:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-12T03:00:13.000Z",
+  "checkedAt": "2023-01-12T03:00:03.000Z",
   "id": 62301,
   "identifier": "5a39a5e9-b6ec-4ba7-a5de-35700db933f1",
   "type": "manga",
@@ -11,14 +11,34 @@
   "image": "https://uploads.mangadex.org/covers/5a39a5e9-b6ec-4ba7-a5de-35700db933f1/d743db21-0110-4faa-9a17-288a2ef4d7fa.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 125046,
   "deletedAt": null,
   "authors": [
     "Keiji Amatsuka"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2023-01-12T03:00:13.091Z",
+    "updatedAt": "2023-01-12T03:00:13.091Z",
+    "checkedAt": "2023-01-12T03:00:13.000Z",
+    "id": 125046,
+    "type": "manga",
+    "title": "Kominami-sensei no Konami-kan",
+    "altTitle": [
+      "小南先生の小並感"
+    ],
+    "url": "https://anilist.co/manga/125046",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125046-JvauHlyjngfP.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Keiji Amatsuka"
+    ]
+  }
 }
