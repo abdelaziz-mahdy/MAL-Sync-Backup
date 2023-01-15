@@ -1,24 +1,76 @@
 {
   "createdAt": "2021-05-28T21:54:13.000Z",
-  "updatedAt": "2022-05-19T02:30:00.000Z",
-  "checkedAt": "2022-05-19T02:30:00.000Z",
+  "updatedAt": "2023-01-14T12:20:00.000Z",
+  "checkedAt": "2023-01-14T09:30:00.000Z",
   "id": 73063,
   "identifier": "manga-hu984703",
   "type": "manga",
   "page": "MangaNato",
   "title": "Promised Orchid",
-  "url": "https://readmanganato.com/manga-hu984703",
+  "url": "https://chapmanganato.com/manga-hu984703",
   "image": "https://avt.mkklcdnv6temp.com/36/f/20-1583502432.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148351,
+  "aniId": 112326,
   "deletedAt": null,
   "authors": [
     "Jeon Geuk-Jin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-25T12:00:32.919Z",
+    "updatedAt": "2023-01-12T14:44:30.000Z",
+    "checkedAt": "2023-01-12T14:44:30.000Z",
+    "id": 148351,
+    "type": "manga",
+    "title": "Promise of an Orchid",
+    "altTitle": [
+      "Nanyak",
+      "Promised Orchid",
+      "Promise of an Orchid",
+      "난약"
+    ],
+    "url": "https://myanimelist.net/manga/148351/Promise_of_an_Orchid",
+    "image": "https://cdn.myanimelist.net/images/manga/1/263401.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=729044"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Jin-Hwan",
+      "Jung, Hyun-Joo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:29.410Z",
+    "updatedAt": "2023-01-13T15:39:30.000Z",
+    "checkedAt": "2023-01-13T15:39:30.000Z",
+    "id": 112326,
+    "type": "manga",
+    "title": "Nan Yak",
+    "altTitle": [
+      "Promise of an Orchid",
+      "난약",
+      "Promised Orchid"
+    ],
+    "url": "https://anilist.co/manga/112326",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112326-zg14JSkTf7ji.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148351,
+    "deletedAt": null,
+    "authors": [
+      "Geuk-Jin Jeon",
+      "Jin-Hwan Park"
+    ]
+  }
 }
