@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:16:34.000Z",
-  "updatedAt": "2021-12-06T23:50:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T14:40:40.000Z",
+  "checkedAt": "2023-01-20T11:31:46.000Z",
   "id": 29358,
   "identifier": "f18fad70-92aa-4f66-97cb-4f837df59b16",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147259,
+  "aniId": 111202,
   "deletedAt": null,
   "authors": [
     "Summer"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-07T21:00:07.708Z",
+    "updatedAt": "2023-01-07T21:00:07.708Z",
+    "checkedAt": "2023-01-07T21:00:07.000Z",
+    "id": 147259,
+    "type": "manga",
+    "title": "Where the Dragon's Rain Falls",
+    "altTitle": [
+      "Yong-i Bi-reul Naeri-eun Nara",
+      "Where the Dragon's Rain Falls",
+      "용이 비를 내리는 나라"
+    ],
+    "url": "https://myanimelist.net/manga/147259/Where_the_Dragons_Rain_Falls",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261800.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/content/50661727"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Summer"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:24.170Z",
+    "updatedAt": "2023-01-20T11:31:46.000Z",
+    "checkedAt": "2023-01-20T11:31:46.000Z",
+    "id": 111202,
+    "type": "manga",
+    "title": "Yongi Bireul Naerineun Nara",
+    "altTitle": [
+      "Where the Dragon's Rain Falls",
+      "용이 비를 내리는 나라",
+      "龙下雨的国家",
+      "砂漠に降りそそぐ龍の雨",
+      "Yong-i Bileul Naelineun Nala"
+    ],
+    "url": "https://anilist.co/manga/111202",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111202-PbO9SvlHrFxd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147259,
+    "deletedAt": null,
+    "authors": [
+      "Summer"
+    ]
+  }
 }

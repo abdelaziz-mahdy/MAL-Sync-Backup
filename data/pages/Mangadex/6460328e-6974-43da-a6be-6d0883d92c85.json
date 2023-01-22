@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:54.000Z",
-  "updatedAt": "2021-12-06T09:18:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:21:56.000Z",
+  "checkedAt": "2023-01-20T06:31:24.000Z",
   "id": 25878,
   "identifier": "6460328e-6974-43da-a6be-6d0883d92c85",
   "type": "manga",
@@ -12,34 +12,60 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 66689,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 117750,
+  "aniId": 135179,
   "deletedAt": null,
   "authors": [
     "Shiomi Rosé"
   ],
   "Mal": {
-    "createdAt": "2020-10-12T15:45:11.000Z",
-    "updatedAt": "2022-05-23T23:15:11.000Z",
-    "checkedAt": "2022-05-23T23:15:11.000Z",
-    "id": 66689,
+    "createdAt": "2020-12-10T01:16:56.000Z",
+    "updatedAt": "2023-01-20T06:31:24.000Z",
+    "checkedAt": "2023-01-20T06:31:24.000Z",
+    "id": 117750,
     "type": "manga",
-    "title": "Hanaji",
+    "title": "Ai to Hanaji",
     "altTitle": [
-      "The Nosebleed",
-      "ハナヂ"
+      "Onaji Hikari wo Mitai to Negaeba",
+      "Love and Nosebleed",
+      "愛と鼻血"
     ],
-    "url": "https://myanimelist.net/manga/66689/Hanaji",
-    "image": "https://cdn.myanimelist.net/images/manga/1/114153.jpg",
-    "category": "One-shot",
+    "url": "https://myanimelist.net/manga/117750/Ai_to_Hanaji",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224719.jpg",
+    "category": "Manga",
     "hentai": false,
     "externalLinks": [],
     "legalLinks": [],
     "deletedAt": null,
     "authors": [
-      "Tsuyatsuya"
+      "Shiomi, Rose"
     ]
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:40.500Z",
+    "updatedAt": "2023-01-20T06:31:24.000Z",
+    "checkedAt": "2023-01-20T06:31:24.000Z",
+    "id": 135179,
+    "type": "manga",
+    "title": "Ai to Hanaji",
+    "altTitle": [
+      "LOVE and nosebleed",
+      "愛と鼻血",
+      "Love and Nosebleed",
+      "Onaji Hikari wo Mitai to Negaeba",
+      "同じ光を見たいと願えば"
+    ],
+    "url": "https://anilist.co/manga/135179",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135179-esCnOLEo3P7F.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 117750,
+    "deletedAt": null,
+    "authors": [
+      "Rosé Shiomi",
+      "Rhiannon Liou"
+    ]
+  }
 }

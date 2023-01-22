@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-10-12T16:18:44.000Z",
-  "updatedAt": "2021-12-07T20:04:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T19:58:22.000Z",
+  "checkedAt": "2023-01-20T17:30:53.000Z",
   "id": 33744,
   "identifier": "d0b4b711-7c20-4725-9a36-4075d3e3b368",
   "type": "manga",
   "page": "Mangadex",
   "title": "Chitose",
   "url": "https://mangadex.org/title/d0b4b711-7c20-4725-9a36-4075d3e3b368",
-  "image": "https://uploads.mangadex.org/covers/d0b4b711-7c20-4725-9a36-4075d3e3b368/44b92de2-6d64-4225-844c-63e88f7ddf69.jpg",
+  "image": "https://uploads.mangadex.org/covers/d0b4b711-7c20-4725-9a36-4075d3e3b368/0f6d472b-840f-4790-b1e2-741548661606.png",
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 137493,
+  "aniId": 111777,
   "deletedAt": null,
   "authors": [
     "Seto Yuuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-22T03:30:22.000Z",
+    "updatedAt": "2022-12-11T02:58:48.000Z",
+    "checkedAt": "2022-12-11T02:58:48.000Z",
+    "id": 137493,
+    "type": "manga",
+    "title": "Chitose",
+    "altTitle": [
+      "千歳"
+    ],
+    "url": "https://myanimelist.net/manga/137493/Chitose",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246125.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Seto, Yuuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:08.238Z",
+    "updatedAt": "2022-12-11T02:58:46.000Z",
+    "checkedAt": "2022-12-11T02:58:46.000Z",
+    "id": 111777,
+    "type": "manga",
+    "title": "Chitose",
+    "altTitle": [
+      "千歳 -chitose-"
+    ],
+    "url": "https://anilist.co/manga/111777",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111777-HEG1BAl89ZgS.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 137493,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Seto"
+    ]
+  }
 }

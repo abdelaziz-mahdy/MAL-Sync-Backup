@@ -1,6 +1,6 @@
 {
   "createdAt": "2023-01-09T14:00:00.652Z",
-  "updatedAt": "2023-01-09T14:00:00.000Z",
+  "updatedAt": "2023-01-17T12:20:00.000Z",
   "checkedAt": "2023-01-09T14:00:00.000Z",
   "id": 121563,
   "identifier": "manga-qx993480",
@@ -12,11 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 151689,
+  "aniId": 154538,
   "deletedAt": null,
   "authors": [],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-02T17:00:02.566Z",
+    "updatedAt": "2022-10-02T17:00:02.566Z",
+    "checkedAt": "2022-10-02T17:00:02.000Z",
+    "id": 151689,
+    "type": "manga",
+    "title": "Kentei Gakuin no Magan Kenja",
+    "altTitle": [
+      "The Last Wizard of the Sword Emperor Academy",
+      "剣帝学院の魔眼賢者"
+    ],
+    "url": "https://myanimelist.net/manga/151689/Kentei_Gakuin_no_Magan_Kenja",
+    "image": "https://cdn.myanimelist.net/images/manga/3/269110.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/316112896826244627"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsukasa",
+      "Yuki, Arare"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-09-15T22:30:00.821Z",
+    "updatedAt": "2022-10-18T16:11:20.000Z",
+    "checkedAt": "2022-10-18T16:11:20.000Z",
+    "id": 154538,
+    "type": "manga",
+    "title": "Kentei Gakuin no Magan Kenja",
+    "altTitle": [
+      "剣帝学院の魔眼賢者"
+    ],
+    "url": "https://anilist.co/manga/154538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154538-JrMJ4yrI90tY.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 151689,
+    "deletedAt": null,
+    "authors": [
+      "Yuri Kisaragi",
+      "Tsukasa",
+      "Arare Yuki"
+    ]
+  }
 }

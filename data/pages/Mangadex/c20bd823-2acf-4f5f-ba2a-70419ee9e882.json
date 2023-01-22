@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-03T04:02:30.000Z",
-  "updatedAt": "2021-12-08T11:11:00.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:33:27.000Z",
+  "checkedAt": "2023-01-21T14:40:01.000Z",
   "id": 61229,
   "identifier": "c20bd823-2acf-4f5f-ba2a-70419ee9e882",
   "type": "manga",
@@ -12,13 +12,57 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 39927,
+  "aniId": 69927,
   "deletedAt": null,
   "authors": [
-    "Sanshoku Amido"
+    "Sanshoku Amido."
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:06.000Z",
+    "updatedAt": "2022-12-26T05:13:19.000Z",
+    "checkedAt": "2022-12-26T05:13:19.000Z",
+    "id": 39927,
+    "type": "manga",
+    "title": "1/8 Kanojo",
+    "altTitle": [
+      "1/8 Kanojo Hachi Bun no Ichi",
+      "1/8 Girlfriend",
+      "1/8かのじょ"
+    ],
+    "url": "https://myanimelist.net/manga/39927/1_8_Kanojo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/70593.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sanshoku, Amido."
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:33.680Z",
+    "updatedAt": "2022-12-26T05:13:18.000Z",
+    "checkedAt": "2022-12-26T05:13:18.000Z",
+    "id": 69927,
+    "type": "manga",
+    "title": "1/8 Kanojo",
+    "altTitle": [
+      "1/8かのじょ",
+      "1/8 Kanojo Hachi Bun no Ichi",
+      "1/8 Girlfriend"
+    ],
+    "url": "https://anilist.co/manga/69927",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69927-MWk92fhWJxjB.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 39927,
+    "deletedAt": null,
+    "authors": [
+      "Amido Sanshoku"
+    ]
+  }
 }

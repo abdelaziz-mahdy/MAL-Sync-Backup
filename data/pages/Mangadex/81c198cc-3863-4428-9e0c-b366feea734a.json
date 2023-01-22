@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-24T15:26:17.000Z",
-  "updatedAt": "2021-12-08T09:36:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-17T11:41:29.000Z",
+  "checkedAt": "2023-01-17T10:00:20.000Z",
   "id": 55562,
   "identifier": "81c198cc-3863-4428-9e0c-b366feea734a",
   "type": "manga",
@@ -12,13 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137634,
+  "aniId": 136960,
   "deletedAt": null,
   "authors": [
     "Arisaka Ako"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-17T10:00:19.745Z",
+    "updatedAt": "2023-01-17T10:00:19.745Z",
+    "checkedAt": "2023-01-17T10:00:19.000Z",
+    "id": 137634,
+    "type": "manga",
+    "title": "Tada Arifureteita.",
+    "altTitle": [
+      "How Our Indifference Fades",
+      "Toaru Danjo no Valentine to White Day no Omoide",
+      "ただあり触れていた。"
+    ],
+    "url": "https://myanimelist.net/manga/137634/Tada_Arifureteita",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246510.jpg",
+    "category": "Doujinshi",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Arisaka, Aco"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:12.388Z",
+    "updatedAt": "2023-01-17T10:00:19.000Z",
+    "checkedAt": "2023-01-17T10:00:19.000Z",
+    "id": 136960,
+    "type": "manga",
+    "title": "Tada Arifureteita.",
+    "altTitle": [
+      "ただあり触れていた。",
+      "A love born in commonplace",
+      "How our indifference fades"
+    ],
+    "url": "https://anilist.co/manga/136960",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136960-N1bwMXMdPuqI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137634,
+    "deletedAt": null,
+    "authors": [
+      "Ako Arisaka"
+    ]
+  }
 }

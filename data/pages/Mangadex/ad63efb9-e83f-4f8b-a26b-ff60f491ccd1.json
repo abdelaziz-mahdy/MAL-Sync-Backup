@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-28T15:46:02.000Z",
-  "updatedAt": "2021-12-08T12:10:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T18:11:04.000Z",
+  "checkedAt": "2023-01-21T17:41:27.000Z",
   "id": 64072,
   "identifier": "ad63efb9-e83f-4f8b-a26b-ff60f491ccd1",
   "type": "manga",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137838,
+  "aniId": 119043,
   "deletedAt": null,
   "authors": [
     "Hanaichi Nozaki",
     "Yoshida Shirou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-09-21T17:11:51.000Z",
+    "updatedAt": "2022-12-09T03:36:48.000Z",
+    "checkedAt": "2022-12-09T03:36:48.000Z",
+    "id": 137838,
+    "type": "manga",
+    "title": "Casino-gui",
+    "altTitle": [
+      "カジノグイ"
+    ],
+    "url": "https://myanimelist.net/manga/137838/Casino-gui",
+    "image": "https://cdn.myanimelist.net/images/manga/2/246948.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshida, Shirou",
+      "Nozaki, Hanaichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:43.310Z",
+    "updatedAt": "2022-12-09T03:36:47.000Z",
+    "checkedAt": "2022-12-09T03:36:47.000Z",
+    "id": 119043,
+    "type": "manga",
+    "title": "Casino Gui",
+    "altTitle": [
+      "カジノグイ",
+      "Kajino Gui",
+      "Casino Guy"
+    ],
+    "url": "https://anilist.co/manga/119043",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119043-oM0pWRmzjoxz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137838,
+    "deletedAt": null,
+    "authors": [
+      "Shirou Yoshida"
+    ]
+  }
 }

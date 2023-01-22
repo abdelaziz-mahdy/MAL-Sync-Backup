@@ -1,25 +1,75 @@
 {
   "createdAt": "2020-10-12T16:14:19.000Z",
-  "updatedAt": "2022-05-19T19:30:16.000Z",
-  "checkedAt": "2022-05-19T19:30:16.000Z",
+  "updatedAt": "2023-01-17T11:41:14.000Z",
+  "checkedAt": "2023-01-17T08:00:08.000Z",
   "id": 24659,
   "identifier": "78abd677-3058-4a71-8dd4-1d687e5a1e64",
   "type": "manga",
   "page": "Mangadex",
   "title": "How to Kill a God",
   "url": "https://mangadex.org/title/78abd677-3058-4a71-8dd4-1d687e5a1e64",
-  "image": "https://uploads.mangadex.org/covers/78abd677-3058-4a71-8dd4-1d687e5a1e64/98bbca7e-52be-420d-8425-a09f43fac903.jpg",
+  "image": "https://uploads.mangadex.org/covers/78abd677-3058-4a71-8dd4-1d687e5a1e64/8df5d186-06d4-4f09-8099-1cb1663667d9.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 148990,
+  "aniId": 121789,
   "deletedAt": null,
   "authors": [
-    "Narak",
+    "Narack (나락)",
     "바밤"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-09T16:30:12.476Z",
+    "updatedAt": "2022-08-09T16:30:12.476Z",
+    "checkedAt": "2022-08-09T16:30:12.000Z",
+    "id": 148990,
+    "type": "manga",
+    "title": "How to Kill a God",
+    "altTitle": [
+      "Sin-eul Jugineun Bangbeop",
+      "신을 죽이는 방법"
+    ],
+    "url": "https://myanimelist.net/manga/148990/How_to_Kill_a_God",
+    "image": "https://cdn.myanimelist.net/images/manga/2/265165.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=714886"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Narack",
+      "Babam"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:40.386Z",
+    "updatedAt": "2023-01-17T22:51:41.000Z",
+    "checkedAt": "2023-01-17T22:51:41.000Z",
+    "id": 121789,
+    "type": "manga",
+    "title": "Sineul Jugineun Bangbeop",
+    "altTitle": [
+      "신을 죽이는 방법",
+      "How to Kill a God",
+      "诸神，得罪了"
+    ],
+    "url": "https://anilist.co/manga/121789",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121789-9FxYatRvryf2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 148990,
+    "deletedAt": null,
+    "authors": [
+      "NARAK",
+      "Babam"
+    ]
+  }
 }

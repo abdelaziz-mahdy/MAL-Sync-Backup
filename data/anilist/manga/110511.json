@@ -1,13 +1,13 @@
 {
   "createdAt": "2022-05-13T12:59:22.143Z",
-  "updatedAt": "2022-05-13T12:59:22.143Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:30:43.000Z",
+  "checkedAt": "2023-01-20T11:30:43.000Z",
   "id": 110511,
   "type": "manga",
   "title": "Cosmetic Playlover",
   "altTitle": [
-    "コスメティック・プレイラバー",
-    "Cosmetic Play Lover"
+    "Cosmetic Playlover",
+    "コスメティック・プレイラバー"
   ],
   "url": "https://anilist.co/manga/110511",
   "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110511-SQX123ae4a0w.png",
@@ -19,5 +19,30 @@
   "authors": [
     "Sachi Narashima"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "eb0a698d-e4d6-4be9-8d38-35e0e16b764f": {
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2023-01-20T14:42:39.000Z",
+        "checkedAt": "2023-01-20T11:30:43.000Z",
+        "id": 29284,
+        "identifier": "eb0a698d-e4d6-4be9-8d38-35e0e16b764f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cosmetic Playlover",
+        "url": "https://mangadex.org/title/eb0a698d-e4d6-4be9-8d38-35e0e16b764f",
+        "image": "https://uploads.mangadex.org/covers/eb0a698d-e4d6-4be9-8d38-35e0e16b764f/8e03cfd6-91de-487b-8a32-0bb326d4a685.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 132953,
+        "aniId": 110511,
+        "deletedAt": null,
+        "authors": [
+          "Narashima Sachi"
+        ]
+      }
+    }
+  }
 }

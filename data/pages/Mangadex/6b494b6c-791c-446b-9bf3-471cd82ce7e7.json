@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:07:52.000Z",
-  "updatedAt": "2021-12-07T19:10:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T10:20:00.000Z",
+  "checkedAt": "2023-01-19T07:39:43.000Z",
   "id": 11540,
   "identifier": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
   "type": "manga",
@@ -12,34 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": 97900,
+  "actorId": 1,
+  "malId": 54627,
+  "aniId": 84627,
   "deletedAt": null,
   "authors": [
     "Toriyama Akira"
   ],
-  "Mal": null,
-  "Ani": {
-    "createdAt": "2022-05-13T12:53:16.943Z",
-    "updatedAt": "2022-12-02T18:50:41.000Z",
-    "checkedAt": "2022-12-02T18:50:41.000Z",
-    "id": 97900,
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:45.000Z",
+    "updatedAt": "2022-12-01T17:17:39.000Z",
+    "checkedAt": "2022-12-01T17:17:39.000Z",
+    "id": 54627,
     "type": "manga",
-    "title": "Dragon Ball Minus: Hanatareta Unmei no Kodomo",
+    "title": "Ginga Patrol Jaco",
     "altTitle": [
-      "Dragon Ball Minus: The Departure of the Fated Child",
-      "ドラゴンボール マイナス"
+      "Galactic Patrol Jaco",
+      "Dragon Ball Minus",
+      "Jaco the Galactic Patrolman",
+      "銀河パトロール ジャコ"
     ],
-    "url": "https://anilist.co/manga/97900",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97900-EqScEWX0U6Tj.png",
-    "category": "one_shot",
+    "url": "https://myanimelist.net/manga/54627/Ginga_Patrol_Jaco",
+    "image": "https://cdn.myanimelist.net/images/manga/3/120565.jpg",
+    "category": "Manga",
     "hentai": false,
-    "externalLinks": [],
-    "malId": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E3%83%91%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB_%E3%82%B8%E3%83%A3%E3%82%B3"
+      }
+    ],
+    "legalLinks": [],
     "deletedAt": null,
     "authors": [
-      "Akira Toriyama"
+      "Toriyama, Akira"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:43.866Z",
+    "updatedAt": "2022-12-02T18:51:06.000Z",
+    "checkedAt": "2022-12-02T18:51:06.000Z",
+    "id": 84627,
+    "type": "manga",
+    "title": "Ginga Patrol Jako",
+    "altTitle": [
+      "Jaco the Galactic Patrolman",
+      "銀河パトロールジャコ",
+      "Galactic Patrol Jako",
+      "Jaco: O Patrulheiro Galáctico",
+      "Jaco z Galaktycznego Patrolu"
+    ],
+    "url": "https://anilist.co/manga/84627",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx84627-DiUNPaaAK2pW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 54627,
+    "deletedAt": null,
+    "authors": [
+      "Akira Toriyama",
+      "Paweł Dybała",
+      "Drik Sada",
+      "Marc Bernabé"
     ]
   }
 }

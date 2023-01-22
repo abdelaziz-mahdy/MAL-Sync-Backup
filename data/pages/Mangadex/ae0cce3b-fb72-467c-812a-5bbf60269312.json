@@ -1,25 +1,71 @@
 {
   "createdAt": "2020-10-27T18:09:09.000Z",
-  "updatedAt": "2021-12-08T06:08:53.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:28:02.000Z",
+  "checkedAt": "2023-01-21T02:30:35.000Z",
   "id": 50809,
   "identifier": "ae0cce3b-fb72-467c-812a-5bbf60269312",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Granblue Fantasy: Twinfang Bonds",
+  "title": "Granblue Fantasy: Bonds of the Twin Swords",
   "url": "https://mangadex.org/title/ae0cce3b-fb72-467c-812a-5bbf60269312",
   "image": "https://uploads.mangadex.org/covers/ae0cce3b-fb72-467c-812a-5bbf60269312/ccc37c54-dd1e-416c-bee0-2d5e4ac04794.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 103805,
+  "aniId": 104025,
   "deletedAt": null,
   "authors": [
     "Cygames",
-    "Usagirouto"
+    "Usagi Routo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-27T18:09:09.000Z",
+    "updatedAt": "2023-01-04T22:25:43.000Z",
+    "checkedAt": "2023-01-04T22:25:43.000Z",
+    "id": 103805,
+    "type": "manga",
+    "title": "Granblue Fantasy: Souken no Kizuna",
+    "altTitle": [
+      "グランブルーファンタジー 双剣の絆"
+    ],
+    "url": "https://myanimelist.net/manga/103805/Granblue_Fantasy__Souken_no_Kizuna",
+    "image": "https://cdn.myanimelist.net/images/manga/2/190007.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Usagi, Routo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T02:30:35.419Z",
+    "updatedAt": "2023-01-21T02:30:35.419Z",
+    "checkedAt": "2023-01-21T02:30:35.000Z",
+    "id": 104025,
+    "type": "manga",
+    "title": "Granblue Fantasy: Souken no Kizuna",
+    "altTitle": [
+      "グランブルーファンタジー 双剣の絆"
+    ],
+    "url": "https://anilist.co/manga/104025",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104025-0hAL9LXCx84p.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 103805,
+    "deletedAt": null,
+    "authors": [
+      "Cygames",
+      "Routo Usagi"
+    ]
+  }
 }

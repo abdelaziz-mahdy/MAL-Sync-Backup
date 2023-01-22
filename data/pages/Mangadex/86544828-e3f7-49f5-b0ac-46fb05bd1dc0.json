@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:11.000Z",
-  "updatedAt": "2021-12-05T06:49:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:53:27.000Z",
+  "checkedAt": "2023-01-19T20:42:15.000Z",
   "id": 18768,
   "identifier": "86544828-e3f7-49f5-b0ac-46fb05bd1dc0",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122167,
+  "aniId": 100775,
   "deletedAt": null,
   "authors": [
     "Fujitobi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T20:42:15.015Z",
+    "updatedAt": "2023-01-19T20:42:15.015Z",
+    "checkedAt": "2023-01-19T20:42:15.000Z",
+    "id": 122167,
+    "type": "manga",
+    "title": "Uruwashiki Shuuen",
+    "altTitle": [
+      "Beautiful Demise",
+      "麗しき終焉"
+    ],
+    "url": "https://myanimelist.net/manga/122167/Uruwashiki_Shuuen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222637.jpg",
+    "category": "Doujinshi",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fujitobi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:38.893Z",
+    "updatedAt": "2023-01-19T20:42:15.000Z",
+    "checkedAt": "2023-01-19T20:42:15.000Z",
+    "id": 100775,
+    "type": "manga",
+    "title": "Uruwashiki Shuuen",
+    "altTitle": [
+      "麗しき終焉"
+    ],
+    "url": "https://anilist.co/manga/100775",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100775-30NWMr5gw9Ac.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 122167,
+    "deletedAt": null,
+    "authors": [
+      "Fujitobi"
+    ]
+  }
 }

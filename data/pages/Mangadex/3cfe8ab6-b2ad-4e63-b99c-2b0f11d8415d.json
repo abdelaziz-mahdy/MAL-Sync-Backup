@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:22.000Z",
-  "updatedAt": "2021-12-04T17:27:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T15:45:33.000Z",
+  "checkedAt": "2023-01-19T15:07:50.000Z",
   "id": 14843,
   "identifier": "3cfe8ab6-b2ad-4e63-b99c-2b0f11d8415d",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 14311,
+  "aniId": 44311,
   "deletedAt": null,
   "authors": [
     "Suetsugu Yuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T04:30:09.934Z",
+    "updatedAt": "2022-07-09T04:30:09.934Z",
+    "checkedAt": "2022-07-09T04:30:09.000Z",
+    "id": 14311,
+    "type": "manga",
+    "title": "Promise",
+    "altTitle": [
+      "Promise",
+      "プロミス"
+    ],
+    "url": "https://myanimelist.net/manga/14311/Promise",
+    "image": "https://cdn.myanimelist.net/images/manga/1/20417.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Suetsugu, Yuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:06.599Z",
+    "updatedAt": "2023-01-19T15:07:50.000Z",
+    "checkedAt": "2023-01-19T15:07:50.000Z",
+    "id": 44311,
+    "type": "manga",
+    "title": "Promise",
+    "altTitle": [
+      "Promise",
+      "プロミス"
+    ],
+    "url": "https://anilist.co/manga/44311",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b44311-6JORYvMycKFL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 14311,
+    "deletedAt": null,
+    "authors": [
+      "Yuki Suetsugu"
+    ]
+  }
 }

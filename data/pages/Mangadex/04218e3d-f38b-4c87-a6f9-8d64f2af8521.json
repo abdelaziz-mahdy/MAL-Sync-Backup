@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:37.000Z",
-  "updatedAt": "2022-01-21T01:00:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:00.000Z",
+  "checkedAt": "2023-01-20T02:50:27.000Z",
   "id": 23278,
   "identifier": "04218e3d-f38b-4c87-a6f9-8d64f2af8521",
   "type": "manga",
@@ -12,14 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122668,
+  "aniId": 97972,
   "deletedAt": null,
   "authors": [
     "MasterGin",
     "Chungnyun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-13T17:00:13.058Z",
+    "updatedAt": "2022-12-13T17:00:13.058Z",
+    "checkedAt": "2022-12-13T17:00:13.000Z",
+    "id": 122668,
+    "type": "manga",
+    "title": "Royal Servant",
+    "altTitle": [
+      "Royal Servant",
+      "로열 서번트"
+    ],
+    "url": "https://myanimelist.net/manga/122668/Royal_Servant",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259361.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/royal_servant"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "MasterGin",
+      "Chungnyun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:47.949Z",
+    "updatedAt": "2023-01-16T17:43:21.000Z",
+    "checkedAt": "2023-01-16T17:43:21.000Z",
+    "id": 97972,
+    "type": "manga",
+    "title": "Royal Servant",
+    "altTitle": [
+      "Royal Servant",
+      "로열 서번트"
+    ],
+    "url": "https://anilist.co/manga/97972",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97972-tSxjATFlx61h.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 122668,
+    "deletedAt": null,
+    "authors": [
+      "MasterGin",
+      "Chungnyun"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-26T05:00:14.564Z",
-  "updatedAt": "2022-09-26T05:00:14.000Z",
+  "updatedAt": "2023-01-17T12:20:00.000Z",
   "checkedAt": "2022-09-26T05:00:14.000Z",
   "id": 115211,
   "identifier": "manga-po992571",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153451,
+  "aniId": 154366,
   "deletedAt": null,
   "authors": [
     "Moriyama Masayuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-04T01:28:25.815Z",
+    "updatedAt": "2022-12-04T01:28:25.815Z",
+    "checkedAt": "2022-12-04T01:28:25.000Z",
+    "id": 153451,
+    "type": "manga",
+    "title": "Hodoite, Musunde",
+    "altTitle": [
+      "Untie and Tie",
+      "ほどいて、むすんで"
+    ],
+    "url": "https://myanimelist.net/manga/153451/Hodoite_Musunde",
+    "image": "https://cdn.myanimelist.net/images/manga/3/271988.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mangacross.jp/comics/hodoite"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Morimiya, Masayuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-09-25T15:30:01.174Z",
+    "updatedAt": "2022-12-13T15:52:01.000Z",
+    "checkedAt": "2022-12-13T15:52:01.000Z",
+    "id": 154366,
+    "type": "manga",
+    "title": "Hodoite, Musunde",
+    "altTitle": [
+      "ほどいて、むすんで"
+    ],
+    "url": "https://anilist.co/manga/154366",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154366-IDzG4vN6zZPI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153451,
+    "deletedAt": null,
+    "authors": [
+      "Masayuki Morimiya"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:07.000Z",
-  "updatedAt": "2021-12-05T06:17:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T21:20:00.000Z",
+  "checkedAt": "2023-01-19T20:31:45.000Z",
   "id": 18623,
   "identifier": "393f8edd-319b-495e-a642-e65da65adf65",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142463,
+  "aniId": 100539,
   "deletedAt": null,
   "authors": [
     "Miki Yuya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T20:31:45.215Z",
+    "updatedAt": "2023-01-19T20:31:45.215Z",
+    "checkedAt": "2023-01-19T20:31:45.000Z",
+    "id": 142463,
+    "type": "manga",
+    "title": "Majo no Closet",
+    "altTitle": [
+      "The Witch's Closet",
+      "Witch's Closet",
+      "魔女のクローゼット"
+    ],
+    "url": "https://myanimelist.net/manga/142463/Majo_no_Closet",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253405.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miki, Yuya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:27.795Z",
+    "updatedAt": "2022-05-13T13:00:27.795Z",
+    "checkedAt": null,
+    "id": 100539,
+    "type": "manga",
+    "title": "Majo no Closet",
+    "altTitle": [
+      "魔女のクローゼット",
+      "The Witch's Closet"
+    ],
+    "url": "https://anilist.co/manga/100539",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100539-WlPlw6d3RKcQ.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142463,
+    "deletedAt": null,
+    "authors": [
+      "Yuya Miki"
+    ]
+  }
 }

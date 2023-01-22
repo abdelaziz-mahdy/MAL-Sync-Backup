@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:22.000Z",
-  "updatedAt": "2021-12-07T07:17:23.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T14:42:43.000Z",
+  "checkedAt": "2023-01-20T14:01:02.000Z",
   "id": 31003,
   "identifier": "81c64aa8-9372-421e-8517-235c499f0da9",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 20913,
+  "aniId": 50913,
   "deletedAt": null,
   "authors": [
     "Shimamoto Harumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T14:42:40.840Z",
+    "updatedAt": "2023-01-20T14:42:40.840Z",
+    "checkedAt": "2023-01-20T14:42:40.000Z",
+    "id": 20913,
+    "type": "manga",
+    "title": "Change-De!",
+    "altTitle": [
+      "ちぇんじで！"
+    ],
+    "url": "https://myanimelist.net/manga/20913/Change-De",
+    "image": "https://cdn.myanimelist.net/images/manga/1/90841.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shimamoto, Harumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T14:01:02.124Z",
+    "updatedAt": "2023-01-20T14:01:02.124Z",
+    "checkedAt": "2023-01-20T14:01:02.000Z",
+    "id": 50913,
+    "type": "manga",
+    "title": "Change-De!",
+    "altTitle": [
+      "ちぇんじで！"
+    ],
+    "url": "https://anilist.co/manga/50913",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20913.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 20913,
+    "deletedAt": null,
+    "authors": [
+      "Harumi Shimamoto"
+    ]
+  }
 }

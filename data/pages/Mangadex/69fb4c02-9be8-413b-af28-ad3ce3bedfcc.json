@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:48.000Z",
-  "updatedAt": "2021-12-04T20:24:00.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T18:22:00.000Z",
+  "checkedAt": "2023-01-19T16:36:31.000Z",
   "id": 15756,
   "identifier": "69fb4c02-9be8-413b-af28-ad3ce3bedfcc",
   "type": "manga",
@@ -12,14 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129972,
+  "aniId": 143664,
   "deletedAt": null,
   "authors": [
     "Yamada Fuutarou",
     "Ishikawa Ken"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T18:21:58.042Z",
+    "updatedAt": "2023-01-19T18:21:58.042Z",
+    "checkedAt": "2023-01-19T18:21:58.000Z",
+    "id": 129972,
+    "type": "manga",
+    "title": "Yagyuu Juubei Shisu",
+    "altTitle": [
+      "柳生十兵衛死す"
+    ],
+    "url": "https://myanimelist.net/manga/129972/Yagyuu_Juubei_Shisu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/255680.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%9F%E5%8D%81%E5%85%B5%E8%A1%9B%E6%AD%BB%E3%81%99"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamada, Fuutarou",
+      "Ishikawa, Ken"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:25.809Z",
+    "updatedAt": "2023-01-19T16:36:31.000Z",
+    "checkedAt": "2023-01-19T16:36:31.000Z",
+    "id": 143664,
+    "type": "manga",
+    "title": "Yagyuu Juubei Shisu",
+    "altTitle": [
+      "柳生十兵衛死す"
+    ],
+    "url": "https://anilist.co/manga/143664",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b143664-K2qkBo1GXtLt.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129972,
+    "deletedAt": null,
+    "authors": [
+      "Ken Ishikawa",
+      "Fuutarou Yamada"
+    ]
+  }
 }

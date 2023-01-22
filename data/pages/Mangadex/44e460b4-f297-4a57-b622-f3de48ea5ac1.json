@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:43.000Z",
-  "updatedAt": "2021-12-08T01:13:04.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T23:59:18.000Z",
+  "checkedAt": "2023-01-20T22:21:05.000Z",
   "id": 37791,
   "identifier": "44e460b4-f297-4a57-b622-f3de48ea5ac1",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 128427,
+  "aniId": 121736,
   "deletedAt": null,
   "authors": [
     "Ariki Eiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T23:59:17.513Z",
+    "updatedAt": "2023-01-20T23:59:17.513Z",
+    "checkedAt": "2023-01-20T23:59:17.000Z",
+    "id": 128427,
+    "type": "manga",
+    "title": "Shinai naru Omega e",
+    "altTitle": [
+      "親愛なるオメガへ"
+    ],
+    "url": "https://myanimelist.net/manga/128427/Shinai_naru_Omega_e",
+    "image": "https://cdn.myanimelist.net/images/manga/1/238104.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ariki, Eiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:52.145Z",
+    "updatedAt": "2023-01-20T22:21:05.000Z",
+    "checkedAt": "2023-01-20T22:21:05.000Z",
+    "id": 121736,
+    "type": "manga",
+    "title": "Shinai Naru Omega e",
+    "altTitle": [
+      "親愛なるオメガへ",
+      "To My Beloved Omega",
+      "Shinai Naru Omega he"
+    ],
+    "url": "https://anilist.co/manga/121736",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121736-eniNfRN7bLMS.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 128427,
+    "deletedAt": null,
+    "authors": [
+      "Eiko Ariki"
+    ]
+  }
 }

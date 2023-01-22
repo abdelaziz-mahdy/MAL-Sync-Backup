@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:57:44.785Z",
-  "updatedAt": "2022-05-13T19:32:10.000Z",
-  "checkedAt": "2022-05-13T19:32:10.000Z",
+  "updatedAt": "2023-01-19T12:10:57.000Z",
+  "checkedAt": "2023-01-19T12:10:57.000Z",
   "id": 86429,
   "type": "manga",
   "title": "Mome Joheun Namja",
@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": true,
   "externalLinks": [],
-  "malId": null,
+  "malId": 119008,
   "deletedAt": null,
   "authors": [
     "Won-Sik Lee",
@@ -27,8 +27,8 @@
     "Mangadex": {
       "a378a7f5-5aef-4a31-9ff9-2bb5f8156488": {
         "createdAt": "2020-10-12T16:08:48.000Z",
-        "updatedAt": "2021-12-04T13:52:50.000Z",
-        "checkedAt": null,
+        "updatedAt": "2023-01-19T13:18:08.000Z",
+        "checkedAt": "2023-01-19T12:10:57.000Z",
         "id": 13614,
         "identifier": "a378a7f5-5aef-4a31-9ff9-2bb5f8156488",
         "type": "manga",
@@ -39,13 +39,38 @@
         "hentai": true,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 119008,
         "aniId": 86429,
         "deletedAt": null,
         "authors": [
           "Lee Won-sik",
           "Park Hyeong-jun"
+        ]
+      }
+    },
+    "MangaSee": {
+      "sweet-guy": {
+        "createdAt": "2020-12-22T06:26:21.000Z",
+        "updatedAt": "2023-01-19T12:20:00.000Z",
+        "checkedAt": "2022-05-13T19:32:10.000Z",
+        "id": 55290,
+        "identifier": "sweet-guy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sweet Guy",
+        "url": "https://mangasee123.com/manga/Sweet-Guy",
+        "image": "https://temp.compsci88.com/cover/Sweet-Guy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 119008,
+        "aniId": 86429,
+        "deletedAt": null,
+        "authors": [
+          "BAK Hyeong Jun",
+          "I Wonsik"
         ]
       }
     }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:12:59.000Z",
-  "updatedAt": "2021-12-05T18:20:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:21:24.000Z",
+  "checkedAt": "2023-01-20T00:51:11.000Z",
   "id": 21954,
   "identifier": "2bbeb9c6-d547-436e-8a44-8d179de298a2",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 119096,
+  "aniId": 109029,
   "deletedAt": null,
   "authors": [
     "Shiwasu No Okina"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:21:23.192Z",
+    "updatedAt": "2023-01-20T11:21:23.192Z",
+    "checkedAt": "2023-01-20T11:21:23.000Z",
+    "id": 119096,
+    "type": "manga",
+    "title": "Enkou Ojisan",
+    "altTitle": [
+      "円光おじさん"
+    ],
+    "url": "https://myanimelist.net/manga/119096/Enkou_Ojisan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241945.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shiwasu no Okina"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:18.391Z",
+    "updatedAt": "2023-01-20T00:51:11.000Z",
+    "checkedAt": "2023-01-20T00:51:11.000Z",
+    "id": 109029,
+    "type": "manga",
+    "title": "Enkou Oji-san",
+    "altTitle": [
+      "円光おじさん",
+      "Mister Enkou"
+    ],
+    "url": "https://anilist.co/manga/109029",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109029-uiDwSiXbEdjh.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 119096,
+    "deletedAt": null,
+    "authors": [
+      "Shiwasu no Okina"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-01T08:23:08.000Z",
-  "updatedAt": "2021-12-08T08:35:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:36:45.000Z",
+  "checkedAt": "2023-01-21T05:00:24.000Z",
   "id": 53358,
   "identifier": "3810a12e-f091-4c0b-825b-e588200f9eb2",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 145766,
+  "aniId": 137964,
   "deletedAt": null,
   "authors": [
     "Yutaka"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T05:00:24.037Z",
+    "updatedAt": "2023-01-21T05:00:24.037Z",
+    "checkedAt": "2023-01-21T05:00:24.000Z",
+    "id": 145766,
+    "type": "manga",
+    "title": "Yankee Joshi wa Otaku ni Naritai",
+    "altTitle": [
+      "Yankee Joshi wa Fujoshi ni Naritai, The Yankee Girl Who Wants to Be an Otaku",
+      "ヤンキー女子は腐女子〈オタク〉になりたい"
+    ],
+    "url": "https://myanimelist.net/manga/145766/Yankee_Joshi_wa_Otaku_ni_Naritai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/273718.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yutaka"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:51.319Z",
+    "updatedAt": "2023-01-21T15:44:21.000Z",
+    "checkedAt": "2023-01-21T15:44:21.000Z",
+    "id": 137964,
+    "type": "manga",
+    "title": "Yankee Joshi wa Otaku ni Naritai!  ",
+    "altTitle": [
+      "ヤンキー女子はオタク腐女子になりたい！",
+      "The Yankee Wants to Be a Otaku!",
+      "Yankee Joshi wa Fujoshi ni Naritai!  "
+    ],
+    "url": "https://anilist.co/manga/137964",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137964-n6DyHiTqr5Tb.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145766,
+    "deletedAt": null,
+    "authors": [
+      "Yutaka"
+    ]
+  }
 }

@@ -1,25 +1,69 @@
 {
   "createdAt": "2020-10-12T16:18:14.000Z",
-  "updatedAt": "2021-12-07T15:18:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T19:55:47.000Z",
+  "checkedAt": "2023-01-20T16:11:10.000Z",
   "id": 32753,
   "identifier": "18d8aadd-8c42-4e65-aba3-c86910fd511f",
   "type": "manga",
   "page": "Mangadex",
   "title": "Urban Legend",
   "url": "https://mangadex.org/title/18d8aadd-8c42-4e65-aba3-c86910fd511f",
-  "image": "https://uploads.mangadex.org/covers/18d8aadd-8c42-4e65-aba3-c86910fd511f/896d9ff5-ba26-4f42-8c90-9b0ba8affb83.jpg",
+  "image": "https://uploads.mangadex.org/covers/18d8aadd-8c42-4e65-aba3-c86910fd511f/fc126d85-ae05-4716-878d-f72cd53a4bea.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 114914,
+  "aniId": 126305,
   "deletedAt": null,
   "authors": [
-    "Tokuma Shoten/221",
     "221"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-17T14:45:12.000Z",
+    "updatedAt": "2023-01-20T16:11:10.000Z",
+    "checkedAt": "2023-01-20T16:11:10.000Z",
+    "id": 114914,
+    "type": "manga",
+    "title": "Urban Legend",
+    "altTitle": [
+      "アーバンレジェンド"
+    ],
+    "url": "https://myanimelist.net/manga/114914/Urban_Legend",
+    "image": "https://cdn.myanimelist.net/images/manga/2/229596.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comic-ryu.jp/_urbanlegend/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "221"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T16:11:10.940Z",
+    "updatedAt": "2023-01-20T16:11:10.940Z",
+    "checkedAt": "2023-01-20T16:11:10.000Z",
+    "id": 126305,
+    "type": "manga",
+    "title": "Urban Legend",
+    "altTitle": [
+      "ーバンレジェンド"
+    ],
+    "url": "https://anilist.co/manga/126305",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b126305-13vAmcx2BMG1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 114914,
+    "deletedAt": null,
+    "authors": [
+      "221"
+    ]
+  }
 }

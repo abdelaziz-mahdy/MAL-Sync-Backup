@@ -1,24 +1,72 @@
 {
   "createdAt": "2020-10-12T16:19:13.000Z",
-  "updatedAt": "2021-12-07T21:41:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T20:20:00.000Z",
+  "checkedAt": "2023-01-20T18:51:21.000Z",
   "id": 34759,
   "identifier": "0618e447-314b-482c-b786-c78933915160",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Kono Otoko ha Jinsei Saidai no Ayamachidesu",
+  "title": "Kono Otoko wa Jinsei Saidai no Ayamachi desu",
   "url": "https://mangadex.org/title/0618e447-314b-482c-b786-c78933915160",
   "image": "https://uploads.mangadex.org/covers/0618e447-314b-482c-b786-c78933915160/541dec82-a7e8-4ffd-bfe5-b24dcf1b69ba.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 129694,
+  "aniId": 107512,
   "deletedAt": null,
   "authors": [
     "Kokonose Shiki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-08-04T23:19:53.000Z",
+    "updatedAt": "2023-01-20T18:51:21.000Z",
+    "checkedAt": "2023-01-20T18:51:21.000Z",
+    "id": 129694,
+    "type": "manga",
+    "title": "Kono Otoko wa Jinsei Saidai no Ayamachi desu",
+    "altTitle": [
+      "This Guy Is The Biggest Mistake in My Life",
+      "この男は人生最大の過ちです"
+    ],
+    "url": "https://myanimelist.net/manga/129694/Kono_Otoko_wa_Jinsei_Saidai_no_Ayamachi_desu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/236916.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E7%94%B7%E3%81%AF%E4%BA%BA%E7%94%9F%E6%9C%80%E5%A4%A7%E3%81%AE%E9%81%8E%E3%81%A1%E3%81%A7%E3%81%99"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kokonose, Shiki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:57.302Z",
+    "updatedAt": "2022-07-01T19:00:15.000Z",
+    "checkedAt": "2022-07-01T19:00:15.000Z",
+    "id": 107512,
+    "type": "manga",
+    "title": "Kono Otoko wa Jinsei Saidai no Ayamachi desu",
+    "altTitle": [
+      "This Man is the Biggest Mistake of My Life",
+      "この男は人生最大の過ちです",
+      "This Guy Is The Biggest Mistake in My Life"
+    ],
+    "url": "https://anilist.co/manga/107512",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107512-elx58HmPTHp9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129694,
+    "deletedAt": null,
+    "authors": [
+      "Shiki Kokonose"
+    ]
+  }
 }

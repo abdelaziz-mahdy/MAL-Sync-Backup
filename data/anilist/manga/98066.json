@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:42:34.628Z",
-  "updatedAt": "2022-05-13T19:36:27.000Z",
-  "checkedAt": "2022-05-13T19:36:27.000Z",
+  "updatedAt": "2023-01-19T16:47:33.000Z",
+  "checkedAt": "2023-01-19T16:47:33.000Z",
   "id": 98066,
   "type": "manga",
   "title": "Gwigaksi",
@@ -15,10 +15,35 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 147466,
   "deletedAt": null,
   "authors": [
     "Se-Jung"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "db2d253c-6f99-402d-88b9-1f8652a73da0": {
+        "createdAt": "2020-10-12T16:09:53.000Z",
+        "updatedAt": "2023-01-19T18:21:17.000Z",
+        "checkedAt": "2023-01-19T16:47:33.000Z",
+        "id": 15937,
+        "identifier": "db2d253c-6f99-402d-88b9-1f8652a73da0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Wife",
+        "url": "https://mangadex.org/title/db2d253c-6f99-402d-88b9-1f8652a73da0",
+        "image": "https://uploads.mangadex.org/covers/db2d253c-6f99-402d-88b9-1f8652a73da0/6639a44f-bec9-4758-a3dc-ca9de27b42c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 147466,
+        "aniId": 98066,
+        "deletedAt": null,
+        "authors": [
+          "Saejung"
+        ]
+      }
+    }
+  }
 }

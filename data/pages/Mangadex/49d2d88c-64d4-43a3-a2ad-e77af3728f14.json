@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-10T12:40:53.000Z",
-  "updatedAt": "2021-12-08T11:38:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:40:36.000Z",
+  "checkedAt": "2023-01-21T15:31:49.000Z",
   "id": 62051,
   "identifier": "49d2d88c-64d4-43a3-a2ad-e77af3728f14",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 8505,
+  "aniId": 38505,
   "deletedAt": null,
   "authors": [
     "Umetarou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T15:40:35.361Z",
+    "updatedAt": "2023-01-21T15:40:35.361Z",
+    "checkedAt": "2023-01-21T15:40:35.000Z",
+    "id": 8505,
+    "type": "manga",
+    "title": "Romance at Our School",
+    "altTitle": [
+      "Ano Hi Bokura wa Koutei de",
+      "あの日僕らは校庭で"
+    ],
+    "url": "https://myanimelist.net/manga/8505/Romance_at_Our_School",
+    "image": "https://cdn.myanimelist.net/images/manga/1/11638.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Umetarou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T15:31:49.697Z",
+    "updatedAt": "2023-01-21T15:31:49.697Z",
+    "checkedAt": "2023-01-21T15:31:49.000Z",
+    "id": 38505,
+    "type": "manga",
+    "title": "Ano Hi Bokura wa Koutei de",
+    "altTitle": [
+      "あの日僕らは校庭で",
+      "Romance at Our School"
+    ],
+    "url": "https://anilist.co/manga/38505",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38505-KlspWmv7LoGC.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8505,
+    "deletedAt": null,
+    "authors": [
+      "Umetarou"
+    ]
+  }
 }

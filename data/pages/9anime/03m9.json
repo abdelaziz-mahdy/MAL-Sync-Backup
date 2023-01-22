@@ -1,6 +1,6 @@
 {
   "createdAt": "2020-10-12T15:48:45.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
   "checkedAt": "2022-08-07T00:00:25.000Z",
   "id": 425,
   "identifier": "03m9",
@@ -12,10 +12,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 36993,
+  "aniId": 103426,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-12-16T08:18:55.000Z",
+    "updatedAt": "2022-12-28T21:31:59.000Z",
+    "checkedAt": "2022-12-28T21:31:59.000Z",
+    "id": 36993,
+    "type": "anime",
+    "title": "Chao Zhi Neng Zu Qiu",
+    "altTitle": [
+      "AI Football GGO",
+      "GGO Football",
+      "超智能足球"
+    ],
+    "url": "https://myanimelist.net/anime/36993/Chao_Zhi_Neng_Zu_Qiu",
+    "image": "https://cdn.myanimelist.net/images/anime/1021/91274.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-28T23:23:33.000Z",
+    "updatedAt": "2022-12-28T21:31:57.000Z",
+    "checkedAt": "2022-12-28T21:31:57.000Z",
+    "id": 103426,
+    "type": "anime",
+    "title": "Chao Zhineng Zuqiu",
+    "altTitle": [
+      "GGO Football",
+      "超智能足球",
+      "超智能足球GGO",
+      "AI Football GGO"
+    ],
+    "url": "https://anilist.co/anime/103426",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103426-RcuyNMyFF33Q.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36993,
+    "deletedAt": null
+  }
 }

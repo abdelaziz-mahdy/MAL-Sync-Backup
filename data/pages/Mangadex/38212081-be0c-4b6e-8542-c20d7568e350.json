@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-05T06:56:49.000Z",
-  "updatedAt": "2022-01-20T21:30:22.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:33:07.000Z",
+  "checkedAt": "2023-01-21T09:33:04.000Z",
   "id": 57310,
   "identifier": "38212081-be0c-4b6e-8542-c20d7568e350",
   "type": "manga",
@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147447,
+  "aniId": 126944,
   "deletedAt": null,
   "authors": [
     "Seok-Woo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-23T22:30:02.077Z",
+    "updatedAt": "2022-07-23T22:30:02.077Z",
+    "checkedAt": "2022-07-23T22:30:02.000Z",
+    "id": 147447,
+    "type": "manga",
+    "title": "She's Hopeless",
+    "altTitle": [
+      "Nodap Sonyeo",
+      "She's Hopeless",
+      "노답소녀"
+    ],
+    "url": "https://myanimelist.net/manga/147447/Shes_Hopeless",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261506.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=756137"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kang, Seok Woo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:52.607Z",
+    "updatedAt": "2022-12-13T12:44:10.000Z",
+    "checkedAt": "2022-12-13T12:44:10.000Z",
+    "id": 126944,
+    "type": "manga",
+    "title": "Nodab Sonyeo",
+    "altTitle": [
+      "She's Hopeless",
+      "노답소녀",
+      "No Answer Girl",
+      "Unreachable Girl",
+      "保护刁蛮大小姐",
+      "無解少女"
+    ],
+    "url": "https://anilist.co/manga/126944",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126944-pGOZn3OW6fOv.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147447,
+    "deletedAt": null,
+    "authors": [
+      "Seok-U Jeong"
+    ]
+  }
 }

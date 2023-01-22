@@ -1,24 +1,64 @@
 {
   "createdAt": "2021-01-11T17:21:30.000Z",
-  "updatedAt": "2021-12-08T10:08:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T11:20:00.000Z",
+  "checkedAt": "2023-01-21T10:35:15.000Z",
   "id": 58211,
   "identifier": "34d28dc8-df40-4d3c-bf88-2bdb464ef0b8",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hyoujou no Crown",
   "url": "https://mangadex.org/title/34d28dc8-df40-4d3c-bf88-2bdb464ef0b8",
-  "image": "https://uploads.mangadex.org/covers/34d28dc8-df40-4d3c-bf88-2bdb464ef0b8/ac98da35-9a52-4c51-ac83-c265c49d1c9e.jpg",
+  "image": "https://uploads.mangadex.org/covers/34d28dc8-df40-4d3c-bf88-2bdb464ef0b8/a41cd888-8094-4182-bcf7-caa2425dd6d0.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 94702,
+  "aniId": 102213,
   "deletedAt": null,
   "authors": [
     "Tayama Midori"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T10:35:15.384Z",
+    "updatedAt": "2023-01-21T10:35:15.384Z",
+    "checkedAt": "2023-01-21T10:35:15.000Z",
+    "id": 94702,
+    "type": "manga",
+    "title": "Hyoujou no Crown",
+    "altTitle": [
+      "氷上のクラウン"
+    ],
+    "url": "https://myanimelist.net/manga/94702/Hyoujou_no_Crown",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173826.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tayama, Midori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T10:35:15.603Z",
+    "updatedAt": "2023-01-21T10:35:15.603Z",
+    "checkedAt": "2023-01-21T10:35:15.000Z",
+    "id": 102213,
+    "type": "manga",
+    "title": "Hikami no Crown",
+    "altTitle": [
+      "氷上のクラウン"
+    ],
+    "url": "https://anilist.co/manga/102213",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102213-zvBlsOm4HCo9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 94702,
+    "deletedAt": null,
+    "authors": [
+      "Midori Tayama"
+    ]
+  }
 }

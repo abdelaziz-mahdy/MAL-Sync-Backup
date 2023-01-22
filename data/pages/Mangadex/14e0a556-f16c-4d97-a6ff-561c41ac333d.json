@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:29.000Z",
-  "updatedAt": "2021-12-08T02:37:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:38:09.000Z",
+  "checkedAt": "2023-01-21T00:30:26.000Z",
   "id": 39425,
   "identifier": "14e0a556-f16c-4d97-a6ff-561c41ac333d",
   "type": "manga",
@@ -12,13 +12,51 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 22980,
+  "aniId": 52980,
   "deletedAt": null,
   "authors": [
     "Mariko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T15:38:08.432Z",
+    "updatedAt": "2023-01-21T15:38:08.432Z",
+    "checkedAt": "2023-01-21T15:38:08.000Z",
+    "id": 22980,
+    "type": "manga",
+    "title": "The Dolls' Apartment",
+    "altTitle": [],
+    "url": "https://myanimelist.net/manga/22980/The_Dolls_Apartment",
+    "image": "https://cdn.myanimelist.net/images/manga/3/37224.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": []
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T00:30:26.329Z",
+    "updatedAt": "2023-01-21T00:30:26.329Z",
+    "checkedAt": "2023-01-21T00:30:26.000Z",
+    "id": 52980,
+    "type": "manga",
+    "title": "Ningyoutachi no Heya",
+    "altTitle": [
+      "人形たちの部屋",
+      "The Dolls' Apartment",
+      "Ningyoutachi no Heya"
+    ],
+    "url": "https://anilist.co/manga/52980",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx52980-t5m2Pj3eVuhD.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 22980,
+    "deletedAt": null,
+    "authors": [
+      "MARIKO"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:08:43.000Z",
-  "updatedAt": "2021-12-04T12:22:02.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T13:20:12.000Z",
+  "checkedAt": "2023-01-19T11:49:07.000Z",
   "id": 13386,
   "identifier": "9439cd46-7c64-46bf-afb3-ea4d65020186",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 79433,
+  "aniId": 92845,
   "deletedAt": null,
   "authors": [
     "Hagio Akira"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:33.000Z",
+    "updatedAt": "2023-01-19T13:20:10.000Z",
+    "checkedAt": "2023-01-19T13:20:10.000Z",
+    "id": 79433,
+    "type": "manga",
+    "title": "Koufuku no Ouji-sama",
+    "altTitle": [
+      "Kimi no Bannou na Migite",
+      "The Happy Prince",
+      "幸福の王子さま"
+    ],
+    "url": "https://myanimelist.net/manga/79433/Koufuku_no_Ouji-sama",
+    "image": "https://cdn.myanimelist.net/images/manga/3/137207.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hagio, Akira"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:09.647Z",
+    "updatedAt": "2023-01-19T11:49:07.000Z",
+    "checkedAt": "2023-01-19T11:49:07.000Z",
+    "id": 92845,
+    "type": "manga",
+    "title": "Koufuku no Ouji-sama",
+    "altTitle": [
+      "幸福の王子さま",
+      "Kimi no Bannou na Migite",
+      "A Happy Prince",
+      "The Happy Prince"
+    ],
+    "url": "https://anilist.co/manga/92845",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92845-4yBGViLgEu08.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 79433,
+    "deletedAt": null,
+    "authors": [
+      "Akira Hagio"
+    ]
+  }
 }

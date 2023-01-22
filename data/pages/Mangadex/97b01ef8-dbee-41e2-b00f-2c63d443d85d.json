@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:07.000Z",
-  "updatedAt": "2021-12-06T02:48:19.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:31:14.000Z",
+  "checkedAt": "2023-01-20T04:11:27.000Z",
   "id": 24285,
   "identifier": "97b01ef8-dbee-41e2-b00f-2c63d443d85d",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": 110078,
-  "aniId": null,
+  "aniId": 100564,
   "deletedAt": null,
   "authors": [
     "Nanoka"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:44.173Z",
+    "updatedAt": "2023-01-20T04:11:27.000Z",
+    "checkedAt": "2023-01-20T04:11:27.000Z",
+    "id": 100564,
+    "type": "manga",
+    "title": "Anata to Taberu Shiawase: Maki to Hanazawa",
+    "altTitle": [
+      "あなたと食べるしあわせを‐槙と花澤‐",
+      "Shiawase Gohan: Maki to Hanazawa",
+      "しあわせごはん -槇と花澤-"
+    ],
+    "url": "https://anilist.co/manga/100564",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100564-oK5NQoTPBZbW.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 108666,
+    "deletedAt": null,
+    "authors": [
+      "Nanoka"
+    ]
+  }
 }

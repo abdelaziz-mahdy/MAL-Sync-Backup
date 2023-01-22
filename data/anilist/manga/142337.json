@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:40:21.478Z",
-  "updatedAt": "2022-05-13T12:40:21.478Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T01:00:15.000Z",
+  "checkedAt": "2023-01-20T01:00:15.000Z",
   "id": 142337,
   "type": "manga",
   "title": "Yoshifumi to Karaage",
@@ -13,10 +13,35 @@
   "category": "manga",
   "hentai": false,
   "externalLinks": [],
-  "malId": null,
+  "malId": 146772,
   "deletedAt": null,
   "authors": [
     "Kanko Sekiguchi"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "788aee33-c762-491b-abb1-9adf03821c9b": {
+        "createdAt": "2020-10-12T16:13:01.000Z",
+        "updatedAt": "2023-01-20T11:21:54.000Z",
+        "checkedAt": "2023-01-20T01:00:15.000Z",
+        "id": 22019,
+        "identifier": "788aee33-c762-491b-abb1-9adf03821c9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoshifumi to Karaage",
+        "url": "https://mangadex.org/title/788aee33-c762-491b-abb1-9adf03821c9b",
+        "image": "https://uploads.mangadex.org/covers/788aee33-c762-491b-abb1-9adf03821c9b/0e8d62fa-124b-4dce-b469-a8836a1f1dea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 146772,
+        "aniId": 142337,
+        "deletedAt": null,
+        "authors": [
+          "Sekiguchi Kanko"
+        ]
+      }
+    }
+  }
 }

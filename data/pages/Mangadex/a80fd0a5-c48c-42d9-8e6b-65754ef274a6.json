@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-11T23:39:19.000Z",
-  "updatedAt": "2021-12-08T12:40:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T21:08:52.000Z",
+  "checkedAt": "2023-01-21T19:10:39.000Z",
   "id": 65315,
   "identifier": "a80fd0a5-c48c-42d9-8e6b-65754ef274a6",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 120588,
+  "aniId": 117997,
   "deletedAt": null,
   "authors": [
     "Yoshio Akira"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T19:10:39.385Z",
+    "updatedAt": "2023-01-21T19:10:39.385Z",
+    "checkedAt": "2023-01-21T19:10:39.000Z",
+    "id": 120588,
+    "type": "manga",
+    "title": "Shirayuki-hime ni Kuchizuke",
+    "altTitle": [
+      "Hatsukoi Glitter",
+      "白雪姫にくちづけ"
+    ],
+    "url": "https://myanimelist.net/manga/120588/Shirayuki-hime_ni_Kuchizuke",
+    "image": "https://cdn.myanimelist.net/images/manga/2/225393.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshio, Akira"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:00.153Z",
+    "updatedAt": "2023-01-21T19:10:39.000Z",
+    "checkedAt": "2023-01-21T19:10:39.000Z",
+    "id": 117997,
+    "type": "manga",
+    "title": "Shirayukihime ni Kuchizuke",
+    "altTitle": [
+      "白雪姫にくちづけ",
+      "Kiss to Snow White"
+    ],
+    "url": "https://anilist.co/manga/117997",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117997-ugqqVk2ewZ6e.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 120588,
+    "deletedAt": null,
+    "authors": [
+      "Akira Yoshio"
+    ]
+  }
 }

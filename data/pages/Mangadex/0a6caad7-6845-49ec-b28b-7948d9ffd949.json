@@ -1,24 +1,66 @@
 {
   "createdAt": "2020-10-12T16:02:44.000Z",
-  "updatedAt": "2021-12-02T09:17:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-17T20:43:39.000Z",
+  "checkedAt": "2023-01-17T17:41:35.000Z",
   "id": 763,
   "identifier": "0a6caad7-6845-49ec-b28b-7948d9ffd949",
   "type": "manga",
   "page": "Mangadex",
   "title": "Love in the Mask",
   "url": "https://mangadex.org/title/0a6caad7-6845-49ec-b28b-7948d9ffd949",
-  "image": "https://uploads.mangadex.org/covers/0a6caad7-6845-49ec-b28b-7948d9ffd949/400176b5-c2cb-4aff-80f3-0257812e0b9c.jpg",
+  "image": "https://uploads.mangadex.org/covers/0a6caad7-6845-49ec-b28b-7948d9ffd949/5762f677-24f4-425c-a1cc-17f831ea7844.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 17007,
+  "aniId": 47007,
   "deletedAt": null,
   "authors": [
-    "Han Yu-Rang"
+    "Han Yu-Rang (한유랑)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:42:24.000Z",
+    "updatedAt": "2022-12-18T21:02:04.000Z",
+    "checkedAt": "2022-12-18T21:02:04.000Z",
+    "id": 17007,
+    "type": "manga",
+    "title": "Love in the Mask",
+    "altTitle": [
+      "가면속의 사랑"
+    ],
+    "url": "https://myanimelist.net/manga/17007/Love_in_the_Mask",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261367.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Yu-Rang"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:57.632Z",
+    "updatedAt": "2022-12-18T21:02:03.000Z",
+    "checkedAt": "2022-12-18T21:02:03.000Z",
+    "id": 47007,
+    "type": "manga",
+    "title": "Gamyeonsogui Sarang",
+    "altTitle": [
+      "가면속의 사랑",
+      "Gamyeonsogui Salang",
+      "Love in the Mask"
+    ],
+    "url": "https://anilist.co/manga/47007",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47007-FNVZewbaknDQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 17007,
+    "deletedAt": null,
+    "authors": [
+      "Yu-Rang Han"
+    ]
+  }
 }

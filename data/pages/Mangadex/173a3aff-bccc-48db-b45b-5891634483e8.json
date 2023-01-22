@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-13T23:39:13.000Z",
-  "updatedAt": "2021-12-08T13:07:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T21:08:57.000Z",
+  "checkedAt": "2023-01-21T19:25:08.000Z",
   "id": 65531,
   "identifier": "173a3aff-bccc-48db-b45b-5891634483e8",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 134843,
+  "aniId": 131158,
   "deletedAt": null,
   "authors": [
     "Totsuno Takahide"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T19:25:08.294Z",
+    "updatedAt": "2023-01-21T19:25:08.294Z",
+    "checkedAt": "2023-01-21T19:25:08.000Z",
+    "id": 134843,
+    "type": "manga",
+    "title": "Damdam!!",
+    "altTitle": [
+      "ダムダム!!"
+    ],
+    "url": "https://myanimelist.net/manga/134843/Damdam",
+    "image": "https://cdn.myanimelist.net/images/manga/2/242562.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Totsuno, Takahide"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:46.844Z",
+    "updatedAt": "2023-01-21T19:25:08.000Z",
+    "checkedAt": "2023-01-21T19:25:08.000Z",
+    "id": 131158,
+    "type": "manga",
+    "title": "Damdam!!",
+    "altTitle": [
+      "ダムダム!!"
+    ],
+    "url": "https://anilist.co/manga/131158",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131158-eoSteqFW1fLJ.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 134843,
+    "deletedAt": null,
+    "authors": [
+      "Takahide Totsuno"
+    ]
+  }
 }

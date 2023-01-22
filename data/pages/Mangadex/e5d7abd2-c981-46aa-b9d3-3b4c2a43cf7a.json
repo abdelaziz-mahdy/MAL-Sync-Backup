@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-10-28T06:12:40.000Z",
-  "updatedAt": "2021-12-08T06:09:23.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:36:07.000Z",
+  "checkedAt": "2023-01-21T02:31:11.000Z",
   "id": 50871,
   "identifier": "e5d7abd2-c981-46aa-b9d3-3b4c2a43cf7a",
   "type": "manga",
   "page": "Mangadex",
   "title": "Ikigami to Donor",
   "url": "https://mangadex.org/title/e5d7abd2-c981-46aa-b9d3-3b4c2a43cf7a",
-  "image": "https://uploads.mangadex.org/covers/e5d7abd2-c981-46aa-b9d3-3b4c2a43cf7a/f40f932d-e7eb-4cc8-b3ac-3a914fdd6547.jpg",
+  "image": "https://uploads.mangadex.org/covers/e5d7abd2-c981-46aa-b9d3-3b4c2a43cf7a/611244eb-3158-487d-9df9-5ca9a67b943e.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 134043,
+  "aniId": 125612,
   "deletedAt": null,
   "authors": [
     "Yamanaka Hiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T15:36:04.718Z",
+    "updatedAt": "2023-01-21T15:36:04.718Z",
+    "checkedAt": "2023-01-21T15:36:04.000Z",
+    "id": 134043,
+    "type": "manga",
+    "title": "Ikigami to Donor",
+    "altTitle": [
+      "イキガミとドナー"
+    ],
+    "url": "https://myanimelist.net/manga/134043/Ikigami_to_Donor",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244574.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamanaka, Hiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:06.917Z",
+    "updatedAt": "2023-01-21T02:31:11.000Z",
+    "checkedAt": "2023-01-21T02:31:11.000Z",
+    "id": 125612,
+    "type": "manga",
+    "title": "Ikigami to Donor",
+    "altTitle": [
+      "イキガミとドナー"
+    ],
+    "url": "https://anilist.co/manga/125612",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125612-Ywg8b7y7rR06.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 134043,
+    "deletedAt": null,
+    "authors": [
+      "Hiko Yamanaka"
+    ]
+  }
 }

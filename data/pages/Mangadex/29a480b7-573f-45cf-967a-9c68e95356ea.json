@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:05.000Z",
-  "updatedAt": "2022-01-12T08:41:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T23:55:30.000Z",
+  "checkedAt": "2023-01-20T23:21:02.000Z",
   "id": 38573,
   "identifier": "29a480b7-573f-45cf-967a-9c68e95356ea",
   "type": "manga",
@@ -12,19 +12,47 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147638,
   "aniId": 124436,
   "deletedAt": null,
   "authors": [
-    "Ryu Heeon (류희온)",
+    "Ryu Hee-on (류희온)",
     "카콘"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-06T07:30:15.688Z",
+    "updatedAt": "2022-07-06T07:30:15.688Z",
+    "checkedAt": "2022-07-06T07:30:15.000Z",
+    "id": 147638,
+    "type": "manga",
+    "title": "The Male Lead's Girl Friend",
+    "altTitle": [
+      "Namja Juingong-ui Yeoja Saram Chingu-imnida",
+      "The Male Lead's Girl Friend",
+      "남자주인공의 여자사람친구입니다"
+    ],
+    "url": "https://myanimelist.net/manga/147638/The_Male_Leads_Girl_Friend",
+    "image": "https://cdn.myanimelist.net/images/manga/1/261886.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=752340"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu, Heon",
+      "Kakon"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:42:49.655Z",
-    "updatedAt": "2022-05-13T19:32:33.000Z",
-    "checkedAt": "2022-05-13T19:32:33.000Z",
+    "updatedAt": "2023-01-20T23:21:02.000Z",
+    "checkedAt": "2023-01-20T23:21:02.000Z",
     "id": 124436,
     "type": "manga",
     "title": "Namjajuingongui Yeojasaramchinguimnida",
@@ -39,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147638,
     "deletedAt": null,
     "authors": [
       "Kakon",

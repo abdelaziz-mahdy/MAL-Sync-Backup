@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-09-10T23:05:59.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:20:01.000Z",
+  "checkedAt": "2023-01-18T19:57:31.000Z",
   "id": 38601,
   "identifier": "jvnmy",
   "type": "anime",
@@ -11,11 +11,63 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/4/42/420cbb0456d8af3d9a9090da4f424646.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 49276,
+  "aniId": 126397,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-09-25T01:45:31.000Z",
+    "updatedAt": "2022-12-02T17:12:50.000Z",
+    "checkedAt": "2022-12-02T17:12:50.000Z",
+    "id": 49276,
+    "type": "anime",
+    "title": "Mao Ling Xiangce",
+    "altTitle": [
+      "Neko Album",
+      "Cat Album",
+      "Maoling Xiangce",
+      "猫灵相册"
+    ],
+    "url": "https://myanimelist.net/anime/49276/Mao_Ling_Xiangce",
+    "image": "https://cdn.myanimelist.net/images/anime/1277/116010.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bgm.tv/subject/312254"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16645"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://movie.douban.com/subject/35346286/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16645
+  },
+  "Ani": {
+    "createdAt": "2021-06-22T18:14:52.000Z",
+    "updatedAt": "2022-12-02T17:12:49.000Z",
+    "checkedAt": "2022-12-02T17:12:49.000Z",
+    "id": 126397,
+    "type": "anime",
+    "title": "Maoling Xiangce",
+    "altTitle": [
+      "猫灵相册",
+      "Neko Album"
+    ],
+    "url": "https://anilist.co/anime/126397",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126397-eWa6zKRebE8c.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49276,
+    "deletedAt": null
+  }
 }

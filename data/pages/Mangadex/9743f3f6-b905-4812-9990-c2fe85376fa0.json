@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:03.000Z",
-  "updatedAt": "2021-12-05T05:49:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:44:41.000Z",
+  "checkedAt": "2023-01-19T20:23:14.000Z",
   "id": 18480,
   "identifier": "9743f3f6-b905-4812-9990-c2fe85376fa0",
   "type": "manga",
@@ -12,14 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146650,
+  "aniId": 100413,
   "deletedAt": null,
   "authors": [
     "Arima Kaoru",
     "Yachimata Jun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T20:44:37.849Z",
+    "updatedAt": "2023-01-19T20:44:37.849Z",
+    "checkedAt": "2023-01-19T20:44:37.000Z",
+    "id": 146650,
+    "type": "manga",
+    "title": "Maneki Neko Jinja no Tenteko Mai na Hibi",
+    "altTitle": [
+      "The Fortune Cat Shrine's Hectic Days",
+      "招き猫神社のテンテコ舞いな日々"
+    ],
+    "url": "https://myanimelist.net/manga/146650/Maneki_Neko_Jinja_no_Tenteko_Mai_na_Hibi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/260630.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yachimata, Jun",
+      "Arima, Kaoru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:02.836Z",
+    "updatedAt": "2023-01-19T20:23:14.000Z",
+    "checkedAt": "2023-01-19T20:23:14.000Z",
+    "id": 100413,
+    "type": "manga",
+    "title": "Maneki Neko Jinja no Tenteko Maina Hibi",
+    "altTitle": [
+      "招き猫神社のテンテコ舞いな日々",
+      "The Fortune Cat Shrine's Hectic Days"
+    ],
+    "url": "https://anilist.co/manga/100413",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100413-ufeWqoROB36V.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146650,
+    "deletedAt": null,
+    "authors": [
+      "Kaoru Arima",
+      "Jun Itsuki"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-08-19T08:37:38.000Z",
-  "updatedAt": "2022-11-20T04:30:13.000Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
   "checkedAt": "2022-11-20T04:30:13.000Z",
   "id": 38369,
   "identifier": "6l930",
@@ -12,10 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 36656,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 36657,
+  "aniId": 126610,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-20T04:30:15.197Z",
+    "updatedAt": "2022-11-20T04:30:15.197Z",
+    "checkedAt": "2022-11-20T04:30:15.000Z",
+    "id": 36657,
+    "type": "anime",
+    "title": "Stone Age",
+    "altTitle": [
+      "Stone Age",
+      "스톤에이지"
+    ],
+    "url": "https://myanimelist.net/anime/36657/Stone_Age",
+    "image": "https://cdn.myanimelist.net/images/anime/1757/108635.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kbs.co.kr/2tv/enter/stoneage/index.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%86%A4%EC%97%90%EC%9D%B4%EC%A7%80_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-11-27T09:05:32.000Z",
+    "updatedAt": "2022-11-21T16:24:14.000Z",
+    "checkedAt": "2022-11-21T16:24:14.000Z",
+    "id": 126610,
+    "type": "anime",
+    "title": "Stone Age",
+    "altTitle": [
+      "Stone Age",
+      "스톤에이지"
+    ],
+    "url": "https://anilist.co/anime/126610",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126610-hgeyQvmXye9P.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81100120"
+      }
+    ],
+    "malId": 36657,
+    "deletedAt": null
+  }
 }

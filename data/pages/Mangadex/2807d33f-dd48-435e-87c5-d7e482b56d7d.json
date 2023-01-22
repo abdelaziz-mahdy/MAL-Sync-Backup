@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:15:34.000Z",
-  "updatedAt": "2021-12-06T15:17:02.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:00.000Z",
+  "checkedAt": "2023-01-20T08:31:03.000Z",
   "id": 27289,
   "identifier": "2807d33f-dd48-435e-87c5-d7e482b56d7d",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 119379,
+  "aniId": 121873,
   "deletedAt": null,
   "authors": [
     "Sakurai Nanako"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:55.000Z",
+    "updatedAt": "2022-09-09T11:29:53.000Z",
+    "checkedAt": "2022-09-09T11:29:53.000Z",
+    "id": 119379,
+    "type": "manga",
+    "title": "Ω wa Pink no Yume wo Miru",
+    "altTitle": [
+      "Omega wa Pink no Yume wo Miru",
+      "Ωはピンクの夢を見る"
+    ],
+    "url": "https://myanimelist.net/manga/119379/Ω_wa_Pink_no_Yume_wo_Miru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224692.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakurai, Nanako"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:30.809Z",
+    "updatedAt": "2022-09-09T11:29:52.000Z",
+    "checkedAt": "2022-09-09T11:29:52.000Z",
+    "id": 121873,
+    "type": "manga",
+    "title": "Ω wa Pink no Yume wo Miru",
+    "altTitle": [
+      "Ωはピンクの夢を見る",
+      "Omega wa Pink no Yume wo Miru"
+    ],
+    "url": "https://anilist.co/manga/121873",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121873-Ja7tKJFhy0lN.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 119379,
+    "deletedAt": null,
+    "authors": [
+      "Nanako Sakurai"
+    ]
+  }
 }

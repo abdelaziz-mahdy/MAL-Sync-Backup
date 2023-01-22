@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-23T08:27:08.000Z",
-  "updatedAt": "2022-07-25T15:18:47.939Z",
-  "checkedAt": "2022-06-22T13:30:14.000Z",
+  "updatedAt": "2023-01-20T12:20:00.000Z",
+  "checkedAt": "2023-01-20T05:30:04.000Z",
   "id": 55424,
   "identifier": "nan-hao-shang-feng",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 138533,
+  "aniId": 117324,
   "deletedAt": null,
   "authors": [
     "Brownie"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-12T21:39:48.000Z",
+    "updatedAt": "2022-11-30T23:21:12.000Z",
+    "checkedAt": "2022-11-30T23:21:12.000Z",
+    "id": 138533,
+    "type": "manga",
+    "title": "Nan Hao Shang Feng",
+    "altTitle": [
+      "Nan Hao & Shang Feng",
+      "Nanhao Shangfeng",
+      "南号尚风"
+    ],
+    "url": "https://myanimelist.net/manga/138533/Nan_Hao_Shang_Feng",
+    "image": "https://cdn.myanimelist.net/images/manga/1/254654.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Brownie"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:23.344Z",
+    "updatedAt": "2022-12-02T03:26:02.000Z",
+    "checkedAt": "2022-12-02T03:26:02.000Z",
+    "id": 117324,
+    "type": "manga",
+    "title": "Nan Hao Shang Feng",
+    "altTitle": [
+      "南号尚风",
+      "Nan Hao & Shang Feng the Odd Couple"
+    ],
+    "url": "https://anilist.co/manga/117324",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117324-97mHyfJGwpBq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 138533,
+    "deletedAt": null,
+    "authors": [
+      "Bulangni"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:15.000Z",
-  "updatedAt": "2021-12-08T00:07:05.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T22:20:00.000Z",
+  "checkedAt": "2023-01-20T21:25:35.000Z",
   "id": 36812,
   "identifier": "40332944-07d9-4698-a7c1-39bbcc4c971d",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 128051,
+  "aniId": 119589,
   "deletedAt": null,
   "authors": [
     "Eguchi Tamika"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T21:25:35.673Z",
+    "updatedAt": "2023-01-20T21:25:35.673Z",
+    "checkedAt": "2023-01-20T21:25:35.000Z",
+    "id": 128051,
+    "type": "manga",
+    "title": "Otouto wa Ningyou no Naka ni",
+    "altTitle": [
+      "Brother in the Doll",
+      "弟は人形の中に"
+    ],
+    "url": "https://myanimelist.net/manga/128051/Otouto_wa_Ningyou_no_Naka_ni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245193.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Eguchi, Tamika"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:27.230Z",
+    "updatedAt": "2022-05-13T12:44:27.230Z",
+    "checkedAt": null,
+    "id": 119589,
+    "type": "manga",
+    "title": "Otouto wa Ningyou no Naka ni",
+    "altTitle": [
+      "弟は人形の中に",
+      "Brother in the Doll"
+    ],
+    "url": "https://anilist.co/manga/119589",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119589-nhYYT4M66jGz.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 128051,
+    "deletedAt": null,
+    "authors": [
+      "Tamika Eguchi"
+    ]
+  }
 }

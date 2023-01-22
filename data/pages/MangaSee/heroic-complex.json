@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-21T23:34:00.000Z",
-  "updatedAt": "2022-12-20T01:30:14.000Z",
+  "updatedAt": "2023-01-20T21:20:00.000Z",
   "checkedAt": "2022-12-20T01:30:14.000Z",
   "id": 59472,
   "identifier": "heroic-complex",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153636,
+  "aniId": 128604,
   "deletedAt": null,
   "authors": [
     "SUZUKI Daichi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-17T09:30:14.936Z",
+    "updatedAt": "2023-01-17T09:30:14.936Z",
+    "checkedAt": "2023-01-17T09:30:14.000Z",
+    "id": 153636,
+    "type": "manga",
+    "title": "Heroic Complex",
+    "altTitle": [
+      "ヒロイック・コンプレックス"
+    ],
+    "url": "https://myanimelist.net/manga/153636/Heroic_Complex",
+    "image": "https://cdn.myanimelist.net/images/manga/3/273296.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sai-zen-sen.jp/comics/twi4/herocom/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Suzuki, Daichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:48.924Z",
+    "updatedAt": "2023-01-20T21:16:32.000Z",
+    "checkedAt": "2023-01-20T21:16:32.000Z",
+    "id": 128604,
+    "type": "manga",
+    "title": "Heroic Complex",
+    "altTitle": [
+      "ヒロイック・コンプレックス",
+      " Геройский комплекс"
+    ],
+    "url": "https://anilist.co/manga/128604",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128604-whp6YiWpF7SR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153636,
+    "deletedAt": null,
+    "authors": [
+      "Daichi Suzuki"
+    ]
+  }
 }

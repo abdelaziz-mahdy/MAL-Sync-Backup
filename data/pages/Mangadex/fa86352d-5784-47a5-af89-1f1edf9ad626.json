@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:12.000Z",
-  "updatedAt": "2021-12-05T06:49:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:53:24.000Z",
+  "checkedAt": "2023-01-19T20:50:46.000Z",
   "id": 18802,
   "identifier": "fa86352d-5784-47a5-af89-1f1edf9ad626",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 114676,
+  "aniId": 113034,
   "deletedAt": null,
   "authors": [
     "Nishino Kiina"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T20:50:46.629Z",
+    "updatedAt": "2023-01-19T20:50:46.629Z",
+    "checkedAt": "2023-01-19T20:50:46.000Z",
+    "id": 114676,
+    "type": "manga",
+    "title": "Suki Kirai Kiss",
+    "altTitle": [
+      "スキ キライ キス"
+    ],
+    "url": "https://myanimelist.net/manga/114676/Suki_Kirai_Kiss",
+    "image": "https://cdn.myanimelist.net/images/manga/3/223256.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nishino, Kiina"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:01.650Z",
+    "updatedAt": "2023-01-19T20:50:46.000Z",
+    "checkedAt": "2023-01-19T20:50:46.000Z",
+    "id": 113034,
+    "type": "manga",
+    "title": "Suki Kirai Kiss",
+    "altTitle": [
+      "スキ キライ キス",
+      "喜歡 討厭 親吻"
+    ],
+    "url": "https://anilist.co/manga/113034",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113034-cBhIWE0g2ZZg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 114676,
+    "deletedAt": null,
+    "authors": [
+      "Kiina Nishino"
+    ]
+  }
 }

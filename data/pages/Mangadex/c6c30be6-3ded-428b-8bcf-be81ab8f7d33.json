@@ -1,29 +1,57 @@
 {
   "createdAt": "2020-10-12T16:17:17.000Z",
-  "updatedAt": "2021-12-07T07:53:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T14:41:07.000Z",
+  "checkedAt": "2023-01-20T13:50:13.000Z",
   "id": 30871,
   "identifier": "c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
   "type": "manga",
   "page": "Mangadex",
-  "title": "The Boy of Death",
+  "title": "Hero Ticket",
   "url": "https://mangadex.org/title/c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
   "image": "https://uploads.mangadex.org/covers/c6c30be6-3ded-428b-8bcf-be81ab8f7d33/3eb0d3de-0479-44fb-8120-7d61c1d78536.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 146891,
   "aniId": 118769,
   "deletedAt": null,
   "authors": [
     "Ryu (류)"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-12-12T22:30:01.240Z",
+    "updatedAt": "2022-12-12T22:30:01.240Z",
+    "checkedAt": "2022-12-12T22:30:01.000Z",
+    "id": 146891,
+    "type": "manga",
+    "title": "The Boy of Death",
+    "altTitle": [
+      "Hero Ticket",
+      "Ticket Hero",
+      "Sasin Sonyeon",
+      "사신소년"
+    ],
+    "url": "https://myanimelist.net/manga/146891/The_Boy_of_Death",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264926.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=730656"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T13:05:21.614Z",
-    "updatedAt": "2022-12-17T12:54:03.000Z",
-    "checkedAt": "2022-12-17T12:54:03.000Z",
+    "updatedAt": "2023-01-21T00:06:08.000Z",
+    "checkedAt": "2023-01-21T00:06:08.000Z",
     "id": 118769,
     "type": "manga",
     "title": "Sasinsonyeon",
@@ -40,7 +68,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 146891,
     "deletedAt": null,
     "authors": [
       "Lyu"

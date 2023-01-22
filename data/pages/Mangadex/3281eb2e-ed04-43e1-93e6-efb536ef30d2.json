@@ -1,24 +1,69 @@
 {
   "createdAt": "2021-02-22T02:03:32.000Z",
-  "updatedAt": "2021-12-08T12:07:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T17:52:59.000Z",
+  "checkedAt": "2023-01-21T16:52:36.000Z",
   "id": 63378,
   "identifier": "3281eb2e-ed04-43e1-93e6-efb536ef30d2",
   "type": "manga",
   "page": "Mangadex",
   "title": "ILY.",
   "url": "https://mangadex.org/title/3281eb2e-ed04-43e1-93e6-efb536ef30d2",
-  "image": "https://uploads.mangadex.org/covers/3281eb2e-ed04-43e1-93e6-efb536ef30d2/bfd8dfc7-b0ca-4f9a-b7be-0d4763c04472.jpg",
+  "image": "https://uploads.mangadex.org/covers/3281eb2e-ed04-43e1-93e6-efb536ef30d2/345622bf-1282-4f35-b85d-af9ff8149709.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 138610,
+  "aniId": 130836,
   "deletedAt": null,
   "authors": [
     "Narume"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T16:52:36.445Z",
+    "updatedAt": "2023-01-21T16:52:36.445Z",
+    "checkedAt": "2023-01-21T16:52:36.000Z",
+    "id": 138610,
+    "type": "manga",
+    "title": "Ily.",
+    "altTitle": [
+      "ILY."
+    ],
+    "url": "https://myanimelist.net/manga/138610/Ily",
+    "image": "https://cdn.myanimelist.net/images/manga/1/247948.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-fuz.com/series/2061"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Narume"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:50.111Z",
+    "updatedAt": "2023-01-21T16:52:36.000Z",
+    "checkedAt": "2023-01-21T16:52:36.000Z",
+    "id": 130836,
+    "type": "manga",
+    "title": "ILY.",
+    "altTitle": [
+      "ILY."
+    ],
+    "url": "https://anilist.co/manga/130836",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130836-p87pJ6ji7DbQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 138610,
+    "deletedAt": null,
+    "authors": [
+      "Narume"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-04T07:01:42.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:20:01.000Z",
+  "checkedAt": "2023-01-18T19:57:58.000Z",
   "id": 40625,
   "identifier": "jvnz2",
   "type": "anime",
@@ -13,9 +13,53 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 48875,
+  "aniId": 129263,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-18T19:58:00.395Z",
+    "updatedAt": "2023-01-18T19:58:00.395Z",
+    "checkedAt": "2023-01-18T19:58:00.000Z",
+    "id": 48875,
+    "type": "anime",
+    "title": "Dahuoji Yu Gongzhu Qun",
+    "altTitle": [
+      "Lighter & Skirt",
+      "打火机与公主裙"
+    ],
+    "url": "https://myanimelist.net/anime/48875/Dahuoji_Yu_Gongzhu_Qun",
+    "image": "https://cdn.myanimelist.net/images/anime/1951/114703.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://list.youku.com/show/id_zdecc0e2f935f461f84b1.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2022-03-27T23:37:25.000Z",
+    "updatedAt": "2023-01-18T21:59:22.000Z",
+    "checkedAt": "2023-01-18T21:59:22.000Z",
+    "id": 129263,
+    "type": "anime",
+    "title": "Dahouji Yu Gongzhu Qun",
+    "altTitle": [
+      "Lighter&Princess Dress",
+      "打火机与公主裙",
+      "Lighter & Skirt",
+      "打火机和公主裙"
+    ],
+    "url": "https://anilist.co/anime/129263",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129263-fZ4vTslAvCXs.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 48875,
+    "deletedAt": null
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-16T06:25:33.000Z",
-  "updatedAt": "2022-06-14T04:02:29.000Z",
-  "checkedAt": "2022-06-14T04:02:29.000Z",
+  "updatedAt": "2023-01-17T12:20:00.000Z",
+  "checkedAt": "2023-01-17T02:30:03.000Z",
   "id": 54324,
   "identifier": "versatile_mage",
   "type": "manga",
@@ -12,14 +12,71 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 134230,
+  "aniId": 108984,
   "deletedAt": null,
   "authors": [
     "Chaos",
     "乱"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-18T22:34:24.000Z",
+    "updatedAt": "2022-12-01T03:42:22.000Z",
+    "checkedAt": "2022-12-01T03:42:22.000Z",
+    "id": 134230,
+    "type": "manga",
+    "title": "Quanzhi Fashi",
+    "altTitle": [
+      "Full-Time Magister",
+      "Versatile Mage",
+      "全职法师"
+    ],
+    "url": "https://myanimelist.net/manga/134230/Quanzhi_Fashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253595.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ac.qq.com/Comic/comicInfo/id/629503"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E8%81%B7%E6%B3%95%E5%B8%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Luan",
+      "Yuedong Wenghua"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:12.185Z",
+    "updatedAt": "2022-12-01T21:53:57.000Z",
+    "checkedAt": "2022-12-01T21:53:57.000Z",
+    "id": 108984,
+    "type": "manga",
+    "title": "Quanzhi Fashi",
+    "altTitle": [
+      "Versatile Mage",
+      "全职法师",
+      "Toàn Chức Pháp Sư",
+      "Versatile Magician",
+      "All-Duties Mage"
+    ],
+    "url": "https://anilist.co/manga/108984",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108984-3ta7KmXUbZ2L.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 134230,
+    "deletedAt": null,
+    "authors": [
+      "Luan",
+      "Junzi Shan"
+    ]
+  }
 }

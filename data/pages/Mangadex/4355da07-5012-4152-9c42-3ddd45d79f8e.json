@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:06.000Z",
-  "updatedAt": "2021-12-04T15:21:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T13:32:50.000Z",
+  "checkedAt": "2023-01-19T13:29:11.000Z",
   "id": 14248,
   "identifier": "4355da07-5012-4152-9c42-3ddd45d79f8e",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 11181,
+  "aniId": 41181,
   "deletedAt": null,
   "authors": [
     "Ueda Miwa",
@@ -24,6 +24,60 @@
     "Masumino Aya",
     "Mochitsuki Kaoko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-09-25T06:47:07.000Z",
+    "updatedAt": "2023-01-19T13:32:49.000Z",
+    "checkedAt": "2023-01-19T13:32:49.000Z",
+    "id": 11181,
+    "type": "manga",
+    "title": "Happy",
+    "altTitle": [
+      "Academic Rubber, Confession Box, Koisuru Sekai No Katsumi De, Love Charge, Love Talk, My Dangerous Serious Boyfriend",
+      "Happy",
+      "ハッピーエンドな片想い,"
+    ],
+    "url": "https://myanimelist.net/manga/11181/Happy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/18607.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ueda, Miwa",
+      "Sakurai, Machiko",
+      "Mikimoto, Rin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-19T13:29:11.674Z",
+    "updatedAt": "2023-01-19T13:29:11.674Z",
+    "checkedAt": "2023-01-19T13:29:11.000Z",
+    "id": 41181,
+    "type": "manga",
+    "title": "Happy End na Kataomoi",
+    "altTitle": [
+      "ハッピーエンドな片想い",
+      "Academic Rubber",
+      "Confession Box",
+      "Koisuru Sekai No Katsumi De",
+      "Love Charge",
+      "Happy"
+    ],
+    "url": "https://anilist.co/manga/41181",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41181-uMJ5vOwhPs07.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 11181,
+    "deletedAt": null,
+    "authors": [
+      "Miwa Ueda",
+      "Machiko Sakurai",
+      "Rin Mikimoto",
+      "Koako Mochizuki",
+      "Aya Masumino",
+      "Nao Hinachi"
+    ]
+  }
 }

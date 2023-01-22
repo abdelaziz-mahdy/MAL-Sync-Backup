@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:52.000Z",
-  "updatedAt": "2021-12-08T03:37:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:37:11.000Z",
+  "checkedAt": "2023-01-21T01:30:56.000Z",
   "id": 40220,
   "identifier": "dd64d1c5-108a-416e-ac94-bce2aa812442",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 101989,
+  "aniId": 114784,
   "deletedAt": null,
   "authors": [
-    "Nichinichi Neruko"
+    "Hibi Neruko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:44.000Z",
+    "updatedAt": "2023-01-13T17:29:53.000Z",
+    "checkedAt": "2023-01-13T17:29:53.000Z",
+    "id": 101989,
+    "type": "manga",
+    "title": "Shachiku to Yuurei",
+    "altTitle": [
+      "Corporate Slave and Ghost",
+      "社畜と幽霊"
+    ],
+    "url": "https://myanimelist.net/manga/101989/Shachiku_to_Yuurei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/189159.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hibi, Neruko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:14.013Z",
+    "updatedAt": "2023-01-13T17:29:52.000Z",
+    "checkedAt": "2023-01-13T17:29:52.000Z",
+    "id": 114784,
+    "type": "manga",
+    "title": "Shachiku to Yuurei",
+    "altTitle": [
+      "社畜と幽霊",
+      "社畜与幽灵",
+      "Corporate Slave and Ghost"
+    ],
+    "url": "https://anilist.co/manga/114784",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114784-8SrwjUlr69fp.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 101989,
+    "deletedAt": null,
+    "authors": [
+      "Neruko"
+    ]
+  }
 }

@@ -1,24 +1,65 @@
 {
   "createdAt": "2020-10-12T16:10:56.000Z",
-  "updatedAt": "2021-12-05T04:47:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:50:27.000Z",
+  "checkedAt": "2023-01-19T20:05:31.000Z",
   "id": 18202,
   "identifier": "17639b24-bfa6-4b82-beda-665806f0abee",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Natsu no Rakugaki",
+  "title": "Summer Doodle",
   "url": "https://mangadex.org/title/17639b24-bfa6-4b82-beda-665806f0abee",
   "image": "https://uploads.mangadex.org/covers/17639b24-bfa6-4b82-beda-665806f0abee/024bcc5d-c334-4e8c-842e-a845c3258289.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 119478,
+  "aniId": 99723,
   "deletedAt": null,
   "authors": [
     "Adachi Mitsuru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-05-10T13:18:52.000Z",
+    "updatedAt": "2023-01-19T20:05:31.000Z",
+    "checkedAt": "2023-01-19T20:05:31.000Z",
+    "id": 119478,
+    "type": "manga",
+    "title": "Natsu no Rakugaki",
+    "altTitle": [
+      "夏の らくがき"
+    ],
+    "url": "https://myanimelist.net/manga/119478/Natsu_no_Rakugaki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217623.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Adachi, Mitsuru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:06.140Z",
+    "updatedAt": "2023-01-19T20:05:31.000Z",
+    "checkedAt": "2023-01-19T20:05:31.000Z",
+    "id": 99723,
+    "type": "manga",
+    "title": "Natsu no Rakugaki",
+    "altTitle": [
+      "夏のらくがき",
+      "Summer Doodle"
+    ],
+    "url": "https://anilist.co/manga/99723",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99723-5HAT8TpDxKur.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 119478,
+    "deletedAt": null,
+    "authors": [
+      "Mitsuru Adachi"
+    ]
+  }
 }

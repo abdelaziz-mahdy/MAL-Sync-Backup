@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-10-12T16:21:49.000Z",
-  "updatedAt": "2022-01-31T01:21:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T01:21:18.000Z",
   "id": 40121,
   "identifier": "346d7cfa-e5e2-40e3-a00d-e1d08b10b438",
   "type": "manga",
   "page": "Mangadex",
   "title": "Kabukichou Bad Trip",
   "url": "https://mangadex.org/title/346d7cfa-e5e2-40e3-a00d-e1d08b10b438",
-  "image": "https://uploads.mangadex.org/covers/346d7cfa-e5e2-40e3-a00d-e1d08b10b438/2d740301-14db-4b48-bd3c-87e55d5726ea.jpg",
+  "image": "https://uploads.mangadex.org/covers/346d7cfa-e5e2-40e3-a00d-e1d08b10b438/0d815915-6065-4a21-8e10-c77d0684ff16.jpg",
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 133232,
+  "aniId": 123201,
   "deletedAt": null,
   "authors": [
     "Nagisa Eiji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T01:21:18.443Z",
+    "updatedAt": "2023-01-21T01:21:18.443Z",
+    "checkedAt": "2023-01-21T01:21:18.000Z",
+    "id": 133232,
+    "type": "manga",
+    "title": "Kabukichou Bad Trip",
+    "altTitle": [
+      "歌舞伎町バッドトリップ"
+    ],
+    "url": "https://myanimelist.net/manga/133232/Kabukichou_Bad_Trip",
+    "image": "https://cdn.myanimelist.net/images/manga/2/244719.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagisa, Eiji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:44.245Z",
+    "updatedAt": "2022-05-13T12:47:44.245Z",
+    "checkedAt": null,
+    "id": 123201,
+    "type": "manga",
+    "title": "Kabukichou Bad Trip",
+    "altTitle": [
+      "歌舞伎町バッドトリップ"
+    ],
+    "url": "https://anilist.co/manga/123201",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123201-FWwEIWemL6h9.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 133232,
+    "deletedAt": null,
+    "authors": [
+      "Eji Nagisa"
+    ]
+  }
 }

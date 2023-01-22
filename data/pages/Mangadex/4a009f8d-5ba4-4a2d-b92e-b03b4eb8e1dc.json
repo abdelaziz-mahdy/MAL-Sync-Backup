@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:01.000Z",
-  "updatedAt": "2021-12-04T14:55:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T13:32:54.000Z",
+  "checkedAt": "2023-01-19T13:16:26.000Z",
   "id": 14102,
   "identifier": "4a009f8d-5ba4-4a2d-b92e-b03b4eb8e1dc",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 130867,
+  "aniId": 141003,
   "deletedAt": null,
   "authors": [
     "Yoshikawa Keitou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T13:32:52.159Z",
+    "updatedAt": "2023-01-19T13:32:52.159Z",
+    "checkedAt": "2023-01-19T13:32:52.000Z",
+    "id": 130867,
+    "type": "manga",
+    "title": "Neko to Futari no Kamakura Techou",
+    "altTitle": [
+      "猫とふたりの鎌倉手帖"
+    ],
+    "url": "https://myanimelist.net/manga/130867/Neko_to_Futari_no_Kamakura_Techou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/237477.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comicbunch.com/manga/end/kamakuratechou/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshikawa, Keito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:54.004Z",
+    "updatedAt": "2023-01-19T13:16:26.000Z",
+    "checkedAt": "2023-01-19T13:16:26.000Z",
+    "id": 141003,
+    "type": "manga",
+    "title": "Neko to Futari no Kamakura Techou",
+    "altTitle": [
+      "猫とふたりの鎌倉手帖",
+      "Diario de nuestra vida entre gatos en Kamakura"
+    ],
+    "url": "https://anilist.co/manga/141003",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141003-P6McnJ04nO7b.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130867,
+    "deletedAt": null,
+    "authors": [
+      "Keito Yoshikawa"
+    ]
+  }
 }

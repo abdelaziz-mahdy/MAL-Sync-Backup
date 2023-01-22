@@ -1,24 +1,71 @@
 {
   "createdAt": "2020-10-12T16:10:27.000Z",
-  "updatedAt": "2021-12-05T01:20:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T21:20:00.000Z",
+  "checkedAt": "2023-01-19T18:36:47.000Z",
   "id": 17155,
   "identifier": "31294cc9-8712-4537-ba07-0d6ca8a97907",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Yamagarasu",
+  "title": "Yamagarasu - Mountain Crow",
   "url": "https://mangadex.org/title/31294cc9-8712-4537-ba07-0d6ca8a97907",
   "image": "https://uploads.mangadex.org/covers/31294cc9-8712-4537-ba07-0d6ca8a97907/57f22d6e-196f-43ed-a943-86d80e63d8b3.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 104125,
+  "aniId": 108392,
   "deletedAt": null,
   "authors": [
     "Mitsuhashi Otoya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-05T01:20:38.000Z",
+    "updatedAt": "2022-07-16T23:10:35.000Z",
+    "checkedAt": "2022-07-16T23:10:35.000Z",
+    "id": 104125,
+    "type": "manga",
+    "title": "Tsuki no Omoide",
+    "altTitle": [
+      "Mountain Crow",
+      "Yamagarasu",
+      "Mitsuhashi Otoya Manga Sakuhinshuu",
+      "Memories of the Moon",
+      "三橋乙揶漫画作品集 月の思い出"
+    ],
+    "url": "https://myanimelist.net/manga/104125/Tsuki_no_Omoide",
+    "image": "https://cdn.myanimelist.net/images/manga/1/191000.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mitsuhashi, Otoya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:57.032Z",
+    "updatedAt": "2022-07-16T23:10:34.000Z",
+    "checkedAt": "2022-07-16T23:10:34.000Z",
+    "id": 108392,
+    "type": "manga",
+    "title": "Tsuki no Omoide",
+    "altTitle": [
+      "月の思い出",
+      "Memories of the Moon",
+      "Yamagarasu",
+      "Mountain Crow"
+    ],
+    "url": "https://anilist.co/manga/108392",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108392-rF81MLtas7I5.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 104125,
+    "deletedAt": null,
+    "authors": [
+      "Otoya Mitsuhashi"
+    ]
+  }
 }

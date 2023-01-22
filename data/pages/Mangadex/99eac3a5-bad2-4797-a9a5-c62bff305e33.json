@@ -1,6 +1,6 @@
 {
   "createdAt": "2023-01-04T05:00:14.100Z",
-  "updatedAt": "2023-01-04T05:00:15.000Z",
+  "updatedAt": "2023-01-15T21:57:37.000Z",
   "checkedAt": "2023-01-04T05:00:14.000Z",
   "id": 121083,
   "identifier": "99eac3a5-bad2-4797-a9a5-c62bff305e33",
@@ -12,13 +12,58 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 101258,
+  "aniId": 160274,
   "deletedAt": null,
   "authors": [
     "Tamakoshi Hiroyuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-04T05:00:15.419Z",
+    "updatedAt": "2023-01-04T05:00:15.419Z",
+    "checkedAt": "2023-01-04T05:00:15.000Z",
+    "id": 101258,
+    "type": "manga",
+    "title": "Girls Be...",
+    "altTitle": [
+      "GIRLS BE…"
+    ],
+    "url": "https://myanimelist.net/manga/101258/Girls_Be",
+    "image": "https://cdn.myanimelist.net/images/manga/2/192097.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/GIRLS_BE%E2%80%A6"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tamakoshi, Hiroyuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-15T17:00:14.399Z",
+    "updatedAt": "2023-01-15T17:00:14.399Z",
+    "checkedAt": "2023-01-15T17:00:14.000Z",
+    "id": 160274,
+    "type": "manga",
+    "title": "GIRLS BE…",
+    "altTitle": [
+      "GIRLS BE…"
+    ],
+    "url": "https://anilist.co/manga/160274",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160274-FFuqcvojhFUU.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 101258,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Tamakoshi"
+    ]
+  }
 }

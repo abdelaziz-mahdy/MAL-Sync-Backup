@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-11-29T16:30:11.856Z",
-  "updatedAt": "2022-11-29T16:30:11.000Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
   "checkedAt": "2022-11-29T16:30:11.000Z",
   "id": 43783,
   "identifier": "m2jyz",
@@ -12,10 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 10564,
+  "aniId": 10564,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-24T00:28:55.000Z",
+    "updatedAt": "2022-12-18T06:14:43.000Z",
+    "checkedAt": "2022-12-18T06:14:43.000Z",
+    "id": 10564,
+    "type": "anime",
+    "title": "Korogashi Ryouta",
+    "altTitle": [
+      "ころがし涼太"
+    ],
+    "url": "https://myanimelist.net/anime/10564/Korogashi_Ryouta",
+    "image": "https://cdn.myanimelist.net/images/anime/6/29017.jpg",
+    "category": "OVA",
+    "hentai": true,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7691"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7430"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7691
+  },
+  "Ani": {
+    "createdAt": "2021-06-13T18:08:19.000Z",
+    "updatedAt": "2022-12-18T06:14:42.000Z",
+    "checkedAt": "2022-12-18T06:14:42.000Z",
+    "id": 10564,
+    "type": "anime",
+    "title": "Korogashi Ryouta",
+    "altTitle": [
+      "ころがし涼太"
+    ],
+    "url": "https://anilist.co/anime/10564",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10564.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10564,
+    "deletedAt": null
+  }
 }

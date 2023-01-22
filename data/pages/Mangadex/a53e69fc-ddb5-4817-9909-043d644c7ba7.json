@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:37.000Z",
-  "updatedAt": "2021-12-06T06:48:52.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:23:29.000Z",
+  "checkedAt": "2023-01-20T05:41:02.000Z",
   "id": 25307,
   "identifier": "a53e69fc-ddb5-4817-9909-043d644c7ba7",
   "type": "manga",
@@ -12,13 +12,83 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 130407,
+  "aniId": 128682,
   "deletedAt": null,
   "authors": [
-    "Various"
+    "yumi (ホッパーオーバーフロー)",
+    "Kousaka Donten",
+    "Yamane Masato",
+    "Kazahana Chiruwo",
+    "Toya Tsugumi",
+    "Mizuki Maya",
+    "Riku Riku",
+    "Shiroi Hakuto",
+    "Bcoca",
+    "Hinata Nonoka",
+    "Yurikawa"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T05:41:02.398Z",
+    "updatedAt": "2023-01-20T05:41:02.398Z",
+    "checkedAt": "2023-01-20T05:41:02.000Z",
+    "id": 130407,
+    "type": "manga",
+    "title": "Love Live! Comic Anthology μ's Precious Days",
+    "altTitle": [
+      "ラブライブ！ コミックアンソロジー μ'sプレシャスデイズ"
+    ],
+    "url": "https://myanimelist.net/manga/130407/Love_Live_Comic_Anthology_μs_Precious_Days",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235599.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mizuki, Maya",
+      "Yurikawa",
+      "Sasaki, Mutsumi",
+      "Kazahana, Chiruwo",
+      "Yamane, Masato",
+      "Takino, Daisuke",
+      "Hinata, Nonoka",
+      "Kousaka, Donten",
+      "Shiroi, Hakuto",
+      "Touya, Tsugumi",
+      "Bcoca"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:55.940Z",
+    "updatedAt": "2023-01-20T05:41:02.000Z",
+    "checkedAt": "2023-01-20T05:41:02.000Z",
+    "id": 128682,
+    "type": "manga",
+    "title": "Love Live! Comic Anthology μ's Precious Days",
+    "altTitle": [
+      "ラブライブ！ コミックアンソロジー μ'sプレシャスデイズ"
+    ],
+    "url": "https://anilist.co/manga/128682",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128682-tVomX2XLzRvQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130407,
+    "deletedAt": null,
+    "authors": [
+      "Yurikawa",
+      "Maya Mizuki",
+      "Bcoca",
+      "Chiruwo Kazahana",
+      "Masato Yamane",
+      "Hakuto Shiroi",
+      "Tsugumi Toya",
+      "Nonoka Hinata",
+      "Daisuke Takino",
+      "Donten Kosaka",
+      "Mutsumi Sasaki"
+    ]
+  }
 }

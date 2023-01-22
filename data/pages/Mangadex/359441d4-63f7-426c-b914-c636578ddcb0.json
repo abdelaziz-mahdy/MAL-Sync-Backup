@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:16:25.000Z",
-  "updatedAt": "2021-12-06T22:47:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T12:20:00.000Z",
+  "checkedAt": "2023-01-20T11:10:19.000Z",
   "id": 29043,
   "identifier": "359441d4-63f7-426c-b914-c636578ddcb0",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 140407,
+  "aniId": 131818,
   "deletedAt": null,
   "authors": [
     "Ryousuke Momota"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:10:19.317Z",
+    "updatedAt": "2023-01-20T11:10:19.317Z",
+    "checkedAt": "2023-01-20T11:10:19.000Z",
+    "id": 140407,
+    "type": "manga",
+    "title": "Kakuremi",
+    "altTitle": [
+      "カクレミ"
+    ],
+    "url": "https://myanimelist.net/manga/140407/Kakuremi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250330.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Momota, Ryousuke"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:40.557Z",
+    "updatedAt": "2022-05-13T13:04:40.557Z",
+    "checkedAt": null,
+    "id": 131818,
+    "type": "manga",
+    "title": "Kakuremi",
+    "altTitle": [
+      "カクレミ"
+    ],
+    "url": "https://anilist.co/manga/131818",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131818-En7hQp8Rg4C7.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140407,
+    "deletedAt": null,
+    "authors": [
+      "Ryousuke Momota"
+    ]
+  }
 }

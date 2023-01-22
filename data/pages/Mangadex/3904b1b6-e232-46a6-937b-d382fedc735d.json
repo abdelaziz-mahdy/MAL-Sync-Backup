@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:29.000Z",
-  "updatedAt": "2021-12-07T22:12:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T20:06:07.000Z",
+  "checkedAt": "2023-01-20T19:40:18.000Z",
   "id": 35259,
   "identifier": "3904b1b6-e232-46a6-937b-d382fedc735d",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122135,
+  "aniId": 122888,
   "deletedAt": null,
   "authors": [
     "Kuroiwa Menou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T19:40:18.321Z",
+    "updatedAt": "2023-01-20T19:40:18.321Z",
+    "checkedAt": "2023-01-20T19:40:18.000Z",
+    "id": 122135,
+    "type": "manga",
+    "title": "Tabegoro! Haitoku no Kajitsu",
+    "altTitle": [
+      "Himegami-sama",
+      "Tabegoro Haitoku no Kajitsu",
+      "Iron Mom-chan",
+      "Natsu no Kyoushuu",
+      "Ai to Makoto",
+      "Bungeibu no Ookami",
+      "Sensei wa Kunoichi?",
+      "Iron Mother",
+      "The Wolf of Literature Club",
+      "Good for Eating! Immoral Fruit",
+      "たべごろ！背徳の果実"
+    ],
+    "url": "https://myanimelist.net/manga/122135/Tabegoro_Haitoku_no_Kajitsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/247277.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuroiwa, Menou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:24.260Z",
+    "updatedAt": "2023-01-20T19:40:18.000Z",
+    "checkedAt": "2023-01-20T19:40:18.000Z",
+    "id": 122888,
+    "type": "manga",
+    "title": "Tabe Goro! Haitoku No Kajitsu",
+    "altTitle": [
+      "たべごろ！背徳の果実",
+      "Good For Eating! Immoral Fruit"
+    ],
+    "url": "https://anilist.co/manga/122888",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122888-v1CTDAquzVoz.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 122135,
+    "deletedAt": null,
+    "authors": [
+      "Menou Kuroiwa"
+    ]
+  }
 }

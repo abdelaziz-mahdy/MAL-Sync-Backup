@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:05:29.000Z",
-  "updatedAt": "2021-12-03T13:17:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T16:35:25.000Z",
+  "checkedAt": "2023-01-18T13:31:41.000Z",
   "id": 6518,
   "identifier": "d9541de2-572c-428d-bd8e-dbffd2e26984",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 35581,
   "deletedAt": null,
   "authors": [
     "Kuroda Iou"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2023-01-18T13:31:41.042Z",
+    "updatedAt": "2023-01-18T13:31:41.042Z",
+    "checkedAt": "2023-01-18T13:31:41.000Z",
+    "id": 35581,
+    "type": "manga",
+    "title": "Metropolis",
+    "altTitle": [
+      "Metropolis",
+      "メトロポリス"
+    ],
+    "url": "https://anilist.co/manga/35581",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b35581-k1w9RP0pKfzE.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Osamu Tezuka",
+      "Iou Kuroda"
+    ]
+  }
 }

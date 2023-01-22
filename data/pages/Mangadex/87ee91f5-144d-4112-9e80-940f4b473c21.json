@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:15:19.000Z",
-  "updatedAt": "2021-12-06T13:49:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:35.000Z",
+  "checkedAt": "2023-01-20T07:50:25.000Z",
   "id": 26757,
   "identifier": "87ee91f5-144d-4112-9e80-940f4b473c21",
   "type": "manga",
@@ -12,18 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 147150,
   "aniId": 118601,
   "deletedAt": null,
   "authors": [
     "Lucks"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-11-20T04:00:01.208Z",
+    "updatedAt": "2022-11-20T04:00:01.208Z",
+    "checkedAt": "2022-11-20T04:00:01.000Z",
+    "id": 147150,
+    "type": "manga",
+    "title": "It's Mine",
+    "altTitle": [
+      "It's Mine",
+      "이츠마인"
+    ],
+    "url": "https://myanimelist.net/manga/147150/Its_Mine",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260851.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=710760"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lucks"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:48:58.357Z",
-    "updatedAt": "2022-05-13T18:03:12.000Z",
-    "checkedAt": "2022-05-13T18:03:12.000Z",
+    "updatedAt": "2023-01-20T07:50:25.000Z",
+    "checkedAt": "2023-01-20T07:50:25.000Z",
     "id": 118601,
     "type": "manga",
     "title": "It's Mine",
@@ -36,7 +62,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 147150,
     "deletedAt": null,
     "authors": [
       "LuckS"

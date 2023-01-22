@@ -1,24 +1,73 @@
 {
   "createdAt": "2021-03-06T01:50:41.000Z",
-  "updatedAt": "2021-12-08T12:38:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T21:20:00.000Z",
+  "checkedAt": "2023-01-21T18:30:13.000Z",
   "id": 64742,
   "identifier": "6991bcf8-e1e3-4b54-8a4b-eea7e2e9cc63",
   "type": "manga",
   "page": "Mangadex",
-  "title": "I Want to Be the Wall",
+  "title": "I Want to Be a Wall",
   "url": "https://mangadex.org/title/6991bcf8-e1e3-4b54-8a4b-eea7e2e9cc63",
-  "image": "https://uploads.mangadex.org/covers/6991bcf8-e1e3-4b54-8a4b-eea7e2e9cc63/af205cdf-a7a9-4010-b6af-95657bab8f2e.jpg",
+  "image": "https://uploads.mangadex.org/covers/6991bcf8-e1e3-4b54-8a4b-eea7e2e9cc63/f1016eba-e989-40a1-9b90-1f1054d8478d.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131017,
+  "aniId": 130711,
   "deletedAt": null,
   "authors": [
     "Shirono Honami"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-27T16:30:26.000Z",
+    "updatedAt": "2022-12-04T08:37:26.000Z",
+    "checkedAt": "2022-12-04T08:37:26.000Z",
+    "id": 131017,
+    "type": "manga",
+    "title": "Watashi wa Kabe ni Naritai",
+    "altTitle": [
+      "I Want to Be the Wall",
+      "I Want to Be a Wall",
+      "わたしは壁になりたい"
+    ],
+    "url": "https://myanimelist.net/manga/131017/Watashi_wa_Kabe_ni_Naritai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/243264.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/5627"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shirono, Honami"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:15.367Z",
+    "updatedAt": "2022-12-04T08:37:25.000Z",
+    "checkedAt": "2022-12-04T08:37:25.000Z",
+    "id": 130711,
+    "type": "manga",
+    "title": "Watashi wa Kabe ni Naritai",
+    "altTitle": [
+      "I Want to Be a Wall",
+      "わたしは壁になりたい",
+      "I Want to Be the Wall"
+    ],
+    "url": "https://anilist.co/manga/130711",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130711-PgaKv6oTnv5k.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 131017,
+    "deletedAt": null,
+    "authors": [
+      "Honami Shirono"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:06.000Z",
-  "updatedAt": "2021-12-06T02:47:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:34:44.000Z",
+  "checkedAt": "2023-01-20T04:11:00.000Z",
   "id": 24247,
   "identifier": "324cef7e-2aca-499e-b8ed-5a7273f7206c",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 145222,
+  "aniId": 108008,
   "deletedAt": null,
   "authors": [
     "Midou Matsuri"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:34:42.115Z",
+    "updatedAt": "2023-01-20T11:34:42.115Z",
+    "checkedAt": "2023-01-20T11:34:42.000Z",
+    "id": 145222,
+    "type": "manga",
+    "title": "Black Terror",
+    "altTitle": [
+      "ブラック・テラー"
+    ],
+    "url": "https://myanimelist.net/manga/145222/Black_Terror",
+    "image": "https://cdn.myanimelist.net/images/manga/1/257481.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-zenon.com/episode/13933686331722388954"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Midou, Matsuri"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:34.064Z",
+    "updatedAt": "2023-01-20T04:11:00.000Z",
+    "checkedAt": "2023-01-20T04:11:00.000Z",
+    "id": 108008,
+    "type": "manga",
+    "title": "Black Terror",
+    "altTitle": [
+      "ブラック・テラー"
+    ],
+    "url": "https://anilist.co/manga/108008",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108008-wxGjKWUPs087.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145222,
+    "deletedAt": null,
+    "authors": [
+      "Matsuri Midou"
+    ]
+  }
 }

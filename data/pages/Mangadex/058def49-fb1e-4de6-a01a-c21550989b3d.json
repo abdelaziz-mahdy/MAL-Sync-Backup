@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:14:17.000Z",
-  "updatedAt": "2021-12-06T04:17:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:31:14.000Z",
+  "checkedAt": "2023-01-20T04:40:48.000Z",
   "id": 24598,
   "identifier": "058def49-fb1e-4de6-a01a-c21550989b3d",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 100575,
+  "aniId": 97566,
   "deletedAt": null,
   "authors": [
     "Spiritus Tarou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T04:40:48.305Z",
+    "updatedAt": "2023-01-20T04:40:48.305Z",
+    "checkedAt": "2023-01-20T04:40:48.000Z",
+    "id": 100575,
+    "type": "manga",
+    "title": "Karamawari",
+    "altTitle": [
+      "Spinning Her Wheels",
+      "からまわり"
+    ],
+    "url": "https://myanimelist.net/manga/100575/Karamawari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/182141.jpg",
+    "category": "One-shot",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Spiritus, Tarou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T04:40:48.488Z",
+    "updatedAt": "2023-01-20T04:40:48.488Z",
+    "checkedAt": "2023-01-20T04:40:48.000Z",
+    "id": 97566,
+    "type": "manga",
+    "title": "Karamawari",
+    "altTitle": [
+      "からまわり",
+      "Spinning Her Wheels"
+    ],
+    "url": "https://anilist.co/manga/97566",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97566-tJX6hqO6u1VW.jpg",
+    "category": "one_shot",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 100575,
+    "deletedAt": null,
+    "authors": [
+      "Tarou Spiritus"
+    ]
+  }
 }

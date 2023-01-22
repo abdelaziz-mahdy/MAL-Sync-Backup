@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-12-03T07:52:51.000Z",
-  "updatedAt": "2021-12-08T08:35:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:25:59.000Z",
+  "checkedAt": "2023-01-21T05:01:20.000Z",
   "id": 53452,
   "identifier": "81d4f2ff-4a8c-4794-b404-cc66a33e456a",
   "type": "manga",
   "page": "Mangadex",
   "title": "Renai Yakkyoku Kitan",
   "url": "https://mangadex.org/title/81d4f2ff-4a8c-4794-b404-cc66a33e456a",
-  "image": "https://uploads.mangadex.org/covers/81d4f2ff-4a8c-4794-b404-cc66a33e456a/346ceec3-bbaf-4d05-bf80-951079cb8f76.jpg",
-  "hentai": false,
+  "image": "https://uploads.mangadex.org/covers/81d4f2ff-4a8c-4794-b404-cc66a33e456a/7ef57788-db91-4e30-90ed-73a03050bff3.jpg",
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 15576,
+  "aniId": 45576,
   "deletedAt": null,
   "authors": [
     "Chirol"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:42:12.000Z",
+    "updatedAt": "2022-07-24T12:30:12.000Z",
+    "checkedAt": "2022-07-24T12:30:12.000Z",
+    "id": 15576,
+    "type": "manga",
+    "title": "Renai Yakkyoku Kitan",
+    "altTitle": [
+      "Renai Yakkoyoku Kitan",
+      "Strange Tales from Love Pharmacy",
+      "恋愛薬局綺譚"
+    ],
+    "url": "https://myanimelist.net/manga/15576/Renai_Yakkyoku_Kitan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/22700.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": []
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:22.608Z",
+    "updatedAt": "2023-01-21T05:01:20.000Z",
+    "checkedAt": "2023-01-21T05:01:20.000Z",
+    "id": 45576,
+    "type": "manga",
+    "title": "Renai Yakkyoku Kitan",
+    "altTitle": [
+      "Strange Tales from Love Pharmacy",
+      "恋愛薬局綺譚",
+      "Renai Yakkoyoku Kitan"
+    ],
+    "url": "https://anilist.co/manga/45576",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15576.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 15576,
+    "deletedAt": null,
+    "authors": []
+  }
 }

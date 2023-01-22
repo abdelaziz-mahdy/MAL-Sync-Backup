@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:08:17.000Z",
-  "updatedAt": "2021-12-04T13:19:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T10:17:41.000Z",
+  "checkedAt": "2023-01-19T09:17:43.000Z",
   "id": 12463,
   "identifier": "8ef43d3f-c6b6-4746-bc67-e6a493d61136",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 153544,
   "aniId": 100001,
   "deletedAt": null,
   "authors": [
     "Ryu Chaelynn"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2023-01-19T09:17:43.236Z",
+    "updatedAt": "2023-01-19T09:17:43.236Z",
+    "checkedAt": "2023-01-19T09:17:43.000Z",
+    "id": 153544,
+    "type": "manga",
+    "title": "We Broke Up",
+    "altTitle": [
+      "We Just Broke Up",
+      "Uri Heeojeosseoyo",
+      "우리 헤어졌어요"
+    ],
+    "url": "https://myanimelist.net/manga/153544/We_Broke_Up",
+    "image": "https://cdn.myanimelist.net/images/manga/2/272488.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=635989"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ryu, Chaerin"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:58:06.895Z",
-    "updatedAt": "2022-08-01T02:55:41.000Z",
-    "checkedAt": "2022-08-01T02:55:41.000Z",
+    "updatedAt": "2023-01-19T10:28:44.000Z",
+    "checkedAt": "2023-01-19T10:28:44.000Z",
     "id": 100001,
     "type": "manga",
     "title": "Uri Heeojyeosseoyo",
@@ -36,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 153544,
     "deletedAt": null,
     "authors": [
       "Chae-Lynn Ryu"

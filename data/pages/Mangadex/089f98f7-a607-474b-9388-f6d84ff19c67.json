@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:06:37.000Z",
-  "updatedAt": "2021-12-03T21:17:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:32:55.000Z",
+  "checkedAt": "2023-01-18T20:29:22.000Z",
   "id": 8869,
   "identifier": "089f98f7-a607-474b-9388-f6d84ff19c67",
   "type": "manga",
@@ -12,14 +12,83 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 56725,
+  "aniId": 88271,
   "deletedAt": null,
   "authors": [
     "Ishinomori Shotaro",
     "Shimamoto Kazuhiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-12-09T07:10:11.000Z",
+    "updatedAt": "2022-12-22T22:54:19.000Z",
+    "checkedAt": "2022-12-22T22:54:19.000Z",
+    "id": 56725,
+    "type": "manga",
+    "title": "3.11 wo Wasurenai Tame ni Heroes Comeback",
+    "altTitle": [
+      "Heroes Come Back",
+      "Cyborg 009",
+      "Inuyasha Special",
+      "Ore shika Inai: Kuroi Nami wo Norikoete",
+      "3.11を忘れないために ヒーローズ・カムバック"
+    ],
+    "url": "https://myanimelist.net/manga/56725/311_wo_Wasurenai_Tame_ni_Heroes_Comeback",
+    "image": "https://cdn.myanimelist.net/images/manga/1/98669.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%A0%E3%83%90%E3%83%83%E3%82%AF"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Arakawa, Hiromu",
+      "Takahashi, Rumiko",
+      "Yuuki, Masami",
+      "Kawaguchi, Kaiji",
+      "Shimamoto, Kazuhiko",
+      "Fujita, Kazuhiro",
+      "Shiina, Takashi",
+      "Hosono, Fujihiko",
+      "Yoshida, Sensha"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:02:16.670Z",
+    "updatedAt": "2022-12-22T22:54:17.000Z",
+    "checkedAt": "2022-12-22T22:54:17.000Z",
+    "id": 88271,
+    "type": "manga",
+    "title": "3.11 wo Wasurenai Tame ni Heroes Comeback",
+    "altTitle": [
+      "3.11を忘れないために ヒーローズ・カムバック",
+      "Heroes Come Back",
+      "Cyborg 009",
+      "Inuyasha Special",
+      "Ore shika Inai: Kuroi Nami wo Norikoete"
+    ],
+    "url": "https://anilist.co/manga/88271",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88271-lmFFn9XiHLpj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 56725,
+    "deletedAt": null,
+    "authors": [
+      "Kaiji Kawaguchi",
+      "Kazuhiro Fujita",
+      "Hiromu Arakawa",
+      "Fujihiko Hosono",
+      "Masami Yuuki",
+      "Sensha Yoshida",
+      "Takashi Shiina",
+      "Rumiko Takahashi",
+      "Kazuhiko Shimamoto"
+    ]
+  }
 }

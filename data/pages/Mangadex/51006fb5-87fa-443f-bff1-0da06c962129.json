@@ -1,22 +1,67 @@
 {
   "createdAt": "2020-12-11T12:48:03.000Z",
-  "updatedAt": "2021-12-08T08:38:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T05:30:11.000Z",
   "id": 53891,
   "identifier": "51006fb5-87fa-443f-bff1-0da06c962129",
   "type": "manga",
   "page": "Mangadex",
   "title": "Koi wo Sasete wa Kurenakute",
   "url": "https://mangadex.org/title/51006fb5-87fa-443f-bff1-0da06c962129",
-  "image": "https://uploads.mangadex.org/covers/51006fb5-87fa-443f-bff1-0da06c962129/ad4898bf-5005-44a5-b63e-c54e6ebbeaeb.png",
+  "image": "https://uploads.mangadex.org/covers/51006fb5-87fa-443f-bff1-0da06c962129/5a157515-6405-43b0-832b-25aed9653e1a.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 109740,
+  "aniId": 99428,
   "deletedAt": null,
-  "authors": [],
-  "Mal": null,
-  "Ani": null
+  "authors": [
+    "Miyoshi Ayato"
+  ],
+  "Mal": {
+    "createdAt": "2023-01-21T05:30:11.706Z",
+    "updatedAt": "2023-01-21T05:30:11.706Z",
+    "checkedAt": "2023-01-21T05:30:11.000Z",
+    "id": 109740,
+    "type": "manga",
+    "title": "Koi wo Sasete wa Kurenakute",
+    "altTitle": [
+      "Let Me Fall in Love with You",
+      "恋をさせてはくれなくて"
+    ],
+    "url": "https://myanimelist.net/manga/109740/Koi_wo_Sasete_wa_Kurenakute",
+    "image": "https://cdn.myanimelist.net/images/manga/3/247968.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyoshi, Ayato"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:34.204Z",
+    "updatedAt": "2022-05-13T12:52:34.204Z",
+    "checkedAt": null,
+    "id": 99428,
+    "type": "manga",
+    "title": "Koi wo Sasete wa Kurenakute",
+    "altTitle": [
+      "恋をさせてはくれなくて",
+      "Let me fall in love with you",
+      "Koi wo Saseteta Kurenakute"
+    ],
+    "url": "https://anilist.co/manga/99428",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99428-wZ8pY37lzMkB.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 109740,
+    "deletedAt": null,
+    "authors": [
+      "Ayato Miyoshi"
+    ]
+  }
 }

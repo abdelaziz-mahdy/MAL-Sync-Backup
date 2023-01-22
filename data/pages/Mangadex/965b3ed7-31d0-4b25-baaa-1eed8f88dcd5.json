@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:10:34.000Z",
-  "updatedAt": "2021-12-05T02:18:18.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T21:20:00.000Z",
+  "checkedAt": "2023-01-19T18:56:45.000Z",
   "id": 17431,
   "identifier": "965b3ed7-31d0-4b25-baaa-1eed8f88dcd5",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 120971,
+  "aniId": 99237,
   "deletedAt": null,
   "authors": [
     "Han Gyul"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-16T19:30:11.097Z",
+    "updatedAt": "2022-08-16T19:30:11.097Z",
+    "checkedAt": "2022-08-16T19:30:11.000Z",
+    "id": 120971,
+    "type": "manga",
+    "title": "Romantic Marbling",
+    "altTitle": [
+      "Romantic Marbling",
+      "로맨틱 마블링"
+    ],
+    "url": "https://myanimelist.net/manga/120971/Romantic_Marbling",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259541.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hangyul"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:27.780Z",
+    "updatedAt": "2022-08-17T17:29:21.000Z",
+    "checkedAt": "2022-08-17T17:29:21.000Z",
+    "id": 99237,
+    "type": "manga",
+    "title": "Romantic Marbling",
+    "altTitle": [
+      "Romantic Marbling",
+      "로맨틱 마블링",
+      "ロマンティックマーブリング"
+    ],
+    "url": "https://anilist.co/manga/99237",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99237-idpItPhMJYWR.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 120971,
+    "deletedAt": null,
+    "authors": [
+      "Han-Gyeol"
+    ]
+  }
 }

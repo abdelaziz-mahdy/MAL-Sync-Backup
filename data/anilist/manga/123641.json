@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T13:06:04.403Z",
-  "updatedAt": "2022-06-20T07:12:06.000Z",
-  "checkedAt": "2022-06-20T07:12:06.000Z",
+  "updatedAt": "2023-01-21T00:07:03.000Z",
+  "checkedAt": "2023-01-21T00:07:03.000Z",
   "id": 123641,
   "type": "manga",
   "title": "Gokudou to Omega: Mukidashi no Katsuai.",
@@ -14,11 +14,62 @@
   "category": "manga",
   "hentai": true,
   "externalLinks": [],
-  "malId": null,
+  "malId": 135023,
   "deletedAt": null,
   "authors": [
     "Kiichi Kojima",
     "Chizu Aoi"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b46807f4-9a7e-46b1-9cd0-ba644ef9a7c2": {
+        "createdAt": "2020-10-12T16:19:52.000Z",
+        "updatedAt": "2023-01-20T21:00:38.000Z",
+        "checkedAt": "2023-01-20T20:30:16.000Z",
+        "id": 36016,
+        "identifier": "b46807f4-9a7e-46b1-9cd0-ba644ef9a7c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gokudou to Omega",
+        "url": "https://mangadex.org/title/b46807f4-9a7e-46b1-9cd0-ba644ef9a7c2",
+        "image": "https://uploads.mangadex.org/covers/b46807f4-9a7e-46b1-9cd0-ba644ef9a7c2/47ce5de4-36b2-4a20-8a6e-9e61a4a36d7f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 135023,
+        "aniId": 123641,
+        "deletedAt": null,
+        "authors": [
+          "Aoi Chizu",
+          "Kojima Kiichi"
+        ]
+      }
+    },
+    "MangaNato": {
+      "manga-jb987310": {
+        "createdAt": "2021-07-29T21:21:44.000Z",
+        "updatedAt": "2023-01-21T00:20:00.000Z",
+        "checkedAt": null,
+        "id": 83315,
+        "identifier": "manga-jb987310",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gokudou To Omega",
+        "url": "https://manganato.com/manga-jb987310",
+        "image": "https://avt.mkklcdnv6temp.com/42/l/22-1607139654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 135023,
+        "aniId": 123641,
+        "deletedAt": null,
+        "authors": [
+          "Aoi Chizu",
+          "Kojima Kiichi"
+        ]
+      }
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-21T00:25:03.000Z",
-  "updatedAt": "2022-03-01T00:28:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:38:35.000Z",
+  "checkedAt": "2023-01-21T07:05:33.000Z",
   "id": 55092,
   "identifier": "66d00bb5-f8c8-4fbd-83ce-54f3d768a29c",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142521,
+  "aniId": 127722,
   "deletedAt": null,
   "authors": [
     "Shirasaki Nabe"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T15:38:34.650Z",
+    "updatedAt": "2023-01-21T15:38:34.650Z",
+    "checkedAt": "2023-01-21T15:38:34.000Z",
+    "id": 142521,
+    "type": "manga",
+    "title": "Ore no Joushi ga Elite nanoni Hetare Kawaii",
+    "altTitle": [
+      "My Boss is Too Cute",
+      "Oni Joushi ga Toufu Mental de Kawaii",
+      "俺の上司がエリートなのにヘタレかわいい"
+    ],
+    "url": "https://myanimelist.net/manga/142521/Ore_no_Joushi_ga_Elite_nanoni_Hetare_Kawaii",
+    "image": "https://cdn.myanimelist.net/images/manga/2/263345.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shirasaki, Nabe"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:44.751Z",
+    "updatedAt": "2023-01-21T07:05:33.000Z",
+    "checkedAt": "2023-01-21T07:05:33.000Z",
+    "id": 127722,
+    "type": "manga",
+    "title": "Ore no Joshi ga Elite nano ni Hetare Kawaii",
+    "altTitle": [
+      "俺の上司がエリートなのにヘタレかわいい",
+      "My Boss Is So Cute For An Elite"
+    ],
+    "url": "https://anilist.co/manga/127722",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127722-lNnAcy1SbmMq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142521,
+    "deletedAt": null,
+    "authors": [
+      "Nabe Shirasaki"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:54:00.359Z",
-  "updatedAt": "2022-06-26T11:05:09.000Z",
-  "checkedAt": "2022-06-26T11:05:09.000Z",
+  "updatedAt": "2023-01-17T15:32:43.000Z",
+  "checkedAt": "2023-01-17T15:32:43.000Z",
   "id": 112244,
   "type": "manga",
   "title": "Biheun",
@@ -20,7 +20,33 @@
   "deletedAt": null,
   "authors": [
     "Jae-Han Jeong",
-    "Yeong-chan Hwang"
+    "Yeong-Chan Hwang"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7a9e7e02-0ac1-4130-b097-4c495e523db0": {
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2023-01-17T17:13:21.000Z",
+        "checkedAt": "2023-01-17T15:32:43.000Z",
+        "id": 32,
+        "identifier": "7a9e7e02-0ac1-4130-b097-4c495e523db0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Be Heun",
+        "url": "https://mangadex.org/title/7a9e7e02-0ac1-4130-b097-4c495e523db0",
+        "image": "https://uploads.mangadex.org/covers/7a9e7e02-0ac1-4130-b097-4c495e523db0/d1300125-b519-46af-8e4a-b6e4a7122804.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": null,
+        "aniId": 112244,
+        "deletedAt": null,
+        "authors": [
+          "Jung Jae-Han",
+          "Hwang Youngchan"
+        ]
+      }
+    }
+  }
 }

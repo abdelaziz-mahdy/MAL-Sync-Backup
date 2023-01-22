@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:12:58.000Z",
-  "updatedAt": "2021-12-05T18:20:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:50.000Z",
+  "checkedAt": "2023-01-20T00:50:35.000Z",
   "id": 21932,
   "identifier": "519fa311-abeb-48bd-ba75-af9557482ffd",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 87050,
+  "aniId": 94224,
   "deletedAt": null,
   "authors": [
     "Isoya Yuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:20:48.443Z",
+    "updatedAt": "2023-01-20T11:20:48.443Z",
+    "checkedAt": "2023-01-20T11:20:48.000Z",
+    "id": 87050,
+    "type": "manga",
+    "title": "Harapeko na Majou: Saty to Parvati",
+    "altTitle": [
+      "腹ペコな魔女 サティーとパールヴァティ"
+    ],
+    "url": "https://myanimelist.net/manga/87050/Harapeko_na_Majou__Saty_to_Parvati",
+    "image": "https://cdn.myanimelist.net/images/manga/5/151330.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kisscomic.com/kc/harapeko/index.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Isoya, Yuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T00:50:35.142Z",
+    "updatedAt": "2023-01-20T00:50:35.142Z",
+    "checkedAt": "2023-01-20T00:50:35.000Z",
+    "id": 94224,
+    "type": "manga",
+    "title": "Harapeko na Majou: Saty to Parvati",
+    "altTitle": [
+      "腹ペコな魔女 サティーとパールヴァティ"
+    ],
+    "url": "https://anilist.co/manga/94224",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94224-yHlyGJlt9OqC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 87050,
+    "deletedAt": null,
+    "authors": [
+      "Yuuki Isoya"
+    ]
+  }
 }

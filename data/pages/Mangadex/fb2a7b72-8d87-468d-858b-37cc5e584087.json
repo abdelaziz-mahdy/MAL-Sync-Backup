@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:05:09.000Z",
-  "updatedAt": "2021-12-03T10:47:18.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T13:20:00.000Z",
+  "checkedAt": "2023-01-18T11:13:19.000Z",
   "id": 5798,
   "identifier": "fb2a7b72-8d87-468d-858b-37cc5e584087",
   "type": "manga",
@@ -12,14 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 17202,
+  "aniId": 47202,
   "deletedAt": null,
   "authors": [
     "Quinrose",
     "Fujimaru Mamenosuke"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-22T05:30:11.423Z",
+    "updatedAt": "2022-09-22T05:30:11.423Z",
+    "checkedAt": "2022-09-22T05:30:11.000Z",
+    "id": 17202,
+    "type": "manga",
+    "title": "Clover no Kuni no Alice: Cheshire Cat to Waltz",
+    "altTitle": [
+      "Clover no Kuni no Alice: Cheshire Neko to Waltz",
+      "Alice in the Country of Clover: Cheshire Cat Waltz",
+      "クローバーの国のアリス ～チェシャ猫とワルツ～"
+    ],
+    "url": "https://myanimelist.net/manga/17202/Clover_no_Kuni_no_Alice__Cheshire_Cat_to_Waltz",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252244.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fujimaru, Mamenosuke",
+      "QuinRose"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:24.348Z",
+    "updatedAt": "2022-10-26T09:12:07.000Z",
+    "checkedAt": "2022-10-26T09:12:07.000Z",
+    "id": 47202,
+    "type": "manga",
+    "title": "Clover no Kuni no Alice: Cheshire Cat to Waltz",
+    "altTitle": [
+      "Alice in the Country of Clover - Cheshire Cat Waltz",
+      "クローバーの国のアリス ～チェシャ猫とワルツ～",
+      "Clover no Kuni no Alice ~Cheshire Neko to Waltz~",
+      "Alicja w Krainie Koniczyny - Walc Kota z Cheshire "
+    ],
+    "url": "https://anilist.co/manga/47202",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47202-5D6qB1QhHwQg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 17202,
+    "deletedAt": null,
+    "authors": [
+      "Mamenosuke Fujimaru"
+    ]
+  }
 }
