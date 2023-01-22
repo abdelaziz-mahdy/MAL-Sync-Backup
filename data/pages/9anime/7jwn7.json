@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-08-23T08:30:07.695Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
   "checkedAt": "2022-08-23T08:30:07.000Z",
   "id": 42785,
   "identifier": "7jwn7",
@@ -13,9 +13,57 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 9630,
+  "aniId": 9630,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-12-30T10:54:59.000Z",
+    "updatedAt": "2022-12-01T06:06:51.000Z",
+    "checkedAt": "2022-12-01T06:06:51.000Z",
+    "id": 9630,
+    "type": "anime",
+    "title": "Mini Sengoku Basara Ni: Tsukiyo no Katakura-kun",
+    "altTitle": [
+      "ミニ戦国BASARA弐　月夜の片倉くん"
+    ],
+    "url": "https://myanimelist.net/anime/9630/Mini_Sengoku_Basara_Ni__Tsukiyo_no_Katakura-kun",
+    "image": "https://cdn.myanimelist.net/images/anime/6/26667.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sengokubasara.tv/index2.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7490"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7490
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:06.000Z",
+    "updatedAt": "2022-12-02T06:05:57.000Z",
+    "checkedAt": "2022-12-02T06:05:57.000Z",
+    "id": 9630,
+    "type": "anime",
+    "title": "Mini Sengoku BASARA Two: Tsukiyo no Katakura-kun",
+    "altTitle": [
+      "ミニ戦国BASARA弐　月夜の片倉くん"
+    ],
+    "url": "https://anilist.co/anime/9630",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9630.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 9630,
+    "deletedAt": null
+  }
 }

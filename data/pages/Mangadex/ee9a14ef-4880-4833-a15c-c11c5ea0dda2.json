@@ -1,24 +1,72 @@
 {
   "createdAt": "2020-10-12T16:20:28.000Z",
-  "updatedAt": "2021-12-08T00:39:42.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T00:20:00.000Z",
+  "checkedAt": "2023-01-20T22:00:32.000Z",
   "id": 37260,
   "identifier": "ee9a14ef-4880-4833-a15c-c11c5ea0dda2",
   "type": "manga",
   "page": "Mangadex",
   "title": "Samugari ni Yuki",
   "url": "https://mangadex.org/title/ee9a14ef-4880-4833-a15c-c11c5ea0dda2",
-  "image": "https://uploads.mangadex.org/covers/ee9a14ef-4880-4833-a15c-c11c5ea0dda2/3976bd1c-9f42-4ef3-af80-254c14b3a8f9.jpg",
+  "image": "https://uploads.mangadex.org/covers/ee9a14ef-4880-4833-a15c-c11c5ea0dda2/4186ef12-247a-4a66-8637-30ef824b74be.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137088,
+  "aniId": 117625,
   "deletedAt": null,
   "authors": [
     "Yoshichika Ichi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-03T06:30:13.917Z",
+    "updatedAt": "2022-12-03T06:30:13.917Z",
+    "checkedAt": "2022-12-03T06:30:13.000Z",
+    "id": 137088,
+    "type": "manga",
+    "title": "Samugari ni Yuki",
+    "altTitle": [
+      "A Boy Sensitive to Cold & a Hard-Boiled Girl",
+      "寒がりに雪"
+    ],
+    "url": "https://myanimelist.net/manga/137088/Samugari_ni_Yuki",
+    "image": "https://cdn.myanimelist.net/images/manga/2/245459.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-fuz.com/manga/2190"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yoshichika, Ichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:29.201Z",
+    "updatedAt": "2022-05-13T12:54:29.201Z",
+    "checkedAt": null,
+    "id": 117625,
+    "type": "manga",
+    "title": "Samugari ni Yuki",
+    "altTitle": [
+      "寒がりに雪",
+      "A boy sensitive to cold & a hardboild girl",
+      "Samu Gari ni Yuki"
+    ],
+    "url": "https://anilist.co/manga/117625",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117625-NcgYBETBH1D9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137088,
+    "deletedAt": null,
+    "authors": [
+      "Ichi Yoshichika"
+    ]
+  }
 }

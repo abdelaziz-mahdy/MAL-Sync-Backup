@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-24T15:56:20.000Z",
-  "updatedAt": "2022-01-13T00:41:39.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T04:31:39.000Z",
   "id": 52939,
   "identifier": "0ce2f37a-0984-42e9-8b1e-78cb56e0ea91",
   "type": "manga",
@@ -12,15 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147331,
+  "aniId": 128366,
   "deletedAt": null,
   "authors": [
     "Herelee",
     "Alpha Tart",
     "Youngbin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-29T11:00:02.683Z",
+    "updatedAt": "2022-12-22T02:33:55.000Z",
+    "checkedAt": "2022-12-22T02:33:55.000Z",
+    "id": 147331,
+    "type": "manga",
+    "title": "Men of the Harem",
+    "altTitle": [
+      "Harem-ui Namja-deul",
+      "Men of the Harem",
+      "하렘의 남자들"
+    ],
+    "url": "https://myanimelist.net/manga/147331/Men_of_the_Harem",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261348.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=760001"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Alphatart",
+      "Yeongbin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:30.031Z",
+    "updatedAt": "2022-12-22T02:33:54.000Z",
+    "checkedAt": "2022-12-22T02:33:54.000Z",
+    "id": 128366,
+    "type": "manga",
+    "title": "Harem-ui Namjadeul",
+    "altTitle": [
+      "Men of the Harem",
+      "하렘의 남자들",
+      "Le harem de l’impératrice",
+      "Los hombres de mi harén",
+      "女皇的後宮們",
+      "女皇的后宫"
+    ],
+    "url": "https://anilist.co/manga/128366",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128366-b30WKs6PotQW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147331,
+    "deletedAt": null,
+    "authors": [
+      "Alpha Tart",
+      "Youngbin",
+      "Chireon"
+    ]
+  }
 }

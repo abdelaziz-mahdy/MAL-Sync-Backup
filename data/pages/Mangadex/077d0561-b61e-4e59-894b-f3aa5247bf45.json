@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:26.000Z",
-  "updatedAt": "2021-12-08T00:10:16.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T22:08:26.000Z",
+  "checkedAt": "2023-01-20T21:51:16.000Z",
   "id": 37205,
   "identifier": "077d0561-b61e-4e59-894b-f3aa5247bf45",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 11918,
+  "aniId": 41918,
   "deletedAt": null,
   "authors": [
     "Togawa Mitomo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T22:08:25.100Z",
+    "updatedAt": "2023-01-20T22:08:25.100Z",
+    "checkedAt": "2023-01-20T22:08:25.000Z",
+    "id": 11918,
+    "type": "manga",
+    "title": "Tenshi no Fukuin",
+    "altTitle": [
+      "The Emperor's Gospel",
+      "天子の福音"
+    ],
+    "url": "https://myanimelist.net/manga/11918/Tenshi_no_Fukuin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/222019.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Togawa, Mitomo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T21:51:16.406Z",
+    "updatedAt": "2023-01-20T21:51:16.406Z",
+    "checkedAt": "2023-01-20T21:51:16.000Z",
+    "id": 41918,
+    "type": "manga",
+    "title": "Tenshi no Fukuin",
+    "altTitle": [
+      "天子の福音",
+      "The Emperor's Gospel"
+    ],
+    "url": "https://anilist.co/manga/41918",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41918-Uzdchz7VPTjC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 11918,
+    "deletedAt": null,
+    "authors": [
+      "Mitomo Togawa"
+    ]
+  }
 }

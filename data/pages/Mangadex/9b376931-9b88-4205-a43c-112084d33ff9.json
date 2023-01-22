@@ -1,24 +1,74 @@
 {
   "createdAt": "2022-05-17T14:00:02.162Z",
-  "updatedAt": "2022-05-17T14:00:10.000Z",
-  "checkedAt": "2022-05-17T14:00:02.000Z",
+  "updatedAt": "2023-01-20T22:10:47.000Z",
+  "checkedAt": "2023-01-20T21:30:05.000Z",
   "id": 104695,
   "identifier": "9b376931-9b88-4205-a43c-112084d33ff9",
   "type": "manga",
   "page": "Mangadex",
   "title": "The Confession of the Demon King",
   "url": "https://mangadex.org/title/9b376931-9b88-4205-a43c-112084d33ff9",
-  "image": "https://uploads.mangadex.org/covers/9b376931-9b88-4205-a43c-112084d33ff9/d121f137-942a-46e5-bccf-5a61e35279dd.jpg",
+  "image": "https://uploads.mangadex.org/covers/9b376931-9b88-4205-a43c-112084d33ff9/b82c19c2-50dd-4412-94c1-14dd4c158423.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 149067,
+  "aniId": 151565,
   "deletedAt": null,
   "authors": [
     "Tapseung"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-08T16:30:07.205Z",
+    "updatedAt": "2022-09-08T16:30:07.205Z",
+    "checkedAt": "2022-09-08T16:30:07.000Z",
+    "id": 149067,
+    "type": "manga",
+    "title": "The Dark Lord's Confession",
+    "altTitle": [
+      "The Demon King's Confession",
+      "Mawang-ui Gobaek",
+      "The Dark Lord's Confession",
+      "마왕의 고백"
+    ],
+    "url": "https://myanimelist.net/manga/149067/The_Dark_Lords_Confession",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264527.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=793539"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tapseung"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T21:30:05.308Z",
+    "updatedAt": "2023-01-20T21:30:05.308Z",
+    "checkedAt": "2023-01-20T21:30:05.000Z",
+    "id": 151565,
+    "type": "manga",
+    "title": "Mawangui Gobaek",
+    "altTitle": [
+      "The Dark Lord's Confession",
+      "마왕의 고백",
+      "The Demon King’s Confession"
+    ],
+    "url": "https://anilist.co/manga/151565",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx151565-v0AdsnrHjsR4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 149067,
+    "deletedAt": null,
+    "authors": [
+      "Tapseung"
+    ]
+  }
 }

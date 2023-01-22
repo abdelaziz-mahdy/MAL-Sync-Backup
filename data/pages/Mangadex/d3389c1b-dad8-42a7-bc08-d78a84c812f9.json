@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:12.000Z",
-  "updatedAt": "2021-12-07T05:48:15.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T15:20:00.000Z",
+  "checkedAt": "2023-01-20T13:30:59.000Z",
   "id": 30697,
   "identifier": "d3389c1b-dad8-42a7-bc08-d78a84c812f9",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 124879,
+  "aniId": 104444,
   "deletedAt": null,
   "authors": [
     "Uhrin"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T13:30:59.232Z",
+    "updatedAt": "2023-01-20T13:30:59.232Z",
+    "checkedAt": "2023-01-20T13:30:59.000Z",
+    "id": 124879,
+    "type": "manga",
+    "title": "BL Motel",
+    "altTitle": [
+      "BL Motel",
+      "BL모텔"
+    ],
+    "url": "https://myanimelist.net/manga/124879/BL_Motel",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259569.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/blmotel"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Uhrin"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:06:18.158Z",
+    "updatedAt": "2022-05-13T13:06:18.158Z",
+    "checkedAt": null,
+    "id": 104444,
+    "type": "manga",
+    "title": "BL Motel",
+    "altTitle": [
+      "BL Motel",
+      "BL모텔"
+    ],
+    "url": "https://anilist.co/manga/104444",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104444-ugV0mdphMbMG.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 124879,
+    "deletedAt": null,
+    "authors": [
+      "Uhrin"
+    ]
+  }
 }

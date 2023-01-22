@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:11.000Z",
-  "updatedAt": "2021-12-05T06:49:21.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:53:04.000Z",
+  "checkedAt": "2023-01-19T20:42:08.000Z",
   "id": 18762,
   "identifier": "a0ba5632-329f-4a0a-b7f5-6931f33f3188",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 111713,
+  "aniId": 103094,
   "deletedAt": null,
   "authors": [
     "Hakoishi Tammy"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-08-04T12:20:04.000Z",
+    "updatedAt": "2022-09-28T19:08:59.000Z",
+    "checkedAt": "2022-09-28T19:08:59.000Z",
+    "id": 111713,
+    "type": "manga",
+    "title": "Aisubeki Sadist",
+    "altTitle": [
+      "My Beloved Sadist",
+      "愛すべきサディスト"
+    ],
+    "url": "https://myanimelist.net/manga/111713/Aisubeki_Sadist",
+    "image": "https://cdn.myanimelist.net/images/manga/1/206364.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hakoishi, Tammy"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:59.677Z",
+    "updatedAt": "2022-09-28T19:08:58.000Z",
+    "checkedAt": "2022-09-28T19:08:58.000Z",
+    "id": 103094,
+    "type": "manga",
+    "title": "Ai Subeki Sadist",
+    "altTitle": [
+      "愛すべきサディスト",
+      "My Beloved Sadist"
+    ],
+    "url": "https://anilist.co/manga/103094",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103094-I6gPbowFqUwF.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 111713,
+    "deletedAt": null,
+    "authors": [
+      "Tammy Hakoishi"
+    ]
+  }
 }

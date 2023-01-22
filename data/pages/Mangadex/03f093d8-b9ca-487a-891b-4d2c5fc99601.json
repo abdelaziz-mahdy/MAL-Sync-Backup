@@ -1,24 +1,71 @@
 {
   "createdAt": "2020-10-12T16:17:58.000Z",
-  "updatedAt": "2021-12-07T13:17:23.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T20:20:00.000Z",
+  "checkedAt": "2023-01-20T15:30:40.000Z",
   "id": 32236,
   "identifier": "03f093d8-b9ca-487a-891b-4d2c5fc99601",
   "type": "manga",
   "page": "Mangadex",
   "title": "Boku no Gemini",
   "url": "https://mangadex.org/title/03f093d8-b9ca-487a-891b-4d2c5fc99601",
-  "image": "https://uploads.mangadex.org/covers/03f093d8-b9ca-487a-891b-4d2c5fc99601/703e92b2-21d0-4641-a33c-0d276cf1962d.jpg",
+  "image": "https://uploads.mangadex.org/covers/03f093d8-b9ca-487a-891b-4d2c5fc99601/07c8865a-5cde-4bf8-b142-7b19aa084fc0.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 140544,
+  "aniId": 133905,
   "deletedAt": null,
   "authors": [
     "Morikawa Yuu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-20T08:46:53.000Z",
+    "updatedAt": "2023-01-20T15:30:40.000Z",
+    "checkedAt": "2023-01-20T15:30:40.000Z",
+    "id": 140544,
+    "type": "manga",
+    "title": "Boku no Gemini",
+    "altTitle": [
+      "My Gemini",
+      "僕のジェミニ"
+    ],
+    "url": "https://myanimelist.net/manga/140544/Boku_no_Gemini",
+    "image": "https://cdn.myanimelist.net/images/manga/3/250489.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://asuka-web.jp/product/gemini/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Morikawa, Yuu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:24.926Z",
+    "updatedAt": "2022-07-02T15:41:39.000Z",
+    "checkedAt": "2022-07-02T15:41:39.000Z",
+    "id": 133905,
+    "type": "manga",
+    "title": "Boku no Gemini",
+    "altTitle": [
+      "僕のジェミニ",
+      "My Gemini"
+    ],
+    "url": "https://anilist.co/manga/133905",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133905-6Eg62HvaKjkH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140544,
+    "deletedAt": null,
+    "authors": [
+      "Yuu Morikawa"
+    ]
+  }
 }

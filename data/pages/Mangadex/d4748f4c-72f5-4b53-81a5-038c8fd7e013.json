@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:08.000Z",
-  "updatedAt": "2021-12-07T21:39:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T19:54:28.000Z",
+  "checkedAt": "2023-01-20T18:41:02.000Z",
   "id": 34588,
   "identifier": "d4748f4c-72f5-4b53-81a5-038c8fd7e013",
   "type": "manga",
@@ -12,15 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 131101,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 129746,
+  "aniId": 115781,
   "deletedAt": null,
   "authors": [
     "Watarizora Tsubamemaru",
-    "Bushiroad",
-    "Miyoshi Hikaru"
+    "Bushiroad"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T18:41:02.860Z",
+    "updatedAt": "2023-01-20T18:41:02.860Z",
+    "checkedAt": "2023-01-20T18:41:02.000Z",
+    "id": 129746,
+    "type": "manga",
+    "title": "Puchigonavis",
+    "altTitle": [
+      "Puchi Gonavis",
+      "Petit Gonavis",
+      "ぷちゴナビス"
+    ],
+    "url": "https://myanimelist.net/manga/129746/Puchigonavis",
+    "image": "https://cdn.myanimelist.net/images/manga/1/252715.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gekkan-bushi.com/comics/puchigonavis/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Watarizora, Tsubamemaru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:23.296Z",
+    "updatedAt": "2023-01-20T18:41:02.000Z",
+    "checkedAt": "2023-01-20T18:41:02.000Z",
+    "id": 115781,
+    "type": "manga",
+    "title": "Puchigonavis",
+    "altTitle": [
+      "ぷちゴナビス",
+      "Puchi Gonavis"
+    ],
+    "url": "https://anilist.co/manga/115781",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115781-7f2pLaYtYI67.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129746,
+    "deletedAt": null,
+    "authors": [
+      "Tsubamemaru Watarizora",
+      "Hikaru Miyoshi"
+    ]
+  }
 }

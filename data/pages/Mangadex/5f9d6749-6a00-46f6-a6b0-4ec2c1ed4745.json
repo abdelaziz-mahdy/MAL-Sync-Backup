@@ -1,25 +1,71 @@
 {
   "createdAt": "2020-11-30T05:22:59.000Z",
-  "updatedAt": "2021-12-08T08:07:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T04:50:56.000Z",
   "id": 53282,
   "identifier": "5f9d6749-6a00-46f6-a6b0-4ec2c1ed4745",
   "type": "manga",
   "page": "Mangadex",
   "title": "-50kg Cinderella",
   "url": "https://mangadex.org/title/5f9d6749-6a00-46f6-a6b0-4ec2c1ed4745",
-  "image": "https://uploads.mangadex.org/covers/5f9d6749-6a00-46f6-a6b0-4ec2c1ed4745/ee523073-3fa4-4049-ab95-551fed454bad.jpg",
+  "image": "https://uploads.mangadex.org/covers/5f9d6749-6a00-46f6-a6b0-4ec2c1ed4745/58736d9e-af22-4d59-bc05-e2f443265c5b.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131635,
+  "aniId": 113964,
   "deletedAt": null,
   "authors": [
     "Mochizuki Iku",
     "Kouzuki Rito"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-02-17T02:53:18.000Z",
+    "updatedAt": "2023-01-18T16:12:59.000Z",
+    "checkedAt": "2023-01-18T16:12:59.000Z",
+    "id": 131635,
+    "type": "manga",
+    "title": "-50kg no Cinderella",
+    "altTitle": [
+      "-50kg Cinderella",
+      "-50kgのシンデレラ"
+    ],
+    "url": "https://myanimelist.net/manga/131635/-50kg_no_Cinderella",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253411.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kouzuki, Rito.",
+      "Mochizuki, Iku"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:07.164Z",
+    "updatedAt": "2023-01-18T16:12:52.000Z",
+    "checkedAt": "2023-01-18T16:12:52.000Z",
+    "id": 113964,
+    "type": "manga",
+    "title": "-50kg no Cinderella",
+    "altTitle": [
+      "-50kg Cinderella  ",
+      "-50kgのシンデレラ",
+      "-50kg Cinderella",
+      "－50kgのシンデレラ"
+    ],
+    "url": "https://anilist.co/manga/113964",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113964-RUuMlf2298hm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 131635,
+    "deletedAt": null,
+    "authors": [
+      "Iku Mochizuki",
+      "Rito Kouzuki"
+    ]
+  }
 }

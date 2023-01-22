@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:20.000Z",
-  "updatedAt": "2021-12-05T07:49:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T21:20:57.000Z",
+  "checkedAt": "2023-01-19T21:01:45.000Z",
   "id": 19107,
   "identifier": "7b698c0b-3625-49fc-b16a-3bf40fbc5501",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 101476,
   "deletedAt": null,
   "authors": [
-    "Zilpung Studio"
+    "Zilpung Studio (스튜디오 질풍)"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:34.504Z",
+    "updatedAt": "2022-12-09T05:27:42.000Z",
+    "checkedAt": "2022-12-09T05:27:42.000Z",
+    "id": 101476,
+    "type": "manga",
+    "title": "Switch",
+    "altTitle": [
+      "스위치"
+    ],
+    "url": "https://anilist.co/manga/101476",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101476-avN7VIYLKLO0.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Studio Jilpung"
+    ]
+  }
 }

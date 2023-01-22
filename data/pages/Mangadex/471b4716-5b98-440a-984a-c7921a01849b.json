@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:02.000Z",
-  "updatedAt": "2021-12-05T19:17:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:22:36.000Z",
+  "checkedAt": "2023-01-20T01:01:37.000Z",
   "id": 22058,
   "identifier": "471b4716-5b98-440a-984a-c7921a01849b",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 109792,
+  "actorId": 1,
+  "malId": 119483,
   "aniId": 98569,
   "deletedAt": null,
   "authors": [
     "Eerun"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-03T19:30:03.136Z",
+    "updatedAt": "2022-12-20T20:36:23.000Z",
+    "checkedAt": "2022-12-20T20:36:23.000Z",
+    "id": 119483,
+    "type": "manga",
+    "title": "An Uncomfortable Truth",
+    "altTitle": [
+      "Bulpyeonhan Jinsil",
+      "An Uncomfortable Truth",
+      "불편한 진실"
+    ],
+    "url": "https://myanimelist.net/manga/119483/An_Uncomfortable_Truth",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259367.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/another_secret"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "EErun"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:41:28.917Z",
-    "updatedAt": "2022-12-04T21:28:19.000Z",
-    "checkedAt": "2022-12-04T21:28:19.000Z",
+    "updatedAt": "2023-01-21T00:05:07.000Z",
+    "checkedAt": "2023-01-21T00:05:07.000Z",
     "id": 98569,
     "type": "manga",
     "title": "Bulpyeonhan Jinsil",
@@ -37,7 +64,7 @@
     "category": "manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 119483,
     "deletedAt": null,
     "authors": [
       "EErun"

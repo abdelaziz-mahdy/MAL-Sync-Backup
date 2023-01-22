@@ -1,25 +1,69 @@
 {
   "createdAt": "2020-10-12T16:12:25.000Z",
-  "updatedAt": "2021-12-05T14:53:25.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:33.000Z",
+  "checkedAt": "2023-01-19T23:30:36.000Z",
   "id": 21040,
   "identifier": "9559c725-0b3e-441f-998e-be9c3a184cf1",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Oz no Mahoutsukai",
+  "title": "The Wonderful Wizard of Oz",
   "url": "https://mangadex.org/title/9559c725-0b3e-441f-998e-be9c3a184cf1",
   "image": "https://uploads.mangadex.org/covers/9559c725-0b3e-441f-998e-be9c3a184cf1/95b0fee0-e93f-483f-9c4b-b48ef6cf97f4.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 121085,
+  "aniId": 142682,
   "deletedAt": null,
   "authors": [
-    "Lyman Frank Baum",
-    "Igarashi Yumiko"
+    "Igarashi Yumiko",
+    "Lyman Frank Baum"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:20:31.324Z",
+    "updatedAt": "2023-01-20T11:20:31.324Z",
+    "checkedAt": "2023-01-20T11:20:31.000Z",
+    "id": 121085,
+    "type": "manga",
+    "title": "Oz no Mahoutsukai",
+    "altTitle": [
+      "The Wonderful Wizard of Oz",
+      "オズの魔法使い"
+    ],
+    "url": "https://myanimelist.net/manga/121085/Oz_no_Mahoutsukai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/230077.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Igarashi, Yumiko",
+      "Baum, Lyman Frank"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:22.943Z",
+    "updatedAt": "2023-01-19T23:30:36.000Z",
+    "checkedAt": "2023-01-19T23:30:36.000Z",
+    "id": 142682,
+    "type": "manga",
+    "title": "Oz no Mahoutsukai",
+    "altTitle": [
+      "オズの魔法使い",
+      "The Wizard Of Oz"
+    ],
+    "url": "https://anilist.co/manga/142682",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b142682-NDeqX4OOaRw5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 121085,
+    "deletedAt": null,
+    "authors": [
+      "Yumiko Igarashi",
+      "Lyman Baum"
+    ]
+  }
 }

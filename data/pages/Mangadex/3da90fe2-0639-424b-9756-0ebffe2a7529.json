@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:07:08.000Z",
-  "updatedAt": "2021-12-04T00:49:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T10:20:00.000Z",
+  "checkedAt": "2023-01-19T05:08:41.000Z",
   "id": 9979,
   "identifier": "3da90fe2-0639-424b-9756-0ebffe2a7529",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 67035,
+  "aniId": 111372,
   "deletedAt": null,
   "authors": [
-    "ICHIHARA Hikari Z"
+    "Ichihara Hikari"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:45:12.000Z",
+    "updatedAt": "2023-01-19T03:39:51.000Z",
+    "checkedAt": "2023-01-19T03:39:51.000Z",
+    "id": 67035,
+    "type": "manga",
+    "title": "Oshiri Sawaritagaru Hito Nan nano",
+    "altTitle": [
+      "What's with People Wanting to Touch Other People's Butts",
+      "Momikata",
+      "How to Massage",
+      "Akachan wa Doko kara Kuru no",
+      "Where Do Babies Come From?",
+      "お尻触りたがる人なんなの"
+    ],
+    "url": "https://myanimelist.net/manga/67035/Oshiri_Sawaritagaru_Hito_Nan_nano",
+    "image": "https://cdn.myanimelist.net/images/manga/3/157855.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ichihara, Hikari Z"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:41:53.188Z",
+    "updatedAt": "2023-01-19T03:39:51.000Z",
+    "checkedAt": "2023-01-19T03:39:51.000Z",
+    "id": 111372,
+    "type": "manga",
+    "title": "Oshiri Sawaritagaru Hito Nan nano",
+    "altTitle": [
+      "お尻触りたがる人なんなの",
+      "What's With People Wanting To Touch Other People's Butts",
+      "Momikata",
+      "How to Massage"
+    ],
+    "url": "https://anilist.co/manga/111372",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111372-LPDsQheSWCEd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 67035,
+    "deletedAt": null,
+    "authors": [
+      "Hikari Z Ichihara"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-13T12:52:25.342Z",
-  "updatedAt": "2022-05-13T12:52:25.342Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T03:01:00.000Z",
+  "checkedAt": "2023-01-21T03:01:00.000Z",
   "id": 126050,
   "type": "manga",
   "title": "Ane to Kurasu",
@@ -14,10 +14,35 @@
   "category": "manga",
   "hentai": true,
   "externalLinks": [],
-  "malId": null,
+  "malId": 133951,
   "deletedAt": null,
   "authors": [
     "Hiroshi Itaba"
   ],
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7c40a400-c280-4a99-b624-b83a76f54cee": {
+        "createdAt": "2020-11-01T19:41:57.000Z",
+        "updatedAt": "2023-01-21T15:36:14.000Z",
+        "checkedAt": "2023-01-21T03:01:00.000Z",
+        "id": 51296,
+        "identifier": "7c40a400-c280-4a99-b624-b83a76f54cee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Living with Elder Sister",
+        "url": "https://mangadex.org/title/7c40a400-c280-4a99-b624-b83a76f54cee",
+        "image": "https://uploads.mangadex.org/covers/7c40a400-c280-4a99-b624-b83a76f54cee/52c071b2-71ec-43c3-83cb-5106bdb8b211.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 133951,
+        "aniId": 126050,
+        "deletedAt": null,
+        "authors": [
+          "Itaba Hiroshi"
+        ]
+      }
+    }
+  }
 }

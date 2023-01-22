@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-08T21:43:37.000Z",
-  "updatedAt": "2021-12-08T07:15:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T04:00:00.000Z",
+  "checkedAt": "2023-01-21T03:40:09.000Z",
   "id": 51862,
   "identifier": "e5bc171b-a6b7-42fc-b59b-64917ef255cb",
   "type": "manga",
@@ -11,14 +11,62 @@
   "image": "https://uploads.mangadex.org/covers/e5bc171b-a6b7-42fc-b59b-64917ef255cb/89932282-fb0b-4ccd-b3c9-8e186a947427.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 134672,
+  "aniId": 116669,
   "deletedAt": null,
   "authors": [
     "Sakurai Ato"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-04-07T06:38:37.000Z",
+    "updatedAt": "2023-01-19T18:30:30.000Z",
+    "checkedAt": "2023-01-19T18:30:30.000Z",
+    "id": 134672,
+    "type": "manga",
+    "title": "Majo Raba Majo Reba",
+    "altTitle": [
+      "If Witch, Then Which?",
+      "魔女らば魔女れば"
+    ],
+    "url": "https://myanimelist.net/manga/134672/Majo_Raba_Majo_Reba",
+    "image": "https://cdn.myanimelist.net/images/manga/1/242604.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/gangan/introduction/majoraba/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakurai, Ato"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:39.908Z",
+    "updatedAt": "2023-01-19T18:30:29.000Z",
+    "checkedAt": "2023-01-19T18:30:29.000Z",
+    "id": 116669,
+    "type": "manga",
+    "title": "Majo Raba Majo Reba",
+    "altTitle": [
+      "If Witch, Then Which?",
+      "魔女らば魔女れば",
+      "Witch Raba Witch Reba"
+    ],
+    "url": "https://anilist.co/manga/116669",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116669-Dp3zf2MZRlcd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 134672,
+    "deletedAt": null,
+    "authors": [
+      "Ato Sakurai"
+    ]
+  }
 }

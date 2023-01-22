@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-03-12T08:39:18.000Z",
-  "updatedAt": "2021-12-08T12:40:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T21:09:33.000Z",
+  "checkedAt": "2023-01-21T19:12:12.000Z",
   "id": 65355,
   "identifier": "0d42c376-1ed2-4a16-be04-180a36db7887",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137125,
+  "aniId": 140116,
   "deletedAt": null,
   "authors": [
     "Hade Na Kangofu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T21:09:31.413Z",
+    "updatedAt": "2023-01-21T21:09:31.413Z",
+    "checkedAt": "2023-01-21T21:09:31.000Z",
+    "id": 137125,
+    "type": "manga",
+    "title": "ATM no Naka no Otoko",
+    "altTitle": [
+      "The Man in the ATM",
+      "ATMの中の男"
+    ],
+    "url": "https://myanimelist.net/manga/137125/ATM_no_Naka_no_Otoko",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245821.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hade na Kangofu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:29.921Z",
+    "updatedAt": "2023-01-21T19:12:12.000Z",
+    "checkedAt": "2023-01-21T19:12:12.000Z",
+    "id": 140116,
+    "type": "manga",
+    "title": "ATM no Naka no Otoko",
+    "altTitle": [
+      "ATMの中の男",
+      "The Man in the ATM"
+    ],
+    "url": "https://anilist.co/manga/140116",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140116-krPQWqKE1PrH.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137125,
+    "deletedAt": null,
+    "authors": [
+      "Kangofu Hadena"
+    ]
+  }
 }

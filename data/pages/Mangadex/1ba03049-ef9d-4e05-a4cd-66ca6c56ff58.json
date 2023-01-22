@@ -1,24 +1,67 @@
 {
   "createdAt": "2020-10-12T16:11:32.000Z",
-  "updatedAt": "2021-12-05T09:24:52.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T22:16:20.000Z",
+  "checkedAt": "2023-01-19T21:31:27.000Z",
   "id": 19555,
   "identifier": "1ba03049-ef9d-4e05-a4cd-66ca6c56ff58",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Samurai Spirits - Shimabara Amakusa Jashin Shiro Kouryaku-hen",
+  "title": "Samurai Shodown (ISHIKAWA Ken)",
   "url": "https://mangadex.org/title/1ba03049-ef9d-4e05-a4cd-66ca6c56ff58",
   "image": "https://uploads.mangadex.org/covers/1ba03049-ef9d-4e05-a4cd-66ca6c56ff58/87fbc14c-e84b-48b0-b95f-d43ec1faca2c.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 119872,
+  "aniId": 128272,
   "deletedAt": null,
   "authors": [
-    "Ishikawa Ken"
+    "Ishikawa Ken",
+    "SNK"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-05-06T14:18:27.000Z",
+    "updatedAt": "2023-01-18T06:35:42.000Z",
+    "checkedAt": "2023-01-18T06:35:42.000Z",
+    "id": 119872,
+    "type": "manga",
+    "title": "Samurai Spirits: Shimabara Amakusa Jashinjou Kouryaku-hen",
+    "altTitle": [
+      "SAMURAI SPIRITS 島原天草邪神城攻略編"
+    ],
+    "url": "https://myanimelist.net/manga/119872/Samurai_Spirits__Shimabara_Amakusa_Jashinjou_Kouryaku-hen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/230078.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ishikawa, Ken"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:24.381Z",
+    "updatedAt": "2023-01-18T06:35:41.000Z",
+    "checkedAt": "2023-01-18T06:35:41.000Z",
+    "id": 128272,
+    "type": "manga",
+    "title": "Samurai Spirits: Shimabara Amakusa Jashin Shiro Kouryaku-hen  ",
+    "altTitle": [
+      "SAMURAI SPIRITS 島原天草邪神城攻略編",
+      "Samurai Shodown"
+    ],
+    "url": "https://anilist.co/manga/128272",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128272-0aPKHMCWNzEz.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 119872,
+    "deletedAt": null,
+    "authors": [
+      "Ken Ishikawa",
+      "Dynamic Pro"
+    ]
+  }
 }

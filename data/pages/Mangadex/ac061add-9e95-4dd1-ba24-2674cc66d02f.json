@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-18T19:03:28.000Z",
-  "updatedAt": "2021-12-08T11:41:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T18:20:00.000Z",
+  "checkedAt": "2023-01-21T16:35:20.000Z",
   "id": 63036,
   "identifier": "ac061add-9e95-4dd1-ba24-2674cc66d02f",
   "type": "manga",
@@ -9,16 +9,59 @@
   "title": "Boku-tachi wa Mada Aoku",
   "url": "https://mangadex.org/title/ac061add-9e95-4dd1-ba24-2674cc66d02f",
   "image": "https://uploads.mangadex.org/covers/ac061add-9e95-4dd1-ba24-2674cc66d02f/0a441b31-6ed2-4418-8670-6a627cef87ea.jpg",
-  "hentai": true,
+  "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 137146,
+  "aniId": 130128,
   "deletedAt": null,
   "authors": [
     "Kuroi Tsumuji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-05-20T01:30:10.184Z",
+    "updatedAt": "2022-12-07T19:32:32.000Z",
+    "checkedAt": "2022-12-07T19:32:32.000Z",
+    "id": 137146,
+    "type": "manga",
+    "title": "Bokutachi wa Mada Aoku",
+    "altTitle": [
+      "We're Still in the Spring of Life.",
+      "ボクたちはまだ青く"
+    ],
+    "url": "https://myanimelist.net/manga/137146/Bokutachi_wa_Mada_Aoku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245625.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuroi, Tsumuji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:59.673Z",
+    "updatedAt": "2023-01-06T22:06:37.000Z",
+    "checkedAt": "2023-01-06T22:06:37.000Z",
+    "id": 130128,
+    "type": "manga",
+    "title": "Bokutachi wa Mada Aoku",
+    "altTitle": [
+      "ボクたちはまだ青く",
+      "We're Still in the Spring of Life",
+      "あの年 ある夕方の ある衣替え前"
+    ],
+    "url": "https://anilist.co/manga/130128",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130128-O6A9Slgrf8IZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 137146,
+    "deletedAt": null,
+    "authors": [
+      "Tsumuji Kuroi"
+    ]
+  }
 }

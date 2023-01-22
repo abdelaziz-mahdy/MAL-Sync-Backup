@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-28T03:49:11.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:20:01.000Z",
+  "checkedAt": "2023-01-18T19:59:36.000Z",
   "id": 40338,
   "identifier": "kwk89",
   "type": "anime",
@@ -13,9 +13,50 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 50383,
+  "aniId": 141528,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-18T19:59:39.159Z",
+    "updatedAt": "2023-01-18T19:59:39.159Z",
+    "checkedAt": "2023-01-18T19:59:39.000Z",
+    "id": 50383,
+    "type": "anime",
+    "title": "VERSEⁿ: Episodeⁿ - Kuusou",
+    "altTitle": [
+      "VERSEⁿ - Episodeⁿ | 空想"
+    ],
+    "url": "https://myanimelist.net/anime/50383/VERSEⁿ__Episodeⁿ_-_Kuusou",
+    "image": "https://cdn.myanimelist.net/images/anime/1678/119484.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://verse-n.com/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-11-13T06:13:37.000Z",
+    "updatedAt": "2023-01-18T20:03:05.000Z",
+    "checkedAt": "2023-01-18T20:03:05.000Z",
+    "id": 141528,
+    "type": "anime",
+    "title": "Episodeⁿ | Kuusou",
+    "altTitle": [
+      "Episodeⁿ | 空想",
+      "VERSEⁿ - Episodeⁿ | 空想"
+    ],
+    "url": "https://anilist.co/anime/141528",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141528-hf2mMG7pApkJ.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 50383,
+    "deletedAt": null
+  }
 }

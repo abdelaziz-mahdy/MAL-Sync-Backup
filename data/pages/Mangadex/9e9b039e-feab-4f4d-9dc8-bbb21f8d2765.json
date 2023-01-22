@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-10T06:47:44.000Z",
-  "updatedAt": "2021-12-08T08:38:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T05:20:50.000Z",
   "id": 53818,
   "identifier": "9e9b039e-feab-4f4d-9dc8-bbb21f8d2765",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 56681,
+  "aniId": 88263,
   "deletedAt": null,
   "authors": [
     "Hara Yasuhisa"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:44:48.000Z",
+    "updatedAt": "2022-12-02T03:28:09.000Z",
+    "checkedAt": "2022-12-02T03:28:09.000Z",
+    "id": 56681,
+    "type": "manga",
+    "title": "Kingdom - Soushuuhen",
+    "altTitle": [
+      "Li Mu",
+      "Kingdom - Highlights",
+      "キングダム総集編"
+    ],
+    "url": "https://myanimelist.net/manga/56681/Kingdom_-_Soushuuhen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/99785.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hara, Yasuhisa"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:32.837Z",
+    "updatedAt": "2022-12-02T03:28:07.000Z",
+    "checkedAt": "2022-12-02T03:28:07.000Z",
+    "id": 88263,
+    "type": "manga",
+    "title": "Kingdom: Soushuu-hen",
+    "altTitle": [
+      "キングダム総集編",
+      "Kingdom: Highlights",
+      "Kongou",
+      "Umazakehei Sanbyaku",
+      "Li Mu",
+      "Meng Wu and Chu Zi"
+    ],
+    "url": "https://anilist.co/manga/88263",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88263-XqaV9fOpuNLL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 56681,
+    "deletedAt": null,
+    "authors": [
+      "Yasuhisa Hara"
+    ]
+  }
 }

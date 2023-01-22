@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-06-22T18:30:26.532Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": "2022-06-22T18:30:26.000Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
+  "checkedAt": "2023-01-18T19:55:21.000Z",
   "id": 41225,
   "identifier": "9o018",
   "type": "anime",
@@ -11,11 +11,49 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/f/f2/f2635926bb0e9615b6ab5dd2ff1edc6e.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 51183,
+  "aniId": 143485,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-26T08:00:13.176Z",
+    "updatedAt": "2022-12-26T08:00:13.176Z",
+    "checkedAt": "2022-12-26T08:00:13.000Z",
+    "id": 51183,
+    "type": "anime",
+    "title": "Yin Yang Shi: Ping An Wu Yu 3rd Season",
+    "altTitle": [
+      "Onmyouji: Heian Monogatari 3rd Season",
+      "阴阳师·平安物语 第3季"
+    ],
+    "url": "https://myanimelist.net/anime/51183/Yin_Yang_Shi__Ping_An_Wu_Yu_3rd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1831/121279.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2022-01-09T19:47:59.000Z",
+    "updatedAt": "2022-12-26T10:11:24.000Z",
+    "checkedAt": "2022-12-26T10:11:24.000Z",
+    "id": 143485,
+    "type": "anime",
+    "title": "Onmyoji: Heian Monogatari 3",
+    "altTitle": [
+      "陰陽師・平安物語 3",
+      "阴阳师·平安物语 第3季",
+      "Yin Yang Shi: Ping An Wu Yu 3"
+    ],
+    "url": "https://anilist.co/anime/143485",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143485-ljk9rdKO1o8N.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 51183,
+    "deletedAt": null
+  }
 }

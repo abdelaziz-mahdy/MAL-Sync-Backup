@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-10T07:40:41.000Z",
-  "updatedAt": "2021-12-08T11:38:19.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:40:34.000Z",
+  "checkedAt": "2023-01-21T15:31:29.000Z",
   "id": 62030,
   "identifier": "7fb19e88-39a8-45eb-b41e-163443a97338",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142464,
+  "aniId": 129850,
   "deletedAt": null,
   "authors": [
     "Takahashi Natsuko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-09T04:30:01.954Z",
+    "updatedAt": "2022-07-09T04:30:01.954Z",
+    "checkedAt": "2022-07-09T04:30:01.000Z",
+    "id": 142464,
+    "type": "manga",
+    "title": "Natsu no Yoru",
+    "altTitle": [
+      "Summer Night",
+      "夏の夜"
+    ],
+    "url": "https://myanimelist.net/manga/142464/Natsu_no_Yoru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253465.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takahashi, Natsuko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:38.220Z",
+    "updatedAt": "2022-07-15T06:00:06.000Z",
+    "checkedAt": "2022-07-15T06:00:06.000Z",
+    "id": 129850,
+    "type": "manga",
+    "title": "Natsu no Yoru",
+    "altTitle": [
+      "夏の夜"
+    ],
+    "url": "https://anilist.co/manga/129850",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129850-h8skopqHvfU4.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142464,
+    "deletedAt": null,
+    "authors": [
+      "Natsuko Takahashi"
+    ]
+  }
 }

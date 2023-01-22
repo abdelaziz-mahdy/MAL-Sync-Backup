@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-28T02:30:09.794Z",
-  "updatedAt": "2022-05-28T02:30:14.000Z",
-  "checkedAt": "2022-05-28T02:30:09.000Z",
+  "updatedAt": "2023-01-17T11:40:39.000Z",
+  "checkedAt": "2023-01-17T08:30:02.000Z",
   "id": 105635,
   "identifier": "a14c716d-3f52-44b9-badd-85a4ac73a32c",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 150032,
   "deletedAt": null,
   "authors": [
     "Amemiya Moe"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-28T05:00:00.465Z",
+    "updatedAt": "2023-01-17T08:30:02.000Z",
+    "checkedAt": "2023-01-17T08:30:02.000Z",
+    "id": 150032,
+    "type": "manga",
+    "title": "Kokoro no Mama de",
+    "altTitle": [
+      "心のままで",
+      "Just the way you are",
+      "こころのままで"
+    ],
+    "url": "https://anilist.co/manga/150032",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx150032-Vs0lWZKTZcWN.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Moe Amemiya"
+    ]
+  }
 }

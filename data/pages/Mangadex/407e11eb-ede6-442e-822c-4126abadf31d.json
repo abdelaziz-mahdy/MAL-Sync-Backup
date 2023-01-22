@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-22T18:09:32.000Z",
-  "updatedAt": "2021-12-08T05:36:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T02:01:29.000Z",
   "id": 50365,
   "identifier": "407e11eb-ede6-442e-822c-4126abadf31d",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 124105,
+  "aniId": 118162,
   "deletedAt": null,
   "authors": [
     "Kizaru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T02:01:29.303Z",
+    "updatedAt": "2023-01-21T02:01:29.303Z",
+    "checkedAt": "2023-01-21T02:01:29.000Z",
+    "id": 124105,
+    "type": "manga",
+    "title": "Hida Shibori: Monmon Muchi Oba Body",
+    "altTitle": [
+      "Natsu no Maboroshi",
+      "Gibo ga Haramu made",
+      "Yanmama Joshikai",
+      "Nikukan Haisou",
+      "Tomo Ane: Osananajimi no Oneechan",
+      "Until My Mother-in-Law is Pregnant",
+      "肉壁〈ひだ〉しぼり-悶々むちおばボディ-"
+    ],
+    "url": "https://myanimelist.net/manga/124105/Hida_Shibori__Monmon_Muchi_Oba_Body",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244203.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kizaru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T02:01:29.507Z",
+    "updatedAt": "2023-01-21T02:01:29.507Z",
+    "checkedAt": "2023-01-21T02:01:29.000Z",
+    "id": 118162,
+    "type": "manga",
+    "title": "Hida Shibori: Monmon Muchi Oba Body",
+    "altTitle": [
+      "肉壁しぼり- 悶々むちおばボディ-",
+      "Natsu no Maboroshi",
+      "Ghibo ga Haramu made",
+      "Yanmama Chijoshikai",
+      "Nikkan Haisou",
+      "Tomoane - Osananajimi no Oneechan"
+    ],
+    "url": "https://anilist.co/manga/118162",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118162-8DNl5GO7g2Pn.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 124105,
+    "deletedAt": null,
+    "authors": [
+      "Kizaru"
+    ]
+  }
 }

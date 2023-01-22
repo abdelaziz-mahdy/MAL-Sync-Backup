@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:39.000Z",
-  "updatedAt": "2021-12-05T23:17:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:09:58.000Z",
+  "checkedAt": "2023-01-20T02:51:04.000Z",
   "id": 23318,
   "identifier": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 123264,
+  "aniId": 125570,
   "deletedAt": null,
   "authors": [
-    "Hirohiko Araki"
+    "Araki Hirohiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-28T19:00:12.994Z",
+    "updatedAt": "2022-09-28T19:00:12.994Z",
+    "checkedAt": "2022-09-28T19:00:12.000Z",
+    "id": 123264,
+    "type": "manga",
+    "title": "Outlaw Man",
+    "altTitle": [
+      "アウトロー・マン"
+    ],
+    "url": "https://myanimelist.net/manga/123264/Outlaw_Man",
+    "image": "https://cdn.myanimelist.net/images/manga/2/235195.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Araki, Hirohiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:18.026Z",
+    "updatedAt": "2022-10-04T13:25:17.000Z",
+    "checkedAt": "2022-10-04T13:25:17.000Z",
+    "id": 125570,
+    "type": "manga",
+    "title": "Outlaw Man",
+    "altTitle": [
+      "アウトロー・マン",
+      "Autorou Man"
+    ],
+    "url": "https://anilist.co/manga/125570",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125570-6PsteZIRlS2H.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 123264,
+    "deletedAt": null,
+    "authors": [
+      "Hirohiko Araki"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-04T17:50:30.000Z",
-  "updatedAt": "2021-12-08T11:11:20.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:38:51.000Z",
+  "checkedAt": "2023-01-21T14:46:09.000Z",
   "id": 61381,
   "identifier": "a234eb0d-73c9-4277-9df1-5d3db9431bbd",
   "type": "manga",
@@ -12,13 +12,62 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 124499,
+  "aniId": 132708,
   "deletedAt": null,
   "authors": [
     "Muneshiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T15:38:46.137Z",
+    "updatedAt": "2023-01-21T15:38:46.137Z",
+    "checkedAt": "2023-01-21T15:38:46.000Z",
+    "id": 124499,
+    "type": "manga",
+    "title": "Dekiai Koubi",
+    "altTitle": [
+      "Fujun na Gimai no Seikatsu Shidou",
+      "Tsukiichi Bed Mei-king",
+      "Karukuchi na Kouhai no Seikatsu Shidou",
+      "Nekura mo Kakoe Basaru ni Naru",
+      "Kyonyuu na Futago no Seikatsu Shidou",
+      "Boku Boku Saki",
+      "Karen na Gimai no Seikatsu Shidou",
+      "Kanojo no Kouishitsu",
+      "溺愛交尾"
+    ],
+    "url": "https://myanimelist.net/manga/124499/Dekiai_Koubi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/244610.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Muneshiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:31.825Z",
+    "updatedAt": "2023-01-21T14:46:09.000Z",
+    "checkedAt": "2023-01-21T14:46:09.000Z",
+    "id": 132708,
+    "type": "manga",
+    "title": "Dekiai Koubi",
+    "altTitle": [
+      "溺愛交尾",
+      "Blind Love Mating"
+    ],
+    "url": "https://anilist.co/manga/132708",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132708-cTD5OzWi3MZ5.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 124499,
+    "deletedAt": null,
+    "authors": [
+      "Muneshiro"
+    ]
+  }
 }

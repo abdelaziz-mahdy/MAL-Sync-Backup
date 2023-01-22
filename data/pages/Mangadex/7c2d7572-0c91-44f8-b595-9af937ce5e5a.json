@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:10:16.000Z",
-  "updatedAt": "2021-12-04T23:48:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T18:20:00.000Z",
+  "checkedAt": "2023-01-19T17:58:51.000Z",
   "id": 16753,
   "identifier": "7c2d7572-0c91-44f8-b595-9af937ce5e5a",
   "type": "manga",
@@ -9,16 +9,63 @@
   "title": "Blood Bank",
   "url": "https://mangadex.org/title/7c2d7572-0c91-44f8-b595-9af937ce5e5a",
   "image": "https://uploads.mangadex.org/covers/7c2d7572-0c91-44f8-b595-9af937ce5e5a/01ca6a3e-9e8d-40ef-91b6-477718281f50.jpg",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 125386,
+  "aniId": 97843,
   "deletedAt": null,
   "authors": [
     "Silb"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T17:58:51.255Z",
+    "updatedAt": "2023-01-19T17:58:51.255Z",
+    "checkedAt": "2023-01-19T17:58:51.000Z",
+    "id": 125386,
+    "type": "manga",
+    "title": "Blood Bank",
+    "altTitle": [
+      "Blood Bank",
+      "블러드 뱅크"
+    ],
+    "url": "https://myanimelist.net/manga/125386/Blood_Bank",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259371.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/blood_bank"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Silb"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:44.526Z",
+    "updatedAt": "2022-05-13T12:45:44.526Z",
+    "checkedAt": null,
+    "id": 97843,
+    "type": "manga",
+    "title": "Blood Bank",
+    "altTitle": [
+      "Blood Bank",
+      "블러드 뱅크"
+    ],
+    "url": "https://anilist.co/manga/97843",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97843-LYN8e4raT30F.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 125386,
+    "deletedAt": null,
+    "authors": [
+      "Silb"
+    ]
+  }
 }

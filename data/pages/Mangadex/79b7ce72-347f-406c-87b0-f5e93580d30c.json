@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:17:38.000Z",
-  "updatedAt": "2021-12-07T10:19:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T14:44:25.000Z",
+  "checkedAt": "2023-01-20T14:41:21.000Z",
   "id": 31513,
   "identifier": "79b7ce72-347f-406c-87b0-f5e93580d30c",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 136028,
   "aniId": 114728,
   "deletedAt": null,
   "authors": [
-    "Lee Yeonji"
+    "Lee Yeon-ji"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2023-01-20T14:41:21.813Z",
+    "updatedAt": "2023-01-20T14:41:21.813Z",
+    "checkedAt": "2023-01-20T14:41:21.000Z",
+    "id": 136028,
+    "type": "manga",
+    "title": "The Blood of Madam Giselle",
+    "altTitle": [
+      "Giselle-ssi-ui Pi",
+      "The Blood of Madam Giselle",
+      "지젤 씨의 피"
+    ],
+    "url": "https://myanimelist.net/manga/136028/The_Blood_of_Madam_Giselle",
+    "image": "https://cdn.myanimelist.net/images/manga/1/260211.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/giselle"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lee, Yunji"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:44:43.765Z",
-    "updatedAt": "2022-12-09T21:24:30.000Z",
-    "checkedAt": "2022-12-09T21:24:30.000Z",
+    "updatedAt": "2023-01-21T00:06:15.000Z",
+    "checkedAt": "2023-01-21T00:06:15.000Z",
     "id": 114728,
     "type": "manga",
     "title": "Giselle-ssi-ui Pi",
@@ -40,7 +67,7 @@
     "category": "manga",
     "hentai": true,
     "externalLinks": [],
-    "malId": null,
+    "malId": 136028,
     "deletedAt": null,
     "authors": [
       "Yeon-Ji Lee"

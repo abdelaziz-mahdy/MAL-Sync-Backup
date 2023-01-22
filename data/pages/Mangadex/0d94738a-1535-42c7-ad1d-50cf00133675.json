@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:35.000Z",
-  "updatedAt": "2022-02-10T13:09:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T23:56:31.000Z",
+  "checkedAt": "2023-01-20T22:10:43.000Z",
   "id": 37517,
   "identifier": "0d94738a-1535-42c7-ad1d-50cf00133675",
   "type": "manga",
@@ -12,13 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 155033,
+  "aniId": 120507,
   "deletedAt": null,
   "authors": [
     "Kuwabara Tamotsu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T22:10:43.552Z",
+    "updatedAt": "2023-01-20T22:10:43.552Z",
+    "checkedAt": "2023-01-20T22:10:43.000Z",
+    "id": 155033,
+    "type": "manga",
+    "title": "Anata to Watashi no Shuuhasuu",
+    "altTitle": [
+      "Omae ni Kikasetai Uta ga Aru",
+      "Anta ga Senaka wo Miseta kara",
+      "Kimi no Subete",
+      "Watashitachi no Nagasugiru Yoru",
+      "This Channel Has Nobody but Us.",
+      "あなたと私の周波数"
+    ],
+    "url": "https://myanimelist.net/manga/155033/Anata_to_Watashi_no_Shuuhasuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/274967.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ichijinsha.co.jp/yurihime/title/くわばらたもつ/あなたと私の周波数/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kuwabara, Tamotsu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:29.747Z",
+    "updatedAt": "2023-01-21T00:07:15.000Z",
+    "checkedAt": "2023-01-21T00:07:15.000Z",
+    "id": 120507,
+    "type": "manga",
+    "title": "Anata to Watashi no Shuuhasuu",
+    "altTitle": [
+      "あなたと私の周波数",
+      "This Channel Has Nobody But Us",
+      "Omae ni Kikasetai Uta ga Aru",
+      "Anta ga Senaka wo Miseta kara",
+      "Kimi no Subete",
+      "Watashi-tachi no Nagasugiru Yoru"
+    ],
+    "url": "https://anilist.co/manga/120507",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120507-diWT0z1MiObr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 155033,
+    "deletedAt": null,
+    "authors": [
+      "Tamotsu Kuwabara"
+    ]
+  }
 }

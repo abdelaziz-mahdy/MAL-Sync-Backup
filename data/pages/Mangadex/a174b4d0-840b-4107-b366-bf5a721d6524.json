@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:02:31.000Z",
-  "updatedAt": "2021-12-02T07:46:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-17T17:11:01.000Z",
+  "checkedAt": "2023-01-17T15:57:31.000Z",
   "id": 304,
   "identifier": "a174b4d0-840b-4107-b366-bf5a721d6524",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 107595,
   "deletedAt": null,
   "authors": [
-    "Glpi"
+    "Glpi (글피)"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:12.714Z",
+    "updatedAt": "2023-01-17T15:57:30.000Z",
+    "checkedAt": "2023-01-17T15:57:30.000Z",
+    "id": 107595,
+    "type": "manga",
+    "title": "Layers",
+    "altTitle": [
+      "레이어즈"
+    ],
+    "url": "https://anilist.co/manga/107595",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107595-mDrgXnW5tlOI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Geul Pi glpi"
+    ]
+  }
 }

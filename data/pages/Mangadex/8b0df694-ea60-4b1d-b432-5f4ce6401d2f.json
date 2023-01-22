@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-26T14:00:09.744Z",
-  "updatedAt": "2022-05-26T14:00:09.000Z",
-  "checkedAt": "2022-05-26T14:00:09.000Z",
+  "updatedAt": "2023-01-17T11:41:02.000Z",
+  "checkedAt": "2023-01-17T08:00:11.000Z",
   "id": 105492,
   "identifier": "8b0df694-ea60-4b1d-b432-5f4ce6401d2f",
   "type": "manga",
@@ -9,16 +9,65 @@
   "title": "Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii ~OMAKE~",
   "url": "https://mangadex.org/title/8b0df694-ea60-4b1d-b432-5f4ce6401d2f",
   "image": "https://uploads.mangadex.org/covers/8b0df694-ea60-4b1d-b432-5f4ce6401d2f/02b0699a-db11-401f-b479-5f4d7e23a165.png",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 145375,
+  "aniId": 143028,
   "deletedAt": null,
   "authors": [
     "Nori5rou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-04-03T14:32:57.000Z",
+    "updatedAt": "2022-12-03T02:43:44.000Z",
+    "checkedAt": "2022-12-03T02:43:44.000Z",
+    "id": 145375,
+    "type": "manga",
+    "title": "Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii: Deep",
+    "altTitle": [
+      "Imaizumin's house is a place for gals to gather",
+      "今泉ん家はどうやらギャルの溜まり場になってるらしい～DEEP～"
+    ],
+    "url": "https://myanimelist.net/manga/145375/Imaizumin_Chi_wa_Douyara_Gal_no_Tamariba_ni_Natteru_Rashii__Deep",
+    "image": "https://cdn.myanimelist.net/images/manga/3/270284.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gammaplus.takeshobo.co.jp/manga/imaizuminchiha/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nori, Gorou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:46.588Z",
+    "updatedAt": "2022-12-03T02:43:43.000Z",
+    "checkedAt": "2022-12-03T02:43:43.000Z",
+    "id": 143028,
+    "type": "manga",
+    "title": "Imaizumi-chi wa Douyara Gal no Tamariba ni Nattteru Rashii: DEEP",
+    "altTitle": [
+      "今泉ん家はどうやらギャルの溜まり場になってるらしい〜DEEP〜",
+      "Imaizumin's House Is a Hangout Place for Gals",
+      "Imaizumin's House Is a Place for Gals to Gather",
+      "今泉家似乎變成辣妹的聚會所了"
+    ],
+    "url": "https://anilist.co/manga/143028",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143028-E3Nvngmerab3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 145375,
+    "deletedAt": null,
+    "authors": [
+      "Gorou Nori"
+    ]
+  }
 }

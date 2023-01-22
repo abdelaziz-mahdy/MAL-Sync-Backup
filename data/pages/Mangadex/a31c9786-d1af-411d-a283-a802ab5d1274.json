@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-04T05:22:54.000Z",
-  "updatedAt": "2021-12-08T08:36:10.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:24:47.000Z",
+  "checkedAt": "2023-01-21T05:01:36.000Z",
   "id": 53491,
   "identifier": "a31c9786-d1af-411d-a283-a802ab5d1274",
   "type": "manga",
@@ -12,14 +12,60 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131716,
+  "aniId": 132323,
   "deletedAt": null,
   "authors": [
     "Sakura Ao",
     "Awai Poppo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-02-18T20:03:50.000Z",
+    "updatedAt": "2022-07-06T04:00:03.000Z",
+    "checkedAt": "2022-07-06T04:00:03.000Z",
+    "id": 131716,
+    "type": "manga",
+    "title": "Osananajimi wa Ichiransei no Kedamono",
+    "altTitle": [
+      "My Childhood Friends Are Both Beasts",
+      "Osananajimi wa Ichiransei no Kedamono: Super Darling Futago to Torotoro 3-nin Seikatsu",
+      "幼馴染は一卵性の獣"
+    ],
+    "url": "https://myanimelist.net/manga/131716/Osananajimi_wa_Ichiransei_no_Kedamono",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241052.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Awai, Poppo",
+      "Sakura, Ao"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:04.128Z",
+    "updatedAt": "2022-08-08T11:12:50.000Z",
+    "checkedAt": "2022-08-08T11:12:50.000Z",
+    "id": 132323,
+    "type": "manga",
+    "title": "Osananajimi wa Ichiransei no Kemono: Super Darling Futago to Torotoro 3-ri Seikatsu ",
+    "altTitle": [
+      "幼馴染は一卵性の獣～スパダリ双子とトロトロ3人生活～",
+      "My Childhood Friends Are Both Beasts",
+      "幼馴染は一卵性の獣～スパダリ双子とトロトロ3人生活～"
+    ],
+    "url": "https://anilist.co/manga/132323",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132323-0w5MWAkmOJEU.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 131716,
+    "deletedAt": null,
+    "authors": [
+      "Ao Sakura",
+      "Poppo Awai"
+    ]
+  }
 }

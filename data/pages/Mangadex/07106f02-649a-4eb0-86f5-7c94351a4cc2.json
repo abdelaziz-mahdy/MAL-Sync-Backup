@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-30T00:25:23.000Z",
-  "updatedAt": "2021-12-08T11:09:11.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T16:20:00.000Z",
+  "checkedAt": "2023-01-21T14:01:12.000Z",
   "id": 60632,
   "identifier": "07106f02-649a-4eb0-86f5-7c94351a4cc2",
   "type": "manga",
@@ -12,14 +12,66 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 33113,
+  "aniId": 63113,
   "deletedAt": null,
   "authors": [
     "Ayasato Keiji",
     "Sakakibara Sousou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:46.000Z",
+    "updatedAt": "2023-01-14T05:19:31.000Z",
+    "checkedAt": "2023-01-14T05:19:31.000Z",
+    "id": 33113,
+    "type": "manga",
+    "title": "B.A.D.",
+    "altTitle": [
+      "Beyond Another Darkness",
+      "BAD",
+      "B.A.D."
+    ],
+    "url": "https://myanimelist.net/manga/33113/BAD",
+    "image": "https://cdn.myanimelist.net/images/manga/1/117173.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E2%80%9DB.A.D.%E2%80%9DBeyond_Another_Darkness"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sakakibara, Sousou",
+      "Ayasato, Keishi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:57.763Z",
+    "updatedAt": "2023-01-14T05:19:29.000Z",
+    "checkedAt": "2023-01-14T05:19:29.000Z",
+    "id": 63113,
+    "type": "manga",
+    "title": "B.A.D.",
+    "altTitle": [
+      "B.A.D.",
+      "Beyond Another Darkness",
+      "BAD"
+    ],
+    "url": "https://anilist.co/manga/63113",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63113-PjC2LY6kkjHw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 33113,
+    "deletedAt": null,
+    "authors": [
+      "Keishi Ayasato",
+      "Sousou Sakakibara",
+      "Ei Tozaki"
+    ]
+  }
 }

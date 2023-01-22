@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:08:12.000Z",
-  "updatedAt": "2021-12-04T08:47:57.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T09:20:00.000Z",
+  "checkedAt": "2023-01-19T08:48:39.000Z",
   "id": 12258,
   "identifier": "7b33003f-2db0-420a-bf1d-b49392909b54",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 31495,
+  "aniId": 61495,
   "deletedAt": null,
   "authors": [
     "Miyazono Izumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-31T04:40:42.000Z",
+    "updatedAt": "2022-09-24T22:07:55.000Z",
+    "checkedAt": "2022-09-24T22:07:55.000Z",
+    "id": 31495,
+    "type": "manga",
+    "title": "Ai♥Heya",
+    "altTitle": [
+      "Love Nest",
+      "Junai",
+      "Pure Love",
+      "Shunmin Shohousen",
+      "Springtime Sleep Remedy",
+      "あい♥部屋"
+    ],
+    "url": "https://myanimelist.net/manga/31495/Ai♥Heya",
+    "image": "https://cdn.myanimelist.net/images/manga/1/57977.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyazono, Izumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:10.250Z",
+    "updatedAt": "2022-09-24T22:07:55.000Z",
+    "checkedAt": "2022-09-24T22:07:55.000Z",
+    "id": 61495,
+    "type": "manga",
+    "title": "Ai♥Heya",
+    "altTitle": [
+      "あい♥部屋",
+      "Love Nest",
+      "Junai",
+      "Pure Love",
+      "Shunmin Shohousen",
+      "あい・部屋",
+      "Springtime Sleep Remedy"
+    ],
+    "url": "https://anilist.co/manga/61495",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx61495-7mCElOcW6Ppn.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 31495,
+    "deletedAt": null,
+    "authors": [
+      "Izumi Miyazono"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-12T15:17:52.000Z",
-  "updatedAt": "2021-12-08T09:07:02.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:28:10.000Z",
+  "checkedAt": "2023-01-21T05:33:44.000Z",
   "id": 53975,
   "identifier": "0e31d517-c6d1-4909-a659-eb60c26d89cd",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136939,
+  "aniId": 149655,
   "deletedAt": null,
   "authors": [
     "Danimaru"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T09:28:07.417Z",
+    "updatedAt": "2023-01-21T09:28:07.417Z",
+    "checkedAt": "2023-01-21T09:28:07.000Z",
+    "id": 136939,
+    "type": "manga",
+    "title": "Chikakute Tooi Anata",
+    "altTitle": [
+      "近くて遠いあなた"
+    ],
+    "url": "https://myanimelist.net/manga/136939/Chikakute_Tooi_Anata",
+    "image": "https://cdn.myanimelist.net/images/manga/2/245223.jpg",
+    "category": "One-shot",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Danimaru"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T05:33:44.791Z",
+    "updatedAt": "2023-01-21T05:33:44.791Z",
+    "checkedAt": "2023-01-21T05:33:44.000Z",
+    "id": 149655,
+    "type": "manga",
+    "title": "Chikakute Tooi Anata",
+    "altTitle": [
+      "近くて遠いあなた"
+    ],
+    "url": "https://anilist.co/manga/149655",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx149655-0uOQdVtEv7aX.jpg",
+    "category": "one_shot",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 136939,
+    "deletedAt": null,
+    "authors": [
+      "Danimaru"
+    ]
+  }
 }

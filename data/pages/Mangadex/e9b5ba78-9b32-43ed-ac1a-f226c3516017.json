@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-06-11T18:34:05.679Z",
-  "updatedAt": "2022-06-11T18:34:05.000Z",
-  "checkedAt": "2022-06-11T18:34:05.000Z",
+  "updatedAt": "2023-01-17T11:40:31.000Z",
+  "checkedAt": "2023-01-17T02:30:03.000Z",
   "id": 107061,
   "identifier": "e9b5ba78-9b32-43ed-ac1a-f226c3516017",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139808,
   "deletedAt": null,
   "authors": [
     "Kitada Ryouma"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:54.585Z",
+    "updatedAt": "2023-01-16T11:05:16.000Z",
+    "checkedAt": "2023-01-16T11:05:16.000Z",
+    "id": 139808,
+    "type": "manga",
+    "title": "#Project AC",
+    "altTitle": [
+      "#プロジェクトAC"
+    ],
+    "url": "https://anilist.co/manga/139808",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139808-hndrfggLE5UN.png",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Ryouma Kitada"
+    ]
+  }
 }

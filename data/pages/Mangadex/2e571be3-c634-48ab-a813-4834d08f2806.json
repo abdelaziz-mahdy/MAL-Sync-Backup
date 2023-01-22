@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:06:26.000Z",
-  "updatedAt": "2021-12-06T09:53:02.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:20:02.000Z",
+  "checkedAt": "2023-01-18T19:14:22.000Z",
   "id": 8495,
   "identifier": "2e571be3-c634-48ab-a813-4834d08f2806",
   "type": "manga",
@@ -13,29 +13,58 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": 82049,
+  "malId": 97673,
+  "aniId": 97069,
   "deletedAt": null,
   "authors": [
     "Hoshimori Yukimo"
   ],
-  "Mal": null,
-  "Ani": {
-    "createdAt": "2022-05-13T12:55:09.570Z",
-    "updatedAt": "2022-09-02T04:00:16.000Z",
-    "checkedAt": "2022-09-02T04:00:16.000Z",
-    "id": 82049,
+  "Mal": {
+    "createdAt": "2021-06-03T19:49:29.000Z",
+    "updatedAt": "2023-01-18T19:14:22.000Z",
+    "checkedAt": "2023-01-18T19:14:22.000Z",
+    "id": 97673,
     "type": "manga",
-    "title": "Yumeiro Button",
+    "title": "Kimi ga Anna Kiss wo Suru kara",
     "altTitle": [
-      "夢色ボタン"
+      "Yume-iro Button",
+      "Kono Koi, Rare-mono ni Tsuki.",
+      "Katakoi Ground",
+      "Because of your kiss",
+      "君があんなキスをするから"
     ],
-    "url": "https://anilist.co/manga/82049",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52049.jpg",
-    "category": "one_shot",
+    "url": "https://myanimelist.net/manga/97673/Kimi_ga_Anna_Kiss_wo_Suru_kara",
+    "image": "https://cdn.myanimelist.net/images/manga/2/174819.jpg",
+    "category": "Manga",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hoshimori, Yukimo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:11.171Z",
+    "updatedAt": "2022-05-13T12:45:11.171Z",
+    "checkedAt": null,
+    "id": 97069,
+    "type": "manga",
+    "title": "Kimi ga Anna Kiss wo Suru kara",
+    "altTitle": [
+      "君があんなキスをするから",
+      "Yume-iro Button",
+      "Kono Koi",
+      "Rare-mono ni Tsuki.",
+      "Katakoi Ground",
+      "Because of your kiss"
+    ],
+    "url": "https://anilist.co/manga/97069",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97069-nygOhXgXWMwg.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 97673,
     "deletedAt": null,
     "authors": [
       "Yukimo Hoshimori"

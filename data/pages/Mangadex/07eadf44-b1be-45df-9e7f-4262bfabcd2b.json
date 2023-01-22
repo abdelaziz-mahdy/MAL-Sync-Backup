@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:11:24.000Z",
-  "updatedAt": "2022-02-27T16:49:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T21:20:41.000Z",
+  "checkedAt": "2023-01-19T21:06:30.000Z",
   "id": 19238,
   "identifier": "07eadf44-b1be-45df-9e7f-4262bfabcd2b",
   "type": "manga",
@@ -12,18 +12,45 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 120825,
   "aniId": 101172,
   "deletedAt": null,
   "authors": [
     "Fargo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-06-25T17:30:05.160Z",
+    "updatedAt": "2023-01-15T15:28:42.000Z",
+    "checkedAt": "2023-01-15T15:28:42.000Z",
+    "id": 120825,
+    "type": "manga",
+    "title": "Love Is an Illusion!",
+    "altTitle": [
+      "Sarang-eun Hwansang!",
+      "Love Is an Illusion!",
+      "사랑은 환상!"
+    ],
+    "url": "https://myanimelist.net/manga/120825/Love_Is_an_Illusion",
+    "image": "https://cdn.myanimelist.net/images/manga/3/259358.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/illusion"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Fargo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:45:50.713Z",
-    "updatedAt": "2022-12-03T18:11:54.000Z",
-    "checkedAt": "2022-12-03T18:11:54.000Z",
+    "updatedAt": "2023-01-21T00:05:05.000Z",
+    "checkedAt": "2023-01-21T00:05:05.000Z",
     "id": 101172,
     "type": "manga",
     "title": "Sarangeun Hwansang!",
@@ -36,7 +63,7 @@
     "category": "manga",
     "hentai": true,
     "externalLinks": [],
-    "malId": null,
+    "malId": 120825,
     "deletedAt": null,
     "authors": [
       "Fargo"

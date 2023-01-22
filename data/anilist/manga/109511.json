@@ -1,22 +1,21 @@
 {
   "createdAt": "2022-05-13T13:01:34.888Z",
-  "updatedAt": "2022-05-18T00:28:17.000Z",
-  "checkedAt": "2022-05-18T00:28:17.000Z",
+  "updatedAt": "2023-01-20T10:11:03.000Z",
+  "checkedAt": "2023-01-20T10:11:03.000Z",
   "id": 109511,
   "type": "manga",
   "title": "Aein Shuttle",
   "altTitle": [
     "Love Shuttle",
     "애인셔틀",
-    " 애인셔틀",
-    "Aein Syeoteul"
+    "恋人パシリ〜遺伝子の発現にはご注意を〜"
   ],
   "url": "https://anilist.co/manga/109511",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109511-bJb32obrME8M.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109511-Siu1JX7sLzJm.jpg",
   "category": "manga",
   "hentai": true,
   "externalLinks": [],
-  "malId": null,
+  "malId": 122279,
   "deletedAt": null,
   "authors": [
     "Ae-Ju Im"
@@ -25,8 +24,8 @@
     "Mangadex": {
       "b1893ea4-2983-438e-af8e-464283d75728": {
         "createdAt": "2020-10-12T16:16:06.000Z",
-        "updatedAt": "2021-12-09T08:33:41.000Z",
-        "checkedAt": null,
+        "updatedAt": "2023-01-20T21:01:36.000Z",
+        "checkedAt": "2023-01-20T10:11:03.000Z",
         "id": 28403,
         "identifier": "b1893ea4-2983-438e-af8e-464283d75728",
         "type": "manga",
@@ -37,12 +36,36 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actorId": null,
-        "malId": null,
+        "actorId": 1,
+        "malId": 122279,
         "aniId": 109511,
         "deletedAt": null,
         "authors": [
           "Im Ae-Ju"
+        ]
+      }
+    },
+    "MangaFox": {
+      "love_shuttle": {
+        "createdAt": "2022-11-26T23:00:00.682Z",
+        "updatedAt": "2023-01-20T10:20:00.000Z",
+        "checkedAt": "2022-11-26T23:00:00.000Z",
+        "id": 118631,
+        "identifier": "love_shuttle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Shuttle",
+        "url": "https://fanfox.net/manga/love_shuttle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43575/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 122279,
+        "aniId": 109511,
+        "deletedAt": null,
+        "authors": [
+          "Im Ae Ju"
         ]
       }
     }

@@ -1,6 +1,6 @@
 {
   "createdAt": "2022-09-30T07:30:02.308Z",
-  "updatedAt": "2022-09-30T07:30:02.000Z",
+  "updatedAt": "2023-01-18T16:00:17.000Z",
   "checkedAt": "2022-09-30T07:30:02.000Z",
   "id": 115441,
   "identifier": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
@@ -12,14 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 153783,
+  "aniId": 158954,
   "deletedAt": null,
   "authors": [
     "Yuuki Ryou (結城涼)",
     "Segawa Hajime"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-12-07T06:00:01.424Z",
+    "updatedAt": "2022-12-07T06:00:01.424Z",
+    "checkedAt": "2022-12-07T06:00:01.000Z",
+    "id": 153783,
+    "type": "manga",
+    "title": "Monogatari no Kuromaku ni Tensei shite",
+    "altTitle": [
+      "Reincarnated as the Mastermind of the Story",
+      "物語の黒幕に転生して"
+    ],
+    "url": "https://myanimelist.net/manga/153783/Monogatari_no_Kuromaku_ni_Tensei_shite",
+    "image": "https://cdn.myanimelist.net/images/manga/1/272646.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/shonenace/contents/614/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Segawa, Hajime",
+      "Yuuki, Ryou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-18T16:00:17.968Z",
+    "updatedAt": "2023-01-18T16:00:17.968Z",
+    "checkedAt": "2023-01-18T16:00:17.000Z",
+    "id": 158954,
+    "type": "manga",
+    "title": "Monogatari no Kuromaku ni Tensei Shite",
+    "altTitle": [
+      "物語の黒幕に転生して",
+      "Reincarnated as the Mastermind of the Story"
+    ],
+    "url": "https://anilist.co/manga/158954",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b158954-5R4QI7y2WP19.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 153783,
+    "deletedAt": null,
+    "authors": [
+      "Ryou Yuuki",
+      "Hajime Segawa",
+      "Nakamura"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:17.000Z",
-  "updatedAt": "2021-12-05T20:19:28.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T12:20:00.000Z",
+  "checkedAt": "2023-01-20T01:50:34.000Z",
   "id": 22557,
   "identifier": "ad95f6c5-adfb-4db1-864f-c699b77cd445",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122971,
+  "aniId": 117538,
   "deletedAt": null,
   "authors": [
     "Watabe Jun"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-03-05T16:50:04.000Z",
+    "updatedAt": "2023-01-20T01:50:33.000Z",
+    "checkedAt": "2023-01-20T01:50:33.000Z",
+    "id": 122971,
+    "type": "manga",
+    "title": "Lemon Angel",
+    "altTitle": [
+      "Lemon Angel",
+      "レモンエンジェル"
+    ],
+    "url": "https://myanimelist.net/manga/122971/Lemon_Angel",
+    "image": "https://cdn.myanimelist.net/images/manga/2/231024.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A2%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Watabe, Jun"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:09.964Z",
+    "updatedAt": "2022-06-14T15:39:27.000Z",
+    "checkedAt": "2022-06-14T15:39:27.000Z",
+    "id": 117538,
+    "type": "manga",
+    "title": "Lemon Angel",
+    "altTitle": [
+      "Lemon Angel",
+      "レモンエンジェル"
+    ],
+    "url": "https://anilist.co/manga/117538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117538-WIB0DUgXYT7B.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 122971,
+    "deletedAt": null,
+    "authors": [
+      "Jun Watabe"
+    ]
+  }
 }

@@ -1,24 +1,69 @@
 {
   "createdAt": "2020-10-12T16:20:20.000Z",
-  "updatedAt": "2021-12-08T00:08:36.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T22:10:35.000Z",
+  "checkedAt": "2023-01-20T21:40:22.000Z",
   "id": 37004,
   "identifier": "3b2b820e-46e7-438e-90fb-89e8a7ecc830",
   "type": "manga",
   "page": "Mangadex",
   "title": "Sukebe no Seishun",
   "url": "https://mangadex.org/title/3b2b820e-46e7-438e-90fb-89e8a7ecc830",
-  "image": "https://uploads.mangadex.org/covers/3b2b820e-46e7-438e-90fb-89e8a7ecc830/27d8a54f-a031-4d69-b822-d7f7551ad9f5.jpg",
-  "hentai": false,
+  "image": "https://uploads.mangadex.org/covers/3b2b820e-46e7-438e-90fb-89e8a7ecc830/0aee9710-ab6b-4655-b952-ba16df32ecc2.jpg",
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 131426,
+  "aniId": 120906,
   "deletedAt": null,
   "authors": [
     "Hata Takashi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-09-10T15:00:21.722Z",
+    "updatedAt": "2022-09-10T15:00:21.722Z",
+    "checkedAt": "2022-09-10T15:00:21.000Z",
+    "id": 131426,
+    "type": "manga",
+    "title": "Sukebe no Seishun",
+    "altTitle": [
+      "Lewd Youth",
+      "Perverted Youth",
+      "My Perverted Youth",
+      "スケベの青春"
+    ],
+    "url": "https://myanimelist.net/manga/131426/Sukebe_no_Seishun",
+    "image": "https://cdn.myanimelist.net/images/manga/2/237894.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hata, Takashi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:49:06.470Z",
+    "updatedAt": "2022-09-21T12:20:08.000Z",
+    "checkedAt": "2022-09-21T12:20:08.000Z",
+    "id": 120906,
+    "type": "manga",
+    "title": "Sukebe no Seishun",
+    "altTitle": [
+      "My Perverted Youth",
+      "スケベの青春"
+    ],
+    "url": "https://anilist.co/manga/120906",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120906-e6UQjJvVbW8x.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 131426,
+    "deletedAt": null,
+    "authors": [
+      "Takashi Hata",
+      "Joshua Hardy"
+    ]
+  }
 }

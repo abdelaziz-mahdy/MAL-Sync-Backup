@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:39.000Z",
-  "updatedAt": "2021-12-08T00:42:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T23:56:37.000Z",
+  "checkedAt": "2023-01-20T22:12:56.000Z",
   "id": 37627,
   "identifier": "670ed847-f421-4932-a3ca-139095300da2",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 84029,
+  "aniId": 98946,
   "deletedAt": null,
   "authors": [
-    "OZAKI Akira (尾崎晶)"
+    "Ozaki Akira"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T23:56:35.731Z",
+    "updatedAt": "2023-01-20T23:56:35.731Z",
+    "checkedAt": "2023-01-20T23:56:35.000Z",
+    "id": 84029,
+    "type": "manga",
+    "title": "Kura + Kuri",
+    "altTitle": [
+      "Raki + Kuri",
+      "Lucky+Clinic",
+      "Rewrite Clinic",
+      "Lucky Clinic",
+      "Rewrite+Clinic",
+      "リラ+クリ"
+    ],
+    "url": "https://myanimelist.net/manga/84029/Kura___Kuri",
+    "image": "https://cdn.myanimelist.net/images/manga/3/145769.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ozaki, Akira"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T22:12:56.673Z",
+    "updatedAt": "2023-01-20T22:12:56.673Z",
+    "checkedAt": "2023-01-20T22:12:56.000Z",
+    "id": 98946,
+    "type": "manga",
+    "title": "Kura + Kuri",
+    "altTitle": [
+      "Rewrite + Clinic",
+      "リラ + クリ",
+      "ラキ+クリ―リラ+クリ",
+      "Lucky Clinic",
+      "Rewrite Clinic",
+      "Raki + Kuri"
+    ],
+    "url": "https://anilist.co/manga/98946",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98946-pWthKVXXzhz3.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 84029,
+    "deletedAt": null,
+    "authors": [
+      "Akira Ozaki"
+    ]
+  }
 }

@@ -1,24 +1,83 @@
 {
   "createdAt": "2020-10-12T16:17:30.000Z",
-  "updatedAt": "2021-12-07T08:18:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T15:20:00.000Z",
+  "checkedAt": "2023-01-20T14:20:41.000Z",
   "id": 31260,
   "identifier": "84cbaaaf-f416-4c4e-9b46-af84b77d55a9",
   "type": "manga",
   "page": "Mangadex",
-  "title": "To Be You, Even Just for a Day (Pre-serialization)",
+  "title": "Your Throne (Pre-Serialization)",
   "url": "https://mangadex.org/title/84cbaaaf-f416-4c4e-9b46-af84b77d55a9",
   "image": "https://uploads.mangadex.org/covers/84cbaaaf-f416-4c4e-9b46-af84b77d55a9/d6182934-7637-4e9f-bedc-6d331c4fd091.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 130832,
+  "aniId": 114542,
   "deletedAt": null,
   "authors": [
     "Sam (삼)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-11-01T17:13:59.000Z",
+    "updatedAt": "2022-12-01T01:09:00.000Z",
+    "checkedAt": "2022-12-01T01:08:59.000Z",
+    "id": 130832,
+    "type": "manga",
+    "title": "Your Throne",
+    "altTitle": [
+      "I Want to Be You, Just For A Day",
+      "Haruman Nega Doego Sipeo",
+      "Your Throne",
+      "하루만 네가 되고 싶어"
+    ],
+    "url": "https://myanimelist.net/manga/130832/Your_Throne",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236523.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list.nhn?titleId=738487"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "SAM"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:28.859Z",
+    "updatedAt": "2022-12-02T05:58:30.000Z",
+    "checkedAt": "2022-12-02T05:58:30.000Z",
+    "id": 114542,
+    "type": "manga",
+    "title": "Haruman Nega Doego Sipeo",
+    "altTitle": [
+      "Your Throne",
+      "하루만 네가 되고 싶어",
+      "La Duchesse Déchue",
+      "I Want to Be You, Just for a Day",
+      "ชิงชีวิตพลิกลิขิตชะตา",
+      "以你之名",
+      "惡女的變身",
+      " Wanna Be U",
+      "Quiero ser tú, solo por un día",
+      "ชิงชีวิตพลิกลิขิตชะตา",
+      "君の全てを奪いたい",
+      "Tu trono"
+    ],
+    "url": "https://anilist.co/manga/114542",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114542-3fUNOX8DqS5e.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130832,
+    "deletedAt": null,
+    "authors": [
+      "Sam"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:23.000Z",
-  "updatedAt": "2021-12-08T02:35:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T16:20:00.000Z",
+  "checkedAt": "2023-01-21T00:10:47.000Z",
   "id": 39207,
   "identifier": "2a074c23-5162-4bdc-8632-c3b190160e1c",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 139381,
+  "aniId": 138180,
   "deletedAt": null,
   "authors": [
     "Madoka Takadono",
@@ -22,6 +22,63 @@
     "Shirahama Kamome",
     "Nakata Haruhisa"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T00:10:47.271Z",
+    "updatedAt": "2023-01-21T00:10:47.271Z",
+    "checkedAt": "2023-01-21T00:10:47.000Z",
+    "id": 139381,
+    "type": "manga",
+    "title": "Kugutsu Senki",
+    "altTitle": [
+      "傀儡戦記"
+    ],
+    "url": "https://myanimelist.net/manga/139381/Kugutsu_Senki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249009.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Okazaki, Mari",
+      "Ogaki, Chika",
+      "Takadono, Madoka",
+      "Hebizou",
+      "Nakata, Haruhisa",
+      "Shirahama, Kamome",
+      "Yamamoto, Aki",
+      "Haruichi",
+      "Yoshikawa, Keito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:14.538Z",
+    "updatedAt": "2022-05-13T13:01:14.538Z",
+    "checkedAt": null,
+    "id": 138180,
+    "type": "manga",
+    "title": "Kugutsu Senki",
+    "altTitle": [
+      "傀儡戦記"
+    ],
+    "url": "https://anilist.co/manga/138180",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138180-qOEM9hmbHTMf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 139381,
+    "deletedAt": null,
+    "authors": [
+      "Hebi-Zou",
+      "Matsuki Yamamoto",
+      "Madoka Takadono",
+      "Mari Okazaki",
+      "Hebi-Zou",
+      "Madoka Takadono",
+      "Aki Yamamoto",
+      "Haruichi",
+      "Haruhisa Nakata",
+      "Kamome Shirahama"
+    ]
+  }
 }

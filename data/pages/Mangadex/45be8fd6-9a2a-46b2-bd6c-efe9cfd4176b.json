@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-11T09:17:43.000Z",
-  "updatedAt": "2021-12-08T08:38:30.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:40:12.000Z",
+  "checkedAt": "2023-01-21T05:21:13.000Z",
   "id": 53881,
   "identifier": "45be8fd6-9a2a-46b2-bd6c-efe9cfd4176b",
   "type": "manga",
@@ -12,9 +12,9 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": 107733,
-  "aniId": null,
+  "aniId": 148924,
   "deletedAt": null,
   "authors": [
     "8go!",
@@ -42,5 +42,25 @@
       "Miyoshi, Ayato"
     ]
   },
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T13:00:31.854Z",
+    "updatedAt": "2023-01-21T21:13:40.000Z",
+    "checkedAt": "2023-01-21T21:13:40.000Z",
+    "id": 148924,
+    "type": "manga",
+    "title": "Irony Dress ni Sayonara: Koromogae",
+    "altTitle": [
+      "アイロニードレスにさよなら - ころもがえ"
+    ],
+    "url": "https://anilist.co/manga/148924",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx148924-fbNqvuNnBzmK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 107733,
+    "deletedAt": null,
+    "authors": [
+      "Ayato Miyoshi"
+    ]
+  }
 }

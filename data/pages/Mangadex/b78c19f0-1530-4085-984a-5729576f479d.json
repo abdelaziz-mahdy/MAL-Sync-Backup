@@ -1,25 +1,69 @@
 {
   "createdAt": "2020-10-12T16:10:37.000Z",
-  "updatedAt": "2021-12-05T02:19:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T20:52:16.000Z",
+  "checkedAt": "2023-01-19T19:06:32.000Z",
   "id": 17529,
   "identifier": "b78c19f0-1530-4085-984a-5729576f479d",
   "type": "manga",
   "page": "Mangadex",
-  "title": "The Hero in Satan's House",
+  "title": "Yuusha in Maounchi",
   "url": "https://mangadex.org/title/b78c19f0-1530-4085-984a-5729576f479d",
   "image": "https://uploads.mangadex.org/covers/b78c19f0-1530-4085-984a-5729576f479d/eee90e27-61a2-4475-951d-99aa7d6cb8a2.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 106206,
+  "aniId": 98324,
   "deletedAt": null,
   "authors": [
     "Inutoki",
     "Syohei"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:47:02.000Z",
+    "updatedAt": "2022-12-02T13:04:34.000Z",
+    "checkedAt": "2022-12-02T13:04:34.000Z",
+    "id": 106206,
+    "type": "manga",
+    "title": "Yuusha in Maounchi",
+    "altTitle": [
+      "Hero In The Satan's House",
+      "勇者IN魔王んち"
+    ],
+    "url": "https://myanimelist.net/manga/106206/Yuusha_in_Maounchi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/212777.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Inutoki",
+      "Shouhei"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:42:47.142Z",
+    "updatedAt": "2022-12-02T13:04:33.000Z",
+    "checkedAt": "2022-12-02T13:04:33.000Z",
+    "id": 98324,
+    "type": "manga",
+    "title": "Yuusha in Maou n Chi",
+    "altTitle": [
+      "勇者IN魔王んち",
+      "Hero In The Satan's House"
+    ],
+    "url": "https://anilist.co/manga/98324",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98324-lfKpOIRGNPmO.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 106206,
+    "deletedAt": null,
+    "authors": [
+      "Inutoki",
+      "Shouhei"
+    ]
+  }
 }

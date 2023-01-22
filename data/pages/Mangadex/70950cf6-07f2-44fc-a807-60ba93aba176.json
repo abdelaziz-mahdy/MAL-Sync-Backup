@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:34.000Z",
-  "updatedAt": "2022-05-23T04:00:02.000Z",
-  "checkedAt": "2022-05-23T04:00:02.000Z",
+  "updatedAt": "2023-01-18T12:39:33.000Z",
+  "checkedAt": "2023-01-18T11:00:00.000Z",
   "id": 37490,
   "identifier": "70950cf6-07f2-44fc-a807-60ba93aba176",
   "type": "manga",
@@ -12,13 +12,40 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 127699,
   "aniId": null,
   "deletedAt": null,
   "authors": [
     "Lero"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-07-04T15:00:07.549Z",
+    "updatedAt": "2023-01-21T22:38:07.000Z",
+    "checkedAt": "2023-01-21T22:38:07.000Z",
+    "id": 127699,
+    "type": "manga",
+    "title": "Secret Alliance",
+    "altTitle": [
+      "Secret Dongmaeng",
+      "Secret Alliance",
+      "시크릿 동맹"
+    ],
+    "url": "https://myanimelist.net/manga/127699/Secret_Alliance",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259617.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/secretcontract"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Lero"
+    ]
+  },
   "Ani": null
 }

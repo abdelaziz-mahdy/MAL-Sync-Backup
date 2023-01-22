@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:21:13.000Z",
-  "updatedAt": "2021-12-08T02:09:06.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T00:00:38.000Z",
+  "checkedAt": "2023-01-20T23:41:23.000Z",
   "id": 38881,
   "identifier": "1e12a446-6cad-4ada-bda1-6f7153e2c49d",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 122629,
+  "aniId": 124985,
   "deletedAt": null,
   "authors": [
     "Onigiri Musubi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-09T16:35:59.000Z",
+    "updatedAt": "2022-12-06T12:38:46.000Z",
+    "checkedAt": "2022-12-06T12:38:46.000Z",
+    "id": 122629,
+    "type": "manga",
+    "title": "Ookami-san wa Taberaretai: Bukiyou Joshi to Hetare Kyoushi, Konya Hatsutaiken shimasu.",
+    "altTitle": [
+      "I Want to be His Prey",
+      "オオカミさんは食べられたい～不器用女子とヘタレ教師、今夜初体験します。"
+    ],
+    "url": "https://myanimelist.net/manga/122629/Ookami-san_wa_Taberaretai__Bukiyou_Joshi_to_Hetare_Kyoushi_Konya_Hatsutaiken_shimasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235052.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E3%81%95%E3%82%93%E3%81%AF%E9%A3%9F%E3%81%B9%E3%82%89%E3%82%8C%E3%81%9F%E3%81%84%E3%80%9C%E4%B8%8D%E5%99%A8%E7%94%A8%E5%A5%B3%E5%AD%90%E3%81%A8%E3%83%98%E3%82%BF%E3%83%AC%E6%95%99%E5%B8%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Onigiri, Musubi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:22.876Z",
+    "updatedAt": "2022-12-06T12:38:46.000Z",
+    "checkedAt": "2022-12-06T12:38:46.000Z",
+    "id": 124985,
+    "type": "manga",
+    "title": "Ookami-san wa Taberaretai: Bukiyou Joshi to Hetare Kyoushi, Konya Hatsutaiken Shimasu.",
+    "altTitle": [
+      "I Want to be His Prey",
+      "オオカミさんは食べられたい～不器用女子とヘタレ教師、今夜初体験します。"
+    ],
+    "url": "https://anilist.co/manga/124985",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124985-vL9RLVJLcs0x.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 122629,
+    "deletedAt": null,
+    "authors": [
+      "Musubi Onigiri"
+    ]
+  }
 }

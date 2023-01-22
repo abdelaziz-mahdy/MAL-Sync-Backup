@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-03T18:25:28.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:08:19.000Z",
+  "checkedAt": "2023-01-18T20:00:24.000Z",
   "id": 39677,
   "identifier": "yqq7j",
   "type": "anime",
@@ -12,54 +12,42 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": 10882,
-  "aniId": 10882,
+  "actorId": 1,
+  "malId": 30278,
+  "aniId": null,
   "deletedAt": null,
   "Mal": {
-    "createdAt": "2021-10-07T02:03:51.000Z",
-    "updatedAt": "2022-12-01T13:55:05.000Z",
-    "checkedAt": "2022-12-01T13:55:05.000Z",
-    "id": 10882,
+    "createdAt": "2021-10-07T02:03:41.000Z",
+    "updatedAt": "2022-12-07T00:39:30.000Z",
+    "checkedAt": "2022-12-07T00:39:30.000Z",
+    "id": 30278,
     "type": "anime",
-    "title": "Ghost Messenger",
+    "title": "Ghost Messenger Movie",
     "altTitle": [
-      "고스트 메신저"
+      "Ghost Messenger Geugjangpan",
+      "고스트 메신저 극장판"
     ],
-    "url": "https://myanimelist.net/anime/10882/Ghost_Messenger",
-    "image": "https://cdn.myanimelist.net/images/anime/7/30034.jpg",
-    "category": "OVA",
+    "url": "https://myanimelist.net/anime/30278/Ghost_Messenger_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1984/93768.jpg",
+    "category": "Movie",
     "hentai": false,
     "externalLinks": [
       {
         "site": "officialsite",
-        "url": "http://www.ghostmessenger.co.kr/main.asp"
+        "url": "http://www.ghostmessenger.co.kr/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13857"
       },
       {
         "site": "wikipedia",
-        "url": "http://ko.wikipedia.org/wiki/고스트_메신저"
+        "url": "https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%9E%A5%ED%8C%90_%EA%B3%A0%EC%8A%A4%ED%8A%B8_%EB%A9%94%EC%8B%A0%EC%A0%80"
       }
     ],
     "legalLinks": [],
     "deletedAt": null,
-    "anidbId": null
+    "anidbId": 13857
   },
-  "Ani": {
-    "createdAt": "2021-08-01T14:17:28.000Z",
-    "updatedAt": "2022-12-04T21:13:14.000Z",
-    "checkedAt": "2022-12-04T21:13:14.000Z",
-    "id": 10882,
-    "type": "anime",
-    "title": "Ghost Messenger",
-    "altTitle": [
-      "고스트 메신저"
-    ],
-    "url": "https://anilist.co/anime/10882",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10882.jpg",
-    "category": "ova",
-    "hentai": false,
-    "externalLinks": [],
-    "malId": 10882,
-    "deletedAt": null
-  }
+  "Ani": null
 }

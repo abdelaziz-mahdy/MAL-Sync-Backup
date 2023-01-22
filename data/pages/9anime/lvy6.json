@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-02-14T04:08:05.000Z",
-  "updatedAt": "2022-09-28T21:15:34.517Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-18T20:20:01.000Z",
+  "checkedAt": "2023-01-18T19:59:22.000Z",
   "id": 34779,
   "identifier": "lvy6",
   "type": "anime",
@@ -12,10 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 45518,
+  "aniId": 129872,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-18T19:59:24.455Z",
+    "updatedAt": "2023-01-18T19:59:24.455Z",
+    "checkedAt": "2023-01-18T19:59:24.000Z",
+    "id": 45518,
+    "type": "anime",
+    "title": "Urvan",
+    "altTitle": [
+      "URVAN"
+    ],
+    "url": "https://myanimelist.net/anime/45518/Urvan",
+    "image": "https://cdn.myanimelist.net/images/anime/1650/112507.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://youtu.be/V4xzPH3NZuo"
+      },
+      {
+        "site": "anidb",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16052"
+      },
+      {
+        "site": "ann",
+        "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24040"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16052
+  },
+  "Ani": {
+    "createdAt": "2021-07-14T06:20:49.000Z",
+    "updatedAt": "2023-01-19T02:03:29.000Z",
+    "checkedAt": "2023-01-19T02:03:29.000Z",
+    "id": 129872,
+    "type": "anime",
+    "title": "URVAN",
+    "altTitle": [
+      "ウルヴァン"
+    ],
+    "url": "https://anilist.co/anime/129872",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129872-SsVjFgTQu2aA.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 45518,
+    "deletedAt": null
+  }
 }

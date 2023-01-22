@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:16:07.000Z",
-  "updatedAt": "2021-12-06T19:49:43.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:21:29.000Z",
+  "checkedAt": "2023-01-20T10:11:16.000Z",
   "id": 28411,
   "identifier": "5f7da944-a1bd-4628-9d95-a139f660ab7f",
   "type": "manga",
@@ -12,14 +12,68 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 121068,
+  "aniId": 136618,
   "deletedAt": null,
   "authors": [
     "Takaku Tubby",
     "Shirono Mahiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T10:11:15.802Z",
+    "updatedAt": "2023-01-20T10:11:15.802Z",
+    "checkedAt": "2023-01-20T10:11:15.000Z",
+    "id": 121068,
+    "type": "manga",
+    "title": "Tsumatorare",
+    "altTitle": [
+      "Wife Taking",
+      "Tane no Nai Hachi",
+      "Kyoukai no Yugami",
+      "Mottomo Fukaku",
+      "Musuko ga Kaeru made",
+      "Tane no Nai Hachi: Wakaba",
+      "妻とられ"
+    ],
+    "url": "https://myanimelist.net/manga/121068/Tsumatorare",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248962.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takaku, Tubby"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:58:51.779Z",
+    "updatedAt": "2023-01-20T10:11:16.000Z",
+    "checkedAt": "2023-01-20T10:11:16.000Z",
+    "id": 136618,
+    "type": "manga",
+    "title": "Tsuma Torare",
+    "altTitle": [
+      "妻とられ",
+      "Tane no Nai Hachi",
+      "種の無い鉢",
+      "Kyoukai no Yugami",
+      "境界の歪み",
+      "Motto mo Fukaku",
+      "もっとも深く",
+      "Musuko ga Kaeru made",
+      "息子が帰るまで"
+    ],
+    "url": "https://anilist.co/manga/136618",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136618-gQlfLDtJ9TkJ.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 121068,
+    "deletedAt": null,
+    "authors": [
+      "Tubby Takaku"
+    ]
+  }
 }

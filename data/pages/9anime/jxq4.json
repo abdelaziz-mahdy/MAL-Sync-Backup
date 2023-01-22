@@ -1,6 +1,6 @@
 {
   "createdAt": "2021-01-01T13:06:00.000Z",
-  "updatedAt": "2022-10-05T02:00:06.000Z",
+  "updatedAt": "2023-01-18T20:20:01.000Z",
   "checkedAt": "2022-10-05T02:00:06.000Z",
   "id": 32472,
   "identifier": "jxq4",
@@ -13,9 +13,61 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 44570,
+  "aniId": 129649,
   "deletedAt": null,
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-01-20T17:04:25.000Z",
+    "updatedAt": "2022-12-03T20:31:27.000Z",
+    "checkedAt": "2022-12-03T20:31:27.000Z",
+    "id": 44570,
+    "type": "anime",
+    "title": "Xiong Bing Lian: Zhu Tian Jianglin",
+    "altTitle": [
+      "Super Seminary Sixth Season",
+      "雄兵连II诸天降临"
+    ],
+    "url": "https://myanimelist.net/anime/44570/Xiong_Bing_Lian__Zhu_Tian_Jianglin",
+    "image": "https://cdn.myanimelist.net/images/anime/1539/114403.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://baike.baidu.com/item/%E9%9B%84%E5%85%B5%E8%BF%9E%E4%B9%8B%E8%AF%B8%E5%A4%A9%E9%99%8D%E4%B8%B4"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14869"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E8%B6%85%E7%A5%9E%E5%AD%A6%E9%99%A2#%E8%AB%B8%E5%A4%A9%E9%99%8D%E8%87%A8"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14869
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:15.000Z",
+    "updatedAt": "2022-12-03T20:31:26.000Z",
+    "checkedAt": "2022-12-03T20:31:26.000Z",
+    "id": 129649,
+    "type": "anime",
+    "title": "Xiong Bing Lian 2: Zhu Tian Jianglin",
+    "altTitle": [
+      "雄兵连2 诸天降临",
+      "雄兵连II 诸天降临",
+      "雄兵连之诸天降临",
+      "The Black Troop 2: The Arrival of Deities"
+    ],
+    "url": "https://anilist.co/anime/129649",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129649-7dJzpLDSt2v3.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44570,
+    "deletedAt": null
+  }
 }

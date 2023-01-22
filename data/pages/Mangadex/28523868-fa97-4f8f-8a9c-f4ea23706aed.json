@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:15:16.000Z",
-  "updatedAt": "2021-12-06T12:18:49.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:17:06.000Z",
+  "checkedAt": "2023-01-20T07:40:36.000Z",
   "id": 26657,
   "identifier": "28523868-fa97-4f8f-8a9c-f4ea23706aed",
   "type": "manga",
@@ -12,14 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 121090,
+  "aniId": 136906,
   "deletedAt": null,
   "authors": [
     "Sasaki Teiko",
     "Yamada Yugi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T11:17:04.261Z",
+    "updatedAt": "2023-01-20T11:17:04.261Z",
+    "checkedAt": "2023-01-20T11:17:04.000Z",
+    "id": 121090,
+    "type": "manga",
+    "title": "Uchi no Kamisama ni wa Gakkari da!",
+    "altTitle": [
+      "うちの神様にはがっかりだ!"
+    ],
+    "url": "https://myanimelist.net/manga/121090/Uchi_no_Kamisama_ni_wa_Gakkari_da",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224818.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Yamada, Yugi",
+      "Sasaki, Teiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:48.081Z",
+    "updatedAt": "2023-01-20T07:40:36.000Z",
+    "checkedAt": "2023-01-20T07:40:36.000Z",
+    "id": 136906,
+    "type": "manga",
+    "title": "Uchi no Kami-sama ni wa Gakkari da!",
+    "altTitle": [
+      "うちの神様にはがっかりだ!",
+      "Our God is a Disappointment!"
+    ],
+    "url": "https://anilist.co/manga/136906",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136906-3V3dJvZcImKt.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 121090,
+    "deletedAt": null,
+    "authors": [
+      "Teiko Sasaki",
+      "Yugi Yamada"
+    ]
+  }
 }

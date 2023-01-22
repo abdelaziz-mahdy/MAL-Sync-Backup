@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:13:05.000Z",
-  "updatedAt": "2021-12-05T18:50:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T12:20:00.000Z",
+  "checkedAt": "2023-01-20T01:11:05.000Z",
   "id": 22151,
   "identifier": "c2164d65-3a75-47ec-b66e-438d39caabf3",
   "type": "manga",
@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147465,
+  "aniId": 103855,
   "deletedAt": null,
   "authors": [
     "Croissant"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-06-07T14:30:10.580Z",
+    "updatedAt": "2023-01-01T18:17:35.000Z",
+    "checkedAt": "2023-01-01T18:17:35.000Z",
+    "id": 147465,
+    "type": "manga",
+    "title": "Refund High School",
+    "altTitle": [
+      "Gogyosaeng-eul Hwanbulhae Juseyo",
+      "Refund High School",
+      "고교생을 환불해 주세요"
+    ],
+    "url": "https://myanimelist.net/manga/147465/Refund_High_School",
+    "image": "https://cdn.myanimelist.net/images/manga/2/261887.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=708453"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Croissant"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:21.593Z",
+    "updatedAt": "2023-01-01T18:17:34.000Z",
+    "checkedAt": "2023-01-01T18:17:34.000Z",
+    "id": 103855,
+    "type": "manga",
+    "title": "Gogyosaengeul Hwanbulhae Juseyo",
+    "altTitle": [
+      "Refund High School",
+      "고교생을 환불해 주세요",
+      "ชีวิตนักเรียนฉัน ขอคืนเถอะนะ",
+      "Return My School Life",
+      "Lycée post-mortem"
+    ],
+    "url": "https://anilist.co/manga/103855",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103855-gFR3ypYyDYFl.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147465,
+    "deletedAt": null,
+    "authors": [
+      "Croissant"
+    ]
+  }
 }

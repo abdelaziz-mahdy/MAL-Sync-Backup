@@ -1,24 +1,72 @@
 {
   "createdAt": "2021-03-12T00:39:41.000Z",
-  "updatedAt": "2021-12-08T12:40:41.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T21:20:00.000Z",
+  "checkedAt": "2023-01-21T19:10:39.000Z",
   "id": 65316,
   "identifier": "3ae662b9-daeb-48c8-ae7c-345cc4504498",
   "type": "manga",
   "page": "Mangadex",
   "title": "Iki Dekinai no wa Kimi no Sei",
   "url": "https://mangadex.org/title/3ae662b9-daeb-48c8-ae7c-345cc4504498",
-  "image": "https://uploads.mangadex.org/covers/3ae662b9-daeb-48c8-ae7c-345cc4504498/8dca29ae-9c05-49a9-9ad2-389b99a41cb6.png",
+  "image": "https://uploads.mangadex.org/covers/3ae662b9-daeb-48c8-ae7c-345cc4504498/b67ae7fe-9f7c-429b-ab77-1e843c07bdba.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136969,
+  "aniId": 130883,
   "deletedAt": null,
   "authors": [
     "Sumiya Zeniko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-08-05T06:19:53.000Z",
+    "updatedAt": "2023-01-19T17:32:56.000Z",
+    "checkedAt": "2023-01-19T17:32:56.000Z",
+    "id": 136969,
+    "type": "manga",
+    "title": "Iki Dekinai no wa Kimi no Sei",
+    "altTitle": [
+      "Breathless Momentum",
+      "息できないのは君のせい"
+    ],
+    "url": "https://myanimelist.net/manga/136969/Iki_Dekinai_no_wa_Kimi_no_Sei",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245266.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/6926"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Sumiya, Zeniko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:07.212Z",
+    "updatedAt": "2023-01-19T17:32:55.000Z",
+    "checkedAt": "2023-01-19T17:32:55.000Z",
+    "id": 130883,
+    "type": "manga",
+    "title": "Iki Dekinai no wa Kimi no Sei",
+    "altTitle": [
+      "Breathless Momentum",
+      "息できないのは君のせい",
+      "It's Your Fault I Can't Breathe"
+    ],
+    "url": "https://anilist.co/manga/130883",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130883-wvFSOjrCuA7d.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136969,
+    "deletedAt": null,
+    "authors": [
+      "Zeniko Sumiya"
+    ]
+  }
 }

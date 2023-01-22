@@ -1,25 +1,73 @@
 {
   "createdAt": "2021-01-06T12:30:17.000Z",
-  "updatedAt": "2021-12-08T10:06:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:37:28.000Z",
+  "checkedAt": "2023-01-21T09:44:39.000Z",
   "id": 57482,
   "identifier": "9c13441d-f78c-4237-9b57-4cad46df5be9",
   "type": "manga",
   "page": "Mangadex",
   "title": "Prime Ministers Club",
   "url": "https://mangadex.org/title/9c13441d-f78c-4237-9b57-4cad46df5be9",
-  "image": "https://uploads.mangadex.org/covers/9c13441d-f78c-4237-9b57-4cad46df5be9/76f0b5e8-3511-4bee-9693-f83afbd55024.jpg",
+  "image": "https://uploads.mangadex.org/covers/9c13441d-f78c-4237-9b57-4cad46df5be9/5520ee64-2a75-4aee-bddf-0b2278e103e1.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 135850,
+  "aniId": 128236,
   "deletedAt": null,
   "authors": [
-    "Hidekazu Himaruya",
+    "Himaruya Hidekazu",
     "Sakura Kenichi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T09:44:39.093Z",
+    "updatedAt": "2023-01-21T09:44:39.093Z",
+    "checkedAt": "2023-01-21T09:44:39.000Z",
+    "id": 135850,
+    "type": "manga",
+    "title": "Souri Club",
+    "altTitle": [
+      "Prime Minister Club",
+      "総理倶楽部"
+    ],
+    "url": "https://myanimelist.net/manga/135850/Souri_Club",
+    "image": "https://cdn.myanimelist.net/images/manga/2/243695.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://jumpsq.shueisha.co.jp/rensai/primeministerclub/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Himaruya, Hidekaz"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T09:44:39.328Z",
+    "updatedAt": "2023-01-21T09:44:39.328Z",
+    "checkedAt": "2023-01-21T09:44:39.000Z",
+    "id": 128236,
+    "type": "manga",
+    "title": "Souri Club",
+    "altTitle": [
+      "総理倶楽部",
+      "Prime Minister Club"
+    ],
+    "url": "https://anilist.co/manga/128236",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128236-eDS4YBGU766a.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 135850,
+    "deletedAt": null,
+    "authors": [
+      "Hidekazu Himaruya",
+      "Kenichi Sakura"
+    ]
+  }
 }

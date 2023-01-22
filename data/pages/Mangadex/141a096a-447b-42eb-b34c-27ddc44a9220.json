@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:03:02.000Z",
-  "updatedAt": "2021-12-02T11:18:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-17T22:50:50.000Z",
+  "checkedAt": "2023-01-17T21:58:39.000Z",
   "id": 1382,
   "identifier": "141a096a-447b-42eb-b34c-27ddc44a9220",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 28247,
+  "aniId": 58247,
   "deletedAt": null,
   "authors": [
     "Terada Katsuya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-17T21:58:33.682Z",
+    "updatedAt": "2023-01-17T21:58:33.682Z",
+    "checkedAt": "2023-01-17T21:58:33.000Z",
+    "id": 28247,
+    "type": "manga",
+    "title": "Rakuda ga Warau",
+    "altTitle": [
+      "Rakuda ga Warau - Final Cut",
+      "ラクダが笑う"
+    ],
+    "url": "https://myanimelist.net/manga/28247/Rakuda_ga_Warau",
+    "image": "https://cdn.myanimelist.net/images/manga/1/45343.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Terada, Katsuya"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-17T21:58:39.290Z",
+    "updatedAt": "2023-01-17T21:58:39.290Z",
+    "checkedAt": "2023-01-17T21:58:39.000Z",
+    "id": 58247,
+    "type": "manga",
+    "title": "Rakuda ga Warau",
+    "altTitle": [
+      "ラクダが笑う",
+      "Rakuda ga Warau - Final Cut"
+    ],
+    "url": "https://anilist.co/manga/58247",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28247.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 28247,
+    "deletedAt": null,
+    "authors": [
+      "Katsuya Terada"
+    ]
+  }
 }

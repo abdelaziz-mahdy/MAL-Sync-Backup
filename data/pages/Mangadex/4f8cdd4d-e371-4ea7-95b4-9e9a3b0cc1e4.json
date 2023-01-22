@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-12-04T20:50:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T18:20:00.000Z",
+  "checkedAt": "2023-01-19T16:37:17.000Z",
   "id": 15820,
   "identifier": "4f8cdd4d-e371-4ea7-95b4-9e9a3b0cc1e4",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 108397,
+  "aniId": 115009,
   "deletedAt": null,
   "authors": [
     "Shinonome Riyuu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T16:37:17.733Z",
+    "updatedAt": "2023-01-19T16:37:17.733Z",
+    "checkedAt": "2023-01-19T16:37:17.000Z",
+    "id": 108397,
+    "type": "manga",
+    "title": "Futari to Hitori no Renai Kouryaku",
+    "altTitle": [
+      "ふたりとひとりの恋愛攻略"
+    ],
+    "url": "https://myanimelist.net/manga/108397/Futari_to_Hitori_no_Renai_Kouryaku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226380.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shinonome, Ryu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:47:41.993Z",
+    "updatedAt": "2022-05-13T12:47:41.993Z",
+    "checkedAt": null,
+    "id": 115009,
+    "type": "manga",
+    "title": "Futari to Hitori no Renai Kouryaku",
+    "altTitle": [
+      "ふたりとひとりの恋愛攻略",
+      "双子妹与单亲妈的恋爱攻略"
+    ],
+    "url": "https://anilist.co/manga/115009",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115009-AkRbiY4NfP42.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 108397,
+    "deletedAt": null,
+    "authors": [
+      "Ryu Shinonome"
+    ]
+  }
 }

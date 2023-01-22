@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:10:05.000Z",
-  "updatedAt": "2021-12-04T22:19:18.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T18:22:03.000Z",
+  "checkedAt": "2023-01-19T17:26:33.000Z",
   "id": 16364,
   "identifier": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 130245,
+  "aniId": 151174,
   "deletedAt": null,
   "authors": [
     "Ooishi Kouji"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T18:22:02.122Z",
+    "updatedAt": "2023-01-19T18:22:02.122Z",
+    "checkedAt": "2023-01-19T18:22:02.000Z",
+    "id": 130245,
+    "type": "manga",
+    "title": "Hyoujou Fubu",
+    "altTitle": [
+      "Topsy Turvey Snow Storm",
+      "氷上布武"
+    ],
+    "url": "https://myanimelist.net/manga/130245/Hyoujou_Fubu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235404.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ooishi, Kouji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-19T17:26:33.571Z",
+    "updatedAt": "2023-01-19T17:26:33.571Z",
+    "checkedAt": "2023-01-19T17:26:33.000Z",
+    "id": 151174,
+    "type": "manga",
+    "title": "Hyoujou Fubu",
+    "altTitle": [
+      "氷上布武"
+    ],
+    "url": "https://anilist.co/manga/151174",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b151174-GpBkIVKZYFK9.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 130245,
+    "deletedAt": null,
+    "authors": [
+      "Kouji Ooishi"
+    ]
+  }
 }

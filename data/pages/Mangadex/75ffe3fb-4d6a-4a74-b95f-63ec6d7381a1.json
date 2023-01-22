@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-12-21T06:56:18.000Z",
-  "updatedAt": "2021-12-08T09:10:12.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:23:38.000Z",
+  "checkedAt": "2023-01-21T07:10:29.000Z",
   "id": 55142,
   "identifier": "75ffe3fb-4d6a-4a74-b95f-63ec6d7381a1",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 144725,
   "deletedAt": null,
   "authors": [
-    "Fukuoka Taro"
+    "Fukuoka Tarou"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2023-01-21T07:10:29.026Z",
+    "updatedAt": "2023-01-21T07:10:29.026Z",
+    "checkedAt": "2023-01-21T07:10:29.000Z",
+    "id": 144725,
+    "type": "manga",
+    "title": "Ore wa Onnanoko ni Naranai",
+    "altTitle": [
+      "オレは女の子にならない"
+    ],
+    "url": "https://anilist.co/manga/144725",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx144725-h9CYPI1o8shM.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Taro Fukuoka"
+    ]
+  }
 }

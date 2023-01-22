@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-09T07:51:32.000Z",
-  "updatedAt": "2021-12-08T10:07:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:36:27.000Z",
+  "checkedAt": "2023-01-21T10:15:15.000Z",
   "id": 57898,
   "identifier": "475cfb93-a1d4-4cd3-9de0-7dc36441763b",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 136362,
+  "aniId": 132853,
   "deletedAt": null,
   "authors": [
     "rierioto"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T10:15:14.832Z",
+    "updatedAt": "2023-01-21T10:15:14.832Z",
+    "checkedAt": "2023-01-21T10:15:14.000Z",
+    "id": 136362,
+    "type": "manga",
+    "title": "Konya Bokura wa Otomari wo Suru",
+    "altTitle": [
+      "Tonight, We Are Having a Sleepover",
+      "今夜僕らはお泊りをする"
+    ],
+    "url": "https://myanimelist.net/manga/136362/Konya_Bokura_wa_Otomari_wo_Suru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/244318.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/3269754496296278785"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rie, Rioto"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T10:15:15.044Z",
+    "updatedAt": "2023-01-21T10:15:15.044Z",
+    "checkedAt": "2023-01-21T10:15:15.000Z",
+    "id": 132853,
+    "type": "manga",
+    "title": "Konya Bokura wa Otomari wo Suru",
+    "altTitle": [
+      "今夜僕らはお泊まりをする"
+    ],
+    "url": "https://anilist.co/manga/132853",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132853-Prdf2XCqdFtZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 136362,
+    "deletedAt": null,
+    "authors": [
+      "Rie Rioto"
+    ]
+  }
 }

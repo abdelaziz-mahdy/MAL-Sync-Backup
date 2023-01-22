@@ -1,24 +1,68 @@
 {
   "createdAt": "2020-10-12T16:16:29.000Z",
-  "updatedAt": "2021-12-06T23:17:13.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:30:43.000Z",
+  "checkedAt": "2023-01-20T11:20:36.000Z",
   "id": 29174,
   "identifier": "a25f9f8d-f41a-4a47-89c5-7bca54bc9edf",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Pocket Monsters: Mewtwo! Ware wa koko ni ari",
+  "title": "Pocket Monsters - Mewtwo! Ware wa Koko ni ari",
   "url": "https://mangadex.org/title/a25f9f8d-f41a-4a47-89c5-7bca54bc9edf",
-  "image": "https://uploads.mangadex.org/covers/a25f9f8d-f41a-4a47-89c5-7bca54bc9edf/aa487dd0-4181-4ffd-8508-ea72e5a37bc9.jpg",
+  "image": "https://uploads.mangadex.org/covers/a25f9f8d-f41a-4a47-89c5-7bca54bc9edf/63299000-dcda-459a-b47a-eea261ff0a0c.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 120381,
+  "aniId": 114227,
   "deletedAt": null,
   "authors": [
     "Machito Gomi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-06-06T21:49:51.000Z",
+    "updatedAt": "2023-01-20T10:51:24.000Z",
+    "checkedAt": "2023-01-20T10:51:24.000Z",
+    "id": 120381,
+    "type": "manga",
+    "title": "Mewtwo no Gyakushuu Evolution",
+    "altTitle": [
+      "Pokémon: Mewtwo Strikes Back—Evolution",
+      "ミュウツーの逆襲 EVOLUTION"
+    ],
+    "url": "https://myanimelist.net/manga/120381/Mewtwo_no_Gyakushuu_Evolution",
+    "image": "https://cdn.myanimelist.net/images/manga/2/224969.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gomi, Machito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:46.354Z",
+    "updatedAt": "2023-01-20T11:20:36.000Z",
+    "checkedAt": "2023-01-20T11:20:36.000Z",
+    "id": 114227,
+    "type": "manga",
+    "title": "Pocket Monsters: Mewtwo! Ware wa Koko ni Ari",
+    "altTitle": [
+      "ミュウツー！我ハココニ在リ",
+      "Pokemon: Mewtwo Returns",
+      "Mewtwo! I Am Here",
+      "Pocket Monsters: Myuutsu! I Exist Here"
+    ],
+    "url": "https://anilist.co/manga/114227",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b114227-IS3YwZaSPcnM.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 120381,
+    "deletedAt": null,
+    "authors": [
+      "Machito Gomi"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:09:08.000Z",
-  "updatedAt": "2021-12-04T15:52:09.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T15:01:53.000Z",
+  "checkedAt": "2023-01-19T13:43:33.000Z",
   "id": 14327,
   "identifier": "8e4c5a81-ae62-4180-9fc0-f9a59469b469",
   "type": "manga",
@@ -12,15 +12,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 10906,
+  "aniId": 40906,
   "deletedAt": null,
   "authors": [
     "Sakurai Machiko",
     "George Asakura",
     "Aikawa Hiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-19T15:01:51.182Z",
+    "updatedAt": "2023-01-19T15:01:51.182Z",
+    "checkedAt": "2023-01-19T15:01:51.000Z",
+    "id": 10906,
+    "type": "manga",
+    "title": "Megane Otoko na Kare",
+    "altTitle": [
+      "Boyfriend With Glasses",
+      "メガネ男子な彼"
+    ],
+    "url": "https://myanimelist.net/manga/10906/Megane_Otoko_na_Kare",
+    "image": "https://cdn.myanimelist.net/images/manga/3/14688.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shimotsuki, Kayoko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-19T13:43:33.731Z",
+    "updatedAt": "2023-01-19T13:43:33.731Z",
+    "checkedAt": "2023-01-19T13:43:33.000Z",
+    "id": 40906,
+    "type": "manga",
+    "title": "Megane Otoko na Kare",
+    "altTitle": [
+      "メガネ男子な彼",
+      " Boyfriend With Glasses"
+    ],
+    "url": "https://anilist.co/manga/40906",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10906.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10906,
+    "deletedAt": null,
+    "authors": [
+      "Kayoko Shimotsuki",
+      "Hiro Aikawa",
+      "Yuka Kitagawa",
+      "Jin Mokoyama",
+      "George Asakura",
+      "Machiko Sakurai",
+      "Ai Morinaga",
+      "Saki Aoi",
+      "Akane Torikai",
+      "Noriko Kanou",
+      "Ririko Yoshioka"
+    ]
+  }
 }

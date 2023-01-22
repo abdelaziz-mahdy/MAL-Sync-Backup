@@ -1,25 +1,76 @@
 {
   "createdAt": "2020-10-12T16:15:50.000Z",
-  "updatedAt": "2021-12-06T17:19:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T11:20:00.000Z",
+  "checkedAt": "2023-01-20T09:21:42.000Z",
   "id": 27858,
   "identifier": "c0cf3736-adab-4276-b01f-910cb8aa93c9",
   "type": "manga",
   "page": "Mangadex",
-  "title": "STAR WARS: Leia Organa -Ordeal of the Princess-",
+  "title": "Star Wars Leia, Princess of Alderaan",
   "url": "https://mangadex.org/title/c0cf3736-adab-4276-b01f-910cb8aa93c9",
-  "image": "https://uploads.mangadex.org/covers/c0cf3736-adab-4276-b01f-910cb8aa93c9/3c714606-038e-40ad-a9e9-b2d62c436120.jpg",
+  "image": "https://uploads.mangadex.org/covers/c0cf3736-adab-4276-b01f-910cb8aa93c9/dec9b8e1-b3b4-4f34-9dbf-69bde6a672d6.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 132574,
+  "aniId": 132898,
   "deletedAt": null,
   "authors": [
     "Haruichi",
     "Claudia Gray"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-07-08T13:43:28.000Z",
+    "updatedAt": "2022-12-23T20:14:36.000Z",
+    "checkedAt": "2022-12-23T20:14:36.000Z",
+    "id": 132574,
+    "type": "manga",
+    "title": "Star Wars: Leia - Oujo no Shiren",
+    "altTitle": [
+      "Star Wars: Leia Organa - Ordeal of the Princess",
+      "Star Wars: Leia, Princess of Alderaan",
+      "STAR WARS/レイア ―王女の試練―"
+    ],
+    "url": "https://myanimelist.net/manga/132574/Star_Wars__Leia_-_Oujo_no_Shiren",
+    "image": "https://cdn.myanimelist.net/images/manga/3/239430.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://manga.line.me/product/periodic?id=Z0000419"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Haruichi",
+      "Gray, Claudia"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:44:05.584Z",
+    "updatedAt": "2022-12-23T20:14:34.000Z",
+    "checkedAt": "2022-12-23T20:14:34.000Z",
+    "id": 132898,
+    "type": "manga",
+    "title": "Star Wars: Leia - Oujo no Shiren",
+    "altTitle": [
+      "Star Wars Leia, Princess of Alderaan",
+      "STAR WARS/レイア ―王女の試練―",
+      "Star Wars: Leia Organa - Ordeal of the Princess"
+    ],
+    "url": "https://anilist.co/manga/132898",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132898-qcovoPTKX8H5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 132574,
+    "deletedAt": null,
+    "authors": [
+      "Claudia Gray",
+      "Haruichi"
+    ]
+  }
 }

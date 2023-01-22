@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T18:13:38.000Z",
-  "updatedAt": "2021-12-08T05:34:50.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:23:27.000Z",
+  "checkedAt": "2023-01-21T01:50:56.000Z",
   "id": 50103,
   "identifier": "7f797a03-f5ee-4f2f-be93-b2248d5082e0",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 135402,
   "deletedAt": null,
   "authors": [
     "Umino Tsunami"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:40.757Z",
+    "updatedAt": "2023-01-21T01:50:56.000Z",
+    "checkedAt": "2023-01-21T01:50:56.000Z",
+    "id": 135402,
+    "type": "manga",
+    "title": "Sputnik",
+    "altTitle": [
+      "スプートニク"
+    ],
+    "url": "https://anilist.co/manga/135402",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135402-g7pQT62GtB9n.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Tsunami Umino"
+    ]
+  }
 }

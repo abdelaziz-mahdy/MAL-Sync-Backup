@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-19T07:50:40.000Z",
-  "updatedAt": "2021-12-08T07:40:52.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T10:20:00.000Z",
+  "checkedAt": "2023-01-21T04:20:16.000Z",
   "id": 52609,
   "identifier": "dd46387e-a0f5-47dc-a257-c68a115ce0db",
   "type": "manga",
@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 8778,
+  "aniId": 38778,
   "deletedAt": null,
   "authors": [
     "Nagai Go"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T04:20:16.923Z",
+    "updatedAt": "2023-01-21T04:20:16.923Z",
+    "checkedAt": "2023-01-21T04:20:16.000Z",
+    "id": 8778,
+    "type": "manga",
+    "title": "Mayonaka no Senshi",
+    "altTitle": [
+      "Nightwarriors",
+      "Night warriors",
+      "Midnight Soldier",
+      "真夜中の戦士"
+    ],
+    "url": "https://myanimelist.net/manga/8778/Mayonaka_no_Senshi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/12014.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nagai, Go"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:33.031Z",
+    "updatedAt": "2022-05-13T12:54:33.031Z",
+    "checkedAt": null,
+    "id": 38778,
+    "type": "manga",
+    "title": "Mayonaka no Senshi",
+    "altTitle": [
+      "真夜中の戦士",
+      "Nightwarriors",
+      "Night warriors",
+      "Midnight Soldier"
+    ],
+    "url": "https://anilist.co/manga/38778",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b38778-QlM3zcNQEg6L.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8778,
+    "deletedAt": null,
+    "authors": [
+      "Gou Nagai",
+      "Dynamic Pro"
+    ]
+  }
 }

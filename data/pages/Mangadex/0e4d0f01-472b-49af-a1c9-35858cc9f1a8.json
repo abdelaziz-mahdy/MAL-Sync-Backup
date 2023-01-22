@@ -1,25 +1,69 @@
 {
   "createdAt": "2020-10-12T16:17:12.000Z",
-  "updatedAt": "2021-12-07T05:48:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T14:41:24.000Z",
+  "checkedAt": "2023-01-20T13:31:06.000Z",
   "id": 30710,
   "identifier": "0e4d0f01-472b-49af-a1c9-35858cc9f1a8",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Toushin Devilman",
+  "title": "Saint Fighter Devilman",
   "url": "https://mangadex.org/title/0e4d0f01-472b-49af-a1c9-35858cc9f1a8",
   "image": "https://uploads.mangadex.org/covers/0e4d0f01-472b-49af-a1c9-35858cc9f1a8/5f78dd37-fcbb-4f42-8ee2-d17f70d883af.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146520,
+  "aniId": 115068,
   "deletedAt": null,
   "authors": [
     "Nagai Go",
     "Iwamoto Yoshihiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T14:41:22.660Z",
+    "updatedAt": "2023-01-20T14:41:22.660Z",
+    "checkedAt": "2023-01-20T14:41:22.000Z",
+    "id": 146520,
+    "type": "manga",
+    "title": "Toushin Devilman",
+    "altTitle": [
+      "Saint Fighter Devilman",
+      "闘神デビルマン"
+    ],
+    "url": "https://myanimelist.net/manga/146520/Toushin_Devilman",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259411.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Iwamoto, Yoshihiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:44.647Z",
+    "updatedAt": "2023-01-20T13:31:06.000Z",
+    "checkedAt": "2023-01-20T13:31:06.000Z",
+    "id": 115068,
+    "type": "manga",
+    "title": "Toushin Devilman",
+    "altTitle": [
+      "闘神デビルマン",
+      "Saint Fighter Devilman",
+      "Fighting God Devilman"
+    ],
+    "url": "https://anilist.co/manga/115068",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115068-5PCwojCe5aWi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146520,
+    "deletedAt": null,
+    "authors": [
+      "Yoshihiro Iwamoto",
+      "Gou Nagai"
+    ]
+  }
 }

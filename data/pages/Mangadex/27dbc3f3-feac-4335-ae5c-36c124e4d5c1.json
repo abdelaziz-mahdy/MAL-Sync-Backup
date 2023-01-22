@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:20:29.000Z",
-  "updatedAt": "2021-12-08T00:40:12.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T23:56:34.000Z",
+  "checkedAt": "2023-01-20T22:01:04.000Z",
   "id": 37307,
   "identifier": "27dbc3f3-feac-4335-ae5c-36c124e4d5c1",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129614,
+  "aniId": 129697,
   "deletedAt": null,
   "authors": [
     "Takabuchi Asumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-12-03T03:18:00.000Z",
+    "updatedAt": "2022-07-21T21:10:38.000Z",
+    "checkedAt": "2022-07-21T21:10:38.000Z",
+    "id": 129614,
+    "type": "manga",
+    "title": "Tomokoi",
+    "altTitle": [
+      "友恋"
+    ],
+    "url": "https://myanimelist.net/manga/129614/Tomokoi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/236858.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takabuchi, Asumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T22:01:04.044Z",
+    "updatedAt": "2023-01-20T22:01:04.044Z",
+    "checkedAt": "2023-01-20T22:01:04.000Z",
+    "id": 129697,
+    "type": "manga",
+    "title": "Tomokoi",
+    "altTitle": [
+      "友恋",
+      "Tomo Koi"
+    ],
+    "url": "https://anilist.co/manga/129697",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129697-FpRtzZXBpBwQ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129614,
+    "deletedAt": null,
+    "authors": [
+      "Asumi Takabuchi"
+    ]
+  }
 }

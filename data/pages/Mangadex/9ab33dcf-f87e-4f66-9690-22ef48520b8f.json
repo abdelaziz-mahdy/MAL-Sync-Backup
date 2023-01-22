@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-01-06T11:55:40.000Z",
-  "updatedAt": "2021-12-08T10:06:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:38:56.000Z",
+  "checkedAt": "2023-01-21T09:44:34.000Z",
   "id": 57477,
   "identifier": "9ab33dcf-f87e-4f66-9690-22ef48520b8f",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 26132,
+  "aniId": 56132,
   "deletedAt": null,
   "authors": [
     "Taniguchi Jiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:43:25.000Z",
+    "updatedAt": "2023-01-21T09:44:34.000Z",
+    "checkedAt": "2023-01-21T09:44:34.000Z",
+    "id": 26132,
+    "type": "manga",
+    "title": "Chou Sentouken Blanca",
+    "altTitle": [
+      "超戦闘犬ブランカ"
+    ],
+    "url": "https://myanimelist.net/manga/26132/Chou_Sentouken_Blanca",
+    "image": "https://cdn.myanimelist.net/images/manga/1/185775.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%82%AB_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Taniguchi, Jiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:15.056Z",
+    "updatedAt": "2023-01-21T09:44:34.000Z",
+    "checkedAt": "2023-01-21T09:44:34.000Z",
+    "id": 56132,
+    "type": "manga",
+    "title": "Blanca",
+    "altTitle": [
+      "ブランカ"
+    ],
+    "url": "https://anilist.co/manga/56132",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26132.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 26132,
+    "deletedAt": null,
+    "authors": [
+      "Jirou Taniguchi"
+    ]
+  }
 }

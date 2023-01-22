@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:08:49.000Z",
-  "updatedAt": "2021-12-04T13:21:58.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-19T13:17:58.000Z",
+  "checkedAt": "2023-01-19T12:11:12.000Z",
   "id": 13621,
   "identifier": "cfb3d476-9c54-459e-8e2b-3ea0cc04a746",
   "type": "manga",
@@ -12,14 +12,91 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 92338,
+  "aniId": 95832,
   "deletedAt": null,
   "authors": [
     "Monthly Bushiroad",
     "Kikuyarou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-12T15:46:09.000Z",
+    "updatedAt": "2023-01-19T13:17:54.000Z",
+    "checkedAt": "2023-01-19T13:17:54.000Z",
+    "id": 92338,
+    "type": "manga",
+    "title": "Touken Ranbu Online Anthology Comic: 4-koma Ranbu!",
+    "altTitle": [
+      "「刀剣乱舞-ONLINE-」アンソロジーコミック『4コマらんぶっ』"
+    ],
+    "url": "https://myanimelist.net/manga/92338/Touken_Ranbu_Online_Anthology_Comic__4-koma_Ranbu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171870.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gekkan-bushi.com/ranbu-comic/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kikuyarou",
+      "Sumiya",
+      "Quily",
+      "Ioka, Wako"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:51:06.547Z",
+    "updatedAt": "2023-01-19T12:11:12.000Z",
+    "checkedAt": "2023-01-19T12:11:12.000Z",
+    "id": 95832,
+    "type": "manga",
+    "title": "Touken Ranbu Online Anthology Comic: 4-koma Ranbu!",
+    "altTitle": [
+      "「刀剣乱舞-ONLINE-」アンソロジーコミック『4コマらんぶっ』",
+      "Touken Ranbu 4koma"
+    ],
+    "url": "https://anilist.co/manga/95832",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95832-aEeo5geMiQTL.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 92338,
+    "deletedAt": null,
+    "authors": [
+      "Wako Ioka",
+      "Seira Yuugen",
+      "DMM GAMES",
+      "Nitro Plus",
+      "Quily",
+      "JSK",
+      "Nanaco Iidabashi",
+      "Karo Arai",
+      "Yao Yahiro",
+      "Suzuka",
+      "Maro Yanagiya",
+      "Yuri Ashida",
+      "Nanaco Iidabashi",
+      "Toya Yashuu",
+      "Michiru Yoshida",
+      "Patriciana Kikuchi",
+      "Yao Yahiro",
+      "Fakkuma",
+      "shoco",
+      "Makoto Coshimizu",
+      "Tsubamemaru Watarizora",
+      "shoco",
+      "Kazuomi Mochizuki",
+      "Shion Hanyuu",
+      "Iro Sanjouki"
+    ]
+  }
 }

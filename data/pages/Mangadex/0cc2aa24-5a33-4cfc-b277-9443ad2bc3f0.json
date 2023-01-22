@@ -1,24 +1,69 @@
 {
   "createdAt": "2020-10-12T16:18:58.000Z",
-  "updatedAt": "2021-12-07T21:09:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T19:44:52.000Z",
+  "checkedAt": "2023-01-20T18:11:04.000Z",
   "id": 34244,
   "identifier": "0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0",
   "type": "manga",
   "page": "Mangadex",
   "title": "Fish",
   "url": "https://mangadex.org/title/0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0",
-  "image": "https://uploads.mangadex.org/covers/0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0/6f955eee-a4a1-43a4-9fc1-09930839e854.jpg",
+  "image": "https://uploads.mangadex.org/covers/0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0/3707fd90-a723-4c7b-9956-a8bb46987104.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 125510,
+  "aniId": 117075,
   "deletedAt": null,
   "authors": [
     "Miyake Ranjou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-23T11:00:15.358Z",
+    "updatedAt": "2022-08-23T11:00:15.358Z",
+    "checkedAt": "2022-08-23T11:00:15.000Z",
+    "id": 125510,
+    "type": "manga",
+    "title": "Fish",
+    "altTitle": [
+      "fish -フィッシュ-"
+    ],
+    "url": "https://myanimelist.net/manga/125510/Fish",
+    "image": "https://cdn.myanimelist.net/images/manga/2/255338.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comicbeam.com/product/fish/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miyake, Ranjou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:27.103Z",
+    "updatedAt": "2022-09-06T08:30:30.000Z",
+    "checkedAt": "2022-09-06T08:30:30.000Z",
+    "id": 117075,
+    "type": "manga",
+    "title": "Fish",
+    "altTitle": [
+      "fish -フィッシュ-"
+    ],
+    "url": "https://anilist.co/manga/117075",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117075-7s3Iga8HiYgY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 125510,
+    "deletedAt": null,
+    "authors": [
+      "Ranjou Miyake"
+    ]
+  }
 }

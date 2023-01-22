@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-11-16T07:45:15.000Z",
-  "updatedAt": "2021-12-08T07:39:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T09:28:06.000Z",
+  "checkedAt": "2023-01-21T04:01:15.000Z",
   "id": 52378,
   "identifier": "7e753d30-ede6-49c7-8490-105ebf060de3",
   "type": "manga",
@@ -12,15 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138438,
   "deletedAt": null,
   "authors": [
     "Jin-San (진산)",
-    "이하주",
-    "시량(악어스튜디오)"
+    "Lee Ha-joo (이하주)",
+    "Shiryang (시량)"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:26.216Z",
+    "updatedAt": "2023-01-19T00:31:51.000Z",
+    "checkedAt": "2023-01-19T00:31:51.000Z",
+    "id": 138438,
+    "type": "manga",
+    "title": "Daesahyeong",
+    "altTitle": [
+      "대사형",
+      "The Senior Disciple"
+    ],
+    "url": "https://anilist.co/manga/138438",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138438-eAgYXAK8OIDL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Si-Rang",
+      "Ha-Ju Lee",
+      "Jin-San",
+      "Yun-Seo Kim",
+      "Ba-Da Lee",
+      "Gyu-Ho Yun"
+    ]
+  }
 }

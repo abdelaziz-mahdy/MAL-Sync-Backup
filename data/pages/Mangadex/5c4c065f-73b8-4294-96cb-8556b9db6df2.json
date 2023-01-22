@@ -1,7 +1,7 @@
 {
   "createdAt": "2020-10-12T16:19:13.000Z",
-  "updatedAt": "2021-12-07T21:41:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-20T19:40:41.000Z",
+  "checkedAt": "2023-01-20T18:51:20.000Z",
   "id": 34758,
   "identifier": "5c4c065f-73b8-4294-96cb-8556b9db6df2",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 2,
+  "malId": 22321,
+  "aniId": 52321,
   "deletedAt": null,
   "authors": [
     "Otone"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-20T19:40:26.902Z",
+    "updatedAt": "2023-01-20T19:40:26.902Z",
+    "checkedAt": "2023-01-20T19:40:26.000Z",
+    "id": 22321,
+    "type": "manga",
+    "title": "I Love Nee",
+    "altTitle": [
+      "Ai Rabu Nee",
+      "Hearts of Siblings",
+      "I Love Sister",
+      "あい・らぶ・ねぇ"
+    ],
+    "url": "https://myanimelist.net/manga/22321/I_Love_Nee",
+    "image": "https://cdn.myanimelist.net/images/manga/2/36273.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Otone"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-20T18:51:20.158Z",
+    "updatedAt": "2023-01-20T18:51:20.158Z",
+    "checkedAt": "2023-01-20T18:51:20.000Z",
+    "id": 52321,
+    "type": "manga",
+    "title": "I Love Nee",
+    "altTitle": [
+      "あい・らぶ・ねぇ",
+      "Ai Rabu Nee",
+      "Hearts of Siblings",
+      "I Love Sister"
+    ],
+    "url": "https://anilist.co/manga/52321",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22321.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 22321,
+    "deletedAt": null,
+    "authors": [
+      "Otone"
+    ]
+  }
 }

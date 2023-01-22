@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-06-28T02:30:05.417Z",
-  "updatedAt": "2022-06-28T02:30:07.000Z",
-  "checkedAt": "2022-06-28T02:30:05.000Z",
+  "updatedAt": "2023-01-15T13:20:00.000Z",
+  "checkedAt": "2023-01-15T04:00:02.000Z",
   "id": 108358,
   "identifier": "manga-og991389",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142164,
+  "aniId": 138885,
   "deletedAt": null,
   "authors": [
     "Rokushou Kokuu"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-12-09T14:34:39.000Z",
+    "updatedAt": "2022-12-03T13:59:41.000Z",
+    "checkedAt": "2022-12-03T13:59:41.000Z",
+    "id": 142164,
+    "type": "manga",
+    "title": "Kyuu ni Ane ga Dekimashite!",
+    "altTitle": [
+      "急に姉ができまして！"
+    ],
+    "url": "https://myanimelist.net/manga/142164/Kyuu_ni_Ane_ga_Dekimashite",
+    "image": "https://cdn.myanimelist.net/images/manga/2/259514.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Rokushou, Kokuu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:55:30.947Z",
+    "updatedAt": "2022-12-03T13:59:40.000Z",
+    "checkedAt": "2022-12-03T13:59:40.000Z",
+    "id": 138885,
+    "type": "manga",
+    "title": "Kyuu ni Ane ga Dekimashite!",
+    "altTitle": [
+      "急に姉ができまして！"
+    ],
+    "url": "https://anilist.co/manga/138885",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138885-0pOP0uz8Hnfc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142164,
+    "deletedAt": null,
+    "authors": [
+      "Kokuu Rokushou"
+    ]
+  }
 }

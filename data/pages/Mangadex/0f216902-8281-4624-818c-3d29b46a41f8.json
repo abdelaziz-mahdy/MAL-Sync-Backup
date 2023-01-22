@@ -1,24 +1,64 @@
 {
   "createdAt": "2020-10-12T16:21:24.000Z",
-  "updatedAt": "2021-12-08T02:35:51.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-21T15:40:15.000Z",
+  "checkedAt": "2023-01-21T00:11:16.000Z",
   "id": 39244,
   "identifier": "0f216902-8281-4624-818c-3d29b46a41f8",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Kaihin Shūgakuin no Shiroiharu",
+  "title": "Kaihin Shuugakuin no Shiroiharu",
   "url": "https://mangadex.org/title/0f216902-8281-4624-818c-3d29b46a41f8",
-  "image": "https://uploads.mangadex.org/covers/0f216902-8281-4624-818c-3d29b46a41f8/c6c53f07-cc98-42a1-8304-2e4ab7342698.jpg",
+  "image": "https://uploads.mangadex.org/covers/0f216902-8281-4624-818c-3d29b46a41f8/25d53881-f70a-4afd-b9c7-b817840ef076.jpg",
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 129460,
+  "aniId": 123256,
   "deletedAt": null,
   "authors": [
     "Tanigawa Nico"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-21T00:11:16.366Z",
+    "updatedAt": "2023-01-21T00:11:16.366Z",
+    "checkedAt": "2023-01-21T00:11:16.000Z",
+    "id": 129460,
+    "type": "manga",
+    "title": "Kaihinshuu Gakuin no Shiroiharu",
+    "altTitle": [
+      "海浜秀学院のシロイハル"
+    ],
+    "url": "https://myanimelist.net/manga/129460/Kaihinshuu_Gakuin_no_Shiroiharu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/273879.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tanigawa, Nico"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-21T00:11:16.555Z",
+    "updatedAt": "2023-01-21T21:13:16.000Z",
+    "checkedAt": "2023-01-21T21:13:16.000Z",
+    "id": 123256,
+    "type": "manga",
+    "title": "Kaihin Shu Gakuin no Shiroi Haru",
+    "altTitle": [
+      "海浜秀学院のシロイハル"
+    ],
+    "url": "https://anilist.co/manga/123256",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123256-I5ZX5SJbU60t.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 129460,
+    "deletedAt": null,
+    "authors": [
+      "Nico Tanigawa"
+    ]
+  }
 }
