@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-23T22:21:46.000Z",
-  "updatedAt": "2021-12-23T22:21:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:20.000Z",
+  "checkedAt": "2023-01-23T05:52:09.000Z",
   "id": 93555,
   "identifier": "a11e2839-feb7-4351-8582-fc430fab3d84",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142677,
+  "aniId": 134575,
   "deletedAt": null,
   "authors": [
     "Haruna Ueno"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T08:55:18.124Z",
+    "updatedAt": "2023-01-23T08:55:18.124Z",
+    "checkedAt": "2023-01-23T08:55:18.000Z",
+    "id": 142677,
+    "type": "manga",
+    "title": "Ponkotsu Keisatsukan wa Watashi ni Muchuu",
+    "altTitle": [
+      "\"Ponkotsu\" Police is Crazy About Me",
+      "ポンコツ警察官は私に夢中"
+    ],
+    "url": "https://myanimelist.net/manga/142677/Ponkotsu_Keisatsukan_wa_Watashi_ni_Muchuu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258476.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kisscomic.com/c/ponkotsu/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ueno, Haruna"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:18.488Z",
+    "updatedAt": "2023-01-23T05:52:09.000Z",
+    "checkedAt": "2023-01-23T05:52:09.000Z",
+    "id": 134575,
+    "type": "manga",
+    "title": "Ponkotsu Keisatsukan wa Watashi ni Muchuu",
+    "altTitle": [
+      "ポンコツ警察官は私に夢中"
+    ],
+    "url": "https://anilist.co/manga/134575",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134575-nSF1ADuxnRkc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142677,
+    "deletedAt": null,
+    "authors": [
+      "Haruna Ueno"
+    ]
+  }
 }

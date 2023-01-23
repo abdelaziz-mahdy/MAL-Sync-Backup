@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-02T18:03:03.000Z",
-  "updatedAt": "2022-04-02T18:03:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T10:42:04.000Z",
+  "checkedAt": "2023-01-23T10:01:55.000Z",
   "id": 100579,
   "identifier": "a1b56cea-0aee-4805-bc89-035e34e27d8b",
   "type": "manga",
@@ -12,13 +12,56 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 144339,
+  "aniId": 145602,
   "deletedAt": null,
   "authors": [
     "Arinco"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-02-27T22:18:41.000Z",
+    "updatedAt": "2023-01-23T10:41:51.000Z",
+    "checkedAt": "2023-01-23T10:41:51.000Z",
+    "id": 144339,
+    "type": "manga",
+    "title": "Kimi e Musubu Happy End",
+    "altTitle": [
+      "Happy Ending Leading to You",
+      "君へ結ぶハッピーエンド"
+    ],
+    "url": "https://myanimelist.net/manga/144339/Kimi_e_Musubu_Happy_End",
+    "image": "https://cdn.myanimelist.net/images/manga/3/256302.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Arinco"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:04.627Z",
+    "updatedAt": "2023-01-23T10:01:55.000Z",
+    "checkedAt": "2023-01-23T10:01:55.000Z",
+    "id": 145602,
+    "type": "manga",
+    "title": "Kimi e Musubu Happy End  ",
+    "altTitle": [
+      "君へ結ぶハッピーエンド",
+      "Happy ending leading to you",
+      "너에게로 이어지는 해피엔드"
+    ],
+    "url": "https://anilist.co/manga/145602",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145602-mhzu1SNmAbmQ.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 144339,
+    "deletedAt": null,
+    "authors": [
+      "Arinco"
+    ]
+  }
 }

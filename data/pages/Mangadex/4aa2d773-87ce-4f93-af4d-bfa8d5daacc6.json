@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-23T14:35:47.000Z",
-  "updatedAt": "2021-11-23T14:35:47.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:13.000Z",
+  "checkedAt": "2023-01-23T03:51:43.000Z",
   "id": 91650,
   "identifier": "4aa2d773-87ce-4f93-af4d-bfa8d5daacc6",
   "type": "manga",
@@ -12,14 +12,58 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 74211,
+  "aniId": 91960,
   "deletedAt": null,
   "authors": [
     "RED-RUM",
     "Doronuma Kyoudai (Circle)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2020-10-28T05:42:59.000Z",
+    "updatedAt": "2022-12-08T16:00:09.000Z",
+    "checkedAt": "2022-12-08T16:00:09.000Z",
+    "id": 74211,
+    "type": "manga",
+    "title": "FutaOna: Toaru Futanari Musume no Onanie Nikki",
+    "altTitle": [
+      "Futanari Schoolgirl",
+      "A Certain Futanari Girl's Masturbation Diary",
+      "ふたオナ とあるふたなり娘のオナ日記"
+    ],
+    "url": "https://myanimelist.net/manga/74211/FutaOna__Toaru_Futanari_Musume_no_Onanie_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/128715.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "RED-RUM"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:12.616Z",
+    "updatedAt": "2022-12-15T14:17:08.000Z",
+    "checkedAt": "2022-12-15T14:17:08.000Z",
+    "id": 91960,
+    "type": "manga",
+    "title": "FutaOna: Toaru Futanari Musume no Onanie Nikki",
+    "altTitle": [
+      "ふたオナ とあるふたなり娘のオナ日記",
+      "Futanari Schoolgirl",
+      "A Certain Futanari Girl's Masturbation Diary"
+    ],
+    "url": "https://anilist.co/manga/91960",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91960-ATzH6nr8dJwG.png",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 74211,
+    "deletedAt": null,
+    "authors": [
+      "Red-Rum"
+    ]
+  }
 }

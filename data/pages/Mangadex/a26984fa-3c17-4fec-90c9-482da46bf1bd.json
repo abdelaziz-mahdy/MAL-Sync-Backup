@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-10T07:03:13.000Z",
-  "updatedAt": "2022-04-10T07:30:44.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T00:40:24.000Z",
   "id": 88306,
   "identifier": "a26984fa-3c17-4fec-90c9-482da46bf1bd",
   "type": "manga",
@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 141687,
+  "aniId": 136775,
   "deletedAt": null,
   "authors": [
     "Senda Hiroyuki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-20T12:00:01.363Z",
+    "updatedAt": "2022-08-20T12:00:01.363Z",
+    "checkedAt": "2022-08-20T12:00:01.000Z",
+    "id": 141687,
+    "type": "manga",
+    "title": "Heiki Shoujo",
+    "altTitle": [
+      "Weapon Girl",
+      "兵器少女"
+    ],
+    "url": "https://myanimelist.net/manga/141687/Heiki_Shoujo",
+    "image": "https://cdn.myanimelist.net/images/manga/3/253443.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ultra.shueisha.co.jp/manga/manga-3965/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Senda, Hiroyuki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:48:34.125Z",
+    "updatedAt": "2022-12-18T18:53:17.000Z",
+    "checkedAt": "2022-12-18T18:53:17.000Z",
+    "id": 136775,
+    "type": "manga",
+    "title": "Heiki Shoujo",
+    "altTitle": [
+      "兵器少女"
+    ],
+    "url": "https://anilist.co/manga/136775",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136775-i7ksiKfkaSHy.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 141687,
+    "deletedAt": null,
+    "authors": [
+      "Hiroyuki Senda"
+    ]
+  }
 }

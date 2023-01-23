@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-02T18:53:33.000Z",
-  "updatedAt": "2022-01-02T18:53:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T06:30:40.000Z",
   "id": 94102,
   "identifier": "02d0ad9e-f20a-4afe-a2f4-974d96b7d9bc",
   "type": "manga",
@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 143542,
+  "aniId": 112277,
   "deletedAt": null,
   "authors": [
     "Charos"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-27T06:00:04.075Z",
+    "updatedAt": "2022-11-27T06:00:04.075Z",
+    "checkedAt": "2022-11-27T06:00:04.000Z",
+    "id": 143542,
+    "type": "manga",
+    "title": "Tsuntsun",
+    "altTitle": [
+      "My Neighbor Keeps Poking Me",
+      "つんつん"
+    ],
+    "url": "https://myanimelist.net/manga/143542/Tsuntsun",
+    "image": "https://cdn.myanimelist.net/images/manga/3/254841.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kuragebunch.com/episode/10834108156692195946"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Charosu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:57:02.808Z",
+    "updatedAt": "2022-12-04T20:46:05.000Z",
+    "checkedAt": "2022-12-04T20:46:05.000Z",
+    "id": 112277,
+    "type": "manga",
+    "title": "Tsuntsun",
+    "altTitle": [
+      "つんつん",
+      "Suddenly",
+      "My Neighbor Keeps Poking Me"
+    ],
+    "url": "https://anilist.co/manga/112277",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112277-RAgMNUseU3wo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143542,
+    "deletedAt": null,
+    "authors": [
+      "Charosu"
+    ]
+  }
 }

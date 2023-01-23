@@ -1,24 +1,70 @@
 {
   "createdAt": "2022-01-12T06:41:38.000Z",
-  "updatedAt": "2022-01-12T06:41:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T06:51:07.000Z",
   "id": 94555,
   "identifier": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
   "type": "manga",
   "page": "Mangadex",
   "title": "Hitogata",
   "url": "https://mangadex.org/title/0c99c470-861d-4366-9a83-e6ad4a863ad7",
-  "image": "https://uploads.mangadex.org/covers/0c99c470-861d-4366-9a83-e6ad4a863ad7/2daef95c-ca47-4120-a6a2-3732cfacaa70.jpg",
+  "image": "https://uploads.mangadex.org/covers/0c99c470-861d-4366-9a83-e6ad4a863ad7/019d08cf-007f-42ca-bf02-2f3da5dd9753.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 143330,
+  "aniId": 133593,
   "deletedAt": null,
   "authors": [
     "Shirasaki Meo"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-18T01:34:14.000Z",
+    "updatedAt": "2023-01-23T06:51:07.000Z",
+    "checkedAt": "2023-01-23T06:51:07.000Z",
+    "id": 143330,
+    "type": "manga",
+    "title": "Hitogata",
+    "altTitle": [
+      "Ningyou",
+      "人形～ヒトガタ～"
+    ],
+    "url": "https://myanimelist.net/manga/143330/Hitogata",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258510.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/3269632237323317155"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Shirasaki, Meo"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:09.252Z",
+    "updatedAt": "2022-07-02T18:59:13.000Z",
+    "checkedAt": "2022-07-02T18:59:13.000Z",
+    "id": 133593,
+    "type": "manga",
+    "title": "Hitogata",
+    "altTitle": [
+      "人形～ヒトガタ～"
+    ],
+    "url": "https://anilist.co/manga/133593",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133593-UP80sDeoqwPx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143330,
+    "deletedAt": null,
+    "authors": [
+      "Meo Shirasaki"
+    ]
+  }
 }

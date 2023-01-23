@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-10T20:10:59.000Z",
-  "updatedAt": "2022-02-10T20:10:59.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T08:32:16.000Z",
   "id": 96029,
   "identifier": "238d3856-36be-47f1-ae2e-5da3ce441957",
   "type": "manga",
@@ -12,14 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 144148,
+  "aniId": 132354,
   "deletedAt": null,
   "authors": [
     "Ichiho Michi",
     "Arashiyama Nori"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T08:32:16.390Z",
+    "updatedAt": "2023-01-23T08:32:16.390Z",
+    "checkedAt": "2023-01-23T08:32:16.000Z",
+    "id": 144148,
+    "type": "manga",
+    "title": "Maou no Kikan",
+    "altTitle": [
+      "魔王の帰還"
+    ],
+    "url": "https://myanimelist.net/manga/144148/Maou_no_Kikan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/257956.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://afternoon.kodansha.co.jp/c/maounokikan/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ichiho, Michi",
+      "Arashiyama, Nori"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:28.732Z",
+    "updatedAt": "2022-05-13T12:40:28.732Z",
+    "checkedAt": null,
+    "id": 132354,
+    "type": "manga",
+    "title": "Maou no Kikan",
+    "altTitle": [
+      "魔王の帰還"
+    ],
+    "url": "https://anilist.co/manga/132354",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132354-fbAhslOWplrN.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144148,
+    "deletedAt": null,
+    "authors": [
+      "Michi Ichiho",
+      "Nori Arashiyama"
+    ]
+  }
 }

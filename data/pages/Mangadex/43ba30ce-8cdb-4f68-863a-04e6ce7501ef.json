@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-08T19:44:46.000Z",
-  "updatedAt": "2022-05-08T21:30:45.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:54:44.000Z",
+  "checkedAt": "2023-01-23T03:00:12.000Z",
   "id": 90424,
   "identifier": "43ba30ce-8cdb-4f68-863a-04e6ce7501ef",
   "type": "manga",
@@ -12,15 +12,68 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147873,
+  "aniId": 141619,
   "deletedAt": null,
   "authors": [
     "Suji Kim",
     "Haean",
     "Midnight Studio"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T08:54:42.142Z",
+    "updatedAt": "2023-01-23T08:54:42.142Z",
+    "checkedAt": "2023-01-23T08:54:42.000Z",
+    "id": 147873,
+    "type": "manga",
+    "title": "Twilight Poem",
+    "altTitle": [
+      "Heeran Love Song",
+      "Heeranguk Yeonga",
+      "Twilight Poem",
+      "희란국연가"
+    ],
+    "url": "https://myanimelist.net/manga/147873/Twilight_Poem",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262462.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=783539"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Midnight Studio",
+      "Kim, Suji"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:42.694Z",
+    "updatedAt": "2023-01-23T03:00:13.000Z",
+    "checkedAt": "2023-01-23T03:00:13.000Z",
+    "id": 141619,
+    "type": "manga",
+    "title": "Huirangungnyeonga",
+    "altTitle": [
+      "Twilight Poem",
+      "희란국연가",
+      "Heeran Love Song  "
+    ],
+    "url": "https://anilist.co/manga/141619",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141619-QnXM4PNKUYJY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147873,
+    "deletedAt": null,
+    "authors": [
+      "Su-Ji Kim",
+      "Yu-Da",
+      "Hae-An"
+    ]
+  }
 }

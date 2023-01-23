@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-18T05:50:03.000Z",
-  "updatedAt": "2022-03-18T05:50:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T10:41:35.000Z",
+  "checkedAt": "2023-01-23T09:31:42.000Z",
   "id": 99607,
   "identifier": "280e8370-c95b-4516-b049-5fc677e59037",
   "type": "manga",
@@ -12,14 +12,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 132551,
+  "aniId": 146662,
   "deletedAt": null,
   "authors": [
     "Osamu Wakai",
     "Satoshi Takemiya"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-03-27T02:58:07.000Z",
+    "updatedAt": "2022-07-16T03:42:10.000Z",
+    "checkedAt": "2022-07-16T03:42:10.000Z",
+    "id": 132551,
+    "type": "manga",
+    "title": "Amuro to Boku",
+    "altTitle": [
+      "アムロと僕"
+    ],
+    "url": "https://myanimelist.net/manga/132551/Amuro_to_Boku",
+    "image": "https://cdn.myanimelist.net/images/manga/3/264668.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/gundamace/contents/540/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Takemiya, Satoshi",
+      "Wakai, Osamu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:04:21.414Z",
+    "updatedAt": "2022-07-16T03:42:09.000Z",
+    "checkedAt": "2022-07-16T03:42:09.000Z",
+    "id": 146662,
+    "type": "manga",
+    "title": "Amuro to Boku",
+    "altTitle": [
+      "アムロと僕",
+      "Amuro and I"
+    ],
+    "url": "https://anilist.co/manga/146662",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146662-1e6akUtTFxfJ.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 132551,
+    "deletedAt": null,
+    "authors": [
+      "Wakai Osamu",
+      "Takemiya Satoshi"
+    ]
+  }
 }

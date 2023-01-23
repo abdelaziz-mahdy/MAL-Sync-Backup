@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-17T19:58:45.000Z",
-  "updatedAt": "2022-04-17T20:00:40.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:56:58.000Z",
+  "checkedAt": "2023-01-23T01:22:16.000Z",
   "id": 88966,
   "identifier": "a6958c8c-a19a-4f85-9454-f1c7205b9b33",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 109219,
+  "aniId": 122080,
   "deletedAt": null,
   "authors": [
     "Mishima Kazuhiko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-10-17T19:58:46.000Z",
+    "updatedAt": "2023-01-23T08:56:56.000Z",
+    "checkedAt": "2023-01-23T08:56:56.000Z",
+    "id": 109219,
+    "type": "manga",
+    "title": "Tsukaretemasen Tsukaretemasu!",
+    "altTitle": [
+      "Ue kara Approach",
+      "疲れてません憑かれてます!"
+    ],
+    "url": "https://myanimelist.net/manga/109219/Tsukaretemasen_Tsukaretemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/228193.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mishima, Kazuhiko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:52.403Z",
+    "updatedAt": "2023-01-23T01:22:16.000Z",
+    "checkedAt": "2023-01-23T01:22:16.000Z",
+    "id": 122080,
+    "type": "manga",
+    "title": "Tsukaretemasen Tsukaretemasu!",
+    "altTitle": [
+      "疲れてません憑かれてます!",
+      "I'm not tired, I'm possessed!"
+    ],
+    "url": "https://anilist.co/manga/122080",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122080-tlFxxFSaazLn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 109219,
+    "deletedAt": null,
+    "authors": [
+      "Kazuhiko Mishima"
+    ]
+  }
 }

@@ -1,25 +1,75 @@
 {
   "createdAt": "2021-11-27T16:07:08.000Z",
-  "updatedAt": "2021-11-27T16:42:35.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T04:03:15.000Z",
   "id": 91812,
   "identifier": "c44b5b1d-60cf-4faf-be2c-0a807200358f",
   "type": "manga",
   "page": "Mangadex",
-  "title": "My In-laws are Obsessed With Me",
+  "title": "My In-laws Are Obsessed With Me",
   "url": "https://mangadex.org/title/c44b5b1d-60cf-4faf-be2c-0a807200358f",
-  "image": "https://uploads.mangadex.org/covers/c44b5b1d-60cf-4faf-be2c-0a807200358f/e8f30d24-958d-4e11-966c-93af0e03e1a2.jpg",
+  "image": "https://uploads.mangadex.org/covers/c44b5b1d-60cf-4faf-be2c-0a807200358f/89d01022-022d-453b-a857-4e52c4ebdb0b.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147368,
+  "aniId": 142894,
   "deletedAt": null,
   "authors": [
-    "한윤설",
-    "승우"
+    "Chun Eeyeol",
+    "Studio107"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-28T22:00:01.801Z",
+    "updatedAt": "2022-10-28T22:00:01.801Z",
+    "checkedAt": "2022-10-28T22:00:01.000Z",
+    "id": 147368,
+    "type": "manga",
+    "title": "My In-Laws are Obsessed with Me",
+    "altTitle": [
+      "Si-World-ga Naege Jipchak Handa",
+      "My In-Laws are Obsessed with Me",
+      "시월드가 내게 집착한다"
+    ],
+    "url": "https://myanimelist.net/manga/147368/My_In-Laws_are_Obsessed_with_Me",
+    "image": "https://cdn.myanimelist.net/images/manga/3/261398.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=785251"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Han, Yoonseol",
+      "Seungu"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:45:14.954Z",
+    "updatedAt": "2023-01-09T09:04:52.000Z",
+    "checkedAt": "2023-01-09T09:04:52.000Z",
+    "id": 142894,
+    "type": "manga",
+    "title": "Siwoldeuga Naege Jipchakanda",
+    "altTitle": [
+      "My In-Laws are Obsessed with Me",
+      "시월드가 내게 집착한다"
+    ],
+    "url": "https://anilist.co/manga/142894",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142894-JL9XAyKAyMc9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147368,
+    "deletedAt": null,
+    "authors": [
+      "Seungu",
+      "Yun-Seol Han"
+    ]
+  }
 }

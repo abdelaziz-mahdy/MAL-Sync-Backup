@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-08T13:03:38.000Z",
-  "updatedAt": "2021-12-08T13:03:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:54:45.000Z",
+  "checkedAt": "2023-01-23T04:51:20.000Z",
   "id": 92731,
   "identifier": "35a02480-b71d-4aae-9a29-b53d50fb6309",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 140414,
+  "aniId": 142584,
   "deletedAt": null,
   "authors": [
     "Tsubaki Izumi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T04:51:19.910Z",
+    "updatedAt": "2023-01-23T04:51:19.910Z",
+    "checkedAt": "2023-01-23T04:51:19.000Z",
+    "id": 140414,
+    "type": "manga",
+    "title": "Yasashii Jikan",
+    "altTitle": [
+      "A Gentle Time",
+      "優しい時間"
+    ],
+    "url": "https://myanimelist.net/manga/140414/Yasashii_Jikan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252283.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tsubaki, Izumi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:54.942Z",
+    "updatedAt": "2023-01-23T04:51:20.000Z",
+    "checkedAt": "2023-01-23T04:51:20.000Z",
+    "id": 142584,
+    "type": "manga",
+    "title": "Yasashii Jikan",
+    "altTitle": [
+      "優しい時間",
+      "A Gentle Time"
+    ],
+    "url": "https://anilist.co/manga/142584",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142584-bBrh1Se7wmQd.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140414,
+    "deletedAt": null,
+    "authors": [
+      "Izumi Tsubaki"
+    ]
+  }
 }

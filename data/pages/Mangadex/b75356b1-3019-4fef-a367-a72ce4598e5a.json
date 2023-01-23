@@ -1,24 +1,73 @@
 {
   "createdAt": "2021-10-12T11:46:53.000Z",
-  "updatedAt": "2022-04-12T12:02:06.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T00:50:49.000Z",
   "id": 88522,
   "identifier": "b75356b1-3019-4fef-a367-a72ce4598e5a",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Hypnosis School",
+  "title": "Psychic Studies",
   "url": "https://mangadex.org/title/b75356b1-3019-4fef-a367-a72ce4598e5a",
   "image": "https://uploads.mangadex.org/covers/b75356b1-3019-4fef-a367-a72ce4598e5a/dd4465fe-9690-4829-95c2-7d84256c04b3.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 147668,
+  "aniId": 145859,
   "deletedAt": null,
   "authors": [
-    "Park Eunhyuk"
+    "Park Eun Hyuk (박은혁)"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-07-10T23:00:12.517Z",
+    "updatedAt": "2022-07-10T23:00:12.517Z",
+    "checkedAt": "2022-07-10T23:00:12.000Z",
+    "id": 147668,
+    "type": "manga",
+    "title": "Psychic Studies",
+    "altTitle": [
+      "Hypnosis School",
+      "Choemyeon Hakgyo",
+      "Psychic Studies",
+      "최면학교"
+    ],
+    "url": "https://myanimelist.net/manga/147668/Psychic_Studies",
+    "image": "https://cdn.myanimelist.net/images/manga/2/264436.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=776656"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Park, Eun Hyuk"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:01:10.013Z",
+    "updatedAt": "2022-07-11T15:17:36.000Z",
+    "checkedAt": "2022-07-11T15:17:36.000Z",
+    "id": 145859,
+    "type": "manga",
+    "title": "Choemyeonhakgyo",
+    "altTitle": [
+      "Psychic Studies",
+      "최면학교"
+    ],
+    "url": "https://anilist.co/manga/145859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145859-xAvEqYTagVhs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 147668,
+    "deletedAt": null,
+    "authors": [
+      "Eun-Hyeok Park"
+    ]
+  }
 }

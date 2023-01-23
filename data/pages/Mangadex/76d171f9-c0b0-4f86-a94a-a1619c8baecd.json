@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-12T11:46:44.000Z",
-  "updatedAt": "2022-04-12T12:02:06.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:21.000Z",
+  "checkedAt": "2023-01-23T00:50:46.000Z",
   "id": 88511,
   "identifier": "76d171f9-c0b0-4f86-a94a-a1619c8baecd",
   "type": "manga",
@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 159359,
   "deletedAt": null,
   "authors": [
     "Avogado6"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2023-01-23T00:50:46.626Z",
+    "updatedAt": "2023-01-23T00:50:46.626Z",
+    "checkedAt": "2023-01-23T00:50:46.000Z",
+    "id": 159359,
+    "type": "manga",
+    "title": "Toomawari",
+    "altTitle": [
+      "遠回り",
+      "Detour"
+    ],
+    "url": "https://anilist.co/manga/159359",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx159359-b45ZMwxuSnu4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "avogado6"
+    ]
+  }
 }
