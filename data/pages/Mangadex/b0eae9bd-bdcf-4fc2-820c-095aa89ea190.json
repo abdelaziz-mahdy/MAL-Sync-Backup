@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-10-12T18:00:00.000Z",
-  "updatedAt": "2022-04-12T20:31:48.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:57:27.000Z",
+  "checkedAt": "2023-01-23T00:51:39.000Z",
   "id": 88625,
   "identifier": "b0eae9bd-bdcf-4fc2-820c-095aa89ea190",
   "type": "manga",
@@ -12,14 +12,70 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 150817,
+  "aniId": 140656,
   "deletedAt": null,
   "authors": [
     "미래나비",
     "Sorbet"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-08-22T22:00:02.381Z",
+    "updatedAt": "2022-08-22T22:00:02.381Z",
+    "checkedAt": "2022-08-22T22:00:02.000Z",
+    "id": 150817,
+    "type": "manga",
+    "title": "I'm Deleting Them From My Life",
+    "altTitle": [
+      "I Will Remove Them From My Life",
+      "I Will Erase Them From This Very Life",
+      "Geugeot-deul, Nae Insaeng-eseo Sakjehamnida",
+      "I'm Deleting Them From My Life",
+      "그것들, 내 인생에서 삭제합니다"
+    ],
+    "url": "https://myanimelist.net/manga/150817/Im_Deleting_Them_From_My_Life",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267163.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=57926214"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Miraenavi",
+      "Mina"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:53:36.364Z",
+    "updatedAt": "2022-08-29T20:43:55.000Z",
+    "checkedAt": "2022-08-29T20:43:55.000Z",
+    "id": 140656,
+    "type": "manga",
+    "title": "Geugeotdeul, Nae Insaengeseo Sakjehamnida",
+    "altTitle": [
+      "I'm Deleting Them From My Life",
+      "그것들, 내 인생에서 삭제합니다",
+      "I Will Delete Them From My Life",
+      "Anata, Watakushi no Jinsei kara Shoukyo Shimasu (あなた、私の人生から消去します)"
+    ],
+    "url": "https://anilist.co/manga/140656",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140656-uGEjQyvt4L9B.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 150817,
+    "deletedAt": null,
+    "authors": [
+      "Sorbet",
+      "Miraenabi",
+      "Dotty",
+      "Animina"
+    ]
+  }
 }

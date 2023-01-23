@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-06T04:59:59.000Z",
-  "updatedAt": "2022-03-06T05:00:08.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T10:20:00.000Z",
+  "checkedAt": "2023-01-23T09:19:37.000Z",
   "id": 97417,
   "identifier": "6cc960cd-b4ce-4ff0-9a0e-2cbad8c09a8d",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 140997,
+  "aniId": 140428,
   "deletedAt": null,
   "authors": [
     "Ume-chi"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-11-20T22:16:28.000Z",
+    "updatedAt": "2022-11-19T07:49:35.000Z",
+    "checkedAt": "2022-11-19T07:49:35.000Z",
+    "id": 140997,
+    "type": "manga",
+    "title": "Sayonara, Nanashi no Violin",
+    "altTitle": [
+      "Goodbye, Nameless Violin",
+      "さよなら、ナナシのバイオリン"
+    ],
+    "url": "https://myanimelist.net/manga/140997/Sayonara_Nanashi_no_Violin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/251263.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Ume-chi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:56:09.536Z",
+    "updatedAt": "2022-11-19T07:49:33.000Z",
+    "checkedAt": "2022-11-19T07:49:33.000Z",
+    "id": 140428,
+    "type": "manga",
+    "title": "Sayonara, Nanashi no Violin",
+    "altTitle": [
+      "さよなら、ナナシのバイオリン",
+      "Goodbye, Nameless Violin"
+    ],
+    "url": "https://anilist.co/manga/140428",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140428-LWM0VD68fP1r.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 140997,
+    "deletedAt": null,
+    "authors": [
+      "Souta Umeuchi"
+    ]
+  }
 }

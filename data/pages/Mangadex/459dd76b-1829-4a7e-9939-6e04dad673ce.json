@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-04-25T20:33:03.000Z",
-  "updatedAt": "2022-04-25T20:33:03.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T12:01:36.000Z",
+  "checkedAt": "2023-01-23T11:11:36.000Z",
   "id": 102121,
   "identifier": "459dd76b-1829-4a7e-9939-6e04dad673ce",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146339,
+  "aniId": 154388,
   "deletedAt": null,
   "authors": [
     "Tobi Washio"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-10-03T22:00:07.357Z",
+    "updatedAt": "2022-10-03T22:00:07.357Z",
+    "checkedAt": "2022-10-03T22:00:07.000Z",
+    "id": 146339,
+    "type": "manga",
+    "title": "Bros.",
+    "altTitle": [
+      "bros."
+    ],
+    "url": "https://myanimelist.net/manga/146339/Bros",
+    "image": "https://cdn.myanimelist.net/images/manga/3/262264.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Tobi, Washio"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-23T11:11:36.719Z",
+    "updatedAt": "2023-01-23T11:11:36.719Z",
+    "checkedAt": "2023-01-23T11:11:36.000Z",
+    "id": 154388,
+    "type": "manga",
+    "title": "bros.",
+    "altTitle": [
+      "bros."
+    ],
+    "url": "https://anilist.co/manga/154388",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b154388-pREVtFvbjykB.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 146339,
+    "deletedAt": null,
+    "authors": [
+      "Tobiwashio"
+    ]
+  }
 }

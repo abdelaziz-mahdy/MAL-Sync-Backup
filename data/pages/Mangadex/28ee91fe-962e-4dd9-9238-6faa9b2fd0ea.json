@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-26T23:57:24.000Z",
-  "updatedAt": "2022-03-26T23:57:24.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T10:41:43.000Z",
+  "checkedAt": "2023-01-23T09:50:09.000Z",
   "id": 100008,
   "identifier": "28ee91fe-962e-4dd9-9238-6faa9b2fd0ea",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 133073,
+  "aniId": 113325,
   "deletedAt": null,
   "authors": [
     "Masumura17"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-16T01:13:06.000Z",
+    "updatedAt": "2022-10-12T21:51:01.000Z",
+    "checkedAt": "2022-10-12T21:51:01.000Z",
+    "id": 133073,
+    "type": "manga",
+    "title": "Baku-chan",
+    "altTitle": [
+      "バクちゃん"
+    ],
+    "url": "https://myanimelist.net/manga/133073/Baku-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/240666.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://masumura17.com/en/baku-chan.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Masumura, Juushichi"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:59:11.657Z",
+    "updatedAt": "2022-10-12T21:51:00.000Z",
+    "checkedAt": "2022-10-12T21:51:00.000Z",
+    "id": 113325,
+    "type": "manga",
+    "title": "Baku-chan",
+    "altTitle": [
+      "バクちゃん"
+    ],
+    "url": "https://anilist.co/manga/113325",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113325-cBzIiE1x2YT3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 133073,
+    "deletedAt": null,
+    "authors": [
+      "Juushichi Masumura"
+    ]
+  }
 }

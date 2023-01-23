@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-02T04:46:05.000Z",
-  "updatedAt": "2021-12-03T20:06:26.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:56:00.000Z",
+  "checkedAt": "2023-01-23T04:21:29.000Z",
   "id": 92250,
   "identifier": "15c5152b-5d29-4ba6-b9a7-33f4815a5e92",
   "type": "manga",
@@ -12,15 +12,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": 2,
+  "actorId": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141849,
   "deletedAt": null,
   "authors": [
-    "윤준",
-    "Kang Taesan",
+    "Yun Jun (윤준)",
+    "강태산",
     "주니"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:43:15.381Z",
+    "updatedAt": "2023-01-22T22:09:28.000Z",
+    "checkedAt": "2023-01-22T22:09:28.000Z",
+    "id": 141849,
+    "type": "manga",
+    "title": "Anhamuin",
+    "altTitle": [
+      "High and Mighty",
+      "안하무인"
+    ],
+    "url": "https://anilist.co/manga/141849",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141849-Z9OwOOA2lkPa.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Jun Yoon",
+      "Ju-Ni",
+      "Tae-San Kang"
+    ]
+  }
 }

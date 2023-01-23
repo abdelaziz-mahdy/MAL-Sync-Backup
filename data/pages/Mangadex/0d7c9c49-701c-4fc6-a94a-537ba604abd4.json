@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-04T21:34:49.000Z",
-  "updatedAt": "2022-05-04T22:00:46.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T03:00:14.000Z",
+  "checkedAt": "2023-01-23T02:41:11.000Z",
   "id": 90235,
   "identifier": "0d7c9c49-701c-4fc6-a94a-537ba604abd4",
   "type": "manga",
@@ -11,15 +11,37 @@
   "image": "https://uploads.mangadex.org/covers/0d7c9c49-701c-4fc6-a94a-537ba604abd4/3e8abf4b-29fb-46e5-9f5a-3e585dd87fd1.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actorId": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 146023,
   "deletedAt": null,
   "authors": [
     "Jeong Shira",
     "Hongsi"
   ],
   "Mal": null,
-  "Ani": null
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:49.216Z",
+    "updatedAt": "2022-09-21T23:19:41.000Z",
+    "checkedAt": "2022-09-21T23:19:41.000Z",
+    "id": 146023,
+    "type": "manga",
+    "title": "Coppelia-ui Gwan",
+    "altTitle": [
+      "코펠리아의 관",
+      "Coppelia's Coffin"
+    ],
+    "url": "https://anilist.co/manga/146023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146023-yi2TpF0lLWeT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": null,
+    "deletedAt": null,
+    "authors": [
+      "Shi-Ra Jeong",
+      "Hong-Si"
+    ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-03-12T01:30:31.000Z",
-  "updatedAt": "2022-03-12T01:30:31.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:37:01.000Z",
+  "checkedAt": "2023-01-23T09:26:34.000Z",
   "id": 98480,
   "identifier": "625311bf-3d33-411a-8a0a-40e9a92f0bff",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146586,
+  "aniId": 147767,
   "deletedAt": null,
   "authors": [
     "Igari Peko"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-11-30T02:30:01.850Z",
+    "updatedAt": "2022-11-30T02:30:01.850Z",
+    "checkedAt": "2022-11-30T02:30:01.000Z",
+    "id": 146586,
+    "type": "manga",
+    "title": "Yuutousei wa Unmei no Akaiito ni Sakaraitai",
+    "altTitle": [
+      "The Honor Student Wants to Go Against the Red Thread of Fate",
+      "優等生は運命の赤い糸に逆らいたい"
+    ],
+    "url": "https://myanimelist.net/manga/146586/Yuutousei_wa_Unmei_no_Akaiito_ni_Sakaraitai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/260619.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Igari, Peko"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:46:06.314Z",
+    "updatedAt": "2023-01-23T14:38:49.000Z",
+    "checkedAt": "2023-01-23T14:38:49.000Z",
+    "id": 147767,
+    "type": "manga",
+    "title": "Yuutousei wa Unmei no Akai Ito Ni Sakaraitai",
+    "altTitle": [
+      "優等生は運命の赤い糸に逆らいたい",
+      "The honor student wants to go against the red thread of fate"
+    ],
+    "url": "https://anilist.co/manga/147767",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx147767-CMxBFYidbJ9E.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146586,
+    "deletedAt": null,
+    "authors": [
+      "Peco Igari"
+    ]
+  }
 }

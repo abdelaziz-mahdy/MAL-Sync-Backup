@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-23T05:30:23.000Z",
-  "updatedAt": "2022-01-23T05:30:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:56:50.000Z",
+  "checkedAt": "2023-01-23T07:32:02.000Z",
   "id": 95203,
   "identifier": "41f12275-328b-4275-9172-02ce9e771a57",
   "type": "manga",
@@ -12,13 +12,55 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 103896,
+  "aniId": 126020,
   "deletedAt": null,
   "authors": [
-    "Len[a-7]"
+    "LEN[A-7]"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-23T05:30:33.000Z",
+    "updatedAt": "2023-01-23T08:56:48.000Z",
+    "checkedAt": "2023-01-23T08:56:48.000Z",
+    "id": 103896,
+    "type": "manga",
+    "title": "Mondaiji Uehara",
+    "altTitle": [
+      "Problem Child Uehara",
+      "もんだいじ上原"
+    ],
+    "url": "https://myanimelist.net/manga/103896/Mondaiji_Uehara",
+    "image": "https://cdn.myanimelist.net/images/manga/3/190227.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "LENA[A-7]"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-23T07:32:02.163Z",
+    "updatedAt": "2023-01-23T07:32:02.163Z",
+    "checkedAt": "2023-01-23T07:32:02.000Z",
+    "id": 126020,
+    "type": "manga",
+    "title": "Mondaiji Uehara",
+    "altTitle": [
+      "もんだいじ上原",
+      "Problem Child Uehara"
+    ],
+    "url": "https://anilist.co/manga/126020",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b126020-1zmbDi8LMSH7.jpg",
+    "category": "manga",
+    "hentai": true,
+    "externalLinks": [],
+    "malId": 103896,
+    "deletedAt": null,
+    "authors": [
+      "LEN[A-7]"
+    ]
+  }
 }

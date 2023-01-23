@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-30T00:35:34.000Z",
-  "updatedAt": "2021-11-30T00:35:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:47.000Z",
+  "checkedAt": "2023-01-23T04:12:47.000Z",
   "id": 92030,
   "identifier": "194148e0-c888-47b9-b560-2b35fe013ab9",
   "type": "manga",
@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 125814,
+  "aniId": 104666,
   "deletedAt": null,
   "authors": [
-    "ごぼう"
+    "Gobou"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2021-11-29T18:36:06.000Z",
+    "updatedAt": "2023-01-23T04:12:47.000Z",
+    "checkedAt": "2023-01-23T04:12:47.000Z",
+    "id": 125814,
+    "type": "manga",
+    "title": "Miwaku no Makazoku",
+    "altTitle": [
+      "みわくの魔かぞく"
+    ],
+    "url": "https://myanimelist.net/manga/125814/Miwaku_no_Makazoku",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235545.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Gobou"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2023-01-23T04:12:47.597Z",
+    "updatedAt": "2023-01-23T04:12:47.597Z",
+    "checkedAt": "2023-01-23T04:12:47.000Z",
+    "id": 104666,
+    "type": "manga",
+    "title": "Miwaku no Makazoku",
+    "altTitle": [
+      "みわくの魔かぞく",
+      "魅惑魔族"
+    ],
+    "url": "https://anilist.co/manga/104666",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104666-46eJuQNZTpOW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 125814,
+    "deletedAt": null,
+    "authors": [
+      "Gobou"
+    ]
+  }
 }

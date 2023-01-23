@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-11-29T02:05:33.000Z",
-  "updatedAt": "2021-11-29T02:05:33.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:54:40.000Z",
+  "checkedAt": "2023-01-23T04:11:39.000Z",
   "id": 91913,
   "identifier": "904adb96-19df-4f3e-91db-a3dc10d98663",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 146529,
+  "aniId": 143106,
   "deletedAt": null,
   "authors": [
     "Mokumoku Ren"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T04:11:39.239Z",
+    "updatedAt": "2023-01-23T04:11:39.239Z",
+    "checkedAt": "2023-01-23T04:11:39.000Z",
+    "id": 146529,
+    "type": "manga",
+    "title": "Period",
+    "altTitle": [
+      "ピリオド"
+    ],
+    "url": "https://myanimelist.net/manga/146529/Period",
+    "image": "https://cdn.myanimelist.net/images/manga/1/259189.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Mokumoku, Ren"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:29.900Z",
+    "updatedAt": "2023-01-23T04:11:39.000Z",
+    "checkedAt": "2023-01-23T04:11:39.000Z",
+    "id": 143106,
+    "type": "manga",
+    "title": "Period",
+    "altTitle": [
+      "ピリオド "
+    ],
+    "url": "https://anilist.co/manga/143106",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143106-waKiXkebFgTd.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 146529,
+    "deletedAt": null,
+    "authors": [
+      "Mokmok Len"
+    ]
+  }
 }

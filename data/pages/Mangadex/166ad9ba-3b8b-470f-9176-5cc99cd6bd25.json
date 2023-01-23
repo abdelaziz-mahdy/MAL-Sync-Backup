@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-05-09T12:01:34.000Z",
-  "updatedAt": "2022-05-09T12:01:34.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T12:20:00.000Z",
+  "checkedAt": "2023-01-23T11:22:12.000Z",
   "id": 103471,
   "identifier": "166ad9ba-3b8b-470f-9176-5cc99cd6bd25",
   "type": "manga",
@@ -12,13 +12,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 116481,
+  "aniId": 140151,
   "deletedAt": null,
   "authors": [
     "Kuro Se"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2022-01-01T00:55:02.000Z",
+    "updatedAt": "2023-01-23T11:22:12.000Z",
+    "checkedAt": "2023-01-23T11:22:12.000Z",
+    "id": 116481,
+    "type": "manga",
+    "title": "Kataomoi Shrink",
+    "altTitle": [
+      "片想いシュリンク"
+    ],
+    "url": "https://myanimelist.net/manga/116481/Kataomoi_Shrink",
+    "image": "https://cdn.myanimelist.net/images/manga/1/222070.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comico.jp/articleList.nhn?titleNo=26110"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Kurose"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:13.905Z",
+    "updatedAt": "2022-05-21T21:37:01.000Z",
+    "checkedAt": "2022-05-21T21:37:01.000Z",
+    "id": 140151,
+    "type": "manga",
+    "title": "Kataomoi Shrink",
+    "altTitle": [
+      "片想いシュリンク"
+    ],
+    "url": "https://anilist.co/manga/140151",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140151-1j2IamLShgRf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 116481,
+    "deletedAt": null,
+    "authors": [
+      "Kurose"
+    ]
+  }
 }

@@ -1,24 +1,65 @@
 {
   "createdAt": "2022-01-16T00:12:07.000Z",
-  "updatedAt": "2022-01-16T00:12:07.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:16.000Z",
+  "checkedAt": "2023-01-23T07:02:01.000Z",
   "id": 94737,
   "identifier": "06a93a73-25fc-4f3f-a09f-74fa307333df",
   "type": "manga",
   "page": "Mangadex",
   "title": "Haru Kakete, Uguisu",
   "url": "https://mangadex.org/title/06a93a73-25fc-4f3f-a09f-74fa307333df",
-  "image": "https://uploads.mangadex.org/covers/06a93a73-25fc-4f3f-a09f-74fa307333df/487a9747-ab75-47c4-ad06-6ddb8ce37ddc.jpg",
+  "image": "https://uploads.mangadex.org/covers/06a93a73-25fc-4f3f-a09f-74fa307333df/0d3b3443-0f80-4ce3-9014-4589d8ca8ad8.png",
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142009,
+  "aniId": 145378,
   "deletedAt": null,
   "authors": [
     "Nago Nayuta"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T08:55:14.959Z",
+    "updatedAt": "2023-01-23T08:55:14.959Z",
+    "checkedAt": "2023-01-23T08:55:14.000Z",
+    "id": 142009,
+    "type": "manga",
+    "title": "Haru Kakete, Uguisu",
+    "altTitle": [
+      "春懸けて、鶯"
+    ],
+    "url": "https://myanimelist.net/manga/142009/Haru_Kakete_Uguisu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/255857.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Nago, Nayuta"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:03:59.846Z",
+    "updatedAt": "2023-01-23T07:02:01.000Z",
+    "checkedAt": "2023-01-23T07:02:01.000Z",
+    "id": 145378,
+    "type": "manga",
+    "title": "Haru Kakete, Uguisu",
+    "altTitle": [
+      "Warbler, Sing of Spring",
+      "春懸けて、鶯"
+    ],
+    "url": "https://anilist.co/manga/145378",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145378-9BdkHbo2tEZR.png",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142009,
+    "deletedAt": null,
+    "authors": [
+      "Nayuta Nago"
+    ]
+  }
 }

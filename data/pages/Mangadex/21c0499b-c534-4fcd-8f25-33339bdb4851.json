@@ -1,7 +1,7 @@
 {
   "createdAt": "2021-12-20T07:48:41.000Z",
-  "updatedAt": "2021-12-20T14:05:16.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T05:38:43.000Z",
   "id": 93413,
   "identifier": "21c0499b-c534-4fcd-8f25-33339bdb4851",
   "type": "manga",
@@ -13,12 +13,54 @@
   "sticky": false,
   "active": true,
   "actorId": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 143513,
+  "aniId": 137458,
   "deletedAt": null,
   "authors": [
     "Momoi Ito"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T05:38:43.629Z",
+    "updatedAt": "2023-01-23T05:38:43.629Z",
+    "checkedAt": "2023-01-23T05:38:43.000Z",
+    "id": 143513,
+    "type": "manga",
+    "title": "Koori no Kimi wo Tokasu made",
+    "altTitle": [
+      "Until I Melt You",
+      "氷のキミを溶かすまで"
+    ],
+    "url": "https://myanimelist.net/manga/143513/Koori_no_Kimi_wo_Tokasu_made",
+    "image": "https://cdn.myanimelist.net/images/manga/1/254818.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Momoi, Ito"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T13:05:23.095Z",
+    "updatedAt": "2022-05-13T13:05:23.095Z",
+    "checkedAt": null,
+    "id": 137458,
+    "type": "manga",
+    "title": "Koori no Kimi wo Tokasu made",
+    "altTitle": [
+      "氷のキミを溶かすまで",
+      "Until I melt you"
+    ],
+    "url": "https://anilist.co/manga/137458",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137458-1gfZnWsXlQX0.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 143513,
+    "deletedAt": null,
+    "authors": [
+      "Ito Momoi"
+    ]
+  }
 }

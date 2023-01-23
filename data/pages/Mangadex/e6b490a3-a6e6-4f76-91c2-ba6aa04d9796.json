@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-14T16:47:44.000Z",
-  "updatedAt": "2022-02-14T16:47:53.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:02:51.000Z",
+  "checkedAt": "2023-01-23T08:50:17.000Z",
   "id": 96250,
   "identifier": "e6b490a3-a6e6-4f76-91c2-ba6aa04d9796",
   "type": "manga",
@@ -9,16 +9,57 @@
   "title": "Hana Saku Bokura no Koi Wazurai",
   "url": "https://mangadex.org/title/e6b490a3-a6e6-4f76-91c2-ba6aa04d9796",
   "image": "https://uploads.mangadex.org/covers/e6b490a3-a6e6-4f76-91c2-ba6aa04d9796/70bd28f2-d7a9-44f7-a4d3-4a9a3c94602a.png",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 144164,
+  "aniId": 145526,
   "deletedAt": null,
   "authors": [
     "Kusonoki Iro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T08:50:17.626Z",
+    "updatedAt": "2023-01-23T08:50:17.626Z",
+    "checkedAt": "2023-01-23T08:50:17.000Z",
+    "id": 144164,
+    "type": "manga",
+    "title": "Hanasaku Bokura no Koiwazurai",
+    "altTitle": [
+      "花咲く僕らの恋わずらい"
+    ],
+    "url": "https://myanimelist.net/manga/144164/Hanasaku_Bokura_no_Koiwazurai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/255917.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Iro, Kusunoki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:54:08.470Z",
+    "updatedAt": "2023-01-23T08:50:17.000Z",
+    "checkedAt": "2023-01-23T08:50:17.000Z",
+    "id": 145526,
+    "type": "manga",
+    "title": "Hanasaku Bokura no Koiwazurai",
+    "altTitle": [
+      "花咲く僕らの恋わずらい",
+      "Hana Saku Bokura no Koi Wazurai"
+    ],
+    "url": "https://anilist.co/manga/145526",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx145526-KP0pNehu91Ci.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 144164,
+    "deletedAt": null,
+    "authors": [
+      "Iro Kusunoki"
+    ]
+  }
 }

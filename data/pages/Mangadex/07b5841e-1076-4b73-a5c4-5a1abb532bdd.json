@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-20T21:03:09.000Z",
-  "updatedAt": "2022-01-20T21:03:16.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:56:04.000Z",
+  "checkedAt": "2023-01-23T07:20:42.000Z",
   "id": 94995,
   "identifier": "07b5841e-1076-4b73-a5c4-5a1abb532bdd",
   "type": "manga",
@@ -12,18 +12,39 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 20982,
   "aniId": 50982,
   "deletedAt": null,
   "authors": [
     "Azuma Hideo"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2022-01-20T21:03:16.000Z",
+    "updatedAt": "2023-01-23T07:20:42.000Z",
+    "checkedAt": "2023-01-23T07:20:42.000Z",
+    "id": 20982,
+    "type": "manga",
+    "title": "Hizashi",
+    "altTitle": [
+      "Sunshine",
+      "陽射し"
+    ],
+    "url": "https://myanimelist.net/manga/20982/Hizashi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/50107.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Azuma, Hideo"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:44:32.282Z",
-    "updatedAt": "2022-05-26T00:29:02.000Z",
-    "checkedAt": "2022-05-26T00:29:02.000Z",
+    "updatedAt": "2023-01-23T07:20:42.000Z",
+    "checkedAt": "2023-01-23T07:20:42.000Z",
     "id": 50982,
     "type": "manga",
     "title": "Hizashi",
@@ -34,7 +55,7 @@
     "url": "https://anilist.co/manga/50982",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20982.jpg",
     "category": "manga",
-    "hentai": false,
+    "hentai": true,
     "externalLinks": [],
     "malId": 20982,
     "deletedAt": null,

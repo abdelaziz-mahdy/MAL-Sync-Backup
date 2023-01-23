@@ -1,24 +1,73 @@
 {
   "createdAt": "2021-12-04T14:48:29.000Z",
-  "updatedAt": "2021-12-04T14:48:29.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T04:30:44.000Z",
   "id": 92409,
   "identifier": "28d177f8-ae0c-4f80-bf49-bca6c69ce09b",
   "type": "manga",
   "page": "Mangadex",
   "title": "Kanashiki Ningyo",
   "url": "https://mangadex.org/title/28d177f8-ae0c-4f80-bf49-bca6c69ce09b",
-  "image": "https://uploads.mangadex.org/covers/28d177f8-ae0c-4f80-bf49-bca6c69ce09b/2a486e7d-9f78-42f6-8b41-c7a78fbfce4f.png",
-  "hentai": false,
+  "image": "https://uploads.mangadex.org/covers/28d177f8-ae0c-4f80-bf49-bca6c69ce09b/ea0463d1-8007-4645-a1ad-256f423b3052.jpg",
+  "hentai": true,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142741,
+  "aniId": 139264,
   "deletedAt": null,
   "authors": [
     "Hijiki"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T04:30:44.389Z",
+    "updatedAt": "2023-01-23T04:30:44.389Z",
+    "checkedAt": "2023-01-23T04:30:44.000Z",
+    "id": 142741,
+    "type": "manga",
+    "title": "Kanashiki Ningyo",
+    "altTitle": [
+      "Itoshiki Ningyo",
+      "Dearest Mermaid",
+      "愛〈かな〉しき人魚"
+    ],
+    "url": "https://myanimelist.net/manga/142741/Kanashiki_Ningyo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253747.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.b-boy.jp/special/kanashikiningyo/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Hijiki"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:40:12.690Z",
+    "updatedAt": "2022-05-13T12:40:12.690Z",
+    "checkedAt": null,
+    "id": 139264,
+    "type": "manga",
+    "title": "Kanashiki Ningyo",
+    "altTitle": [
+      "愛しき人魚",
+      "Dearest Mermaid",
+      "Itoshiki Ningyo"
+    ],
+    "url": "https://anilist.co/manga/139264",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139264-xzVYF6899t1G.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142741,
+    "deletedAt": null,
+    "authors": [
+      "Hijiki"
+    ]
+  }
 }

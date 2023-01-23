@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-02-11T11:39:38.000Z",
-  "updatedAt": "2022-02-11T11:39:38.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:02:47.000Z",
+  "checkedAt": "2023-01-23T08:40:21.000Z",
   "id": 96063,
   "identifier": "b820cab1-87fe-4fcc-8272-4b9e9fb9a788",
   "type": "manga",
@@ -12,18 +12,43 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
+  "actorId": 1,
+  "malId": 154804,
   "aniId": 136813,
   "deletedAt": null,
   "authors": [
-    "Megumi Dorokawa"
+    "Dorokawa Megumi"
   ],
-  "Mal": null,
+  "Mal": {
+    "createdAt": "2023-01-23T08:40:21.664Z",
+    "updatedAt": "2023-01-23T08:40:21.664Z",
+    "checkedAt": "2023-01-23T08:40:21.000Z",
+    "id": 154804,
+    "type": "manga",
+    "title": "Contact x Contact",
+    "altTitle": [
+      "コンタクト×コンタクト"
+    ],
+    "url": "https://myanimelist.net/manga/154804/Contact_x_Contact",
+    "image": "https://cdn.myanimelist.net/images/manga/3/274924.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kuragebunch.com/episode/13933686331737978207"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Dorokawa, Megumi"
+    ]
+  },
   "Ani": {
     "createdAt": "2022-05-13T12:53:20.307Z",
-    "updatedAt": "2022-07-06T10:49:00.000Z",
-    "checkedAt": "2022-07-06T10:49:00.000Z",
+    "updatedAt": "2023-01-23T08:40:21.000Z",
+    "checkedAt": "2023-01-23T08:40:21.000Z",
     "id": 136813,
     "type": "manga",
     "title": "Contact x Contact",
@@ -35,7 +60,7 @@
     "category": "one_shot",
     "hentai": false,
     "externalLinks": [],
-    "malId": null,
+    "malId": 154804,
     "deletedAt": null,
     "authors": [
       "Megumi Dorokawa"

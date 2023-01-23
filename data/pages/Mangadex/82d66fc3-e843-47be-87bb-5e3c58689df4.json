@@ -1,24 +1,71 @@
 {
   "createdAt": "2021-12-06T08:48:31.000Z",
-  "updatedAt": "2021-12-06T08:48:32.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T08:55:34.000Z",
+  "checkedAt": "2023-01-23T04:42:10.000Z",
   "id": 92569,
   "identifier": "82d66fc3-e843-47be-87bb-5e3c58689df4",
   "type": "manga",
   "page": "Mangadex",
-  "title": "If I Were A Dictator",
+  "title": "If I Were a Dictator",
   "url": "https://mangadex.org/title/82d66fc3-e843-47be-87bb-5e3c58689df4",
   "image": "https://uploads.mangadex.org/covers/82d66fc3-e843-47be-87bb-5e3c58689df4/f3d36bc1-6c63-487e-b30c-89b4532197ec.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 142522,
+  "aniId": 135526,
   "deletedAt": null,
   "authors": [
     "Matsumoto Jiro"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T04:42:10.300Z",
+    "updatedAt": "2023-01-23T04:42:10.300Z",
+    "checkedAt": "2023-01-23T04:42:10.000Z",
+    "id": 142522,
+    "type": "manga",
+    "title": "Moshi Watashi ga Dokusaisha Datta nara",
+    "altTitle": [
+      "If I Were a Dictator",
+      "もし私が独裁者だったなら"
+    ],
+    "url": "https://myanimelist.net/manga/142522/Moshi_Watashi_ga_Dokusaisha_Datta_nara",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253344.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kuragebunch.com/episode/10834108156630717396"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Matsumoto, Jiro"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:52:43.442Z",
+    "updatedAt": "2023-01-23T04:42:10.000Z",
+    "checkedAt": "2023-01-23T04:42:10.000Z",
+    "id": 135526,
+    "type": "manga",
+    "title": "Moshi Watashi ga Dokusaisha datta nara",
+    "altTitle": [
+      "もし私が独裁者だったなら",
+      "If I Were a Dictator"
+    ],
+    "url": "https://anilist.co/manga/135526",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135526-3JAEGSlWZKXn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 142522,
+    "deletedAt": null,
+    "authors": [
+      "Jiro Matsumoto"
+    ]
+  }
 }

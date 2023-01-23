@@ -1,7 +1,7 @@
 {
   "createdAt": "2022-01-01T00:24:01.000Z",
-  "updatedAt": "2022-01-01T00:24:01.000Z",
-  "checkedAt": null,
+  "updatedAt": "2023-01-23T09:20:00.000Z",
+  "checkedAt": "2023-01-23T06:21:43.000Z",
   "id": 94023,
   "identifier": "07328e04-b3fe-4f4c-8875-60d87b578b43",
   "type": "manga",
@@ -12,14 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actorId": null,
-  "malId": null,
-  "aniId": null,
+  "actorId": 1,
+  "malId": 113168,
+  "aniId": 111956,
   "deletedAt": null,
   "authors": [
     "Koyama Rikiya",
     "Nagano Rika"
   ],
-  "Mal": null,
-  "Ani": null
+  "Mal": {
+    "createdAt": "2023-01-23T06:21:43.616Z",
+    "updatedAt": "2023-01-23T06:21:43.616Z",
+    "checkedAt": "2023-01-23T06:21:43.000Z",
+    "id": 113168,
+    "type": "manga",
+    "title": "Kuu ga Ue kara Shitsurei Shimasu",
+    "altTitle": [
+      "くぅが上から失礼します"
+    ],
+    "url": "https://myanimelist.net/manga/113168/Kuu_ga_Ue_kara_Shitsurei_Shimasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222149.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "externalLinks": [],
+    "legalLinks": [],
+    "deletedAt": null,
+    "authors": [
+      "Koyama, Rikiya",
+      "Nagano, Rika"
+    ]
+  },
+  "Ani": {
+    "createdAt": "2022-05-13T12:50:34.716Z",
+    "updatedAt": "2022-05-13T12:50:34.716Z",
+    "checkedAt": null,
+    "id": 111956,
+    "type": "manga",
+    "title": "Kuu ga Ue kara Shitsurei Shimasu",
+    "altTitle": [
+      "くぅが上から失礼します"
+    ],
+    "url": "https://anilist.co/manga/111956",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111956-dJbcf7Ew1xIo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 113168,
+    "deletedAt": null,
+    "authors": [
+      "Rikiya Koyama",
+      "Rika Nagano"
+    ]
+  }
 }
